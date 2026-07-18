@@ -501,7 +501,7 @@ image: /assets/images/Myths_and_misconcept_0d48d7_familiar_claims_beli_a7d535-ov
 
 ## Introduction
 
-Familiar claims often feel more believable because the mind can mistake ease for evidence. When a statement has been heard before, it is usually quicker to recognise, easier to read, and less effortful to process. That smooth feeling is called processing [fluency]({{ 'fluency/' | relative_url }}), and people often treat it as a weak signal that a claim is true. This is why everyday myths can survive long after evidence has failed them: [repetition]({{ 'repetition/' | relative_url }}) gives them a comfortable mental ring before scrutiny begins. The effect is known as the illusory truth effect, first shown in classic psychology experiments where repeated statements received higher truth ratings than new ones, even when the repeated statements were false. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S0022537177800121" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Familiar claims often feel more believable because the mind can mistake ease for evidence. When a statement has been heard before, it is usually quicker to recognise, easier to read, and less effortful to process. That smooth feeling is called processing [fluency]({{ 'fluency/' | relative_url }}), and people often treat it as a weak signal that a claim is true. This is why everyday myths can survive long after evidence has failed them: [repetition]({{ 'repetition/' | relative_url }}) gives them a comfortable mental ring before scrutiny begins. The effect is known as the illusory truth effect, first shown in classic psychology experiments where repeated statements received higher truth ratings than new ones, even when the repeated statements were false.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S0022537177800121" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_familiar_claims_beli_a7d535-overview.webp" | relative_url }}" alt="Overview image for Familiarity" loading="eager" decoding="sync" fetchpriority="high">
 This does not mean people are foolish, or that repetition always defeats knowledge. It means that truth judgements are partly shaped by speed, familiarity and attention. A myth that is easy to recall can feel safer than a [correction]({{ 'correction/' | relative_url }}) that is more accurate but harder to process.
@@ -512,22 +512,22 @@ This does not mean people are foolish, or that repetition always defeats knowled
 
 The simplest way to understand the mechanism is this: repetition makes a claim easier for the brain to handle, and ease can be misread as credibility. If a person hears sugar makes children hyperactive at parties, in parenting forums and in casual conversation, the claim becomes familiar before they ever examine the evidence. Later, when they meet it again, it arrives with a small feeling of recognition. That feeling is not proof, but it can nudge judgement.
 
-The original illusory truth studies used plausible trivia-style statements. Participants rated repeated claims as more valid than unrepeated claims, while ratings for new statements did not rise in the same way. Later research extended the finding beyond trivia, showing that repeated information is often judged more truthful because it is processed more fluently. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S0022537177800121" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The original illusory truth studies used plausible trivia-style statements. Participants rated repeated claims as more valid than unrepeated claims, while ratings for new statements did not rise in the same way. Later research extended the finding beyond trivia, showing that repeated information is often judged more truthful because it is processed more fluently.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S0022537177800121" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 This matters for myths and misconceptions because many of them are not absurd on first hearing. They are usually simple, memorable and emotionally tidy. We only use 10 per cent of our brain works as a myth because it compresses hope, mystery and self-improvement into one short sentence. Cracking your knuckles causes arthritis works because it links a vivid sound to a feared bodily outcome. Familiarity does not create these myths from nothing, but it helps them feel settled.
 
-Research also suggests that prior knowledge is not a perfect shield. In a widely cited study, participants sometimes gave higher truth ratings to repeated falsehoods even when they knew the correct answer. The point is not that knowledge disappears, but that familiarity can influence quick judgement before people retrieve and apply what they know. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.apa.org/pubs/journals/features/xge-0000098.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apa.org">[American Psychological Association]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apa.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Research also suggests that prior knowledge is not a perfect shield. In a widely cited study, participants sometimes gave higher truth ratings to repeated falsehoods even when they knew the correct answer. The point is not that knowledge disappears, but that familiarity can influence quick judgement before people retrieve and apply what they know.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.apa.org/pubs/journals/features/xge-0000098.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apa.org">[American Psychological Association]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apa.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_familiar_claims_beli_a7d535-Illustration-1-dark.svg" | relative_url }}" alt="Familiarity illustration 1" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_familiar_claims_beli_a7d535-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_familiar_claims_beli_a7d535-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## When repetition helps myths travel
 
 Repetition is especially powerful when a claim travels through many different surfaces. A myth may appear as a headline, a meme, a family saying, a classroom aside, a product label, a podcast comment and a social media post. Each encounter may be weak on its own, but together they create the impression that everyone knows the claim.
 
-This is one reason misinformation can spread without every sharer being strongly committed to it. In experiments using real fake-news [headlines]({{ 'headlines/' | relative_url }}), even a single prior exposure increased later perceived accuracy, both shortly afterwards and after a delay. That finding is important because online environments often expose people to headlines in passing, without requiring them to read or endorse the full story. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9082967/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCNudging Social Media toward Accuracy</span><span class="citation-popover-snippet">PMCNudging Social Media toward Accuracy</span></span></span>
+This is one reason misinformation can spread without every sharer being strongly committed to it. In experiments using real fake-news [headlines]({{ 'headlines/' | relative_url }}), even a single prior exposure increased later perceived accuracy, both shortly afterwards and after a delay. That finding is important because online environments often expose people to headlines in passing, without requiring them to read or endorse the full story.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9082967/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCNudging Social Media toward Accuracy</span><span class="citation-popover-snippet">PMCNudging Social Media toward Accuracy</span></span></span>
 
-Repetition can also affect sharing. A 2023 study found that people were more likely to share statements they had previously encountered, and that this relationship was explained by perceived accuracy: repeated misinformation felt more accurate, which made it more shareable. The effect appeared in both health and general-knowledge contexts, suggesting that it is not confined to one topic area. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9082967/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCNudging Social Media toward Accuracy</span><span class="citation-popover-snippet">PMCNudging Social Media toward Accuracy</span></span></span>
+Repetition can also affect sharing. A 2023 study found that people were more likely to share statements they had previously encountered, and that this relationship was explained by perceived accuracy: repeated misinformation felt more accurate, which made it more shareable. The effect appeared in both health and general-knowledge contexts, suggesting that it is not confined to one topic area.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9082967/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCNudging Social Media toward Accuracy</span><span class="citation-popover-snippet">PMCNudging Social Media toward Accuracy</span></span></span>
 
-A concrete example comes from climate misinformation. A 2024 PLOS ONE study tested repeated climate-related claims and found that repetition increased truth ratings for both climate-science-aligned and climate-sceptical statements, including among people who broadly accepted climate science. The lesson is not that one exposure converts a persons worldview. It is that repetition can blur the felt difference between I have heard this before and this has been established. <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0307294" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.plos.org">[PLOS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.plos.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+A concrete example comes from climate misinformation. A 2024 PLOS ONE study tested repeated climate-related claims and found that repetition increased truth ratings for both climate-science-aligned and climate-sceptical statements, including among people who broadly accepted climate science. The lesson is not that one exposure converts a persons worldview. It is that repetition can blur the felt difference between I have heard this before and this has been established.<span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0307294" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.plos.org">[PLOS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.plos.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 Several features make familiar myths particularly mobile:
 
@@ -549,9 +549,9 @@ Familiarity is useful in ordinary life. Most of what people encounter is not del
 
 Psychologists sometimes describe this as a heuristic: a mental rule of thumb. The rule is not irrational in every setting. If many independent, reliable sources repeat the same claim, repetition may coincide with truth. But myths exploit the same feeling without the same evidential base. A slogan repeated by copied posts, low-quality articles and casual conversation can feel like consensus even when it is only circulation.
 
-This distinction helps explain why [corrections]({{ 'corrections/' | relative_url }}) often need more than a bare denial. That is false may be accurate, but it can leave the familiar claim intact and offer no memorable replacement. Better corrections make the true explanation fluent too: they state the fact clearly, explain the trap, and give the reader a more usable mental model. The [Debunking]({{ 'debunking/' | relative_url }}) Handbook argues that effective corrections should focus on the correct information, warn when a myth is about to be mentioned, and provide an alternative explanation rather than simply repeating the falsehood. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.climatechangecommunication.org/wp-content/uploads/2023/09/DebunkingHandbook2020.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: climatechangecommunication.org">[Center for Climate Change Communication]</a><span class="citation-popover" role="note"><span class="citation-popover-source">climatechangecommunication.org</span><span class="citation-popover-title">Center for Climate Change Communication Debunking Handbook</span><span class="citation-popover-snippet">Center for Climate Change Communication Debunking Handbook</span></span></span>
+This distinction helps explain why [corrections]({{ 'corrections/' | relative_url }}) often need more than a bare denial. That is false may be accurate, but it can leave the familiar claim intact and offer no memorable replacement. Better corrections make the true explanation fluent too: they state the fact clearly, explain the trap, and give the reader a more usable mental model. The [Debunking]({{ 'debunking/' | relative_url }}) Handbook argues that effective corrections should focus on the correct information, warn when a myth is about to be mentioned, and provide an alternative explanation rather than simply repeating the falsehood.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.climatechangecommunication.org/wp-content/uploads/2023/09/DebunkingHandbook2020.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: climatechangecommunication.org">[Center for Climate Change Communication]</a><span class="citation-popover" role="note"><span class="citation-popover-source">climatechangecommunication.org</span><span class="citation-popover-title">Center for Climate Change Communication Debunking Handbook</span><span class="citation-popover-snippet">Center for Climate Change Communication Debunking Handbook</span></span></span>
 
-There is also a useful caution here. Communicators sometimes worry that any correction will backfire by making the myth more familiar. The evidence is more reassuring than that simple fear suggests. Research on corrections finds that familiarity backfire effects are not robust in the way early discussions implied, and that clear corrections generally help rather than make false beliefs worse. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9082967/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCNudging Social Media toward Accuracy</span><span class="citation-popover-snippet">PMCNudging Social Media toward Accuracy</span></span></span>
+There is also a useful caution here. Communicators sometimes worry that any correction will backfire by making the myth more familiar. The evidence is more reassuring than that simple fear suggests. Research on corrections finds that familiarity backfire effects are not robust in the way early discussions implied, and that clear corrections generally help rather than make false beliefs worse.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9082967/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCNudging Social Media toward Accuracy</span><span class="citation-popover-snippet">PMCNudging Social Media toward Accuracy</span></span></span>
 
 The practical takeaway is not never repeat a myth. It is do not make the myth the most fluent thing on the page. A correction should make the accurate version easier to remember than the false one.
 
@@ -560,7 +560,7 @@ The practical takeaway is not never repeat a myth. It is do not make the myth th
 
 The first defence against familiar falsehoods is a small pause. The question is not only Have I heard this before? but Where would I know this from? That extra step matters because familiarity often arrives without a source tag. People remember the claim more easily than the path by which it reached them.
 
-Accuracy prompts can help. In research on misinformation sharing, shifting peoples attention towards accuracy improved the quality of news they later shared. This supports a simple idea: people do not always share falsehoods because they prefer falsehoods. Often, their attention is on novelty, identity, humour, outrage or social connection rather than truth. A timely reminder to think about accuracy can interrupt that automatic flow. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41586-021-03344-2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Open source on nature.com.</span></span></span>
+Accuracy prompts can help. In research on misinformation sharing, shifting peoples attention towards accuracy improved the quality of news they later shared. This supports a simple idea: people do not always share falsehoods because they prefer falsehoods. Often, their attention is on novelty, identity, humour, outrage or social connection rather than truth. A timely reminder to think about accuracy can interrupt that automatic flow.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41586-021-03344-2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Open source on nature.com.</span></span></span>
 
 For readers, the useful habit is to separate recognition from verification:
 
@@ -587,194 +587,194 @@ The danger is subtle. Familiarity rarely announces itself as bias. It feels like
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_familiar_claims_beli_a7d535-Illustration-3-dark.svg" | relative_url }}" alt="Familiarity illustration 3" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_familiar_claims_beli_a7d535-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_familiar_claims_beli_a7d535-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Repetition Makes Claims Feel True. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Repetition Makes Claims Feel True. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YGPzXWanppcC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
-        </h4>
-        <p class="fr-book-author">By Daniel Kahneman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YGPzXWanppcC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
+</h4>
+<p class="fr-book-author">By Daniel Kahneman</p>
         
-        <p class="fr-book-desc">Explains cognitive shortcuts, familiarity effects and truth judgments.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains cognitive shortcuts, familiarity effects and truth judgments.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Calling Bullshit on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Plu9DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Calling Bullshit" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Calling Bullshit">Calling Bullshit</a>
-        </h4>
-        <p class="fr-book-author">By Carl T. Bergstrom, Jevin D. West</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Calling Bullshit on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Plu9DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Calling Bullshit" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Calling Bullshit">Calling Bullshit</a>
+</h4>
+<p class="fr-book-author">By Carl T. Bergstrom, Jevin D. West</p>
         
-        <p class="fr-book-desc">Focuses on evaluating claims rather than trusting familiarity.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on evaluating claims rather than trusting familiarity.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Factfulness on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=rxg0tgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Factfulness" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Factfulness">Factfulness</a>
-        </h4>
-        <p class="fr-book-author">By Hans Rosling, Ola Rosling et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Factfulness on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=rxg0tgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Factfulness" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Factfulness">Factfulness</a>
+</h4>
+<p class="fr-book-author">By Hans Rosling, Ola Rosling et al.</p>
         
-        <p class="fr-book-desc">Shows how intuitive impressions can diverge from evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows how intuitive impressions can diverge from evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+undoing+project+Michael+Lewis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The undoing project on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9595637-M.jpg" alt="Cover for The undoing project" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+undoing+project+Michael+Lewis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The undoing project">The undoing project</a>
-        </h4>
-        <p class="fr-book-author">By Michael Lewis, Dennis Boutsikaris</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+undoing+project+Michael+Lewis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The undoing project on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9595637-M.jpg" alt="Cover for The undoing project" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+undoing+project+Michael+Lewis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The undoing project">The undoing project</a>
+</h4>
+<p class="fr-book-author">By Michael Lewis, Dennis Boutsikaris</p>
         
-        <p class="fr-book-desc">First published 2016. Subjects: Neurosciences, PSYCHOLOGY / Cognitive Psychology &amp; Cognition, Statistical decision, Cognitive neuroscienc...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+undoing+project+Michael+Lewis&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2016. Subjects: Neurosciences, PSYCHOLOGY / Cognitive Psychology &amp; Cognition, Statistical decision, Cognitive neuroscienc...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+undoing+project+Michael+Lewis&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Calling+Bullshit&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Calling Bullshit</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Factfulness&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Factfulness</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Calling+Bullshit&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Calling Bullshit</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Factfulness&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Factfulness</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=education+classroom+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=familiarity-why-repetition-makes-claims-feel-true-myths-and-misconcept-education-classroom-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="education classroom poster" data-ebay-reference="familiarity-why-repetition-makes-claims-feel-true-myths-and-misconcept-education-classroom-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Teacher Educational Poster Set Of 6 Classroom English Fun LAMINATED 30cm X 42cm"><img src="{{ '/assets/images/marketplace-covers/fd818066b7b03cbe56f7.jpg' | relative_url }}" alt="Listing image for Teacher Educational Poster Set Of 6 Classroom English Fun LAMINATED 30cm X 42cm" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=education+classroom+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=familiarity-why-repetition-makes-claims-feel-true-myths-and-misconcept-education-classroom-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="education classroom poster" data-ebay-reference="familiarity-why-repetition-makes-claims-feel-true-myths-and-misconcept-education-classroom-poster" target="_blank" rel="sponsored noopener noreferrer">Teacher Educational Poster Set Of 6 Classroom English Fun LAMINATED 30cm X 42cm</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=education+classroom+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=familiarity-why-repetition-makes-claims-feel-true-myths-and-misconcept-education-classroom-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="education classroom poster" data-ebay-reference="familiarity-why-repetition-makes-claims-feel-true-myths-and-misconcept-education-classroom-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for education classroom poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: education classroom poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=education+classroom+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=familiarity-why-repetition-makes-claims-feel-true-myths-and-misconcept-education-classroom-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="education classroom poster" data-ebay-reference="familiarity-why-repetition-makes-claims-feel-true-myths-and-misconcept-education-classroom-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=education+classroom+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=familiarity-why-repetition-makes-claims-feel-true-myths-and-misconcept-education-classroom-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="education classroom poster" data-ebay-reference="familiarity-why-repetition-makes-claims-feel-true-myths-and-misconcept-education-classroom-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Teacher Educational Poster Set Of 6 Classroom English Fun LAMINATED 30cm X 42cm"><img src="{{ '/assets/images/marketplace-covers/fd818066b7b03cbe56f7.jpg' | relative_url }}" alt="Listing image for Teacher Educational Poster Set Of 6 Classroom English Fun LAMINATED 30cm X 42cm" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=education+classroom+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=familiarity-why-repetition-makes-claims-feel-true-myths-and-misconcept-education-classroom-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="education classroom poster" data-ebay-reference="familiarity-why-repetition-makes-claims-feel-true-myths-and-misconcept-education-classroom-poster" target="_blank" rel="sponsored noopener noreferrer">Teacher Educational Poster Set Of 6 Classroom English Fun LAMINATED 30cm X 42cm</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=education+classroom+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=familiarity-why-repetition-makes-claims-feel-true-myths-and-misconcept-education-classroom-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="education classroom poster" data-ebay-reference="familiarity-why-repetition-makes-claims-feel-true-myths-and-misconcept-education-classroom-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for education classroom poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: education classroom poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=education+classroom+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=familiarity-why-repetition-makes-claims-feel-true-myths-and-misconcept-education-classroom-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="education classroom poster" data-ebay-reference="familiarity-why-repetition-makes-claims-feel-true-myths-and-misconcept-education-classroom-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=education+classroom+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=familiarity-why-repetition-makes-claims-feel-true-myths-and-misconcept-education-classroom-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="education classroom poster" data-ebay-reference="familiarity-why-repetition-makes-claims-feel-true-myths-and-misconcept-education-classroom-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Math Posters 4 Pieces Chart Educational Arithmetic Table Math Classroom"><img src="{{ '/assets/images/marketplace-covers/644464d39ed53256f71c.jpg' | relative_url }}" alt="Listing image for Math Posters 4 Pieces Chart Educational Arithmetic Table Math Classroom" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=education+classroom+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=familiarity-why-repetition-makes-claims-feel-true-myths-and-misconcept-education-classroom-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="education classroom poster" data-ebay-reference="familiarity-why-repetition-makes-claims-feel-true-myths-and-misconcept-education-classroom-poster" target="_blank" rel="sponsored noopener noreferrer">Math Posters 4 Pieces Chart Educational Arithmetic Table Math Classroom</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=education+classroom+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=familiarity-why-repetition-makes-claims-feel-true-myths-and-misconcept-education-classroom-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="education classroom poster" data-ebay-reference="familiarity-why-repetition-makes-claims-feel-true-myths-and-misconcept-education-classroom-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for education classroom poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: education classroom poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=education+classroom+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=familiarity-why-repetition-makes-claims-feel-true-myths-and-misconcept-education-classroom-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="education classroom poster" data-ebay-reference="familiarity-why-repetition-makes-claims-feel-true-myths-and-misconcept-education-classroom-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=education+classroom+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=familiarity-why-repetition-makes-claims-feel-true-myths-and-misconcept-education-classroom-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="education classroom poster" data-ebay-reference="familiarity-why-repetition-makes-claims-feel-true-myths-and-misconcept-education-classroom-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Math Posters 4 Pieces Chart Educational Arithmetic Table Math Classroom"><img src="{{ '/assets/images/marketplace-covers/644464d39ed53256f71c.jpg' | relative_url }}" alt="Listing image for Math Posters 4 Pieces Chart Educational Arithmetic Table Math Classroom" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=education+classroom+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=familiarity-why-repetition-makes-claims-feel-true-myths-and-misconcept-education-classroom-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="education classroom poster" data-ebay-reference="familiarity-why-repetition-makes-claims-feel-true-myths-and-misconcept-education-classroom-poster" target="_blank" rel="sponsored noopener noreferrer">Math Posters 4 Pieces Chart Educational Arithmetic Table Math Classroom</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=education+classroom+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=familiarity-why-repetition-makes-claims-feel-true-myths-and-misconcept-education-classroom-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="education classroom poster" data-ebay-reference="familiarity-why-repetition-makes-claims-feel-true-myths-and-misconcept-education-classroom-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for education classroom poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: education classroom poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=education+classroom+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=familiarity-why-repetition-makes-claims-feel-true-myths-and-misconcept-education-classroom-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="education classroom poster" data-ebay-reference="familiarity-why-repetition-makes-claims-feel-true-myths-and-misconcept-education-classroom-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=education+classroom+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=familiarity-why-repetition-makes-claims-feel-true-myths-and-misconcept-education-classroom-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="education classroom poster" data-ebay-reference="familiarity-why-repetition-makes-claims-feel-true-myths-and-misconcept-education-classroom-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Classroom Educational Posters - 20pcs 16 x 11 - Teacher Classroom Must Have..."><img src="{{ '/assets/images/marketplace-covers/e92cf70e662e4f29850a.jpg' | relative_url }}" alt="Listing image for Classroom Educational Posters - 20pcs 16 x 11 - Teacher Classroom Must Have..." loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=education+classroom+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=familiarity-why-repetition-makes-claims-feel-true-myths-and-misconcept-education-classroom-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="education classroom poster" data-ebay-reference="familiarity-why-repetition-makes-claims-feel-true-myths-and-misconcept-education-classroom-poster" target="_blank" rel="sponsored noopener noreferrer">Classroom Educational Posters - 20pcs 16 x 11 - Teacher Classroom Must Have...</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=education+classroom+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=familiarity-why-repetition-makes-claims-feel-true-myths-and-misconcept-education-classroom-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="education classroom poster" data-ebay-reference="familiarity-why-repetition-makes-claims-feel-true-myths-and-misconcept-education-classroom-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for education classroom poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: education classroom poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=education+classroom+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=familiarity-why-repetition-makes-claims-feel-true-myths-and-misconcept-education-classroom-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="education classroom poster" data-ebay-reference="familiarity-why-repetition-makes-claims-feel-true-myths-and-misconcept-education-classroom-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=education+classroom+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=familiarity-why-repetition-makes-claims-feel-true-myths-and-misconcept-education-classroom-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="education classroom poster" data-ebay-reference="familiarity-why-repetition-makes-claims-feel-true-myths-and-misconcept-education-classroom-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Classroom Educational Posters - 20pcs 16 x 11 - Teacher Classroom Must Have..."><img src="{{ '/assets/images/marketplace-covers/e92cf70e662e4f29850a.jpg' | relative_url }}" alt="Listing image for Classroom Educational Posters - 20pcs 16 x 11 - Teacher Classroom Must Have..." loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=education+classroom+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=familiarity-why-repetition-makes-claims-feel-true-myths-and-misconcept-education-classroom-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="education classroom poster" data-ebay-reference="familiarity-why-repetition-makes-claims-feel-true-myths-and-misconcept-education-classroom-poster" target="_blank" rel="sponsored noopener noreferrer">Classroom Educational Posters - 20pcs 16 x 11 - Teacher Classroom Must Have...</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=education+classroom+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=familiarity-why-repetition-makes-claims-feel-true-myths-and-misconcept-education-classroom-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="education classroom poster" data-ebay-reference="familiarity-why-repetition-makes-claims-feel-true-myths-and-misconcept-education-classroom-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for education classroom poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: education classroom poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=education+classroom+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=familiarity-why-repetition-makes-claims-feel-true-myths-and-misconcept-education-classroom-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="education classroom poster" data-ebay-reference="familiarity-why-repetition-makes-claims-feel-true-myths-and-misconcept-education-classroom-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=education+classroom+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=familiarity-why-repetition-makes-claims-feel-true-myths-and-misconcept-education-classroom-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="education classroom poster" data-ebay-reference="familiarity-why-repetition-makes-claims-feel-true-myths-and-misconcept-education-classroom-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Educational Posters 15 Pack A3 Size Early Years Classroom Learning Wall Charts"><img src="{{ '/assets/images/marketplace-covers/a8e510a645162d8c080e.jpg' | relative_url }}" alt="Listing image for Educational Posters 15 Pack A3 Size Early Years Classroom Learning Wall Charts" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=education+classroom+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=familiarity-why-repetition-makes-claims-feel-true-myths-and-misconcept-education-classroom-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="education classroom poster" data-ebay-reference="familiarity-why-repetition-makes-claims-feel-true-myths-and-misconcept-education-classroom-poster" target="_blank" rel="sponsored noopener noreferrer">Educational Posters 15 Pack A3 Size Early Years Classroom Learning Wall Charts</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=education+classroom+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=familiarity-why-repetition-makes-claims-feel-true-myths-and-misconcept-education-classroom-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="education classroom poster" data-ebay-reference="familiarity-why-repetition-makes-claims-feel-true-myths-and-misconcept-education-classroom-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for education classroom poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: education classroom poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=education+classroom+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=familiarity-why-repetition-makes-claims-feel-true-myths-and-misconcept-education-classroom-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="education classroom poster" data-ebay-reference="familiarity-why-repetition-makes-claims-feel-true-myths-and-misconcept-education-classroom-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=education+classroom+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=familiarity-why-repetition-makes-claims-feel-true-myths-and-misconcept-education-classroom-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="education classroom poster" data-ebay-reference="familiarity-why-repetition-makes-claims-feel-true-myths-and-misconcept-education-classroom-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=education+classroom+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=familiarity-why-repetition-makes-claims-feel-true-myths-and-misconcept-education-classroom-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="education classroom poster" data-ebay-reference="familiarity-why-repetition-makes-claims-feel-true-myths-and-misconcept-education-classroom-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Educational Posters 15 Pack A3 Size Early Years Classroom Learning Wall Charts"><img src="{{ '/assets/images/marketplace-covers/a8e510a645162d8c080e.jpg' | relative_url }}" alt="Listing image for Educational Posters 15 Pack A3 Size Early Years Classroom Learning Wall Charts" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=education+classroom+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=familiarity-why-repetition-makes-claims-feel-true-myths-and-misconcept-education-classroom-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="education classroom poster" data-ebay-reference="familiarity-why-repetition-makes-claims-feel-true-myths-and-misconcept-education-classroom-poster" target="_blank" rel="sponsored noopener noreferrer">Educational Posters 15 Pack A3 Size Early Years Classroom Learning Wall Charts</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=education+classroom+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=familiarity-why-repetition-makes-claims-feel-true-myths-and-misconcept-education-classroom-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="education classroom poster" data-ebay-reference="familiarity-why-repetition-makes-claims-feel-true-myths-and-misconcept-education-classroom-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for education classroom poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: education classroom poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=education+classroom+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=familiarity-why-repetition-makes-claims-feel-true-myths-and-misconcept-education-classroom-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="education classroom poster" data-ebay-reference="familiarity-why-repetition-makes-claims-feel-true-myths-and-misconcept-education-classroom-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=education+classroom+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=familiarity-why-repetition-makes-claims-feel-true-myths-and-misconcept-education-classroom-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="education classroom poster" data-ebay-reference="familiarity-why-repetition-makes-claims-feel-true-myths-and-misconcept-education-classroom-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -790,7 +790,7 @@ The danger is subtle. Familiarity rarely announces itself as bias. It feels like
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -810,7 +810,7 @@ The danger is subtle. Familiarity rarely announces itself as bias. It feels like
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -842,7 +842,7 @@ The danger is subtle. Familiarity rarely announces itself as bias. It feels like
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -894,7 +894,7 @@ The danger is subtle. Familiarity rarely announces itself as bias. It feels like
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -939,7 +939,7 @@ The danger is subtle. Familiarity rarely announces itself as bias. It feels like
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -980,151 +980,151 @@ The danger is subtle. Familiarity rarely announces itself as bias. It feels like
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0022537177800121" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0022537177800121</a>  
+   Link:<a href="https://www.sciencedirect.com/science/article/abs/pii/S0022537177800121" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0022537177800121</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6279465/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC6279465/</a>  
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6279465/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC6279465/</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10636596/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10636596/</a>  
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10636596/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10636596/</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: journals.plos.org  
-   Link: <a href="https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0307294" target="_blank" rel="noopener noreferrer nofollow">https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0307294</a>  
+   Link:<a href="https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0307294" target="_blank" rel="noopener noreferrer nofollow">https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0307294</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11305575/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11305575/</a>  
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11305575/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11305575/</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9283209/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9283209/</a>  
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9283209/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9283209/</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: nature.com  
-   Link: <a href="https://www.nature.com/articles/s41586-021-03344-2" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41586-021-03344-2</a>  
+   Link:<a href="https://www.nature.com/articles/s41586-021-03344-2" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41586-021-03344-2</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCNudging Social Media toward Accuracy  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9082967/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9082967/</a>  
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9082967/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9082967/</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0167811626000261" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0167811626000261</a>  
+   Link:<a href="https://www.sciencedirect.com/science/article/pii/S0167811626000261" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0167811626000261</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S001002771830163X" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S001002771830163X</a>  
+   Link:<a href="https://www.sciencedirect.com/science/article/abs/pii/S001002771830163X" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S001002771830163X</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S2352250X23001811" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S2352250X23001811</a>  
+   Link:<a href="https://www.sciencedirect.com/science/article/abs/pii/S2352250X23001811" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S2352250X23001811</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/pii/S1364661321000516" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S1364661321000516</a>  
+   Link:<a href="https://www.sciencedirect.com/science/article/pii/S1364661321000516" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S1364661321000516</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: nature.com  
-   Link: <a href="https://www.nature.com/articles/s41467-026-70041-x" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41467-026-70041-x</a>  
+   Link:<a href="https://www.nature.com/articles/s41467-026-70041-x" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41467-026-70041-x</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: who.int  
-   Link: <a href="https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public/myth-busters" target="_blank" rel="noopener noreferrer nofollow">https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public/myth-busters</a>  
+   Link:<a href="https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public/myth-busters" target="_blank" rel="noopener noreferrer nofollow">https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public/myth-busters</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: youtube.com  
    Title: The Illusory Truth Effect: How Repetition Transforms Lies into "Facts"  
-   Link: <a href="https://www.youtube.com/watch?v=ZHJi8BUVYgw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ZHJi8BUVYgw</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Illusory Truth Effect...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=ZHJi8BUVYgw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ZHJi8BUVYgw</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Illusory Truth Effect...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: youtube.com  
    Title: Illusory Truth Effect  
-   Link: <a href="https://www.youtube.com/watch?v=cXFxRkjZNiw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=cXFxRkjZNiw</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Why You Believe [Fake News](&amp;#123;&amp;#123; &#x27;fake-news/&#x27; | relative_url &amp;#125;&amp;#125;): The Science of Processing Fluency...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=cXFxRkjZNiw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=cXFxRkjZNiw</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Why You Believe [Fake News](&amp;#123;&amp;#123; &#x27;fake-news/&#x27; | relative_url &amp;#125;&amp;#125;): The Science of Processing Fluency...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: apa.org  
-   Link: <a href="https://www.apa.org/pubs/journals/features/xge-0000098.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.apa.org/pubs/journals/features/xge-0000098.pdf</a>  
+   Link:<a href="https://www.apa.org/pubs/journals/features/xge-0000098.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.apa.org/pubs/journals/features/xge-0000098.pdf</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: climatechangecommunication.org  
    Title: Center for Climate Change Communication Debunking Handbook  
-   Link: <a href="https://www.climatechangecommunication.org/wp-content/uploads/2023/09/DebunkingHandbook2020.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.climatechangecommunication.org/wp-content/uploads/2023/09/DebunkingHandbook2020.pdf</a>  
+   Link:<a href="https://www.climatechangecommunication.org/wp-content/uploads/2023/09/DebunkingHandbook2020.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.climatechangecommunication.org/wp-content/uploads/2023/09/DebunkingHandbook2020.pdf</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: Wikipedia  
    Title: Illusory truth effect  
-   Link: <a href="https://en.wikipedia.org/wiki/Illusory_truth_effect" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Illusory_truth_effect</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Illusory_truth_effect" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Illusory_truth_effect</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: thedecisionlab.com  
    Title: Illusory truth effect  
-   Link: <a href="https://thedecisionlab.com/biases/illusory-truth-effect" target="_blank" rel="noopener noreferrer nofollow">https://thedecisionlab.com/biases/illusory-truth-effect</a>  
+   Link:<a href="https://thedecisionlab.com/biases/illusory-truth-effect" target="_blank" rel="noopener noreferrer nofollow">https://thedecisionlab.com/biases/illusory-truth-effect</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/AmericanPsychologicalAssociation/posts/you-keep-seeing-the-same-claim-made-over-and-over-onlineso-it-must-be-true-right/1290086699819665/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/AmericanPsychologicalAssociation/posts/you-keep-seeing-the-same-claim-made-over-and-over-onlineso-it-must-be-true-right/1290086699819665/</a>  
+   Link:<a href="https://www.facebook.com/AmericanPsychologicalAssociation/posts/you-keep-seeing-the-same-claim-made-over-and-over-onlineso-it-must-be-true-right/1290086699819665/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/AmericanPsychologicalAssociation/posts/you-keep-seeing-the-same-claim-made-over-and-over-onlineso-it-must-be-true-right/1290086699819665/</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: scienceopen.com  
-   Link: <a href="https://www.scienceopen.com/document/read?vid=771c88ee-7ec6-4db0-a4b0-fa09e32969f5" target="_blank" rel="noopener noreferrer nofollow">https://www.scienceopen.com/document/read?vid=771c88ee-7ec6-4db0-a4b0-fa09e32969f5</a>  
+   Link:<a href="https://www.scienceopen.com/document/read?vid=771c88ee-7ec6-4db0-a4b0-fa09e32969f5" target="_blank" rel="noopener noreferrer nofollow">https://www.scienceopen.com/document/read?vid=771c88ee-7ec6-4db0-a4b0-fa09e32969f5</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: annieduke.substack.com  
    Title: the illusory truth effect  
-   Link: <a href="https://annieduke.substack.com/p/the-illusory-truth-effect" target="_blank" rel="noopener noreferrer nofollow">https://annieduke.substack.com/p/the-illusory-truth-effect</a>  
+   Link:<a href="https://annieduke.substack.com/p/the-illusory-truth-effect" target="_blank" rel="noopener noreferrer nofollow">https://annieduke.substack.com/p/the-illusory-truth-effect</a>  
 
 ### Additional References
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: youtube.com  
    Title: Cognitive Psychology and Deciding to Solve Problems  
-   Link: <a href="https://www.youtube.com/watch?v=kYfNvm4NY-w" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=kYfNvm4NY-w</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>These videos explain the psychological mechanics of the illusory truth effect and processing fluency, detailing why repeated or familiar...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=kYfNvm4NY-w" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=kYfNvm4NY-w</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>These videos explain the psychological mechanics of the illusory truth effect and processing fluency, detailing why repeated or familiar...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: youtube.com  
    Title: Why You Believe Fake News: The Science of Processing Fluency  
-   Link: <a href="https://www.youtube.com/watch?v=_DYkqqQs204" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=_DYkqqQs204</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>THE INTELLIGENCE TRAP (The Mistake Smart People Make When Learning)...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=_DYkqqQs204" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=_DYkqqQs204</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>THE INTELLIGENCE TRAP (The Mistake Smart People Make When Learning)...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: youtube.com  
    Title: THE INTELLIGENCE TRAP (The Mistake Smart People Make When Learning)  
-   Link: <a href="https://www.youtube.com/watch?v=sXwpQlKdCck" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=sXwpQlKdCck</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Cognitive Psychology and Deciding to Solve Problems...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=sXwpQlKdCck" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=sXwpQlKdCck</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Cognitive Psychology and Deciding to Solve Problems...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: psychologytoday.com  
-   Link: <a href="https://www.psychologytoday.com/gb/basics/illusory-truth-effect" target="_blank" rel="noopener noreferrer nofollow">https://www.psychologytoday.com/gb/basics/illusory-truth-effect</a>  
+   Link:<a href="https://www.psychologytoday.com/gb/basics/illusory-truth-effect" target="_blank" rel="noopener noreferrer nofollow">https://www.psychologytoday.com/gb/basics/illusory-truth-effect</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/ClintonFoundation/posts/its-getting-harder-to-separate-fact-from-fiction-in-public-health-as-misinformat/1528550311972967/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ClintonFoundation/posts/its-getting-harder-to-separate-fact-from-fiction-in-public-health-as-misinformat/1528550311972967/</a>  
+   Link:<a href="https://www.facebook.com/ClintonFoundation/posts/its-getting-harder-to-separate-fact-from-fiction-in-public-health-as-misinformat/1528550311972967/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ClintonFoundation/posts/its-getting-harder-to-separate-fact-from-fiction-in-public-health-as-misinformat/1528550311972967/</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: scilit.com  
-   Link: <a href="https://www.scilit.com/publications/136234f9eed2c8d04d55b9e8a9134d47" target="_blank" rel="noopener noreferrer nofollow">https://www.scilit.com/publications/136234f9eed2c8d04d55b9e8a9134d47</a>  
+   Link:<a href="https://www.scilit.com/publications/136234f9eed2c8d04d55b9e8a9134d47" target="_blank" rel="noopener noreferrer nofollow">https://www.scilit.com/publications/136234f9eed2c8d04d55b9e8a9134d47</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: semanticscholar.org  
-   Link: <a href="https://www.semanticscholar.org/paper/Lazy%2C-not-biased%3A-Susceptibility-to-partisan-fake-Pennycook-Rand/81fe024b0903ea646249321c7912ed0255a0d2f9" target="_blank" rel="noopener noreferrer nofollow">https://www.semanticscholar.org/paper/Lazy%2C-not-biased%3A-Susceptibility-to-partisan-fake-Pennycook-Rand/81fe024b0903ea646249321c7912ed0255a0d2f9</a>  
+   Link:<a href="https://www.semanticscholar.org/paper/Lazy%2C-not-biased%3A-Susceptibility-to-partisan-fake-Pennycook-Rand/81fe024b0903ea646249321c7912ed0255a0d2f9" target="_blank" rel="noopener noreferrer nofollow">https://www.semanticscholar.org/paper/Lazy%2C-not-biased%3A-Susceptibility-to-partisan-fake-Pennycook-Rand/81fe024b0903ea646249321c7912ed0255a0d2f9</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: networkscienceinstitute.org  
-   Link: <a href="https://www.networkscienceinstitute.org/pomlab/publications" target="_blank" rel="noopener noreferrer nofollow">https://www.networkscienceinstitute.org/pomlab/publications</a>  
+   Link:<a href="https://www.networkscienceinstitute.org/pomlab/publications" target="_blank" rel="noopener noreferrer nofollow">https://www.networkscienceinstitute.org/pomlab/publications</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/pulse/repeating-false-skeptical-claims-climate-science-l5qfc" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/pulse/repeating-false-skeptical-claims-climate-science-l5qfc</a>  
+   Link:<a href="https://www.linkedin.com/pulse/repeating-false-skeptical-claims-climate-science-l5qfc" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/pulse/repeating-false-skeptical-claims-climate-science-l5qfc</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/968580683281312/posts/3578343175638370/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/968580683281312/posts/3578343175638370/</a>
+   Link:<a href="https://www.facebook.com/groups/968580683281312/posts/3578343175638370/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/968580683281312/posts/3578343175638370/</a>

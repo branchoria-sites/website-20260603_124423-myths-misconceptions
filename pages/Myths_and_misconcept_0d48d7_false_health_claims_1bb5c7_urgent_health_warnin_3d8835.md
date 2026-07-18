@@ -277,7 +277,7 @@ image: /assets/images/Myths_and_misconcept_0d48d7_false_health_claims_1bb5c7_urg
 Urgent health warnings spread quickly because they trigger a powerful social instinct: protect people first, verify later. When a message claims that a food causes cancer, a vaccine is harming children, a medicine has been secretly recalled or a new disease is spreading, many people feel a responsibility to warn friends and family immediately. In that moment, sharing can feel less like passing on information and more like preventing harm.
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_false_health_claims_1bb5c7_urgent_health_warnin_3d8835-Illustration-1-dark.svg" | relative_url }}" alt="Urgent Warnings illustration 1" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_false_health_claims_1bb5c7_urgent_health_warnin_3d8835-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_false_health_claims_1bb5c7_urgent_health_warnin_3d8835-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-This is one reason false [health claims]({{ 'health-claims/' | relative_url }}) often travel through caring social networks rather than through obvious bad actors alone. Fear, uncertainty and concern for others create a sense that delay is risky. Verification takes time, while forwarding a warning takes seconds. As a result, emotional urgency can outrun evidence, especially during outbreaks, medical scares and periods of intense public anxiety. Research on health misinformation repeatedly finds that strong emotions, social pressure and information overload all weaken careful evaluation and increase the spread of misleading claims. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11575416/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">by S Munusamy · 2024 · Cited by 42 — Cognitive biases, emotional appeals, and social identity motivations are believed to play a cruci...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.apa.org/pubs/reports/health-misinformation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apa.org">[American Psychological Association]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apa.org</span><span class="citation-popover-snippet">American Psychological AssociationUsing psychological science to understand and fight health...This report describes the best available...</span></span></span>
+This is one reason false [health claims]({{ 'health-claims/' | relative_url }}) often travel through caring social networks rather than through obvious bad actors alone. Fear, uncertainty and concern for others create a sense that delay is risky. Verification takes time, while forwarding a warning takes seconds. As a result, emotional urgency can outrun evidence, especially during outbreaks, medical scares and periods of intense public anxiety. Research on health misinformation repeatedly finds that strong emotions, social pressure and information overload all weaken careful evaluation and increase the spread of misleading claims.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11575416/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">by S Munusamy · 2024 · Cited by 42 — Cognitive biases, emotional appeals, and social identity motivations are believed to play a cruci...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.apa.org/pubs/reports/health-misinformation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apa.org">[American Psychological Association]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apa.org</span><span class="citation-popover-snippet">American Psychological AssociationUsing psychological science to understand and fight health...This report describes the best available...</span></span></span>
 
 ## How Fear Turns Sharing Into a Duty
 
@@ -298,7 +298,7 @@ This structure changes the psychology of sharing. Instead of asking, “Is this 
 
 The fear of missing a genuine danger can feel stronger than the fear of spreading incorrect information. A parent who forwards an alarming claim about a child's health risk may believe that being wrong is less damaging than failing to warn another parent. The emotional calculation becomes precautionary rather than evidential.
 
-Researchers studying misinformation have found that emotional responses increase willingness to share content, particularly when messages provoke fear, anger or anxiety. During health crises, emotional reactions can make people perceive claims as more credible and more worthy of distribution, even before careful scrutiny occurs. <span class="citation-chip-wrap"><a class="citation-chip" href="https://misinforeview.hks.harvard.edu/article/anger-contributes-to-the-spread-of-covid-19-misinformation/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: misinforeview.hks.harvard.edu">[Misinformation Review]</a><span class="citation-popover" role="note"><span class="citation-popover-source">misinforeview.hks.harvard.edu</span><span class="citation-popover-title">Misinformation Review Anger contributes to the spread of COVID-19 misinformation</span><span class="citation-popover-snippet">Misinformation ReviewAnger contributes to the spread of COVID-19 misinformationSeptember 17, 2020 — by J Han · 2020 · Cited by 108 — A su...</span><span class="citation-popover-meta">Published: September 17, 2020</span></span></span> ResearchGate The language used in many viral warnings deliberately reinforces this feeling of duty: <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/360117527_The_application_of_emotions_sharing_motivations_and_psychological_distance_in_examining_the_intention_to_share_COVID-19-related_fake_news" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[researchgate.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">The application of emotions, sharing motivations, and...This study uses appraisal theory to analyze the impact of such rumor...</span></span></span>
+Researchers studying misinformation have found that emotional responses increase willingness to share content, particularly when messages provoke fear, anger or anxiety. During health crises, emotional reactions can make people perceive claims as more credible and more worthy of distribution, even before careful scrutiny occurs.<span class="citation-chip-wrap"><a class="citation-chip" href="https://misinforeview.hks.harvard.edu/article/anger-contributes-to-the-spread-of-covid-19-misinformation/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: misinforeview.hks.harvard.edu">[Misinformation Review]</a><span class="citation-popover" role="note"><span class="citation-popover-source">misinforeview.hks.harvard.edu</span><span class="citation-popover-title">Misinformation Review Anger contributes to the spread of COVID-19 misinformation</span><span class="citation-popover-snippet">Misinformation ReviewAnger contributes to the spread of COVID-19 misinformationSeptember 17, 2020 — by J Han · 2020 · Cited by 108 — A su...</span><span class="citation-popover-meta">Published: September 17, 2020</span></span></span> ResearchGate The language used in many viral warnings deliberately reinforces this feeling of duty:<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/360117527_The_application_of_emotions_sharing_motivations_and_psychological_distance_in_examining_the_intention_to_share_COVID-19-related_fake_news" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[researchgate.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">The application of emotions, sharing motivations, and...This study uses appraisal theory to analyze the impact of such rumor...</span></span></span>
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -323,11 +323,11 @@ Instead, urgency pushes people towards shortcuts.
 
 One shortcut is trusting the sender. If a warning comes from a friend, relative, local community group or parent network, people may treat the relationship itself as evidence. The question becomes “Would they send this if it wasn't important?” rather than “Where did this information originate?”
 
-Another shortcut is treating [repetition]({{ 'repetition/' | relative_url }}) as credibility. During major health events, people may encounter the same warning across multiple [platforms]({{ 'platforms/' | relative_url }}). Seeing a claim repeatedly can create familiarity, and familiarity is often mistaken for truth. WHO's work on infodemics highlights how information overload makes it harder for people to identify trustworthy guidance during health emergencies. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.who.int/health-topics/infodemic" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: who.int">[World Health Organization]</a><span class="citation-popover" role="note"><span class="citation-popover-source">who.int</span><span class="citation-popover-snippet">World Health OrganizationInfodemicAn infodemic is too much information including false or misleading information in digital and physical...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.who.int/health-topics/infodemic" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: who.int">[World Health Organization]</a><span class="citation-popover" role="note"><span class="citation-popover-source">who.int</span><span class="citation-popover-snippet">World Health OrganizationInfodemicAn infodemic is too much information including false or misleading information in digital and physical...</span></span></span>
+Another shortcut is treating [repetition]({{ 'repetition/' | relative_url }}) as credibility. During major health events, people may encounter the same warning across multiple [platforms]({{ 'platforms/' | relative_url }}). Seeing a claim repeatedly can create familiarity, and familiarity is often mistaken for truth. WHO's work on infodemics highlights how information overload makes it harder for people to identify trustworthy guidance during health emergencies.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.who.int/health-topics/infodemic" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: who.int">[World Health Organization]</a><span class="citation-popover" role="note"><span class="citation-popover-source">who.int</span><span class="citation-popover-snippet">World Health OrganizationInfodemicAn infodemic is too much information including false or misleading information in digital and physical...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.who.int/health-topics/infodemic" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: who.int">[World Health Organization]</a><span class="citation-popover" role="note"><span class="citation-popover-source">who.int</span><span class="citation-popover-snippet">World Health OrganizationInfodemicAn infodemic is too much information including false or misleading information in digital and physical...</span></span></span>
 
 Urgency also discourages waiting. A message that says “Act now” or “Share immediately” frames verification itself as a potential danger. Checking sources can start to feel like wasting valuable time.
 
-This effect became highly visible during the COVID-19 pandemic. Researchers and public-health organisations documented how rapidly changing information, uncertainty and constant social media updates created an environment where rumours, speculation and unverified claims travelled alongside legitimate guidance. The speed of communication often exceeded the speed of verification. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11575416/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">by S Munusamy · 2024 · Cited by 42 — Cognitive biases, emotional appeals, and social identity motivations are believed to play a cruci...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thelancet.com/journals/lancet/article/PIIS0140-6736%2820%2930461-X/fulltext" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thelancet.com">[The Lancet]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thelancet.com</span><span class="citation-popover-snippet">How to fight an infodemicby J Zarocostas · 2020 · Cited by 3513 — a global epidemic of misinformation—spreading rapidly through social me...</span></span></span>
+This effect became highly visible during the COVID-19 pandemic. Researchers and public-health organisations documented how rapidly changing information, uncertainty and constant social media updates created an environment where rumours, speculation and unverified claims travelled alongside legitimate guidance. The speed of communication often exceeded the speed of verification.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11575416/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">by S Munusamy · 2024 · Cited by 42 — Cognitive biases, emotional appeals, and social identity motivations are believed to play a cruci...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thelancet.com/journals/lancet/article/PIIS0140-6736%2820%2930461-X/fulltext" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thelancet.com">[The Lancet]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thelancet.com</span><span class="citation-popover-snippet">How to fight an infodemicby J Zarocostas · 2020 · Cited by 3513 — a global epidemic of misinformation—spreading rapidly through social me...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ckCbmbLb0VY" title="Growing Concerns Over Impact Of Medical Misinformation On Public Health" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ckCbmbLb0VY" target="_blank" rel="noopener noreferrer">Growing Concerns Over Impact Of Medical Misinformation On Public Health</a></p><p class="youtube-embed-meta">Channel: NBC News &middot; Views: 15.8K &middot; Uploaded: December 2022 &middot; Length: 2 minutes 49 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ckCbmbLb0VY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ckCbmbLb0VY">Open on YouTube</a></p></div></div></div>
 
@@ -348,7 +348,7 @@ Several factors make these individuals influential:
 
 A message from an unknown account can be ignored. The same message from a trusted neighbour or family member may be taken seriously.
 
-This is why false health warnings often move through close social networks. The credibility comes from the relationship, not the evidence. Researchers examining health misinformation have repeatedly identified social influence, emotional engagement and [identity]({{ 'identity/' | relative_url }})-based trust as major drivers of sharing behaviour. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11575416/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">by S Munusamy · 2024 · Cited by 42 — Cognitive biases, emotional appeals, and social identity motivations are believed to play a cruci...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.apa.org/pubs/reports/health-misinformation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apa.org">[American Psychological Association]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apa.org</span><span class="citation-popover-snippet">American Psychological AssociationUsing psychological science to understand and fight health...This report describes the best available...</span></span></span>
+This is why false health warnings often move through close social networks. The credibility comes from the relationship, not the evidence. Researchers examining health misinformation have repeatedly identified social influence, emotional engagement and [identity]({{ 'identity/' | relative_url }})-based trust as major drivers of sharing behaviour.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11575416/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">by S Munusamy · 2024 · Cited by 42 — Cognitive biases, emotional appeals, and social identity motivations are believed to play a cruci...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.apa.org/pubs/reports/health-misinformation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apa.org">[American Psychological Association]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apa.org</span><span class="citation-popover-snippet">American Psychological AssociationUsing psychological science to understand and fight health...This report describes the best available...</span></span></span>
 
 In some cases, people share without fully believing the claim themselves. They may be uncertain but decide that forwarding it is the safer option. The logic resembles: “I'm not sure if this is true, but just in case.”
 
@@ -359,7 +359,7 @@ That mindset can be enough to keep a rumour circulating long after fact-checkers
 
 People often imagine misinformation spreading because information is scarce. Modern health scares frequently involve the opposite problem: too much information.
 
-WHO describes an infodemic as an overabundance of information, including false and misleading material, during a health event. In these conditions, people must process a constant stream of updates, [corrections]({{ 'corrections/' | relative_url }}), expert disagreements, news reports and social media posts. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.who.int/health-topics/infodemic" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: who.int">[World Health Organization]</a><span class="citation-popover" role="note"><span class="citation-popover-source">who.int</span><span class="citation-popover-snippet">World Health OrganizationInfodemicAn infodemic is too much information including false or misleading information in digital and physical...</span></span></span>
+WHO describes an infodemic as an overabundance of information, including false and misleading material, during a health event. In these conditions, people must process a constant stream of updates, [corrections]({{ 'corrections/' | relative_url }}), expert disagreements, news reports and social media posts.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.who.int/health-topics/infodemic" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: who.int">[World Health Organization]</a><span class="citation-popover" role="note"><span class="citation-popover-source">who.int</span><span class="citation-popover-snippet">World Health OrganizationInfodemicAn infodemic is too much information including false or misleading information in digital and physical...</span></span></span>
 
 When information volume becomes overwhelming, many people rely on mental shortcuts:
 
@@ -381,9 +381,9 @@ That difference in style matters. A post saying “Researchers are still studyin
 
 The consequences extend beyond individual mistakes.
 
-False health warnings can lead people to avoid useful treatments, distrust public-health advice, panic-buy products, overwhelm healthcare services or direct attention towards imaginary threats while real risks are ignored. WHO and public-health researchers have repeatedly warned that infodemics can alter behaviour in ways that directly affect health outcomes. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.who.int/health-topics/infodemic" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: who.int">[World Health Organization]</a><span class="citation-popover" role="note"><span class="citation-popover-source">who.int</span><span class="citation-popover-snippet">World Health OrganizationInfodemicAn infodemic is too much information including false or misleading information in digital and physical...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.who.int/health-topics/infodemic" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: who.int">[World Health Organization]</a><span class="citation-popover" role="note"><span class="citation-popover-source">who.int</span><span class="citation-popover-snippet">World Health OrganizationInfodemicAn infodemic is too much information including false or misleading information in digital and physical...</span></span></span>
+False health warnings can lead people to avoid useful treatments, distrust public-health advice, panic-buy products, overwhelm healthcare services or direct attention towards imaginary threats while real risks are ignored. WHO and public-health researchers have repeatedly warned that infodemics can alter behaviour in ways that directly affect health outcomes.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.who.int/health-topics/infodemic" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: who.int">[World Health Organization]</a><span class="citation-popover" role="note"><span class="citation-popover-source">who.int</span><span class="citation-popover-snippet">World Health OrganizationInfodemicAn infodemic is too much information including false or misleading information in digital and physical...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.who.int/health-topics/infodemic" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: who.int">[World Health Organization]</a><span class="citation-popover" role="note"><span class="citation-popover-source">who.int</span><span class="citation-popover-snippet">World Health OrganizationInfodemicAn infodemic is too much information including false or misleading information in digital and physical...</span></span></span>
 
-In extreme situations, rumours can produce real-world harm. Recent reporting from the Democratic Republic of Congo described how false health rumours spread through social media and community networks, contributing to panic and violence against health workers. The episode demonstrated how warnings presented as protective messages can escalate when fear spreads faster than verification. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reuters.com/business/media-telecom/fake-rumors-real-killings-inside-congos-deadly-health-misinformation-crisis-2026-05-07/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">Fake rumors, real killings: Inside Congo&#x27;s deadly health misinformation crisis</span><span class="citation-popover-snippet">The panic led to violence, including the killing of four health workers conducting vaccination surveys. The WHO and Africa Infodemic Resp...</span></span></span>
+In extreme situations, rumours can produce real-world harm. Recent reporting from the Democratic Republic of Congo described how false health rumours spread through social media and community networks, contributing to panic and violence against health workers. The episode demonstrated how warnings presented as protective messages can escalate when fear spreads faster than verification.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reuters.com/business/media-telecom/fake-rumors-real-killings-inside-congos-deadly-health-misinformation-crisis-2026-05-07/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">Fake rumors, real killings: Inside Congo&#x27;s deadly health misinformation crisis</span><span class="citation-popover-snippet">The panic led to violence, including the killing of four health workers conducting vaccination surveys. The WHO and Africa Infodemic Resp...</span></span></span>
 
 Most false health warnings do not end in violence, but many still have consequences. Delayed medical care, unnecessary anxiety, strained relationships and reduced trust in health institutions can all emerge from claims that began with someone's attempt to help.
 
@@ -405,203 +405,203 @@ Useful approaches include:
 
 </div>
 
-The U.S. Surgeon General's advisory on health misinformation encourages people to verify information with trustworthy sources and avoid sharing material when they are uncertain about its accuracy. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.hhs.gov/sites/default/files/surgeon-general-misinformation-advisory.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hhs.gov">[HHS.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hhs.gov</span><span class="citation-popover-snippet">Confronting Health MisinformationJuly 2, 2021 — 14 Jul 2021 — Verify accuracy of information by checking with trustworthy and credible so...</span><span class="citation-popover-meta">Published: July 2, 2021</span></span></span>
+The U.S. Surgeon General's advisory on health misinformation encourages people to verify information with trustworthy sources and avoid sharing material when they are uncertain about its accuracy.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.hhs.gov/sites/default/files/surgeon-general-misinformation-advisory.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hhs.gov">[HHS.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hhs.gov</span><span class="citation-popover-snippet">Confronting Health MisinformationJuly 2, 2021 — 14 Jul 2021 — Verify accuracy of information by checking with trustworthy and credible so...</span><span class="citation-popover-meta">Published: July 2, 2021</span></span></span>
 
 One practical habit is replacing immediate forwarding with a brief pause. Even a few minutes spent checking a claim can interrupt the emotional momentum that many viral warnings depend on.
 
-The key insight is that urgency itself is not evidence. A message may feel important precisely because it is designed to trigger concern. Treating urgency as a signal to verify, rather than a signal to share, is one of the simplest ways to reduce the spread of false health warnings. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cma.ca/healthcare-for-real/why-health-misinformation-social-media-dangerous" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cma.ca">[cma.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cma.ca</span><span class="citation-popover-snippet">how simple fact‑checking steps can help you avoid spreading misleading or...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.mayoclinic.org/healthy-lifestyle/consumer-health/in-depth/spot-fake-health-articles-misinformation/art-20587692" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mayoclinic.org">[2mayoclinic.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mayoclinic.org</span><span class="citation-popover-title">art 20587692</span><span class="citation-popover-snippet">Can you spot a fake health article?16 Aug 2025 — If you see a post that stirs fear without solid evidence, it&#x27;s worth checking a trusted...</span></span></span>
+The key insight is that urgency itself is not evidence. A message may feel important precisely because it is designed to trigger concern. Treating urgency as a signal to verify, rather than a signal to share, is one of the simplest ways to reduce the spread of false health warnings.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cma.ca/healthcare-for-real/why-health-misinformation-social-media-dangerous" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cma.ca">[cma.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cma.ca</span><span class="citation-popover-snippet">how simple fact‑checking steps can help you avoid spreading misleading or...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.mayoclinic.org/healthy-lifestyle/consumer-health/in-depth/spot-fake-health-articles-misinformation/art-20587692" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mayoclinic.org">[2mayoclinic.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mayoclinic.org</span><span class="citation-popover-title">art 20587692</span><span class="citation-popover-snippet">Can you spot a fake health article?16 Aug 2025 — If you see a post that stirs fear without solid evidence, it&#x27;s worth checking a trusted...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/QdI2kEivaRk" title="What to know about the rise of mental health misinformation on social media" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=QdI2kEivaRk" target="_blank" rel="noopener noreferrer">What to know about the rise of mental health misinformation on social media</a></p><p class="youtube-embed-meta">Channel: PBS NewsHour &middot; Views: 19.7K &middot; Uploaded: July 2025 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=QdI2kEivaRk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=QdI2kEivaRk">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Urgent Health Warnings Spread So Fast. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Urgent Health Warnings Spread So Fast. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Foolproof%3A+Why+We+Fall+for+Misinformation+and+How+to+Build+Immunity+by+Sander+van+der+Linden&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Foolproof: Why We Fall for Misinformation and How to Build Immunity on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Y517EAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Foolproof: Why We Fall for Misinformation and How to Build Immunity" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Foolproof%3A+Why+We+Fall+for+Misinformation+and+How+to+Build+Immunity+by+Sander+van+der+Linden&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Foolproof: Why We Fall for Misinformation and How to Build Immunity">Foolproof: Why We Fall for Misinformation and How to Build Im...</a>
-        </h4>
-        <p class="fr-book-author">By Sander van der Linden</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Foolproof%3A+Why+We+Fall+for+Misinformation+and+How+to+Build+Immunity+by+Sander+van+der+Linden&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Foolproof: Why We Fall for Misinformation and How to Build Immunity on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Y517EAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Foolproof: Why We Fall for Misinformation and How to Build Immunity" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Foolproof%3A+Why+We+Fall+for+Misinformation+and+How+to+Build+Immunity+by+Sander+van+der+Linden&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Foolproof: Why We Fall for Misinformation and How to Build Immunity">Foolproof: Why We Fall for Misinformation and How to Build Im...</a>
+</h4>
+<p class="fr-book-author">By Sander van der Linden</p>
         
-        <p class="fr-book-desc">Explains how emotionally charged misinformation spreads rapidly.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Foolproof%3A+Why+We+Fall+for+Misinformation+and+How+to+Build+Immunity+by+Sander+van+der+Linden&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains how emotionally charged misinformation spreads rapidly.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Foolproof%3A+Why+We+Fall+for+Misinformation+and+How+to+Build+Immunity+by+Sander+van+der+Linden&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YGPzXWanppcC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
-        </h4>
-        <p class="fr-book-author">By Daniel Kahneman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YGPzXWanppcC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
+</h4>
+<p class="fr-book-author">By Daniel Kahneman</p>
         
-        <p class="fr-book-desc">Helps explain rapid intuitive reactions that drive sharing behavior.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps explain rapid intuitive reactions that drive sharing behavior.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+Minds+Change+David+McRaney&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How Minds Change on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/11954199-M.jpg" alt="Cover for How Minds Change" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+Minds+Change+David+McRaney&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How Minds Change">How Minds Change</a>
-        </h4>
-        <p class="fr-book-author">By David McRaney</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+Minds+Change+David+McRaney&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How Minds Change on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/11954199-M.jpg" alt="Cover for How Minds Change" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=How+Minds+Change+David+McRaney&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How Minds Change">How Minds Change</a>
+</h4>
+<p class="fr-book-author">By David McRaney</p>
         
-        <p class="fr-book-desc">First published 2019.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+Minds+Change+David+McRaney&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2019.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=How+Minds+Change+David+McRaney&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Truth+Vaccine&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Truth Vaccine on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Truth+Vaccine&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Truth Vaccine">Truth Vaccine</a>
-        </h4>
-        <p class="fr-book-author">By Unknown author</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Truth+Vaccine&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Truth Vaccine on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Truth+Vaccine&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Truth Vaccine">Truth Vaccine</a>
+</h4>
+<p class="fr-book-author">By Unknown author</p>
         
-        <p class="fr-book-desc">Explains how emotionally charged misinformation spreads rapidly.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Truth+Vaccine&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains how emotionally charged misinformation spreads rapidly.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Truth+Vaccine&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Foolproof%3A+Why+We+Fall+for+Misinformation+and+How+to+Build+Immunity&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Foolproof: Why We Fall for Misinformation and How to Build Immunity</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+Minds+Change&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How Minds Change</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Foolproof%3A+Why+We+Fall+for+Misinformation+and+How+to+Build+Immunity&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Foolproof: Why We Fall for Misinformation and How to Build Immunity</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=How+Minds+Change&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How Minds Change</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=public+health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=urgent-warnings-why-urgent-health-warnings-spread-so-fast-myths-and-misconcept-public-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="public health poster" data-ebay-reference="urgent-warnings-why-urgent-health-warnings-spread-so-fast-myths-and-misconcept-public-health-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage 1950s public health awareness advert poster"><img src="{{ '/assets/images/marketplace-covers/3ca1e11aa514c707039f.jpg' | relative_url }}" alt="Listing image for Vintage 1950s public health awareness advert poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=public+health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=urgent-warnings-why-urgent-health-warnings-spread-so-fast-myths-and-misconcept-public-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="public health poster" data-ebay-reference="urgent-warnings-why-urgent-health-warnings-spread-so-fast-myths-and-misconcept-public-health-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage 1950s public health awareness advert poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=public+health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=urgent-warnings-why-urgent-health-warnings-spread-so-fast-myths-and-misconcept-public-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="public health poster" data-ebay-reference="urgent-warnings-why-urgent-health-warnings-spread-so-fast-myths-and-misconcept-public-health-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for public health poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: public health poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=public+health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=urgent-warnings-why-urgent-health-warnings-spread-so-fast-myths-and-misconcept-public-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="public health poster" data-ebay-reference="urgent-warnings-why-urgent-health-warnings-spread-so-fast-myths-and-misconcept-public-health-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=public+health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=urgent-warnings-why-urgent-health-warnings-spread-so-fast-myths-and-misconcept-public-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="public health poster" data-ebay-reference="urgent-warnings-why-urgent-health-warnings-spread-so-fast-myths-and-misconcept-public-health-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage 1950s public health awareness advert poster"><img src="{{ '/assets/images/marketplace-covers/3ca1e11aa514c707039f.jpg' | relative_url }}" alt="Listing image for Vintage 1950s public health awareness advert poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=public+health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=urgent-warnings-why-urgent-health-warnings-spread-so-fast-myths-and-misconcept-public-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="public health poster" data-ebay-reference="urgent-warnings-why-urgent-health-warnings-spread-so-fast-myths-and-misconcept-public-health-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage 1950s public health awareness advert poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=public+health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=urgent-warnings-why-urgent-health-warnings-spread-so-fast-myths-and-misconcept-public-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="public health poster" data-ebay-reference="urgent-warnings-why-urgent-health-warnings-spread-so-fast-myths-and-misconcept-public-health-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for public health poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: public health poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=public+health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=urgent-warnings-why-urgent-health-warnings-spread-so-fast-myths-and-misconcept-public-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="public health poster" data-ebay-reference="urgent-warnings-why-urgent-health-warnings-spread-so-fast-myths-and-misconcept-public-health-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=public+health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=urgent-warnings-why-urgent-health-warnings-spread-so-fast-myths-and-misconcept-public-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="public health poster" data-ebay-reference="urgent-warnings-why-urgent-health-warnings-spread-so-fast-myths-and-misconcept-public-health-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage 1950s public health awareness advert poster"><img src="{{ '/assets/images/marketplace-covers/89316df3874ca53ba5a6.jpg' | relative_url }}" alt="Listing image for Vintage 1950s public health awareness advert poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=public+health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=urgent-warnings-why-urgent-health-warnings-spread-so-fast-myths-and-misconcept-public-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="public health poster" data-ebay-reference="urgent-warnings-why-urgent-health-warnings-spread-so-fast-myths-and-misconcept-public-health-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage 1950s public health awareness advert poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=public+health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=urgent-warnings-why-urgent-health-warnings-spread-so-fast-myths-and-misconcept-public-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="public health poster" data-ebay-reference="urgent-warnings-why-urgent-health-warnings-spread-so-fast-myths-and-misconcept-public-health-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for public health poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: public health poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=public+health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=urgent-warnings-why-urgent-health-warnings-spread-so-fast-myths-and-misconcept-public-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="public health poster" data-ebay-reference="urgent-warnings-why-urgent-health-warnings-spread-so-fast-myths-and-misconcept-public-health-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=public+health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=urgent-warnings-why-urgent-health-warnings-spread-so-fast-myths-and-misconcept-public-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="public health poster" data-ebay-reference="urgent-warnings-why-urgent-health-warnings-spread-so-fast-myths-and-misconcept-public-health-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage 1950s public health awareness advert poster"><img src="{{ '/assets/images/marketplace-covers/89316df3874ca53ba5a6.jpg' | relative_url }}" alt="Listing image for Vintage 1950s public health awareness advert poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=public+health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=urgent-warnings-why-urgent-health-warnings-spread-so-fast-myths-and-misconcept-public-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="public health poster" data-ebay-reference="urgent-warnings-why-urgent-health-warnings-spread-so-fast-myths-and-misconcept-public-health-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage 1950s public health awareness advert poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=public+health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=urgent-warnings-why-urgent-health-warnings-spread-so-fast-myths-and-misconcept-public-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="public health poster" data-ebay-reference="urgent-warnings-why-urgent-health-warnings-spread-so-fast-myths-and-misconcept-public-health-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for public health poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: public health poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=public+health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=urgent-warnings-why-urgent-health-warnings-spread-so-fast-myths-and-misconcept-public-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="public health poster" data-ebay-reference="urgent-warnings-why-urgent-health-warnings-spread-so-fast-myths-and-misconcept-public-health-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=public+health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=urgent-warnings-why-urgent-health-warnings-spread-so-fast-myths-and-misconcept-public-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="public health poster" data-ebay-reference="urgent-warnings-why-urgent-health-warnings-spread-so-fast-myths-and-misconcept-public-health-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Aihrgdesign A Vintage Public Health Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/9a4f85f5088309b5fa73.jpg' | relative_url }}" alt="Listing image for Aihrgdesign A Vintage Public Health Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=public+health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=urgent-warnings-why-urgent-health-warnings-spread-so-fast-myths-and-misconcept-public-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="public health poster" data-ebay-reference="urgent-warnings-why-urgent-health-warnings-spread-so-fast-myths-and-misconcept-public-health-poster" target="_blank" rel="sponsored noopener noreferrer">Aihrgdesign A Vintage Public Health Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=public+health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=urgent-warnings-why-urgent-health-warnings-spread-so-fast-myths-and-misconcept-public-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="public health poster" data-ebay-reference="urgent-warnings-why-urgent-health-warnings-spread-so-fast-myths-and-misconcept-public-health-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for public health poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: public health poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=public+health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=urgent-warnings-why-urgent-health-warnings-spread-so-fast-myths-and-misconcept-public-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="public health poster" data-ebay-reference="urgent-warnings-why-urgent-health-warnings-spread-so-fast-myths-and-misconcept-public-health-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=public+health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=urgent-warnings-why-urgent-health-warnings-spread-so-fast-myths-and-misconcept-public-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="public health poster" data-ebay-reference="urgent-warnings-why-urgent-health-warnings-spread-so-fast-myths-and-misconcept-public-health-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Aihrgdesign A Vintage Public Health Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/9a4f85f5088309b5fa73.jpg' | relative_url }}" alt="Listing image for Aihrgdesign A Vintage Public Health Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=public+health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=urgent-warnings-why-urgent-health-warnings-spread-so-fast-myths-and-misconcept-public-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="public health poster" data-ebay-reference="urgent-warnings-why-urgent-health-warnings-spread-so-fast-myths-and-misconcept-public-health-poster" target="_blank" rel="sponsored noopener noreferrer">Aihrgdesign A Vintage Public Health Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=public+health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=urgent-warnings-why-urgent-health-warnings-spread-so-fast-myths-and-misconcept-public-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="public health poster" data-ebay-reference="urgent-warnings-why-urgent-health-warnings-spread-so-fast-myths-and-misconcept-public-health-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for public health poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: public health poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=public+health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=urgent-warnings-why-urgent-health-warnings-spread-so-fast-myths-and-misconcept-public-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="public health poster" data-ebay-reference="urgent-warnings-why-urgent-health-warnings-spread-so-fast-myths-and-misconcept-public-health-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=public+health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=urgent-warnings-why-urgent-health-warnings-spread-so-fast-myths-and-misconcept-public-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="public health poster" data-ebay-reference="urgent-warnings-why-urgent-health-warnings-spread-so-fast-myths-and-misconcept-public-health-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage 1950s public health awareness advert poster"><img src="{{ '/assets/images/marketplace-covers/69cc58475db8cafc34b2.jpg' | relative_url }}" alt="Listing image for Vintage 1950s public health awareness advert poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=public+health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=urgent-warnings-why-urgent-health-warnings-spread-so-fast-myths-and-misconcept-public-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="public health poster" data-ebay-reference="urgent-warnings-why-urgent-health-warnings-spread-so-fast-myths-and-misconcept-public-health-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage 1950s public health awareness advert poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=public+health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=urgent-warnings-why-urgent-health-warnings-spread-so-fast-myths-and-misconcept-public-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="public health poster" data-ebay-reference="urgent-warnings-why-urgent-health-warnings-spread-so-fast-myths-and-misconcept-public-health-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for public health poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: public health poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=public+health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=urgent-warnings-why-urgent-health-warnings-spread-so-fast-myths-and-misconcept-public-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="public health poster" data-ebay-reference="urgent-warnings-why-urgent-health-warnings-spread-so-fast-myths-and-misconcept-public-health-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=public+health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=urgent-warnings-why-urgent-health-warnings-spread-so-fast-myths-and-misconcept-public-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="public health poster" data-ebay-reference="urgent-warnings-why-urgent-health-warnings-spread-so-fast-myths-and-misconcept-public-health-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=public+health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=urgent-warnings-why-urgent-health-warnings-spread-so-fast-myths-and-misconcept-public-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="public health poster" data-ebay-reference="urgent-warnings-why-urgent-health-warnings-spread-so-fast-myths-and-misconcept-public-health-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage 1950s public health awareness advert poster"><img src="{{ '/assets/images/marketplace-covers/69cc58475db8cafc34b2.jpg' | relative_url }}" alt="Listing image for Vintage 1950s public health awareness advert poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=public+health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=urgent-warnings-why-urgent-health-warnings-spread-so-fast-myths-and-misconcept-public-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="public health poster" data-ebay-reference="urgent-warnings-why-urgent-health-warnings-spread-so-fast-myths-and-misconcept-public-health-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage 1950s public health awareness advert poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=public+health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=urgent-warnings-why-urgent-health-warnings-spread-so-fast-myths-and-misconcept-public-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="public health poster" data-ebay-reference="urgent-warnings-why-urgent-health-warnings-spread-so-fast-myths-and-misconcept-public-health-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for public health poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: public health poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=public+health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=urgent-warnings-why-urgent-health-warnings-spread-so-fast-myths-and-misconcept-public-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="public health poster" data-ebay-reference="urgent-warnings-why-urgent-health-warnings-spread-so-fast-myths-and-misconcept-public-health-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=public+health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=urgent-warnings-why-urgent-health-warnings-spread-so-fast-myths-and-misconcept-public-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="public health poster" data-ebay-reference="urgent-warnings-why-urgent-health-warnings-spread-so-fast-myths-and-misconcept-public-health-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -617,7 +617,7 @@ The key insight is that urgency itself is not evidence. A message may feel impor
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -637,7 +637,7 @@ The key insight is that urgency itself is not evidence. A message may feel impor
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -669,7 +669,7 @@ The key insight is that urgency itself is not evidence. A message may feel impor
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -721,7 +721,7 @@ The key insight is that urgency itself is not evidence. A message may feel impor
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -766,7 +766,7 @@ The key insight is that urgency itself is not evidence. A message may feel impor
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -807,169 +807,169 @@ The key insight is that urgency itself is not evidence. A message may feel impor
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9421549/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9421549/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Infodemics and health misinformation: a systematic review of...by IJB do Nascimento · 2022 · Cited by 695 — This phenomenon, called a...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9421549/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9421549/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Infodemics and health misinformation: a systematic review of...by IJB do Nascimento · 2022 · Cited by 695 — This phenomenon, called a...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11575416/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11575416/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>by S Munusamy · 2024 · Cited by 42 — Cognitive biases, emotional appeals, and social identity motivations are believed to play a cruci...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11575416/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11575416/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by S Munusamy · 2024 · Cited by 42 — Cognitive biases, emotional appeals, and social identity motivations are believed to play a cruci...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/360117527_The_application_of_emotions_sharing_motivations_and_psychological_distance_in_examining_the_intention_to_share_COVID-19-related_fake_news" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/360117527_The_application_of_emotions_sharing_motivations_and_psychological_distance_in_examining_the_intention_to_share_COVID-19-related_fake_news</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The application of emotions, sharing motivations, and...This study uses appraisal theory to analyze the impact of such rumor...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/360117527_The_application_of_emotions_sharing_motivations_and_psychological_distance_in_examining_the_intention_to_share_COVID-19-related_fake_news" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/360117527_The_application_of_emotions_sharing_motivations_and_psychological_distance_in_examining_the_intention_to_share_COVID-19-related_fake_news</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The application of emotions, sharing motivations, and...This study uses appraisal theory to analyze the impact of such rumor...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: who.int  
-   Link: <a href="https://www.who.int/health-topics/infodemic" target="_blank" rel="noopener noreferrer nofollow">https://www.who.int/health-topics/infodemic</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>World Health OrganizationInfodemicAn infodemic is too much information including false or misleading information in digital and physical...</p></details>
+   Link:<a href="https://www.who.int/health-topics/infodemic" target="_blank" rel="noopener noreferrer nofollow">https://www.who.int/health-topics/infodemic</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>World Health OrganizationInfodemicAn infodemic is too much information including false or misleading information in digital and physical...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: who.int  
-   Link: <a href="https://www.who.int/health-topics/infodemic/understanding-the-infodemic-and-misinformation-in-the-fight-against-covid-19" target="_blank" rel="noopener noreferrer nofollow">https://www.who.int/health-topics/infodemic/understanding-the-infodemic-and-misinformation-in-the-fight-against-covid-19</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>World Health OrganizationUnderstanding the infodemic and misinformation...Conducting visual network analyses to better understand the ec...</p></details>
+   Link:<a href="https://www.who.int/health-topics/infodemic/understanding-the-infodemic-and-misinformation-in-the-fight-against-covid-19" target="_blank" rel="noopener noreferrer nofollow">https://www.who.int/health-topics/infodemic/understanding-the-infodemic-and-misinformation-in-the-fight-against-covid-19</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>World Health OrganizationUnderstanding the infodemic and misinformation...Conducting visual network analyses to better understand the ec...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8088318/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8088318/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>misinformation infodemic during public health...by N Chowdhury · 2021 · Cited by 130 — This rapid integrative review will draw on knowle...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8088318/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8088318/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>misinformation infodemic during public health...by N Chowdhury · 2021 · Cited by 130 — This rapid integrative review will draw on knowle...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9217148/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9217148/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Understanding How and by Whom COVID-19 Misinformation...by Y Zhao · 2022 · Cited by 29 — We propose an elaboration likelihood model–b...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9217148/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9217148/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Understanding How and by Whom COVID-19 Misinformation...by Y Zhao · 2022 · Cited by 29 — We propose an elaboration likelihood model–b...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: who.int  
-   Link: <a href="https://www.who.int/health-topics/infodemic/the-covid-19-infodemic" target="_blank" rel="noopener noreferrer nofollow">https://www.who.int/health-topics/infodemic/the-covid-19-infodemic</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>World Health OrganizationThe COVID-19 infodemicAn infodemic is too much information including false or misleading information in digital...</p></details>
+   Link:<a href="https://www.who.int/health-topics/infodemic/the-covid-19-infodemic" target="_blank" rel="noopener noreferrer nofollow">https://www.who.int/health-topics/infodemic/the-covid-19-infodemic</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>World Health OrganizationThe COVID-19 infodemicAn infodemic is too much information including false or misleading information in digital...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: who.int  
-   Link: <a href="https://www.who.int/europe/news/item/01-09-2022-infodemics-and-misinformation-negatively-affect-people-s-health-behaviours--new-who-review-finds" target="_blank" rel="noopener noreferrer nofollow">https://www.who.int/europe/news/item/01-09-2022-infodemics-and-misinformation-negatively-affect-people-s-health-behaviours--new-who-review-finds</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>World Health OrganizationInfodemics and misinformation negatively affect people&#x27;s...1 Sept 2022 — The systematic review of published stu...</p></details>
+   Link:<a href="https://www.who.int/europe/news/item/01-09-2022-infodemics-and-misinformation-negatively-affect-people-s-health-behaviours--new-who-review-finds" target="_blank" rel="noopener noreferrer nofollow">https://www.who.int/europe/news/item/01-09-2022-infodemics-and-misinformation-negatively-affect-people-s-health-behaviours--new-who-review-finds</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>World Health OrganizationInfodemics and misinformation negatively affect people&#x27;s...1 Sept 2022 — The systematic review of published stu...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: reuters.com  
    Title: Fake rumors, real killings: Inside Congo's deadly health misinformation crisis  
-   Link: <a href="https://www.reuters.com/business/media-telecom/fake-rumors-real-killings-inside-congos-deadly-health-misinformation-crisis-2026-05-07/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/business/media-telecom/fake-rumors-real-killings-inside-congos-deadly-health-misinformation-crisis-2026-05-07/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The panic led to violence, including the killing of four health workers conducting vaccination surveys. The WHO and Africa Infodemic Resp...</p></details>
+   Link:<a href="https://www.reuters.com/business/media-telecom/fake-rumors-real-killings-inside-congos-deadly-health-misinformation-crisis-2026-05-07/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/business/media-telecom/fake-rumors-real-killings-inside-congos-deadly-health-misinformation-crisis-2026-05-07/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The panic led to violence, including the killing of four health workers conducting vaccination surveys. The WHO and Africa Infodemic Resp...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: hhs.gov  
-   Link: <a href="https://www.hhs.gov/sites/default/files/surgeon-general-misinformation-advisory.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.hhs.gov/sites/default/files/surgeon-general-misinformation-advisory.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Confronting Health MisinformationJuly 2, 2021 — 14 Jul 2021 — Verify accuracy of information by checking with trustworthy and credible so...</p></details>
+   Link:<a href="https://www.hhs.gov/sites/default/files/surgeon-general-misinformation-advisory.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.hhs.gov/sites/default/files/surgeon-general-misinformation-advisory.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Confronting Health MisinformationJuly 2, 2021 — 14 Jul 2021 — Verify accuracy of information by checking with trustworthy and credible so...</p></details>
    Published: July 2, 2021  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: cma.ca  
-   Link: <a href="https://www.cma.ca/healthcare-for-real/why-health-misinformation-social-media-dangerous" target="_blank" rel="noopener noreferrer nofollow">https://www.cma.ca/healthcare-for-real/why-health-misinformation-social-media-dangerous</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>how simple fact‑checking steps can help you avoid spreading misleading or...</p></details>
+   Link:<a href="https://www.cma.ca/healthcare-for-real/why-health-misinformation-social-media-dangerous" target="_blank" rel="noopener noreferrer nofollow">https://www.cma.ca/healthcare-for-real/why-health-misinformation-social-media-dangerous</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>how simple fact‑checking steps can help you avoid spreading misleading or...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: mayoclinic.org  
    Title: art 20587692  
-   Link: <a href="https://www.mayoclinic.org/healthy-lifestyle/consumer-health/in-depth/spot-fake-health-articles-misinformation/art-20587692" target="_blank" rel="noopener noreferrer nofollow">https://www.mayoclinic.org/healthy-lifestyle/consumer-health/in-depth/spot-fake-health-articles-misinformation/art-20587692</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Can you spot a fake health article?16 Aug 2025 — If you see a post that stirs fear without solid evidence, it&#x27;s worth checking a trusted...</p></details>
+   Link:<a href="https://www.mayoclinic.org/healthy-lifestyle/consumer-health/in-depth/spot-fake-health-articles-misinformation/art-20587692" target="_blank" rel="noopener noreferrer nofollow">https://www.mayoclinic.org/healthy-lifestyle/consumer-health/in-depth/spot-fake-health-articles-misinformation/art-20587692</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Can you spot a fake health article?16 Aug 2025 — If you see a post that stirs fear without solid evidence, it&#x27;s worth checking a trusted...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: who.int  
-   Link: <a href="https://www.who.int/" target="_blank" rel="noopener noreferrer nofollow">https://www.who.int/</a>  
+   Link:<a href="https://www.who.int/" target="_blank" rel="noopener noreferrer nofollow">https://www.who.int/</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: who.int  
    Title: disinformation and public health  
-   Link: <a href="https://www.who.int/news-room/questions-and-answers/item/disinformation-and-public-health" target="_blank" rel="noopener noreferrer nofollow">https://www.who.int/news-room/questions-and-answers/item/disinformation-and-public-health</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>6 Feb 2024 — This WHO questions and answers page looks at how health-related disinformation has emerged as a threat to public health and...</p></details>
+   Link:<a href="https://www.who.int/news-room/questions-and-answers/item/disinformation-and-public-health" target="_blank" rel="noopener noreferrer nofollow">https://www.who.int/news-room/questions-and-answers/item/disinformation-and-public-health</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>6 Feb 2024 — This WHO questions and answers page looks at how health-related disinformation has emerged as a threat to public health and...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: who.int  
-   Link: <a href="https://www.who.int/news-room/spotlight/let-s-flatten-the-infodemic-curve" target="_blank" rel="noopener noreferrer nofollow">https://www.who.int/news-room/spotlight/let-s-flatten-the-infodemic-curve</a>  
+   Link:<a href="https://www.who.int/news-room/spotlight/let-s-flatten-the-infodemic-curve" target="_blank" rel="noopener noreferrer nofollow">https://www.who.int/news-room/spotlight/let-s-flatten-the-infodemic-curve</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: who.int  
-   Link: <a href="https://www.who.int/teams/digital-health-and-innovation/digital-channels/combatting-misinformation-online" target="_blank" rel="noopener noreferrer nofollow">https://www.who.int/teams/digital-health-and-innovation/digital-channels/combatting-misinformation-online</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Combatting misinformation onlineWHO and partners recognize that misinformation online has the potential to travel further, faster and som...</p></details>
+   Link:<a href="https://www.who.int/teams/digital-health-and-innovation/digital-channels/combatting-misinformation-online" target="_blank" rel="noopener noreferrer nofollow">https://www.who.int/teams/digital-health-and-innovation/digital-channels/combatting-misinformation-online</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Combatting misinformation onlineWHO and partners recognize that misinformation online has the potential to travel further, faster and som...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: apa.org  
-   Link: <a href="https://www.apa.org/pubs/reports/health-misinformation" target="_blank" rel="noopener noreferrer nofollow">https://www.apa.org/pubs/reports/health-misinformation</a>  
+   Link:<a href="https://www.apa.org/pubs/reports/health-misinformation" target="_blank" rel="noopener noreferrer nofollow">https://www.apa.org/pubs/reports/health-misinformation</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: misinforeview.hks.harvard.edu  
    Title: Misinformation Review Anger contributes to the spread of COVID-19 misinformation  
-   Link: <a href="https://misinforeview.hks.harvard.edu/article/anger-contributes-to-the-spread-of-covid-19-misinformation/" target="_blank" rel="noopener noreferrer nofollow">https://misinforeview.hks.harvard.edu/article/anger-contributes-to-the-spread-of-covid-19-misinformation/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Misinformation ReviewAnger contributes to the spread of COVID-19 misinformationSeptember 17, 2020 — by J Han · 2020 · Cited by 108 — A su...</p></details>
+   Link:<a href="https://misinforeview.hks.harvard.edu/article/anger-contributes-to-the-spread-of-covid-19-misinformation/" target="_blank" rel="noopener noreferrer nofollow">https://misinforeview.hks.harvard.edu/article/anger-contributes-to-the-spread-of-covid-19-misinformation/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Misinformation ReviewAnger contributes to the spread of COVID-19 misinformationSeptember 17, 2020 — by J Han · 2020 · Cited by 108 — A su...</p></details>
    Published: September 17, 2020  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: thelancet.com  
-   Link: <a href="https://www.thelancet.com/journals/lancet/article/PIIS0140-6736%2820%2930461-X/fulltext" target="_blank" rel="noopener noreferrer nofollow">https://www.thelancet.com/journals/lancet/article/PIIS0140-6736%2820%2930461-X/fulltext</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How to fight an infodemicby J Zarocostas · 2020 · Cited by 3513 — a global epidemic of misinformation—spreading rapidly through social me...</p></details>
+   Link:<a href="https://www.thelancet.com/journals/lancet/article/PIIS0140-6736%2820%2930461-X/fulltext" target="_blank" rel="noopener noreferrer nofollow">https://www.thelancet.com/journals/lancet/article/PIIS0140-6736%2820%2930461-X/fulltext</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How to fight an infodemicby J Zarocostas · 2020 · Cited by 3513 — a global epidemic of misinformation—spreading rapidly through social me...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: reutersinstitute.[politics](&#123;&#123; 'politics/' | relative_url &#125;&#125;). ox.ac.uk  
-   Link: <a href="https://reutersinstitute.politics.ox.ac.uk/infodemic-how-people-six-countries-access-and-rate-news-and-information-about-coronavirus" target="_blank" rel="noopener noreferrer nofollow">https://reutersinstitute.politics.ox.ac.uk/infodemic-how-people-six-countries-access-and-rate-news-and-information-about-coronavirus</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>the &#x27;infodemic&#x27;: how people in six countries access...15 Apr 2020 — It is clear that both information and various kinds of misinformatio...</p></details>
+   Link:<a href="https://reutersinstitute.politics.ox.ac.uk/infodemic-how-people-six-countries-access-and-rate-news-and-information-about-coronavirus" target="_blank" rel="noopener noreferrer nofollow">https://reutersinstitute.politics.ox.ac.uk/infodemic-how-people-six-countries-access-and-rate-news-and-information-about-coronavirus</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>the &#x27;infodemic&#x27;: how people in six countries access...15 Apr 2020 — It is clear that both information and various kinds of misinformatio...</p></details>
 
 ### Additional References
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: youtube.com  
    Title: Growing Concerns Over Impact Of Medical Misinformation On Public Health  
-   Link: <a href="http://www.youtube.com/watch?v=ckCbmbLb0VY" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=ckCbmbLb0VY</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Why we share health misinformation urgency Steven Bartlett sharing harmful health misinformation in Diary of CEO podcast | BBC News BBC News...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=ckCbmbLb0VY" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=ckCbmbLb0VY</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Why we share health misinformation urgency Steven Bartlett sharing harmful health misinformation in Diary of CEO podcast | BBC News BBC News...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: centerforhealthsecurity.org  
    Title: Addressing Misleading and Purposefully Manipulated  
-   Link: <a href="https://centerforhealthsecurity.org/our-work/research-projects/addressing-misleading-and-purposefully-manipulated-health-related-information" target="_blank" rel="noopener noreferrer nofollow">https://centerforhealthsecurity.org/our-work/research-projects/addressing-misleading-and-purposefully-manipulated-health-related-information</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>COVID-19 Pandemic · National Priorities to Combat Misinformation and Disinformation for COVID-19 and Future Public Health Threats: A Call...</p></details>
+   Link:<a href="https://centerforhealthsecurity.org/our-work/research-projects/addressing-misleading-and-purposefully-manipulated-health-related-information" target="_blank" rel="noopener noreferrer nofollow">https://centerforhealthsecurity.org/our-work/research-projects/addressing-misleading-and-purposefully-manipulated-health-related-information</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>COVID-19 Pandemic · National Priorities to Combat Misinformation and Disinformation for COVID-19 and Future Public Health Threats: A Call...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: apa.org  
    Title: misinformation mental health  
-   Link: <a href="https://www.apa.org/topics/journalism-facts/misinformation-mental-health" target="_blank" rel="noopener noreferrer nofollow">https://www.apa.org/topics/journalism-facts/misinformation-mental-health</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Addressing misinformation about mental health with patients6 Nov 2024 — Mental health misinformation on social media often spreads inaccu...</p></details>
+   Link:<a href="https://www.apa.org/topics/journalism-facts/misinformation-mental-health" target="_blank" rel="noopener noreferrer nofollow">https://www.apa.org/topics/journalism-facts/misinformation-mental-health</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Addressing misinformation about mental health with patients6 Nov 2024 — Mental health misinformation on social media often spreads inaccu...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=fTgJB6Bg97I" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=fTgJB6Bg97I</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>social media, with a new study finding more than half of...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=fTgJB6Bg97I" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=fTgJB6Bg97I</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>social media, with a new study finding more than half of...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: youtube.com  
    Title: Steven Bartlett sharing harmful health misinformation in Diary of CEO podcast  
-   Link: <a href="http://www.youtube.com/watch?v=XV_B96fAzKs" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=XV_B96fAzKs</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>What to know about the rise of mental health misinformation on social media...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=XV_B96fAzKs" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=XV_B96fAzKs</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>What to know about the rise of mental health misinformation on social media...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: piftick.org.uk  
    Title: False health information – the warning signs  
-   Link: <a href="https://piftick.org.uk/guide/false-health-information-the-warning-signs/" target="_blank" rel="noopener noreferrer nofollow">https://piftick.org.uk/guide/false-health-information-the-warning-signs/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Scroll down for translated guides and audio. Health information helps us to stay well.Read more...</p></details>
+   Link:<a href="https://piftick.org.uk/guide/false-health-information-the-warning-signs/" target="_blank" rel="noopener noreferrer nofollow">https://piftick.org.uk/guide/false-health-information-the-warning-signs/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Scroll down for translated guides and audio. Health information helps us to stay well.Read more...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: youtube.com  
    Title: What to know about the rise of mental health misinformation on social media  
-   Link: <a href="http://www.youtube.com/watch?v=QdI2kEivaRk" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=QdI2kEivaRk</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Growing Concerns Over Impact Of Medical Misinformation On Public Health...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=QdI2kEivaRk" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=QdI2kEivaRk</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Growing Concerns Over Impact Of Medical Misinformation On Public Health...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: news.cancerresearchuk.org  
    Title: sorting fact from fiction a guide to spotting health misinformation  
-   Link: <a href="https://news.cancerresearchuk.org/2024/02/16/sorting-fact-from-fiction-a-guide-to-spotting-health-misinformation/" target="_blank" rel="noopener noreferrer nofollow">https://news.cancerresearchuk.org/2024/02/16/sorting-fact-from-fiction-a-guide-to-spotting-health-misinformation/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Here are 5 ways to help you spot health misinformation...</p></details>
+   Link:<a href="https://news.cancerresearchuk.org/2024/02/16/sorting-fact-from-fiction-a-guide-to-spotting-health-misinformation/" target="_blank" rel="noopener noreferrer nofollow">https://news.cancerresearchuk.org/2024/02/16/sorting-fact-from-fiction-a-guide-to-spotting-health-misinformation/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Here are 5 ways to help you spot health misinformation...</p></details>
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10546230/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10546230/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>structured literature review of the health infodemic on social...by C Hove · 2023 · Cited by 11 — This strategic review described the ro...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10546230/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10546230/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>structured literature review of the health infodemic on social...by C Hove · 2023 · Cited by 11 — This strategic review described the ro...</p></details>
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: ncbi.nlm.nih.gov  
-   Link: <a href="https://www.ncbi.nlm.nih.gov/books/NBK585504/" target="_blank" rel="noopener noreferrer nofollow">https://www.ncbi.nlm.nih.gov/books/NBK585504/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>WHO defines an infodemic as “too much information, including false or misleading information, in digital and physical environments du...</p></details>
+   Link:<a href="https://www.ncbi.nlm.nih.gov/books/NBK585504/" target="_blank" rel="noopener noreferrer nofollow">https://www.ncbi.nlm.nih.gov/books/NBK585504/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>WHO defines an infodemic as “too much information, including false or misleading information, in digital and physical environments du...</p></details>

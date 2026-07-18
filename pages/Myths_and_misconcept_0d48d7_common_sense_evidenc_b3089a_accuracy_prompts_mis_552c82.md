@@ -268,18 +268,18 @@ image: /assets/images/Myths_and_misconcept_0d48d7_common_sense_evidenc_b3089a_ac
 
 ## Introduction
 
-Small reminders about accuracy can reduce the spread of misinformation online, even when they do not directly fact-check any specific claim. The core idea is surprisingly simple: many people share false or misleading content not because they firmly believe it, but because their attention is focused on other goals at the moment of sharing. Social approval, outrage, humour, [identity]({{ 'identity/' | relative_url }}) signalling and speed can all crowd out a basic question: “Is this actually true?” Research over the past several years has found that brief “accuracy prompts” can improve the quality of what people choose to share by bringing that question back into focus. Nature <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/0956797620939054" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsFighting COVID-19 Misinformation on Social Mediaby G Pennycook · 2020 · Cited by 2733 — Our results are consistent with an i...</span></span></span>
+Small reminders about accuracy can reduce the spread of misinformation online, even when they do not directly fact-check any specific claim. The core idea is surprisingly simple: many people share false or misleading content not because they firmly believe it, but because their attention is focused on other goals at the moment of sharing. Social approval, outrage, humour, [identity]({{ 'identity/' | relative_url }}) signalling and speed can all crowd out a basic question: “Is this actually true?” Research over the past several years has found that brief “accuracy prompts” can improve the quality of what people choose to share by bringing that question back into focus. Nature<span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/0956797620939054" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsFighting COVID-19 Misinformation on Social Mediaby G Pennycook · 2020 · Cited by 2733 — Our results are consistent with an i...</span></span></span>
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_common_sense_evidenc_b3089a_accuracy_prompts_mis_552c82-Illustration-1-dark.svg" | relative_url }}" alt="Accuracy prompts illustration 1" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_common_sense_evidenc_b3089a_accuracy_prompts_mis_552c82-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_common_sense_evidenc_b3089a_accuracy_prompts_mis_552c82-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-This finding matters because it challenges a common assumption about misinformation. The problem is not always that people cannot tell true from false information. In many cases, they show much better judgement when explicitly asked to evaluate accuracy than when asked whether they would share the same content. Accuracy prompts work by interrupting that gap between what people know and what they do. <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/0956797620939054" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsFighting COVID-19 Misinformation on Social Mediaby G Pennycook · 2020 · Cited by 2733 — Our results are consistent with an i...</span></span></span>
+This finding matters because it challenges a common assumption about misinformation. The problem is not always that people cannot tell true from false information. In many cases, they show much better judgement when explicitly asked to evaluate accuracy than when asked whether they would share the same content. Accuracy prompts work by interrupting that gap between what people know and what they do.<span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/0956797620939054" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsFighting COVID-19 Misinformation on Social Mediaby G Pennycook · 2020 · Cited by 2733 — Our results are consistent with an i...</span></span></span>
 
 ## Why sharing is not always driven by belief
 
 One of the most important findings in misinformation research is that sharing and believing are not the same behaviour. Someone may recognise that a headline is doubtful yet still repost it because it is amusing, politically useful, emotionally satisfying or likely to attract attention.
 
-Experiments conducted by researchers including Gordon Pennycook and David Rand found that participants were often reasonably capable of distinguishing true [headlines]({{ 'headlines/' | relative_url }}) from false ones when directly asked about accuracy. Yet the same participants became less discerning when the task changed from judging truth to deciding what they would share on social media. <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/0956797620939054" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsFighting COVID-19 Misinformation on Social Mediaby G Pennycook · 2020 · Cited by 2733 — Our results are consistent with an i...</span></span></span>
+Experiments conducted by researchers including Gordon Pennycook and David Rand found that participants were often reasonably capable of distinguishing true [headlines]({{ 'headlines/' | relative_url }}) from false ones when directly asked about accuracy. Yet the same participants became less discerning when the task changed from judging truth to deciding what they would share on social media.<span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/0956797620939054" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsFighting COVID-19 Misinformation on Social Mediaby G Pennycook · 2020 · Cited by 2733 — Our results are consistent with an i...</span></span></span>
 
-This helps explain why common-sense plausibility can be misleading. A story that feels right, fits an existing worldview or confirms a suspicion may be shared before accuracy receives much attention. The social media environment amplifies this tendency because [platforms]({{ 'platforms/' | relative_url }}) are designed around engagement. Users encounter reactions, follower counts, likes and emotional cues that encourage rapid responses rather than careful verification. Researchers have described this as an “inattention” problem: accuracy is often not absent from people's values, but absent from their immediate focus. PMC PubMed The distinction is important because it suggests a different intervention strategy. If misinformation spread were mainly caused by deep commi <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/35558818/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[pubmed.ncbi.nlm.nih.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Social Media toward Accuracyby G Pennycook · 2022 · Cited by 121 — A meaningful portion of online misinformation sharing is likely attrib...</span></span></span> tment to false beliefs, a brief reminder would accomplish little. If part of the problem is that attention drifts away from truthfulness during sharing, then a small prompt may have surprisingly large effects.
+This helps explain why common-sense plausibility can be misleading. A story that feels right, fits an existing worldview or confirms a suspicion may be shared before accuracy receives much attention. The social media environment amplifies this tendency because [platforms]({{ 'platforms/' | relative_url }}) are designed around engagement. Users encounter reactions, follower counts, likes and emotional cues that encourage rapid responses rather than careful verification. Researchers have described this as an “inattention” problem: accuracy is often not absent from people's values, but absent from their immediate focus. PMC PubMed The distinction is important because it suggests a different intervention strategy. If misinformation spread were mainly caused by deep commi<span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/35558818/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[pubmed.ncbi.nlm.nih.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Social Media toward Accuracyby G Pennycook · 2022 · Cited by 121 — A meaningful portion of online misinformation sharing is likely attrib...</span></span></span> tment to false beliefs, a brief reminder would accomplish little. If part of the problem is that attention drifts away from truthfulness during sharing, then a small prompt may have surprisingly large effects.
 
 ## How accuracy attention changes decisions
 
@@ -291,13 +291,13 @@ Accuracy prompts are designed to redirect attention at the moment when a user is
 * Prompting users to consider whether a post is trustworthy before sharing it.
 * Requesting a brief accuracy rating.
 * Encouraging users to read an article before reposting it.
-* Presenting reminders about the importance of reliable information. Nature <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/0956797620939054" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsFighting COVID-19 Misinformation on Social Mediaby G Pennycook · 2020 · Cited by 2733 — Our results are consistent with an i...</span></span></span>
+* Presenting reminders about the importance of reliable information. Nature<span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/0956797620939054" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsFighting COVID-19 Misinformation on Social Mediaby G Pennycook · 2020 · Cited by 2733 — Our results are consistent with an i...</span></span></span>
 
 </div>
 
 What makes these interventions notable is their light touch. They do not require large fact-checking systems or detailed content moderation. Instead, they attempt to change what users are paying attention to.
 
-A useful way to think about the mechanism is that social media presents several competing motivations simultaneously. Users may care about humour, loyalty to a group, emotional expression, entertainment and accuracy all at once. An accuracy prompt temporarily raises the salience of one motivation that was already present but not currently dominant. Research suggests that this shift can make people more selective about what they pass along. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9082967/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCNudging Social Media toward Accuracy</span><span class="citation-popover-snippet">NIHby G Pennycook · 2022 · Cited by 120 — A meaningful portion of online misinformation sharing is likely attributable to Internet...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41586-021-03344-2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Article Open access 21 November 2025. Accuracy...Read more...</span><span class="citation-popover-meta">Published: November 2025</span></span></span>
+A useful way to think about the mechanism is that social media presents several competing motivations simultaneously. Users may care about humour, loyalty to a group, emotional expression, entertainment and accuracy all at once. An accuracy prompt temporarily raises the salience of one motivation that was already present but not currently dominant. Research suggests that this shift can make people more selective about what they pass along.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9082967/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCNudging Social Media toward Accuracy</span><span class="citation-popover-snippet">NIHby G Pennycook · 2022 · Cited by 120 — A meaningful portion of online misinformation sharing is likely attributable to Internet...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41586-021-03344-2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Article Open access 21 November 2025. Accuracy...Read more...</span><span class="citation-popover-meta">Published: November 2025</span></span></span>
 
 This finding also connects directly to the broader problem of [common sense]({{ 'common-sense/' | relative_url }}) as a weak evidence test. Plausible stories often spread because they feel right before anyone checks them. Accuracy prompts create a brief interruption in that process. Rather than asking whether a claim sounds reasonable, they encourage users to ask whether evidence supports it.
 
@@ -305,11 +305,11 @@ This finding also connects directly to the broader problem of [common sense]({{ 
 
 The strongest evidence comes from a series of experiments conducted across multiple countries and platforms.
 
-A widely cited 2020 study on COVID-19 misinformation found that simply asking participants to assess the accuracy of a single, unrelated headline improved the quality of later sharing decisions. Participants became more likely to share true content relative to false content after receiving the prompt. <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/0956797620939054" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsFighting COVID-19 Misinformation on Social Mediaby G Pennycook · 2020 · Cited by 2733 — Our results are consistent with an i...</span></span></span>
+A widely cited 2020 study on COVID-19 misinformation found that simply asking participants to assess the accuracy of a single, unrelated headline improved the quality of later sharing decisions. Participants became more likely to share true content relative to false content after receiving the prompt.<span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/0956797620939054" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsFighting COVID-19 Misinformation on Social Mediaby G Pennycook · 2020 · Cited by 2733 — Our results are consistent with an i...</span></span></span>
 
-Researchers later examined whether this effect was a one-off result. A meta-analysis covering 20 experiments and more than 26,000 participants found that accuracy prompts produced a consistent improvement in sharing discernment. The effect appeared across different studies, samples and content types, supporting the idea that the intervention is both replicable and generalisable rather than dependent on one specific experiment. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/nature-index/topics/l4/psychological-mechanisms-of-misinformation-sharing-on-social-media" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-title">psychological mechanisms of misinformation sharing on social media</span><span class="citation-popover-snippet">Accuracy prompts are a replicable and generalizable approach for reducing the spread of misinformation. Nature...Read more...</span></span></span>
+Researchers later examined whether this effect was a one-off result. A meta-analysis covering 20 experiments and more than 26,000 participants found that accuracy prompts produced a consistent improvement in sharing discernment. The effect appeared across different studies, samples and content types, supporting the idea that the intervention is both replicable and generalisable rather than dependent on one specific experiment.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/nature-index/topics/l4/psychological-mechanisms-of-misinformation-sharing-on-social-media" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-title">psychological mechanisms of misinformation sharing on social media</span><span class="citation-popover-snippet">Accuracy prompts are a replicable and generalizable approach for reducing the spread of misinformation. Nature...Read more...</span></span></span>
 
-Additional work has shown similar patterns in different contexts, including health misinformation. Studies found that [accuracy nudges]({{ 'accuracy-nudges/' | relative_url }}) reduced willingness to share misleading [health claims]({{ 'health-claims/' | relative_url }}) and weakened the influence of emotionally manipulative or pseudo-authoritative content. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S1364661321000516" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Review The Psychology of Fake Newsby G Pennycook · 2021 · Cited by 2116 — Concern about fake news was redoubled in 2020 in t...</span></span></span>
+Additional work has shown similar patterns in different contexts, including health misinformation. Studies found that [accuracy nudges]({{ 'accuracy-nudges/' | relative_url }}) reduced willingness to share misleading [health claims]({{ 'health-claims/' | relative_url }}) and weakened the influence of emotionally manipulative or pseudo-authoritative content.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S1364661321000516" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Review The Psychology of Fake Newsby G Pennycook · 2021 · Cited by 2116 — Concern about fake news was redoubled in 2020 in t...</span></span></span>
 
 The broader pattern is consistent: when attention is directed toward truthfulness, sharing behaviour becomes more selective.
 
@@ -318,11 +318,11 @@ The broader pattern is consistent: when attention is directed toward truthfulnes
 
 The effectiveness of accuracy prompts can seem counterintuitive. How can a single question influence behaviour in a complex information environment?
 
-Part of the answer lies in how human attention works. People constantly make decisions using limited mental resources. Online environments compete aggressively for those resources through notifications, emotional content and social feedback. In such settings, accuracy may become one consideration among many rather than the primary filter. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9051116/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCAccuracy prompts are a replicable and generalizable</span><span class="citation-popover-snippet">by G Pennycook · 2022 · Cited by 363 — Online misinformation has become a major focus of attention in recent years among academics, te...</span></span></span>
+Part of the answer lies in how human attention works. People constantly make decisions using limited mental resources. Online environments compete aggressively for those resources through notifications, emotional content and social feedback. In such settings, accuracy may become one consideration among many rather than the primary filter.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9051116/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCAccuracy prompts are a replicable and generalizable</span><span class="citation-popover-snippet">by G Pennycook · 2022 · Cited by 363 — Online misinformation has become a major focus of attention in recent years among academics, te...</span></span></span>
 
-Researchers argue that misinformation often benefits from this attentional competition. False stories may succeed not because they survive careful scrutiny but because they bypass scrutiny altogether. A reminder about accuracy changes the decision frame. It does not necessarily teach new facts. Instead, it encourages users to apply standards they already possess. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9082967/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCNudging Social Media toward Accuracy</span><span class="citation-popover-snippet">NIHby G Pennycook · 2022 · Cited by 120 — A meaningful portion of online misinformation sharing is likely attributable to Internet...</span></span></span>
+Researchers argue that misinformation often benefits from this attentional competition. False stories may succeed not because they survive careful scrutiny but because they bypass scrutiny altogether. A reminder about accuracy changes the decision frame. It does not necessarily teach new facts. Instead, it encourages users to apply standards they already possess.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9082967/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCNudging Social Media toward Accuracy</span><span class="citation-popover-snippet">NIHby G Pennycook · 2022 · Cited by 120 — A meaningful portion of online misinformation sharing is likely attributable to Internet...</span></span></span>
 
-This interpretation helps explain why accuracy prompts can affect people across political groups. Although debates continue about differences in effectiveness across populations, multiple studies have found reductions in misinformation sharing among users with different ideological identities. <span class="citation-chip-wrap"><a class="citation-chip" href="https://news.cornell.edu/stories/2024/04/accuracy-nudges-decrease-misinformation-sharing-left-right" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.cornell.edu">[Cornell Chronicle]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.cornell.edu</span><span class="citation-popover-title">accuracy nudges decrease misinformation sharing left right</span><span class="citation-popover-snippet">Cornell ChronicleAccuracy &#x27;nudges&#x27; decrease misinformation-sharing on left, right4 Apr 2024 — They found that “nudges” regarding the impo...</span></span></span>
+This interpretation helps explain why accuracy prompts can affect people across political groups. Although debates continue about differences in effectiveness across populations, multiple studies have found reductions in misinformation sharing among users with different ideological identities.<span class="citation-chip-wrap"><a class="citation-chip" href="https://news.cornell.edu/stories/2024/04/accuracy-nudges-decrease-misinformation-sharing-left-right" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.cornell.edu">[Cornell Chronicle]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.cornell.edu</span><span class="citation-popover-title">accuracy nudges decrease misinformation sharing left right</span><span class="citation-popover-snippet">Cornell ChronicleAccuracy &#x27;nudges&#x27; decrease misinformation-sharing on left, right4 Apr 2024 — They found that “nudges” regarding the impo...</span></span></span>
 
 The result is less a [correction]({{ 'correction/' | relative_url }}) of belief than a correction of attention.
 
@@ -330,20 +330,20 @@ The result is less a [correction]({{ 'correction/' | relative_url }}) of belief 
 
 Accuracy prompts are promising, but they are not a complete solution.
 
-One limitation is that the effects are generally modest rather than transformative. A prompt may improve sharing quality, but it does not eliminate misinformation. Highly motivated users can still share false content intentionally, and deeply held conspiratorial beliefs are unlikely to disappear because of a brief reminder. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9051116/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCAccuracy prompts are a replicable and generalizable</span><span class="citation-popover-snippet">by G Pennycook · 2022 · Cited by 363 — Online misinformation has become a major focus of attention in recent years among academics, te...</span></span></span>
+One limitation is that the effects are generally modest rather than transformative. A prompt may improve sharing quality, but it does not eliminate misinformation. Highly motivated users can still share false content intentionally, and deeply held conspiratorial beliefs are unlikely to disappear because of a brief reminder.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9051116/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCAccuracy prompts are a replicable and generalizable</span><span class="citation-popover-snippet">by G Pennycook · 2022 · Cited by 363 — Online misinformation has become a major focus of attention in recent years among academics, te...</span></span></span>
 
-Another challenge is durability. Researchers continue to investigate how long the effects last. A prompt shown once may influence immediate behaviour, but platforms must decide whether reminders should be repeated, varied or integrated into broader design systems. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41599-025-05233-9" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Can shifting attention to accuracy reduce misinformation on...by Z Liu · 2025 · Cited by 3 — Inattention-based theory provides a differe...</span></span></span>
+Another challenge is durability. Researchers continue to investigate how long the effects last. A prompt shown once may influence immediate behaviour, but platforms must decide whether reminders should be repeated, varied or integrated into broader design systems.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41599-025-05233-9" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Can shifting attention to accuracy reduce misinformation on...by Z Liu · 2025 · Cited by 3 — Inattention-based theory provides a differe...</span></span></span>
 
 There are also trade-offs. Some interventions reduce sharing of both false and true content, although false content typically declines more. This improves overall information quality but may also reduce engagement more generally. Platform designers must decide whether that trade-off is acceptable.
 
-The intervention is also most effective when users are merely inattentive rather than strongly committed to misinformation. Someone who shares a false claim because it supports an identity, political cause or financial interest may be less responsive to an accuracy reminder than someone who simply failed to pause and evaluate the claim. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S1364661321000516" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Review The Psychology of Fake Newsby G Pennycook · 2021 · Cited by 2116 — Concern about fake news was redoubled in 2020 in t...</span></span></span>
+The intervention is also most effective when users are merely inattentive rather than strongly committed to misinformation. Someone who shares a false claim because it supports an identity, political cause or financial interest may be less responsive to an accuracy reminder than someone who simply failed to pause and evaluate the claim.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S1364661321000516" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Review The Psychology of Fake Newsby G Pennycook · 2021 · Cited by 2116 — Concern about fake news was redoubled in 2020 in t...</span></span></span>
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_common_sense_evidenc_b3089a_accuracy_prompts_mis_552c82-Illustration-3-dark.svg" | relative_url }}" alt="Accuracy prompts illustration 3" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_common_sense_evidenc_b3089a_accuracy_prompts_mis_552c82-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_common_sense_evidenc_b3089a_accuracy_prompts_mis_552c82-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Friction versus speed
 
 Accuracy prompts belong to a broader family of interventions sometimes described as digital friction. Instead of making sharing as fast and effortless as possible, platforms introduce small pauses that encourage reflection.
 
-Examples include prompts asking users to read an article before reposting it, reminders to verify information and warnings that encourage a second look before publication. These features add seconds rather than minutes, but those seconds can change how information is processed. Twitter reported that prompts encouraging users to open articles before retweeting increased click-through behaviour, illustrating how minor interruptions can alter engagement patterns. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wired.com/story/friction-social-media-moderation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-snippet">This strategy reverses the industry&#x27;s former goal of eliminating &quot;friction&quot; to enhance speed and ease of use. Studies show that encouragi...</span></span></span>
+Examples include prompts asking users to read an article before reposting it, reminders to verify information and warnings that encourage a second look before publication. These features add seconds rather than minutes, but those seconds can change how information is processed. Twitter reported that prompts encouraging users to open articles before retweeting increased click-through behaviour, illustrating how minor interruptions can alter engagement patterns.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wired.com/story/friction-social-media-moderation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-snippet">This strategy reverses the industry&#x27;s former goal of eliminating &quot;friction&quot; to enhance speed and ease of use. Studies show that encouragi...</span></span></span>
 
 The underlying principle is simple: misinformation often benefits from speed. Verification usually requires a pause.
 
@@ -353,197 +353,197 @@ The success of accuracy prompts highlights a broader lesson about myths and misc
 
 In many situations, people possess better judgement than their sharing behaviour initially suggests. The problem is that social and emotional cues can push attention away from that judgement at crucial moments. A claim that feels plausible, familiar or group-affirming may move through a network before anyone stops to examine it.
 
-Accuracy prompts work because they briefly restore that examination. They do not provide a full fact-check, resolve every disagreement or eliminate misinformation. What they do is interrupt the automatic leap from “this sounds right” to “I should share this”. That interruption is small, but it exposes a key weakness in common-sense reasoning: plausibility often arrives faster than verification. Nature <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/0956797620939054" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsFighting COVID-19 Misinformation on Social Mediaby G Pennycook · 2020 · Cited by 2733 — Our results are consistent with an i...</span></span></span>
+Accuracy prompts work because they briefly restore that examination. They do not provide a full fact-check, resolve every disagreement or eliminate misinformation. What they do is interrupt the automatic leap from “this sounds right” to “I should share this”. That interruption is small, but it exposes a key weakness in common-sense reasoning: plausibility often arrives faster than verification. Nature<span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/0956797620939054" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsFighting COVID-19 Misinformation on Social Mediaby G Pennycook · 2020 · Cited by 2733 — Our results are consistent with an i...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Can one prompt reduce false sharing?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Can one prompt reduce false sharing?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Skeptics&#x27; Guide to the Universe on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CuVKDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Skeptics&#x27; Guide to the Universe" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Skeptics&#x27; Guide to the Universe">The Skeptics&#x27; Guide to the Universe</a>
-        </h4>
-        <p class="fr-book-author">By Dr. Steven Novella</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Skeptics&#x27; Guide to the Universe on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CuVKDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Skeptics&#x27; Guide to the Universe" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Skeptics&#x27; Guide to the Universe">The Skeptics&#x27; Guide to the Universe</a>
+</h4>
+<p class="fr-book-author">By Dr. Steven Novella</p>
         
-        <p class="fr-book-desc">Covers evaluating claims and improving accuracy judgments.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers evaluating claims and improving accuracy judgments.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Calling Bullshit on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Plu9DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Calling Bullshit" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Calling Bullshit">Calling Bullshit</a>
-        </h4>
-        <p class="fr-book-author">By Carl T. Bergstrom, Jevin D. West</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Calling Bullshit on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Plu9DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Calling Bullshit" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Calling Bullshit">Calling Bullshit</a>
+</h4>
+<p class="fr-book-author">By Carl T. Bergstrom, Jevin D. West</p>
         
-        <p class="fr-book-desc">Focuses on detecting misleading information and data.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on detecting misleading information and data.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YGPzXWanppcC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
-        </h4>
-        <p class="fr-book-author">By Daniel Kahneman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YGPzXWanppcC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
+</h4>
+<p class="fr-book-author">By Daniel Kahneman</p>
         
-        <p class="fr-book-desc">Explains attention and judgment failures behind misinformation sharing.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains attention and judgment failures behind misinformation sharing.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Constitution+of+Knowledge+by+Jonathan+Rauch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Constitution of Knowledge on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=W4J_EQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Constitution of Knowledge" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Constitution+of+Knowledge+by+Jonathan+Rauch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Constitution of Knowledge">The Constitution of Knowledge</a>
-        </h4>
-        <p class="fr-book-author">By Jonathan Rauch</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Constitution+of+Knowledge+by+Jonathan+Rauch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Constitution of Knowledge on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=W4J_EQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Constitution of Knowledge" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Constitution+of+Knowledge+by+Jonathan+Rauch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Constitution of Knowledge">The Constitution of Knowledge</a>
+</h4>
+<p class="fr-book-author">By Jonathan Rauch</p>
         
-        <p class="fr-book-desc">Explores how societies distinguish truth from falsehood.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Constitution+of+Knowledge+by+Jonathan+Rauch&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores how societies distinguish truth from falsehood.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Constitution+of+Knowledge+by+Jonathan+Rauch&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Skeptics%27+to+the+Universe+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Skeptics&#x27; to the Universe books</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Calling+Bullshit&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Calling Bullshit</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Skeptics%27+to+the+Universe+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Skeptics&#x27; to the Universe books</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Calling+Bullshit&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Calling Bullshit</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=accuracy-prompts-can-one-prompt-reduce-false-sharing-myths-and-misconcept-psychology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="psychology wall art" data-ebay-reference="accuracy-prompts-can-one-prompt-reduce-false-sharing-myths-and-misconcept-psychology-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Dark Psychology Framed Art Print Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/fb4ac1d4e4c980c9dc1c.jpg' | relative_url }}" alt="Listing image for Dark Psychology Framed Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=accuracy-prompts-can-one-prompt-reduce-false-sharing-myths-and-misconcept-psychology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="psychology wall art" data-ebay-reference="accuracy-prompts-can-one-prompt-reduce-false-sharing-myths-and-misconcept-psychology-wall-art" target="_blank" rel="sponsored noopener noreferrer">Dark Psychology Framed Art Print Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=accuracy-prompts-can-one-prompt-reduce-false-sharing-myths-and-misconcept-psychology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="psychology wall art" data-ebay-reference="accuracy-prompts-can-one-prompt-reduce-false-sharing-myths-and-misconcept-psychology-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for psychology wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: psychology wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=accuracy-prompts-can-one-prompt-reduce-false-sharing-myths-and-misconcept-psychology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="psychology wall art" data-ebay-reference="accuracy-prompts-can-one-prompt-reduce-false-sharing-myths-and-misconcept-psychology-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=accuracy-prompts-can-one-prompt-reduce-false-sharing-myths-and-misconcept-psychology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="psychology wall art" data-ebay-reference="accuracy-prompts-can-one-prompt-reduce-false-sharing-myths-and-misconcept-psychology-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Dark Psychology Framed Art Print Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/fb4ac1d4e4c980c9dc1c.jpg' | relative_url }}" alt="Listing image for Dark Psychology Framed Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=accuracy-prompts-can-one-prompt-reduce-false-sharing-myths-and-misconcept-psychology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="psychology wall art" data-ebay-reference="accuracy-prompts-can-one-prompt-reduce-false-sharing-myths-and-misconcept-psychology-wall-art" target="_blank" rel="sponsored noopener noreferrer">Dark Psychology Framed Art Print Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=accuracy-prompts-can-one-prompt-reduce-false-sharing-myths-and-misconcept-psychology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="psychology wall art" data-ebay-reference="accuracy-prompts-can-one-prompt-reduce-false-sharing-myths-and-misconcept-psychology-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for psychology wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: psychology wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=accuracy-prompts-can-one-prompt-reduce-false-sharing-myths-and-misconcept-psychology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="psychology wall art" data-ebay-reference="accuracy-prompts-can-one-prompt-reduce-false-sharing-myths-and-misconcept-psychology-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=accuracy-prompts-can-one-prompt-reduce-false-sharing-myths-and-misconcept-psychology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="psychology wall art" data-ebay-reference="accuracy-prompts-can-one-prompt-reduce-false-sharing-myths-and-misconcept-psychology-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Political Psychology Framed Art Pri Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/c3043224cef26a887498.jpg' | relative_url }}" alt="Listing image for Political Psychology Framed Art Pri Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=accuracy-prompts-can-one-prompt-reduce-false-sharing-myths-and-misconcept-psychology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="psychology wall art" data-ebay-reference="accuracy-prompts-can-one-prompt-reduce-false-sharing-myths-and-misconcept-psychology-wall-art" target="_blank" rel="sponsored noopener noreferrer">Political Psychology Framed Art Pri Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=accuracy-prompts-can-one-prompt-reduce-false-sharing-myths-and-misconcept-psychology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="psychology wall art" data-ebay-reference="accuracy-prompts-can-one-prompt-reduce-false-sharing-myths-and-misconcept-psychology-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for psychology wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: psychology wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=accuracy-prompts-can-one-prompt-reduce-false-sharing-myths-and-misconcept-psychology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="psychology wall art" data-ebay-reference="accuracy-prompts-can-one-prompt-reduce-false-sharing-myths-and-misconcept-psychology-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=accuracy-prompts-can-one-prompt-reduce-false-sharing-myths-and-misconcept-psychology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="psychology wall art" data-ebay-reference="accuracy-prompts-can-one-prompt-reduce-false-sharing-myths-and-misconcept-psychology-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Political Psychology Framed Art Pri Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/c3043224cef26a887498.jpg' | relative_url }}" alt="Listing image for Political Psychology Framed Art Pri Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=accuracy-prompts-can-one-prompt-reduce-false-sharing-myths-and-misconcept-psychology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="psychology wall art" data-ebay-reference="accuracy-prompts-can-one-prompt-reduce-false-sharing-myths-and-misconcept-psychology-wall-art" target="_blank" rel="sponsored noopener noreferrer">Political Psychology Framed Art Pri Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=accuracy-prompts-can-one-prompt-reduce-false-sharing-myths-and-misconcept-psychology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="psychology wall art" data-ebay-reference="accuracy-prompts-can-one-prompt-reduce-false-sharing-myths-and-misconcept-psychology-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for psychology wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: psychology wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=accuracy-prompts-can-one-prompt-reduce-false-sharing-myths-and-misconcept-psychology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="psychology wall art" data-ebay-reference="accuracy-prompts-can-one-prompt-reduce-false-sharing-myths-and-misconcept-psychology-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=accuracy-prompts-can-one-prompt-reduce-false-sharing-myths-and-misconcept-psychology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="psychology wall art" data-ebay-reference="accuracy-prompts-can-one-prompt-reduce-false-sharing-myths-and-misconcept-psychology-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Parts Of Brain Psychology Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/9d55718535d3f8dac09e.jpg' | relative_url }}" alt="Listing image for Parts Of Brain Psychology Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=accuracy-prompts-can-one-prompt-reduce-false-sharing-myths-and-misconcept-psychology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="psychology wall art" data-ebay-reference="accuracy-prompts-can-one-prompt-reduce-false-sharing-myths-and-misconcept-psychology-wall-art" target="_blank" rel="sponsored noopener noreferrer">Parts Of Brain Psychology Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=accuracy-prompts-can-one-prompt-reduce-false-sharing-myths-and-misconcept-psychology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="psychology wall art" data-ebay-reference="accuracy-prompts-can-one-prompt-reduce-false-sharing-myths-and-misconcept-psychology-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for psychology wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: psychology wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=accuracy-prompts-can-one-prompt-reduce-false-sharing-myths-and-misconcept-psychology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="psychology wall art" data-ebay-reference="accuracy-prompts-can-one-prompt-reduce-false-sharing-myths-and-misconcept-psychology-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=accuracy-prompts-can-one-prompt-reduce-false-sharing-myths-and-misconcept-psychology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="psychology wall art" data-ebay-reference="accuracy-prompts-can-one-prompt-reduce-false-sharing-myths-and-misconcept-psychology-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Parts Of Brain Psychology Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/9d55718535d3f8dac09e.jpg' | relative_url }}" alt="Listing image for Parts Of Brain Psychology Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=accuracy-prompts-can-one-prompt-reduce-false-sharing-myths-and-misconcept-psychology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="psychology wall art" data-ebay-reference="accuracy-prompts-can-one-prompt-reduce-false-sharing-myths-and-misconcept-psychology-wall-art" target="_blank" rel="sponsored noopener noreferrer">Parts Of Brain Psychology Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=accuracy-prompts-can-one-prompt-reduce-false-sharing-myths-and-misconcept-psychology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="psychology wall art" data-ebay-reference="accuracy-prompts-can-one-prompt-reduce-false-sharing-myths-and-misconcept-psychology-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for psychology wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: psychology wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=accuracy-prompts-can-one-prompt-reduce-false-sharing-myths-and-misconcept-psychology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="psychology wall art" data-ebay-reference="accuracy-prompts-can-one-prompt-reduce-false-sharing-myths-and-misconcept-psychology-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=accuracy-prompts-can-one-prompt-reduce-false-sharing-myths-and-misconcept-psychology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="psychology wall art" data-ebay-reference="accuracy-prompts-can-one-prompt-reduce-false-sharing-myths-and-misconcept-psychology-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Psychology symbol Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/ed441eae68b77d8d8b77.jpg' | relative_url }}" alt="Listing image for Psychology symbol Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=accuracy-prompts-can-one-prompt-reduce-false-sharing-myths-and-misconcept-psychology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="psychology wall art" data-ebay-reference="accuracy-prompts-can-one-prompt-reduce-false-sharing-myths-and-misconcept-psychology-wall-art" target="_blank" rel="sponsored noopener noreferrer">Psychology symbol Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=accuracy-prompts-can-one-prompt-reduce-false-sharing-myths-and-misconcept-psychology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="psychology wall art" data-ebay-reference="accuracy-prompts-can-one-prompt-reduce-false-sharing-myths-and-misconcept-psychology-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for psychology wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: psychology wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=accuracy-prompts-can-one-prompt-reduce-false-sharing-myths-and-misconcept-psychology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="psychology wall art" data-ebay-reference="accuracy-prompts-can-one-prompt-reduce-false-sharing-myths-and-misconcept-psychology-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=accuracy-prompts-can-one-prompt-reduce-false-sharing-myths-and-misconcept-psychology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="psychology wall art" data-ebay-reference="accuracy-prompts-can-one-prompt-reduce-false-sharing-myths-and-misconcept-psychology-wall-art" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=accuracy-prompts-can-one-prompt-reduce-false-sharing-myths-and-misconcept-psychology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="psychology wall art" data-ebay-reference="accuracy-prompts-can-one-prompt-reduce-false-sharing-myths-and-misconcept-psychology-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Psychology symbol Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/ed441eae68b77d8d8b77.jpg' | relative_url }}" alt="Listing image for Psychology symbol Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=accuracy-prompts-can-one-prompt-reduce-false-sharing-myths-and-misconcept-psychology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="psychology wall art" data-ebay-reference="accuracy-prompts-can-one-prompt-reduce-false-sharing-myths-and-misconcept-psychology-wall-art" target="_blank" rel="sponsored noopener noreferrer">Psychology symbol Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=accuracy-prompts-can-one-prompt-reduce-false-sharing-myths-and-misconcept-psychology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="psychology wall art" data-ebay-reference="accuracy-prompts-can-one-prompt-reduce-false-sharing-myths-and-misconcept-psychology-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for psychology wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: psychology wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=accuracy-prompts-can-one-prompt-reduce-false-sharing-myths-and-misconcept-psychology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="psychology wall art" data-ebay-reference="accuracy-prompts-can-one-prompt-reduce-false-sharing-myths-and-misconcept-psychology-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=accuracy-prompts-can-one-prompt-reduce-false-sharing-myths-and-misconcept-psychology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="psychology wall art" data-ebay-reference="accuracy-prompts-can-one-prompt-reduce-false-sharing-myths-and-misconcept-psychology-wall-art" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -559,7 +559,7 @@ Accuracy prompts work because they briefly restore that examination. They do not
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -579,7 +579,7 @@ Accuracy prompts work because they briefly restore that examination. They do not
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -611,7 +611,7 @@ Accuracy prompts work because they briefly restore that examination. They do not
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -663,7 +663,7 @@ Accuracy prompts work because they briefly restore that examination. They do not
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -708,7 +708,7 @@ Accuracy prompts work because they briefly restore that examination. They do not
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -749,152 +749,152 @@ Accuracy prompts work because they briefly restore that examination. They do not
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: nature.com  
-   Link: <a href="https://www.nature.com/articles/s41586-021-03344-2" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41586-021-03344-2</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Article Open access 21 November 2025. Accuracy...Read more...</p></details>
+   Link:<a href="https://www.nature.com/articles/s41586-021-03344-2" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41586-021-03344-2</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Article Open access 21 November 2025. Accuracy...Read more...</p></details>
    Published: November 2025  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: nature.com  
-   Link: <a href="https://www.nature.com/articles/s41467-022-30073-5" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41467-022-30073-5</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Accuracy prompts are a replicable and generalizable...by G Pennycook · 2022 · Cited by 347 — Interventions that shift users attent...</p></details>
+   Link:<a href="https://www.nature.com/articles/s41467-022-30073-5" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41467-022-30073-5</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Accuracy prompts are a replicable and generalizable...by G Pennycook · 2022 · Cited by 347 — Interventions that shift users attent...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCNudging Social Media toward Accuracy  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9082967/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9082967/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NIHby G Pennycook · 2022 · Cited by 120 — A meaningful portion of online misinformation sharing is likely attributable to Internet...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9082967/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9082967/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NIHby G Pennycook · 2022 · Cited by 120 — A meaningful portion of online misinformation sharing is likely attributable to Internet...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/pii/S1364661321000516" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S1364661321000516</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Review The Psychology of Fake Newsby G Pennycook · 2021 · Cited by 2116 — Concern about [fake news](&amp;#123;&amp;#123; &#x27;fake-news/&#x27; | relative_url &amp;#125;&amp;#125;) was redoubled in 2020 in t...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/pii/S1364661321000516" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S1364661321000516</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Review The Psychology of Fake Newsby G Pennycook · 2021 · Cited by 2116 — Concern about [fake news](&amp;#123;&amp;#123; &#x27;fake-news/&#x27; | relative_url &amp;#125;&amp;#125;) was redoubled in 2020 in t...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: wired.com  
-   Link: <a href="https://www.wired.com/story/friction-social-media-moderation" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/friction-social-media-moderation</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>This strategy reverses the industry&#x27;s former goal of eliminating &quot;friction&quot; to enhance speed and ease of use. Studies show that encouragi...</p></details>
+   Link:<a href="https://www.wired.com/story/friction-social-media-moderation" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/friction-social-media-moderation</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>This strategy reverses the industry&#x27;s former goal of eliminating &quot;friction&quot; to enhance speed and ease of use. Studies show that encouragi...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCAccuracy prompts are a replicable and generalizable  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9051116/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9051116/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>by G Pennycook · 2022 · Cited by 363 — Online misinformation has become a major focus of attention in recent years among academics, te...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9051116/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9051116/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by G Pennycook · 2022 · Cited by 363 — Online misinformation has become a major focus of attention in recent years among academics, te...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0277953624005896" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0277953624005896</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Perceived credibility and information verification revealed underlying...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/abs/pii/S0277953624005896" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0277953624005896</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Perceived credibility and information verification revealed underlying...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: news.cornell.edu  
    Title: accuracy nudges decrease misinformation sharing left right  
-   Link: <a href="https://news.cornell.edu/stories/2024/04/accuracy-nudges-decrease-misinformation-sharing-left-right" target="_blank" rel="noopener noreferrer nofollow">https://news.cornell.edu/stories/2024/04/accuracy-nudges-decrease-misinformation-sharing-left-right</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Cornell ChronicleAccuracy &#x27;nudges&#x27; decrease misinformation-sharing on left, right4 Apr 2024 — They found that “nudges” regarding the impo...</p></details>
+   Link:<a href="https://news.cornell.edu/stories/2024/04/accuracy-nudges-decrease-misinformation-sharing-left-right" target="_blank" rel="noopener noreferrer nofollow">https://news.cornell.edu/stories/2024/04/accuracy-nudges-decrease-misinformation-sharing-left-right</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Cornell ChronicleAccuracy &#x27;nudges&#x27; decrease misinformation-sharing on left, right4 Apr 2024 — They found that “nudges” regarding the impo...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: sciencedirect.com  
    Title: ScienceDirect No Nudge Is Good Enough?  
-   Link: <a href="https://www.sciencedirect.com/science/article/pii/S2451958826000795" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S2451958826000795</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Limits of accuracy prompts for...by W Gramacho · 2026 — A promising line of research suggests that prompting individuals to reflect on t...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/pii/S2451958826000795" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S2451958826000795</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Limits of accuracy prompts for...by W Gramacho · 2026 — A promising line of research suggests that prompting individuals to reflect on t...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: nature.com  
    Title: psychological mechanisms of misinformation sharing on social media  
-   Link: <a href="https://www.nature.com/nature-index/topics/l4/psychological-mechanisms-of-misinformation-sharing-on-social-media" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/nature-index/topics/l4/psychological-mechanisms-of-misinformation-sharing-on-social-media</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Accuracy prompts are a replicable and generalizable approach for reducing the spread of misinformation. Nature...Read more...</p></details>
+   Link:<a href="https://www.nature.com/nature-index/topics/l4/psychological-mechanisms-of-misinformation-sharing-on-social-media" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/nature-index/topics/l4/psychological-mechanisms-of-misinformation-sharing-on-social-media</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Accuracy prompts are a replicable and generalizable approach for reducing the spread of misinformation. Nature...Read more...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: nature.com  
-   Link: <a href="https://www.nature.com/articles/s41599-025-05233-9" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41599-025-05233-9</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Can shifting attention to accuracy reduce misinformation on...by Z Liu · 2025 · Cited by 3 — Inattention-based theory provides a differe...</p></details>
+   Link:<a href="https://www.nature.com/articles/s41599-025-05233-9" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41599-025-05233-9</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Can shifting attention to accuracy reduce misinformation on...by Z Liu · 2025 · Cited by 3 — Inattention-based theory provides a differe...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: nature.com  
-   Link: <a href="https://www.nature.com/articles/s41562-025-02205-6" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41562-025-02205-6</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Following news on social media boosts knowledge, belief...by S Altay · 2025 · Cited by 22 — These trends may exacerbate polarization, ra...</p></details>
+   Link:<a href="https://www.nature.com/articles/s41562-025-02205-6" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41562-025-02205-6</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Following news on social media boosts knowledge, belief...by S Altay · 2025 · Cited by 22 — These trends may exacerbate polarization, ra...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: sciencedirect.com  
    Title: Thinking more or thinking differently?  
-   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0010027722003018" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0010027722003018</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Using drift-diffusion...by H Lin · 2023 · Cited by 58 — Recent experiments have found that prompting people to think about accuracy redu...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/abs/pii/S0010027722003018" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0010027722003018</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Using drift-diffusion...by H Lin · 2023 · Cited by 58 — Recent experiments have found that prompting people to think about accuracy redu...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: journals.sagepub.com  
-   Link: <a href="https://journals.sagepub.com/doi/10.1177/0956797620939054" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/0956797620939054</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sage JournalsFighting COVID-19 Misinformation on Social Mediaby G Pennycook · 2020 · Cited by 2733 — Our results are consistent with an i...</p></details>
+   Link:<a href="https://journals.sagepub.com/doi/10.1177/0956797620939054" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/0956797620939054</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sage JournalsFighting COVID-19 Misinformation on Social Mediaby G Pennycook · 2020 · Cited by 2733 — Our results are consistent with an i...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/35558818/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/35558818/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Social Media toward Accuracyby G Pennycook · 2022 · Cited by 121 — A meaningful portion of online misinformation sharing is likely attrib...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/35558818/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/35558818/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Social Media toward Accuracyby G Pennycook · 2022 · Cited by 121 — A meaningful portion of online misinformation sharing is likely attrib...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Misinformation" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Misinformation</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>MisinformationMisinformation can include inaccurate, incomplete, misleading, or false information as well as selective or half-truths...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Misinformation" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Misinformation</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>MisinformationMisinformation can include inaccurate, incomplete, misleading, or false information as well as selective or half-truths...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: fondationdescartes.org  
-   Link: <a href="https://www.fondationdescartes.org/en/2021/04/shifting-attention-to-accuracy-can-reduce-misinformation-online/" target="_blank" rel="noopener noreferrer nofollow">https://www.fondationdescartes.org/en/2021/04/shifting-attention-to-accuracy-can-reduce-misinformation-online/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Nature (2021). [https://doi.org/10.1038/s41586-021-03344...&quot;](https://doi.org/10.1038/s41586-021-03344...&quot;)...</p></details>
+   Link:<a href="https://www.fondationdescartes.org/en/2021/04/shifting-attention-to-accuracy-can-reduce-misinformation-online/" target="_blank" rel="noopener noreferrer nofollow">https://www.fondationdescartes.org/en/2021/04/shifting-attention-to-accuracy-can-reduce-misinformation-online/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Nature (2021). [https://doi.org/10.1038/s41586-021-03344...&quot;](https://doi.org/10.1038/s41586-021-03344...&quot;)...</p></details>
 
 2. In this article, a team of...Read more
 
 ### Additional References
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: prosocialdesign.org  
-   Link: <a href="https://www.prosocialdesign.org/library/accuracy-prompts" target="_blank" rel="noopener noreferrer nofollow">https://www.prosocialdesign.org/library/accuracy-prompts</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Accuracy PromptsAmong all the approaches trialed, only Accuracy Nudges successfully reduced shares of misinformation. Why It Matters. Fak...</p></details>
+   Link:<a href="https://www.prosocialdesign.org/library/accuracy-prompts" target="_blank" rel="noopener noreferrer nofollow">https://www.prosocialdesign.org/library/accuracy-prompts</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Accuracy PromptsAmong all the approaches trialed, only Accuracy Nudges successfully reduced shares of misinformation. Why It Matters. Fak...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: misinforeview.hks.harvard.edu  
-   Link: <a href="https://misinforeview.hks.harvard.edu/article/examining-accuracy-prompt-efficacy-in-combination-with-using-colored-borders-to-differentiate-news-and-social-content-online/" target="_blank" rel="noopener noreferrer nofollow">https://misinforeview.hks.harvard.edu/article/examining-accuracy-prompt-efficacy-in-combination-with-using-colored-borders-to-differentiate-news-and-social-content-online/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Misinformation ReviewExamining accuracy-prompt efficacy in combination with...by V Bhardwaj · 2023 · Cited by 10 — Recent research sugge...</p></details>
+   Link:<a href="https://misinforeview.hks.harvard.edu/article/examining-accuracy-prompt-efficacy-in-combination-with-using-colored-borders-to-differentiate-news-and-social-content-online/" target="_blank" rel="noopener noreferrer nofollow">https://misinforeview.hks.harvard.edu/article/examining-accuracy-prompt-efficacy-in-combination-with-using-colored-borders-to-differentiate-news-and-social-content-online/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Misinformation ReviewExamining accuracy-prompt efficacy in combination with...by V Bhardwaj · 2023 · Cited by 10 — Recent research sugge...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: merriam-webster.com  
-   Link: <a href="https://www.merriam-webster.com/dictionary/accuracy" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/accuracy</a>  
+   Link:<a href="https://www.merriam-webster.com/dictionary/accuracy" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/accuracy</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: misinforeview.hks.harvard.edu  
    Title: developing an accuracy prompt toolkit to reduce covid 19 misinformation online  
-   Link: <a href="https://misinforeview.hks.harvard.edu/article/developing-an-accuracy-prompt-toolkit-to-reduce-covid-19-misinformation-online/" target="_blank" rel="noopener noreferrer nofollow">https://misinforeview.hks.harvard.edu/article/developing-an-accuracy-prompt-toolkit-to-reduce-covid-19-misinformation-online/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>an accuracy-prompt toolkit to reduce COVID...by Z Epstein · 2021 · Cited by 139 — Here we focus on reducing the sharing of misinformatio...</p></details>
+   Link:<a href="https://misinforeview.hks.harvard.edu/article/developing-an-accuracy-prompt-toolkit-to-reduce-covid-19-misinformation-online/" target="_blank" rel="noopener noreferrer nofollow">https://misinforeview.hks.harvard.edu/article/developing-an-accuracy-prompt-toolkit-to-reduce-covid-19-misinformation-online/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>an accuracy-prompt toolkit to reduce COVID...by Z Epstein · 2021 · Cited by 139 — Here we focus on reducing the sharing of misinformatio...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: jps.ecnu.edu.cn  
    Title: Social Network Analysis and Mining, 13(1), 30. [8] Arechar A. A., Allen  
-   Link: <a href="https://jps.ecnu.edu.cn/EN/10.16719/j.cnki.1671-6981.20250410" target="_blank" rel="noopener noreferrer nofollow">https://jps.ecnu.edu.cn/EN/10.16719/j.cnki.1671-6981.20250410</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Intervention Effect of Accuracy Prompt on...by J Haoyang · 2025 — Fake news, disinformation and misinformation in social media: A review...</p></details>
+   Link:<a href="https://jps.ecnu.edu.cn/EN/10.16719/j.cnki.1671-6981.20250410" target="_blank" rel="noopener noreferrer nofollow">https://jps.ecnu.edu.cn/EN/10.16719/j.cnki.1671-6981.20250410</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Intervention Effect of Accuracy Prompt on...by J Haoyang · 2025 — Fake news, disinformation and misinformation in social media: A review...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: cambridge.org  
-   Link: <a href="https://www.cambridge.org/core/books/psychology-of-misinformation/interventions-to-combat-misinformation/FCD74AF8BD30397DCF5A244DB55172A4" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/books/psychology-of-misinformation/interventions-to-combat-misinformation/FCD74AF8BD30397DCF5A244DB55172A4</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>t have been designed and tested since misinformation research exploded in...Read more...</p></details>
+   Link:<a href="https://www.cambridge.org/core/books/psychology-of-misinformation/interventions-to-combat-misinformation/FCD74AF8BD30397DCF5A244DB55172A4" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/books/psychology-of-misinformation/interventions-to-combat-misinformation/FCD74AF8BD30397DCF5A244DB55172A4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>t have been designed and tested since misinformation research exploded in...Read more...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: researchgate.net  
    Title: 360387098 Nudging Social Media toward Accuracy  
-   Link: <a href="https://www.researchgate.net/publication/360387098_Nudging_Social_Media_toward_Accuracy" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/360387098_Nudging_Social_Media_toward_Accuracy</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Nudging Social Media toward Accuracyby G PENNYCOOK · 2022 · Cited by 122 — Research shows that social media users struggle to detec...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/360387098_Nudging_Social_Media_toward_Accuracy" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/360387098_Nudging_Social_Media_toward_Accuracy</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Nudging Social Media toward Accuracyby G PENNYCOOK · 2022 · Cited by 122 — Research shows that social media users struggle to detec...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: europepmc.org  
    Title: Nudging social media sharing towards accuracy  
-   Link: <a href="https://europepmc.org/article/ppr/ppr388387" target="_blank" rel="noopener noreferrer nofollow">https://europepmc.org/article/ppr/ppr388387</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Abstractby G Pennycook · 2021 · Cited by 121 — Recent work indicates that a meaningful portion of online misinformation sharing can be at...</p></details>
+   Link:<a href="https://europepmc.org/article/ppr/ppr388387" target="_blank" rel="noopener noreferrer nofollow">https://europepmc.org/article/ppr/ppr388387</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Abstractby G Pennycook · 2021 · Cited by 121 — Recent work indicates that a meaningful portion of online misinformation sharing can be at...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: scientificamerican.com  
-   Link: <a href="https://www.scientificamerican.com/article/most-people-dont-actively-seek-to-share-fake-news/" target="_blank" rel="noopener noreferrer nofollow">https://www.scientificamerican.com/article/most-people-dont-actively-seek-to-share-fake-news/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Most People Don&#x27;t Actively Seek to Share Fake NewsMar 17, 2021 — Fake news and misinformation have been a persistent concern ever since t...</p></details>
+   Link:<a href="https://www.scientificamerican.com/article/most-people-dont-actively-seek-to-share-fake-news/" target="_blank" rel="noopener noreferrer nofollow">https://www.scientificamerican.com/article/most-people-dont-actively-seek-to-share-fake-news/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Most People Don&#x27;t Actively Seek to Share Fake NewsMar 17, 2021 — Fake news and misinformation have been a persistent concern ever since t...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: Wikipedia  
    Title: Accuracy and precision  
-   Link: <a href="https://en.wikipedia.org/wiki/Accuracy_and_precision" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Accuracy_and_precision</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Accuracy and precisionAccuracy and precision are measures of observational error; accuracy is how close a given set of measurements is...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Accuracy_and_precision" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Accuracy_and_precision</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Accuracy and precisionAccuracy and precision are measures of observational error; accuracy is how close a given set of measurements is...</p></details>

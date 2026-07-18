@@ -277,13 +277,13 @@ image: /assets/images/Myths_and_misconcept_0d48d7_replacement_stories_587456_unc
 Correcting a myth does not always mean replacing it with a complete answer. In many situations, the evidence is genuinely incomplete. Investigators may still be collecting data, scientists may not yet understand a mechanism, or key facts may remain unavailable. In these cases, a [correction]({{ 'correction/' | relative_url }}) that pretends certainty exists can create new problems. A better replacement explanation may be an honest statement of uncertainty: what is known, what has been ruled out, what remains unclear, and what evidence could change the picture.
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_replacement_stories_587456_uncertainty_replacem_524dda-Illustration-1-dark.svg" | relative_url }}" alt="Uncertainty illustration 1" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_replacement_stories_587456_uncertainty_replacem_524dda-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_replacement_stories_587456_uncertainty_replacem_524dda-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-This approach matters because myths and rumours often thrive in information vacuums. People prefer a story, even a flawed one, to no story at all. Yet research on misinformation shows that replacing false certainty with transparent uncertainty can be more effective than offering an unsupported alternative. When communicators explain why an answer is not yet available and what is being done to obtain it, they provide a framework for understanding events without filling gaps with speculation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nature.com/articles/s44159-021-00006-y" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">The psychological drivers of misinformation belief and its...by UKH Ecker · 2022 · Cited by 1916 — In this Review, we describe the...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://skepticalscience.com/docs/Lewandowsky_2012_misinfo.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalscience.com">[Skeptical Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalscience.com</span><span class="citation-popover-title">Lewandowsky 2012 misinfo</span><span class="citation-popover-snippet">Skeptical ScienceMisinformation and its Correction: Continued Influence and...by S Lewandowsky · Cited by 4713 — To successfully replace...</span></span></span>
+This approach matters because myths and rumours often thrive in information vacuums. People prefer a story, even a flawed one, to no story at all. Yet research on misinformation shows that replacing false certainty with transparent uncertainty can be more effective than offering an unsupported alternative. When communicators explain why an answer is not yet available and what is being done to obtain it, they provide a framework for understanding events without filling gaps with speculation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nature.com/articles/s44159-021-00006-y" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">The psychological drivers of misinformation belief and its...by UKH Ecker · 2022 · Cited by 1916 — In this Review, we describe the...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://skepticalscience.com/docs/Lewandowsky_2012_misinfo.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalscience.com">[Skeptical Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalscience.com</span><span class="citation-popover-title">Lewandowsky 2012 misinfo</span><span class="citation-popover-snippet">Skeptical ScienceMisinformation and its Correction: Continued Influence and...by S Lewandowsky · Cited by 4713 — To successfully replace...</span></span></span>
 
 ## Why Uncertainty Beats an Information Vacuum
 
 A common misconception is that every correction must provide a fully developed alternative explanation. Sometimes no such explanation exists. The honest replacement is a structured account of uncertainty.
 
-Research on the continued influence effect shows that misinformation often survives because it supplies a causal story. People continue to rely on it even after learning that it is false, especially if nothing else explains the situation. Effective [corrections]({{ 'corrections/' | relative_url }}) therefore need to address the explanatory gap. However, addressing the gap does not always require a definitive answer. It can mean explaining the limits of current knowledge and the reasons those limits exist. <span class="citation-chip-wrap"><a class="citation-chip" href="https://skepticalscience.com/docs/Lewandowsky_2012_misinfo.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalscience.com">[Skeptical Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalscience.com</span><span class="citation-popover-title">Lewandowsky 2012 misinfo</span><span class="citation-popover-snippet">Skeptical ScienceMisinformation and its Correction: Continued Influence and...by S Lewandowsky · Cited by 4713 — To successfully replace...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://link.springer.com/article/10.1186/s41235-021-00335-9" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">factors that mitigate the continued influence of...by IP Kan · 2021 · Cited by 27 — Across three studies, we evaluated the relative cont...</span></span></span> Consider a developing public-health investigation. A rumour claims that a new illness was caused by a specific product. Authorities determine that the claim lacks evidence, but the true cause remains under investigation. A weak correction would simply deny the rumour. A stronger correction would state:
+Research on the continued influence effect shows that misinformation often survives because it supplies a causal story. People continue to rely on it even after learning that it is false, especially if nothing else explains the situation. Effective [corrections]({{ 'corrections/' | relative_url }}) therefore need to address the explanatory gap. However, addressing the gap does not always require a definitive answer. It can mean explaining the limits of current knowledge and the reasons those limits exist.<span class="citation-chip-wrap"><a class="citation-chip" href="https://skepticalscience.com/docs/Lewandowsky_2012_misinfo.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalscience.com">[Skeptical Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalscience.com</span><span class="citation-popover-title">Lewandowsky 2012 misinfo</span><span class="citation-popover-snippet">Skeptical ScienceMisinformation and its Correction: Continued Influence and...by S Lewandowsky · Cited by 4713 — To successfully replace...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://link.springer.com/article/10.1186/s41235-021-00335-9" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">factors that mitigate the continued influence of...by IP Kan · 2021 · Cited by 27 — Across three studies, we evaluated the relative cont...</span></span></span> Consider a developing public-health investigation. A rumour claims that a new illness was caused by a specific product. Authorities determine that the claim lacks evidence, but the true cause remains under investigation. A weak correction would simply deny the rumour. A stronger correction would state:
 
 <div class="content-enhancement content-enhancement--metric" markdown="1">
 
@@ -307,7 +307,7 @@ One reason myths persist is that people often confuse two very different stateme
 
 The first may be supported by evidence even when the second is not.
 
-Effective uncertainty statements clearly separate rejected explanations from unresolved questions. Research on misinformation correction consistently finds that people benefit when corrections explain not only that a claim is wrong but also why it is wrong and what remains uncertain. <span class="citation-chip-wrap"><a class="citation-chip" href="https://research-information.bris.ac.uk/ws/portalfiles/portal/152516154/Pages_from_JARMAC_2017_59_Revision_1_V1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: research-information.bris.ac.uk">[University of Bristol]</a><span class="citation-popover" role="note"><span class="citation-popover-source">research-information.bris.ac.uk</span><span class="citation-popover-title">University of Bristol Lewandowsky, S., Ecker, UKH, &amp; Cook, J</span><span class="citation-popover-snippet">2017). BeyondToday — Second, corrections must explain why the misinformation was disseminated in the first place or they must provide an...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://skepticalscience.com/docs/Lewandowsky_2012_misinfo.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalscience.com">[Skeptical Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalscience.com</span><span class="citation-popover-title">Lewandowsky 2012 misinfo</span><span class="citation-popover-snippet">Skeptical ScienceMisinformation and its Correction: Continued Influence and...by S Lewandowsky · Cited by 4713 — To successfully replace...</span></span></span>
+Effective uncertainty statements clearly separate rejected explanations from unresolved questions. Research on misinformation correction consistently finds that people benefit when corrections explain not only that a claim is wrong but also why it is wrong and what remains uncertain.<span class="citation-chip-wrap"><a class="citation-chip" href="https://research-information.bris.ac.uk/ws/portalfiles/portal/152516154/Pages_from_JARMAC_2017_59_Revision_1_V1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: research-information.bris.ac.uk">[University of Bristol]</a><span class="citation-popover" role="note"><span class="citation-popover-source">research-information.bris.ac.uk</span><span class="citation-popover-title">University of Bristol Lewandowsky, S., Ecker, UKH, &amp; Cook, J</span><span class="citation-popover-snippet">2017). BeyondToday — Second, corrections must explain why the misinformation was disseminated in the first place or they must provide an...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://skepticalscience.com/docs/Lewandowsky_2012_misinfo.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalscience.com">[Skeptical Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalscience.com</span><span class="citation-popover-title">Lewandowsky 2012 misinfo</span><span class="citation-popover-snippet">Skeptical ScienceMisinformation and its Correction: Continued Influence and...by S Lewandowsky · Cited by 4713 — To successfully replace...</span></span></span>
 
 A useful structure is:
 
@@ -329,7 +329,7 @@ A useful structure is:
 
 This framework reduces a common risk in myth correction: replacing one form of overconfidence with another. If communicators present preliminary findings as final conclusions, later revisions can damage trust and create opportunities for new rumours.
 
-The distinction became especially important during scientific and public-health debates in recent years. Scientific knowledge often changes as new evidence emerges. [Communicating]({{ 'communicating/' | relative_url }}) that process openly helps audiences understand that changing conclusions do not necessarily mean earlier statements were deceptive; they may reflect the normal accumulation of evidence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://royalsocietypublishing.org/rsos/article/6/5/181870/95102/Communicating-uncertainty-about-facts-numbers-and" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: royalsocietypublishing.org">[Royal Society Publishing]</a><span class="citation-popover" role="note"><span class="citation-popover-source">royalsocietypublishing.org</span><span class="citation-popover-snippet">Royal Society PublishingCommunicating uncertainty about facts, numbers and scienceby AM van der Bles · 2019 · Cited by 558 — We review th...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8447889/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCThe role of discomfort in the continued influence effect</span><span class="citation-popover-snippet">by MW Susmann · 2021 · Cited by 90 — Research examining the continued influence effect (CIE) of misinformation has reliably found that...</span></span></span>
+The distinction became especially important during scientific and public-health debates in recent years. Scientific knowledge often changes as new evidence emerges. [Communicating]({{ 'communicating/' | relative_url }}) that process openly helps audiences understand that changing conclusions do not necessarily mean earlier statements were deceptive; they may reflect the normal accumulation of evidence.<span class="citation-chip-wrap"><a class="citation-chip" href="https://royalsocietypublishing.org/rsos/article/6/5/181870/95102/Communicating-uncertainty-about-facts-numbers-and" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: royalsocietypublishing.org">[Royal Society Publishing]</a><span class="citation-popover" role="note"><span class="citation-popover-source">royalsocietypublishing.org</span><span class="citation-popover-snippet">Royal Society PublishingCommunicating uncertainty about facts, numbers and scienceby AM van der Bles · 2019 · Cited by 558 — We review th...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8447889/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCThe role of discomfort in the continued influence effect</span><span class="citation-popover-snippet">by MW Susmann · 2021 · Cited by 90 — Research examining the continued influence effect (CIE) of misinformation has reliably found that...</span></span></span>
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_replacement_stories_587456_uncertainty_replacem_524dda-Illustration-2-dark.svg" | relative_url }}" alt="Uncertainty illustration 2" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_replacement_stories_587456_uncertainty_replacem_524dda-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_replacement_stories_587456_uncertainty_replacem_524dda-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What Evidence Would Close the Gap
@@ -348,7 +348,7 @@ For example:
 
 </div>
 
-Research on uncertainty communication suggests that audiences respond better when uncertainty is accompanied by reasons and by information about how uncertainty may be reduced. People are generally capable of understanding incomplete knowledge when the process is explained clearly. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.psycharchives.org/en/item/ce6655bb-bbf1-4ba4-8ab8-d5a5a2fbba50" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: psycharchives.org">[PsychArchives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">psycharchives.org</span><span class="citation-popover-snippet">The third study examined...Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://royalsocietypublishing.org/rsos/article/6/5/181870/95102/Communicating-uncertainty-about-facts-numbers-and" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: royalsocietypublishing.org">[Royal Society Publishing]</a><span class="citation-popover" role="note"><span class="citation-popover-source">royalsocietypublishing.org</span><span class="citation-popover-snippet">Royal Society PublishingCommunicating uncertainty about facts, numbers and scienceby AM van der Bles · 2019 · Cited by 558 — We review th...</span></span></span>
+Research on uncertainty communication suggests that audiences respond better when uncertainty is accompanied by reasons and by information about how uncertainty may be reduced. People are generally capable of understanding incomplete knowledge when the process is explained clearly.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.psycharchives.org/en/item/ce6655bb-bbf1-4ba4-8ab8-d5a5a2fbba50" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: psycharchives.org">[PsychArchives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">psycharchives.org</span><span class="citation-popover-snippet">The third study examined...Read more...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://royalsocietypublishing.org/rsos/article/6/5/181870/95102/Communicating-uncertainty-about-facts-numbers-and" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: royalsocietypublishing.org">[Royal Society Publishing]</a><span class="citation-popover" role="note"><span class="citation-popover-source">royalsocietypublishing.org</span><span class="citation-popover-snippet">Royal Society PublishingCommunicating uncertainty about facts, numbers and scienceby AM van der Bles · 2019 · Cited by 558 — We review th...</span></span></span>
 
 This approach also helps distinguish scientific uncertainty from mere opinion. Scientific uncertainty is usually constrained by evidence. It is not an unlimited range of possibilities; it is a description of what the evidence currently permits and what future evidence might exclude.
 
@@ -357,11 +357,11 @@ This approach also helps distinguish scientific uncertainty from mere opinion. S
 
 One temptation in myth correction is to provide a neat replacement story simply because audiences prefer closure. Yet false certainty can create long-term credibility problems.
 
-Studies examining uncertainty communication have repeatedly found that openly acknowledging uncertainty often has only small negative effects on trust and, in many circumstances, can preserve trust when evidence later changes. Transparency about limitations may be less damaging than confident claims that require subsequent revision. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.repository.cam.ac.uk/items/2c8f4dc0-7fb4-4df6-8cd9-d654b9e9e399" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: repository.cam.ac.uk">[Cambridge University Repository]</a><span class="citation-popover" role="note"><span class="citation-popover-source">repository.cam.ac.uk</span><span class="citation-popover-snippet">is that communicating uncertainty will reduce public trust. However, a lack of systematic research makes it difficult to evaluate such cl...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12652265/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCUncertainty communication, trust and health promotion</span><span class="citation-popover-snippet">Research is tentative, but that&#x27;s okay: overcoming misconceptions about scientific...Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/09636625241228449" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsCommunicating uncertainty protects against a loss of trust27 Feb 2024 — This study examines how communicating and explaining...</span></span></span>
+Studies examining uncertainty communication have repeatedly found that openly acknowledging uncertainty often has only small negative effects on trust and, in many circumstances, can preserve trust when evidence later changes. Transparency about limitations may be less damaging than confident claims that require subsequent revision.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.repository.cam.ac.uk/items/2c8f4dc0-7fb4-4df6-8cd9-d654b9e9e399" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: repository.cam.ac.uk">[Cambridge University Repository]</a><span class="citation-popover" role="note"><span class="citation-popover-source">repository.cam.ac.uk</span><span class="citation-popover-snippet">is that communicating uncertainty will reduce public trust. However, a lack of systematic research makes it difficult to evaluate such cl...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12652265/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCUncertainty communication, trust and health promotion</span><span class="citation-popover-snippet">Research is tentative, but that&#x27;s okay: overcoming misconceptions about scientific...Read more...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/09636625241228449" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsCommunicating uncertainty protects against a loss of trust27 Feb 2024 — This study examines how communicating and explaining...</span></span></span>
 
 This matters because myths frequently emerge after official explanations appear incomplete or inconsistent. If communicators overstate [confidence]({{ 'confidence/' | relative_url }}) and later retreat from those claims, critics can portray the change as proof of incompetence or deception. A carefully framed uncertainty statement reduces that vulnerability by making clear from the outset that some questions remain open.
 
-There are limits, however. Uncertainty can be exploited. Interest groups, conspiracy entrepreneurs, and motivated actors sometimes use genuine scientific uncertainty to imply that no knowledge exists at all. Effective communication therefore needs to balance openness with clarity about what is already established. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/42014938/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">science communication can impact these trust... Keywords: disinformation; scientific uncertainty; systematic review; trust in science; u...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7149229/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">The effects of communicating uncertainty on public trust in...by AM van der Bles · 2020 · Cited by 385 — Results show that whereas pe...</span></span></span>
+There are limits, however. Uncertainty can be exploited. Interest groups, conspiracy entrepreneurs, and motivated actors sometimes use genuine scientific uncertainty to imply that no knowledge exists at all. Effective communication therefore needs to balance openness with clarity about what is already established.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/42014938/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">science communication can impact these trust... Keywords: disinformation; scientific uncertainty; systematic review; trust in science; u...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7149229/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">The effects of communicating uncertainty on public trust in...by AM van der Bles · 2020 · Cited by 385 — Results show that whereas pe...</span></span></span>
 
 ## When “We Do Not Know Yet” Is Better
 
@@ -380,194 +380,194 @@ A good uncertainty statement does three things at once:
 Within the broader problem of rumours and myths, this approach serves an important function. It prevents the information vacuum that rumours exploit while avoiding the temptation to manufacture certainty. Rather than replacing one misleading narrative with another, it offers a truthful map of current knowledge—showing both the ground that is firm and the territory that is still being explored. [Royal Society Publishing+3Center for Climate Change Communication+3Skeptical Science]
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When We Do Not Know Yet Is Better. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When We Do Not Know Yet Is Better. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Models scientific thinking that accepts uncertainty until evidence arrives.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Models scientific thinking that accepts uncertainty until evidence arrives.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YGPzXWanppcC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
-        </h4>
-        <p class="fr-book-author">By Daniel Kahneman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YGPzXWanppcC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
+</h4>
+<p class="fr-book-author">By Daniel Kahneman</p>
         
-        <p class="fr-book-desc">Explains why people prefer confident stories even when evidence is incomplete.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains why people prefer confident stories even when evidence is incomplete.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Factfulness on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=rxg0tgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Factfulness" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Factfulness">Factfulness</a>
-        </h4>
-        <p class="fr-book-author">By Hans Rosling, Ola Rosling et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Factfulness on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=rxg0tgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Factfulness" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Factfulness">Factfulness</a>
+</h4>
+<p class="fr-book-author">By Hans Rosling, Ola Rosling et al.</p>
         
-        <p class="fr-book-desc">Encourages evidence-based reasoning and careful interpretation of incomplete information.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Encourages evidence-based reasoning and careful interpretation of incomplete information.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Foolproof+Sander+Van+Der+Linden&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Foolproof on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/13300557-M.jpg" alt="Cover for Foolproof" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Foolproof+Sander+Van+Der+Linden&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Foolproof">Foolproof</a>
-        </h4>
-        <p class="fr-book-author">By Sander Van Der Linden</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Foolproof+Sander+Van+Der+Linden&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Foolproof on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/13300557-M.jpg" alt="Cover for Foolproof" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Foolproof+Sander+Van+Der+Linden&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Foolproof">Foolproof</a>
+</h4>
+<p class="fr-book-author">By Sander Van Der Linden</p>
         
-        <p class="fr-book-desc">First published 2023.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Foolproof+Sander+Van+Der+Linden&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2023.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Foolproof+Sander+Van+Der+Linden&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Factfulness&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Factfulness</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Factfulness&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Factfulness</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uncertainty-3560c5-when-we-do-not-know-yet-is-better-myths-and-misconcept-educational-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational poster" data-ebay-reference="uncertainty-3560c5-when-we-do-not-know-yet-is-better-myths-and-misconcept-educational-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for World Map Maps Educational Maxi Poster Print 61x91.5cm | 24x36 inches"><img src="{{ '/assets/images/marketplace-covers/841a3e8963cc1d168d2d.jpg' | relative_url }}" alt="Listing image for World Map Maps Educational Maxi Poster Print 61x91.5cm | 24x36 inches" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uncertainty-3560c5-when-we-do-not-know-yet-is-better-myths-and-misconcept-educational-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational poster" data-ebay-reference="uncertainty-3560c5-when-we-do-not-know-yet-is-better-myths-and-misconcept-educational-poster" target="_blank" rel="sponsored noopener noreferrer">World Map Maps Educational Maxi Poster Print 61x91.5cm | 24x36 inches</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uncertainty-3560c5-when-we-do-not-know-yet-is-better-myths-and-misconcept-educational-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational poster" data-ebay-reference="uncertainty-3560c5-when-we-do-not-know-yet-is-better-myths-and-misconcept-educational-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for educational poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: educational poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uncertainty-3560c5-when-we-do-not-know-yet-is-better-myths-and-misconcept-educational-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational poster" data-ebay-reference="uncertainty-3560c5-when-we-do-not-know-yet-is-better-myths-and-misconcept-educational-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uncertainty-3560c5-when-we-do-not-know-yet-is-better-myths-and-misconcept-educational-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational poster" data-ebay-reference="uncertainty-3560c5-when-we-do-not-know-yet-is-better-myths-and-misconcept-educational-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for World Map Maps Educational Maxi Poster Print 61x91.5cm | 24x36 inches"><img src="{{ '/assets/images/marketplace-covers/841a3e8963cc1d168d2d.jpg' | relative_url }}" alt="Listing image for World Map Maps Educational Maxi Poster Print 61x91.5cm | 24x36 inches" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uncertainty-3560c5-when-we-do-not-know-yet-is-better-myths-and-misconcept-educational-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational poster" data-ebay-reference="uncertainty-3560c5-when-we-do-not-know-yet-is-better-myths-and-misconcept-educational-poster" target="_blank" rel="sponsored noopener noreferrer">World Map Maps Educational Maxi Poster Print 61x91.5cm | 24x36 inches</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uncertainty-3560c5-when-we-do-not-know-yet-is-better-myths-and-misconcept-educational-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational poster" data-ebay-reference="uncertainty-3560c5-when-we-do-not-know-yet-is-better-myths-and-misconcept-educational-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for educational poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: educational poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uncertainty-3560c5-when-we-do-not-know-yet-is-better-myths-and-misconcept-educational-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational poster" data-ebay-reference="uncertainty-3560c5-when-we-do-not-know-yet-is-better-myths-and-misconcept-educational-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uncertainty-3560c5-when-we-do-not-know-yet-is-better-myths-and-misconcept-educational-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational poster" data-ebay-reference="uncertainty-3560c5-when-we-do-not-know-yet-is-better-myths-and-misconcept-educational-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Electronic ABC Learning Wall Chart Talking Alphabet 123 Educational Poster Large"><img src="{{ '/assets/images/marketplace-covers/8d54b8a1e09ac57a8c0b.jpg' | relative_url }}" alt="Listing image for Electronic ABC Learning Wall Chart Talking Alphabet 123 Educational Poster Large" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uncertainty-3560c5-when-we-do-not-know-yet-is-better-myths-and-misconcept-educational-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational poster" data-ebay-reference="uncertainty-3560c5-when-we-do-not-know-yet-is-better-myths-and-misconcept-educational-poster" target="_blank" rel="sponsored noopener noreferrer">Electronic ABC Learning Wall Chart Talking Alphabet 123 Educational Poster Large</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uncertainty-3560c5-when-we-do-not-know-yet-is-better-myths-and-misconcept-educational-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational poster" data-ebay-reference="uncertainty-3560c5-when-we-do-not-know-yet-is-better-myths-and-misconcept-educational-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for educational poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: educational poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uncertainty-3560c5-when-we-do-not-know-yet-is-better-myths-and-misconcept-educational-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational poster" data-ebay-reference="uncertainty-3560c5-when-we-do-not-know-yet-is-better-myths-and-misconcept-educational-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uncertainty-3560c5-when-we-do-not-know-yet-is-better-myths-and-misconcept-educational-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational poster" data-ebay-reference="uncertainty-3560c5-when-we-do-not-know-yet-is-better-myths-and-misconcept-educational-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Electronic ABC Learning Wall Chart Talking Alphabet 123 Educational Poster Large"><img src="{{ '/assets/images/marketplace-covers/8d54b8a1e09ac57a8c0b.jpg' | relative_url }}" alt="Listing image for Electronic ABC Learning Wall Chart Talking Alphabet 123 Educational Poster Large" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uncertainty-3560c5-when-we-do-not-know-yet-is-better-myths-and-misconcept-educational-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational poster" data-ebay-reference="uncertainty-3560c5-when-we-do-not-know-yet-is-better-myths-and-misconcept-educational-poster" target="_blank" rel="sponsored noopener noreferrer">Electronic ABC Learning Wall Chart Talking Alphabet 123 Educational Poster Large</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uncertainty-3560c5-when-we-do-not-know-yet-is-better-myths-and-misconcept-educational-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational poster" data-ebay-reference="uncertainty-3560c5-when-we-do-not-know-yet-is-better-myths-and-misconcept-educational-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for educational poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: educational poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uncertainty-3560c5-when-we-do-not-know-yet-is-better-myths-and-misconcept-educational-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational poster" data-ebay-reference="uncertainty-3560c5-when-we-do-not-know-yet-is-better-myths-and-misconcept-educational-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uncertainty-3560c5-when-we-do-not-know-yet-is-better-myths-and-misconcept-educational-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational poster" data-ebay-reference="uncertainty-3560c5-when-we-do-not-know-yet-is-better-myths-and-misconcept-educational-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PERIODIC TABLE Real Elements A3 Laminated Chemistry Science Educational Poster"><img src="{{ '/assets/images/marketplace-covers/fe6eac85e0cbd3115c4c.jpg' | relative_url }}" alt="Listing image for PERIODIC TABLE Real Elements A3 Laminated Chemistry Science Educational Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uncertainty-3560c5-when-we-do-not-know-yet-is-better-myths-and-misconcept-educational-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational poster" data-ebay-reference="uncertainty-3560c5-when-we-do-not-know-yet-is-better-myths-and-misconcept-educational-poster" target="_blank" rel="sponsored noopener noreferrer">PERIODIC TABLE Real Elements A3 Laminated Chemistry Science Educational Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uncertainty-3560c5-when-we-do-not-know-yet-is-better-myths-and-misconcept-educational-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational poster" data-ebay-reference="uncertainty-3560c5-when-we-do-not-know-yet-is-better-myths-and-misconcept-educational-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for educational poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: educational poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uncertainty-3560c5-when-we-do-not-know-yet-is-better-myths-and-misconcept-educational-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational poster" data-ebay-reference="uncertainty-3560c5-when-we-do-not-know-yet-is-better-myths-and-misconcept-educational-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uncertainty-3560c5-when-we-do-not-know-yet-is-better-myths-and-misconcept-educational-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational poster" data-ebay-reference="uncertainty-3560c5-when-we-do-not-know-yet-is-better-myths-and-misconcept-educational-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PERIODIC TABLE Real Elements A3 Laminated Chemistry Science Educational Poster"><img src="{{ '/assets/images/marketplace-covers/fe6eac85e0cbd3115c4c.jpg' | relative_url }}" alt="Listing image for PERIODIC TABLE Real Elements A3 Laminated Chemistry Science Educational Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uncertainty-3560c5-when-we-do-not-know-yet-is-better-myths-and-misconcept-educational-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational poster" data-ebay-reference="uncertainty-3560c5-when-we-do-not-know-yet-is-better-myths-and-misconcept-educational-poster" target="_blank" rel="sponsored noopener noreferrer">PERIODIC TABLE Real Elements A3 Laminated Chemistry Science Educational Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uncertainty-3560c5-when-we-do-not-know-yet-is-better-myths-and-misconcept-educational-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational poster" data-ebay-reference="uncertainty-3560c5-when-we-do-not-know-yet-is-better-myths-and-misconcept-educational-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for educational poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: educational poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uncertainty-3560c5-when-we-do-not-know-yet-is-better-myths-and-misconcept-educational-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational poster" data-ebay-reference="uncertainty-3560c5-when-we-do-not-know-yet-is-better-myths-and-misconcept-educational-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uncertainty-3560c5-when-we-do-not-know-yet-is-better-myths-and-misconcept-educational-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational poster" data-ebay-reference="uncertainty-3560c5-when-we-do-not-know-yet-is-better-myths-and-misconcept-educational-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Human Muscular System Body Educational Poster Skeletal Nervous Anatomy Chart"><img src="{{ '/assets/images/marketplace-covers/f3de2a2889d152054816.jpg' | relative_url }}" alt="Listing image for Human Muscular System Body Educational Poster Skeletal Nervous Anatomy Chart" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uncertainty-3560c5-when-we-do-not-know-yet-is-better-myths-and-misconcept-educational-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational poster" data-ebay-reference="uncertainty-3560c5-when-we-do-not-know-yet-is-better-myths-and-misconcept-educational-poster" target="_blank" rel="sponsored noopener noreferrer">Human Muscular System Body Educational Poster Skeletal Nervous Anatomy Chart</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uncertainty-3560c5-when-we-do-not-know-yet-is-better-myths-and-misconcept-educational-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational poster" data-ebay-reference="uncertainty-3560c5-when-we-do-not-know-yet-is-better-myths-and-misconcept-educational-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for educational poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: educational poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uncertainty-3560c5-when-we-do-not-know-yet-is-better-myths-and-misconcept-educational-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational poster" data-ebay-reference="uncertainty-3560c5-when-we-do-not-know-yet-is-better-myths-and-misconcept-educational-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uncertainty-3560c5-when-we-do-not-know-yet-is-better-myths-and-misconcept-educational-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational poster" data-ebay-reference="uncertainty-3560c5-when-we-do-not-know-yet-is-better-myths-and-misconcept-educational-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uncertainty-3560c5-when-we-do-not-know-yet-is-better-myths-and-misconcept-educational-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational poster" data-ebay-reference="uncertainty-3560c5-when-we-do-not-know-yet-is-better-myths-and-misconcept-educational-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Human Muscular System Body Educational Poster Skeletal Nervous Anatomy Chart"><img src="{{ '/assets/images/marketplace-covers/f3de2a2889d152054816.jpg' | relative_url }}" alt="Listing image for Human Muscular System Body Educational Poster Skeletal Nervous Anatomy Chart" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uncertainty-3560c5-when-we-do-not-know-yet-is-better-myths-and-misconcept-educational-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational poster" data-ebay-reference="uncertainty-3560c5-when-we-do-not-know-yet-is-better-myths-and-misconcept-educational-poster" target="_blank" rel="sponsored noopener noreferrer">Human Muscular System Body Educational Poster Skeletal Nervous Anatomy Chart</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uncertainty-3560c5-when-we-do-not-know-yet-is-better-myths-and-misconcept-educational-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational poster" data-ebay-reference="uncertainty-3560c5-when-we-do-not-know-yet-is-better-myths-and-misconcept-educational-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for educational poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: educational poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uncertainty-3560c5-when-we-do-not-know-yet-is-better-myths-and-misconcept-educational-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational poster" data-ebay-reference="uncertainty-3560c5-when-we-do-not-know-yet-is-better-myths-and-misconcept-educational-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uncertainty-3560c5-when-we-do-not-know-yet-is-better-myths-and-misconcept-educational-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational poster" data-ebay-reference="uncertainty-3560c5-when-we-do-not-know-yet-is-better-myths-and-misconcept-educational-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -583,7 +583,7 @@ Within the broader problem of rumours and myths, this approach serves an importa
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -603,7 +603,7 @@ Within the broader problem of rumours and myths, this approach serves an importa
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -635,7 +635,7 @@ Within the broader problem of rumours and myths, this approach serves an importa
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -687,7 +687,7 @@ Within the broader problem of rumours and myths, this approach serves an importa
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -732,7 +732,7 @@ Within the broader problem of rumours and myths, this approach serves an importa
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -773,124 +773,124 @@ Within the broader problem of rumours and myths, this approach serves an importa
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: nature.com  
-   Link: <a href="https://www.nature.com/articles/s44159-021-00006-y" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s44159-021-00006-y</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The psychological drivers of misinformation belief and its...by UKH Ecker · 2022 · Cited by 1916 — In this Review, we describe the...</p></details>
+   Link:<a href="https://www.nature.com/articles/s44159-021-00006-y" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s44159-021-00006-y</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The psychological drivers of misinformation belief and its...by UKH Ecker · 2022 · Cited by 1916 — In this Review, we describe the...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: link.springer.com  
-   Link: <a href="https://link.springer.com/article/10.1186/s41235-021-00335-9" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1186/s41235-021-00335-9</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>factors that mitigate the continued influence of...by IP Kan · 2021 · Cited by 27 — Across three studies, we evaluated the relative cont...</p></details>
+   Link:<a href="https://link.springer.com/article/10.1186/s41235-021-00335-9" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1186/s41235-021-00335-9</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>factors that mitigate the continued influence of...by IP Kan · 2021 · Cited by 27 — Across three studies, we evaluated the relative cont...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCThe role of discomfort in the continued influence effect  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8447889/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8447889/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>by MW Susmann · 2021 · Cited by 90 — Research examining the continued influence effect (CIE) of misinformation has reliably found that...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8447889/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8447889/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by MW Susmann · 2021 · Cited by 90 — Research examining the continued influence effect (CIE) of misinformation has reliably found that...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCUncertainty communication, trust and health promotion  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12652265/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12652265/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Research is tentative, but that&#x27;s okay: overcoming misconceptions about scientific...Read more...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12652265/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12652265/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Research is tentative, but that&#x27;s okay: overcoming misconceptions about scientific...Read more...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: psycharchives.org  
-   Link: <a href="https://www.psycharchives.org/en/item/ce6655bb-bbf1-4ba4-8ab8-d5a5a2fbba50" target="_blank" rel="noopener noreferrer nofollow">https://www.psycharchives.org/en/item/ce6655bb-bbf1-4ba4-8ab8-d5a5a2fbba50</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The third study examined...Read more...</p></details>
+   Link:<a href="https://www.psycharchives.org/en/item/ce6655bb-bbf1-4ba4-8ab8-d5a5a2fbba50" target="_blank" rel="noopener noreferrer nofollow">https://www.psycharchives.org/en/item/ce6655bb-bbf1-4ba4-8ab8-d5a5a2fbba50</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The third study examined...Read more...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7149229/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC7149229/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The effects of communicating uncertainty on public trust in...by AM van der Bles · 2020 · Cited by 385 — Results show that whereas pe...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7149229/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC7149229/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The effects of communicating uncertainty on public trust in...by AM van der Bles · 2020 · Cited by 385 — Results show that whereas pe...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCThe effect of uncertainty communication on public trust  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11925018/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11925018/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>by C Dries · 2025 · Cited by 9 — Our results show that people&#x27;s trust response to the communication of uncertainty depends on how cons...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11925018/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11925018/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by C Dries · 2025 · Cited by 9 — Our results show that people&#x27;s trust response to the communication of uncertainty depends on how cons...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: skepticalscience.com  
    Title: Lewandowsky 2012 misinfo  
-   Link: <a href="https://skepticalscience.com/docs/Lewandowsky_2012_misinfo.pdf" target="_blank" rel="noopener noreferrer nofollow">https://skepticalscience.com/docs/Lewandowsky_2012_misinfo.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Skeptical ScienceMisinformation and its Correction: Continued Influence and...by S Lewandowsky · Cited by 4713 — To successfully replace...</p></details>
+   Link:<a href="https://skepticalscience.com/docs/Lewandowsky_2012_misinfo.pdf" target="_blank" rel="noopener noreferrer nofollow">https://skepticalscience.com/docs/Lewandowsky_2012_misinfo.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Skeptical ScienceMisinformation and its Correction: Continued Influence and...by S Lewandowsky · Cited by 4713 — To successfully replace...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: research-information.bris.ac.uk  
    Title: University of Bristol Lewandowsky, S., Ecker, UKH, & Cook, J  
-   Link: <a href="https://research-information.bris.ac.uk/ws/portalfiles/portal/152516154/Pages_from_JARMAC_2017_59_Revision_1_V1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://research-information.bris.ac.uk/ws/portalfiles/portal/152516154/Pages_from_JARMAC_2017_59_Revision_1_V1.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>(2017). BeyondToday — Second, corrections must explain why the misinformation was disseminated in the first place or they must provide an...</p></details>
+   Link:<a href="https://research-information.bris.ac.uk/ws/portalfiles/portal/152516154/Pages_from_JARMAC_2017_59_Revision_1_V1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://research-information.bris.ac.uk/ws/portalfiles/portal/152516154/Pages_from_JARMAC_2017_59_Revision_1_V1.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(2017). BeyondToday — Second, corrections must explain why the misinformation was disseminated in the first place or they must provide an...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: royalsocietypublishing.org  
-   Link: <a href="https://royalsocietypublishing.org/rsos/article/6/5/181870/95102/Communicating-uncertainty-about-facts-numbers-and" target="_blank" rel="noopener noreferrer nofollow">https://royalsocietypublishing.org/rsos/article/6/5/181870/95102/Communicating-uncertainty-about-facts-numbers-and</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Royal Society PublishingCommunicating uncertainty about facts, numbers and scienceby AM van der Bles · 2019 · Cited by 558 — We review th...</p></details>
+   Link:<a href="https://royalsocietypublishing.org/rsos/article/6/5/181870/95102/Communicating-uncertainty-about-facts-numbers-and" target="_blank" rel="noopener noreferrer nofollow">https://royalsocietypublishing.org/rsos/article/6/5/181870/95102/Communicating-uncertainty-about-facts-numbers-and</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Royal Society PublishingCommunicating uncertainty about facts, numbers and scienceby AM van der Bles · 2019 · Cited by 558 — We review th...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: journals.sagepub.com  
-   Link: <a href="https://journals.sagepub.com/doi/10.1177/09636625241228449" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/09636625241228449</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sage JournalsCommunicating uncertainty protects against a loss of trust27 Feb 2024 — This study examines how communicating and explaining...</p></details>
+   Link:<a href="https://journals.sagepub.com/doi/10.1177/09636625241228449" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/09636625241228449</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sage JournalsCommunicating uncertainty protects against a loss of trust27 Feb 2024 — This study examines how communicating and explaining...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: repository.cam.ac.uk  
-   Link: <a href="https://www.repository.cam.ac.uk/items/2c8f4dc0-7fb4-4df6-8cd9-d654b9e9e399" target="_blank" rel="noopener noreferrer nofollow">https://www.repository.cam.ac.uk/items/2c8f4dc0-7fb4-4df6-8cd9-d654b9e9e399</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>is that communicating uncertainty will reduce public trust. However, a lack of systematic research makes it difficult to evaluate such cl...</p></details>
+   Link:<a href="https://www.repository.cam.ac.uk/items/2c8f4dc0-7fb4-4df6-8cd9-d654b9e9e399" target="_blank" rel="noopener noreferrer nofollow">https://www.repository.cam.ac.uk/items/2c8f4dc0-7fb4-4df6-8cd9-d654b9e9e399</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>is that communicating uncertainty will reduce public trust. However, a lack of systematic research makes it difficult to evaluate such cl...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/42014938/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/42014938/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>science communication can impact these trust... Keywords: disinformation; scientific uncertainty; systematic review; trust in science; u...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/42014938/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/42014938/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>science communication can impact these trust... Keywords: disinformation; scientific uncertainty; systematic review; trust in science; u...</p></details>
 
 ### Additional References
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/404058007_How_Communication_of_Scientific_Uncertainty_Affects_Trust_in_Science-A_Systematic_Review" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/404058007_How_Communication_of_Scientific_Uncertainty_Affects_Trust_in_Science-A_Systematic_Review</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>disinformation on social media and the need to manage related societal consequences. This systematic review evaluates the available...Re...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/404058007_How_Communication_of_Scientific_Uncertainty_Affects_Trust_in_Science-A_Systematic_Review" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/404058007_How_Communication_of_Scientific_Uncertainty_Affects_Trust_in_Science-A_Systematic_Review</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>disinformation on social media and the need to manage related societal consequences. This systematic review evaluates the available...Re...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/404058007_How_Communication_of_Scientific_Uncertainty_Affects_Trust_in_Science-A_Systematic_Review?_fam=1" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/404058007_How_Communication_of_Scientific_Uncertainty_Affects_Trust_in_Science-A_Systematic_Review?_fam=1</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How Communication of Scientific Uncertainty Affects Trust...22 Apr 2026 — Our findings suggest that communicating scientific uncertainti...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/404058007_How_Communication_of_Scientific_Uncertainty_Affects_Trust_in_Science-A_Systematic_Review?_fam=1" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/404058007_How_Communication_of_Scientific_Uncertainty_Affects_Trust_in_Science-A_Systematic_Review?_fam=1</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How Communication of Scientific Uncertainty Affects Trust...22 Apr 2026 — Our findings suggest that communicating scientific uncertainti...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: nuffieldfoundation.org  
-   Link: <a href="https://www.nuffieldfoundation.org/project/communicating-uncertainty-in-data-without-undermining-trust" target="_blank" rel="noopener noreferrer nofollow">https://www.nuffieldfoundation.org/project/communicating-uncertainty-in-data-without-undermining-trust</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Communicating uncertainty in data without undermining trustThis project aims to identify a range of methods to communicate uncertainty to...</p></details>
+   Link:<a href="https://www.nuffieldfoundation.org/project/communicating-uncertainty-in-data-without-undermining-trust" target="_blank" rel="noopener noreferrer nofollow">https://www.nuffieldfoundation.org/project/communicating-uncertainty-in-data-without-undermining-trust</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Communicating uncertainty in data without undermining trustThis project aims to identify a range of methods to communicate uncertainty to...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: merriam-webster.com  
-   Link: <a href="https://www.merriam-webster.com/thesaurus/communicating" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/thesaurus/communicating</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Synonyms of communicatingSynonyms for COMMUNICATING: connecting, connected, joined, attached, linked, united, closest, embracing; Antonym...</p></details>
+   Link:<a href="https://www.merriam-webster.com/thesaurus/communicating" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/thesaurus/communicating</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Synonyms of communicatingSynonyms for COMMUNICATING: connecting, connected, joined, attached, linked, united, closest, embracing; Antonym...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: scispace.com  
-   Link: <a href="https://scispace.com/pdf/the-continued-influence-of-misinformation-in-[memory" target="_blank" rel="noopener noreferrer nofollow">https://scispace.com/pdf/the-continued-influence-of-misinformation-in-[memory</a>  
+   Link:<a href="https://scispace.com/pdf/the-continued-influence-of-misinformation-in-[memory" target="_blank" rel="noopener noreferrer nofollow">https://scispace.com/pdf/the-continued-influence-of-misinformation-in-[memory</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: sciencearena.org  
-   Link: <a href="https://www.sciencearena.org/en/news/communicating-scientific-uncertainties-can-weaken-support-for-public-policies-study-finds/" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencearena.org/en/news/communicating-scientific-uncertainties-can-weaken-support-for-public-policies-study-finds/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Communicating scientific uncertainties can weaken...Apr 1, 2026 — The impacts found are small—which does not mean they should be ignored...</p></details>
+   Link:<a href="https://www.sciencearena.org/en/news/communicating-scientific-uncertainties-can-weaken-support-for-public-policies-study-finds/" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencearena.org/en/news/communicating-scientific-uncertainties-can-weaken-support-for-public-policies-study-finds/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Communicating scientific uncertainties can weaken...Apr 1, 2026 — The impacts found are small—which does not mean they should be ignored...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: misinforeview.hks.harvard.edu  
-   Link: <a href="https://misinforeview.hks.harvard.edu/article/correcting-campaign-misinformation-experimental-evidence-from-a-two-wave-panel-study/" target="_blank" rel="noopener noreferrer nofollow">https://misinforeview.hks.harvard.edu/article/correcting-campaign-misinformation-experimental-evidence-from-a-two-wave-panel-study/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>evidence from a two-wave panel studyby L Horvath · 2024 · Cited by 1 — In this study, we used a two-wave panel and a real-world intervent...</p></details>
+   Link:<a href="https://misinforeview.hks.harvard.edu/article/correcting-campaign-misinformation-experimental-evidence-from-a-two-wave-panel-study/" target="_blank" rel="noopener noreferrer nofollow">https://misinforeview.hks.harvard.edu/article/correcting-campaign-misinformation-experimental-evidence-from-a-two-wave-panel-study/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>evidence from a two-wave panel studyby L Horvath · 2024 · Cited by 1 — In this study, we used a two-wave panel and a real-world intervent...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: academic.oup.com  
-   Link: <a href="https://academic.oup.com/pnasnexus/article/4/3/pgaf071/8052021" target="_blank" rel="noopener noreferrer nofollow">https://academic.oup.com/pnasnexus/article/4/3/pgaf071/8052021</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>of uncertainty communication on public trust depends on...by C Dries · 2025 · Cited by 9 — Specifically, the study tests whether uncerta...</p></details>
+   Link:<a href="https://academic.oup.com/pnasnexus/article/4/3/pgaf071/8052021" target="_blank" rel="noopener noreferrer nofollow">https://academic.oup.com/pnasnexus/article/4/3/pgaf071/8052021</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>of uncertainty communication on public trust depends on...by C Dries · 2025 · Cited by 9 — Specifically, the study tests whether uncerta...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: doc.health  
    Title: finding signal in the noise a trust crisis in medical science  
-   Link: <a href="https://doc.health/finding-signal-in-the-noise-a-trust-crisis-in-medical-science/" target="_blank" rel="noopener noreferrer nofollow">https://doc.health/finding-signal-in-the-noise-a-trust-crisis-in-medical-science/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Finding Signal in the Noise: A Trust Crisis in Medical ScienceSep 15, 2025 — At DOC 2024&#x27;s Saturday morning session on misinformation, th...</p></details>
+   Link:<a href="https://doc.health/finding-signal-in-the-noise-a-trust-crisis-in-medical-science/" target="_blank" rel="noopener noreferrer nofollow">https://doc.health/finding-signal-in-the-noise-a-trust-crisis-in-medical-science/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Finding Signal in the Noise: A Trust Crisis in Medical ScienceSep 15, 2025 — At DOC 2024&#x27;s Saturday morning session on misinformation, th...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/258180567_Misinformation_and_Its_Correction_Continued_Influence_and_Successful_Debiasing" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/258180567_Misinformation_and_Its_Correction_Continued_Influence_and_Successful_Debiasing</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>tions of misinformation are so ineffective in memory updating and why...Read more...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/258180567_Misinformation_and_Its_Correction_Continued_Influence_and_Successful_Debiasing" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/258180567_Misinformation_and_Its_Correction_Continued_Influence_and_Successful_Debiasing</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>tions of misinformation are so ineffective in memory updating and why...Read more...</p></details>

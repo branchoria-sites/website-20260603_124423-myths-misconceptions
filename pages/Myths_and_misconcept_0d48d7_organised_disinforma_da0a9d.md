@@ -508,11 +508,11 @@ This is why organised disinformation sits at the governance end of myths and mis
 
 ## How coordinated falsehoods differ from ordinary misconception
 
-A misconception can spread because people misunderstand a topic, repeat a memorable story, or trust a source that turns out to be wrong. Organised disinformation is different because deception is part of the design. The Institute for Strategic Dialogue describes coordinated inauthentic behaviour as online entities such as accounts, pages or groups working together towards a shared goal, sometimes influencing both public perception and platform algorithms. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.isdglobal.org/our-expertise/information-warfare-and-online-manipulation/coordinated-inauthentic-behaviour/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: isdglobal.org">[Institute for Strategic Dialogue]</a><span class="citation-popover" role="note"><span class="citation-popover-source">isdglobal.org</span><span class="citation-popover-snippet">Institute for Strategic DialogueCoordinated Inauthentic BehaviourCoordinated inauthentic behaviour is when a set of online entities—indiv...</span></span></span>
+A misconception can spread because people misunderstand a topic, repeat a memorable story, or trust a source that turns out to be wrong. Organised disinformation is different because deception is part of the design. The Institute for Strategic Dialogue describes coordinated inauthentic behaviour as online entities such as accounts, pages or groups working together towards a shared goal, sometimes influencing both public perception and platform algorithms.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.isdglobal.org/our-expertise/information-warfare-and-online-manipulation/coordinated-inauthentic-behaviour/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: isdglobal.org">[Institute for Strategic Dialogue]</a><span class="citation-popover" role="note"><span class="citation-popover-source">isdglobal.org</span><span class="citation-popover-snippet">Institute for Strategic DialogueCoordinated Inauthentic BehaviourCoordinated inauthentic behaviour is when a set of online entities—indiv...</span></span></span>
 
 The key word is not always “fake”. Some campaigns mix fake accounts with real supporters, genuine grievances, recycled news, misleading framing and selective evidence. That mixture is harder to challenge than a simple fabricated claim, because the campaign can hide behind real debate. A network might amplify a rumour about election fraud, a vaccine, a minority group or a public emergency by using apparently independent voices that are actually connected.
 
-Researchers use terms such as “coordinated inauthentic behaviour” because the manipulation often lies in the coordination and disguise, not only in the content. A message may be partly true, but the campaign around it may still be deceptive if it uses sockpuppet accounts, concealed state backing, bought pages, repeated copy-and-paste posting or artificial engagement to create a false impression of public consensus. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10060790/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Coordinated inauthentic behavior: An innovative manipulation...by M Murero · 2023 · Cited by 27 — Coordinated inauthentic behavior (C...</span></span></span>
+Researchers use terms such as “coordinated inauthentic behaviour” because the manipulation often lies in the coordination and disguise, not only in the content. A message may be partly true, but the campaign around it may still be deceptive if it uses sockpuppet accounts, concealed state backing, bought pages, repeated copy-and-paste posting or artificial engagement to create a false impression of public consensus.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10060790/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Coordinated inauthentic behavior: An innovative manipulation...by M Murero · 2023 · Cited by 27 — Coordinated inauthentic behavior (C...</span></span></span>
 
 This matters for public response because a normal [correction]({{ 'correction/' | relative_url }}) may answer the false claim while missing the operation. A good response asks three questions at once: is the claim accurate, how is it being amplified, and who benefits from the deception?
 
@@ -520,9 +520,9 @@ This matters for public response because a normal [correction]({{ 'correction/' 
 
 Organised campaigns usually work by exploiting the social signals people use to judge credibility. A post that appears to have many supporters, to come from a local community, or to be repeated by several independent sources feels more credible than an isolated claim. Coordinated campaigns manufacture those signals.
 
-The Russian Internet Research Agency remains one of the clearest public examples. The US Senate Intelligence Committee said Russian operatives used social media in 2016 to spread disinformation and social division while masquerading as Americans, using ads, fabricated news, self-generated content and platform tools to interact with tens of millions of users. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.intelligence.senate.gov/wp-content/uploads/2024/08/sites-default-files-documents-report-volume2.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: intelligence.senate.gov">[Senate Select Committee on Intelligence]</a><span class="citation-popover" role="note"><span class="citation-popover-source">intelligence.senate.gov</span><span class="citation-popover-title">Select Committee on Intelligencesites-default-files-documents-report-volume2.pdf</span><span class="citation-popover-snippet">Petersburg-based. Internet Research Agency (IRA) used social media to conduct an information warfare...Read more...</span></span></span>
+The Russian Internet Research Agency remains one of the clearest public examples. The US Senate Intelligence Committee said Russian operatives used social media in 2016 to spread disinformation and social division while masquerading as Americans, using ads, fabricated news, self-generated content and platform tools to interact with tens of millions of users.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.intelligence.senate.gov/wp-content/uploads/2024/08/sites-default-files-documents-report-volume2.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: intelligence.senate.gov">[Senate Select Committee on Intelligence]</a><span class="citation-popover" role="note"><span class="citation-popover-source">intelligence.senate.gov</span><span class="citation-popover-title">Select Committee on Intelligencesites-default-files-documents-report-volume2.pdf</span><span class="citation-popover-snippet">Petersburg-based. Internet Research Agency (IRA) used social media to conduct an information warfare...Read more...</span></span></span>
 
-The lesson from that case is not that every political argument online is foreign interference. It is that influence operations often embed themselves inside existing divisions. They do not need to invent every grievance; they can intensify disputes that are already present. Senate-commissioned research on the Internet Research Agency found that its activity extended across major platforms and used [identity]({{ 'identity/' | relative_url }})-focused communities, political pages and targeted narratives to shape discourse. <span class="citation-chip-wrap"><a class="citation-chip" href="https://digitalcommons.unl.edu/senatedocs/2/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: digitalcommons.unl.edu">[DigitalCommons]</a><span class="citation-popover" role="note"><span class="citation-popover-source">digitalcommons.unl.edu</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The lesson from that case is not that every political argument online is foreign interference. It is that influence operations often embed themselves inside existing divisions. They do not need to invent every grievance; they can intensify disputes that are already present. Senate-commissioned research on the Internet Research Agency found that its activity extended across major platforms and used [identity]({{ 'identity/' | relative_url }})-focused communities, political pages and targeted narratives to shape discourse.<span class="citation-chip-wrap"><a class="citation-chip" href="https://digitalcommons.unl.edu/senatedocs/2/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: digitalcommons.unl.edu">[DigitalCommons]</a><span class="citation-popover" role="note"><span class="citation-popover-source">digitalcommons.unl.edu</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 Common tactics include:
 
@@ -545,9 +545,9 @@ Not every campaign is sophisticated. Some are crude networks of fake accounts. O
 
 Organised disinformation campaigns thrive when a media system rewards speed, outrage and repetition. Platforms do not usually create the original myth, but their ranking systems, advertising tools, recommendation feeds and engagement metrics can change how far it travels. A rumour that might once have stayed local can become a national story if it is pushed by coordinated accounts and then picked up by influencers, partisan pages or news outlets seeking attention.
 
-The European Commission’s strengthened Code of Practice on Disinformation reflects this systems view. Its commitments include demonetising disinformation, improving transparency for political and issue advertising, addressing manipulative behaviour, empowering users, supporting fact-checkers and improving researchers’ access to data. <span class="citation-chip-wrap"><a class="citation-chip" href="https://commission.europa.eu/topics/countering-information-manipulation/strengthened-eu-code-practice-disinformation_en" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: commission.europa.eu">[European Commission]</a><span class="citation-popover" role="note"><span class="citation-popover-source">commission.europa.eu</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The European Commission’s strengthened Code of Practice on Disinformation reflects this systems view. Its commitments include demonetising disinformation, improving transparency for political and issue advertising, addressing manipulative behaviour, empowering users, supporting fact-checkers and improving researchers’ access to data.<span class="citation-chip-wrap"><a class="citation-chip" href="https://commission.europa.eu/topics/countering-information-manipulation/strengthened-eu-code-practice-disinformation_en" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: commission.europa.eu">[European Commission]</a><span class="citation-popover" role="note"><span class="citation-popover-source">commission.europa.eu</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-The Digital Services Act takes the same problem further by imposing duties on very large online platforms and search engines to assess and mitigate systemic risks linked to their services. In practice, this shifts part of the conversation from individual takedowns to platform design: recommender systems, advertising policies, crisis procedures, access to data and transparency reporting. <span class="citation-chip-wrap"><a class="citation-chip" href="https://digital-strategy.ec.europa.eu/en/policies/code-practice-disinformation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: digital-strategy.ec.europa.eu">[Digital Strategy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">digital-strategy.ec.europa.eu</span><span class="citation-popover-title">code practice disinformation</span><span class="citation-popover-snippet">code practice disinformation</span></span></span>
+The Digital Services Act takes the same problem further by imposing duties on very large online platforms and search engines to assess and mitigate systemic risks linked to their services. In practice, this shifts part of the conversation from individual takedowns to platform design: recommender systems, advertising policies, crisis procedures, access to data and transparency reporting.<span class="citation-chip-wrap"><a class="citation-chip" href="https://digital-strategy.ec.europa.eu/en/policies/code-practice-disinformation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: digital-strategy.ec.europa.eu">[Digital Strategy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">digital-strategy.ec.europa.eu</span><span class="citation-popover-title">code practice disinformation</span><span class="citation-popover-snippet">code practice disinformation</span></span></span>
 
 This does not mean platforms can or should remove every false statement. Over-removal can chill lawful speech, especially during fast-moving events when facts are uncertain. The harder question is whether platforms are allowing deceptive networks to game their systems. A governance response can focus on behaviour rather than viewpoint: fake account networks, undisclosed political advertising, coordinated manipulation, bot-like amplification, monetisation of harmful hoaxes and impersonation of trusted institutions.
 
@@ -557,15 +557,15 @@ Media organisations face a related risk. When journalists report that “a claim
 
 “Check before sharing” is useful advice, but it places too much responsibility on individuals when the problem is organised at scale. A person scrolling through a feed cannot audit account networks, advertising libraries, bot clusters or covert foreign influence operations. Public resilience needs several layers.
 
-**First, institutions need rapid, credible communication.** During elections, health emergencies or public disorder, silence creates a vacuum. Official bodies do not need to comment on every rumour, but they do need clear channels, fast correction of high-risk falsehoods and consistent updates when facts change. The World Health Organization describes infodemic management as a systematic approach that includes listening to community concerns, promoting understanding of expert advice, building resilience to misinformation and engaging communities to take positive action. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.who.int/health-topics/infodemic" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: who.int">[World Health Organization]</a><span class="citation-popover" role="note"><span class="citation-popover-source">who.int</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+**First, institutions need rapid, credible communication.** During elections, health emergencies or public disorder, silence creates a vacuum. Official bodies do not need to comment on every rumour, but they do need clear channels, fast correction of high-risk falsehoods and consistent updates when facts change. The World Health Organization describes infodemic management as a systematic approach that includes listening to community concerns, promoting understanding of expert advice, building resilience to misinformation and engaging communities to take positive action.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.who.int/health-topics/infodemic" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: who.int">[World Health Organization]</a><span class="citation-popover" role="note"><span class="citation-popover-source">who.int</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 **Second, communities need trusted intermediaries.** Public health agencies, election commissions and police forces often struggle if they speak only from central accounts. Local journalists, community leaders, teachers, doctors, faith leaders and civil society groups may be better placed to recognise rumours early and respond in language that people trust. This is especially important where distrust of government or media is already high.
 
-**Third, people need prebunking, not only debunking.** Prebunking teaches people to recognise manipulation techniques before they encounter a specific false claim. Research on psychological inoculation has found that exposing people to weakened examples of misleading tactics can improve resilience to misinformation. Large-scale experiments on social media have tested short videos explaining techniques such as emotional manipulation, scapegoating and false dichotomies. University of Bristol <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.science.org/doi/10.1126/sciadv.abo6254" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.org">[Science.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+**Third, people need prebunking, not only debunking.** Prebunking teaches people to recognise manipulation techniques before they encounter a specific false claim. Research on psychological inoculation has found that exposing people to weakened examples of misleading tactics can improve resilience to misinformation. Large-scale experiments on social media have tested short videos explaining techniques such as emotional manipulation, scapegoating and false dichotomies. University of Bristol<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.science.org/doi/10.1126/sciadv.abo6254" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.org">[Science.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 **Fourth, platforms need to reduce artificial reach.** Labelling a false post is not enough if the system continues to recommend, monetise or algorithmically boost the network spreading it. The more organised the campaign, the more important it becomes to address amplification, account authenticity, advertising transparency and repeat offenders.
 
-**Fifth, researchers and watchdogs need access to evidence.** Without data access, the public debate becomes dependent on what platforms voluntarily disclose. The European Digital Media Observatory’s work on implementation of the EU Code of Practice has focused on transparency, media literacy, fact-checking partnerships and research access, while also highlighting the difficulty of assessing platform performance from incomplete reporting. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://edmo.eu/wp-content/uploads/2025/06/EDMO-Report-%E2%80%93-Implementing-the-EU-Code-of-Practice-on-Disinformation.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: edmo.eu">[EDMO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">edmo.eu</span><span class="citation-popover-snippet">Open source on edmo.eu.</span></span></span>
+**Fifth, researchers and watchdogs need access to evidence.** Without data access, the public debate becomes dependent on what platforms voluntarily disclose. The European Digital Media Observatory’s work on implementation of the EU Code of Practice has focused on transparency, media literacy, fact-checking partnerships and research access, while also highlighting the difficulty of assessing platform performance from incomplete reporting.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://edmo.eu/wp-content/uploads/2025/06/EDMO-Report-%E2%80%93-Implementing-the-EU-Code-of-Practice-on-Disinformation.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: edmo.eu">[EDMO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">edmo.eu</span><span class="citation-popover-snippet">Open source on edmo.eu.</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/S0r4zT8avV4" title="New reports on Russian disinformation in 2016 campaign" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=S0r4zT8avV4" target="_blank" rel="noopener noreferrer">New reports on Russian disinformation in 2016 campaign</a></p><p class="youtube-embed-meta">Channel: CBS News &middot; Views: 2.9K &middot; Uploaded: December 2018 &middot; Length: 7 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=S0r4zT8avV4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=S0r4zT8avV4">Open on YouTube</a></p></div></div></div>
 
@@ -575,9 +575,9 @@ Public response to organised disinformation has to avoid two errors. The first i
 
 This distinction is why definitions matter. Disinformation involves [intent]({{ 'intent/' | relative_url }}) to mislead, but intent is difficult to prove from a single post. Campaign analysis therefore often relies on behavioural evidence: coordination, deception about identity, repeated patterns, hidden funding, artificial amplification or links to known operators. A false claim shared by an ordinary user should not be treated the same way as a covert network designed to impersonate ordinary users.
 
-The UK debate shows the tension. The Online Safety Act 2023 introduced new duties for regulated services and created a false communications offence for knowingly false messages intended to cause non-trivial harm, but critics and parliamentary scrutiny have argued that the regime is not designed to tackle much viral misinformation as a systems problem. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gov.uk/government/publications/online-safety-act-explainer/online-safety-act-explainer" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">Online Safety Act: explainer</span><span class="citation-popover-snippet">Online Safety Act: explainer</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://committees.parliament.uk/committee/135/science-innovation-and-technology-committee/news/208296/uks-online-safety-regime-unable-to-tackle-the-spread-of-misinformation-and-cannot-keep-users-safe-online-mps-warn/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: committees.parliament.uk">[UK Parliament Committees]</a><span class="citation-popover" role="note"><span class="citation-popover-source">committees.parliament.uk</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The UK debate shows the tension. The Online Safety Act 2023 introduced new duties for regulated services and created a false communications offence for knowingly false messages intended to cause non-trivial harm, but critics and parliamentary scrutiny have argued that the regime is not designed to tackle much viral misinformation as a systems problem.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gov.uk/government/publications/online-safety-act-explainer/online-safety-act-explainer" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">Online Safety Act: explainer</span><span class="citation-popover-snippet">Online Safety Act: explainer</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://committees.parliament.uk/committee/135/science-innovation-and-technology-committee/news/208296/uks-online-safety-regime-unable-to-tackle-the-spread-of-misinformation-and-cannot-keep-users-safe-online-mps-warn/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: committees.parliament.uk">[UK Parliament Committees]</a><span class="citation-popover" role="note"><span class="citation-popover-source">committees.parliament.uk</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-The EU approach is more explicitly systemic, especially for very large platforms. Even there, implementation is contested. The Code of Practice and Digital Services Act can require risk assessment, transparency and mitigation, but the effectiveness of those measures depends on enforcement, platform cooperation, independent audit, researcher access and whether commitments produce measurable changes rather than public relations language. <span class="citation-chip-wrap"><a class="citation-chip" href="https://commission.europa.eu/topics/countering-information-manipulation/strengthened-eu-code-practice-disinformation_en" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: commission.europa.eu">[European Commission]</a><span class="citation-popover" role="note"><span class="citation-popover-source">commission.europa.eu</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.disinfo.eu/publications/cib-detection-tree-third-branch/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: disinfo.eu">[disinfo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">disinfo.eu</span><span class="citation-popover-title">cib detection tree third branch</span><span class="citation-popover-snippet">cib detection tree third branch</span></span></span> A democratic response should therefore be precise. It should target covert manipulation, fraud, impersonation, illegal threats, foreign interference, undisclosed political advertising and artificial amplification. It should be cautious about broad state power to define truth in ordinary political debate. The aim is to protect the conditions for public reasoning, not to make institutions immune from criticism.
+The EU approach is more explicitly systemic, especially for very large platforms. Even there, implementation is contested. The Code of Practice and Digital Services Act can require risk assessment, transparency and mitigation, but the effectiveness of those measures depends on enforcement, platform cooperation, independent audit, researcher access and whether commitments produce measurable changes rather than public relations language.<span class="citation-chip-wrap"><a class="citation-chip" href="https://commission.europa.eu/topics/countering-information-manipulation/strengthened-eu-code-practice-disinformation_en" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: commission.europa.eu">[European Commission]</a><span class="citation-popover" role="note"><span class="citation-popover-source">commission.europa.eu</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.disinfo.eu/publications/cib-detection-tree-third-branch/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: disinfo.eu">[disinfo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">disinfo.eu</span><span class="citation-popover-title">cib detection tree third branch</span><span class="citation-popover-snippet">cib detection tree third branch</span></span></span> A democratic response should therefore be precise. It should target covert manipulation, fraud, impersonation, illegal threats, foreign interference, undisclosed political advertising and artificial amplification. It should be cautious about broad state power to define truth in ordinary political debate. The aim is to protect the conditions for public reasoning, not to make institutions immune from criticism.
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_organised_disinforma_da0a9d-Illustration-3-dark.svg" | relative_url }}" alt="Campaigns illustration 3" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_organised_disinforma_da0a9d-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_organised_disinforma_da0a9d-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What effective response looks like in practice
@@ -611,194 +611,194 @@ The most useful public response is therefore not a single tactic. Fact-checking 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ElaZu8TQvYc" title="Side session: Risk Communications, Community Engagement &amp; Infodemic management | #ESCAIDE2024" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ElaZu8TQvYc" target="_blank" rel="noopener noreferrer">Side session: Risk Communications, Community Engagement &amp; Infodemic management | #ESCAIDE2024</a></p><p class="youtube-embed-meta">Channel: ECDC &middot; Views: 265 &middot; Uploaded: February 2025 &middot; Length: 1 hour</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ElaZu8TQvYc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ElaZu8TQvYc">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When Falsehoods Are Spread on Purpose. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When Falsehoods Are Spread on Purpose. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Chaos+Machine+by+Max+Fisher&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Chaos Machine on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Fz5JEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Chaos Machine" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Chaos+Machine+by+Max+Fisher&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Chaos Machine">The Chaos Machine</a>
-        </h4>
-        <p class="fr-book-author">By Max Fisher</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Chaos+Machine+by+Max+Fisher&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Chaos Machine on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Fz5JEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Chaos Machine" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Chaos+Machine+by+Max+Fisher&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Chaos Machine">The Chaos Machine</a>
+</h4>
+<p class="fr-book-author">By Max Fisher</p>
         
-        <p class="fr-book-desc">Explains how platforms, incentives and organised manipulation spread falsehoods at scale.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Chaos+Machine+by+Max+Fisher&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains how platforms, incentives and organised manipulation spread falsehoods at scale.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Chaos+Machine+by+Max+Fisher&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Active+Measures+by+Thomas+Rid&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Active Measures on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=lWltDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Active Measures" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Active+Measures+by+Thomas+Rid&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Active Measures">Active Measures</a>
-        </h4>
-        <p class="fr-book-author">By Thomas Rid</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Active+Measures+by+Thomas+Rid&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Active Measures on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=lWltDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Active Measures" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Active+Measures+by+Thomas+Rid&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Active Measures">Active Measures</a>
+</h4>
+<p class="fr-book-author">By Thomas Rid</p>
         
-        <p class="fr-book-desc">Directly covers organised influence operations and deliberate falsehood campaigns.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Active+Measures+by+Thomas+Rid&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly covers organised influence operations and deliberate falsehood campaigns.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Active+Measures+by+Thomas+Rid&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Likewar+by+Peter+Warren+Singer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Likewar on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=URFxDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Likewar" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Likewar+by+Peter+Warren+Singer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Likewar">Likewar</a>
-        </h4>
-        <p class="fr-book-author">By Peter Warren Singer, Emerson T. Brooking</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Likewar+by+Peter+Warren+Singer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Likewar on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=URFxDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Likewar" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Likewar+by+Peter+Warren+Singer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Likewar">Likewar</a>
+</h4>
+<p class="fr-book-author">By Peter Warren Singer, Emerson T. Brooking</p>
         
-        <p class="fr-book-desc">Shows how online networks are used strategically to shape attention and belief.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Likewar+by+Peter+Warren+Singer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows how online networks are used strategically to shape attention and belief.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Likewar+by+Peter+Warren+Singer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Trust+Me+I%27m+Lying+by+Ryan+Holiday&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Trust Me I&#x27;m Lying on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nHU7DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Trust Me I&#x27;m Lying" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Trust+Me+I%27m+Lying+by+Ryan+Holiday&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Trust Me I&#x27;m Lying">Trust Me I&#x27;m Lying</a>
-        </h4>
-        <p class="fr-book-author">By Ryan Holiday</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Trust+Me+I%27m+Lying+by+Ryan+Holiday&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Trust Me I&#x27;m Lying on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nHU7DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Trust Me I&#x27;m Lying" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Trust+Me+I%27m+Lying+by+Ryan+Holiday&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Trust Me I&#x27;m Lying">Trust Me I&#x27;m Lying</a>
+</h4>
+<p class="fr-book-author">By Ryan Holiday</p>
         
-        <p class="fr-book-desc">Explains how coordinated actors exploit media incentives to push deceptive stories.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Trust+Me+I%27m+Lying+by+Ryan+Holiday&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains how coordinated actors exploit media incentives to push deceptive stories.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Trust+Me+I%27m+Lying+by+Ryan+Holiday&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Chaos+Machine&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Chaos Machine</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Active+Measures&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Active Measures</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Likewar&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Likewar</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Chaos+Machine&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Chaos Machine</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Active+Measures&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Active Measures</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Likewar&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Likewar</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=classroom+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=campaigns-when-falsehoods-are-spread-on-purpose-myths-and-misconcept-classroom-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classroom poster" data-ebay-reference="campaigns-when-falsehoods-are-spread-on-purpose-myths-and-misconcept-classroom-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Eyewitness Classroom Learning Wall Charts Posters X9 Never Used"><img src="{{ '/assets/images/marketplace-covers/39c50b2ead1f6d727f6f.jpg' | relative_url }}" alt="Listing image for Eyewitness Classroom Learning Wall Charts Posters X9 Never Used" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=classroom+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=campaigns-when-falsehoods-are-spread-on-purpose-myths-and-misconcept-classroom-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classroom poster" data-ebay-reference="campaigns-when-falsehoods-are-spread-on-purpose-myths-and-misconcept-classroom-poster" target="_blank" rel="sponsored noopener noreferrer">Eyewitness Classroom Learning Wall Charts Posters X9 Never Used</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=classroom+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=campaigns-when-falsehoods-are-spread-on-purpose-myths-and-misconcept-classroom-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classroom poster" data-ebay-reference="campaigns-when-falsehoods-are-spread-on-purpose-myths-and-misconcept-classroom-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for classroom poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: classroom poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=classroom+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=campaigns-when-falsehoods-are-spread-on-purpose-myths-and-misconcept-classroom-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classroom poster" data-ebay-reference="campaigns-when-falsehoods-are-spread-on-purpose-myths-and-misconcept-classroom-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=classroom+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=campaigns-when-falsehoods-are-spread-on-purpose-myths-and-misconcept-classroom-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classroom poster" data-ebay-reference="campaigns-when-falsehoods-are-spread-on-purpose-myths-and-misconcept-classroom-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Eyewitness Classroom Learning Wall Charts Posters X9 Never Used"><img src="{{ '/assets/images/marketplace-covers/39c50b2ead1f6d727f6f.jpg' | relative_url }}" alt="Listing image for Eyewitness Classroom Learning Wall Charts Posters X9 Never Used" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=classroom+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=campaigns-when-falsehoods-are-spread-on-purpose-myths-and-misconcept-classroom-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classroom poster" data-ebay-reference="campaigns-when-falsehoods-are-spread-on-purpose-myths-and-misconcept-classroom-poster" target="_blank" rel="sponsored noopener noreferrer">Eyewitness Classroom Learning Wall Charts Posters X9 Never Used</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=classroom+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=campaigns-when-falsehoods-are-spread-on-purpose-myths-and-misconcept-classroom-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classroom poster" data-ebay-reference="campaigns-when-falsehoods-are-spread-on-purpose-myths-and-misconcept-classroom-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for classroom poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: classroom poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=classroom+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=campaigns-when-falsehoods-are-spread-on-purpose-myths-and-misconcept-classroom-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classroom poster" data-ebay-reference="campaigns-when-falsehoods-are-spread-on-purpose-myths-and-misconcept-classroom-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=classroom+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=campaigns-when-falsehoods-are-spread-on-purpose-myths-and-misconcept-classroom-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classroom poster" data-ebay-reference="campaigns-when-falsehoods-are-spread-on-purpose-myths-and-misconcept-classroom-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Animals Of The World Educational Poster Kids Classroom Learning Chart Wall Art"><img src="{{ '/assets/images/marketplace-covers/6e682dd582a21573957f.jpg' | relative_url }}" alt="Listing image for Animals Of The World Educational Poster Kids Classroom Learning Chart Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=classroom+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=campaigns-when-falsehoods-are-spread-on-purpose-myths-and-misconcept-classroom-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classroom poster" data-ebay-reference="campaigns-when-falsehoods-are-spread-on-purpose-myths-and-misconcept-classroom-poster" target="_blank" rel="sponsored noopener noreferrer">Animals Of The World Educational Poster Kids Classroom Learning Chart Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=classroom+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=campaigns-when-falsehoods-are-spread-on-purpose-myths-and-misconcept-classroom-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classroom poster" data-ebay-reference="campaigns-when-falsehoods-are-spread-on-purpose-myths-and-misconcept-classroom-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for classroom poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: classroom poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=classroom+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=campaigns-when-falsehoods-are-spread-on-purpose-myths-and-misconcept-classroom-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classroom poster" data-ebay-reference="campaigns-when-falsehoods-are-spread-on-purpose-myths-and-misconcept-classroom-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=classroom+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=campaigns-when-falsehoods-are-spread-on-purpose-myths-and-misconcept-classroom-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classroom poster" data-ebay-reference="campaigns-when-falsehoods-are-spread-on-purpose-myths-and-misconcept-classroom-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Animals Of The World Educational Poster Kids Classroom Learning Chart Wall Art"><img src="{{ '/assets/images/marketplace-covers/6e682dd582a21573957f.jpg' | relative_url }}" alt="Listing image for Animals Of The World Educational Poster Kids Classroom Learning Chart Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=classroom+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=campaigns-when-falsehoods-are-spread-on-purpose-myths-and-misconcept-classroom-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classroom poster" data-ebay-reference="campaigns-when-falsehoods-are-spread-on-purpose-myths-and-misconcept-classroom-poster" target="_blank" rel="sponsored noopener noreferrer">Animals Of The World Educational Poster Kids Classroom Learning Chart Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=classroom+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=campaigns-when-falsehoods-are-spread-on-purpose-myths-and-misconcept-classroom-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classroom poster" data-ebay-reference="campaigns-when-falsehoods-are-spread-on-purpose-myths-and-misconcept-classroom-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for classroom poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: classroom poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=classroom+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=campaigns-when-falsehoods-are-spread-on-purpose-myths-and-misconcept-classroom-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classroom poster" data-ebay-reference="campaigns-when-falsehoods-are-spread-on-purpose-myths-and-misconcept-classroom-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=classroom+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=campaigns-when-falsehoods-are-spread-on-purpose-myths-and-misconcept-classroom-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classroom poster" data-ebay-reference="campaigns-when-falsehoods-are-spread-on-purpose-myths-and-misconcept-classroom-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Map Of The World Wall Poster With Flags Classroom Geography Gift Print A5-A3"><img src="{{ '/assets/images/marketplace-covers/c3047e32d56e58c2f792.jpg' | relative_url }}" alt="Listing image for Map Of The World Wall Poster With Flags Classroom Geography Gift Print A5-A3" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=classroom+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=campaigns-when-falsehoods-are-spread-on-purpose-myths-and-misconcept-classroom-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classroom poster" data-ebay-reference="campaigns-when-falsehoods-are-spread-on-purpose-myths-and-misconcept-classroom-poster" target="_blank" rel="sponsored noopener noreferrer">Map Of The World Wall Poster With Flags Classroom Geography Gift Print A5-A3</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=classroom+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=campaigns-when-falsehoods-are-spread-on-purpose-myths-and-misconcept-classroom-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classroom poster" data-ebay-reference="campaigns-when-falsehoods-are-spread-on-purpose-myths-and-misconcept-classroom-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for classroom poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: classroom poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=classroom+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=campaigns-when-falsehoods-are-spread-on-purpose-myths-and-misconcept-classroom-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classroom poster" data-ebay-reference="campaigns-when-falsehoods-are-spread-on-purpose-myths-and-misconcept-classroom-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=classroom+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=campaigns-when-falsehoods-are-spread-on-purpose-myths-and-misconcept-classroom-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classroom poster" data-ebay-reference="campaigns-when-falsehoods-are-spread-on-purpose-myths-and-misconcept-classroom-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Map Of The World Wall Poster With Flags Classroom Geography Gift Print A5-A3"><img src="{{ '/assets/images/marketplace-covers/c3047e32d56e58c2f792.jpg' | relative_url }}" alt="Listing image for Map Of The World Wall Poster With Flags Classroom Geography Gift Print A5-A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=classroom+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=campaigns-when-falsehoods-are-spread-on-purpose-myths-and-misconcept-classroom-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classroom poster" data-ebay-reference="campaigns-when-falsehoods-are-spread-on-purpose-myths-and-misconcept-classroom-poster" target="_blank" rel="sponsored noopener noreferrer">Map Of The World Wall Poster With Flags Classroom Geography Gift Print A5-A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=classroom+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=campaigns-when-falsehoods-are-spread-on-purpose-myths-and-misconcept-classroom-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classroom poster" data-ebay-reference="campaigns-when-falsehoods-are-spread-on-purpose-myths-and-misconcept-classroom-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for classroom poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: classroom poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=classroom+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=campaigns-when-falsehoods-are-spread-on-purpose-myths-and-misconcept-classroom-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classroom poster" data-ebay-reference="campaigns-when-falsehoods-are-spread-on-purpose-myths-and-misconcept-classroom-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=classroom+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=campaigns-when-falsehoods-are-spread-on-purpose-myths-and-misconcept-classroom-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classroom poster" data-ebay-reference="campaigns-when-falsehoods-are-spread-on-purpose-myths-and-misconcept-classroom-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for A3 Times Tables 1-12 Educational Poster Maths Wall Chart Kids Classroom Home"><img src="{{ '/assets/images/marketplace-covers/83e42933a24967ed34f8.jpg' | relative_url }}" alt="Listing image for A3 Times Tables 1-12 Educational Poster Maths Wall Chart Kids Classroom Home" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=classroom+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=campaigns-when-falsehoods-are-spread-on-purpose-myths-and-misconcept-classroom-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classroom poster" data-ebay-reference="campaigns-when-falsehoods-are-spread-on-purpose-myths-and-misconcept-classroom-poster" target="_blank" rel="sponsored noopener noreferrer">A3 Times Tables 1-12 Educational Poster Maths Wall Chart Kids Classroom Home</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=classroom+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=campaigns-when-falsehoods-are-spread-on-purpose-myths-and-misconcept-classroom-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classroom poster" data-ebay-reference="campaigns-when-falsehoods-are-spread-on-purpose-myths-and-misconcept-classroom-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for classroom poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: classroom poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=classroom+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=campaigns-when-falsehoods-are-spread-on-purpose-myths-and-misconcept-classroom-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classroom poster" data-ebay-reference="campaigns-when-falsehoods-are-spread-on-purpose-myths-and-misconcept-classroom-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=classroom+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=campaigns-when-falsehoods-are-spread-on-purpose-myths-and-misconcept-classroom-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classroom poster" data-ebay-reference="campaigns-when-falsehoods-are-spread-on-purpose-myths-and-misconcept-classroom-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=classroom+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=campaigns-when-falsehoods-are-spread-on-purpose-myths-and-misconcept-classroom-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classroom poster" data-ebay-reference="campaigns-when-falsehoods-are-spread-on-purpose-myths-and-misconcept-classroom-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for A3 Times Tables 1-12 Educational Poster Maths Wall Chart Kids Classroom Home"><img src="{{ '/assets/images/marketplace-covers/83e42933a24967ed34f8.jpg' | relative_url }}" alt="Listing image for A3 Times Tables 1-12 Educational Poster Maths Wall Chart Kids Classroom Home" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=classroom+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=campaigns-when-falsehoods-are-spread-on-purpose-myths-and-misconcept-classroom-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classroom poster" data-ebay-reference="campaigns-when-falsehoods-are-spread-on-purpose-myths-and-misconcept-classroom-poster" target="_blank" rel="sponsored noopener noreferrer">A3 Times Tables 1-12 Educational Poster Maths Wall Chart Kids Classroom Home</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=classroom+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=campaigns-when-falsehoods-are-spread-on-purpose-myths-and-misconcept-classroom-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classroom poster" data-ebay-reference="campaigns-when-falsehoods-are-spread-on-purpose-myths-and-misconcept-classroom-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for classroom poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: classroom poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=classroom+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=campaigns-when-falsehoods-are-spread-on-purpose-myths-and-misconcept-classroom-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classroom poster" data-ebay-reference="campaigns-when-falsehoods-are-spread-on-purpose-myths-and-misconcept-classroom-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=classroom+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=campaigns-when-falsehoods-are-spread-on-purpose-myths-and-misconcept-classroom-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classroom poster" data-ebay-reference="campaigns-when-falsehoods-are-spread-on-purpose-myths-and-misconcept-classroom-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -814,7 +814,7 @@ The most useful public response is therefore not a single tactic. Fact-checking 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -834,7 +834,7 @@ The most useful public response is therefore not a single tactic. Fact-checking 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -866,7 +866,7 @@ The most useful public response is therefore not a single tactic. Fact-checking 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -918,7 +918,7 @@ The most useful public response is therefore not a single tactic. Fact-checking 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -963,7 +963,7 @@ The most useful public response is therefore not a single tactic. Fact-checking 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -1004,188 +1004,188 @@ The most useful public response is therefore not a single tactic. Fact-checking 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10060790/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10060790/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Coordinated inauthentic behavior: An innovative manipulation...by M Murero · 2023 · Cited by 27 — Coordinated inauthentic behavior (C...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10060790/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10060790/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Coordinated inauthentic behavior: An innovative manipulation...by M Murero · 2023 · Cited by 27 — Coordinated inauthentic behavior (C...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: intelligence.senate.gov  
    Title: Select Committee on Intelligencesites-default-files-documents-report-volume2.pdf  
-   Link: <a href="https://www.intelligence.senate.gov/wp-content/uploads/2024/08/sites-default-files-documents-report-volume2.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.intelligence.senate.gov/wp-content/uploads/2024/08/sites-default-files-documents-report-volume2.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Petersburg-based. Internet Research Agency (IRA) used social media to conduct an information warfare...Read more...</p></details>
+   Link:<a href="https://www.intelligence.senate.gov/wp-content/uploads/2024/08/sites-default-files-documents-report-volume2.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.intelligence.senate.gov/wp-content/uploads/2024/08/sites-default-files-documents-report-volume2.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Petersburg-based. Internet Research Agency (IRA) used social media to conduct an information warfare...Read more...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: intelligence.senate.gov  
-   Link: <a href="https://www.intelligence.senate.gov/2019/10/08/press-senate-intel-committee-releases-bipartisan-report-russia-e2-80-99s-use-social-media/" target="_blank" rel="noopener noreferrer nofollow">https://www.intelligence.senate.gov/2019/10/08/press-senate-intel-committee-releases-bipartisan-report-russia-e2-80-99s-use-social-media/</a>  
+   Link:<a href="https://www.intelligence.senate.gov/2019/10/08/press-senate-intel-committee-releases-bipartisan-report-russia-e2-80-99s-use-social-media/" target="_blank" rel="noopener noreferrer nofollow">https://www.intelligence.senate.gov/2019/10/08/press-senate-intel-committee-releases-bipartisan-report-russia-e2-80-99s-use-social-media/</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: intelligence.senate.gov  
-   Link: <a href="https://www.intelligence.senate.gov/2018/12/17/press-new-reports-shed-light-internet-research-agency-e2-80-99s-social-media-tactics/" target="_blank" rel="noopener noreferrer nofollow">https://www.intelligence.senate.gov/2018/12/17/press-new-reports-shed-light-internet-research-agency-e2-80-99s-social-media-tactics/</a>  
+   Link:<a href="https://www.intelligence.senate.gov/2018/12/17/press-new-reports-shed-light-internet-research-agency-e2-80-99s-social-media-tactics/" target="_blank" rel="noopener noreferrer nofollow">https://www.intelligence.senate.gov/2018/12/17/press-new-reports-shed-light-internet-research-agency-e2-80-99s-social-media-tactics/</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: who.int  
-   Link: <a href="https://www.who.int/health-topics/infodemic" target="_blank" rel="noopener noreferrer nofollow">https://www.who.int/health-topics/infodemic</a>  
+   Link:<a href="https://www.who.int/health-topics/infodemic" target="_blank" rel="noopener noreferrer nofollow">https://www.who.int/health-topics/infodemic</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: science.org  
-   Link: <a href="https://www.science.org/doi/10.1126/sciadv.abo6254" target="_blank" rel="noopener noreferrer nofollow">https://www.science.org/doi/10.1126/sciadv.abo6254</a>  
+   Link:<a href="https://www.science.org/doi/10.1126/sciadv.abo6254" target="_blank" rel="noopener noreferrer nofollow">https://www.science.org/doi/10.1126/sciadv.abo6254</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: edmo.eu  
-   Link: <a href="https://edmo.eu/wp-content/uploads/2025/06/EDMO-Report-%E2%80%93-Implementing-the-EU-Code-of-Practice-on-Disinformation.pdf" target="_blank" rel="noopener noreferrer nofollow">https://edmo.eu/wp-content/uploads/2025/06/EDMO-Report-%E2%80%93-Implementing-the-EU-Code-of-Practice-on-Disinformation.pdf</a>  
+   Link:<a href="https://edmo.eu/wp-content/uploads/2025/06/EDMO-Report-%E2%80%93-Implementing-the-EU-Code-of-Practice-on-Disinformation.pdf" target="_blank" rel="noopener noreferrer nofollow">https://edmo.eu/wp-content/uploads/2025/06/EDMO-Report-%E2%80%93-Implementing-the-EU-Code-of-Practice-on-Disinformation.pdf</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: edmo.eu  
-   Link: <a href="https://edmo.eu/publications/implementing-the-eu-code-of-practice-on-disinformation-an-evaluation-of-vlopse-compliance-and-effectiveness-jan-jun-2024/" target="_blank" rel="noopener noreferrer nofollow">https://edmo.eu/publications/implementing-the-eu-code-of-practice-on-disinformation-an-evaluation-of-vlopse-compliance-and-effectiveness-jan-jun-2024/</a>  
+   Link:<a href="https://edmo.eu/publications/implementing-the-eu-code-of-practice-on-disinformation-an-evaluation-of-vlopse-compliance-and-effectiveness-jan-jun-2024/" target="_blank" rel="noopener noreferrer nofollow">https://edmo.eu/publications/implementing-the-eu-code-of-practice-on-disinformation-an-evaluation-of-vlopse-compliance-and-effectiveness-jan-jun-2024/</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: GOV.UK  
    Title: Online Safety Act: explainer  
-   Link: <a href="https://www.gov.uk/government/publications/online-safety-act-explainer/online-safety-act-explainer" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/online-safety-act-explainer/online-safety-act-explainer</a>  
+   Link:<a href="https://www.gov.uk/government/publications/online-safety-act-explainer/online-safety-act-explainer" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/online-safety-act-explainer/online-safety-act-explainer</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: committees.parliament.uk  
-   Link: <a href="https://committees.parliament.uk/committee/135/science-innovation-and-technology-committee/news/208296/uks-online-safety-regime-unable-to-tackle-the-spread-of-misinformation-and-cannot-keep-users-safe-online-mps-warn/" target="_blank" rel="noopener noreferrer nofollow">https://committees.parliament.uk/committee/135/science-innovation-and-technology-committee/news/208296/uks-online-safety-regime-unable-to-tackle-the-spread-of-misinformation-and-cannot-keep-users-safe-online-mps-warn/</a>  
+   Link:<a href="https://committees.parliament.uk/committee/135/science-innovation-and-technology-committee/news/208296/uks-online-safety-regime-unable-to-tackle-the-spread-of-misinformation-and-cannot-keep-users-safe-online-mps-warn/" target="_blank" rel="noopener noreferrer nofollow">https://committees.parliament.uk/committee/135/science-innovation-and-technology-committee/news/208296/uks-online-safety-regime-unable-to-tackle-the-spread-of-misinformation-and-cannot-keep-users-safe-online-mps-warn/</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: publications.parliament.uk  
-   Link: <a href="https://publications.parliament.uk/pa/ld5901/ldselect/ldcomm/39/3910.htm" target="_blank" rel="noopener noreferrer nofollow">https://publications.parliament.uk/pa/ld5901/ldselect/ldcomm/39/3910.htm</a>  
+   Link:<a href="https://publications.parliament.uk/pa/ld5901/ldselect/ldcomm/39/3910.htm" target="_blank" rel="noopener noreferrer nofollow">https://publications.parliament.uk/pa/ld5901/ldselect/ldcomm/39/3910.htm</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: committees.parliament.uk  
-   Link: <a href="https://committees.parliament.uk/writtenevidence/106192/html/" target="_blank" rel="noopener noreferrer nofollow">https://committees.parliament.uk/writtenevidence/106192/html/</a>  
+   Link:<a href="https://committees.parliament.uk/writtenevidence/106192/html/" target="_blank" rel="noopener noreferrer nofollow">https://committees.parliament.uk/writtenevidence/106192/html/</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: publications.parliament.uk  
-   Link: <a href="https://publications.parliament.uk/pa/cm201719/cmselect/cmcumeds/1791/1791.pdf" target="_blank" rel="noopener noreferrer nofollow">https://publications.parliament.uk/pa/cm201719/cmselect/cmcumeds/1791/1791.pdf</a>  
+   Link:<a href="https://publications.parliament.uk/pa/cm201719/cmselect/cmcumeds/1791/1791.pdf" target="_blank" rel="noopener noreferrer nofollow">https://publications.parliament.uk/pa/cm201719/cmselect/cmcumeds/1791/1791.pdf</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: committees.parliament.uk  
-   Link: <a href="https://committees.parliament.uk/writtenevidence/128453/html/" target="_blank" rel="noopener noreferrer nofollow">https://committees.parliament.uk/writtenevidence/128453/html/</a>  
+   Link:<a href="https://committees.parliament.uk/writtenevidence/128453/html/" target="_blank" rel="noopener noreferrer nofollow">https://committees.parliament.uk/writtenevidence/128453/html/</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: committees.parliament.uk  
-   Link: <a href="https://committees.parliament.uk/writtenevidence/111691/html/" target="_blank" rel="noopener noreferrer nofollow">https://committees.parliament.uk/writtenevidence/111691/html/</a>  
+   Link:<a href="https://committees.parliament.uk/writtenevidence/111691/html/" target="_blank" rel="noopener noreferrer nofollow">https://committees.parliament.uk/writtenevidence/111691/html/</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: committees.parliament.uk  
-   Link: <a href="https://committees.parliament.uk/writtenevidence/87743/pdf/" target="_blank" rel="noopener noreferrer nofollow">https://committees.parliament.uk/writtenevidence/87743/pdf/</a>  
+   Link:<a href="https://committees.parliament.uk/writtenevidence/87743/pdf/" target="_blank" rel="noopener noreferrer nofollow">https://committees.parliament.uk/writtenevidence/87743/pdf/</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: disinfo.eu  
    Title: cib detection tree third branch  
-   Link: <a href="https://www.disinfo.eu/publications/cib-detection-tree-third-branch/" target="_blank" rel="noopener noreferrer nofollow">https://www.disinfo.eu/publications/cib-detection-tree-third-branch/</a>  
+   Link:<a href="https://www.disinfo.eu/publications/cib-detection-tree-third-branch/" target="_blank" rel="noopener noreferrer nofollow">https://www.disinfo.eu/publications/cib-detection-tree-third-branch/</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: legislation.gov.uk  
-   Link: <a href="https://www.legislation.gov.uk/ukpga/2023/50" target="_blank" rel="noopener noreferrer nofollow">https://www.legislation.gov.uk/ukpga/2023/50</a>  
+   Link:<a href="https://www.legislation.gov.uk/ukpga/2023/50" target="_blank" rel="noopener noreferrer nofollow">https://www.legislation.gov.uk/ukpga/2023/50</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: youtube.com  
    Title: Detecting and Responding to Coordinated Inauthentic Behavior  
-   Link: <a href="https://www.youtube.com/watch?v=K30Hw5jXF4A" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=K30Hw5jXF4A</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Disinformation and the digital public sphere...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=K30Hw5jXF4A" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=K30Hw5jXF4A</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Disinformation and the digital public sphere...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: youtube.com  
    Title: Disinformation and the digital public sphere  
-   Link: <a href="https://www.youtube.com/watch?v=e2J2d76TfDk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=e2J2d76TfDk</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Why Coordinated Inauthentic Behavior Matters...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=e2J2d76TfDk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=e2J2d76TfDk</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Why Coordinated Inauthentic Behavior Matters...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: isdglobal.org  
-   Link: <a href="https://www.isdglobal.org/our-expertise/information-warfare-and-online-manipulation/coordinated-inauthentic-behaviour/" target="_blank" rel="noopener noreferrer nofollow">https://www.isdglobal.org/our-expertise/information-warfare-and-online-manipulation/coordinated-inauthentic-behaviour/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Institute for Strategic DialogueCoordinated Inauthentic BehaviourCoordinated inauthentic behaviour is when a set of online entities—indiv...</p></details>
+   Link:<a href="https://www.isdglobal.org/our-expertise/information-warfare-and-online-manipulation/coordinated-inauthentic-behaviour/" target="_blank" rel="noopener noreferrer nofollow">https://www.isdglobal.org/our-expertise/information-warfare-and-online-manipulation/coordinated-inauthentic-behaviour/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Institute for Strategic DialogueCoordinated Inauthentic BehaviourCoordinated inauthentic behaviour is when a set of online entities—indiv...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: digitalcommons.unl.edu  
-   Link: <a href="https://digitalcommons.unl.edu/senatedocs/2/" target="_blank" rel="noopener noreferrer nofollow">https://digitalcommons.unl.edu/senatedocs/2/</a>  
+   Link:<a href="https://digitalcommons.unl.edu/senatedocs/2/" target="_blank" rel="noopener noreferrer nofollow">https://digitalcommons.unl.edu/senatedocs/2/</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: commission.europa.eu  
-   Link: <a href="https://commission.europa.eu/topics/countering-information-manipulation/strengthened-eu-code-practice-disinformation_en" target="_blank" rel="noopener noreferrer nofollow">https://commission.europa.eu/topics/countering-information-manipulation/strengthened-eu-code-practice-disinformation_en</a>  
+   Link:<a href="https://commission.europa.eu/topics/countering-information-manipulation/strengthened-eu-code-practice-disinformation_en" target="_blank" rel="noopener noreferrer nofollow">https://commission.europa.eu/topics/countering-information-manipulation/strengthened-eu-code-practice-disinformation_en</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: digital-strategy.ec.europa.eu  
    Title: code practice disinformation  
-   Link: <a href="https://digital-strategy.ec.europa.eu/en/policies/code-practice-disinformation" target="_blank" rel="noopener noreferrer nofollow">https://digital-strategy.ec.europa.eu/en/policies/code-practice-disinformation</a>  
+   Link:<a href="https://digital-strategy.ec.europa.eu/en/policies/code-practice-disinformation" target="_blank" rel="noopener noreferrer nofollow">https://digital-strategy.ec.europa.eu/en/policies/code-practice-disinformation</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: digital-strategy.ec.europa.eu  
-   Link: <a href="https://digital-strategy.ec.europa.eu/en/policies/digital-services-act" target="_blank" rel="noopener noreferrer nofollow">https://digital-strategy.ec.europa.eu/en/policies/digital-services-act</a>  
+   Link:<a href="https://digital-strategy.ec.europa.eu/en/policies/digital-services-act" target="_blank" rel="noopener noreferrer nofollow">https://digital-strategy.ec.europa.eu/en/policies/digital-services-act</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: ec.europa.eu  
-   Link: <a href="https://ec.europa.eu/commission/presscorner/detail/en/QANDA_20_2348" target="_blank" rel="noopener noreferrer nofollow">https://ec.europa.eu/commission/presscorner/detail/en/QANDA_20_2348</a>  
+   Link:<a href="https://ec.europa.eu/commission/presscorner/detail/en/QANDA" target="_blank" rel="noopener noreferrer nofollow">https://ec.europa.eu/commission/presscorner/detail/en/QANDA</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: disinfocode.eu  
-   Link: <a href="https://disinfocode.eu/reports/download/136" target="_blank" rel="noopener noreferrer nofollow">https://disinfocode.eu/reports/download/136</a>  
+   Link:<a href="https://disinfocode.eu/reports/download/136" target="_blank" rel="noopener noreferrer nofollow">https://disinfocode.eu/reports/download/136</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: disinfocode.eu  
-   Link: <a href="https://disinfocode.eu/" target="_blank" rel="noopener noreferrer nofollow">https://disinfocode.eu/</a>  
+   Link:<a href="https://disinfocode.eu/" target="_blank" rel="noopener noreferrer nofollow">https://disinfocode.eu/</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: disinfocode.eu  
-   Link: <a href="https://disinfocode.eu/assets/pdfs/2025_Code_of_Conduct_on_Disinformation.pdf" target="_blank" rel="noopener noreferrer nofollow">https://disinfocode.eu/assets/pdfs/2025_Code_of_Conduct_on_Disinformation.pdf</a>  
+   Link:<a href="https://disinfocode.eu/assets/pdfs/2025_Code_of_Conduct_on_Disinformation.pdf" target="_blank" rel="noopener noreferrer nofollow">https://disinfocode.eu/assets/pdfs/2025_Code_of_Conduct_on_Disinformation.pdf</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: philpapers.org  
-   Link: <a href="https://philpapers.org/archive/FRIDLL.pdf" target="_blank" rel="noopener noreferrer nofollow">https://philpapers.org/archive/FRIDLL.pdf</a>  
+   Link:<a href="https://philpapers.org/archive/FRIDLL.pdf" target="_blank" rel="noopener noreferrer nofollow">https://philpapers.org/archive/FRIDLL.pdf</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: onlinesafetyact.net  
    Title: disinformation and disorder the limits of the online safety act  
-   Link: <a href="https://www.onlinesafetyact.net/analysis/disinformation-and-disorder-the-limits-of-the-online-safety-act/" target="_blank" rel="noopener noreferrer nofollow">https://www.onlinesafetyact.net/analysis/disinformation-and-disorder-the-limits-of-the-online-safety-act/</a>  
+   Link:<a href="https://www.onlinesafetyact.net/analysis/disinformation-and-disorder-the-limits-of-the-online-safety-act/" target="_blank" rel="noopener noreferrer nofollow">https://www.onlinesafetyact.net/analysis/disinformation-and-disorder-the-limits-of-the-online-safety-act/</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: unimelb.edu.au  
-   Link: <a href="https://www.unimelb.edu.au/__data/assets/pdf_file/0006/5060724/Disinformation-in-the-City-Reponse-Playbook_compressed-1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.unimelb.edu.au/__data/assets/pdf_file/0006/5060724/Disinformation-in-the-City-Reponse-Playbook_compressed-1.pdf</a>  
+   Link:<a href="https://www.unimelb.edu.au/__data/assets/pdf_file/0006/5060724/Disinformation-in-the-City-Reponse-Playbook_compressed-1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.unimelb.edu.au/__data/assets/pdf_file/0006/5060724/Disinformation-in-the-City-Reponse-Playbook_compressed-1.pdf</a>  
 
 ### Additional References
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/html/2410.22716v2" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2410.22716v2</a>  
+   Link:<a href="https://arxiv.org/html/2410.22716v2" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2410.22716v2</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: oecd.org  
-   Link: <a href="https://www.oecd.org/content/dam/oecd/en/publications/reports/2020/08/governance-responses-to-disinformation_6285c78a/d6237c85-en.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/content/dam/oecd/en/publications/reports/2020/08/governance-responses-to-disinformation_6285c78a/d6237c85-en.pdf</a>  
+   Link:<a href="https://www.oecd.org/content/dam/oecd/en/publications/reports/2020/08/governance-responses-to-disinformation_6285c78a/d6237c85-en.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/content/dam/oecd/en/publications/reports/2020/08/governance-responses-to-disinformation_6285c78a/d6237c85-en.pdf</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: youtube.com  
    Title: How disinformation campaigns manipulate public opinion  
-   Link: <a href="https://www.youtube.com/watch?v=713p0v0qTz0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=713p0v0qTz0</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Detecting and Responding to Coordinated Inauthentic Behavior...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=713p0v0qTz0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=713p0v0qTz0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Detecting and Responding to Coordinated Inauthentic Behavior...</p></details>
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: youtube.com  
    Title: The anatomy of an online disinformation campaign  
-   Link: <a href="https://www.youtube.com/watch?v=s5R_9k2w42Y" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=s5R_9k2w42Y</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How disinformation campaigns manipulate public opinion...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=s5R_9k2w42Y" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=s5R_9k2w42Y</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How disinformation campaigns manipulate public opinion...</p></details>
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: rand.org  
-   Link: <a href="https://www.rand.org/research/projects/truth-decay.html" target="_blank" rel="noopener noreferrer nofollow">https://www.rand.org/research/projects/truth-decay.html</a>  
+   Link:<a href="https://www.rand.org/research/projects/truth-decay.html" target="_blank" rel="noopener noreferrer nofollow">https://www.rand.org/research/projects/truth-decay.html</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: nass.org  
-   Link: <a href="https://www.nass.org/sites/default/files/2021-08/white-paper-dominion-nass-summer21.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nass.org/sites/default/files/2021-08/white-paper-dominion-nass-summer21.pdf</a>  
+   Link:<a href="https://www.nass.org/sites/default/files/2021-08/white-paper-dominion-nass-summer21.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nass.org/sites/default/files/2021-08/white-paper-dominion-nass-summer21.pdf</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: eu-digital-services-act.com  
-   Link: <a href="https://www.eu-digital-services-act.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.eu-digital-services-act.com/</a>  
+   Link:<a href="https://www.eu-digital-services-act.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.eu-digital-services-act.com/</a>  
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/unesco/posts/during-elections-social-media-platforms-are-a-source-of-information-but-also-a-s/572041711638048/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/unesco/posts/during-elections-social-media-platforms-are-a-source-of-information-but-also-a-s/572041711638048/</a>  
+   Link:<a href="https://www.facebook.com/unesco/posts/during-elections-social-media-platforms-are-a-source-of-information-but-also-a-s/572041711638048/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/unesco/posts/during-elections-social-media-platforms-are-a-source-of-information-but-also-a-s/572041711638048/</a>  
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: futurefreespeech.org  
-   Link: <a href="https://futurefreespeech.org/wp-content/uploads/2024/01/Empowering-Audiences-Through-%E2%80%98Prebunking-Michael-Bang-Petersen-Background-Report_formatted.pdf" target="_blank" rel="noopener noreferrer nofollow">https://futurefreespeech.org/wp-content/uploads/2024/01/Empowering-Audiences-Through-%E2%80%98Prebunking-Michael-Bang-Petersen-Background-Report_formatted.pdf</a>  
+   Link:<a href="https://futurefreespeech.org/wp-content/uploads/2024/01/Empowering-Audiences-Through-%E2%80%98Prebunking-Michael-Bang-Petersen-Background-Report_formatted.pdf" target="_blank" rel="noopener noreferrer nofollow">https://futurefreespeech.org/wp-content/uploads/2024/01/Empowering-Audiences-Through-%E2%80%98Prebunking-Michael-Bang-Petersen-Background-Report_formatted.pdf</a>  
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: fullfact.org  
-   Link: <a href="https://fullfact.org/policy/online-safety-act/" target="_blank" rel="noopener noreferrer nofollow">https://fullfact.org/policy/online-safety-act/</a>
+   Link:<a href="https://fullfact.org/policy/online-safety-act/" target="_blank" rel="noopener noreferrer nofollow">https://fullfact.org/policy/online-safety-act/</a>

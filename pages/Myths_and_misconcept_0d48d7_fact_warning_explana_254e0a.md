@@ -501,20 +501,20 @@ image: /assets/images/Myths_and_misconcept_0d48d7_fact_warning_explana_254e0a-ov
 
 ## Introduction
 
-A better debunk does not start by shouting the myth. It starts with the fact, briefly signals that a false claim is about to be named, and then explains why the false claim seemed plausible but is wrong. This is often called the “fact-myth-fallacy-fact” structure, or more broadly the fact-warning-explanation structure: **say what is true, flag the falsehood carefully, and give people a replacement explanation they can remember**. The point is not politeness or rhetorical neatness. It is cognitive design. Misconceptions persist partly because they offer a simple story; a [correction]({{ 'correction/' | relative_url }}) that only says “no” leaves that story in place. Research on misinformation correction repeatedly finds that detailed refutations and alternative explanations work better than [bare denials]({{ 'bare-denials/' | relative_url }}), while advice from the Debunking Handbook and the American Psychological Association stresses that false claims should be repeated only when needed, briefly, and inside a clear correction. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.climatechangecommunication.org/wp-content/uploads/2023/09/DebunkingHandbook2020.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: climatechangecommunication.org">[Center for Climate Change Communication]</a><span class="citation-popover" role="note"><span class="citation-popover-source">climatechangecommunication.org</span><span class="citation-popover-title">Center for Climate Change Communication Debunking Handbook</span><span class="citation-popover-snippet">mention it once only. Explain how the myth misleads. Finish by reinforcing the fact—multiple times if possible.Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.apa.org/topics/journalism-facts/misinformation-recommendations" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apa.org">[American Psychological Association]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apa.org</span><span class="citation-popover-title">misinformation recommendations</span><span class="citation-popover-snippet">In these cases, the falsehood should be repeated briefly, with...</span></span></span>
+A better debunk does not start by shouting the myth. It starts with the fact, briefly signals that a false claim is about to be named, and then explains why the false claim seemed plausible but is wrong. This is often called the “fact-myth-fallacy-fact” structure, or more broadly the fact-warning-explanation structure: **say what is true, flag the falsehood carefully, and give people a replacement explanation they can remember**. The point is not politeness or rhetorical neatness. It is cognitive design. Misconceptions persist partly because they offer a simple story; a [correction]({{ 'correction/' | relative_url }}) that only says “no” leaves that story in place. Research on misinformation correction repeatedly finds that detailed refutations and alternative explanations work better than [bare denials]({{ 'bare-denials/' | relative_url }}), while advice from the Debunking Handbook and the American Psychological Association stresses that false claims should be repeated only when needed, briefly, and inside a clear correction.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.climatechangecommunication.org/wp-content/uploads/2023/09/DebunkingHandbook2020.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: climatechangecommunication.org">[Center for Climate Change Communication]</a><span class="citation-popover" role="note"><span class="citation-popover-source">climatechangecommunication.org</span><span class="citation-popover-title">Center for Climate Change Communication Debunking Handbook</span><span class="citation-popover-snippet">mention it once only. Explain how the myth misleads. Finish by reinforcing the fact—multiple times if possible.Read more...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.apa.org/topics/journalism-facts/misinformation-recommendations" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apa.org">[American Psychological Association]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apa.org</span><span class="citation-popover-title">misinformation recommendations</span><span class="citation-popover-snippet">In these cases, the falsehood should be repeated briefly, with...</span></span></span>
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_fact_warning_explana_254e0a-overview.webp" | relative_url }}" alt="Overview image for Debunking" loading="eager" decoding="sync" fetchpriority="high">
 ## Why “wrong” is not enough
 
-A misconception is rarely just an isolated sentence stored in [memory]({{ 'memory/' | relative_url }}). It often functions as an explanation: why an event happened, why a policy changed, why a treatment is risky, why a group is to blame, or why an expert consensus can be dismissed. When a correction removes that explanation without replacing it, readers may remember that something was disputed while still relying on the original story later. This is one reason misinformation can show a “continued influence effect”: even after a correction, the earlier false information can continue to shape reasoning and judgements. <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/abs/10.1177/0093650219854600" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+A misconception is rarely just an isolated sentence stored in [memory]({{ 'memory/' | relative_url }}). It often functions as an explanation: why an event happened, why a policy changed, why a treatment is risky, why a group is to blame, or why an expert consensus can be dismissed. When a correction removes that explanation without replacing it, readers may remember that something was disputed while still relying on the original story later. This is one reason misinformation can show a “continued influence effect”: even after a correction, the earlier false information can continue to shape reasoning and judgements.<span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/abs/10.1177/0093650219854600" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 The practical lesson is simple: a debunk should give the reader a better mental model, not just a verdict. If someone falsely believes that a manipulated video shows a public figure behaving badly, the correction should not merely say “the video is fake”. It should explain what actually happened: the clip was edited, slowed down, taken from a different event, generated synthetically, or paired with a misleading caption. That replacement explanation gives the reader something to retrieve later instead of the false claim.
 
-This matters because familiarity can feel like truth. Repeating a claim can make it easier to process, and easier-to-process statements often feel more credible. That does not mean [corrections]({{ 'corrections/' | relative_url }}) should never mention the myth; in many cases, people need to know exactly what is being corrected. But it does mean the myth should not be the headline, the frame, or the most repeated sentence. The correction should make the truth more familiar than the falsehood. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.climatechangecommunication.org/wp-content/uploads/2023/09/DebunkingHandbook2020.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: climatechangecommunication.org">[Center for Climate Change Communication]</a><span class="citation-popover" role="note"><span class="citation-popover-source">climatechangecommunication.org</span><span class="citation-popover-title">Center for Climate Change Communication Debunking Handbook</span><span class="citation-popover-snippet">mention it once only. Explain how the myth misleads. Finish by reinforcing the fact—multiple times if possible.Read more...</span></span></span>
+This matters because familiarity can feel like truth. Repeating a claim can make it easier to process, and easier-to-process statements often feel more credible. That does not mean [corrections]({{ 'corrections/' | relative_url }}) should never mention the myth; in many cases, people need to know exactly what is being corrected. But it does mean the myth should not be the headline, the frame, or the most repeated sentence. The correction should make the truth more familiar than the falsehood.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.climatechangecommunication.org/wp-content/uploads/2023/09/DebunkingHandbook2020.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: climatechangecommunication.org">[Center for Climate Change Communication]</a><span class="citation-popover" role="note"><span class="citation-popover-source">climatechangecommunication.org</span><span class="citation-popover-title">Center for Climate Change Communication Debunking Handbook</span><span class="citation-popover-snippet">mention it once only. Explain how the myth misleads. Finish by reinforcing the fact—multiple times if possible.Read more...</span></span></span>
 
 ## Lead with the fact
 
-The first job of a correction is to give the reader the right answer before the false claim has a chance to dominate attention. In practice, that means opening with a clear, concrete statement of what is true: “Measles [vaccines]({{ 'vaccines/' | relative_url }}) do not cause autism”; “Human greenhouse gas emissions are the main driver of recent global warming”; “The photo is from 2018, not from yesterday’s protest.” The Debunking Handbook recommends leading with a fact that is simple, plausible and memorable, then returning to that fact after the myth has been addressed. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.climatechangecommunication.org/wp-content/uploads/2023/09/DebunkingHandbook2020.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: climatechangecommunication.org">[Center for Climate Change Communication]</a><span class="citation-popover" role="note"><span class="citation-popover-source">climatechangecommunication.org</span><span class="citation-popover-title">Center for Climate Change Communication Debunking Handbook</span><span class="citation-popover-snippet">mention it once only. Explain how the myth misleads. Finish by reinforcing the fact—multiple times if possible.Read more...</span></span></span>
+The first job of a correction is to give the reader the right answer before the false claim has a chance to dominate attention. In practice, that means opening with a clear, concrete statement of what is true: “Measles [vaccines]({{ 'vaccines/' | relative_url }}) do not cause autism”; “Human greenhouse gas emissions are the main driver of recent global warming”; “The photo is from 2018, not from yesterday’s protest.” The Debunking Handbook recommends leading with a fact that is simple, plausible and memorable, then returning to that fact after the myth has been addressed.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.climatechangecommunication.org/wp-content/uploads/2023/09/DebunkingHandbook2020.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: climatechangecommunication.org">[Center for Climate Change Communication]</a><span class="citation-popover" role="note"><span class="citation-popover-source">climatechangecommunication.org</span><span class="citation-popover-title">Center for Climate Change Communication Debunking Handbook</span><span class="citation-popover-snippet">mention it once only. Explain how the myth misleads. Finish by reinforcing the fact—multiple times if possible.Read more...</span></span></span>
 
 This is not the same as hiding the myth. A correction that never identifies the false claim can be too vague to help. The reader may wonder which rumour is being addressed, or may fail to connect the correction to the claim they have seen online. The stronger approach is to give the fact first so the reader enters the correction with the right frame, then name the myth only as much as needed.
 
@@ -535,7 +535,7 @@ The “truth sandwich” used in journalism and public communication follows the
 
 The warning step is small but important. Before naming the myth, the correction should clearly signal that the next sentence is false: “A false claim circulating online says…”, “This rumour is wrong…”, or “The misleading argument is…”. The warning helps readers tag the claim correctly at the moment they encounter it. Without that tag, a hurried reader may later remember the familiar claim while forgetting the correction attached to it.
 
-The American Psychological Association’s guidance is especially direct on this point: repeating misinformation is necessary only when actively correcting a falsehood, and when it is repeated, it should be brief and paired with corrective context. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.apa.org/topics/journalism-facts/misinformation-recommendations" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apa.org">[American Psychological Association]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apa.org</span><span class="citation-popover-title">misinformation recommendations</span><span class="citation-popover-snippet">In these cases, the falsehood should be repeated briefly, with...</span></span></span> The Debunking Handbook makes a similar recommendation: warn that a myth is coming, mention it once, and avoid giving fringe claims unnecessary publicity. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.climatechangecommunication.org/wp-content/uploads/2023/09/DebunkingHandbook2020.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: climatechangecommunication.org">[Center for Climate Change Communication]</a><span class="citation-popover" role="note"><span class="citation-popover-source">climatechangecommunication.org</span><span class="citation-popover-title">Center for Climate Change Communication Debunking Handbook</span><span class="citation-popover-snippet">mention it once only. Explain how the myth misleads. Finish by reinforcing the fact—multiple times if possible.Read more...</span></span></span>
+The American Psychological Association’s guidance is especially direct on this point: repeating misinformation is necessary only when actively correcting a falsehood, and when it is repeated, it should be brief and paired with corrective context.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.apa.org/topics/journalism-facts/misinformation-recommendations" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apa.org">[American Psychological Association]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apa.org</span><span class="citation-popover-title">misinformation recommendations</span><span class="citation-popover-snippet">In these cases, the falsehood should be repeated briefly, with...</span></span></span> The Debunking Handbook makes a similar recommendation: warn that a myth is coming, mention it once, and avoid giving fringe claims unnecessary publicity.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.climatechangecommunication.org/wp-content/uploads/2023/09/DebunkingHandbook2020.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: climatechangecommunication.org">[Center for Climate Change Communication]</a><span class="citation-popover" role="note"><span class="citation-popover-source">climatechangecommunication.org</span><span class="citation-popover-title">Center for Climate Change Communication Debunking Handbook</span><span class="citation-popover-snippet">mention it once only. Explain how the myth misleads. Finish by reinforcing the fact—multiple times if possible.Read more...</span></span></span>
 
 This creates a useful editorial test. Before including the false claim, ask: does the audience already know this myth, and do they need it named to understand the correction? If the answer is yes, mention it plainly and briefly. If the answer is no, the debunk may be spreading a rumour that would otherwise have stayed obscure.
 
@@ -543,11 +543,11 @@ The warning also prevents a common failure in myth-busting pages: the myth-as-he
 
 ## Give a replacement explanation
 
-The explanation is the part that turns a correction into learning. It answers the question the myth was trying to answer: why did this happen, why did people believe it, or what is the real cause? Reviews and meta-analyses of misinformation correction repeatedly find that corrections are stronger when they provide detailed refutations, evidence and alternative explanations rather than simple negations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/28895452/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Pub Med Debunking: A Meta-Analysis of the Psychological</span><span class="citation-popover-snippet">by MPS Chan · 2017 · Cited by 1239 — This meta-analysis investigated the factors underlying effective messages to counter attitudes...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://digitalcommons.unl.edu/context/scholcom/article/1247/viewcontent/DebunkingHandbook2020.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: digitalcommons.unl.edu">[Digital Commons]</a><span class="citation-popover" role="note"><span class="citation-popover-source">digitalcommons.unl.edu</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The explanation is the part that turns a correction into learning. It answers the question the myth was trying to answer: why did this happen, why did people believe it, or what is the real cause? Reviews and meta-analyses of misinformation correction repeatedly find that corrections are stronger when they provide detailed refutations, evidence and alternative explanations rather than simple negations.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/28895452/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Pub Med Debunking: A Meta-Analysis of the Psychological</span><span class="citation-popover-snippet">by MPS Chan · 2017 · Cited by 1239 — This meta-analysis investigated the factors underlying effective messages to counter attitudes...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://digitalcommons.unl.edu/context/scholcom/article/1247/viewcontent/DebunkingHandbook2020.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: digitalcommons.unl.edu">[Digital Commons]</a><span class="citation-popover" role="note"><span class="citation-popover-source">digitalcommons.unl.edu</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 A replacement explanation can take several forms. It may supply the missing cause: “The illness spike was caused by increased testing and seasonal transmission, not by the new phone mast.” It may expose the misleading technique: “The post cherry-picks one cold week while ignoring the long-term temperature record.” It may correct the source trail: “The quote came from a parody account, not the minister.” Or it may explain a genuine confusion: “The database records reports after vaccination, not proven side effects caused by vaccination.”
 
-The best explanations do not overload the reader with every available detail. They give enough mechanism to make the truth feel coherent. The Debunking Handbook’s advice to explain how the myth misleads is crucial here: people are more likely to let go of a misconception when they can see [the trick]({{ 'the-trick/' | relative_url }}), gap, false premise or mistaken inference that made it persuasive. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.climatechangecommunication.org/wp-content/uploads/2023/09/DebunkingHandbook2020.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: climatechangecommunication.org">[Center for Climate Change Communication]</a><span class="citation-popover" role="note"><span class="citation-popover-source">climatechangecommunication.org</span><span class="citation-popover-title">Center for Climate Change Communication Debunking Handbook</span><span class="citation-popover-snippet">mention it once only. Explain how the myth misleads. Finish by reinforcing the fact—multiple times if possible.Read more...</span></span></span>
+The best explanations do not overload the reader with every available detail. They give enough mechanism to make the truth feel coherent. The Debunking Handbook’s advice to explain how the myth misleads is crucial here: people are more likely to let go of a misconception when they can see [the trick]({{ 'the-trick/' | relative_url }}), gap, false premise or mistaken inference that made it persuasive.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.climatechangecommunication.org/wp-content/uploads/2023/09/DebunkingHandbook2020.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: climatechangecommunication.org">[Center for Climate Change Communication]</a><span class="citation-popover" role="note"><span class="citation-popover-source">climatechangecommunication.org</span><span class="citation-popover-title">Center for Climate Change Communication Debunking Handbook</span><span class="citation-popover-snippet">mention it once only. Explain how the myth misleads. Finish by reinforcing the fact—multiple times if possible.Read more...</span></span></span>
 
 A compact structure often works well:
 
@@ -573,16 +573,16 @@ The fact-warning-explanation structure is best understood as an implementation t
 
 For a newsroom, it changes headline writing. Instead of amplifying a politician’s or influencer’s false claim in the headline, the article can lead with the verified reality and then explain the false claim in context. For a public health team, it changes social posts: the graphic should not give the myth the biggest type size; it should make the accurate action or risk statement visually dominant. For a teacher, it changes classroom correction: rather than saying “That is wrong”, the teacher can say, “The correct idea is X; the common confusion is Y; here is why Y looks tempting but fails.”
 
-The structure also helps teams decide when not to debunk. If a myth is obscure, low-risk and not spreading, a public correction can give it oxygen. The Debunking Handbook explicitly warns communicators to pick battles and avoid giving undue exposure to fringe claims. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.climatechangecommunication.org/wp-content/uploads/2023/09/DebunkingHandbook2020.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: climatechangecommunication.org">[Center for Climate Change Communication]</a><span class="citation-popover" role="note"><span class="citation-popover-source">climatechangecommunication.org</span><span class="citation-popover-title">Center for Climate Change Communication Debunking Handbook</span><span class="citation-popover-snippet">mention it once only. Explain how the myth misleads. Finish by reinforcing the fact—multiple times if possible.Read more...</span></span></span> This is a policy choice as much as a writing choice: debunking resources should go where a false claim is visible, harmful, or likely to mislead a reachable audience.
+The structure also helps teams decide when not to debunk. If a myth is obscure, low-risk and not spreading, a public correction can give it oxygen. The Debunking Handbook explicitly warns communicators to pick battles and avoid giving undue exposure to fringe claims.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.climatechangecommunication.org/wp-content/uploads/2023/09/DebunkingHandbook2020.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: climatechangecommunication.org">[Center for Climate Change Communication]</a><span class="citation-popover" role="note"><span class="citation-popover-source">climatechangecommunication.org</span><span class="citation-popover-title">Center for Climate Change Communication Debunking Handbook</span><span class="citation-popover-snippet">mention it once only. Explain how the myth misleads. Finish by reinforcing the fact—multiple times if possible.Read more...</span></span></span> This is a policy choice as much as a writing choice: debunking resources should go where a false claim is visible, harmful, or likely to mislead a reachable audience.
 
 A good correction therefore has both content and triage rules. It asks: is the myth already circulating enough to merit response? Can we state the truth clearly? Can we identify the false claim without centring it? Can we explain the confusion in a way that leaves the reader with a better model? If any answer is no, the correction needs more work before publication.
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_fact_warning_explana_254e0a-Illustration-3-dark.svg" | relative_url }}" alt="Debunking illustration 3" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_fact_warning_explana_254e0a-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_fact_warning_explana_254e0a-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Where the evidence is reassuring, and where it is cautious
 
-One fear about debunking is that any [repetition]({{ 'repetition/' | relative_url }}) of a myth will make it stronger. The evidence is more nuanced. Repetition can increase familiarity, and familiarity can increase perceived truth, so communicators should avoid unnecessary repetition. But research reviews and the Debunking Handbook conclude that corrective repetition is often safe when the false claim is clearly labelled and overpowered by a strong correction. The larger risk is usually not that all debunking backfires, but that weak debunking repeats the myth more memorably than the truth. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.climatechangecommunication.org/wp-content/uploads/2023/09/DebunkingHandbook2020.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: climatechangecommunication.org">[Center for Climate Change Communication]</a><span class="citation-popover" role="note"><span class="citation-popover-source">climatechangecommunication.org</span><span class="citation-popover-title">Center for Climate Change Communication Debunking Handbook</span><span class="citation-popover-snippet">mention it once only. Explain how the myth misleads. Finish by reinforcing the fact—multiple times if possible.Read more...</span></span></span>
+One fear about debunking is that any [repetition]({{ 'repetition/' | relative_url }}) of a myth will make it stronger. The evidence is more nuanced. Repetition can increase familiarity, and familiarity can increase perceived truth, so communicators should avoid unnecessary repetition. But research reviews and the Debunking Handbook conclude that corrective repetition is often safe when the false claim is clearly labelled and overpowered by a strong correction. The larger risk is usually not that all debunking backfires, but that weak debunking repeats the myth more memorably than the truth.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.climatechangecommunication.org/wp-content/uploads/2023/09/DebunkingHandbook2020.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: climatechangecommunication.org">[Center for Climate Change Communication]</a><span class="citation-popover" role="note"><span class="citation-popover-source">climatechangecommunication.org</span><span class="citation-popover-title">Center for Climate Change Communication Debunking Handbook</span><span class="citation-popover-snippet">mention it once only. Explain how the myth misleads. Finish by reinforcing the fact—multiple times if possible.Read more...</span></span></span>
 
-At the same time, format is not magic. A 2021 study comparing myth-first, fact-first, fact-only and myth-only correction formats found that correction format had a limited role across experiments; what mattered was not simply the order of sentences, but whether the correction gave useful corrective information. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8715407/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCCorrection format has a limited role when debunking</span><span class="citation-popover-snippet">PMCCorrection format has a limited role when debunking</span></span></span> That finding should temper overconfidence. The fact-warning-explanation structure is a strong default, not a guarantee.
+At the same time, format is not magic. A 2021 study comparing myth-first, fact-first, fact-only and myth-only correction formats found that correction format had a limited role across experiments; what mattered was not simply the order of sentences, but whether the correction gave useful corrective information.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8715407/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCCorrection format has a limited role when debunking</span><span class="citation-popover-snippet">PMCCorrection format has a limited role when debunking</span></span></span> That finding should temper overconfidence. The fact-warning-explanation structure is a strong default, not a guarantee.
 
 The audience also matters. Corrections can reduce false beliefs while leaving attitudes, identities or behaviours less changed. A person may accept that one image is old while still distrusting the institution that corrected it. They may drop one false claim but keep a broader conspiratorial suspicion. This is why the explanation step should be respectful and diagnostic: it should show what went wrong in the claim without implying that every person who believed it is stupid or malicious.
 
@@ -617,194 +617,194 @@ The pattern is especially useful for myths and misconceptions because it respect
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/6I37HD444aI" title="How to debunk misinformation" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=6I37HD444aI" target="_blank" rel="noopener noreferrer">How to debunk misinformation</a></p><p class="youtube-embed-meta">Channel: John Cook &middot; Views: 18.2K &middot; Uploaded: September 2020 &middot; Length: 10 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=6I37HD444aI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=6I37HD444aI">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to The Three Parts of a Better Debunk. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to The Three Parts of a Better Debunk. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Calling Bullshit on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Plu9DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Calling Bullshit" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Calling Bullshit">Calling Bullshit</a>
-        </h4>
-        <p class="fr-book-author">By Carl T. Bergstrom, Jevin D. West</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Calling Bullshit on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Plu9DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Calling Bullshit" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Calling Bullshit">Calling Bullshit</a>
+</h4>
+<p class="fr-book-author">By Carl T. Bergstrom, Jevin D. West</p>
         
-        <p class="fr-book-desc">Focuses on explaining misleading claims and evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on explaining misleading claims and evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Made+to+Stick+by+Chip+Heath&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Made to Stick on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=kW9nrgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Made to Stick" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Made+to+Stick+by+Chip+Heath&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Made to Stick">Made to Stick</a>
-        </h4>
-        <p class="fr-book-author">By Chip Heath, Dan Heath</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Made+to+Stick+by+Chip+Heath&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Made to Stick on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=kW9nrgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Made to Stick" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Made+to+Stick+by+Chip+Heath&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Made to Stick">Made to Stick</a>
+</h4>
+<p class="fr-book-author">By Chip Heath, Dan Heath</p>
         
-        <p class="fr-book-desc">Useful for building memorable corrections.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Made+to+Stick+by+Chip+Heath&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful for building memorable corrections.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Made+to+Stick+by+Chip+Heath&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Bad+Science+by+Ben+Goldacre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Bad Science on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=wICuv0ePMYoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Bad Science" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Bad+Science+by+Ben+Goldacre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Bad Science">Bad Science</a>
-        </h4>
-        <p class="fr-book-author">By Ben Goldacre</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Bad+Science+by+Ben+Goldacre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Bad Science on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=wICuv0ePMYoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Bad Science" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Bad+Science+by+Ben+Goldacre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Bad Science">Bad Science</a>
+</h4>
+<p class="fr-book-author">By Ben Goldacre</p>
         
-        <p class="fr-book-desc">Demonstrates practical correction of misleading claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Bad+Science+by+Ben+Goldacre&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Demonstrates practical correction of misleading claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Bad+Science+by+Ben+Goldacre&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Scout+Mindset+Julia+Galef&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Scout Mindset on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10690900-M.jpg" alt="Cover for Scout Mindset" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Scout+Mindset+Julia+Galef&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scout Mindset">Scout Mindset</a>
-        </h4>
-        <p class="fr-book-author">By Julia Galef</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Scout+Mindset+Julia+Galef&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Scout Mindset on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10690900-M.jpg" alt="Cover for Scout Mindset" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Scout+Mindset+Julia+Galef&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scout Mindset">Scout Mindset</a>
+</h4>
+<p class="fr-book-author">By Julia Galef</p>
         
-        <p class="fr-book-desc">First published 2021. Subjects: Economics, Psychology, Cognition, Skepticism, Critical thinking.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Scout+Mindset+Julia+Galef&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2021. Subjects: Economics, Psychology, Cognition, Skepticism, Critical thinking.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Scout+Mindset+Julia+Galef&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Calling+Bullshit&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Calling Bullshit</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Made+to+Stick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Made to Stick</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Bad+Science&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Bad Science</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Calling+Bullshit&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Calling Bullshit</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Made+to+Stick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Made to Stick</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Bad+Science&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Bad Science</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=health+education+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=debunking-the-three-parts-of-a-better-debunk-myths-and-misconcept-health-education-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="health education poster" data-ebay-reference="debunking-the-three-parts-of-a-better-debunk-myths-and-misconcept-health-education-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 15 Mental Health Posters for Classroom, 11X14In Educational, Matte-Laminated for"><img src="{{ '/assets/images/marketplace-covers/7a221d36e3a5e69374ca.jpg' | relative_url }}" alt="Listing image for 15 Mental Health Posters for Classroom, 11X14In Educational, Matte-Laminated for" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=health+education+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=debunking-the-three-parts-of-a-better-debunk-myths-and-misconcept-health-education-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="health education poster" data-ebay-reference="debunking-the-three-parts-of-a-better-debunk-myths-and-misconcept-health-education-poster" target="_blank" rel="sponsored noopener noreferrer">15 Mental Health Posters for Classroom, 11X14In Educational, Matte-Laminated for</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=health+education+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=debunking-the-three-parts-of-a-better-debunk-myths-and-misconcept-health-education-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="health education poster" data-ebay-reference="debunking-the-three-parts-of-a-better-debunk-myths-and-misconcept-health-education-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for health education poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: health education poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=health+education+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=debunking-the-three-parts-of-a-better-debunk-myths-and-misconcept-health-education-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="health education poster" data-ebay-reference="debunking-the-three-parts-of-a-better-debunk-myths-and-misconcept-health-education-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=health+education+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=debunking-the-three-parts-of-a-better-debunk-myths-and-misconcept-health-education-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="health education poster" data-ebay-reference="debunking-the-three-parts-of-a-better-debunk-myths-and-misconcept-health-education-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 15 Mental Health Posters for Classroom, 11X14In Educational, Matte-Laminated for"><img src="{{ '/assets/images/marketplace-covers/7a221d36e3a5e69374ca.jpg' | relative_url }}" alt="Listing image for 15 Mental Health Posters for Classroom, 11X14In Educational, Matte-Laminated for" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=health+education+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=debunking-the-three-parts-of-a-better-debunk-myths-and-misconcept-health-education-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="health education poster" data-ebay-reference="debunking-the-three-parts-of-a-better-debunk-myths-and-misconcept-health-education-poster" target="_blank" rel="sponsored noopener noreferrer">15 Mental Health Posters for Classroom, 11X14In Educational, Matte-Laminated for</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=health+education+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=debunking-the-three-parts-of-a-better-debunk-myths-and-misconcept-health-education-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="health education poster" data-ebay-reference="debunking-the-three-parts-of-a-better-debunk-myths-and-misconcept-health-education-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for health education poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: health education poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=health+education+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=debunking-the-three-parts-of-a-better-debunk-myths-and-misconcept-health-education-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="health education poster" data-ebay-reference="debunking-the-three-parts-of-a-better-debunk-myths-and-misconcept-health-education-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=health+education+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=debunking-the-three-parts-of-a-better-debunk-myths-and-misconcept-health-education-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="health education poster" data-ebay-reference="debunking-the-three-parts-of-a-better-debunk-myths-and-misconcept-health-education-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 15 Mental Health Posters for Classroom, 11X14In Educational, Matte-Laminated for"><img src="{{ '/assets/images/marketplace-covers/a6ede0932d5d8d6e400c.jpg' | relative_url }}" alt="Listing image for 15 Mental Health Posters for Classroom, 11X14In Educational, Matte-Laminated for" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=health+education+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=debunking-the-three-parts-of-a-better-debunk-myths-and-misconcept-health-education-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="health education poster" data-ebay-reference="debunking-the-three-parts-of-a-better-debunk-myths-and-misconcept-health-education-poster" target="_blank" rel="sponsored noopener noreferrer">15 Mental Health Posters for Classroom, 11X14In Educational, Matte-Laminated for</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=health+education+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=debunking-the-three-parts-of-a-better-debunk-myths-and-misconcept-health-education-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="health education poster" data-ebay-reference="debunking-the-three-parts-of-a-better-debunk-myths-and-misconcept-health-education-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for health education poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: health education poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=health+education+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=debunking-the-three-parts-of-a-better-debunk-myths-and-misconcept-health-education-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="health education poster" data-ebay-reference="debunking-the-three-parts-of-a-better-debunk-myths-and-misconcept-health-education-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=health+education+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=debunking-the-three-parts-of-a-better-debunk-myths-and-misconcept-health-education-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="health education poster" data-ebay-reference="debunking-the-three-parts-of-a-better-debunk-myths-and-misconcept-health-education-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 15 Mental Health Posters for Classroom, 11X14In Educational, Matte-Laminated for"><img src="{{ '/assets/images/marketplace-covers/a6ede0932d5d8d6e400c.jpg' | relative_url }}" alt="Listing image for 15 Mental Health Posters for Classroom, 11X14In Educational, Matte-Laminated for" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=health+education+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=debunking-the-three-parts-of-a-better-debunk-myths-and-misconcept-health-education-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="health education poster" data-ebay-reference="debunking-the-three-parts-of-a-better-debunk-myths-and-misconcept-health-education-poster" target="_blank" rel="sponsored noopener noreferrer">15 Mental Health Posters for Classroom, 11X14In Educational, Matte-Laminated for</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=health+education+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=debunking-the-three-parts-of-a-better-debunk-myths-and-misconcept-health-education-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="health education poster" data-ebay-reference="debunking-the-three-parts-of-a-better-debunk-myths-and-misconcept-health-education-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for health education poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: health education poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=health+education+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=debunking-the-three-parts-of-a-better-debunk-myths-and-misconcept-health-education-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="health education poster" data-ebay-reference="debunking-the-three-parts-of-a-better-debunk-myths-and-misconcept-health-education-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=health+education+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=debunking-the-three-parts-of-a-better-debunk-myths-and-misconcept-health-education-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="health education poster" data-ebay-reference="debunking-the-three-parts-of-a-better-debunk-myths-and-misconcept-health-education-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 15 Mental Health Posters for Classroom, 11X14In Educational, Matte-Laminated for"><img src="{{ '/assets/images/marketplace-covers/334183359d7fba8c2743.jpg' | relative_url }}" alt="Listing image for 15 Mental Health Posters for Classroom, 11X14In Educational, Matte-Laminated for" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=health+education+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=debunking-the-three-parts-of-a-better-debunk-myths-and-misconcept-health-education-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="health education poster" data-ebay-reference="debunking-the-three-parts-of-a-better-debunk-myths-and-misconcept-health-education-poster" target="_blank" rel="sponsored noopener noreferrer">15 Mental Health Posters for Classroom, 11X14In Educational, Matte-Laminated for</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=health+education+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=debunking-the-three-parts-of-a-better-debunk-myths-and-misconcept-health-education-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="health education poster" data-ebay-reference="debunking-the-three-parts-of-a-better-debunk-myths-and-misconcept-health-education-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for health education poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: health education poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=health+education+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=debunking-the-three-parts-of-a-better-debunk-myths-and-misconcept-health-education-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="health education poster" data-ebay-reference="debunking-the-three-parts-of-a-better-debunk-myths-and-misconcept-health-education-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=health+education+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=debunking-the-three-parts-of-a-better-debunk-myths-and-misconcept-health-education-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="health education poster" data-ebay-reference="debunking-the-three-parts-of-a-better-debunk-myths-and-misconcept-health-education-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 15 Mental Health Posters for Classroom, 11X14In Educational, Matte-Laminated for"><img src="{{ '/assets/images/marketplace-covers/334183359d7fba8c2743.jpg' | relative_url }}" alt="Listing image for 15 Mental Health Posters for Classroom, 11X14In Educational, Matte-Laminated for" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=health+education+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=debunking-the-three-parts-of-a-better-debunk-myths-and-misconcept-health-education-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="health education poster" data-ebay-reference="debunking-the-three-parts-of-a-better-debunk-myths-and-misconcept-health-education-poster" target="_blank" rel="sponsored noopener noreferrer">15 Mental Health Posters for Classroom, 11X14In Educational, Matte-Laminated for</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=health+education+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=debunking-the-three-parts-of-a-better-debunk-myths-and-misconcept-health-education-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="health education poster" data-ebay-reference="debunking-the-three-parts-of-a-better-debunk-myths-and-misconcept-health-education-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for health education poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: health education poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=health+education+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=debunking-the-three-parts-of-a-better-debunk-myths-and-misconcept-health-education-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="health education poster" data-ebay-reference="debunking-the-three-parts-of-a-better-debunk-myths-and-misconcept-health-education-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=health+education+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=debunking-the-three-parts-of-a-better-debunk-myths-and-misconcept-health-education-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="health education poster" data-ebay-reference="debunking-the-three-parts-of-a-better-debunk-myths-and-misconcept-health-education-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ultimate Fruit Guide Poster A3 - Nutrition &amp; Health Educational Wall Art"><img src="{{ '/assets/images/marketplace-covers/4990fdf1f5c00d5d14d5.jpg' | relative_url }}" alt="Listing image for Ultimate Fruit Guide Poster A3 - Nutrition &amp; Health Educational Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=health+education+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=debunking-the-three-parts-of-a-better-debunk-myths-and-misconcept-health-education-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="health education poster" data-ebay-reference="debunking-the-three-parts-of-a-better-debunk-myths-and-misconcept-health-education-poster" target="_blank" rel="sponsored noopener noreferrer">Ultimate Fruit Guide Poster A3 - Nutrition &amp; Health Educational Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=health+education+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=debunking-the-three-parts-of-a-better-debunk-myths-and-misconcept-health-education-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="health education poster" data-ebay-reference="debunking-the-three-parts-of-a-better-debunk-myths-and-misconcept-health-education-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for health education poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: health education poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=health+education+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=debunking-the-three-parts-of-a-better-debunk-myths-and-misconcept-health-education-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="health education poster" data-ebay-reference="debunking-the-three-parts-of-a-better-debunk-myths-and-misconcept-health-education-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=health+education+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=debunking-the-three-parts-of-a-better-debunk-myths-and-misconcept-health-education-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="health education poster" data-ebay-reference="debunking-the-three-parts-of-a-better-debunk-myths-and-misconcept-health-education-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=health+education+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=debunking-the-three-parts-of-a-better-debunk-myths-and-misconcept-health-education-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="health education poster" data-ebay-reference="debunking-the-three-parts-of-a-better-debunk-myths-and-misconcept-health-education-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ultimate Fruit Guide Poster A3 - Nutrition &amp; Health Educational Wall Art"><img src="{{ '/assets/images/marketplace-covers/4990fdf1f5c00d5d14d5.jpg' | relative_url }}" alt="Listing image for Ultimate Fruit Guide Poster A3 - Nutrition &amp; Health Educational Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=health+education+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=debunking-the-three-parts-of-a-better-debunk-myths-and-misconcept-health-education-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="health education poster" data-ebay-reference="debunking-the-three-parts-of-a-better-debunk-myths-and-misconcept-health-education-poster" target="_blank" rel="sponsored noopener noreferrer">Ultimate Fruit Guide Poster A3 - Nutrition &amp; Health Educational Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=health+education+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=debunking-the-three-parts-of-a-better-debunk-myths-and-misconcept-health-education-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="health education poster" data-ebay-reference="debunking-the-three-parts-of-a-better-debunk-myths-and-misconcept-health-education-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for health education poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: health education poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=health+education+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=debunking-the-three-parts-of-a-better-debunk-myths-and-misconcept-health-education-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="health education poster" data-ebay-reference="debunking-the-three-parts-of-a-better-debunk-myths-and-misconcept-health-education-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=health+education+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=debunking-the-three-parts-of-a-better-debunk-myths-and-misconcept-health-education-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="health education poster" data-ebay-reference="debunking-the-three-parts-of-a-better-debunk-myths-and-misconcept-health-education-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -820,7 +820,7 @@ The pattern is especially useful for myths and misconceptions because it respect
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -840,7 +840,7 @@ The pattern is especially useful for myths and misconceptions because it respect
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -872,7 +872,7 @@ The pattern is especially useful for myths and misconceptions because it respect
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -924,7 +924,7 @@ The pattern is especially useful for myths and misconceptions because it respect
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -969,7 +969,7 @@ The pattern is especially useful for myths and misconceptions because it respect
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -1010,143 +1010,143 @@ The pattern is especially useful for myths and misconceptions because it respect
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCCorrection format has a limited role when debunking  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8715407/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8715407/</a>  
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8715407/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8715407/</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: iris.who.int  
    Title: int Managing the COVID-19 infodemic  
-   Link: <a href="https://iris.who.int/bitstream/handle/10665/334287/9789240010314-eng.pdf?sequence=1" target="_blank" rel="noopener noreferrer nofollow">https://iris.who.int/bitstream/handle/10665/334287/9789240010314-eng.pdf?sequence=1</a>  
+   Link:<a href="https://iris.who.int/bitstream/handle/10665/334287/9789240010314-eng.pdf?sequence=1" target="_blank" rel="noopener noreferrer nofollow">https://iris.who.int/bitstream/handle/10665/334287/9789240010314-eng.pdf?sequence=1</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: who.int  
-   Link: <a href="https://www.who.int/europe/news/item/01-09-2022-infodemics-and-misinformation-negatively-affect-people-s-health-behaviours--new-who-review-finds" target="_blank" rel="noopener noreferrer nofollow">https://www.who.int/europe/news/item/01-09-2022-infodemics-and-misinformation-negatively-affect-people-s-health-behaviours--new-who-review-finds</a>  
+   Link:<a href="https://www.who.int/europe/news/item/01-09-2022-infodemics-and-misinformation-negatively-affect-people-s-health-behaviours--new-who-review-finds" target="_blank" rel="noopener noreferrer nofollow">https://www.who.int/europe/news/item/01-09-2022-infodemics-and-misinformation-negatively-affect-people-s-health-behaviours--new-who-review-finds</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: iris.who.int  
-   Link: <a href="https://iris.who.int/server/api/core/bitstreams/0879a3f8-b5a4-4a0a-846c-e5b4186c91d6/content" target="_blank" rel="noopener noreferrer nofollow">https://iris.who.int/server/api/core/bitstreams/0879a3f8-b5a4-4a0a-846c-e5b4186c91d6/content</a>  
+   Link:<a href="https://iris.who.int/server/api/core/bitstreams/0879a3f8-b5a4-4a0a-846c-e5b4186c91d6/content" target="_blank" rel="noopener noreferrer nofollow">https://iris.who.int/server/api/core/bitstreams/0879a3f8-b5a4-4a0a-846c-e5b4186c91d6/content</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: iris.who.int  
-   Link: <a href="https://iris.who.int/bitstreams/be290194-091b-4524-99d3-76af6af7631f/download" target="_blank" rel="noopener noreferrer nofollow">https://iris.who.int/bitstreams/be290194-091b-4524-99d3-76af6af7631f/download</a>  
+   Link:<a href="https://iris.who.int/bitstreams/be290194-091b-4524-99d3-76af6af7631f/download" target="_blank" rel="noopener noreferrer nofollow">https://iris.who.int/bitstreams/be290194-091b-4524-99d3-76af6af7631f/download</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: who.int  
    Title: fighting misinformation in the time of covid 19 one click at a time  
-   Link: <a href="https://www.who.int/news-room/feature-stories/detail/fighting-misinformation-in-the-time-of-covid-19-one-click-at-a-time" target="_blank" rel="noopener noreferrer nofollow">https://www.who.int/news-room/feature-stories/detail/fighting-misinformation-in-the-time-of-covid-19-one-click-at-a-time</a>  
+   Link:<a href="https://www.who.int/news-room/feature-stories/detail/fighting-misinformation-in-the-time-of-covid-19-one-click-at-a-time" target="_blank" rel="noopener noreferrer nofollow">https://www.who.int/news-room/feature-stories/detail/fighting-misinformation-in-the-time-of-covid-19-one-click-at-a-time</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: iris.who.int  
    Title: int Systematic reviews  
-   Link: <a href="https://iris.who.int/server/api/core/bitstreams/19e2cf79-a3e0-443e-b88e-99668c1979ab/content" target="_blank" rel="noopener noreferrer nofollow">https://iris.who.int/server/api/core/bitstreams/19e2cf79-a3e0-443e-b88e-99668c1979ab/content</a>  
+   Link:<a href="https://iris.who.int/server/api/core/bitstreams/19e2cf79-a3e0-443e-b88e-99668c1979ab/content" target="_blank" rel="noopener noreferrer nofollow">https://iris.who.int/server/api/core/bitstreams/19e2cf79-a3e0-443e-b88e-99668c1979ab/content</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: iris.who.int  
    Title: int INCREASIN G VACCINE UPTAKE  
-   Link: <a href="https://iris.who.int/bitstreams/329b06d4-3a41-41d6-bf03-a65d4aa317fc/download" target="_blank" rel="noopener noreferrer nofollow">https://iris.who.int/bitstreams/329b06d4-3a41-41d6-bf03-a65d4aa317fc/download</a>  
+   Link:<a href="https://iris.who.int/bitstreams/329b06d4-3a41-41d6-bf03-a65d4aa317fc/download" target="_blank" rel="noopener noreferrer nofollow">https://iris.who.int/bitstreams/329b06d4-3a41-41d6-bf03-a65d4aa317fc/download</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: cdn.who.int  
-   Link: <a href="https://cdn.who.int/media/docs/default-source/blue-print/stv-crisis-comms-handbook-eng-web-v1.pdf?sfvrsn=bfcdb1cb_9" target="_blank" rel="noopener noreferrer nofollow">https://cdn.who.int/media/docs/default-source/blue-print/stv-crisis-comms-handbook-eng-web-v1.pdf?sfvrsn=bfcdb1cb_9</a>  
+   Link:<a href="https://cdn.who.int/media/docs/default-source/blue-print/stv-crisis-comms-handbook-eng-web-v1.pdf?sfvrsn=bfcdb1cb_9" target="_blank" rel="noopener noreferrer nofollow">https://cdn.who.int/media/docs/default-source/blue-print/stv-crisis-comms-handbook-eng-web-v1.pdf?sfvrsn=bfcdb1cb_9</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: who.int  
-   Link: <a href="https://www.who.int/docs/default-source/documents/[communicating" target="_blank" rel="noopener noreferrer nofollow">https://www.who.int/docs/default-source/documents/[communicating</a>  
+   Link:<a href="https://www.who.int/docs/default-source/documents/[communicating" target="_blank" rel="noopener noreferrer nofollow">https://www.who.int/docs/default-source/documents/[communicating</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: who.int  
-   Link: <a href="https://www.who.int/campaigns/connecting-the-world-to-combat-coronavirus/how-to-report-misinformation-online" target="_blank" rel="noopener noreferrer nofollow">https://www.who.int/campaigns/connecting-the-world-to-combat-coronavirus/how-to-report-misinformation-online</a>  
+   Link:<a href="https://www.who.int/campaigns/connecting-the-world-to-combat-coronavirus/how-to-report-misinformation-online" target="_blank" rel="noopener noreferrer nofollow">https://www.who.int/campaigns/connecting-the-world-to-combat-coronavirus/how-to-report-misinformation-online</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: climatechangecommunication.org  
    Title: Center for Climate Change Communication Debunking Handbook  
-   Link: <a href="https://www.climatechangecommunication.org/wp-content/uploads/2023/09/DebunkingHandbook2020.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.climatechangecommunication.org/wp-content/uploads/2023/09/DebunkingHandbook2020.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>mention it once only. Explain how the myth misleads. Finish by reinforcing the fact—multiple times if possible.Read more...</p></details>
+   Link:<a href="https://www.climatechangecommunication.org/wp-content/uploads/2023/09/DebunkingHandbook2020.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.climatechangecommunication.org/wp-content/uploads/2023/09/DebunkingHandbook2020.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>mention it once only. Explain how the myth misleads. Finish by reinforcing the fact—multiple times if possible.Read more...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: apa.org  
    Title: misinformation recommendations  
-   Link: <a href="https://www.apa.org/topics/journalism-facts/misinformation-recommendations" target="_blank" rel="noopener noreferrer nofollow">https://www.apa.org/topics/journalism-facts/misinformation-recommendations</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>In these cases, the falsehood should be repeated briefly, with...</p></details>
+   Link:<a href="https://www.apa.org/topics/journalism-facts/misinformation-recommendations" target="_blank" rel="noopener noreferrer nofollow">https://www.apa.org/topics/journalism-facts/misinformation-recommendations</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>In these cases, the falsehood should be repeated briefly, with...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
    Title: Pub Med Debunking: A Meta-Analysis of the Psychological  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/28895452/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/28895452/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>by MPS Chan · 2017 · Cited by 1239 — This meta-analysis investigated the factors underlying effective messages to counter attitudes...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/28895452/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/28895452/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by MPS Chan · 2017 · Cited by 1239 — This meta-analysis investigated the factors underlying effective messages to counter attitudes...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: journals.sagepub.com  
-   Link: <a href="https://journals.sagepub.com/doi/abs/10.1177/0093650219854600" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/abs/10.1177/0093650219854600</a>  
+   Link:<a href="https://journals.sagepub.com/doi/abs/10.1177/0093650219854600" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/abs/10.1177/0093650219854600</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: digitalcommons.unl.edu  
-   Link: <a href="https://digitalcommons.unl.edu/context/scholcom/article/1247/viewcontent/DebunkingHandbook2020.pdf" target="_blank" rel="noopener noreferrer nofollow">https://digitalcommons.unl.edu/context/scholcom/article/1247/viewcontent/DebunkingHandbook2020.pdf</a>  
+   Link:<a href="https://digitalcommons.unl.edu/context/scholcom/article/1247/viewcontent/DebunkingHandbook2020.pdf" target="_blank" rel="noopener noreferrer nofollow">https://digitalcommons.unl.edu/context/scholcom/article/1247/viewcontent/DebunkingHandbook2020.pdf</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: digitalcommons.chapman.edu  
-   Link: <a href="https://digitalcommons.chapman.edu/cgi/viewcontent.cgi?article=1061&amp;context=comm_articles" target="_blank" rel="noopener noreferrer nofollow">https://digitalcommons.chapman.edu/cgi/viewcontent.cgi?article=1061&amp;context=comm_articles</a>  
+   Link:<a href="https://digitalcommons.chapman.edu/cgi/viewcontent.cgi?article=1061&amp;context=comm_articles" target="_blank" rel="noopener noreferrer nofollow">https://digitalcommons.chapman.edu/cgi/viewcontent.cgi?article=1061&amp;context=comm_articles</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/AmericanPsychologicalAssociation/posts/you-keep-seeing-the-same-claim-made-over-and-over-onlineso-it-must-be-true-right/1290086699819665/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/AmericanPsychologicalAssociation/posts/you-keep-seeing-the-same-claim-made-over-and-over-onlineso-it-must-be-true-right/1290086699819665/</a>  
+   Link:<a href="https://www.facebook.com/AmericanPsychologicalAssociation/posts/you-keep-seeing-the-same-claim-made-over-and-over-onlineso-it-must-be-true-right/1290086699819665/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/AmericanPsychologicalAssociation/posts/you-keep-seeing-the-same-claim-made-over-and-over-onlineso-it-must-be-true-right/1290086699819665/</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/AmericanPsychologicalAssociation/posts/although-questions-remain-psychological-science-yields-important-conclusions-abo/944208637740808/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/AmericanPsychologicalAssociation/posts/although-questions-remain-psychological-science-yields-important-conclusions-abo/944208637740808/</a>  
+   Link:<a href="https://www.facebook.com/AmericanPsychologicalAssociation/posts/although-questions-remain-psychological-science-yields-important-conclusions-abo/944208637740808/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/AmericanPsychologicalAssociation/posts/although-questions-remain-psychological-science-yields-important-conclusions-abo/944208637740808/</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: ltrr.arizona.edu  
    Title: Debunking Handbook  
-   Link: <a href="https://www.ltrr.arizona.edu/~katie/kt/natsgc/Debunking_Handbook.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ltrr.arizona.edu/~katie/kt/natsgc/Debunking_Handbook.pdf</a>  
+   Link:<a href="https://www.ltrr.arizona.edu/~katie/kt/natsgc/Debunking_Handbook.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ltrr.arizona.edu/~katie/kt/natsgc/Debunking_Handbook.pdf</a>  
 
 ### Additional References
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2405.08254" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2405.08254</a>  
+   Link:<a href="https://arxiv.org/abs/2405.08254" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2405.08254</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: ftp.cdc.gov  
-   Link: <a href="https://ftp.cdc.gov/pub/health_Statistics/nchs/Software/mmds/2009/spell/mmds_spell.txt" target="_blank" rel="noopener noreferrer nofollow">https://ftp.cdc.gov/pub/health_Statistics/nchs/Software/mmds/2009/spell/mmds_spell.txt</a>  
+   Link:<a href="https://ftp.cdc.gov/pub/health_Statistics/nchs/Software/mmds/2009/spell/mmds_spell.txt" target="_blank" rel="noopener noreferrer nofollow">https://ftp.cdc.gov/pub/health_Statistics/nchs/Software/mmds/2009/spell/mmds_spell.txt</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: ftp.cdc.gov  
-   Link: <a href="https://ftp.cdc.gov/pub/health_statistics/nchs/software/mmds/2003/mmds_spell.txt" target="_blank" rel="noopener noreferrer nofollow">https://ftp.cdc.gov/pub/health_statistics/nchs/software/mmds/2003/mmds_spell.txt</a>  
+   Link:<a href="https://ftp.cdc.gov/pub/health_statistics/nchs/software/mmds/2003/mmds_spell.txt" target="_blank" rel="noopener noreferrer nofollow">https://ftp.cdc.gov/pub/health_statistics/nchs/software/mmds/2003/mmds_spell.txt</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: youtube.com  
    Title: Communicating Science: Strategies for debunking myths  
-   Link: <a href="https://www.youtube.com/watch?v=9O5t-wF7078" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=9O5t-wF7078</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Debunking Misinformation Effectively: A Guide for Communicators...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=9O5t-wF7078" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=9O5t-wF7078</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Debunking Misinformation Effectively: A Guide for Communicators...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=5rT88f219j4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=5rT88f219j4</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How to use the Truth Sandwich to debunk misinformation...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=5rT88f219j4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=5rT88f219j4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How to use the Truth Sandwich to debunk misinformation...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: youtube.com  
    Title: Fighting Misinformation: The Power of the Truth Sandwich  
-   Link: <a href="https://www.youtube.com/watch?v=rWl-6kP7jV4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=rWl-6kP7jV4</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Communicating Science: Strategies for debunking myths...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=rWl-6kP7jV4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=rWl-6kP7jV4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Communicating Science: Strategies for debunking myths...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: youtube.com  
    Title: How to use the Truth Sandwich to debunk misinformation  
-   Link: <a href="https://www.youtube.com/watch?v=nO35r25-zI0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=nO35r25-zI0</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Fighting Misinformation: The Power of the Truth Sandwich...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=nO35r25-zI0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=nO35r25-zI0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Fighting Misinformation: The Power of the Truth Sandwich...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/319653313_Debunking_A_Meta-Analysis_of_the_Psychological_Efficacy_of_Messages_Countering_Misinformation" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/319653313_Debunking_A_Meta-Analysis_of_the_Psychological_Efficacy_of_Messages_Countering_Misinformation</a>  
+   Link:<a href="https://www.researchgate.net/publication/319653313_Debunking_A_Meta-Analysis_of_the_Psychological_Efficacy_of_Messages_Countering_Misinformation" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/319653313_Debunking_A_Meta-Analysis_of_the_Psychological_Efficacy_of_Messages_Countering_Misinformation</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/258180567_Misinformation_and_Its_Correction_Continued_Influence_and_Successful_Debiasing" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/258180567_Misinformation_and_Its_Correction_Continued_Influence_and_Successful_Debiasing</a>  
+   Link:<a href="https://www.researchgate.net/publication/258180567_Misinformation_and_Its_Correction_Continued_Influence_and_Successful_Debiasing" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/258180567_Misinformation_and_Its_Correction_Continued_Influence_and_Successful_Debiasing</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/391850616_Using_Psychological_Science_to_Understand_and_Fight_Health_Misinformation_AN_APA_CONSENSUS_STATEMENT" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/391850616_Using_Psychological_Science_to_Understand_and_Fight_Health_Misinformation_AN_APA_CONSENSUS_STATEMENT</a>
+   Link:<a href="https://www.researchgate.net/publication/391850616_Using_Psychological_Science_to_Understand_and_Fight_Health_Misinformation_AN_APA_CONSENSUS_STATEMENT" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/391850616_Using_Psychological_Science_to_Understand_and_Fight_Health_Misinformation_AN_APA_CONSENSUS_STATEMENT</a>

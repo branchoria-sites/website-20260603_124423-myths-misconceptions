@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /myths-and-misconcept-0d48d7-media/
 description: Focused pages that expand on Media Literacy.
-date: '2026-06-11'
+date: '2026'
 layout: default
 parent_basename: Myths_and_misconcept_0d48d7_media_literacy_preve_08a3ab
 parent_title: Media Literacy
@@ -16,7 +16,7 @@ parent_permalink: /media-literacy/
 
 # Explore Topics in Media Literacy
 
-The following pages expand on the main **[Media Literacy]({{ '/media-literacy/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[Media Literacy]({{ '/media-literacy/' | relative_url }})** page and cover its key branches in.
 
 - [Emotional Headlines]({{ '/emotional-headlines/' | relative_url }})
 - [Lateral reading]({{ '/lateral-reading/' | relative_url }})

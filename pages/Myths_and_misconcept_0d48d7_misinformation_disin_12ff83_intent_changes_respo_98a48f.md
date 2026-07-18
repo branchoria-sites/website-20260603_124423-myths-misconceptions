@@ -274,7 +274,7 @@ image: /assets/images/Myths_and_misconcept_0d48d7_misinformation_disin_12ff83_in
 
 ## Introduction
 
-A false claim is not always the same kind of problem. Two people can share the exact same inaccurate statement, yet one may be mistaken while the other is deliberately trying to mislead. That difference in [intent]({{ 'intent/' | relative_url }}) changes what a useful response looks like. A person acting in good faith may need [correction]({{ 'correction/' | relative_url }}), context and better information. A coordinated actor spreading a known falsehood may require investigation, disruption, transparency measures or sanctions instead. UNESCO and other information-disorder frameworks distinguish misinformation from disinformation primarily through intent: misinformation is false information shared without a deliberate aim to deceive, while disinformation involves intentional deception. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.unesco.org/en/tags/disinformation-0" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unesco.org">[UNESCO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unesco.org</span><span class="citation-popover-snippet">What is Disinformation? Meaning, Definition.Misinformation has a neutral or good underlying intent, whereas disinformation is defin...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.unesco.org/en/query-list/m/misinformation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unesco.org">[UNESCO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unesco.org</span><span class="citation-popover-snippet">What is Misinformation? Meaning, Definition.Misinformation is false information that is shared inadvertently, without meaning to ca...</span></span></span>
+A false claim is not always the same kind of problem. Two people can share the exact same inaccurate statement, yet one may be mistaken while the other is deliberately trying to mislead. That difference in [intent]({{ 'intent/' | relative_url }}) changes what a useful response looks like. A person acting in good faith may need [correction]({{ 'correction/' | relative_url }}), context and better information. A coordinated actor spreading a known falsehood may require investigation, disruption, transparency measures or sanctions instead. UNESCO and other information-disorder frameworks distinguish misinformation from disinformation primarily through intent: misinformation is false information shared without a deliberate aim to deceive, while disinformation involves intentional deception.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.unesco.org/en/tags/disinformation-0" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unesco.org">[UNESCO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unesco.org</span><span class="citation-popover-snippet">What is Disinformation? Meaning, Definition.Misinformation has a neutral or good underlying intent, whereas disinformation is defin...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.unesco.org/en/query-list/m/misinformation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unesco.org">[UNESCO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unesco.org</span><span class="citation-popover-snippet">What is Misinformation? Meaning, Definition.Misinformation is false information that is shared inadvertently, without meaning to ca...</span></span></span>
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_misinformation_disin_12ff83_intent_changes_respo_98a48f-Illustration-1-dark.svg" | relative_url }}" alt="Intent test illustration 1" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_misinformation_disin_12ff83_intent_changes_respo_98a48f-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_misinformation_disin_12ff83_intent_changes_respo_98a48f-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 This distinction matters because responses that work for honest error can fail against organised manipulation. Equally, responses designed for hostile actors can unfairly target ordinary people who are confused, misinformed or relying on poor sources. Understanding intent does not mean guessing what is inside someone's mind. It means examining how a false claim is being created, amplified and used, then matching the response to the underlying mechanism.
@@ -285,7 +285,7 @@ When people first encounter a false claim, the most obvious question is whether 
 
 A mistaken claim often emerges from normal weaknesses in human information processing. People rely on [memory]({{ 'memory/' | relative_url }}) shortcuts, trusted social networks, familiar narratives and emotional reactions. Someone may repeat an outdated statistic, misunderstand a scientific study or share a dramatic image without checking its origin. The central problem is informational failure.
 
-Disinformation operates differently. The falsehood is often only one part of a larger strategy. The goal may be political influence, financial gain, harassment, social division or confusion itself. First Draft's information-disorder framework describes disinformation as intentionally false content designed to cause harm, often motivated by influence, profit or disruption. <span class="citation-chip-wrap"><a class="citation-chip" href="https://firstdraftnews.org/long-form-article/understanding-information-disorder/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: firstdraftnews.org">[First Draft]</a><span class="citation-popover" role="note"><span class="citation-popover-source">firstdraftnews.org</span><span class="citation-popover-title">First Draft Understanding Information disorder</span><span class="citation-popover-snippet">Disinformation is content that is intentionally false and designed to cause harm. It is motivated by three...Read more...</span></span></span>
+Disinformation operates differently. The falsehood is often only one part of a larger strategy. The goal may be political influence, financial gain, harassment, social division or confusion itself. First Draft's information-disorder framework describes disinformation as intentionally false content designed to cause harm, often motivated by influence, profit or disruption.<span class="citation-chip-wrap"><a class="citation-chip" href="https://firstdraftnews.org/long-form-article/understanding-information-disorder/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: firstdraftnews.org">[First Draft]</a><span class="citation-popover" role="note"><span class="citation-popover-source">firstdraftnews.org</span><span class="citation-popover-title">First Draft Understanding Information disorder</span><span class="citation-popover-snippet">Disinformation is content that is intentionally false and designed to cause harm. It is motivated by three...Read more...</span></span></span>
 
 This difference changes the practical objective. If the source is mistaken, the goal is usually to improve understanding. If the source is deceptive, the goal may be to expose manipulation, reduce reach, identify networks or increase accountability. Treating both situations identically can miss the real cause of the problem.
 
@@ -305,7 +305,7 @@ No single signal is decisive, but several indicators often appear together.
 * Errors seem consistent with misunderstanding, confusion or poor sourcing.
 * There is little evidence of strategic [timing]({{ 'timing/' | relative_url }}) or organised [amplification]({{ 'amplification/' | relative_url }}).
 
-**Signs that suggest disinformation** <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.unesco.org/en/query-list/m/misinformation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unesco.org">[unesco.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unesco.org</span><span class="citation-popover-snippet">What is Misinformation? Meaning, Definition.Misinformation is false information that is shared inadvertently, without meaning to ca...</span></span></span>
+**Signs that suggest disinformation**<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.unesco.org/en/query-list/m/misinformation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unesco.org">[unesco.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unesco.org</span><span class="citation-popover-snippet">What is Misinformation? Meaning, Definition.Misinformation is false information that is shared inadvertently, without meaning to ca...</span></span></span>
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -318,15 +318,15 @@ No single signal is decisive, but several indicators often appear together.
 
 </div>
 
-Research on information disorder increasingly emphasises that identifying disinformation requires looking beyond the truth or falsity of a single post. Investigators often analyse networks, coordination patterns, funding structures, timing and amplification strategies rather than focusing only on individual claims. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2206.12915" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Disambiguating Disinformation: Extending Beyond the Veracity of Online ContentJune 26, 2022...</span><span class="citation-popover-meta">Published: June 26, 2022</span></span></span>
+Research on information disorder increasingly emphasises that identifying disinformation requires looking beyond the truth or falsity of a single post. Investigators often analyse networks, coordination patterns, funding structures, timing and amplification strategies rather than focusing only on individual claims.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2206.12915" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Disambiguating Disinformation: Extending Beyond the Veracity of Online ContentJune 26, 2022...</span><span class="citation-popover-meta">Published: June 26, 2022</span></span></span>
 
 This is why fact-checking alone sometimes fails to address organised campaigns. A false statement may be corrected, yet the network responsible for distributing it continues producing new variations of the same narrative.
 
 ## Why corrections work differently depending on intent
 
-Correcting misinformation is not as simple as saying "that is false". Decades of research on the continued influence effect show that people can continue relying on inaccurate information even after it has been retracted. False claims often leave a mental gap if the correction removes the story without replacing it. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7810102/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCCan you believe it?</span><span class="citation-popover-snippet">An investigation into the impact of... - PMCby UKH Ecker · 2021 · Cited by 208 — The continued influence effect refers to the finding th...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://digitalcommons.chapman.edu/cgi/viewcontent.cgi?article=1061&amp;context=comm_articles" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: digitalcommons.chapman.edu">[2digitalcommons.chapman.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">digitalcommons.chapman.edu</span><span class="citation-popover-snippet">A Meta-Analytic Examination of the Continued Influence of...by N Walter · 2019 · Cited by 649 — A meta-analysis was conducted to examine...</span></span></span>
+Correcting misinformation is not as simple as saying "that is false". Decades of research on the continued influence effect show that people can continue relying on inaccurate information even after it has been retracted. False claims often leave a mental gap if the correction removes the story without replacing it.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7810102/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCCan you believe it?</span><span class="citation-popover-snippet">An investigation into the impact of... - PMCby UKH Ecker · 2021 · Cited by 208 — The continued influence effect refers to the finding th...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://digitalcommons.chapman.edu/cgi/viewcontent.cgi?article=1061&amp;context=comm_articles" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: digitalcommons.chapman.edu">[2digitalcommons.chapman.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">digitalcommons.chapman.edu</span><span class="citation-popover-snippet">A Meta-Analytic Examination of the Continued Influence of...by N Walter · 2019 · Cited by 649 — A meta-analysis was conducted to examine...</span></span></span>
 
-Studies repeatedly find that corrections become more effective when they provide an alternative explanation rather than a bare denial. <span class="citation-chip-wrap"><a class="citation-chip" href="https://openaccess.city.ac.uk/28822/1/ConnorDesai%26Reimers2022.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: openaccess.city.ac.uk">[openaccess.city.ac.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">openaccess.city.ac.uk</span><span class="citation-popover-snippet">Misinformation often has a continuing influence on event-related reasoning even when it is clearly and credibly corrected;.Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://appstate.figshare.com/articles/thesis/Interventions_to_Limit_the_Continued_Influence_Effect_Across_Contexts/30334174/1/files/58815109.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: appstate.figshare.com">[2appstate.figshare.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">appstate.figshare.com</span><span class="citation-popover-snippet">continued influence effect: The persistence of misinformation...Read more...</span></span></span>
+Studies repeatedly find that corrections become more effective when they provide an alternative explanation rather than a bare denial.<span class="citation-chip-wrap"><a class="citation-chip" href="https://openaccess.city.ac.uk/28822/1/ConnorDesai%26Reimers2022.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: openaccess.city.ac.uk">[openaccess.city.ac.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">openaccess.city.ac.uk</span><span class="citation-popover-snippet">Misinformation often has a continuing influence on event-related reasoning even when it is clearly and credibly corrected;.Read more...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://appstate.figshare.com/articles/thesis/Interventions_to_Limit_the_Continued_Influence_Effect_Across_Contexts/30334174/1/files/58815109.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: appstate.figshare.com">[2appstate.figshare.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">appstate.figshare.com</span><span class="citation-popover-snippet">continued influence effect: The persistence of misinformation...Read more...</span></span></span>
 
 For example:
 
@@ -366,7 +366,7 @@ Useful approaches include:
 
 </div>
 
-Research into misinformation correction suggests that credibility, clarity and alternative explanations all improve the chances that people will revise their beliefs. Springer Link <span class="citation-chip-wrap"><a class="citation-chip" href="https://openaccess.city.ac.uk/28822/1/ConnorDesai%26Reimers2022.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: openaccess.city.ac.uk">[2openaccess.city.ac.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">openaccess.city.ac.uk</span><span class="citation-popover-snippet">Misinformation often has a continuing influence on event-related reasoning even when it is clearly and credibly corrected;.Read more...</span></span></span>
+Research into misinformation correction suggests that credibility, clarity and alternative explanations all improve the chances that people will revise their beliefs. Springer Link<span class="citation-chip-wrap"><a class="citation-chip" href="https://openaccess.city.ac.uk/28822/1/ConnorDesai%26Reimers2022.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: openaccess.city.ac.uk">[2openaccess.city.ac.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">openaccess.city.ac.uk</span><span class="citation-popover-snippet">Misinformation often has a continuing influence on event-related reasoning even when it is clearly and credibly corrected;.Read more...</span></span></span>
 
 An aggressive response can sometimes [backfire]({{ 'backfire/' | relative_url }}). If people feel attacked for making an honest mistake, they may become defensive and less willing to accept corrections.
 
@@ -388,7 +388,7 @@ Potential responses include:
 
 </div>
 
-In these situations, correcting individual claims remains useful, but the larger objective becomes reducing the effectiveness of the manipulation campaign itself. First Draft and related information-disorder frameworks emphasise that harmful falsehoods frequently operate through coordinated ecosystems rather than isolated posts. <span class="citation-chip-wrap"><a class="citation-chip" href="https://firstdraftnews.org/long-form-article/understanding-information-disorder/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: firstdraftnews.org">[First Draft]</a><span class="citation-popover" role="note"><span class="citation-popover-source">firstdraftnews.org</span><span class="citation-popover-title">First Draft Understanding Information disorder</span><span class="citation-popover-snippet">Disinformation is content that is intentionally false and designed to cause harm. It is motivated by three...Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://firstdraftnews.org/long-form-article/understanding-information-disorder/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: firstdraftnews.org">[First Draft]</a><span class="citation-popover" role="note"><span class="citation-popover-source">firstdraftnews.org</span><span class="citation-popover-title">First Draft Understanding Information disorder</span><span class="citation-popover-snippet">Disinformation is content that is intentionally false and designed to cause harm. It is motivated by three...Read more...</span></span></span>
+In these situations, correcting individual claims remains useful, but the larger objective becomes reducing the effectiveness of the manipulation campaign itself. First Draft and related information-disorder frameworks emphasise that harmful falsehoods frequently operate through coordinated ecosystems rather than isolated posts.<span class="citation-chip-wrap"><a class="citation-chip" href="https://firstdraftnews.org/long-form-article/understanding-information-disorder/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: firstdraftnews.org">[First Draft]</a><span class="citation-popover" role="note"><span class="citation-popover-source">firstdraftnews.org</span><span class="citation-popover-title">First Draft Understanding Information disorder</span><span class="citation-popover-snippet">Disinformation is content that is intentionally false and designed to cause harm. It is motivated by three...Read more...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://firstdraftnews.org/long-form-article/understanding-information-disorder/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: firstdraftnews.org">[First Draft]</a><span class="citation-popover" role="note"><span class="citation-popover-source">firstdraftnews.org</span><span class="citation-popover-title">First Draft Understanding Information disorder</span><span class="citation-popover-snippet">Disinformation is content that is intentionally false and designed to cause harm. It is motivated by three...Read more...</span></span></span>
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_misinformation_disin_12ff83_intent_changes_respo_98a48f-Illustration-3-dark.svg" | relative_url }}" alt="Intent test illustration 3" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_misinformation_disin_12ff83_intent_changes_respo_98a48f-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_misinformation_disin_12ff83_intent_changes_respo_98a48f-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The same claim can move between categories
@@ -397,7 +397,7 @@ One reason intent-based responses are challenging is that misinformation and dis
 
 A fabricated story may begin as deliberate disinformation. Once it enters public circulation, ordinary people may encounter it, believe it and share it sincerely. At that stage, the same claim is being spread through both deception and mistake simultaneously.
 
-UN sources and information-disorder researchers frequently note this transition. Deliberate falsehoods can become embedded in public discussion and continue spreading through people who no longer recognise their deceptive origins. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.un.org/sites/un2.un.org/files/notohate_fact_sheets_en.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: un.org">[United Nations]</a><span class="citation-popover" role="note"><span class="citation-popover-source">un.org</span><span class="citation-popover-snippet">ited NationsHate Speech, MIS- AND DISINFORMATIONMisinformation can be rooted in disinformation as deliberate lies and misleading narrat...</span></span></span>
+UN sources and information-disorder researchers frequently note this transition. Deliberate falsehoods can become embedded in public discussion and continue spreading through people who no longer recognise their deceptive origins.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.un.org/sites/un2.un.org/files/notohate_fact_sheets_en.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: un.org">[United Nations]</a><span class="citation-popover" role="note"><span class="citation-popover-source">un.org</span><span class="citation-popover-snippet">ited NationsHate Speech, MIS- AND DISINFORMATIONMisinformation can be rooted in disinformation as deliberate lies and misleading narrat...</span></span></span>
 
 This creates a two-level problem:
 
@@ -410,7 +410,7 @@ Focusing only on the audience ignores the organisers. Focusing only on the organ
 
 Although the misinformation-disinformation distinction is widely used, intent is not always easy to determine. Critics point out that proving motivation can be difficult, especially online. A person may appear deceptive while actually being mistaken, or claim innocence while knowingly spreading falsehoods.
 
-Because of this uncertainty, many investigators look for evidence of behaviour rather than relying entirely on stated motives. Patterns such as coordination, repetition [after correction]({{ 'after-correction/' | relative_url }}), hidden sponsorship and strategic timing can provide stronger evidence than personal declarations alone. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2206.12915" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Disambiguating Disinformation: Extending Beyond the Veracity of Online ContentJune 26, 2022...</span><span class="citation-popover-meta">Published: June 26, 2022</span></span></span>
+Because of this uncertainty, many investigators look for evidence of behaviour rather than relying entirely on stated motives. Patterns such as coordination, repetition [after correction]({{ 'after-correction/' | relative_url }}), hidden sponsorship and strategic timing can provide stronger evidence than personal declarations alone.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2206.12915" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Disambiguating Disinformation: Extending Beyond the Veracity of Online ContentJune 26, 2022...</span><span class="citation-popover-meta">Published: June 26, 2022</span></span></span>
 
 The challenge is balancing two risks:
 
@@ -430,194 +430,194 @@ If confusion, misunderstanding and poor information are driving the problem, cor
 That is why intent remains central to modern discussions of misinformation and disinformation. It does not change whether a claim is true or false, but it changes what society needs to do about it.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why intent changes the right response. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why intent changes the right response. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Constitution+of+Knowledge+by+Jonathan+Rauch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Constitution of Knowledge on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=W4J_EQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Constitution of Knowledge" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Constitution+of+Knowledge+by+Jonathan+Rauch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Constitution of Knowledge">The Constitution of Knowledge</a>
-        </h4>
-        <p class="fr-book-author">By Jonathan Rauch</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Constitution+of+Knowledge+by+Jonathan+Rauch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Constitution of Knowledge on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=W4J_EQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Constitution of Knowledge" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Constitution+of+Knowledge+by+Jonathan+Rauch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Constitution of Knowledge">The Constitution of Knowledge</a>
+</h4>
+<p class="fr-book-author">By Jonathan Rauch</p>
         
-        <p class="fr-book-desc">Examines how different information failures require different responses.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Constitution+of+Knowledge+by+Jonathan+Rauch&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines how different information failures require different responses.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Constitution+of+Knowledge+by+Jonathan+Rauch&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Calling Bullshit on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Plu9DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Calling Bullshit" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Calling Bullshit">Calling Bullshit</a>
-        </h4>
-        <p class="fr-book-author">By Carl T. Bergstrom, Jevin D. West</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Calling Bullshit on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Plu9DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Calling Bullshit" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Calling Bullshit">Calling Bullshit</a>
+</h4>
+<p class="fr-book-author">By Carl T. Bergstrom, Jevin D. West</p>
         
-        <p class="fr-book-desc">Shows how to distinguish mistakes from misleading tactics.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows how to distinguish mistakes from misleading tactics.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Factfulness on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=rxg0tgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Factfulness" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Factfulness">Factfulness</a>
-        </h4>
-        <p class="fr-book-author">By Hans Rosling, Ola Rosling et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Factfulness on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=rxg0tgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Factfulness" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Factfulness">Factfulness</a>
+</h4>
+<p class="fr-book-author">By Hans Rosling, Ola Rosling et al.</p>
         
-        <p class="fr-book-desc">Highlights how many false beliefs stem from misunderstanding rather than deception.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Highlights how many false beliefs stem from misunderstanding rather than deception.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Scout+Mindset+Julia+Galef&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Scout Mindset on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10690900-M.jpg" alt="Cover for Scout Mindset" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Scout+Mindset+Julia+Galef&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scout Mindset">Scout Mindset</a>
-        </h4>
-        <p class="fr-book-author">By Julia Galef</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Scout+Mindset+Julia+Galef&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Scout Mindset on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10690900-M.jpg" alt="Cover for Scout Mindset" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Scout+Mindset+Julia+Galef&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scout Mindset">Scout Mindset</a>
+</h4>
+<p class="fr-book-author">By Julia Galef</p>
         
-        <p class="fr-book-desc">First published 2021. Subjects: Economics, Psychology, Cognition, Skepticism, Critical thinking.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Scout+Mindset+Julia+Galef&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2021. Subjects: Economics, Psychology, Cognition, Skepticism, Critical thinking.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Scout+Mindset+Julia+Galef&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Constitution+of+Knowledge&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Constitution of Knowledge</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Calling+Bullshit&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Calling Bullshit</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Factfulness&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Factfulness</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Constitution+of+Knowledge&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Constitution of Knowledge</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Calling+Bullshit&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Calling Bullshit</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Factfulness&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Factfulness</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=intent-test-why-intent-changes-the-right-response-myths-and-misconcept-medical-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical wall art" data-ebay-reference="intent-test-why-intent-changes-the-right-response-myths-and-misconcept-medical-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Medical Human Skeleton Anatomy Biology Learning Canvas Wall Art Picture Print"><img src="{{ '/assets/images/marketplace-covers/087aa6c2440625ed4209.jpg' | relative_url }}" alt="Listing image for Medical Human Skeleton Anatomy Biology Learning Canvas Wall Art Picture Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=intent-test-why-intent-changes-the-right-response-myths-and-misconcept-medical-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical wall art" data-ebay-reference="intent-test-why-intent-changes-the-right-response-myths-and-misconcept-medical-wall-art" target="_blank" rel="sponsored noopener noreferrer">Medical Human Skeleton Anatomy Biology Learning Canvas Wall Art Picture Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=intent-test-why-intent-changes-the-right-response-myths-and-misconcept-medical-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical wall art" data-ebay-reference="intent-test-why-intent-changes-the-right-response-myths-and-misconcept-medical-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for medical wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: medical wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=intent-test-why-intent-changes-the-right-response-myths-and-misconcept-medical-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical wall art" data-ebay-reference="intent-test-why-intent-changes-the-right-response-myths-and-misconcept-medical-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=intent-test-why-intent-changes-the-right-response-myths-and-misconcept-medical-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical wall art" data-ebay-reference="intent-test-why-intent-changes-the-right-response-myths-and-misconcept-medical-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Medical Human Skeleton Anatomy Biology Learning Canvas Wall Art Picture Print"><img src="{{ '/assets/images/marketplace-covers/087aa6c2440625ed4209.jpg' | relative_url }}" alt="Listing image for Medical Human Skeleton Anatomy Biology Learning Canvas Wall Art Picture Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=intent-test-why-intent-changes-the-right-response-myths-and-misconcept-medical-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical wall art" data-ebay-reference="intent-test-why-intent-changes-the-right-response-myths-and-misconcept-medical-wall-art" target="_blank" rel="sponsored noopener noreferrer">Medical Human Skeleton Anatomy Biology Learning Canvas Wall Art Picture Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=intent-test-why-intent-changes-the-right-response-myths-and-misconcept-medical-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical wall art" data-ebay-reference="intent-test-why-intent-changes-the-right-response-myths-and-misconcept-medical-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for medical wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: medical wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=intent-test-why-intent-changes-the-right-response-myths-and-misconcept-medical-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical wall art" data-ebay-reference="intent-test-why-intent-changes-the-right-response-myths-and-misconcept-medical-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=intent-test-why-intent-changes-the-right-response-myths-and-misconcept-medical-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical wall art" data-ebay-reference="intent-test-why-intent-changes-the-right-response-myths-and-misconcept-medical-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UK â˜‘â˜‘ - Reflexology of the Foot Wall Art Poster Human Anatomy Medical Print"><img src="{{ '/assets/images/marketplace-covers/d14b7c8b7e9b82c1d487.jpg' | relative_url }}" alt="Listing image for UK â˜‘â˜‘ - Reflexology of the Foot Wall Art Poster Human Anatomy Medical Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=intent-test-why-intent-changes-the-right-response-myths-and-misconcept-medical-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical wall art" data-ebay-reference="intent-test-why-intent-changes-the-right-response-myths-and-misconcept-medical-wall-art" target="_blank" rel="sponsored noopener noreferrer">UK â˜‘â˜‘ - Reflexology of the Foot Wall Art Poster Human Anatomy Medical Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=intent-test-why-intent-changes-the-right-response-myths-and-misconcept-medical-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical wall art" data-ebay-reference="intent-test-why-intent-changes-the-right-response-myths-and-misconcept-medical-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for medical wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: medical wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=intent-test-why-intent-changes-the-right-response-myths-and-misconcept-medical-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical wall art" data-ebay-reference="intent-test-why-intent-changes-the-right-response-myths-and-misconcept-medical-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=intent-test-why-intent-changes-the-right-response-myths-and-misconcept-medical-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical wall art" data-ebay-reference="intent-test-why-intent-changes-the-right-response-myths-and-misconcept-medical-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UK â˜‘â˜‘ - Reflexology of the Foot Wall Art Poster Human Anatomy Medical Print"><img src="{{ '/assets/images/marketplace-covers/d14b7c8b7e9b82c1d487.jpg' | relative_url }}" alt="Listing image for UK â˜‘â˜‘ - Reflexology of the Foot Wall Art Poster Human Anatomy Medical Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=intent-test-why-intent-changes-the-right-response-myths-and-misconcept-medical-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical wall art" data-ebay-reference="intent-test-why-intent-changes-the-right-response-myths-and-misconcept-medical-wall-art" target="_blank" rel="sponsored noopener noreferrer">UK â˜‘â˜‘ - Reflexology of the Foot Wall Art Poster Human Anatomy Medical Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=intent-test-why-intent-changes-the-right-response-myths-and-misconcept-medical-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical wall art" data-ebay-reference="intent-test-why-intent-changes-the-right-response-myths-and-misconcept-medical-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for medical wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: medical wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=intent-test-why-intent-changes-the-right-response-myths-and-misconcept-medical-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical wall art" data-ebay-reference="intent-test-why-intent-changes-the-right-response-myths-and-misconcept-medical-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=intent-test-why-intent-changes-the-right-response-myths-and-misconcept-medical-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical wall art" data-ebay-reference="intent-test-why-intent-changes-the-right-response-myths-and-misconcept-medical-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Medic! Framed Art Print Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/d62c5c942e2d9f310296.jpg' | relative_url }}" alt="Listing image for Medic! Framed Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=intent-test-why-intent-changes-the-right-response-myths-and-misconcept-medical-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical wall art" data-ebay-reference="intent-test-why-intent-changes-the-right-response-myths-and-misconcept-medical-wall-art" target="_blank" rel="sponsored noopener noreferrer">Medic! Framed Art Print Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=intent-test-why-intent-changes-the-right-response-myths-and-misconcept-medical-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical wall art" data-ebay-reference="intent-test-why-intent-changes-the-right-response-myths-and-misconcept-medical-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for medical wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: medical wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=intent-test-why-intent-changes-the-right-response-myths-and-misconcept-medical-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical wall art" data-ebay-reference="intent-test-why-intent-changes-the-right-response-myths-and-misconcept-medical-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=intent-test-why-intent-changes-the-right-response-myths-and-misconcept-medical-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical wall art" data-ebay-reference="intent-test-why-intent-changes-the-right-response-myths-and-misconcept-medical-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Medic! Framed Art Print Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/d62c5c942e2d9f310296.jpg' | relative_url }}" alt="Listing image for Medic! Framed Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=intent-test-why-intent-changes-the-right-response-myths-and-misconcept-medical-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical wall art" data-ebay-reference="intent-test-why-intent-changes-the-right-response-myths-and-misconcept-medical-wall-art" target="_blank" rel="sponsored noopener noreferrer">Medic! Framed Art Print Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=intent-test-why-intent-changes-the-right-response-myths-and-misconcept-medical-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical wall art" data-ebay-reference="intent-test-why-intent-changes-the-right-response-myths-and-misconcept-medical-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for medical wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: medical wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=intent-test-why-intent-changes-the-right-response-myths-and-misconcept-medical-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical wall art" data-ebay-reference="intent-test-why-intent-changes-the-right-response-myths-and-misconcept-medical-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=intent-test-why-intent-changes-the-right-response-myths-and-misconcept-medical-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical wall art" data-ebay-reference="intent-test-why-intent-changes-the-right-response-myths-and-misconcept-medical-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Medic Framed Art Print Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/10be4db0fa58cebf027a.jpg' | relative_url }}" alt="Listing image for Medic Framed Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=intent-test-why-intent-changes-the-right-response-myths-and-misconcept-medical-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical wall art" data-ebay-reference="intent-test-why-intent-changes-the-right-response-myths-and-misconcept-medical-wall-art" target="_blank" rel="sponsored noopener noreferrer">Medic Framed Art Print Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=intent-test-why-intent-changes-the-right-response-myths-and-misconcept-medical-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical wall art" data-ebay-reference="intent-test-why-intent-changes-the-right-response-myths-and-misconcept-medical-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for medical wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: medical wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=intent-test-why-intent-changes-the-right-response-myths-and-misconcept-medical-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical wall art" data-ebay-reference="intent-test-why-intent-changes-the-right-response-myths-and-misconcept-medical-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=intent-test-why-intent-changes-the-right-response-myths-and-misconcept-medical-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical wall art" data-ebay-reference="intent-test-why-intent-changes-the-right-response-myths-and-misconcept-medical-wall-art" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=intent-test-why-intent-changes-the-right-response-myths-and-misconcept-medical-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical wall art" data-ebay-reference="intent-test-why-intent-changes-the-right-response-myths-and-misconcept-medical-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Medic Framed Art Print Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/10be4db0fa58cebf027a.jpg' | relative_url }}" alt="Listing image for Medic Framed Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=intent-test-why-intent-changes-the-right-response-myths-and-misconcept-medical-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical wall art" data-ebay-reference="intent-test-why-intent-changes-the-right-response-myths-and-misconcept-medical-wall-art" target="_blank" rel="sponsored noopener noreferrer">Medic Framed Art Print Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=intent-test-why-intent-changes-the-right-response-myths-and-misconcept-medical-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical wall art" data-ebay-reference="intent-test-why-intent-changes-the-right-response-myths-and-misconcept-medical-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for medical wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: medical wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=intent-test-why-intent-changes-the-right-response-myths-and-misconcept-medical-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical wall art" data-ebay-reference="intent-test-why-intent-changes-the-right-response-myths-and-misconcept-medical-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=intent-test-why-intent-changes-the-right-response-myths-and-misconcept-medical-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical wall art" data-ebay-reference="intent-test-why-intent-changes-the-right-response-myths-and-misconcept-medical-wall-art" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -633,7 +633,7 @@ That is why intent remains central to modern discussions of misinformation and d
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -653,7 +653,7 @@ That is why intent remains central to modern discussions of misinformation and d
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -685,7 +685,7 @@ That is why intent remains central to modern discussions of misinformation and d
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -737,7 +737,7 @@ That is why intent remains central to modern discussions of misinformation and d
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -782,7 +782,7 @@ That is why intent remains central to modern discussions of misinformation and d
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -823,164 +823,164 @@ That is why intent remains central to modern discussions of misinformation and d
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: unesco.org  
-   Link: <a href="https://www.unesco.org/en/tags/disinformation-0" target="_blank" rel="noopener noreferrer nofollow">https://www.unesco.org/en/tags/disinformation-0</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>What is Disinformation? Meaning, Definition.Misinformation has a neutral or good underlying intent, whereas disinformation is defin...</p></details>
+   Link:<a href="https://www.unesco.org/en/tags/disinformation-0" target="_blank" rel="noopener noreferrer nofollow">https://www.unesco.org/en/tags/disinformation-0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>What is Disinformation? Meaning, Definition.Misinformation has a neutral or good underlying intent, whereas disinformation is defin...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: unesco.org  
-   Link: <a href="https://www.unesco.org/en/query-list/m/misinformation" target="_blank" rel="noopener noreferrer nofollow">https://www.unesco.org/en/query-list/m/misinformation</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>What is Misinformation? Meaning, Definition.Misinformation is false information that is shared inadvertently, without meaning to ca...</p></details>
+   Link:<a href="https://www.unesco.org/en/query-list/m/misinformation" target="_blank" rel="noopener noreferrer nofollow">https://www.unesco.org/en/query-list/m/misinformation</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>What is Misinformation? Meaning, Definition.Misinformation is false information that is shared inadvertently, without meaning to ca...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2206.12915" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2206.12915</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Disambiguating Disinformation: Extending Beyond the Veracity of Online ContentJune 26, 2022...</p></details>
+   Link:<a href="https://arxiv.org/abs/2206.12915" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2206.12915</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Disambiguating Disinformation: Extending Beyond the Veracity of Online ContentJune 26, 2022...</p></details>
    Published: June 26, 2022  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2406.09343" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2406.09343</a>  
+   Link:<a href="https://arxiv.org/abs/2406.09343" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2406.09343</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCCan you believe it?  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7810102/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC7810102/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>An investigation into the impact of... - PMCby UKH Ecker · 2021 · Cited by 208 — The continued influence effect refers to the finding th...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7810102/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC7810102/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>An investigation into the impact of... - PMCby UKH Ecker · 2021 · Cited by 208 — The continued influence effect refers to the finding th...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: digitalcommons.chapman.edu  
-   Link: <a href="https://digitalcommons.chapman.edu/cgi/viewcontent.cgi?article=1061&amp;context=comm_articles" target="_blank" rel="noopener noreferrer nofollow">https://digitalcommons.chapman.edu/cgi/viewcontent.cgi?article=1061&amp;context=comm_articles</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>A Meta-Analytic Examination of the Continued Influence of...by N Walter · 2019 · Cited by 649 — A meta-analysis was conducted to examine...</p></details>
+   Link:<a href="https://digitalcommons.chapman.edu/cgi/viewcontent.cgi?article=1061&amp;context=comm_articles" target="_blank" rel="noopener noreferrer nofollow">https://digitalcommons.chapman.edu/cgi/viewcontent.cgi?article=1061&amp;context=comm_articles</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A Meta-Analytic Examination of the Continued Influence of...by N Walter · 2019 · Cited by 649 — A meta-analysis was conducted to examine...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: openaccess.city.ac.uk  
-   Link: <a href="https://openaccess.city.ac.uk/28822/1/ConnorDesai%26Reimers2022.pdf" target="_blank" rel="noopener noreferrer nofollow">https://openaccess.city.ac.uk/28822/1/ConnorDesai%26Reimers2022.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Misinformation often has a continuing influence on event-related reasoning even when it is clearly and credibly corrected;.Read more...</p></details>
+   Link:<a href="https://openaccess.city.ac.uk/28822/1/ConnorDesai%26Reimers2022.pdf" target="_blank" rel="noopener noreferrer nofollow">https://openaccess.city.ac.uk/28822/1/ConnorDesai%26Reimers2022.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Misinformation often has a continuing influence on event-related reasoning even when it is clearly and credibly corrected;.Read more...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: appstate.figshare.com  
-   Link: <a href="https://appstate.figshare.com/articles/thesis/Interventions_to_Limit_the_Continued_Influence_Effect_Across_Contexts/30334174/1/files/58815109.pdf" target="_blank" rel="noopener noreferrer nofollow">https://appstate.figshare.com/articles/thesis/Interventions_to_Limit_the_Continued_Influence_Effect_Across_Contexts/30334174/1/files/58815109.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>continued influence effect: The persistence of misinformation...Read more...</p></details>
+   Link:<a href="https://appstate.figshare.com/articles/thesis/Interventions_to_Limit_the_Continued_Influence_Effect_Across_Contexts/30334174/1/files/58815109.pdf" target="_blank" rel="noopener noreferrer nofollow">https://appstate.figshare.com/articles/thesis/Interventions_to_Limit_the_Continued_Influence_Effect_Across_Contexts/30334174/1/files/58815109.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>continued influence effect: The persistence of misinformation...Read more...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: link.springer.com  
-   Link: <a href="https://link.springer.com/article/10.3758/s13421-023-01402-w" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.3758/s13421-023-01402-w</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Springer LinkThe impact of misinformation corrections on source perceptionsby V Westbrook · 2023 · Cited by 26 — Research on the continue...</p></details>
+   Link:<a href="https://link.springer.com/article/10.3758/s13421-023-01402-w" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.3758/s13421-023-01402-w</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Springer LinkThe impact of misinformation corrections on source perceptionsby V Westbrook · 2023 · Cited by 26 — Research on the continue...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: unesco.org  
-   Link: <a href="https://www.unesco.org/en/query-list/d/disinformation" target="_blank" rel="noopener noreferrer nofollow">https://www.unesco.org/en/query-list/d/disinformation</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>having intention to deceive. Explore further with...Read more...</p></details>
+   Link:<a href="https://www.unesco.org/en/query-list/d/disinformation" target="_blank" rel="noopener noreferrer nofollow">https://www.unesco.org/en/query-list/d/disinformation</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>having intention to deceive. Explore further with...Read more...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: unesco.org  
    Title: What is Misinformation?  
-   Link: <a href="https://www.unesco.org/en/tags/misinformation-0" target="_blank" rel="noopener noreferrer nofollow">https://www.unesco.org/en/tags/misinformation-0</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Meaning, Definition.Misinformation is false information that is shared inadvertently, without meaning to cause harm. The terms misinforma...</p></details>
+   Link:<a href="https://www.unesco.org/en/tags/misinformation-0" target="_blank" rel="noopener noreferrer nofollow">https://www.unesco.org/en/tags/misinformation-0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Meaning, Definition.Misinformation is false information that is shared inadvertently, without meaning to cause harm. The terms misinforma...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: unesco.org  
-   Link: <a href="https://www.unesco.org/mil4teachers/en/module4/unit2" target="_blank" rel="noopener noreferrer nofollow">https://www.unesco.org/mil4teachers/en/module4/unit2</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Unit 2: The Misinformation and Disinformation Ecosystem11 Apr 2024 — Distinguish the different types of false and misleading content, i.e...</p></details>
+   Link:<a href="https://www.unesco.org/mil4teachers/en/module4/unit2" target="_blank" rel="noopener noreferrer nofollow">https://www.unesco.org/mil4teachers/en/module4/unit2</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Unit 2: The Misinformation and Disinformation Ecosystem11 Apr 2024 — Distinguish the different types of false and misleading content, i.e...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: unesco.org  
-   Link: <a href="https://www.unesco.org/mil4teachers/en/module4" target="_blank" rel="noopener noreferrer nofollow">https://www.unesco.org/mil4teachers/en/module4</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>disinformation, misinformation, and mal-information including conspiracy theories.... UNESCO discourages the term [fake news](&amp;#123;&amp;#123; &#x27;fake-news/&#x27; | relative_url &amp;#125;&amp;#125;), on the basi...</p></details>
+   Link:<a href="https://www.unesco.org/mil4teachers/en/module4" target="_blank" rel="noopener noreferrer nofollow">https://www.unesco.org/mil4teachers/en/module4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>disinformation, misinformation, and mal-information including conspiracy theories.... UNESCO discourages the term [fake news](&amp;#123;&amp;#123; &#x27;fake-news/&#x27; | relative_url &amp;#125;&amp;#125;), on the basi...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: firstdraftnews.org  
    Title: First Draft Understanding Information disorder  
-   Link: <a href="https://firstdraftnews.org/long-form-article/understanding-information-disorder/" target="_blank" rel="noopener noreferrer nofollow">https://firstdraftnews.org/long-form-article/understanding-information-disorder/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Disinformation is content that is intentionally false and designed to cause harm. It is motivated by three...Read more...</p></details>
+   Link:<a href="https://firstdraftnews.org/long-form-article/understanding-information-disorder/" target="_blank" rel="noopener noreferrer nofollow">https://firstdraftnews.org/long-form-article/understanding-information-disorder/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Disinformation is content that is intentionally false and designed to cause harm. It is motivated by three...Read more...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: firstdraftnews.org  
-   Link: <a href="https://firstdraftnews.org/wp-content/uploads/2019/10/Information_Disorder_Digital_AW.pdf" target="_blank" rel="noopener noreferrer nofollow">https://firstdraftnews.org/wp-content/uploads/2019/10/Information_Disorder_Digital_AW.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>First DraftUnderstanding Information Disorder - First Draft NewsOct 16, 2019 — When disinformation is shared it often turns into misinfor...</p></details>
+   Link:<a href="https://firstdraftnews.org/wp-content/uploads/2019/10/Information_Disorder_Digital_AW.pdf" target="_blank" rel="noopener noreferrer nofollow">https://firstdraftnews.org/wp-content/uploads/2019/10/Information_Disorder_Digital_AW.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>First DraftUnderstanding Information Disorder - First Draft NewsOct 16, 2019 — When disinformation is shared it often turns into misinfor...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: un.org  
-   Link: <a href="https://www.un.org/sites/un2.un.org/files/notohate_fact_sheets_en.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.un.org/sites/un2.un.org/files/notohate_fact_sheets_en.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ited NationsHate Speech, MIS- AND DISINFORMATIONMisinformation can be rooted in disinformation as deliberate lies and misleading narrat...</p></details>
+   Link:<a href="https://www.un.org/sites/un2.un.org/files/notohate_fact_sheets_en.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.un.org/sites/un2.un.org/files/notohate_fact_sheets_en.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ited NationsHate Speech, MIS- AND DISINFORMATIONMisinformation can be rooted in disinformation as deliberate lies and misleading narrat...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: firstdraftnews.org  
-   Link: <a href="https://firstdraftnews.org/" target="_blank" rel="noopener noreferrer nofollow">https://firstdraftnews.org/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>impact of misinformation on elections...Read more...</p></details>
+   Link:<a href="https://firstdraftnews.org/" target="_blank" rel="noopener noreferrer nofollow">https://firstdraftnews.org/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>impact of misinformation on elections...Read more...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: ohchr.org  
-   Link: <a href="https://www.ohchr.org/sites/default/files/Documents/Issues/Expression/disinformation/5-Others/UNESCO.docx" target="_blank" rel="noopener noreferrer nofollow">https://www.ohchr.org/sites/default/files/Documents/Issues/Expression/disinformation/5-Others/UNESCO.docx</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>unescoIt is also recognised that like the term “fake news”, the term “disinformation” can be instrumentalised to designate a vast range o...</p></details>
+   Link:<a href="https://www.ohchr.org/sites/default/files/Documents/Issues/Expression/disinformation/5-Others/UNESCO.docx" target="_blank" rel="noopener noreferrer nofollow">https://www.ohchr.org/sites/default/files/Documents/Issues/Expression/disinformation/5-Others/UNESCO.docx</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>unescoIt is also recognised that like the term “fake news”, the term “disinformation” can be instrumentalised to designate a vast range o...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: Wikipedia  
    Title: Fake news  
-   Link: <a href="https://en.wikipedia.org/wiki/Fake_news" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Fake_news</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Fake newsFake news is false or misleading information (misinformation, disinformation, propaganda, and hoaxes) claiming the aesthetics...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Fake_news" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Fake_news</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Fake newsFake news is false or misleading information (misinformation, disinformation, propaganda, and hoaxes) claiming the aesthetics...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Disinformation" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Disinformation</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>DisinformationMisinformation can be used to create disinformation when known misinformation is purposefully and intentionally dissemin...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Disinformation" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Disinformation</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>DisinformationMisinformation can be used to create disinformation when known misinformation is purposefully and intentionally dissemin...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: etd.ohiolink.edu  
-   Link: <a href="https://etd.ohiolink.edu/acprod/odb_etd/ws/send_file/send?accession=osu1638809124303347&amp;disposition=inline" target="_blank" rel="noopener noreferrer nofollow">https://etd.ohiolink.edu/acprod/odb_etd/ws/send_file/send?accession=osu1638809124303347&amp;disposition=inline</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ohiolink.edu1 Mechanisms in Continued Influence of Misinformationby VL Westbrook · 2022 · Cited by 1 — Research on the CIE has shown that...</p></details>
+   Link:<a href="https://etd.ohiolink.edu/acprod/odb_etd/ws/send_file/send?accession=osu1638809124303347&amp;disposition=inline" target="_blank" rel="noopener noreferrer nofollow">https://etd.ohiolink.edu/acprod/odb_etd/ws/send_file/send?accession=osu1638809124303347&amp;disposition=inline</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ohiolink.edu1 Mechanisms in Continued Influence of Misinformationby VL Westbrook · 2022 · Cited by 1 — Research on the CIE has shown that...</p></details>
 
 ### Additional References
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/40086022/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/40086022/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>an alternative explanation improves...by S Guo · Cited by 5 — The continued influence effect of misinformation (CIE) occurs when misinfo...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/40086022/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/40086022/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>an alternative explanation improves...by S Guo · Cited by 5 — The continued influence effect of misinformation (CIE) occurs when misinfo...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/1st-draft/information-disorder-part-1-the-essential-glossary-19953c544fe3" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/1st-draft/information-disorder-part-1-the-essential-glossary-19953c544fe3</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Information Disorder, Part 1: The Essential GlossaryThey are increasingly being used as powerful vehicles of disinformation. Misinformati...</p></details>
+   Link:<a href="https://medium.com/1st-draft/information-disorder-part-1-the-essential-glossary-19953c544fe3" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/1st-draft/information-disorder-part-1-the-essential-glossary-19953c544fe3</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Information Disorder, Part 1: The Essential GlossaryThey are increasingly being used as powerful vehicles of disinformation. Misinformati...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/1st-draft/information-disorder-part-3-useful-graphics-2446c7dbb485" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/1st-draft/information-disorder-part-3-useful-graphics-2446c7dbb485</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Information Disorder, Part 3: Useful Graphics | by First DraftMisinformation · Disinformation · Fake News. 218. 218... Agents of disinfo...</p></details>
+   Link:<a href="https://medium.com/1st-draft/information-disorder-part-3-useful-graphics-2446c7dbb485" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/1st-draft/information-disorder-part-3-useful-graphics-2446c7dbb485</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Information Disorder, Part 3: Useful Graphics | by First DraftMisinformation · Disinformation · Fake News. 218. 218... Agents of disinfo...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: apa.org  
-   Link: <a href="https://www.apa.org/topics/journalism-facts/misinformation-disinformation" target="_blank" rel="noopener noreferrer nofollow">https://www.apa.org/topics/journalism-facts/misinformation-disinformation</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Misinformation and disinformationMisinformation is false or inaccurate information—getting the facts wrong. Disinformation is false infor...</p></details>
+   Link:<a href="https://www.apa.org/topics/journalism-facts/misinformation-disinformation" target="_blank" rel="noopener noreferrer nofollow">https://www.apa.org/topics/journalism-facts/misinformation-disinformation</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Misinformation and disinformationMisinformation is false or inaccurate information—getting the facts wrong. Disinformation is false infor...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: princetonlibrary.org  
-   Link: <a href="https://princetonlibrary.org/guides/misinformation-disinformation-malinformation-a-guide/" target="_blank" rel="noopener noreferrer nofollow">https://princetonlibrary.org/guides/misinformation-disinformation-malinformation-a-guide/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Misinformation, Disinformation &amp; Malinformation: A GuideWardle cofounded First Draft News, a collaborative project to “fight misinformati...</p></details>
+   Link:<a href="https://princetonlibrary.org/guides/misinformation-disinformation-malinformation-a-guide/" target="_blank" rel="noopener noreferrer nofollow">https://princetonlibrary.org/guides/misinformation-disinformation-malinformation-a-guide/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Misinformation, Disinformation &amp; Malinformation: A GuideWardle cofounded First Draft News, a collaborative project to “fight misinformati...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: scispace.com  
-   Link: <a href="https://scispace.com/pdf/the-continued-influence-of-misinformation-in-memory-what-4tijzg1jh2.pdf" target="_blank" rel="noopener noreferrer nofollow">https://scispace.com/pdf/the-continued-influence-of-misinformation-in-memory-what-4tijzg1jh2.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The continued influence of misinformation in memoryIn the next sections, we consider several alternative explanations for the continued i...</p></details>
+   Link:<a href="https://scispace.com/pdf/the-continued-influence-of-misinformation-in-memory-what-4tijzg1jh2.pdf" target="_blank" rel="noopener noreferrer nofollow">https://scispace.com/pdf/the-continued-influence-of-misinformation-in-memory-what-4tijzg1jh2.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The continued influence of misinformation in memoryIn the next sections, we consider several alternative explanations for the continued i...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: unric.org  
-   Link: <a href="https://unric.org/en/unric-library-backgrounder-information-integrity/" target="_blank" rel="noopener noreferrer nofollow">https://unric.org/en/unric-library-backgrounder-information-integrity/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UNRIC Library Backgrounder: Information IntegrityMisinformation can be rooted in disinformation as deliberate lies and misleading narrati...</p></details>
+   Link:<a href="https://unric.org/en/unric-library-backgrounder-information-integrity/" target="_blank" rel="noopener noreferrer nofollow">https://unric.org/en/unric-library-backgrounder-information-integrity/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UNRIC Library Backgrounder: Information IntegrityMisinformation can be rooted in disinformation as deliberate lies and misleading narrati...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: edoc.coe.int  
-   Link: <a href="https://edoc.coe.int/en/media/7495-information-disorder-toward-an-interdisciplinary-framework-for-research-and-policy-making.html" target="_blank" rel="noopener noreferrer nofollow">https://edoc.coe.int/en/media/7495-information-disorder-toward-an-interdisciplinary-framework-for-research-and-policy-making.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>disorder: Toward an interdisciplinary framework...This report provides a new framework for policy-makers, legislators, researchers, tech...</p></details>
+   Link:<a href="https://edoc.coe.int/en/media/7495-information-disorder-toward-an-interdisciplinary-framework-for-research-and-policy-making.html" target="_blank" rel="noopener noreferrer nofollow">https://edoc.coe.int/en/media/7495-information-disorder-toward-an-interdisciplinary-framework-for-research-and-policy-making.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>disorder: Toward an interdisciplinary framework...This report provides a new framework for policy-makers, legislators, researchers, tech...</p></details>
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/391015007_To_be_continued_misinformation%27s_bizarre_adventure_beyond_memory_failures_-_exploring_non-memory-based_mechanisms_driving_the_continued_influence_effect_CIE" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/391015007_To_be_continued_misinformation%27s_bizarre_adventure_beyond_memory_failures_-_exploring_non-memory-based_mechanisms_driving_the_continued_influence_effect_CIE</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) To be continued: misinformation&#x27;s bizarre adventure...18 Nov 2025 — The Continued Influence Effect (CIE) refers to the persistent...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/391015007_To_be_continued_misinformation%27s_bizarre_adventure_beyond_memory_failures_-_exploring_non-memory-based_mechanisms_driving_the_continued_influence_effect_CIE" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/391015007_To_be_continued_misinformation%27s_bizarre_adventure_beyond_memory_failures_-_exploring_non-memory-based_mechanisms_driving_the_continued_influence_effect_CIE</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) To be continued: misinformation&#x27;s bizarre adventure...18 Nov 2025 — The Continued Influence Effect (CIE) refers to the persistent...</p></details>
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: Journalism, Fake News & Disinformation (Paris: Unesco) London: Media  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11724212/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11724212/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>and Combating Misinformation - PMC - NIHby NL Bragazzi · 2024 · Cited by 19 — The Distinction Among Misinformation, Disinformation, Malin...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11724212/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11724212/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>and Combating Misinformation - PMC - NIHby NL Bragazzi · 2024 · Cited by 19 — The Distinction Among Misinformation, Disinformation, Malin...</p></details>

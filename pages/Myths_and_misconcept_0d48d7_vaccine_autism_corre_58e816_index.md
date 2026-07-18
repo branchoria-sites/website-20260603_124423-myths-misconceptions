@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /myths-and-misconcept-0d48d7-vaccine/
 description: Focused pages that expand on Vaccines.
-date: '2026-06-11'
+date: '2026'
 layout: default
 parent_basename: Myths_and_misconcept_0d48d7_vaccine_autism_corre_58e816
 parent_title: Vaccines
@@ -16,7 +16,7 @@ parent_permalink: /vaccines/
 
 # Explore Topics in Vaccines
 
-The following pages expand on the main **[Vaccines]({{ '/vaccines/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[Vaccines]({{ '/vaccines/' | relative_url }})** page and cover its key branches in.
 
 - [Large studies]({{ '/large-studies/' | relative_url }})
 - [Timing trap]({{ '/timing-trap-49e224/' | relative_url }})

@@ -277,13 +277,13 @@ image: /assets/images/Myths_and_misconcept_0d48d7_political_myth_resis_f90f95_on
 Online political myths often spread through social signals before they spread through evidence. A claim does not need to be proven to feel credible inside a digital community. If thousands of people appear to like, share, repeat or defend it, many users begin to treat it as socially established knowledge rather than a disputed assertion. The effect is especially powerful when political [identity]({{ 'identity/' | relative_url }}) is involved because people are not only evaluating information; they are also reading cues about loyalty, belonging and group norms.
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_political_myth_resis_f90f95_online_group_cues_c65f20-Illustration-1-dark.svg" | relative_url }}" alt="Group Cues illustration 1" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_political_myth_resis_f90f95_online_group_cues_c65f20-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_political_myth_resis_f90f95_online_group_cues_c65f20-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-Research on misinformation increasingly shows that online engagement signals influence how people interpret political claims. Likes, reposts, supportive comments and visible endorsement can create impressions of consensus, while silence or hesitation can make disagreement seem rare. In polarised communities, these signals help transform questionable claims into accepted group narratives, even when factual disputes remain unresolved. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10879158/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCThe persuasive effects of social cues and source</span><span class="citation-popover-snippet">NIHby CS Traberg · 2024 · Cited by 65 — Specifically, high and low engagement cues (&#x27;likes&#x27;) reduced misinformation susceptibility...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/abs/pii/S2352250X24001313" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Inside the funhouse mirror factory: How social media...by CE Robertson · 2024 · Cited by 102 — We argue the funhouse mirror...</span></span></span>
+Research on misinformation increasingly shows that online engagement signals influence how people interpret political claims. Likes, reposts, supportive comments and visible endorsement can create impressions of consensus, while silence or hesitation can make disagreement seem rare. In polarised communities, these signals help transform questionable claims into accepted group narratives, even when factual disputes remain unresolved.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10879158/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCThe persuasive effects of social cues and source</span><span class="citation-popover-snippet">NIHby CS Traberg · 2024 · Cited by 65 — Specifically, high and low engagement cues (&#x27;likes&#x27;) reduced misinformation susceptibility...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/abs/pii/S2352250X24001313" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Inside the funhouse mirror factory: How social media...by CE Robertson · 2024 · Cited by 102 — We argue the funhouse mirror...</span></span></span>
 
 ## How Approval Signals Shape Belief
 
 Most people cannot independently verify every political claim they encounter. As a result, they often use social shortcuts when judging credibility. Online [platforms]({{ 'platforms/' | relative_url }}) are built around these shortcuts.
 
-A post with thousands of likes or shares communicates more than popularity. It can imply that many other people have already evaluated the claim and found it convincing. Researchers describe these reactions as social cues or endorsement cues because they provide information about how others appear to be responding. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10879158/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCThe persuasive effects of social cues and source</span><span class="citation-popover-snippet">NIHby CS Traberg · 2024 · Cited by 65 — Specifically, high and low engagement cues (&#x27;likes&#x27;) reduced misinformation susceptibility...</span></span></span> ScienceDirect This matters because people frequently interpret popularity as evidence. The reasoning is often unconscious: <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/abs/pii/S2352250X24001313" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[sciencedirect.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Inside the funhouse mirror factory: How social media...by CE Robertson · 2024 · Cited by 102 — We argue the funhouse mirror...</span></span></span>
+A post with thousands of likes or shares communicates more than popularity. It can imply that many other people have already evaluated the claim and found it convincing. Researchers describe these reactions as social cues or endorsement cues because they provide information about how others appear to be responding.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10879158/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCThe persuasive effects of social cues and source</span><span class="citation-popover-snippet">NIHby CS Traberg · 2024 · Cited by 65 — Specifically, high and low engagement cues (&#x27;likes&#x27;) reduced misinformation susceptibility...</span></span></span> ScienceDirect This matters because people frequently interpret popularity as evidence. The reasoning is often unconscious:<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/abs/pii/S2352250X24001313" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[sciencedirect.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Inside the funhouse mirror factory: How social media...by CE Robertson · 2024 · Cited by 102 — We argue the funhouse mirror...</span></span></span>
 
 <div class="content-enhancement content-enhancement--checklist" markdown="1">
 
@@ -293,7 +293,7 @@ A post with thousands of likes or shares communicates more than popularity. It c
 
 </div>
 
-Experiments have found that social endorsement affects how people evaluate information, particularly when it changes their perception of what other people believe. Researchers studying misinformation susceptibility found that social cues become influential when they shape perceptions of wider social consensus. In other words, the cue matters less as a number and more as a signal that “people like us believe this”. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10879158/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCThe persuasive effects of social cues and source</span><span class="citation-popover-snippet">NIHby CS Traberg · 2024 · Cited by 65 — Specifically, high and low engagement cues (&#x27;likes&#x27;) reduced misinformation susceptibility...</span></span></span>
+Experiments have found that social endorsement affects how people evaluate information, particularly when it changes their perception of what other people believe. Researchers studying misinformation susceptibility found that social cues become influential when they shape perceptions of wider social consensus. In other words, the cue matters less as a number and more as a signal that “people like us believe this”.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10879158/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCThe persuasive effects of social cues and source</span><span class="citation-popover-snippet">NIHby CS Traberg · 2024 · Cited by 65 — Specifically, high and low engagement cues (&#x27;likes&#x27;) reduced misinformation susceptibility...</span></span></span>
 
 Political myths benefit from this dynamic because they often arrive wrapped in visible social approval. A user may encounter a false claim alongside supportive comments, repeated reposts and positive reactions before encountering any fact-check. The social environment creates a sense that the claim is already accepted.
 
@@ -301,7 +301,7 @@ Political myths benefit from this dynamic because they often arrive wrapped in v
 
 In highly political online spaces, sharing can function as a declaration of identity as much as a transfer of information.
 
-Research on misinformation sharing suggests that platform rewards such as likes, comments and reposts can shift attention away from accuracy and toward social engagement. People may post material because it performs well within their network, not because they have carefully evaluated its truthfulness. <span class="citation-chip-wrap"><a class="citation-chip" href="https://insights.som.yale.edu/insights/how-social-media-rewards-misinformation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: insights.som.yale.edu">[Yale Insights]</a><span class="citation-popover" role="note"><span class="citation-popover-source">insights.som.yale.edu</span><span class="citation-popover-snippet">Yale InsightsHow Social Media Rewards Misinformation &#124; Yale Insights31 Mar 2023 — They post simply because the platform rewards posting w...</span></span></span>
+Research on misinformation sharing suggests that platform rewards such as likes, comments and reposts can shift attention away from accuracy and toward social engagement. People may post material because it performs well within their network, not because they have carefully evaluated its truthfulness.<span class="citation-chip-wrap"><a class="citation-chip" href="https://insights.som.yale.edu/insights/how-social-media-rewards-misinformation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: insights.som.yale.edu">[Yale Insights]</a><span class="citation-popover" role="note"><span class="citation-popover-source">insights.som.yale.edu</span><span class="citation-popover-snippet">Yale InsightsHow Social Media Rewards Misinformation &#124; Yale Insights31 Mar 2023 — They post simply because the platform rewards posting w...</span></span></span>
 
 This creates a feedback loop:
 
@@ -310,7 +310,7 @@ This creates a feedback loop:
 1. A politically useful claim appears.
 2. Group members reward it with engagement.
 3. High engagement makes the claim appear more accepted.
-4. More users interpret that acceptance as credibility. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S0747563224000530" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[sciencedirect.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">How perceptions of Twitter&#x27;s helpfulness influence news...by B Millet · 2024 · Cited by 19 — Contrary to previous findings, social endor...</span></span></span>
+4. More users interpret that acceptance as credibility.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S0747563224000530" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[sciencedirect.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">How perceptions of Twitter&#x27;s helpfulness influence news...by B Millet · 2024 · Cited by 19 — Contrary to previous findings, social endor...</span></span></span>
 5. The claim becomes increasingly normal within the community.
 
 </div>
@@ -321,20 +321,20 @@ Over time, the myth acquires social legitimacy independent of its factual basis.
 
 Online political environments are shaped not only by what people say but also by what they choose not to say.
 
-A common psychological phenomenon known as pluralistic ignorance occurs when people misjudge what others actually believe. Individuals may privately doubt a claim while assuming that everyone else accepts it. Because they think they are in the minority, they remain silent. Their silence then reinforces the appearance of consensus. <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/10776990241284597" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-title">Sage Journals Do Heuristic Cues Affect Misinformation Sharing?</span><span class="citation-popover-snippet">21 Oct 2024 — These endorsement cues have been shown to be effective in increasing people&#x27;s trust in content supported by others in onlin...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/social-psychology/articles/10.3389/frsps.2023.1260896/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-snippet">FrontiersA century of pluralistic ignorance: what we have learned...by DT Miller · 2023 · Cited by 76 — Pluralistic ignorance is a situa...</span></span></span>
+A common psychological phenomenon known as pluralistic ignorance occurs when people misjudge what others actually believe. Individuals may privately doubt a claim while assuming that everyone else accepts it. Because they think they are in the minority, they remain silent. Their silence then reinforces the appearance of consensus.<span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/10776990241284597" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-title">Sage Journals Do Heuristic Cues Affect Misinformation Sharing?</span><span class="citation-popover-snippet">21 Oct 2024 — These endorsement cues have been shown to be effective in increasing people&#x27;s trust in content supported by others in onlin...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/social-psychology/articles/10.3389/frsps.2023.1260896/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-snippet">FrontiersA century of pluralistic ignorance: what we have learned...by DT Miller · 2023 · Cited by 76 — Pluralistic ignorance is a situa...</span></span></span>
 
 This process can be particularly powerful online.
 
 Imagine a political community where many members have reservations about a viral claim. If only the most enthusiastic supporters post comments while sceptics stay quiet, the visible conversation becomes distorted. Newcomers see overwhelming apparent support and conclude that the claim is widely accepted.
 
-Researchers studying social media's effects on public perception argue that platforms can create what they describe as a distorted social mirror. Highly visible voices may appear representative even when they are not. This can generate false impressions about what most people think, a pattern linked to pluralistic ignorance and false polarisation. ScienceDirect <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/39369456/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">How social media distorts perceptions of normsby CE Robertson · 2024 · Cited by 102 — We argue the funhouse mirror nature of social...</span></span></span>
+Researchers studying social media's effects on public perception argue that platforms can create what they describe as a distorted social mirror. Highly visible voices may appear representative even when they are not. This can generate false impressions about what most people think, a pattern linked to pluralistic ignorance and false polarisation. ScienceDirect<span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/39369456/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">How social media distorts perceptions of normsby CE Robertson · 2024 · Cited by 102 — We argue the funhouse mirror nature of social...</span></span></span>
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_political_myth_resis_f90f95_online_group_cues_c65f20-Illustration-2-dark.svg" | relative_url }}" alt="Group Cues illustration 2" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_political_myth_resis_f90f95_online_group_cues_c65f20-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_political_myth_resis_f90f95_online_group_cues_c65f20-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### The Silent Majority Problem
 
 The distortion becomes stronger when people fear social penalties.
 
-In politically charged spaces, questioning a popular narrative can bring ridicule, exclusion or accusations of disloyalty. Even mild scepticism may attract hostile replies. As a result, many users conclude that remaining silent is safer than challenging the group. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/social-psychology/articles/10.3389/frsps.2023.1260896/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-snippet">FrontiersA century of pluralistic ignorance: what we have learned...by DT Miller · 2023 · Cited by 76 — Pluralistic ignorance is a situa...</span></span></span>
+In politically charged spaces, questioning a popular narrative can bring ridicule, exclusion or accusations of disloyalty. Even mild scepticism may attract hostile replies. As a result, many users conclude that remaining silent is safer than challenging the group.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/social-psychology/articles/10.3389/frsps.2023.1260896/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-snippet">FrontiersA century of pluralistic ignorance: what we have learned...by DT Miller · 2023 · Cited by 76 — Pluralistic ignorance is a situa...</span></span></span>
 
 The outcome is a misleading information environment:
 
@@ -353,7 +353,7 @@ Political myths often survive because communities do not merely disagree about f
 
 Within strongly polarised groups, members frequently develop shared assumptions about who counts as a reliable source and who counts as an enemy. Once these boundaries are established, social cues help enforce them.
 
-A [correction]({{ 'correction/' | relative_url }}) from an outside source may be dismissed not because members carefully reviewed the evidence and found it weak, but because accepting it would mean granting legitimacy to an out-group institution. At the same time, claims from in-group figures may receive automatic social reinforcement. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10879158/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCThe persuasive effects of social cues and source</span><span class="citation-popover-snippet">NIHby CS Traberg · 2024 · Cited by 65 — Specifically, high and low engagement cues (&#x27;likes&#x27;) reduced misinformation susceptibility...</span></span></span>
+A [correction]({{ 'correction/' | relative_url }}) from an outside source may be dismissed not because members carefully reviewed the evidence and found it weak, but because accepting it would mean granting legitimacy to an out-group institution. At the same time, claims from in-group figures may receive automatic social reinforcement.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10879158/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCThe persuasive effects of social cues and source</span><span class="citation-popover-snippet">NIHby CS Traberg · 2024 · Cited by 65 — Specifically, high and low engagement cues (&#x27;likes&#x27;) reduced misinformation susceptibility...</span></span></span>
 
 This helps explain why the phrase “[fake news]({{ 'fake-news/' | relative_url }})” often functions as a group marker rather than a neutral assessment of accuracy. Different communities may use the label to signal which information sources belong inside or outside their trusted network.
 
@@ -365,7 +365,7 @@ Online communities can also create their own information ecosystems.
 
 Members share screenshots, clips, influencers, commentators and niche media sources that reinforce common narratives. [Repetition]({{ 'repetition/' | relative_url }}) across multiple accounts creates the impression of independent confirmation even when the information ultimately originates from a small number of sources.
 
-Research on misinformation networks has shown that tightly connected communities can strengthen collective narratives and create powerful counter-publics that challenge mainstream accounts of events. The more frequently members encounter the same claim within trusted networks, the more familiar and socially normal it becomes. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/world/2025/feb/11/far-right-mps-fake-news-misinformation-left-study" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">The research, which analyzed tweets from 8,198 MPs in 26 countries and compared them with fact-checking databases, showed far-right popul...</span></span></span>
+Research on misinformation networks has shown that tightly connected communities can strengthen collective narratives and create powerful counter-publics that challenge mainstream accounts of events. The more frequently members encounter the same claim within trusted networks, the more familiar and socially normal it becomes.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/world/2025/feb/11/far-right-mps-fake-news-misinformation-left-study" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">The research, which analyzed tweets from 8,198 MPs in 26 countries and compared them with fact-checking databases, showed far-right popul...</span></span></span>
 
 The result is not necessarily that members become unable to recognise disagreement. Rather, they may come to see disagreement itself as evidence that outsiders are misinformed, biased or hostile.
 
@@ -374,9 +374,9 @@ The result is not necessarily that members become unable to recognise disagreeme
 
 Fact-checks typically arrive as informational interventions. Group cues arrive as social experiences.
 
-A correction asks people to reconsider a claim. Social approval signals tell people how their community appears to feel about that claim. Because humans are highly sensitive to social belonging, visible group reactions can shape interpretation before any detailed reasoning occurs. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10879158/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCThe persuasive effects of social cues and source</span><span class="citation-popover-snippet">NIHby CS Traberg · 2024 · Cited by 65 — Specifically, high and low engagement cues (&#x27;likes&#x27;) reduced misinformation susceptibility...</span></span></span>
+A correction asks people to reconsider a claim. Social approval signals tell people how their community appears to feel about that claim. Because humans are highly sensitive to social belonging, visible group reactions can shape interpretation before any detailed reasoning occurs.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10879158/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCThe persuasive effects of social cues and source</span><span class="citation-popover-snippet">NIHby CS Traberg · 2024 · Cited by 65 — Specifically, high and low engagement cues (&#x27;likes&#x27;) reduced misinformation susceptibility...</span></span></span>
 
-Research on corrected misinformation has found that social endorsement can influence how people respond even after corrective information is introduced. This suggests that belief persistence is not simply a problem of missing facts. It is also a problem of social context. <span class="citation-chip-wrap"><a class="citation-chip" href="https://research-repository.uwa.edu.au/en/publications/social-endorsement-influences-the-continued-belief-in-corrected-m/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: research-repository.uwa.edu.au">[the UWA Profiles and Research Repository]</a><span class="citation-popover" role="note"><span class="citation-popover-source">research-repository.uwa.edu.au</span><span class="citation-popover-snippet">the UWA Profiles and Research RepositorySocial Endorsement Influences the Continued Belief in...by LH Butler · 2023 · Cited by 35 — In t...</span></span></span>
+Research on corrected misinformation has found that social endorsement can influence how people respond even after corrective information is introduced. This suggests that belief persistence is not simply a problem of missing facts. It is also a problem of social context.<span class="citation-chip-wrap"><a class="citation-chip" href="https://research-repository.uwa.edu.au/en/publications/social-endorsement-influences-the-continued-belief-in-corrected-m/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: research-repository.uwa.edu.au">[the UWA Profiles and Research Repository]</a><span class="citation-popover" role="note"><span class="citation-popover-source">research-repository.uwa.edu.au</span><span class="citation-popover-snippet">the UWA Profiles and Research RepositorySocial Endorsement Influences the Continued Belief in...by LH Butler · 2023 · Cited by 35 — In t...</span></span></span>
 
 Political myths therefore become resilient when they are embedded within a network of social rewards:
 
@@ -385,197 +385,197 @@ Political myths therefore become resilient when they are embedded within a netwo
 * Silence allows apparent consensus to grow.
 * Community identity becomes linked to the narrative.
 
-Under those conditions, the myth feels normal not because everyone has investigated it, but because online group cues continually signal that acceptance is what people like us do. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10879158/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCThe persuasive effects of social cues and source</span><span class="citation-popover-snippet">NIHby CS Traberg · 2024 · Cited by 65 — Specifically, high and low engagement cues (&#x27;likes&#x27;) reduced misinformation susceptibility...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/social-psychology/articles/10.3389/frsps.2023.1260896/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-snippet">FrontiersA century of pluralistic ignorance: what we have learned...by DT Miller · 2023 · Cited by 76 — Pluralistic ignorance is a situa...</span></span></span>
+Under those conditions, the myth feels normal not because everyone has investigated it, but because online group cues continually signal that acceptance is what people like us do.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10879158/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCThe persuasive effects of social cues and source</span><span class="citation-popover-snippet">NIHby CS Traberg · 2024 · Cited by 65 — Specifically, high and low engagement cues (&#x27;likes&#x27;) reduced misinformation susceptibility...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/social-psychology/articles/10.3389/frsps.2023.1260896/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-snippet">FrontiersA century of pluralistic ignorance: what we have learned...by DT Miller · 2023 · Cited by 76 — Pluralistic ignorance is a situa...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How Online Crowds Make Myths Feel True. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How Online Crowds Make Myths Feel True. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Chaos+Machine+by+Max+Fisher&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Chaos Machine on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Fz5JEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Chaos Machine" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Chaos+Machine+by+Max+Fisher&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Chaos Machine">The Chaos Machine</a>
-        </h4>
-        <p class="fr-book-author">By Max Fisher</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Chaos+Machine+by+Max+Fisher&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Chaos Machine on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Fz5JEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Chaos Machine" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Chaos+Machine+by+Max+Fisher&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Chaos Machine">The Chaos Machine</a>
+</h4>
+<p class="fr-book-author">By Max Fisher</p>
         
-        <p class="fr-book-desc">Examines how online platforms amplify group signals and misinformation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Chaos+Machine+by+Max+Fisher&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines how online platforms amplify group signals and misinformation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Chaos+Machine+by+Max+Fisher&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Likewar+by+Peter+Warren+Singer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Likewar on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=URFxDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Likewar" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Likewar+by+Peter+Warren+Singer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Likewar">Likewar</a>
-        </h4>
-        <p class="fr-book-author">By Peter Warren Singer, Emerson T. Brooking</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Likewar+by+Peter+Warren+Singer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Likewar on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=URFxDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Likewar" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Likewar+by+Peter+Warren+Singer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Likewar">Likewar</a>
+</h4>
+<p class="fr-book-author">By Peter Warren Singer, Emerson T. Brooking</p>
         
-        <p class="fr-book-desc">Explores how online engagement and amplification affect beliefs.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Likewar+by+Peter+Warren+Singer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores how online engagement and amplification affect beliefs.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Likewar+by+Peter+Warren+Singer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Chaos+Machine+Max+Fisher&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Chaos Machine on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/12897860-M.jpg" alt="Cover for Chaos Machine" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Chaos+Machine+Max+Fisher&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Chaos Machine">Chaos Machine</a>
-        </h4>
-        <p class="fr-book-author">By Max Fisher</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Chaos+Machine+Max+Fisher&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Chaos Machine on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/12897860-M.jpg" alt="Cover for Chaos Machine" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Chaos+Machine+Max+Fisher&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Chaos Machine">Chaos Machine</a>
+</h4>
+<p class="fr-book-author">By Max Fisher</p>
         
-        <p class="fr-book-desc">First published 2022.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Chaos+Machine+Max+Fisher&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2022.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Chaos+Machine+Max+Fisher&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Righteous+Mind+Jonathan+Haidt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Righteous Mind on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/7256782-M.jpg" alt="Cover for The Righteous Mind" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Righteous+Mind+Jonathan+Haidt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Righteous Mind">The Righteous Mind</a>
-        </h4>
-        <p class="fr-book-author">By Jonathan Haidt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Righteous+Mind+Jonathan+Haidt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Righteous Mind on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/7256782-M.jpg" alt="Cover for The Righteous Mind" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Righteous+Mind+Jonathan+Haidt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Righteous Mind">The Righteous Mind</a>
+</h4>
+<p class="fr-book-author">By Jonathan Haidt</p>
         
-        <p class="fr-book-desc">First published 2012. Subjects: Political psychology, Social psychology, Ethics, Religious Psychology, nyt:combined-print-and-e-book-nonf...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Righteous+Mind+Jonathan+Haidt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2012. Subjects: Political psychology, Social psychology, Ethics, Religious Psychology, nyt:combined-print-and-e-book-nonf...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Righteous+Mind+Jonathan+Haidt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Chaos+Machine&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Chaos Machine</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Likewar&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Likewar</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Chaos+Machine&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Chaos Machine</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Chaos+Machine&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Chaos Machine</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Likewar&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Likewar</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Chaos+Machine&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Chaos Machine</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=group-cues-how-online-crowds-make-myths-feel-true-myths-and-misconcept-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="group-cues-how-online-crowds-make-myths-feel-true-myths-and-misconcept-social-media-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Social Media Killed Romance Love Fr Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/54b06f239c22fcb1714c.jpg' | relative_url }}" alt="Listing image for Social Media Killed Romance Love Fr Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=group-cues-how-online-crowds-make-myths-feel-true-myths-and-misconcept-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="group-cues-how-online-crowds-make-myths-feel-true-myths-and-misconcept-social-media-poster" target="_blank" rel="sponsored noopener noreferrer">Social Media Killed Romance Love Fr Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=group-cues-how-online-crowds-make-myths-feel-true-myths-and-misconcept-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="group-cues-how-online-crowds-make-myths-feel-true-myths-and-misconcept-social-media-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for social media poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: social media poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=group-cues-how-online-crowds-make-myths-feel-true-myths-and-misconcept-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="group-cues-how-online-crowds-make-myths-feel-true-myths-and-misconcept-social-media-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=group-cues-how-online-crowds-make-myths-feel-true-myths-and-misconcept-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="group-cues-how-online-crowds-make-myths-feel-true-myths-and-misconcept-social-media-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Social Media Killed Romance Love Fr Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/54b06f239c22fcb1714c.jpg' | relative_url }}" alt="Listing image for Social Media Killed Romance Love Fr Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=group-cues-how-online-crowds-make-myths-feel-true-myths-and-misconcept-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="group-cues-how-online-crowds-make-myths-feel-true-myths-and-misconcept-social-media-poster" target="_blank" rel="sponsored noopener noreferrer">Social Media Killed Romance Love Fr Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=group-cues-how-online-crowds-make-myths-feel-true-myths-and-misconcept-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="group-cues-how-online-crowds-make-myths-feel-true-myths-and-misconcept-social-media-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for social media poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: social media poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=group-cues-how-online-crowds-make-myths-feel-true-myths-and-misconcept-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="group-cues-how-online-crowds-make-myths-feel-true-myths-and-misconcept-social-media-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=group-cues-how-online-crowds-make-myths-feel-true-myths-and-misconcept-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="group-cues-how-online-crowds-make-myths-feel-true-myths-and-misconcept-social-media-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for You&#x27;re On Social Media? What&#x27;s Your Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/958dfa005f332e9a57cb.jpg' | relative_url }}" alt="Listing image for You&#x27;re On Social Media? What&#x27;s Your Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=group-cues-how-online-crowds-make-myths-feel-true-myths-and-misconcept-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="group-cues-how-online-crowds-make-myths-feel-true-myths-and-misconcept-social-media-poster" target="_blank" rel="sponsored noopener noreferrer">You&#x27;re On Social Media? What&#x27;s Your Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=group-cues-how-online-crowds-make-myths-feel-true-myths-and-misconcept-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="group-cues-how-online-crowds-make-myths-feel-true-myths-and-misconcept-social-media-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for social media poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: social media poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=group-cues-how-online-crowds-make-myths-feel-true-myths-and-misconcept-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="group-cues-how-online-crowds-make-myths-feel-true-myths-and-misconcept-social-media-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=group-cues-how-online-crowds-make-myths-feel-true-myths-and-misconcept-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="group-cues-how-online-crowds-make-myths-feel-true-myths-and-misconcept-social-media-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for You&#x27;re On Social Media? What&#x27;s Your Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/958dfa005f332e9a57cb.jpg' | relative_url }}" alt="Listing image for You&#x27;re On Social Media? What&#x27;s Your Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=group-cues-how-online-crowds-make-myths-feel-true-myths-and-misconcept-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="group-cues-how-online-crowds-make-myths-feel-true-myths-and-misconcept-social-media-poster" target="_blank" rel="sponsored noopener noreferrer">You&#x27;re On Social Media? What&#x27;s Your Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=group-cues-how-online-crowds-make-myths-feel-true-myths-and-misconcept-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="group-cues-how-online-crowds-make-myths-feel-true-myths-and-misconcept-social-media-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for social media poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: social media poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=group-cues-how-online-crowds-make-myths-feel-true-myths-and-misconcept-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="group-cues-how-online-crowds-make-myths-feel-true-myths-and-misconcept-social-media-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=group-cues-how-online-crowds-make-myths-feel-true-myths-and-misconcept-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="group-cues-how-online-crowds-make-myths-feel-true-myths-and-misconcept-social-media-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for BUSINESS LOGO SIGN WORK OFFICE SOCIAL MEDIA DISPLAY PRINT POSTER FOAM BOARD"><img src="{{ '/assets/images/marketplace-covers/da29e0e0f94f44d0411c.jpg' | relative_url }}" alt="Listing image for BUSINESS LOGO SIGN WORK OFFICE SOCIAL MEDIA DISPLAY PRINT POSTER FOAM BOARD" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=group-cues-how-online-crowds-make-myths-feel-true-myths-and-misconcept-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="group-cues-how-online-crowds-make-myths-feel-true-myths-and-misconcept-social-media-poster" target="_blank" rel="sponsored noopener noreferrer">BUSINESS LOGO SIGN WORK OFFICE SOCIAL MEDIA DISPLAY PRINT POSTER FOAM BOARD</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=group-cues-how-online-crowds-make-myths-feel-true-myths-and-misconcept-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="group-cues-how-online-crowds-make-myths-feel-true-myths-and-misconcept-social-media-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for social media poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: social media poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=group-cues-how-online-crowds-make-myths-feel-true-myths-and-misconcept-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="group-cues-how-online-crowds-make-myths-feel-true-myths-and-misconcept-social-media-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=group-cues-how-online-crowds-make-myths-feel-true-myths-and-misconcept-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="group-cues-how-online-crowds-make-myths-feel-true-myths-and-misconcept-social-media-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for BUSINESS LOGO SIGN WORK OFFICE SOCIAL MEDIA DISPLAY PRINT POSTER FOAM BOARD"><img src="{{ '/assets/images/marketplace-covers/da29e0e0f94f44d0411c.jpg' | relative_url }}" alt="Listing image for BUSINESS LOGO SIGN WORK OFFICE SOCIAL MEDIA DISPLAY PRINT POSTER FOAM BOARD" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=group-cues-how-online-crowds-make-myths-feel-true-myths-and-misconcept-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="group-cues-how-online-crowds-make-myths-feel-true-myths-and-misconcept-social-media-poster" target="_blank" rel="sponsored noopener noreferrer">BUSINESS LOGO SIGN WORK OFFICE SOCIAL MEDIA DISPLAY PRINT POSTER FOAM BOARD</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=group-cues-how-online-crowds-make-myths-feel-true-myths-and-misconcept-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="group-cues-how-online-crowds-make-myths-feel-true-myths-and-misconcept-social-media-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for social media poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: social media poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=group-cues-how-online-crowds-make-myths-feel-true-myths-and-misconcept-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="group-cues-how-online-crowds-make-myths-feel-true-myths-and-misconcept-social-media-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=group-cues-how-online-crowds-make-myths-feel-true-myths-and-misconcept-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="group-cues-how-online-crowds-make-myths-feel-true-myths-and-misconcept-social-media-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Social Media Can Wait It&#x27;s Time For Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/80037e76408505ad70cd.jpg' | relative_url }}" alt="Listing image for Social Media Can Wait It&#x27;s Time For Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=group-cues-how-online-crowds-make-myths-feel-true-myths-and-misconcept-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="group-cues-how-online-crowds-make-myths-feel-true-myths-and-misconcept-social-media-poster" target="_blank" rel="sponsored noopener noreferrer">Social Media Can Wait It&#x27;s Time For Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=group-cues-how-online-crowds-make-myths-feel-true-myths-and-misconcept-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="group-cues-how-online-crowds-make-myths-feel-true-myths-and-misconcept-social-media-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for social media poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: social media poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=group-cues-how-online-crowds-make-myths-feel-true-myths-and-misconcept-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="group-cues-how-online-crowds-make-myths-feel-true-myths-and-misconcept-social-media-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=group-cues-how-online-crowds-make-myths-feel-true-myths-and-misconcept-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="group-cues-how-online-crowds-make-myths-feel-true-myths-and-misconcept-social-media-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=group-cues-how-online-crowds-make-myths-feel-true-myths-and-misconcept-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="group-cues-how-online-crowds-make-myths-feel-true-myths-and-misconcept-social-media-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Social Media Can Wait It&#x27;s Time For Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/80037e76408505ad70cd.jpg' | relative_url }}" alt="Listing image for Social Media Can Wait It&#x27;s Time For Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=group-cues-how-online-crowds-make-myths-feel-true-myths-and-misconcept-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="group-cues-how-online-crowds-make-myths-feel-true-myths-and-misconcept-social-media-poster" target="_blank" rel="sponsored noopener noreferrer">Social Media Can Wait It&#x27;s Time For Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=group-cues-how-online-crowds-make-myths-feel-true-myths-and-misconcept-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="group-cues-how-online-crowds-make-myths-feel-true-myths-and-misconcept-social-media-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for social media poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: social media poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=group-cues-how-online-crowds-make-myths-feel-true-myths-and-misconcept-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="group-cues-how-online-crowds-make-myths-feel-true-myths-and-misconcept-social-media-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=group-cues-how-online-crowds-make-myths-feel-true-myths-and-misconcept-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="group-cues-how-online-crowds-make-myths-feel-true-myths-and-misconcept-social-media-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -591,7 +591,7 @@ Under those conditions, the myth feels normal not because everyone has investiga
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -611,7 +611,7 @@ Under those conditions, the myth feels normal not because everyone has investiga
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -643,7 +643,7 @@ Under those conditions, the myth feels normal not because everyone has investiga
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -695,7 +695,7 @@ Under those conditions, the myth feels normal not because everyone has investiga
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -740,7 +740,7 @@ Under those conditions, the myth feels normal not because everyone has investiga
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -781,151 +781,151 @@ Under those conditions, the myth feels normal not because everyone has investiga
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCThe persuasive effects of social cues and source  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10879158/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10879158/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NIHby CS Traberg · 2024 · Cited by 65 — Specifically, high and low engagement cues (&#x27;likes&#x27;) reduced misinformation susceptibility...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10879158/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10879158/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NIHby CS Traberg · 2024 · Cited by 65 — Specifically, high and low engagement cues (&#x27;likes&#x27;) reduced misinformation susceptibility...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S2352250X24001313" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S2352250X24001313</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Inside the funhouse mirror factory: How social media...by CE Robertson · 2024 · Cited by 102 — We argue the funhouse mirror...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/abs/pii/S2352250X24001313" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S2352250X24001313</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Inside the funhouse mirror factory: How social media...by CE Robertson · 2024 · Cited by 102 — We argue the funhouse mirror...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/pii/S2451958825003082" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S2451958825003082</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Social media virality metrics as interpretive cuesby K Na · 2026 — Virality metrics—such as the number of likes, shares, and comments—are...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/pii/S2451958825003082" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S2451958825003082</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Social media virality metrics as interpretive cuesby K Na · 2026 — Virality metrics—such as the number of likes, shares, and comments—are...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: insights.som.yale.edu  
-   Link: <a href="https://insights.som.yale.edu/insights/how-social-media-rewards-misinformation" target="_blank" rel="noopener noreferrer nofollow">https://insights.som.yale.edu/insights/how-social-media-rewards-misinformation</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Yale InsightsHow Social Media Rewards Misinformation | Yale Insights31 Mar 2023 — They post simply because the platform rewards posting w...</p></details>
+   Link:<a href="https://insights.som.yale.edu/insights/how-social-media-rewards-misinformation" target="_blank" rel="noopener noreferrer nofollow">https://insights.som.yale.edu/insights/how-social-media-rewards-misinformation</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Yale InsightsHow Social Media Rewards Misinformation | Yale Insights31 Mar 2023 — They post simply because the platform rewards posting w...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/org/science/article/pii/S1438887123006532" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/org/science/article/pii/S1438887123006532</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Impact of Social Reference Cues on Misinformation...by CM Jones · 2023 · Cited by 25 — Social reference cues combined with misinformatio...</p></details>
+   Link:<a href="https://www.sciencedirect.com/org/science/article/pii/S1438887123006532" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/org/science/article/pii/S1438887123006532</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Impact of Social Reference Cues on Misinformation...by CM Jones · 2023 · Cited by 25 — Social reference cues combined with misinformatio...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S2352250X21000749" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S2352250X21000749</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>A century of pluralistic ignorance: what we have learned about its origins, forms, and consequences.Read m...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/abs/pii/S2352250X21000749" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S2352250X21000749</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A century of pluralistic ignorance: what we have learned about its origins, forms, and consequences.Read m...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0747563224000530" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0747563224000530</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>How perceptions of Twitter&#x27;s helpfulness influence news...by B Millet · 2024 · Cited by 19 — Contrary to previous findings, social endor...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/abs/pii/S0747563224000530" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0747563224000530</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How perceptions of Twitter&#x27;s helpfulness influence news...by B Millet · 2024 · Cited by 19 — Contrary to previous findings, social endor...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: frontiersin.org  
-   Link: <a href="https://www.frontiersin.org/journals/social-psychology/articles/10.3389/frsps.2023.1260896/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/social-psychology/articles/10.3389/frsps.2023.1260896/full</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>FrontiersA century of pluralistic ignorance: what we have learned...by DT Miller · 2023 · Cited by 76 — Pluralistic ignorance is a situa...</p></details>
+   Link:<a href="https://www.frontiersin.org/journals/social-psychology/articles/10.3389/frsps.2023.1260896/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/social-psychology/articles/10.3389/frsps.2023.1260896/full</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FrontiersA century of pluralistic ignorance: what we have learned...by DT Miller · 2023 · Cited by 76 — Pluralistic ignorance is a situa...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: journals.sagepub.com  
    Title: Sage Journals Do Heuristic Cues Affect Misinformation Sharing?  
-   Link: <a href="https://journals.sagepub.com/doi/10.1177/10776990241284597" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/10776990241284597</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>21 Oct 2024 — These endorsement cues have been shown to be effective in increasing people&#x27;s trust in content supported by others in onlin...</p></details>
+   Link:<a href="https://journals.sagepub.com/doi/10.1177/10776990241284597" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/10776990241284597</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>21 Oct 2024 — These endorsement cues have been shown to be effective in increasing people&#x27;s trust in content supported by others in onlin...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: api.repository.cam.ac.uk  
-   Link: <a href="https://api.repository.cam.ac.uk/server/api/core/bitstreams/eb23aa61-44b4-4d05-9641-86acbc2e01e5/content" target="_blank" rel="noopener noreferrer nofollow">https://api.repository.cam.ac.uk/server/api/core/bitstreams/eb23aa61-44b4-4d05-9641-86acbc2e01e5/content</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The persuasive effects of social cues and source...by CS Traberg · 2024 · Cited by 69 — We find that social cues only impact individual...</p></details>
+   Link:<a href="https://api.repository.cam.ac.uk/server/api/core/bitstreams/eb23aa61-44b4-4d05-9641-86acbc2e01e5/content" target="_blank" rel="noopener noreferrer nofollow">https://api.repository.cam.ac.uk/server/api/core/bitstreams/eb23aa61-44b4-4d05-9641-86acbc2e01e5/content</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The persuasive effects of social cues and source...by CS Traberg · 2024 · Cited by 69 — We find that social cues only impact individual...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: journals.sagepub.com  
-   Link: <a href="https://journals.sagepub.com/doi/10.1177/1089268021995168" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/1089268021995168</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sage JournalsPluralistic Ignorance Research in Psychology: A Scoping...26 Mar 2021 — Pluralistic ignorance occurs when group members mis...</p></details>
+   Link:<a href="https://journals.sagepub.com/doi/10.1177/1089268021995168" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/1089268021995168</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sage JournalsPluralistic Ignorance Research in Psychology: A Scoping...26 Mar 2021 — Pluralistic ignorance occurs when group members mis...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: nature.com  
-   Link: <a href="https://www.nature.com/articles/s41467-022-32412-y" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41467-022-32412-y</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Americans experience a false social reality by...by G Sparkman · 2022 · Cited by 307 — We find a form of pluralistic ignorance that we d...</p></details>
+   Link:<a href="https://www.nature.com/articles/s41467-022-32412-y" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41467-022-32412-y</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Americans experience a false social reality by...by G Sparkman · 2022 · Cited by 307 — We find a form of pluralistic ignorance that we d...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/39369456/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/39369456/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How social media distorts perceptions of normsby CE Robertson · 2024 · Cited by 102 — We argue the funhouse mirror nature of social...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/39369456/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/39369456/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How social media distorts perceptions of normsby CE Robertson · 2024 · Cited by 102 — We argue the funhouse mirror nature of social...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: frontiersin.org  
-   Link: <a href="https://www.frontiersin.org/journals/communication/articles/10.3389/fcomm.2025.1547489/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/communication/articles/10.3389/fcomm.2025.1547489/full</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>FrontiersIgnorance of the crowd: dysfunctional thinking in social...by F Seeme · 2025 · Cited by 7 — Some studies suggest that the spira...</p></details>
+   Link:<a href="https://www.frontiersin.org/journals/communication/articles/10.3389/fcomm.2025.1547489/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/communication/articles/10.3389/fcomm.2025.1547489/full</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FrontiersIgnorance of the crowd: dysfunctional thinking in social...by F Seeme · 2025 · Cited by 7 — Some studies suggest that the spira...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/world/2025/feb/11/far-right-mps-fake-news-misinformation-left-study" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2025/feb/11/far-right-mps-fake-news-misinformation-left-study</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The research, which analyzed tweets from 8,198 MPs in 26 countries and compared them with fact-checking databases, showed far-right popul...</p></details>
+   Link:<a href="https://www.theguardian.com/world/2025/feb/11/far-right-mps-fake-news-misinformation-left-study" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2025/feb/11/far-right-mps-fake-news-misinformation-left-study</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The research, which analyzed tweets from 8,198 MPs in 26 countries and compared them with fact-checking databases, showed far-right popul...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: research-repository.uwa.edu.au  
-   Link: <a href="https://research-repository.uwa.edu.au/en/publications/social-endorsement-influences-the-continued-belief-in-corrected-m/" target="_blank" rel="noopener noreferrer nofollow">https://research-repository.uwa.edu.au/en/publications/social-endorsement-influences-the-continued-belief-in-corrected-m/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>the UWA Profiles and Research RepositorySocial Endorsement Influences the Continued Belief in...by LH Butler · 2023 · Cited by 35 — In t...</p></details>
+   Link:<a href="https://research-repository.uwa.edu.au/en/publications/social-endorsement-influences-the-continued-belief-in-corrected-m/" target="_blank" rel="noopener noreferrer nofollow">https://research-repository.uwa.edu.au/en/publications/social-endorsement-influences-the-continued-belief-in-corrected-m/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>the UWA Profiles and Research RepositorySocial Endorsement Influences the Continued Belief in...by LH Butler · 2023 · Cited by 35 — In t...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: nature.com  
-   Link: <a href="https://www.nature.com/articles/s41598-024-54030-y" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41598-024-54030-y</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The persuasive effects of social cues and source effects on...by CS Traberg · 2024 · Cited by 64 — Specifically, high and low engagement...</p></details>
+   Link:<a href="https://www.nature.com/articles/s41598-024-54030-y" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41598-024-54030-y</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The persuasive effects of social cues and source effects on...by CS Traberg · 2024 · Cited by 64 — Specifically, high and low engagement...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: Wikipedia  
    Title: Pluralistic ignorance  
-   Link: <a href="https://en.wikipedia.org/wiki/Pluralistic_ignorance" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Pluralistic_ignorance</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Pluralistic ignorancePluralistic ignorance encompasses situations in which a minority position on a given topic is wrongly perceived t...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Pluralistic_ignorance" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Pluralistic_ignorance</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Pluralistic ignorancePluralistic ignorance encompasses situations in which a minority position on a given topic is wrongly perceived t...</p></details>
 
 ### Additional References
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/378340217_The_persuasive_effects_of_social_cues_and_source_effects_on_misinformation_susceptibility" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/378340217_The_persuasive_effects_of_social_cues_and_source_effects_on_misinformation_susceptibility</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) The persuasive effects of social cues and source...7 Feb 2024 — We find that social cues only impact individual judgements when th...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/378340217_The_persuasive_effects_of_social_cues_and_source_effects_on_misinformation_susceptibility" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/378340217_The_persuasive_effects_of_social_cues_and_source_effects_on_misinformation_susceptibility</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) The persuasive effects of social cues and source...7 Feb 2024 — We find that social cues only impact individual judgements when th...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: merriam-webster.com  
-   Link: <a href="https://www.merriam-webster.com/dictionary/pluralistic" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/pluralistic</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PLURALISTIC Definition &amp; MeaningThe meaning of PLURALISTIC is of, relating to, or characterized by pluralism. How to use pluralistic in a...</p></details>
+   Link:<a href="https://www.merriam-webster.com/dictionary/pluralistic" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/pluralistic</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>PLURALISTIC Definition &amp; MeaningThe meaning of PLURALISTIC is of, relating to, or characterized by pluralism. How to use pluralistic in a...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: ouci.dntb.gov.ua  
-   Link: <a href="https://ouci.dntb.gov.ua/en/works/lmL0axn4/" target="_blank" rel="noopener noreferrer nofollow">https://ouci.dntb.gov.ua/en/works/lmL0axn4/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>persuasive effects of social cues and source...We find that social cues only impact individual judgements when they influence perception...</p></details>
+   Link:<a href="https://ouci.dntb.gov.ua/en/works/lmL0axn4/" target="_blank" rel="noopener noreferrer nofollow">https://ouci.dntb.gov.ua/en/works/lmL0axn4/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>persuasive effects of social cues and source...We find that social cues only impact individual judgements when they influence perception...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: osf.io  
-   Link: <a href="https://osf.io/download/fw3zq" target="_blank" rel="noopener noreferrer nofollow">https://osf.io/download/fw3zq</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Effects of fact-checking [warning labels](&amp;#123;&amp;#123; &#x27;warning-labels/&#x27; | relative_url &amp;#125;&amp;#125;) and social...by TK Koch · 2023 · Cited by 113 — the social endorsement condition saw a post with...</p></details>
+   Link:<a href="https://osf.io/download/fw3zq" target="_blank" rel="noopener noreferrer nofollow">https://osf.io/download/fw3zq</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Effects of fact-checking [warning labels](&amp;#123;&amp;#123; &#x27;warning-labels/&#x27; | relative_url &amp;#125;&amp;#125;) and social...by TK Koch · 2023 · Cited by 113 — the social endorsement condition saw a post with...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/349770225_The_Impact_of_Social_Endorsement_Cues_and_Manipulability_Concerns_on_Perceptions_of_News_Credibility" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/349770225_The_Impact_of_Social_Endorsement_Cues_and_Manipulability_Concerns_on_Perceptions_of_News_Credibility</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>of political news on social media, and how the salience of concerns that SEC can be...Read more...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/349770225_The_Impact_of_Social_Endorsement_Cues_and_Manipulability_Concerns_on_Perceptions_of_News_Credibility" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/349770225_The_Impact_of_Social_Endorsement_Cues_and_Manipulability_Concerns_on_Perceptions_of_News_Credibility</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>of political news on social media, and how the salience of concerns that SEC can be...Read more...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: jeremyperson.com  
    Title: With false consensus, we overestimate how many others  
-   Link: <a href="https://jeremyperson.com/pluralistic-ignorance-the-false-consenus-effect/" target="_blank" rel="noopener noreferrer nofollow">https://jeremyperson.com/pluralistic-ignorance-the-false-consenus-effect/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Pluralistic Ignorance &amp; The False Consensus EffectMar 24, 2010 — With pluralistic ignorance, we underestimate how many others share our p...</p></details>
+   Link:<a href="https://jeremyperson.com/pluralistic-ignorance-the-false-consenus-effect/" target="_blank" rel="noopener noreferrer nofollow">https://jeremyperson.com/pluralistic-ignorance-the-false-consenus-effect/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Pluralistic Ignorance &amp; The False Consensus EffectMar 24, 2010 — With pluralistic ignorance, we underestimate how many others share our p...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: online.ucpress.edu  
    Title: An Illusory Consensus Effect The Mere Repetition  
-   Link: <a href="https://online.ucpress.edu/collabra/article/10/1/124533/203541/An-Illusory-Consensus-Effect-The-Mere-Repetition" target="_blank" rel="noopener noreferrer nofollow">https://online.ucpress.edu/collabra/article/10/1/124533/203541/An-Illusory-Consensus-Effect-The-Mere-Repetition</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Illusory Consensus Effect: The Mere Repetition of...17 Oct 2024 — Here, we examine the hypothesis that mere repetition of information in...</p></details>
+   Link:<a href="https://online.ucpress.edu/collabra/article/10/1/124533/203541/An-Illusory-Consensus-Effect-The-Mere-Repetition" target="_blank" rel="noopener noreferrer nofollow">https://online.ucpress.edu/collabra/article/10/1/124533/203541/An-Illusory-Consensus-Effect-The-Mere-Repetition</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Illusory Consensus Effect: The Mere Repetition of...17 Oct 2024 — Here, we examine the hypothesis that mere repetition of information in...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: researchgate.net  
    Title: 388421154 Polarization as Pluralistic Ignorance  
-   Link: <a href="https://www.researchgate.net/publication/388421154_Polarization_as_Pluralistic_Ignorance" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/388421154_Polarization_as_Pluralistic_Ignorance</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Polarization as Pluralistic Ignorance23 Oct 2025 — We show that false polarization may arise as pluralistic ignorance even when the...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/388421154_Polarization_as_Pluralistic_Ignorance" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/388421154_Polarization_as_Pluralistic_Ignorance</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Polarization as Pluralistic Ignorance23 Oct 2025 — We show that false polarization may arise as pluralistic ignorance even when the...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: pnas.org  
-   Link: <a href="https://www.pnas.org/doi/10.1073/pnas.2522998123" target="_blank" rel="noopener noreferrer nofollow">https://www.pnas.org/doi/10.1073/pnas.2522998123</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The cultural evolution of pluralistic ignoranceThis widespread misperception, called pluralistic ignorance, can trap societies in harmful...</p></details>
+   Link:<a href="https://www.pnas.org/doi/10.1073/pnas.2522998123" target="_blank" rel="noopener noreferrer nofollow">https://www.pnas.org/doi/10.1073/pnas.2522998123</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The cultural evolution of pluralistic ignoranceThis widespread misperception, called pluralistic ignorance, can trap societies in harmful...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: youtube.com  
    Title: The Anatomy of an Online Conspiracy Theory  
-   Link: <a href="https://www.youtube.com/watch?v=XnS9sH9M190" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=XnS9sH9M190</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>This collection of videos explores the psychological mechanisms of social media environments, specifically how engagement metrics, algori...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=XnS9sH9M190" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=XnS9sH9M190</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>This collection of videos explores the psychological mechanisms of social media environments, specifically how engagement metrics, algori...</p></details>

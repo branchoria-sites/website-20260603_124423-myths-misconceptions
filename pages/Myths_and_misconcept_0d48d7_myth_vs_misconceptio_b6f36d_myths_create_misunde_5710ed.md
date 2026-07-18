@@ -277,7 +277,7 @@ image: /assets/images/Myths_and_misconcept_0d48d7_myth_vs_misconceptio_b6f36d_my
 A myth does not stay confined to a single false claim. Once a repeated story becomes familiar enough, people often begin using it as a building block for understanding other things. At that point, the myth stops functioning merely as a rumour or cultural clich and starts acting as a misconception: a mistaken model that shapes reasoning, expectations and decisions.
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_myth_vs_misconceptio_b6f36d_myths_create_misunde_5710ed-Illustration-1-dark.svg" | relative_url }}" alt="Myth to Model illustration 1" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_myth_vs_misconceptio_b6f36d_myths_create_misunde_5710ed-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_myth_vs_misconceptio_b6f36d_myths_create_misunde_5710ed-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-This transition matters because correcting one factual error is usually easier than correcting an entire explanatory framework. A person who has absorbed a famous myth may not simply believe one false statement. They may use that statement to explain intelligence, health, history, human behaviour or scientific evidence. The result is a deeper misunderstanding that feels coherent from the inside, even when its foundations are wrong. Research on the illusory truth effect shows that repeated claims become more believable through familiarity alone, helping myths acquire the authority needed to reorganise reasoning. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Illusory_truth_effect" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Illusory truth effect</span><span class="citation-popover-snippet">Illusory truth effect</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/abs/pii/S2352250X23001811" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">The illusory truth effect: A review of how repetition...by J Udry  2024  Cited by 122  Repetition increases belief in in...</span></span></span>
+This transition matters because correcting one factual error is usually easier than correcting an entire explanatory framework. A person who has absorbed a famous myth may not simply believe one false statement. They may use that statement to explain intelligence, health, history, human behaviour or scientific evidence. The result is a deeper misunderstanding that feels coherent from the inside, even when its foundations are wrong. Research on the illusory truth effect shows that repeated claims become more believable through familiarity alone, helping myths acquire the authority needed to reorganise reasoning.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Illusory_truth_effect" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Illusory truth effect</span><span class="citation-popover-snippet">Illusory truth effect</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/abs/pii/S2352250X23001811" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">The illusory truth effect: A review of how repetition...by J Udry  2024  Cited by 122  Repetition increases belief in in...</span></span></span>
 
 ## How a Shared Story Seeds a Private Explanation
 
@@ -287,17 +287,17 @@ A person first encounters a claim socially. It may arrive through family convers
 
 Later, the claim becomes part of an individual's explanatory system. Instead of merely repeating it, they begin using it to interpret new information. The myth becomes a lens.
 
-Consider the famous claim that humans use only 10 per cent of their brains. As a myth, it is simply a repeated statement. As a misconception, it becomes a framework for understanding intelligence and human potential. People may conclude that hidden mental powers exist, that genius comes from activating unused brain regions, or that extraordinary cognitive abilities remain dormant in most people. The original claim generates an entire network of mistaken conclusions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.psychologicalscience.org/uncategorized/myth-we-only-use-10-of-our-brains.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: psychologicalscience.org">[Association for Psychological Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">psychologicalscience.org</span><span class="citation-popover-title">myth we only use 10 of our brains</span><span class="citation-popover-snippet">Association for Psychological ScienceMyth: We Only Use 10% of Our Brains29 Aug 2018  It was the basis of the movie Lucy (2014), which de...</span></span></span>
+Consider the famous claim that humans use only 10 per cent of their brains. As a myth, it is simply a repeated statement. As a misconception, it becomes a framework for understanding intelligence and human potential. People may conclude that hidden mental powers exist, that genius comes from activating unused brain regions, or that extraordinary cognitive abilities remain dormant in most people. The original claim generates an entire network of mistaken conclusions.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.psychologicalscience.org/uncategorized/myth-we-only-use-10-of-our-brains.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: psychologicalscience.org">[Association for Psychological Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">psychologicalscience.org</span><span class="citation-popover-title">myth we only use 10 of our brains</span><span class="citation-popover-snippet">Association for Psychological ScienceMyth: We Only Use 10% of Our Brains29 Aug 2018  It was the basis of the movie Lucy (2014), which de...</span></span></span>
 
 This process helps explain why some false beliefs prove remarkably durable. They are no longer isolated facts waiting to be corrected. They have become structural supports inside a larger mental model.
 
-Educational researchers have long noted that misconceptions often function as coherent systems rather than disconnected errors. Once a myth becomes part of such a system, removing it can create a gap in how a person explains the world. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4041497/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCMisconceptions Yesterday, Today, and Tomorrow</span><span class="citation-popover-snippet">NIHby MJ Leonard  2014  Cited by 175  We review the use and meaning of the term misconceptions in education research today, desc...</span></span></span>
+Educational researchers have long noted that misconceptions often function as coherent systems rather than disconnected errors. Once a myth becomes part of such a system, removing it can create a gap in how a person explains the world.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4041497/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCMisconceptions Yesterday, Today, and Tomorrow</span><span class="citation-popover-snippet">NIHby MJ Leonard  2014  Cited by 175  We review the use and meaning of the term misconceptions in education research today, desc...</span></span></span>
 
 ## Why Repetition Changes More Than Belief
 
 The power of repetition is often misunderstood. People assume that repeated claims merely increase agreement. In reality, repetition can alter the way people organise information.
 
-Research on the illusory truth effect shows that familiar statements feel easier to process, and that ease can be mistaken for evidence of accuracy. Importantly, this effect appears even when people possess relevant knowledge and even when the repeated information is false. <span class="citation-chip-wrap"><a class="citation-chip" href="https://thedecisionlab.com/biases/illusory-truth-effect" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thedecisionlab.com">[The Decision Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thedecisionlab.com</span><span class="citation-popover-title">The Decision Lab Illusory truth effect</span><span class="citation-popover-snippet">Illusory truth effect - The Decision...The illusory truth effect, also known as the illusion of truth, describes how when we hear the sa...</span></span></span> [3Wikipedia 3ScienceDirect]
+Research on the illusory truth effect shows that familiar statements feel easier to process, and that ease can be mistaken for evidence of accuracy. Importantly, this effect appears even when people possess relevant knowledge and even when the repeated information is false.<span class="citation-chip-wrap"><a class="citation-chip" href="https://thedecisionlab.com/biases/illusory-truth-effect" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thedecisionlab.com">[The Decision Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thedecisionlab.com</span><span class="citation-popover-title">The Decision Lab Illusory truth effect</span><span class="citation-popover-snippet">Illusory truth effect - The Decision...The illusory truth effect, also known as the illusion of truth, describes how when we hear the sa...</span></span></span> [3Wikipedia 3ScienceDirect]
 
 When a claim becomes cognitively familiar, several things can happen:
 
@@ -351,15 +351,15 @@ In these cases, the misconception is not merely factual. It becomes interpretive
 
 A common assumption is that misconceptions disappear once accurate information becomes available. Yet many famous myths remain influential despite decades of correction.
 
-Part of the reason is psychological familiarity. Repetition increases perceived truthfulness even when people are warned about the effect. Experimental research has repeatedly shown that familiar statements gain credibility simply through repeated exposure. <span class="citation-chip-wrap"><a class="citation-chip" href="https://journalofcognition.org/articles/10.5334/joc.161" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journalofcognition.org">[Journal of Cognition]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journalofcognition.org</span><span class="citation-popover-snippet">illusory truth effect is measured by comparing truth ratings for repeated versus new statements.... Source recollection, statement famil...</span></span></span>
+Part of the reason is psychological familiarity. Repetition increases perceived truthfulness even when people are warned about the effect. Experimental research has repeatedly shown that familiar statements gain credibility simply through repeated exposure.<span class="citation-chip-wrap"><a class="citation-chip" href="https://journalofcognition.org/articles/10.5334/joc.161" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journalofcognition.org">[Journal of Cognition]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journalofcognition.org</span><span class="citation-popover-snippet">illusory truth effect is measured by comparing truth ratings for repeated versus new statements.... Source recollection, statement famil...</span></span></span>
 
 Another reason is explanatory usefulness.
 
 A misconception often survives because it answers questions. It explains why someone succeeded, why a disease occurred, why a historical event happened or why society works a certain way. Correct information may remove the error without immediately replacing the explanation.
 
-For example, telling someone that humans use far more than 10 per cent of their brains addresses the myth itself. It does not automatically replace the larger belief that exceptional abilities are hidden and waiting to be unlocked. Unless an alternative explanation is offered, parts of the old model may remain intact. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Ten-percent-of-the-brain_myth" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Ten-percent-of-the-brain myth</span><span class="citation-popover-snippet">Ten-percent-of-the-brain myth</span></span></span>
+For example, telling someone that humans use far more than 10 per cent of their brains addresses the myth itself. It does not automatically replace the larger belief that exceptional abilities are hidden and waiting to be unlocked. Unless an alternative explanation is offered, parts of the old model may remain intact.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Ten-percent-of-the-brain_myth" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Ten-percent-of-the-brain myth</span><span class="citation-popover-snippet">Ten-percent-of-the-brain myth</span></span></span>
 
-Researchers studying misconceptions in education frequently find that learners can memorise correct answers while continuing to rely on older intuitive models in practice. The misconception persists beneath the surface because it still feels explanatory. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4041497/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCMisconceptions Yesterday, Today, and Tomorrow</span><span class="citation-popover-snippet">NIHby MJ Leonard  2014  Cited by 175  We review the use and meaning of the term misconceptions in education research today, desc...</span></span></span>
+Researchers studying misconceptions in education frequently find that learners can memorise correct answers while continuing to rely on older intuitive models in practice. The misconception persists beneath the surface because it still feels explanatory.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4041497/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCMisconceptions Yesterday, Today, and Tomorrow</span><span class="citation-popover-snippet">NIHby MJ Leonard  2014  Cited by 175  We review the use and meaning of the term misconceptions in education research today, desc...</span></span></span>
 
 ## How to Spot a Myth That Has Become a Misconception
 
@@ -388,194 +388,194 @@ This is the point where myths and misconceptions overlap most strongly. The myth
 Understanding this transition helps explain why some false beliefs survive correction efforts for generations. People are not only defending a claim. They are defending a model that helps make sense of their experience. Changing the belief therefore requires more than disproving a statement; it often requires replacing an entire way of understanding.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When Repeated Claims Shape Understanding. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When Repeated Claims Shape Understanding. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YGPzXWanppcC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
-        </h4>
-        <p class="fr-book-author">By Daniel Kahneman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YGPzXWanppcC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
+</h4>
+<p class="fr-book-author">By Daniel Kahneman</p>
         
-        <p class="fr-book-desc">Explains how repeated claims become part of reasoning frameworks.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains how repeated claims become part of reasoning frameworks.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Believing Brain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=a1ueBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Believing Brain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Believing Brain">The Believing Brain</a>
-        </h4>
-        <p class="fr-book-author">By Michael Shermer</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Believing Brain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=a1ueBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Believing Brain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Believing Brain">The Believing Brain</a>
+</h4>
+<p class="fr-book-author">By Michael Shermer</p>
         
-        <p class="fr-book-desc">Directly explores how people construct explanations from accepted claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly explores how people construct explanations from accepted claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Factfulness on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=rxg0tgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Factfulness" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Factfulness">Factfulness</a>
-        </h4>
-        <p class="fr-book-author">By Hans Rosling, Ola Rosling et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Factfulness on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=rxg0tgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Factfulness" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Factfulness">Factfulness</a>
+</h4>
+<p class="fr-book-author">By Hans Rosling, Ola Rosling et al.</p>
         
-        <p class="fr-book-desc">Shows how common narratives can distort understanding of reality.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows how common narratives can distort understanding of reality.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mistakes Were Made (but Not by Me) Third Edition on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jmmVxgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Mistakes Were Made (but Not by Me) Third Edition" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mistakes Were Made (but Not by Me) Third Edition">Mistakes Were Made (but Not by Me) Third Edition</a>
-        </h4>
-        <p class="fr-book-author">By Carol Tavris, Elliot Aronson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mistakes Were Made (but Not by Me) Third Edition on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jmmVxgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Mistakes Were Made (but Not by Me) Third Edition" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mistakes Were Made (but Not by Me) Third Edition">Mistakes Were Made (but Not by Me) Third Edition</a>
+</h4>
+<p class="fr-book-author">By Carol Tavris, Elliot Aronson</p>
         
-        <p class="fr-book-desc">Explains why people integrate false ideas into coherent belief systems.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains why people integrate false ideas into coherent belief systems.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Believing+Brain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Believing Brain</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Factfulness&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Factfulness</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Believing+Brain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Believing Brain</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Factfulness&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Factfulness</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=education+classroom+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=myth-to-model-when-repeated-claims-shape-understanding-myths-and-misconcept-education-classroom-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="education classroom poster" data-ebay-reference="myth-to-model-when-repeated-claims-shape-understanding-myths-and-misconcept-education-classroom-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Math Posters 4 Pieces Chart Educational Arithmetic Table Math Classroom"><img src="{{ '/assets/images/marketplace-covers/644464d39ed53256f71c.jpg' | relative_url }}" alt="Listing image for Math Posters 4 Pieces Chart Educational Arithmetic Table Math Classroom" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=education+classroom+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=myth-to-model-when-repeated-claims-shape-understanding-myths-and-misconcept-education-classroom-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="education classroom poster" data-ebay-reference="myth-to-model-when-repeated-claims-shape-understanding-myths-and-misconcept-education-classroom-poster" target="_blank" rel="sponsored noopener noreferrer">Math Posters 4 Pieces Chart Educational Arithmetic Table Math Classroom</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=education+classroom+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=myth-to-model-when-repeated-claims-shape-understanding-myths-and-misconcept-education-classroom-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="education classroom poster" data-ebay-reference="myth-to-model-when-repeated-claims-shape-understanding-myths-and-misconcept-education-classroom-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for education classroom poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: education classroom poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=education+classroom+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=myth-to-model-when-repeated-claims-shape-understanding-myths-and-misconcept-education-classroom-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="education classroom poster" data-ebay-reference="myth-to-model-when-repeated-claims-shape-understanding-myths-and-misconcept-education-classroom-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=education+classroom+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=myth-to-model-when-repeated-claims-shape-understanding-myths-and-misconcept-education-classroom-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="education classroom poster" data-ebay-reference="myth-to-model-when-repeated-claims-shape-understanding-myths-and-misconcept-education-classroom-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Math Posters 4 Pieces Chart Educational Arithmetic Table Math Classroom"><img src="{{ '/assets/images/marketplace-covers/644464d39ed53256f71c.jpg' | relative_url }}" alt="Listing image for Math Posters 4 Pieces Chart Educational Arithmetic Table Math Classroom" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=education+classroom+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=myth-to-model-when-repeated-claims-shape-understanding-myths-and-misconcept-education-classroom-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="education classroom poster" data-ebay-reference="myth-to-model-when-repeated-claims-shape-understanding-myths-and-misconcept-education-classroom-poster" target="_blank" rel="sponsored noopener noreferrer">Math Posters 4 Pieces Chart Educational Arithmetic Table Math Classroom</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=education+classroom+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=myth-to-model-when-repeated-claims-shape-understanding-myths-and-misconcept-education-classroom-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="education classroom poster" data-ebay-reference="myth-to-model-when-repeated-claims-shape-understanding-myths-and-misconcept-education-classroom-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for education classroom poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: education classroom poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=education+classroom+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=myth-to-model-when-repeated-claims-shape-understanding-myths-and-misconcept-education-classroom-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="education classroom poster" data-ebay-reference="myth-to-model-when-repeated-claims-shape-understanding-myths-and-misconcept-education-classroom-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=education+classroom+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=myth-to-model-when-repeated-claims-shape-understanding-myths-and-misconcept-education-classroom-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="education classroom poster" data-ebay-reference="myth-to-model-when-repeated-claims-shape-understanding-myths-and-misconcept-education-classroom-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Teacher Educational Poster Set Of 6 Classroom English Fun LAMINATED 30cm X 42cm"><img src="{{ '/assets/images/marketplace-covers/fd818066b7b03cbe56f7.jpg' | relative_url }}" alt="Listing image for Teacher Educational Poster Set Of 6 Classroom English Fun LAMINATED 30cm X 42cm" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=education+classroom+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=myth-to-model-when-repeated-claims-shape-understanding-myths-and-misconcept-education-classroom-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="education classroom poster" data-ebay-reference="myth-to-model-when-repeated-claims-shape-understanding-myths-and-misconcept-education-classroom-poster" target="_blank" rel="sponsored noopener noreferrer">Teacher Educational Poster Set Of 6 Classroom English Fun LAMINATED 30cm X 42cm</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=education+classroom+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=myth-to-model-when-repeated-claims-shape-understanding-myths-and-misconcept-education-classroom-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="education classroom poster" data-ebay-reference="myth-to-model-when-repeated-claims-shape-understanding-myths-and-misconcept-education-classroom-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for education classroom poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: education classroom poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=education+classroom+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=myth-to-model-when-repeated-claims-shape-understanding-myths-and-misconcept-education-classroom-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="education classroom poster" data-ebay-reference="myth-to-model-when-repeated-claims-shape-understanding-myths-and-misconcept-education-classroom-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=education+classroom+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=myth-to-model-when-repeated-claims-shape-understanding-myths-and-misconcept-education-classroom-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="education classroom poster" data-ebay-reference="myth-to-model-when-repeated-claims-shape-understanding-myths-and-misconcept-education-classroom-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Teacher Educational Poster Set Of 6 Classroom English Fun LAMINATED 30cm X 42cm"><img src="{{ '/assets/images/marketplace-covers/fd818066b7b03cbe56f7.jpg' | relative_url }}" alt="Listing image for Teacher Educational Poster Set Of 6 Classroom English Fun LAMINATED 30cm X 42cm" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=education+classroom+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=myth-to-model-when-repeated-claims-shape-understanding-myths-and-misconcept-education-classroom-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="education classroom poster" data-ebay-reference="myth-to-model-when-repeated-claims-shape-understanding-myths-and-misconcept-education-classroom-poster" target="_blank" rel="sponsored noopener noreferrer">Teacher Educational Poster Set Of 6 Classroom English Fun LAMINATED 30cm X 42cm</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=education+classroom+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=myth-to-model-when-repeated-claims-shape-understanding-myths-and-misconcept-education-classroom-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="education classroom poster" data-ebay-reference="myth-to-model-when-repeated-claims-shape-understanding-myths-and-misconcept-education-classroom-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for education classroom poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: education classroom poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=education+classroom+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=myth-to-model-when-repeated-claims-shape-understanding-myths-and-misconcept-education-classroom-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="education classroom poster" data-ebay-reference="myth-to-model-when-repeated-claims-shape-understanding-myths-and-misconcept-education-classroom-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=education+classroom+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=myth-to-model-when-repeated-claims-shape-understanding-myths-and-misconcept-education-classroom-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="education classroom poster" data-ebay-reference="myth-to-model-when-repeated-claims-shape-understanding-myths-and-misconcept-education-classroom-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Educational Posters 15 Pack A3 Size Early Years Classroom Learning Wall Charts"><img src="{{ '/assets/images/marketplace-covers/a8e510a645162d8c080e.jpg' | relative_url }}" alt="Listing image for Educational Posters 15 Pack A3 Size Early Years Classroom Learning Wall Charts" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=education+classroom+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=myth-to-model-when-repeated-claims-shape-understanding-myths-and-misconcept-education-classroom-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="education classroom poster" data-ebay-reference="myth-to-model-when-repeated-claims-shape-understanding-myths-and-misconcept-education-classroom-poster" target="_blank" rel="sponsored noopener noreferrer">Educational Posters 15 Pack A3 Size Early Years Classroom Learning Wall Charts</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=education+classroom+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=myth-to-model-when-repeated-claims-shape-understanding-myths-and-misconcept-education-classroom-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="education classroom poster" data-ebay-reference="myth-to-model-when-repeated-claims-shape-understanding-myths-and-misconcept-education-classroom-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for education classroom poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: education classroom poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=education+classroom+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=myth-to-model-when-repeated-claims-shape-understanding-myths-and-misconcept-education-classroom-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="education classroom poster" data-ebay-reference="myth-to-model-when-repeated-claims-shape-understanding-myths-and-misconcept-education-classroom-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=education+classroom+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=myth-to-model-when-repeated-claims-shape-understanding-myths-and-misconcept-education-classroom-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="education classroom poster" data-ebay-reference="myth-to-model-when-repeated-claims-shape-understanding-myths-and-misconcept-education-classroom-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Educational Posters 15 Pack A3 Size Early Years Classroom Learning Wall Charts"><img src="{{ '/assets/images/marketplace-covers/a8e510a645162d8c080e.jpg' | relative_url }}" alt="Listing image for Educational Posters 15 Pack A3 Size Early Years Classroom Learning Wall Charts" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=education+classroom+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=myth-to-model-when-repeated-claims-shape-understanding-myths-and-misconcept-education-classroom-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="education classroom poster" data-ebay-reference="myth-to-model-when-repeated-claims-shape-understanding-myths-and-misconcept-education-classroom-poster" target="_blank" rel="sponsored noopener noreferrer">Educational Posters 15 Pack A3 Size Early Years Classroom Learning Wall Charts</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=education+classroom+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=myth-to-model-when-repeated-claims-shape-understanding-myths-and-misconcept-education-classroom-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="education classroom poster" data-ebay-reference="myth-to-model-when-repeated-claims-shape-understanding-myths-and-misconcept-education-classroom-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for education classroom poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: education classroom poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=education+classroom+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=myth-to-model-when-repeated-claims-shape-understanding-myths-and-misconcept-education-classroom-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="education classroom poster" data-ebay-reference="myth-to-model-when-repeated-claims-shape-understanding-myths-and-misconcept-education-classroom-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=education+classroom+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=myth-to-model-when-repeated-claims-shape-understanding-myths-and-misconcept-education-classroom-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="education classroom poster" data-ebay-reference="myth-to-model-when-repeated-claims-shape-understanding-myths-and-misconcept-education-classroom-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Classroom Educational Posters - 20pcs 16 x 11 - Teacher Classroom Must Have..."><img src="{{ '/assets/images/marketplace-covers/e92cf70e662e4f29850a.jpg' | relative_url }}" alt="Listing image for Classroom Educational Posters - 20pcs 16 x 11 - Teacher Classroom Must Have..." loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=education+classroom+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=myth-to-model-when-repeated-claims-shape-understanding-myths-and-misconcept-education-classroom-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="education classroom poster" data-ebay-reference="myth-to-model-when-repeated-claims-shape-understanding-myths-and-misconcept-education-classroom-poster" target="_blank" rel="sponsored noopener noreferrer">Classroom Educational Posters - 20pcs 16 x 11 - Teacher Classroom Must Have...</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=education+classroom+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=myth-to-model-when-repeated-claims-shape-understanding-myths-and-misconcept-education-classroom-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="education classroom poster" data-ebay-reference="myth-to-model-when-repeated-claims-shape-understanding-myths-and-misconcept-education-classroom-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for education classroom poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: education classroom poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=education+classroom+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=myth-to-model-when-repeated-claims-shape-understanding-myths-and-misconcept-education-classroom-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="education classroom poster" data-ebay-reference="myth-to-model-when-repeated-claims-shape-understanding-myths-and-misconcept-education-classroom-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=education+classroom+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=myth-to-model-when-repeated-claims-shape-understanding-myths-and-misconcept-education-classroom-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="education classroom poster" data-ebay-reference="myth-to-model-when-repeated-claims-shape-understanding-myths-and-misconcept-education-classroom-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=education+classroom+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=myth-to-model-when-repeated-claims-shape-understanding-myths-and-misconcept-education-classroom-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="education classroom poster" data-ebay-reference="myth-to-model-when-repeated-claims-shape-understanding-myths-and-misconcept-education-classroom-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Classroom Educational Posters - 20pcs 16 x 11 - Teacher Classroom Must Have..."><img src="{{ '/assets/images/marketplace-covers/e92cf70e662e4f29850a.jpg' | relative_url }}" alt="Listing image for Classroom Educational Posters - 20pcs 16 x 11 - Teacher Classroom Must Have..." loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=education+classroom+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=myth-to-model-when-repeated-claims-shape-understanding-myths-and-misconcept-education-classroom-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="education classroom poster" data-ebay-reference="myth-to-model-when-repeated-claims-shape-understanding-myths-and-misconcept-education-classroom-poster" target="_blank" rel="sponsored noopener noreferrer">Classroom Educational Posters - 20pcs 16 x 11 - Teacher Classroom Must Have...</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=education+classroom+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=myth-to-model-when-repeated-claims-shape-understanding-myths-and-misconcept-education-classroom-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="education classroom poster" data-ebay-reference="myth-to-model-when-repeated-claims-shape-understanding-myths-and-misconcept-education-classroom-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for education classroom poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: education classroom poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=education+classroom+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=myth-to-model-when-repeated-claims-shape-understanding-myths-and-misconcept-education-classroom-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="education classroom poster" data-ebay-reference="myth-to-model-when-repeated-claims-shape-understanding-myths-and-misconcept-education-classroom-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=education+classroom+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=myth-to-model-when-repeated-claims-shape-understanding-myths-and-misconcept-education-classroom-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="education classroom poster" data-ebay-reference="myth-to-model-when-repeated-claims-shape-understanding-myths-and-misconcept-education-classroom-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -591,7 +591,7 @@ Understanding this transition helps explain why some false beliefs survive corre
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -611,7 +611,7 @@ Understanding this transition helps explain why some false beliefs survive corre
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -643,7 +643,7 @@ Understanding this transition helps explain why some false beliefs survive corre
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -695,7 +695,7 @@ Understanding this transition helps explain why some false beliefs survive corre
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -740,7 +740,7 @@ Understanding this transition helps explain why some false beliefs survive corre
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -781,105 +781,105 @@ Understanding this transition helps explain why some false beliefs survive corre
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Illusory truth effect  
-   Link: <a href="https://en.wikipedia.org/wiki/Illusory_truth_effect" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Illusory_truth_effect</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Illusory_truth_effect" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Illusory_truth_effect</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S2352250X23001811" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S2352250X23001811</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The illusory truth effect: A review of how repetition...by J Udry  2024  Cited by 122  Repetition increases belief in in...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/abs/pii/S2352250X23001811" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S2352250X23001811</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The illusory truth effect: A review of how repetition...by J Udry  2024  Cited by 122  Repetition increases belief in in...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: Wikipedia  
    Title: Ten-percent-of-the-brain myth  
-   Link: <a href="https://en.wikipedia.org/wiki/Ten-percent-of-the-brain_myth" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Ten-percent-of-the-brain_myth</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Ten-percent-of-the-brain_myth" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Ten-percent-of-the-brain_myth</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCMisconceptions Yesterday, Today, and Tomorrow  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4041497/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4041497/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NIHby MJ Leonard  2014  Cited by 175  We review the use and meaning of the term misconceptions in education research today, desc...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4041497/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4041497/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NIHby MJ Leonard  2014  Cited by 175  We review the use and meaning of the term misconceptions in education research today, desc...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/pii/S2211949325000146" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S2211949325000146</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Pre-service teachers&#x27; misconceptions about brain and mind...by D Opre  2025  Cited by 4  We investigate educational misconceptions th...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/pii/S2211949325000146" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S2211949325000146</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Pre-service teachers&#x27; misconceptions about brain and mind...by D Opre  2025  Cited by 4  We investigate educational misconceptions th...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Psychology" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Psychology</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PsychologyPsychology is the scientific study of the mind and behavior.... Its subject matter includes the behavior of humans and nonh...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Psychology" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Psychology</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>PsychologyPsychology is the scientific study of the mind and behavior.... Its subject matter includes the behavior of humans and nonh...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: psychologicalscience.org  
    Title: myth we only use 10 of our brains  
-   Link: <a href="https://www.psychologicalscience.org/uncategorized/myth-we-only-use-10-of-our-brains.html" target="_blank" rel="noopener noreferrer nofollow">https://www.psychologicalscience.org/uncategorized/myth-we-only-use-10-of-our-brains.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Association for Psychological ScienceMyth: We Only Use 10% of Our Brains29 Aug 2018  It was the basis of the movie Lucy (2014), which de...</p></details>
+   Link:<a href="https://www.psychologicalscience.org/uncategorized/myth-we-only-use-10-of-our-brains.html" target="_blank" rel="noopener noreferrer nofollow">https://www.psychologicalscience.org/uncategorized/myth-we-only-use-10-of-our-brains.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Association for Psychological ScienceMyth: We Only Use 10% of Our Brains29 Aug 2018  It was the basis of the movie Lucy (2014), which de...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: thedecisionlab.com  
    Title: The Decision Lab Illusory truth effect  
-   Link: <a href="https://thedecisionlab.com/biases/illusory-truth-effect" target="_blank" rel="noopener noreferrer nofollow">https://thedecisionlab.com/biases/illusory-truth-effect</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Illusory truth effect - The Decision...The illusory truth effect, also known as the illusion of truth, describes how when we hear the sa...</p></details>
+   Link:<a href="https://thedecisionlab.com/biases/illusory-truth-effect" target="_blank" rel="noopener noreferrer nofollow">https://thedecisionlab.com/biases/illusory-truth-effect</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Illusory truth effect - The Decision...The illusory truth effect, also known as the illusion of truth, describes how when we hear the sa...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: journalofcognition.org  
-   Link: <a href="https://journalofcognition.org/articles/10.5334/joc.161" target="_blank" rel="noopener noreferrer nofollow">https://journalofcognition.org/articles/10.5334/joc.161</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>illusory truth effect is measured by comparing truth ratings for repeated versus new statements.... Source recollection, statement famil...</p></details>
+   Link:<a href="https://journalofcognition.org/articles/10.5334/joc.161" target="_blank" rel="noopener noreferrer nofollow">https://journalofcognition.org/articles/10.5334/joc.161</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>illusory truth effect is measured by comparing truth ratings for repeated versus new statements.... Source recollection, statement famil...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: ebsco.com  
-   Link: <a href="https://www.ebsco.com/research-starters/psychology/illusory-truth-effect" target="_blank" rel="noopener noreferrer nofollow">https://www.ebsco.com/research-starters/psychology/illusory-truth-effect</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Illusory truth effect | Psychology | Research StartersThe illusory truth effect is a cognitive phenomenon where repeated exposure to fals...</p></details>
+   Link:<a href="https://www.ebsco.com/research-starters/psychology/illusory-truth-effect" target="_blank" rel="noopener noreferrer nofollow">https://www.ebsco.com/research-starters/psychology/illusory-truth-effect</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Illusory truth effect | Psychology | Research StartersThe illusory truth effect is a cognitive phenomenon where repeated exposure to fals...</p></details>
 
 ### Additional References
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: educationalneuroscience.org.uk  
-   Link: <a href="https://educationalneuroscience.org.uk/wordpress/resources/neuromyth-or-neurofact/" target="_blank" rel="noopener noreferrer nofollow">https://educationalneuroscience.org.uk/wordpress/resources/neuromyth-or-neurofact/</a>  
+   Link:<a href="https://educationalneuroscience.org.uk/wordpress/resources/neuromyth-or-neurofact/" target="_blank" rel="noopener noreferrer nofollow">https://educationalneuroscience.org.uk/wordpress/resources/neuromyth-or-neurofact/</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/38113667/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/38113667/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The illusory truth effect: A review of how repetition...by J Udry  2024  Cited by 122  Repetition increases belief in informati...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/38113667/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/38113667/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The illusory truth effect: A review of how repetition...by J Udry  2024  Cited by 122  Repetition increases belief in informati...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: plymouth.ac.uk  
-   Link: <a href="https://www.plymouth.ac.uk/discover/myths-of-the-brain" target="_blank" rel="noopener noreferrer nofollow">https://www.plymouth.ac.uk/discover/myths-of-the-brain</a>  
+   Link:<a href="https://www.plymouth.ac.uk/discover/myths-of-the-brain" target="_blank" rel="noopener noreferrer nofollow">https://www.plymouth.ac.uk/discover/myths-of-the-brain</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: merriam-webster.com  
-   Link: <a href="https://www.merriam-webster.com/dictionary/illusory" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/illusory</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ILLUSORY Definition &amp; Meaningillusory implies a false impression based on deceptive resemblance or faulty observation, or influenced by e...</p></details>
+   Link:<a href="https://www.merriam-webster.com/dictionary/illusory" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/illusory</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ILLUSORY Definition &amp; Meaningillusory implies a false impression based on deceptive resemblance or faulty observation, or influenced by e...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: psychologytoday.com  
-   Link: <a href="https://www.psychologytoday.com/us/basics/illusory-truth-effect" target="_blank" rel="noopener noreferrer nofollow">https://www.psychologytoday.com/us/basics/illusory-truth-effect</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Illusory Truth EffectStudies show that repetition increases the perception of validityeven when people start out knowing that the inform...</p></details>
+   Link:<a href="https://www.psychologytoday.com/us/basics/illusory-truth-effect" target="_blank" rel="noopener noreferrer nofollow">https://www.psychologytoday.com/us/basics/illusory-truth-effect</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Illusory Truth EffectStudies show that repetition increases the perception of validityeven when people start out knowing that the inform...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: psychologytoday.com  
-   Link: <a href="https://www.psychologytoday.com/gb/basics/illusory-truth-effect" target="_blank" rel="noopener noreferrer nofollow">https://www.psychologytoday.com/gb/basics/illusory-truth-effect</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Illusory Truth EffectThe illusory truth effect is the tendency for any statement that is repeated frequentlywhether it is factually true...</p></details>
+   Link:<a href="https://www.psychologytoday.com/gb/basics/illusory-truth-effect" target="_blank" rel="noopener noreferrer nofollow">https://www.psychologytoday.com/gb/basics/illusory-truth-effect</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Illusory Truth EffectThe illusory truth effect is the tendency for any statement that is repeated frequentlywhether it is factually true...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: apa.org  
-   Link: <a href="https://www.apa.org/ed/precollege/topss/science/myths-misconceptions" target="_blank" rel="noopener noreferrer nofollow">https://www.apa.org/ed/precollege/topss/science/myths-misconceptions</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Myths and Misconceptions About PsychologyExplores common misperceptions that lead people to believe that psychology is not a science. For...</p></details>
+   Link:<a href="https://www.apa.org/ed/precollege/topss/science/myths-misconceptions" target="_blank" rel="noopener noreferrer nofollow">https://www.apa.org/ed/precollege/topss/science/myths-misconceptions</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Myths and Misconceptions About PsychologyExplores common misperceptions that lead people to believe that psychology is not a science. For...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: news.vanderbilt.edu  
-   Link: <a href="https://news.vanderbilt.edu/2020/10/06/study-shows-that-repeated-statements-are-more-often-judged-to-be-true-regardless-of-a-persons-age-or-prior-knowledge/" target="_blank" rel="noopener noreferrer nofollow">https://news.vanderbilt.edu/2020/10/06/study-shows-that-repeated-statements-are-more-often-judged-to-be-true-regardless-of-a-persons-age-or-prior-knowledge/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>shows that repeated statements are more often...6 Oct 2020  This has been replicated many times in existing research studies and is kno...</p></details>
+   Link:<a href="https://news.vanderbilt.edu/2020/10/06/study-shows-that-repeated-statements-are-more-often-judged-to-be-true-regardless-of-a-persons-age-or-prior-knowledge/" target="_blank" rel="noopener noreferrer nofollow">https://news.vanderbilt.edu/2020/10/06/study-shows-that-repeated-statements-are-more-often-judged-to-be-true-regardless-of-a-persons-age-or-prior-knowledge/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>shows that repeated statements are more often...6 Oct 2020  This has been replicated many times in existing research studies and is kno...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: communicatingpsychologicalscience.com  
-   Link: <a href="https://www.communicatingpsychologicalscience.com/blog/misconceptions-research-project-the-myth-that-we-only-use-10-of-our-brains" target="_blank" rel="noopener noreferrer nofollow">https://www.communicatingpsychologicalscience.com/blog/misconceptions-research-project-the-myth-that-we-only-use-10-of-our-brains</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>wer stems from the notion that using 100% of one&#x27;s brain power will give people psychic...Read more...</p></details>
+   Link:<a href="https://www.communicatingpsychologicalscience.com/blog/misconceptions-research-project-the-myth-that-we-only-use-10-of-our-brains" target="_blank" rel="noopener noreferrer nofollow">https://www.communicatingpsychologicalscience.com/blog/misconceptions-research-project-the-myth-that-we-only-use-10-of-our-brains</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>wer stems from the notion that using 100% of one&#x27;s brain power will give people psychic...Read more...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/235927308_Misconceptions_about_Psychological_Science_A_Review" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/235927308_Misconceptions_about_Psychological_Science_A_Review</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Misconceptions about Psychological Science: A ReviewThis article provides an overview of the available evidence on psychological misconce...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/235927308_Misconceptions_about_Psychological_Science_A_Review" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/235927308_Misconceptions_about_Psychological_Science_A_Review</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Misconceptions about Psychological Science: A ReviewThis article provides an overview of the available evidence on psychological misconce...</p></details>

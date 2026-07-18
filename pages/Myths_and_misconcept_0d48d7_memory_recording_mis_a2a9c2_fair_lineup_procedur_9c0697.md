@@ -277,7 +277,7 @@ image: /assets/images/Myths_and_misconcept_0d48d7_memory_recording_mis_a2a9c2_fa
 A fair eyewitness lineup is designed to test a witness's [memory]({{ 'memory/' | relative_url }}), not to steer the witness towards a suspect. That distinction is crucial because memory does not operate like a recording that can simply be played back. By the time a witness is asked to identify someone, memory may already be fragile, incomplete or vulnerable to outside influence. If police procedures unintentionally suggest who the suspect is, the lineup can reshape memory instead of measuring it.
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_memory_recording_mis_a2a9c2_fair_lineup_procedur_9c0697-Illustration-1-dark.svg" | relative_url }}" alt="Fair Lineups illustration 1" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_memory_recording_mis_a2a9c2_fair_lineup_procedur_9c0697-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_memory_recording_mis_a2a9c2_fair_lineup_procedur_9c0697-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-Research in psychology and criminal justice has increasingly treated lineup design as a form of contamination control. The goal is not merely to obtain an identification but to find out whether the witness can recognise a person from memory alone. Fair lineups, neutral instructions and careful recording of [confidence]({{ 'confidence/' | relative_url }}) statements all aim to protect that original memory before later information alters it. <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/1745691612443368" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-title">Sage Journals Eyewitness Identification Reforms</span><span class="citation-popover-snippet">Wells, Nancy K....Eyewitness identification evidence should be based solely on the independent memory of the witness, not aided by biase...</span></span></span>
+Research in psychology and criminal justice has increasingly treated lineup design as a form of contamination control. The goal is not merely to obtain an identification but to find out whether the witness can recognise a person from memory alone. Fair lineups, neutral instructions and careful recording of [confidence]({{ 'confidence/' | relative_url }}) statements all aim to protect that original memory before later information alters it.<span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/1745691612443368" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-title">Sage Journals Eyewitness Identification Reforms</span><span class="citation-popover-snippet">Wells, Nancy K....Eyewitness identification evidence should be based solely on the independent memory of the witness, not aided by biase...</span></span></span>
 
 ## What Makes an Eyewitness Lineup Fair?
 
@@ -285,19 +285,19 @@ A lineup is fair when the suspect does not stand out from the other people shown
 
 The basic logic is straightforward. If a witness genuinely remembers the offender, they should be able to identify that person even when several similar-looking alternatives are present. If the suspect is noticeably different from everyone else, the lineup stops being a memory test and becomes a guessing exercise.
 
-Researchers have long argued that eyewitness identification evidence should come from the witness's independent memory rather than from clues built into the procedure. A fair lineup therefore attempts to remove hints, expectations and visual signals that could push a witness towards one particular choice. <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/1745691612443368" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-title">Sage Journals Eyewitness Identification Reforms</span><span class="citation-popover-snippet">Wells, Nancy K....Eyewitness identification evidence should be based solely on the independent memory of the witness, not aided by biase...</span></span></span>
+Researchers have long argued that eyewitness identification evidence should come from the witness's independent memory rather than from clues built into the procedure. A fair lineup therefore attempts to remove hints, expectations and visual signals that could push a witness towards one particular choice.<span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/1745691612443368" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-title">Sage Journals Eyewitness Identification Reforms</span><span class="citation-popover-snippet">Wells, Nancy K....Eyewitness identification evidence should be based solely on the independent memory of the witness, not aided by biase...</span></span></span>
 
-The National Academies' review of eyewitness identification research similarly concluded that identification procedures should be structured to maximise the chance that witnesses rely on memory rather than suggestion. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalacademies.org/read/18891/chapter/8" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalacademies.org">[National Academies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalacademies.org</span><span class="citation-popover-snippet">Findings and Recommendations. Eyewitnesses make mistakes. Our understanding of how to improve the accuracy of eyewitness identifications...</span></span></span>
+The National Academies' review of eyewitness identification research similarly concluded that identification procedures should be structured to maximise the chance that witnesses rely on memory rather than suggestion.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalacademies.org/read/18891/chapter/8" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalacademies.org">[National Academies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalacademies.org</span><span class="citation-popover-snippet">Findings and Recommendations. Eyewitnesses make mistakes. Our understanding of how to improve the accuracy of eyewitness identifications...</span></span></span>
 
 ## Why Lineup Fairness Changes the Meaning of Confidence
 
 One of the most misunderstood issues in eyewitness evidence is confidence. People often assume that a confident witness must be accurate. Research shows the picture is more complicated.
 
-A witness's confidence becomes much more informative when the identification comes from a fair lineup conducted under carefully controlled conditions. Studies have found that high-confidence identifications made immediately during a properly conducted lineup can be strongly associated with accuracy. The key condition is that the confidence must be measured before contamination occurs. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.pnas.org/doi/10.1073/pnas.1516814112" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pnas.org">[PNAS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pnas.org</span><span class="citation-popover-snippet">Estimating the reliability of eyewitness identifications from...Our findings suggest that (i) confidence in an eyewitness identifica...</span></span></span>
+A witness's confidence becomes much more informative when the identification comes from a fair lineup conducted under carefully controlled conditions. Studies have found that high-confidence identifications made immediately during a properly conducted lineup can be strongly associated with accuracy. The key condition is that the confidence must be measured before contamination occurs.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.pnas.org/doi/10.1073/pnas.1516814112" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pnas.org">[PNAS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pnas.org</span><span class="citation-popover-snippet">Estimating the reliability of eyewitness identifications from...Our findings suggest that (i) confidence in an eyewitness identifica...</span></span></span>
 
-The opposite is also true. If a lineup is suggestive, confidence can be inflated without improving accuracy. A witness may become more certain because of subtle cues from investigators, reactions from other people or the structure of the lineup itself. In that situation, confidence reflects social influence as much as memory. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S2211368113000569" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Instructions to witnesses that suggest...Read more...</span></span></span>
+The opposite is also true. If a lineup is suggestive, confidence can be inflated without improving accuracy. A witness may become more certain because of subtle cues from investigators, reactions from other people or the structure of the lineup itself. In that situation, confidence reflects social influence as much as memory.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S2211368113000569" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Instructions to witnesses that suggest...Read more...</span></span></span>
 
-This is one reason modern recommendations emphasise obtaining confidence statements immediately after the identification decision and before any feedback is given. Early confidence is more likely to reflect the witness's original memory signal rather than later reinforcement. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.innocenceproject.org/wp-content/uploads/2016/02/NAS-Report-ID.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: innocenceproject.org">[Innocence Project]</a><span class="citation-popover" role="note"><span class="citation-popover-source">innocenceproject.org</span><span class="citation-popover-snippet">G. Dobolyi and C. S. Dodson, “Eyewitness. Confidence in Simultaneous and Sequential Lineups: A Criterion Shift Account for Sequential. Mi...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://s3.us-east-2.amazonaws.com/assets.dps.mn.gov/s3fs-public/migrated-files/divisions/bca/bca-divisions/investigations/Documents/IACP-Eyewitness-Identification-policy.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: s3.us-east-2.amazonaws.com">[Amazon Web Services, Inc.]</a><span class="citation-popover" role="note"><span class="citation-popover-source">s3.us-east-2.amazonaws.com</span><span class="citation-popover-snippet">Eyewitness IdentificationConfidence Statement: A statement in the witness&#x27;s own words taken immediately after an identification is made s...</span></span></span>
+This is one reason modern recommendations emphasise obtaining confidence statements immediately after the identification decision and before any feedback is given. Early confidence is more likely to reflect the witness's original memory signal rather than later reinforcement.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.innocenceproject.org/wp-content/uploads/2016/02/NAS-Report-ID.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: innocenceproject.org">[Innocence Project]</a><span class="citation-popover" role="note"><span class="citation-popover-source">innocenceproject.org</span><span class="citation-popover-snippet">G. Dobolyi and C. S. Dodson, “Eyewitness. Confidence in Simultaneous and Sequential Lineups: A Criterion Shift Account for Sequential. Mi...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://s3.us-east-2.amazonaws.com/assets.dps.mn.gov/s3fs-public/migrated-files/divisions/bca/bca-divisions/investigations/Documents/IACP-Eyewitness-Identification-policy.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: s3.us-east-2.amazonaws.com">[Amazon Web Services, Inc.]</a><span class="citation-popover" role="note"><span class="citation-popover-source">s3.us-east-2.amazonaws.com</span><span class="citation-popover-snippet">Eyewitness IdentificationConfidence Statement: A statement in the witness&#x27;s own words taken immediately after an identification is made s...</span></span></span>
 
 ## Avoiding Suggestion from Police and Fillers
 
@@ -305,28 +305,28 @@ This is one reason modern recommendations emphasise obtaining confidence stateme
 
 A major reform in eyewitness procedures is the use of double-blind lineups. Under this approach, the officer conducting the lineup does not know which person is the suspect.
 
-The reason is simple: people can communicate expectations without intending to. Tone of voice, facial expressions, pauses and body language may signal approval or disapproval. Even small cues can influence uncertain witnesses. Researchers have repeatedly warned that administrators who know the suspect's [identity]({{ 'identity/' | relative_url }}) may consciously or unconsciously guide a witness towards that person. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6876419/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Can Lineup Administrators Blind to the Suspect&#x27;s Identity...by NA McCallum · 2017 · Cited by 3 — Yet, it has been found that a lineup...</span></span></span>
+The reason is simple: people can communicate expectations without intending to. Tone of voice, facial expressions, pauses and body language may signal approval or disapproval. Even small cues can influence uncertain witnesses. Researchers have repeatedly warned that administrators who know the suspect's [identity]({{ 'identity/' | relative_url }}) may consciously or unconsciously guide a witness towards that person.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6876419/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Can Lineup Administrators Blind to the Suspect&#x27;s Identity...by NA McCallum · 2017 · Cited by 3 — Yet, it has been found that a lineup...</span></span></span>
 
-Field research involving real eyewitnesses has examined double-blind lineup procedures in actual police investigations, reflecting the effort to reduce administrator influence and make identifications depend more heavily on witness memory alone. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/24933175/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Double-blind photo lineups using actual eyewitnessesby GL Wells · 2015 · Cited by 208 — Eyewitnesses (494) to actual crimes in 4 po...</span></span></span>
+Field research involving real eyewitnesses has examined double-blind lineup procedures in actual police investigations, reflecting the effort to reduce administrator influence and make identifications depend more heavily on witness memory alone.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/24933175/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Double-blind photo lineups using actual eyewitnessesby GL Wells · 2015 · Cited by 208 — Eyewitnesses (494) to actual crimes in 4 po...</span></span></span>
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_memory_recording_mis_a2a9c2_fair_lineup_procedur_9c0697-Illustration-2-dark.svg" | relative_url }}" alt="Fair Lineups illustration 2" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_memory_recording_mis_a2a9c2_fair_lineup_procedur_9c0697-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_memory_recording_mis_a2a9c2_fair_lineup_procedur_9c0697-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Why fillers are more important than many people realise
 
 Fillers are not just background faces. They are a core safeguard.
 
-A witness who cannot clearly remember the offender may still feel pressure to choose someone. Fillers help reveal that uncertainty. If the witness selects a filler, investigators learn that the memory signal may be weak. Without adequate fillers, an innocent suspect can absorb choices that would otherwise have been distributed among multiple similar-looking people. <span class="citation-chip-wrap"><a class="citation-chip" href="https://paloaltou.edu/resources/translating-research-into-practice-blog/foresight-in-blind-line-up-procedures/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: paloaltou.edu">[Palo Alto University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">paloaltou.edu</span><span class="citation-popover-snippet">Palo Alto UniversityForesight in Blind Line-up ProceduresFillers serve to protect innocent suspects from identification from witnesses wh...</span></span></span>
+A witness who cannot clearly remember the offender may still feel pressure to choose someone. Fillers help reveal that uncertainty. If the witness selects a filler, investigators learn that the memory signal may be weak. Without adequate fillers, an innocent suspect can absorb choices that would otherwise have been distributed among multiple similar-looking people.<span class="citation-chip-wrap"><a class="citation-chip" href="https://paloaltou.edu/resources/translating-research-into-practice-blog/foresight-in-blind-line-up-procedures/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: paloaltou.edu">[Palo Alto University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">paloaltou.edu</span><span class="citation-popover-snippet">Palo Alto UniversityForesight in Blind Line-up ProceduresFillers serve to protect innocent suspects from identification from witnesses wh...</span></span></span>
 
-Research has consistently shown that suspect-filler similarity matters. When fillers are poorly matched and the suspect stands out, suspect identifications increase. That increase is not necessarily evidence that witnesses remembered better; it may simply indicate that the lineup pointed them towards one person. Meta-analytic research has found that low-similarity fillers make suspect identifications substantially more likely. <span class="citation-chip-wrap"><a class="citation-chip" href="https://researchportal.port.ac.uk/en/publications/the-effect-of-suspect-filler-similarity-on-eyewitness-identificat" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchportal.port.ac.uk">[University of Portsmouth]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchportal.port.ac.uk</span><span class="citation-popover-title">the effect of suspect filler similarity on eyewitness identificat</span><span class="citation-popover-snippet">University of PortsmouthThe effect of suspect-filler similarity on eyewitness...by RJ Fitzgerald · 2013 · Cited by 200 — Compared with l...</span></span></span>
+Research has consistently shown that suspect-filler similarity matters. When fillers are poorly matched and the suspect stands out, suspect identifications increase. That increase is not necessarily evidence that witnesses remembered better; it may simply indicate that the lineup pointed them towards one person. Meta-analytic research has found that low-similarity fillers make suspect identifications substantially more likely.<span class="citation-chip-wrap"><a class="citation-chip" href="https://researchportal.port.ac.uk/en/publications/the-effect-of-suspect-filler-similarity-on-eyewitness-identificat" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchportal.port.ac.uk">[University of Portsmouth]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchportal.port.ac.uk</span><span class="citation-popover-title">the effect of suspect filler similarity on eyewitness identificat</span><span class="citation-popover-snippet">University of PortsmouthThe effect of suspect-filler similarity on eyewitness...by RJ Fitzgerald · 2013 · Cited by 200 — Compared with l...</span></span></span>
 
-Modern recommendations therefore favour fillers matched to the witness's description of the offender rather than fillers selected merely because they resemble the suspect. This approach helps ensure that the lineup tests the witness's memory of the crime rather than the police theory of the case. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9588117/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Using objective measures to examine the effect of suspect...by GL McKinley · 2022 · Cited by 4 — This research argues that eyewitness...</span></span></span>
+Modern recommendations therefore favour fillers matched to the witness's description of the offender rather than fillers selected merely because they resemble the suspect. This approach helps ensure that the lineup tests the witness's memory of the crime rather than the police theory of the case.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9588117/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Using objective measures to examine the effect of suspect...by GL McKinley · 2022 · Cited by 4 — This research argues that eyewitness...</span></span></span>
 
 ## Recording First Statements Before Feedback
 
 The first reaction from a witness often has special value because it occurs before memory is reshaped by discussion, confirmation or doubt.
 
-For that reason, many reforms recommend obtaining a confidence statement immediately after an identification. Witnesses are asked, in their own words, how certain they are. The statement is recorded before anyone tells them whether they chose the suspect, before prosecutors become involved and before repeated retellings strengthen the memory. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.innocenceproject.org/wp-content/uploads/2016/02/NAS-Report-ID.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: innocenceproject.org">[Innocence Project]</a><span class="citation-popover" role="note"><span class="citation-popover-source">innocenceproject.org</span><span class="citation-popover-snippet">G. Dobolyi and C. S. Dodson, “Eyewitness. Confidence in Simultaneous and Sequential Lineups: A Criterion Shift Account for Sequential. Mi...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://s3.us-east-2.amazonaws.com/assets.dps.mn.gov/s3fs-public/migrated-files/divisions/bca/bca-divisions/investigations/Documents/IACP-Eyewitness-Identification-policy.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: s3.us-east-2.amazonaws.com">[Amazon Web Services, Inc.]</a><span class="citation-popover" role="note"><span class="citation-popover-source">s3.us-east-2.amazonaws.com</span><span class="citation-popover-snippet">Eyewitness IdentificationConfidence Statement: A statement in the witness&#x27;s own words taken immediately after an identification is made s...</span></span></span>
+For that reason, many reforms recommend obtaining a confidence statement immediately after an identification. Witnesses are asked, in their own words, how certain they are. The statement is recorded before anyone tells them whether they chose the suspect, before prosecutors become involved and before repeated retellings strengthen the memory.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.innocenceproject.org/wp-content/uploads/2016/02/NAS-Report-ID.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: innocenceproject.org">[Innocence Project]</a><span class="citation-popover" role="note"><span class="citation-popover-source">innocenceproject.org</span><span class="citation-popover-snippet">G. Dobolyi and C. S. Dodson, “Eyewitness. Confidence in Simultaneous and Sequential Lineups: A Criterion Shift Account for Sequential. Mi...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://s3.us-east-2.amazonaws.com/assets.dps.mn.gov/s3fs-public/migrated-files/divisions/bca/bca-divisions/investigations/Documents/IACP-Eyewitness-Identification-policy.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: s3.us-east-2.amazonaws.com">[Amazon Web Services, Inc.]</a><span class="citation-popover" role="note"><span class="citation-popover-source">s3.us-east-2.amazonaws.com</span><span class="citation-popover-snippet">Eyewitness IdentificationConfidence Statement: A statement in the witness&#x27;s own words taken immediately after an identification is made s...</span></span></span>
 
-This recommendation emerged partly because of evidence on post-identification feedback. Studies have shown that confirming feedback can alter how witnesses describe their experience. After being told they selected the suspect or did a good job, witnesses may report greater confidence, better viewing conditions and stronger memories than they originally expressed. The feedback does not simply change what they say publicly; it can change how they remember their own certainty. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S2211368113000569" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Instructions to witnesses that suggest...Read more...</span></span></span>
+This recommendation emerged partly because of evidence on post-identification feedback. Studies have shown that confirming feedback can alter how witnesses describe their experience. After being told they selected the suspect or did a good job, witnesses may report greater confidence, better viewing conditions and stronger memories than they originally expressed. The feedback does not simply change what they say publicly; it can change how they remember their own certainty.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S2211368113000569" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Instructions to witnesses that suggest...Read more...</span></span></span>
 
 Recording the initial statement creates a snapshot of memory before those later influences take effect. In court, that early record can provide a more reliable indicator than confidence expressed months or years later.
 
@@ -337,199 +337,199 @@ A common misconception is that a lineup exists to confirm that police have found
 
 The purpose of a lineup is to test a hypothesis. Police may suspect a particular person, but the lineup should determine whether the witness's memory independently supports that suspicion. A fair lineup therefore protects both accurate identifications and innocent suspects.
 
-This perspective explains why reforms often appear counterintuitive. Procedures that reduce suggestive influence may produce fewer suspect identifications overall. Yet researchers argue that a reduction in questionable identifications is not a flaw. If a lineup is functioning properly, it should distinguish between strong memory and weak memory rather than maximise the number of selections. <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/1745691612443368" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-title">Sage Journals Eyewitness Identification Reforms</span><span class="citation-popover-snippet">Wells, Nancy K....Eyewitness identification evidence should be based solely on the independent memory of the witness, not aided by biase...</span></span></span>
+This perspective explains why reforms often appear counterintuitive. Procedures that reduce suggestive influence may produce fewer suspect identifications overall. Yet researchers argue that a reduction in questionable identifications is not a flaw. If a lineup is functioning properly, it should distinguish between strong memory and weak memory rather than maximise the number of selections.<span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/1745691612443368" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-title">Sage Journals Eyewitness Identification Reforms</span><span class="citation-popover-snippet">Wells, Nancy K....Eyewitness identification evidence should be based solely on the independent memory of the witness, not aided by biase...</span></span></span>
 
-The National Academies review and subsequent reform efforts have repeatedly emphasised that eyewitness identification should be treated as a measurement process. Like any scientific test, its value depends on limiting contamination. Fair lineups do not guarantee accuracy, but they improve the odds that an identification reflects what the witness actually remembers instead of what the procedure suggested. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalacademies.org/read/18891/chapter/8" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalacademies.org">[National Academies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalacademies.org</span><span class="citation-popover-snippet">Findings and Recommendations. Eyewitnesses make mistakes. Our understanding of how to improve the accuracy of eyewitness identifications...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.innocenceproject.org/wp-content/uploads/2016/02/NAS-Report-ID.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: innocenceproject.org">[Innocence]</a><span class="citation-popover" role="note"><span class="citation-popover-source">innocenceproject.org</span><span class="citation-popover-snippet">G. Dobolyi and C. S. Dodson, “Eyewitness. Confidence in Simultaneous and Sequential Lineups: A Criterion Shift Account for Sequential. Mi...</span></span></span>
+The National Academies review and subsequent reform efforts have repeatedly emphasised that eyewitness identification should be treated as a measurement process. Like any scientific test, its value depends on limiting contamination. Fair lineups do not guarantee accuracy, but they improve the odds that an identification reflects what the witness actually remembers instead of what the procedure suggested.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalacademies.org/read/18891/chapter/8" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalacademies.org">[National Academies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalacademies.org</span><span class="citation-popover-snippet">Findings and Recommendations. Eyewitnesses make mistakes. Our understanding of how to improve the accuracy of eyewitness identifications...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.innocenceproject.org/wp-content/uploads/2016/02/NAS-Report-ID.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: innocenceproject.org">[Innocence]</a><span class="citation-popover" role="note"><span class="citation-popover-source">innocenceproject.org</span><span class="citation-popover-snippet">G. Dobolyi and C. S. Dodson, “Eyewitness. Confidence in Simultaneous and Sequential Lineups: A Criterion Shift Account for Sequential. Mi...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Makes an Eyewitness Lineup Fair?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Makes an Eyewitness Lineup Fair?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Eyewitness+Testimony+by+Elizabeth+F.+Loftus&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Eyewitness Testimony on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=WgcsAQAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Eyewitness Testimony" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Eyewitness+Testimony+by+Elizabeth+F.+Loftus&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Eyewitness Testimony">Eyewitness Testimony</a>
-        </h4>
-        <p class="fr-book-author">By Elizabeth F. Loftus, James M. Doyle</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Eyewitness+Testimony+by+Elizabeth+F.+Loftus&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Eyewitness Testimony on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=WgcsAQAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Eyewitness Testimony" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Eyewitness+Testimony+by+Elizabeth+F.+Loftus&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Eyewitness Testimony">Eyewitness Testimony</a>
+</h4>
+<p class="fr-book-author">By Elizabeth F. Loftus, James M. Doyle</p>
         
-        <p class="fr-book-desc">Provides essential context for lineup procedures and identification.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Eyewitness+Testimony+by+Elizabeth+F.+Loftus&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides essential context for lineup procedures and identification.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Eyewitness+Testimony+by+Elizabeth+F.+Loftus&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Witness+for+the+Defense+by+Elizabeth+F.+Loftus&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Witness for the Defense on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=IXWyHFyMD4MC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Witness for the Defense" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Witness+for+the+Defense+by+Elizabeth+F.+Loftus&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Witness for the Defense">Witness for the Defense</a>
-        </h4>
-        <p class="fr-book-author">By Elizabeth F. Loftus, Katherine Ketcham</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Witness+for+the+Defense+by+Elizabeth+F.+Loftus&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Witness for the Defense on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=IXWyHFyMD4MC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Witness for the Defense" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Witness+for+the+Defense+by+Elizabeth+F.+Loftus&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Witness for the Defense">Witness for the Defense</a>
+</h4>
+<p class="fr-book-author">By Elizabeth F. Loftus, Katherine Ketcham</p>
         
-        <p class="fr-book-desc">Shows how flawed procedures can affect testimony.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Witness+for+the+Defense+by+Elizabeth+F.+Loftus&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows how flawed procedures can affect testimony.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Witness+for+the+Defense+by+Elizabeth+F.+Loftus&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Seven+Sins+of+Memory+by+Daniel+L.+Schacter&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Seven Sins of Memory on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=m8qMjPF1NYAC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Seven Sins of Memory" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Seven+Sins+of+Memory+by+Daniel+L.+Schacter&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Seven Sins of Memory">The Seven Sins of Memory</a>
-        </h4>
-        <p class="fr-book-author">By Daniel L. Schacter</p>
-        <p class="fr-book-popularity">Rating: 3.5/5 from 5 Google Books ratings</p>
-        <p class="fr-book-desc">Explains vulnerabilities that lineup procedures must account for.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Seven+Sins+of+Memory+by+Daniel+L.+Schacter&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Seven+Sins+of+Memory+by+Daniel+L.+Schacter&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Seven Sins of Memory on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=m8qMjPF1NYAC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Seven Sins of Memory" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Seven+Sins+of+Memory+by+Daniel+L.+Schacter&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Seven Sins of Memory">The Seven Sins of Memory</a>
+</h4>
+<p class="fr-book-author">By Daniel L. Schacter</p>
+<p class="fr-book-popularity">Rating: 3.5/5 from 5 Google Books ratings</p>
+<p class="fr-book-desc">Explains vulnerabilities that lineup procedures must account for.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Seven+Sins+of+Memory+by+Daniel+L.+Schacter&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YGPzXWanppcC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
-        </h4>
-        <p class="fr-book-author">By Daniel Kahneman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YGPzXWanppcC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
+</h4>
+<p class="fr-book-author">By Daniel Kahneman</p>
         
-        <p class="fr-book-desc">Relevant to decision-making and confidence in identification.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Relevant to decision-making and confidence in identification.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Eyewitness+Testimony&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Eyewitness Testimony</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Witness+for+the+Defense&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Witness for the Defense</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Seven+Sins+of+Memory&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Seven Sins of Memory</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Eyewitness+Testimony&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Eyewitness Testimony</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Witness+for+the+Defense&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Witness for the Defense</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Seven+Sins+of+Memory&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Seven Sins of Memory</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fair-lineups-what-makes-an-eyewitness-lineup-fair-myths-and-misconcept-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster" data-ebay-reference="fair-lineups-what-makes-an-eyewitness-lineup-fair-myths-and-misconcept-science-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Snellen Eye Chart Optician Glasses Test Science Poster | A5-A1 | Wall Poster"><img src="{{ '/assets/images/marketplace-covers/44585abe482a25573224.jpg' | relative_url }}" alt="Listing image for Snellen Eye Chart Optician Glasses Test Science Poster | A5-A1 | Wall Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fair-lineups-what-makes-an-eyewitness-lineup-fair-myths-and-misconcept-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster" data-ebay-reference="fair-lineups-what-makes-an-eyewitness-lineup-fair-myths-and-misconcept-science-poster" target="_blank" rel="sponsored noopener noreferrer">Snellen Eye Chart Optician Glasses Test Science Poster | A5-A1 | Wall Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fair-lineups-what-makes-an-eyewitness-lineup-fair-myths-and-misconcept-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster" data-ebay-reference="fair-lineups-what-makes-an-eyewitness-lineup-fair-myths-and-misconcept-science-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: science poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fair-lineups-what-makes-an-eyewitness-lineup-fair-myths-and-misconcept-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster" data-ebay-reference="fair-lineups-what-makes-an-eyewitness-lineup-fair-myths-and-misconcept-science-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fair-lineups-what-makes-an-eyewitness-lineup-fair-myths-and-misconcept-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster" data-ebay-reference="fair-lineups-what-makes-an-eyewitness-lineup-fair-myths-and-misconcept-science-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Snellen Eye Chart Optician Glasses Test Science Poster | A5-A1 | Wall Poster"><img src="{{ '/assets/images/marketplace-covers/44585abe482a25573224.jpg' | relative_url }}" alt="Listing image for Snellen Eye Chart Optician Glasses Test Science Poster | A5-A1 | Wall Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fair-lineups-what-makes-an-eyewitness-lineup-fair-myths-and-misconcept-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster" data-ebay-reference="fair-lineups-what-makes-an-eyewitness-lineup-fair-myths-and-misconcept-science-poster" target="_blank" rel="sponsored noopener noreferrer">Snellen Eye Chart Optician Glasses Test Science Poster | A5-A1 | Wall Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fair-lineups-what-makes-an-eyewitness-lineup-fair-myths-and-misconcept-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster" data-ebay-reference="fair-lineups-what-makes-an-eyewitness-lineup-fair-myths-and-misconcept-science-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: science poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fair-lineups-what-makes-an-eyewitness-lineup-fair-myths-and-misconcept-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster" data-ebay-reference="fair-lineups-what-makes-an-eyewitness-lineup-fair-myths-and-misconcept-science-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fair-lineups-what-makes-an-eyewitness-lineup-fair-myths-and-misconcept-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster" data-ebay-reference="fair-lineups-what-makes-an-eyewitness-lineup-fair-myths-and-misconcept-science-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Periodic Table of Elements Poster For Kids, LAMINATED, Science &amp; Chemistry Chart"><img src="{{ '/assets/images/marketplace-covers/2d540458477f76b2be20.jpg' | relative_url }}" alt="Listing image for Periodic Table of Elements Poster For Kids, LAMINATED, Science &amp; Chemistry Chart" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fair-lineups-what-makes-an-eyewitness-lineup-fair-myths-and-misconcept-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster" data-ebay-reference="fair-lineups-what-makes-an-eyewitness-lineup-fair-myths-and-misconcept-science-poster" target="_blank" rel="sponsored noopener noreferrer">Periodic Table of Elements Poster For Kids, LAMINATED, Science &amp; Chemistry Chart</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fair-lineups-what-makes-an-eyewitness-lineup-fair-myths-and-misconcept-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster" data-ebay-reference="fair-lineups-what-makes-an-eyewitness-lineup-fair-myths-and-misconcept-science-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: science poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fair-lineups-what-makes-an-eyewitness-lineup-fair-myths-and-misconcept-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster" data-ebay-reference="fair-lineups-what-makes-an-eyewitness-lineup-fair-myths-and-misconcept-science-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fair-lineups-what-makes-an-eyewitness-lineup-fair-myths-and-misconcept-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster" data-ebay-reference="fair-lineups-what-makes-an-eyewitness-lineup-fair-myths-and-misconcept-science-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Periodic Table of Elements Poster For Kids, LAMINATED, Science &amp; Chemistry Chart"><img src="{{ '/assets/images/marketplace-covers/2d540458477f76b2be20.jpg' | relative_url }}" alt="Listing image for Periodic Table of Elements Poster For Kids, LAMINATED, Science &amp; Chemistry Chart" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fair-lineups-what-makes-an-eyewitness-lineup-fair-myths-and-misconcept-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster" data-ebay-reference="fair-lineups-what-makes-an-eyewitness-lineup-fair-myths-and-misconcept-science-poster" target="_blank" rel="sponsored noopener noreferrer">Periodic Table of Elements Poster For Kids, LAMINATED, Science &amp; Chemistry Chart</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fair-lineups-what-makes-an-eyewitness-lineup-fair-myths-and-misconcept-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster" data-ebay-reference="fair-lineups-what-makes-an-eyewitness-lineup-fair-myths-and-misconcept-science-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: science poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fair-lineups-what-makes-an-eyewitness-lineup-fair-myths-and-misconcept-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster" data-ebay-reference="fair-lineups-what-makes-an-eyewitness-lineup-fair-myths-and-misconcept-science-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fair-lineups-what-makes-an-eyewitness-lineup-fair-myths-and-misconcept-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster" data-ebay-reference="fair-lineups-what-makes-an-eyewitness-lineup-fair-myths-and-misconcept-science-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Funny Science Poster Can I Lick It Periodic Table Print Chemistry Wall Art Nerd"><img src="{{ '/assets/images/marketplace-covers/7b9530e3e70391be5ab3.jpg' | relative_url }}" alt="Listing image for Funny Science Poster Can I Lick It Periodic Table Print Chemistry Wall Art Nerd" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fair-lineups-what-makes-an-eyewitness-lineup-fair-myths-and-misconcept-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster" data-ebay-reference="fair-lineups-what-makes-an-eyewitness-lineup-fair-myths-and-misconcept-science-poster" target="_blank" rel="sponsored noopener noreferrer">Funny Science Poster Can I Lick It Periodic Table Print Chemistry Wall Art Nerd</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fair-lineups-what-makes-an-eyewitness-lineup-fair-myths-and-misconcept-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster" data-ebay-reference="fair-lineups-what-makes-an-eyewitness-lineup-fair-myths-and-misconcept-science-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: science poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fair-lineups-what-makes-an-eyewitness-lineup-fair-myths-and-misconcept-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster" data-ebay-reference="fair-lineups-what-makes-an-eyewitness-lineup-fair-myths-and-misconcept-science-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fair-lineups-what-makes-an-eyewitness-lineup-fair-myths-and-misconcept-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster" data-ebay-reference="fair-lineups-what-makes-an-eyewitness-lineup-fair-myths-and-misconcept-science-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Funny Science Poster Can I Lick It Periodic Table Print Chemistry Wall Art Nerd"><img src="{{ '/assets/images/marketplace-covers/7b9530e3e70391be5ab3.jpg' | relative_url }}" alt="Listing image for Funny Science Poster Can I Lick It Periodic Table Print Chemistry Wall Art Nerd" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fair-lineups-what-makes-an-eyewitness-lineup-fair-myths-and-misconcept-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster" data-ebay-reference="fair-lineups-what-makes-an-eyewitness-lineup-fair-myths-and-misconcept-science-poster" target="_blank" rel="sponsored noopener noreferrer">Funny Science Poster Can I Lick It Periodic Table Print Chemistry Wall Art Nerd</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fair-lineups-what-makes-an-eyewitness-lineup-fair-myths-and-misconcept-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster" data-ebay-reference="fair-lineups-what-makes-an-eyewitness-lineup-fair-myths-and-misconcept-science-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: science poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fair-lineups-what-makes-an-eyewitness-lineup-fair-myths-and-misconcept-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster" data-ebay-reference="fair-lineups-what-makes-an-eyewitness-lineup-fair-myths-and-misconcept-science-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fair-lineups-what-makes-an-eyewitness-lineup-fair-myths-and-misconcept-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster" data-ebay-reference="fair-lineups-what-makes-an-eyewitness-lineup-fair-myths-and-misconcept-science-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Periodic table with elements poster Science Wall Chart UPDATED Education Poster"><img src="{{ '/assets/images/marketplace-covers/4353dda57fefeae45a72.jpg' | relative_url }}" alt="Listing image for Periodic table with elements poster Science Wall Chart UPDATED Education Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fair-lineups-what-makes-an-eyewitness-lineup-fair-myths-and-misconcept-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster" data-ebay-reference="fair-lineups-what-makes-an-eyewitness-lineup-fair-myths-and-misconcept-science-poster" target="_blank" rel="sponsored noopener noreferrer">Periodic table with elements poster Science Wall Chart UPDATED Education Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fair-lineups-what-makes-an-eyewitness-lineup-fair-myths-and-misconcept-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster" data-ebay-reference="fair-lineups-what-makes-an-eyewitness-lineup-fair-myths-and-misconcept-science-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: science poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fair-lineups-what-makes-an-eyewitness-lineup-fair-myths-and-misconcept-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster" data-ebay-reference="fair-lineups-what-makes-an-eyewitness-lineup-fair-myths-and-misconcept-science-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fair-lineups-what-makes-an-eyewitness-lineup-fair-myths-and-misconcept-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster" data-ebay-reference="fair-lineups-what-makes-an-eyewitness-lineup-fair-myths-and-misconcept-science-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fair-lineups-what-makes-an-eyewitness-lineup-fair-myths-and-misconcept-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster" data-ebay-reference="fair-lineups-what-makes-an-eyewitness-lineup-fair-myths-and-misconcept-science-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Periodic table with elements poster Science Wall Chart UPDATED Education Poster"><img src="{{ '/assets/images/marketplace-covers/4353dda57fefeae45a72.jpg' | relative_url }}" alt="Listing image for Periodic table with elements poster Science Wall Chart UPDATED Education Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fair-lineups-what-makes-an-eyewitness-lineup-fair-myths-and-misconcept-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster" data-ebay-reference="fair-lineups-what-makes-an-eyewitness-lineup-fair-myths-and-misconcept-science-poster" target="_blank" rel="sponsored noopener noreferrer">Periodic table with elements poster Science Wall Chart UPDATED Education Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fair-lineups-what-makes-an-eyewitness-lineup-fair-myths-and-misconcept-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster" data-ebay-reference="fair-lineups-what-makes-an-eyewitness-lineup-fair-myths-and-misconcept-science-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: science poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fair-lineups-what-makes-an-eyewitness-lineup-fair-myths-and-misconcept-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster" data-ebay-reference="fair-lineups-what-makes-an-eyewitness-lineup-fair-myths-and-misconcept-science-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fair-lineups-what-makes-an-eyewitness-lineup-fair-myths-and-misconcept-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster" data-ebay-reference="fair-lineups-what-makes-an-eyewitness-lineup-fair-myths-and-misconcept-science-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -545,7 +545,7 @@ The National Academies review and subsequent reform efforts have repeatedly emph
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -565,7 +565,7 @@ The National Academies review and subsequent reform efforts have repeatedly emph
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -597,7 +597,7 @@ The National Academies review and subsequent reform efforts have repeatedly emph
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -649,7 +649,7 @@ The National Academies review and subsequent reform efforts have repeatedly emph
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -694,7 +694,7 @@ The National Academies review and subsequent reform efforts have repeatedly emph
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -735,182 +735,182 @@ The National Academies review and subsequent reform efforts have repeatedly emph
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: pnas.org  
-   Link: <a href="https://www.pnas.org/doi/10.1073/pnas.1516814112" target="_blank" rel="noopener noreferrer nofollow">https://www.pnas.org/doi/10.1073/pnas.1516814112</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Estimating the reliability of eyewitness identifications from...Our findings suggest that (i) confidence in an eyewitness identifica...</p></details>
+   Link:<a href="https://www.pnas.org/doi/10.1073/pnas.1516814112" target="_blank" rel="noopener noreferrer nofollow">https://www.pnas.org/doi/10.1073/pnas.1516814112</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Estimating the reliability of eyewitness identifications from...Our findings suggest that (i) confidence in an eyewitness identifica...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S2211368113000569" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S2211368113000569</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Instructions to witnesses that suggest...Read more...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/abs/pii/S2211368113000569" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S2211368113000569</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Instructions to witnesses that suggest...Read more...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6876419/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC6876419/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Can Lineup Administrators Blind to the Suspect&#x27;s Identity...by NA McCallum · 2017 · Cited by 3 — Yet, it has been found that a lineup...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6876419/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC6876419/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Can Lineup Administrators Blind to the Suspect&#x27;s Identity...by NA McCallum · 2017 · Cited by 3 — Yet, it has been found that a lineup...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: sciencedirect.com  
    Title: If the suspect is the culprit, the lineup is said  
-   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0749596X24000846" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0749596X24000846</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Protecting the innocent in eyewitness identificationby MD Tuttle · 2025 · Cited by 4 — The lineup consists of the suspect an...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/abs/pii/S0749596X24000846" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0749596X24000846</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Protecting the innocent in eyewitness identificationby MD Tuttle · 2025 · Cited by 4 — The lineup consists of the suspect an...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9588117/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9588117/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Using objective measures to examine the effect of suspect...by GL McKinley · 2022 · Cited by 4 — This research argues that eyewitness...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9588117/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9588117/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Using objective measures to examine the effect of suspect...by GL McKinley · 2022 · Cited by 4 — This research argues that eyewitness...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0010027724001628?dgcid=rss_sd_all" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0010027724001628?dgcid=rss_sd_all</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Comparing human evaluations of eyewitness statements to...by JH Grabman · 2024 · Cited by 9 — Compares an ML classifier to humans&#x27; abili...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/abs/pii/S0010027724001628?dgcid=rss_sd_all" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0010027724001628?dgcid=rss_sd_all</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Comparing human evaluations of eyewitness statements to...by JH Grabman · 2024 · Cited by 9 — Compares an ML classifier to humans&#x27; abili...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/pii/S2211368120301236" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S2211368120301236</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Changing the Face of Police Lineups: Delivering More...by N Brewer · 2021 · Cited by 41 — The data from the 11 studies of real lineups d...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/pii/S2211368120301236" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S2211368120301236</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Changing the Face of Police Lineups: Delivering More...by N Brewer · 2021 · Cited by 41 — The data from the 11 studies of real lineups d...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: eyewitness.global  
-   Link: <a href="https://www.eyewitness.global/" target="_blank" rel="noopener noreferrer nofollow">https://www.eyewitness.global/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>WelcomeThe eyeWitness to Atrocities app lets you capture photos and videos with embedded metadata to verify their authentici...</p></details>
+   Link:<a href="https://www.eyewitness.global/" target="_blank" rel="noopener noreferrer nofollow">https://www.eyewitness.global/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>WelcomeThe eyeWitness to Atrocities app lets you capture photos and videos with embedded metadata to verify their authentici...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0749596X26000148" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0749596X26000148</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Suspect-filler similarity: replicating distinctive features in...by G Harris · 2026 — A recent large-scale study found that description...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/pii/S0749596X26000148" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0749596X26000148</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Suspect-filler similarity: replicating distinctive features in...by G Harris · 2026 — A recent large-scale study found that description...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: journals.sagepub.com  
    Title: Sage Journals Eyewitness Identification Reforms  
-   Link: <a href="https://journals.sagepub.com/doi/10.1177/1745691612443368" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/1745691612443368</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Wells, Nancy K....Eyewitness identification evidence should be based solely on the independent memory of the witness, not aided by biase...</p></details>
+   Link:<a href="https://journals.sagepub.com/doi/10.1177/1745691612443368" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/1745691612443368</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Wells, Nancy K....Eyewitness identification evidence should be based solely on the independent memory of the witness, not aided by biase...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: nationalacademies.org  
-   Link: <a href="https://www.nationalacademies.org/read/18891/chapter/8" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalacademies.org/read/18891/chapter/8</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Findings and Recommendations. Eyewitnesses make mistakes. Our understanding of how to improve the accuracy of eyewitness identifications...</p></details>
+   Link:<a href="https://www.nationalacademies.org/read/18891/chapter/8" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalacademies.org/read/18891/chapter/8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Findings and Recommendations. Eyewitnesses make mistakes. Our understanding of how to improve the accuracy of eyewitness identifications...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: innocenceproject.org  
-   Link: <a href="https://www.innocenceproject.org/wp-content/uploads/2016/02/NAS-Report-ID.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.innocenceproject.org/wp-content/uploads/2016/02/NAS-Report-ID.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>G. Dobolyi and C. S. Dodson, “Eyewitness. Confidence in Simultaneous and Sequential Lineups: A Criterion Shift Account for Sequential. Mi...</p></details>
+   Link:<a href="https://www.innocenceproject.org/wp-content/uploads/2016/02/NAS-Report-ID.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.innocenceproject.org/wp-content/uploads/2016/02/NAS-Report-ID.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>G. Dobolyi and C. S. Dodson, “Eyewitness. Confidence in Simultaneous and Sequential Lineups: A Criterion Shift Account for Sequential. Mi...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: innocenceproject.org  
-   Link: <a href="https://innocenceproject.org/news/national-academy-of-sciences-issues-landmark-report-on-memory-and-eyewitness-identification/" target="_blank" rel="noopener noreferrer nofollow">https://innocenceproject.org/news/national-academy-of-sciences-issues-landmark-report-on-memory-and-eyewitness-identification/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Innocence ProjectNational Academy of Sciences Issues Landmark Report on...2 Oct 2014 — Confidence Statements — Immediately following a l...</p></details>
+   Link:<a href="https://innocenceproject.org/news/national-academy-of-sciences-issues-landmark-report-on-memory-and-eyewitness-identification/" target="_blank" rel="noopener noreferrer nofollow">https://innocenceproject.org/news/national-academy-of-sciences-issues-landmark-report-on-memory-and-eyewitness-identification/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Innocence ProjectNational Academy of Sciences Issues Landmark Report on...2 Oct 2014 — Confidence Statements — Immediately following a l...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: s3.us-east-2.amazonaws.com  
-   Link: <a href="https://s3.us-east-2.amazonaws.com/assets.dps.mn.gov/s3fs-public/migrated-files/divisions/bca/bca-divisions/investigations/Documents/IACP-Eyewitness-Identification-policy.pdf" target="_blank" rel="noopener noreferrer nofollow">https://s3.us-east-2.amazonaws.com/assets.dps.mn.gov/s3fs-public/migrated-files/divisions/bca/bca-divisions/investigations/Documents/IACP-Eyewitness-Identification-policy.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Eyewitness IdentificationConfidence Statement: A statement in the witness&#x27;s own words taken immediately after an identification is made s...</p></details>
+   Link:<a href="https://s3.us-east-2.amazonaws.com/assets.dps.mn.gov/s3fs-public/migrated-files/divisions/bca/bca-divisions/investigations/Documents/IACP-Eyewitness-Identification-policy.pdf" target="_blank" rel="noopener noreferrer nofollow">https://s3.us-east-2.amazonaws.com/assets.dps.mn.gov/s3fs-public/migrated-files/divisions/bca/bca-divisions/investigations/Documents/IACP-Eyewitness-Identification-policy.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Eyewitness IdentificationConfidence Statement: A statement in the witness&#x27;s own words taken immediately after an identification is made s...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/24933175/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/24933175/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Double-blind photo lineups using actual eyewitnessesby GL Wells · 2015 · Cited by 208 — Eyewitnesses (494) to actual crimes in 4 po...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/24933175/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/24933175/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Double-blind photo lineups using actual eyewitnessesby GL Wells · 2015 · Cited by 208 — Eyewitnesses (494) to actual crimes in 4 po...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: paloaltou.edu  
-   Link: <a href="https://paloaltou.edu/resources/translating-research-into-practice-blog/foresight-in-blind-line-up-procedures/" target="_blank" rel="noopener noreferrer nofollow">https://paloaltou.edu/resources/translating-research-into-practice-blog/foresight-in-blind-line-up-procedures/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Palo Alto UniversityForesight in Blind Line-up ProceduresFillers serve to protect innocent suspects from identification from witnesses wh...</p></details>
+   Link:<a href="https://paloaltou.edu/resources/translating-research-into-practice-blog/foresight-in-blind-line-up-procedures/" target="_blank" rel="noopener noreferrer nofollow">https://paloaltou.edu/resources/translating-research-into-practice-blog/foresight-in-blind-line-up-procedures/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Palo Alto UniversityForesight in Blind Line-up ProceduresFillers serve to protect innocent suspects from identification from witnesses wh...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: researchportal.port.ac.uk  
    Title: the effect of suspect filler similarity on eyewitness identificat  
-   Link: <a href="https://researchportal.port.ac.uk/en/publications/the-effect-of-suspect-filler-similarity-on-eyewitness-identificat" target="_blank" rel="noopener noreferrer nofollow">https://researchportal.port.ac.uk/en/publications/the-effect-of-suspect-filler-similarity-on-eyewitness-identificat</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>University of PortsmouthThe effect of suspect-filler similarity on eyewitness...by RJ Fitzgerald · 2013 · Cited by 200 — Compared with l...</p></details>
+   Link:<a href="https://researchportal.port.ac.uk/en/publications/the-effect-of-suspect-filler-similarity-on-eyewitness-identificat" target="_blank" rel="noopener noreferrer nofollow">https://researchportal.port.ac.uk/en/publications/the-effect-of-suspect-filler-similarity-on-eyewitness-identificat</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>University of PortsmouthThe effect of suspect-filler similarity on eyewitness...by RJ Fitzgerald · 2013 · Cited by 200 — Compared with l...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: nationalacademies.org  
    Title: using science to improve eyewitness testimony  
-   Link: <a href="https://www.nationalacademies.org/news/using-science-to-improve-eyewitness-testimony" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalacademies.org/news/using-science-to-improve-eyewitness-testimony</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>24 Jan 2020 — Five years after a landmark National Academies report on eyewitness identification, a lead author reflects on its impact.Re...</p></details>
+   Link:<a href="https://www.nationalacademies.org/news/using-science-to-improve-eyewitness-testimony" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalacademies.org/news/using-science-to-improve-eyewitness-testimony</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>24 Jan 2020 — Five years after a landmark National Academies report on eyewitness identification, a lead author reflects on its impact.Re...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: sites.nationalacademies.org  
    Title: pga 152283  
-   Link: <a href="https://sites.nationalacademies.org/cs/groups/pgasite/documents/webpage/pga_152283.pdf" target="_blank" rel="noopener noreferrer nofollow">https://sites.nationalacademies.org/cs/groups/pgasite/documents/webpage/pga_152283.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>nationalacademies.orgReport2 Oct 2014 — Whenever the eyewitness identifies a suspect in the courtroom, juries should hear detailed inform...</p></details>
+   Link:<a href="https://sites.nationalacademies.org/cs/groups/pgasite/documents/webpage/pga_152283.pdf" target="_blank" rel="noopener noreferrer nofollow">https://sites.nationalacademies.org/cs/groups/pgasite/documents/webpage/pga_152283.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>nationalacademies.orgReport2 Oct 2014 — Whenever the eyewitness identifies a suspect in the courtroom, juries should hear detailed inform...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: sites.nationalacademies.org  
    Title: PGA 086967  
-   Link: <a href="https://sites.nationalacademies.org/pga/PGA_086967" target="_blank" rel="noopener noreferrer nofollow">https://sites.nationalacademies.org/pga/PGA_086967</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Coverage: Eyewitness ID - National AcademiesA new report from the National Research Council urges police and the courts to use caution in...</p></details>
+   Link:<a href="https://sites.nationalacademies.org/pga/PGA_086967" target="_blank" rel="noopener noreferrer nofollow">https://sites.nationalacademies.org/pga/PGA_086967</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Coverage: Eyewitness ID - National AcademiesA new report from the National Research Council urges police and the courts to use caution in...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: paloaltou.edu  
-   Link: <a href="https://paloaltou.edu/resources/translating-research-into-practice-blog/sequential-lineup-procedure-shows-advantage-over-simultaneous/" target="_blank" rel="noopener noreferrer nofollow">https://paloaltou.edu/resources/translating-research-into-practice-blog/sequential-lineup-procedure-shows-advantage-over-simultaneous/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ntial) identified a known-innocent filler rather than a suspect, indicating...</p></details>
+   Link:<a href="https://paloaltou.edu/resources/translating-research-into-practice-blog/sequential-lineup-procedure-shows-advantage-over-simultaneous/" target="_blank" rel="noopener noreferrer nofollow">https://paloaltou.edu/resources/translating-research-into-practice-blog/sequential-lineup-procedure-shows-advantage-over-simultaneous/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ntial) identified a known-innocent filler rather than a suspect, indicating...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: dictionary.cambridge.org  
-   Link: <a href="https://dictionary.cambridge.org/dictionary/english/eyewitness" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/dictionary/english/eyewitness</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>account According to an eyewitness account, the thieves abandoned their...Read more...</p></details>
+   Link:<a href="https://dictionary.cambridge.org/dictionary/english/eyewitness" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/dictionary/english/eyewitness</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>account According to an eyewitness account, the thieves abandoned their...Read more...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: oro.open.ac.uk  
    Title: open.ac.uk Eyewitness identification procedures  
-   Link: <a href="https://oro.open.ac.uk/77197/1/77197.pdf" target="_blank" rel="noopener noreferrer nofollow">https://oro.open.ac.uk/77197/1/77197.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>identification procedures - Open Research Onlineby G Pike · 2021 · Cited by 8 — The AP/LS recom- mends employing double-blind procedures...</p></details>
+   Link:<a href="https://oro.open.ac.uk/77197/1/77197.pdf" target="_blank" rel="noopener noreferrer nofollow">https://oro.open.ac.uk/77197/1/77197.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>identification procedures - Open Research Onlineby G Pike · 2021 · Cited by 8 — The AP/LS recom- mends employing double-blind procedures...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: player.stv.tv  
-   Link: <a href="https://player.stv.tv/summary/all31-eyewitness" target="_blank" rel="noopener noreferrer nofollow">https://player.stv.tv/summary/all31-eyewitness</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Eyewitness | Stream Free on STV PlayerA fast-paced thriller seen through the eyes of two teenagers. A clandestine meeting between school...</p></details>
+   Link:<a href="https://player.stv.tv/summary/all31-eyewitness" target="_blank" rel="noopener noreferrer nofollow">https://player.stv.tv/summary/all31-eyewitness</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Eyewitness | Stream Free on STV PlayerA fast-paced thriller seen through the eyes of two teenagers. A clandestine meeting between school...</p></details>
 
 ### Additional References
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: ojp.gov  
-   Link: <a href="https://www.ojp.gov/ncjrs/virtual-library/abstracts/double-blind-sequential-police-lineup-procedures-toward-integrated" target="_blank" rel="noopener noreferrer nofollow">https://www.ojp.gov/ncjrs/virtual-library/abstracts/double-blind-sequential-police-lineup-procedures-toward-integrated</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>lineup, can negatively influence eyewitness identification accuracy. The project included two components: a pilot program of double-blind...</p></details>
+   Link:<a href="https://www.ojp.gov/ncjrs/virtual-library/abstracts/double-blind-sequential-police-lineup-procedures-toward-integrated" target="_blank" rel="noopener noreferrer nofollow">https://www.ojp.gov/ncjrs/virtual-library/abstracts/double-blind-sequential-police-lineup-procedures-toward-integrated</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>lineup, can negatively influence eyewitness identification accuracy. The project included two components: a pilot program of double-blind...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: merriam-webster.com  
-   Link: <a href="https://www.merriam-webster.com/dictionary/eyewitness" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/eyewitness</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>EYEWITNESS Definition &amp; Meaning3 days ago — The meaning of EYEWITNESS is one who sees an occurrence or an object; especially: one who gi...</p></details>
+   Link:<a href="https://www.merriam-webster.com/dictionary/eyewitness" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/eyewitness</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>EYEWITNESS Definition &amp; Meaning3 days ago — The meaning of EYEWITNESS is one who sees an occurrence or an object; especially: one who gi...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: rottentomatoes.com  
-   Link: <a href="https://www.rottentomatoes.com/m/1006917-eyewitness" target="_blank" rel="noopener noreferrer nofollow">https://www.rottentomatoes.com/m/1006917-eyewitness</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>EyewitnessEyewitness is a decent film. It is about a janitor who claims he&#x27;s seen a murder and becomes romantically involved with the gla...</p></details>
+   Link:<a href="https://www.rottentomatoes.com/m/1006917-eyewitness" target="_blank" rel="noopener noreferrer nofollow">https://www.rottentomatoes.com/m/1006917-eyewitness</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>EyewitnessEyewitness is a decent film. It is about a janitor who claims he&#x27;s seen a murder and becomes romantically involved with the gla...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: judicature.duke.edu  
-   Link: <a href="https://judicature.duke.edu/articles/a-clearer-view-the-impact-of-the-national-academy-of-sciences-report-on-eyewitness-identification/" target="_blank" rel="noopener noreferrer nofollow">https://judicature.duke.edu/articles/a-clearer-view-the-impact-of-the-national-academy-of-sciences-report-on-eyewitness-identification/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Clearer View: The Impact of the National Academy of...This “sequential lineup,” in which faces are presented one at a time, was predicte...</p></details>
+   Link:<a href="https://judicature.duke.edu/articles/a-clearer-view-the-impact-of-the-national-academy-of-sciences-report-on-eyewitness-identification/" target="_blank" rel="noopener noreferrer nofollow">https://judicature.duke.edu/articles/a-clearer-view-the-impact-of-the-national-academy-of-sciences-report-on-eyewitness-identification/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Clearer View: The Impact of the National Academy of...This “sequential lineup,” in which faces are presented one at a time, was predicte...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: policeforum.org  
-   Link: <a href="https://www.policeforum.org/assets/docs/Free_Online_Documents/Eyewitness_Identification/a%20national%20survey%20of%20eyewitness%20identification%20procedures%20in%20law%20enforcement%20agencies%202013.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.policeforum.org/assets/docs/Free_Online_Documents/Eyewitness_Identification/a%20national%20survey%20of%20eyewitness%20identification%20procedures%20in%20law%20enforcement%20agencies%202013.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>a national survey of eyewitness identification procedures in...by LE Agencies · 2013 · Cited by 1 — In 2011, an initial report was issue...</p></details>
+   Link:<a href="https://www.policeforum.org/assets/docs/Free_Online_Documents/Eyewitness_Identification/a%20national%20survey%20of%20eyewitness%20identification%20procedures%20in%20law%20enforcement%20agencies%202013.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.policeforum.org/assets/docs/Free_Online_Documents/Eyewitness_Identification/a%20national%20survey%20of%20eyewitness%20identification%20procedures%20in%20law%20enforcement%20agencies%202013.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>a national survey of eyewitness identification procedures in...by LE Agencies · 2013 · Cited by 1 — In 2011, an initial report was issue...</p></details>
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: national-lottery.co.uk  
-   Link: <a href="https://www.national-lottery.co.uk/" target="_blank" rel="noopener noreferrer nofollow">https://www.national-lottery.co.uk/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Buy tickets for draw-games like Lotto, EuroMillions and Set For Life. Check results, play Instant Win Games and more...</p></details>
+   Link:<a href="https://www.national-lottery.co.uk/" target="_blank" rel="noopener noreferrer nofollow">https://www.national-lottery.co.uk/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Buy tickets for draw-games like Lotto, EuroMillions and Set For Life. Check results, play Instant Win Games and more...</p></details>
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: ncbi.nlm.nih.gov  
    Title: NCBIReference Guide on Eyewitness Identification  
-   Link: <a href="https://www.ncbi.nlm.nih.gov/books/NBK621592/" target="_blank" rel="noopener noreferrer nofollow">https://www.ncbi.nlm.nih.gov/books/NBK621592/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Implement double-blind lineup and photo array procedures. 3. Develop and use standardized witness instructions. 4. Document witness c...</p></details>
+   Link:<a href="https://www.ncbi.nlm.nih.gov/books/NBK621592/" target="_blank" rel="noopener noreferrer nofollow">https://www.ncbi.nlm.nih.gov/books/NBK621592/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Implement double-blind lineup and photo array procedures. 3. Develop and use standardized witness instructions. 4. Document witness c...</p></details>
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: nationalrail.co.uk  
-   Link: <a href="https://www.nationalrail.co.uk/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalrail.co.uk/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The portal to rail travel, including train times, information, fares enquiries, promotions and tickets...</p></details>
+   Link:<a href="https://www.nationalrail.co.uk/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalrail.co.uk/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The portal to rail travel, including train times, information, fares enquiries, promotions and tickets...</p></details>
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/228178308_Lineups_and_Eyewitness_Identification" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/228178308_Lineups_and_Eyewitness_Identification</a>  
+   Link:<a href="https://www.researchgate.net/publication/228178308_Lineups_and_Eyewitness_Identification" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/228178308_Lineups_and_Eyewitness_Identification</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: news.asu.edu  
    Title: 20240906 science and technology when suspect lineups go wrong  
-   Link: <a href="https://news.asu.edu/20240906-science-and-technology-when-suspect-lineups-go-wrong" target="_blank" rel="noopener noreferrer nofollow">https://news.asu.edu/20240906-science-and-technology-when-suspect-lineups-go-wrong</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>suspect lineups go wrong - ASU News6 Sept 2024 — Suspect-bias factors are problematic because they increase the likelihood that an eyewit...</p></details>
+   Link:<a href="https://news.asu.edu/20240906-science-and-technology-when-suspect-lineups-go-wrong" target="_blank" rel="noopener noreferrer nofollow">https://news.asu.edu/20240906-science-and-technology-when-suspect-lineups-go-wrong</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>suspect lineups go wrong - ASU News6 Sept 2024 — Suspect-bias factors are problematic because they increase the likelihood that an eyewit...</p></details>

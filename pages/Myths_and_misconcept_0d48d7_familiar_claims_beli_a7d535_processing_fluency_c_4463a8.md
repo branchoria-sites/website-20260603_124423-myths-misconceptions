@@ -274,14 +274,14 @@ image: /assets/images/Myths_and_misconcept_0d48d7_familiar_claims_beli_a7d535_pr
 
 ## Introduction
 
-Processing fluency is the mental feeling that something is easy to take in, recognise or remember. In the context of myths and misconceptions, that feeling matters because people often treat ease as a clue. A claim that arrives smoothly can feel more trustworthy than one that requires effort, even when neither claim has been properly checked. This is one of the core mechanisms behind the illusory truth effect: repeated or familiar information becomes easier to process, and that ease can be mistaken for evidence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://link.springer.com/article/10.1186/s41235-021-00301-5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">The effects of repetition frequency on the illusory truth effectby A Hassan · 2021 · Cited by 402 — This finding is known as the...</span></span></span>
+Processing fluency is the mental feeling that something is easy to take in, recognise or remember. In the context of myths and misconceptions, that feeling matters because people often treat ease as a clue. A claim that arrives smoothly can feel more trustworthy than one that requires effort, even when neither claim has been properly checked. This is one of the core mechanisms behind the illusory truth effect: repeated or familiar information becomes easier to process, and that ease can be mistaken for evidence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://link.springer.com/article/10.1186/s41235-021-00301-5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">The effects of repetition frequency on the illusory truth effectby A Hassan · 2021 · Cited by 402 — This finding is known as the...</span></span></span>
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_familiar_claims_beli_a7d535_processing_fluency_c_4463a8-Illustration-1-dark.svg" | relative_url }}" alt="Fluency illustration 1" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_familiar_claims_beli_a7d535_processing_fluency_c_4463a8-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_familiar_claims_beli_a7d535_processing_fluency_c_4463a8-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-The shortcut is usually unconscious. People do not think, “This sentence was easy to read, therefore it is true.” Instead, the brain uses fluency as a rough signal that something is known, familiar or safe. In everyday life that shortcut is often useful. Information that is genuinely familiar is frequently true. The problem is that myths can exploit the same signal. A false claim repeated often enough can begin to produce the same feeling of mental ease as a well-established fact. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S2352250X23001811" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">The illusory truth effect: A review of how repetition...by J Udry · 2024 · Cited by 124 — Repetition increases belief in in...</span></span></span>
+The shortcut is usually unconscious. People do not think, “This sentence was easy to read, therefore it is true.” Instead, the brain uses fluency as a rough signal that something is known, familiar or safe. In everyday life that shortcut is often useful. Information that is genuinely familiar is frequently true. The problem is that myths can exploit the same signal. A false claim repeated often enough can begin to produce the same feeling of mental ease as a well-established fact.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S2352250X23001811" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">The illusory truth effect: A review of how repetition...by J Udry · 2024 · Cited by 124 — Repetition increases belief in in...</span></span></span>
 
 ## What processing fluency means
 
-Processing fluency refers to the subjective ease with which information is handled by the mind. Psychologists distinguish several forms of fluency, but they share a common feature: the brain experiences some information as smoother and less effortful than other information. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Processing_fluency" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Processing fluency</span><span class="citation-popover-snippet">Processing fluency</span></span></span>
+Processing fluency refers to the subjective ease with which information is handled by the mind. Psychologists distinguish several forms of fluency, but they share a common feature: the brain experiences some information as smoother and less effortful than other information.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Processing_fluency" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Processing fluency</span><span class="citation-popover-snippet">Processing fluency</span></span></span>
 
 That ease can come from several sources:
 
@@ -292,21 +292,21 @@ That ease can come from several sources:
 * **Perceptual clarity:** text is easy to read or visually clear.
 * **Simple language:** wording is straightforward and familiar.
 * **Retrieval fluency:** related ideas come quickly to mind.
-* **Recognition:** a name, phrase or claim feels known. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Illusory_truth_effect" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Illusory truth effect</span><span class="citation-popover-snippet">Illusory truth effect</span></span></span>
+* **Recognition:** a name, phrase or claim feels known.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Illusory_truth_effect" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Illusory truth effect</span><span class="citation-popover-snippet">Illusory truth effect</span></span></span>
 
 </div>
 
-The important point is that fluency is a feeling, not a fact-check. The mind experiences smooth processing first and only later, if at all, examines why that smoothness occurred. Because fluent information often corresponds to genuine knowledge in everyday life, people learn to treat ease as a useful heuristic. Most of the time that shortcut works reasonably well. The difficulty arises when familiarity has been manufactured through repetition rather than earned through accuracy. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://link.springer.com/article/10.3758/s13423-025-02836-w" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">repetition increase perceived truth equally for...</span></span></span>
+The important point is that fluency is a feeling, not a fact-check. The mind experiences smooth processing first and only later, if at all, examines why that smoothness occurred. Because fluent information often corresponds to genuine knowledge in everyday life, people learn to treat ease as a useful heuristic. Most of the time that shortcut works reasonably well. The difficulty arises when familiarity has been manufactured through repetition rather than earned through accuracy.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://link.springer.com/article/10.3758/s13423-025-02836-w" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">repetition increase perceived truth equally for...</span></span></span>
 
 ## Why ease can be misread as truth
 
-The connection between fluency and truth is not entirely irrational. In normal experience, true information often is easier to process. Facts that people encounter repeatedly, concepts they understand well and ideas that fit existing knowledge tend to feel fluent. Over time, the mind learns that ease and accuracy are often correlated. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://link.springer.com/article/10.1186/s41235-025-00628-3" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-title">Does repetition</span><span class="citation-popover-snippet">illusory-truth effect and its absence under accuracy-focused...May 13, 2025 — The phenomenon that repetition enhances processing fluency...</span><span class="citation-popover-meta">Published: May 13, 2025</span></span></span>
+The connection between fluency and truth is not entirely irrational. In normal experience, true information often is easier to process. Facts that people encounter repeatedly, concepts they understand well and ideas that fit existing knowledge tend to feel fluent. Over time, the mind learns that ease and accuracy are often correlated.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://link.springer.com/article/10.1186/s41235-025-00628-3" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-title">Does repetition</span><span class="citation-popover-snippet">illusory-truth effect and its absence under accuracy-focused...May 13, 2025 — The phenomenon that repetition enhances processing fluency...</span><span class="citation-popover-meta">Published: May 13, 2025</span></span></span>
 
-Problems emerge when the brain uses that correlation as a shortcut. Instead of asking whether evidence supports a claim, it relies partly on the feeling that the claim “sounds right”. Research on the illusory truth effect shows that repeated statements are more likely to be judged as true than novel statements, even when repetition provides no new evidence. The repeated claim becomes easier to process, and that fluency is interpreted as credibility. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8821071/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCIs it all about the feeling?</span><span class="citation-popover-snippet">Affective and (meta-)cognitive... - PMCby A Stump · 2021 · Cited by 27 — However, not only fluency but also affective processes can trig...</span></span></span>
+Problems emerge when the brain uses that correlation as a shortcut. Instead of asking whether evidence supports a claim, it relies partly on the feeling that the claim “sounds right”. Research on the illusory truth effect shows that repeated statements are more likely to be judged as true than novel statements, even when repetition provides no new evidence. The repeated claim becomes easier to process, and that fluency is interpreted as credibility.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8821071/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCIs it all about the feeling?</span><span class="citation-popover-snippet">Affective and (meta-)cognitive... - PMCby A Stump · 2021 · Cited by 27 — However, not only fluency but also affective processes can trig...</span></span></span>
 
-One reason the effect is powerful is that people rarely experience fluency as fluency. They experience it as [confidence]({{ 'confidence/' | relative_url }}), familiarity or plausibility. The source of the feeling is often invisible. Someone may think a claim seems convincing without realising that its persuasive force comes partly from previous exposure rather than from supporting facts. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8821071/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCIs it all about the feeling?</span><span class="citation-popover-snippet">Affective and (meta-)cognitive... - PMCby A Stump · 2021 · Cited by 27 — However, not only fluency but also affective processes can trig...</span></span></span>
+One reason the effect is powerful is that people rarely experience fluency as fluency. They experience it as [confidence]({{ 'confidence/' | relative_url }}), familiarity or plausibility. The source of the feeling is often invisible. Someone may think a claim seems convincing without realising that its persuasive force comes partly from previous exposure rather than from supporting facts.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8821071/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCIs it all about the feeling?</span><span class="citation-popover-snippet">Affective and (meta-)cognitive... - PMCby A Stump · 2021 · Cited by 27 — However, not only fluency but also affective processes can trig...</span></span></span>
 
-Researchers have found that even small changes unrelated to evidence can influence truth judgements. Statements written in clearer formats, easier fonts or more accessible language can receive higher credibility ratings simply because they are processed more smoothly. Studies have also found that simpler wording can increase perceived credibility through greater comprehension ease. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/False_memory" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">False memory</span><span class="citation-popover-snippet">False memory - WikipediaIllusory truth effect - Wikipedia...</span></span></span>
+Researchers have found that even small changes unrelated to evidence can influence truth judgements. Statements written in clearer formats, easier fonts or more accessible language can receive higher credibility ratings simply because they are processed more smoothly. Studies have also found that simpler wording can increase perceived credibility through greater comprehension ease.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/False_memory" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">False memory</span><span class="citation-popover-snippet">False memory - WikipediaIllusory truth effect - Wikipedia...</span></span></span>
 
 ## Familiarity without evidence
 
@@ -314,9 +314,9 @@ A key misconception is that familiarity feels similar to verification. After rep
 
 This helps explain why many myths survive for decades. People may not remember where they first heard a claim, but they remember having heard it. The original source fades while the feeling of familiarity remains. Once that happens, recognition itself can become a substitute for evidence.
 
-Research reviewing the illusory truth effect has repeatedly found that repetition can increase belief in statements ranging from everyday trivia to misinformation and conspiracy-related claims. Importantly, the effect is not limited to obviously plausible statements. Repetition can raise perceived truth even for information that contradicts existing knowledge. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S2352250X23001811" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">The illusory truth effect: A review of how repetition...by J Udry · 2024 · Cited by 124 — Repetition increases belief in in...</span></span></span>
+Research reviewing the illusory truth effect has repeatedly found that repetition can increase belief in statements ranging from everyday trivia to misinformation and conspiracy-related claims. Importantly, the effect is not limited to obviously plausible statements. Repetition can raise perceived truth even for information that contradicts existing knowledge.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S2352250X23001811" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">The illusory truth effect: A review of how repetition...by J Udry · 2024 · Cited by 124 — Repetition increases belief in in...</span></span></span>
 
-This does not mean that knowledge becomes irrelevant. Prior knowledge still matters and often helps people reject falsehoods. But fluency can influence initial judgements before people fully retrieve and apply what they know. The result is a subtle competition between evidence and familiarity. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S2352250X23001811" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">The illusory truth effect: A review of how repetition...by J Udry · 2024 · Cited by 124 — Repetition increases belief in in...</span></span></span>
+This does not mean that knowledge becomes irrelevant. Prior knowledge still matters and often helps people reject falsehoods. But fluency can influence initial judgements before people fully retrieve and apply what they know. The result is a subtle competition between evidence and familiarity.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S2352250X23001811" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">The illusory truth effect: A review of how repetition...by J Udry · 2024 · Cited by 124 — Repetition increases belief in in...</span></span></span>
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_familiar_claims_beli_a7d535_processing_fluency_c_4463a8-Illustration-2-dark.svg" | relative_url }}" alt="Fluency illustration 2" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_familiar_claims_beli_a7d535_processing_fluency_c_4463a8-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_familiar_claims_beli_a7d535_processing_fluency_c_4463a8-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Everyday myths that exploit fluency
@@ -331,15 +331,15 @@ Consider several common features:
 * They use vivid imagery or simple cause-and-effect stories.
 * They avoid technical language.
 * They are easy to recall in conversation.
-* They often circulate through multiple channels at once. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S2352250X23001811" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">The illusory truth effect: A review of how repetition...by J Udry · 2024 · Cited by 124 — Repetition increases belief in in...</span></span></span>
+* They often circulate through multiple channels at once.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S2352250X23001811" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">The illusory truth effect: A review of how repetition...by J Udry · 2024 · Cited by 124 — Repetition increases belief in in...</span></span></span>
 
 </div>
 
 A myth such as “we only use 10 per cent of our brain” succeeds partly because it is cognitively economical. It turns a complex scientific subject into a compact and memorable claim. Likewise, [health myths]({{ 'health-myths/' | relative_url }}) often survive because they offer neat explanations that are easier to remember than the more qualified scientific reality.
 
-Fluency can also accumulate across contexts. A person might encounter a claim in a headline, overhear it in conversation, see it referenced in a television programme and later encounter it on social media. Each exposure increases familiarity. Eventually the claim may feel established simply because it has become easy to recognise. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8821071/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCIs it all about the feeling?</span><span class="citation-popover-snippet">Affective and (meta-)cognitive... - PMCby A Stump · 2021 · Cited by 27 — However, not only fluency but also affective processes can trig...</span></span></span>
+Fluency can also accumulate across contexts. A person might encounter a claim in a headline, overhear it in conversation, see it referenced in a television programme and later encounter it on social media. Each exposure increases familiarity. Eventually the claim may feel established simply because it has become easy to recognise.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8821071/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCIs it all about the feeling?</span><span class="citation-popover-snippet">Affective and (meta-)cognitive... - PMCby A Stump · 2021 · Cited by 27 — However, not only fluency but also affective processes can trig...</span></span></span>
 
-The mechanism is particularly relevant online, where users are exposed to large volumes of information at high speed. Many claims are processed only briefly, leaving people with a sense of familiarity rather than a detailed [memory]({{ 'memory/' | relative_url }}) of the evidence. Under those conditions, fluency can become an especially influential cue. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S2352250X23001811" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">The illusory truth effect: A review of how repetition...by J Udry · 2024 · Cited by 124 — Repetition increases belief in in...</span></span></span>
+The mechanism is particularly relevant online, where users are exposed to large volumes of information at high speed. Many claims are processed only briefly, leaving people with a sense of familiarity rather than a detailed [memory]({{ 'memory/' | relative_url }}) of the evidence. Under those conditions, fluency can become an especially influential cue.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S2352250X23001811" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">The illusory truth effect: A review of how repetition...by J Udry · 2024 · Cited by 124 — Repetition increases belief in in...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/sCnltoypU8g" title="Illusory (Extended Mix)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=sCnltoypU8g" target="_blank" rel="noopener noreferrer">Illusory (Extended Mix)</a></p><p class="youtube-embed-meta">Channel: Hana - Topic &middot; Views: 12.5K &middot; Uploaded: June 2025 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=sCnltoypU8g" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=sCnltoypU8g">Open on YouTube</a></p></div></div></div>
 
@@ -347,211 +347,211 @@ The mechanism is particularly relevant online, where users are exposed to large 
 
 One of the most surprising findings in fluency research is that the truth signal can be affected by features unrelated to truth itself.
 
-Experiments have shown that presentation can influence judgement. Information that is visually clearer, easier to pronounce or easier to comprehend often receives more favourable evaluations. In some studies, statements associated with easily pronounced names were judged as more truthful than identical statements linked to difficult-to-pronounce names. Other work found that simpler language increased perceived credibility through greater processing ease. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Processing" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">ProcessingProcessing is a free graphics library and integrated development environment (IDE) built for the electronic arts, new media...</span></span></span>
+Experiments have shown that presentation can influence judgement. Information that is visually clearer, easier to pronounce or easier to comprehend often receives more favourable evaluations. In some studies, statements associated with easily pronounced names were judged as more truthful than identical statements linked to difficult-to-pronounce names. Other work found that simpler language increased perceived credibility through greater processing ease.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Processing" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">ProcessingProcessing is a free graphics library and integrated development environment (IDE) built for the electronic arts, new media...</span></span></span>
 
 These findings reveal an important distinction. People do not evaluate claims in a purely abstract way. They also respond to the experience of processing those claims. A statement can therefore gain credibility from characteristics that have nothing to do with its factual accuracy.
 
-That does not mean clear communication is deceptive. Clarity is generally valuable. The lesson is that ease of understanding and truthfulness are separate qualities. Because they often travel together in everyday life, the mind can sometimes confuse one for the other. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S2352250X23001811" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">The illusory truth effect: A review of how repetition...by J Udry · 2024 · Cited by 124 — Repetition increases belief in in...</span></span></span>
+That does not mean clear communication is deceptive. Clarity is generally valuable. The lesson is that ease of understanding and truthfulness are separate qualities. Because they often travel together in everyday life, the mind can sometimes confuse one for the other.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S2352250X23001811" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">The illusory truth effect: A review of how repetition...by J Udry · 2024 · Cited by 124 — Repetition increases belief in in...</span></span></span>
 
 ## Why fluency is so difficult to notice
 
 Processing fluency is persuasive partly because it does not feel like persuasion. People usually notice arguments, evidence and emotional appeals. They rarely notice the feeling that a sentence was easy to process.
 
-This makes fluency a particularly quiet mechanism behind belief formation. A person may be aware that they have seen a claim before, but they are often unaware that this previous exposure is influencing their judgement. The resulting sense of confidence can feel self-generated and objective rather than triggered by familiarity. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8821071/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCIs it all about the feeling?</span><span class="citation-popover-snippet">Affective and (meta-)cognitive... - PMCby A Stump · 2021 · Cited by 27 — However, not only fluency but also affective processes can trig...</span></span></span>
+This makes fluency a particularly quiet mechanism behind belief formation. A person may be aware that they have seen a claim before, but they are often unaware that this previous exposure is influencing their judgement. The resulting sense of confidence can feel self-generated and objective rather than triggered by familiarity.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8821071/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCIs it all about the feeling?</span><span class="citation-popover-snippet">Affective and (meta-)cognitive... - PMCby A Stump · 2021 · Cited by 27 — However, not only fluency but also affective processes can trig...</span></span></span>
 
-The challenge for myths and misconceptions is therefore not merely correcting facts. It is separating two mental experiences that often arrive together: “I know this is true” and “this feels familiar”. Processing fluency blurs that boundary. Once familiarity starts to feel like evidence, repeated claims can acquire a credibility they have never actually earned. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://link.springer.com/article/10.1186/s41235-021-00301-5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">The effects of repetition frequency on the illusory truth effectby A Hassan · 2021 · Cited by 402 — This finding is known as the...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/abs/pii/S2352250X23001811" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">The illusory truth effect: A review of how repetition...by J Udry · 2024 · Cited by 124 — Repetition increases belief in in...</span></span></span>
+The challenge for myths and misconceptions is therefore not merely correcting facts. It is separating two mental experiences that often arrive together: “I know this is true” and “this feels familiar”. Processing fluency blurs that boundary. Once familiarity starts to feel like evidence, repeated claims can acquire a credibility they have never actually earned.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://link.springer.com/article/10.1186/s41235-021-00301-5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">The effects of repetition frequency on the illusory truth effectby A Hassan · 2021 · Cited by 402 — This finding is known as the...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/abs/pii/S2352250X23001811" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">The illusory truth effect: A review of how repetition...by J Udry · 2024 · Cited by 124 — Repetition increases belief in in...</span></span></span>
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_familiar_claims_beli_a7d535_processing_fluency_c_4463a8-Illustration-3-dark.svg" | relative_url }}" alt="Fluency illustration 3" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_familiar_claims_beli_a7d535_processing_fluency_c_4463a8-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_familiar_claims_beli_a7d535_processing_fluency_c_4463a8-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When easy thinking feels like evidence. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When easy thinking feels like evidence. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YGPzXWanppcC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
-        </h4>
-        <p class="fr-book-author">By Daniel Kahneman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YGPzXWanppcC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
+</h4>
+<p class="fr-book-author">By Daniel Kahneman</p>
         
-        <p class="fr-book-desc">Processing fluency and cognitive shortcuts are central themes.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Processing fluency and cognitive shortcuts are central themes.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=You+are+Not+So+Smart+by+David+McRaney&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open You are Not So Smart on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=rhq9DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for You are Not So Smart" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=You+are+Not+So+Smart+by+David+McRaney&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="You are Not So Smart">You are Not So Smart</a>
-        </h4>
-        <p class="fr-book-author">By David McRaney</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=You+are+Not+So+Smart+by+David+McRaney&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open You are Not So Smart on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=rhq9DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for You are Not So Smart" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=You+are+Not+So+Smart+by+David+McRaney&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="You are Not So Smart">You are Not So Smart</a>
+</h4>
+<p class="fr-book-author">By David McRaney</p>
         
-        <p class="fr-book-desc">Explains why intuitive feelings can mislead.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=You+are+Not+So+Smart+by+David+McRaney&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains why intuitive feelings can mislead.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=You+are+Not+So+Smart+by+David+McRaney&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Invisible+Gorilla+by+Christopher+Chabris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Invisible Gorilla on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=VecEbBYC_sEC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Invisible Gorilla" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Invisible+Gorilla+by+Christopher+Chabris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Invisible Gorilla">The Invisible Gorilla</a>
-        </h4>
-        <p class="fr-book-author">By Christopher Chabris, Daniel Simons</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Invisible+Gorilla+by+Christopher+Chabris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Invisible Gorilla on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=VecEbBYC_sEC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Invisible Gorilla" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Invisible+Gorilla+by+Christopher+Chabris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Invisible Gorilla">The Invisible Gorilla</a>
+</h4>
+<p class="fr-book-author">By Christopher Chabris, Daniel Simons</p>
         
-        <p class="fr-book-desc">Shows limits of perception and confidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Invisible+Gorilla+by+Christopher+Chabris&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows limits of perception and confidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Invisible+Gorilla+by+Christopher+Chabris&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Predictably+Irrational+Dan+Ariely&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Predictably Irrational on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/2314080-M.jpg" alt="Cover for Predictably Irrational" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Predictably+Irrational+Dan+Ariely&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Predictably Irrational">Predictably Irrational</a>
-        </h4>
-        <p class="fr-book-author">By Dan Ariely</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Predictably+Irrational+Dan+Ariely&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Predictably Irrational on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/2314080-M.jpg" alt="Cover for Predictably Irrational" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Predictably+Irrational+Dan+Ariely&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Predictably Irrational">Predictably Irrational</a>
+</h4>
+<p class="fr-book-author">By Dan Ariely</p>
         
-        <p class="fr-book-desc">First published 2008. Subjects: Psychological aspects of Economics, Economics, Psychological aspects, Decision making, Consumer behavior.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Predictably+Irrational+Dan+Ariely&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2008. Subjects: Psychological aspects of Economics, Economics, Psychological aspects, Decision making, Consumer behavior.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Predictably+Irrational+Dan+Ariely&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=You+are+Not+So+Smart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">You are Not So Smart</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Invisible+Gorilla&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Invisible Gorilla</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=You+are+Not+So+Smart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">You are Not So Smart</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Invisible+Gorilla&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Invisible Gorilla</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fluency-when-easy-thinking-feels-like-evidence-myths-and-misconcept-critical-thinking-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking wall art" data-ebay-reference="fluency-when-easy-thinking-feels-like-evidence-myths-and-misconcept-critical-thinking-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 18755 Critical Thinking Classroom Decor Wall Print Poster"><img src="{{ '/assets/images/marketplace-covers/f44a4838fd3b80d052fa.jpg' | relative_url }}" alt="Listing image for 18755 Critical Thinking Classroom Decor Wall Print Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fluency-when-easy-thinking-feels-like-evidence-myths-and-misconcept-critical-thinking-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking wall art" data-ebay-reference="fluency-when-easy-thinking-feels-like-evidence-myths-and-misconcept-critical-thinking-wall-art" target="_blank" rel="sponsored noopener noreferrer">18755 Critical Thinking Classroom Decor Wall Print Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fluency-when-easy-thinking-feels-like-evidence-myths-and-misconcept-critical-thinking-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking wall art" data-ebay-reference="fluency-when-easy-thinking-feels-like-evidence-myths-and-misconcept-critical-thinking-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fluency-when-easy-thinking-feels-like-evidence-myths-and-misconcept-critical-thinking-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking wall art" data-ebay-reference="fluency-when-easy-thinking-feels-like-evidence-myths-and-misconcept-critical-thinking-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fluency-when-easy-thinking-feels-like-evidence-myths-and-misconcept-critical-thinking-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking wall art" data-ebay-reference="fluency-when-easy-thinking-feels-like-evidence-myths-and-misconcept-critical-thinking-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 18755 Critical Thinking Classroom Decor Wall Print Poster"><img src="{{ '/assets/images/marketplace-covers/f44a4838fd3b80d052fa.jpg' | relative_url }}" alt="Listing image for 18755 Critical Thinking Classroom Decor Wall Print Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fluency-when-easy-thinking-feels-like-evidence-myths-and-misconcept-critical-thinking-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking wall art" data-ebay-reference="fluency-when-easy-thinking-feels-like-evidence-myths-and-misconcept-critical-thinking-wall-art" target="_blank" rel="sponsored noopener noreferrer">18755 Critical Thinking Classroom Decor Wall Print Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fluency-when-easy-thinking-feels-like-evidence-myths-and-misconcept-critical-thinking-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking wall art" data-ebay-reference="fluency-when-easy-thinking-feels-like-evidence-myths-and-misconcept-critical-thinking-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fluency-when-easy-thinking-feels-like-evidence-myths-and-misconcept-critical-thinking-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking wall art" data-ebay-reference="fluency-when-easy-thinking-feels-like-evidence-myths-and-misconcept-critical-thinking-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fluency-when-easy-thinking-feels-like-evidence-myths-and-misconcept-critical-thinking-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking wall art" data-ebay-reference="fluency-when-easy-thinking-feels-like-evidence-myths-and-misconcept-critical-thinking-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking Framed Art Print Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/1fdf431cb37fb2a99b7f.jpg' | relative_url }}" alt="Listing image for Critical Thinking Framed Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fluency-when-easy-thinking-feels-like-evidence-myths-and-misconcept-critical-thinking-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking wall art" data-ebay-reference="fluency-when-easy-thinking-feels-like-evidence-myths-and-misconcept-critical-thinking-wall-art" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking Framed Art Print Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fluency-when-easy-thinking-feels-like-evidence-myths-and-misconcept-critical-thinking-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking wall art" data-ebay-reference="fluency-when-easy-thinking-feels-like-evidence-myths-and-misconcept-critical-thinking-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fluency-when-easy-thinking-feels-like-evidence-myths-and-misconcept-critical-thinking-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking wall art" data-ebay-reference="fluency-when-easy-thinking-feels-like-evidence-myths-and-misconcept-critical-thinking-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fluency-when-easy-thinking-feels-like-evidence-myths-and-misconcept-critical-thinking-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking wall art" data-ebay-reference="fluency-when-easy-thinking-feels-like-evidence-myths-and-misconcept-critical-thinking-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking Framed Art Print Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/1fdf431cb37fb2a99b7f.jpg' | relative_url }}" alt="Listing image for Critical Thinking Framed Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fluency-when-easy-thinking-feels-like-evidence-myths-and-misconcept-critical-thinking-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking wall art" data-ebay-reference="fluency-when-easy-thinking-feels-like-evidence-myths-and-misconcept-critical-thinking-wall-art" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking Framed Art Print Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fluency-when-easy-thinking-feels-like-evidence-myths-and-misconcept-critical-thinking-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking wall art" data-ebay-reference="fluency-when-easy-thinking-feels-like-evidence-myths-and-misconcept-critical-thinking-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fluency-when-easy-thinking-feels-like-evidence-myths-and-misconcept-critical-thinking-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking wall art" data-ebay-reference="fluency-when-easy-thinking-feels-like-evidence-myths-and-misconcept-critical-thinking-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fluency-when-easy-thinking-feels-like-evidence-myths-and-misconcept-critical-thinking-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking wall art" data-ebay-reference="fluency-when-easy-thinking-feels-like-evidence-myths-and-misconcept-critical-thinking-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I wish I lacked critical thinking s Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/a1bb2d3fa5dd95cf6165.jpg' | relative_url }}" alt="Listing image for I wish I lacked critical thinking s Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fluency-when-easy-thinking-feels-like-evidence-myths-and-misconcept-critical-thinking-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking wall art" data-ebay-reference="fluency-when-easy-thinking-feels-like-evidence-myths-and-misconcept-critical-thinking-wall-art" target="_blank" rel="sponsored noopener noreferrer">I wish I lacked critical thinking s Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fluency-when-easy-thinking-feels-like-evidence-myths-and-misconcept-critical-thinking-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking wall art" data-ebay-reference="fluency-when-easy-thinking-feels-like-evidence-myths-and-misconcept-critical-thinking-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fluency-when-easy-thinking-feels-like-evidence-myths-and-misconcept-critical-thinking-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking wall art" data-ebay-reference="fluency-when-easy-thinking-feels-like-evidence-myths-and-misconcept-critical-thinking-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fluency-when-easy-thinking-feels-like-evidence-myths-and-misconcept-critical-thinking-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking wall art" data-ebay-reference="fluency-when-easy-thinking-feels-like-evidence-myths-and-misconcept-critical-thinking-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I wish I lacked critical thinking s Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/a1bb2d3fa5dd95cf6165.jpg' | relative_url }}" alt="Listing image for I wish I lacked critical thinking s Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fluency-when-easy-thinking-feels-like-evidence-myths-and-misconcept-critical-thinking-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking wall art" data-ebay-reference="fluency-when-easy-thinking-feels-like-evidence-myths-and-misconcept-critical-thinking-wall-art" target="_blank" rel="sponsored noopener noreferrer">I wish I lacked critical thinking s Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fluency-when-easy-thinking-feels-like-evidence-myths-and-misconcept-critical-thinking-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking wall art" data-ebay-reference="fluency-when-easy-thinking-feels-like-evidence-myths-and-misconcept-critical-thinking-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fluency-when-easy-thinking-feels-like-evidence-myths-and-misconcept-critical-thinking-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking wall art" data-ebay-reference="fluency-when-easy-thinking-feels-like-evidence-myths-and-misconcept-critical-thinking-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fluency-when-easy-thinking-feels-like-evidence-myths-and-misconcept-critical-thinking-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking wall art" data-ebay-reference="fluency-when-easy-thinking-feels-like-evidence-myths-and-misconcept-critical-thinking-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking Framed Art Print Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/e43d6233dedc62687c14.jpg' | relative_url }}" alt="Listing image for Critical Thinking Framed Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fluency-when-easy-thinking-feels-like-evidence-myths-and-misconcept-critical-thinking-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking wall art" data-ebay-reference="fluency-when-easy-thinking-feels-like-evidence-myths-and-misconcept-critical-thinking-wall-art" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking Framed Art Print Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fluency-when-easy-thinking-feels-like-evidence-myths-and-misconcept-critical-thinking-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking wall art" data-ebay-reference="fluency-when-easy-thinking-feels-like-evidence-myths-and-misconcept-critical-thinking-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fluency-when-easy-thinking-feels-like-evidence-myths-and-misconcept-critical-thinking-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking wall art" data-ebay-reference="fluency-when-easy-thinking-feels-like-evidence-myths-and-misconcept-critical-thinking-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fluency-when-easy-thinking-feels-like-evidence-myths-and-misconcept-critical-thinking-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking wall art" data-ebay-reference="fluency-when-easy-thinking-feels-like-evidence-myths-and-misconcept-critical-thinking-wall-art" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fluency-when-easy-thinking-feels-like-evidence-myths-and-misconcept-critical-thinking-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking wall art" data-ebay-reference="fluency-when-easy-thinking-feels-like-evidence-myths-and-misconcept-critical-thinking-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking Framed Art Print Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/e43d6233dedc62687c14.jpg' | relative_url }}" alt="Listing image for Critical Thinking Framed Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fluency-when-easy-thinking-feels-like-evidence-myths-and-misconcept-critical-thinking-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking wall art" data-ebay-reference="fluency-when-easy-thinking-feels-like-evidence-myths-and-misconcept-critical-thinking-wall-art" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking Framed Art Print Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fluency-when-easy-thinking-feels-like-evidence-myths-and-misconcept-critical-thinking-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking wall art" data-ebay-reference="fluency-when-easy-thinking-feels-like-evidence-myths-and-misconcept-critical-thinking-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fluency-when-easy-thinking-feels-like-evidence-myths-and-misconcept-critical-thinking-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking wall art" data-ebay-reference="fluency-when-easy-thinking-feels-like-evidence-myths-and-misconcept-critical-thinking-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fluency-when-easy-thinking-feels-like-evidence-myths-and-misconcept-critical-thinking-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking wall art" data-ebay-reference="fluency-when-easy-thinking-feels-like-evidence-myths-and-misconcept-critical-thinking-wall-art" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -567,7 +567,7 @@ The challenge for myths and misconceptions is therefore not merely correcting fa
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -587,7 +587,7 @@ The challenge for myths and misconceptions is therefore not merely correcting fa
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -619,7 +619,7 @@ The challenge for myths and misconceptions is therefore not merely correcting fa
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -671,7 +671,7 @@ The challenge for myths and misconceptions is therefore not merely correcting fa
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -716,7 +716,7 @@ The challenge for myths and misconceptions is therefore not merely correcting fa
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -757,171 +757,171 @@ The challenge for myths and misconceptions is therefore not merely correcting fa
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: link.springer.com  
-   Link: <a href="https://link.springer.com/article/10.1186/s41235-021-00301-5" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1186/s41235-021-00301-5</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The effects of repetition frequency on the illusory truth effectby A Hassan · 2021 · Cited by 402 — This finding is known as the...</p></details>
+   Link:<a href="https://link.springer.com/article/10.1186/s41235-021-00301-5" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1186/s41235-021-00301-5</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The effects of repetition frequency on the illusory truth effectby A Hassan · 2021 · Cited by 402 — This finding is known as the...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3339024/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3339024/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Epistemic Status of Processing Fluency as Source for...by R Reber · 2010 · Cited by 230 — This article combines findings from cog...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3339024/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3339024/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Epistemic Status of Processing Fluency as Source for...by R Reber · 2010 · Cited by 230 — This article combines findings from cog...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S2352250X23001811" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S2352250X23001811</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The illusory truth effect: A review of how repetition...by J Udry · 2024 · Cited by 124 — Repetition increases belief in in...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/abs/pii/S2352250X23001811" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S2352250X23001811</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The illusory truth effect: A review of how repetition...by J Udry · 2024 · Cited by 124 — Repetition increases belief in in...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: Wikipedia  
    Title: Processing fluency  
-   Link: <a href="https://en.wikipedia.org/wiki/Processing_fluency" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Processing_fluency</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Processing_fluency" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Processing_fluency</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8116821/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8116821/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The effects of repetition frequency on the illusory truth effectby A Hassan · 2021 · Cited by 397 — This finding is known as the illus...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8116821/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8116821/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The effects of repetition frequency on the illusory truth effectby A Hassan · 2021 · Cited by 397 — This finding is known as the illus...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCIs it all about the feeling?  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8821071/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8821071/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Affective and (meta-)cognitive... - PMCby A Stump · 2021 · Cited by 27 — However, not only fluency but also affective processes can trig...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8821071/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8821071/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Affective and (meta-)cognitive... - PMCby A Stump · 2021 · Cited by 27 — However, not only fluency but also affective processes can trig...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: link.springer.com  
-   Link: <a href="https://link.springer.com/article/10.3758/s13423-025-02836-w" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.3758/s13423-025-02836-w</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>repetition increase perceived truth equally for...</p></details>
+   Link:<a href="https://link.springer.com/article/10.3758/s13423-025-02836-w" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.3758/s13423-025-02836-w</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>repetition increase perceived truth equally for...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: Wikipedia  
    Title: Illusory truth effect  
-   Link: <a href="https://en.wikipedia.org/wiki/Illusory_truth_effect" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Illusory_truth_effect</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Illusory_truth_effect" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Illusory_truth_effect</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0010027721002389" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0010027721002389</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Truth feels easy: Knowing information is true enhances...by LS Nahon · 2021 · Cited by 13 — Information is more likely beli...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/abs/pii/S0010027721002389" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0010027721002389</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Truth feels easy: Knowing information is true enhances...by LS Nahon · 2021 · Cited by 13 — Information is more likely beli...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12130120/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12130120/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>face of illusory truth: Repetition of information elicits...by A Stump · 2025 · Cited by 3 — A key explanation for this phenomenon, call...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12130120/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12130120/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>face of illusory truth: Repetition of information elicits...by A Stump · 2025 · Cited by 3 — A key explanation for this phenomenon, call...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: link.springer.com  
    Title: Does repetition  
-   Link: <a href="https://link.springer.com/article/10.1186/s41235-025-00628-3" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1186/s41235-025-00628-3</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>illusory-truth effect and its absence under accuracy-focused...May 13, 2025 — The phenomenon that repetition enhances processing fluency...</p></details>
+   Link:<a href="https://link.springer.com/article/10.1186/s41235-025-00628-3" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1186/s41235-025-00628-3</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>illusory-truth effect and its absence under accuracy-focused...May 13, 2025 — The phenomenon that repetition enhances processing fluency...</p></details>
    Published: May 13, 2025  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: processing.org  
-   Link: <a href="https://processing.org/" target="_blank" rel="noopener noreferrer nofollow">https://processing.org/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Welcome to Processing! / Processing.orgDownload and open the &#x27;Processing&#x27; application. Select something from the Examples. Hit the Run bu...</p></details>
+   Link:<a href="https://processing.org/" target="_blank" rel="noopener noreferrer nofollow">https://processing.org/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Welcome to Processing! / Processing.orgDownload and open the &#x27;Processing&#x27; application. Select something from the Examples. Hit the Run bu...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: Wikipedia  
    Title: False memory  
-   Link: <a href="https://en.wikipedia.org/wiki/False_memory" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/False_memory</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>False memory - WikipediaIllusory truth effect - Wikipedia...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/False_memory" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/False_memory</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>False memory - WikipediaIllusory truth effect - Wikipedia...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Processing" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Processing</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ProcessingProcessing is a free graphics library and integrated development environment (IDE) built for the electronic arts, new media...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Processing" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Processing</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ProcessingProcessing is a free graphics library and integrated development environment (IDE) built for the electronic arts, new media...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S001002772300241X" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S001002772300241X</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The illusory truth effect requires semantic coherence...by J Udry · 2023 · Cited by 14 — Repeated exposure to information increases its&#x27;...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/abs/pii/S001002772300241X" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S001002772300241X</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The illusory truth effect requires semantic coherence...by J Udry · 2023 · Cited by 14 — Repeated exposure to information increases its&#x27;...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0022103111002496" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0022103111002496</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The interactive effects of mood and processing fluency on...by AS Koch · 2012 · Cited by 122 — This study predicted and found that mood...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/abs/pii/S0022103111002496" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0022103111002496</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The interactive effects of mood and processing fluency on...by AS Koch · 2012 · Cited by 122 — This study predicted and found that mood...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S1053810011002200" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S1053810011002200</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>processing fluency. Because fluency and truth are frequently correlated in the real world, people learn to use processing fluency as a ma...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/abs/pii/S1053810011002200" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S1053810011002200</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>processing fluency. Because fluency and truth are frequently correlated in the real world, people learn to use processing fluency as a ma...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: illusory.io  
-   Link: <a href="https://www.illusory.io/" target="_blank" rel="noopener noreferrer nofollow">https://www.illusory.io/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Train AI language models, conduct market research, or run mission-critical...Read more...</p></details>
+   Link:<a href="https://www.illusory.io/" target="_blank" rel="noopener noreferrer nofollow">https://www.illusory.io/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Train AI language models, conduct market research, or run mission-critical...Read more...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: dictionary.cambridge.org  
-   Link: <a href="https://dictionary.cambridge.org/dictionary/english-chinese-traditional/illusory" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/dictionary/english-chinese-traditional/illusory</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>of illusory – English–Traditional Chinese dictionaryILLUSORY translate: 虛假的，幻覺的，不實際的. Learn more in the Cambridge English-Chinese traditi...</p></details>
+   Link:<a href="https://dictionary.cambridge.org/dictionary/english-chinese-traditional/illusory" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/dictionary/english-chinese-traditional/illusory</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>of illusory – English–Traditional Chinese dictionaryILLUSORY translate: 虛假的，幻覺的，不實際的. Learn more in the Cambridge English-Chinese traditi...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: dictionary.cambridge.org  
-   Link: <a href="https://dictionary.cambridge.org/dictionary/english/processing" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/dictionary/english/processing</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>English meaning - Cambridge Dictionarythe act of preparing, changing, or treating food or natural substances as a part of an industrial...</p></details>
+   Link:<a href="https://dictionary.cambridge.org/dictionary/english/processing" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/dictionary/english/processing</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>English meaning - Cambridge Dictionarythe act of preparing, changing, or treating food or natural substances as a part of an industrial...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: ebsco.com  
-   Link: <a href="https://www.ebsco.com/research-starters/psychology/illusory-truth-effect" target="_blank" rel="noopener noreferrer nofollow">https://www.ebsco.com/research-starters/psychology/illusory-truth-effect</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Illusory truth effect | Psychology | Research StartersThe illusory truth effect is a cognitive phenomenon where repeated exposure to fals...</p></details>
+   Link:<a href="https://www.ebsco.com/research-starters/psychology/illusory-truth-effect" target="_blank" rel="noopener noreferrer nofollow">https://www.ebsco.com/research-starters/psychology/illusory-truth-effect</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Illusory truth effect | Psychology | Research StartersThe illusory truth effect is a cognitive phenomenon where repeated exposure to fals...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: annieduke.substack.com  
    Title: the illusory truth effect  
-   Link: <a href="https://annieduke.substack.com/p/the-illusory-truth-effect" target="_blank" rel="noopener noreferrer nofollow">https://annieduke.substack.com/p/the-illusory-truth-effect</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Illusory Truth Effect - by Annie DukeA new study confirms that the repetition of misinformation both leads us to believe things are true...</p></details>
+   Link:<a href="https://annieduke.substack.com/p/the-illusory-truth-effect" target="_blank" rel="noopener noreferrer nofollow">https://annieduke.substack.com/p/the-illusory-truth-effect</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Illusory Truth Effect - by Annie DukeA new study confirms that the repetition of misinformation both leads us to believe things are true...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: vocabulary.com  
-   Link: <a href="https://www.vocabulary.com/dictionary/illusory" target="_blank" rel="noopener noreferrer nofollow">https://www.vocabulary.com/dictionary/illusory</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Definition, Meaning &amp; SynonymsAlthough the adjective illusory can describe anything that&#x27;s based on an illusion, it often has the negativ...</p></details>
+   Link:<a href="https://www.vocabulary.com/dictionary/illusory" target="_blank" rel="noopener noreferrer nofollow">https://www.vocabulary.com/dictionary/illusory</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Definition, Meaning &amp; SynonymsAlthough the adjective illusory can describe anything that&#x27;s based on an illusion, it often has the negativ...</p></details>
 
 ### Additional References
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: nature.com  
-   Link: <a href="https://www.nature.com/nature-index/topics/l4/cognitive-fluency-and-judgments-of-truth" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/nature-index/topics/l4/cognitive-fluency-and-judgments-of-truth</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Cognitive Fluency and Judgments of TruthCognitive fluency refers to the subjective ease with which information is processed, and it plays...</p></details>
+   Link:<a href="https://www.nature.com/nature-index/topics/l4/cognitive-fluency-and-judgments-of-truth" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/nature-index/topics/l4/cognitive-fluency-and-judgments-of-truth</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Cognitive Fluency and Judgments of TruthCognitive fluency refers to the subjective ease with which information is processed, and it plays...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: dictionary.com  
-   Link: <a href="https://www.dictionary.com/browse/illusory" target="_blank" rel="noopener noreferrer nofollow">https://www.dictionary.com/browse/illusory</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ILLUSORY Definition &amp; Meaningadjective · causing illusion; deceptive; misleading. Synonyms: false, specious, fallacious · of the nature o...</p></details>
+   Link:<a href="https://www.dictionary.com/browse/illusory" target="_blank" rel="noopener noreferrer nofollow">https://www.dictionary.com/browse/illusory</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ILLUSORY Definition &amp; Meaningadjective · causing illusion; deceptive; misleading. Synonyms: false, specious, fallacious · of the nature o...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: merriam-webster.com  
-   Link: <a href="https://www.merriam-webster.com/dictionary/illusory" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/illusory</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ILLUSORY Definition &amp; Meaningillusory implies a false impression based on deceptive resemblance or faulty observation, or influenced by e...</p></details>
+   Link:<a href="https://www.merriam-webster.com/dictionary/illusory" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/illusory</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ILLUSORY Definition &amp; Meaningillusory implies a false impression based on deceptive resemblance or faulty observation, or influenced by e...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: collinsdictionary.com  
-   Link: <a href="https://www.collinsdictionary.com/dictionary/english/illusory" target="_blank" rel="noopener noreferrer nofollow">https://www.collinsdictionary.com/dictionary/english/illusory</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ILLUSORY definition and meaningIf you describe something as illusory, you mean that although it seems true or possible, it is in fact fal...</p></details>
+   Link:<a href="https://www.collinsdictionary.com/dictionary/english/illusory" target="_blank" rel="noopener noreferrer nofollow">https://www.collinsdictionary.com/dictionary/english/illusory</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ILLUSORY definition and meaningIf you describe something as illusory, you mean that although it seems true or possible, it is in fact fal...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: psychologytoday.com  
-   Link: <a href="https://www.psychologytoday.com/us/basics/illusory-truth-effect" target="_blank" rel="noopener noreferrer nofollow">https://www.psychologytoday.com/us/basics/illusory-truth-effect</a>  
+   Link:<a href="https://www.psychologytoday.com/us/basics/illusory-truth-effect" target="_blank" rel="noopener noreferrer nofollow">https://www.psychologytoday.com/us/basics/illusory-truth-effect</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: itsacademic.co.uk  
-   Link: <a href="https://itsacademic.co.uk/processing-fluency" target="_blank" rel="noopener noreferrer nofollow">https://itsacademic.co.uk/processing-fluency</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Processing FluencyThis study demonstrates how processing fluency can affect consumer decision-making. The authors show that when informat...</p></details>
+   Link:<a href="https://itsacademic.co.uk/processing-fluency" target="_blank" rel="noopener noreferrer nofollow">https://itsacademic.co.uk/processing-fluency</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Processing FluencyThis study demonstrates how processing fluency can affect consumer decision-making. The authors show that when informat...</p></details>
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: fs.blog  
-   Link: <a href="https://fs.blog/illusory-truth-effect/" target="_blank" rel="noopener noreferrer nofollow">https://fs.blog/illusory-truth-effect/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Illusory Truth EffectThe illusory truth effect is the reason why advertising works and why propaganda is one of the most powerful too...</p></details>
+   Link:<a href="https://fs.blog/illusory-truth-effect/" target="_blank" rel="noopener noreferrer nofollow">https://fs.blog/illusory-truth-effect/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Illusory Truth EffectThe illusory truth effect is the reason why advertising works and why propaganda is one of the most powerful too...</p></details>
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: news.vanderbilt.edu  
-   Link: <a href="https://news.vanderbilt.edu/2020/10/06/study-shows-that-repeated-statements-are-more-often-judged-to-be-true-regardless-of-a-persons-age-or-prior-knowledge/" target="_blank" rel="noopener noreferrer nofollow">https://news.vanderbilt.edu/2020/10/06/study-shows-that-repeated-statements-are-more-often-judged-to-be-true-regardless-of-a-persons-age-or-prior-knowledge/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>shows that repeated statements are more often...6 Oct 2020 — This has been replicated many times in existing research studies and is kno...</p></details>
+   Link:<a href="https://news.vanderbilt.edu/2020/10/06/study-shows-that-repeated-statements-are-more-often-judged-to-be-true-regardless-of-a-persons-age-or-prior-knowledge/" target="_blank" rel="noopener noreferrer nofollow">https://news.vanderbilt.edu/2020/10/06/study-shows-that-repeated-statements-are-more-often-judged-to-be-true-regardless-of-a-persons-age-or-prior-knowledge/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>shows that repeated statements are more often...6 Oct 2020 — This has been replicated many times in existing research studies and is kno...</p></details>
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: leadalchemists.com  
-   Link: <a href="https://www.leadalchemists.com/marketing-psychology/illusory-truth-effect/" target="_blank" rel="noopener noreferrer nofollow">https://www.leadalchemists.com/marketing-psychology/illusory-truth-effect/</a>  
+   Link:<a href="https://www.leadalchemists.com/marketing-psychology/illusory-truth-effect/" target="_blank" rel="noopener noreferrer nofollow">https://www.leadalchemists.com/marketing-psychology/illusory-truth-effect/</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: psychologytoday.com  
-   Link: <a href="https://www.psychologytoday.com/ca/basics/illusory-truth-effect" target="_blank" rel="noopener noreferrer nofollow">https://www.psychologytoday.com/ca/basics/illusory-truth-effect</a>
+   Link:<a href="https://www.psychologytoday.com/ca/basics/illusory-truth-effect" target="_blank" rel="noopener noreferrer nofollow">https://www.psychologytoday.com/ca/basics/illusory-truth-effect</a>

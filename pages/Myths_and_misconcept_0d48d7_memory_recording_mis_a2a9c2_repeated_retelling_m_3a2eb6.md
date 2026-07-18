@@ -268,20 +268,20 @@ image: /assets/images/Myths_and_misconcept_0d48d7_memory_recording_mis_a2a9c2_re
 
 ## Introduction
 
-Repeatedly telling a story can make it feel more vivid, coherent and convincing, even when parts of it have changed. This creates a powerful misconception about [memory]({{ 'memory/' | relative_url }}): people often assume that a witness whose account becomes smoother and more confident over time must be remembering the original event more accurately. Research suggests the opposite can sometimes happen. Repeated recall can increase a person's sense of familiarity and certainty while also introducing distortions, omissions or new details that gradually become woven into the memory itself. The result is a witness who may sound increasingly persuasive while moving further away from what was actually seen. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5256441/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">That&#x27;s not what you said the first time: A theoretical account of...by SE Stanley · 2016 · Cited by 22 — In two experiments, we show...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pressbooks.bccampus.ca/psyc268/chapter/chapter-8/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pressbooks.bccampus.ca">[BCcampus Pressbooks]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pressbooks.bccampus.ca</span><span class="citation-popover-snippet">Confidence increases the more times a witness is questioned; accuracy may not. So a...Read more...</span></span></span>
+Repeatedly telling a story can make it feel more vivid, coherent and convincing, even when parts of it have changed. This creates a powerful misconception about [memory]({{ 'memory/' | relative_url }}): people often assume that a witness whose account becomes smoother and more confident over time must be remembering the original event more accurately. Research suggests the opposite can sometimes happen. Repeated recall can increase a person's sense of familiarity and certainty while also introducing distortions, omissions or new details that gradually become woven into the memory itself. The result is a witness who may sound increasingly persuasive while moving further away from what was actually seen.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5256441/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">That&#x27;s not what you said the first time: A theoretical account of...by SE Stanley · 2016 · Cited by 22 — In two experiments, we show...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://pressbooks.bccampus.ca/psyc268/chapter/chapter-8/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pressbooks.bccampus.ca">[BCcampus Pressbooks]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pressbooks.bccampus.ca</span><span class="citation-popover-snippet">Confidence increases the more times a witness is questioned; accuracy may not. So a...Read more...</span></span></span>
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_memory_recording_mis_a2a9c2_repeated_retelling_m_3a2eb6-Illustration-1-dark.svg" | relative_url }}" alt="Retelling illustration 1" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_memory_recording_mis_a2a9c2_repeated_retelling_m_3a2eb6-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_memory_recording_mis_a2a9c2_repeated_retelling_m_3a2eb6-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-This matters because courts, investigators and ordinary listeners often treat consistency as evidence of truth. Yet memory is not a fixed recording. Each retelling is also a reconstruction, and reconstruction can change what feels real. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5256441/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">That&#x27;s not what you said the first time: A theoretical account of...by SE Stanley · 2016 · Cited by 22 — In two experiments, we show...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nature.com/collections/diecaccfhi" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Episodic memory and eyewitness testimony12 Dec 2023 — Eyewitness testimony is primarily based on episodic memory and plays a critical rol...</span></span></span>
+This matters because courts, investigators and ordinary listeners often treat consistency as evidence of truth. Yet memory is not a fixed recording. Each retelling is also a reconstruction, and reconstruction can change what feels real.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5256441/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">That&#x27;s not what you said the first time: A theoretical account of...by SE Stanley · 2016 · Cited by 22 — In two experiments, we show...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nature.com/collections/diecaccfhi" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Episodic memory and eyewitness testimony12 Dec 2023 — Eyewitness testimony is primarily based on episodic memory and plays a critical rol...</span></span></span>
 
 ## Familiarity From Repeated Recall
 
 One reason mistaken memories can feel true is that [repetition]({{ 'repetition/' | relative_url }}) creates familiarity. The mind often uses familiarity as a shortcut when judging whether something is accurate. If a detail has been recalled many times, it becomes easier to retrieve. That ease can be misinterpreted as evidence that the detail is genuine.
 
-Psychologists sometimes describe this as a form of processing [fluency]({{ 'fluency/' | relative_url }}): information that comes to mind quickly and effortlessly tends to feel more believable. A witness who has told the same story repeatedly may experience less uncertainty, fewer pauses and faster retrieval. The account feels stronger, but the stronger feeling does not necessarily mean the memory itself has become more accurate. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5256441/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">That&#x27;s not what you said the first time: A theoretical account of...by SE Stanley · 2016 · Cited by 22 — In two experiments, we show...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2019.00703/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-snippet">Predicting Accuracy in Eyewitness Testimonies With...by PU Gustafsson · 2019 · Cited by 53 — The present study attempts to provide insig...</span></span></span>
+Psychologists sometimes describe this as a form of processing [fluency]({{ 'fluency/' | relative_url }}): information that comes to mind quickly and effortlessly tends to feel more believable. A witness who has told the same story repeatedly may experience less uncertainty, fewer pauses and faster retrieval. The account feels stronger, but the stronger feeling does not necessarily mean the memory itself has become more accurate.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5256441/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">That&#x27;s not what you said the first time: A theoretical account of...by SE Stanley · 2016 · Cited by 22 — In two experiments, we show...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2019.00703/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-snippet">Predicting Accuracy in Eyewitness Testimonies With...by PU Gustafsson · 2019 · Cited by 53 — The present study attempts to provide insig...</span></span></span>
 
-Research on eyewitness memory has found that [confidence]({{ 'confidence/' | relative_url }}) can rise with repeated questioning even when accuracy does not improve. Educational and forensic reviews summarising decades of work note that confidence is highly malleable and can be increased by factors that leave accuracy unchanged or even reduced. One of those factors is repeated retelling. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pressbooks.bccampus.ca/psyc268/chapter/chapter-8/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pressbooks.bccampus.ca">[BCcampus Pressbooks]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pressbooks.bccampus.ca</span><span class="citation-popover-snippet">Confidence increases the more times a witness is questioned; accuracy may not. So a...Read more...</span></span></span>
+Research on eyewitness memory has found that [confidence]({{ 'confidence/' | relative_url }}) can rise with repeated questioning even when accuracy does not improve. Educational and forensic reviews summarising decades of work note that confidence is highly malleable and can be increased by factors that leave accuracy unchanged or even reduced. One of those factors is repeated retelling.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pressbooks.bccampus.ca/psyc268/chapter/chapter-8/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pressbooks.bccampus.ca">[BCcampus Pressbooks]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pressbooks.bccampus.ca</span><span class="citation-popover-snippet">Confidence increases the more times a witness is questioned; accuracy may not. So a...Read more...</span></span></span>
 
-This helps explain a common courtroom misunderstanding. Jurors may hear a witness speak with certainty years after an event and assume that certainty reflects a stable memory. In reality, some of the certainty may come from having rehearsed the story many times rather than from preserving an unchanged record of the original experience. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/29716454/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Rethinking the Reliability of Eyewitness MemoryEyewitnesses typically provide reliable evidence on an initial, uncontaminated memor...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/pii/S1364661325000270" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Many believe that eyewitness memory is...Read more...</span></span></span>
+This helps explain a common courtroom misunderstanding. Jurors may hear a witness speak with certainty years after an event and assume that certainty reflects a stable memory. In reality, some of the certainty may come from having rehearsed the story many times rather than from preserving an unchanged record of the original experience.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/29716454/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Rethinking the Reliability of Eyewitness MemoryEyewitnesses typically provide reliable evidence on an initial, uncontaminated memor...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/pii/S1364661325000270" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Many believe that eyewitness memory is...Read more...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Yq6u_4xtVh0" title="Common Law S4 E8: The Psychology of Eyewitness Memory" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Yq6u_4xtVh0" target="_blank" rel="noopener noreferrer">Common Law S4 E8: The Psychology of Eyewitness Memory</a></p><p class="youtube-embed-meta">Channel: University of Virginia School of Law &middot; Views: 2.1K &middot; Uploaded: May 2022 &middot; Length: 29 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Yq6u_4xtVh0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Yq6u_4xtVh0">Open on YouTube</a></p></div></div></div>
 
@@ -289,9 +289,9 @@ This helps explain a common courtroom misunderstanding. Jurors may hear a witnes
 
 Retelling does not merely strengthen memories. It can reshape them.
 
-When people describe events, they naturally organise them into narratives. Stories tend to become cleaner and more coherent with repetition. Ambiguous moments are interpreted. Missing links are filled in. Uncertain details may gradually become definite. Over time, the remembered event can shift from a collection of fragments into a polished narrative that feels complete. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5256441/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">That&#x27;s not what you said the first time: A theoretical account of...by SE Stanley · 2016 · Cited by 22 — In two experiments, we show...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.psychstory.co.uk/memory/eye-witness-testimony" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: psychstory.co.uk">[psychstory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">psychstory.co.uk</span><span class="citation-popover-snippet">factors affecting the accuracy of eye witness testimonyEyewitness testimony serves as a real-world application of theories on reconstruct...</span></span></span> This process is not usually deliberate fabrication. Instead, people often incorporate information from later conversations, [media coverage]({{ 'media-coverage/' | relative_url }}), assumptions or inferences without noticing the source. Research on the misinformation effect shows that post-event information can become integrated into memory and later be experienced as part of the original event. Once incorporated, the detail may feel just as real as something actually witnessed. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nobaproject.com/modules/eyewitness-testimony-and-memory-biases" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nobaproject.com">[Noba]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nobaproject.com</span><span class="citation-popover-snippet">NobaEyewitness Testimony and Memory BiasesHundreds of subsequent studies have demonstrated that memory can be contaminated by erroneous i...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/topics/neuroscience/misinformation-effect" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-title">ScienceDirect Misinformation Effect</span><span class="citation-popover-snippet">Misinformation Effect - an overviewThe &#x27;Misinformation Effect&#x27; refers to the phenomenon where exposure to false information can lead to t...</span></span></span>
+When people describe events, they naturally organise them into narratives. Stories tend to become cleaner and more coherent with repetition. Ambiguous moments are interpreted. Missing links are filled in. Uncertain details may gradually become definite. Over time, the remembered event can shift from a collection of fragments into a polished narrative that feels complete.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5256441/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">That&#x27;s not what you said the first time: A theoretical account of...by SE Stanley · 2016 · Cited by 22 — In two experiments, we show...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.psychstory.co.uk/memory/eye-witness-testimony" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: psychstory.co.uk">[psychstory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">psychstory.co.uk</span><span class="citation-popover-snippet">factors affecting the accuracy of eye witness testimonyEyewitness testimony serves as a real-world application of theories on reconstruct...</span></span></span> This process is not usually deliberate fabrication. Instead, people often incorporate information from later conversations, [media coverage]({{ 'media-coverage/' | relative_url }}), assumptions or inferences without noticing the source. Research on the misinformation effect shows that post-event information can become integrated into memory and later be experienced as part of the original event. Once incorporated, the detail may feel just as real as something actually witnessed.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nobaproject.com/modules/eyewitness-testimony-and-memory-biases" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nobaproject.com">[Noba]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nobaproject.com</span><span class="citation-popover-snippet">NobaEyewitness Testimony and Memory BiasesHundreds of subsequent studies have demonstrated that memory can be contaminated by erroneous i...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/topics/neuroscience/misinformation-effect" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-title">ScienceDirect Misinformation Effect</span><span class="citation-popover-snippet">Misinformation Effect - an overviewThe &#x27;Misinformation Effect&#x27; refers to the phenomenon where exposure to false information can lead to t...</span></span></span>
 
-Repetition can strengthen these altered elements. Studies have found that repeated exposure to misinformation increases both susceptibility to the misinformation and confidence in it. In other words, hearing or repeating a mistaken detail multiple times can make people more certain that it is correct. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S1364661325000270" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Many believe that eyewitness memory is...Read more...</span></span></span>
+Repetition can strengthen these altered elements. Studies have found that repeated exposure to misinformation increases both susceptibility to the misinformation and confidence in it. In other words, hearing or repeating a mistaken detail multiple times can make people more certain that it is correct.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S1364661325000270" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Many believe that eyewitness memory is...Read more...</span></span></span>
 
 A witness might therefore begin with uncertainty:
 
@@ -308,11 +308,11 @@ The later statement can feel more authentic to the witness even if the original 
 
 People often assume that truthful memories remain stable while false memories change. Research suggests the relationship is more complicated.
 
-Repeated recall does not simply reproduce the same memory each time. Each retrieval is an active reconstruction. Studies examining repeated recall have found that witnesses frequently provide inconsistent details across different recollections, even when they are trying to be accurate. Some information disappears, some reappears and some changes. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5256441/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">That&#x27;s not what you said the first time: A theoretical account of...by SE Stanley · 2016 · Cited by 22 — In two experiments, we show...</span></span></span>
+Repeated recall does not simply reproduce the same memory each time. Each retrieval is an active reconstruction. Studies examining repeated recall have found that witnesses frequently provide inconsistent details across different recollections, even when they are trying to be accurate. Some information disappears, some reappears and some changes.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5256441/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">That&#x27;s not what you said the first time: A theoretical account of...by SE Stanley · 2016 · Cited by 22 — In two experiments, we show...</span></span></span>
 
 At the same time, the parts of a story that are repeated most often can become increasingly stabilised. This creates a paradox. The overall account may become more polished and internally consistent even though particular details have drifted away from the original event.
 
-One reason is that people tend to rehearse the version they most recently told rather than the original experience itself. The latest retelling becomes the basis for the next retelling. Over many repetitions, the memory can gradually shift while preserving a strong sense of continuity. What feels familiar is no longer necessarily the event; it may be the story about the event. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5256441/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">That&#x27;s not what you said the first time: A theoretical account of...by SE Stanley · 2016 · Cited by 22 — In two experiments, we show...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://memlab.yale.edu/sites/default/files/files/2011_Johnson-etal_NebraskaChapter.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: memlab.yale.edu">[Memory and Cognition]</a><span class="citation-popover" role="note"><span class="citation-popover-source">memlab.yale.edu</span><span class="citation-popover-title">2011 Johnson etal NebraskaChapter</span><span class="citation-popover-snippet">Memory and Cognition LabThe Cognitive Neuroscience of True and False Memories*by MK Johnson · 2012 · Cited by 108 — This chapter provides...</span></span></span>
+One reason is that people tend to rehearse the version they most recently told rather than the original experience itself. The latest retelling becomes the basis for the next retelling. Over many repetitions, the memory can gradually shift while preserving a strong sense of continuity. What feels familiar is no longer necessarily the event; it may be the story about the event.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5256441/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">That&#x27;s not what you said the first time: A theoretical account of...by SE Stanley · 2016 · Cited by 22 — In two experiments, we show...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://memlab.yale.edu/sites/default/files/files/2011_Johnson-etal_NebraskaChapter.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: memlab.yale.edu">[Memory and Cognition]</a><span class="citation-popover" role="note"><span class="citation-popover-source">memlab.yale.edu</span><span class="citation-popover-title">2011 Johnson etal NebraskaChapter</span><span class="citation-popover-snippet">Memory and Cognition LabThe Cognitive Neuroscience of True and False Memories*by MK Johnson · 2012 · Cited by 108 — This chapter provides...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/nOD_BCwgHtA" title="Multi-Store Model of Memory | Part 1 | AQA Psychology" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=nOD_BCwgHtA" target="_blank" rel="noopener noreferrer">Multi-Store Model of Memory | Part 1 | AQA Psychology</a></p><p class="youtube-embed-meta">Channel: Bear it in MIND &middot; Views: 47.2K &middot; Uploaded: November 2022 &middot; Length: 7 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=nOD_BCwgHtA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=nOD_BCwgHtA">Open on YouTube</a></p></div></div></div>
 
@@ -320,9 +320,9 @@ One reason is that people tend to rehearse the version they most recently told r
 
 The legal system has long placed weight on consistency. [Contradictions]({{ 'contradictions/' | relative_url }}) between interviews are often treated as warning signs, while highly consistent testimony can appear trustworthy.
 
-Memory research complicates that intuition. Consistency and accuracy are related, but they are not the same thing. A witness can consistently repeat an incorrect detail, especially if the detail has been reinforced through discussion, suggestion or repeated recall. Conversely, an accurate witness may show minor inconsistencies because genuine retrieval is often incomplete and variable. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5256441/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">That&#x27;s not what you said the first time: A theoretical account of...by SE Stanley · 2016 · Cited by 22 — In two experiments, we show...</span></span></span> PubMed This distinction is especially important when evaluating eyewitness confidence. Researchers have argued that confidence is most informative w <span class="citation-chip-wrap"><a class="citation-chip" href="https://memlab.yale.edu/sites/default/files/files/2011_Johnson-etal_NebraskaChapter.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: memlab.yale.edu">[memlab.yale.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">memlab.yale.edu</span><span class="citation-popover-title">2011 Johnson etal NebraskaChapter</span><span class="citation-popover-snippet">Memory and Cognition LabThe Cognitive Neuroscience of True and False Memories*by MK Johnson · 2012 · Cited by 108 — This chapter provides...</span></span></span> hen measured early, before contamination from repeated interviews, feedback or outside information. As time passes and retellings accumulate, confidence can become increasingly detached from underlying accuracy. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.psychologicalscience.org/observer/eyewitness-confidence-can-predict-accuracy-of-identifications-researchers-find" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: psychologicalscience.org">[Association for Psychological Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">psychologicalscience.org</span><span class="citation-popover-title">eyewitness confidence can predict accuracy of identifications researchers find</span><span class="citation-popover-snippet">Association for Psychological ScienceEyewitness Confidence Can Predict Accuracy of...31 Mar 2017 — Confidence is only informative at the...</span></span></span>
+Memory research complicates that intuition. Consistency and accuracy are related, but they are not the same thing. A witness can consistently repeat an incorrect detail, especially if the detail has been reinforced through discussion, suggestion or repeated recall. Conversely, an accurate witness may show minor inconsistencies because genuine retrieval is often incomplete and variable.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5256441/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">That&#x27;s not what you said the first time: A theoretical account of...by SE Stanley · 2016 · Cited by 22 — In two experiments, we show...</span></span></span> PubMed This distinction is especially important when evaluating eyewitness confidence. Researchers have argued that confidence is most informative w<span class="citation-chip-wrap"><a class="citation-chip" href="https://memlab.yale.edu/sites/default/files/files/2011_Johnson-etal_NebraskaChapter.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: memlab.yale.edu">[memlab.yale.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">memlab.yale.edu</span><span class="citation-popover-title">2011 Johnson etal NebraskaChapter</span><span class="citation-popover-snippet">Memory and Cognition LabThe Cognitive Neuroscience of True and False Memories*by MK Johnson · 2012 · Cited by 108 — This chapter provides...</span></span></span> hen measured early, before contamination from repeated interviews, feedback or outside information. As time passes and retellings accumulate, confidence can become increasingly detached from underlying accuracy.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.psychologicalscience.org/observer/eyewitness-confidence-can-predict-accuracy-of-identifications-researchers-find" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: psychologicalscience.org">[Association for Psychological Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">psychologicalscience.org</span><span class="citation-popover-title">eyewitness confidence can predict accuracy of identifications researchers find</span><span class="citation-popover-snippet">Association for Psychological ScienceEyewitness Confidence Can Predict Accuracy of...31 Mar 2017 — Confidence is only informative at the...</span></span></span>
 
-The practical implication is that a confident, consistent witness should not automatically be considered a more accurate witness. The confidence may partly reflect how often the story has been recalled, rehearsed and reinforced. <span class="citation-chip-wrap"><a class="citation-chip" href="https://news.virginia.edu/content/dissecting-eyewitness-memory-and-why-confidence-can-be-misleading" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.virginia.edu">[UVA Today]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.virginia.edu</span><span class="citation-popover-title">dissecting eyewitness memory and why confidence can be misleading</span><span class="citation-popover-snippet">UVA TodayDissecting Eyewitness Memory and Why Confidence Can Be...Oct 12, 2021 — Chad Dodson and his team have been investigating eyewit...</span></span></span>
+The practical implication is that a confident, consistent witness should not automatically be considered a more accurate witness. The confidence may partly reflect how often the story has been recalled, rehearsed and reinforced.<span class="citation-chip-wrap"><a class="citation-chip" href="https://news.virginia.edu/content/dissecting-eyewitness-memory-and-why-confidence-can-be-misleading" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.virginia.edu">[UVA Today]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.virginia.edu</span><span class="citation-popover-title">dissecting eyewitness memory and why confidence can be misleading</span><span class="citation-popover-snippet">UVA TodayDissecting Eyewitness Memory and Why Confidence Can Be...Oct 12, 2021 — Chad Dodson and his team have been investigating eyewit...</span></span></span>
 
 ## The Self-Reinforcing Loop Of Retelling
 
@@ -340,175 +340,175 @@ Repeated storytelling can create a feedback loop:
 
 </div>
 
-Over time, the witness becomes increasingly certain of a memory that may contain growing distortions. Importantly, this process often occurs without any awareness that change has taken place. The person is not consciously choosing a false story. The altered memory genuinely feels authentic. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5256441/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">That&#x27;s not what you said the first time: A theoretical account of...by SE Stanley · 2016 · Cited by 22 — In two experiments, we show...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://news.uchicago.edu/explainer/false-memories-explained" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.uchicago.edu">[University of Chicago News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.uchicago.edu</span><span class="citation-popover-title">They can be distorted versions of “true” memories or entirely false.Read more</span><span class="citation-popover-snippet">University of Chicago NewsFalse Memories, explained &#124; University of Chicago News8 May 2025 — A false memory is a recollection of somethin...</span><span class="citation-popover-meta">Published: May 2025</span></span></span>
+Over time, the witness becomes increasingly certain of a memory that may contain growing distortions. Importantly, this process often occurs without any awareness that change has taken place. The person is not consciously choosing a false story. The altered memory genuinely feels authentic.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5256441/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">That&#x27;s not what you said the first time: A theoretical account of...by SE Stanley · 2016 · Cited by 22 — In two experiments, we show...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://news.uchicago.edu/explainer/false-memories-explained" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.uchicago.edu">[University of Chicago News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.uchicago.edu</span><span class="citation-popover-title">They can be distorted versions of “true” memories or entirely false.Read more</span><span class="citation-popover-snippet">University of Chicago NewsFalse Memories, explained &#124; University of Chicago News8 May 2025 — A false memory is a recollection of somethin...</span><span class="citation-popover-meta">Published: May 2025</span></span></span>
 
-This is one reason memory researchers emphasise obtaining uncontaminated accounts as early as possible. Initial recollections are not perfect, but they are generally less influenced by later retellings, discussions and misinformation. Once a memory has been repeatedly reconstructed, it becomes difficult to separate original perception from later additions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/29716454/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Rethinking the Reliability of Eyewitness MemoryEyewitnesses typically provide reliable evidence on an initial, uncontaminated memor...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/abs/pii/S000169181100223X" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Repetition, not number of sources, increases both...by JL Foster · 2012 · Cited by 139 — Repetition, not number of sources...</span></span></span>
+This is one reason memory researchers emphasise obtaining uncontaminated accounts as early as possible. Initial recollections are not perfect, but they are generally less influenced by later retellings, discussions and misinformation. Once a memory has been repeatedly reconstructed, it becomes difficult to separate original perception from later additions.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/29716454/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Rethinking the Reliability of Eyewitness MemoryEyewitnesses typically provide reliable evidence on an initial, uncontaminated memor...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/abs/pii/S000169181100223X" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Repetition, not number of sources, increases both...by JL Foster · 2012 · Cited by 139 — Repetition, not number of sources...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/4SPF_ZZ2eNk" title="Why Your Memories Change Every Time You Remember Them" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=4SPF_ZZ2eNk" target="_blank" rel="noopener noreferrer">Why Your Memories Change Every Time You Remember Them</a></p><p class="youtube-embed-meta">Channel: GetTheBrief &middot; Views: 3 &middot; Uploaded: March 2026 &middot; Length: 3 minutes 3 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=4SPF_ZZ2eNk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=4SPF_ZZ2eNk">Open on YouTube</a></p></div></div></div>
 
 ## What The Research Changes About Eyewitness Confidence
 
-The central lesson is not that witnesses are unreliable or dishonest. Most witnesses are trying to report events honestly. The problem is that the normal processes that make stories easier to tell can also make them feel truer than they are. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nobaproject.com/modules/eyewitness-testimony-and-memory-biases" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nobaproject.com">[Noba]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nobaproject.com</span><span class="citation-popover-snippet">NobaEyewitness Testimony and Memory BiasesHundreds of subsequent studies have demonstrated that memory can be contaminated by erroneous i...</span></span></span>
+The central lesson is not that witnesses are unreliable or dishonest. Most witnesses are trying to report events honestly. The problem is that the normal processes that make stories easier to tell can also make them feel truer than they are.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nobaproject.com/modules/eyewitness-testimony-and-memory-biases" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nobaproject.com">[Noba]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nobaproject.com</span><span class="citation-popover-snippet">NobaEyewitness Testimony and Memory BiasesHundreds of subsequent studies have demonstrated that memory can be contaminated by erroneous i...</span></span></span>
 
-Repeated retelling increases familiarity, fluency and confidence. It encourages narrative smoothing and can reinforce details that entered memory after the event. As a result, a witness may become more persuasive over time while becoming less connected to the original experience. That possibility challenges one of the most persistent myths about memory: that certainty gained through repetition reflects increasing accuracy. In many cases, it reflects increasing familiarity with the story that memory has become. ScienceDirect <span class="citation-chip-wrap"><a class="citation-chip" href="https://pressbooks.bccampus.ca/psyc268/chapter/chapter-8/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pressbooks.bccampus.ca">[BCcampus Pressbooks]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pressbooks.bccampus.ca</span><span class="citation-popover-snippet">Confidence increases the more times a witness is questioned; accuracy may not. So a...Read more...</span></span></span>
+Repeated retelling increases familiarity, fluency and confidence. It encourages narrative smoothing and can reinforce details that entered memory after the event. As a result, a witness may become more persuasive over time while becoming less connected to the original experience. That possibility challenges one of the most persistent myths about memory: that certainty gained through repetition reflects increasing accuracy. In many cases, it reflects increasing familiarity with the story that memory has become. ScienceDirect<span class="citation-chip-wrap"><a class="citation-chip" href="https://pressbooks.bccampus.ca/psyc268/chapter/chapter-8/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pressbooks.bccampus.ca">[BCcampus Pressbooks]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pressbooks.bccampus.ca</span><span class="citation-popover-snippet">Confidence increases the more times a witness is questioned; accuracy may not. So a...Read more...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Repeated Stories Feel More True. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Repeated Stories Feel More True. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Seven+Sins+of+Memory+by+Daniel+L.+Schacter&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Seven Sins of Memory on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=m8qMjPF1NYAC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Seven Sins of Memory" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Seven+Sins+of+Memory+by+Daniel+L.+Schacter&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Seven Sins of Memory">The Seven Sins of Memory</a>
-        </h4>
-        <p class="fr-book-author">By Daniel L. Schacter</p>
-        <p class="fr-book-popularity">Rating: 3.5/5 from 5 Google Books ratings</p>
-        <p class="fr-book-desc">Explains why memory is reconstructive rather than a recording.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Seven+Sins+of+Memory+by+Daniel+L.+Schacter&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Seven+Sins+of+Memory+by+Daniel+L.+Schacter&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Seven Sins of Memory on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=m8qMjPF1NYAC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Seven Sins of Memory" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Seven+Sins+of+Memory+by+Daniel+L.+Schacter&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Seven Sins of Memory">The Seven Sins of Memory</a>
+</h4>
+<p class="fr-book-author">By Daniel L. Schacter</p>
+<p class="fr-book-popularity">Rating: 3.5/5 from 5 Google Books ratings</p>
+<p class="fr-book-desc">Explains why memory is reconstructive rather than a recording.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Seven+Sins+of+Memory+by+Daniel+L.+Schacter&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Memory+Illusion+by+Dr+Julia+Shaw&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Memory Illusion on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=OdKOCwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Memory Illusion" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Memory+Illusion+by+Dr+Julia+Shaw&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Memory Illusion">The Memory Illusion</a>
-        </h4>
-        <p class="fr-book-author">By Dr Julia Shaw</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Memory+Illusion+by+Dr+Julia+Shaw&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Memory Illusion on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=OdKOCwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Memory Illusion" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Memory+Illusion+by+Dr+Julia+Shaw&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Memory Illusion">The Memory Illusion</a>
+</h4>
+<p class="fr-book-author">By Dr Julia Shaw</p>
         
-        <p class="fr-book-desc">Strong coverage of how repetition and suggestion reshape memory.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Memory+Illusion+by+Dr+Julia+Shaw&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Strong coverage of how repetition and suggestion reshape memory.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Memory+Illusion+by+Dr+Julia+Shaw&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Eyewitness+Testimony+by+Elizabeth+F.+Loftus&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Eyewitness Testimony on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=uBlAU24-qsoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Eyewitness Testimony" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Eyewitness+Testimony+by+Elizabeth+F.+Loftus&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Eyewitness Testimony">Eyewitness Testimony</a>
-        </h4>
-        <p class="fr-book-author">By Elizabeth F. Loftus</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Eyewitness+Testimony+by+Elizabeth+F.+Loftus&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Eyewitness Testimony on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=uBlAU24-qsoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Eyewitness Testimony" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Eyewitness+Testimony+by+Elizabeth+F.+Loftus&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Eyewitness Testimony">Eyewitness Testimony</a>
+</h4>
+<p class="fr-book-author">By Elizabeth F. Loftus</p>
         
-        <p class="fr-book-desc">Demonstrates how recall changes through retelling and questioning.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Eyewitness+Testimony+by+Elizabeth+F.+Loftus&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Demonstrates how recall changes through retelling and questioning.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Eyewitness+Testimony+by+Elizabeth+F.+Loftus&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Invisible+Gorilla+by+Christopher+Chabris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Invisible Gorilla on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=VecEbBYC_sEC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Invisible Gorilla" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Invisible+Gorilla+by+Christopher+Chabris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Invisible Gorilla">The Invisible Gorilla</a>
-        </h4>
-        <p class="fr-book-author">By Christopher Chabris, Daniel Simons</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Invisible+Gorilla+by+Christopher+Chabris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Invisible Gorilla on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=VecEbBYC_sEC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Invisible Gorilla" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Invisible+Gorilla+by+Christopher+Chabris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Invisible Gorilla">The Invisible Gorilla</a>
+</h4>
+<p class="fr-book-author">By Christopher Chabris, Daniel Simons</p>
         
-        <p class="fr-book-desc">Explores the limits of attention, perception, and memory.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Invisible+Gorilla+by+Christopher+Chabris&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores the limits of attention, perception, and memory.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Invisible+Gorilla+by+Christopher+Chabris&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Seven+Sins+of+Memory&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Seven Sins of Memory</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Memory+Illusion&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Memory Illusion</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Eyewitness+Testimony&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Eyewitness Testimony</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Seven+Sins+of+Memory&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Seven Sins of Memory</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Memory+Illusion&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Memory Illusion</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Eyewitness+Testimony&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Eyewitness Testimony</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=education+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=retelling-why-repeated-stories-feel-more-true-myths-and-misconcept-education-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="education poster" data-ebay-reference="retelling-why-repeated-stories-feel-more-true-myths-and-misconcept-education-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Periodic table with elements poster Science Wall Chart UPDATED Education Poster"><img src="{{ '/assets/images/marketplace-covers/4353dda57fefeae45a72.jpg' | relative_url }}" alt="Listing image for Periodic table with elements poster Science Wall Chart UPDATED Education Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=education+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=retelling-why-repeated-stories-feel-more-true-myths-and-misconcept-education-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="education poster" data-ebay-reference="retelling-why-repeated-stories-feel-more-true-myths-and-misconcept-education-poster" target="_blank" rel="sponsored noopener noreferrer">Periodic table with elements poster Science Wall Chart UPDATED Education Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=education+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=retelling-why-repeated-stories-feel-more-true-myths-and-misconcept-education-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="education poster" data-ebay-reference="retelling-why-repeated-stories-feel-more-true-myths-and-misconcept-education-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for education poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: education poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=education+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=retelling-why-repeated-stories-feel-more-true-myths-and-misconcept-education-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="education poster" data-ebay-reference="retelling-why-repeated-stories-feel-more-true-myths-and-misconcept-education-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=education+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=retelling-why-repeated-stories-feel-more-true-myths-and-misconcept-education-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="education poster" data-ebay-reference="retelling-why-repeated-stories-feel-more-true-myths-and-misconcept-education-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Periodic table with elements poster Science Wall Chart UPDATED Education Poster"><img src="{{ '/assets/images/marketplace-covers/4353dda57fefeae45a72.jpg' | relative_url }}" alt="Listing image for Periodic table with elements poster Science Wall Chart UPDATED Education Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=education+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=retelling-why-repeated-stories-feel-more-true-myths-and-misconcept-education-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="education poster" data-ebay-reference="retelling-why-repeated-stories-feel-more-true-myths-and-misconcept-education-poster" target="_blank" rel="sponsored noopener noreferrer">Periodic table with elements poster Science Wall Chart UPDATED Education Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=education+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=retelling-why-repeated-stories-feel-more-true-myths-and-misconcept-education-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="education poster" data-ebay-reference="retelling-why-repeated-stories-feel-more-true-myths-and-misconcept-education-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for education poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: education poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=education+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=retelling-why-repeated-stories-feel-more-true-myths-and-misconcept-education-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="education poster" data-ebay-reference="retelling-why-repeated-stories-feel-more-true-myths-and-misconcept-education-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=education+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=retelling-why-repeated-stories-feel-more-true-myths-and-misconcept-education-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="education poster" data-ebay-reference="retelling-why-repeated-stories-feel-more-true-myths-and-misconcept-education-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PERIODIC TABLE Real Elements A3 Laminated Chemistry Science Educational Poster"><img src="{{ '/assets/images/marketplace-covers/fe6eac85e0cbd3115c4c.jpg' | relative_url }}" alt="Listing image for PERIODIC TABLE Real Elements A3 Laminated Chemistry Science Educational Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=education+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=retelling-why-repeated-stories-feel-more-true-myths-and-misconcept-education-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="education poster" data-ebay-reference="retelling-why-repeated-stories-feel-more-true-myths-and-misconcept-education-poster" target="_blank" rel="sponsored noopener noreferrer">PERIODIC TABLE Real Elements A3 Laminated Chemistry Science Educational Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=education+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=retelling-why-repeated-stories-feel-more-true-myths-and-misconcept-education-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="education poster" data-ebay-reference="retelling-why-repeated-stories-feel-more-true-myths-and-misconcept-education-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for education poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: education poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=education+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=retelling-why-repeated-stories-feel-more-true-myths-and-misconcept-education-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="education poster" data-ebay-reference="retelling-why-repeated-stories-feel-more-true-myths-and-misconcept-education-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=education+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=retelling-why-repeated-stories-feel-more-true-myths-and-misconcept-education-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="education poster" data-ebay-reference="retelling-why-repeated-stories-feel-more-true-myths-and-misconcept-education-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=education+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=retelling-why-repeated-stories-feel-more-true-myths-and-misconcept-education-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="education poster" data-ebay-reference="retelling-why-repeated-stories-feel-more-true-myths-and-misconcept-education-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PERIODIC TABLE Real Elements A3 Laminated Chemistry Science Educational Poster"><img src="{{ '/assets/images/marketplace-covers/fe6eac85e0cbd3115c4c.jpg' | relative_url }}" alt="Listing image for PERIODIC TABLE Real Elements A3 Laminated Chemistry Science Educational Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=education+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=retelling-why-repeated-stories-feel-more-true-myths-and-misconcept-education-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="education poster" data-ebay-reference="retelling-why-repeated-stories-feel-more-true-myths-and-misconcept-education-poster" target="_blank" rel="sponsored noopener noreferrer">PERIODIC TABLE Real Elements A3 Laminated Chemistry Science Educational Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=education+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=retelling-why-repeated-stories-feel-more-true-myths-and-misconcept-education-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="education poster" data-ebay-reference="retelling-why-repeated-stories-feel-more-true-myths-and-misconcept-education-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for education poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: education poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=education+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=retelling-why-repeated-stories-feel-more-true-myths-and-misconcept-education-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="education poster" data-ebay-reference="retelling-why-repeated-stories-feel-more-true-myths-and-misconcept-education-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=education+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=retelling-why-repeated-stories-feel-more-true-myths-and-misconcept-education-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="education poster" data-ebay-reference="retelling-why-repeated-stories-feel-more-true-myths-and-misconcept-education-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -524,7 +524,7 @@ Repeated retelling increases familiarity, fluency and confidence. It encourages 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -544,7 +544,7 @@ Repeated retelling increases familiarity, fluency and confidence. It encourages 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -576,7 +576,7 @@ Repeated retelling increases familiarity, fluency and confidence. It encourages 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -628,7 +628,7 @@ Repeated retelling increases familiarity, fluency and confidence. It encourages 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -673,7 +673,7 @@ Repeated retelling increases familiarity, fluency and confidence. It encourages 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -714,159 +714,159 @@ Repeated retelling increases familiarity, fluency and confidence. It encourages 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5256441/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC5256441/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>That&#x27;s not what you said the first time: A theoretical account of...by SE Stanley · 2016 · Cited by 22 — In two experiments, we show...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5256441/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC5256441/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>That&#x27;s not what you said the first time: A theoretical account of...by SE Stanley · 2016 · Cited by 22 — In two experiments, we show...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: pressbooks.bccampus.ca  
-   Link: <a href="https://pressbooks.bccampus.ca/psyc268/chapter/chapter-8/" target="_blank" rel="noopener noreferrer nofollow">https://pressbooks.bccampus.ca/psyc268/chapter/chapter-8/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Confidence increases the more times a witness is questioned; accuracy may not. So a...Read more...</p></details>
+   Link:<a href="https://pressbooks.bccampus.ca/psyc268/chapter/chapter-8/" target="_blank" rel="noopener noreferrer nofollow">https://pressbooks.bccampus.ca/psyc268/chapter/chapter-8/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Confidence increases the more times a witness is questioned; accuracy may not. So a...Read more...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10567586/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10567586/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Cognitive and neural mechanisms underlying false memoriesby AG Lentoor · 2023 · Cited by 13 — Misinformation effect is a phenomenon th...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10567586/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10567586/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Cognitive and neural mechanisms underlying false memoriesby AG Lentoor · 2023 · Cited by 13 — Misinformation effect is a phenomenon th...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: nature.com  
-   Link: <a href="https://www.nature.com/collections/diecaccfhi" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/collections/diecaccfhi</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Episodic memory and eyewitness testimony12 Dec 2023 — Eyewitness testimony is primarily based on episodic memory and plays a critical rol...</p></details>
+   Link:<a href="https://www.nature.com/collections/diecaccfhi" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/collections/diecaccfhi</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Episodic memory and eyewitness testimony12 Dec 2023 — Eyewitness testimony is primarily based on episodic memory and plays a critical rol...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCEyewitness accuracy and retrieval effort: Effects of time  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9451081/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9451081/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>by PU Gustafsson · 2022 · Cited by 23 — The major goal of the current study was to examine how time and repetition might influence the...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9451081/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9451081/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by PU Gustafsson · 2022 · Cited by 23 — The major goal of the current study was to examine how time and repetition might influence the...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/pii/S1364661325000270" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S1364661325000270</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Many believe that eyewitness memory is...Read more...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/pii/S1364661325000270" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S1364661325000270</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Many believe that eyewitness memory is...Read more...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10846070/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10846070/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Previous autobiographical events allow one to...Read more...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10846070/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10846070/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Previous autobiographical events allow one to...Read more...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: sciencedirect.com  
    Title: ScienceDirect Misinformation Effect  
-   Link: <a href="https://www.sciencedirect.com/topics/neuroscience/misinformation-effect" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/topics/neuroscience/misinformation-effect</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Misinformation Effect - an overviewThe &#x27;Misinformation Effect&#x27; refers to the phenomenon where exposure to false information can lead to t...</p></details>
+   Link:<a href="https://www.sciencedirect.com/topics/neuroscience/misinformation-effect" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/topics/neuroscience/misinformation-effect</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Misinformation Effect - an overviewThe &#x27;Misinformation Effect&#x27; refers to the phenomenon where exposure to false information can lead to t...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S000169181100223X" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S000169181100223X</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Repetition, not number of sources, increases both...by JL Foster · 2012 · Cited by 139 — Repetition, not number of sources...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/abs/pii/S000169181100223X" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S000169181100223X</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Repetition, not number of sources, increases both...by JL Foster · 2012 · Cited by 139 — Repetition, not number of sources...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: pressbooks.pub  
-   Link: <a href="https://pressbooks.pub/cognition/chapter/eyewitness-testimony-and-memory-biases/" target="_blank" rel="noopener noreferrer nofollow">https://pressbooks.pub/cognition/chapter/eyewitness-testimony-and-memory-biases/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Eyewitness Testimony and Memory Biases – CognitionThis phenomenon is called the misinformation effect, because the misinformation that su...</p></details>
+   Link:<a href="https://pressbooks.pub/cognition/chapter/eyewitness-testimony-and-memory-biases/" target="_blank" rel="noopener noreferrer nofollow">https://pressbooks.pub/cognition/chapter/eyewitness-testimony-and-memory-biases/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Eyewitness Testimony and Memory Biases – CognitionThis phenomenon is called the misinformation effect, because the misinformation that su...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: psychologicalscience.org  
    Title: eyewitness confidence can predict accuracy of identifications researchers find  
-   Link: <a href="https://www.psychologicalscience.org/observer/eyewitness-confidence-can-predict-accuracy-of-identifications-researchers-find" target="_blank" rel="noopener noreferrer nofollow">https://www.psychologicalscience.org/observer/eyewitness-confidence-can-predict-accuracy-of-identifications-researchers-find</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Association for Psychological ScienceEyewitness Confidence Can Predict Accuracy of...31 Mar 2017 — Confidence is only informative at the...</p></details>
+   Link:<a href="https://www.psychologicalscience.org/observer/eyewitness-confidence-can-predict-accuracy-of-identifications-researchers-find" target="_blank" rel="noopener noreferrer nofollow">https://www.psychologicalscience.org/observer/eyewitness-confidence-can-predict-accuracy-of-identifications-researchers-find</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Association for Psychological ScienceEyewitness Confidence Can Predict Accuracy of...31 Mar 2017 — Confidence is only informative at the...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: frontiersin.org  
-   Link: <a href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2019.00703/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2019.00703/full</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Predicting Accuracy in Eyewitness Testimonies With...by PU Gustafsson · 2019 · Cited by 53 — The present study attempts to provide insig...</p></details>
+   Link:<a href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2019.00703/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2019.00703/full</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Predicting Accuracy in Eyewitness Testimonies With...by PU Gustafsson · 2019 · Cited by 53 — The present study attempts to provide insig...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: memlab.yale.edu  
    Title: 2011 Johnson etal NebraskaChapter  
-   Link: <a href="https://memlab.yale.edu/sites/default/files/files/2011_Johnson-etal_NebraskaChapter.pdf" target="_blank" rel="noopener noreferrer nofollow">https://memlab.yale.edu/sites/default/files/files/2011_Johnson-etal_NebraskaChapter.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Memory and Cognition LabThe Cognitive Neuroscience of True and False Memories*by MK Johnson · 2012 · Cited by 108 — This chapter provides...</p></details>
+   Link:<a href="https://memlab.yale.edu/sites/default/files/files/2011_Johnson-etal_NebraskaChapter.pdf" target="_blank" rel="noopener noreferrer nofollow">https://memlab.yale.edu/sites/default/files/files/2011_Johnson-etal_NebraskaChapter.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Memory and Cognition LabThe Cognitive Neuroscience of True and False Memories*by MK Johnson · 2012 · Cited by 108 — This chapter provides...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/29716454/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/29716454/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Rethinking the Reliability of Eyewitness MemoryEyewitnesses typically provide reliable evidence on an initial, uncontaminated memor...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/29716454/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/29716454/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Rethinking the Reliability of Eyewitness MemoryEyewitnesses typically provide reliable evidence on an initial, uncontaminated memor...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: psychstory.co.uk  
-   Link: <a href="https://www.psychstory.co.uk/memory/eye-witness-testimony" target="_blank" rel="noopener noreferrer nofollow">https://www.psychstory.co.uk/memory/eye-witness-testimony</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>factors affecting the accuracy of eye witness testimonyEyewitness testimony serves as a real-world application of theories on reconstruct...</p></details>
+   Link:<a href="https://www.psychstory.co.uk/memory/eye-witness-testimony" target="_blank" rel="noopener noreferrer nofollow">https://www.psychstory.co.uk/memory/eye-witness-testimony</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>factors affecting the accuracy of eye witness testimonyEyewitness testimony serves as a real-world application of theories on reconstruct...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: frontiersin.org  
-   Link: <a href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2023.1212709/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2023.1212709/full</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The detrimental effects of delay on the endorsement...by D Shah · 2023 · Cited by 3 — The “misinformation effect” occurs when participan...</p></details>
+   Link:<a href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2023.1212709/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2023.1212709/full</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The detrimental effects of delay on the endorsement...by D Shah · 2023 · Cited by 3 — The “misinformation effect” occurs when participan...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: news.virginia.edu  
    Title: dissecting eyewitness memory and why confidence can be misleading  
-   Link: <a href="https://news.virginia.edu/content/dissecting-eyewitness-memory-and-why-confidence-can-be-misleading" target="_blank" rel="noopener noreferrer nofollow">https://news.virginia.edu/content/dissecting-eyewitness-memory-and-why-confidence-can-be-misleading</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UVA TodayDissecting Eyewitness Memory and Why Confidence Can Be...Oct 12, 2021 — Chad Dodson and his team have been investigating eyewit...</p></details>
+   Link:<a href="https://news.virginia.edu/content/dissecting-eyewitness-memory-and-why-confidence-can-be-misleading" target="_blank" rel="noopener noreferrer nofollow">https://news.virginia.edu/content/dissecting-eyewitness-memory-and-why-confidence-can-be-misleading</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UVA TodayDissecting Eyewitness Memory and Why Confidence Can Be...Oct 12, 2021 — Chad Dodson and his team have been investigating eyewit...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: news.uchicago.edu  
    Title: They can be distorted versions of “true” memories or entirely false.Read more  
-   Link: <a href="https://news.uchicago.edu/explainer/false-memories-explained" target="_blank" rel="noopener noreferrer nofollow">https://news.uchicago.edu/explainer/false-memories-explained</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>University of Chicago NewsFalse Memories, explained | University of Chicago News8 May 2025 — A false memory is a recollection of somethin...</p></details>
+   Link:<a href="https://news.uchicago.edu/explainer/false-memories-explained" target="_blank" rel="noopener noreferrer nofollow">https://news.uchicago.edu/explainer/false-memories-explained</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>University of Chicago NewsFalse Memories, explained | University of Chicago News8 May 2025 — A false memory is a recollection of somethin...</p></details>
    Published: May 2025  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: Wikipedia  
    Title: False memory  
-   Link: <a href="https://en.wikipedia.org/wiki/False_memory" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/False_memory</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>False memoryIn psychology, a false memory is a phenomenon in which someone recalls something that did not actually happen or recalls i...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/False_memory" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/False_memory</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>False memoryIn psychology, a false memory is a phenomenon in which someone recalls something that did not actually happen or recalls i...</p></details>
 
 ### Additional References
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: psychologistworld.com  
-   Link: <a href="https://www.psychologistworld.com/memory/false-memories-questioning-eyewitness-testimony" target="_blank" rel="noopener noreferrer nofollow">https://www.psychologistworld.com/memory/false-memories-questioning-eyewitness-testimony</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>False MemoriesIn this article, we will look at how false memories are created, the impact of questioning, language and other factors on o...</p></details>
+   Link:<a href="https://www.psychologistworld.com/memory/false-memories-questioning-eyewitness-testimony" target="_blank" rel="noopener noreferrer nofollow">https://www.psychologistworld.com/memory/false-memories-questioning-eyewitness-testimony</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>False MemoriesIn this article, we will look at how false memories are created, the impact of questioning, language and other factors on o...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: nobaproject.com  
-   Link: <a href="https://nobaproject.com/modules/eyewitness-testimony-and-memory-biases" target="_blank" rel="noopener noreferrer nofollow">https://nobaproject.com/modules/eyewitness-testimony-and-memory-biases</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NobaEyewitness Testimony and Memory BiasesHundreds of subsequent studies have demonstrated that memory can be contaminated by erroneous i...</p></details>
+   Link:<a href="https://nobaproject.com/modules/eyewitness-testimony-and-memory-biases" target="_blank" rel="noopener noreferrer nofollow">https://nobaproject.com/modules/eyewitness-testimony-and-memory-biases</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NobaEyewitness Testimony and Memory BiasesHundreds of subsequent studies have demonstrated that memory can be contaminated by erroneous i...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: thedecisionlab.com  
-   Link: <a href="https://thedecisionlab.com/reference-guide/psychology/the-misinformation-effect" target="_blank" rel="noopener noreferrer nofollow">https://thedecisionlab.com/reference-guide/psychology/the-misinformation-effect</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Misinformation EffectThe misinformation effect happens when our memory for past events is altered after exposure to misleading inform...</p></details>
+   Link:<a href="https://thedecisionlab.com/reference-guide/psychology/the-misinformation-effect" target="_blank" rel="noopener noreferrer nofollow">https://thedecisionlab.com/reference-guide/psychology/the-misinformation-effect</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Misinformation EffectThe misinformation effect happens when our memory for past events is altered after exposure to misleading inform...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/259672106_Effects_of_different_types_of_forensic_information_on_eyewitness%27_memory_and_confidence_accuracy" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/259672106_Effects_of_different_types_of_forensic_information_on_eyewitness%27_memory_and_confidence_accuracy</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Effects of different types of forensic information on...17 Mar 2026 — This study investigated eyewitnesses&#x27; memory and confidence...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/259672106_Effects_of_different_types_of_forensic_information_on_eyewitness%27_memory_and_confidence_accuracy" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/259672106_Effects_of_different_types_of_forensic_information_on_eyewitness%27_memory_and_confidence_accuracy</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Effects of different types of forensic information on...17 Mar 2026 — This study investigated eyewitnesses&#x27; memory and confidence...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=Yq6u_4xtVh0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Yq6u_4xtVh0</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Common Law S4 E8: The Psychology of Eyewitness MemoryPsychologist Elizabeth F. Loftus, a leading expert on memory, discusses how her rese...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Yq6u_4xtVh0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Yq6u_4xtVh0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Common Law S4 E8: The Psychology of Eyewitness MemoryPsychologist Elizabeth F. Loftus, a leading expert on memory, discusses how her rese...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: globalrph.com  
-   Link: <a href="https://globalrph.com/2025/11/false-memories-and-distorted-reality-cognitive-mechanisms-of-human-recall/" target="_blank" rel="noopener noreferrer nofollow">https://globalrph.com/2025/11/false-memories-and-distorted-reality-cognitive-mechanisms-of-human-recall/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>reality, yet research reveals that our recall processes are far from perfect.Read more...</p></details>
+   Link:<a href="https://globalrph.com/2025/11/false-memories-and-distorted-reality-cognitive-mechanisms-of-human-recall/" target="_blank" rel="noopener noreferrer nofollow">https://globalrph.com/2025/11/false-memories-and-distorted-reality-cognitive-mechanisms-of-human-recall/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>reality, yet research reveals that our recall processes are far from perfect.Read more...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: academia.edu  
-   Link: <a href="https://www.academia.edu/23535310/Effects_of_different_types_of_forensic_information_on_eyewitness_memory_and_confidence_accuracy" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/23535310/Effects_of_different_types_of_forensic_information_on_eyewitness_memory_and_confidence_accuracy</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Multiple retellings positively influence memory performance for action...Read more...</p></details>
+   Link:<a href="https://www.academia.edu/23535310/Effects_of_different_types_of_forensic_information_on_eyewitness_memory_and_confidence_accuracy" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/23535310/Effects_of_different_types_of_forensic_information_on_eyewitness_memory_and_confidence_accuracy</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Multiple retellings positively influence memory performance for action...Read more...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: osf.io  
-   Link: <a href="https://osf.io/download/hvaek/" target="_blank" rel="noopener noreferrer nofollow">https://osf.io/download/hvaek/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>least in some contexts—is a better predictor of memory accuracy than...Read more...</p></details>
+   Link:<a href="https://osf.io/download/hvaek/" target="_blank" rel="noopener noreferrer nofollow">https://osf.io/download/hvaek/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>least in some contexts—is a better predictor of memory accuracy than...Read more...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: studysmarter.co.uk  
    Title: Misinformation Effect: Definition & Impact  
-   Link: <a href="https://www.studysmarter.co.uk/explanations/psychology/memory-studies-in-psychology/misinformation-effect/" target="_blank" rel="noopener noreferrer nofollow">https://www.studysmarter.co.uk/explanations/psychology/memory-studies-in-psychology/misinformation-effect/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Psychology13 Jan 2025 — The misinformation effect occurs when a person&#x27;s recall of an event is influenced by misleading information prese...</p></details>
+   Link:<a href="https://www.studysmarter.co.uk/explanations/psychology/memory-studies-in-psychology/misinformation-effect/" target="_blank" rel="noopener noreferrer nofollow">https://www.studysmarter.co.uk/explanations/psychology/memory-studies-in-psychology/misinformation-effect/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Psychology13 Jan 2025 — The misinformation effect occurs when a person&#x27;s recall of an event is influenced by misleading information prese...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: facebook.com  
    Title: Did your memories ever really happen?  
-   Link: <a href="https://www.facebook.com/NOVApbs/posts/did-your-memories-ever-really-happen-turns-out-every-time-you-recall-a-memory-it/953180316856353/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NOVApbs/posts/did-your-memories-ever-really-happen-turns-out-every-time-you-recall-a-memory-it/953180316856353/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Turns out, every...Studies by memory expert Elizabeth Loftus found that around 25% of people can be led to “remember” events from childh...</p></details>
+   Link:<a href="https://www.facebook.com/NOVApbs/posts/did-your-memories-ever-really-happen-turns-out-every-time-you-recall-a-memory-it/953180316856353/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NOVApbs/posts/did-your-memories-ever-really-happen-turns-out-every-time-you-recall-a-memory-it/953180316856353/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Turns out, every...Studies by memory expert Elizabeth Loftus found that around 25% of people can be led to “remember” events from childh...</p></details>

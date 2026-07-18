@@ -268,7 +268,7 @@ image: /assets/images/Myths_and_misconcept_0d48d7_social_media_myths_2c6e1b_reco
 
 ## Introduction
 
-A rumour does not become a mass myth simply because many people believe it. On modern social [platforms]({{ 'platforms/' | relative_url }}), a crucial step is automated recommendation. When a claim receives an early burst of attention, recommendation systems may treat that attention as a signal of relevance and begin showing the content to wider audiences. The resulting cycle can turn an unverified assertion into something that feels familiar, widely discussed and therefore credible. By the time verification arrives, the rumour may already have travelled far beyond its original audience. Research on online misinformation consistently shows that false information can spread faster and more broadly than accurate information, creating ideal conditions for recommendation-driven [amplification]({{ 'amplification/' | relative_url }}). <span class="citation-chip-wrap"><a class="citation-chip" href="https://news.mit.edu/2018/study-twitter-false-news-travels-faster-true-stories-0308" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.mit.edu">[MIT News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.mit.edu</span><span class="citation-popover-title">study twitter false news travels faster true stories 0308</span><span class="citation-popover-snippet">MIT NewsStudy: On Twitter, false news travels faster than true stories8 Mar 2018  A new study by three MIT scholars has found that false...</span></span></span>
+A rumour does not become a mass myth simply because many people believe it. On modern social [platforms]({{ 'platforms/' | relative_url }}), a crucial step is automated recommendation. When a claim receives an early burst of attention, recommendation systems may treat that attention as a signal of relevance and begin showing the content to wider audiences. The resulting cycle can turn an unverified assertion into something that feels familiar, widely discussed and therefore credible. By the time verification arrives, the rumour may already have travelled far beyond its original audience. Research on online misinformation consistently shows that false information can spread faster and more broadly than accurate information, creating ideal conditions for recommendation-driven [amplification]({{ 'amplification/' | relative_url }}).<span class="citation-chip-wrap"><a class="citation-chip" href="https://news.mit.edu/2018/study-twitter-false-news-travels-faster-true-stories-0308" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.mit.edu">[MIT News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.mit.edu</span><span class="citation-popover-title">study twitter false news travels faster true stories 0308</span><span class="citation-popover-snippet">MIT NewsStudy: On Twitter, false news travels faster than true stories8 Mar 2018  A new study by three MIT scholars has found that false...</span></span></span>
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_social_media_myths_2c6e1b_recommendation_loops_da0144-Illustration-1-dark.svg" | relative_url }}" alt="Rumour Loops illustration 1" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_social_media_myths_2c6e1b_recommendation_loops_da0144-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_social_media_myths_2c6e1b_recommendation_loops_da0144-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 This mechanism helps explain why some myths appear to emerge suddenly. In reality, they often begin as small rumours that enter a feedback loop involving engagement signals, recommendation engines, resharing behaviour and repeated exposure.
@@ -291,7 +291,7 @@ A typical rumour loop works like this:
 
 This process creates a self-reinforcing cycle. The rumour gains visibility because it attracts attention, and it attracts more attention because it gains visibility.
 
-Researchers studying recommender systems have found that algorithmic design choices can influence how misinformation spreads through networks. While recommendation systems are not the sole cause of false beliefs, they can increase the exposure of misleading content once engagement signals begin accumulating. <span class="citation-chip-wrap"><a class="citation-chip" href="https://oro.open.ac.uk/96966/1/websci24-12.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oro.open.ac.uk">[Open University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oro.open.ac.uk</span><span class="citation-popover-snippet">Open UniversityAnalysing the Effect of Recommendation Algorithms on the...March 11, 2024  by M Fernandez  2024  Cited by 35  the Eff...</span><span class="citation-popover-meta">Published: March 11, 2024</span></span></span>
+Researchers studying recommender systems have found that algorithmic design choices can influence how misinformation spreads through networks. While recommendation systems are not the sole cause of false beliefs, they can increase the exposure of misleading content once engagement signals begin accumulating.<span class="citation-chip-wrap"><a class="citation-chip" href="https://oro.open.ac.uk/96966/1/websci24-12.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oro.open.ac.uk">[Open University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oro.open.ac.uk</span><span class="citation-popover-snippet">Open UniversityAnalysing the Effect of Recommendation Algorithms on the...March 11, 2024  by M Fernandez  2024  Cited by 35  the Eff...</span><span class="citation-popover-meta">Published: March 11, 2024</span></span></span>
 
 The key point is that recommendation systems often reward performance before verification. A rumour that captures curiosity in its first minutes or hours may receive large-scale distribution before anyone has established whether it is accurate.
 
@@ -299,7 +299,7 @@ The key point is that recommendation systems often reward performance before ver
 
 Rumours are especially powerful during breaking news because reliable information is often incomplete. In the early stages of a crisis, disaster, crime or political event, uncertainty creates a vacuum that speculation can fill.
 
-Social media rumour researchers have long noted that newly emerging rumours thrive in fast-moving situations where information arrives in fragments and verification lags behind public discussion. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2103.14748" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Social media rumour researchers have long noted that newly emerging rumours thrive in fast-moving situations where information arrives in fragments and verification lags behind public discussion.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2103.14748" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 Recommendation loops magnify this problem because algorithms operate far faster than fact-checking processes. A dramatic claim can gain thousands or millions of views while journalists, authorities or eyewitnesses are still trying to establish basic facts.
 
@@ -315,7 +315,7 @@ This creates an asymmetry:
 
 The result is that visibility often peaks before certainty exists.
 
-Studies of false news diffusion have found that false stories travel farther, faster and more broadly than true ones. The MIT research that analysed millions of Twitter posts found that falsehoods were significantly more likely to be reshared and reached large audiences much more quickly than accurate information. Researchers suggested that novelty and surprise contribute to this advantage. MIT News <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.science.org/doi/10.1126/science.aap9559" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.org">[science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.org</span><span class="citation-popover-snippet">The spread of true and false news onlineby S Vosoughi  2018  Cited by 13885  This suggests that false news spreads farther, faster, de...</span></span></span> When recommendation systems are optimised for engagement, novel and emotionally charged rumours can therefore receive an additional distribution advantage at exactly the moment when verification is weakest.
+Studies of false news diffusion have found that false stories travel farther, faster and more broadly than true ones. The MIT research that analysed millions of Twitter posts found that falsehoods were significantly more likely to be reshared and reached large audiences much more quickly than accurate information. Researchers suggested that novelty and surprise contribute to this advantage. MIT News<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.science.org/doi/10.1126/science.aap9559" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.org">[science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.org</span><span class="citation-popover-snippet">The spread of true and false news onlineby S Vosoughi  2018  Cited by 13885  This suggests that false news spreads farther, faster, de...</span></span></span> When recommendation systems are optimised for engagement, novel and emotionally charged rumours can therefore receive an additional distribution advantage at exactly the moment when verification is weakest.
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_social_media_myths_2c6e1b_recommendation_loops_da0144-Illustration-2-dark.svg" | relative_url }}" alt="Rumour Loops illustration 2" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_social_media_myths_2c6e1b_recommendation_loops_da0144-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_social_media_myths_2c6e1b_recommendation_loops_da0144-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How Near-Duplicates Keep a Narrative Alive
@@ -368,201 +368,201 @@ Recommendation loops contribute to this transition in three ways:
 
 </div>
 
-Importantly, recommendation systems do not need to invent misinformation to amplify it. Their influence lies in selecting what receives attention and repeatedly placing successful content before new audiences. Research on misinformation diffusion and recommendation algorithms suggests that these feedback mechanisms can significantly shape which rumours remain obscure and which evolve into widely believed myths. <span class="citation-chip-wrap"><a class="citation-chip" href="https://oro.open.ac.uk/96966/1/websci24-12.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oro.open.ac.uk">[Open University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oro.open.ac.uk</span><span class="citation-popover-snippet">Open UniversityAnalysing the Effect of Recommendation Algorithms on the...March 11, 2024  by M Fernandez  2024  Cited by 35  the Eff...</span><span class="citation-popover-meta">Published: March 11, 2024</span></span></span> 2arXiv
+Importantly, recommendation systems do not need to invent misinformation to amplify it. Their influence lies in selecting what receives attention and repeatedly placing successful content before new audiences. Research on misinformation diffusion and recommendation algorithms suggests that these feedback mechanisms can significantly shape which rumours remain obscure and which evolve into widely believed myths.<span class="citation-chip-wrap"><a class="citation-chip" href="https://oro.open.ac.uk/96966/1/websci24-12.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oro.open.ac.uk">[Open University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oro.open.ac.uk</span><span class="citation-popover-snippet">Open UniversityAnalysing the Effect of Recommendation Algorithms on the...March 11, 2024  by M Fernandez  2024  Cited by 35  the Eff...</span><span class="citation-popover-meta">Published: March 11, 2024</span></span></span> 2arXiv
 
-The most consequential myths of the social media era are therefore often not the rumours that begin with the largest audiences. They are the rumours that perform well enough in their first moments to enter a recommendation loop before verification has a chance to catch up. <span class="citation-chip-wrap"><a class="citation-chip" href="https://publications.parliament.uk/pa/cm5901/cmselect/cmsctech/441/report.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: publications.parliament.uk">[publications.parliament.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">publications.parliament.uk</span><span class="citation-popover-snippet">Social media, misinformation and harmful algorithmsCalls to violence were posted across major platforms, in some cases seemingly amplifie...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://sinanaral.medium.com/fake-news-about-our-fake-news-study-spread-faster-than-its-truth-just-as-we-predicted-77db6d9ca8c8" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sinanaral.medium.com">[2sinanaral.medium.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sinanaral.medium.com</span><span class="citation-popover-snippet">News about our Fake News Study Spread Faster than its...But in social media, that&#x27;s just not how misinformation works. Falsity spreads f...</span></span></span>
+The most consequential myths of the social media era are therefore often not the rumours that begin with the largest audiences. They are the rumours that perform well enough in their first moments to enter a recommendation loop before verification has a chance to catch up.<span class="citation-chip-wrap"><a class="citation-chip" href="https://publications.parliament.uk/pa/cm5901/cmselect/cmsctech/441/report.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: publications.parliament.uk">[publications.parliament.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">publications.parliament.uk</span><span class="citation-popover-snippet">Social media, misinformation and harmful algorithmsCalls to violence were posted across major platforms, in some cases seemingly amplifie...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://sinanaral.medium.com/fake-news-about-our-fake-news-study-spread-faster-than-its-truth-just-as-we-predicted-77db6d9ca8c8" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sinanaral.medium.com">[2sinanaral.medium.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sinanaral.medium.com</span><span class="citation-popover-snippet">News about our Fake News Study Spread Faster than its...But in social media, that&#x27;s just not how misinformation works. Falsity spreads f...</span></span></span>
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_social_media_myths_2c6e1b_recommendation_loops_da0144-Illustration-3-dark.svg" | relative_url }}" alt="Rumour Loops illustration 3" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_social_media_myths_2c6e1b_recommendation_loops_da0144-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_social_media_myths_2c6e1b_recommendation_loops_da0144-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How Small Rumours Become Mass Myths. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How Small Rumours Become Mass Myths. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Chaos+Machine+by+Max+Fisher&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Chaos Machine on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Fz5JEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Chaos Machine" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Chaos+Machine+by+Max+Fisher&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Chaos Machine">The Chaos Machine</a>
-        </h4>
-        <p class="fr-book-author">By Max Fisher</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Chaos+Machine+by+Max+Fisher&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Chaos Machine on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Fz5JEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Chaos Machine" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Chaos+Machine+by+Max+Fisher&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Chaos Machine">The Chaos Machine</a>
+</h4>
+<p class="fr-book-author">By Max Fisher</p>
         
-        <p class="fr-book-desc">Directly addresses recommendation systems and viral misinformation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Chaos+Machine+by+Max+Fisher&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly addresses recommendation systems and viral misinformation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Chaos+Machine+by+Max+Fisher&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Likewar+by+Peter+Warren+Singer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Likewar on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=URFxDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Likewar" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Likewar+by+Peter+Warren+Singer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Likewar">Likewar</a>
-        </h4>
-        <p class="fr-book-author">By Peter Warren Singer, Emerson T. Brooking</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Likewar+by+Peter+Warren+Singer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Likewar on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=URFxDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Likewar" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Likewar+by+Peter+Warren+Singer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Likewar">Likewar</a>
+</h4>
+<p class="fr-book-author">By Peter Warren Singer, Emerson T. Brooking</p>
         
-        <p class="fr-book-desc">Covers amplification and mass spread of information online.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Likewar+by+Peter+Warren+Singer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers amplification and mass spread of information online.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Likewar+by+Peter+Warren+Singer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Trust+Me+I%27m+Lying+by+Ryan+Holiday&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Trust Me I&#x27;m Lying on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nHU7DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Trust Me I&#x27;m Lying" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Trust+Me+I%27m+Lying+by+Ryan+Holiday&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Trust Me I&#x27;m Lying">Trust Me I&#x27;m Lying</a>
-        </h4>
-        <p class="fr-book-author">By Ryan Holiday</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Trust+Me+I%27m+Lying+by+Ryan+Holiday&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Trust Me I&#x27;m Lying on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nHU7DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Trust Me I&#x27;m Lying" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Trust+Me+I%27m+Lying+by+Ryan+Holiday&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Trust Me I&#x27;m Lying">Trust Me I&#x27;m Lying</a>
+</h4>
+<p class="fr-book-author">By Ryan Holiday</p>
         
-        <p class="fr-book-desc">Shows how attention loops magnify rumours.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Trust+Me+I%27m+Lying+by+Ryan+Holiday&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows how attention loops magnify rumours.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Trust+Me+I%27m+Lying+by+Ryan+Holiday&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Psychology+of+Fake+News+by+Rainer+Greifeneder&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Psychology of Fake News on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=-Q72DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Psychology of Fake News" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Psychology+of+Fake+News+by+Rainer+Greifeneder&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Psychology of Fake News">The Psychology of Fake News</a>
-        </h4>
-        <p class="fr-book-author">By Rainer Greifeneder, Mariela Jaffe et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Psychology+of+Fake+News+by+Rainer+Greifeneder&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Psychology of Fake News on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=-Q72DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Psychology of Fake News" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Psychology+of+Fake+News+by+Rainer+Greifeneder&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Psychology of Fake News">The Psychology of Fake News</a>
+</h4>
+<p class="fr-book-author">By Rainer Greifeneder, Mariela Jaffe et al.</p>
         
-        <p class="fr-book-desc">Explains why misinformation gains traction.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Psychology+of+Fake+News+by+Rainer+Greifeneder&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains why misinformation gains traction.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Psychology+of+Fake+News+by+Rainer+Greifeneder&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Chaos+Machine&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Chaos Machine</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Likewar&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Likewar</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Trust+Me+I%27m+Lying&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Trust Me I&#x27;m Lying</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Chaos+Machine&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Chaos Machine</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Likewar&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Likewar</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Trust+Me+I%27m+Lying&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Trust Me I&#x27;m Lying</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=technology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rumour-loops-how-small-rumours-become-mass-myths-myths-and-misconcept-technology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="technology wall art" data-ebay-reference="rumour-loops-how-small-rumours-become-mass-myths-myths-and-misconcept-technology-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Framed iPhone 7 Wall Art – Deconstructed Tech Frame | Unique Gift | UK Made"><img src="{{ '/assets/images/marketplace-covers/5bc2986344f968932a31.jpg' | relative_url }}" alt="Listing image for Framed iPhone 7 Wall Art – Deconstructed Tech Frame | Unique Gift | UK Made" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=technology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rumour-loops-how-small-rumours-become-mass-myths-myths-and-misconcept-technology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="technology wall art" data-ebay-reference="rumour-loops-how-small-rumours-become-mass-myths-myths-and-misconcept-technology-wall-art" target="_blank" rel="sponsored noopener noreferrer">Framed iPhone 7 Wall Art – Deconstructed Tech Frame | Unique Gift | UK Made</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=technology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rumour-loops-how-small-rumours-become-mass-myths-myths-and-misconcept-technology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="technology wall art" data-ebay-reference="rumour-loops-how-small-rumours-become-mass-myths-myths-and-misconcept-technology-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for technology wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: technology wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=technology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rumour-loops-how-small-rumours-become-mass-myths-myths-and-misconcept-technology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="technology wall art" data-ebay-reference="rumour-loops-how-small-rumours-become-mass-myths-myths-and-misconcept-technology-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=technology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rumour-loops-how-small-rumours-become-mass-myths-myths-and-misconcept-technology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="technology wall art" data-ebay-reference="rumour-loops-how-small-rumours-become-mass-myths-myths-and-misconcept-technology-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Framed iPhone 7 Wall Art – Deconstructed Tech Frame | Unique Gift | UK Made"><img src="{{ '/assets/images/marketplace-covers/5bc2986344f968932a31.jpg' | relative_url }}" alt="Listing image for Framed iPhone 7 Wall Art – Deconstructed Tech Frame | Unique Gift | UK Made" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=technology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rumour-loops-how-small-rumours-become-mass-myths-myths-and-misconcept-technology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="technology wall art" data-ebay-reference="rumour-loops-how-small-rumours-become-mass-myths-myths-and-misconcept-technology-wall-art" target="_blank" rel="sponsored noopener noreferrer">Framed iPhone 7 Wall Art – Deconstructed Tech Frame | Unique Gift | UK Made</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=technology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rumour-loops-how-small-rumours-become-mass-myths-myths-and-misconcept-technology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="technology wall art" data-ebay-reference="rumour-loops-how-small-rumours-become-mass-myths-myths-and-misconcept-technology-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for technology wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: technology wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=technology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rumour-loops-how-small-rumours-become-mass-myths-myths-and-misconcept-technology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="technology wall art" data-ebay-reference="rumour-loops-how-small-rumours-become-mass-myths-myths-and-misconcept-technology-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=technology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rumour-loops-how-small-rumours-become-mass-myths-myths-and-misconcept-technology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="technology wall art" data-ebay-reference="rumour-loops-how-small-rumours-become-mass-myths-myths-and-misconcept-technology-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Technology Definition Meaning 1 Art Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/9d141a9d1f8146ef1ea9.jpg' | relative_url }}" alt="Listing image for Technology Definition Meaning 1 Art Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=technology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rumour-loops-how-small-rumours-become-mass-myths-myths-and-misconcept-technology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="technology wall art" data-ebay-reference="rumour-loops-how-small-rumours-become-mass-myths-myths-and-misconcept-technology-wall-art" target="_blank" rel="sponsored noopener noreferrer">Technology Definition Meaning 1 Art Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=technology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rumour-loops-how-small-rumours-become-mass-myths-myths-and-misconcept-technology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="technology wall art" data-ebay-reference="rumour-loops-how-small-rumours-become-mass-myths-myths-and-misconcept-technology-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for technology wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: technology wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=technology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rumour-loops-how-small-rumours-become-mass-myths-myths-and-misconcept-technology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="technology wall art" data-ebay-reference="rumour-loops-how-small-rumours-become-mass-myths-myths-and-misconcept-technology-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=technology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rumour-loops-how-small-rumours-become-mass-myths-myths-and-misconcept-technology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="technology wall art" data-ebay-reference="rumour-loops-how-small-rumours-become-mass-myths-myths-and-misconcept-technology-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Technology Definition Meaning 1 Art Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/9d141a9d1f8146ef1ea9.jpg' | relative_url }}" alt="Listing image for Technology Definition Meaning 1 Art Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=technology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rumour-loops-how-small-rumours-become-mass-myths-myths-and-misconcept-technology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="technology wall art" data-ebay-reference="rumour-loops-how-small-rumours-become-mass-myths-myths-and-misconcept-technology-wall-art" target="_blank" rel="sponsored noopener noreferrer">Technology Definition Meaning 1 Art Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=technology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rumour-loops-how-small-rumours-become-mass-myths-myths-and-misconcept-technology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="technology wall art" data-ebay-reference="rumour-loops-how-small-rumours-become-mass-myths-myths-and-misconcept-technology-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for technology wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: technology wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=technology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rumour-loops-how-small-rumours-become-mass-myths-myths-and-misconcept-technology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="technology wall art" data-ebay-reference="rumour-loops-how-small-rumours-become-mass-myths-myths-and-misconcept-technology-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=technology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rumour-loops-how-small-rumours-become-mass-myths-myths-and-misconcept-technology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="technology wall art" data-ebay-reference="rumour-loops-how-small-rumours-become-mass-myths-myths-and-misconcept-technology-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Technology girl Framed Art Print Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/d15790f38a23a1e38b22.jpg' | relative_url }}" alt="Listing image for Technology girl Framed Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=technology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rumour-loops-how-small-rumours-become-mass-myths-myths-and-misconcept-technology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="technology wall art" data-ebay-reference="rumour-loops-how-small-rumours-become-mass-myths-myths-and-misconcept-technology-wall-art" target="_blank" rel="sponsored noopener noreferrer">Technology girl Framed Art Print Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=technology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rumour-loops-how-small-rumours-become-mass-myths-myths-and-misconcept-technology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="technology wall art" data-ebay-reference="rumour-loops-how-small-rumours-become-mass-myths-myths-and-misconcept-technology-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for technology wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: technology wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=technology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rumour-loops-how-small-rumours-become-mass-myths-myths-and-misconcept-technology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="technology wall art" data-ebay-reference="rumour-loops-how-small-rumours-become-mass-myths-myths-and-misconcept-technology-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=technology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rumour-loops-how-small-rumours-become-mass-myths-myths-and-misconcept-technology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="technology wall art" data-ebay-reference="rumour-loops-how-small-rumours-become-mass-myths-myths-and-misconcept-technology-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Technology girl Framed Art Print Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/d15790f38a23a1e38b22.jpg' | relative_url }}" alt="Listing image for Technology girl Framed Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=technology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rumour-loops-how-small-rumours-become-mass-myths-myths-and-misconcept-technology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="technology wall art" data-ebay-reference="rumour-loops-how-small-rumours-become-mass-myths-myths-and-misconcept-technology-wall-art" target="_blank" rel="sponsored noopener noreferrer">Technology girl Framed Art Print Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=technology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rumour-loops-how-small-rumours-become-mass-myths-myths-and-misconcept-technology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="technology wall art" data-ebay-reference="rumour-loops-how-small-rumours-become-mass-myths-myths-and-misconcept-technology-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for technology wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: technology wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=technology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rumour-loops-how-small-rumours-become-mass-myths-myths-and-misconcept-technology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="technology wall art" data-ebay-reference="rumour-loops-how-small-rumours-become-mass-myths-myths-and-misconcept-technology-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=technology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rumour-loops-how-small-rumours-become-mass-myths-myths-and-misconcept-technology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="technology wall art" data-ebay-reference="rumour-loops-how-small-rumours-become-mass-myths-myths-and-misconcept-technology-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Technology Framed Art Print Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/9e5e14d28187b4342672.jpg' | relative_url }}" alt="Listing image for Technology Framed Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=technology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rumour-loops-how-small-rumours-become-mass-myths-myths-and-misconcept-technology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="technology wall art" data-ebay-reference="rumour-loops-how-small-rumours-become-mass-myths-myths-and-misconcept-technology-wall-art" target="_blank" rel="sponsored noopener noreferrer">Technology Framed Art Print Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=technology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rumour-loops-how-small-rumours-become-mass-myths-myths-and-misconcept-technology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="technology wall art" data-ebay-reference="rumour-loops-how-small-rumours-become-mass-myths-myths-and-misconcept-technology-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for technology wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: technology wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=technology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rumour-loops-how-small-rumours-become-mass-myths-myths-and-misconcept-technology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="technology wall art" data-ebay-reference="rumour-loops-how-small-rumours-become-mass-myths-myths-and-misconcept-technology-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=technology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rumour-loops-how-small-rumours-become-mass-myths-myths-and-misconcept-technology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="technology wall art" data-ebay-reference="rumour-loops-how-small-rumours-become-mass-myths-myths-and-misconcept-technology-wall-art" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=technology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rumour-loops-how-small-rumours-become-mass-myths-myths-and-misconcept-technology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="technology wall art" data-ebay-reference="rumour-loops-how-small-rumours-become-mass-myths-myths-and-misconcept-technology-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Technology Framed Art Print Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/9e5e14d28187b4342672.jpg' | relative_url }}" alt="Listing image for Technology Framed Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=technology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rumour-loops-how-small-rumours-become-mass-myths-myths-and-misconcept-technology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="technology wall art" data-ebay-reference="rumour-loops-how-small-rumours-become-mass-myths-myths-and-misconcept-technology-wall-art" target="_blank" rel="sponsored noopener noreferrer">Technology Framed Art Print Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=technology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rumour-loops-how-small-rumours-become-mass-myths-myths-and-misconcept-technology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="technology wall art" data-ebay-reference="rumour-loops-how-small-rumours-become-mass-myths-myths-and-misconcept-technology-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for technology wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: technology wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=technology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rumour-loops-how-small-rumours-become-mass-myths-myths-and-misconcept-technology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="technology wall art" data-ebay-reference="rumour-loops-how-small-rumours-become-mass-myths-myths-and-misconcept-technology-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=technology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rumour-loops-how-small-rumours-become-mass-myths-myths-and-misconcept-technology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="technology wall art" data-ebay-reference="rumour-loops-how-small-rumours-become-mass-myths-myths-and-misconcept-technology-wall-art" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -578,7 +578,7 @@ The most consequential myths of the social media era are therefore often not the
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -598,7 +598,7 @@ The most consequential myths of the social media era are therefore often not the
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -630,7 +630,7 @@ The most consequential myths of the social media era are therefore often not the
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -682,7 +682,7 @@ The most consequential myths of the social media era are therefore often not the
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -727,7 +727,7 @@ The most consequential myths of the social media era are therefore often not the
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -768,133 +768,133 @@ The most consequential myths of the social media era are therefore often not the
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: news.mit.edu  
    Title: study twitter false news travels faster true stories 0308  
-   Link: <a href="https://news.mit.edu/2018/study-twitter-false-news-travels-faster-true-stories-0308" target="_blank" rel="noopener noreferrer nofollow">https://news.mit.edu/2018/study-twitter-false-news-travels-faster-true-stories-0308</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>MIT NewsStudy: On Twitter, false news travels faster than true stories8 Mar 2018  A new study by three MIT scholars has found that false...</p></details>
+   Link:<a href="https://news.mit.edu/2018/study-twitter-false-news-travels-faster-true-stories-0308" target="_blank" rel="noopener noreferrer nofollow">https://news.mit.edu/2018/study-twitter-false-news-travels-faster-true-stories-0308</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>MIT NewsStudy: On Twitter, false news travels faster than true stories8 Mar 2018  A new study by three MIT scholars has found that false...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2103.14748" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2103.14748</a>  
+   Link:<a href="https://arxiv.org/abs/2103.14748" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2103.14748</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: arxiv.org  
    Title: arXiv Detection and Resolution of Rumours in Social Media: A Survey  
-   Link: <a href="https://arxiv.org/abs/1704.00656" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1704.00656</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Detection and Resolution of Rumours in Social Media: A SurveyApril 3, 2017...</p></details>
+   Link:<a href="https://arxiv.org/abs/1704.00656" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1704.00656</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Detection and Resolution of Rumours in Social Media: A SurveyApril 3, 2017...</p></details>
    Published: April 3, 2017  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: arxiv.org  
    Title: arXiv Using Gaussian Processes for Rumour Stance Classification in Social Media  
-   Link: <a href="https://arxiv.org/abs/1609.01962" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1609.01962</a>  
+   Link:<a href="https://arxiv.org/abs/1609.01962" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1609.01962</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: publications.parliament.uk  
-   Link: <a href="https://publications.parliament.uk/pa/cm5901/cmselect/cmsctech/441/report.html" target="_blank" rel="noopener noreferrer nofollow">https://publications.parliament.uk/pa/cm5901/cmselect/cmsctech/441/report.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Social media, misinformation and harmful algorithmsCalls to violence were posted across major platforms, in some cases seemingly amplifie...</p></details>
+   Link:<a href="https://publications.parliament.uk/pa/cm5901/cmselect/cmsctech/441/report.html" target="_blank" rel="noopener noreferrer nofollow">https://publications.parliament.uk/pa/cm5901/cmselect/cmsctech/441/report.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Social media, misinformation and harmful algorithmsCalls to violence were posted across major platforms, in some cases seemingly amplifie...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: sinanaral.medium.com  
-   Link: <a href="https://sinanaral.medium.com/fake-news-about-our-fake-news-study-spread-faster-than-its-truth-just-as-we-predicted-77db6d9ca8c8" target="_blank" rel="noopener noreferrer nofollow">https://sinanaral.medium.com/fake-news-about-our-fake-news-study-spread-faster-than-its-truth-just-as-we-predicted-77db6d9ca8c8</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>News about our [Fake News](&amp;#123;&amp;#123; &#x27;fake-news/&#x27; | relative_url &amp;#125;&amp;#125;) Study Spread Faster than its...But in social media, that&#x27;s just not how misinformation works. Falsity spreads f...</p></details>
+   Link:<a href="https://sinanaral.medium.com/fake-news-about-our-fake-news-study-spread-faster-than-its-truth-just-as-we-predicted-77db6d9ca8c8" target="_blank" rel="noopener noreferrer nofollow">https://sinanaral.medium.com/fake-news-about-our-fake-news-study-spread-faster-than-its-truth-just-as-we-predicted-77db6d9ca8c8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>News about our [Fake News](&amp;#123;&amp;#123; &#x27;fake-news/&#x27; | relative_url &amp;#125;&amp;#125;) Study Spread Faster than its...But in social media, that&#x27;s just not how misinformation works. Falsity spreads f...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/pdf/2103.14748" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/pdf/2103.14748</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>fake news or other dubious pieces of information are spread... Adal, Nela-gt-2018: A large multi-labelled news dataset for the study of...</p></details>
+   Link:<a href="https://arxiv.org/pdf/2103.14748" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/pdf/2103.14748</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>fake news or other dubious pieces of information are spread... Adal, Nela-gt-2018: A large multi-labelled news dataset for the study of...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/html/2507.21724v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2507.21724v1</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Agent-Based Exploration of Recommendation Systems in...29 Jul 2025  This study uses agent-based modeling to examine the impact of vario...</p></details>
+   Link:<a href="https://arxiv.org/html/2507.21724v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2507.21724v1</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Agent-Based Exploration of Recommendation Systems in...29 Jul 2025  This study uses agent-based modeling to examine the impact of vario...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: mitsloan.mit.edu  
    Title: study false news spreads faster truth  
-   Link: <a href="https://mitsloan.mit.edu/ideas-made-to-matter/study-false-news-spreads-faster-truth" target="_blank" rel="noopener noreferrer nofollow">https://mitsloan.mit.edu/ideas-made-to-matter/study-false-news-spreads-faster-truth</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>mit.eduStudy: False news spreads faster than the truth8 Mar 2018  Falsehoods are 70 percent more likely to be retweeted on Twitter than...</p></details>
+   Link:<a href="https://mitsloan.mit.edu/ideas-made-to-matter/study-false-news-spreads-faster-truth" target="_blank" rel="noopener noreferrer nofollow">https://mitsloan.mit.edu/ideas-made-to-matter/study-false-news-spreads-faster-truth</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>mit.eduStudy: False news spreads faster than the truth8 Mar 2018  Falsehoods are 70 percent more likely to be retweeted on Twitter than...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: mitsloan.mit.edu  
-   Link: <a href="https://mitsloan.mit.edu/ideas-made-to-matter/mit-sloan-research-about-social-media-misinformation-and-elections" target="_blank" rel="noopener noreferrer nofollow">https://mitsloan.mit.edu/ideas-made-to-matter/mit-sloan-research-about-social-media-misinformation-and-elections</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sloan research about social media, misinformation...05-Oct-2020  They found falsehoods are 70% more likely to be retweeted on Twitter...</p></details>
+   Link:<a href="https://mitsloan.mit.edu/ideas-made-to-matter/mit-sloan-research-about-social-media-misinformation-and-elections" target="_blank" rel="noopener noreferrer nofollow">https://mitsloan.mit.edu/ideas-made-to-matter/mit-sloan-research-about-social-media-misinformation-and-elections</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sloan research about social media, misinformation...05-Oct-2020  They found falsehoods are 70% more likely to be retweeted on Twitter...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: science.org  
-   Link: <a href="https://www.science.org/doi/10.1126/science.aap9559" target="_blank" rel="noopener noreferrer nofollow">https://www.science.org/doi/10.1126/science.aap9559</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The spread of true and false news onlineby S Vosoughi  2018  Cited by 13885  This suggests that false news spreads farther, faster, de...</p></details>
+   Link:<a href="https://www.science.org/doi/10.1126/science.aap9559" target="_blank" rel="noopener noreferrer nofollow">https://www.science.org/doi/10.1126/science.aap9559</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The spread of true and false news onlineby S Vosoughi  2018  Cited by 13885  This suggests that false news spreads farther, faster, de...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: oro.open.ac.uk  
-   Link: <a href="https://oro.open.ac.uk/96966/1/websci24-12.pdf" target="_blank" rel="noopener noreferrer nofollow">https://oro.open.ac.uk/96966/1/websci24-12.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Open UniversityAnalysing the Effect of Recommendation Algorithms on the...March 11, 2024  by M Fernandez  2024  Cited by 35  the Eff...</p></details>
+   Link:<a href="https://oro.open.ac.uk/96966/1/websci24-12.pdf" target="_blank" rel="noopener noreferrer nofollow">https://oro.open.ac.uk/96966/1/websci24-12.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Open UniversityAnalysing the Effect of Recommendation Algorithms on the...March 11, 2024  by M Fernandez  2024  Cited by 35  the Eff...</p></details>
    Published: March 11, 2024  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: science.org  
    Title: fake news spreads faster true news twitter thanks people not bots  
-   Link: <a href="https://www.science.org/content/article/fake-news-spreads-faster-true-news-twitter-thanks-people-not-bots" target="_blank" rel="noopener noreferrer nofollow">https://www.science.org/content/article/fake-news-spreads-faster-true-news-twitter-thanks-people-not-bots</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Fake news spreads faster than true news on Twitter...Tweets containing falsehoods reach 1500 people on Twitter six times faster than tru...</p></details>
+   Link:<a href="https://www.science.org/content/article/fake-news-spreads-faster-true-news-twitter-thanks-people-not-bots" target="_blank" rel="noopener noreferrer nofollow">https://www.science.org/content/article/fake-news-spreads-faster-true-news-twitter-thanks-people-not-bots</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Fake news spreads faster than true news on Twitter...Tweets containing falsehoods reach 1500 people on Twitter six times faster than tru...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S157401372200065X" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S157401372200065X</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>study how fake news is crafted and what is the environment they spread in. While the problem of disinformation has been framed either as...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/abs/pii/S157401372200065X" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S157401372200065X</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>study how fake news is crafted and what is the environment they spread in. While the problem of disinformation has been framed either as...</p></details>
 
 ### Additional References
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: tesi.luiss.it  
-   Link: <a href="https://tesi.luiss.it/39196/1/755221_AMADORI_MARCO.pdf" target="_blank" rel="noopener noreferrer nofollow">https://tesi.luiss.it/39196/1/755221_AMADORI_MARCO.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>news spread and detection: a network and machine...The study of fake news and identifying it in digital landscapes exposes a challenge t...</p></details>
+   Link:<a href="https://tesi.luiss.it/39196/1/755221_AMADORI_MARCO.pdf" target="_blank" rel="noopener noreferrer nofollow">https://tesi.luiss.it/39196/1/755221_AMADORI_MARCO.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>news spread and detection: a network and machine...The study of fake news and identifying it in digital landscapes exposes a challenge t...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: techcrunch.com  
    Title: false news spreads faster than truth online thanks to human nature  
-   Link: <a href="https://techcrunch.com/2018/03/08/false-news-spreads-faster-than-truth-online-thanks-to-human-nature/" target="_blank" rel="noopener noreferrer nofollow">https://techcrunch.com/2018/03/08/false-news-spreads-faster-than-truth-online-thanks-to-human-nature/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>False news spreads faster than truth online thanks to...Mar 8, 2018  A comprehensive new study from MIT looks at a decade of tweets, an...</p></details>
+   Link:<a href="https://techcrunch.com/2018/03/08/false-news-spreads-faster-than-truth-online-thanks-to-human-nature/" target="_blank" rel="noopener noreferrer nofollow">https://techcrunch.com/2018/03/08/false-news-spreads-faster-than-truth-online-thanks-to-human-nature/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>False news spreads faster than truth online thanks to...Mar 8, 2018  A comprehensive new study from MIT looks at a decade of tweets, an...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: pbs.org  
    Title: false news travels 6 times faster on twitter than truthful news  
-   Link: <a href="https://www.pbs.org/newshour/science/false-news-travels-6-times-faster-on-twitter-than-truthful-news" target="_blank" rel="noopener noreferrer nofollow">https://www.pbs.org/newshour/science/false-news-travels-6-times-faster-on-twitter-than-truthful-news</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>9 Mar 2018  False information spreads much faster and farther than the truth on Twitter-and although it is tempting to blame automated ...</p></details>
+   Link:<a href="https://www.pbs.org/newshour/science/false-news-travels-6-times-faster-on-twitter-than-truthful-news" target="_blank" rel="noopener noreferrer nofollow">https://www.pbs.org/newshour/science/false-news-travels-6-times-faster-on-twitter-than-truthful-news</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>9 Mar 2018  False information spreads much faster and farther than the truth on Twitter-and although it is tempting to blame automated ...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/ipb1910/posts/-stop-the-spread-recognize-fake-news%EF%B8%8F-according-to-a-study-by-mit-false-news-spr/1065561165599377/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ipb1910/posts/-stop-the-spread-recognize-fake-news%EF%B8%8F-according-to-a-study-by-mit-false-news-spr/1065561165599377/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Recognize Fake News  According to a study by MIT...27 Jan 2025  Specifically, false news is 70% more likely to be retweeted compared...</p></details>
+   Link:<a href="https://www.facebook.com/ipb1910/posts/-stop-the-spread-recognize-fake-news%EF%B8%8F-according-to-a-study-by-mit-false-news-spr/1065561165599377/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ipb1910/posts/-stop-the-spread-recognize-fake-news%EF%B8%8F-according-to-a-study-by-mit-false-news-spr/1065561165599377/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Recognize Fake News  According to a study by MIT...27 Jan 2025  Specifically, false news is 70% more likely to be retweeted compared...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/skeptic/comments/ha0brt/huge_mit_study_of_fake_news_travels_6_times_more/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/skeptic/comments/ha0brt/huge_mit_study_of_fake_news_travels_6_times_more/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>istribution of the average propagation rate of stories. With...Read more...</p></details>
+   Link:<a href="https://www.reddit.com/r/skeptic/comments/ha0brt/huge_mit_study_of_fake_news_travels_6_times_more/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/skeptic/comments/ha0brt/huge_mit_study_of_fake_news_travels_6_times_more/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>istribution of the average propagation rate of stories. With...Read more...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: theguardian.com  
    Title: fake news social media twitter mit journalism  
-   Link: <a href="https://www.theguardian.com/commentisfree/2018/mar/19/fake-news-social-media-twitter-mit-journalism" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/commentisfree/2018/mar/19/fake-news-social-media-twitter-mit-journalism</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Why fake news on social media travels faster than the truth19 Mar 2018  The study found that falsehood diffused significantly farther...</p></details>
+   Link:<a href="https://www.theguardian.com/commentisfree/2018/mar/19/fake-news-social-media-twitter-mit-journalism" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/commentisfree/2018/mar/19/fake-news-social-media-twitter-mit-journalism</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Why fake news on social media travels faster than the truth19 Mar 2018  The study found that falsehood diffused significantly farther...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: dl.acm.org  
-   Link: <a href="https://dl.acm.org/doi/10.1145/3616088" target="_blank" rel="noopener noreferrer nofollow">https://dl.acm.org/doi/10.1145/3616088</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>the Contribution of Recommendation...GossipCop focuses on gossip, which is related to a different form of misinformation...</p></details>
+   Link:<a href="https://dl.acm.org/doi/10.1145/3616088" target="_blank" rel="noopener noreferrer nofollow">https://dl.acm.org/doi/10.1145/3616088</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>the Contribution of Recommendation...GossipCop focuses on gossip, which is related to a different form of misinformation...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/CITEZW/posts/misinformation-spreads-faster-than-the-truth-and-leaves-real-damage-behind-broke/1278544307640744/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/CITEZW/posts/misinformation-spreads-faster-than-the-truth-and-leaves-real-damage-behind-broke/1278544307640744/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>cording to a study by MIT Media Lab by Dr. Deb Roy, Dr. Soroush...</p></details>
+   Link:<a href="https://www.facebook.com/CITEZW/posts/misinformation-spreads-faster-than-the-truth-and-leaves-real-damage-behind-broke/1278544307640744/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/CITEZW/posts/misinformation-spreads-faster-than-the-truth-and-leaves-real-damage-behind-broke/1278544307640744/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>cording to a study by MIT Media Lab by Dr. Deb Roy, Dr. Soroush...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: pirg.org  
    Title: misinformation on social media  
-   Link: <a href="https://pirg.org/edfund/articles/misinformation-on-social-media/" target="_blank" rel="noopener noreferrer nofollow">https://pirg.org/edfund/articles/misinformation-on-social-media/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How misinformation on social media has changed news30 Jul 2025  Researchers at MIT have found that fake news can spread up to 10 times f...</p></details>
+   Link:<a href="https://pirg.org/edfund/articles/misinformation-on-social-media/" target="_blank" rel="noopener noreferrer nofollow">https://pirg.org/edfund/articles/misinformation-on-social-media/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How misinformation on social media has changed news30 Jul 2025  Researchers at MIT have found that fake news can spread up to 10 times f...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: tandfonline.com  
-   Link: <a href="https://www.tandfonline.com/doi/full/10.1080/24751839.2020.1847379" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/full/10.1080/24751839.2020.1847379</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Trends in combating fake news on social media  a surveyby B Collins  2021  Cited by 230  This study explores the various methods of c...</p></details>
+   Link:<a href="https://www.tandfonline.com/doi/full/10.1080/24751839.2020.1847379" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/full/10.1080/24751839.2020.1847379</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Trends in combating fake news on social media  a surveyby B Collins  2021  Cited by 230  This study explores the various methods of c...</p></details>

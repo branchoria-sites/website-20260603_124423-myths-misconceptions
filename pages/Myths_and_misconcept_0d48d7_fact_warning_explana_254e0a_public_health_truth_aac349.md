@@ -274,16 +274,16 @@ image: /assets/images/Myths_and_misconcept_0d48d7_fact_warning_explana_254e0a_pu
 
 ## Introduction
 
-Public health agencies cannot correct rumours the same way they correct a spelling mistake. A false claim about [vaccines]({{ 'vaccines/' | relative_url }}), outbreaks, medicines, or side effects can affect real decisions about treatment, prevention, and trust in health services. If a [correction]({{ 'correction/' | relative_url }}) repeats the rumour too prominently, some people may remember the false claim more clearly than the correction itself. That is why many public health communicators use a “truth sandwich” or fact-warning-explanation structure: start with the accurate information, briefly warn that a false claim is circulating, explain why it is wrong or misleading, and then return to the verified fact. The goal is not simply to rebut a myth. It is to make the correct information easier to remember, harder to distort, and more useful for future decisions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.climatechangecommunication.org/wp-content/uploads/2023/09/DebunkingHandbook2020.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: climatechangecommunication.org">[Center for Climate Change Communication]</a><span class="citation-popover" role="note"><span class="citation-popover-source">climatechangecommunication.org</span><span class="citation-popover-title">Center for Climate Change Communication Debunking Handbook</span><span class="citation-popover-snippet">If parents withhold vaccinations from their children based on mistaken beliefs, public health suffers6.Read more...</span></span></span> [2PHCC]
+Public health agencies cannot correct rumours the same way they correct a spelling mistake. A false claim about [vaccines]({{ 'vaccines/' | relative_url }}), outbreaks, medicines, or side effects can affect real decisions about treatment, prevention, and trust in health services. If a [correction]({{ 'correction/' | relative_url }}) repeats the rumour too prominently, some people may remember the false claim more clearly than the correction itself. That is why many public health communicators use a “truth sandwich” or fact-warning-explanation structure: start with the accurate information, briefly warn that a false claim is circulating, explain why it is wrong or misleading, and then return to the verified fact. The goal is not simply to rebut a myth. It is to make the correct information easier to remember, harder to distort, and more useful for future decisions.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.climatechangecommunication.org/wp-content/uploads/2023/09/DebunkingHandbook2020.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: climatechangecommunication.org">[Center for Climate Change Communication]</a><span class="citation-popover" role="note"><span class="citation-popover-source">climatechangecommunication.org</span><span class="citation-popover-title">Center for Climate Change Communication Debunking Handbook</span><span class="citation-popover-snippet">If parents withhold vaccinations from their children based on mistaken beliefs, public health suffers6.Read more...</span></span></span> [2PHCC]
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_fact_warning_explana_254e0a_public_health_truth_aac349-Illustration-1-dark.svg" | relative_url }}" alt="Health myths illustration 1" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_fact_warning_explana_254e0a_public_health_truth_aac349-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_fact_warning_explana_254e0a_public_health_truth_aac349-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Why health rumours need careful correction structure
 
-Health misinformation has consequences that go beyond online arguments. False claims about vaccines, infectious diseases, treatments, or public health guidance can change behaviour at population scale. During the COVID-19 pandemic, researchers and public health bodies repeatedly warned that misinformation affected attitudes towards vaccination, masking, and other protective measures. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://wwwnc.cdc.gov/eid/article/27/2/20-3139_article" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wwwnc.cdc.gov">[CDC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wwwnc.cdc.gov</span><span class="citation-popover-title">20 3139 article</span><span class="citation-popover-snippet">Addressing COVID-19 Misinformation on Social Media...Jan 4, 2021 — Misinformation is not a new problem, but it poses particular chall...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11295396/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCHealth Communication and Behavioral Change During</span><span class="citation-popover-snippet">by D Albarracin · 2024 · Cited by 36 —... facts (Lewandowsky et al., 2020). After repeating the facts, warn that misinformation is co...</span></span></span>
+Health misinformation has consequences that go beyond online arguments. False claims about vaccines, infectious diseases, treatments, or public health guidance can change behaviour at population scale. During the COVID-19 pandemic, researchers and public health bodies repeatedly warned that misinformation affected attitudes towards vaccination, masking, and other protective measures.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://wwwnc.cdc.gov/eid/article/27/2/20-3139_article" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wwwnc.cdc.gov">[CDC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wwwnc.cdc.gov</span><span class="citation-popover-title">20 3139 article</span><span class="citation-popover-snippet">Addressing COVID-19 Misinformation on Social Media...Jan 4, 2021 — Misinformation is not a new problem, but it poses particular chall...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11295396/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCHealth Communication and Behavioral Change During</span><span class="citation-popover-snippet">by D Albarracin · 2024 · Cited by 36 —... facts (Lewandowsky et al., 2020). After repeating the facts, warn that misinformation is co...</span></span></span>
 
-A further challenge is what researchers call the “continued influence effect”. Even after people learn that a claim is false, the original information can continue shaping their reasoning. Simply telling people that a rumour is wrong may remove the label of truth without replacing the underlying explanation. Public health [corrections]({{ 'corrections/' | relative_url }}) therefore try to provide an alternative account that answers the same question the rumour appeared to answer. Brown Climate Social Science Network <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.shapingtomorrowsworld.org/debunking-handbook-part-5-filling-gap-with-alternative-explanation.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: shapingtomorrowsworld.org">[Shaping Tomorrows World]</a><span class="citation-popover" role="note"><span class="citation-popover-source">shapingtomorrowsworld.org</span><span class="citation-popover-snippet">Shaping Tomorrows WorldThe Debunking Handbook Part 5: Filling the gap with an...by S Lewandowsky — Sources of the continued influence ef...</span></span></span>
+A further challenge is what researchers call the “continued influence effect”. Even after people learn that a claim is false, the original information can continue shaping their reasoning. Simply telling people that a rumour is wrong may remove the label of truth without replacing the underlying explanation. Public health [corrections]({{ 'corrections/' | relative_url }}) therefore try to provide an alternative account that answers the same question the rumour appeared to answer. Brown Climate Social Science Network<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.shapingtomorrowsworld.org/debunking-handbook-part-5-filling-gap-with-alternative-explanation.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: shapingtomorrowsworld.org">[Shaping Tomorrows World]</a><span class="citation-popover" role="note"><span class="citation-popover-source">shapingtomorrowsworld.org</span><span class="citation-popover-snippet">Shaping Tomorrows WorldThe Debunking Handbook Part 5: Filling the gap with an...by S Lewandowsky — Sources of the continued influence ef...</span></span></span>
 
-For health agencies, this is also a governance problem. Public institutions must communicate at scale, often during outbreaks or emergencies when uncertainty is high. Corrections need to work across different levels of health literacy, different languages, and highly fragmented media environments. The message must be accurate enough for experts yet simple enough to survive being quoted, reposted, or shortened on social media. PMC <span class="citation-chip-wrap"><a class="citation-chip" href="https://cdn.who.int/media/docs/default-source/crs-crr/adressing-mpox-misinformation-practical-tips-for-communities.pdf?sfvrsn=8687a3da_3" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.who.int">[World Health Organization]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.who.int</span><span class="citation-popover-snippet">World Health OrganizationAddressing mpox misinformation: practical tips for...Misinformation and disinformation can spread fear and stig...</span></span></span>
+For health agencies, this is also a governance problem. Public institutions must communicate at scale, often during outbreaks or emergencies when uncertainty is high. Corrections need to work across different levels of health literacy, different languages, and highly fragmented media environments. The message must be accurate enough for experts yet simple enough to survive being quoted, reposted, or shortened on social media. PMC<span class="citation-chip-wrap"><a class="citation-chip" href="https://cdn.who.int/media/docs/default-source/crs-crr/adressing-mpox-misinformation-practical-tips-for-communities.pdf?sfvrsn=8687a3da_3" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.who.int">[World Health Organization]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.who.int</span><span class="citation-popover-snippet">World Health OrganizationAddressing mpox misinformation: practical tips for...Misinformation and disinformation can spread fear and stig...</span></span></span>
 
 ## How the fact-warning-explanation sequence works in practice
 
@@ -313,13 +313,13 @@ A public health correction would typically begin with:
 
 > “Extensive research shows that measles-containing vaccines do not cause autism.”
 
-The difference seems small, but it changes which information receives the most attention. The correction starts with what people should remember rather than what they should reject. Public health messaging guides repeatedly emphasise leading with verified information for this reason. PMC <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.climatechangecommunication.org/wp-content/uploads/2023/09/DebunkingHandbook2020.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: climatechangecommunication.org">[Center for Climate Change Communication]</a><span class="citation-popover" role="note"><span class="citation-popover-source">climatechangecommunication.org</span><span class="citation-popover-title">Center for Climate Change Communication Debunking Handbook</span><span class="citation-popover-snippet">If parents withhold vaccinations from their children based on mistaken beliefs, public health suffers6.Read more...</span></span></span>
+The difference seems small, but it changes which information receives the most attention. The correction starts with what people should remember rather than what they should reject. Public health messaging guides repeatedly emphasise leading with verified information for this reason. PMC<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.climatechangecommunication.org/wp-content/uploads/2023/09/DebunkingHandbook2020.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: climatechangecommunication.org">[Center for Climate Change Communication]</a><span class="citation-popover" role="note"><span class="citation-popover-source">climatechangecommunication.org</span><span class="citation-popover-title">Center for Climate Change Communication Debunking Handbook</span><span class="citation-popover-snippet">If parents withhold vaccinations from their children based on mistaken beliefs, public health suffers6.Read more...</span></span></span>
 
 ### The warning prevents accidental reinforcement
 
 After establishing the fact, communicators briefly identify the misinformation.
 
-The warning acts as a label: readers are told that the next claim is inaccurate before they encounter it. This reduces the risk that the false statement is processed as a plausible new fact. Guidance from misinformation researchers and public health communicators often recommends brief warnings rather than long restatements of the myth. PHCC <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.shapingtomorrowsworld.org/debunking-handbook-part-5-filling-gap-with-alternative-explanation.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: shapingtomorrowsworld.org">[Shaping Tomorrows World]</a><span class="citation-popover" role="note"><span class="citation-popover-source">shapingtomorrowsworld.org</span><span class="citation-popover-snippet">Shaping Tomorrows WorldThe Debunking Handbook Part 5: Filling the gap with an...by S Lewandowsky — Sources of the continued influence ef...</span></span></span>
+The warning acts as a label: readers are told that the next claim is inaccurate before they encounter it. This reduces the risk that the false statement is processed as a plausible new fact. Guidance from misinformation researchers and public health communicators often recommends brief warnings rather than long restatements of the myth. PHCC<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.shapingtomorrowsworld.org/debunking-handbook-part-5-filling-gap-with-alternative-explanation.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: shapingtomorrowsworld.org">[Shaping Tomorrows World]</a><span class="citation-popover" role="note"><span class="citation-popover-source">shapingtomorrowsworld.org</span><span class="citation-popover-snippet">Shaping Tomorrows WorldThe Debunking Handbook Part 5: Filling the gap with an...by S Lewandowsky — Sources of the continued influence ef...</span></span></span>
 
 A typical warning might be:
 
@@ -333,13 +333,13 @@ The explanation is the most important part of the correction.
 
 People often accept rumours because they appear to explain something confusing: a medical event, a side effect, a policy decision, or an alarming image. Effective public health corrections therefore explain not only that a claim is false but also why it spread or why it seemed convincing.
 
-For example, if a social media post links a vaccination campaign to a medical event, the explanation might clarify that serious illnesses occur in large populations every day, that [timing]({{ 'timing/' | relative_url }}) alone does not prove causation, and that safety monitoring systems investigate reports precisely because health authorities expect some events to occur by coincidence. The correction supplies a replacement explanation that is more accurate than the rumour. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.climatechangecommunication.org/wp-content/uploads/2023/09/DebunkingHandbook2020.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: climatechangecommunication.org">[Center for Climate Change Communication]</a><span class="citation-popover" role="note"><span class="citation-popover-source">climatechangecommunication.org</span><span class="citation-popover-title">Center for Climate Change Communication Debunking Handbook</span><span class="citation-popover-snippet">If parents withhold vaccinations from their children based on mistaken beliefs, public health suffers6.Read more...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/pii/S2352250X2500226X" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">The repetition of...Read more...</span></span></span>
+For example, if a social media post links a vaccination campaign to a medical event, the explanation might clarify that serious illnesses occur in large populations every day, that [timing]({{ 'timing/' | relative_url }}) alone does not prove causation, and that safety monitoring systems investigate reports precisely because health authorities expect some events to occur by coincidence. The correction supplies a replacement explanation that is more accurate than the rumour.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.climatechangecommunication.org/wp-content/uploads/2023/09/DebunkingHandbook2020.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: climatechangecommunication.org">[Center for Climate Change Communication]</a><span class="citation-popover" role="note"><span class="citation-popover-source">climatechangecommunication.org</span><span class="citation-popover-title">Center for Climate Change Communication Debunking Handbook</span><span class="citation-popover-snippet">If parents withhold vaccinations from their children based on mistaken beliefs, public health suffers6.Read more...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/pii/S2352250X2500226X" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">The repetition of...Read more...</span></span></span>
 
 ### The final fact becomes the takeaway
 
 The correction ends by restating the verified information.
 
-This closing fact is what communicators want readers to remember later when they encounter the rumour again. The objective is not to win a debate but to leave the audience with a clear mental summary that can compete with the misinformation in future recall. [PHCC] <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9114791/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCThe impact of misinformation on the COVID-19 pandemic</span><span class="citation-popover-snippet">Since the inception of the current pandemic, COVID-19 related misinformation has played a role in defaulting control of the situation.Rea...</span></span></span>
+This closing fact is what communicators want readers to remember later when they encounter the rumour again. The objective is not to win a debate but to leave the audience with a clear mental summary that can compete with the misinformation in future recall. [PHCC]<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9114791/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCThe impact of misinformation on the COVID-19 pandemic</span><span class="citation-popover-snippet">Since the inception of the current pandemic, COVID-19 related misinformation has played a role in defaulting control of the situation.Rea...</span></span></span>
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_fact_warning_explana_254e0a_public_health_truth_aac349-Illustration-2-dark.svg" | relative_url }}" alt="Health myths illustration 2" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_fact_warning_explana_254e0a_public_health_truth_aac349-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_fact_warning_explana_254e0a_public_health_truth_aac349-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Sample correction: vaccine-autism rumours
@@ -358,7 +358,7 @@ A fact-led correction might work like this:
 
 **Explanation:** The claim originated from discredited research that was later withdrawn. Subsequent studies involving far larger groups of children failed to find a causal link. Scientists continue monitoring vaccine safety through multiple surveillance systems.
 
-**Fact:** The evidence shows that vaccines protect against serious disease and do not cause autism. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.climatechangecommunication.org/wp-content/uploads/2023/09/DebunkingHandbook2020.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: climatechangecommunication.org">[Center for Climate Change Communication]</a><span class="citation-popover" role="note"><span class="citation-popover-source">climatechangecommunication.org</span><span class="citation-popover-title">Center for Climate Change Communication Debunking Handbook</span><span class="citation-popover-snippet">If parents withhold vaccinations from their children based on mistaken beliefs, public health suffers6.Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.rki.de/EN/Topics/Infectious-diseases/Immunisation/Information-material/Vaccination-myths/effectively-debunking-misinformation.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rki.de">[Robert Koch Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rki.de</span><span class="citation-popover-snippet">Robert Koch InstituteVaccination myths: Effectively debunking misinformationTruth sandwiches can be used during the patient consultation...</span></span></span>
+**Fact:** The evidence shows that vaccines protect against serious disease and do not cause autism.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.climatechangecommunication.org/wp-content/uploads/2023/09/DebunkingHandbook2020.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: climatechangecommunication.org">[Center for Climate Change Communication]</a><span class="citation-popover" role="note"><span class="citation-popover-source">climatechangecommunication.org</span><span class="citation-popover-title">Center for Climate Change Communication Debunking Handbook</span><span class="citation-popover-snippet">If parents withhold vaccinations from their children based on mistaken beliefs, public health suffers6.Read more...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.rki.de/EN/Topics/Infectious-diseases/Immunisation/Information-material/Vaccination-myths/effectively-debunking-misinformation.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rki.de">[Robert Koch Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rki.de</span><span class="citation-popover-snippet">Robert Koch InstituteVaccination myths: Effectively debunking misinformationTruth sandwiches can be used during the patient consultation...</span></span></span>
 
 Notice that the myth appears only briefly. Most of the correction is devoted to the evidence and the explanation.
 
@@ -405,7 +405,7 @@ This approach keeps attention on verification rather than on the dramatic claim 
 
 ## Why public health teams increasingly combine truth sandwiches with trust-building
 
-The structure alone does not guarantee success. Public health researchers increasingly emphasise that corrections are more effective when audiences trust the source delivering them. Communities with low institutional trust may reject technically correct information if they see the messenger as hostile, partisan, or dismissive. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.tandfonline.com/doi/full/10.1080/10410236.2026.2623508?needAccess=true&amp;scroll=top" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tandfonline.com">[Taylor &amp; Francis Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tandfonline.com</span><span class="citation-popover-snippet">Health-related myths spread rapidly and can have a negative impact not only on individuals, but also on public health...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9923817/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Combating Misinformation as a Core Function of Public Healthby J Knudsen · 2023 · Cited by 68 — Misinformation and disinformation are...</span></span></span>
+The structure alone does not guarantee success. Public health researchers increasingly emphasise that corrections are more effective when audiences trust the source delivering them. Communities with low institutional trust may reject technically correct information if they see the messenger as hostile, partisan, or dismissive.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.tandfonline.com/doi/full/10.1080/10410236.2026.2623508?needAccess=true&amp;scroll=top" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tandfonline.com">[Taylor &amp; Francis Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tandfonline.com</span><span class="citation-popover-snippet">Health-related myths spread rapidly and can have a negative impact not only on individuals, but also on public health...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9923817/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Combating Misinformation as a Core Function of Public Healthby J Knudsen · 2023 · Cited by 68 — Misinformation and disinformation are...</span></span></span>
 
 For that reason, many health agencies combine truth-sandwich corrections with other practices:
 
@@ -413,203 +413,203 @@ For that reason, many health agencies combine truth-sandwich corrections with ot
 * Acknowledging uncertainty when evidence is still emerging.
 * Explaining how health authorities know what they know.
 * Addressing fears and concerns directly rather than treating them as irrational.
-* Providing practical actions people can take immediately. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12797484/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCStrategies and prerequisites for combating health</span><span class="citation-popover-snippet">by L Keikha · 2025 · Cited by 2 — This research aimed to identify the prerequisites and best strategies for combating health misinform...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12377696/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">The truth sandwich format does not enhance the correction of...by B Swire-Thompson · 2025 · Cited by 2 — However, there was no eviden...</span></span></span>
+* Providing practical actions people can take immediately.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12797484/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCStrategies and prerequisites for combating health</span><span class="citation-popover-snippet">by L Keikha · 2025 · Cited by 2 — This research aimed to identify the prerequisites and best strategies for combating health misinform...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12377696/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">The truth sandwich format does not enhance the correction of...by B Swire-Thompson · 2025 · Cited by 2 — However, there was no eviden...</span></span></span>
 
 In practice, the most effective public health correction often sounds less like a fact-check and more like a clear explanation from a trusted source.
 
 ## What public health communicators still debate
 
-The truth sandwich is widely recommended, but researchers continue to examine how much the format itself matters compared with the quality of the explanation. Recent studies have suggested that detailed, evidence-based corrections can work well even when they do not strictly follow a truth-sandwich sequence. Some findings indicate that the explanatory content and source credibility may matter more than the exact order of sentences. PMC <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/394196375_The_Truth_Sandwich_Format_Does_Not_Enhance_the_Correction_of_Misinformation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate Even so]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">PDF) The Truth Sandwich Format Does Not Enhance...25 Jan 2026 — These findings suggest that clear and detailed corrections can be power...</span></span></span>, public health organisations continue to favour fact-first structures because they reduce the risk of accidentally amplifying misinformation and provide a consistent template for rapid response. The continuing debate is therefore less about whether facts should lead and more about which combinations of explanation, messenger, empathy, and evidence create corrections that people will remember and trust. [PHCC] <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/abs/pii/S0264410X25007601" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">of the three misinformation-correction conditions. Conclusions... Balakrishnan et al. Infodemic and fake news – A comprehensive overview...</span></span></span>
+The truth sandwich is widely recommended, but researchers continue to examine how much the format itself matters compared with the quality of the explanation. Recent studies have suggested that detailed, evidence-based corrections can work well even when they do not strictly follow a truth-sandwich sequence. Some findings indicate that the explanatory content and source credibility may matter more than the exact order of sentences. PMC<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/394196375_The_Truth_Sandwich_Format_Does_Not_Enhance_the_Correction_of_Misinformation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate Even so]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">PDF) The Truth Sandwich Format Does Not Enhance...25 Jan 2026 — These findings suggest that clear and detailed corrections can be power...</span></span></span>, public health organisations continue to favour fact-first structures because they reduce the risk of accidentally amplifying misinformation and provide a consistent template for rapid response. The continuing debate is therefore less about whether facts should lead and more about which combinations of explanation, messenger, empathy, and evidence create corrections that people will remember and trust. [PHCC]<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/abs/pii/S0264410X25007601" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">of the three misinformation-correction conditions. Conclusions... Balakrishnan et al. Infodemic and fake news – A comprehensive overview...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How public health corrections avoid repeating myths. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How public health corrections avoid repeating myths. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Bad+Science+by+Ben+Goldacre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Bad Science on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=wICuv0ePMYoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Bad Science" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Bad+Science+by+Ben+Goldacre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Bad Science">Bad Science</a>
-        </h4>
-        <p class="fr-book-author">By Ben Goldacre</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Bad+Science+by+Ben+Goldacre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Bad Science on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=wICuv0ePMYoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Bad Science" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Bad+Science+by+Ben+Goldacre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Bad Science">Bad Science</a>
+</h4>
+<p class="fr-book-author">By Ben Goldacre</p>
         
-        <p class="fr-book-desc">Directly tackles health misinformation and evidence claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Bad+Science+by+Ben+Goldacre&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly tackles health misinformation and evidence claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Bad+Science+by+Ben+Goldacre&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Calling Bullshit on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Plu9DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Calling Bullshit" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Calling Bullshit">Calling Bullshit</a>
-        </h4>
-        <p class="fr-book-author">By Carl T. Bergstrom, Jevin D. West</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Calling Bullshit on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Plu9DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Calling Bullshit" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Calling Bullshit">Calling Bullshit</a>
+</h4>
+<p class="fr-book-author">By Carl T. Bergstrom, Jevin D. West</p>
         
-        <p class="fr-book-desc">Helps readers evaluate health claims and statistics.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps readers evaluate health claims and statistics.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+panic+virus+Seth+Mnookin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The panic virus on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9547196-M.jpg" alt="Cover for The panic virus" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+panic+virus+Seth+Mnookin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The panic virus">The panic virus</a>
-        </h4>
-        <p class="fr-book-author">By Seth Mnookin</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+panic+virus+Seth+Mnookin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The panic virus on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9547196-M.jpg" alt="Cover for The panic virus" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+panic+virus+Seth+Mnookin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The panic virus">The panic virus</a>
+</h4>
+<p class="fr-book-author">By Seth Mnookin</p>
         
-        <p class="fr-book-desc">First published 2011. Subjects: Vaccination, Mass media and culture, Health behavior, History, Psychological aspects.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+panic+virus+Seth+Mnookin&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2011. Subjects: Vaccination, Mass media and culture, Health behavior, History, Psychological aspects.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+panic+virus+Seth+Mnookin&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Calling+Bullshit%3A+The+Art+of+Skepticism+in+a+Data+Driven+World+Carl+T.+Bergstrom+and+Jevin+D.+West&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Calling Bullshit: The Art of Skepticism in a Data-Driven World on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Calling+Bullshit%3A+The+Art+of+Skepticism+in+a+Data+Driven+World+Carl+T.+Bergstrom+and+Jevin+D.+West&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Calling Bullshit: The Art of Skepticism in a Data-Driven World">Calling Bullshit: The Art of Skepticism in a Data-Driven World</a>
-        </h4>
-        <p class="fr-book-author">By Carl T. Bergstrom and Jevin D. West</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Calling+Bullshit%3A+The+Art+of+Skepticism+in+a+Data+Driven+World+Carl+T.+Bergstrom+and+Jevin+D.+West&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Calling Bullshit: The Art of Skepticism in a Data-Driven World on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Calling+Bullshit%3A+The+Art+of+Skepticism+in+a+Data+Driven+World+Carl+T.+Bergstrom+and+Jevin+D.+West&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Calling Bullshit: The Art of Skepticism in a Data-Driven World">Calling Bullshit: The Art of Skepticism in a Data-Driven World</a>
+</h4>
+<p class="fr-book-author">By Carl T. Bergstrom and Jevin D. West</p>
         
-        <p class="fr-book-desc">Helps readers evaluate health claims and statistics.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Calling+Bullshit%3A+The+Art+of+Skepticism+in+a+Data+Driven+World+Carl+T.+Bergstrom+and+Jevin+D.+West&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps readers evaluate health claims and statistics.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Calling+Bullshit%3A+The+Art+of+Skepticism+in+a+Data+Driven+World+Carl+T.+Bergstrom+and+Jevin+D.+West&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Bad+Science&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Bad Science</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Calling+Bullshit&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Calling Bullshit</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+panic+virus&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The panic virus</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Bad+Science&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Bad Science</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Calling+Bullshit&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Calling Bullshit</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+panic+virus&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The panic virus</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=public+health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=health-myths-how-public-health-corrections-avoid-repeating-myths-myths-and-misconcept-public-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="public health poster" data-ebay-reference="health-myths-how-public-health-corrections-avoid-repeating-myths-myths-and-misconcept-public-health-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Aihrgdesign A Vintage Public Health Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/9a4f85f5088309b5fa73.jpg' | relative_url }}" alt="Listing image for Aihrgdesign A Vintage Public Health Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=public+health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=health-myths-how-public-health-corrections-avoid-repeating-myths-myths-and-misconcept-public-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="public health poster" data-ebay-reference="health-myths-how-public-health-corrections-avoid-repeating-myths-myths-and-misconcept-public-health-poster" target="_blank" rel="sponsored noopener noreferrer">Aihrgdesign A Vintage Public Health Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=public+health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=health-myths-how-public-health-corrections-avoid-repeating-myths-myths-and-misconcept-public-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="public health poster" data-ebay-reference="health-myths-how-public-health-corrections-avoid-repeating-myths-myths-and-misconcept-public-health-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for public health poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: public health poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=public+health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=health-myths-how-public-health-corrections-avoid-repeating-myths-myths-and-misconcept-public-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="public health poster" data-ebay-reference="health-myths-how-public-health-corrections-avoid-repeating-myths-myths-and-misconcept-public-health-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=public+health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=health-myths-how-public-health-corrections-avoid-repeating-myths-myths-and-misconcept-public-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="public health poster" data-ebay-reference="health-myths-how-public-health-corrections-avoid-repeating-myths-myths-and-misconcept-public-health-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Aihrgdesign A Vintage Public Health Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/9a4f85f5088309b5fa73.jpg' | relative_url }}" alt="Listing image for Aihrgdesign A Vintage Public Health Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=public+health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=health-myths-how-public-health-corrections-avoid-repeating-myths-myths-and-misconcept-public-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="public health poster" data-ebay-reference="health-myths-how-public-health-corrections-avoid-repeating-myths-myths-and-misconcept-public-health-poster" target="_blank" rel="sponsored noopener noreferrer">Aihrgdesign A Vintage Public Health Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=public+health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=health-myths-how-public-health-corrections-avoid-repeating-myths-myths-and-misconcept-public-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="public health poster" data-ebay-reference="health-myths-how-public-health-corrections-avoid-repeating-myths-myths-and-misconcept-public-health-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for public health poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: public health poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=public+health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=health-myths-how-public-health-corrections-avoid-repeating-myths-myths-and-misconcept-public-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="public health poster" data-ebay-reference="health-myths-how-public-health-corrections-avoid-repeating-myths-myths-and-misconcept-public-health-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=public+health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=health-myths-how-public-health-corrections-avoid-repeating-myths-myths-and-misconcept-public-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="public health poster" data-ebay-reference="health-myths-how-public-health-corrections-avoid-repeating-myths-myths-and-misconcept-public-health-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage 1950s public health awareness advert poster"><img src="{{ '/assets/images/marketplace-covers/3ca1e11aa514c707039f.jpg' | relative_url }}" alt="Listing image for Vintage 1950s public health awareness advert poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=public+health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=health-myths-how-public-health-corrections-avoid-repeating-myths-myths-and-misconcept-public-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="public health poster" data-ebay-reference="health-myths-how-public-health-corrections-avoid-repeating-myths-myths-and-misconcept-public-health-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage 1950s public health awareness advert poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=public+health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=health-myths-how-public-health-corrections-avoid-repeating-myths-myths-and-misconcept-public-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="public health poster" data-ebay-reference="health-myths-how-public-health-corrections-avoid-repeating-myths-myths-and-misconcept-public-health-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for public health poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: public health poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=public+health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=health-myths-how-public-health-corrections-avoid-repeating-myths-myths-and-misconcept-public-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="public health poster" data-ebay-reference="health-myths-how-public-health-corrections-avoid-repeating-myths-myths-and-misconcept-public-health-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=public+health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=health-myths-how-public-health-corrections-avoid-repeating-myths-myths-and-misconcept-public-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="public health poster" data-ebay-reference="health-myths-how-public-health-corrections-avoid-repeating-myths-myths-and-misconcept-public-health-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage 1950s public health awareness advert poster"><img src="{{ '/assets/images/marketplace-covers/3ca1e11aa514c707039f.jpg' | relative_url }}" alt="Listing image for Vintage 1950s public health awareness advert poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=public+health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=health-myths-how-public-health-corrections-avoid-repeating-myths-myths-and-misconcept-public-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="public health poster" data-ebay-reference="health-myths-how-public-health-corrections-avoid-repeating-myths-myths-and-misconcept-public-health-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage 1950s public health awareness advert poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=public+health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=health-myths-how-public-health-corrections-avoid-repeating-myths-myths-and-misconcept-public-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="public health poster" data-ebay-reference="health-myths-how-public-health-corrections-avoid-repeating-myths-myths-and-misconcept-public-health-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for public health poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: public health poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=public+health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=health-myths-how-public-health-corrections-avoid-repeating-myths-myths-and-misconcept-public-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="public health poster" data-ebay-reference="health-myths-how-public-health-corrections-avoid-repeating-myths-myths-and-misconcept-public-health-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=public+health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=health-myths-how-public-health-corrections-avoid-repeating-myths-myths-and-misconcept-public-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="public health poster" data-ebay-reference="health-myths-how-public-health-corrections-avoid-repeating-myths-myths-and-misconcept-public-health-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage 1950s public health awareness advert poster"><img src="{{ '/assets/images/marketplace-covers/69cc58475db8cafc34b2.jpg' | relative_url }}" alt="Listing image for Vintage 1950s public health awareness advert poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=public+health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=health-myths-how-public-health-corrections-avoid-repeating-myths-myths-and-misconcept-public-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="public health poster" data-ebay-reference="health-myths-how-public-health-corrections-avoid-repeating-myths-myths-and-misconcept-public-health-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage 1950s public health awareness advert poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=public+health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=health-myths-how-public-health-corrections-avoid-repeating-myths-myths-and-misconcept-public-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="public health poster" data-ebay-reference="health-myths-how-public-health-corrections-avoid-repeating-myths-myths-and-misconcept-public-health-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for public health poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: public health poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=public+health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=health-myths-how-public-health-corrections-avoid-repeating-myths-myths-and-misconcept-public-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="public health poster" data-ebay-reference="health-myths-how-public-health-corrections-avoid-repeating-myths-myths-and-misconcept-public-health-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=public+health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=health-myths-how-public-health-corrections-avoid-repeating-myths-myths-and-misconcept-public-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="public health poster" data-ebay-reference="health-myths-how-public-health-corrections-avoid-repeating-myths-myths-and-misconcept-public-health-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage 1950s public health awareness advert poster"><img src="{{ '/assets/images/marketplace-covers/69cc58475db8cafc34b2.jpg' | relative_url }}" alt="Listing image for Vintage 1950s public health awareness advert poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=public+health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=health-myths-how-public-health-corrections-avoid-repeating-myths-myths-and-misconcept-public-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="public health poster" data-ebay-reference="health-myths-how-public-health-corrections-avoid-repeating-myths-myths-and-misconcept-public-health-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage 1950s public health awareness advert poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=public+health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=health-myths-how-public-health-corrections-avoid-repeating-myths-myths-and-misconcept-public-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="public health poster" data-ebay-reference="health-myths-how-public-health-corrections-avoid-repeating-myths-myths-and-misconcept-public-health-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for public health poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: public health poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=public+health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=health-myths-how-public-health-corrections-avoid-repeating-myths-myths-and-misconcept-public-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="public health poster" data-ebay-reference="health-myths-how-public-health-corrections-avoid-repeating-myths-myths-and-misconcept-public-health-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=public+health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=health-myths-how-public-health-corrections-avoid-repeating-myths-myths-and-misconcept-public-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="public health poster" data-ebay-reference="health-myths-how-public-health-corrections-avoid-repeating-myths-myths-and-misconcept-public-health-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage 1950s public health awareness advert poster"><img src="{{ '/assets/images/marketplace-covers/26b25d9d44b21db71d19.jpg' | relative_url }}" alt="Listing image for Vintage 1950s public health awareness advert poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=public+health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=health-myths-how-public-health-corrections-avoid-repeating-myths-myths-and-misconcept-public-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="public health poster" data-ebay-reference="health-myths-how-public-health-corrections-avoid-repeating-myths-myths-and-misconcept-public-health-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage 1950s public health awareness advert poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=public+health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=health-myths-how-public-health-corrections-avoid-repeating-myths-myths-and-misconcept-public-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="public health poster" data-ebay-reference="health-myths-how-public-health-corrections-avoid-repeating-myths-myths-and-misconcept-public-health-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for public health poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: public health poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=public+health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=health-myths-how-public-health-corrections-avoid-repeating-myths-myths-and-misconcept-public-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="public health poster" data-ebay-reference="health-myths-how-public-health-corrections-avoid-repeating-myths-myths-and-misconcept-public-health-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=public+health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=health-myths-how-public-health-corrections-avoid-repeating-myths-myths-and-misconcept-public-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="public health poster" data-ebay-reference="health-myths-how-public-health-corrections-avoid-repeating-myths-myths-and-misconcept-public-health-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=public+health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=health-myths-how-public-health-corrections-avoid-repeating-myths-myths-and-misconcept-public-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="public health poster" data-ebay-reference="health-myths-how-public-health-corrections-avoid-repeating-myths-myths-and-misconcept-public-health-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage 1950s public health awareness advert poster"><img src="{{ '/assets/images/marketplace-covers/26b25d9d44b21db71d19.jpg' | relative_url }}" alt="Listing image for Vintage 1950s public health awareness advert poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=public+health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=health-myths-how-public-health-corrections-avoid-repeating-myths-myths-and-misconcept-public-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="public health poster" data-ebay-reference="health-myths-how-public-health-corrections-avoid-repeating-myths-myths-and-misconcept-public-health-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage 1950s public health awareness advert poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=public+health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=health-myths-how-public-health-corrections-avoid-repeating-myths-myths-and-misconcept-public-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="public health poster" data-ebay-reference="health-myths-how-public-health-corrections-avoid-repeating-myths-myths-and-misconcept-public-health-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for public health poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: public health poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=public+health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=health-myths-how-public-health-corrections-avoid-repeating-myths-myths-and-misconcept-public-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="public health poster" data-ebay-reference="health-myths-how-public-health-corrections-avoid-repeating-myths-myths-and-misconcept-public-health-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=public+health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=health-myths-how-public-health-corrections-avoid-repeating-myths-myths-and-misconcept-public-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="public health poster" data-ebay-reference="health-myths-how-public-health-corrections-avoid-repeating-myths-myths-and-misconcept-public-health-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -625,7 +625,7 @@ The truth sandwich is widely recommended, but researchers continue to examine ho
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -645,7 +645,7 @@ The truth sandwich is widely recommended, but researchers continue to examine ho
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -677,7 +677,7 @@ The truth sandwich is widely recommended, but researchers continue to examine ho
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -729,7 +729,7 @@ The truth sandwich is widely recommended, but researchers continue to examine ho
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -774,7 +774,7 @@ The truth sandwich is widely recommended, but researchers continue to examine ho
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -815,144 +815,144 @@ The truth sandwich is widely recommended, but researchers continue to examine ho
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCHealth Communication and Behavioral Change During  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11295396/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11295396/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>by D Albarracin · 2024 · Cited by 36 —... facts (Lewandowsky et al., 2020). After repeating the facts, warn that misinformation is co...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11295396/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11295396/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by D Albarracin · 2024 · Cited by 36 —... facts (Lewandowsky et al., 2020). After repeating the facts, warn that misinformation is co...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: wwwnc.cdc.gov  
    Title: 20 3139 article  
-   Link: <a href="https://wwwnc.cdc.gov/eid/article/27/2/20-3139_article" target="_blank" rel="noopener noreferrer nofollow">https://wwwnc.cdc.gov/eid/article/27/2/20-3139_article</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Addressing COVID-19 Misinformation on Social Media...Jan 4, 2021 — Misinformation is not a new problem, but it poses particular chall...</p></details>
+   Link:<a href="https://wwwnc.cdc.gov/eid/article/27/2/20-3139_article" target="_blank" rel="noopener noreferrer nofollow">https://wwwnc.cdc.gov/eid/article/27/2/20-3139_article</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Addressing COVID-19 Misinformation on Social Media...Jan 4, 2021 — Misinformation is not a new problem, but it poses particular chall...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCThe impact of misinformation on the COVID-19 pandemic  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9114791/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9114791/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Since the inception of the current pandemic, COVID-19 related misinformation has played a role in defaulting control of the situation.Rea...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9114791/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9114791/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Since the inception of the current pandemic, COVID-19 related misinformation has played a role in defaulting control of the situation.Rea...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9923817/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9923817/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Combating Misinformation as a Core Function of Public Healthby J Knudsen · 2023 · Cited by 68 — Misinformation and disinformation are...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9923817/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9923817/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Combating Misinformation as a Core Function of Public Healthby J Knudsen · 2023 · Cited by 68 — Misinformation and disinformation are...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/pii/S2352250X2500226X" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S2352250X2500226X</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The [repetition](&amp;#123;&amp;#123; &#x27;repetition/&#x27; | relative_url &amp;#125;&amp;#125;) of...Read more...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/pii/S2352250X2500226X" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S2352250X2500226X</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The [repetition](&amp;#123;&amp;#123; &#x27;repetition/&#x27; | relative_url &amp;#125;&amp;#125;) of...Read more...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCStrategies and prerequisites for combating health  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12797484/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12797484/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>by L Keikha · 2025 · Cited by 2 — This research aimed to identify the prerequisites and best strategies for combating health misinform...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12797484/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12797484/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by L Keikha · 2025 · Cited by 2 — This research aimed to identify the prerequisites and best strategies for combating health misinform...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12377696/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12377696/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The truth sandwich format does not enhance the correction of...by B Swire-Thompson · 2025 · Cited by 2 — However, there was no eviden...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12377696/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12377696/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The truth sandwich format does not enhance the correction of...by B Swire-Thompson · 2025 · Cited by 2 — However, there was no eviden...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/394196375_The_Truth_Sandwich_Format_Does_Not_Enhance_the_Correction_of_Misinformation" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/394196375_The_Truth_Sandwich_Format_Does_Not_Enhance_the_Correction_of_Misinformation</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) The Truth Sandwich Format Does Not Enhance...25 Jan 2026 — These findings suggest that clear and detailed corrections can be power...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/394196375_The_Truth_Sandwich_Format_Does_Not_Enhance_the_Correction_of_Misinformation" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/394196375_The_Truth_Sandwich_Format_Does_Not_Enhance_the_Correction_of_Misinformation</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) The Truth Sandwich Format Does Not Enhance...25 Jan 2026 — These findings suggest that clear and detailed corrections can be power...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0264410X25007601" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0264410X25007601</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>of the three misinformation-correction conditions. Conclusions... Balakrishnan et al. Infodemic and [fake news](&amp;#123;&amp;#123; &#x27;fake-news/&#x27; | relative_url &amp;#125;&amp;#125;) – A comprehensive overview...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/abs/pii/S0264410X25007601" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0264410X25007601</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>of the three misinformation-correction conditions. Conclusions... Balakrishnan et al. Infodemic and [fake news](&amp;#123;&amp;#123; &#x27;fake-news/&#x27; | relative_url &amp;#125;&amp;#125;) – A comprehensive overview...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0738399125006202" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0738399125006202</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>disinformation on social media were not significantly different from simple corrective information.Read...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/pii/S0738399125006202" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0738399125006202</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>disinformation on social media were not significantly different from simple corrective information.Read...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: stacks.cdc.gov  
-   Link: <a href="https://stacks.cdc.gov/view/cdc/102462" target="_blank" rel="noopener noreferrer nofollow">https://stacks.cdc.gov/view/cdc/102462</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>In one effort, the World Health...</p></details>
+   Link:<a href="https://stacks.cdc.gov/view/cdc/102462" target="_blank" rel="noopener noreferrer nofollow">https://stacks.cdc.gov/view/cdc/102462</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>In one effort, the World Health...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: climatechangecommunication.org  
    Title: Center for Climate Change Communication Debunking Handbook  
-   Link: <a href="https://www.climatechangecommunication.org/wp-content/uploads/2023/09/DebunkingHandbook2020.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.climatechangecommunication.org/wp-content/uploads/2023/09/DebunkingHandbook2020.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>If parents withhold vaccinations from their children based on mistaken beliefs, public health suffers6.Read more...</p></details>
+   Link:<a href="https://www.climatechangecommunication.org/wp-content/uploads/2023/09/DebunkingHandbook2020.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.climatechangecommunication.org/wp-content/uploads/2023/09/DebunkingHandbook2020.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>If parents withhold vaccinations from their children based on mistaken beliefs, public health suffers6.Read more...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: shapingtomorrowsworld.org  
-   Link: <a href="https://www.shapingtomorrowsworld.org/debunking-handbook-part-5-filling-gap-with-alternative-explanation.html" target="_blank" rel="noopener noreferrer nofollow">https://www.shapingtomorrowsworld.org/debunking-handbook-part-5-filling-gap-with-alternative-explanation.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Shaping Tomorrows WorldThe Debunking Handbook Part 5: Filling the gap with an...by S Lewandowsky — Sources of the continued influence ef...</p></details>
+   Link:<a href="https://www.shapingtomorrowsworld.org/debunking-handbook-part-5-filling-gap-with-alternative-explanation.html" target="_blank" rel="noopener noreferrer nofollow">https://www.shapingtomorrowsworld.org/debunking-handbook-part-5-filling-gap-with-alternative-explanation.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Shaping Tomorrows WorldThe Debunking Handbook Part 5: Filling the gap with an...by S Lewandowsky — Sources of the continued influence ef...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: cdn.who.int  
-   Link: <a href="https://cdn.who.int/media/docs/default-source/crs-crr/adressing-mpox-misinformation-practical-tips-for-communities.pdf?sfvrsn=8687a3da_3" target="_blank" rel="noopener noreferrer nofollow">https://cdn.who.int/media/docs/default-source/crs-crr/adressing-mpox-misinformation-practical-tips-for-communities.pdf?sfvrsn=8687a3da_3</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>World Health OrganizationAddressing mpox misinformation: practical tips for...Misinformation and disinformation can spread fear and stig...</p></details>
+   Link:<a href="https://cdn.who.int/media/docs/default-source/crs-crr/adressing-mpox-misinformation-practical-tips-for-communities.pdf?sfvrsn=8687a3da_3" target="_blank" rel="noopener noreferrer nofollow">https://cdn.who.int/media/docs/default-source/crs-crr/adressing-mpox-misinformation-practical-tips-for-communities.pdf?sfvrsn=8687a3da_3</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>World Health OrganizationAddressing mpox misinformation: practical tips for...Misinformation and disinformation can spread fear and stig...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: rki.de  
-   Link: <a href="https://www.rki.de/EN/Topics/Infectious-diseases/Immunisation/Information-material/Vaccination-myths/effectively-debunking-misinformation.html" target="_blank" rel="noopener noreferrer nofollow">https://www.rki.de/EN/Topics/Infectious-diseases/Immunisation/Information-material/Vaccination-myths/effectively-debunking-misinformation.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Robert Koch InstituteVaccination myths: Effectively debunking misinformationTruth sandwiches can be used during the patient consultation...</p></details>
+   Link:<a href="https://www.rki.de/EN/Topics/Infectious-diseases/Immunisation/Information-material/Vaccination-myths/effectively-debunking-misinformation.html" target="_blank" rel="noopener noreferrer nofollow">https://www.rki.de/EN/Topics/Infectious-diseases/Immunisation/Information-material/Vaccination-myths/effectively-debunking-misinformation.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Robert Koch InstituteVaccination myths: Effectively debunking misinformationTruth sandwiches can be used during the patient consultation...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: tandfonline.com  
-   Link: <a href="https://www.tandfonline.com/doi/full/10.1080/10410236.2026.2623508?needAccess=true&amp;scroll=top" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/full/10.1080/10410236.2026.2623508?needAccess=true&amp;scroll=top</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Health-related myths spread rapidly and can have a negative impact not only on individuals, but also on public health...</p></details>
+   Link:<a href="https://www.tandfonline.com/doi/full/10.1080/10410236.2026.2623508?needAccess=true&amp;scroll=top" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/full/10.1080/10410236.2026.2623508?needAccess=true&amp;scroll=top</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Health-related myths spread rapidly and can have a negative impact not only on individuals, but also on public health...</p></details>
 
 ### Additional References
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: who.int  
-   Link: <a href="https://www.who.int/teams/digital-health-and-innovation/digital-channels/combatting-misinformation-online" target="_blank" rel="noopener noreferrer nofollow">https://www.who.int/teams/digital-health-and-innovation/digital-channels/combatting-misinformation-online</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Combatting misinformation onlineWHO and partners recognize that misinformation online has the potential to travel further, faster and som...</p></details>
+   Link:<a href="https://www.who.int/teams/digital-health-and-innovation/digital-channels/combatting-misinformation-online" target="_blank" rel="noopener noreferrer nofollow">https://www.who.int/teams/digital-health-and-innovation/digital-channels/combatting-misinformation-online</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Combatting misinformation onlineWHO and partners recognize that misinformation online has the potential to travel further, faster and som...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: publichealthcollaborative.org  
-   Link: <a href="https://publichealthcollaborative.org/wp-content/uploads/2025/03/PHCC_Quick-Misinformation-Guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://publichealthcollaborative.org/wp-content/uploads/2025/03/PHCC_Quick-Misinformation-Guide.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PHCCA Quick Guide to Public Health MisinformationTruth Sandwich Method for Debunking. Break down debunking with the Truth Sandwich method...</p></details>
+   Link:<a href="https://publichealthcollaborative.org/wp-content/uploads/2025/03/PHCC_Quick-Misinformation-Guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://publichealthcollaborative.org/wp-content/uploads/2025/03/PHCC_Quick-Misinformation-Guide.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>PHCCA Quick Guide to Public Health MisinformationTruth Sandwich Method for Debunking. Break down debunking with the Truth Sandwich method...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: apa.org  
-   Link: <a href="https://www.apa.org/pubs/reports/misinformation-consensus-statement.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.apa.org/pubs/reports/misinformation-consensus-statement.pdf</a>  
+   Link:<a href="https://www.apa.org/pubs/reports/misinformation-consensus-statement.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.apa.org/pubs/reports/misinformation-consensus-statement.pdf</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: cidrap.umn.edu  
    Title: public health experts try prebunk misinformation about vaccines ahead cdc  
-   Link: <a href="https://www.cidrap.umn.edu/childhood-vaccines/public-health-experts-try-prebunk-misinformation-about-vaccines-ahead-cdc" target="_blank" rel="noopener noreferrer nofollow">https://www.cidrap.umn.edu/childhood-vaccines/public-health-experts-try-prebunk-misinformation-about-vaccines-ahead-cdc</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>health experts try to &#x27;prebunk&#x27; misinformation about...Dec 4, 2025 — Prebunking can help inoculate people against misinformation by prov...</p></details>
+   Link:<a href="https://www.cidrap.umn.edu/childhood-vaccines/public-health-experts-try-prebunk-misinformation-about-vaccines-ahead-cdc" target="_blank" rel="noopener noreferrer nofollow">https://www.cidrap.umn.edu/childhood-vaccines/public-health-experts-try-prebunk-misinformation-about-vaccines-ahead-cdc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>health experts try to &#x27;prebunk&#x27; misinformation about...Dec 4, 2025 — Prebunking can help inoculate people against misinformation by prov...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: rki.de  
-   Link: <a href="https://www.rki.de/EN/Topics/Infectious-diseases/Immunisation/Information-material/Vaccination-myths/all-or-nothing-thinking_RCT.html" target="_blank" rel="noopener noreferrer nofollow">https://www.rki.de/EN/Topics/Infectious-diseases/Immunisation/Information-material/Vaccination-myths/all-or-nothing-thinking_RCT.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Vaccination myths: Effectively debunking misinformation. Date: 03/12/2025. Fact: Even in the absence...Read more...</p></details>
+   Link:<a href="https://www.rki.de/EN/Topics/Infectious-diseases/Immunisation/Information-material/Vaccination-myths/all-or-nothing-thinking_RCT.html" target="_blank" rel="noopener noreferrer nofollow">https://www.rki.de/EN/Topics/Infectious-diseases/Immunisation/Information-material/Vaccination-myths/all-or-nothing-thinking_RCT.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Vaccination myths: Effectively debunking misinformation. Date: 03/12/2025. Fact: Even in the absence...Read more...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: scientificamerican.com  
    Title: how to debunk misinformation about covid vaccines and masks  
-   Link: <a href="https://www.scientificamerican.com/article/how-to-debunk-misinformation-about-covid-vaccines-and-masks/" target="_blank" rel="noopener noreferrer nofollow">https://www.scientificamerican.com/article/how-to-debunk-misinformation-about-covid-vaccines-and-masks/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How to Debunk Misinformation about COVID, Vaccines...Apr 1, 2021 — Debunk misinformation about COVID, vaccines and masks. We each have m...</p></details>
+   Link:<a href="https://www.scientificamerican.com/article/how-to-debunk-misinformation-about-covid-vaccines-and-masks/" target="_blank" rel="noopener noreferrer nofollow">https://www.scientificamerican.com/article/how-to-debunk-misinformation-about-covid-vaccines-and-masks/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How to Debunk Misinformation about COVID, Vaccines...Apr 1, 2021 — Debunk misinformation about COVID, vaccines and masks. We each have m...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: hhs.gov  
    Title: surgeon general misinformation advisory  
-   Link: <a href="https://www.hhs.gov/sites/default/files/surgeon-general-misinformation-advisory.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.hhs.gov/sites/default/files/surgeon-general-misinformation-advisory.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Confronting Health MisinformationJul 14, 2021 — I am urging all Americans to help slow the spread of health misinformation during the COV...</p></details>
+   Link:<a href="https://www.hhs.gov/sites/default/files/surgeon-general-misinformation-advisory.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.hhs.gov/sites/default/files/surgeon-general-misinformation-advisory.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Confronting Health MisinformationJul 14, 2021 — I am urging all Americans to help slow the spread of health misinformation during the COV...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: skepticalscience.com  
    Title: debunking handbook 2020 references  
-   Link: <a href="https://skepticalscience.com/debunking-handbook-2020-references.html" target="_blank" rel="noopener noreferrer nofollow">https://skepticalscience.com/debunking-handbook-2020-references.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Debunking Handbook 2020: References26 Oct 2020 — Sources of the continued influence effect: When misinformation in [memory](&amp;#123;&amp;#123; &#x27;memory/&#x27; | relative_url &amp;#125;&amp;#125;) affects lat...</p></details>
+   Link:<a href="https://skepticalscience.com/debunking-handbook-2020-references.html" target="_blank" rel="noopener noreferrer nofollow">https://skepticalscience.com/debunking-handbook-2020-references.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Debunking Handbook 2020: References26 Oct 2020 — Sources of the continued influence effect: When misinformation in [memory](&amp;#123;&amp;#123; &#x27;memory/&#x27; | relative_url &amp;#125;&amp;#125;) affects lat...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: ltrr.arizona.edu  
    Title: Explicit warnings reduce but do not eliminate the.Read more  
-   Link: <a href="https://www.ltrr.arizona.edu/~katie/kt/natsgc/Debunking_Handbook.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ltrr.arizona.edu/~katie/kt/natsgc/Debunking_Handbook.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Debunking Handbookby S Lewandowsky — Sources of the continued influence effect: When discredited information in memory affects later infe...</p></details>
+   Link:<a href="https://www.ltrr.arizona.edu/~katie/kt/natsgc/Debunking_Handbook.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ltrr.arizona.edu/~katie/kt/natsgc/Debunking_Handbook.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Debunking Handbookby S Lewandowsky — Sources of the continued influence effect: When discredited information in memory affects later infe...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: centerforhealthsecurity.org  
    Title: 24 02 05 cdc misinfo playbook 2  
-   Link: <a href="https://centerforhealthsecurity.org/sites/default/files/2024-02/24-02-05-cdc-misinfo-playbook_2.pdf" target="_blank" rel="noopener noreferrer nofollow">https://centerforhealthsecurity.org/sites/default/files/2024-02/24-02-05-cdc-misinfo-playbook_2.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Johns Hopkins Center for Health SecurityPractical playbook for addressing health misinformationFeb 1, 2024 — Misleading rumors, misinform...</p></details>
+   Link:<a href="https://centerforhealthsecurity.org/sites/default/files/2024-02/24-02-05-cdc-misinfo-playbook_2.pdf" target="_blank" rel="noopener noreferrer nofollow">https://centerforhealthsecurity.org/sites/default/files/2024-02/24-02-05-cdc-misinfo-playbook_2.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Johns Hopkins Center for Health SecurityPractical playbook for addressing health misinformationFeb 1, 2024 — Misleading rumors, misinform...</p></details>

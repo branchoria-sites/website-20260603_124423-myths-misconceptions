@@ -274,14 +274,14 @@ image: /assets/images/Myths_and_misconcept_0d48d7_mental_models_myths_2fa808_nat
 
 ## Introduction
 
-Natural [health myths]({{ 'health-myths/' | relative_url }}) often survive because they offer more than a single mistaken claim. They provide a complete way of understanding health, illness, risk and trust. Within that framework, natural is assumed to mean safer, the body is believed to heal itself if left undisturbed, modern medicine is viewed as overly artificial or commercially motivated, and personal experience is treated as the most trustworthy form of evidence. When these ideas reinforce one another, the result is a coherent mental model rather than a collection of disconnected beliefs. Research on health misinformation shows that such models are often sustained by intuitive reasoning, emotional appeal and distrust of institutions, making them resistant to simple fact-checking. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8447889/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCThe role of discomfort in the continued influence effect</span><span class="citation-popover-snippet">by MW Susmann  2021  Cited by 90  The present research tested the prediction that retractions of misinformation produce feelings of...</span></span></span>
+Natural [health myths]({{ 'health-myths/' | relative_url }}) often survive because they offer more than a single mistaken claim. They provide a complete way of understanding health, illness, risk and trust. Within that framework, natural is assumed to mean safer, the body is believed to heal itself if left undisturbed, modern medicine is viewed as overly artificial or commercially motivated, and personal experience is treated as the most trustworthy form of evidence. When these ideas reinforce one another, the result is a coherent mental model rather than a collection of disconnected beliefs. Research on health misinformation shows that such models are often sustained by intuitive reasoning, emotional appeal and distrust of institutions, making them resistant to simple fact-checking.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8447889/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCThe role of discomfort in the continued influence effect</span><span class="citation-popover-snippet">by MW Susmann  2021  Cited by 90  The present research tested the prediction that retractions of misinformation produce feelings of...</span></span></span>
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_mental_models_myths_2fa808_natural_health_model_ab9044-Illustration-1-dark.svg" | relative_url }}" alt="Natural Myths illustration 1" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_mental_models_myths_2fa808_natural_health_model_ab9044-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_mental_models_myths_2fa808_natural_health_model_ab9044-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 The strength of the model is not that every part is correct. Its strength is that each part appears to explain and confirm the others.
 
 ## The hidden model behind natural means safe
 
-Many natural health myths begin with a simple intuition: things found in nature seem pure, familiar and unaltered, while laboratory-made products seem artificial and potentially dangerous. Psychologists describe this tendency as the natural-is-better or naturalness bias. Studies repeatedly find that people often prefer products labelled natural, including medicines and [vaccines]({{ 'vaccines/' | relative_url }}), even when they are told the natural option is less effective or less safe. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S2352250X25001563" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Review The naturalness biasby BP Meier  2025  Cited by 4  Research shows that people have a natural-is-better belief wher...</span></span></span>
+Many natural health myths begin with a simple intuition: things found in nature seem pure, familiar and unaltered, while laboratory-made products seem artificial and potentially dangerous. Psychologists describe this tendency as the natural-is-better or naturalness bias. Studies repeatedly find that people often prefer products labelled natural, including medicines and [vaccines]({{ 'vaccines/' | relative_url }}), even when they are told the natural option is less effective or less safe.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S2352250X25001563" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Review The naturalness biasby BP Meier  2025  Cited by 4  Research shows that people have a natural-is-better belief wher...</span></span></span>
 
 On its own, a preference for natural products would not create a durable myth. The important step is that the preference becomes part of a wider explanatory system:
 
@@ -297,7 +297,7 @@ On its own, a preference for natural products would not create a durable myth. T
 
 Once these assumptions are linked together, they can explain many different situations. A person who feels unwell after taking a medicine may see the experience as proof that artificial interventions are harmful. A story about a herbal remedy helping someone recover becomes evidence that nature provides what the body needs. Each new example appears to confirm the model rather than challenge it.
 
-The problem is that natural and safe are not the same category. Many natural substances are toxic, while many synthetic treatments have undergone extensive testing for safety and effectiveness. Medical organisations regularly warn that natural products can interact with medicines, produce serious side effects and vary greatly in quality. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.mayoclinic.org/tests-procedures/complementary-alternative-medicine/in-depth/natural-vs-safe-health-remedies/art-20587690" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mayoclinic.org">[Mayo Clinic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mayoclinic.org</span><span class="citation-popover-title">art 20587690</span><span class="citation-popover-snippet">Mayo ClinicNatural vs. safe: Why the two aren&#x27;t the same16 Aug 2025  &quot;Natural&quot; on the label doesn&#x27;t mean safe in your body. Learn the tr...</span></span></span>
+The problem is that natural and safe are not the same category. Many natural substances are toxic, while many synthetic treatments have undergone extensive testing for safety and effectiveness. Medical organisations regularly warn that natural products can interact with medicines, produce serious side effects and vary greatly in quality.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.mayoclinic.org/tests-procedures/complementary-alternative-medicine/in-depth/natural-vs-safe-health-remedies/art-20587690" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mayoclinic.org">[Mayo Clinic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mayoclinic.org</span><span class="citation-popover-title">art 20587690</span><span class="citation-popover-snippet">Mayo ClinicNatural vs. safe: Why the two aren&#x27;t the same16 Aug 2025  &quot;Natural&quot; on the label doesn&#x27;t mean safe in your body. Learn the tr...</span></span></span>
 
 Yet within the mythic model, safety is not primarily assessed through testing or population-level evidence. It is inferred from perceived naturalness.
 
@@ -307,7 +307,7 @@ Yet within the mythic model, safety is not primarily assessed through testing or
 
 One of the most distinctive features of natural health myths is the elevated status of personal testimony.
 
-A typical anecdote has all the elements people naturally find persuasive: a named person, a visible problem, a simple intervention and an apparent improvement. It creates a causal story. By contrast, statistical evidence often describes probabilities across thousands of people, making it less emotionally vivid even when it is far more reliable. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Anecdotal_evidence" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Anecdotal evidence</span><span class="citation-popover-snippet">Anecdotal evidence</span></span></span>
+A typical anecdote has all the elements people naturally find persuasive: a named person, a visible problem, a simple intervention and an apparent improvement. It creates a causal story. By contrast, statistical evidence often describes probabilities across thousands of people, making it less emotionally vivid even when it is far more reliable.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Anecdotal_evidence" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Anecdotal evidence</span><span class="citation-popover-snippet">Anecdotal evidence</span></span></span>
 
 Within the natural-health model, [anecdotes]({{ 'anecdotes/' | relative_url }}) become especially powerful because they fit existing expectations. Consider the following chain of reasoning:
 
@@ -325,7 +325,7 @@ The anecdote is therefore doing more than reporting an outcome. It is validating
 
 This helps explain why contradictory evidence often struggles to gain traction. Large clinical studies are designed to separate genuine treatment effects from coincidence, placebo effects and selective [memory]({{ 'memory/' | relative_url }}). But inside the mythic framework, those studies may be interpreted as products of institutions that are already viewed as untrustworthy. The evidence is rejected not because it is weak but because it originates from the wrong place.
 
-Research on health misinformation consistently finds that distrust of institutions and reliance on intuitive forms of reasoning can make people more receptive to unsupported health claims. Social media environments amplify the effect because emotionally engaging personal stories spread more easily than discussions of methodology or statistical uncertainty. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8447889/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCThe role of discomfort in the continued influence effect</span><span class="citation-popover-snippet">by MW Susmann  2021  Cited by 90  The present research tested the prediction that retractions of misinformation produce feelings of...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/wellness/2025/jan/08/health-misinformation-online-tips" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian Are you falling for wellness misinformation online?</span><span class="citation-popover-snippet">Here&#x27;s how to tellOnline wellness misinformation commonly appears on social media as warnings, anecdotal solutions, and unproven remedies...</span></span></span>
+Research on health misinformation consistently finds that distrust of institutions and reliance on intuitive forms of reasoning can make people more receptive to unsupported health claims. Social media environments amplify the effect because emotionally engaging personal stories spread more easily than discussions of methodology or statistical uncertainty.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8447889/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCThe role of discomfort in the continued influence effect</span><span class="citation-popover-snippet">by MW Susmann  2021  Cited by 90  The present research tested the prediction that retractions of misinformation produce feelings of...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/wellness/2025/jan/08/health-misinformation-online-tips" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian Are you falling for wellness misinformation online?</span><span class="citation-popover-snippet">Here&#x27;s how to tellOnline wellness misinformation commonly appears on social media as warnings, anecdotal solutions, and unproven remedies...</span></span></span>
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_mental_models_myths_2fa808_natural_health_model_ab9044-Illustration-2-dark.svg" | relative_url }}" alt="Natural Myths illustration 2" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_mental_models_myths_2fa808_natural_health_model_ab9044-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_mental_models_myths_2fa808_natural_health_model_ab9044-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How distrust completes the picture
@@ -345,7 +345,7 @@ The result is a self-reinforcing structure:
 
 </div>
 
-Because every challenge can be interpreted as further evidence of corruption or concealment, the model becomes difficult to falsify. Research examining links between naturalness preferences and conspiratorial thinking suggests that distrust of institutions can strengthen preferences for natural treatments, while naturalness preferences can in turn make anti-institutional explanations seem more plausible. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/383519746_Conspiracy_beliefs_and_the_preference_for_natural_treatments_in_medical_decision-making" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGate(PDF) Conspiracy beliefs and the preference for natural...August 29, 2024  2 Aug 2025  This paper provides a comprehensive...</span><span class="citation-popover-meta">Published: August 29, 2024</span></span></span>
+Because every challenge can be interpreted as further evidence of corruption or concealment, the model becomes difficult to falsify. Research examining links between naturalness preferences and conspiratorial thinking suggests that distrust of institutions can strengthen preferences for natural treatments, while naturalness preferences can in turn make anti-institutional explanations seem more plausible.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/383519746_Conspiracy_beliefs_and_the_preference_for_natural_treatments_in_medical_decision-making" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGate(PDF) Conspiracy beliefs and the preference for natural...August 29, 2024  2 Aug 2025  This paper provides a comprehensive...</span><span class="citation-popover-meta">Published: August 29, 2024</span></span></span>
 
 This does not mean that all criticism of medical institutions is irrational. Scientific and medical organisations can make mistakes, and public scepticism sometimes plays a useful role. The issue is that the mythic model often transforms reasonable scrutiny into a blanket assumption that institutional evidence is inherently suspect while personal testimony is inherently trustworthy.
 
@@ -357,7 +357,7 @@ Correcting a natural health myth is often harder than presenting a contrary fact
 
 For example, telling someone that a particular herbal remedy has not been shown to work may not address the broader assumptions that made the claim persuasive. They may still believe that natural substances are safer, that mainstream medicine suppresses alternatives and that personal experiences reveal truths hidden by formal research.
 
-Research on misinformation and the continued influence effect shows that people frequently continue using outdated or false information after it has been corrected, especially when the [correction]({{ 'correction/' | relative_url }}) fails to provide an alternative explanation. Misinformation tends to persist because it occupies a meaningful place within a person's mental model. <span class="citation-chip-wrap"><a class="citation-chip" href="https://digitalcommons.chapman.edu/cgi/viewcontent.cgi?article=1061&amp;context=comm_articles" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: digitalcommons.chapman.edu">[digitalcommons.chapman.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">digitalcommons.chapman.edu</span><span class="citation-popover-snippet">A Meta-Analytic Examination of the Continued Influence of...by N Walter  2019  Cited by 650  Once a mental model is constructed, it h...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://research-information.bris.ac.uk/en/publications/misinformation-and-its-correction-continued-influence-and-success/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: research-information.bris.ac.uk">[University of Bristol]</a><span class="citation-popover" role="note"><span class="citation-popover-source">research-information.bris.ac.uk</span><span class="citation-popover-title">misinformation and its correction continued influence and success</span><span class="citation-popover-snippet">University of BristolMisinformation and Its Correction: Continued Influence and...by S Lewandowsky  2012  Cited by 4713  We look at p...</span></span></span>
+Research on misinformation and the continued influence effect shows that people frequently continue using outdated or false information after it has been corrected, especially when the [correction]({{ 'correction/' | relative_url }}) fails to provide an alternative explanation. Misinformation tends to persist because it occupies a meaningful place within a person's mental model.<span class="citation-chip-wrap"><a class="citation-chip" href="https://digitalcommons.chapman.edu/cgi/viewcontent.cgi?article=1061&amp;context=comm_articles" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: digitalcommons.chapman.edu">[digitalcommons.chapman.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">digitalcommons.chapman.edu</span><span class="citation-popover-snippet">A Meta-Analytic Examination of the Continued Influence of...by N Walter  2019  Cited by 650  Once a mental model is constructed, it h...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://research-information.bris.ac.uk/en/publications/misinformation-and-its-correction-continued-influence-and-success/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: research-information.bris.ac.uk">[University of Bristol]</a><span class="citation-popover" role="note"><span class="citation-popover-source">research-information.bris.ac.uk</span><span class="citation-popover-title">misinformation and its correction continued influence and success</span><span class="citation-popover-snippet">University of BristolMisinformation and Its Correction: Continued Influence and...by S Lewandowsky  2012  Cited by 4713  We look at p...</span></span></span>
 
 More effective corrections therefore replace the frame rather than merely attack a fact. Instead of saying:
 
@@ -381,199 +381,199 @@ This alternative model preserves a coherent explanation of health decisions whil
 
 Natural health myths endure because they answer several questions at once. They explain what causes illness, whom to trust, how to judge treatments and why conflicting information exists. Their appeal comes less from any single claim than from the way multiple assumptions fit together into a seemingly complete picture.
 
-Understanding that structure changes how misconceptions are viewed. The challenge is not simply correcting an isolated belief about a remedy, supplement or treatment. It is recognising the underlying model that makes the belief feel reasonable. Until that model is replaced with a more convincing explanation, new facts may struggle to find a place in the story people use to make sense of health and medicine. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nature.com/articles/s44159-021-00006-y" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">The psychological drivers of misinformation belief and its...by UKH Ecker  2022  Cited by 1919  In this Review, we describe the...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/pii/S2352250X25001563" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Review The naturalness biasby BP Meier  2025  Cited by 4  Research shows that people have a natural-is-better belief wher...</span></span></span>
+Understanding that structure changes how misconceptions are viewed. The challenge is not simply correcting an isolated belief about a remedy, supplement or treatment. It is recognising the underlying model that makes the belief feel reasonable. Until that model is replaced with a more convincing explanation, new facts may struggle to find a place in the story people use to make sense of health and medicine.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nature.com/articles/s44159-021-00006-y" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">The psychological drivers of misinformation belief and its...by UKH Ecker  2022  Cited by 1919  In this Review, we describe the...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/pii/S2352250X25001563" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Review The naturalness biasby BP Meier  2025  Cited by 4  Research shows that people have a natural-is-better belief wher...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/8HslUzw35mc" title="Homeopathy Explained  Gentle Healing or Reckless Fraud?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=8HslUzw35mc" target="_blank" rel="noopener noreferrer">Homeopathy Explained  Gentle Healing or Reckless Fraud?</a></p><p class="youtube-embed-meta">Channel: Kurzgesagt  In a Nutshell &middot; Views: 12.1M &middot; Uploaded: February 2018 &middot; Length: 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=8HslUzw35mc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=8HslUzw35mc">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Natural Health Myths Feel Coherent. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Natural Health Myths Feel Coherent. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Bad+Science+by+Ben+Goldacre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Bad Science on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=wICuv0ePMYoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Bad Science" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Bad+Science+by+Ben+Goldacre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Bad Science">Bad Science</a>
-        </h4>
-        <p class="fr-book-author">By Ben Goldacre</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Bad+Science+by+Ben+Goldacre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Bad Science on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=wICuv0ePMYoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Bad Science" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Bad+Science+by+Ben+Goldacre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Bad Science">Bad Science</a>
+</h4>
+<p class="fr-book-author">By Ben Goldacre</p>
         
-        <p class="fr-book-desc">Directly tackles alternative medicine claims, anecdotes, and weak evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Bad+Science+by+Ben+Goldacre&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly tackles alternative medicine claims, anecdotes, and weak evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Bad+Science+by+Ben+Goldacre&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YGPzXWanppcC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
-        </h4>
-        <p class="fr-book-author">By Daniel Kahneman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YGPzXWanppcC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
+</h4>
+<p class="fr-book-author">By Daniel Kahneman</p>
         
-        <p class="fr-book-desc">Explains cognitive biases that support naturalness bias and anecdotal reasoning.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains cognitive biases that support naturalness bias and anecdotal reasoning.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Do+You+Believe+in+Magic%3F+Paul+A.+Offit&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Do You Believe in Magic? on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/11402121-M.jpg" alt="Cover for Do You Believe in Magic?" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Do+You+Believe+in+Magic%3F+Paul+A.+Offit&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Do You Believe in Magic?">Do You Believe in Magic?</a>
-        </h4>
-        <p class="fr-book-author">By Paul A. Offit</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Do+You+Believe+in+Magic%3F+Paul+A.+Offit&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Do You Believe in Magic? on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/11402121-M.jpg" alt="Cover for Do You Believe in Magic?" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Do+You+Believe+in+Magic%3F+Paul+A.+Offit&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Do You Believe in Magic?">Do You Believe in Magic?</a>
+</h4>
+<p class="fr-book-author">By Paul A. Offit</p>
         
-        <p class="fr-book-desc">First published 2013. Subjects: Corrupt practices, Alternative medicine, Complementary Therapies, Deception, Quackery.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Do+You+Believe+in+Magic%3F+Paul+A.+Offit&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2013. Subjects: Corrupt practices, Alternative medicine, Complementary Therapies, Deception, Quackery.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Do+You+Believe+in+Magic%3F+Paul+A.+Offit&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Trick+or+Treatment%3F+Simon+Singh&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Trick or Treatment? on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/2524911-M.jpg" alt="Cover for Trick or Treatment?" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Trick+or+Treatment%3F+Simon+Singh&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Trick or Treatment?">Trick or Treatment?</a>
-        </h4>
-        <p class="fr-book-author">By Simon Singh, Edzard Ernst</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Trick+or+Treatment%3F+Simon+Singh&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Trick or Treatment? on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/2524911-M.jpg" alt="Cover for Trick or Treatment?" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Trick+or+Treatment%3F+Simon+Singh&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Trick or Treatment?">Trick or Treatment?</a>
+</h4>
+<p class="fr-book-author">By Simon Singh, Edzard Ernst</p>
         
-        <p class="fr-book-desc">First published 2008. Subjects: Placebo Effect, Evidence-Based Medicine, Complementary Therapies, Alternative medicine, Quackery.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Trick+or+Treatment%3F+Simon+Singh&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2008. Subjects: Placebo Effect, Evidence-Based Medicine, Complementary Therapies, Alternative medicine, Quackery.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Trick+or+Treatment%3F+Simon+Singh&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Bad+Science&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Bad Science</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Do+You+Believe+in+Magic%3F&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Do You Believe in Magic?</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Bad+Science&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Bad Science</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Do+You+Believe+in+Magic%3F&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Do You Believe in Magic?</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=health+education+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=natural-myths-why-natural-health-myths-feel-coherent-myths-and-misconcept-health-education-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="health education poster" data-ebay-reference="natural-myths-why-natural-health-myths-feel-coherent-myths-and-misconcept-health-education-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Barron’s Anatomy Flash Cards 264 Full Color with Poster"><img src="{{ '/assets/images/marketplace-covers/3bf14dbe60f744bcd664.jpg' | relative_url }}" alt="Listing image for Barron’s Anatomy Flash Cards 264 Full Color with Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=health+education+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=natural-myths-why-natural-health-myths-feel-coherent-myths-and-misconcept-health-education-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="health education poster" data-ebay-reference="natural-myths-why-natural-health-myths-feel-coherent-myths-and-misconcept-health-education-poster" target="_blank" rel="sponsored noopener noreferrer">Barron’s Anatomy Flash Cards 264 Full Color with Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=health+education+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=natural-myths-why-natural-health-myths-feel-coherent-myths-and-misconcept-health-education-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="health education poster" data-ebay-reference="natural-myths-why-natural-health-myths-feel-coherent-myths-and-misconcept-health-education-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for health education poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: health education poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=health+education+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=natural-myths-why-natural-health-myths-feel-coherent-myths-and-misconcept-health-education-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="health education poster" data-ebay-reference="natural-myths-why-natural-health-myths-feel-coherent-myths-and-misconcept-health-education-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=health+education+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=natural-myths-why-natural-health-myths-feel-coherent-myths-and-misconcept-health-education-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="health education poster" data-ebay-reference="natural-myths-why-natural-health-myths-feel-coherent-myths-and-misconcept-health-education-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Barron’s Anatomy Flash Cards 264 Full Color with Poster"><img src="{{ '/assets/images/marketplace-covers/3bf14dbe60f744bcd664.jpg' | relative_url }}" alt="Listing image for Barron’s Anatomy Flash Cards 264 Full Color with Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=health+education+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=natural-myths-why-natural-health-myths-feel-coherent-myths-and-misconcept-health-education-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="health education poster" data-ebay-reference="natural-myths-why-natural-health-myths-feel-coherent-myths-and-misconcept-health-education-poster" target="_blank" rel="sponsored noopener noreferrer">Barron’s Anatomy Flash Cards 264 Full Color with Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=health+education+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=natural-myths-why-natural-health-myths-feel-coherent-myths-and-misconcept-health-education-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="health education poster" data-ebay-reference="natural-myths-why-natural-health-myths-feel-coherent-myths-and-misconcept-health-education-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for health education poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: health education poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=health+education+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=natural-myths-why-natural-health-myths-feel-coherent-myths-and-misconcept-health-education-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="health education poster" data-ebay-reference="natural-myths-why-natural-health-myths-feel-coherent-myths-and-misconcept-health-education-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=health+education+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=natural-myths-why-natural-health-myths-feel-coherent-myths-and-misconcept-health-education-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="health education poster" data-ebay-reference="natural-myths-why-natural-health-myths-feel-coherent-myths-and-misconcept-health-education-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Health Promotion Posters X11 Job Lot Medical Health Education GASP Etc"><img src="{{ '/assets/images/marketplace-covers/9ba55ff5039ba39fb78d.jpg' | relative_url }}" alt="Listing image for Health Promotion Posters X11 Job Lot Medical Health Education GASP Etc" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=health+education+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=natural-myths-why-natural-health-myths-feel-coherent-myths-and-misconcept-health-education-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="health education poster" data-ebay-reference="natural-myths-why-natural-health-myths-feel-coherent-myths-and-misconcept-health-education-poster" target="_blank" rel="sponsored noopener noreferrer">Health Promotion Posters X11 Job Lot Medical Health Education GASP Etc</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=health+education+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=natural-myths-why-natural-health-myths-feel-coherent-myths-and-misconcept-health-education-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="health education poster" data-ebay-reference="natural-myths-why-natural-health-myths-feel-coherent-myths-and-misconcept-health-education-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for health education poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: health education poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=health+education+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=natural-myths-why-natural-health-myths-feel-coherent-myths-and-misconcept-health-education-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="health education poster" data-ebay-reference="natural-myths-why-natural-health-myths-feel-coherent-myths-and-misconcept-health-education-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=health+education+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=natural-myths-why-natural-health-myths-feel-coherent-myths-and-misconcept-health-education-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="health education poster" data-ebay-reference="natural-myths-why-natural-health-myths-feel-coherent-myths-and-misconcept-health-education-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Health Promotion Posters X11 Job Lot Medical Health Education GASP Etc"><img src="{{ '/assets/images/marketplace-covers/9ba55ff5039ba39fb78d.jpg' | relative_url }}" alt="Listing image for Health Promotion Posters X11 Job Lot Medical Health Education GASP Etc" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=health+education+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=natural-myths-why-natural-health-myths-feel-coherent-myths-and-misconcept-health-education-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="health education poster" data-ebay-reference="natural-myths-why-natural-health-myths-feel-coherent-myths-and-misconcept-health-education-poster" target="_blank" rel="sponsored noopener noreferrer">Health Promotion Posters X11 Job Lot Medical Health Education GASP Etc</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=health+education+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=natural-myths-why-natural-health-myths-feel-coherent-myths-and-misconcept-health-education-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="health education poster" data-ebay-reference="natural-myths-why-natural-health-myths-feel-coherent-myths-and-misconcept-health-education-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for health education poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: health education poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=health+education+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=natural-myths-why-natural-health-myths-feel-coherent-myths-and-misconcept-health-education-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="health education poster" data-ebay-reference="natural-myths-why-natural-health-myths-feel-coherent-myths-and-misconcept-health-education-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=health+education+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=natural-myths-why-natural-health-myths-feel-coherent-myths-and-misconcept-health-education-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="health education poster" data-ebay-reference="natural-myths-why-natural-health-myths-feel-coherent-myths-and-misconcept-health-education-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 15 Mental Health Posters for Classroom, 11X14In Educational, Matte-Laminated for"><img src="{{ '/assets/images/marketplace-covers/7a221d36e3a5e69374ca.jpg' | relative_url }}" alt="Listing image for 15 Mental Health Posters for Classroom, 11X14In Educational, Matte-Laminated for" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=health+education+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=natural-myths-why-natural-health-myths-feel-coherent-myths-and-misconcept-health-education-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="health education poster" data-ebay-reference="natural-myths-why-natural-health-myths-feel-coherent-myths-and-misconcept-health-education-poster" target="_blank" rel="sponsored noopener noreferrer">15 Mental Health Posters for Classroom, 11X14In Educational, Matte-Laminated for</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=health+education+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=natural-myths-why-natural-health-myths-feel-coherent-myths-and-misconcept-health-education-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="health education poster" data-ebay-reference="natural-myths-why-natural-health-myths-feel-coherent-myths-and-misconcept-health-education-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for health education poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: health education poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=health+education+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=natural-myths-why-natural-health-myths-feel-coherent-myths-and-misconcept-health-education-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="health education poster" data-ebay-reference="natural-myths-why-natural-health-myths-feel-coherent-myths-and-misconcept-health-education-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=health+education+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=natural-myths-why-natural-health-myths-feel-coherent-myths-and-misconcept-health-education-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="health education poster" data-ebay-reference="natural-myths-why-natural-health-myths-feel-coherent-myths-and-misconcept-health-education-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 15 Mental Health Posters for Classroom, 11X14In Educational, Matte-Laminated for"><img src="{{ '/assets/images/marketplace-covers/7a221d36e3a5e69374ca.jpg' | relative_url }}" alt="Listing image for 15 Mental Health Posters for Classroom, 11X14In Educational, Matte-Laminated for" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=health+education+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=natural-myths-why-natural-health-myths-feel-coherent-myths-and-misconcept-health-education-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="health education poster" data-ebay-reference="natural-myths-why-natural-health-myths-feel-coherent-myths-and-misconcept-health-education-poster" target="_blank" rel="sponsored noopener noreferrer">15 Mental Health Posters for Classroom, 11X14In Educational, Matte-Laminated for</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=health+education+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=natural-myths-why-natural-health-myths-feel-coherent-myths-and-misconcept-health-education-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="health education poster" data-ebay-reference="natural-myths-why-natural-health-myths-feel-coherent-myths-and-misconcept-health-education-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for health education poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: health education poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=health+education+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=natural-myths-why-natural-health-myths-feel-coherent-myths-and-misconcept-health-education-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="health education poster" data-ebay-reference="natural-myths-why-natural-health-myths-feel-coherent-myths-and-misconcept-health-education-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=health+education+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=natural-myths-why-natural-health-myths-feel-coherent-myths-and-misconcept-health-education-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="health education poster" data-ebay-reference="natural-myths-why-natural-health-myths-feel-coherent-myths-and-misconcept-health-education-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ultimate Fruit Guide Poster A3 - Nutrition &amp; Health Educational Wall Art"><img src="{{ '/assets/images/marketplace-covers/4990fdf1f5c00d5d14d5.jpg' | relative_url }}" alt="Listing image for Ultimate Fruit Guide Poster A3 - Nutrition &amp; Health Educational Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=health+education+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=natural-myths-why-natural-health-myths-feel-coherent-myths-and-misconcept-health-education-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="health education poster" data-ebay-reference="natural-myths-why-natural-health-myths-feel-coherent-myths-and-misconcept-health-education-poster" target="_blank" rel="sponsored noopener noreferrer">Ultimate Fruit Guide Poster A3 - Nutrition &amp; Health Educational Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=health+education+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=natural-myths-why-natural-health-myths-feel-coherent-myths-and-misconcept-health-education-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="health education poster" data-ebay-reference="natural-myths-why-natural-health-myths-feel-coherent-myths-and-misconcept-health-education-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for health education poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: health education poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=health+education+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=natural-myths-why-natural-health-myths-feel-coherent-myths-and-misconcept-health-education-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="health education poster" data-ebay-reference="natural-myths-why-natural-health-myths-feel-coherent-myths-and-misconcept-health-education-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=health+education+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=natural-myths-why-natural-health-myths-feel-coherent-myths-and-misconcept-health-education-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="health education poster" data-ebay-reference="natural-myths-why-natural-health-myths-feel-coherent-myths-and-misconcept-health-education-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=health+education+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=natural-myths-why-natural-health-myths-feel-coherent-myths-and-misconcept-health-education-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="health education poster" data-ebay-reference="natural-myths-why-natural-health-myths-feel-coherent-myths-and-misconcept-health-education-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ultimate Fruit Guide Poster A3 - Nutrition &amp; Health Educational Wall Art"><img src="{{ '/assets/images/marketplace-covers/4990fdf1f5c00d5d14d5.jpg' | relative_url }}" alt="Listing image for Ultimate Fruit Guide Poster A3 - Nutrition &amp; Health Educational Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=health+education+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=natural-myths-why-natural-health-myths-feel-coherent-myths-and-misconcept-health-education-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="health education poster" data-ebay-reference="natural-myths-why-natural-health-myths-feel-coherent-myths-and-misconcept-health-education-poster" target="_blank" rel="sponsored noopener noreferrer">Ultimate Fruit Guide Poster A3 - Nutrition &amp; Health Educational Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=health+education+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=natural-myths-why-natural-health-myths-feel-coherent-myths-and-misconcept-health-education-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="health education poster" data-ebay-reference="natural-myths-why-natural-health-myths-feel-coherent-myths-and-misconcept-health-education-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for health education poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: health education poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=health+education+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=natural-myths-why-natural-health-myths-feel-coherent-myths-and-misconcept-health-education-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="health education poster" data-ebay-reference="natural-myths-why-natural-health-myths-feel-coherent-myths-and-misconcept-health-education-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=health+education+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=natural-myths-why-natural-health-myths-feel-coherent-myths-and-misconcept-health-education-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="health education poster" data-ebay-reference="natural-myths-why-natural-health-myths-feel-coherent-myths-and-misconcept-health-education-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -589,7 +589,7 @@ Understanding that structure changes how misconceptions are viewed. The challeng
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -609,7 +609,7 @@ Understanding that structure changes how misconceptions are viewed. The challeng
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -641,7 +641,7 @@ Understanding that structure changes how misconceptions are viewed. The challeng
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -693,7 +693,7 @@ Understanding that structure changes how misconceptions are viewed. The challeng
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -738,7 +738,7 @@ Understanding that structure changes how misconceptions are viewed. The challeng
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -779,136 +779,136 @@ Understanding that structure changes how misconceptions are viewed. The challeng
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9421549/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9421549/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Infodemics and health misinformation: a systematic review of...by IJB do Nascimento  2022  Cited by 718  This phenomenon, called a...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9421549/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9421549/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Infodemics and health misinformation: a systematic review of...by IJB do Nascimento  2022  Cited by 718  This phenomenon, called a...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: nature.com  
-   Link: <a href="https://www.nature.com/articles/s44159-021-00006-y" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s44159-021-00006-y</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The psychological drivers of misinformation belief and its...by UKH Ecker  2022  Cited by 1919  In this Review, we describe the...</p></details>
+   Link:<a href="https://www.nature.com/articles/s44159-021-00006-y" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s44159-021-00006-y</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The psychological drivers of misinformation belief and its...by UKH Ecker  2022  Cited by 1919  In this Review, we describe the...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/pii/S2352250X25001563" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S2352250X25001563</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Review The naturalness biasby BP Meier  2025  Cited by 4  Research shows that people have a natural-is-better belief wher...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/pii/S2352250X25001563" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S2352250X25001563</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Review The naturalness biasby BP Meier  2025  Cited by 4  Research shows that people have a natural-is-better belief wher...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: Wikipedia  
    Title: Anecdotal evidence  
-   Link: <a href="https://en.wikipedia.org/wiki/Anecdotal_evidence" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Anecdotal_evidence</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Anecdotal_evidence" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Anecdotal_evidence</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/383519746_Conspiracy_beliefs_and_the_preference_for_natural_treatments_in_medical_decision-making" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/383519746_Conspiracy_beliefs_and_the_preference_for_natural_treatments_in_medical_decision-making</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ResearchGate(PDF) Conspiracy beliefs and the preference for natural...August 29, 2024  2 Aug 2025  This paper provides a comprehensive...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/383519746_Conspiracy_beliefs_and_the_preference_for_natural_treatments_in_medical_decision-making" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/383519746_Conspiracy_beliefs_and_the_preference_for_natural_treatments_in_medical_decision-making</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ResearchGate(PDF) Conspiracy beliefs and the preference for natural...August 29, 2024  2 Aug 2025  This paper provides a comprehensive...</p></details>
    Published: August 29, 2024  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: digitalcommons.chapman.edu  
-   Link: <a href="https://digitalcommons.chapman.edu/cgi/viewcontent.cgi?article=1061&amp;context=comm_articles" target="_blank" rel="noopener noreferrer nofollow">https://digitalcommons.chapman.edu/cgi/viewcontent.cgi?article=1061&amp;context=comm_articles</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>A Meta-Analytic Examination of the Continued Influence of...by N Walter  2019  Cited by 650  Once a mental model is constructed, it h...</p></details>
+   Link:<a href="https://digitalcommons.chapman.edu/cgi/viewcontent.cgi?article=1061&amp;context=comm_articles" target="_blank" rel="noopener noreferrer nofollow">https://digitalcommons.chapman.edu/cgi/viewcontent.cgi?article=1061&amp;context=comm_articles</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A Meta-Analytic Examination of the Continued Influence of...by N Walter  2019  Cited by 650  Once a mental model is constructed, it h...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCThe role of discomfort in the continued influence effect  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8447889/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8447889/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>by MW Susmann  2021  Cited by 90  The present research tested the prediction that retractions of misinformation produce feelings of...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8447889/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8447889/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by MW Susmann  2021  Cited by 90  The present research tested the prediction that retractions of misinformation produce feelings of...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/pii/S2405457726000422" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S2405457726000422</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Exploring nutritional myths and [fake news](&amp;#123;&amp;#123; &#x27;fake-news/&#x27; | relative_url &amp;#125;&amp;#125;): Impact and...by M Capocasa  2026  Cited by 4  Nutritional misinformation represents a sign...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/pii/S2405457726000422" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S2405457726000422</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Exploring nutritional myths and [fake news](&amp;#123;&amp;#123; &#x27;fake-news/&#x27; | relative_url &amp;#125;&amp;#125;): Impact and...by M Capocasa  2026  Cited by 4  Nutritional misinformation represents a sign...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: Wikipedia  
    Title: Naturalistic fallacy  
-   Link: <a href="https://en.wikipedia.org/wiki/Naturalistic_fallacy" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Naturalistic_fallacy</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Naturalistic fallacyThe naturalistic fallacy is the claim that it is possible to define good in terms of merely described entities, pr...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Naturalistic_fallacy" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Naturalistic_fallacy</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Naturalistic fallacyThe naturalistic fallacy is the claim that it is possible to define good in terms of merely described entities, pr...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/258180567_Misinformation_and_Its_Correction_Continued_Influence_and_Successful_Debiasing" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/258180567_Misinformation_and_Its_Correction_Continued_Influence_and_Successful_Debiasing</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>tions of misinformation are so ineffective in memory updating and why...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/258180567_Misinformation_and_Its_Correction_Continued_Influence_and_Successful_Debiasing" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/258180567_Misinformation_and_Its_Correction_Continued_Influence_and_Successful_Debiasing</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>tions of misinformation are so ineffective in memory updating and why...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: mayoclinic.org  
    Title: art 20587690  
-   Link: <a href="https://www.mayoclinic.org/tests-procedures/complementary-alternative-medicine/in-depth/natural-vs-safe-health-remedies/art-20587690" target="_blank" rel="noopener noreferrer nofollow">https://www.mayoclinic.org/tests-procedures/complementary-alternative-medicine/in-depth/natural-vs-safe-health-remedies/art-20587690</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Mayo ClinicNatural vs. safe: Why the two aren&#x27;t the same16 Aug 2025  &quot;Natural&quot; on the label doesn&#x27;t mean safe in your body. Learn the tr...</p></details>
+   Link:<a href="https://www.mayoclinic.org/tests-procedures/complementary-alternative-medicine/in-depth/natural-vs-safe-health-remedies/art-20587690" target="_blank" rel="noopener noreferrer nofollow">https://www.mayoclinic.org/tests-procedures/complementary-alternative-medicine/in-depth/natural-vs-safe-health-remedies/art-20587690</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Mayo ClinicNatural vs. safe: Why the two aren&#x27;t the same16 Aug 2025  &quot;Natural&quot; on the label doesn&#x27;t mean safe in your body. Learn the tr...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: theguardian.com  
    Title: The Guardian Are you falling for wellness misinformation online?  
-   Link: <a href="https://www.theguardian.com/wellness/2025/jan/08/health-misinformation-online-tips" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/wellness/2025/jan/08/health-misinformation-online-tips</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Here&#x27;s how to tellOnline wellness misinformation commonly appears on social media as warnings, anecdotal solutions, and unproven remedies...</p></details>
+   Link:<a href="https://www.theguardian.com/wellness/2025/jan/08/health-misinformation-online-tips" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/wellness/2025/jan/08/health-misinformation-online-tips</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Here&#x27;s how to tellOnline wellness misinformation commonly appears on social media as warnings, anecdotal solutions, and unproven remedies...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: research-information.bris.ac.uk  
    Title: misinformation and its correction continued influence and success  
-   Link: <a href="https://research-information.bris.ac.uk/en/publications/misinformation-and-its-correction-continued-influence-and-success/" target="_blank" rel="noopener noreferrer nofollow">https://research-information.bris.ac.uk/en/publications/misinformation-and-its-correction-continued-influence-and-success/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>University of BristolMisinformation and Its Correction: Continued Influence and...by S Lewandowsky  2012  Cited by 4713  We look at p...</p></details>
+   Link:<a href="https://research-information.bris.ac.uk/en/publications/misinformation-and-its-correction-continued-influence-and-success/" target="_blank" rel="noopener noreferrer nofollow">https://research-information.bris.ac.uk/en/publications/misinformation-and-its-correction-continued-influence-and-success/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>University of BristolMisinformation and Its Correction: Continued Influence and...by S Lewandowsky  2012  Cited by 4713  We look at p...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: youtube.com  
    Title: The Continued Influence Effect  
-   Link: <a href="https://www.youtube.com/watch?v=eZ_hcf01EFw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=eZ_hcf01EFw</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Why do memories of...The continued influence effect is when misinformation continues to exist in a person&#x27;s memory even after they&#x27;ve le...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=eZ_hcf01EFw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=eZ_hcf01EFw</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Why do memories of...The continued influence effect is when misinformation continues to exist in a person&#x27;s memory even after they&#x27;ve le...</p></details>
 
 ### Additional References
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: behavioralscientist.org  
    Title: natural is better how the naturalistic fallacy derails public health  
-   Link: <a href="https://behavioralscientist.org/natural-is-better-how-the-naturalistic-fallacy-derails-public-health/" target="_blank" rel="noopener noreferrer nofollow">https://behavioralscientist.org/natural-is-better-how-the-naturalistic-fallacy-derails-public-health/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How the Appeal To Nature Fallacy Derails Public Health8 Mar 2021  Our preference for things deemed to be natural is so illogical and sys...</p></details>
+   Link:<a href="https://behavioralscientist.org/natural-is-better-how-the-naturalistic-fallacy-derails-public-health/" target="_blank" rel="noopener noreferrer nofollow">https://behavioralscientist.org/natural-is-better-how-the-naturalistic-fallacy-derails-public-health/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How the Appeal To Nature Fallacy Derails Public Health8 Mar 2021  Our preference for things deemed to be natural is so illogical and sys...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: journals.sagepub.com  
-   Link: <a href="https://journals.sagepub.com/doi/abs/10.1177/1529100612451018" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/abs/10.1177/1529100612451018</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>and Its Correction: Continued Influence and...by S Lewandowsky  2012  Cited by 4718  Sources of the continued influence effect: When...</p></details>
+   Link:<a href="https://journals.sagepub.com/doi/abs/10.1177/1529100612451018" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/abs/10.1177/1529100612451018</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>and Its Correction: Continued Influence and...by S Lewandowsky  2012  Cited by 4718  Sources of the continued influence effect: When...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/ThinkingPowers/posts/many-anti-vaccine-arguments-commit-the-appeal-to-nature-fallacy-which-argues-tha/418487423206876/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ThinkingPowers/posts/many-anti-vaccine-arguments-commit-the-appeal-to-nature-fallacy-which-argues-tha/418487423206876/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>that something is better or safer because of its perceived naturalness.Read more...</p></details>
+   Link:<a href="https://www.facebook.com/ThinkingPowers/posts/many-anti-vaccine-arguments-commit-the-appeal-to-nature-fallacy-which-argues-tha/418487423206876/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ThinkingPowers/posts/many-anti-vaccine-arguments-commit-the-appeal-to-nature-fallacy-which-argues-tha/418487423206876/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>that something is better or safer because of its perceived naturalness.Read more...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: nhs.uk  
-   Link: <a href="https://www.nhs.uk/vaccinations/why-vaccination-is-important-and-the-safest-way-to-protect-yourself/" target="_blank" rel="noopener noreferrer nofollow">https://www.nhs.uk/vaccinations/why-vaccination-is-important-and-the-safest-way-to-protect-yourself/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>This page explains how vaccines work, what they contain and the most common side...</p></details>
+   Link:<a href="https://www.nhs.uk/vaccinations/why-vaccination-is-important-and-the-safest-way-to-protect-yourself/" target="_blank" rel="noopener noreferrer nofollow">https://www.nhs.uk/vaccinations/why-vaccination-is-important-and-the-safest-way-to-protect-yourself/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>This page explains how vaccines work, what they contain and the most common side...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: act-r.psy.cmu.edu  
    Title: Hough modeling misinformation related effects  
-   Link: <a href="https://act-r.psy.cmu.edu/wordpress/wp-content/uploads/2024/07/Hough_modeling_misinformation-related_effects.pdf" target="_blank" rel="noopener noreferrer nofollow">https://act-r.psy.cmu.edu/wordpress/wp-content/uploads/2024/07/Hough_modeling_misinformation-related_effects.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>misinformation-related effectsby AR HOUGH  2024  Misinformation and its correction: Continued influence and successful debiasing. Psych...</p></details>
+   Link:<a href="https://act-r.psy.cmu.edu/wordpress/wp-content/uploads/2024/07/Hough_modeling_misinformation-related_effects.pdf" target="_blank" rel="noopener noreferrer nofollow">https://act-r.psy.cmu.edu/wordpress/wp-content/uploads/2024/07/Hough_modeling_misinformation-related_effects.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>misinformation-related effectsby AR HOUGH  2024  Misinformation and its correction: Continued influence and successful debiasing. Psych...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/AdventHealth/posts/misinformation-can-make-caring-for-your-health-feel-overwhelming-but-knowledge-i/1334274045398561/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/AdventHealth/posts/misinformation-can-make-caring-for-your-health-feel-overwhelming-but-knowledge-i/1334274045398561/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>empowering. Research shows that evidence-based guidance leads...</p></details>
+   Link:<a href="https://www.facebook.com/AdventHealth/posts/misinformation-can-make-caring-for-your-health-feel-overwhelming-but-knowledge-i/1334274045398561/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/AdventHealth/posts/misinformation-can-make-caring-for-your-health-feel-overwhelming-but-knowledge-i/1334274045398561/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>empowering. Research shows that evidence-based guidance leads...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: youtube.com  
    Title: An Open Conversation About Ayurvedic Medicine @Doctor Mike  
-   Link: <a href="http://www.youtube.com/watch?v=ivswTsqCyLc" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=ivswTsqCyLc</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Psychology of naturalness bias health misinformation Nature &amp; Nurture #102: Dr. Mahzarin Banaji - Myths &amp; Facts About Implicit Bias Natur...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=ivswTsqCyLc" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=ivswTsqCyLc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Psychology of naturalness bias health misinformation Nature &amp; Nurture #102: Dr. Mahzarin Banaji - Myths &amp; Facts About Implicit Bias Natur...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: strategian.com  
    Title: [mental models](&#123;&#123; 'mental-models/' | relative_url &#125;&#125;) misinformation and truth  
-   Link: <a href="https://www.strategian.com/2022/12/15/mental-models-misinformation-and-truth/" target="_blank" rel="noopener noreferrer nofollow">https://www.strategian.com/2022/12/15/mental-models-misinformation-and-truth/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Mental models: misinformation and truth15 Dec 2022  Misinformation often has an ongoing effect on people&#x27;s memory and inferential reaso...</p></details>
+   Link:<a href="https://www.strategian.com/2022/12/15/mental-models-misinformation-and-truth/" target="_blank" rel="noopener noreferrer nofollow">https://www.strategian.com/2022/12/15/mental-models-misinformation-and-truth/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Mental models: misinformation and truth15 Dec 2022  Misinformation often has an ongoing effect on people&#x27;s memory and inferential reaso...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: cdn.nuffieldbioethics.org  
    Title: Nuffield Council Naturalness booklet  
-   Link: <a href="https://cdn.nuffieldbioethics.org/wp-content/uploads/Nuffield_Council_Naturalness_booklet.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nuffieldbioethics.org/wp-content/uploads/Nuffield_Council_Naturalness_booklet.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>about naturalness in public and political debates...When people describe science, technology or medicine as natural, unnatural or linked...</p></details>
+   Link:<a href="https://cdn.nuffieldbioethics.org/wp-content/uploads/Nuffield_Council_Naturalness_booklet.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nuffieldbioethics.org/wp-content/uploads/Nuffield_Council_Naturalness_booklet.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>about naturalness in public and political debates...When people describe science, technology or medicine as natural, unnatural or linked...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: stmacorpuschristi.com  
-   Link: <a href="https://stmacorpuschristi.com/debunking-common-health-myths/" target="_blank" rel="noopener noreferrer nofollow">https://stmacorpuschristi.com/debunking-common-health-myths/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ing the truth behind them with evidence-based insights...</p></details>
+   Link:<a href="https://stmacorpuschristi.com/debunking-common-health-myths/" target="_blank" rel="noopener noreferrer nofollow">https://stmacorpuschristi.com/debunking-common-health-myths/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ing the truth behind them with evidence-based insights...</p></details>

@@ -274,7 +274,7 @@ image: /assets/images/Myths_and_misconcept_0d48d7_sciencey_language_94b7a1_clini
 
 ## Introduction
 
-“Clinically proven” is one of the most powerful phrases in health and wellness marketing. To many readers, it suggests that a product has been rigorously tested, compared against meaningful alternatives, and shown to deliver the advertised benefit. In practice, the phrase often carries far less information than consumers assume. A claim can be based on a small study, a weak outcome measure, a short follow-up period, or research that does not directly support the promise being made. The gap between what the phrase implies and what the evidence actually shows is a recurring source of misunderstanding in health advertising. Regulators in the UK and elsewhere do not treat “clinically proven” as a magic label; they expect objective [health claims]({{ 'health-claims/' | relative_url }}) to be supported by robust evidence that matches the claim being made. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.asa.org.uk/advice-online/healthcare-medicinal-claims.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: asa.org.uk">[ASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">asa.org.uk</span><span class="citation-popover-title">healthcare medicinal claims</span><span class="citation-popover-snippet">Healthcare: Medicinal claims7 Aug 2024 — This CAP Guidance explains the types and levels of evidence the ASA would expect to see for s...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.asa.org.uk/advice-online/substantiation-for-health-beauty-and-slimming-claims.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: asa.org.uk">[ASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">asa.org.uk</span><span class="citation-popover-title">substantiation for health beauty and slimming claims</span><span class="citation-popover-snippet">Substantiation for health, beauty and slimming claims23 Jun 2025 — The Advertising Guidance identifies three types of health, beauty and...</span></span></span>
+“Clinically proven” is one of the most powerful phrases in health and wellness marketing. To many readers, it suggests that a product has been rigorously tested, compared against meaningful alternatives, and shown to deliver the advertised benefit. In practice, the phrase often carries far less information than consumers assume. A claim can be based on a small study, a weak outcome measure, a short follow-up period, or research that does not directly support the promise being made. The gap between what the phrase implies and what the evidence actually shows is a recurring source of misunderstanding in health advertising. Regulators in the UK and elsewhere do not treat “clinically proven” as a magic label; they expect objective [health claims]({{ 'health-claims/' | relative_url }}) to be supported by robust evidence that matches the claim being made.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.asa.org.uk/advice-online/healthcare-medicinal-claims.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: asa.org.uk">[ASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">asa.org.uk</span><span class="citation-popover-title">healthcare medicinal claims</span><span class="citation-popover-snippet">Healthcare: Medicinal claims7 Aug 2024 — This CAP Guidance explains the types and levels of evidence the ASA would expect to see for s...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.asa.org.uk/advice-online/substantiation-for-health-beauty-and-slimming-claims.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: asa.org.uk">[ASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">asa.org.uk</span><span class="citation-popover-title">substantiation for health beauty and slimming claims</span><span class="citation-popover-snippet">Substantiation for health, beauty and slimming claims23 Jun 2025 — The Advertising Guidance identifies three types of health, beauty and...</span></span></span>
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_sciencey_language_94b7a1_clinically_proven_ga_968b62-Illustration-1-dark.svg" | relative_url }}" alt="Clinically Proven illustration 1" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_sciencey_language_94b7a1_clinically_proven_ga_968b62-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_sciencey_language_94b7a1_clinically_proven_ga_968b62-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 Within the broader problem of science-sounding language, “clinically proven” is a particularly effective credibility signal because it sounds precise while often leaving crucial questions unanswered.
@@ -293,7 +293,7 @@ When people encounter “clinically proven”, they commonly infer several thing
 
 </div>
 
-Yet the phrase itself guarantees none of these points. There is no universal legal definition that automatically requires a particular study design, sample size, duration, or level of replication whenever marketers use the words “clinically proven”. What matters is whether the advertiser can substantiate the specific claim with evidence appropriate to that claim. Regulators focus on the quality and relevance of the supporting evidence, not on the presence of the phrase itself. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ftc.gov/business-guidance/resources/health-products-compliance-guidance" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ftc.gov">[Federal Trade Commission]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ftc.gov</span><span class="citation-popover-title">health products compliance guidance</span><span class="citation-popover-snippet">Federal Trade CommissionHealth Products Compliance Guidance20 Dec 2022 — This document provides guidance from FTC staff on how to ensure...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cov.com/en/news-and-insights/insights/2023/01/ftc-issues-new-guidance-on-health-related-claims-to-replace-the-dietary-supplements-advertising-guide" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cov.com">[Covington]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cov.com</span><span class="citation-popover-snippet">ingtonFTC Issues New Guidance on Health-Related Claims to...5 Jan 2023 — FTC reiterates that health benefit claims must be substantia...</span></span></span>
+Yet the phrase itself guarantees none of these points. There is no universal legal definition that automatically requires a particular study design, sample size, duration, or level of replication whenever marketers use the words “clinically proven”. What matters is whether the advertiser can substantiate the specific claim with evidence appropriate to that claim. Regulators focus on the quality and relevance of the supporting evidence, not on the presence of the phrase itself.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ftc.gov/business-guidance/resources/health-products-compliance-guidance" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ftc.gov">[Federal Trade Commission]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ftc.gov</span><span class="citation-popover-title">health products compliance guidance</span><span class="citation-popover-snippet">Federal Trade CommissionHealth Products Compliance Guidance20 Dec 2022 — This document provides guidance from FTC staff on how to ensure...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cov.com/en/news-and-insights/insights/2023/01/ftc-issues-new-guidance-on-health-related-claims-to-replace-the-dietary-supplements-advertising-guide" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cov.com">[Covington]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cov.com</span><span class="citation-popover-snippet">ingtonFTC Issues New Guidance on Health-Related Claims to...5 Jan 2023 — FTC reiterates that health benefit claims must be substantia...</span></span></span>
 
 This distinction is important because a product may have been involved in some form of clinical testing while still lacking strong evidence for the advertised outcome. The existence of a study is not the same as proof of effectiveness.
 
@@ -301,7 +301,7 @@ This distinction is important because a product may have been involved in some f
 
 A common misconception is that any human study settles the question. In reality, clinical research varies enormously in quality.
 
-A trial involving a few dozen participants, no meaningful comparison group, and a short follow-up period may provide preliminary information but cannot support broad claims with the same [confidence]({{ 'confidence/' | relative_url }}) as a large, well-controlled randomised trial. Regulators assessing health claims typically look beyond whether a study exists and ask whether experts would regard the evidence as reliable and appropriate for the claim. Nutraceuticals World <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ftc.gov/business-guidance/resources/health-products-compliance-guidance" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ftc.gov">[Federal Trade Commission]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ftc.gov</span><span class="citation-popover-title">health products compliance guidance</span><span class="citation-popover-snippet">Federal Trade CommissionHealth Products Compliance Guidance20 Dec 2022 — This document provides guidance from FTC staff on how to ensure...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cov.com/en/news-and-insights/insights/2023/01/ftc-issues-new-guidance-on-health-related-claims-to-replace-the-dietary-supplements-advertising-guide" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cov.com">[Covington]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cov.com</span><span class="citation-popover-snippet">ingtonFTC Issues New Guidance on Health-Related Claims to...5 Jan 2023 — FTC reiterates that health benefit claims must be substantia...</span></span></span>
+A trial involving a few dozen participants, no meaningful comparison group, and a short follow-up period may provide preliminary information but cannot support broad claims with the same [confidence]({{ 'confidence/' | relative_url }}) as a large, well-controlled randomised trial. Regulators assessing health claims typically look beyond whether a study exists and ask whether experts would regard the evidence as reliable and appropriate for the claim. Nutraceuticals World<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ftc.gov/business-guidance/resources/health-products-compliance-guidance" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ftc.gov">[Federal Trade Commission]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ftc.gov</span><span class="citation-popover-title">health products compliance guidance</span><span class="citation-popover-snippet">Federal Trade CommissionHealth Products Compliance Guidance20 Dec 2022 — This document provides guidance from FTC staff on how to ensure...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cov.com/en/news-and-insights/insights/2023/01/ftc-issues-new-guidance-on-health-related-claims-to-replace-the-dietary-supplements-advertising-guide" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cov.com">[Covington]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cov.com</span><span class="citation-popover-snippet">ingtonFTC Issues New Guidance on Health-Related Claims to...5 Jan 2023 — FTC reiterates that health benefit claims must be substantia...</span></span></span>
 
 The phrase therefore compresses a wide range of evidence quality into two reassuring words.
 
@@ -315,7 +315,7 @@ The fastest way to evaluate a “clinically proven” statement is to ask what i
 
 The tested outcome may differ from the advertised promise.
 
-A skin product might be “clinically proven” to improve the appearance of skin hydration under study conditions, while advertising language encourages consumers to believe it will reverse visible ageing. A supplement may be tested against a laboratory marker rather than a meaningful health outcome experienced by patients. The evidence can technically support one claim while consumers interpret a much broader one. Regulators frequently examine whether advertisers are implying benefits beyond what their evidence demonstrates. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.asa.org.uk/advice-online/beauty-and-cosmetics-general.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: asa.org.uk">[ASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">asa.org.uk</span><span class="citation-popover-title">beauty and cosmetics general</span><span class="citation-popover-snippet">Beauty and Cosmetics: General02 Feb 2026 — Marketers of beauty and cosmetics must hold clinical evidence of any efficacy claims, and s...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.asa.org.uk/advice-online/health-therapies-general.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: asa.org.uk">[ASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">asa.org.uk</span><span class="citation-popover-title">health therapies general</span><span class="citation-popover-snippet">Health: Therapies (General)2 Mar 2022 — Rule 12.1 indicates that objective claims for health products (including therapies) must be suppo...</span></span></span>
+A skin product might be “clinically proven” to improve the appearance of skin hydration under study conditions, while advertising language encourages consumers to believe it will reverse visible ageing. A supplement may be tested against a laboratory marker rather than a meaningful health outcome experienced by patients. The evidence can technically support one claim while consumers interpret a much broader one. Regulators frequently examine whether advertisers are implying benefits beyond what their evidence demonstrates.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.asa.org.uk/advice-online/beauty-and-cosmetics-general.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: asa.org.uk">[ASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">asa.org.uk</span><span class="citation-popover-title">beauty and cosmetics general</span><span class="citation-popover-snippet">Beauty and Cosmetics: General02 Feb 2026 — Marketers of beauty and cosmetics must hold clinical evidence of any efficacy claims, and s...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.asa.org.uk/advice-online/health-therapies-general.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: asa.org.uk">[ASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">asa.org.uk</span><span class="citation-popover-title">health therapies general</span><span class="citation-popover-snippet">Health: Therapies (General)2 Mar 2022 — Rule 12.1 indicates that objective claims for health products (including therapies) must be suppo...</span></span></span>
 
 ### Compared With What?
 
@@ -332,7 +332,7 @@ Questions worth asking include:
 
 </div>
 
-A claim that participants improved over time does not necessarily show that the product caused the improvement. Controlled comparisons are often essential for separating genuine effects from expectation, natural variation, or regression towards the mean. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ftc.gov/business-guidance/resources/health-products-compliance-guidance" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ftc.gov">[Federal Trade Commission]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ftc.gov</span><span class="citation-popover-title">health products compliance guidance</span><span class="citation-popover-snippet">Federal Trade CommissionHealth Products Compliance Guidance20 Dec 2022 — This document provides guidance from FTC staff on how to ensure...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thelangelfirm.com/debt-collection-defense-blog/2023/may/substantiating-health-claims-examples-of-proof-a/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thelangelfirm.com">[NYC Debt Defense Attorney]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thelangelfirm.com</span><span class="citation-popover-snippet">NYC Debt Defense AttorneySubstantiating Health Claims: Examples of Proof (and Lack...26 May 2023 — In Proving Health-Advertising Claims...</span><span class="citation-popover-meta">Published: May 2023</span></span></span>
+A claim that participants improved over time does not necessarily show that the product caused the improvement. Controlled comparisons are often essential for separating genuine effects from expectation, natural variation, or regression towards the mean.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ftc.gov/business-guidance/resources/health-products-compliance-guidance" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ftc.gov">[Federal Trade Commission]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ftc.gov</span><span class="citation-popover-title">health products compliance guidance</span><span class="citation-popover-snippet">Federal Trade CommissionHealth Products Compliance Guidance20 Dec 2022 — This document provides guidance from FTC staff on how to ensure...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thelangelfirm.com/debt-collection-defense-blog/2023/may/substantiating-health-claims-examples-of-proof-a/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thelangelfirm.com">[NYC Debt Defense Attorney]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thelangelfirm.com</span><span class="citation-popover-snippet">NYC Debt Defense AttorneySubstantiating Health Claims: Examples of Proof (and Lack...26 May 2023 — In Proving Health-Advertising Claims...</span><span class="citation-popover-meta">Published: May 2023</span></span></span>
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_sciencey_language_94b7a1_clinically_proven_ga_968b62-Illustration-2-dark.svg" | relative_url }}" alt="Clinically Proven illustration 2" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_sciencey_language_94b7a1_clinically_proven_ga_968b62-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_sciencey_language_94b7a1_clinically_proven_ga_968b62-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### How Big Was the Effect?
@@ -351,7 +351,7 @@ If participants were unusually healthy, unusually young, or chosen according to 
 
 Single studies can be wrong.
 
-Chance findings, methodological flaws, selective reporting, and publication bias all contribute to scientific error. Replication by independent researchers generally increases confidence that a result is genuine. Regulatory and scientific guidance repeatedly emphasises that evidence becomes more persuasive when findings are reproduced rather than relying on one favourable study. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cooley.com/news/insight/2023/2023-03-02-ftc-revises-health-products-compliance-guidance" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cooley.com">[cooley.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cooley.com</span><span class="citation-popover-title">2023 03 02 ftc revises health products compliance guidance</span><span class="citation-popover-snippet">FTC Revises Health Products Compliance Guidance2 Mar 2023 — Only then can advertisers confidently say that their health claim is supporte...</span></span></span>
+Chance findings, methodological flaws, selective reporting, and publication bias all contribute to scientific error. Replication by independent researchers generally increases confidence that a result is genuine. Regulatory and scientific guidance repeatedly emphasises that evidence becomes more persuasive when findings are reproduced rather than relying on one favourable study.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cooley.com/news/insight/2023/2023-03-02-ftc-revises-health-products-compliance-guidance" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cooley.com">[cooley.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cooley.com</span><span class="citation-popover-title">2023 03 02 ftc revises health products compliance guidance</span><span class="citation-popover-snippet">FTC Revises Health Products Compliance Guidance2 Mar 2023 — Only then can advertisers confidently say that their health claim is supporte...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/pxwxmi0du-8" title="Debunking Pseudoscience" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=pxwxmi0du-8" target="_blank" rel="noopener noreferrer">Debunking Pseudoscience</a></p><p class="youtube-embed-meta">Channel: WGN News &middot; Views: 1.5K &middot; Uploaded: June 2024 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=pxwxmi0du-8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=pxwxmi0du-8">Open on YouTube</a></p></div></div></div>
 
@@ -361,7 +361,7 @@ The evidence gap is not merely a technical problem. It changes how consumers mak
 
 Health-related purchases often involve uncertainty, fear, hope, or chronic conditions. When an advertisement uses “clinically proven” to imply a stronger evidential foundation than actually exists, consumers may spend money on products that are less effective than they believe, delay seeking established treatments, or develop unrealistic expectations.
 
-Because of these risks, regulators place special emphasis on substantiation for health claims. The UK advertising framework requires objective health-related claims to be supported by evidence, while health and medicinal claims face additional scrutiny depending on the type of product involved. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.asa.org.uk/advice-online/food-health-claims.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: asa.org.uk">[ASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">asa.org.uk</span><span class="citation-popover-title">food health claims</span><span class="citation-popover-snippet">Food: Health claims2 Aug 2022 — Advertisers seeking to make authorised health claims must hold documentary evidence showing the product m...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.asa.org.uk/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: asa.org.uk">[ASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">asa.org.uk</span><span class="citation-popover-snippet">CAPThe Advertising Standards Authority (ASA) is the UK&#x27;s independent regulator of advertising across all media...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.asa.org.uk/topic/Beauty_products_grooming_and_hygiene.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: asa.org.uk">[ASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">asa.org.uk</span><span class="citation-popover-snippet">Beauty products, grooming and hygieneA poster ad for Eucerin Skincare misleadingly claimed that a serum was clinically proven to make you...</span></span></span>
+Because of these risks, regulators place special emphasis on substantiation for health claims. The UK advertising framework requires objective health-related claims to be supported by evidence, while health and medicinal claims face additional scrutiny depending on the type of product involved.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.asa.org.uk/advice-online/food-health-claims.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: asa.org.uk">[ASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">asa.org.uk</span><span class="citation-popover-title">food health claims</span><span class="citation-popover-snippet">Food: Health claims2 Aug 2022 — Advertisers seeking to make authorised health claims must hold documentary evidence showing the product m...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.asa.org.uk/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: asa.org.uk">[ASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">asa.org.uk</span><span class="citation-popover-snippet">CAPThe Advertising Standards Authority (ASA) is the UK&#x27;s independent regulator of advertising across all media...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.asa.org.uk/topic/Beauty_products_grooming_and_hygiene.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: asa.org.uk">[ASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">asa.org.uk</span><span class="citation-popover-snippet">Beauty products, grooming and hygieneA poster ad for Eucerin Skincare misleadingly claimed that a serum was clinically proven to make you...</span></span></span>
 
 The underlying principle is straightforward: the stronger the claim, the stronger the evidence should be.
 
@@ -369,9 +369,9 @@ The underlying principle is straightforward: the stronger the claim, the stronge
 
 Advertising regulators do not generally ask whether a marketer believes a product works. They ask whether the evidence supports the specific message consumers are likely to take away.
 
-Recent UK rulings concerning skincare advertising illustrate this point. Claims framed as “clinically proven” have been challenged where regulators concluded that the available evidence did not adequately support the advertised effect or the way the claim would be understood by consumers. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.asa.org.uk/static/uploaded/f6d9a0c6-3e9b-475b-aa831a597de615ff.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: asa.org.uk">[ASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">asa.org.uk</span><span class="citation-popover-snippet">Health therapies and evidenceWhy do you allow consumer-based claims for some products and not for health therapies such as mine? The type...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ctpa.org.uk/news/asa-ruling-on-misleading-clinically-proven-claim-8986" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ctpa.org.uk">[CTPA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ctpa.org.uk</span><span class="citation-popover-title">asa ruling on misleading clinically proven claim 8986</span><span class="citation-popover-snippet">ASA Ruling on Misleading Clinically Proven Claim22 Apr 2026 — On 22 April 2026, the Advertising Standards Authority (ASA) upheld a ruling...</span></span></span>
+Recent UK rulings concerning skincare advertising illustrate this point. Claims framed as “clinically proven” have been challenged where regulators concluded that the available evidence did not adequately support the advertised effect or the way the claim would be understood by consumers.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.asa.org.uk/static/uploaded/f6d9a0c6-3e9b-475b-aa831a597de615ff.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: asa.org.uk">[ASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">asa.org.uk</span><span class="citation-popover-snippet">Health therapies and evidenceWhy do you allow consumer-based claims for some products and not for health therapies such as mine? The type...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ctpa.org.uk/news/asa-ruling-on-misleading-clinically-proven-claim-8986" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ctpa.org.uk">[CTPA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ctpa.org.uk</span><span class="citation-popover-title">asa ruling on misleading clinically proven claim 8986</span><span class="citation-popover-snippet">ASA Ruling on Misleading Clinically Proven Claim22 Apr 2026 — On 22 April 2026, the Advertising Standards Authority (ASA) upheld a ruling...</span></span></span>
 
-Similarly, US Federal Trade Commission guidance stresses that health claims should be supported by “competent and reliable scientific evidence”, with the required level of substantiation depending on the nature and consequences of the claim. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ftc.gov/business-guidance/resources/health-products-compliance-guidance" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ftc.gov">[Federal Trade Commission]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ftc.gov</span><span class="citation-popover-title">health products compliance guidance</span><span class="citation-popover-snippet">Federal Trade CommissionHealth Products Compliance Guidance20 Dec 2022 — This document provides guidance from FTC staff on how to ensure...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cov.com/en/news-and-insights/insights/2023/01/ftc-issues-new-guidance-on-health-related-claims-to-replace-the-dietary-supplements-advertising-guide" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cov.com">[Covington]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cov.com</span><span class="citation-popover-snippet">ingtonFTC Issues New Guidance on Health-Related Claims to...5 Jan 2023 — FTC reiterates that health benefit claims must be substantia...</span></span></span>
+Similarly, US Federal Trade Commission guidance stresses that health claims should be supported by “competent and reliable scientific evidence”, with the required level of substantiation depending on the nature and consequences of the claim.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ftc.gov/business-guidance/resources/health-products-compliance-guidance" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ftc.gov">[Federal Trade Commission]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ftc.gov</span><span class="citation-popover-title">health products compliance guidance</span><span class="citation-popover-snippet">Federal Trade CommissionHealth Products Compliance Guidance20 Dec 2022 — This document provides guidance from FTC staff on how to ensure...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cov.com/en/news-and-insights/insights/2023/01/ftc-issues-new-guidance-on-health-related-claims-to-replace-the-dietary-supplements-advertising-guide" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cov.com">[Covington]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cov.com</span><span class="citation-popover-snippet">ingtonFTC Issues New Guidance on Health-Related Claims to...5 Jan 2023 — FTC reiterates that health benefit claims must be substantia...</span></span></span>
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_sciencey_language_94b7a1_clinically_proven_ga_968b62-Illustration-3-dark.svg" | relative_url }}" alt="Clinically Proven illustration 3" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_sciencey_language_94b7a1_clinically_proven_ga_968b62-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_sciencey_language_94b7a1_clinically_proven_ga_968b62-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## A Practical Rule for Readers
@@ -397,162 +397,162 @@ If an advertisement does not help answer those questions, the phrase “clinical
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Z4GBJdMM8v4" title="How you can spot scientific misinformation on social media" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Z4GBJdMM8v4" target="_blank" rel="noopener noreferrer">How you can spot scientific misinformation on social media</a></p><p class="youtube-embed-meta">Channel: Biotech and Bioinformatics with Prof Greg &middot; Views: 12.7K &middot; Uploaded: December 2021 &middot; Length: 20 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Z4GBJdMM8v4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Z4GBJdMM8v4">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When &#x27;Clinically Proven&#x27; Does Not Prove Much. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When &#x27;Clinically Proven&#x27; Does Not Prove Much. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Bad+Science+by+Ben+Goldacre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Bad Science on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=wICuv0ePMYoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Bad Science" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Bad+Science+by+Ben+Goldacre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Bad Science">Bad Science</a>
-        </h4>
-        <p class="fr-book-author">By Ben Goldacre</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Bad+Science+by+Ben+Goldacre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Bad Science on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=wICuv0ePMYoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Bad Science" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Bad+Science+by+Ben+Goldacre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Bad Science">Bad Science</a>
+</h4>
+<p class="fr-book-author">By Ben Goldacre</p>
         
-        <p class="fr-book-desc">Explains how scientific language and weak evidence are used in marketing.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Bad+Science+by+Ben+Goldacre&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains how scientific language and weak evidence are used in marketing.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Bad+Science+by+Ben+Goldacre&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Skeptics&#x27; Guide to the Universe on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CuVKDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Skeptics&#x27; Guide to the Universe" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Skeptics&#x27; Guide to the Universe">The Skeptics&#x27; Guide to the Universe</a>
-        </h4>
-        <p class="fr-book-author">By Dr. Steven Novella</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Skeptics&#x27; Guide to the Universe on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CuVKDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Skeptics&#x27; Guide to the Universe" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Skeptics&#x27; Guide to the Universe">The Skeptics&#x27; Guide to the Universe</a>
+</h4>
+<p class="fr-book-author">By Dr. Steven Novella</p>
         
-        <p class="fr-book-desc">Teaches evaluation of scientific-sounding claims and evidence quality.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Teaches evaluation of scientific-sounding claims and evidence quality.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Testing+Treatments+by+Imogen+Evans&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Testing Treatments on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=dncmUN-yo0MC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Testing Treatments" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Testing+Treatments+by+Imogen+Evans&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Testing Treatments">Testing Treatments</a>
-        </h4>
-        <p class="fr-book-author">By Imogen Evans, Hazel Thornton et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Testing+Treatments+by+Imogen+Evans&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Testing Treatments on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=dncmUN-yo0MC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Testing Treatments" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Testing+Treatments+by+Imogen+Evans&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Testing Treatments">Testing Treatments</a>
+</h4>
+<p class="fr-book-author">By Imogen Evans, Hazel Thornton et al.</p>
         
-        <p class="fr-book-desc">Explains clinical trials, bias and proof standards.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Testing+Treatments+by+Imogen+Evans&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains clinical trials, bias and proof standards.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Testing+Treatments+by+Imogen+Evans&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Calling Bullshit on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Plu9DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Calling Bullshit" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Calling Bullshit">Calling Bullshit</a>
-        </h4>
-        <p class="fr-book-author">By Carl T. Bergstrom, Jevin D. West</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Calling Bullshit on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Plu9DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Calling Bullshit" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Calling Bullshit">Calling Bullshit</a>
+</h4>
+<p class="fr-book-author">By Carl T. Bergstrom, Jevin D. West</p>
         
-        <p class="fr-book-desc">Helps readers spot misleading uses of evidence and authority.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps readers spot misleading uses of evidence and authority.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Bad+Science&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Bad Science</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Skeptics%27+to+the+Universe+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Skeptics&#x27; to the Universe books</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Testing+Treatments&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Testing Treatments</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Bad+Science&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Bad Science</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Skeptics%27+to+the+Universe+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Skeptics&#x27; to the Universe books</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Testing+Treatments&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Testing Treatments</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clinically-proven-when-clinically-proven-does-not-prove-much-myths-and-misconcept-teacher-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher t shirt" data-ebay-reference="clinically-proven-when-clinically-proven-does-not-prove-much-myths-and-misconcept-teacher-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Funny Periodic Table T-Shirt - Chemistry Symbols Be &amp; Er Science Meme Unisex Tee"><img src="{{ '/assets/images/marketplace-covers/9f0c20549a534f5a3f8f.jpg' | relative_url }}" alt="Listing image for Funny Periodic Table T-Shirt - Chemistry Symbols Be &amp; Er Science Meme Unisex Tee" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clinically-proven-when-clinically-proven-does-not-prove-much-myths-and-misconcept-teacher-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher t shirt" data-ebay-reference="clinically-proven-when-clinically-proven-does-not-prove-much-myths-and-misconcept-teacher-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Funny Periodic Table T-Shirt - Chemistry Symbols Be &amp; Er Science Meme Unisex Tee</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clinically-proven-when-clinically-proven-does-not-prove-much-myths-and-misconcept-teacher-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher t shirt" data-ebay-reference="clinically-proven-when-clinically-proven-does-not-prove-much-myths-and-misconcept-teacher-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for teacher t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: teacher t shirt</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clinically-proven-when-clinically-proven-does-not-prove-much-myths-and-misconcept-teacher-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher t shirt" data-ebay-reference="clinically-proven-when-clinically-proven-does-not-prove-much-myths-and-misconcept-teacher-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clinically-proven-when-clinically-proven-does-not-prove-much-myths-and-misconcept-teacher-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher t shirt" data-ebay-reference="clinically-proven-when-clinically-proven-does-not-prove-much-myths-and-misconcept-teacher-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Funny Periodic Table T-Shirt - Chemistry Symbols Be &amp; Er Science Meme Unisex Tee"><img src="{{ '/assets/images/marketplace-covers/9f0c20549a534f5a3f8f.jpg' | relative_url }}" alt="Listing image for Funny Periodic Table T-Shirt - Chemistry Symbols Be &amp; Er Science Meme Unisex Tee" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clinically-proven-when-clinically-proven-does-not-prove-much-myths-and-misconcept-teacher-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher t shirt" data-ebay-reference="clinically-proven-when-clinically-proven-does-not-prove-much-myths-and-misconcept-teacher-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Funny Periodic Table T-Shirt - Chemistry Symbols Be &amp; Er Science Meme Unisex Tee</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clinically-proven-when-clinically-proven-does-not-prove-much-myths-and-misconcept-teacher-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher t shirt" data-ebay-reference="clinically-proven-when-clinically-proven-does-not-prove-much-myths-and-misconcept-teacher-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for teacher t shirt">Search<span data-ebay-domain-label>eBay.co.uk</span>: teacher t shirt</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clinically-proven-when-clinically-proven-does-not-prove-much-myths-and-misconcept-teacher-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher t shirt" data-ebay-reference="clinically-proven-when-clinically-proven-does-not-prove-much-myths-and-misconcept-teacher-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clinically-proven-when-clinically-proven-does-not-prove-much-myths-and-misconcept-teacher-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher t shirt" data-ebay-reference="clinically-proven-when-clinically-proven-does-not-prove-much-myths-and-misconcept-teacher-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Custom Seagulls Teacher T-Shirt, Funny Gift Shirt, Teacher Appreciation Gift"><img src="{{ '/assets/images/marketplace-covers/f95e234aa6f6408aec06.jpg' | relative_url }}" alt="Listing image for Custom Seagulls Teacher T-Shirt, Funny Gift Shirt, Teacher Appreciation Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clinically-proven-when-clinically-proven-does-not-prove-much-myths-and-misconcept-teacher-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher t shirt" data-ebay-reference="clinically-proven-when-clinically-proven-does-not-prove-much-myths-and-misconcept-teacher-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Custom Seagulls Teacher T-Shirt, Funny Gift Shirt, Teacher Appreciation Gift</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clinically-proven-when-clinically-proven-does-not-prove-much-myths-and-misconcept-teacher-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher t shirt" data-ebay-reference="clinically-proven-when-clinically-proven-does-not-prove-much-myths-and-misconcept-teacher-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for teacher t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: teacher t shirt</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clinically-proven-when-clinically-proven-does-not-prove-much-myths-and-misconcept-teacher-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher t shirt" data-ebay-reference="clinically-proven-when-clinically-proven-does-not-prove-much-myths-and-misconcept-teacher-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clinically-proven-when-clinically-proven-does-not-prove-much-myths-and-misconcept-teacher-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher t shirt" data-ebay-reference="clinically-proven-when-clinically-proven-does-not-prove-much-myths-and-misconcept-teacher-t-shirt" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clinically-proven-when-clinically-proven-does-not-prove-much-myths-and-misconcept-teacher-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher t shirt" data-ebay-reference="clinically-proven-when-clinically-proven-does-not-prove-much-myths-and-misconcept-teacher-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Custom Seagulls Teacher T-Shirt, Funny Gift Shirt, Teacher Appreciation Gift"><img src="{{ '/assets/images/marketplace-covers/f95e234aa6f6408aec06.jpg' | relative_url }}" alt="Listing image for Custom Seagulls Teacher T-Shirt, Funny Gift Shirt, Teacher Appreciation Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clinically-proven-when-clinically-proven-does-not-prove-much-myths-and-misconcept-teacher-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher t shirt" data-ebay-reference="clinically-proven-when-clinically-proven-does-not-prove-much-myths-and-misconcept-teacher-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Custom Seagulls Teacher T-Shirt, Funny Gift Shirt, Teacher Appreciation Gift</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clinically-proven-when-clinically-proven-does-not-prove-much-myths-and-misconcept-teacher-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher t shirt" data-ebay-reference="clinically-proven-when-clinically-proven-does-not-prove-much-myths-and-misconcept-teacher-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for teacher t shirt">Search<span data-ebay-domain-label>eBay.co.uk</span>: teacher t shirt</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clinically-proven-when-clinically-proven-does-not-prove-much-myths-and-misconcept-teacher-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher t shirt" data-ebay-reference="clinically-proven-when-clinically-proven-does-not-prove-much-myths-and-misconcept-teacher-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clinically-proven-when-clinically-proven-does-not-prove-much-myths-and-misconcept-teacher-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher t shirt" data-ebay-reference="clinically-proven-when-clinically-proven-does-not-prove-much-myths-and-misconcept-teacher-t-shirt" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -568,7 +568,7 @@ If an advertisement does not help answer those questions, the phrase “clinical
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -588,7 +588,7 @@ If an advertisement does not help answer those questions, the phrase “clinical
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -620,7 +620,7 @@ If an advertisement does not help answer those questions, the phrase “clinical
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -672,7 +672,7 @@ If an advertisement does not help answer those questions, the phrase “clinical
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -717,7 +717,7 @@ If an advertisement does not help answer those questions, the phrase “clinical
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -758,117 +758,117 @@ If an advertisement does not help answer those questions, the phrase “clinical
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: asa.org.uk  
    Title: healthcare medicinal claims  
-   Link: <a href="https://www.asa.org.uk/advice-online/healthcare-medicinal-claims.html" target="_blank" rel="noopener noreferrer nofollow">https://www.asa.org.uk/advice-online/healthcare-medicinal-claims.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Healthcare: Medicinal claims7 Aug 2024 — This CAP Guidance explains the types and levels of evidence the ASA would expect to see for s...</p></details>
+   Link:<a href="https://www.asa.org.uk/advice-online/healthcare-medicinal-claims.html" target="_blank" rel="noopener noreferrer nofollow">https://www.asa.org.uk/advice-online/healthcare-medicinal-claims.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Healthcare: Medicinal claims7 Aug 2024 — This CAP Guidance explains the types and levels of evidence the ASA would expect to see for s...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: asa.org.uk  
    Title: substantiation for health beauty and slimming claims  
-   Link: <a href="https://www.asa.org.uk/advice-online/substantiation-for-health-beauty-and-slimming-claims.html" target="_blank" rel="noopener noreferrer nofollow">https://www.asa.org.uk/advice-online/substantiation-for-health-beauty-and-slimming-claims.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Substantiation for health, beauty and slimming claims23 Jun 2025 — The Advertising Guidance identifies three types of health, beauty and...</p></details>
+   Link:<a href="https://www.asa.org.uk/advice-online/substantiation-for-health-beauty-and-slimming-claims.html" target="_blank" rel="noopener noreferrer nofollow">https://www.asa.org.uk/advice-online/substantiation-for-health-beauty-and-slimming-claims.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Substantiation for health, beauty and slimming claims23 Jun 2025 — The Advertising Guidance identifies three types of health, beauty and...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: cooley.com  
    Title: 2023 03 02 ftc revises health products compliance guidance  
-   Link: <a href="https://www.cooley.com/news/insight/2023/2023-03-02-ftc-revises-health-products-compliance-guidance" target="_blank" rel="noopener noreferrer nofollow">https://www.cooley.com/news/insight/2023/2023-03-02-ftc-revises-health-products-compliance-guidance</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>FTC Revises Health Products Compliance Guidance2 Mar 2023 — Only then can advertisers confidently say that their health claim is supporte...</p></details>
+   Link:<a href="https://www.cooley.com/news/insight/2023/2023-03-02-ftc-revises-health-products-compliance-guidance" target="_blank" rel="noopener noreferrer nofollow">https://www.cooley.com/news/insight/2023/2023-03-02-ftc-revises-health-products-compliance-guidance</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FTC Revises Health Products Compliance Guidance2 Mar 2023 — Only then can advertisers confidently say that their health claim is supporte...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: asa.org.uk  
    Title: beauty and cosmetics general  
-   Link: <a href="https://www.asa.org.uk/advice-online/beauty-and-cosmetics-general.html" target="_blank" rel="noopener noreferrer nofollow">https://www.asa.org.uk/advice-online/beauty-and-cosmetics-general.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Beauty and Cosmetics: General02 Feb 2026 — Marketers of beauty and cosmetics must hold clinical evidence of any efficacy claims, and s...</p></details>
+   Link:<a href="https://www.asa.org.uk/advice-online/beauty-and-cosmetics-general.html" target="_blank" rel="noopener noreferrer nofollow">https://www.asa.org.uk/advice-online/beauty-and-cosmetics-general.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Beauty and Cosmetics: General02 Feb 2026 — Marketers of beauty and cosmetics must hold clinical evidence of any efficacy claims, and s...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: asa.org.uk  
    Title: health therapies general  
-   Link: <a href="https://www.asa.org.uk/advice-online/health-therapies-general.html" target="_blank" rel="noopener noreferrer nofollow">https://www.asa.org.uk/advice-online/health-therapies-general.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Health: Therapies (General)2 Mar 2022 — Rule 12.1 indicates that objective claims for health products (including therapies) must be suppo...</p></details>
+   Link:<a href="https://www.asa.org.uk/advice-online/health-therapies-general.html" target="_blank" rel="noopener noreferrer nofollow">https://www.asa.org.uk/advice-online/health-therapies-general.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Health: Therapies (General)2 Mar 2022 — Rule 12.1 indicates that objective claims for health products (including therapies) must be suppo...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: asa.org.uk  
    Title: food health claims  
-   Link: <a href="https://www.asa.org.uk/advice-online/food-health-claims.html" target="_blank" rel="noopener noreferrer nofollow">https://www.asa.org.uk/advice-online/food-health-claims.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Food: Health claims2 Aug 2022 — Advertisers seeking to make authorised health claims must hold documentary evidence showing the product m...</p></details>
+   Link:<a href="https://www.asa.org.uk/advice-online/food-health-claims.html" target="_blank" rel="noopener noreferrer nofollow">https://www.asa.org.uk/advice-online/food-health-claims.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Food: Health claims2 Aug 2022 — Advertisers seeking to make authorised health claims must hold documentary evidence showing the product m...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: ftc.gov  
    Title: health products compliance guidance  
-   Link: <a href="https://www.ftc.gov/business-guidance/resources/health-products-compliance-guidance" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/business-guidance/resources/health-products-compliance-guidance</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Trade CommissionHealth Products Compliance Guidance20 Dec 2022 — This document provides guidance from FTC staff on how to ensure...</p></details>
+   Link:<a href="https://www.ftc.gov/business-guidance/resources/health-products-compliance-guidance" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/business-guidance/resources/health-products-compliance-guidance</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Trade CommissionHealth Products Compliance Guidance20 Dec 2022 — This document provides guidance from FTC staff on how to ensure...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: cov.com  
-   Link: <a href="https://www.cov.com/en/news-and-insights/insights/2023/01/ftc-issues-new-guidance-on-health-related-claims-to-replace-the-dietary-supplements-advertising-guide" target="_blank" rel="noopener noreferrer nofollow">https://www.cov.com/en/news-and-insights/insights/2023/01/ftc-issues-new-guidance-on-health-related-claims-to-replace-the-dietary-supplements-advertising-guide</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ingtonFTC Issues New Guidance on Health-Related Claims to...5 Jan 2023 — FTC reiterates that health benefit claims must be substantia...</p></details>
+   Link:<a href="https://www.cov.com/en/news-and-insights/insights/2023/01/ftc-issues-new-guidance-on-health-related-claims-to-replace-the-dietary-supplements-advertising-guide" target="_blank" rel="noopener noreferrer nofollow">https://www.cov.com/en/news-and-insights/insights/2023/01/ftc-issues-new-guidance-on-health-related-claims-to-replace-the-dietary-supplements-advertising-guide</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ingtonFTC Issues New Guidance on Health-Related Claims to...5 Jan 2023 — FTC reiterates that health benefit claims must be substantia...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: ftc.gov  
-   Link: <a href="https://www.ftc.gov/sites/default/files/attachments/training-materials/substantiation.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/sites/default/files/attachments/training-materials/substantiation.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Trade CommissionAdvertising Substantiation PrinciplesBefore disseminating an advertisement, the advertiser must substantiate all...</p></details>
+   Link:<a href="https://www.ftc.gov/sites/default/files/attachments/training-materials/substantiation.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/sites/default/files/attachments/training-materials/substantiation.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Trade CommissionAdvertising Substantiation PrinciplesBefore disseminating an advertisement, the advertiser must substantiate all...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: thelangelfirm.com  
-   Link: <a href="https://www.thelangelfirm.com/debt-collection-defense-blog/2023/may/substantiating-health-claims-examples-of-proof-a/" target="_blank" rel="noopener noreferrer nofollow">https://www.thelangelfirm.com/debt-collection-defense-blog/2023/may/substantiating-health-claims-examples-of-proof-a/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NYC Debt Defense AttorneySubstantiating Health Claims: Examples of Proof (and Lack...26 May 2023 — In Proving Health-Advertising Claims...</p></details>
+   Link:<a href="https://www.thelangelfirm.com/debt-collection-defense-blog/2023/may/substantiating-health-claims-examples-of-proof-a/" target="_blank" rel="noopener noreferrer nofollow">https://www.thelangelfirm.com/debt-collection-defense-blog/2023/may/substantiating-health-claims-examples-of-proof-a/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NYC Debt Defense AttorneySubstantiating Health Claims: Examples of Proof (and Lack...26 May 2023 — In Proving Health-Advertising Claims...</p></details>
    Published: May 2023  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: asa.org.uk  
-   Link: <a href="https://www.asa.org.uk/" target="_blank" rel="noopener noreferrer nofollow">https://www.asa.org.uk/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>CAPThe Advertising Standards Authority (ASA) is the UK&#x27;s independent regulator of advertising across all media...</p></details>
+   Link:<a href="https://www.asa.org.uk/" target="_blank" rel="noopener noreferrer nofollow">https://www.asa.org.uk/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>CAPThe Advertising Standards Authority (ASA) is the UK&#x27;s independent regulator of advertising across all media...</p></details>
 
 ### Additional References
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: asa.org.uk  
-   Link: <a href="https://www.asa.org.uk/topic/Beauty_products_grooming_and_hygiene.html" target="_blank" rel="noopener noreferrer nofollow">https://www.asa.org.uk/topic/Beauty_products_grooming_and_hygiene.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Beauty products, grooming and hygieneA poster ad for Eucerin Skincare misleadingly claimed that a serum was clinically proven to make you...</p></details>
+   Link:<a href="https://www.asa.org.uk/topic/Beauty_products_grooming_and_hygiene.html" target="_blank" rel="noopener noreferrer nofollow">https://www.asa.org.uk/topic/Beauty_products_grooming_and_hygiene.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Beauty products, grooming and hygieneA poster ad for Eucerin Skincare misleadingly claimed that a serum was clinically proven to make you...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/posts/coslaw-eu_can-your-cosmetic-claims-stand-up-to-regulatory-activity-7459541835959623680-uFlW" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/coslaw-eu_can-your-cosmetic-claims-stand-up-to-regulatory-activity-7459541835959623680-uFlW</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>COSlaw.eu&#x27;s PostCan your cosmetic claims stand up to regulatory scrutiny? A recent UK ASA ruling on the claims “look up to 5 years younge...</p></details>
+   Link:<a href="https://www.linkedin.com/posts/coslaw-eu_can-your-cosmetic-claims-stand-up-to-regulatory-activity-7459541835959623680-uFlW" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/coslaw-eu_can-your-cosmetic-claims-stand-up-to-regulatory-activity-7459541835959623680-uFlW</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>COSlaw.eu&#x27;s PostCan your cosmetic claims stand up to regulatory scrutiny? A recent UK ASA ruling on the claims “look up to 5 years younge...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: jonesday.com  
-   Link: <a href="https://www.jonesday.com/en/insights/2023/05/ftc-signals-[intent" target="_blank" rel="noopener noreferrer nofollow">https://www.jonesday.com/en/insights/2023/05/ftc-signals-[intent</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>FTC Targets Deceptive Health Claims AdvertisingFTC warns companies advertising health- and wellness-related products against making unsub...</p></details>
+   Link:<a href="https://www.jonesday.com/en/insights/2023/05/ftc-signals-[intent" target="_blank" rel="noopener noreferrer nofollow">https://www.jonesday.com/en/insights/2023/05/ftc-signals-[intent</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FTC Targets Deceptive Health Claims AdvertisingFTC warns companies advertising health- and wellness-related products against making unsub...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: intertek.com  
-   Link: <a href="https://www.intertek.com/assuris/food/regulatory/health-claims/" target="_blank" rel="noopener noreferrer nofollow">https://www.intertek.com/assuris/food/regulatory/health-claims/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Health Claim Substantiation and SubmissionsIntertek provides scientific and regulatory support for substantiation of health claims for fo...</p></details>
+   Link:<a href="https://www.intertek.com/assuris/food/regulatory/health-claims/" target="_blank" rel="noopener noreferrer nofollow">https://www.intertek.com/assuris/food/regulatory/health-claims/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Health Claim Substantiation and SubmissionsIntertek provides scientific and regulatory support for substantiation of health claims for fo...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: asa.org.uk  
-   Link: <a href="https://www.asa.org.uk/static/uploaded/f6d9a0c6-3e9b-475b-aa831a597de615ff.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.asa.org.uk/static/uploaded/f6d9a0c6-3e9b-475b-aa831a597de615ff.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Health therapies and evidenceWhy do you allow consumer-based claims for some products and not for health therapies such as mine? The type...</p></details>
+   Link:<a href="https://www.asa.org.uk/static/uploaded/f6d9a0c6-3e9b-475b-aa831a597de615ff.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.asa.org.uk/static/uploaded/f6d9a0c6-3e9b-475b-aa831a597de615ff.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Health therapies and evidenceWhy do you allow consumer-based claims for some products and not for health therapies such as mine? The type...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: asa.org.uk  
-   Link: <a href="https://www.asa.org.uk/topic/Medical_procedures_and_services.html" target="_blank" rel="noopener noreferrer nofollow">https://www.asa.org.uk/topic/Medical_procedures_and_services.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Medical procedures and servicesProven procedures being advertised is fine as long as the procedures are carried out under suitably qualif...</p></details>
+   Link:<a href="https://www.asa.org.uk/topic/Medical_procedures_and_services.html" target="_blank" rel="noopener noreferrer nofollow">https://www.asa.org.uk/topic/Medical_procedures_and_services.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Medical procedures and servicesProven procedures being advertised is fine as long as the procedures are carried out under suitably qualif...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: intertek.com  
-   Link: <a href="https://www.intertek.com/form/webinars-the-new-ftc-health-products-compliance-guide-emea/" target="_blank" rel="noopener noreferrer nofollow">https://www.intertek.com/form/webinars-the-new-ftc-health-products-compliance-guide-emea/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The New FTC Health Products Compliance GuideAlso new is the very clear guidance on the “competent and reliable scientific evidence” subst...</p></details>
+   Link:<a href="https://www.intertek.com/form/webinars-the-new-ftc-health-products-compliance-guide-emea/" target="_blank" rel="noopener noreferrer nofollow">https://www.intertek.com/form/webinars-the-new-ftc-health-products-compliance-guide-emea/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The New FTC Health Products Compliance GuideAlso new is the very clear guidance on the “competent and reliable scientific evidence” subst...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: citruslabs.com  
-   Link: <a href="https://www.citruslabs.com/post/enhancing-your-brand-the-impact-of-clinically-validated-vs-clinically-tested-claims-on-supplement" target="_blank" rel="noopener noreferrer nofollow">https://www.citruslabs.com/post/enhancing-your-brand-the-impact-of-clinically-validated-vs-clinically-tested-claims-on-supplement</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Clinically Validated vs. Tested Claims17 May 2024 — In the competitive supplement industry, the credibility and appeal of your products h...</p></details>
+   Link:<a href="https://www.citruslabs.com/post/enhancing-your-brand-the-impact-of-clinically-validated-vs-clinically-tested-claims-on-supplement" target="_blank" rel="noopener noreferrer nofollow">https://www.citruslabs.com/post/enhancing-your-brand-the-impact-of-clinically-validated-vs-clinically-tested-claims-on-supplement</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Clinically Validated vs. Tested Claims17 May 2024 — In the competitive supplement industry, the credibility and appeal of your products h...</p></details>
    Published: May 2024  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: nutraceuticalsworld.com  
-   Link: <a href="https://www.nutraceuticalsworld.com/reviewing-claims-substantiation-for-supplements-and-the-roles-of-federal-and-state-regulatory-bodies/" target="_blank" rel="noopener noreferrer nofollow">https://www.nutraceuticalsworld.com/reviewing-claims-substantiation-for-supplements-and-the-roles-of-federal-and-state-regulatory-bodies/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Reviewing Claims Substantiation for Supplements and the...10 Jan 2024 — The FTC requires advertisers to have a “reasonable basis” for th...</p></details>
+   Link:<a href="https://www.nutraceuticalsworld.com/reviewing-claims-substantiation-for-supplements-and-the-roles-of-federal-and-state-regulatory-bodies/" target="_blank" rel="noopener noreferrer nofollow">https://www.nutraceuticalsworld.com/reviewing-claims-substantiation-for-supplements-and-the-roles-of-federal-and-state-regulatory-bodies/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Reviewing Claims Substantiation for Supplements and the...10 Jan 2024 — The FTC requires advertisers to have a “reasonable basis” for th...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: asa.org.uk  
-   Link: <a href="https://www.asa.org.uk/topic_category/health_and_beauty.html" target="_blank" rel="noopener noreferrer nofollow">https://www.asa.org.uk/topic_category/health_and_beauty.html</a>
+   Link:<a href="https://www.asa.org.uk/topic_category/health_and_beauty.html" target="_blank" rel="noopener noreferrer nofollow">https://www.asa.org.uk/topic_category/health_and_beauty.html</a>

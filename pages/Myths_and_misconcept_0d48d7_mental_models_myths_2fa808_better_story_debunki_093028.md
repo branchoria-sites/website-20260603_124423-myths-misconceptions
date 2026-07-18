@@ -268,7 +268,7 @@ image: /assets/images/Myths_and_misconcept_0d48d7_mental_models_myths_2fa808_bet
 
 ## Introduction
 
-The most effective way to weaken a myth is not to leave a hole where the myth used to be. People rely on myths because myths often provide a complete story: they explain what happened, why it happened, who caused it, and what someone should do next. When a [correction]({{ 'correction/' | relative_url }}) removes that story without replacing it, the original explanation can continue shaping how people think, even after they know it was wrong. Research on misinformation consistently finds that [corrections]({{ 'corrections/' | relative_url }}) work better when they provide a plausible alternative explanation that fills the causal gap left behind by the myth. Skeptical Science <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/1529100612451018" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsMisinformation and Its CorrectionWe conclude by providing specific recommendations for the debunking of misinformation. Thes...</span></span></span>
+The most effective way to weaken a myth is not to leave a hole where the myth used to be. People rely on myths because myths often provide a complete story: they explain what happened, why it happened, who caused it, and what someone should do next. When a [correction]({{ 'correction/' | relative_url }}) removes that story without replacing it, the original explanation can continue shaping how people think, even after they know it was wrong. Research on misinformation consistently finds that [corrections]({{ 'corrections/' | relative_url }}) work better when they provide a plausible alternative explanation that fills the causal gap left behind by the myth. Skeptical Science<span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/1529100612451018" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsMisinformation and Its CorrectionWe conclude by providing specific recommendations for the debunking of misinformation. Thes...</span></span></span>
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_mental_models_myths_2fa808_better_story_debunki_093028-Illustration-1-dark.svg" | relative_url }}" alt="Better Story illustration 1" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_mental_models_myths_2fa808_better_story_debunki_093028-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_mental_models_myths_2fa808_better_story_debunki_093028-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 This is why successful [debunking]({{ 'debunking/' | relative_url }}) is not merely fact-checking. It is story repair. A better explanation must preserve meaning, explain the evidence more completely than the myth did, and give people a workable model of reality. [Skeptical Science+2Center for Climate Change Communication]
@@ -292,7 +292,7 @@ A myth usually occupies a causal role inside a person's understanding of events.
 
 If someone believes a factory closed because of a secret conspiracy, the myth answers “why did jobs disappear?” If the conspiracy claim is simply removed, the question remains. The mind naturally prefers an imperfect explanation to no explanation at all.
 
-Studies of the continued influence effect show that misinformation can continue affecting reasoning after it has been corrected. One reason is that people continue using the old information because it remains the only available explanation connecting the facts together. <span class="citation-chip-wrap"><a class="citation-chip" href="https://link.springer.com/article/10.1186/s41235-021-00335-9" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">Exploring factors that mitigate the continued influence of...by IP Kan · 2021 · Cited by 27 — Researchers have found that indivi...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/1529100612451018" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsMisinformation and Its CorrectionWe conclude by providing specific recommendations for the debunking of misinformation. Thes...</span></span></span>
+Studies of the continued influence effect show that misinformation can continue affecting reasoning after it has been corrected. One reason is that people continue using the old information because it remains the only available explanation connecting the facts together.<span class="citation-chip-wrap"><a class="citation-chip" href="https://link.springer.com/article/10.1186/s41235-021-00335-9" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">Exploring factors that mitigate the continued influence of...by IP Kan · 2021 · Cited by 27 — Researchers have found that indivi...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/1529100612451018" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsMisinformation and Its CorrectionWe conclude by providing specific recommendations for the debunking of misinformation. Thes...</span></span></span>
 
 A replacement story succeeds because it gives the mind somewhere else to go.
 
@@ -300,7 +300,7 @@ A replacement story succeeds because it gives the mind somewhere else to go.
 
 The strongest [replacement stories]({{ 'rumour-gaps/' | relative_url }}) do not merely state facts. They explain causes.
 
-Research summarised in the Debunking Handbook identifies alternative explanations as one of the most effective ways to reduce the influence of misinformation. In experimental studies, people relied less on false information when they were given a credible alternative account that explained the same events. Skeptical Science <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ltrr.arizona.edu/~katie/kt/natsgc/Debunking_Handbook.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ltrr.arizona.edu">[2ltrr.arizona.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ltrr.arizona.edu</span><span class="citation-popover-snippet">Debunking Handbookby S Lewandowsky — The most effective way to reduce the effect of misinformation is to provide an alternative explanati...</span></span></span>
+Research summarised in the Debunking Handbook identifies alternative explanations as one of the most effective ways to reduce the influence of misinformation. In experimental studies, people relied less on false information when they were given a credible alternative account that explained the same events. Skeptical Science<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ltrr.arizona.edu/~katie/kt/natsgc/Debunking_Handbook.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ltrr.arizona.edu">[2ltrr.arizona.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ltrr.arizona.edu</span><span class="citation-popover-snippet">Debunking Handbookby S Lewandowsky — The most effective way to reduce the effect of misinformation is to provide an alternative explanati...</span></span></span>
 
 A useful replacement explanation typically includes three elements:
 
@@ -323,7 +323,7 @@ The key question is: if someone stops believing the myth, what explanation will 
 
 People often benefit from understanding why a myth seemed convincing.
 
-Many myths survive because they exploit familiar reasoning shortcuts. They may rely on cherry-picked examples, confusion between correlation and causation, emotional [anecdotes]({{ 'anecdotes/' | relative_url }}), or selective use of evidence. Explaining these moves helps people see why the myth produced a misleading conclusion. Center for Climate Change Communication <span class="citation-chip-wrap"><a class="citation-chip" href="https://ksjhandbook.org/misinformation/structuring-your-argument/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ksjhandbook.org">[KSJ Handbook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ksjhandbook.org</span><span class="citation-popover-snippet">Structuring Your ArgumentThe “fact-myth-fallacy” structure when debunking a claim. This involves presenting the correct information first...</span></span></span>
+Many myths survive because they exploit familiar reasoning shortcuts. They may rely on cherry-picked examples, confusion between correlation and causation, emotional [anecdotes]({{ 'anecdotes/' | relative_url }}), or selective use of evidence. Explaining these moves helps people see why the myth produced a misleading conclusion. Center for Climate Change Communication<span class="citation-chip-wrap"><a class="citation-chip" href="https://ksjhandbook.org/misinformation/structuring-your-argument/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ksjhandbook.org">[KSJ Handbook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ksjhandbook.org</span><span class="citation-popover-snippet">Structuring Your ArgumentThe “fact-myth-fallacy” structure when debunking a claim. This involves presenting the correct information first...</span></span></span>
 
 However, effective debunking avoids dwelling excessively on the false claim itself. The objective is not to rehearse the myth repeatedly but to show how it generated an incorrect interpretation.
 
@@ -358,14 +358,14 @@ Effective replacement stories therefore answer practical questions:
 
 </div>
 
-For example, replacing a myth about vaccine safety is more effective when the correction explains how safety monitoring works, what side effects are actually expected, and where trustworthy information can be found. The new story provides both understanding and direction. <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/1529100612451018" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsMisinformation and Its CorrectionWe conclude by providing specific recommendations for the debunking of misinformation. Thes...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nature.com/articles/s44159-021-00006-y" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">The psychological drivers of misinformation belief and its...by UKH Ecker · 2022 · Cited by 1916 — In this Review, we describe the cogni...</span></span></span>
+For example, replacing a myth about vaccine safety is more effective when the correction explains how safety monitoring works, what side effects are actually expected, and where trustworthy information can be found. The new story provides both understanding and direction.<span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/1529100612451018" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsMisinformation and Its CorrectionWe conclude by providing specific recommendations for the debunking of misinformation. Thes...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nature.com/articles/s44159-021-00006-y" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">The psychological drivers of misinformation belief and its...by UKH Ecker · 2022 · Cited by 1916 — In this Review, we describe the cogni...</span></span></span>
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_mental_models_myths_2fa808_better_story_debunki_093028-Illustration-3-dark.svg" | relative_url }}" alt="Better Story illustration 3" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_mental_models_myths_2fa808_better_story_debunki_093028-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_mental_models_myths_2fa808_better_story_debunki_093028-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## When the Better Story Includes the Source of the Myth
 
 Sometimes the missing piece is not only what really happened but why the myth appeared in the first place.
 
-Research suggests that explaining the origin of misinformation can reduce its influence. If people understand that a claim resulted from a misunderstanding, a misleading statistic, a rumour, or a deliberate attempt to persuade, the myth loses some of its explanatory power. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.shapingtomorrowsworld.org/debunking-handbook-part-5-filling-gap-with-alternative-explanation.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: shapingtomorrowsworld.org">[Shaping Tomorrows World]</a><span class="citation-popover" role="note"><span class="citation-popover-source">shapingtomorrowsworld.org</span><span class="citation-popover-snippet">Shaping Tomorrows WorldThe Debunking Handbook Part 5: Filling the gap with an...by S Lewandowsky — The most effective way to reduce the...</span></span></span>
+Research suggests that explaining the origin of misinformation can reduce its influence. If people understand that a claim resulted from a misunderstanding, a misleading statistic, a rumour, or a deliberate attempt to persuade, the myth loses some of its explanatory power.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.shapingtomorrowsworld.org/debunking-handbook-part-5-filling-gap-with-alternative-explanation.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: shapingtomorrowsworld.org">[Shaping Tomorrows World]</a><span class="citation-popover" role="note"><span class="citation-popover-source">shapingtomorrowsworld.org</span><span class="citation-popover-snippet">Shaping Tomorrows WorldThe Debunking Handbook Part 5: Filling the gap with an...by S Lewandowsky — The most effective way to reduce the...</span></span></span>
 
 This approach can fill a second gap:
 
@@ -388,197 +388,197 @@ A successful replacement story has several characteristics:
 
 </div>
 
-The central lesson from misinformation research is that people do not merely collect facts. They organise facts into stories about how the world works. Debunking succeeds when it replaces a flawed story with a better one—one that explains more, predicts more, and leaves fewer unanswered questions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nature.com/articles/s44159-021-00006-y" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">The psychological drivers of misinformation belief and its...by UKH Ecker · 2022 · Cited by 1916 — In this Review, we describe the cogni...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://skepticalscience.com/Debunking-Handbook-Part-5-Filling-gap-with-alternative-explanation.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalscience.com">[Skeptical Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalscience.com</span><span class="citation-popover-title">Debunking Handbook Part 5 Filling gap with alternative explanation</span><span class="citation-popover-snippet">Skeptical ScienceThe Debunking Handbook Part 5: Filling the gap with an...25 Nov 2011 — The most effective way to reduce the effect of m...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/1529100612451018" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsMisinformation and Its CorrectionWe conclude by providing specific recommendations for the debunking of misinformation. Thes...</span></span></span>
+The central lesson from misinformation research is that people do not merely collect facts. They organise facts into stories about how the world works. Debunking succeeds when it replaces a flawed story with a better one—one that explains more, predicts more, and leaves fewer unanswered questions.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nature.com/articles/s44159-021-00006-y" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">The psychological drivers of misinformation belief and its...by UKH Ecker · 2022 · Cited by 1916 — In this Review, we describe the cogni...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://skepticalscience.com/Debunking-Handbook-Part-5-Filling-gap-with-alternative-explanation.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalscience.com">[Skeptical Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalscience.com</span><span class="citation-popover-title">Debunking Handbook Part 5 Filling gap with alternative explanation</span><span class="citation-popover-snippet">Skeptical ScienceThe Debunking Handbook Part 5: Filling the gap with an...25 Nov 2011 — The most effective way to reduce the effect of m...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/1529100612451018" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsMisinformation and Its CorrectionWe conclude by providing specific recommendations for the debunking of misinformation. Thes...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How Better Stories Beat Bad Myths. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How Better Stories Beat Bad Myths. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YGPzXWanppcC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
-        </h4>
-        <p class="fr-book-author">By Daniel Kahneman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YGPzXWanppcC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
+</h4>
+<p class="fr-book-author">By Daniel Kahneman</p>
         
-        <p class="fr-book-desc">Provides cognitive foundations for why myths and stories remain persuasive.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides cognitive foundations for why myths and stories remain persuasive.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Factfulness on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=rxg0tgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Factfulness" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Factfulness">Factfulness</a>
-        </h4>
-        <p class="fr-book-author">By Hans Rosling, Ola Rosling et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Factfulness on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=rxg0tgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Factfulness" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Factfulness">Factfulness</a>
+</h4>
+<p class="fr-book-author">By Hans Rosling, Ola Rosling et al.</p>
         
-        <p class="fr-book-desc">Shows how better explanatory frameworks can replace common misconceptions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows how better explanatory frameworks can replace common misconceptions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mistakes Were Made (but Not by Me) Third Edition on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jmmVxgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Mistakes Were Made (but Not by Me) Third Edition" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mistakes Were Made (but Not by Me) Third Edition">Mistakes Were Made (but Not by Me) Third Edition</a>
-        </h4>
-        <p class="fr-book-author">By Carol Tavris, Elliot Aronson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mistakes Were Made (but Not by Me) Third Edition on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jmmVxgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Mistakes Were Made (but Not by Me) Third Edition" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mistakes Were Made (but Not by Me) Third Edition">Mistakes Were Made (but Not by Me) Third Edition</a>
+</h4>
+<p class="fr-book-author">By Carol Tavris, Elliot Aronson</p>
         
-        <p class="fr-book-desc">Explains why people resist corrections and cling to existing narratives.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains why people resist corrections and cling to existing narratives.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28But+Not+by+Me%29+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mistakes Were Made (But Not by Me) on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/1119860-M.jpg" alt="Cover for Mistakes Were Made (But Not by Me)" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28But+Not+by+Me%29+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mistakes Were Made (But Not by Me)">Mistakes Were Made (But Not by Me)</a>
-        </h4>
-        <p class="fr-book-author">By Carol Tavris, Elliot Aronson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28But+Not+by+Me%29+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mistakes Were Made (But Not by Me) on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/1119860-M.jpg" alt="Cover for Mistakes Were Made (But Not by Me)" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28But+Not+by+Me%29+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mistakes Were Made (But Not by Me)">Mistakes Were Made (But Not by Me)</a>
+</h4>
+<p class="fr-book-author">By Carol Tavris, Elliot Aronson</p>
         
-        <p class="fr-book-desc">First published 2007. Subjects: Fouten, Vergissingen, Cognitive dissonance, Self-deception, Rechtvaardiging.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28But+Not+by+Me%29+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2007. Subjects: Fouten, Vergissingen, Cognitive dissonance, Self-deception, Rechtvaardiging.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28But+Not+by+Me%29+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Factfulness&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Factfulness</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mistakes Were Made (but Not by Me) Third Edition</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Factfulness&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Factfulness</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mistakes Were Made (but Not by Me) Third Edition</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=classroom+decor+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=better-story-how-better-stories-beat-bad-myths-myths-and-misconcept-classroom-decor-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classroom decor sign" data-ebay-reference="better-story-how-better-stories-beat-bad-myths-myths-and-misconcept-classroom-decor-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Custom Classroom Door Sign, Classroom Decor, Teacher Wooden Door Sign, Classroom"><img src="{{ '/assets/images/marketplace-covers/2a666ca6f21ef618fb60.jpg' | relative_url }}" alt="Listing image for Custom Classroom Door Sign, Classroom Decor, Teacher Wooden Door Sign, Classroom" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=classroom+decor+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=better-story-how-better-stories-beat-bad-myths-myths-and-misconcept-classroom-decor-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classroom decor sign" data-ebay-reference="better-story-how-better-stories-beat-bad-myths-myths-and-misconcept-classroom-decor-sign" target="_blank" rel="sponsored noopener noreferrer">Custom Classroom Door Sign, Classroom Decor, Teacher Wooden Door Sign, Classroom</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=classroom+decor+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=better-story-how-better-stories-beat-bad-myths-myths-and-misconcept-classroom-decor-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classroom decor sign" data-ebay-reference="better-story-how-better-stories-beat-bad-myths-myths-and-misconcept-classroom-decor-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for classroom decor sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: classroom decor sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=classroom+decor+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=better-story-how-better-stories-beat-bad-myths-myths-and-misconcept-classroom-decor-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classroom decor sign" data-ebay-reference="better-story-how-better-stories-beat-bad-myths-myths-and-misconcept-classroom-decor-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=classroom+decor+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=better-story-how-better-stories-beat-bad-myths-myths-and-misconcept-classroom-decor-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classroom decor sign" data-ebay-reference="better-story-how-better-stories-beat-bad-myths-myths-and-misconcept-classroom-decor-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Custom Classroom Door Sign, Classroom Decor, Teacher Wooden Door Sign, Classroom"><img src="{{ '/assets/images/marketplace-covers/2a666ca6f21ef618fb60.jpg' | relative_url }}" alt="Listing image for Custom Classroom Door Sign, Classroom Decor, Teacher Wooden Door Sign, Classroom" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=classroom+decor+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=better-story-how-better-stories-beat-bad-myths-myths-and-misconcept-classroom-decor-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classroom decor sign" data-ebay-reference="better-story-how-better-stories-beat-bad-myths-myths-and-misconcept-classroom-decor-sign" target="_blank" rel="sponsored noopener noreferrer">Custom Classroom Door Sign, Classroom Decor, Teacher Wooden Door Sign, Classroom</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=classroom+decor+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=better-story-how-better-stories-beat-bad-myths-myths-and-misconcept-classroom-decor-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classroom decor sign" data-ebay-reference="better-story-how-better-stories-beat-bad-myths-myths-and-misconcept-classroom-decor-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for classroom decor sign">Search<span data-ebay-domain-label>eBay.co.uk</span>: classroom decor sign</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=classroom+decor+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=better-story-how-better-stories-beat-bad-myths-myths-and-misconcept-classroom-decor-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classroom decor sign" data-ebay-reference="better-story-how-better-stories-beat-bad-myths-myths-and-misconcept-classroom-decor-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=classroom+decor+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=better-story-how-better-stories-beat-bad-myths-myths-and-misconcept-classroom-decor-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classroom decor sign" data-ebay-reference="better-story-how-better-stories-beat-bad-myths-myths-and-misconcept-classroom-decor-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Types Of Birds Metal Chart Sign For Bedroom Den Classroom Garden"><img src="{{ '/assets/images/marketplace-covers/852195a4436201034b3e.jpg' | relative_url }}" alt="Listing image for Types Of Birds Metal Chart Sign For Bedroom Den Classroom Garden" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=classroom+decor+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=better-story-how-better-stories-beat-bad-myths-myths-and-misconcept-classroom-decor-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classroom decor sign" data-ebay-reference="better-story-how-better-stories-beat-bad-myths-myths-and-misconcept-classroom-decor-sign" target="_blank" rel="sponsored noopener noreferrer">Types Of Birds Metal Chart Sign For Bedroom Den Classroom Garden</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=classroom+decor+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=better-story-how-better-stories-beat-bad-myths-myths-and-misconcept-classroom-decor-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classroom decor sign" data-ebay-reference="better-story-how-better-stories-beat-bad-myths-myths-and-misconcept-classroom-decor-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for classroom decor sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: classroom decor sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=classroom+decor+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=better-story-how-better-stories-beat-bad-myths-myths-and-misconcept-classroom-decor-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classroom decor sign" data-ebay-reference="better-story-how-better-stories-beat-bad-myths-myths-and-misconcept-classroom-decor-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=classroom+decor+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=better-story-how-better-stories-beat-bad-myths-myths-and-misconcept-classroom-decor-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classroom decor sign" data-ebay-reference="better-story-how-better-stories-beat-bad-myths-myths-and-misconcept-classroom-decor-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Types Of Birds Metal Chart Sign For Bedroom Den Classroom Garden"><img src="{{ '/assets/images/marketplace-covers/852195a4436201034b3e.jpg' | relative_url }}" alt="Listing image for Types Of Birds Metal Chart Sign For Bedroom Den Classroom Garden" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=classroom+decor+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=better-story-how-better-stories-beat-bad-myths-myths-and-misconcept-classroom-decor-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classroom decor sign" data-ebay-reference="better-story-how-better-stories-beat-bad-myths-myths-and-misconcept-classroom-decor-sign" target="_blank" rel="sponsored noopener noreferrer">Types Of Birds Metal Chart Sign For Bedroom Den Classroom Garden</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=classroom+decor+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=better-story-how-better-stories-beat-bad-myths-myths-and-misconcept-classroom-decor-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classroom decor sign" data-ebay-reference="better-story-how-better-stories-beat-bad-myths-myths-and-misconcept-classroom-decor-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for classroom decor sign">Search<span data-ebay-domain-label>eBay.co.uk</span>: classroom decor sign</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=classroom+decor+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=better-story-how-better-stories-beat-bad-myths-myths-and-misconcept-classroom-decor-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classroom decor sign" data-ebay-reference="better-story-how-better-stories-beat-bad-myths-myths-and-misconcept-classroom-decor-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=classroom+decor+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=better-story-how-better-stories-beat-bad-myths-myths-and-misconcept-classroom-decor-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classroom decor sign" data-ebay-reference="better-story-how-better-stories-beat-bad-myths-myths-and-misconcept-classroom-decor-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Types Of Dinosaurs Metal Chart Sign For Bedroom Den Classroom"><img src="{{ '/assets/images/marketplace-covers/e236581963451516a5af.jpg' | relative_url }}" alt="Listing image for Types Of Dinosaurs Metal Chart Sign For Bedroom Den Classroom" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=classroom+decor+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=better-story-how-better-stories-beat-bad-myths-myths-and-misconcept-classroom-decor-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classroom decor sign" data-ebay-reference="better-story-how-better-stories-beat-bad-myths-myths-and-misconcept-classroom-decor-sign" target="_blank" rel="sponsored noopener noreferrer">Types Of Dinosaurs Metal Chart Sign For Bedroom Den Classroom</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=classroom+decor+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=better-story-how-better-stories-beat-bad-myths-myths-and-misconcept-classroom-decor-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classroom decor sign" data-ebay-reference="better-story-how-better-stories-beat-bad-myths-myths-and-misconcept-classroom-decor-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for classroom decor sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: classroom decor sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=classroom+decor+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=better-story-how-better-stories-beat-bad-myths-myths-and-misconcept-classroom-decor-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classroom decor sign" data-ebay-reference="better-story-how-better-stories-beat-bad-myths-myths-and-misconcept-classroom-decor-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=classroom+decor+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=better-story-how-better-stories-beat-bad-myths-myths-and-misconcept-classroom-decor-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classroom decor sign" data-ebay-reference="better-story-how-better-stories-beat-bad-myths-myths-and-misconcept-classroom-decor-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Types Of Dinosaurs Metal Chart Sign For Bedroom Den Classroom"><img src="{{ '/assets/images/marketplace-covers/e236581963451516a5af.jpg' | relative_url }}" alt="Listing image for Types Of Dinosaurs Metal Chart Sign For Bedroom Den Classroom" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=classroom+decor+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=better-story-how-better-stories-beat-bad-myths-myths-and-misconcept-classroom-decor-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classroom decor sign" data-ebay-reference="better-story-how-better-stories-beat-bad-myths-myths-and-misconcept-classroom-decor-sign" target="_blank" rel="sponsored noopener noreferrer">Types Of Dinosaurs Metal Chart Sign For Bedroom Den Classroom</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=classroom+decor+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=better-story-how-better-stories-beat-bad-myths-myths-and-misconcept-classroom-decor-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classroom decor sign" data-ebay-reference="better-story-how-better-stories-beat-bad-myths-myths-and-misconcept-classroom-decor-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for classroom decor sign">Search<span data-ebay-domain-label>eBay.co.uk</span>: classroom decor sign</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=classroom+decor+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=better-story-how-better-stories-beat-bad-myths-myths-and-misconcept-classroom-decor-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classroom decor sign" data-ebay-reference="better-story-how-better-stories-beat-bad-myths-myths-and-misconcept-classroom-decor-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=classroom+decor+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=better-story-how-better-stories-beat-bad-myths-myths-and-misconcept-classroom-decor-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classroom decor sign" data-ebay-reference="better-story-how-better-stories-beat-bad-myths-myths-and-misconcept-classroom-decor-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Know Your Owls Metal Chart Bird Sign For Bedroom Den Classroom"><img src="{{ '/assets/images/marketplace-covers/2fd73d9139ed2ac71727.jpg' | relative_url }}" alt="Listing image for Know Your Owls Metal Chart Bird Sign For Bedroom Den Classroom" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=classroom+decor+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=better-story-how-better-stories-beat-bad-myths-myths-and-misconcept-classroom-decor-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classroom decor sign" data-ebay-reference="better-story-how-better-stories-beat-bad-myths-myths-and-misconcept-classroom-decor-sign" target="_blank" rel="sponsored noopener noreferrer">Know Your Owls Metal Chart Bird Sign For Bedroom Den Classroom</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=classroom+decor+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=better-story-how-better-stories-beat-bad-myths-myths-and-misconcept-classroom-decor-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classroom decor sign" data-ebay-reference="better-story-how-better-stories-beat-bad-myths-myths-and-misconcept-classroom-decor-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for classroom decor sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: classroom decor sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=classroom+decor+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=better-story-how-better-stories-beat-bad-myths-myths-and-misconcept-classroom-decor-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classroom decor sign" data-ebay-reference="better-story-how-better-stories-beat-bad-myths-myths-and-misconcept-classroom-decor-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=classroom+decor+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=better-story-how-better-stories-beat-bad-myths-myths-and-misconcept-classroom-decor-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classroom decor sign" data-ebay-reference="better-story-how-better-stories-beat-bad-myths-myths-and-misconcept-classroom-decor-sign" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=classroom+decor+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=better-story-how-better-stories-beat-bad-myths-myths-and-misconcept-classroom-decor-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classroom decor sign" data-ebay-reference="better-story-how-better-stories-beat-bad-myths-myths-and-misconcept-classroom-decor-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Know Your Owls Metal Chart Bird Sign For Bedroom Den Classroom"><img src="{{ '/assets/images/marketplace-covers/2fd73d9139ed2ac71727.jpg' | relative_url }}" alt="Listing image for Know Your Owls Metal Chart Bird Sign For Bedroom Den Classroom" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=classroom+decor+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=better-story-how-better-stories-beat-bad-myths-myths-and-misconcept-classroom-decor-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classroom decor sign" data-ebay-reference="better-story-how-better-stories-beat-bad-myths-myths-and-misconcept-classroom-decor-sign" target="_blank" rel="sponsored noopener noreferrer">Know Your Owls Metal Chart Bird Sign For Bedroom Den Classroom</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=classroom+decor+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=better-story-how-better-stories-beat-bad-myths-myths-and-misconcept-classroom-decor-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classroom decor sign" data-ebay-reference="better-story-how-better-stories-beat-bad-myths-myths-and-misconcept-classroom-decor-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for classroom decor sign">Search<span data-ebay-domain-label>eBay.co.uk</span>: classroom decor sign</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=classroom+decor+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=better-story-how-better-stories-beat-bad-myths-myths-and-misconcept-classroom-decor-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classroom decor sign" data-ebay-reference="better-story-how-better-stories-beat-bad-myths-myths-and-misconcept-classroom-decor-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=classroom+decor+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=better-story-how-better-stories-beat-bad-myths-myths-and-misconcept-classroom-decor-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classroom decor sign" data-ebay-reference="better-story-how-better-stories-beat-bad-myths-myths-and-misconcept-classroom-decor-sign" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -594,7 +594,7 @@ The central lesson from misinformation research is that people do not merely col
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -614,7 +614,7 @@ The central lesson from misinformation research is that people do not merely col
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -646,7 +646,7 @@ The central lesson from misinformation research is that people do not merely col
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -698,7 +698,7 @@ The central lesson from misinformation research is that people do not merely col
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -743,7 +743,7 @@ The central lesson from misinformation research is that people do not merely col
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -784,171 +784,171 @@ The central lesson from misinformation research is that people do not merely col
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: nature.com  
-   Link: <a href="https://www.nature.com/articles/s44159-021-00006-y" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s44159-021-00006-y</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The psychological drivers of misinformation belief and its...by UKH Ecker · 2022 · Cited by 1916 — In this Review, we describe the cogni...</p></details>
+   Link:<a href="https://www.nature.com/articles/s44159-021-00006-y" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s44159-021-00006-y</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The psychological drivers of misinformation belief and its...by UKH Ecker · 2022 · Cited by 1916 — In this Review, we describe the cogni...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: link.springer.com  
-   Link: <a href="https://link.springer.com/article/10.1186/s41235-021-00335-9" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1186/s41235-021-00335-9</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Exploring factors that mitigate the continued influence of...by IP Kan · 2021 · Cited by 27 — Researchers have found that indivi...</p></details>
+   Link:<a href="https://link.springer.com/article/10.1186/s41235-021-00335-9" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1186/s41235-021-00335-9</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Exploring factors that mitigate the continued influence of...by IP Kan · 2021 · Cited by 27 — Researchers have found that indivi...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: ltrr.arizona.edu  
-   Link: <a href="https://www.ltrr.arizona.edu/~katie/kt/natsgc/Debunking_Handbook.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ltrr.arizona.edu/~katie/kt/natsgc/Debunking_Handbook.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Debunking Handbookby S Lewandowsky — The most effective way to reduce the effect of misinformation is to provide an alternative explanati...</p></details>
+   Link:<a href="https://www.ltrr.arizona.edu/~katie/kt/natsgc/Debunking_Handbook.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ltrr.arizona.edu/~katie/kt/natsgc/Debunking_Handbook.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Debunking Handbookby S Lewandowsky — The most effective way to reduce the effect of misinformation is to provide an alternative explanati...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: skepticalscience.com  
    Title: Debunking Handbook Part 5 Filling gap with alternative explanation  
-   Link: <a href="https://skepticalscience.com/Debunking-Handbook-Part-5-Filling-gap-with-alternative-explanation.html" target="_blank" rel="noopener noreferrer nofollow">https://skepticalscience.com/Debunking-Handbook-Part-5-Filling-gap-with-alternative-explanation.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Skeptical ScienceThe Debunking Handbook Part 5: Filling the gap with an...25 Nov 2011 — The most effective way to reduce the effect of m...</p></details>
+   Link:<a href="https://skepticalscience.com/Debunking-Handbook-Part-5-Filling-gap-with-alternative-explanation.html" target="_blank" rel="noopener noreferrer nofollow">https://skepticalscience.com/Debunking-Handbook-Part-5-Filling-gap-with-alternative-explanation.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Skeptical ScienceThe Debunking Handbook Part 5: Filling the gap with an...25 Nov 2011 — The most effective way to reduce the effect of m...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: journals.sagepub.com  
-   Link: <a href="https://journals.sagepub.com/doi/10.1177/1529100612451018" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/1529100612451018</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Sage JournalsMisinformation and Its CorrectionWe conclude by providing specific recommendations for the debunking of misinformation. Thes...</p></details>
+   Link:<a href="https://journals.sagepub.com/doi/10.1177/1529100612451018" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/1529100612451018</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sage JournalsMisinformation and Its CorrectionWe conclude by providing specific recommendations for the debunking of misinformation. Thes...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: climatechangecommunication.org  
-   Link: <a href="https://www.climatechangecommunication.org/wp-content/uploads/2023/09/DebunkingHandbook2020.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.climatechangecommunication.org/wp-content/uploads/2023/09/DebunkingHandbook2020.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>15. Example of a Refutation. FACT. MYTH. FALLACY. FACT. Do not rely on a simple retraction. (“this claim is not true”). Lead with...Read...</p></details>
+   Link:<a href="https://www.climatechangecommunication.org/wp-content/uploads/2023/09/DebunkingHandbook2020.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.climatechangecommunication.org/wp-content/uploads/2023/09/DebunkingHandbook2020.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>15. Example of a Refutation. FACT. MYTH. FALLACY. FACT. Do not rely on a simple retraction. (“this claim is not true”). Lead with...Read...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: climatecommunication.gmu.edu  
    Title: the debunking handbook 2020  
-   Link: <a href="https://climatecommunication.gmu.edu/all/the-debunking-handbook-2020/" target="_blank" rel="noopener noreferrer nofollow">https://climatecommunication.gmu.edu/all/the-debunking-handbook-2020/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Center for Climate Change CommunicationThe Debunking Handbook 2020Sep 13, 2023 — The Debunking Handbook 2020 summarizes the current state...</p></details>
+   Link:<a href="https://climatecommunication.gmu.edu/all/the-debunking-handbook-2020/" target="_blank" rel="noopener noreferrer nofollow">https://climatecommunication.gmu.edu/all/the-debunking-handbook-2020/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Center for Climate Change CommunicationThe Debunking Handbook 2020Sep 13, 2023 — The Debunking Handbook 2020 summarizes the current state...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: digitalcommons.unl.edu  
-   Link: <a href="https://digitalcommons.unl.edu/context/scholcom/article/1247/viewcontent/DebunkingHandbook2020.pdf" target="_blank" rel="noopener noreferrer nofollow">https://digitalcommons.unl.edu/context/scholcom/article/1247/viewcontent/DebunkingHandbook2020.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>15. Example of a Refutation. FACT. MYTH. FALLACY. FACT. Do not rely on a simple retraction. (“this claim is not true”). Lead with...Read...</p></details>
+   Link:<a href="https://digitalcommons.unl.edu/context/scholcom/article/1247/viewcontent/DebunkingHandbook2020.pdf" target="_blank" rel="noopener noreferrer nofollow">https://digitalcommons.unl.edu/context/scholcom/article/1247/viewcontent/DebunkingHandbook2020.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>15. Example of a Refutation. FACT. MYTH. FALLACY. FACT. Do not rely on a simple retraction. (“this claim is not true”). Lead with...Read...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: ksjhandbook.org  
-   Link: <a href="https://ksjhandbook.org/misinformation/structuring-your-argument/" target="_blank" rel="noopener noreferrer nofollow">https://ksjhandbook.org/misinformation/structuring-your-argument/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Structuring Your ArgumentThe “fact-myth-fallacy” structure when debunking a claim. This involves presenting the correct information first...</p></details>
+   Link:<a href="https://ksjhandbook.org/misinformation/structuring-your-argument/" target="_blank" rel="noopener noreferrer nofollow">https://ksjhandbook.org/misinformation/structuring-your-argument/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Structuring Your ArgumentThe “fact-myth-fallacy” structure when debunking a claim. This involves presenting the correct information first...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: journals.sagepub.com  
-   Link: <a href="https://journals.sagepub.com/doi/abs/10.1177/1529100612451018" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/abs/10.1177/1529100612451018</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>and Its Correction: Continued Influence and...by S Lewandowsky · 2012 · Cited by 4713 — We look at people&#x27;s memory for misinformation an...</p></details>
+   Link:<a href="https://journals.sagepub.com/doi/abs/10.1177/1529100612451018" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/abs/10.1177/1529100612451018</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>and Its Correction: Continued Influence and...by S Lewandowsky · 2012 · Cited by 4713 — We look at people&#x27;s memory for misinformation an...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: digitalcommons.unl.edu  
-   Link: <a href="https://digitalcommons.unl.edu/scholcom/245/" target="_blank" rel="noopener noreferrer nofollow">https://digitalcommons.unl.edu/scholcom/245/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Digital CommonsThe Debunking Handbook 2020 - DigitalCommons@UNLby S Lewandowsky · 2020 · Cited by 494 — The Handbook distills the most im...</p></details>
+   Link:<a href="https://digitalcommons.unl.edu/scholcom/245/" target="_blank" rel="noopener noreferrer nofollow">https://digitalcommons.unl.edu/scholcom/245/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Digital CommonsThe Debunking Handbook 2020 - DigitalCommons@UNLby S Lewandowsky · 2020 · Cited by 494 — The Handbook distills the most im...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: skepticalscience.com  
-   Link: <a href="https://skepticalscience.com/Busting-myths-practical-guide-countering-science-denial.html" target="_blank" rel="noopener noreferrer nofollow">https://skepticalscience.com/Busting-myths-practical-guide-countering-science-denial.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Skeptical ScienceBusting myths: a practical guide to countering science denial12 June 2015 — In our online course, Making Sense of Climat...</p></details>
+   Link:<a href="https://skepticalscience.com/Busting-myths-practical-guide-countering-science-denial.html" target="_blank" rel="noopener noreferrer nofollow">https://skepticalscience.com/Busting-myths-practical-guide-countering-science-denial.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Skeptical ScienceBusting myths: a practical guide to countering science denial12 June 2015 — In our online course, Making Sense of Climat...</p></details>
    Published: June 2015  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: shapingtomorrowsworld.org  
-   Link: <a href="https://www.shapingtomorrowsworld.org/debunking-handbook-part-5-filling-gap-with-alternative-explanation.html" target="_blank" rel="noopener noreferrer nofollow">https://www.shapingtomorrowsworld.org/debunking-handbook-part-5-filling-gap-with-alternative-explanation.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Shaping Tomorrows WorldThe Debunking Handbook Part 5: Filling the gap with an...by S Lewandowsky — The most effective way to reduce the...</p></details>
+   Link:<a href="https://www.shapingtomorrowsworld.org/debunking-handbook-part-5-filling-gap-with-alternative-explanation.html" target="_blank" rel="noopener noreferrer nofollow">https://www.shapingtomorrowsworld.org/debunking-handbook-part-5-filling-gap-with-alternative-explanation.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Shaping Tomorrows WorldThe Debunking Handbook Part 5: Filling the gap with an...by S Lewandowsky — The most effective way to reduce the...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: skepticalscience.com  
    Title: The list of references is available here.Read more  
-   Link: <a href="https://skepticalscience.com/debunking-handbook-2020-debunk-often-and-properly.html" target="_blank" rel="noopener noreferrer nofollow">https://skepticalscience.com/debunking-handbook-2020-debunk-often-and-properly.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Debunking Handbook 2020: Debunk often and properly26 Oct 2020 — This blog post is part 4 of a series of excerpts from The Debunking H...</p></details>
+   Link:<a href="https://skepticalscience.com/debunking-handbook-2020-debunk-often-and-properly.html" target="_blank" rel="noopener noreferrer nofollow">https://skepticalscience.com/debunking-handbook-2020-debunk-often-and-properly.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Debunking Handbook 2020: Debunk often and properly26 Oct 2020 — This blog post is part 4 of a series of excerpts from The Debunking H...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: skepticalscience.com  
    Title: Fact Myth Fallacy Slide Deck  
-   Link: <a href="https://skepticalscience.com/Fact-Myth-Fallacy-Slide-Deck.html" target="_blank" rel="noopener noreferrer nofollow">https://skepticalscience.com/Fact-Myth-Fallacy-Slide-Deck.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>New resource: The Fact-Myth-Fallacy slide-deck9 Apr 2018 — A slide-deck with one page for each debunking and an index-page utilising the...</p></details>
+   Link:<a href="https://skepticalscience.com/Fact-Myth-Fallacy-Slide-Deck.html" target="_blank" rel="noopener noreferrer nofollow">https://skepticalscience.com/Fact-Myth-Fallacy-Slide-Deck.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>New resource: The Fact-Myth-Fallacy slide-deck9 Apr 2018 — A slide-deck with one page for each debunking and an index-page utilising the...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: skepticalscience.com  
-   Link: <a href="https://skepticalscience.com/resources.shtml" target="_blank" rel="noopener noreferrer nofollow">https://skepticalscience.com/resources.shtml</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ResourcesFact-Myth-Fallacy PDF: debunking the most common climate myths · JC-ASC2016, Public Talks · The Consensus Project Website · THE...</p></details>
+   Link:<a href="https://skepticalscience.com/resources.shtml" target="_blank" rel="noopener noreferrer nofollow">https://skepticalscience.com/resources.shtml</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ResourcesFact-Myth-Fallacy PDF: debunking the most common climate myths · JC-ASC2016, Public Talks · The Consensus Project Website · THE...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: skepticalscience.com  
    Title: debunking handbook 2020 downloads translations  
-   Link: <a href="https://skepticalscience.com/debunking-handbook-2020-downloads-translations.html" target="_blank" rel="noopener noreferrer nofollow">https://skepticalscience.com/debunking-handbook-2020-downloads-translations.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Debunking Handbook 2020: Downloads and...14 Oct 2020 — The Handbook distills the most important research findings and current expert...</p></details>
+   Link:<a href="https://skepticalscience.com/debunking-handbook-2020-downloads-translations.html" target="_blank" rel="noopener noreferrer nofollow">https://skepticalscience.com/debunking-handbook-2020-downloads-translations.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Debunking Handbook 2020: Downloads and...14 Oct 2020 — The Handbook distills the most important research findings and current expert...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: skepticalscience.com  
    Title: The list of references is  
-   Link: <a href="https://skepticalscience.com/debunking-handbook-2020-prevent-misinformation-from-sticking.html" target="_blank" rel="noopener noreferrer nofollow">https://skepticalscience.com/debunking-handbook-2020-prevent-misinformation-from-sticking.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Prevent misinformation from sticking if you canOct 20, 2020 — This blog post is part 2 of a series of excerpts from The Debunking Handboo...</p></details>
+   Link:<a href="https://skepticalscience.com/debunking-handbook-2020-prevent-misinformation-from-sticking.html" target="_blank" rel="noopener noreferrer nofollow">https://skepticalscience.com/debunking-handbook-2020-prevent-misinformation-from-sticking.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Prevent misinformation from sticking if you canOct 20, 2020 — This blog post is part 2 of a series of excerpts from The Debunking Handboo...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: skepticalscience.com  
-   Link: <a href="https://skepticalscience.com/debunking-handbook-2020-references.html" target="_blank" rel="noopener noreferrer nofollow">https://skepticalscience.com/debunking-handbook-2020-references.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Debunking Handbook 2020: References26 Oct 2020 — [Fake news](&amp;#123;&amp;#123; &#x27;fake-news/&#x27; | relative_url &amp;#125;&amp;#125;) game confers psychological resistance against online misinformation...</p></details>
+   Link:<a href="https://skepticalscience.com/debunking-handbook-2020-references.html" target="_blank" rel="noopener noreferrer nofollow">https://skepticalscience.com/debunking-handbook-2020-references.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Debunking Handbook 2020: References26 Oct 2020 — [Fake news](&amp;#123;&amp;#123; &#x27;fake-news/&#x27; | relative_url &amp;#125;&amp;#125;) game confers psychological resistance against online misinformation...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: skepticalscience.com  
    Title: debunking handbook now freely available download  
-   Link: <a href="https://skepticalscience.com/debunking-handbook-now-freely-available-download.html" target="_blank" rel="noopener noreferrer nofollow">https://skepticalscience.com/debunking-handbook-now-freely-available-download.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Debunking Handbook: now freely available for download27 Nov 2011 — The Debunking Handbook is now available in an extensively updated...</p></details>
+   Link:<a href="https://skepticalscience.com/debunking-handbook-now-freely-available-download.html" target="_blank" rel="noopener noreferrer nofollow">https://skepticalscience.com/debunking-handbook-now-freely-available-download.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Debunking Handbook: now freely available for download27 Nov 2011 — The Debunking Handbook is now available in an extensively updated...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: skepticalscience.com  
-   Link: <a href="https://skepticalscience.com/print.php?n=4886" target="_blank" rel="noopener noreferrer nofollow">https://skepticalscience.com/print.php?n=4886</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Debunking Handbook 2020: Downloads and...Oct 14, 2020 — The Handbook distills the most important research findings and current exper...</p></details>
+   Link:<a href="https://skepticalscience.com/print.php?n=4886" target="_blank" rel="noopener noreferrer nofollow">https://skepticalscience.com/print.php?n=4886</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Debunking Handbook 2020: Downloads and...Oct 14, 2020 — The Handbook distills the most important research findings and current exper...</p></details>
 
 ### Additional References
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: britannica.com  
-   Link: <a href="https://www.britannica.com/topic/myth" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/myth</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Definition, History, Examples, &amp; Facts17 Apr 2026 — a symbolic narrative, usually of unknown origin and at least partly traditional, that...</p></details>
+   Link:<a href="https://www.britannica.com/topic/myth" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/myth</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Definition, History, Examples, &amp; Facts17 Apr 2026 — a symbolic narrative, usually of unknown origin and at least partly traditional, that...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: merriam-webster.com  
-   Link: <a href="https://www.merriam-webster.com/dictionary/myth" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/myth</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Definition &amp; Meaning29 Apr 2026 — The meaning of MYTH is a usually traditional story of ostensibly historical events that serves to unfol...</p></details>
+   Link:<a href="https://www.merriam-webster.com/dictionary/myth" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/myth</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Definition &amp; Meaning29 Apr 2026 — The meaning of MYTH is a usually traditional story of ostensibly historical events that serves to unfol...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8715407/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8715407/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>by B Swire-Thompson · 2021 · Cited by 79 — The current paper investigated how altering the format of corrections influences people&#x27;s s...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8715407/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8715407/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by B Swire-Thompson · 2021 · Cited by 79 — The current paper investigated how altering the format of corrections influences people&#x27;s s...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=PSGW_zWJkY0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=PSGW_zWJkY0</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>teach lessons...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=PSGW_zWJkY0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=PSGW_zWJkY0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>teach lessons...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: research-information.bris.ac.uk  
    Title: debunking handbook 2020  
-   Link: <a href="https://research-information.bris.ac.uk/en/datasets/debunking-handbook-2020/" target="_blank" rel="noopener noreferrer nofollow">https://research-information.bris.ac.uk/en/datasets/debunking-handbook-2020/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Handbook 2020This handbook compiles expert data about debunking misinformation. You may download a PDF of the handbook in the &quot;Highlights...</p></details>
+   Link:<a href="https://research-information.bris.ac.uk/en/datasets/debunking-handbook-2020/" target="_blank" rel="noopener noreferrer nofollow">https://research-information.bris.ac.uk/en/datasets/debunking-handbook-2020/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Handbook 2020This handbook compiles expert data about debunking misinformation. You may download a PDF of the handbook in the &quot;Highlights...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: dictionary.cambridge.org  
-   Link: <a href="https://dictionary.cambridge.org/dictionary/english/myth" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/dictionary/english/myth</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>English meaning - Cambridge Dictionaryan ancient story or set of stories, especially explaining the early history of a group of people...</p></details>
+   Link:<a href="https://dictionary.cambridge.org/dictionary/english/myth" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/dictionary/english/myth</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>English meaning - Cambridge Dictionaryan ancient story or set of stories, especially explaining the early history of a group of people...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: meetingorganizer.copernicus.org  
    Title: EGU26 4110  
-   Link: <a href="https://meetingorganizer.copernicus.org/EGU26/EGU26-4110.html" target="_blank" rel="noopener noreferrer nofollow">https://meetingorganizer.copernicus.org/EGU26/EGU26-4110.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>EGU26-4110by B Winkler · 2026 — Skeptical Science is a highly-visited website featuring 250 rebuttals of misinformation about climate cha...</p></details>
+   Link:<a href="https://meetingorganizer.copernicus.org/EGU26/EGU26-4110.html" target="_blank" rel="noopener noreferrer nofollow">https://meetingorganizer.copernicus.org/EGU26/EGU26-4110.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>EGU26-4110by B Winkler · 2026 — Skeptical Science is a highly-visited website featuring 250 rebuttals of misinformation about climate cha...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: study.com  
    Title: Myth in Literature | Definition, Types & Examples  
-   Link: <a href="https://study.com/academy/lesson/what-are-myths-definition-types-examples.html" target="_blank" rel="noopener noreferrer nofollow">https://study.com/academy/lesson/what-are-myths-definition-types-examples.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>LessonA myth in literature is a story passed down from generation to generation that attempts to explain an origin or natural occurrence...</p></details>
+   Link:<a href="https://study.com/academy/lesson/what-are-myths-definition-types-examples.html" target="_blank" rel="noopener noreferrer nofollow">https://study.com/academy/lesson/what-are-myths-definition-types-examples.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>LessonA myth in literature is a story passed down from generation to generation that attempts to explain an origin or natural occurrence...</p></details>
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: thegreatsimplification.com  
-   Link: <a href="https://www.thegreatsimplification.com/episode/212-john-cook" target="_blank" rel="noopener noreferrer nofollow">https://www.thegreatsimplification.com/episode/212-john-cook</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How to Inoculate Against MisinformationHumans aren&#x27;t rational. We don&#x27;t evaluate facts objectively; instead, we interpret them through ou...</p></details>
+   Link:<a href="https://www.thegreatsimplification.com/episode/212-john-cook" target="_blank" rel="noopener noreferrer nofollow">https://www.thegreatsimplification.com/episode/212-john-cook</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How to Inoculate Against MisinformationHumans aren&#x27;t rational. We don&#x27;t evaluate facts objectively; instead, we interpret them through ou...</p></details>
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: education.umd.edu  
    Title: 10 14 20 debunking handbook 2020 countering misinformation  
-   Link: <a href="https://education.umd.edu/news/10-14-20-debunking-handbook-2020-countering-misinformation" target="_blank" rel="noopener noreferrer nofollow">https://education.umd.edu/news/10-14-20-debunking-handbook-2020-countering-misinformation</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Handbook 2020: Countering Misinformation14 Oct 2020 — The Debunking Handbook 2020 aims to do just that by summarizing the current state o...</p></details>
+   Link:<a href="https://education.umd.edu/news/10-14-20-debunking-handbook-2020-countering-misinformation" target="_blank" rel="noopener noreferrer nofollow">https://education.umd.edu/news/10-14-20-debunking-handbook-2020-countering-misinformation</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Handbook 2020: Countering Misinformation14 Oct 2020 — The Debunking Handbook 2020 aims to do just that by summarizing the current state o...</p></details>

@@ -274,16 +274,16 @@ image: /assets/images/Myths_and_misconcept_0d48d7_misleading_analogies_a297a0_ge
 
 ## Introduction
 
-Spatial metaphors are among the most common tools used to explain geological time. Teachers, museums, textbooks, and science communicators often compress Earth’s 4.54-billion-year history into a football field, a calendar year, a road trip, or a long line marked with key events. These [analogies]({{ 'analogies/' | relative_url }}) can be powerful because they translate an almost unimaginable timescale into something visible and familiar. However, they also create a recurring misconception: learners may mistake a spatial representation for the actual structure of time and develop distorted ideas about when major evolutionary and geological events occurred. Research in geoscience education has repeatedly shown that understanding “deep time” is difficult, and that poorly designed spatial analogies can reinforce rather than reduce confusion. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8711836/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCCollege Student Conceptions about Changes to Earth</span><span class="citation-popover-snippet">by P Jaimes · 2020 · Cited by 14 — This paper focuses on deep time as an important variable in understanding theories of evolution and...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8711836/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCCollege Student Conceptions about Changes to Earth</span><span class="citation-popover-snippet">by P Jaimes · 2020 · Cited by 14 — This paper focuses on deep time as an important variable in understanding theories of evolution and...</span></span></span>
+Spatial metaphors are among the most common tools used to explain geological time. Teachers, museums, textbooks, and science communicators often compress Earth’s 4.54-billion-year history into a football field, a calendar year, a road trip, or a long line marked with key events. These [analogies]({{ 'analogies/' | relative_url }}) can be powerful because they translate an almost unimaginable timescale into something visible and familiar. However, they also create a recurring misconception: learners may mistake a spatial representation for the actual structure of time and develop distorted ideas about when major evolutionary and geological events occurred. Research in geoscience education has repeatedly shown that understanding “deep time” is difficult, and that poorly designed spatial analogies can reinforce rather than reduce confusion.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8711836/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCCollege Student Conceptions about Changes to Earth</span><span class="citation-popover-snippet">by P Jaimes · 2020 · Cited by 14 — This paper focuses on deep time as an important variable in understanding theories of evolution and...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8711836/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCCollege Student Conceptions about Changes to Earth</span><span class="citation-popover-snippet">by P Jaimes · 2020 · Cited by 14 — This paper focuses on deep time as an important variable in understanding theories of evolution and...</span></span></span>
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_misleading_analogies_a297a0_geologic_time_analog_a1fb74-Illustration-1-dark.svg" | relative_url }}" alt="Geologic Time illustration 1" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_misleading_analogies_a297a0_geologic_time_analog_a1fb74-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_misleading_analogies_a297a0_geologic_time_analog_a1fb74-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Spatial Compression Pitfalls
 
-The central problem is that geological time is not naturally experienced on human scales. To make it understandable, educators frequently convert time into distance. A billion years may become a kilometre of road, a metre of tape, or several months on a calendar. Although this helps communicate magnitude, it can also conceal crucial proportional relationships. <span class="citation-chip-wrap"><a class="citation-chip" href="https://geology.utah.gov/map-pub/survey-notes/glad-you-asked/glad-you-asked-can-u-s-interstate-highway-15-be-used-as-a-metaphor-for-geologic-time/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: geology.utah.gov">[Utah Geological Survey]</a><span class="citation-popover" role="note"><span class="citation-popover-source">geology.utah.gov</span><span class="citation-popover-title">Geological Survey Can U.S</span><span class="citation-popover-snippet">Interstate Highway 15 Be Used as a Metaphor for...3 Sept 2024 — One approach to getting a better grasp of the scale of geologic time is...</span></span></span>
+The central problem is that geological time is not naturally experienced on human scales. To make it understandable, educators frequently convert time into distance. A billion years may become a kilometre of road, a metre of tape, or several months on a calendar. Although this helps communicate magnitude, it can also conceal crucial proportional relationships.<span class="citation-chip-wrap"><a class="citation-chip" href="https://geology.utah.gov/map-pub/survey-notes/glad-you-asked/glad-you-asked-can-u-s-interstate-highway-15-be-used-as-a-metaphor-for-geologic-time/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: geology.utah.gov">[Utah Geological Survey]</a><span class="citation-popover" role="note"><span class="citation-popover-source">geology.utah.gov</span><span class="citation-popover-title">Geological Survey Can U.S</span><span class="citation-popover-snippet">Interstate Highway 15 Be Used as a Metaphor for...3 Sept 2024 — One approach to getting a better grasp of the scale of geologic time is...</span></span></span>
 
-When billions of years are compressed into a short physical space, most of Earth's history occupies large regions of the model while many familiar events are squeezed into tiny segments at the end. Humans, dinosaurs, flowering plants, and even many major evolutionary transitions occurred relatively recently compared with the age of the Earth. On a true-to-scale timeline, these events may occupy only millimetres. Learners often struggle to interpret such compressed regions accurately and may mentally spread them out, creating false impressions about duration and sequence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8711836/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCCollege Student Conceptions about Changes to Earth</span><span class="citation-popover-snippet">by P Jaimes · 2020 · Cited by 14 — This paper focuses on deep time as an important variable in understanding theories of evolution and...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://serc.carleton.edu/files/serc/dodickorion-fin.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: serc.carleton.edu">[SERC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">serc.carleton.edu</span><span class="citation-popover-snippet">Building an Understanding of Geological Time: A Cognitive...by J Dodick · Cited by 72 — Our event-based study focuses on the problem...</span></span></span>
+When billions of years are compressed into a short physical space, most of Earth's history occupies large regions of the model while many familiar events are squeezed into tiny segments at the end. Humans, dinosaurs, flowering plants, and even many major evolutionary transitions occurred relatively recently compared with the age of the Earth. On a true-to-scale timeline, these events may occupy only millimetres. Learners often struggle to interpret such compressed regions accurately and may mentally spread them out, creating false impressions about duration and sequence.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8711836/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCCollege Student Conceptions about Changes to Earth</span><span class="citation-popover-snippet">by P Jaimes · 2020 · Cited by 14 — This paper focuses on deep time as an important variable in understanding theories of evolution and...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://serc.carleton.edu/files/serc/dodickorion-fin.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: serc.carleton.edu">[SERC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">serc.carleton.edu</span><span class="citation-popover-snippet">Building an Understanding of Geological Time: A Cognitive...by J Dodick · Cited by 72 — Our event-based study focuses on the problem...</span></span></span>
 
-Another difficulty is that people naturally interpret space differently from time. Distance can be revisited, scanned, and compared simultaneously, whereas time unfolds sequentially. When a geological timeline is presented as a line or path, learners may focus on the visual spacing between labels rather than on the actual numerical intervals represented. This can lead to overestimating the importance or duration of some events and underestimating others. <span class="citation-chip-wrap"><a class="citation-chip" href="https://semken.asu.edu/pubs/semken09_tatex.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: semken.asu.edu">[semken.asu.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">semken.asu.edu</span><span class="citation-popover-snippet">used in formal and informal learning settings to teach about geologic time; nonetheless, their.Read more...</span></span></span>
+Another difficulty is that people naturally interpret space differently from time. Distance can be revisited, scanned, and compared simultaneously, whereas time unfolds sequentially. When a geological timeline is presented as a line or path, learners may focus on the visual spacing between labels rather than on the actual numerical intervals represented. This can lead to overestimating the importance or duration of some events and underestimating others.<span class="citation-chip-wrap"><a class="citation-chip" href="https://semken.asu.edu/pubs/semken09_tatex.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: semken.asu.edu">[semken.asu.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">semken.asu.edu</span><span class="citation-popover-snippet">used in formal and informal learning settings to teach about geologic time; nonetheless, their.Read more...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/rWp5ZpJAIAE" title="A Brief History of Geologic Time" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=rWp5ZpJAIAE" target="_blank" rel="noopener noreferrer">A Brief History of Geologic Time</a></p><p class="youtube-embed-meta">Channel: PBS Eons &middot; Views: 4.7M &middot; Uploaded: November 2017 &middot; Length: 12 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=rWp5ZpJAIAE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=rWp5ZpJAIAE">Open on YouTube</a></p></div></div></div>
 
@@ -291,235 +291,235 @@ Another difficulty is that people naturally interpret space differently from tim
 
 ### Assuming Evolution Happened Gradually Across Equal Segments
 
-One frequent misconception is that evolutionary milestones are distributed relatively evenly across Earth's history. Spatial timelines often show a sequence of labelled events placed along a line, encouraging learners to perceive a steady progression toward modern life. In reality, long periods of relative stability are interrupted by episodes of rapid diversification, extinction, and environmental change. A visually uniform timeline can unintentionally imply a regular pace that did not exist. <span class="citation-chip-wrap"><a class="citation-chip" href="https://serc.carleton.edu/files/serc/dodickorion-fin.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: serc.carleton.edu">[SERC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">serc.carleton.edu</span><span class="citation-popover-snippet">Building an Understanding of Geological Time: A Cognitive...by J Dodick · Cited by 72 — Our event-based study focuses on the problem...</span></span></span>
+One frequent misconception is that evolutionary milestones are distributed relatively evenly across Earth's history. Spatial timelines often show a sequence of labelled events placed along a line, encouraging learners to perceive a steady progression toward modern life. In reality, long periods of relative stability are interrupted by episodes of rapid diversification, extinction, and environmental change. A visually uniform timeline can unintentionally imply a regular pace that did not exist.<span class="citation-chip-wrap"><a class="citation-chip" href="https://serc.carleton.edu/files/serc/dodickorion-fin.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: serc.carleton.edu">[SERC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">serc.carleton.edu</span><span class="citation-popover-snippet">Building an Understanding of Geological Time: A Cognitive...by J Dodick · Cited by 72 — Our event-based study focuses on the problem...</span></span></span>
 
 ### Misplacing Humans in Geological History
 
-Calendar and distance analogies are often used to show how recently humans appeared. In the popular “Earth history as one year” metaphor, modern humans arrive only in the final moments of 31 December. While this correctly highlights our recent appearance, many learners still underestimate how compressed the final segment is and fail to appreciate the vast temporal gap separating humans from earlier events such as the origin of multicellular life or the appearance of dinosaurs. <span class="citation-chip-wrap"><a class="citation-chip" href="https://geology.utah.gov/map-pub/survey-notes/glad-you-asked/glad-you-asked-can-u-s-interstate-highway-15-be-used-as-a-metaphor-for-geologic-time/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: geology.utah.gov">[Utah Geological Survey]</a><span class="citation-popover" role="note"><span class="citation-popover-source">geology.utah.gov</span><span class="citation-popover-title">Geological Survey Can U.S</span><span class="citation-popover-snippet">Interstate Highway 15 Be Used as a Metaphor for...3 Sept 2024 — One approach to getting a better grasp of the scale of geologic time is...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://jamesriverpark.org/wp-content/uploads/2022/05/Geologic-Timeline-Fall-Zone.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jamesriverpark.org">[Friends of James River Park]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jamesriverpark.org</span><span class="citation-popover-snippet">Friends of James River ParkGeologic Time Scale AnalogyPURPOSE: To show students the order of events and time periods in geologic time and...</span></span></span>
+Calendar and distance analogies are often used to show how recently humans appeared. In the popular “Earth history as one year” metaphor, modern humans arrive only in the final moments of 31 December. While this correctly highlights our recent appearance, many learners still underestimate how compressed the final segment is and fail to appreciate the vast temporal gap separating humans from earlier events such as the origin of multicellular life or the appearance of dinosaurs.<span class="citation-chip-wrap"><a class="citation-chip" href="https://geology.utah.gov/map-pub/survey-notes/glad-you-asked/glad-you-asked-can-u-s-interstate-highway-15-be-used-as-a-metaphor-for-geologic-time/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: geology.utah.gov">[Utah Geological Survey]</a><span class="citation-popover" role="note"><span class="citation-popover-source">geology.utah.gov</span><span class="citation-popover-title">Geological Survey Can U.S</span><span class="citation-popover-snippet">Interstate Highway 15 Be Used as a Metaphor for...3 Sept 2024 — One approach to getting a better grasp of the scale of geologic time is...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://jamesriverpark.org/wp-content/uploads/2022/05/Geologic-Timeline-Fall-Zone.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jamesriverpark.org">[Friends of James River Park]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jamesriverpark.org</span><span class="citation-popover-snippet">Friends of James River ParkGeologic Time Scale AnalogyPURPOSE: To show students the order of events and time periods in geologic time and...</span></span></span>
 
 ### Confusing Relative Order with Relative Duration
 
-A timeline may successfully communicate that Event A occurred before Event B while still failing to communicate how much time separated them. Students often remember the sequence correctly but misunderstand the scale. Research on geological-time learning has found that learners can identify ordering relationships yet remain unable to reason accurately about the immense intervals involved. <span class="citation-chip-wrap"><a class="citation-chip" href="https://semken.asu.edu/pubs/semken09_tatex.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: semken.asu.edu">[ERIC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">semken.asu.edu</span><span class="citation-popover-snippet">used in formal and informal learning settings to teach about geologic time; nonetheless, their.Read more...</span></span></span>
+A timeline may successfully communicate that Event A occurred before Event B while still failing to communicate how much time separated them. Students often remember the sequence correctly but misunderstand the scale. Research on geological-time learning has found that learners can identify ordering relationships yet remain unable to reason accurately about the immense intervals involved.<span class="citation-chip-wrap"><a class="citation-chip" href="https://semken.asu.edu/pubs/semken09_tatex.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: semken.asu.edu">[ERIC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">semken.asu.edu</span><span class="citation-popover-snippet">used in formal and informal learning settings to teach about geologic time; nonetheless, their.Read more...</span></span></span>
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_misleading_analogies_a297a0_geologic_time_analog_a1fb74-Illustration-2-dark.svg" | relative_url }}" alt="Geologic Time illustration 2" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_misleading_analogies_a297a0_geologic_time_analog_a1fb74-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_misleading_analogies_a297a0_geologic_time_analog_a1fb74-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Treating Empty Space as “Nothing Happened”
 
-Large stretches of geological history may contain few labels because educators cannot annotate every significant event. Learners sometimes interpret these visually sparse regions as uneventful periods rather than recognising them as intervals containing complex geological and biological developments. This misconception arises from the structure of the visual metaphor rather than from the science itself. <span class="citation-chip-wrap"><a class="citation-chip" href="https://semken.asu.edu/pubs/semken09_tatex.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: semken.asu.edu">[ERIC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">semken.asu.edu</span><span class="citation-popover-snippet">used in formal and informal learning settings to teach about geologic time; nonetheless, their.Read more...</span></span></span>
+Large stretches of geological history may contain few labels because educators cannot annotate every significant event. Learners sometimes interpret these visually sparse regions as uneventful periods rather than recognising them as intervals containing complex geological and biological developments. This misconception arises from the structure of the visual metaphor rather than from the science itself.<span class="citation-chip-wrap"><a class="citation-chip" href="https://semken.asu.edu/pubs/semken09_tatex.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: semken.asu.edu">[ERIC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">semken.asu.edu</span><span class="citation-popover-snippet">used in formal and informal learning settings to teach about geologic time; nonetheless, their.Read more...</span></span></span>
 
 ## Why Deep Time Is Especially Vulnerable to Misleading Analogies
 
-Deep time differs from many scientific concepts because there is no direct human experience against which to calibrate it. People can imagine large buildings, long journeys, or extended lifetimes, but billions of years lie far beyond ordinary intuition. Educational researchers describe this as a scale problem: learners must reason about magnitudes that exceed familiar experience by many orders of magnitude. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8711836/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCCollege Student Conceptions about Changes to Earth</span><span class="citation-popover-snippet">by P Jaimes · 2020 · Cited by 14 — This paper focuses on deep time as an important variable in understanding theories of evolution and...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://dr.lib.iastate.edu/bitstreams/fc73c9be-49cc-493b-87dd-fb6aae36fbb5/download" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dr.lib.iastate.edu">[2dr.lib.iastate.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dr.lib.iastate.edu</span><span class="citation-popover-snippet">Less appreciated, however, is the...Read more...</span></span></span>
+Deep time differs from many scientific concepts because there is no direct human experience against which to calibrate it. People can imagine large buildings, long journeys, or extended lifetimes, but billions of years lie far beyond ordinary intuition. Educational researchers describe this as a scale problem: learners must reason about magnitudes that exceed familiar experience by many orders of magnitude.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8711836/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCCollege Student Conceptions about Changes to Earth</span><span class="citation-popover-snippet">by P Jaimes · 2020 · Cited by 14 — This paper focuses on deep time as an important variable in understanding theories of evolution and...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://dr.lib.iastate.edu/bitstreams/fc73c9be-49cc-493b-87dd-fb6aae36fbb5/download" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dr.lib.iastate.edu">[2dr.lib.iastate.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dr.lib.iastate.edu</span><span class="citation-popover-snippet">Less appreciated, however, is the...Read more...</span></span></span>
 
-Because of this cognitive challenge, even accurate analogies can be overextended. Students may remember the metaphor itself more clearly than the quantitative relationships it was designed to illustrate. A road, ruler, staircase, or calendar becomes the mental model, and properties of the metaphor begin to replace properties of geological time. Researchers studying analogy-based instruction have identified this tendency as a recurring risk whenever learners transfer features from the familiar model that do not actually belong to the target concept. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8711836/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCCollege Student Conceptions about Changes to Earth</span><span class="citation-popover-snippet">by P Jaimes · 2020 · Cited by 14 — This paper focuses on deep time as an important variable in understanding theories of evolution and...</span></span></span>
+Because of this cognitive challenge, even accurate analogies can be overextended. Students may remember the metaphor itself more clearly than the quantitative relationships it was designed to illustrate. A road, ruler, staircase, or calendar becomes the mental model, and properties of the metaphor begin to replace properties of geological time. Researchers studying analogy-based instruction have identified this tendency as a recurring risk whenever learners transfer features from the familiar model that do not actually belong to the target concept.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8711836/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCCollege Student Conceptions about Changes to Earth</span><span class="citation-popover-snippet">by P Jaimes · 2020 · Cited by 14 — This paper focuses on deep time as an important variable in understanding theories of evolution and...</span></span></span>
 
-The problem is not that spatial metaphors are inherently wrong. Rather, they encourage interpretations that educators may not intend. A visual device that successfully communicates one aspect of deep time can simultaneously create misconceptions about another. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8711836/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCCollege Student Conceptions about Changes to Earth</span><span class="citation-popover-snippet">by P Jaimes · 2020 · Cited by 14 — This paper focuses on deep time as an important variable in understanding theories of evolution and...</span></span></span>
+The problem is not that spatial metaphors are inherently wrong. Rather, they encourage interpretations that educators may not intend. A visual device that successfully communicates one aspect of deep time can simultaneously create misconceptions about another.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8711836/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCCollege Student Conceptions about Changes to Earth</span><span class="citation-popover-snippet">by P Jaimes · 2020 · Cited by 14 — This paper focuses on deep time as an important variable in understanding theories of evolution and...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/M8V_glRW1hA" title="Earth&#x27;s Entire History (Visualized On A Football Field)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=M8V_glRW1hA" target="_blank" rel="noopener noreferrer">Earth&#x27;s Entire History (Visualized On A Football Field)</a></p><p class="youtube-embed-meta">Channel: NPR&#x27;s Skunk Bear &middot; Views: 959.0K &middot; Uploaded: November 2016 &middot; Length: 4 minutes 39 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=M8V_glRW1hA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=M8V_glRW1hA">Open on YouTube</a></p></div></div></div>
 
 ## Teaching Correct Temporal Scale
 
-Educational research suggests that the most effective approaches do not rely on a single metaphor. Instead, they use multiple representations that make scale relationships explicit and encourage comparison across different magnitudes. Learners benefit when timelines include numerical values, proportional distances, and opportunities to calculate intervals rather than merely observe them. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8711836/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCCollege Student Conceptions about Changes to Earth</span><span class="citation-popover-snippet">by P Jaimes · 2020 · Cited by 14 — This paper focuses on deep time as an important variable in understanding theories of evolution and...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://serc.carleton.edu/files/serc/dodickorion-fin.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: serc.carleton.edu">[SERC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">serc.carleton.edu</span><span class="citation-popover-snippet">Building an Understanding of Geological Time: A Cognitive...by J Dodick · Cited by 72 — Our event-based study focuses on the problem...</span></span></span>
+Educational research suggests that the most effective approaches do not rely on a single metaphor. Instead, they use multiple representations that make scale relationships explicit and encourage comparison across different magnitudes. Learners benefit when timelines include numerical values, proportional distances, and opportunities to calculate intervals rather than merely observe them.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8711836/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCCollege Student Conceptions about Changes to Earth</span><span class="citation-popover-snippet">by P Jaimes · 2020 · Cited by 14 — This paper focuses on deep time as an important variable in understanding theories of evolution and...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://serc.carleton.edu/files/serc/dodickorion-fin.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: serc.carleton.edu">[SERC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">serc.carleton.edu</span><span class="citation-popover-snippet">Building an Understanding of Geological Time: A Cognitive...by J Dodick · Cited by 72 — Our event-based study focuses on the problem...</span></span></span>
 
-Several studies have also found that carefully designed analogies can improve understanding when their limitations are discussed openly. Rather than presenting a timeline as a literal picture of history, educators can explain exactly what the analogy captures and what it leaves out. This helps prevent learners from transferring inappropriate assumptions from the spatial model to geological time itself. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8711836/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCCollege Student Conceptions about Changes to Earth</span><span class="citation-popover-snippet">by P Jaimes · 2020 · Cited by 14 — This paper focuses on deep time as an important variable in understanding theories of evolution and...</span></span></span>
+Several studies have also found that carefully designed analogies can improve understanding when their limitations are discussed openly. Rather than presenting a timeline as a literal picture of history, educators can explain exactly what the analogy captures and what it leaves out. This helps prevent learners from transferring inappropriate assumptions from the spatial model to geological time itself.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8711836/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCCollege Student Conceptions about Changes to Earth</span><span class="citation-popover-snippet">by P Jaimes · 2020 · Cited by 14 — This paper focuses on deep time as an important variable in understanding theories of evolution and...</span></span></span>
 
-Modern deep-time visualisation projects increasingly focus on proportional reasoning rather than simple compression. Interactive displays allow users to zoom between scales, revealing how apparently tiny segments can contain hundreds of millions of years. Such approaches aim to preserve the usefulness of spatial representation while reducing the distortions caused by extreme compression. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2404.01488" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">DeLVE into Earth&#x27;s Past: A Visualization-Based Exhibit Deployed Across Multiple Museum ContextsApril 1, 2024...</span><span class="citation-popover-meta">Published: April 1, 2024</span></span></span>
+Modern deep-time visualisation projects increasingly focus on proportional reasoning rather than simple compression. Interactive displays allow users to zoom between scales, revealing how apparently tiny segments can contain hundreds of millions of years. Such approaches aim to preserve the usefulness of spatial representation while reducing the distortions caused by extreme compression.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2404.01488" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">DeLVE into Earth&#x27;s Past: A Visualization-Based Exhibit Deployed Across Multiple Museum ContextsApril 1, 2024...</span><span class="citation-popover-meta">Published: April 1, 2024</span></span></span>
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_misleading_analogies_a297a0_geologic_time_analog_a1fb74-Illustration-3-dark.svg" | relative_url }}" alt="Geologic Time illustration 3" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_misleading_analogies_a297a0_geologic_time_analog_a1fb74-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_misleading_analogies_a297a0_geologic_time_analog_a1fb74-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The Key Misconception to Avoid
 
-The myth is not that geological timelines are inaccurate; it is that a spatial timeline automatically produces an accurate understanding of geological time. Spatial analogies are valuable teaching tools, but they simplify an immense temporal reality into a manageable visual form. When learners focus on the metaphor rather than its scale relationships, they may misjudge the [timing]({{ 'timing/' | relative_url }}), duration, and significance of major evolutionary events. Understanding this limitation is essential for developing a more accurate sense of Earth's deep history. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8711836/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCCollege Student Conceptions about Changes to Earth</span><span class="citation-popover-snippet">by P Jaimes · 2020 · Cited by 14 — This paper focuses on deep time as an important variable in understanding theories of evolution and...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://semken.asu.edu/pubs/semken09_tatex.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: semken.asu.edu">[2semken.asu.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">semken.asu.edu</span><span class="citation-popover-snippet">used in formal and informal learning settings to teach about geologic time; nonetheless, their.Read more...</span></span></span>
+The myth is not that geological timelines are inaccurate; it is that a spatial timeline automatically produces an accurate understanding of geological time. Spatial analogies are valuable teaching tools, but they simplify an immense temporal reality into a manageable visual form. When learners focus on the metaphor rather than its scale relationships, they may misjudge the [timing]({{ 'timing/' | relative_url }}), duration, and significance of major evolutionary events. Understanding this limitation is essential for developing a more accurate sense of Earth's deep history.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8711836/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCCollege Student Conceptions about Changes to Earth</span><span class="citation-popover-snippet">by P Jaimes · 2020 · Cited by 14 — This paper focuses on deep time as an important variable in understanding theories of evolution and...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://semken.asu.edu/pubs/semken09_tatex.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: semken.asu.edu">[2semken.asu.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">semken.asu.edu</span><span class="citation-popover-snippet">used in formal and informal learning settings to teach about geologic time; nonetheless, their.Read more...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/hhzja0zBoNw" title="4.5 Billion Years in 24 Hours" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=hhzja0zBoNw" target="_blank" rel="noopener noreferrer">4.5 Billion Years in 24 Hours</a></p><p class="youtube-embed-meta">Channel: BRIGHT SIDE &middot; Views: 143.0K &middot; Uploaded: July 2021 &middot; Length: 4 minutes 36 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=hhzja0zBoNw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=hhzja0zBoNw">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Spatial Metaphors Mislead About Geological Timelines. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Spatial Metaphors Mislead About Geological Timelines. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Ends+of+the+World+by+Peter+Brannen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Ends of the World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=8B29DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Ends of the World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Ends+of+the+World+by+Peter+Brannen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Ends of the World">The Ends of the World</a>
-        </h4>
-        <p class="fr-book-author">By Peter Brannen</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Ends+of+the+World+by+Peter+Brannen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Ends of the World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=8B29DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Ends of the World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Ends+of+the+World+by+Peter+Brannen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Ends of the World">The Ends of the World</a>
+</h4>
+<p class="fr-book-author">By Peter Brannen</p>
         
-        <p class="fr-book-desc">Illustrates immense spans of Earth history through extinction events.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Ends+of+the+World+by+Peter+Brannen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Illustrates immense spans of Earth history through extinction events.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Ends+of+the+World+by+Peter+Brannen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=A+Brief+History+of+Earth+Andrew+H.+Knoll&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open A Brief History of Earth on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10858991-M.jpg" alt="Cover for A Brief History of Earth" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=A+Brief+History+of+Earth+Andrew+H.+Knoll&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A Brief History of Earth">A Brief History of Earth</a>
-        </h4>
-        <p class="fr-book-author">By Andrew H. Knoll</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=A+Brief+History+of+Earth+Andrew+H.+Knoll&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open A Brief History of Earth on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10858991-M.jpg" alt="Cover for A Brief History of Earth" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=A+Brief+History+of+Earth+Andrew+H.+Knoll&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A Brief History of Earth">A Brief History of Earth</a>
+</h4>
+<p class="fr-book-author">By Andrew H. Knoll</p>
         
-        <p class="fr-book-desc">First published 2021. Subjects: Origin, Life, Ecology, Geology, Earth sciences.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=A+Brief+History+of+Earth+Andrew+H.+Knoll&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2021. Subjects: Origin, Life, Ecology, Geology, Earth sciences.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=A+Brief+History+of+Earth+Andrew+H.+Knoll&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Story+of+Earth+Robert+M.+Hazen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Story of Earth on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9022715-M.jpg" alt="Cover for The Story of Earth" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Story+of+Earth+Robert+M.+Hazen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Story of Earth">The Story of Earth</a>
-        </h4>
-        <p class="fr-book-author">By Robert M. Hazen</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Story+of+Earth+Robert+M.+Hazen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Story of Earth on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9022715-M.jpg" alt="Cover for The Story of Earth" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Story+of+Earth+Robert+M.+Hazen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Story of Earth">The Story of Earth</a>
+</h4>
+<p class="fr-book-author">By Robert M. Hazen</p>
         
-        <p class="fr-book-desc">First published 2013. Subjects: Earth (planet).</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Story+of+Earth+Robert+M.+Hazen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2013. Subjects: Earth (planet).</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Story+of+Earth+Robert+M.+Hazen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Timefulness+Marcia+Bjornerud&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Timefulness on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/12645271-M.jpg" alt="Cover for Timefulness" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Timefulness+Marcia+Bjornerud&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Timefulness">Timefulness</a>
-        </h4>
-        <p class="fr-book-author">By Marcia Bjornerud</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Timefulness+Marcia+Bjornerud&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Timefulness on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/12645271-M.jpg" alt="Cover for Timefulness" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Timefulness+Marcia+Bjornerud&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Timefulness">Timefulness</a>
+</h4>
+<p class="fr-book-author">By Marcia Bjornerud</p>
         
-        <p class="fr-book-desc">First published 2018. Subjects: Sustainability, Nature, Geological time, Human ecology, Time perception.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Timefulness+Marcia+Bjornerud&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2018. Subjects: Sustainability, Nature, Geological time, Human ecology, Time perception.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Timefulness+Marcia+Bjornerud&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Ends+of+the+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Ends of the World</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=A+Brief+History+of+Earth&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">A Brief History of Earth</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Story+of+Earth&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Story of Earth</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Ends+of+the+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Ends of the World</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=A+Brief+History+of+Earth&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">A Brief History of Earth</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Story+of+Earth&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Story of Earth</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+office+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=geologic-time-why-spatial-metaphors-mislead-about-geological-timelines-myths-and-misconcept-medical-office-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical office sign" data-ebay-reference="geologic-time-why-spatial-metaphors-mislead-about-geological-timelines-myths-and-misconcept-medical-office-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Custom Rotating Nurse Name Sign, Personalized Medical Office Decor"><img src="{{ '/assets/images/marketplace-covers/99fb0e1cb0aa35a0054c.jpg' | relative_url }}" alt="Listing image for Custom Rotating Nurse Name Sign, Personalized Medical Office Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+office+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=geologic-time-why-spatial-metaphors-mislead-about-geological-timelines-myths-and-misconcept-medical-office-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical office sign" data-ebay-reference="geologic-time-why-spatial-metaphors-mislead-about-geological-timelines-myths-and-misconcept-medical-office-sign" target="_blank" rel="sponsored noopener noreferrer">Custom Rotating Nurse Name Sign, Personalized Medical Office Decor</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+office+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=geologic-time-why-spatial-metaphors-mislead-about-geological-timelines-myths-and-misconcept-medical-office-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical office sign" data-ebay-reference="geologic-time-why-spatial-metaphors-mislead-about-geological-timelines-myths-and-misconcept-medical-office-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for medical office sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: medical office sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+office+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=geologic-time-why-spatial-metaphors-mislead-about-geological-timelines-myths-and-misconcept-medical-office-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical office sign" data-ebay-reference="geologic-time-why-spatial-metaphors-mislead-about-geological-timelines-myths-and-misconcept-medical-office-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+office+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=geologic-time-why-spatial-metaphors-mislead-about-geological-timelines-myths-and-misconcept-medical-office-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical office sign" data-ebay-reference="geologic-time-why-spatial-metaphors-mislead-about-geological-timelines-myths-and-misconcept-medical-office-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Custom Rotating Nurse Name Sign, Personalized Medical Office Decor"><img src="{{ '/assets/images/marketplace-covers/99fb0e1cb0aa35a0054c.jpg' | relative_url }}" alt="Listing image for Custom Rotating Nurse Name Sign, Personalized Medical Office Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+office+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=geologic-time-why-spatial-metaphors-mislead-about-geological-timelines-myths-and-misconcept-medical-office-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical office sign" data-ebay-reference="geologic-time-why-spatial-metaphors-mislead-about-geological-timelines-myths-and-misconcept-medical-office-sign" target="_blank" rel="sponsored noopener noreferrer">Custom Rotating Nurse Name Sign, Personalized Medical Office Decor</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+office+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=geologic-time-why-spatial-metaphors-mislead-about-geological-timelines-myths-and-misconcept-medical-office-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical office sign" data-ebay-reference="geologic-time-why-spatial-metaphors-mislead-about-geological-timelines-myths-and-misconcept-medical-office-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for medical office sign">Search<span data-ebay-domain-label>eBay.co.uk</span>: medical office sign</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+office+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=geologic-time-why-spatial-metaphors-mislead-about-geological-timelines-myths-and-misconcept-medical-office-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical office sign" data-ebay-reference="geologic-time-why-spatial-metaphors-mislead-about-geological-timelines-myths-and-misconcept-medical-office-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+office+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=geologic-time-why-spatial-metaphors-mislead-about-geological-timelines-myths-and-misconcept-medical-office-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical office sign" data-ebay-reference="geologic-time-why-spatial-metaphors-mislead-about-geological-timelines-myths-and-misconcept-medical-office-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Cardiologist Medical Sign Plaque 1997 Vintage 3D Heart D&amp;S Decor Large"><img src="{{ '/assets/images/marketplace-covers/6ebaac7ee69f56139a3e.jpg' | relative_url }}" alt="Listing image for Cardiologist Medical Sign Plaque 1997 Vintage 3D Heart D&amp;S Decor Large" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+office+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=geologic-time-why-spatial-metaphors-mislead-about-geological-timelines-myths-and-misconcept-medical-office-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical office sign" data-ebay-reference="geologic-time-why-spatial-metaphors-mislead-about-geological-timelines-myths-and-misconcept-medical-office-sign" target="_blank" rel="sponsored noopener noreferrer">Cardiologist Medical Sign Plaque 1997 Vintage 3D Heart D&amp;S Decor Large</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+office+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=geologic-time-why-spatial-metaphors-mislead-about-geological-timelines-myths-and-misconcept-medical-office-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical office sign" data-ebay-reference="geologic-time-why-spatial-metaphors-mislead-about-geological-timelines-myths-and-misconcept-medical-office-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for medical office sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: medical office sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+office+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=geologic-time-why-spatial-metaphors-mislead-about-geological-timelines-myths-and-misconcept-medical-office-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical office sign" data-ebay-reference="geologic-time-why-spatial-metaphors-mislead-about-geological-timelines-myths-and-misconcept-medical-office-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+office+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=geologic-time-why-spatial-metaphors-mislead-about-geological-timelines-myths-and-misconcept-medical-office-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical office sign" data-ebay-reference="geologic-time-why-spatial-metaphors-mislead-about-geological-timelines-myths-and-misconcept-medical-office-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Cardiologist Medical Sign Plaque 1997 Vintage 3D Heart D&amp;S Decor Large"><img src="{{ '/assets/images/marketplace-covers/6ebaac7ee69f56139a3e.jpg' | relative_url }}" alt="Listing image for Cardiologist Medical Sign Plaque 1997 Vintage 3D Heart D&amp;S Decor Large" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+office+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=geologic-time-why-spatial-metaphors-mislead-about-geological-timelines-myths-and-misconcept-medical-office-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical office sign" data-ebay-reference="geologic-time-why-spatial-metaphors-mislead-about-geological-timelines-myths-and-misconcept-medical-office-sign" target="_blank" rel="sponsored noopener noreferrer">Cardiologist Medical Sign Plaque 1997 Vintage 3D Heart D&amp;S Decor Large</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+office+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=geologic-time-why-spatial-metaphors-mislead-about-geological-timelines-myths-and-misconcept-medical-office-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical office sign" data-ebay-reference="geologic-time-why-spatial-metaphors-mislead-about-geological-timelines-myths-and-misconcept-medical-office-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for medical office sign">Search<span data-ebay-domain-label>eBay.co.uk</span>: medical office sign</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+office+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=geologic-time-why-spatial-metaphors-mislead-about-geological-timelines-myths-and-misconcept-medical-office-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical office sign" data-ebay-reference="geologic-time-why-spatial-metaphors-mislead-about-geological-timelines-myths-and-misconcept-medical-office-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+office+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=geologic-time-why-spatial-metaphors-mislead-about-geological-timelines-myths-and-misconcept-medical-office-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical office sign" data-ebay-reference="geologic-time-why-spatial-metaphors-mislead-about-geological-timelines-myths-and-misconcept-medical-office-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for MEDICAL OFFICE FOR SALE Advertising Vinyl Banner Flag Sign CUSTOM PH#"><img src="{{ '/assets/images/marketplace-covers/4a606397ddd01b2a6098.jpg' | relative_url }}" alt="Listing image for MEDICAL OFFICE FOR SALE Advertising Vinyl Banner Flag Sign CUSTOM PH#" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+office+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=geologic-time-why-spatial-metaphors-mislead-about-geological-timelines-myths-and-misconcept-medical-office-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical office sign" data-ebay-reference="geologic-time-why-spatial-metaphors-mislead-about-geological-timelines-myths-and-misconcept-medical-office-sign" target="_blank" rel="sponsored noopener noreferrer">MEDICAL OFFICE FOR SALE Advertising Vinyl Banner Flag Sign CUSTOM PH#</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+office+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=geologic-time-why-spatial-metaphors-mislead-about-geological-timelines-myths-and-misconcept-medical-office-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical office sign" data-ebay-reference="geologic-time-why-spatial-metaphors-mislead-about-geological-timelines-myths-and-misconcept-medical-office-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for medical office sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: medical office sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+office+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=geologic-time-why-spatial-metaphors-mislead-about-geological-timelines-myths-and-misconcept-medical-office-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical office sign" data-ebay-reference="geologic-time-why-spatial-metaphors-mislead-about-geological-timelines-myths-and-misconcept-medical-office-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+office+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=geologic-time-why-spatial-metaphors-mislead-about-geological-timelines-myths-and-misconcept-medical-office-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical office sign" data-ebay-reference="geologic-time-why-spatial-metaphors-mislead-about-geological-timelines-myths-and-misconcept-medical-office-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for MEDICAL OFFICE FOR SALE Advertising Vinyl Banner Flag Sign CUSTOM PH#"><img src="{{ '/assets/images/marketplace-covers/4a606397ddd01b2a6098.jpg' | relative_url }}" alt="Listing image for MEDICAL OFFICE FOR SALE Advertising Vinyl Banner Flag Sign CUSTOM PH#" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+office+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=geologic-time-why-spatial-metaphors-mislead-about-geological-timelines-myths-and-misconcept-medical-office-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical office sign" data-ebay-reference="geologic-time-why-spatial-metaphors-mislead-about-geological-timelines-myths-and-misconcept-medical-office-sign" target="_blank" rel="sponsored noopener noreferrer">MEDICAL OFFICE FOR SALE Advertising Vinyl Banner Flag Sign CUSTOM PH#</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+office+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=geologic-time-why-spatial-metaphors-mislead-about-geological-timelines-myths-and-misconcept-medical-office-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical office sign" data-ebay-reference="geologic-time-why-spatial-metaphors-mislead-about-geological-timelines-myths-and-misconcept-medical-office-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for medical office sign">Search<span data-ebay-domain-label>eBay.co.uk</span>: medical office sign</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+office+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=geologic-time-why-spatial-metaphors-mislead-about-geological-timelines-myths-and-misconcept-medical-office-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical office sign" data-ebay-reference="geologic-time-why-spatial-metaphors-mislead-about-geological-timelines-myths-and-misconcept-medical-office-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+office+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=geologic-time-why-spatial-metaphors-mislead-about-geological-timelines-myths-and-misconcept-medical-office-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical office sign" data-ebay-reference="geologic-time-why-spatial-metaphors-mislead-about-geological-timelines-myths-and-misconcept-medical-office-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Classroom College School Metal Signs Plaques Door Wall Toilet Staff Office Sign"><img src="{{ '/assets/images/marketplace-covers/bae486fe622c23aaa4c2.jpg' | relative_url }}" alt="Listing image for Classroom College School Metal Signs Plaques Door Wall Toilet Staff Office Sign" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+office+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=geologic-time-why-spatial-metaphors-mislead-about-geological-timelines-myths-and-misconcept-medical-office-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical office sign" data-ebay-reference="geologic-time-why-spatial-metaphors-mislead-about-geological-timelines-myths-and-misconcept-medical-office-sign" target="_blank" rel="sponsored noopener noreferrer">Classroom College School Metal Signs Plaques Door Wall Toilet Staff Office Sign</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+office+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=geologic-time-why-spatial-metaphors-mislead-about-geological-timelines-myths-and-misconcept-medical-office-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical office sign" data-ebay-reference="geologic-time-why-spatial-metaphors-mislead-about-geological-timelines-myths-and-misconcept-medical-office-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for medical office sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: medical office sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+office+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=geologic-time-why-spatial-metaphors-mislead-about-geological-timelines-myths-and-misconcept-medical-office-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical office sign" data-ebay-reference="geologic-time-why-spatial-metaphors-mislead-about-geological-timelines-myths-and-misconcept-medical-office-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+office+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=geologic-time-why-spatial-metaphors-mislead-about-geological-timelines-myths-and-misconcept-medical-office-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical office sign" data-ebay-reference="geologic-time-why-spatial-metaphors-mislead-about-geological-timelines-myths-and-misconcept-medical-office-sign" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+office+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=geologic-time-why-spatial-metaphors-mislead-about-geological-timelines-myths-and-misconcept-medical-office-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical office sign" data-ebay-reference="geologic-time-why-spatial-metaphors-mislead-about-geological-timelines-myths-and-misconcept-medical-office-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Classroom College School Metal Signs Plaques Door Wall Toilet Staff Office Sign"><img src="{{ '/assets/images/marketplace-covers/bae486fe622c23aaa4c2.jpg' | relative_url }}" alt="Listing image for Classroom College School Metal Signs Plaques Door Wall Toilet Staff Office Sign" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+office+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=geologic-time-why-spatial-metaphors-mislead-about-geological-timelines-myths-and-misconcept-medical-office-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical office sign" data-ebay-reference="geologic-time-why-spatial-metaphors-mislead-about-geological-timelines-myths-and-misconcept-medical-office-sign" target="_blank" rel="sponsored noopener noreferrer">Classroom College School Metal Signs Plaques Door Wall Toilet Staff Office Sign</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+office+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=geologic-time-why-spatial-metaphors-mislead-about-geological-timelines-myths-and-misconcept-medical-office-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical office sign" data-ebay-reference="geologic-time-why-spatial-metaphors-mislead-about-geological-timelines-myths-and-misconcept-medical-office-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for medical office sign">Search<span data-ebay-domain-label>eBay.co.uk</span>: medical office sign</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+office+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=geologic-time-why-spatial-metaphors-mislead-about-geological-timelines-myths-and-misconcept-medical-office-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical office sign" data-ebay-reference="geologic-time-why-spatial-metaphors-mislead-about-geological-timelines-myths-and-misconcept-medical-office-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+office+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=geologic-time-why-spatial-metaphors-mislead-about-geological-timelines-myths-and-misconcept-medical-office-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical office sign" data-ebay-reference="geologic-time-why-spatial-metaphors-mislead-about-geological-timelines-myths-and-misconcept-medical-office-sign" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -535,7 +535,7 @@ The myth is not that geological timelines are inaccurate; it is that a spatial t
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -555,7 +555,7 @@ The myth is not that geological timelines are inaccurate; it is that a spatial t
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -587,7 +587,7 @@ The myth is not that geological timelines are inaccurate; it is that a spatial t
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -639,7 +639,7 @@ The myth is not that geological timelines are inaccurate; it is that a spatial t
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -684,7 +684,7 @@ The myth is not that geological timelines are inaccurate; it is that a spatial t
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -725,137 +725,137 @@ The myth is not that geological timelines are inaccurate; it is that a spatial t
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5357664/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC5357664/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>These findings add to our...Read more...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5357664/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC5357664/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>These findings add to our...Read more...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCCollege Student Conceptions about Changes to Earth  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8711836/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8711836/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>by P Jaimes · 2020 · Cited by 14 — This paper focuses on deep time as an important variable in understanding theories of evolution and...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8711836/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8711836/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by P Jaimes · 2020 · Cited by 14 — This paper focuses on deep time as an important variable in understanding theories of evolution and...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: serc.carleton.edu  
-   Link: <a href="https://serc.carleton.edu/files/serc/dodickorion-fin.pdf" target="_blank" rel="noopener noreferrer nofollow">https://serc.carleton.edu/files/serc/dodickorion-fin.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Building an Understanding of Geological Time: A Cognitive...by J Dodick · Cited by 72 — Our event-based study focuses on the problem...</p></details>
+   Link:<a href="https://serc.carleton.edu/files/serc/dodickorion-fin.pdf" target="_blank" rel="noopener noreferrer nofollow">https://serc.carleton.edu/files/serc/dodickorion-fin.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Building an Understanding of Geological Time: A Cognitive...by J Dodick · Cited by 72 — Our event-based study focuses on the problem...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: geology.utah.gov  
    Title: Geological Survey Can U.S  
-   Link: <a href="https://geology.utah.gov/map-pub/survey-notes/glad-you-asked/glad-you-asked-can-u-s-interstate-highway-15-be-used-as-a-metaphor-for-geologic-time/" target="_blank" rel="noopener noreferrer nofollow">https://geology.utah.gov/map-pub/survey-notes/glad-you-asked/glad-you-asked-can-u-s-interstate-highway-15-be-used-as-a-metaphor-for-geologic-time/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Interstate Highway 15 Be Used as a Metaphor for...3 Sept 2024 — One approach to getting a better grasp of the scale of geologic time is...</p></details>
+   Link:<a href="https://geology.utah.gov/map-pub/survey-notes/glad-you-asked/glad-you-asked-can-u-s-interstate-highway-15-be-used-as-a-metaphor-for-geologic-time/" target="_blank" rel="noopener noreferrer nofollow">https://geology.utah.gov/map-pub/survey-notes/glad-you-asked/glad-you-asked-can-u-s-interstate-highway-15-be-used-as-a-metaphor-for-geologic-time/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Interstate Highway 15 Be Used as a Metaphor for...3 Sept 2024 — One approach to getting a better grasp of the scale of geologic time is...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: semken.asu.edu  
-   Link: <a href="https://semken.asu.edu/pubs/semken09_tatex.pdf" target="_blank" rel="noopener noreferrer nofollow">https://semken.asu.edu/pubs/semken09_tatex.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>used in formal and informal learning settings to teach about geologic time; nonetheless, their.Read more...</p></details>
+   Link:<a href="https://semken.asu.edu/pubs/semken09_tatex.pdf" target="_blank" rel="noopener noreferrer nofollow">https://semken.asu.edu/pubs/semken09_tatex.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>used in formal and informal learning settings to teach about geologic time; nonetheless, their.Read more...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: files.eric.ed.gov  
    Title: ERICGeological time, biological events and the learning transfer  
-   Link: <a href="https://files.eric.ed.gov/fulltext/EJ1043880.pdf" target="_blank" rel="noopener noreferrer nofollow">https://files.eric.ed.gov/fulltext/EJ1043880.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>October 24, 2014 — by CC Johnson · 2014 · Cited by 19 — This project investigated the potential success of two teaching interventions tha...</p></details>
+   Link:<a href="https://files.eric.ed.gov/fulltext/EJ1043880.pdf" target="_blank" rel="noopener noreferrer nofollow">https://files.eric.ed.gov/fulltext/EJ1043880.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>October 24, 2014 — by CC Johnson · 2014 · Cited by 19 — This project investigated the potential success of two teaching interventions tha...</p></details>
    Published: October 24, 2014  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: files.eric.ed.gov  
-   Link: <a href="https://files.eric.ed.gov/fulltext/EJ1164772.pdf" target="_blank" rel="noopener noreferrer nofollow">https://files.eric.ed.gov/fulltext/EJ1164772.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ERICStudents&#x27; Geocognition of Deep Time, Conceptualized in...September 17, 2009 — by RM Clary · 2009 · Cited by 29 — Geologic time facil...</p></details>
+   Link:<a href="https://files.eric.ed.gov/fulltext/EJ1164772.pdf" target="_blank" rel="noopener noreferrer nofollow">https://files.eric.ed.gov/fulltext/EJ1164772.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ERICStudents&#x27; Geocognition of Deep Time, Conceptualized in...September 17, 2009 — by RM Clary · 2009 · Cited by 29 — Geologic time facil...</p></details>
    Published: September 17, 2009  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: dr.lib.iastate.edu  
-   Link: <a href="https://dr.lib.iastate.edu/bitstreams/fc73c9be-49cc-493b-87dd-fb6aae36fbb5/download" target="_blank" rel="noopener noreferrer nofollow">https://dr.lib.iastate.edu/bitstreams/fc73c9be-49cc-493b-87dd-fb6aae36fbb5/download</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Less appreciated, however, is the...Read more...</p></details>
+   Link:<a href="https://dr.lib.iastate.edu/bitstreams/fc73c9be-49cc-493b-87dd-fb6aae36fbb5/download" target="_blank" rel="noopener noreferrer nofollow">https://dr.lib.iastate.edu/bitstreams/fc73c9be-49cc-493b-87dd-fb6aae36fbb5/download</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Less appreciated, however, is the...Read more...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2404.01488" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2404.01488</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>DeLVE into Earth&#x27;s Past: A Visualization-Based Exhibit Deployed Across Multiple Museum ContextsApril 1, 2024...</p></details>
+   Link:<a href="https://arxiv.org/abs/2404.01488" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2404.01488</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>DeLVE into Earth&#x27;s Past: A Visualization-Based Exhibit Deployed Across Multiple Museum ContextsApril 1, 2024...</p></details>
    Published: April 1, 2024  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: jamesriverpark.org  
-   Link: <a href="https://jamesriverpark.org/wp-content/uploads/2022/05/Geologic-Timeline-Fall-Zone.pdf" target="_blank" rel="noopener noreferrer nofollow">https://jamesriverpark.org/wp-content/uploads/2022/05/Geologic-Timeline-Fall-Zone.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Friends of James River ParkGeologic Time Scale AnalogyPURPOSE: To show students the order of events and time periods in geologic time and...</p></details>
+   Link:<a href="https://jamesriverpark.org/wp-content/uploads/2022/05/Geologic-Timeline-Fall-Zone.pdf" target="_blank" rel="noopener noreferrer nofollow">https://jamesriverpark.org/wp-content/uploads/2022/05/Geologic-Timeline-Fall-Zone.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Friends of James River ParkGeologic Time Scale AnalogyPURPOSE: To show students the order of events and time periods in geologic time and...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: nps.gov  
    Title: time scale  
-   Link: <a href="https://www.nps.gov/subjects/geology/time-scale.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nps.gov/subjects/geology/time-scale.htm</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Geologic Time Scale5 Oct 2021 — The geologic time scale grew out of necessity: organizing the immensity of geologic time and correlating...</p></details>
+   Link:<a href="https://www.nps.gov/subjects/geology/time-scale.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nps.gov/subjects/geology/time-scale.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Geologic Time Scale5 Oct 2021 — The geologic time scale grew out of necessity: organizing the immensity of geologic time and correlating...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: germanic.osu.edu  
    Title: deep time  
-   Link: <a href="https://germanic.osu.edu/deep-time" target="_blank" rel="noopener noreferrer nofollow">https://germanic.osu.edu/deep-time</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Time | Department of Germanic Languages and...In a broad sense, the term deep time refers to these cosmological, geological and evolutio...</p></details>
+   Link:<a href="https://germanic.osu.edu/deep-time" target="_blank" rel="noopener noreferrer nofollow">https://germanic.osu.edu/deep-time</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Time | Department of Germanic Languages and...In a broad sense, the term deep time refers to these cosmological, geological and evolutio...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: Wikipedia  
    Title: Deep time  
-   Link: <a href="https://en.wikipedia.org/wiki/Deep_time" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Deep_time</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Deep timeDeep time is the concept of geological time that spans billions of years, far beyond the scale of human experience.Read more...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Deep_time" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Deep_time</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Deep timeDeep time is the concept of geological time that spans billions of years, far beyond the scale of human experience.Read more...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: igws.iu.edu  
-   Link: <a href="https://igws.iu.edu/outreach/lessonplans/demonstrating" target="_blank" rel="noopener noreferrer nofollow">https://igws.iu.edu/outreach/lessonplans/demonstrating</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Geologic Time - IGWS - Indiana UniversityGeologic time—a chronological list of events in Earth&#x27;s history using subdivided units of time...</p></details>
+   Link:<a href="https://igws.iu.edu/outreach/lessonplans/demonstrating" target="_blank" rel="noopener noreferrer nofollow">https://igws.iu.edu/outreach/lessonplans/demonstrating</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Geologic Time - IGWS - Indiana UniversityGeologic time—a chronological list of events in Earth&#x27;s history using subdivided units of time...</p></details>
 
 ### Additional References
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: nps.gov  
-   Link: <a href="https://www.nps.gov/subjects/geology/geotime.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nps.gov/subjects/geology/geotime.htm</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Geologic TimeGeologists start counting “geologic time” from Earth&#x27;s surface downward; that is, starting with younger surficial deposits a...</p></details>
+   Link:<a href="https://www.nps.gov/subjects/geology/geotime.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nps.gov/subjects/geology/geotime.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Geologic TimeGeologists start counting “geologic time” from Earth&#x27;s surface downward; that is, starting with younger surficial deposits a...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: earthsciweek.org  
-   Link: <a href="https://www.earthsciweek.org/resources/classroom-activities/geologic-time-scale-analogy/" target="_blank" rel="noopener noreferrer nofollow">https://www.earthsciweek.org/resources/classroom-activities/geologic-time-scale-analogy/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Geologic Time Scale AnalogyTo better understand the concept of geologic time, have students produce a time-scale metaphor to share with t...</p></details>
+   Link:<a href="https://www.earthsciweek.org/resources/classroom-activities/geologic-time-scale-analogy/" target="_blank" rel="noopener noreferrer nofollow">https://www.earthsciweek.org/resources/classroom-activities/geologic-time-scale-analogy/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Geologic Time Scale AnalogyTo better understand the concept of geologic time, have students produce a time-scale metaphor to share with t...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/292936523_What_is_deep_time_and_why_should_anyone_care" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/292936523_What_is_deep_time_and_why_should_anyone_care</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>What is Deep Time and Why Should Anyone Care?The concept of deep time resulted directly from observations of nature and forms a cornersto...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/292936523_What_is_deep_time_and_why_should_anyone_care" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/292936523_What_is_deep_time_and_why_should_anyone_care</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>What is Deep Time and Why Should Anyone Care?The concept of deep time resulted directly from observations of nature and forms a cornersto...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: extinctblog.org  
    Title: stop the clocks and the other geologic timescale metaphors too  
-   Link: <a href="https://www.extinctblog.org/extinct/2017/10/23/stop-the-clocks-and-the-other-geologic-timescale-metaphors-too" target="_blank" rel="noopener noreferrer nofollow">https://www.extinctblog.org/extinct/2017/10/23/stop-the-clocks-and-the-other-geologic-timescale-metaphors-too</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ExtinctStop the Clocks (and the Other Geologic Timescale Metaphors...23 Oct 2017 — Do we need to change the metaphors we use to understa...</p></details>
+   Link:<a href="https://www.extinctblog.org/extinct/2017/10/23/stop-the-clocks-and-the-other-geologic-timescale-metaphors-too" target="_blank" rel="noopener noreferrer nofollow">https://www.extinctblog.org/extinct/2017/10/23/stop-the-clocks-and-the-other-geologic-timescale-metaphors-too</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ExtinctStop the Clocks (and the Other Geologic Timescale Metaphors...23 Oct 2017 — Do we need to change the metaphors we use to understa...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/figure/Examples-of-analogies-for-the-geologic-time-scale-and-potential-barriers-to-alignment_fig2_303377285" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/figure/Examples-of-analogies-for-the-geologic-time-scale-and-potential-barriers-to-alignment_fig2_303377285</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Lightest gray = Phanerozoic, light gray = Proterozoic, dark gray =...Read more...</p></details>
+   Link:<a href="https://www.researchgate.net/figure/Examples-of-analogies-for-the-geologic-time-scale-and-potential-barriers-to-alignment_fig2_303377285" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/figure/Examples-of-analogies-for-the-geologic-time-scale-and-potential-barriers-to-alignment_fig2_303377285</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Lightest gray = Phanerozoic, light gray = Proterozoic, dark gray =...Read more...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: pbslearningmedia.org  
    Title: PBS Learning Media Good Thinking!  
-   Link: <a href="https://www.pbslearningmedia.org/resource/ssecgoodthinking13/good-thinking-time-its-like-so-deep/" target="_blank" rel="noopener noreferrer nofollow">https://www.pbslearningmedia.org/resource/ssecgoodthinking13/good-thinking-time-its-like-so-deep/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Time: It&#x27;s Like, So Deep | Grades K-2, 3-5, 6...Time: It&#x27;s Like, So Deep explores common difficulties with understanding the immensity...</p></details>
+   Link:<a href="https://www.pbslearningmedia.org/resource/ssecgoodthinking13/good-thinking-time-its-like-so-deep/" target="_blank" rel="noopener noreferrer nofollow">https://www.pbslearningmedia.org/resource/ssecgoodthinking13/good-thinking-time-its-like-so-deep/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Time: It&#x27;s Like, So Deep | Grades K-2, 3-5, 6...Time: It&#x27;s Like, So Deep explores common difficulties with understanding the immensity...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/geology/comments/1d2yc5r/how_do_you_conceptualize_geologic_time/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/geology/comments/1d2yc5r/how_do_you_conceptualize_geologic_time/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>and lepidodendron fossils in the roof. I’ve always...</p></details>
+   Link:<a href="https://www.reddit.com/r/geology/comments/1d2yc5r/how_do_you_conceptualize_geologic_time/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/geology/comments/1d2yc5r/how_do_you_conceptualize_geologic_time/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>and lepidodendron fossils in the roof. I’ve always...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: tandfonline.com  
-   Link: <a href="https://www.tandfonline.com/doi/full/10.1080/10899995.2026.2642793" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/full/10.1080/10899995.2026.2642793</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Body Timeline Analogy – a new tool for teaching deep...by B Norsted · 2026 — Here we introduce a new method, the Body Timeline Analo...</p></details>
+   Link:<a href="https://www.tandfonline.com/doi/full/10.1080/10899995.2026.2642793" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/full/10.1080/10899995.2026.2642793</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Body Timeline Analogy – a new tool for teaching deep...by B Norsted · 2026 — Here we introduce a new method, the Body Timeline Analo...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: Wikipedia  
    Title: Geologic time scale  
-   Link: <a href="https://en.wikipedia.org/wiki/Geologic_time_scale" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Geologic_time_scale</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Geologic time scaleThe geologic time scale or geological time scale describes how geologic time is divided into standardised intervals...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Geologic_time_scale" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Geologic_time_scale</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Geologic time scaleThe geologic time scale or geological time scale describes how geologic time is divided into standardised intervals...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: youtube.com  
    Title: Earth's Entire History (Visualized On A Football Field)  
-   Link: <a href="http://www.youtube.com/watch?v=M8V_glRW1hA" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=M8V_glRW1hA</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>What Is The Geologic Time Scale? 🌎⏳⚖ The Geologic Time Scale with Events...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=M8V_glRW1hA" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=M8V_glRW1hA</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>What Is The Geologic Time Scale? 🌎⏳⚖ The Geologic Time Scale with Events...</p></details>

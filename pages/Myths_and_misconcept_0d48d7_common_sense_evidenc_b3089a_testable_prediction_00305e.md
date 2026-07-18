@@ -271,25 +271,25 @@ image: /assets/images/Myths_and_misconcept_0d48d7_common_sense_evidenc_b3089a_te
 A plausible claim becomes stronger when it stops being merely a satisfying story and starts making risky predictions. The key question is not whether an idea sounds reasonable, but what we would expect to observe if it were true — and what evidence would count against it. That shift matters because many myths survive on flexibility. They can explain almost any outcome after the fact, which makes them feel convincing while protecting them from serious testing.
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_common_sense_evidenc_b3089a_testable_prediction_00305e-Illustration-1-dark.svg" | relative_url }}" alt="Prediction test illustration 1" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_common_sense_evidenc_b3089a_testable_prediction_00305e-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_common_sense_evidenc_b3089a_testable_prediction_00305e-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-In debates about misconceptions, the strongest claims are usually the ones that take the biggest risk. They specify what should happen, what should not happen, and what result would force supporters to reconsider. A claim that cannot be challenged by evidence may remain attractive, but it cannot be meaningfully tested. Philosophers of science such as Karl Popper argued that useful theories expose themselves to possible failure by making predictions that could be contradicted by observation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.simplypsychology.org/karl-popper.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: simplypsychology.org">[Simply Psychology]</a><span class="citation-popover" role="note"><span class="citation-popover-source">simplypsychology.org</span><span class="citation-popover-title">karl popper</span><span class="citation-popover-snippet">Simply PsychologyKarl Popper: Falsification Theory31 Jul 2023 — Karl Popper&#x27;s theory of falsification contends that scientific inquiry sh...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.britannica.com/topic/criterion-of-falsifiability" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-title">criterion of falsifiability</span><span class="citation-popover-snippet">Encyclopedia BritannicaCriterion of falsifiability &#124; Falsificationism, Popper, Hypotheses19 Mar 2026 — Scientific theories are instead in...</span></span></span>
+In debates about misconceptions, the strongest claims are usually the ones that take the biggest risk. They specify what should happen, what should not happen, and what result would force supporters to reconsider. A claim that cannot be challenged by evidence may remain attractive, but it cannot be meaningfully tested. Philosophers of science such as Karl Popper argued that useful theories expose themselves to possible failure by making predictions that could be contradicted by observation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.simplypsychology.org/karl-popper.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: simplypsychology.org">[Simply Psychology]</a><span class="citation-popover" role="note"><span class="citation-popover-source">simplypsychology.org</span><span class="citation-popover-title">karl popper</span><span class="citation-popover-snippet">Simply PsychologyKarl Popper: Falsification Theory31 Jul 2023 — Karl Popper&#x27;s theory of falsification contends that scientific inquiry sh...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.britannica.com/topic/criterion-of-falsifiability" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-title">criterion of falsifiability</span><span class="citation-popover-snippet">Encyclopedia BritannicaCriterion of falsifiability &#124; Falsificationism, Popper, Hypotheses19 Mar 2026 — Scientific theories are instead in...</span></span></span>
 
 ## Define the claim before judging it
 
 Many myths survive because the original claim remains vague. Before asking whether a belief is true, it helps to state exactly what is being asserted.
 
-Consider the common learning-styles idea. People often begin with a broad statement such as “everyone learns differently”. That observation is largely uncontroversial. People do have different experiences, interests and study preferences. The problem is that this statement is too broad to test. <span class="citation-chip-wrap"><a class="citation-chip" href="https://evidencebased.education/resource/the-lingering-learning-styles-myth/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: evidencebased.education">[Evidence Based Education]</a><span class="citation-popover" role="note"><span class="citation-popover-source">evidencebased.education</span><span class="citation-popover-title">the lingering learning styles myth</span><span class="citation-popover-snippet">The truth with this myth is that individuals will have different study techniques...Read more...</span></span></span>
+Consider the common learning-styles idea. People often begin with a broad statement such as “everyone learns differently”. That observation is largely uncontroversial. People do have different experiences, interests and study preferences. The problem is that this statement is too broad to test.<span class="citation-chip-wrap"><a class="citation-chip" href="https://evidencebased.education/resource/the-lingering-learning-styles-myth/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: evidencebased.education">[Evidence Based Education]</a><span class="citation-popover" role="note"><span class="citation-popover-source">evidencebased.education</span><span class="citation-popover-title">the lingering learning styles myth</span><span class="citation-popover-snippet">The truth with this myth is that individuals will have different study techniques...Read more...</span></span></span>
 
 To make the claim testable, it must become more specific:
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
-* Vague claim: “People have different learning styles.” <span class="citation-chip-wrap"><a class="citation-chip" href="https://evidencebased.education/resource/the-lingering-learning-styles-myth/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: evidencebased.education">[evidencebased.education]</a><span class="citation-popover" role="note"><span class="citation-popover-source">evidencebased.education</span><span class="citation-popover-title">the lingering learning styles myth</span><span class="citation-popover-snippet">The truth with this myth is that individuals will have different study techniques...Read more...</span></span></span>
+* Vague claim: “People have different learning styles.”<span class="citation-chip-wrap"><a class="citation-chip" href="https://evidencebased.education/resource/the-lingering-learning-styles-myth/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: evidencebased.education">[evidencebased.education]</a><span class="citation-popover" role="note"><span class="citation-popover-source">evidencebased.education</span><span class="citation-popover-title">the lingering learning styles myth</span><span class="citation-popover-snippet">The truth with this myth is that individuals will have different study techniques...Read more...</span></span></span>
 * Testable claim: “Students learn more effectively when teaching methods are matched to their preferred learning style.”
 * Possible disconfirming result: Students taught in their preferred style do not perform better than comparable students taught in other ways.
 
 </div>
 
-Notice what changed. The second version creates observable consequences. It predicts a measurable difference in outcomes. Researchers can compare groups, collect results and see whether the expected pattern appears. Reviews of learning-styles research have repeatedly found little support for the prediction that matching instruction to a preferred style improves learning outcomes. <span class="citation-chip-wrap"><a class="citation-chip" href="https://carlhendrick.substack.com/p/the-learning-styles-illusion-[debunking" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: carlhendrick.substack.com">[The Learning Dispatch]</a><span class="citation-popover" role="note"><span class="citation-popover-source">carlhendrick.substack.com</span><span class="citation-popover-title">The Learning Dispatch Why The Learning Styles Myth Persists And How It Damages</span><span class="citation-popover-snippet">The Learning DispatchWhy The Learning Styles Myth Persists And How It Damages...April 4, 2025 — The central myth of learning styles is s...</span><span class="citation-popover-meta">Published: April 4, 2025</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4678182/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCThe Learning Styles Myth is Thriving in Higher Education</span><span class="citation-popover-snippet">Learning Styles Myth is Thriving in Higher Education - PMCby PM Newton · 2015 · Cited by 476 — The existence of &#x27;Learning Styles&#x27; is a co...</span></span></span>
+Notice what changed. The second version creates observable consequences. It predicts a measurable difference in outcomes. Researchers can compare groups, collect results and see whether the expected pattern appears. Reviews of learning-styles research have repeatedly found little support for the prediction that matching instruction to a preferred style improves learning outcomes.<span class="citation-chip-wrap"><a class="citation-chip" href="https://carlhendrick.substack.com/p/the-learning-styles-illusion-[debunking" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: carlhendrick.substack.com">[The Learning Dispatch]</a><span class="citation-popover" role="note"><span class="citation-popover-source">carlhendrick.substack.com</span><span class="citation-popover-title">The Learning Dispatch Why The Learning Styles Myth Persists And How It Damages</span><span class="citation-popover-snippet">The Learning DispatchWhy The Learning Styles Myth Persists And How It Damages...April 4, 2025 — The central myth of learning styles is s...</span><span class="citation-popover-meta">Published: April 4, 2025</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4678182/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCThe Learning Styles Myth is Thriving in Higher Education</span><span class="citation-popover-snippet">Learning Styles Myth is Thriving in Higher Education - PMCby PM Newton · 2015 · Cited by 476 — The existence of &#x27;Learning Styles&#x27; is a co...</span></span></span>
 
 A useful rule is that a claim should be precise enough that two people could disagree about the evidence without first arguing over what the claim means.
 
@@ -316,7 +316,7 @@ Common-sense claimPrediction if trueEvidence against itFull moons increase unusu
 
 The important step is the move from explanation to expectation. A story explains what already happened. A prediction specifies what should happen next.
 
-Popper's falsification principle emphasised this distinction. A claim becomes more informative when it rules out possibilities. If a theory can accommodate every possible outcome, it predicts nothing. If it forbids certain outcomes and those outcomes occur anyway, the theory faces a genuine challenge. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.simplypsychology.org/karl-popper.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: simplypsychology.org">[Simply Psychology]</a><span class="citation-popover" role="note"><span class="citation-popover-source">simplypsychology.org</span><span class="citation-popover-title">karl popper</span><span class="citation-popover-snippet">Simply PsychologyKarl Popper: Falsification Theory31 Jul 2023 — Karl Popper&#x27;s theory of falsification contends that scientific inquiry sh...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Falsifiability" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">FalsifiabilityFalsifiability is a standard of evaluation of scientific statements, including theories and hypotheses. A statement is f...</span></span></span>
+Popper's falsification principle emphasised this distinction. A claim becomes more informative when it rules out possibilities. If a theory can accommodate every possible outcome, it predicts nothing. If it forbids certain outcomes and those outcomes occur anyway, the theory faces a genuine challenge.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.simplypsychology.org/karl-popper.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: simplypsychology.org">[Simply Psychology]</a><span class="citation-popover" role="note"><span class="citation-popover-source">simplypsychology.org</span><span class="citation-popover-title">karl popper</span><span class="citation-popover-snippet">Simply PsychologyKarl Popper: Falsification Theory31 Jul 2023 — Karl Popper&#x27;s theory of falsification contends that scientific inquiry sh...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Falsifiability" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">FalsifiabilityFalsifiability is a standard of evaluation of scientific statements, including theories and hypotheses. A statement is f...</span></span></span>
 
 ## What would count as failure?
 
@@ -338,7 +338,7 @@ Before looking at evidence, ask:
 
 This is one reason scientific testing often requires pre-specified hypotheses. Researchers try to define predictions before examining results. Otherwise it becomes easy to invent explanations after the outcome is already known.
 
-The more clearly a claim defines its own failure conditions, the easier it becomes to distinguish evidence from rationalisation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.simplypsychology.org/karl-popper.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: simplypsychology.org">[Simply Psychology]</a><span class="citation-popover" role="note"><span class="citation-popover-source">simplypsychology.org</span><span class="citation-popover-title">karl popper</span><span class="citation-popover-snippet">Simply PsychologyKarl Popper: Falsification Theory31 Jul 2023 — Karl Popper&#x27;s theory of falsification contends that scientific inquiry sh...</span></span></span>
+The more clearly a claim defines its own failure conditions, the easier it becomes to distinguish evidence from rationalisation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.simplypsychology.org/karl-popper.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: simplypsychology.org">[Simply Psychology]</a><span class="citation-popover" role="note"><span class="citation-popover-source">simplypsychology.org</span><span class="citation-popover-title">karl popper</span><span class="citation-popover-snippet">Simply PsychologyKarl Popper: Falsification Theory31 Jul 2023 — Karl Popper&#x27;s theory of falsification contends that scientific inquiry sh...</span></span></span>
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_common_sense_evidenc_b3089a_testable_prediction_00305e-Illustration-2-dark.svg" | relative_url }}" alt="Prediction test illustration 2" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_common_sense_evidenc_b3089a_testable_prediction_00305e-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_common_sense_evidenc_b3089a_testable_prediction_00305e-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Look for comparisons that anecdotes leave out
@@ -365,7 +365,7 @@ This is why controlled studies often produce results that feel counterintuitive.
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_common_sense_evidenc_b3089a_testable_prediction_00305e-Illustration-3-dark.svg" | relative_url }}" alt="Prediction test illustration 3" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_common_sense_evidenc_b3089a_testable_prediction_00305e-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_common_sense_evidenc_b3089a_testable_prediction_00305e-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why confirmation feels easier than testing
 
-People naturally search for examples that fit their expectations. Psychologists refer to this tendency as confirmation bias: the habit of noticing, remembering and favouring information that supports existing beliefs. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pages.ucsd.edu/~mckenzie/nickersonConfirmationBias.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pages.ucsd.edu">[UC San Diego Pages]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pages.ucsd.edu</span><span class="citation-popover-title">UC San Diego Pages Confirmation Bias: A Ubiquitous Phenomenon in Many</span><span class="citation-popover-snippet">UC San Diego PagesConfirmation Bias: A Ubiquitous Phenomenon in Many...October 6, 2004 — by RS Nickerson · 1998 · Cited by 12332 — Confi...</span><span class="citation-popover-meta">Published: October 6, 2004</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.britannica.com/topic/criterion-of-falsifiability" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-title">criterion of falsifiability</span><span class="citation-popover-snippet">Encyclopedia BritannicaCriterion of falsifiability &#124; Falsificationism, Popper, Hypotheses19 Mar 2026 — Scientific theories are instead in...</span></span></span>
+People naturally search for examples that fit their expectations. Psychologists refer to this tendency as confirmation bias: the habit of noticing, remembering and favouring information that supports existing beliefs.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pages.ucsd.edu/~mckenzie/nickersonConfirmationBias.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pages.ucsd.edu">[UC San Diego Pages]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pages.ucsd.edu</span><span class="citation-popover-title">UC San Diego Pages Confirmation Bias: A Ubiquitous Phenomenon in Many</span><span class="citation-popover-snippet">UC San Diego PagesConfirmation Bias: A Ubiquitous Phenomenon in Many...October 6, 2004 — by RS Nickerson · 1998 · Cited by 12332 — Confi...</span><span class="citation-popover-meta">Published: October 6, 2004</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.britannica.com/topic/criterion-of-falsifiability" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-title">criterion of falsifiability</span><span class="citation-popover-snippet">Encyclopedia BritannicaCriterion of falsifiability &#124; Falsificationism, Popper, Hypotheses19 Mar 2026 — Scientific theories are instead in...</span></span></span>
 
 That tendency creates a trap when evaluating plausible claims. If someone believes a myth, examples supporting it become easy to find.
 
@@ -403,194 +403,194 @@ That second form is harder to create, but it is also more informative. It create
 Testing myths therefore begins with a simple transformation. Instead of asking whether an explanation sounds sensible, ask what the world should look like if the explanation is true. Once a claim commits itself to observable consequences, it stops being merely plausible and becomes something evidence can genuinely challenge.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What would we see if it were true?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What would we see if it were true?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Explains skepticism, evidence, and testable claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains skepticism, evidence, and testable claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Calling Bullshit on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Plu9DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Calling Bullshit" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Calling Bullshit">Calling Bullshit</a>
-        </h4>
-        <p class="fr-book-author">By Carl T. Bergstrom, Jevin D. West</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Calling Bullshit on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Plu9DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Calling Bullshit" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Calling Bullshit">Calling Bullshit</a>
+</h4>
+<p class="fr-book-author">By Carl T. Bergstrom, Jevin D. West</p>
         
-        <p class="fr-book-desc">Shows how to evaluate claims through evidence and prediction.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows how to evaluate claims through evidence and prediction.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Bad+Science+by+Ben+Goldacre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Bad Science on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=wICuv0ePMYoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Bad Science" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Bad+Science+by+Ben+Goldacre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Bad Science">Bad Science</a>
-        </h4>
-        <p class="fr-book-author">By Ben Goldacre</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Bad+Science+by+Ben+Goldacre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Bad Science on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=wICuv0ePMYoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Bad Science" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Bad+Science+by+Ben+Goldacre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Bad Science">Bad Science</a>
+</h4>
+<p class="fr-book-author">By Ben Goldacre</p>
         
-        <p class="fr-book-desc">Demonstrates testing claims against evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Bad+Science+by+Ben+Goldacre&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Demonstrates testing claims against evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Bad+Science+by+Ben+Goldacre&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YGPzXWanppcC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
-        </h4>
-        <p class="fr-book-author">By Daniel Kahneman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YGPzXWanppcC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
+</h4>
+<p class="fr-book-author">By Daniel Kahneman</p>
         
-        <p class="fr-book-desc">Explains why intuitive judgments can mislead reasoning.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains why intuitive judgments can mislead reasoning.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Calling+Bullshit&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Calling Bullshit</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Bad+Science&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Bad Science</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Calling+Bullshit&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Calling Bullshit</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Bad+Science&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Bad Science</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=prediction-test-what-would-we-see-if-it-were-true-myths-and-misconcept-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="prediction-test-what-would-we-see-if-it-were-true-myths-and-misconcept-critical-thinking-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking 2020 3 Movie Poster Art Print Fan PopCulture Nostalgic PopCult"><img src="{{ '/assets/images/marketplace-covers/0734f05b6a1eeec32948.jpg' | relative_url }}" alt="Listing image for Critical Thinking 2020 3 Movie Poster Art Print Fan PopCulture Nostalgic PopCult" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=prediction-test-what-would-we-see-if-it-were-true-myths-and-misconcept-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="prediction-test-what-would-we-see-if-it-were-true-myths-and-misconcept-critical-thinking-poster" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking 2020 3 Movie Poster Art Print Fan PopCulture Nostalgic PopCult</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=prediction-test-what-would-we-see-if-it-were-true-myths-and-misconcept-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="prediction-test-what-would-we-see-if-it-were-true-myths-and-misconcept-critical-thinking-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=prediction-test-what-would-we-see-if-it-were-true-myths-and-misconcept-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="prediction-test-what-would-we-see-if-it-were-true-myths-and-misconcept-critical-thinking-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=prediction-test-what-would-we-see-if-it-were-true-myths-and-misconcept-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="prediction-test-what-would-we-see-if-it-were-true-myths-and-misconcept-critical-thinking-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking 2020 3 Movie Poster Art Print Fan PopCulture Nostalgic PopCult"><img src="{{ '/assets/images/marketplace-covers/0734f05b6a1eeec32948.jpg' | relative_url }}" alt="Listing image for Critical Thinking 2020 3 Movie Poster Art Print Fan PopCulture Nostalgic PopCult" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=prediction-test-what-would-we-see-if-it-were-true-myths-and-misconcept-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="prediction-test-what-would-we-see-if-it-were-true-myths-and-misconcept-critical-thinking-poster" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking 2020 3 Movie Poster Art Print Fan PopCulture Nostalgic PopCult</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=prediction-test-what-would-we-see-if-it-were-true-myths-and-misconcept-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="prediction-test-what-would-we-see-if-it-were-true-myths-and-misconcept-critical-thinking-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=prediction-test-what-would-we-see-if-it-were-true-myths-and-misconcept-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="prediction-test-what-would-we-see-if-it-were-true-myths-and-misconcept-critical-thinking-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=prediction-test-what-would-we-see-if-it-were-true-myths-and-misconcept-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="prediction-test-what-would-we-see-if-it-were-true-myths-and-misconcept-critical-thinking-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Manic Street Preachers Signed Photo Framed &amp; COA Auto Critical Thinking Poster"><img src="{{ '/assets/images/marketplace-covers/f53b5ef9808c94d6a4f1.jpg' | relative_url }}" alt="Listing image for Manic Street Preachers Signed Photo Framed &amp; COA Auto Critical Thinking Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=prediction-test-what-would-we-see-if-it-were-true-myths-and-misconcept-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="prediction-test-what-would-we-see-if-it-were-true-myths-and-misconcept-critical-thinking-poster" target="_blank" rel="sponsored noopener noreferrer">Manic Street Preachers Signed Photo Framed &amp; COA Auto Critical Thinking Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=prediction-test-what-would-we-see-if-it-were-true-myths-and-misconcept-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="prediction-test-what-would-we-see-if-it-were-true-myths-and-misconcept-critical-thinking-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=prediction-test-what-would-we-see-if-it-were-true-myths-and-misconcept-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="prediction-test-what-would-we-see-if-it-were-true-myths-and-misconcept-critical-thinking-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=prediction-test-what-would-we-see-if-it-were-true-myths-and-misconcept-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="prediction-test-what-would-we-see-if-it-were-true-myths-and-misconcept-critical-thinking-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Manic Street Preachers Signed Photo Framed &amp; COA Auto Critical Thinking Poster"><img src="{{ '/assets/images/marketplace-covers/f53b5ef9808c94d6a4f1.jpg' | relative_url }}" alt="Listing image for Manic Street Preachers Signed Photo Framed &amp; COA Auto Critical Thinking Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=prediction-test-what-would-we-see-if-it-were-true-myths-and-misconcept-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="prediction-test-what-would-we-see-if-it-were-true-myths-and-misconcept-critical-thinking-poster" target="_blank" rel="sponsored noopener noreferrer">Manic Street Preachers Signed Photo Framed &amp; COA Auto Critical Thinking Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=prediction-test-what-would-we-see-if-it-were-true-myths-and-misconcept-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="prediction-test-what-would-we-see-if-it-were-true-myths-and-misconcept-critical-thinking-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=prediction-test-what-would-we-see-if-it-were-true-myths-and-misconcept-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="prediction-test-what-would-we-see-if-it-were-true-myths-and-misconcept-critical-thinking-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=prediction-test-what-would-we-see-if-it-were-true-myths-and-misconcept-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="prediction-test-what-would-we-see-if-it-were-true-myths-and-misconcept-critical-thinking-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking Framed Art Print Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/e43d6233dedc62687c14.jpg' | relative_url }}" alt="Listing image for Critical Thinking Framed Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=prediction-test-what-would-we-see-if-it-were-true-myths-and-misconcept-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="prediction-test-what-would-we-see-if-it-were-true-myths-and-misconcept-critical-thinking-poster" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking Framed Art Print Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=prediction-test-what-would-we-see-if-it-were-true-myths-and-misconcept-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="prediction-test-what-would-we-see-if-it-were-true-myths-and-misconcept-critical-thinking-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=prediction-test-what-would-we-see-if-it-were-true-myths-and-misconcept-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="prediction-test-what-would-we-see-if-it-were-true-myths-and-misconcept-critical-thinking-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=prediction-test-what-would-we-see-if-it-were-true-myths-and-misconcept-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="prediction-test-what-would-we-see-if-it-were-true-myths-and-misconcept-critical-thinking-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking Framed Art Print Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/e43d6233dedc62687c14.jpg' | relative_url }}" alt="Listing image for Critical Thinking Framed Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=prediction-test-what-would-we-see-if-it-were-true-myths-and-misconcept-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="prediction-test-what-would-we-see-if-it-were-true-myths-and-misconcept-critical-thinking-poster" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking Framed Art Print Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=prediction-test-what-would-we-see-if-it-were-true-myths-and-misconcept-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="prediction-test-what-would-we-see-if-it-were-true-myths-and-misconcept-critical-thinking-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=prediction-test-what-would-we-see-if-it-were-true-myths-and-misconcept-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="prediction-test-what-would-we-see-if-it-were-true-myths-and-misconcept-critical-thinking-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=prediction-test-what-would-we-see-if-it-were-true-myths-and-misconcept-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="prediction-test-what-would-we-see-if-it-were-true-myths-and-misconcept-critical-thinking-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Manic Street Preachers Signed Photo &amp; CD Framed &amp; COA Critical Thinking Poster"><img src="{{ '/assets/images/marketplace-covers/de840e360b6897338238.jpg' | relative_url }}" alt="Listing image for Manic Street Preachers Signed Photo &amp; CD Framed &amp; COA Critical Thinking Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=prediction-test-what-would-we-see-if-it-were-true-myths-and-misconcept-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="prediction-test-what-would-we-see-if-it-were-true-myths-and-misconcept-critical-thinking-poster" target="_blank" rel="sponsored noopener noreferrer">Manic Street Preachers Signed Photo &amp; CD Framed &amp; COA Critical Thinking Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=prediction-test-what-would-we-see-if-it-were-true-myths-and-misconcept-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="prediction-test-what-would-we-see-if-it-were-true-myths-and-misconcept-critical-thinking-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=prediction-test-what-would-we-see-if-it-were-true-myths-and-misconcept-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="prediction-test-what-would-we-see-if-it-were-true-myths-and-misconcept-critical-thinking-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=prediction-test-what-would-we-see-if-it-were-true-myths-and-misconcept-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="prediction-test-what-would-we-see-if-it-were-true-myths-and-misconcept-critical-thinking-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=prediction-test-what-would-we-see-if-it-were-true-myths-and-misconcept-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="prediction-test-what-would-we-see-if-it-were-true-myths-and-misconcept-critical-thinking-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Manic Street Preachers Signed Photo &amp; CD Framed &amp; COA Critical Thinking Poster"><img src="{{ '/assets/images/marketplace-covers/de840e360b6897338238.jpg' | relative_url }}" alt="Listing image for Manic Street Preachers Signed Photo &amp; CD Framed &amp; COA Critical Thinking Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=prediction-test-what-would-we-see-if-it-were-true-myths-and-misconcept-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="prediction-test-what-would-we-see-if-it-were-true-myths-and-misconcept-critical-thinking-poster" target="_blank" rel="sponsored noopener noreferrer">Manic Street Preachers Signed Photo &amp; CD Framed &amp; COA Critical Thinking Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=prediction-test-what-would-we-see-if-it-were-true-myths-and-misconcept-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="prediction-test-what-would-we-see-if-it-were-true-myths-and-misconcept-critical-thinking-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=prediction-test-what-would-we-see-if-it-were-true-myths-and-misconcept-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="prediction-test-what-would-we-see-if-it-were-true-myths-and-misconcept-critical-thinking-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=prediction-test-what-would-we-see-if-it-were-true-myths-and-misconcept-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="prediction-test-what-would-we-see-if-it-were-true-myths-and-misconcept-critical-thinking-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -606,7 +606,7 @@ Testing myths therefore begins with a simple transformation. Instead of asking w
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -626,7 +626,7 @@ Testing myths therefore begins with a simple transformation. Instead of asking w
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -658,7 +658,7 @@ Testing myths therefore begins with a simple transformation. Instead of asking w
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -710,7 +710,7 @@ Testing myths therefore begins with a simple transformation. Instead of asking w
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -755,7 +755,7 @@ Testing myths therefore begins with a simple transformation. Instead of asking w
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -796,123 +796,123 @@ Testing myths therefore begins with a simple transformation. Instead of asking w
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: britannica.com  
    Title: criterion of falsifiability  
-   Link: <a href="https://www.britannica.com/topic/criterion-of-falsifiability" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/criterion-of-falsifiability</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Encyclopedia BritannicaCriterion of falsifiability | Falsificationism, Popper, Hypotheses19 Mar 2026 — Scientific theories are instead in...</p></details>
+   Link:<a href="https://www.britannica.com/topic/criterion-of-falsifiability" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/criterion-of-falsifiability</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Encyclopedia BritannicaCriterion of falsifiability | Falsificationism, Popper, Hypotheses19 Mar 2026 — Scientific theories are instead in...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Falsifiability" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Falsifiability</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>FalsifiabilityFalsifiability is a standard of evaluation of scientific statements, including theories and hypotheses. A statement is f...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Falsifiability" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Falsifiability</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FalsifiabilityFalsifiability is a standard of evaluation of scientific statements, including theories and hypotheses. A statement is f...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCThe Learning Styles Myth is Thriving in Higher Education  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4678182/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4678182/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Learning Styles Myth is Thriving in Higher Education - PMCby PM Newton · 2015 · Cited by 476 — The existence of &#x27;Learning Styles&#x27; is a co...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4678182/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4678182/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Learning Styles Myth is Thriving in Higher Education - PMCby PM Newton · 2015 · Cited by 476 — The existence of &#x27;Learning Styles&#x27; is a co...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: britannica.com  
-   Link: <a href="https://www.britannica.com/science/confirmation-bias" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/science/confirmation-bias</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Encyclopedia BritannicaConfirmation bias | Definition, Examples, Psychology, &amp; FactsConfirmation bias is a person&#x27;s tendency to process i...</p></details>
+   Link:<a href="https://www.britannica.com/science/confirmation-bias" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/science/confirmation-bias</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Encyclopedia BritannicaConfirmation bias | Definition, Examples, Psychology, &amp; FactsConfirmation bias is a person&#x27;s tendency to process i...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: Wikipedia  
    Title: Confirmation bias  
-   Link: <a href="https://en.wikipedia.org/wiki/Confirmation_bias" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Confirmation_bias</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Confirmation biasConfirmation bias is the tendency to search for, interpret, favor and recall information in a way that confirms or su...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Confirmation_bias" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Confirmation_bias</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Confirmation biasConfirmation bias is the tendency to search for, interpret, favor and recall information in a way that confirms or su...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: simplypsychology.org  
    Title: karl popper  
-   Link: <a href="https://www.simplypsychology.org/karl-popper.html" target="_blank" rel="noopener noreferrer nofollow">https://www.simplypsychology.org/karl-popper.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Simply PsychologyKarl Popper: Falsification Theory31 Jul 2023 — Karl Popper&#x27;s theory of falsification contends that scientific inquiry sh...</p></details>
+   Link:<a href="https://www.simplypsychology.org/karl-popper.html" target="_blank" rel="noopener noreferrer nofollow">https://www.simplypsychology.org/karl-popper.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Simply PsychologyKarl Popper: Falsification Theory31 Jul 2023 — Karl Popper&#x27;s theory of falsification contends that scientific inquiry sh...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: evidencebased.education  
    Title: the lingering learning styles myth  
-   Link: <a href="https://evidencebased.education/resource/the-lingering-learning-styles-myth/" target="_blank" rel="noopener noreferrer nofollow">https://evidencebased.education/resource/the-lingering-learning-styles-myth/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The truth with this myth is that individuals will have different study techniques...Read more...</p></details>
+   Link:<a href="https://evidencebased.education/resource/the-lingering-learning-styles-myth/" target="_blank" rel="noopener noreferrer nofollow">https://evidencebased.education/resource/the-lingering-learning-styles-myth/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The truth with this myth is that individuals will have different study techniques...Read more...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: carlhendrick.substack.com  
    Title: The Learning Dispatch Why The Learning Styles Myth Persists And How It Damages  
-   Link: <a href="https://carlhendrick.substack.com/p/the-learning-styles-illusion-[debunking" target="_blank" rel="noopener noreferrer nofollow">https://carlhendrick.substack.com/p/the-learning-styles-illusion-[debunking</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Learning DispatchWhy The Learning Styles Myth Persists And How It Damages...April 4, 2025 — The central myth of learning styles is s...</p></details>
+   Link:<a href="https://carlhendrick.substack.com/p/the-learning-styles-illusion-[debunking" target="_blank" rel="noopener noreferrer nofollow">https://carlhendrick.substack.com/p/the-learning-styles-illusion-[debunking</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Learning DispatchWhy The Learning Styles Myth Persists And How It Damages...April 4, 2025 — The central myth of learning styles is s...</p></details>
    Published: April 4, 2025  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: pages.ucsd.edu  
    Title: UC San Diego Pages Confirmation Bias: A Ubiquitous Phenomenon in Many  
-   Link: <a href="https://pages.ucsd.edu/~mckenzie/nickersonConfirmationBias.pdf" target="_blank" rel="noopener noreferrer nofollow">https://pages.ucsd.edu/~mckenzie/nickersonConfirmationBias.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UC San Diego PagesConfirmation Bias: A Ubiquitous Phenomenon in Many...October 6, 2004 — by RS Nickerson · 1998 · Cited by 12332 — Confi...</p></details>
+   Link:<a href="https://pages.ucsd.edu/~mckenzie/nickersonConfirmationBias.pdf" target="_blank" rel="noopener noreferrer nofollow">https://pages.ucsd.edu/~mckenzie/nickersonConfirmationBias.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UC San Diego PagesConfirmation Bias: A Ubiquitous Phenomenon in Many...October 6, 2004 — by RS Nickerson · 1998 · Cited by 12332 — Confi...</p></details>
    Published: October 6, 2004  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: apa.org  
    Title: learning styles myth  
-   Link: <a href="https://www.apa.org/news/press/releases/2019/05/learning-styles-myth" target="_blank" rel="noopener noreferrer nofollow">https://www.apa.org/news/press/releases/2019/05/learning-styles-myth</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Belief in learning styles myth may be detrimental30 May 2019 — Many people, including educators, believe learning styles are set at birth...</p></details>
+   Link:<a href="https://www.apa.org/news/press/releases/2019/05/learning-styles-myth" target="_blank" rel="noopener noreferrer nofollow">https://www.apa.org/news/press/releases/2019/05/learning-styles-myth</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Belief in learning styles myth may be detrimental30 May 2019 — Many people, including educators, believe learning styles are set at birth...</p></details>
    Published: May 2019  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: plato.stanford.edu  
-   Link: <a href="https://plato.stanford.edu/entries/popper/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/popper/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Stanford Encyclopedia of Philosophyby S Thornton · 1997 · Cited by 444 — In later years Popper came under philosophical criticism for his...</p></details>
+   Link:<a href="https://plato.stanford.edu/entries/popper/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/popper/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Stanford Encyclopedia of Philosophyby S Thornton · 1997 · Cited by 444 — In later years Popper came under philosophical criticism for his...</p></details>
 
 ### Additional References
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/316486755_Cognitive_Biases_and_Their_Influence_on_Critical_Thinking_and_Scientific_Reasoning_A_Practical_Guide_for_Students_and_Teachers" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/316486755_Cognitive_Biases_and_Their_Influence_on_Critical_Thinking_and_Scientific_Reasoning_A_Practical_Guide_for_Students_and_Teachers</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Cognitive Biases and Their Influence on Critical Thinking...21 Jul 2023 — Researchers have discovered 200 cognitive biases that result i...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/316486755_Cognitive_Biases_and_Their_Influence_on_Critical_Thinking_and_Scientific_Reasoning_A_Practical_Guide_for_Students_and_Teachers" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/316486755_Cognitive_Biases_and_Their_Influence_on_Critical_Thinking_and_Scientific_Reasoning_A_Practical_Guide_for_Students_and_Teachers</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Cognitive Biases and Their Influence on Critical Thinking...21 Jul 2023 — Researchers have discovered 200 cognitive biases that result i...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: ebsco.com  
-   Link: <a href="https://www.ebsco.com/research-starters/religion-and-philosophy/falsifiability-rule" target="_blank" rel="noopener noreferrer nofollow">https://www.ebsco.com/research-starters/religion-and-philosophy/falsifiability-rule</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Falsifiability rule | Religion and PhilosophyAustrian-born British philosopher Karl Popper proposed that ideas could be regarded as legit...</p></details>
+   Link:<a href="https://www.ebsco.com/research-starters/religion-and-philosophy/falsifiability-rule" target="_blank" rel="noopener noreferrer nofollow">https://www.ebsco.com/research-starters/religion-and-philosophy/falsifiability-rule</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Falsifiability rule | Religion and PhilosophyAustrian-born British philosopher Karl Popper proposed that ideas could be regarded as legit...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: thedecisionlab.com  
-   Link: <a href="https://thedecisionlab.com/biases/confirmation-bias" target="_blank" rel="noopener noreferrer nofollow">https://thedecisionlab.com/biases/confirmation-bias</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Confirmation BiasConfirmation bias describes our underlying tendency to notice, focus on, and provide greater credence to evidence that f...</p></details>
+   Link:<a href="https://thedecisionlab.com/biases/confirmation-bias" target="_blank" rel="noopener noreferrer nofollow">https://thedecisionlab.com/biases/confirmation-bias</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Confirmation BiasConfirmation bias describes our underlying tendency to notice, focus on, and provide greater credence to evidence that f...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: fs.blog  
-   Link: <a href="https://fs.blog/the-uses-of-being-wrong/" target="_blank" rel="noopener noreferrer nofollow">https://fs.blog/the-uses-of-being-wrong/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Uses Of Being WrongPopper&#x27;s falsifiability criterion ignores the tenacity of scientific theories, even in the face of disconfirming e...</p></details>
+   Link:<a href="https://fs.blog/the-uses-of-being-wrong/" target="_blank" rel="noopener noreferrer nofollow">https://fs.blog/the-uses-of-being-wrong/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Uses Of Being WrongPopper&#x27;s falsifiability criterion ignores the tenacity of scientific theories, even in the face of disconfirming e...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: gc-bs.org  
-   Link: <a href="https://gc-bs.org/articles/from-styles-to-science-debunking-the-learning-styles-myth-and-embracing-an-evidence-based-framework-for-learning/" target="_blank" rel="noopener noreferrer nofollow">https://gc-bs.org/articles/from-styles-to-science-debunking-the-learning-styles-myth-and-embracing-an-evidence-based-framework-for-learning/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Debunking the Learning Styles Myth and Embracing...12 Jan 2026 — At the heart of nearly all learning style theories lies a single, core...</p></details>
+   Link:<a href="https://gc-bs.org/articles/from-styles-to-science-debunking-the-learning-styles-myth-and-embracing-an-evidence-based-framework-for-learning/" target="_blank" rel="noopener noreferrer nofollow">https://gc-bs.org/articles/from-styles-to-science-debunking-the-learning-styles-myth-and-embracing-an-evidence-based-framework-for-learning/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Debunking the Learning Styles Myth and Embracing...12 Jan 2026 — At the heart of nearly all learning style theories lies a single, core...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: my.chartered.college  
-   Link: <a href="https://my.chartered.college/research-hub/why-is-the-myth-of-learning-styles-so-hard-to-slay/" target="_blank" rel="noopener noreferrer nofollow">https://my.chartered.college/research-hub/why-is-the-myth-of-learning-styles-so-hard-to-slay/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>is the myth of &#x27;learning styles&#x27; so hard to slay?One reason is likely that it feels a very compelling and convincing idea – that we have...</p></details>
+   Link:<a href="https://my.chartered.college/research-hub/why-is-the-myth-of-learning-styles-so-hard-to-slay/" target="_blank" rel="noopener noreferrer nofollow">https://my.chartered.college/research-hub/why-is-the-myth-of-learning-styles-so-hard-to-slay/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>is the myth of &#x27;learning styles&#x27; so hard to slay?One reason is likely that it feels a very compelling and convincing idea – that we have...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=rhgwIhB58PA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=rhgwIhB58PA</a>  
+   Link:<a href="https://www.youtube.com/watch?v=rhgwIhB58PA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=rhgwIhB58PA</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: Clinicians might apply the same notion to understand  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8140582/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8140582/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>in medicine: what clinicians can learn from Karl...by S Taran · 2021 · Cited by 18 — Popper applied the notion of falsifiability to dist...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8140582/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8140582/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>in medicine: what clinicians can learn from Karl...by S Taran · 2021 · Cited by 18 — Popper applied the notion of falsifiability to dist...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: whyevolutionistrue.com  
    Title: is falsifiability a good criterion for a scientific theory  
-   Link: <a href="https://whyevolutionistrue.com/2012/04/29/is-falsifiability-a-good-criterion-for-a-scientific-theory/" target="_blank" rel="noopener noreferrer nofollow">https://whyevolutionistrue.com/2012/04/29/is-falsifiability-a-good-criterion-for-a-scientific-theory/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>?29 Apr 2012 — Testability is falsifiability; but there are degrees of testability: some theories are more testable, more exposed to refu...</p></details>
+   Link:<a href="https://whyevolutionistrue.com/2012/04/29/is-falsifiability-a-good-criterion-for-a-scientific-theory/" target="_blank" rel="noopener noreferrer nofollow">https://whyevolutionistrue.com/2012/04/29/is-falsifiability-a-good-criterion-for-a-scientific-theory/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>?29 Apr 2012 — Testability is falsifiability; but there are degrees of testability: some theories are more testable, more exposed to refu...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: hamzatzortzis.com  
    Title: What is Karl Popper's View of the Scientific Method?  
-   Link: <a href="https://www.hamzatzortzis.com/what-is-karl-poppers-view-of-the-scientific-method-is-that-view-satisfactory/" target="_blank" rel="noopener noreferrer nofollow">https://www.hamzatzortzis.com/what-is-karl-poppers-view-of-the-scientific-method-is-that-view-satisfactory/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Is That...12 May 2020 — Popper&#x27;s view was that a scientific claim was only valid if it can be falsified; he maintains that “the possibil...</p></details>
+   Link:<a href="https://www.hamzatzortzis.com/what-is-karl-poppers-view-of-the-scientific-method-is-that-view-satisfactory/" target="_blank" rel="noopener noreferrer nofollow">https://www.hamzatzortzis.com/what-is-karl-poppers-view-of-the-scientific-method-is-that-view-satisfactory/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Is That...12 May 2020 — Popper&#x27;s view was that a scientific claim was only valid if it can be falsified; he maintains that “the possibil...</p></details>
    Published: May 2020

@@ -504,13 +504,13 @@ image: /assets/images/Myths_and_misconcept_0d48d7_authority_shortcuts_4b05b1-ove
 Influencers can spread myths quickly because audiences often use social signals as shortcuts for credibility. A confident voice, a familiar face, a large following or a verified-looking profile can make a claim feel trustworthy before the audience has checked whether the person is qualified to make it. This is not simply a problem of gullible users or dishonest celebrities. It is a normal human response to information overload: when there is too much to evaluate, people lean on cues such as authority, popularity, [confidence]({{ 'confidence/' | relative_url }}) and personal connection.
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_authority_shortcuts_4b05b1-overview.webp" | relative_url }}" alt="Overview image for Influencers" loading="eager" decoding="sync" fetchpriority="high">
-That shortcut becomes risky when popularity is mistaken for expertise. A myth repeated by a favourite creator, celebrity, wellness personality, political figure or community leader may travel faster than a careful [correction]({{ 'correction/' | relative_url }}) from an unfamiliar expert. Research on online credibility shows that authority cues can strongly shape perceived source credibility, while studies of influencer misinformation suggest that virality itself can reduce perceived deception and increase willingness to share. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S074756321630320X" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Social media and credibility indicators: The effect of influence cues - ScienceDirect...</span></span></span>
+That shortcut becomes risky when popularity is mistaken for expertise. A myth repeated by a favourite creator, celebrity, wellness personality, political figure or community leader may travel faster than a careful [correction]({{ 'correction/' | relative_url }}) from an unfamiliar expert. Research on online credibility shows that authority cues can strongly shape perceived source credibility, while studies of influencer misinformation suggest that virality itself can reduce perceived deception and increase willingness to share.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S074756321630320X" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Social media and credibility indicators: The effect of influence cues - ScienceDirect...</span></span></span>
 
 ## Why confidence feels like credibility
 
 A confident person is easier to follow than a cautious one. Myths often benefit from that imbalance. The false claim is usually simple, vivid and emotionally satisfying; the correction is often conditional, technical or less dramatic. An influencer who says “this is what they are not telling you” may therefore sound more compelling than an expert who says “the evidence is mixed, and here are the limits”.
 
-Online [platforms]({{ 'platforms/' | relative_url }}) intensify this effect because they strip claims from many of the cues people would use offline. A short video or post may show confidence, polish and emotional certainty, but not the speaker’s training, conflicts of interest, evidence base or error history. In one study of Twitter credibility cues, authority, [identity]({{ 'identity/' | relative_url }}) and bandwagon signals all affected perceived credibility, with authority cues having the strongest effect. The study’s important lesson is not that authority is useless, but that people may treat the appearance of authority as a substitute for checking the claim itself. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S074756321630320X" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Social media and credibility indicators: The effect of influence cues - ScienceDirect...</span></span></span>
+Online [platforms]({{ 'platforms/' | relative_url }}) intensify this effect because they strip claims from many of the cues people would use offline. A short video or post may show confidence, polish and emotional certainty, but not the speaker’s training, conflicts of interest, evidence base or error history. In one study of Twitter credibility cues, authority, [identity]({{ 'identity/' | relative_url }}) and bandwagon signals all affected perceived credibility, with authority cues having the strongest effect. The study’s important lesson is not that authority is useless, but that people may treat the appearance of authority as a substitute for checking the claim itself.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S074756321630320X" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Social media and credibility indicators: The effect of influence cues - ScienceDirect...</span></span></span>
 
 Influencer culture adds a further layer: familiarity. Followers may see the same creator every day, hear personal stories, watch behind-the-scenes content and feel that they “know” the person. This one-sided bond is often called a parasocial relationship: a felt relationship with a media figure who does not personally know the audience member. When a creator has become part of someone’s routine, their claims can arrive with the warmth of a recommendation from a friend, even when the topic is science, medicine, law or history.
 
@@ -523,7 +523,7 @@ The central confusion is simple: popularity proves reach, not accuracy. A large 
 
 This distinction matters most when a claim crosses domains. A fitness influencer may be knowledgeable about their own training routine but unreliable on hormones, [vaccines]({{ 'vaccines/' | relative_url }}) or eating disorders. A celebrity may have lived experience of illness without being qualified to interpret clinical trials. A political commentator may be persuasive about values while misreading a chart. The myth spreads when the audience transfers trust from one area to another: “I trust this person” becomes “this person must be right about this”.
 
-Health misinformation shows the mechanism clearly because the stakes are visible. A scoping review on social media influencers and adolescent health found that influencers had become an important source of health information for adolescents, but that lack of expertise and commercial interests created risks. The review identified problems including unrealistic body images, unhealthy diets, substance-use promotion and inaccurate diagnosis or treatment advice, while also noting that influencers can build unusually trustworthy relationships with followers. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S074756321630320X" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Social media and credibility indicators: The effect of influence cues - ScienceDirect...</span></span></span>
+Health misinformation shows the mechanism clearly because the stakes are visible. A scoping review on social media influencers and adolescent health found that influencers had become an important source of health information for adolescents, but that lack of expertise and commercial interests created risks. The review identified problems including unrealistic body images, unhealthy diets, substance-use promotion and inaccurate diagnosis or treatment advice, while also noting that influencers can build unusually trustworthy relationships with followers.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S074756321630320X" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Social media and credibility indicators: The effect of influence cues - ScienceDirect...</span></span></span>
 
 The same authority shortcut can work in the opposite direction when credible people learn to communicate well. Health workers, scientists, librarians and community leaders can use the same platforms to answer questions, correct myths and build trust. The difference is that responsible authority does not rely only on status. It makes evidence visible, explains uncertainty and shows when a claim falls outside the speaker’s competence.
 
@@ -531,9 +531,9 @@ The same authority shortcut can work in the opposite direction when credible peo
 
 A myth can look more credible simply because many people have already reacted to it. Likes, shares, comments, reposts and stitched videos are not just measurements of attention; they are social proof. They tell the next viewer that the claim is worth noticing. In fast-moving feeds, that can become a credibility cue before the content is understood.
 
-Research on false news diffusion helps explain why this matters. A major MIT study of Twitter data found that false news travelled farther, faster, deeper and more broadly than true news, and that the difference persisted even when bots were removed from the dataset. The researchers’ finding is especially relevant to myth spread because it points to human sharing behaviour, not just automated manipulation, as a driver of falsehood’s reach. <span class="citation-chip-wrap"><a class="citation-chip" href="https://news.mit.edu/2018/study-twitter-false-news-travels-faster-true-stories-0308" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.mit.edu">[MIT News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.mit.edu</span><span class="citation-popover-snippet">MIT NewsStudy: On Twitter, false news travels faster than true stories &#124; MIT News &#124; Massachusetts Institute of Technology...</span></span></span>
+Research on false news diffusion helps explain why this matters. A major MIT study of Twitter data found that false news travelled farther, faster, deeper and more broadly than true news, and that the difference persisted even when bots were removed from the dataset. The researchers’ finding is especially relevant to myth spread because it points to human sharing behaviour, not just automated manipulation, as a driver of falsehood’s reach.<span class="citation-chip-wrap"><a class="citation-chip" href="https://news.mit.edu/2018/study-twitter-false-news-travels-faster-true-stories-0308" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.mit.edu">[MIT News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.mit.edu</span><span class="citation-popover-snippet">MIT NewsStudy: On Twitter, false news travels faster than true stories &#124; MIT News &#124; Massachusetts Institute of Technology...</span></span></span>
 
-Influencer-specific research adds another piece. A 2025 study on TikTok and Instagram influencer misinformation found that higher virality reduced perceived deception, strengthened parasocial connection and increased sharing intentions. In other words, people were not merely seeing a viral post; they were reading its popularity as a sign that it might be acceptable, normal or trustworthy. Critical comments, however, could increase perceptions of deception in highly viral posts, suggesting that visible challenge can interrupt the shortcut. <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/14413582241273987" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-title">Sage Journals Going Viral: Sharing of Misinformation by Social Media Influencers</span><span class="citation-popover-snippet">Sage JournalsGoing Viral: Sharing of Misinformation by Social Media Influencers - Rory Mulcahy, Renee Barnes, Retha de Villiers Scheepers...</span></span></span>
+Influencer-specific research adds another piece. A 2025 study on TikTok and Instagram influencer misinformation found that higher virality reduced perceived deception, strengthened parasocial connection and increased sharing intentions. In other words, people were not merely seeing a viral post; they were reading its popularity as a sign that it might be acceptable, normal or trustworthy. Critical comments, however, could increase perceptions of deception in highly viral posts, suggesting that visible challenge can interrupt the shortcut.<span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/14413582241273987" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-title">Sage Journals Going Viral: Sharing of Misinformation by Social Media Influencers</span><span class="citation-popover-snippet">Sage JournalsGoing Viral: Sharing of Misinformation by Social Media Influencers - Rory Mulcahy, Renee Barnes, Retha de Villiers Scheepers...</span></span></span>
 
 This is why [corrections]({{ 'corrections/' | relative_url }}) from experts can struggle. A careful correction may be accurate but socially quiet. The myth may already have the crowd, the joke format, the celebrity name, the emotional story and the appearance of consensus. By the time the correction arrives, the audience may have seen the myth several times from people they recognise.
 
@@ -543,7 +543,7 @@ This is why [corrections]({{ 'corrections/' | relative_url }}) from experts can 
 
 Many creators are not deliberately trying to deceive their audiences. They may be repeating something that sounded plausible, summarising a half-read article, sharing an anecdote, reacting to a trend or trusting another creator. That does not remove the harm, but it changes the solution: some myth spread comes from incentives and missing verification habits rather than only from bad faith.
 
-UNESCO’s 2024 survey of digital content creators is useful here. It found that 62% did not carry out rigorous and systematic fact-checking before sharing information, while 73% said they wanted training. UNESCO framed creators as an important part of the information ecosystem because they now engage large audiences with cultural, social and political news, often without the editorial routines used in journalism. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.unesco.org/en/articles/2/3-digital-content-creators-do-not-check-their-facts-sharing-want-learn-how-do-so-unesco-survey" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unesco.org">[UNESCO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unesco.org</span><span class="citation-popover-title">2/3 of digital content creators do not check their facts before</span><span class="citation-popover-snippet">2/3 of digital content creators do not check their facts before...</span></span></span>
+UNESCO’s 2024 survey of digital content creators is useful here. It found that 62% did not carry out rigorous and systematic fact-checking before sharing information, while 73% said they wanted training. UNESCO framed creators as an important part of the information ecosystem because they now engage large audiences with cultural, social and political news, often without the editorial routines used in journalism.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.unesco.org/en/articles/2/3-digital-content-creators-do-not-check-their-facts-sharing-want-learn-how-do-so-unesco-survey" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unesco.org">[UNESCO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unesco.org</span><span class="citation-popover-title">2/3 of digital content creators do not check their facts before</span><span class="citation-popover-snippet">2/3 of digital content creators do not check their facts before...</span></span></span>
 
 This creates a mismatch. Platforms reward speed, confidence, novelty and engagement. Verification rewards slowness, doubt, context and sometimes silence. A creator who pauses to check a claim may miss the trend window; a creator who posts immediately may gain reach even if the claim is wrong. The authority shortcut then compounds the error: followers assume the creator has checked because the creator sounds certain and has a large audience.
 
@@ -553,9 +553,9 @@ Commercial incentives can make the problem sharper. Sponsored posts, affiliate l
 
 A common response to influencer-driven myths is to say: “Listen to experts instead.” That is true but incomplete. The audience may not know who counts as an expert, may distrust institutions, or may feel that official explanations do not speak to their everyday concerns. In some communities, a local pastor, youth worker, parent creator or niche educator may be more influential than a national authority.
 
-Public health organisations increasingly recognise this. The US Surgeon General’s health misinformation resources include guidance not only for health care providers but also for educators, librarians, faith leaders and trusted community members. The emphasis is practical: misinformation often spreads through communities, so responses need trusted people inside those communities, not only distant institutions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.hhs.gov/surgeongeneral/reports-and-publications/health-misinformation/index.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hhs.gov">[HHS.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hhs.gov</span><span class="citation-popover-title">Health Misinformation &#124; HHS.gov</span><span class="citation-popover-snippet">Health Misinformation &#124; HHS.gov</span></span></span>
+Public health organisations increasingly recognise this. The US Surgeon General’s health misinformation resources include guidance not only for health care providers but also for educators, librarians, faith leaders and trusted community members. The emphasis is practical: misinformation often spreads through communities, so responses need trusted people inside those communities, not only distant institutions.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.hhs.gov/surgeongeneral/reports-and-publications/health-misinformation/index.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hhs.gov">[HHS.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hhs.gov</span><span class="citation-popover-title">Health Misinformation &#124; HHS.gov</span><span class="citation-popover-snippet">Health Misinformation &#124; HHS.gov</span></span></span>
 
-The World Health Organization has also produced social media guidance for health-care practitioners, aimed at helping them share authentic and reliable information online, create posts, reshare trusted sources and communicate vaccine-confidence messages. This approach treats credibility as something that must be carried into the spaces where myths are spreading, rather than waiting for audiences to leave those spaces and search official websites. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.who.int/publications/m/item/a-social-media-toolkit-for-healthcare-practitioners-desktop" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: who.int">[World Health Organization]</a><span class="citation-popover" role="note"><span class="citation-popover-source">who.int</span><span class="citation-popover-snippet">A Social Media Toolkit for Healthcare Practitioners - mobile...</span></span></span>
+The World Health Organization has also produced social media guidance for health-care practitioners, aimed at helping them share authentic and reliable information online, create posts, reshare trusted sources and communicate vaccine-confidence messages. This approach treats credibility as something that must be carried into the spaces where myths are spreading, rather than waiting for audiences to leave those spaces and search official websites.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.who.int/publications/m/item/a-social-media-toolkit-for-healthcare-practitioners-desktop" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: who.int">[World Health Organization]</a><span class="citation-popover" role="note"><span class="citation-popover-source">who.int</span><span class="citation-popover-snippet">A Social Media Toolkit for Healthcare Practitioners - mobile...</span></span></span>
 
 The best corrective messenger is therefore not always the most senior expert. It may be the person who combines relevant expertise, audience trust, clarity and humility. A local clinician who answers common questions in plain language may outperform a formal statement. A creator who admits a previous mistake and shows how they checked it may teach better habits than a scolding correction.
 
@@ -594,194 +594,194 @@ The healthiest information environment is not one where audiences ignore influen
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/UtkDlbLeetI" title="Quackery, Celebrity Doctors and TikTok Energy - Medical Misinformation Isn’t New" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=UtkDlbLeetI" target="_blank" rel="noopener noreferrer">Quackery, Celebrity Doctors and TikTok Energy - Medical Misinformation Isn’t New</a></p><p class="youtube-embed-meta">Channel: Bangor University &middot; Views: 8 &middot; Uploaded: May 2026 &middot; Length: 1 hour 4 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=UtkDlbLeetI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=UtkDlbLeetI">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When Authority Shortcuts Spread Myths. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When Authority Shortcuts Spread Myths. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Talk+to+a+Science+Denier+by+Lee+McIntyre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Talk to a Science Denier on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=txhgEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How to Talk to a Science Denier" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+to+Talk+to+a+Science+Denier+by+Lee+McIntyre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Talk to a Science Denier">How to Talk to a Science Denier</a>
-        </h4>
-        <p class="fr-book-author">By Lee McIntyre</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Talk+to+a+Science+Denier+by+Lee+McIntyre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Talk to a Science Denier on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=txhgEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How to Talk to a Science Denier" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=How+to+Talk+to+a+Science+Denier+by+Lee+McIntyre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Talk to a Science Denier">How to Talk to a Science Denier</a>
+</h4>
+<p class="fr-book-author">By Lee McIntyre</p>
         
-        <p class="fr-book-desc">Explores trust and credibility in contested information.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+to+Talk+to+a+Science+Denier+by+Lee+McIntyre&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores trust and credibility in contested information.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=How+to+Talk+to+a+Science+Denier+by+Lee+McIntyre&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Calling Bullshit on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Plu9DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Calling Bullshit" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Calling Bullshit">Calling Bullshit</a>
-        </h4>
-        <p class="fr-book-author">By Carl T. Bergstrom, Jevin D. West</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Calling Bullshit on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Plu9DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Calling Bullshit" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Calling Bullshit">Calling Bullshit</a>
+</h4>
+<p class="fr-book-author">By Carl T. Bergstrom, Jevin D. West</p>
         
-        <p class="fr-book-desc">Teaches audiences how to evaluate claims independently.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Teaches audiences how to evaluate claims independently.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+death+of+expertise+Thomas+M.+Nichols&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The death of expertise on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/14456978-M.jpg" alt="Cover for The death of expertise" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+death+of+expertise+Thomas+M.+Nichols&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The death of expertise">The death of expertise</a>
-        </h4>
-        <p class="fr-book-author">By Thomas M. Nichols, Sean Pratt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+death+of+expertise+Thomas+M.+Nichols&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The death of expertise on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/14456978-M.jpg" alt="Cover for The death of expertise" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+death+of+expertise+Thomas+M.+Nichols&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The death of expertise">The death of expertise</a>
+</h4>
+<p class="fr-book-author">By Thomas M. Nichols, Sean Pratt</p>
         
-        <p class="fr-book-desc">First published 2017. Subjects: Higher Education, Sociology of Knowledge, Theory of Knowledge, Internet, Expertise.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+death+of+expertise+Thomas+M.+Nichols&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2017. Subjects: Higher Education, Sociology of Knowledge, Theory of Knowledge, Internet, Expertise.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+death+of+expertise+Thomas+M.+Nichols&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Influence+by+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Influence on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Influence+by+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Influence">Influence</a>
-        </h4>
-        <p class="fr-book-author">By Robert B. Cialdini</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Influence+by+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Influence on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Influence+by+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Influence">Influence</a>
+</h4>
+<p class="fr-book-author">By Robert B. Cialdini</p>
         
-        <p class="fr-book-desc">Explains authority and social-proof shortcuts.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Influence+by+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains authority and social-proof shortcuts.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Influence+by+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Talk+to+a+Science+Denier&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Talk to a Science Denier</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Calling+Bullshit&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Calling Bullshit</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+death+of+expertise&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The death of expertise</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Talk+to+a+Science+Denier&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Talk to a Science Denier</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Calling+Bullshit&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Calling Bullshit</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+death+of+expertise&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The death of expertise</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=classroom+learning+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=influencers-when-authority-shortcuts-spread-myths-myths-and-misconcept-classroom-learning-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classroom learning poster" data-ebay-reference="influencers-when-authority-shortcuts-spread-myths-myths-and-misconcept-classroom-learning-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Times Tables Poster 1-12 A3/A2 | Kids Maths Wall Chart for Home School Classroom"><img src="{{ '/assets/images/marketplace-covers/77c72dc0133e132168f0.jpg' | relative_url }}" alt="Listing image for Times Tables Poster 1-12 A3/A2 | Kids Maths Wall Chart for Home School Classroom" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=classroom+learning+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=influencers-when-authority-shortcuts-spread-myths-myths-and-misconcept-classroom-learning-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classroom learning poster" data-ebay-reference="influencers-when-authority-shortcuts-spread-myths-myths-and-misconcept-classroom-learning-poster" target="_blank" rel="sponsored noopener noreferrer">Times Tables Poster 1-12 A3/A2 | Kids Maths Wall Chart for Home School Classroom</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=classroom+learning+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=influencers-when-authority-shortcuts-spread-myths-myths-and-misconcept-classroom-learning-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classroom learning poster" data-ebay-reference="influencers-when-authority-shortcuts-spread-myths-myths-and-misconcept-classroom-learning-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for classroom learning poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: classroom learning poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=classroom+learning+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=influencers-when-authority-shortcuts-spread-myths-myths-and-misconcept-classroom-learning-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classroom learning poster" data-ebay-reference="influencers-when-authority-shortcuts-spread-myths-myths-and-misconcept-classroom-learning-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=classroom+learning+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=influencers-when-authority-shortcuts-spread-myths-myths-and-misconcept-classroom-learning-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classroom learning poster" data-ebay-reference="influencers-when-authority-shortcuts-spread-myths-myths-and-misconcept-classroom-learning-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Times Tables Poster 1-12 A3/A2 | Kids Maths Wall Chart for Home School Classroom"><img src="{{ '/assets/images/marketplace-covers/77c72dc0133e132168f0.jpg' | relative_url }}" alt="Listing image for Times Tables Poster 1-12 A3/A2 | Kids Maths Wall Chart for Home School Classroom" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=classroom+learning+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=influencers-when-authority-shortcuts-spread-myths-myths-and-misconcept-classroom-learning-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classroom learning poster" data-ebay-reference="influencers-when-authority-shortcuts-spread-myths-myths-and-misconcept-classroom-learning-poster" target="_blank" rel="sponsored noopener noreferrer">Times Tables Poster 1-12 A3/A2 | Kids Maths Wall Chart for Home School Classroom</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=classroom+learning+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=influencers-when-authority-shortcuts-spread-myths-myths-and-misconcept-classroom-learning-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classroom learning poster" data-ebay-reference="influencers-when-authority-shortcuts-spread-myths-myths-and-misconcept-classroom-learning-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for classroom learning poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: classroom learning poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=classroom+learning+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=influencers-when-authority-shortcuts-spread-myths-myths-and-misconcept-classroom-learning-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classroom learning poster" data-ebay-reference="influencers-when-authority-shortcuts-spread-myths-myths-and-misconcept-classroom-learning-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=classroom+learning+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=influencers-when-authority-shortcuts-spread-myths-myths-and-misconcept-classroom-learning-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classroom learning poster" data-ebay-reference="influencers-when-authority-shortcuts-spread-myths-myths-and-misconcept-classroom-learning-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Educational Posters 15 Pack A3 Size Early Years Classroom Learning Wall Charts"><img src="{{ '/assets/images/marketplace-covers/a8e510a645162d8c080e.jpg' | relative_url }}" alt="Listing image for Educational Posters 15 Pack A3 Size Early Years Classroom Learning Wall Charts" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=classroom+learning+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=influencers-when-authority-shortcuts-spread-myths-myths-and-misconcept-classroom-learning-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classroom learning poster" data-ebay-reference="influencers-when-authority-shortcuts-spread-myths-myths-and-misconcept-classroom-learning-poster" target="_blank" rel="sponsored noopener noreferrer">Educational Posters 15 Pack A3 Size Early Years Classroom Learning Wall Charts</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=classroom+learning+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=influencers-when-authority-shortcuts-spread-myths-myths-and-misconcept-classroom-learning-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classroom learning poster" data-ebay-reference="influencers-when-authority-shortcuts-spread-myths-myths-and-misconcept-classroom-learning-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for classroom learning poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: classroom learning poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=classroom+learning+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=influencers-when-authority-shortcuts-spread-myths-myths-and-misconcept-classroom-learning-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classroom learning poster" data-ebay-reference="influencers-when-authority-shortcuts-spread-myths-myths-and-misconcept-classroom-learning-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=classroom+learning+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=influencers-when-authority-shortcuts-spread-myths-myths-and-misconcept-classroom-learning-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classroom learning poster" data-ebay-reference="influencers-when-authority-shortcuts-spread-myths-myths-and-misconcept-classroom-learning-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Educational Posters 15 Pack A3 Size Early Years Classroom Learning Wall Charts"><img src="{{ '/assets/images/marketplace-covers/a8e510a645162d8c080e.jpg' | relative_url }}" alt="Listing image for Educational Posters 15 Pack A3 Size Early Years Classroom Learning Wall Charts" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=classroom+learning+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=influencers-when-authority-shortcuts-spread-myths-myths-and-misconcept-classroom-learning-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classroom learning poster" data-ebay-reference="influencers-when-authority-shortcuts-spread-myths-myths-and-misconcept-classroom-learning-poster" target="_blank" rel="sponsored noopener noreferrer">Educational Posters 15 Pack A3 Size Early Years Classroom Learning Wall Charts</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=classroom+learning+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=influencers-when-authority-shortcuts-spread-myths-myths-and-misconcept-classroom-learning-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classroom learning poster" data-ebay-reference="influencers-when-authority-shortcuts-spread-myths-myths-and-misconcept-classroom-learning-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for classroom learning poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: classroom learning poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=classroom+learning+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=influencers-when-authority-shortcuts-spread-myths-myths-and-misconcept-classroom-learning-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classroom learning poster" data-ebay-reference="influencers-when-authority-shortcuts-spread-myths-myths-and-misconcept-classroom-learning-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=classroom+learning+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=influencers-when-authority-shortcuts-spread-myths-myths-and-misconcept-classroom-learning-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classroom learning poster" data-ebay-reference="influencers-when-authority-shortcuts-spread-myths-myths-and-misconcept-classroom-learning-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Eyewitness Classroom Learning Wall Charts Posters X9 Never Used"><img src="{{ '/assets/images/marketplace-covers/39c50b2ead1f6d727f6f.jpg' | relative_url }}" alt="Listing image for Eyewitness Classroom Learning Wall Charts Posters X9 Never Used" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=classroom+learning+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=influencers-when-authority-shortcuts-spread-myths-myths-and-misconcept-classroom-learning-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classroom learning poster" data-ebay-reference="influencers-when-authority-shortcuts-spread-myths-myths-and-misconcept-classroom-learning-poster" target="_blank" rel="sponsored noopener noreferrer">Eyewitness Classroom Learning Wall Charts Posters X9 Never Used</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=classroom+learning+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=influencers-when-authority-shortcuts-spread-myths-myths-and-misconcept-classroom-learning-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classroom learning poster" data-ebay-reference="influencers-when-authority-shortcuts-spread-myths-myths-and-misconcept-classroom-learning-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for classroom learning poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: classroom learning poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=classroom+learning+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=influencers-when-authority-shortcuts-spread-myths-myths-and-misconcept-classroom-learning-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classroom learning poster" data-ebay-reference="influencers-when-authority-shortcuts-spread-myths-myths-and-misconcept-classroom-learning-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=classroom+learning+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=influencers-when-authority-shortcuts-spread-myths-myths-and-misconcept-classroom-learning-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classroom learning poster" data-ebay-reference="influencers-when-authority-shortcuts-spread-myths-myths-and-misconcept-classroom-learning-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Eyewitness Classroom Learning Wall Charts Posters X9 Never Used"><img src="{{ '/assets/images/marketplace-covers/39c50b2ead1f6d727f6f.jpg' | relative_url }}" alt="Listing image for Eyewitness Classroom Learning Wall Charts Posters X9 Never Used" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=classroom+learning+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=influencers-when-authority-shortcuts-spread-myths-myths-and-misconcept-classroom-learning-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classroom learning poster" data-ebay-reference="influencers-when-authority-shortcuts-spread-myths-myths-and-misconcept-classroom-learning-poster" target="_blank" rel="sponsored noopener noreferrer">Eyewitness Classroom Learning Wall Charts Posters X9 Never Used</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=classroom+learning+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=influencers-when-authority-shortcuts-spread-myths-myths-and-misconcept-classroom-learning-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classroom learning poster" data-ebay-reference="influencers-when-authority-shortcuts-spread-myths-myths-and-misconcept-classroom-learning-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for classroom learning poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: classroom learning poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=classroom+learning+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=influencers-when-authority-shortcuts-spread-myths-myths-and-misconcept-classroom-learning-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classroom learning poster" data-ebay-reference="influencers-when-authority-shortcuts-spread-myths-myths-and-misconcept-classroom-learning-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=classroom+learning+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=influencers-when-authority-shortcuts-spread-myths-myths-and-misconcept-classroom-learning-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classroom learning poster" data-ebay-reference="influencers-when-authority-shortcuts-spread-myths-myths-and-misconcept-classroom-learning-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Animals Of The World Educational Poster Kids Classroom Learning Chart Wall Art"><img src="{{ '/assets/images/marketplace-covers/6e682dd582a21573957f.jpg' | relative_url }}" alt="Listing image for Animals Of The World Educational Poster Kids Classroom Learning Chart Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=classroom+learning+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=influencers-when-authority-shortcuts-spread-myths-myths-and-misconcept-classroom-learning-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classroom learning poster" data-ebay-reference="influencers-when-authority-shortcuts-spread-myths-myths-and-misconcept-classroom-learning-poster" target="_blank" rel="sponsored noopener noreferrer">Animals Of The World Educational Poster Kids Classroom Learning Chart Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=classroom+learning+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=influencers-when-authority-shortcuts-spread-myths-myths-and-misconcept-classroom-learning-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classroom learning poster" data-ebay-reference="influencers-when-authority-shortcuts-spread-myths-myths-and-misconcept-classroom-learning-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for classroom learning poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: classroom learning poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=classroom+learning+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=influencers-when-authority-shortcuts-spread-myths-myths-and-misconcept-classroom-learning-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classroom learning poster" data-ebay-reference="influencers-when-authority-shortcuts-spread-myths-myths-and-misconcept-classroom-learning-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=classroom+learning+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=influencers-when-authority-shortcuts-spread-myths-myths-and-misconcept-classroom-learning-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classroom learning poster" data-ebay-reference="influencers-when-authority-shortcuts-spread-myths-myths-and-misconcept-classroom-learning-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=classroom+learning+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=influencers-when-authority-shortcuts-spread-myths-myths-and-misconcept-classroom-learning-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classroom learning poster" data-ebay-reference="influencers-when-authority-shortcuts-spread-myths-myths-and-misconcept-classroom-learning-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Animals Of The World Educational Poster Kids Classroom Learning Chart Wall Art"><img src="{{ '/assets/images/marketplace-covers/6e682dd582a21573957f.jpg' | relative_url }}" alt="Listing image for Animals Of The World Educational Poster Kids Classroom Learning Chart Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=classroom+learning+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=influencers-when-authority-shortcuts-spread-myths-myths-and-misconcept-classroom-learning-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classroom learning poster" data-ebay-reference="influencers-when-authority-shortcuts-spread-myths-myths-and-misconcept-classroom-learning-poster" target="_blank" rel="sponsored noopener noreferrer">Animals Of The World Educational Poster Kids Classroom Learning Chart Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=classroom+learning+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=influencers-when-authority-shortcuts-spread-myths-myths-and-misconcept-classroom-learning-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classroom learning poster" data-ebay-reference="influencers-when-authority-shortcuts-spread-myths-myths-and-misconcept-classroom-learning-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for classroom learning poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: classroom learning poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=classroom+learning+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=influencers-when-authority-shortcuts-spread-myths-myths-and-misconcept-classroom-learning-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classroom learning poster" data-ebay-reference="influencers-when-authority-shortcuts-spread-myths-myths-and-misconcept-classroom-learning-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=classroom+learning+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=influencers-when-authority-shortcuts-spread-myths-myths-and-misconcept-classroom-learning-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classroom learning poster" data-ebay-reference="influencers-when-authority-shortcuts-spread-myths-myths-and-misconcept-classroom-learning-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -797,7 +797,7 @@ The healthiest information environment is not one where audiences ignore influen
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -817,7 +817,7 @@ The healthiest information environment is not one where audiences ignore influen
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -849,7 +849,7 @@ The healthiest information environment is not one where audiences ignore influen
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -901,7 +901,7 @@ The healthiest information environment is not one where audiences ignore influen
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -946,7 +946,7 @@ The healthiest information environment is not one where audiences ignore influen
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -987,132 +987,132 @@ The healthiest information environment is not one where audiences ignore influen
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S074756321630320X" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S074756321630320X</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Social media and credibility indicators: The effect of influence cues - ScienceDirect...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/abs/pii/S074756321630320X" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S074756321630320X</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Social media and credibility indicators: The effect of influence cues - ScienceDirect...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/pii/S027795362300744X" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S027795362300744X</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Social media influencers and adolescents’ health: A scoping review of the research field - ScienceDirect...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/pii/S027795362300744X" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S027795362300744X</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Social media influencers and adolescents’ health: A scoping review of the research field - ScienceDirect...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: news.mit.edu  
-   Link: <a href="https://news.mit.edu/2018/study-twitter-false-news-travels-faster-true-stories-0308" target="_blank" rel="noopener noreferrer nofollow">https://news.mit.edu/2018/study-twitter-false-news-travels-faster-true-stories-0308</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>MIT NewsStudy: On Twitter, false news travels faster than true stories | MIT News | Massachusetts Institute of Technology...</p></details>
+   Link:<a href="https://news.mit.edu/2018/study-twitter-false-news-travels-faster-true-stories-0308" target="_blank" rel="noopener noreferrer nofollow">https://news.mit.edu/2018/study-twitter-false-news-travels-faster-true-stories-0308</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>MIT NewsStudy: On Twitter, false news travels faster than true stories | MIT News | Massachusetts Institute of Technology...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: unesco.org  
    Title: 2/3 of digital content creators do not check their facts before  
-   Link: <a href="https://www.unesco.org/en/articles/2/3-digital-content-creators-do-not-check-their-facts-sharing-want-learn-how-do-so-unesco-survey" target="_blank" rel="noopener noreferrer nofollow">https://www.unesco.org/en/articles/2/3-digital-content-creators-do-not-check-their-facts-sharing-want-learn-how-do-so-unesco-survey</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>2/3 of digital content creators do not check their facts before...</p></details>
+   Link:<a href="https://www.unesco.org/en/articles/2/3-digital-content-creators-do-not-check-their-facts-sharing-want-learn-how-do-so-unesco-survey" target="_blank" rel="noopener noreferrer nofollow">https://www.unesco.org/en/articles/2/3-digital-content-creators-do-not-check-their-facts-sharing-want-learn-how-do-so-unesco-survey</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>2/3 of digital content creators do not check their facts before...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: hhs.gov  
    Title: Health Misinformation | HHS.gov  
-   Link: <a href="https://www.hhs.gov/surgeongeneral/reports-and-publications/health-misinformation/index.html" target="_blank" rel="noopener noreferrer nofollow">https://www.hhs.gov/surgeongeneral/reports-and-publications/health-misinformation/index.html</a>  
+   Link:<a href="https://www.hhs.gov/surgeongeneral/reports-and-publications/health-misinformation/index.html" target="_blank" rel="noopener noreferrer nofollow">https://www.hhs.gov/surgeongeneral/reports-and-publications/health-misinformation/index.html</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: who.int  
    Title: World Health Organization  
-   Link: <a href="https://www.who.int/publications/m/item/a-social-media-toolkit-for-healthcare-practitioners-desktop" target="_blank" rel="noopener noreferrer nofollow">https://www.who.int/publications/m/item/a-social-media-toolkit-for-healthcare-practitioners-desktop</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>A Social Media Toolkit for Healthcare Practitioners - mobile...</p></details>
+   Link:<a href="https://www.who.int/publications/m/item/a-social-media-toolkit-for-healthcare-practitioners-desktop" target="_blank" rel="noopener noreferrer nofollow">https://www.who.int/publications/m/item/a-social-media-toolkit-for-healthcare-practitioners-desktop</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A Social Media Toolkit for Healthcare Practitioners - mobile...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/pii/S004727272500043X" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S004727272500043X</a>  
+   Link:<a href="https://www.sciencedirect.com/science/article/pii/S004727272500043X" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S004727272500043X</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0040162523006583" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0040162523006583</a>  
+   Link:<a href="https://www.sciencedirect.com/science/article/abs/pii/S0040162523006583" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0040162523006583</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: unesco.org  
-   Link: <a href="https://www.unesco.org/en/digital-content-creators" target="_blank" rel="noopener noreferrer nofollow">https://www.unesco.org/en/digital-content-creators</a>  
+   Link:<a href="https://www.unesco.org/en/digital-content-creators" target="_blank" rel="noopener noreferrer nofollow">https://www.unesco.org/en/digital-content-creators</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: unesco.org  
-   Link: <a href="https://www.unesco.org/en/articles/unesco-trains-digital-content-creators-become-trusted-voices-online" target="_blank" rel="noopener noreferrer nofollow">https://www.unesco.org/en/articles/unesco-trains-digital-content-creators-become-trusted-voices-online</a>  
+   Link:<a href="https://www.unesco.org/en/articles/unesco-trains-digital-content-creators-become-trusted-voices-online" target="_blank" rel="noopener noreferrer nofollow">https://www.unesco.org/en/articles/unesco-trains-digital-content-creators-become-trusted-voices-online</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: who.int  
-   Link: <a href="https://www.who.int/europe/news/item/01-09-2022-infodemics-and-misinformation-negatively-affect-people-s-health-behaviours--new-who-review-finds" target="_blank" rel="noopener noreferrer nofollow">https://www.who.int/europe/news/item/01-09-2022-infodemics-and-misinformation-negatively-affect-people-s-health-behaviours--new-who-review-finds</a>  
+   Link:<a href="https://www.who.int/europe/news/item/01-09-2022-infodemics-and-misinformation-negatively-affect-people-s-health-behaviours--new-who-review-finds" target="_blank" rel="noopener noreferrer nofollow">https://www.who.int/europe/news/item/01-09-2022-infodemics-and-misinformation-negatively-affect-people-s-health-behaviours--new-who-review-finds</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: ouci.dntb.gov.ua  
-   Link: <a href="https://ouci.dntb.gov.ua/en/works/7WdBwwz4/" target="_blank" rel="noopener noreferrer nofollow">https://ouci.dntb.gov.ua/en/works/7WdBwwz4/</a>  
+   Link:<a href="https://ouci.dntb.gov.ua/en/works/7WdBwwz4/" target="_blank" rel="noopener noreferrer nofollow">https://ouci.dntb.gov.ua/en/works/7WdBwwz4/</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/p/DC4eXFXPqY0/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DC4eXFXPqY0/</a>  
+   Link:<a href="https://www.instagram.com/p/DC4eXFXPqY0/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DC4eXFXPqY0/</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: journals.sagepub.com  
    Title: Sage Journals Going Viral: Sharing of Misinformation by Social Media Influencers  
-   Link: <a href="https://journals.sagepub.com/doi/10.1177/14413582241273987" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/14413582241273987</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sage JournalsGoing Viral: Sharing of Misinformation by Social Media Influencers - Rory Mulcahy, Renee Barnes, Retha de Villiers Scheepers...</p></details>
+   Link:<a href="https://journals.sagepub.com/doi/10.1177/14413582241273987" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/14413582241273987</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sage JournalsGoing Viral: Sharing of Misinformation by Social Media Influencers - Rory Mulcahy, Renee Barnes, Retha de Villiers Scheepers...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: science.org  
-   Link: <a href="https://www.science.org/content/article/fake-news-spreads-faster-true-news-twitter-thanks-people-not-bots" target="_blank" rel="noopener noreferrer nofollow">https://www.science.org/content/article/fake-news-spreads-faster-true-news-twitter-thanks-people-not-bots</a>  
+   Link:<a href="https://www.science.org/content/article/fake-news-spreads-faster-true-news-twitter-thanks-people-not-bots" target="_blank" rel="noopener noreferrer nofollow">https://www.science.org/content/article/fake-news-spreads-faster-true-news-twitter-thanks-people-not-bots</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: science.org  
-   Link: <a href="https://www.science.org/doi/10.1126/science.aap9559" target="_blank" rel="noopener noreferrer nofollow">https://www.science.org/doi/10.1126/science.aap9559</a>  
+   Link:<a href="https://www.science.org/doi/10.1126/science.aap9559" target="_blank" rel="noopener noreferrer nofollow">https://www.science.org/doi/10.1126/science.aap9559</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: ebm.bmj.com  
-   Link: <a href="https://ebm.bmj.com/content/30/6/420" target="_blank" rel="noopener noreferrer nofollow">https://ebm.bmj.com/content/30/6/420</a>  
+   Link:<a href="https://ebm.bmj.com/content/30/6/420" target="_blank" rel="noopener noreferrer nofollow">https://ebm.bmj.com/content/30/6/420</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: europeanjournalists.org  
-   Link: <a href="https://europeanjournalists.org/blog/2024/12/06/unesco-report-highlights-urgent-need-for-media-literacy-training-for-digital-content-creators-who-report-the-news/" target="_blank" rel="noopener noreferrer nofollow">https://europeanjournalists.org/blog/2024/12/06/unesco-report-highlights-urgent-need-for-media-literacy-training-for-digital-content-creators-who-report-the-news/</a>  
+   Link:<a href="https://europeanjournalists.org/blog/2024/12/06/unesco-report-highlights-urgent-need-for-media-literacy-training-for-digital-content-creators-who-report-the-news/" target="_blank" rel="noopener noreferrer nofollow">https://europeanjournalists.org/blog/2024/12/06/unesco-report-highlights-urgent-need-for-media-literacy-training-for-digital-content-creators-who-report-the-news/</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: business-humanrights.org  
    Title: unesco warns that online influencers urgently need fact checking training  
-   Link: <a href="https://www.business-humanrights.org/zh-hant/%E6%9C%80%E6%96%B0%E6%B6%88%E6%81%AF/unesco-warns-that-online-influencers-urgently-need-fact-checking-training/" target="_blank" rel="noopener noreferrer nofollow">https://www.business-humanrights.org/zh-hant/%E6%9C%80%E6%96%B0%E6%B6%88%E6%81%AF/unesco-warns-that-online-influencers-urgently-need-fact-checking-training/</a>  
+   Link:<a href="https://www.business-humanrights.org/zh-hant/%E6%9C%80%E6%96%B0%E6%B6%88%E6%81%AF/unesco-warns-that-online-influencers-urgently-need-fact-checking-training/" target="_blank" rel="noopener noreferrer nofollow">https://www.business-humanrights.org/zh-hant/%E6%9C%80%E6%96%B0%E6%B6%88%E6%81%AF/unesco-warns-that-online-influencers-urgently-need-fact-checking-training/</a>  
 
 ### Additional References
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: bridgeportct.gov  
    Title: social media influencers and health misinformation why we must be cautious  
-   Link: <a href="https://www.bridgeportct.gov/news/social-media-influencers-and-health-misinformation-why-we-must-be-cautious" target="_blank" rel="noopener noreferrer nofollow">https://www.bridgeportct.gov/news/social-media-influencers-and-health-misinformation-why-we-must-be-cautious</a>  
+   Link:<a href="https://www.bridgeportct.gov/news/social-media-influencers-and-health-misinformation-why-we-must-be-cautious" target="_blank" rel="noopener noreferrer nofollow">https://www.bridgeportct.gov/news/social-media-influencers-and-health-misinformation-why-we-must-be-cautious</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/unesco/videos/behind-the-screens-study-reveals-a-critical-landscape-for-online-content-creatio/1327322601611148/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/unesco/videos/behind-the-screens-study-reveals-a-critical-landscape-for-online-content-creatio/1327322601611148/</a>  
+   Link:<a href="https://www.facebook.com/unesco/videos/behind-the-screens-study-reveals-a-critical-landscape-for-online-content-creatio/1327322601611148/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/unesco/videos/behind-the-screens-study-reveals-a-critical-landscape-for-online-content-creatio/1327322601611148/</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: spokanetribe.com  
-   Link: <a href="https://spokanetribe.com/wp-content/uploads/2021/11/HealthMisinformationToolkitNon508.pdf" target="_blank" rel="noopener noreferrer nofollow">https://spokanetribe.com/wp-content/uploads/2021/11/HealthMisinformationToolkitNon508.pdf</a>  
+   Link:<a href="https://spokanetribe.com/wp-content/uploads/2021/11/HealthMisinformationToolkitNon508.pdf" target="_blank" rel="noopener noreferrer nofollow">https://spokanetribe.com/wp-content/uploads/2021/11/HealthMisinformationToolkitNon508.pdf</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: thedecisionlab.com  
-   Link: <a href="https://thedecisionlab.com/biases/authority-bias" target="_blank" rel="noopener noreferrer nofollow">https://thedecisionlab.com/biases/authority-bias</a>  
+   Link:<a href="https://thedecisionlab.com/biases/authority-bias" target="_blank" rel="noopener noreferrer nofollow">https://thedecisionlab.com/biases/authority-bias</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/353556729_Fake_news_on_Facebook_examining_the_impact_of_heuristic_cues_on_perceived_credibility_and_sharing_intention" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/353556729_Fake_news_on_Facebook_examining_the_impact_of_heuristic_cues_on_perceived_credibility_and_sharing_intention</a>  
+   Link:<a href="https://www.researchgate.net/publication/353556729_Fake_news_on_Facebook_examining_the_impact_of_heuristic_cues_on_perceived_credibility_and_sharing_intention" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/353556729_Fake_news_on_Facebook_examining_the_impact_of_heuristic_cues_on_perceived_credibility_and_sharing_intention</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/WBTVNews3/posts/researchers-found-that-fake-news-sped-through-twitter-farther-faster-deeper-and-/10155105921436455/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/WBTVNews3/posts/researchers-found-that-fake-news-sped-through-twitter-farther-faster-deeper-and-/10155105921436455/</a>  
+   Link:<a href="https://www.facebook.com/WBTVNews3/posts/researchers-found-that-fake-news-sped-through-twitter-farther-faster-deeper-and-/10155105921436455/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/WBTVNews3/posts/researchers-found-that-fake-news-sped-through-twitter-farther-faster-deeper-and-/10155105921436455/</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/395328308_Exploring_the_Impact_of_Social_Media_Influencers_on_Adults%27_Health_Behaviour_The_Role_of_Credibility_Trust_and_Emotional_Resonance" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/395328308_Exploring_the_Impact_of_Social_Media_Influencers_on_Adults%27_Health_Behaviour_The_Role_of_Credibility_Trust_and_Emotional_Resonance</a>  
+   Link:<a href="https://www.researchgate.net/publication/395328308_Exploring_the_Impact_of_Social_Media_Influencers_on_Adults%27_Health_Behaviour_The_Role_of_Credibility_Trust_and_Emotional_Resonance" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/395328308_Exploring_the_Impact_of_Social_Media_Influencers_on_Adults%27_Health_Behaviour_The_Role_of_Credibility_Trust_and_Emotional_Resonance</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/323649207_The_spread_of_true_and_false_news_online" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/323649207_The_spread_of_true_and_false_news_online</a>  
+   Link:<a href="https://www.researchgate.net/publication/323649207_The_spread_of_true_and_false_news_online" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/323649207_The_spread_of_true_and_false_news_online</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: misinforeview.hks.harvard.edu  
-   Link: <a href="https://misinforeview.hks.harvard.edu/article/a-survey-of-expert-views-on-misinformation-definitions-determinants-solutions-and-future-of-the-field/" target="_blank" rel="noopener noreferrer nofollow">https://misinforeview.hks.harvard.edu/article/a-survey-of-expert-views-on-misinformation-definitions-determinants-solutions-and-future-of-the-field/</a>  
+   Link:<a href="https://misinforeview.hks.harvard.edu/article/a-survey-of-expert-views-on-misinformation-definitions-determinants-solutions-and-future-of-the-field/" target="_blank" rel="noopener noreferrer nofollow">https://misinforeview.hks.harvard.edu/article/a-survey-of-expert-views-on-misinformation-definitions-determinants-solutions-and-future-of-the-field/</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: researchportal.port.ac.uk  
-   Link: <a href="https://researchportal.port.ac.uk/files/63065979/Thesis.pdf" target="_blank" rel="noopener noreferrer nofollow">https://researchportal.port.ac.uk/files/63065979/Thesis.pdf</a>
+   Link:<a href="https://researchportal.port.ac.uk/files/63065979/Thesis.pdf" target="_blank" rel="noopener noreferrer nofollow">https://researchportal.port.ac.uk/files/63065979/Thesis.pdf</a>

@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /myths-and-misconcept-0d48d7-prebunking/
 description: Focused pages that expand on Prebunking.
-date: '2026-06-11'
+date: '2026'
 layout: default
 parent_basename: Myths_and_misconcept_0d48d7_prebunking_misinform_8ad4ae
 parent_title: Prebunking
@@ -16,7 +16,7 @@ parent_permalink: /prebunking/
 
 # Explore Topics in Prebunking
 
-The following pages expand on the main **[Prebunking]({{ '/prebunking/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[Prebunking]({{ '/prebunking/' | relative_url }})** page and cover its key branches in.
 
 - [Bad News game]({{ '/bad-news-game/' | relative_url }})
 - [Election rumours]({{ '/election-rumours/' | relative_url }})

@@ -271,7 +271,7 @@ image: /assets/images/Myths_and_misconcept_0d48d7_commercial_professio_dd3a05_sc
 Schools rarely adopt weak programmes because staff are careless or uninterested in evidence. More often, questionable ideas survive because they travel through practical adoption pathways that solve genuine organisational problems. School leaders need training, materials, implementation support and visible improvement strategies. A programme that arrives with ready-made lessons, staff-development sessions and external expertise can be far easier to adopt than a research summary that offers principles but few implementation details.
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_commercial_professio_dd3a05_school_adoption_path_416e9d-Illustration-1-dark.svg" | relative_url }}" alt="Adoption paths illustration 1" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_commercial_professio_dd3a05_school_adoption_path_416e9d-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_commercial_professio_dd3a05_school_adoption_path_416e9d-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-This creates an important distinction in the study of myths and misconceptions. Some educational myths persist because people believe them. Others persist because institutions can easily purchase, implement and sustain them. Research on [neuromyths]({{ 'neuromyths/' | relative_url }}) and school implementation suggests that commercially packaged claims can remain influential even when the underlying evidence is weak, disputed or absent. The adoption process itself can become part of the programme's durability. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3475349/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">by S Dekker · 2012 · Cited by 1291 — Results showed that on average, teachers believed 49% of the neuromyths, particularly myths relat...</span></span></span>
+This creates an important distinction in the study of myths and misconceptions. Some educational myths persist because people believe them. Others persist because institutions can easily purchase, implement and sustain them. Research on [neuromyths]({{ 'neuromyths/' | relative_url }}) and school implementation suggests that commercially packaged claims can remain influential even when the underlying evidence is weak, disputed or absent. The adoption process itself can become part of the programme's durability.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3475349/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">by S Dekker · 2012 · Cited by 1291 — Results showed that on average, teachers believed 49% of the neuromyths, particularly myths relat...</span></span></span>
 
 ## Why ready-made programmes solve a real pressure
 
@@ -292,9 +292,9 @@ A packaged programme typically includes:
 
 These features address real operational needs. The challenge is that convenience and evidence are not the same thing. A programme may be easy to implement because its materials are highly developed, not because its central claims have been rigorously tested.
 
-Implementation researchers have repeatedly noted that schools often seek interventions that can be adopted, embedded and sustained with manageable effort. The attractiveness of a programme can therefore depend as much on its implementation infrastructure as on the quality of its evidence base. PMC <span class="citation-chip-wrap"><a class="citation-chip" href="https://educationendowmentfoundation.org.uk/news/prioritise-fewer-things-and-do-them-well-to-make-long-term-positive-changes-to-teaching-practice" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: educationendowmentfoundation.org.uk">[EEF]</a><span class="citation-popover" role="note"><span class="citation-popover-source">educationendowmentfoundation.org.uk</span><span class="citation-popover-snippet">EEFPrioritise fewer things and do them well to make long-term,…24 Apr 2024 — The previous edition of the EEF&#x27;s guidance on implementation...</span></span></span>
+Implementation researchers have repeatedly noted that schools often seek interventions that can be adopted, embedded and sustained with manageable effort. The attractiveness of a programme can therefore depend as much on its implementation infrastructure as on the quality of its evidence base. PMC<span class="citation-chip-wrap"><a class="citation-chip" href="https://educationendowmentfoundation.org.uk/news/prioritise-fewer-things-and-do-them-well-to-make-long-term-positive-changes-to-teaching-practice" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: educationendowmentfoundation.org.uk">[EEF]</a><span class="citation-popover" role="note"><span class="citation-popover-source">educationendowmentfoundation.org.uk</span><span class="citation-popover-snippet">EEFPrioritise fewer things and do them well to make long-term,…24 Apr 2024 — The previous edition of the EEF&#x27;s guidance on implementation...</span></span></span>
 
-The learning-styles industry illustrates this pattern. Despite repeated reviews finding no convincing evidence that matching instruction to a learner's preferred style improves outcomes, learning-styles frameworks remained widely available through workshops, questionnaires, teacher training materials and classroom resources for many years. The practical package was often more visible than the research critique. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6889569/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Adoption, implementation and sustainability of school-based...by S Cassar · 2019 · Cited by 291 — We encourage schools and change age...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4678182/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCThe Learning Styles Myth is Thriving in Higher Education</span><span class="citation-popover-snippet">by PM Newton · 2015 · Cited by 476 — The existence of &#x27;Learning Styles&#x27; is a common &#x27;neuromyth&#x27;, and their use in all forms of educati...</span></span></span>
+The learning-styles industry illustrates this pattern. Despite repeated reviews finding no convincing evidence that matching instruction to a learner's preferred style improves outcomes, learning-styles frameworks remained widely available through workshops, questionnaires, teacher training materials and classroom resources for many years. The practical package was often more visible than the research critique.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6889569/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Adoption, implementation and sustainability of school-based...by S Cassar · 2019 · Cited by 291 — We encourage schools and change age...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4678182/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCThe Learning Styles Myth is Thriving in Higher Education</span><span class="citation-popover-snippet">by PM Newton · 2015 · Cited by 476 — The existence of &#x27;Learning Styles&#x27; is a common &#x27;neuromyth&#x27;, and their use in all forms of educati...</span></span></span>
 
 ## How recommendations and training networks spread claims
 
@@ -304,7 +304,7 @@ Many programmes reach schools through professional development rather than throu
 
 This pathway has advantages. Professional networks allow educators to share useful practices quickly. However, it can also allow weak claims to spread if presenters rely on persuasive stories, selective evidence or scientific-sounding language rather than robust evaluation.
 
-Research on neuromyths shows that misconceptions linked to commercial educational programmes have been particularly persistent among educators. Notably, teachers often demonstrate reasonable general knowledge about learning and the brain while still accepting specific commercially promoted myths. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6113575/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Modality-Specific Learning Style Hypothesis: A Mini-Reviewby K Aslaksen · 2018 · Cited by 98 — Several topical reviews have concluded tha...</span></span></span>
+Research on neuromyths shows that misconceptions linked to commercial educational programmes have been particularly persistent among educators. Notably, teachers often demonstrate reasonable general knowledge about learning and the brain while still accepting specific commercially promoted myths.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6113575/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Modality-Specific Learning Style Hypothesis: A Mini-Reviewby K Aslaksen · 2018 · Cited by 98 — Several topical reviews have concluded tha...</span></span></span>
 
 ### Consultancy and peer recommendation effects
 
@@ -324,7 +324,7 @@ This can create a self-reinforcing cycle:
 
 The programme's survival then depends less on independent evaluation and more on professional circulation. Once enough schools have invested time, money and staff training, abandoning the programme can become difficult even when evidence remains weak.
 
-Researchers studying implementation and school improvement have noted that schools often face a crowded marketplace of initiatives. In such environments, visibility and network effects can significantly shape adoption decisions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.tandfonline.com/doi/full/10.1080/02667363.2024.2414455" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tandfonline.com">[Taylor &amp; Francis Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tandfonline.com</span><span class="citation-popover-snippet">We sometimes feel like there&#x27;s...Read more...</span></span></span>
+Researchers studying implementation and school improvement have noted that schools often face a crowded marketplace of initiatives. In such environments, visibility and network effects can significantly shape adoption decisions.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.tandfonline.com/doi/full/10.1080/02667363.2024.2414455" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tandfonline.com">[Taylor &amp; Francis Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tandfonline.com</span><span class="citation-popover-snippet">We sometimes feel like there&#x27;s...Read more...</span></span></span>
 
 ### Why scientific language matters
 
@@ -332,7 +332,7 @@ Commercial programmes frequently borrow the language of research. Terms such as 
 
 The problem is not the use of science itself. Many evidence-based approaches legitimately draw on cognitive science, psychology or educational research. The problem arises when scientific terminology functions primarily as marketing.
 
-Studies of educational neuromyths suggest that misconceptions often gain credibility precisely because they appear connected to neuroscience. The learning-styles myth, left-brain/right-brain claims and similar ideas have frequently benefited from this scientific halo effect. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2023.1147498/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-snippet">FrontiersThe persistence of matching teaching and learning stylesby SBRE Brown · 2023 · Cited by 39 — One such neuromyth claims that matc...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2023.1147498/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-snippet">FrontiersThe persistence of matching teaching and learning stylesby SBRE Brown · 2023 · Cited by 39 — One such neuromyth claims that matc...</span></span></span>
+Studies of educational neuromyths suggest that misconceptions often gain credibility precisely because they appear connected to neuroscience. The learning-styles myth, left-brain/right-brain claims and similar ideas have frequently benefited from this scientific halo effect.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2023.1147498/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-snippet">FrontiersThe persistence of matching teaching and learning stylesby SBRE Brown · 2023 · Cited by 39 — One such neuromyth claims that matc...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2023.1147498/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-snippet">FrontiersThe persistence of matching teaching and learning stylesby SBRE Brown · 2023 · Cited by 39 — One such neuromyth claims that matc...</span></span></span>
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_commercial_professio_dd3a05_school_adoption_path_416e9d-Illustration-2-dark.svg" | relative_url }}" alt="Adoption paths illustration 2" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_commercial_professio_dd3a05_school_adoption_path_416e9d-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_commercial_professio_dd3a05_school_adoption_path_416e9d-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How programmes become embedded after adoption
@@ -345,7 +345,7 @@ Second, schools often purchase associated materials, assessment tools and consul
 
 Third, implementation itself can generate positive impressions. Staff may observe improved consistency, better planning or stronger professional discussion. These improvements may result from increased attention and coordination rather than from the programme's specific theoretical claims.
 
-Implementation research consistently emphasises that change processes themselves influence outcomes. A well-organised implementation effort can create benefits even when the programme being implemented is not especially strong. This makes evaluation more complicated than simply asking whether staff liked the initiative. EEF <span class="citation-chip-wrap"><a class="citation-chip" href="https://dera.ioe.ac.uk/id/eprint/31088/1/EEF-Implementation-Guidance-Report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dera.ioe.ac.uk">[Digital Education Resource Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dera.ioe.ac.uk</span><span class="citation-popover-snippet">Digital Education Resource ArchiveEEF-Implementation-Guidance-Report.pdfThe guide can be used to help implement any school improvement de...</span></span></span>
+Implementation research consistently emphasises that change processes themselves influence outcomes. A well-organised implementation effort can create benefits even when the programme being implemented is not especially strong. This makes evaluation more complicated than simply asking whether staff liked the initiative. EEF<span class="citation-chip-wrap"><a class="citation-chip" href="https://dera.ioe.ac.uk/id/eprint/31088/1/EEF-Implementation-Guidance-Report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dera.ioe.ac.uk">[Digital Education Resource Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dera.ioe.ac.uk</span><span class="citation-popover-snippet">Digital Education Resource ArchiveEEF-Implementation-Guidance-Report.pdfThe guide can be used to help implement any school improvement de...</span></span></span>
 
 Another challenge is that weak programmes often survive through adaptation. When expected results do not appear, schools may modify delivery, add extra components or redefine success measures. This flexibility can make failure difficult to recognise because the programme gradually changes while retaining its original branding.
 
@@ -375,7 +375,7 @@ Schools should be particularly cautious when evidence consists mainly of testimo
 
 ### Start small before scaling
 
-Implementation guidance increasingly recommends disciplined exploration and testing before whole-school rollout. Pilot implementation allows schools to examine whether a programme works in their context before committing substantial resources. <span class="citation-chip-wrap"><a class="citation-chip" href="https://educationendowmentfoundation.org.uk/news/prioritise-fewer-things-and-do-them-well-to-make-long-term-positive-changes-to-teaching-practice" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: educationendowmentfoundation.org.uk">[EEF]</a><span class="citation-popover" role="note"><span class="citation-popover-source">educationendowmentfoundation.org.uk</span><span class="citation-popover-snippet">EEFPrioritise fewer things and do them well to make long-term,…24 Apr 2024 — The previous edition of the EEF&#x27;s guidance on implementation...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://educationendowmentfoundation.org.uk/news/prioritise-fewer-things-and-do-them-well-to-make-long-term-positive-changes-to-teaching-practice" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: educationendowmentfoundation.org.uk">[EEF]</a><span class="citation-popover" role="note"><span class="citation-popover-source">educationendowmentfoundation.org.uk</span><span class="citation-popover-snippet">EEFPrioritise fewer things and do them well to make long-term,…24 Apr 2024 — The previous edition of the EEF&#x27;s guidance on implementation...</span></span></span>
+Implementation guidance increasingly recommends disciplined exploration and testing before whole-school rollout. Pilot implementation allows schools to examine whether a programme works in their context before committing substantial resources.<span class="citation-chip-wrap"><a class="citation-chip" href="https://educationendowmentfoundation.org.uk/news/prioritise-fewer-things-and-do-them-well-to-make-long-term-positive-changes-to-teaching-practice" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: educationendowmentfoundation.org.uk">[EEF]</a><span class="citation-popover" role="note"><span class="citation-popover-source">educationendowmentfoundation.org.uk</span><span class="citation-popover-snippet">EEFPrioritise fewer things and do them well to make long-term,…24 Apr 2024 — The previous edition of the EEF&#x27;s guidance on implementation...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://educationendowmentfoundation.org.uk/news/prioritise-fewer-things-and-do-them-well-to-make-long-term-positive-changes-to-teaching-practice" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: educationendowmentfoundation.org.uk">[EEF]</a><span class="citation-popover" role="note"><span class="citation-popover-source">educationendowmentfoundation.org.uk</span><span class="citation-popover-snippet">EEFPrioritise fewer things and do them well to make long-term,…24 Apr 2024 — The previous edition of the EEF&#x27;s guidance on implementation...</span></span></span>
 
 ### Ask what would count as failure
 
@@ -385,203 +385,203 @@ Without predefined criteria, initiatives can continue indefinitely because stopp
 
 ### Prioritise fewer initiatives
 
-Implementation research increasingly emphasises focusing on a limited number of priorities rather than continually adopting new programmes. A crowded improvement agenda makes critical evaluation harder and increases susceptibility to attractive but weak interventions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://educationendowmentfoundation.org.uk/news/prioritise-fewer-things-and-do-them-well-to-make-long-term-positive-changes-to-teaching-practice" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: educationendowmentfoundation.org.uk">[EEF]</a><span class="citation-popover" role="note"><span class="citation-popover-source">educationendowmentfoundation.org.uk</span><span class="citation-popover-snippet">EEFPrioritise fewer things and do them well to make long-term,…24 Apr 2024 — The previous edition of the EEF&#x27;s guidance on implementation...</span></span></span>
+Implementation research increasingly emphasises focusing on a limited number of priorities rather than continually adopting new programmes. A crowded improvement agenda makes critical evaluation harder and increases susceptibility to attractive but weak interventions.<span class="citation-chip-wrap"><a class="citation-chip" href="https://educationendowmentfoundation.org.uk/news/prioritise-fewer-things-and-do-them-well-to-make-long-term-positive-changes-to-teaching-practice" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: educationendowmentfoundation.org.uk">[EEF]</a><span class="citation-popover" role="note"><span class="citation-popover-source">educationendowmentfoundation.org.uk</span><span class="citation-popover-snippet">EEFPrioritise fewer things and do them well to make long-term,…24 Apr 2024 — The previous edition of the EEF&#x27;s guidance on implementation...</span></span></span>
 
 ## The real lesson from adoption pathways
 
 Weak educational programmes do not usually survive because schools deliberately ignore evidence. They survive because schools need practical solutions, and commercial programmes often excel at providing implementation support, professional development and ready-made materials. These strengths can create momentum that is largely independent of the quality of the underlying claims.
 
-Understanding adoption pathways shifts attention from individual belief to institutional behaviour. A myth becomes durable not only when people accept it, but when it is packaged, recommended, trained, funded and woven into everyday school routines. Recognising those pathways helps schools distinguish between programmes that are easy to adopt and programmes that are genuinely supported by evidence. PMC <span class="citation-chip-wrap"><a class="citation-chip" href="https://educationendowmentfoundation.org.uk/news/prioritise-fewer-things-and-do-them-well-to-make-long-term-positive-changes-to-teaching-practice" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: educationendowmentfoundation.org.uk">[EEF]</a><span class="citation-popover" role="note"><span class="citation-popover-source">educationendowmentfoundation.org.uk</span><span class="citation-popover-snippet">EEFPrioritise fewer things and do them well to make long-term,…24 Apr 2024 — The previous edition of the EEF&#x27;s guidance on implementation...</span></span></span>
+Understanding adoption pathways shifts attention from individual belief to institutional behaviour. A myth becomes durable not only when people accept it, but when it is packaged, recommended, trained, funded and woven into everyday school routines. Recognising those pathways helps schools distinguish between programmes that are easy to adopt and programmes that are genuinely supported by evidence. PMC<span class="citation-chip-wrap"><a class="citation-chip" href="https://educationendowmentfoundation.org.uk/news/prioritise-fewer-things-and-do-them-well-to-make-long-term-positive-changes-to-teaching-practice" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: educationendowmentfoundation.org.uk">[EEF]</a><span class="citation-popover" role="note"><span class="citation-popover-source">educationendowmentfoundation.org.uk</span><span class="citation-popover-snippet">EEFPrioritise fewer things and do them well to make long-term,…24 Apr 2024 — The previous edition of the EEF&#x27;s guidance on implementation...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How packaged myths enter school routines. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How packaged myths enter school routines. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Visible+Learning+for+Teachers+by+John+Hattie&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Visible Learning for Teachers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=vSoUT6PXdoIC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Visible Learning for Teachers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Visible+Learning+for+Teachers+by+John+Hattie&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Visible Learning for Teachers">Visible Learning for Teachers</a>
-        </h4>
-        <p class="fr-book-author">By John Hattie</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Visible+Learning+for+Teachers+by+John+Hattie&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Visible Learning for Teachers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=vSoUT6PXdoIC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Visible Learning for Teachers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Visible+Learning+for+Teachers+by+John+Hattie&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Visible Learning for Teachers">Visible Learning for Teachers</a>
+</h4>
+<p class="fr-book-author">By John Hattie</p>
         
-        <p class="fr-book-desc">Encourages evidence-based adoption decisions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Visible+Learning+for+Teachers+by+John+Hattie&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Encourages evidence-based adoption decisions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Visible+Learning+for+Teachers+by+John+Hattie&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Seven+Myths+about+Education&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Seven Myths about Education on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/13290314-M.jpg" alt="Cover for Seven Myths about Education" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Seven+Myths+about+Education&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Seven Myths about Education">Seven Myths about Education</a>
-        </h4>
-        <p class="fr-book-author">By Unknown author</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Seven+Myths+about+Education&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Seven Myths about Education on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/13290314-M.jpg" alt="Cover for Seven Myths about Education" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Seven+Myths+about+Education&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Seven Myths about Education">Seven Myths about Education</a>
+</h4>
+<p class="fr-book-author">By Unknown author</p>
         
-        <p class="fr-book-desc">Challenges assumptions that often drive programme adoption.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Seven+Myths+about+Education&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Challenges assumptions that often drive programme adoption.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Seven+Myths+about+Education&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Why+Don%27t+Students+Like+School%3F+by+Daniel+T.+Willingham&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Why Don&#x27;t Students Like School? on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=kuEmEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Why Don&#x27;t Students Like School?" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Why+Don%27t+Students+Like+School%3F+by+Daniel+T.+Willingham&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Why Don&#x27;t Students Like School?">Why Don&#x27;t Students Like School?</a>
-        </h4>
-        <p class="fr-book-author">By Daniel T. Willingham</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Why+Don%27t+Students+Like+School%3F+by+Daniel+T.+Willingham&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Why Don&#x27;t Students Like School? on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=kuEmEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Why Don&#x27;t Students Like School?" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Why+Don%27t+Students+Like+School%3F+by+Daniel+T.+Willingham&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Why Don&#x27;t Students Like School?">Why Don&#x27;t Students Like School?</a>
+</h4>
+<p class="fr-book-author">By Daniel T. Willingham</p>
         
-        <p class="fr-book-desc">Helps leaders judge whether educational claims fit learning science.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Why+Don%27t+Students+Like+School%3F+by+Daniel+T.+Willingham&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps leaders judge whether educational claims fit learning science.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Why+Don%27t+Students+Like+School%3F+by+Daniel+T.+Willingham&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Knowledge+GAP+Natalie+Wexler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Knowledge GAP on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8771746-M.jpg" alt="Cover for The Knowledge GAP" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Knowledge+GAP+Natalie+Wexler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Knowledge GAP">The Knowledge GAP</a>
-        </h4>
-        <p class="fr-book-author">By Natalie Wexler</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Knowledge+GAP+Natalie+Wexler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Knowledge GAP on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8771746-M.jpg" alt="Cover for The Knowledge GAP" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Knowledge+GAP+Natalie+Wexler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Knowledge GAP">The Knowledge GAP</a>
+</h4>
+<p class="fr-book-author">By Natalie Wexler</p>
         
-        <p class="fr-book-desc">First published 2019. Subjects: Language arts (elementary), Education, elementary, curricula, Educational change, Children with social di...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Knowledge+GAP+Natalie+Wexler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2019. Subjects: Language arts (elementary), Education, elementary, curricula, Educational change, Children with social di...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Knowledge+GAP+Natalie+Wexler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Visible+Learning+for+Teachers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Visible Learning for Teachers</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Seven+Myths+about+Education&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Seven Myths about Education</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Why+Don%27t+Students+Like+School%3F&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Why Don&#x27;t Students Like School?</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Visible+Learning+for+Teachers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Visible Learning for Teachers</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Seven+Myths+about+Education&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Seven Myths about Education</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Why+Don%27t+Students+Like+School%3F&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Why Don&#x27;t Students Like School?</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=adoption-paths-how-packaged-myths-enter-school-routines-myths-and-misconcept-medical-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical poster" data-ebay-reference="adoption-paths-how-packaged-myths-enter-school-routines-myths-and-misconcept-medical-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage St John Ambulance Medical Anatomical Wall Chart Large Poster Paper/Cloth"><img src="{{ '/assets/images/marketplace-covers/c5ddf8724b31ccb6afd1.jpg' | relative_url }}" alt="Listing image for Vintage St John Ambulance Medical Anatomical Wall Chart Large Poster Paper/Cloth" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=adoption-paths-how-packaged-myths-enter-school-routines-myths-and-misconcept-medical-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical poster" data-ebay-reference="adoption-paths-how-packaged-myths-enter-school-routines-myths-and-misconcept-medical-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage St John Ambulance Medical Anatomical Wall Chart Large Poster Paper/Cloth</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=adoption-paths-how-packaged-myths-enter-school-routines-myths-and-misconcept-medical-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical poster" data-ebay-reference="adoption-paths-how-packaged-myths-enter-school-routines-myths-and-misconcept-medical-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for medical poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: medical poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=adoption-paths-how-packaged-myths-enter-school-routines-myths-and-misconcept-medical-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical poster" data-ebay-reference="adoption-paths-how-packaged-myths-enter-school-routines-myths-and-misconcept-medical-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=adoption-paths-how-packaged-myths-enter-school-routines-myths-and-misconcept-medical-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical poster" data-ebay-reference="adoption-paths-how-packaged-myths-enter-school-routines-myths-and-misconcept-medical-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage St John Ambulance Medical Anatomical Wall Chart Large Poster Paper/Cloth"><img src="{{ '/assets/images/marketplace-covers/c5ddf8724b31ccb6afd1.jpg' | relative_url }}" alt="Listing image for Vintage St John Ambulance Medical Anatomical Wall Chart Large Poster Paper/Cloth" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=adoption-paths-how-packaged-myths-enter-school-routines-myths-and-misconcept-medical-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical poster" data-ebay-reference="adoption-paths-how-packaged-myths-enter-school-routines-myths-and-misconcept-medical-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage St John Ambulance Medical Anatomical Wall Chart Large Poster Paper/Cloth</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=adoption-paths-how-packaged-myths-enter-school-routines-myths-and-misconcept-medical-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical poster" data-ebay-reference="adoption-paths-how-packaged-myths-enter-school-routines-myths-and-misconcept-medical-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for medical poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: medical poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=adoption-paths-how-packaged-myths-enter-school-routines-myths-and-misconcept-medical-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical poster" data-ebay-reference="adoption-paths-how-packaged-myths-enter-school-routines-myths-and-misconcept-medical-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=adoption-paths-how-packaged-myths-enter-school-routines-myths-and-misconcept-medical-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical poster" data-ebay-reference="adoption-paths-how-packaged-myths-enter-school-routines-myths-and-misconcept-medical-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Foot Reflexology Poster Human Anatomy Educational Student Medical Poster A5 - A3"><img src="{{ '/assets/images/marketplace-covers/a7985f22cf7ddbd5dd27.jpg' | relative_url }}" alt="Listing image for Foot Reflexology Poster Human Anatomy Educational Student Medical Poster A5 - A3" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=adoption-paths-how-packaged-myths-enter-school-routines-myths-and-misconcept-medical-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical poster" data-ebay-reference="adoption-paths-how-packaged-myths-enter-school-routines-myths-and-misconcept-medical-poster" target="_blank" rel="sponsored noopener noreferrer">Foot Reflexology Poster Human Anatomy Educational Student Medical Poster A5 - A3</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=adoption-paths-how-packaged-myths-enter-school-routines-myths-and-misconcept-medical-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical poster" data-ebay-reference="adoption-paths-how-packaged-myths-enter-school-routines-myths-and-misconcept-medical-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for medical poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: medical poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=adoption-paths-how-packaged-myths-enter-school-routines-myths-and-misconcept-medical-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical poster" data-ebay-reference="adoption-paths-how-packaged-myths-enter-school-routines-myths-and-misconcept-medical-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=adoption-paths-how-packaged-myths-enter-school-routines-myths-and-misconcept-medical-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical poster" data-ebay-reference="adoption-paths-how-packaged-myths-enter-school-routines-myths-and-misconcept-medical-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Foot Reflexology Poster Human Anatomy Educational Student Medical Poster A5 - A3"><img src="{{ '/assets/images/marketplace-covers/a7985f22cf7ddbd5dd27.jpg' | relative_url }}" alt="Listing image for Foot Reflexology Poster Human Anatomy Educational Student Medical Poster A5 - A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=adoption-paths-how-packaged-myths-enter-school-routines-myths-and-misconcept-medical-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical poster" data-ebay-reference="adoption-paths-how-packaged-myths-enter-school-routines-myths-and-misconcept-medical-poster" target="_blank" rel="sponsored noopener noreferrer">Foot Reflexology Poster Human Anatomy Educational Student Medical Poster A5 - A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=adoption-paths-how-packaged-myths-enter-school-routines-myths-and-misconcept-medical-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical poster" data-ebay-reference="adoption-paths-how-packaged-myths-enter-school-routines-myths-and-misconcept-medical-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for medical poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: medical poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=adoption-paths-how-packaged-myths-enter-school-routines-myths-and-misconcept-medical-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical poster" data-ebay-reference="adoption-paths-how-packaged-myths-enter-school-routines-myths-and-misconcept-medical-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=adoption-paths-how-packaged-myths-enter-school-routines-myths-and-misconcept-medical-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical poster" data-ebay-reference="adoption-paths-how-packaged-myths-enter-school-routines-myths-and-misconcept-medical-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Human Anatomy model body MAJOR ORGANS A2 laminated medical doctor biology poster"><img src="{{ '/assets/images/marketplace-covers/a22ae66f5fa7967cd507.jpg' | relative_url }}" alt="Listing image for Human Anatomy model body MAJOR ORGANS A2 laminated medical doctor biology poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=adoption-paths-how-packaged-myths-enter-school-routines-myths-and-misconcept-medical-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical poster" data-ebay-reference="adoption-paths-how-packaged-myths-enter-school-routines-myths-and-misconcept-medical-poster" target="_blank" rel="sponsored noopener noreferrer">Human Anatomy model body MAJOR ORGANS A2 laminated medical doctor biology poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=adoption-paths-how-packaged-myths-enter-school-routines-myths-and-misconcept-medical-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical poster" data-ebay-reference="adoption-paths-how-packaged-myths-enter-school-routines-myths-and-misconcept-medical-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for medical poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: medical poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=adoption-paths-how-packaged-myths-enter-school-routines-myths-and-misconcept-medical-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical poster" data-ebay-reference="adoption-paths-how-packaged-myths-enter-school-routines-myths-and-misconcept-medical-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=adoption-paths-how-packaged-myths-enter-school-routines-myths-and-misconcept-medical-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical poster" data-ebay-reference="adoption-paths-how-packaged-myths-enter-school-routines-myths-and-misconcept-medical-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Human Anatomy model body MAJOR ORGANS A2 laminated medical doctor biology poster"><img src="{{ '/assets/images/marketplace-covers/a22ae66f5fa7967cd507.jpg' | relative_url }}" alt="Listing image for Human Anatomy model body MAJOR ORGANS A2 laminated medical doctor biology poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=adoption-paths-how-packaged-myths-enter-school-routines-myths-and-misconcept-medical-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical poster" data-ebay-reference="adoption-paths-how-packaged-myths-enter-school-routines-myths-and-misconcept-medical-poster" target="_blank" rel="sponsored noopener noreferrer">Human Anatomy model body MAJOR ORGANS A2 laminated medical doctor biology poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=adoption-paths-how-packaged-myths-enter-school-routines-myths-and-misconcept-medical-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical poster" data-ebay-reference="adoption-paths-how-packaged-myths-enter-school-routines-myths-and-misconcept-medical-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for medical poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: medical poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=adoption-paths-how-packaged-myths-enter-school-routines-myths-and-misconcept-medical-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical poster" data-ebay-reference="adoption-paths-how-packaged-myths-enter-school-routines-myths-and-misconcept-medical-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=adoption-paths-how-packaged-myths-enter-school-routines-myths-and-misconcept-medical-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical poster" data-ebay-reference="adoption-paths-how-packaged-myths-enter-school-routines-myths-and-misconcept-medical-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Human Brain Anatomy Poster Medical Doctor Anatomical Educational Poster A5-A1"><img src="{{ '/assets/images/marketplace-covers/d252c9d704756e344b96.jpg' | relative_url }}" alt="Listing image for Human Brain Anatomy Poster Medical Doctor Anatomical Educational Poster A5-A1" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=adoption-paths-how-packaged-myths-enter-school-routines-myths-and-misconcept-medical-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical poster" data-ebay-reference="adoption-paths-how-packaged-myths-enter-school-routines-myths-and-misconcept-medical-poster" target="_blank" rel="sponsored noopener noreferrer">Human Brain Anatomy Poster Medical Doctor Anatomical Educational Poster A5-A1</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=adoption-paths-how-packaged-myths-enter-school-routines-myths-and-misconcept-medical-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical poster" data-ebay-reference="adoption-paths-how-packaged-myths-enter-school-routines-myths-and-misconcept-medical-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for medical poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: medical poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=adoption-paths-how-packaged-myths-enter-school-routines-myths-and-misconcept-medical-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical poster" data-ebay-reference="adoption-paths-how-packaged-myths-enter-school-routines-myths-and-misconcept-medical-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=adoption-paths-how-packaged-myths-enter-school-routines-myths-and-misconcept-medical-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical poster" data-ebay-reference="adoption-paths-how-packaged-myths-enter-school-routines-myths-and-misconcept-medical-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=adoption-paths-how-packaged-myths-enter-school-routines-myths-and-misconcept-medical-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical poster" data-ebay-reference="adoption-paths-how-packaged-myths-enter-school-routines-myths-and-misconcept-medical-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Human Brain Anatomy Poster Medical Doctor Anatomical Educational Poster A5-A1"><img src="{{ '/assets/images/marketplace-covers/d252c9d704756e344b96.jpg' | relative_url }}" alt="Listing image for Human Brain Anatomy Poster Medical Doctor Anatomical Educational Poster A5-A1" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=adoption-paths-how-packaged-myths-enter-school-routines-myths-and-misconcept-medical-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical poster" data-ebay-reference="adoption-paths-how-packaged-myths-enter-school-routines-myths-and-misconcept-medical-poster" target="_blank" rel="sponsored noopener noreferrer">Human Brain Anatomy Poster Medical Doctor Anatomical Educational Poster A5-A1</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=adoption-paths-how-packaged-myths-enter-school-routines-myths-and-misconcept-medical-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical poster" data-ebay-reference="adoption-paths-how-packaged-myths-enter-school-routines-myths-and-misconcept-medical-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for medical poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: medical poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=adoption-paths-how-packaged-myths-enter-school-routines-myths-and-misconcept-medical-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical poster" data-ebay-reference="adoption-paths-how-packaged-myths-enter-school-routines-myths-and-misconcept-medical-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=adoption-paths-how-packaged-myths-enter-school-routines-myths-and-misconcept-medical-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical poster" data-ebay-reference="adoption-paths-how-packaged-myths-enter-school-routines-myths-and-misconcept-medical-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -597,7 +597,7 @@ Understanding adoption pathways shifts attention from individual belief to insti
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -617,7 +617,7 @@ Understanding adoption pathways shifts attention from individual belief to insti
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -649,7 +649,7 @@ Understanding adoption pathways shifts attention from individual belief to insti
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -701,7 +701,7 @@ Understanding adoption pathways shifts attention from individual belief to insti
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -746,7 +746,7 @@ Understanding adoption pathways shifts attention from individual belief to insti
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -787,110 +787,110 @@ Understanding adoption pathways shifts attention from individual belief to insti
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3475349/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3475349/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>by S Dekker · 2012 · Cited by 1291 — Results showed that on average, teachers believed 49% of the neuromyths, particularly myths relat...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3475349/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3475349/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by S Dekker · 2012 · Cited by 1291 — Results showed that on average, teachers believed 49% of the neuromyths, particularly myths relat...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6889569/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC6889569/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Adoption, implementation and sustainability of school-based...by S Cassar · 2019 · Cited by 291 — We encourage schools and change age...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6889569/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC6889569/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Adoption, implementation and sustainability of school-based...by S Cassar · 2019 · Cited by 291 — We encourage schools and change age...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCThe Learning Styles Myth is Thriving in Higher Education  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4678182/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4678182/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>by PM Newton · 2015 · Cited by 476 — The existence of &#x27;Learning Styles&#x27; is a common &#x27;neuromyth&#x27;, and their use in all forms of educati...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4678182/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4678182/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by PM Newton · 2015 · Cited by 476 — The existence of &#x27;Learning Styles&#x27; is a common &#x27;neuromyth&#x27;, and their use in all forms of educati...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6113575/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC6113575/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Modality-Specific Learning Style Hypothesis: A Mini-Reviewby K Aslaksen · 2018 · Cited by 98 — Several topical reviews have concluded tha...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6113575/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC6113575/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Modality-Specific Learning Style Hypothesis: A Mini-Reviewby K Aslaksen · 2018 · Cited by 98 — Several topical reviews have concluded tha...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: educationendowmentfoundation.org.uk  
-   Link: <a href="https://educationendowmentfoundation.org.uk/news/prioritise-fewer-things-and-do-them-well-to-make-long-term-positive-changes-to-teaching-practice" target="_blank" rel="noopener noreferrer nofollow">https://educationendowmentfoundation.org.uk/news/prioritise-fewer-things-and-do-them-well-to-make-long-term-positive-changes-to-teaching-practice</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>EEFPrioritise fewer things and do them well to make long-term,…24 Apr 2024 — The previous edition of the EEF&#x27;s guidance on implementation...</p></details>
+   Link:<a href="https://educationendowmentfoundation.org.uk/news/prioritise-fewer-things-and-do-them-well-to-make-long-term-positive-changes-to-teaching-practice" target="_blank" rel="noopener noreferrer nofollow">https://educationendowmentfoundation.org.uk/news/prioritise-fewer-things-and-do-them-well-to-make-long-term-positive-changes-to-teaching-practice</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>EEFPrioritise fewer things and do them well to make long-term,…24 Apr 2024 — The previous edition of the EEF&#x27;s guidance on implementation...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: frontiersin.org  
-   Link: <a href="https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2023.1147498/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2023.1147498/full</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>FrontiersThe persistence of matching teaching and learning stylesby SBRE Brown · 2023 · Cited by 39 — One such neuromyth claims that matc...</p></details>
+   Link:<a href="https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2023.1147498/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2023.1147498/full</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FrontiersThe persistence of matching teaching and learning stylesby SBRE Brown · 2023 · Cited by 39 — One such neuromyth claims that matc...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: educationendowmentfoundation.org.uk  
-   Link: <a href="https://educationendowmentfoundation.org.uk/education-evidence/guidance-reports/implementation" target="_blank" rel="noopener noreferrer nofollow">https://educationendowmentfoundation.org.uk/education-evidence/guidance-reports/implementation</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>EEFA School&#x27;s Guide to Implementation24 Apr 2024 — Our guidance on effective implementation - and its accompanying resources – help educa...</p></details>
+   Link:<a href="https://educationendowmentfoundation.org.uk/education-evidence/guidance-reports/implementation" target="_blank" rel="noopener noreferrer nofollow">https://educationendowmentfoundation.org.uk/education-evidence/guidance-reports/implementation</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>EEFA School&#x27;s Guide to Implementation24 Apr 2024 — Our guidance on effective implementation - and its accompanying resources – help educa...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: tandfonline.com  
-   Link: <a href="https://www.tandfonline.com/doi/full/10.1080/02667363.2024.2414455" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/full/10.1080/02667363.2024.2414455</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>We sometimes feel like there&#x27;s...Read more...</p></details>
+   Link:<a href="https://www.tandfonline.com/doi/full/10.1080/02667363.2024.2414455" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/full/10.1080/02667363.2024.2414455</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>We sometimes feel like there&#x27;s...Read more...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: frontiersin.org  
-   Link: <a href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2020.591923/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2020.591923/full</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Persistence of Neuromyths in the Educational Settingsby M Torrijos-Muelas · 2021 · Cited by 273 — After two decades of publications o...</p></details>
+   Link:<a href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2020.591923/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2020.591923/full</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Persistence of Neuromyths in the Educational Settingsby M Torrijos-Muelas · 2021 · Cited by 273 — After two decades of publications o...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: frontiersin.org  
-   Link: <a href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2017.01314/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2017.01314/full</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Dispelling the Myth: Training in Education or Neuroscience...by K Macdonald · 2017 · Cited by 455 — These findings suggest that training...</p></details>
+   Link:<a href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2017.01314/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2017.01314/full</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Dispelling the Myth: Training in Education or Neuroscience...by K Macdonald · 2017 · Cited by 455 — These findings suggest that training...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: dera.ioe.ac.uk  
-   Link: <a href="https://dera.ioe.ac.uk/id/eprint/31088/1/EEF-Implementation-Guidance-Report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://dera.ioe.ac.uk/id/eprint/31088/1/EEF-Implementation-Guidance-Report.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Digital Education Resource ArchiveEEF-Implementation-Guidance-Report.pdfThe guide can be used to help implement any school improvement de...</p></details>
+   Link:<a href="https://dera.ioe.ac.uk/id/eprint/31088/1/EEF-Implementation-Guidance-Report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://dera.ioe.ac.uk/id/eprint/31088/1/EEF-Implementation-Guidance-Report.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Digital Education Resource ArchiveEEF-Implementation-Guidance-Report.pdfThe guide can be used to help implement any school improvement de...</p></details>
 
 ### Additional References
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: educationendowmentfoundation.org.uk  
-   Link: <a href="https://educationendowmentfoundation.org.uk/projects-and-evaluation/evaluation/eef-evaluation-reports-and-research-papers" target="_blank" rel="noopener noreferrer nofollow">https://educationendowmentfoundation.org.uk/projects-and-evaluation/evaluation/eef-evaluation-reports-and-research-papers</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>EEF evaluation reports and research papersTo support the conduct of rigorous, high-quality evaluations, we have published a collection of...</p></details>
+   Link:<a href="https://educationendowmentfoundation.org.uk/projects-and-evaluation/evaluation/eef-evaluation-reports-and-research-papers" target="_blank" rel="noopener noreferrer nofollow">https://educationendowmentfoundation.org.uk/projects-and-evaluation/evaluation/eef-evaluation-reports-and-research-papers</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>EEF evaluation reports and research papersTo support the conduct of rigorous, high-quality evaluations, we have published a collection of...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: educationendowmentfoundation.org.uk  
-   Link: <a href="https://educationendowmentfoundation.org.uk/projects-and-evaluation/evaluation/process-and-people/pipeline-of-eef-trials" target="_blank" rel="noopener noreferrer nofollow">https://educationendowmentfoundation.org.uk/projects-and-evaluation/evaluation/process-and-people/pipeline-of-eef-trials</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>EEF&#x27;s programme pipeline of evidence generationThe EEF&#x27;s programme grant funding generates new evidence to enhance our understanding of w...</p></details>
+   Link:<a href="https://educationendowmentfoundation.org.uk/projects-and-evaluation/evaluation/process-and-people/pipeline-of-eef-trials" target="_blank" rel="noopener noreferrer nofollow">https://educationendowmentfoundation.org.uk/projects-and-evaluation/evaluation/process-and-people/pipeline-of-eef-trials</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>EEF&#x27;s programme pipeline of evidence generationThe EEF&#x27;s programme grant funding generates new evidence to enhance our understanding of w...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/posts/education-endowment-foundation_new-edition-eef-guidance-report-a-school-activity-7188823072638935040-13kr" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/education-endowment-foundation_new-edition-eef-guidance-report-a-school-activity-7188823072638935040-13kr</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Education Endowment Foundation (EEF)&#x27;s PostNEW EDITION EEF guidance report – “A School&#x27;s Guide to Implementation&quot; Based on a new and exte...</p></details>
+   Link:<a href="https://www.linkedin.com/posts/education-endowment-foundation_new-edition-eef-guidance-report-a-school-activity-7188823072638935040-13kr" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/education-endowment-foundation_new-edition-eef-guidance-report-a-school-activity-7188823072638935040-13kr</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Education Endowment Foundation (EEF)&#x27;s PostNEW EDITION EEF guidance report – “A School&#x27;s Guide to Implementation&quot; Based on a new and exte...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: innerdrive.co.uk  
-   Link: <a href="https://www.innerdrive.co.uk/blog/combat-neuromyths/" target="_blank" rel="noopener noreferrer nofollow">https://www.innerdrive.co.uk/blog/combat-neuromyths/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Neuromyths and how to combat them: An educator&#x27;s guideNeuromyths are misconceptions about how the brain functions and learns. These myths...</p></details>
+   Link:<a href="https://www.innerdrive.co.uk/blog/combat-neuromyths/" target="_blank" rel="noopener noreferrer nofollow">https://www.innerdrive.co.uk/blog/combat-neuromyths/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Neuromyths and how to combat them: An educator&#x27;s guideNeuromyths are misconceptions about how the brain functions and learns. These myths...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: educationendowmentfoundation.org.uk  
-   Link: <a href="https://educationendowmentfoundation.org.uk/projects-and-evaluation/capability-building-and-scaling-support-for-delivery-teams/scaling-guidance-and-resources" target="_blank" rel="noopener noreferrer nofollow">https://educationendowmentfoundation.org.uk/projects-and-evaluation/capability-building-and-scaling-support-for-delivery-teams/scaling-guidance-and-resources</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Scaling guidance and resourcesWe work with capability building support providers and delivery teams at scale to produce guidance and tool...</p></details>
+   Link:<a href="https://educationendowmentfoundation.org.uk/projects-and-evaluation/capability-building-and-scaling-support-for-delivery-teams/scaling-guidance-and-resources" target="_blank" rel="noopener noreferrer nofollow">https://educationendowmentfoundation.org.uk/projects-and-evaluation/capability-building-and-scaling-support-for-delivery-teams/scaling-guidance-and-resources</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Scaling guidance and resourcesWe work with capability building support providers and delivery teams at scale to produce guidance and tool...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: discovery.ucl.ac.uk  
-   Link: <a href="https://discovery.ucl.ac.uk/10068468/" target="_blank" rel="noopener noreferrer nofollow">https://discovery.ucl.ac.uk/10068468/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UCL DiscoveryPutting Evidence to Work: A School&#x27;s Guide to ImplementationThe guide can be used to help implement any school improvement d...</p></details>
+   Link:<a href="https://discovery.ucl.ac.uk/10068468/" target="_blank" rel="noopener noreferrer nofollow">https://discovery.ucl.ac.uk/10068468/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UCL DiscoveryPutting Evidence to Work: A School&#x27;s Guide to ImplementationThe guide can be used to help implement any school improvement d...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: my.chartered.college  
-   Link: <a href="https://my.chartered.college/impact_article/teachers-understanding-of-neuromyths-a-role-for-educational-neuroscience-in-teacher-training/" target="_blank" rel="noopener noreferrer nofollow">https://my.chartered.college/impact_article/teachers-understanding-of-neuromyths-a-role-for-educational-neuroscience-in-teacher-training/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>chartered.collegeTeachers&#x27; understanding of neuromyths: A role for...20 Sept 2022 — The current study aimed to understand the degree to...</p></details>
+   Link:<a href="https://my.chartered.college/impact_article/teachers-understanding-of-neuromyths-a-role-for-educational-neuroscience-in-teacher-training/" target="_blank" rel="noopener noreferrer nofollow">https://my.chartered.college/impact_article/teachers-understanding-of-neuromyths-a-role-for-educational-neuroscience-in-teacher-training/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>chartered.collegeTeachers&#x27; understanding of neuromyths: A role for...20 Sept 2022 — The current study aimed to understand the degree to...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: dremilywhitehorse.com  
-   Link: <a href="https://www.dremilywhitehorse.com/blog/did-you-know-that-learning-styles-are-considered-a-neuromyth" target="_blank" rel="noopener noreferrer nofollow">https://www.dremilywhitehorse.com/blog/did-you-know-that-learning-styles-are-considered-a-neuromyth</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A neuromyth is a misconception, misunderstanding, or misuse of information about the brain, which leads to false conclusions.Read more...</p></details>
+   Link:<a href="https://www.dremilywhitehorse.com/blog/did-you-know-that-learning-styles-are-considered-a-neuromyth" target="_blank" rel="noopener noreferrer nofollow">https://www.dremilywhitehorse.com/blog/did-you-know-that-learning-styles-are-considered-a-neuromyth</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A neuromyth is a misconception, misunderstanding, or misuse of information about the brain, which leads to false conclusions.Read more...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: educationendowmentfoundation.org.uk  
-   Link: <a href="https://educationendowmentfoundation.org.uk/news/new-report-finds-pilot-to-support-evidence-informed-school-improvement-shows-promise" target="_blank" rel="noopener noreferrer nofollow">https://educationendowmentfoundation.org.uk/news/new-report-finds-pilot-to-support-evidence-informed-school-improvement-shows-promise</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>New report finds pilot to support evidence-informed school…7 Dec 2023 — The Education Endowment Foundation (EEF) has published the indepe...</p></details>
+   Link:<a href="https://educationendowmentfoundation.org.uk/news/new-report-finds-pilot-to-support-evidence-informed-school-improvement-shows-promise" target="_blank" rel="noopener noreferrer nofollow">https://educationendowmentfoundation.org.uk/news/new-report-finds-pilot-to-support-evidence-informed-school-improvement-shows-promise</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>New report finds pilot to support evidence-informed school…7 Dec 2023 — The Education Endowment Foundation (EEF) has published the indepe...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/332566211_School_Adoption_by_School-University_Partnerships_-_an_example_from_Germany" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/332566211_School_Adoption_by_School-University_Partnerships_-_an_example_from_Germany</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) School Adoption by School-University Partnerships22 Apr 2019 — The partnership model &#x27;School Adoption&#x27; was developed in Norway as a...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/332566211_School_Adoption_by_School-University_Partnerships_-_an_example_from_Germany" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/332566211_School_Adoption_by_School-University_Partnerships_-_an_example_from_Germany</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) School Adoption by School-University Partnerships22 Apr 2019 — The partnership model &#x27;School Adoption&#x27; was developed in Norway as a...</p></details>

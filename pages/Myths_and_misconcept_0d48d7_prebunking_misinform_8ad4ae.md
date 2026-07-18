@@ -504,11 +504,11 @@ image: /assets/images/Myths_and_misconcept_0d48d7_prebunking_misinform_8ad4ae-ov
 Prebunking is the attempt to protect people before a misleading claim reaches them. Instead of waiting for a specific myth to spread and then correcting it, a prebunk warns people about [the tricks]({{ 'the-trick/' | relative_url }}) that myths often use: emotional manipulation, fake experts, false dilemmas, conspiracy framing, scapegoating, decontextualised images, or attacks on trustworthy sources. The aim is not to make people cynical about everything, but to give them a small, memorable pattern-recognition tool before the next misleading post, advert, rumour or forwarded message appears.
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_prebunking_misinform_8ad4ae-overview.webp" | relative_url }}" alt="Overview image for Prebunking" loading="eager" decoding="sync" fetchpriority="high">
-This matters because misinformation often travels faster than [corrections]({{ 'corrections/' | relative_url }}) can catch up. A good prebunk works like a warning label for manipulation: “Here is the tactic you may see; here is how it works; here is what to check before you share.” Research on psychological inoculation, including large online experiments and field campaigns, suggests that this approach can improve people’s ability to recognise misleading techniques across different topics, though it is not a substitute for fact-checking, [platform design]({{ 'platform-design/' | relative_url }}), trusted journalism or public transparency. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.science.org/doi/10.1126/sciadv.abo6254" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.org">[Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.org</span><span class="citation-popover-snippet">Psychological inoculation improves resilience against...by J Roozenbeek · 2022 · Cited by 632 — We show that psychological inocul...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10498317/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Psychological Inoculation for Credibility Assessment, Sharing...by C Lu · 2023 · Cited by 125 — In this study, we conducted a meta-an...</span></span></span>
+This matters because misinformation often travels faster than [corrections]({{ 'corrections/' | relative_url }}) can catch up. A good prebunk works like a warning label for manipulation: “Here is the tactic you may see; here is how it works; here is what to check before you share.” Research on psychological inoculation, including large online experiments and field campaigns, suggests that this approach can improve people’s ability to recognise misleading techniques across different topics, though it is not a substitute for fact-checking, [platform design]({{ 'platform-design/' | relative_url }}), trusted journalism or public transparency.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.science.org/doi/10.1126/sciadv.abo6254" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.org">[Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.org</span><span class="citation-popover-snippet">Psychological inoculation improves resilience against...by J Roozenbeek · 2022 · Cited by 632 — We show that psychological inocul...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10498317/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Psychological Inoculation for Credibility Assessment, Sharing...by C Lu · 2023 · Cited by 125 — In this study, we conducted a meta-an...</span></span></span>
 
 ## Why prebunking uses inoculation as a metaphor
 
-The most common explanation of prebunking comes from psychological inoculation theory. The metaphor is deliberately simple: just as a medical vaccine exposes the body to a weakened version of a threat so it can respond later, a misinformation inoculation exposes people to a weakened version of a manipulation tactic so they can recognise it when it appears in stronger form. In practice, this usually means two things: a warning that manipulation is possible, and a brief explanation or example of the tactic. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ncbi.nlm.nih.gov/books/NBK609022/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ncbi.nlm.nih.gov">[NCBI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Prebunking Against Misinformation in the Modern Digital Ageby CS Traberg · 2023 · Cited by 38 — In recent years, research has shown t...</span></span></span>
+The most common explanation of prebunking comes from psychological inoculation theory. The metaphor is deliberately simple: just as a medical vaccine exposes the body to a weakened version of a threat so it can respond later, a misinformation inoculation exposes people to a weakened version of a manipulation tactic so they can recognise it when it appears in stronger form. In practice, this usually means two things: a warning that manipulation is possible, and a brief explanation or example of the tactic.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ncbi.nlm.nih.gov/books/NBK609022/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ncbi.nlm.nih.gov">[NCBI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Prebunking Against Misinformation in the Modern Digital Ageby CS Traberg · 2023 · Cited by 38 — In recent years, research has shown t...</span></span></span>
 
 This is different from simply saying “do not believe false information”. A useful prebunk gives the reader a mental handle. For example, instead of predicting every false claim that might appear during an election, a prebunk might teach voters to watch for posts claiming that the election date has changed, that a polling place is closed, or that an image from another country proves something about a local candidate. It does not need to know every future rumour; it teaches the warning signs that make a rumour worth pausing over.
 
@@ -522,9 +522,9 @@ A fact-based prebunk targets a likely false claim before it spreads. A tactic-ba
 
 A fact-based prebunk is strongest when a false claim is predictable. Election authorities, for example, can warn in advance that official polling dates, registration deadlines and vote-counting processes should be checked through named official channels. Public health bodies can warn before winter that misleading miracle-cure claims and fake screenshots of official advice tend to circulate during seasonal illness spikes. This kind of prebunk is narrow, but it can be powerful when the myth is expected.
 
-A tactic-based prebunk is more portable. It teaches people to recognise the method behind a misleading claim, even when the subject changes. The practical guide developed by the University of Cambridge, BBC Media Action and Google’s Jigsaw describes prebunking as a way to build pre-emptive resilience against misleading and manipulative information, not merely as a one-off correction of a single rumour. <span class="citation-chip-wrap"><a class="citation-chip" href="https://prebunking.withgoogle.com/docs/A_Practical_Guide_to_Prebunking_Misinformation.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: prebunking.withgoogle.com">[Prebunking]</a><span class="citation-popover" role="note"><span class="citation-popover-source">prebunking.withgoogle.com</span><span class="citation-popover-title">Prebunking Misinformation</span><span class="citation-popover-snippet">UNHCRPrebunking &#124; UNHCR Information Integrity Toolkit10 Mar 2025 — Pre-bunking is a preventative measure that aims to prepare audiences t</span></span></span>
+A tactic-based prebunk is more portable. It teaches people to recognise the method behind a misleading claim, even when the subject changes. The practical guide developed by the University of Cambridge, BBC Media Action and Google’s Jigsaw describes prebunking as a way to build pre-emptive resilience against misleading and manipulative information, not merely as a one-off correction of a single rumour.<span class="citation-chip-wrap"><a class="citation-chip" href="https://prebunking.withgoogle.com/docs/A_Practical_Guide_to_Prebunking_Misinformation.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: prebunking.withgoogle.com">[Prebunking]</a><span class="citation-popover" role="note"><span class="citation-popover-source">prebunking.withgoogle.com</span><span class="citation-popover-title">Prebunking Misinformation</span><span class="citation-popover-snippet">UNHCRPrebunking &#124; UNHCR Information Integrity Toolkit10 Mar 2025 — Pre-bunking is a preventative measure that aims to prepare audiences t</span></span></span>
 
-Common tactics include: <span class="citation-chip-wrap"><a class="citation-chip" href="https://apnews.com/article/a10273eea5a0227c38187cc4f84d8788" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apnews.com">[apnews.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apnews.com</span><span class="citation-popover-title">AP News Google to expand misinformation &#x27;prebunking&#x27; in Europe</span><span class="citation-popover-snippet">AP News Google to expand misinformation &#x27;prebunking&#x27; in Europe</span></span></span>
+Common tactics include:<span class="citation-chip-wrap"><a class="citation-chip" href="https://apnews.com/article/a10273eea5a0227c38187cc4f84d8788" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apnews.com">[apnews.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apnews.com</span><span class="citation-popover-title">AP News Google to expand misinformation &#x27;prebunking&#x27; in Europe</span><span class="citation-popover-snippet">AP News Google to expand misinformation &#x27;prebunking&#x27; in Europe</span></span></span>
 
 <div class="content-enhancement content-enhancement--caution" markdown="1">
 
@@ -543,13 +543,13 @@ This tactic-based focus is why prebunking fits naturally inside the wider subjec
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_prebunking_misinform_8ad4ae-Illustration-1-dark.svg" | relative_url }}" alt="Prebunking illustration 1" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_prebunking_misinform_8ad4ae-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_prebunking_misinform_8ad4ae-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What the evidence says prebunking can do
 
-The strongest evidence for prebunking comes from controlled experiments and online field studies that test whether people become better at identifying manipulation or judging misinformation after a short intervention. A 2022 Science Advances study tested short inoculation videos about manipulation techniques and reported improved ability to spot misinformation techniques, including in a large YouTube field experiment run with millions of impressions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.science.org/doi/10.1126/sciadv.abo6254" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.org">[Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.org</span><span class="citation-popover-snippet">Psychological inoculation improves resilience against...by J Roozenbeek · 2022 · Cited by 632 — We show that psychological inocul...</span></span></span>
+The strongest evidence for prebunking comes from controlled experiments and online field studies that test whether people become better at identifying manipulation or judging misinformation after a short intervention. A 2022 Science Advances study tested short inoculation videos about manipulation techniques and reported improved ability to spot misinformation techniques, including in a large YouTube field experiment run with millions of impressions.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.science.org/doi/10.1126/sciadv.abo6254" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.org">[Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.org</span><span class="citation-popover-snippet">Psychological inoculation improves resilience against...by J Roozenbeek · 2022 · Cited by 632 — We show that psychological inocul...</span></span></span>
 
-Game-based prebunking has also been studied. The online game Bad News asks players to take on the role of a misinformation producer, using tactics such as impersonation, polarisation and conspiracy-building. A cross-cultural study in Harvard Kennedy School’s Misinformation Review found that this kind of “weakened dose” exposure could reduce susceptibility to common misinformation strategies across several countries. <span class="citation-chip-wrap"><a class="citation-chip" href="https://misinforeview.hks.harvard.edu/article/global-vaccination-badnews/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: misinforeview.hks.harvard.edu">[Misinformation Review]</a><span class="citation-popover" role="note"><span class="citation-popover-source">misinforeview.hks.harvard.edu</span><span class="citation-popover-title">Misinformation Review Prebunking interventions based on “inoculation” theory can</span><span class="citation-popover-snippet">Misinformation Review Prebunking interventions based on “inoculation” theory can</span></span></span>
+Game-based prebunking has also been studied. The online game Bad News asks players to take on the role of a misinformation producer, using tactics such as impersonation, polarisation and conspiracy-building. A cross-cultural study in Harvard Kennedy School’s Misinformation Review found that this kind of “weakened dose” exposure could reduce susceptibility to common misinformation strategies across several countries.<span class="citation-chip-wrap"><a class="citation-chip" href="https://misinforeview.hks.harvard.edu/article/global-vaccination-badnews/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: misinforeview.hks.harvard.edu">[Misinformation Review]</a><span class="citation-popover" role="note"><span class="citation-popover-source">misinforeview.hks.harvard.edu</span><span class="citation-popover-title">Misinformation Review Prebunking interventions based on “inoculation” theory can</span><span class="citation-popover-snippet">Misinformation Review Prebunking interventions based on “inoculation” theory can</span></span></span>
 
-Meta-analytic work is broadly supportive but more cautious than campaign [slogans]({{ 'slogans/' | relative_url }}) sometimes suggest. A 2023 meta-analysis of psychological inoculation against misinformation reviewed 42 independent studies and found evidence that inoculation can improve credibility assessment and reduce willingness to share misinformation, while also noting variation by intervention type and outcome measured. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10498317/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Psychological Inoculation for Credibility Assessment, Sharing...by C Lu · 2023 · Cited by 125 — In this study, we conducted a meta-an...</span></span></span>
+Meta-analytic work is broadly supportive but more cautious than campaign [slogans]({{ 'slogans/' | relative_url }}) sometimes suggest. A 2023 meta-analysis of psychological inoculation against misinformation reviewed 42 independent studies and found evidence that inoculation can improve credibility assessment and reduce willingness to share misinformation, while also noting variation by intervention type and outcome measured.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10498317/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Psychological Inoculation for Credibility Assessment, Sharing...by C Lu · 2023 · Cited by 125 — In this study, we conducted a meta-an...</span></span></span>
 
-More recent field research has tested whether prebunking can be embedded directly into social media feeds rather than delivered only in lab settings. A 2026 Instagram field study reported that users exposed to a brief emotional-manipulation prebunk were 21 percentage points better than controls at identifying manipulation in a headline, with effects persisting for five months, and were more likely to click through for additional information. <span class="citation-chip-wrap"><a class="citation-chip" href="https://misinforeview.hks.harvard.edu/article/global-vaccination-badnews/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: misinforeview.hks.harvard.edu">[Misinformation Review]</a><span class="citation-popover" role="note"><span class="citation-popover-source">misinforeview.hks.harvard.edu</span><span class="citation-popover-title">Misinformation Review Prebunking interventions based on “inoculation” theory can</span><span class="citation-popover-snippet">Misinformation Review Prebunking interventions based on “inoculation” theory can</span></span></span>
+More recent field research has tested whether prebunking can be embedded directly into social media feeds rather than delivered only in lab settings. A 2026 Instagram field study reported that users exposed to a brief emotional-manipulation prebunk were 21 percentage points better than controls at identifying manipulation in a headline, with effects persisting for five months, and were more likely to click through for additional information.<span class="citation-chip-wrap"><a class="citation-chip" href="https://misinforeview.hks.harvard.edu/article/global-vaccination-badnews/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: misinforeview.hks.harvard.edu">[Misinformation Review]</a><span class="citation-popover" role="note"><span class="citation-popover-source">misinforeview.hks.harvard.edu</span><span class="citation-popover-title">Misinformation Review Prebunking interventions based on “inoculation” theory can</span><span class="citation-popover-snippet">Misinformation Review Prebunking interventions based on “inoculation” theory can</span></span></span>
 
 The important interpretation is modest but meaningful: prebunking can improve recognition of misleading techniques. It does not guarantee that people will reject every false claim, change their political [identity]({{ 'identity/' | relative_url }}), stop sharing all dubious content or trust every official source. Its clearest contribution is giving people a pause point before belief and sharing harden.
 
@@ -557,9 +557,9 @@ The important interpretation is modest but meaningful: prebunking can improve re
 
 Prebunking is most useful when the misleading pattern is foreseeable but the exact claim is not. This is why it often appears in election protection, public health communication, disaster response and platform safety campaigns. The intervention is well suited to moments when audiences are about to enter a noisy information environment and need fast heuristics for caution.
 
-Google’s Jigsaw has used prebunking campaigns in several countries, including videos designed to teach manipulation techniques such as fearmongering, false comparisons, exaggeration, decontextualisation and scapegoating. Associated reporting on European campaigns notes that the approach is attractive partly because it can avoid arguing over every political claim while still teaching people how manipulation works. <span class="citation-chip-wrap"><a class="citation-chip" href="https://apnews.com/article/a10273eea5a0227c38187cc4f84d8788" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apnews.com">[AP News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apnews.com</span><span class="citation-popover-title">AP News Google to expand misinformation &#x27;prebunking&#x27; in Europe</span><span class="citation-popover-snippet">AP News Google to expand misinformation &#x27;prebunking&#x27; in Europe</span></span></span>
+Google’s Jigsaw has used prebunking campaigns in several countries, including videos designed to teach manipulation techniques such as fearmongering, false comparisons, exaggeration, decontextualisation and scapegoating. Associated reporting on European campaigns notes that the approach is attractive partly because it can avoid arguing over every political claim while still teaching people how manipulation works.<span class="citation-chip-wrap"><a class="citation-chip" href="https://apnews.com/article/a10273eea5a0227c38187cc4f84d8788" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apnews.com">[AP News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apnews.com</span><span class="citation-popover-title">AP News Google to expand misinformation &#x27;prebunking&#x27; in Europe</span><span class="citation-popover-snippet">AP News Google to expand misinformation &#x27;prebunking&#x27; in Europe</span></span></span>
 
-Humanitarian and public-interest organisations use similar logic. UNHCR’s information integrity toolkit describes prebunking as a preventative measure that prepares audiences to recognise and resist information risks, especially where reactive debunking can be overwhelmed by the speed of rumours, hate speech or crisis misinformation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.unhcr.org/handbooks/informationintegrity/practical-tools/prebunking" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unhcr.org">[UNHCR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unhcr.org</span><span class="citation-popover-snippet">Prebunking &#124; UNHCR Information Integrity Toolkit10 Mar 2025 — Pre-bunking is a preventative measure that aims to prepare audiences t...</span></span></span>
+Humanitarian and public-interest organisations use similar logic. UNHCR’s information integrity toolkit describes prebunking as a preventative measure that prepares audiences to recognise and resist information risks, especially where reactive debunking can be overwhelmed by the speed of rumours, hate speech or crisis misinformation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.unhcr.org/handbooks/informationintegrity/practical-tools/prebunking" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unhcr.org">[UNHCR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unhcr.org</span><span class="citation-popover-snippet">Prebunking &#124; UNHCR Information Integrity Toolkit10 Mar 2025 — Pre-bunking is a preventative measure that aims to prepare audiences t...</span></span></span>
 
 Prebunking tends to work best when it is:
 
@@ -584,7 +584,7 @@ A strong prebunk usually has three parts: a warning, a weakened example and a pr
 
 For example, a prebunk about decontextualised images might say: “After major breaking news, old images are often reposted as if they show the current event. Before sharing, check when the image first appeared, whether trusted outlets have verified it, and whether the caption matches the location.” This is more useful than “do not trust viral images”, because it preserves the reader’s agency and gives them a test.
 
-A prebunk about emotional manipulation might say: “Posts that make you feel instant fury or panic may be trying to rush you past evidence. Strong emotion is not proof that a claim is false, but it is a reason to slow down.” The point is not to suppress emotion; many true injustices are emotionally powerful. The point is to notice when emotion is being used as a substitute for evidence. Research on social media prebunking has specifically focused on emotional manipulation because misinformation often exploits outrage and other negative emotions to steer attention away from facts. <span class="citation-chip-wrap"><a class="citation-chip" href="https://misinforeview.hks.harvard.edu/article/global-vaccination-badnews/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: misinforeview.hks.harvard.edu">[Misinformation Review]</a><span class="citation-popover" role="note"><span class="citation-popover-source">misinforeview.hks.harvard.edu</span><span class="citation-popover-title">Misinformation Review Prebunking interventions based on “inoculation” theory can</span><span class="citation-popover-snippet">Misinformation Review Prebunking interventions based on “inoculation” theory can</span></span></span>
+A prebunk about emotional manipulation might say: “Posts that make you feel instant fury or panic may be trying to rush you past evidence. Strong emotion is not proof that a claim is false, but it is a reason to slow down.” The point is not to suppress emotion; many true injustices are emotionally powerful. The point is to notice when emotion is being used as a substitute for evidence. Research on social media prebunking has specifically focused on emotional manipulation because misinformation often exploits outrage and other negative emotions to steer attention away from facts.<span class="citation-chip-wrap"><a class="citation-chip" href="https://misinforeview.hks.harvard.edu/article/global-vaccination-badnews/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: misinforeview.hks.harvard.edu">[Misinformation Review]</a><span class="citation-popover" role="note"><span class="citation-popover-source">misinforeview.hks.harvard.edu</span><span class="citation-popover-title">Misinformation Review Prebunking interventions based on “inoculation” theory can</span><span class="citation-popover-snippet">Misinformation Review Prebunking interventions based on “inoculation” theory can</span></span></span>
 
 A prebunk about fake experts might say: “A person can be confident, popular or credentialled in one area without being a reliable authority on this subject. Check whether their expertise matches the claim.” That warning can travel across health myths, climate misconceptions, financial rumours and political hoaxes.
 
@@ -596,9 +596,9 @@ Debunking corrects a false claim after it appears. Prebunking warns about a clai
 
 Debunking is necessary when a specific falsehood is already circulating: a fake public-health notice, a false election date, a fabricated quote, a misleading image from another event. It can supply the missing facts and reduce the continued influence of the false claim. Prebunking is useful when the next falsehood is predictable only in shape: the rumour will use fear, fake authority, scapegoating or manipulated context, but the exact wording is not yet known.
 
-Evidence does not support the simplistic idea that one approach always beats the other. A European Commission Joint Research Centre summary of a Nature study reported that both prebunking and debunking reduced agreement with false claims, perceived credibility and likelihood of sharing misinformation in tested areas such as climate change and COVID-19 [vaccines]({{ 'vaccines/' | relative_url }}). <span class="citation-chip-wrap"><a class="citation-chip" href="https://joint-research-centre.ec.europa.eu/jrc-news-and-updates/misinformation-and-disinformation-both-prebunking-and-debunking-work-fighting-it-2024-10-25_en" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: joint-research-centre.ec.europa.eu">[Joint Research Centre]</a><span class="citation-popover" role="note"><span class="citation-popover-source">joint-research-centre.ec.europa.eu</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Evidence does not support the simplistic idea that one approach always beats the other. A European Commission Joint Research Centre summary of a Nature study reported that both prebunking and debunking reduced agreement with false claims, perceived credibility and likelihood of sharing misinformation in tested areas such as climate change and COVID-19 [vaccines]({{ 'vaccines/' | relative_url }}).<span class="citation-chip-wrap"><a class="citation-chip" href="https://joint-research-centre.ec.europa.eu/jrc-news-and-updates/misinformation-and-disinformation-both-prebunking-and-debunking-work-fighting-it-2024-10-25_en" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: joint-research-centre.ec.europa.eu">[Joint Research Centre]</a><span class="citation-popover" role="note"><span class="citation-popover-source">joint-research-centre.ec.europa.eu</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-A 2026 set of experiments comparing fact-based prebunking and debunking found that debunking consistently reduced trust in disinformation over at least two weeks, while prebunking produced durable benefits mainly when people evaluated the corrected disinformation soon afterwards. The same work reported no significant backfire effects across ideological groups, which is important because fear of “making things worse” has sometimes discouraged corrections. <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/01461672251411571" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+A 2026 set of experiments comparing fact-based prebunking and debunking found that debunking consistently reduced trust in disinformation over at least two weeks, while prebunking produced durable benefits mainly when people evaluated the corrected disinformation soon afterwards. The same work reported no significant backfire effects across ideological groups, which is important because fear of “making things worse” has sometimes discouraged corrections.<span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/01461672251411571" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 The practical lesson is not “prebunk instead of debunk”. It is: use prebunking to prepare people before predictable manipulation, and use debunking to correct concrete falsehoods once they appear.
 
@@ -609,7 +609,7 @@ As a policy intervention, prebunking sits between media literacy, public communi
 
 Government bodies may have the reach and responsibility to warn about election procedures, public-health frauds or emergency rumours. But if trust in government is low, a government-branded prebunk may be dismissed by the very audiences it needs to reach. Newsrooms and fact-checkers may be trusted by some audiences but distrusted by others. Platforms can deliver prebunks at scale, but their role raises questions about transparency, accountability and whether brief safety messages compensate for recommendation systems that reward sensational content.
 
-International policy organisations tend to frame prebunking as one part of a wider information-integrity approach. The OECD argues that media and information literacy should form part of a broader effort to reinforce information integrity, including understanding digital platforms, recommendation systems and generative AI. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.oecd.org/en/topics/sub-issues/disinformation-and-misinformation.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oecd.org">[OECD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oecd.org</span><span class="citation-popover-snippet">Open source on oecd.org.</span></span></span> UNESCO similarly presents media and information literacy as a first line of defence against disinformation because it helps people become more critical users and producers of information. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.unesco.org/en/articles/media-and-information-literacy-first-line-defence-against-disinformation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unesco.org">[UNESCO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unesco.org</span><span class="citation-popover-snippet">Open source on unesco.org.</span></span></span>
+International policy organisations tend to frame prebunking as one part of a wider information-integrity approach. The OECD argues that media and information literacy should form part of a broader effort to reinforce information integrity, including understanding digital platforms, recommendation systems and generative AI.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.oecd.org/en/topics/sub-issues/disinformation-and-misinformation.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oecd.org">[OECD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oecd.org</span><span class="citation-popover-snippet">Open source on oecd.org.</span></span></span> UNESCO similarly presents media and information literacy as a first line of defence against disinformation because it helps people become more critical users and producers of information.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.unesco.org/en/articles/media-and-information-literacy-first-line-defence-against-disinformation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unesco.org">[UNESCO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unesco.org</span><span class="citation-popover-snippet">Open source on unesco.org.</span></span></span>
 
 Implementation therefore depends on matching the messenger to the risk:
 
@@ -632,7 +632,7 @@ The most credible programmes avoid pretending that prebunking alone can fix a po
 
 Prebunking can fail when it is too vague. “Think before you share” is sound advice, but it gives people little help when they are facing a convincing screenshot or an emotional personal story. A warning needs enough detail to be usable.
 
-It can also fail when it arrives too early or too late. If a warning is delivered long before the relevant misinformation appears, people may forget it. If it arrives after the myth has already spread, it may function more like a debunk and face the usual problem of correcting established impressions. Some evidence suggests timing and proximity to later exposure can shape whether prebunking effects endure. <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/01461672251411571" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+It can also fail when it arrives too early or too late. If a warning is delivered long before the relevant misinformation appears, people may forget it. If it arrives after the myth has already spread, it may function more like a debunk and face the usual problem of correcting established impressions. Some evidence suggests timing and proximity to later exposure can shape whether prebunking effects endure.<span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/01461672251411571" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 Another risk is overgeneralised scepticism. A badly designed prebunk can teach people to distrust all sources rather than recognise specific manipulation. That may be especially harmful in crises, where people need reliable instructions quickly. Effective prebunking should distinguish between healthy caution and blanket cynicism: “check whether this image is old” is better than “you cannot trust any images”.
 
@@ -667,194 +667,194 @@ That pause is the intervention. It does not require the reader to become a profe
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_prebunking_misinform_8ad4ae-Illustration-3-dark.svg" | relative_url }}" alt="Prebunking illustration 3" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_prebunking_misinform_8ad4ae-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_prebunking_misinform_8ad4ae-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Can You Protect People Before Myths Spread?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Can You Protect People Before Myths Spread?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Calling Bullshit on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Plu9DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Calling Bullshit" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Calling Bullshit">Calling Bullshit</a>
-        </h4>
-        <p class="fr-book-author">By Carl T. Bergstrom, Jevin D. West</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Calling Bullshit on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Plu9DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Calling Bullshit" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Calling Bullshit">Calling Bullshit</a>
+</h4>
+<p class="fr-book-author">By Carl T. Bergstrom, Jevin D. West</p>
         
-        <p class="fr-book-desc">Explains manipulation tactics, misleading claims, and skepticism.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains manipulation tactics, misleading claims, and skepticism.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Factfulness on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=rxg0tgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Factfulness" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Factfulness">Factfulness</a>
-        </h4>
-        <p class="fr-book-author">By Hans Rosling, Ola Rosling et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Factfulness on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=rxg0tgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Factfulness" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Factfulness">Factfulness</a>
+</h4>
+<p class="fr-book-author">By Hans Rosling, Ola Rosling et al.</p>
         
-        <p class="fr-book-desc">Helps readers resist misleading narratives and cognitive shortcuts.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps readers resist misleading narratives and cognitive shortcuts.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Skeptics&#x27; Guide to the Universe on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CuVKDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Skeptics&#x27; Guide to the Universe" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Skeptics&#x27; Guide to the Universe">The Skeptics&#x27; Guide to the Universe</a>
-        </h4>
-        <p class="fr-book-author">By Dr. Steven Novella</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Skeptics&#x27; Guide to the Universe on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CuVKDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Skeptics&#x27; Guide to the Universe" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Skeptics&#x27; Guide to the Universe">The Skeptics&#x27; Guide to the Universe</a>
+</h4>
+<p class="fr-book-author">By Dr. Steven Novella</p>
         
-        <p class="fr-book-desc">Builds habits that support recognition of misinformation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Builds habits that support recognition of misinformation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Foolproof+Sander+Van+Der+Linden&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Foolproof on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/13300557-M.jpg" alt="Cover for Foolproof" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Foolproof+Sander+Van+Der+Linden&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Foolproof">Foolproof</a>
-        </h4>
-        <p class="fr-book-author">By Sander Van Der Linden</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Foolproof+Sander+Van+Der+Linden&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Foolproof on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/13300557-M.jpg" alt="Cover for Foolproof" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Foolproof+Sander+Van+Der+Linden&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Foolproof">Foolproof</a>
+</h4>
+<p class="fr-book-author">By Sander Van Der Linden</p>
         
-        <p class="fr-book-desc">First published 2023.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Foolproof+Sander+Van+Der+Linden&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2023.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Foolproof+Sander+Van+Der+Linden&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Calling+Bullshit&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Calling Bullshit</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Factfulness&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Factfulness</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Skeptics%27+to+the+Universe+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Skeptics&#x27; to the Universe books</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Calling+Bullshit&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Calling Bullshit</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Factfulness&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Factfulness</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Skeptics%27+to+the+Universe+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Skeptics&#x27; to the Universe books</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=prebunking-can-you-protect-people-before-myths-spread-myths-and-misconcept-teacher-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher mug" data-ebay-reference="prebunking-can-you-protect-people-before-myths-spread-myths-and-misconcept-teacher-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for personalised Thank you Teacher mugs 7 choices Name Tea Coffee Mug White 11Oz"><img src="{{ '/assets/images/marketplace-covers/2e5a973ba1e8e323ef2b.jpg' | relative_url }}" alt="Listing image for personalised Thank you Teacher mugs 7 choices Name Tea Coffee Mug White 11Oz" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=prebunking-can-you-protect-people-before-myths-spread-myths-and-misconcept-teacher-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher mug" data-ebay-reference="prebunking-can-you-protect-people-before-myths-spread-myths-and-misconcept-teacher-mug" target="_blank" rel="sponsored noopener noreferrer">personalised Thank you Teacher mugs 7 choices Name Tea Coffee Mug White 11Oz</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=prebunking-can-you-protect-people-before-myths-spread-myths-and-misconcept-teacher-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher mug" data-ebay-reference="prebunking-can-you-protect-people-before-myths-spread-myths-and-misconcept-teacher-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for teacher mug">Search <span data-ebay-domain-label>eBay.co.uk</span>: teacher mug</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=prebunking-can-you-protect-people-before-myths-spread-myths-and-misconcept-teacher-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher mug" data-ebay-reference="prebunking-can-you-protect-people-before-myths-spread-myths-and-misconcept-teacher-mug" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=prebunking-can-you-protect-people-before-myths-spread-myths-and-misconcept-teacher-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher mug" data-ebay-reference="prebunking-can-you-protect-people-before-myths-spread-myths-and-misconcept-teacher-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for personalised Thank you Teacher mugs 7 choices Name Tea Coffee Mug White 11Oz"><img src="{{ '/assets/images/marketplace-covers/2e5a973ba1e8e323ef2b.jpg' | relative_url }}" alt="Listing image for personalised Thank you Teacher mugs 7 choices Name Tea Coffee Mug White 11Oz" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=prebunking-can-you-protect-people-before-myths-spread-myths-and-misconcept-teacher-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher mug" data-ebay-reference="prebunking-can-you-protect-people-before-myths-spread-myths-and-misconcept-teacher-mug" target="_blank" rel="sponsored noopener noreferrer">personalised Thank you Teacher mugs 7 choices Name Tea Coffee Mug White 11Oz</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=prebunking-can-you-protect-people-before-myths-spread-myths-and-misconcept-teacher-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher mug" data-ebay-reference="prebunking-can-you-protect-people-before-myths-spread-myths-and-misconcept-teacher-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for teacher mug">Search<span data-ebay-domain-label>eBay.co.uk</span>: teacher mug</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=prebunking-can-you-protect-people-before-myths-spread-myths-and-misconcept-teacher-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher mug" data-ebay-reference="prebunking-can-you-protect-people-before-myths-spread-myths-and-misconcept-teacher-mug" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=prebunking-can-you-protect-people-before-myths-spread-myths-and-misconcept-teacher-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher mug" data-ebay-reference="prebunking-can-you-protect-people-before-myths-spread-myths-and-misconcept-teacher-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The Best Teacher Coffee/Tea Ceramic Mug 11Oz For Office or Teacher Birthday Gift"><img src="{{ '/assets/images/marketplace-covers/df6b3cfb24dcc564fe48.jpg' | relative_url }}" alt="Listing image for The Best Teacher Coffee/Tea Ceramic Mug 11Oz For Office or Teacher Birthday Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=prebunking-can-you-protect-people-before-myths-spread-myths-and-misconcept-teacher-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher mug" data-ebay-reference="prebunking-can-you-protect-people-before-myths-spread-myths-and-misconcept-teacher-mug" target="_blank" rel="sponsored noopener noreferrer">The Best Teacher Coffee/Tea Ceramic Mug 11Oz For Office or Teacher Birthday Gift</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=prebunking-can-you-protect-people-before-myths-spread-myths-and-misconcept-teacher-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher mug" data-ebay-reference="prebunking-can-you-protect-people-before-myths-spread-myths-and-misconcept-teacher-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for teacher mug">Search <span data-ebay-domain-label>eBay.co.uk</span>: teacher mug</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=prebunking-can-you-protect-people-before-myths-spread-myths-and-misconcept-teacher-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher mug" data-ebay-reference="prebunking-can-you-protect-people-before-myths-spread-myths-and-misconcept-teacher-mug" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=prebunking-can-you-protect-people-before-myths-spread-myths-and-misconcept-teacher-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher mug" data-ebay-reference="prebunking-can-you-protect-people-before-myths-spread-myths-and-misconcept-teacher-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The Best Teacher Coffee/Tea Ceramic Mug 11Oz For Office or Teacher Birthday Gift"><img src="{{ '/assets/images/marketplace-covers/df6b3cfb24dcc564fe48.jpg' | relative_url }}" alt="Listing image for The Best Teacher Coffee/Tea Ceramic Mug 11Oz For Office or Teacher Birthday Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=prebunking-can-you-protect-people-before-myths-spread-myths-and-misconcept-teacher-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher mug" data-ebay-reference="prebunking-can-you-protect-people-before-myths-spread-myths-and-misconcept-teacher-mug" target="_blank" rel="sponsored noopener noreferrer">The Best Teacher Coffee/Tea Ceramic Mug 11Oz For Office or Teacher Birthday Gift</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=prebunking-can-you-protect-people-before-myths-spread-myths-and-misconcept-teacher-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher mug" data-ebay-reference="prebunking-can-you-protect-people-before-myths-spread-myths-and-misconcept-teacher-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for teacher mug">Search<span data-ebay-domain-label>eBay.co.uk</span>: teacher mug</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=prebunking-can-you-protect-people-before-myths-spread-myths-and-misconcept-teacher-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher mug" data-ebay-reference="prebunking-can-you-protect-people-before-myths-spread-myths-and-misconcept-teacher-mug" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=prebunking-can-you-protect-people-before-myths-spread-myths-and-misconcept-teacher-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher mug" data-ebay-reference="prebunking-can-you-protect-people-before-myths-spread-myths-and-misconcept-teacher-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Personalized Teacher Mug: Custom Name Gift, End of Year Appreciation"><img src="{{ '/assets/images/marketplace-covers/31a23af4629cbeb95306.jpg' | relative_url }}" alt="Listing image for Personalized Teacher Mug: Custom Name Gift, End of Year Appreciation" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=prebunking-can-you-protect-people-before-myths-spread-myths-and-misconcept-teacher-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher mug" data-ebay-reference="prebunking-can-you-protect-people-before-myths-spread-myths-and-misconcept-teacher-mug" target="_blank" rel="sponsored noopener noreferrer">Personalized Teacher Mug: Custom Name Gift, End of Year Appreciation</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=prebunking-can-you-protect-people-before-myths-spread-myths-and-misconcept-teacher-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher mug" data-ebay-reference="prebunking-can-you-protect-people-before-myths-spread-myths-and-misconcept-teacher-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for teacher mug">Search <span data-ebay-domain-label>eBay.co.uk</span>: teacher mug</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=prebunking-can-you-protect-people-before-myths-spread-myths-and-misconcept-teacher-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher mug" data-ebay-reference="prebunking-can-you-protect-people-before-myths-spread-myths-and-misconcept-teacher-mug" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=prebunking-can-you-protect-people-before-myths-spread-myths-and-misconcept-teacher-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher mug" data-ebay-reference="prebunking-can-you-protect-people-before-myths-spread-myths-and-misconcept-teacher-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Personalized Teacher Mug: Custom Name Gift, End of Year Appreciation"><img src="{{ '/assets/images/marketplace-covers/31a23af4629cbeb95306.jpg' | relative_url }}" alt="Listing image for Personalized Teacher Mug: Custom Name Gift, End of Year Appreciation" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=prebunking-can-you-protect-people-before-myths-spread-myths-and-misconcept-teacher-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher mug" data-ebay-reference="prebunking-can-you-protect-people-before-myths-spread-myths-and-misconcept-teacher-mug" target="_blank" rel="sponsored noopener noreferrer">Personalized Teacher Mug: Custom Name Gift, End of Year Appreciation</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=prebunking-can-you-protect-people-before-myths-spread-myths-and-misconcept-teacher-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher mug" data-ebay-reference="prebunking-can-you-protect-people-before-myths-spread-myths-and-misconcept-teacher-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for teacher mug">Search<span data-ebay-domain-label>eBay.co.uk</span>: teacher mug</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=prebunking-can-you-protect-people-before-myths-spread-myths-and-misconcept-teacher-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher mug" data-ebay-reference="prebunking-can-you-protect-people-before-myths-spread-myths-and-misconcept-teacher-mug" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=prebunking-can-you-protect-people-before-myths-spread-myths-and-misconcept-teacher-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher mug" data-ebay-reference="prebunking-can-you-protect-people-before-myths-spread-myths-and-misconcept-teacher-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Custom Teacher Name Tumbler | Personalised Coffee Cup for Teachers | Gift Mug"><img src="{{ '/assets/images/marketplace-covers/59aaf08c5f528d2799f3.jpg' | relative_url }}" alt="Listing image for Custom Teacher Name Tumbler | Personalised Coffee Cup for Teachers | Gift Mug" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=prebunking-can-you-protect-people-before-myths-spread-myths-and-misconcept-teacher-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher mug" data-ebay-reference="prebunking-can-you-protect-people-before-myths-spread-myths-and-misconcept-teacher-mug" target="_blank" rel="sponsored noopener noreferrer">Custom Teacher Name Tumbler | Personalised Coffee Cup for Teachers | Gift Mug</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=prebunking-can-you-protect-people-before-myths-spread-myths-and-misconcept-teacher-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher mug" data-ebay-reference="prebunking-can-you-protect-people-before-myths-spread-myths-and-misconcept-teacher-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for teacher mug">Search <span data-ebay-domain-label>eBay.co.uk</span>: teacher mug</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=prebunking-can-you-protect-people-before-myths-spread-myths-and-misconcept-teacher-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher mug" data-ebay-reference="prebunking-can-you-protect-people-before-myths-spread-myths-and-misconcept-teacher-mug" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=prebunking-can-you-protect-people-before-myths-spread-myths-and-misconcept-teacher-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher mug" data-ebay-reference="prebunking-can-you-protect-people-before-myths-spread-myths-and-misconcept-teacher-mug" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=prebunking-can-you-protect-people-before-myths-spread-myths-and-misconcept-teacher-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher mug" data-ebay-reference="prebunking-can-you-protect-people-before-myths-spread-myths-and-misconcept-teacher-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Custom Teacher Name Tumbler | Personalised Coffee Cup for Teachers | Gift Mug"><img src="{{ '/assets/images/marketplace-covers/59aaf08c5f528d2799f3.jpg' | relative_url }}" alt="Listing image for Custom Teacher Name Tumbler | Personalised Coffee Cup for Teachers | Gift Mug" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=prebunking-can-you-protect-people-before-myths-spread-myths-and-misconcept-teacher-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher mug" data-ebay-reference="prebunking-can-you-protect-people-before-myths-spread-myths-and-misconcept-teacher-mug" target="_blank" rel="sponsored noopener noreferrer">Custom Teacher Name Tumbler | Personalised Coffee Cup for Teachers | Gift Mug</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=prebunking-can-you-protect-people-before-myths-spread-myths-and-misconcept-teacher-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher mug" data-ebay-reference="prebunking-can-you-protect-people-before-myths-spread-myths-and-misconcept-teacher-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for teacher mug">Search<span data-ebay-domain-label>eBay.co.uk</span>: teacher mug</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=prebunking-can-you-protect-people-before-myths-spread-myths-and-misconcept-teacher-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher mug" data-ebay-reference="prebunking-can-you-protect-people-before-myths-spread-myths-and-misconcept-teacher-mug" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=prebunking-can-you-protect-people-before-myths-spread-myths-and-misconcept-teacher-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher mug" data-ebay-reference="prebunking-can-you-protect-people-before-myths-spread-myths-and-misconcept-teacher-mug" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -870,7 +870,7 @@ That pause is the intervention. It does not require the reader to become a profe
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -890,7 +890,7 @@ That pause is the intervention. It does not require the reader to become a profe
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -922,7 +922,7 @@ That pause is the intervention. It does not require the reader to become a profe
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -974,7 +974,7 @@ That pause is the intervention. It does not require the reader to become a profe
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -1019,7 +1019,7 @@ That pause is the intervention. It does not require the reader to become a profe
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -1060,217 +1060,217 @@ That pause is the intervention. It does not require the reader to become a profe
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10498317/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10498317/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Psychological Inoculation for Credibility Assessment, Sharing...by C Lu · 2023 · Cited by 125 — In this study, we conducted a meta-an...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10498317/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10498317/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Psychological Inoculation for Credibility Assessment, Sharing...by C Lu · 2023 · Cited by 125 — In this study, we conducted a meta-an...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: unhcr.org  
-   Link: <a href="https://www.unhcr.org/handbooks/informationintegrity/practical-tools/prebunking" target="_blank" rel="noopener noreferrer nofollow">https://www.unhcr.org/handbooks/informationintegrity/practical-tools/prebunking</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Prebunking | UNHCR Information Integrity Toolkit10 Mar 2025 — Pre-bunking is a preventative measure that aims to prepare audiences t...</p></details>
+   Link:<a href="https://www.unhcr.org/handbooks/informationintegrity/practical-tools/prebunking" target="_blank" rel="noopener noreferrer nofollow">https://www.unhcr.org/handbooks/informationintegrity/practical-tools/prebunking</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Prebunking | UNHCR Information Integrity Toolkit10 Mar 2025 — Pre-bunking is a preventative measure that aims to prepare audiences t...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: ncbi.nlm.nih.gov  
-   Link: <a href="https://www.ncbi.nlm.nih.gov/books/NBK609022/" target="_blank" rel="noopener noreferrer nofollow">https://www.ncbi.nlm.nih.gov/books/NBK609022/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Prebunking Against Misinformation in the Modern Digital Ageby CS Traberg · 2023 · Cited by 38 — In recent years, research has shown t...</p></details>
+   Link:<a href="https://www.ncbi.nlm.nih.gov/books/NBK609022/" target="_blank" rel="noopener noreferrer nofollow">https://www.ncbi.nlm.nih.gov/books/NBK609022/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Prebunking Against Misinformation in the Modern Digital Ageby CS Traberg · 2023 · Cited by 38 — In recent years, research has shown t...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: misinforeview.hks.harvard.edu  
    Title: Misinformation Review Prebunking interventions based on “inoculation” theory can  
-   Link: <a href="https://misinforeview.hks.harvard.edu/article/global-vaccination-badnews/" target="_blank" rel="noopener noreferrer nofollow">https://misinforeview.hks.harvard.edu/article/global-vaccination-badnews/</a>  
+   Link:<a href="https://misinforeview.hks.harvard.edu/article/global-vaccination-badnews/" target="_blank" rel="noopener noreferrer nofollow">https://misinforeview.hks.harvard.edu/article/global-vaccination-badnews/</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: misinforeview.hks.harvard.edu  
    Title: Misinformation Review Prebunking misinformation techniques in social media feeds  
-   Link: <a href="https://misinforeview.hks.harvard.edu/article/prebunking-misinformation-techniques-in-social-media-feeds-results-from-an-instagram-field-study/" target="_blank" rel="noopener noreferrer nofollow">https://misinforeview.hks.harvard.edu/article/prebunking-misinformation-techniques-in-social-media-feeds-results-from-an-instagram-field-study/</a>  
+   Link:<a href="https://misinforeview.hks.harvard.edu/article/prebunking-misinformation-techniques-in-social-media-feeds-results-from-an-instagram-field-study/" target="_blank" rel="noopener noreferrer nofollow">https://misinforeview.hks.harvard.edu/article/prebunking-misinformation-techniques-in-social-media-feeds-results-from-an-instagram-field-study/</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: time.com  
-   Link: <a href="https://time.com/6970488/google-jigsaw-eu-elections-misinformation-prebunking/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/6970488/google-jigsaw-eu-elections-misinformation-prebunking/</a>  
+   Link:<a href="https://time.com/6970488/google-jigsaw-eu-elections-misinformation-prebunking/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/6970488/google-jigsaw-eu-elections-misinformation-prebunking/</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: oecd.org  
-   Link: <a href="https://www.oecd.org/en/topics/sub-issues/disinformation-and-misinformation.html" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/en/topics/sub-issues/disinformation-and-misinformation.html</a>  
+   Link:<a href="https://www.oecd.org/en/topics/sub-issues/disinformation-and-misinformation.html" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/en/topics/sub-issues/disinformation-and-misinformation.html</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: unesco.org  
-   Link: <a href="https://www.unesco.org/en/articles/media-and-information-literacy-first-line-defence-against-disinformation" target="_blank" rel="noopener noreferrer nofollow">https://www.unesco.org/en/articles/media-and-information-literacy-first-line-defence-against-disinformation</a>  
+   Link:<a href="https://www.unesco.org/en/articles/media-and-information-literacy-first-line-defence-against-disinformation" target="_blank" rel="noopener noreferrer nofollow">https://www.unesco.org/en/articles/media-and-information-literacy-first-line-defence-against-disinformation</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: oecd.org  
-   Link: <a href="https://www.oecd.org/en/publications/policy-responses-to-false-and-misleading-digital-content_1104143e-en.html" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/en/publications/policy-responses-to-false-and-misleading-digital-content_1104143e-en.html</a>  
+   Link:<a href="https://www.oecd.org/en/publications/policy-responses-to-false-and-misleading-digital-content_1104143e-en.html" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/en/publications/policy-responses-to-false-and-misleading-digital-content_1104143e-en.html</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: oecd.org  
    Title: 1104143e en  
-   Link: <a href="https://www.oecd.org/content/dam/oecd/en/publications/reports/2022/08/policy-responses-to-false-and-misleading-digital-content_598ca9a6/1104143e-en.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/content/dam/oecd/en/publications/reports/2022/08/policy-responses-to-false-and-misleading-digital-content_598ca9a6/1104143e-en.pdf</a>  
+   Link:<a href="https://www.oecd.org/content/dam/oecd/en/publications/reports/2022/08/policy-responses-to-false-and-misleading-digital-content_598ca9a6/1104143e-en.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/content/dam/oecd/en/publications/reports/2022/08/policy-responses-to-false-and-misleading-digital-content_598ca9a6/1104143e-en.pdf</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: oecd.org  
-   Link: <a href="https://www.oecd.org/content/dam/oecd/en/publications/reports/2020/08/governance-responses-to-disinformation_6285c78a/d6237c85-en.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/content/dam/oecd/en/publications/reports/2020/08/governance-responses-to-disinformation_6285c78a/d6237c85-en.pdf</a>  
+   Link:<a href="https://www.oecd.org/content/dam/oecd/en/publications/reports/2020/08/governance-responses-to-disinformation_6285c78a/d6237c85-en.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/content/dam/oecd/en/publications/reports/2020/08/governance-responses-to-disinformation_6285c78a/d6237c85-en.pdf</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: unesco.org  
-   Link: <a href="https://www.unesco.org/en/publication/action-plan-combatting-disinformation-and-misinformation-through-media-and-information-literacy-mil" target="_blank" rel="noopener noreferrer nofollow">https://www.unesco.org/en/publication/action-plan-combatting-disinformation-and-misinformation-through-media-and-information-literacy-mil</a>  
+   Link:<a href="https://www.unesco.org/en/publication/action-plan-combatting-disinformation-and-misinformation-through-media-and-information-literacy-mil" target="_blank" rel="noopener noreferrer nofollow">https://www.unesco.org/en/publication/action-plan-combatting-disinformation-and-misinformation-through-media-and-information-literacy-mil</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: unesco.org  
-   Link: <a href="https://www.unesco.org/mil4teachers/en/node/163" target="_blank" rel="noopener noreferrer nofollow">https://www.unesco.org/mil4teachers/en/node/163</a>  
+   Link:<a href="https://www.unesco.org/mil4teachers/en/node/163" target="_blank" rel="noopener noreferrer nofollow">https://www.unesco.org/mil4teachers/en/node/163</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/%40infointerventions" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/%40infointerventions</a>  
+   Link:<a href="https://www.youtube.com/%40infointerventions" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/%40infointerventions</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=t0rsAMywBio" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=t0rsAMywBio</a>  
+   Link:<a href="https://www.youtube.com/watch?v=t0rsAMywBio" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=t0rsAMywBio</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: cambridge.org  
-   Link: <a href="https://www.cambridge.org/core/books/psychology-of-misinformation/interventions-to-combat-misinformation/FCD74AF8BD30397DCF5A244DB55172A4" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/books/psychology-of-misinformation/interventions-to-combat-misinformation/FCD74AF8BD30397DCF5A244DB55172A4</a>  
+   Link:<a href="https://www.cambridge.org/core/books/psychology-of-misinformation/interventions-to-combat-misinformation/FCD74AF8BD30397DCF5A244DB55172A4" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/books/psychology-of-misinformation/interventions-to-combat-misinformation/FCD74AF8BD30397DCF5A244DB55172A4</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: misinforeview.hks.harvard.edu  
    Title: FORMATTED globalvaccination Jan30  
-   Link: <a href="https://misinforeview.hks.harvard.edu/wp-content/uploads/2020/02/FORMATTED_globalvaccination_Jan30.pdf" target="_blank" rel="noopener noreferrer nofollow">https://misinforeview.hks.harvard.edu/wp-content/uploads/2020/02/FORMATTED_globalvaccination_Jan30.pdf</a>  
+   Link:<a href="https://misinforeview.hks.harvard.edu/wp-content/uploads/2020/02/FORMATTED_globalvaccination_Jan30.pdf" target="_blank" rel="noopener noreferrer nofollow">https://misinforeview.hks.harvard.edu/wp-content/uploads/2020/02/FORMATTED_globalvaccination_Jan30.pdf</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: nature.com  
-   Link: <a href="https://www.nature.com/articles/s41591-022-01713-6" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41591-022-01713-6</a>  
+   Link:<a href="https://www.nature.com/articles/s41591-022-01713-6" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41591-022-01713-6</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: youtube.com  
    Title: How "prebunking" misinformation works  
-   Link: <a href="https://www.youtube.com/watch?v=1RmxeZHPeHg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=1RmxeZHPeHg</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sander van der Linden: Psychological inoculation against misinformation...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=1RmxeZHPeHg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=1RmxeZHPeHg</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sander van der Linden: Psychological inoculation against misinformation...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: youtube.com  
    Title: Sander van der Linden: Psychological inoculation against misinformation  
-   Link: <a href="https://www.youtube.com/watch?v=oJ2l48cNEJQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=oJ2l48cNEJQ</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>University of Cambridge...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=oJ2l48cNEJQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=oJ2l48cNEJQ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>University of Cambridge...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: youtube.com  
    Title: Prebunking: A new way to fight misinformation  
-   Link: <a href="https://www.youtube.com/watch?v=0k5Xy48545A" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=0k5Xy48545A</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Inoculation: How to spot misinformation...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=0k5Xy48545A" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=0k5Xy48545A</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Inoculation: How to spot misinformation...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: youtube.com  
    Title: Inoculation: How to spot misinformation  
-   Link: <a href="https://www.youtube.com/watch?v=kYv9y7qG0n0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=kYv9y7qG0n0</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Digital media literacy and prebunking explained...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=kYv9y7qG0n0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=kYv9y7qG0n0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Digital media literacy and prebunking explained...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: youtube.com  
    Title: Digital media literacy and prebunking explained  
-   Link: <a href="https://www.youtube.com/watch?v=K3fT-h_1D64" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=K3fT-h_1D64</a>  
+   Link:<a href="https://www.youtube.com/watch?v=K3fT-h_1D64" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=K3fT-h_1D64</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: science.org  
-   Link: <a href="https://www.science.org/doi/10.1126/sciadv.abo6254" target="_blank" rel="noopener noreferrer nofollow">https://www.science.org/doi/10.1126/sciadv.abo6254</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Psychological inoculation improves resilience against...by J Roozenbeek · 2022 · Cited by 632 — We show that psychological inocul...</p></details>
+   Link:<a href="https://www.science.org/doi/10.1126/sciadv.abo6254" target="_blank" rel="noopener noreferrer nofollow">https://www.science.org/doi/10.1126/sciadv.abo6254</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Psychological inoculation improves resilience against...by J Roozenbeek · 2022 · Cited by 632 — We show that psychological inocul...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: prebunking.withgoogle.com  
    Title: Prebunking Misinformation  
-   Link: <a href="https://prebunking.withgoogle.com/docs/A_Practical_Guide_to_Prebunking_Misinformation.pdf" target="_blank" rel="noopener noreferrer nofollow">https://prebunking.withgoogle.com/docs/A_Practical_Guide_to_Prebunking_Misinformation.pdf</a>  
+   Link:<a href="https://prebunking.withgoogle.com/docs/A_Practical_Guide_to_Prebunking_Misinformation.pdf" target="_blank" rel="noopener noreferrer nofollow">https://prebunking.withgoogle.com/docs/A_Practical_Guide_to_Prebunking_Misinformation.pdf</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: apnews.com  
    Title: AP News Google to expand misinformation 'prebunking' in Europe  
-   Link: <a href="https://apnews.com/article/a10273eea5a0227c38187cc4f84d8788" target="_blank" rel="noopener noreferrer nofollow">https://apnews.com/article/a10273eea5a0227c38187cc4f84d8788</a>  
+   Link:<a href="https://apnews.com/article/a10273eea5a0227c38187cc4f84d8788" target="_blank" rel="noopener noreferrer nofollow">https://apnews.com/article/a10273eea5a0227c38187cc4f84d8788</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: joint-research-centre.ec.europa.eu  
-   Link: <a href="https://joint-research-centre.ec.europa.eu/jrc-news-and-updates/misinformation-and-disinformation-both-prebunking-and-debunking-work-fighting-it-2024-10-25_en" target="_blank" rel="noopener noreferrer nofollow">https://joint-research-centre.ec.europa.eu/jrc-news-and-updates/misinformation-and-disinformation-both-prebunking-and-debunking-work-fighting-it-2024-10-25_en</a>  
+   Link:<a href="https://joint-research-centre.ec.europa.eu/jrc-news-and-updates/misinformation-and-disinformation-both-prebunking-and-debunking-work-fighting-it-2024-10-25_en" target="_blank" rel="noopener noreferrer nofollow">https://joint-research-centre.ec.europa.eu/jrc-news-and-updates/misinformation-and-disinformation-both-prebunking-and-debunking-work-fighting-it-2024-10-25_en</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: journals.sagepub.com  
-   Link: <a href="https://journals.sagepub.com/doi/10.1177/01461672251411571" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/01461672251411571</a>  
+   Link:<a href="https://journals.sagepub.com/doi/10.1177/01461672251411571" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/01461672251411571</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: prebunking.withgoogle.com  
-   Link: <a href="https://prebunking.withgoogle.com/resources/" target="_blank" rel="noopener noreferrer nofollow">https://prebunking.withgoogle.com/resources/</a>  
+   Link:<a href="https://prebunking.withgoogle.com/resources/" target="_blank" rel="noopener noreferrer nofollow">https://prebunking.withgoogle.com/resources/</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: prebunking.withgoogle.com  
-   Link: <a href="https://prebunking.withgoogle.com/" target="_blank" rel="noopener noreferrer nofollow">https://prebunking.withgoogle.com/</a>  
+   Link:<a href="https://prebunking.withgoogle.com/" target="_blank" rel="noopener noreferrer nofollow">https://prebunking.withgoogle.com/</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: research.vu.nl  
    Title: prebunking misinformation techniques in social media feeds result  
-   Link: <a href="https://research.vu.nl/en/publications/prebunking-misinformation-techniques-in-social-media-feeds-result/" target="_blank" rel="noopener noreferrer nofollow">https://research.vu.nl/en/publications/prebunking-misinformation-techniques-in-social-media-feeds-result/</a>  
+   Link:<a href="https://research.vu.nl/en/publications/prebunking-misinformation-techniques-in-social-media-feeds-result/" target="_blank" rel="noopener noreferrer nofollow">https://research.vu.nl/en/publications/prebunking-misinformation-techniques-in-social-media-feeds-result/</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/unesco/posts/-stop-the-spread-of-disinformation-verify-the-information-before-you-share-toget/794851252690425/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/unesco/posts/-stop-the-spread-of-disinformation-verify-the-information-before-you-share-toget/794851252690425/</a>  
+   Link:<a href="https://www.facebook.com/unesco/posts/-stop-the-spread-of-disinformation-verify-the-information-before-you-share-toget/794851252690425/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/unesco/posts/-stop-the-spread-of-disinformation-verify-the-information-before-you-share-toget/794851252690425/</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: socialsciencespace.com  
    Title: prebunking on youtube in the fight against misinformation  
-   Link: <a href="https://www.socialsciencespace.com/2022/09/prebunking-on-youtube-in-the-fight-against-misinformation/" target="_blank" rel="noopener noreferrer nofollow">https://www.socialsciencespace.com/2022/09/prebunking-on-youtube-in-the-fight-against-misinformation/</a>  
+   Link:<a href="https://www.socialsciencespace.com/2022/09/prebunking-on-youtube-in-the-fight-against-misinformation/" target="_blank" rel="noopener noreferrer nofollow">https://www.socialsciencespace.com/2022/09/prebunking-on-youtube-in-the-fight-against-misinformation/</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/pii/S1071581926001126" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S1071581926001126</a>  
+   Link:<a href="https://www.sciencedirect.com/science/article/pii/S1071581926001126" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S1071581926001126</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0166432825001780" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0166432825001780</a>  
+   Link:<a href="https://www.sciencedirect.com/science/article/pii/S0166432825001780" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0166432825001780</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/pii/S004727272500043X" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S004727272500043X</a>  
+   Link:<a href="https://www.sciencedirect.com/science/article/pii/S004727272500043X" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S004727272500043X</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: zotero.org  
-   Link: <a href="https://www.zotero.org/groups/2243448/library/collections/79LXN6W7/items/IAZ2FW7L" target="_blank" rel="noopener noreferrer nofollow">https://www.zotero.org/groups/2243448/library/collections/79LXN6W7/items/IAZ2FW7L</a>  
+   Link:<a href="https://www.zotero.org/groups/2243448/library/collections/79LXN6W7/items/IAZ2FW7L" target="_blank" rel="noopener noreferrer nofollow">https://www.zotero.org/groups/2243448/library/collections/79LXN6W7/items/IAZ2FW7L</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: elgaronline.com  
-   Link: <a href="https://www.elgaronline.com/display/book/9781035301447/vol3.chapter75.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.elgaronline.com/display/book/9781035301447/vol3.chapter75.pdf</a>  
+   Link:<a href="https://www.elgaronline.com/display/book/9781035301447/vol3.chapter75.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.elgaronline.com/display/book/9781035301447/vol3.chapter75.pdf</a>  
 
 ### Additional References
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/400035452_Prebunking_misinformation_techniques_in_social_media_feeds_Results_from_an_Instagram_field_study" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/400035452_Prebunking_misinformation_techniques_in_social_media_feeds_Results_from_an_Instagram_field_study</a>  
+   Link:<a href="https://www.researchgate.net/publication/400035452_Prebunking_misinformation_techniques_in_social_media_feeds_Results_from_an_Instagram_field_study" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/400035452_Prebunking_misinformation_techniques_in_social_media_feeds_Results_from_an_Instagram_field_study</a>  
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: kar.kent.ac.uk  
-   Link: <a href="https://kar.kent.ac.uk/111049/9/British%20J%20of%20Psychology%20-%202025%20-%20Biddlestone%20-%20Fighting%20fire%20with%20fire%20%20Prebunking%20with%20the%20use%20of%20a%20plausible.pdf" target="_blank" rel="noopener noreferrer nofollow">https://kar.kent.ac.uk/111049/9/British%20J%20of%20Psychology%20-%202025%20-%20Biddlestone%20-%20Fighting%20fire%20with%20fire%20%20Prebunking%20with%20the%20use%20of%20a%20plausible.pdf</a>  
+   Link:<a href="https://kar.kent.ac.uk/111049/9/British%20J%20of%20Psychology%20-%202025%20-%20Biddlestone%20-%20Fighting%20fire%20with%20fire%20%20Prebunking%20with%20the%20use%20of%20a%20plausible.pdf" target="_blank" rel="noopener noreferrer nofollow">https://kar.kent.ac.uk/111049/9/British%20J%20of%20Psychology%20-%202025%20-%20Biddlestone%20-%20Fighting%20fire%20with%20fire%20%20Prebunking%20with%20the%20use%20of%20a%20plausible.pdf</a>  
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: netwerkmediawijsheid.nl  
-   Link: <a href="https://netwerkmediawijsheid.nl/wp-content/uploads/2024/02/D1.1-OMEDIA_Literature_Final.pdf" target="_blank" rel="noopener noreferrer nofollow">https://netwerkmediawijsheid.nl/wp-content/uploads/2024/02/D1.1-OMEDIA_Literature_Final.pdf</a>  
+   Link:<a href="https://netwerkmediawijsheid.nl/wp-content/uploads/2024/02/D1.1-OMEDIA_Literature_Final.pdf" target="_blank" rel="noopener noreferrer nofollow">https://netwerkmediawijsheid.nl/wp-content/uploads/2024/02/D1.1-OMEDIA_Literature_Final.pdf</a>  
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: diplomacy.edu  
-   Link: <a href="https://www.diplomacy.edu/wp-content/uploads/DD-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.diplomacy.edu/wp-content/uploads/DD-report.pdf</a>  
+   Link:<a href="https://www.diplomacy.edu/wp-content/uploads/DD-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.diplomacy.edu/wp-content/uploads/DD-report.pdf</a>  
 
-43. <a id="endnote-43"></a>
+43.<a id="endnote-43"></a>
    Source: opengovpartnership.org  
-   Link: <a href="https://www.opengovpartnership.org/open-gov-guide/digital-governance-disinformation-and-information-integrity/" target="_blank" rel="noopener noreferrer nofollow">https://www.opengovpartnership.org/open-gov-guide/digital-governance-disinformation-and-information-integrity/</a>  
+   Link:<a href="https://www.opengovpartnership.org/open-gov-guide/digital-governance-disinformation-and-information-integrity/" target="_blank" rel="noopener noreferrer nofollow">https://www.opengovpartnership.org/open-gov-guide/digital-governance-disinformation-and-information-integrity/</a>  
 
-44. <a id="endnote-44"></a>
+44.<a id="endnote-44"></a>
    Source: epc.eu  
-   Link: <a href="https://www.epc.eu/publication/From-debunking-to-prebunking-How-to-get-ahead-of-disinformation-on-mi-446f88/" target="_blank" rel="noopener noreferrer nofollow">https://www.epc.eu/publication/From-debunking-to-prebunking-How-to-get-ahead-of-disinformation-on-mi-446f88/</a>  
+   Link:<a href="https://www.epc.eu/publication/From-debunking-to-prebunking-How-to-get-ahead-of-disinformation-on-mi-446f88/" target="_blank" rel="noopener noreferrer nofollow">https://www.epc.eu/publication/From-debunking-to-prebunking-How-to-get-ahead-of-disinformation-on-mi-446f88/</a>  
 
-45. <a id="endnote-45"></a>
+45.<a id="endnote-45"></a>
    Source: stratcomcoe.org  
-   Link: <a href="https://stratcomcoe.org/publications/download/Inoculation-theory-and-Misinformation-FINAL-digital-ISBN-ebbe8.pdf" target="_blank" rel="noopener noreferrer nofollow">https://stratcomcoe.org/publications/download/Inoculation-theory-and-Misinformation-FINAL-digital-ISBN-ebbe8.pdf</a>  
+   Link:<a href="https://stratcomcoe.org/publications/download/Inoculation-theory-and-Misinformation-FINAL-digital-ISBN-ebbe8.pdf" target="_blank" rel="noopener noreferrer nofollow">https://stratcomcoe.org/publications/download/Inoculation-theory-and-Misinformation-FINAL-digital-ISBN-ebbe8.pdf</a>  
 
-46. <a id="endnote-46"></a>
+46.<a id="endnote-46"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/posts/sander-van-der-linden-156a08203_new-real-world-field-study-on-psychological-activity-7420437881183428608-KxAM" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/sander-van-der-linden-156a08203_new-real-world-field-study-on-psychological-activity-7420437881183428608-KxAM</a>  
+   Link:<a href="https://www.linkedin.com/posts/sander-van-der-linden-156a08203_new-real-world-field-study-on-psychological-activity-7420437881183428608-KxAM" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/sander-van-der-linden-156a08203_new-real-world-field-study-on-psychological-activity-7420437881183428608-KxAM</a>  
 
-47. <a id="endnote-47"></a>
+47.<a id="endnote-47"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/posts/sander-van-der-linden-156a08203_prebunking-inoculation-badnews-activity-7461018385804591104-p4Lt" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/sander-van-der-linden-156a08203_prebunking-inoculation-badnews-activity-7461018385804591104-p4Lt</a>  
+   Link:<a href="https://www.linkedin.com/posts/sander-van-der-linden-156a08203_prebunking-inoculation-badnews-activity-7461018385804591104-p4Lt" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/sander-van-der-linden-156a08203_prebunking-inoculation-badnews-activity-7461018385804591104-p4Lt</a>  
 
-48. <a id="endnote-48"></a>
+48.<a id="endnote-48"></a>
    Source: acice-asean.org  
-   Link: <a href="https://www.acice-asean.org/files/information%20centre%20reports/jul_24_info.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.acice-asean.org/files/information%20centre%20reports/jul_24_info.pdf</a>
+   Link:<a href="https://www.acice-asean.org/files/information%20centre%20reports/jul_24_info.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.acice-asean.org/files/information%20centre%20reports/jul_24_info.pdf</a>

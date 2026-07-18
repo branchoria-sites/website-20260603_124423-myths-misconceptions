@@ -274,16 +274,16 @@ image: /assets/images/Myths_and_misconcept_0d48d7_platform_design_myth_d8c20e_re
 
 ## Introduction
 
-The spread of myths and misconceptions online is not determined solely by whether a post is removed or fact-checked. Just as important is whether a platforms recommendation system decides to show that post to ten people, ten thousand people, or millions. Recommender systems are the hidden engines that rank feeds, suggest videos, recommend accounts, and determine what receives attention. When these systems optimise primarily for engagementclicks, comments, shares, watch time, and reactionsthey can unintentionally favour emotionally charged and controversial material. When they incorporate signals related to reliability, user wellbeing, or harm reduction, they can reduce the visibility of misleading claims and slow the spread of myths. The central governance question is therefore not only what content is allowed online, but what content algorithms choose to amplify. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11894805/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">by S Milli  2025  Cited by 164  Social media ranking algorithms typically optimize for users&#x27; revealed preferences, i.e. user engag...</span></span></span>
+The spread of myths and misconceptions online is not determined solely by whether a post is removed or fact-checked. Just as important is whether a platforms recommendation system decides to show that post to ten people, ten thousand people, or millions. Recommender systems are the hidden engines that rank feeds, suggest videos, recommend accounts, and determine what receives attention. When these systems optimise primarily for engagementclicks, comments, shares, watch time, and reactionsthey can unintentionally favour emotionally charged and controversial material. When they incorporate signals related to reliability, user wellbeing, or harm reduction, they can reduce the visibility of misleading claims and slow the spread of myths. The central governance question is therefore not only what content is allowed online, but what content algorithms choose to amplify.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11894805/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">by S Milli  2025  Cited by 164  Social media ranking algorithms typically optimize for users&#x27; revealed preferences, i.e. user engag...</span></span></span>
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_platform_design_myth_d8c20e_recommendation_syste_5b072a-Illustration-1-dark.svg" | relative_url }}" alt="Algorithms illustration 1" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_platform_design_myth_d8c20e_recommendation_syste_5b072a-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_platform_design_myth_d8c20e_recommendation_syste_5b072a-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Why engagement ranking favours emotional claims
 
-Most major social [platforms]({{ 'platforms/' | relative_url }}) use recommendation systems that predict what users are likely to engage with. Engagement is attractive as a ranking signal because it is measurable and closely tied to platform growth. Likes, comments, shares, replies, and viewing time all provide immediate feedback about user behaviour. Yet emotional content often performs unusually well on those measures. Anger, outrage, fear, and conflict can provoke stronger reactions than careful explanations or [corrections]({{ 'corrections/' | relative_url }}). <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11894805/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">by S Milli  2025  Cited by 164  Social media ranking algorithms typically optimize for users&#x27; revealed preferences, i.e. user engag...</span></span></span>
+Most major social [platforms]({{ 'platforms/' | relative_url }}) use recommendation systems that predict what users are likely to engage with. Engagement is attractive as a ranking signal because it is measurable and closely tied to platform growth. Likes, comments, shares, replies, and viewing time all provide immediate feedback about user behaviour. Yet emotional content often performs unusually well on those measures. Anger, outrage, fear, and conflict can provoke stronger reactions than careful explanations or [corrections]({{ 'corrections/' | relative_url }}).<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11894805/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">by S Milli  2025  Cited by 164  Social media ranking algorithms typically optimize for users&#x27; revealed preferences, i.e. user engag...</span></span></span>
 
 This creates a structural advantage for some myths and misconceptions. A sensational false claim may generate more comments and shares than a nuanced [correction]({{ 'correction/' | relative_url }}), even if many of those comments are critical. From the perspective of a system optimised for interaction, controversy can look like success.
 
-Research auditing social-media ranking systems has found that engagement-based algorithms can amplify angry, partisan, and hostile content relative to chronological feeds. One large study found that engagement-driven ranking promoted emotionally charged political content that users themselves often reported liking less than alternative ranking approaches. The same research suggested that systems incorporating users stated preferences rather than only their behavioural reactions could reduce the prominence of angry and divisive content. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2305.16941" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Engagement, User Satisfaction, and the Amplification of Divisive Content on Social MediaMay 26, 2023...</span><span class="citation-popover-meta">Published: May 26, 2023</span></span></span>
+Research auditing social-media ranking systems has found that engagement-based algorithms can amplify angry, partisan, and hostile content relative to chronological feeds. One large study found that engagement-driven ranking promoted emotionally charged political content that users themselves often reported liking less than alternative ranking approaches. The same research suggested that systems incorporating users stated preferences rather than only their behavioural reactions could reduce the prominence of angry and divisive content.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2305.16941" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Engagement, User Satisfaction, and the Amplification of Divisive Content on Social MediaMay 26, 2023...</span><span class="citation-popover-meta">Published: May 26, 2023</span></span></span>
 
 The mechanism is important. Recommendation systems do not need to prefer misinformation in order to spread it. They only need to reward the behaviours that misinformation frequently triggers.
 
@@ -291,7 +291,7 @@ The mechanism is important. Recommendation systems do not need to prefer misinfo
 
 Recommendation systems and users influence one another. Users react to content, algorithms learn from those reactions, and future recommendations are adjusted accordingly. Over time, the system can reinforce patterns that maximise engagement even when those patterns increase exposure to misleading claims.
 
-Recent theoretical and empirical research describes this as a feedback loop in which greater weight placed on likes, shares, and other popularity signals can increase engagement while simultaneously increasing misinformation and political polarisation. The more heavily a system rewards social reactions, the more likely highly reactive content is to dominate attention. ScienceDirect <span class="citation-chip-wrap"><a class="citation-chip" href="https://papers.ssrn.com/sol3/Delivery.cfm/4f79d5ca-867d-49db-a4ba-ebfdcaf0ac9b-MECA.pdf?abstractid=5316506&amp;mirid=1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: papers.ssrn.com">[SSRN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">papers.ssrn.com</span><span class="citation-popover-snippet">Social Media Algorithms Fuel Misinformation and...To connect this prediction to observational data, we exploit Facebook&#x27;s Meaningful So...</span></span></span>
+Recent theoretical and empirical research describes this as a feedback loop in which greater weight placed on likes, shares, and other popularity signals can increase engagement while simultaneously increasing misinformation and political polarisation. The more heavily a system rewards social reactions, the more likely highly reactive content is to dominate attention. ScienceDirect<span class="citation-chip-wrap"><a class="citation-chip" href="https://papers.ssrn.com/sol3/Delivery.cfm/4f79d5ca-867d-49db-a4ba-ebfdcaf0ac9b-MECA.pdf?abstractid=5316506&amp;mirid=1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: papers.ssrn.com">[SSRN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">papers.ssrn.com</span><span class="citation-popover-snippet">Social Media Algorithms Fuel Misinformation and...To connect this prediction to observational data, we exploit Facebook&#x27;s Meaningful So...</span></span></span>
 
 ## How recommender goals affect myth reach
 
@@ -299,25 +299,25 @@ The spread of myths depends heavily on what objective a recommendation system is
 
 An engagement-maximising system asks a question such as: Which content is most likely to generate interaction? A reliability-aware system asks a different question: Which content is most likely to inform users without causing harm? The difference may seem subtle, but it changes what rises to the top of a feed.
 
-Several approaches have emerged: <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/html/2305.06125v3" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arxiv.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">sed recommender systems - which form the majority of recommendation engines...Read more...</span></span></span>
+Several approaches have emerged:<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/html/2305.06125v3" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arxiv.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">sed recommender systems - which form the majority of recommendation engines...Read more...</span></span></span>
 
-* **Reducing the weight of pure engagement signals.** Platforms can lessen the influence of shares, reaction counts, or other popularity metrics that disproportionately reward outrage. <span class="citation-chip-wrap"><a class="citation-chip" href="https://panoptykon.org/sites/default/files/2023-08/Panoptykon_ICCL_PvsBT_Fixing-recommender-systems_Aug%202023.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: panoptykon.org">[Panoptykon]</a><span class="citation-popover" role="note"><span class="citation-popover-source">panoptykon.org</span><span class="citation-popover-title">Fixing Recommender Systems</span><span class="citation-popover-snippet">Fixing Recommender SystemsAugust 22, 2023  25 Aug 2023  In 2018 Facebook introduced a new metric for its News Feed algorithm...</span><span class="citation-popover-meta">Published: August 22, 2023</span></span></span>
+* **Reducing the weight of pure engagement signals.** Platforms can lessen the influence of shares, reaction counts, or other popularity metrics that disproportionately reward outrage.<span class="citation-chip-wrap"><a class="citation-chip" href="https://panoptykon.org/sites/default/files/2023-08/Panoptykon_ICCL_PvsBT_Fixing-recommender-systems_Aug%202023.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: panoptykon.org">[Panoptykon]</a><span class="citation-popover" role="note"><span class="citation-popover-source">panoptykon.org</span><span class="citation-popover-title">Fixing Recommender Systems</span><span class="citation-popover-snippet">Fixing Recommender SystemsAugust 22, 2023  25 Aug 2023  In 2018 Facebook introduced a new metric for its News Feed algorithm...</span><span class="citation-popover-meta">Published: August 22, 2023</span></span></span>
 * **Incorporating source quality signals.** Recommendations can favour content from sources with stronger records of accuracy and transparency rather than treating every engagement event equally.
 * **Demoting repeatedly debunked claims.** Even when content remains visible, platforms can reduce its algorithmic reach.
-* **Optimising for user satisfaction rather than immediate interaction.** Research suggests that what users engage with in the moment is not always what they later say they wanted to see. Ranking systems based partly on expressed preferences may produce healthier information environments. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11894805/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">by S Milli  2025  Cited by 164  Social media ranking algorithms typically optimize for users&#x27; revealed preferences, i.e. user engag...</span></span></span>
+* **Optimising for user satisfaction rather than immediate interaction.** Research suggests that what users engage with in the moment is not always what they later say they wanted to see. Ranking systems based partly on expressed preferences may produce healthier information environments.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11894805/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">by S Milli  2025  Cited by 164  Social media ranking algorithms typically optimize for users&#x27; revealed preferences, i.e. user engag...</span></span></span>
 
 These design choices matter because recommendation systems determine exposure. A misleading claim with limited reach may remain a fringe belief. The same claim repeatedly recommended to large audiences can become widely accepted.
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_platform_design_myth_d8c20e_recommendation_syste_5b072a-Illustration-2-dark.svg" | relative_url }}" alt="Algorithms illustration 2" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_platform_design_myth_d8c20e_recommendation_syste_5b072a-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_platform_design_myth_d8c20e_recommendation_syste_5b072a-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### When platform changes produce unexpected results
 
-Attempts to improve online discourse can sometimes have unintended consequences. One frequently discussed example is Facebooks 2018 emphasis on Meaningful Social Interactions, which increased the importance of comments and interactions between users. The intention was to promote meaningful engagement, but later analyses and reporting suggested that content provoking outrage and division often benefited from the new ranking incentives because it generated strong reactions and discussion. <span class="citation-chip-wrap"><a class="citation-chip" href="https://knightcolumbia.org/research/algorithmic-amplification-and-society" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: knightcolumbia.org">[Knight First Amendment Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">knightcolumbia.org</span><span class="citation-popover-snippet">It&#x27;s the Algorithm: A large-scale comparative...Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://panoptykon.org/sites/default/files/2023-08/Panoptykon_ICCL_PvsBT_Fixing-recommender-systems_Aug%202023.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: panoptykon.org">[panoptykon]</a><span class="citation-popover" role="note"><span class="citation-popover-source">panoptykon.org</span><span class="citation-popover-title">Fixing Recommender Systems</span><span class="citation-popover-snippet">Fixing Recommender SystemsAugust 22, 2023  25 Aug 2023  In 2018 Facebook introduced a new metric for its News Feed algorithm...</span><span class="citation-popover-meta">Published: August 22, 2023</span></span></span> This episode illustrates a broader governance lesson: ranking objectives can have consequences that are difficult to predict. A metric designed to measure healthy interaction may end up rewarding controversy if the underlying incentives are not carefully evaluated.
+Attempts to improve online discourse can sometimes have unintended consequences. One frequently discussed example is Facebooks 2018 emphasis on Meaningful Social Interactions, which increased the importance of comments and interactions between users. The intention was to promote meaningful engagement, but later analyses and reporting suggested that content provoking outrage and division often benefited from the new ranking incentives because it generated strong reactions and discussion.<span class="citation-chip-wrap"><a class="citation-chip" href="https://knightcolumbia.org/research/algorithmic-amplification-and-society" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: knightcolumbia.org">[Knight First Amendment Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">knightcolumbia.org</span><span class="citation-popover-snippet">It&#x27;s the Algorithm: A large-scale comparative...Read more...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://panoptykon.org/sites/default/files/2023-08/Panoptykon_ICCL_PvsBT_Fixing-recommender-systems_Aug%202023.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: panoptykon.org">[panoptykon]</a><span class="citation-popover" role="note"><span class="citation-popover-source">panoptykon.org</span><span class="citation-popover-title">Fixing Recommender Systems</span><span class="citation-popover-snippet">Fixing Recommender SystemsAugust 22, 2023  25 Aug 2023  In 2018 Facebook introduced a new metric for its News Feed algorithm...</span><span class="citation-popover-meta">Published: August 22, 2023</span></span></span> This episode illustrates a broader governance lesson: ranking objectives can have consequences that are difficult to predict. A metric designed to measure healthy interaction may end up rewarding controversy if the underlying incentives are not carefully evaluated.
 
 ## Transparency and accountability trade-offs
 
 Because recommendation systems operate largely behind the scenes, outsiders often struggle to determine why particular content spreads. This opacity creates challenges for researchers, regulators, journalists, and users attempting to understand how myths gain visibility.
 
-Algorithmic [amplification]({{ 'amplification/' | relative_url }}) is now recognised as a distinct governance issue. The concern is not simply whether harmful content exists, but whether recommendation systems actively increase its visibility beyond what would occur through ordinary user choice. Yet measuring amplification remains difficult because platforms rarely disclose the full details of their ranking systems, and those systems change frequently. EU DisinfoLab <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Algorithmic_amplification" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Algorithmic amplificationAlgorithmic amplification is the process by which automated ranking and recommendation systems on digital pla...</span></span></span> Transparency advocates argue that platforms should provide clearer information about:
+Algorithmic [amplification]({{ 'amplification/' | relative_url }}) is now recognised as a distinct governance issue. The concern is not simply whether harmful content exists, but whether recommendation systems actively increase its visibility beyond what would occur through ordinary user choice. Yet measuring amplification remains difficult because platforms rarely disclose the full details of their ranking systems, and those systems change frequently. EU DisinfoLab<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Algorithmic_amplification" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Algorithmic amplificationAlgorithmic amplification is the process by which automated ranking and recommendation systems on digital pla...</span></span></span> Transparency advocates argue that platforms should provide clearer information about:
 
 <div class="content-enhancement content-enhancement--comparison" markdown="1">
 
@@ -333,7 +333,7 @@ Greater transparency can improve accountability, but it also creates trade-offs.
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_platform_design_myth_d8c20e_recommendation_syste_5b072a-Illustration-3-dark.svg" | relative_url }}" alt="Algorithms illustration 3" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_platform_design_myth_d8c20e_recommendation_syste_5b072a-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_platform_design_myth_d8c20e_recommendation_syste_5b072a-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Regulatory responses
 
-Governments have increasingly shifted attention from individual pieces of content toward the design of recommender systems themselves. The European Unions Digital Services Act is one prominent example. It requires large platforms to assess and mitigate systemic risks linked to recommender systems and to provide users with greater transparency about how recommendations operate. The legislation reflects a growing policy view that amplification mechanisms deserve scrutiny alongside moderation policies. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.mozillafoundation.org/en/blog/action-recommended-how-the-digital-services-act-addresses-platform-recommender-systems/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mozillafoundation.org">[Mozilla Foundation]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mozillafoundation.org</span><span class="citation-popover-snippet">Mozilla FoundationHow the Digital Services Act Addresses Platform...Feb 27, 2023  While the DSA pays close attention to the algorithmic...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://dsa-observatory.eu/2024/11/22/the-regulation-of-recommender-systems-under-the-dsa-a-transition-from-default-to-multiple-and-dynamic-controls/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dsa-observatory.eu">[DSA Observatory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dsa-observatory.eu</span><span class="citation-popover-snippet">The Regulation of Recommender Systems Under the DSANov 22, 2024  The DSA is the first supranational regulation that aims to address the...</span></span></span>
+Governments have increasingly shifted attention from individual pieces of content toward the design of recommender systems themselves. The European Unions Digital Services Act is one prominent example. It requires large platforms to assess and mitigate systemic risks linked to recommender systems and to provide users with greater transparency about how recommendations operate. The legislation reflects a growing policy view that amplification mechanisms deserve scrutiny alongside moderation policies.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.mozillafoundation.org/en/blog/action-recommended-how-the-digital-services-act-addresses-platform-recommender-systems/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mozillafoundation.org">[Mozilla Foundation]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mozillafoundation.org</span><span class="citation-popover-snippet">Mozilla FoundationHow the Digital Services Act Addresses Platform...Feb 27, 2023  While the DSA pays close attention to the algorithmic...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://dsa-observatory.eu/2024/11/22/the-regulation-of-recommender-systems-under-the-dsa-a-transition-from-default-to-multiple-and-dynamic-controls/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dsa-observatory.eu">[DSA Observatory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dsa-observatory.eu</span><span class="citation-popover-snippet">The Regulation of Recommender Systems Under the DSANov 22, 2024  The DSA is the first supranational regulation that aims to address the...</span></span></span>
 
 This represents an important change in thinking. Rather than treating misinformation solely as a content problem, regulators are increasingly examining the architecture that determines which content receives attention.
 
@@ -341,167 +341,167 @@ This represents an important change in thinking. Rather than treating misinforma
 
 A common misconception is that limiting the spread of myths requires extensive censorship. Recommendation systems demonstrate that there are other options. Platforms can alter ranking incentives, reduce rewards for outrage, elevate reliable information, and provide users with more control over how recommendations work without necessarily removing large amounts of content.
 
-The challenge is that no ranking system is neutral. Every recommendation algorithm reflects choices about what counts as valuable: engagement, satisfaction, reliability, diversity, safety, or some combination of them. Prioritising one goal inevitably changes who receives attention and which ideas gain reach. <span class="citation-chip-wrap"><a class="citation-chip" href="https://knightcolumbia.org/research/algorithmic-amplification-and-society" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: knightcolumbia.org">[Knight First Amendment Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">knightcolumbia.org</span><span class="citation-popover-snippet">It&#x27;s the Algorithm: A large-scale comparative...Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://academiccommons.columbia.edu/doi/10.7916/1h2v-pn50/download" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academiccommons.columbia.edu">[Academic Commons]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academiccommons.columbia.edu</span><span class="citation-popover-snippet">Academic CommonsUnderstanding Social Media Recommendation Algorithmsby A Narayanan  2023  Cited by 228  In computer science, the algor...</span></span></span>
+The challenge is that no ranking system is neutral. Every recommendation algorithm reflects choices about what counts as valuable: engagement, satisfaction, reliability, diversity, safety, or some combination of them. Prioritising one goal inevitably changes who receives attention and which ideas gain reach.<span class="citation-chip-wrap"><a class="citation-chip" href="https://knightcolumbia.org/research/algorithmic-amplification-and-society" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: knightcolumbia.org">[Knight First Amendment Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">knightcolumbia.org</span><span class="citation-popover-snippet">It&#x27;s the Algorithm: A large-scale comparative...Read more...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://academiccommons.columbia.edu/doi/10.7916/1h2v-pn50/download" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academiccommons.columbia.edu">[Academic Commons]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academiccommons.columbia.edu</span><span class="citation-popover-snippet">Academic CommonsUnderstanding Social Media Recommendation Algorithmsby A Narayanan  2023  Cited by 228  In computer science, the algor...</span></span></span>
 
-For myths and misconceptions, this means the architecture of recommendation often matters as much as moderation itself. A false claim does not become influential merely because it exists. It becomes influential when systems designed to allocate attention repeatedly place it in front of new audiences. Conversely, recommender systems that value reliability and harm reduction can make the same claim far less likely to dominate public discussion. <span class="citation-chip-wrap"><a class="citation-chip" href="https://dl.acm.org/doi/10.1145/3616088" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dl.acm.org">[dl.acm.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dl.acm.org</span><span class="citation-popover-snippet">mpacted by misinformation.Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.mozillafoundation.org/en/blog/action-recommended-how-the-digital-services-act-addresses-platform-recommender-systems/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mozillafoundation.org">[Mozilla Foundation]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mozillafoundation.org</span><span class="citation-popover-snippet">Mozilla FoundationHow the Digital Services Act Addresses Platform...Feb 27, 2023  While the DSA pays close attention to the algorithmic...</span></span></span>
+For myths and misconceptions, this means the architecture of recommendation often matters as much as moderation itself. A false claim does not become influential merely because it exists. It becomes influential when systems designed to allocate attention repeatedly place it in front of new audiences. Conversely, recommender systems that value reliability and harm reduction can make the same claim far less likely to dominate public discussion.<span class="citation-chip-wrap"><a class="citation-chip" href="https://dl.acm.org/doi/10.1145/3616088" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dl.acm.org">[dl.acm.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dl.acm.org</span><span class="citation-popover-snippet">mpacted by misinformation.Read more...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.mozillafoundation.org/en/blog/action-recommended-how-the-digital-services-act-addresses-platform-recommender-systems/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mozillafoundation.org">[Mozilla Foundation]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mozillafoundation.org</span><span class="citation-popover-snippet">Mozilla FoundationHow the Digital Services Act Addresses Platform...Feb 27, 2023  While the DSA pays close attention to the algorithmic...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to The Hidden Engine Behind Myth Spread. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to The Hidden Engine Behind Myth Spread. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Chaos+Machine+by+Max+Fisher&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Chaos Machine on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Fz5JEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Chaos Machine" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Chaos+Machine+by+Max+Fisher&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Chaos Machine">The Chaos Machine</a>
-        </h4>
-        <p class="fr-book-author">By Max Fisher</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Chaos+Machine+by+Max+Fisher&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Chaos Machine on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Fz5JEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Chaos Machine" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Chaos+Machine+by+Max+Fisher&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Chaos Machine">The Chaos Machine</a>
+</h4>
+<p class="fr-book-author">By Max Fisher</p>
         
-        <p class="fr-book-desc">Directly examines recommendation systems and amplification effects.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Chaos+Machine+by+Max+Fisher&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly examines recommendation systems and amplification effects.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Chaos+Machine+by+Max+Fisher&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Age+of+Surveillance+Capitalism+by+Shoshana+Zuboff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Age of Surveillance Capitalism on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=W7ZEDgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Age of Surveillance Capitalism" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Age+of+Surveillance+Capitalism+by+Shoshana+Zuboff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Age of Surveillance Capitalism">The Age of Surveillance Capitalism</a>
-        </h4>
-        <p class="fr-book-author">By Shoshana Zuboff</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Age+of+Surveillance+Capitalism+by+Shoshana+Zuboff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Age of Surveillance Capitalism on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=W7ZEDgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Age of Surveillance Capitalism" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Age+of+Surveillance+Capitalism+by+Shoshana+Zuboff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Age of Surveillance Capitalism">The Age of Surveillance Capitalism</a>
+</h4>
+<p class="fr-book-author">By Shoshana Zuboff</p>
         
-        <p class="fr-book-desc">Explores incentives that shape platform design and engagement optimisation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Age+of+Surveillance+Capitalism+by+Shoshana+Zuboff&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores incentives that shape platform design and engagement optimisation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Age+of+Surveillance+Capitalism+by+Shoshana+Zuboff&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Network+Propaganda+Yochai+Benkler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Network Propaganda on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9238306-M.jpg" alt="Cover for Network Propaganda" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Network+Propaganda+Yochai+Benkler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Network Propaganda">Network Propaganda</a>
-        </h4>
-        <p class="fr-book-author">By Yochai Benkler, Robert Faris et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Network+Propaganda+Yochai+Benkler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Network Propaganda on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9238306-M.jpg" alt="Cover for Network Propaganda" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Network+Propaganda+Yochai+Benkler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Network Propaganda">Network Propaganda</a>
+</h4>
+<p class="fr-book-author">By Yochai Benkler, Robert Faris et al.</p>
         
-        <p class="fr-book-desc">First published 2018. Subjects: Politics &amp; government, Presidents, united states, election, 2016, Communication in politics, Political ca...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Network+Propaganda+Yochai+Benkler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2018. Subjects: Politics &amp; government, Presidents, united states, election, 2016, Communication in politics, Political ca...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Network+Propaganda+Yochai+Benkler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Chaos+Machine+Max+Fisher&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Chaos Machine on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/12897860-M.jpg" alt="Cover for Chaos Machine" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Chaos+Machine+Max+Fisher&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Chaos Machine">Chaos Machine</a>
-        </h4>
-        <p class="fr-book-author">By Max Fisher</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Chaos+Machine+Max+Fisher&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Chaos Machine on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/12897860-M.jpg" alt="Cover for Chaos Machine" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Chaos+Machine+Max+Fisher&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Chaos Machine">Chaos Machine</a>
+</h4>
+<p class="fr-book-author">By Max Fisher</p>
         
-        <p class="fr-book-desc">First published 2022.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Chaos+Machine+Max+Fisher&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2022.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Chaos+Machine+Max+Fisher&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Chaos+Machine&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Chaos Machine</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Age+of+Surveillance+Capitalism&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Age of Surveillance Capitalism</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Network+Propaganda&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Network Propaganda</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Chaos+Machine&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Chaos Machine</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Age+of+Surveillance+Capitalism&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Age of Surveillance Capitalism</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Network+Propaganda&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Network Propaganda</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+communication+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=algorithms-84eed4-the-hidden-engine-behind-myth-spread-myths-and-misconcept-science-communication-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science communication poster" data-ebay-reference="algorithms-84eed4-the-hidden-engine-behind-myth-spread-myths-and-misconcept-science-communication-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Poster: the Mode of Information (Paper) - Poster"><img src="{{ '/assets/images/marketplace-covers/0045afdd6e65e5d41f29.jpg' | relative_url }}" alt="Listing image for Poster: the Mode of Information (Paper) - Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+communication+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=algorithms-84eed4-the-hidden-engine-behind-myth-spread-myths-and-misconcept-science-communication-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science communication poster" data-ebay-reference="algorithms-84eed4-the-hidden-engine-behind-myth-spread-myths-and-misconcept-science-communication-poster" target="_blank" rel="sponsored noopener noreferrer">Poster: the Mode of Information (Paper) - Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+communication+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=algorithms-84eed4-the-hidden-engine-behind-myth-spread-myths-and-misconcept-science-communication-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science communication poster" data-ebay-reference="algorithms-84eed4-the-hidden-engine-behind-myth-spread-myths-and-misconcept-science-communication-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science communication poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: science communication poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+communication+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=algorithms-84eed4-the-hidden-engine-behind-myth-spread-myths-and-misconcept-science-communication-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science communication poster" data-ebay-reference="algorithms-84eed4-the-hidden-engine-behind-myth-spread-myths-and-misconcept-science-communication-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+communication+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=algorithms-84eed4-the-hidden-engine-behind-myth-spread-myths-and-misconcept-science-communication-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science communication poster" data-ebay-reference="algorithms-84eed4-the-hidden-engine-behind-myth-spread-myths-and-misconcept-science-communication-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Poster: the Mode of Information (Paper) - Poster"><img src="{{ '/assets/images/marketplace-covers/0045afdd6e65e5d41f29.jpg' | relative_url }}" alt="Listing image for Poster: the Mode of Information (Paper) - Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+communication+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=algorithms-84eed4-the-hidden-engine-behind-myth-spread-myths-and-misconcept-science-communication-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science communication poster" data-ebay-reference="algorithms-84eed4-the-hidden-engine-behind-myth-spread-myths-and-misconcept-science-communication-poster" target="_blank" rel="sponsored noopener noreferrer">Poster: the Mode of Information (Paper) - Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+communication+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=algorithms-84eed4-the-hidden-engine-behind-myth-spread-myths-and-misconcept-science-communication-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science communication poster" data-ebay-reference="algorithms-84eed4-the-hidden-engine-behind-myth-spread-myths-and-misconcept-science-communication-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science communication poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: science communication poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+communication+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=algorithms-84eed4-the-hidden-engine-behind-myth-spread-myths-and-misconcept-science-communication-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science communication poster" data-ebay-reference="algorithms-84eed4-the-hidden-engine-behind-myth-spread-myths-and-misconcept-science-communication-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+communication+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=algorithms-84eed4-the-hidden-engine-behind-myth-spread-myths-and-misconcept-science-communication-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science communication poster" data-ebay-reference="algorithms-84eed4-the-hidden-engine-behind-myth-spread-myths-and-misconcept-science-communication-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Military Phonetic Alphabet Poster – Tactical Survival Communication Chart"><img src="{{ '/assets/images/marketplace-covers/75e30d286484f400ab90.jpg' | relative_url }}" alt="Listing image for Military Phonetic Alphabet Poster – Tactical Survival Communication Chart" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+communication+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=algorithms-84eed4-the-hidden-engine-behind-myth-spread-myths-and-misconcept-science-communication-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science communication poster" data-ebay-reference="algorithms-84eed4-the-hidden-engine-behind-myth-spread-myths-and-misconcept-science-communication-poster" target="_blank" rel="sponsored noopener noreferrer">Military Phonetic Alphabet Poster – Tactical Survival Communication Chart</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+communication+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=algorithms-84eed4-the-hidden-engine-behind-myth-spread-myths-and-misconcept-science-communication-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science communication poster" data-ebay-reference="algorithms-84eed4-the-hidden-engine-behind-myth-spread-myths-and-misconcept-science-communication-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science communication poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: science communication poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+communication+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=algorithms-84eed4-the-hidden-engine-behind-myth-spread-myths-and-misconcept-science-communication-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science communication poster" data-ebay-reference="algorithms-84eed4-the-hidden-engine-behind-myth-spread-myths-and-misconcept-science-communication-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+communication+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=algorithms-84eed4-the-hidden-engine-behind-myth-spread-myths-and-misconcept-science-communication-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science communication poster" data-ebay-reference="algorithms-84eed4-the-hidden-engine-behind-myth-spread-myths-and-misconcept-science-communication-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+communication+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=algorithms-84eed4-the-hidden-engine-behind-myth-spread-myths-and-misconcept-science-communication-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science communication poster" data-ebay-reference="algorithms-84eed4-the-hidden-engine-behind-myth-spread-myths-and-misconcept-science-communication-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Military Phonetic Alphabet Poster – Tactical Survival Communication Chart"><img src="{{ '/assets/images/marketplace-covers/75e30d286484f400ab90.jpg' | relative_url }}" alt="Listing image for Military Phonetic Alphabet Poster – Tactical Survival Communication Chart" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+communication+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=algorithms-84eed4-the-hidden-engine-behind-myth-spread-myths-and-misconcept-science-communication-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science communication poster" data-ebay-reference="algorithms-84eed4-the-hidden-engine-behind-myth-spread-myths-and-misconcept-science-communication-poster" target="_blank" rel="sponsored noopener noreferrer">Military Phonetic Alphabet Poster – Tactical Survival Communication Chart</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+communication+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=algorithms-84eed4-the-hidden-engine-behind-myth-spread-myths-and-misconcept-science-communication-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science communication poster" data-ebay-reference="algorithms-84eed4-the-hidden-engine-behind-myth-spread-myths-and-misconcept-science-communication-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science communication poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: science communication poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+communication+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=algorithms-84eed4-the-hidden-engine-behind-myth-spread-myths-and-misconcept-science-communication-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science communication poster" data-ebay-reference="algorithms-84eed4-the-hidden-engine-behind-myth-spread-myths-and-misconcept-science-communication-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+communication+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=algorithms-84eed4-the-hidden-engine-behind-myth-spread-myths-and-misconcept-science-communication-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science communication poster" data-ebay-reference="algorithms-84eed4-the-hidden-engine-behind-myth-spread-myths-and-misconcept-science-communication-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -517,7 +517,7 @@ For myths and misconceptions, this means the architecture of recommendation ofte
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -537,7 +537,7 @@ For myths and misconceptions, this means the architecture of recommendation ofte
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -569,7 +569,7 @@ For myths and misconceptions, this means the architecture of recommendation ofte
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -621,7 +621,7 @@ For myths and misconceptions, this means the architecture of recommendation ofte
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -666,7 +666,7 @@ For myths and misconceptions, this means the architecture of recommendation ofte
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -707,142 +707,142 @@ For myths and misconceptions, this means the architecture of recommendation ofte
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11894805/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11894805/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>by S Milli  2025  Cited by 164  Social media ranking algorithms typically optimize for users&#x27; revealed preferences, i.e. user engag...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11894805/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11894805/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by S Milli  2025  Cited by 164  Social media ranking algorithms typically optimize for users&#x27; revealed preferences, i.e. user engag...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2305.16941" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2305.16941</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Engagement, User Satisfaction, and the Amplification of Divisive Content on Social MediaMay 26, 2023...</p></details>
+   Link:<a href="https://arxiv.org/abs/2305.16941" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2305.16941</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Engagement, User Satisfaction, and the Amplification of Divisive Content on Social MediaMay 26, 2023...</p></details>
    Published: May 26, 2023  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0047272726000253" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0047272726000253</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Ranking for engagement: How social media algorithms fuel...by F Germano  2026  Cited by 16  This paper investigates the...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/pii/S0047272726000253" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0047272726000253</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ranking for engagement: How social media algorithms fuel...by F Germano  2026  Cited by 16  This paper investigates the...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: papers.ssrn.com  
-   Link: <a href="https://papers.ssrn.com/sol3/Delivery.cfm/4f79d5ca-867d-49db-a4ba-ebfdcaf0ac9b-MECA.pdf?abstractid=5316506&amp;mirid=1" target="_blank" rel="noopener noreferrer nofollow">https://papers.ssrn.com/sol3/Delivery.cfm/4f79d5ca-867d-49db-a4ba-ebfdcaf0ac9b-MECA.pdf?abstractid=5316506&amp;mirid=1</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Social Media Algorithms Fuel Misinformation and...To connect this prediction to observational data, we exploit Facebook&#x27;s Meaningful So...</p></details>
+   Link:<a href="https://papers.ssrn.com/sol3/Delivery.cfm/4f79d5ca-867d-49db-a4ba-ebfdcaf0ac9b-MECA.pdf?abstractid=5316506&amp;mirid=1" target="_blank" rel="noopener noreferrer nofollow">https://papers.ssrn.com/sol3/Delivery.cfm/4f79d5ca-867d-49db-a4ba-ebfdcaf0ac9b-MECA.pdf?abstractid=5316506&amp;mirid=1</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Social Media Algorithms Fuel Misinformation and...To connect this prediction to observational data, we exploit Facebook&#x27;s Meaningful So...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: panoptykon.org  
    Title: Fixing Recommender Systems  
-   Link: <a href="https://panoptykon.org/sites/default/files/2023-08/Panoptykon_ICCL_PvsBT_Fixing-recommender-systems_Aug%202023.pdf" target="_blank" rel="noopener noreferrer nofollow">https://panoptykon.org/sites/default/files/2023-08/Panoptykon_ICCL_PvsBT_Fixing-recommender-systems_Aug%202023.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Fixing Recommender SystemsAugust 22, 2023  25 Aug 2023  In 2018 Facebook introduced a new metric for its News Feed algorithm...</p></details>
+   Link:<a href="https://panoptykon.org/sites/default/files/2023-08/Panoptykon_ICCL_PvsBT_Fixing-recommender-systems_Aug%202023.pdf" target="_blank" rel="noopener noreferrer nofollow">https://panoptykon.org/sites/default/files/2023-08/Panoptykon_ICCL_PvsBT_Fixing-recommender-systems_Aug%202023.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Fixing Recommender SystemsAugust 22, 2023  25 Aug 2023  In 2018 Facebook introduced a new metric for its News Feed algorithm...</p></details>
    Published: August 22, 2023  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Algorithmic_amplification" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Algorithmic_amplification</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Algorithmic amplificationAlgorithmic amplification is the process by which automated ranking and recommendation systems on digital pla...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Algorithmic_amplification" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Algorithmic_amplification</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Algorithmic amplificationAlgorithmic amplification is the process by which automated ranking and recommendation systems on digital pla...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/html/2505.11577v3" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2505.11577v3</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>How Platform API Restrictions Undermine AI Transparency...Mar 27, 2026  This study documents an accountability paradox: as platforms em...</p></details>
+   Link:<a href="https://arxiv.org/html/2505.11577v3" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2505.11577v3</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How Platform API Restrictions Undermine AI Transparency...Mar 27, 2026  This study documents an accountability paradox: as platforms em...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: dsa-observatory.eu  
-   Link: <a href="https://dsa-observatory.eu/2024/11/22/the-regulation-of-recommender-systems-under-the-dsa-a-transition-from-default-to-multiple-and-dynamic-controls/" target="_blank" rel="noopener noreferrer nofollow">https://dsa-observatory.eu/2024/11/22/the-regulation-of-recommender-systems-under-the-dsa-a-transition-from-default-to-multiple-and-dynamic-controls/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Regulation of Recommender Systems Under the DSANov 22, 2024  The DSA is the first supranational regulation that aims to address the...</p></details>
+   Link:<a href="https://dsa-observatory.eu/2024/11/22/the-regulation-of-recommender-systems-under-the-dsa-a-transition-from-default-to-multiple-and-dynamic-controls/" target="_blank" rel="noopener noreferrer nofollow">https://dsa-observatory.eu/2024/11/22/the-regulation-of-recommender-systems-under-the-dsa-a-transition-from-default-to-multiple-and-dynamic-controls/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Regulation of Recommender Systems Under the DSANov 22, 2024  The DSA is the first supranational regulation that aims to address the...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: dl.acm.org  
-   Link: <a href="https://dl.acm.org/doi/10.1145/3616088" target="_blank" rel="noopener noreferrer nofollow">https://dl.acm.org/doi/10.1145/3616088</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>mpacted by misinformation.Read more...</p></details>
+   Link:<a href="https://dl.acm.org/doi/10.1145/3616088" target="_blank" rel="noopener noreferrer nofollow">https://dl.acm.org/doi/10.1145/3616088</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>mpacted by misinformation.Read more...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0268401226000381" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0268401226000381</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AI-based digital disinformation: A theory-informed and...by BW Wirtz  2026  Truth, lies, and automation: How language models could cha...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/pii/S0268401226000381" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0268401226000381</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AI-based digital disinformation: A theory-informed and...by BW Wirtz  2026  Truth, lies, and automation: How language models could cha...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/org/science/article/pii/S1548367326000062" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/org/science/article/pii/S1548367326000062</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Integrating user behavior, content...Read more...</p></details>
+   Link:<a href="https://www.sciencedirect.com/org/science/article/pii/S1548367326000062" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/org/science/article/pii/S1548367326000062</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Integrating user behavior, content...Read more...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/html/2305.06125v3" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2305.06125v3</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>sed recommender systems - which form the majority of recommendation engines...Read more...</p></details>
+   Link:<a href="https://arxiv.org/html/2305.06125v3" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2305.06125v3</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>sed recommender systems - which form the majority of recommendation engines...Read more...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: academiccommons.columbia.edu  
-   Link: <a href="https://academiccommons.columbia.edu/doi/10.7916/1h2v-pn50/download" target="_blank" rel="noopener noreferrer nofollow">https://academiccommons.columbia.edu/doi/10.7916/1h2v-pn50/download</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Academic CommonsUnderstanding Social Media Recommendation Algorithmsby A Narayanan  2023  Cited by 228  In computer science, the algor...</p></details>
+   Link:<a href="https://academiccommons.columbia.edu/doi/10.7916/1h2v-pn50/download" target="_blank" rel="noopener noreferrer nofollow">https://academiccommons.columbia.edu/doi/10.7916/1h2v-pn50/download</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Academic CommonsUnderstanding Social Media Recommendation Algorithmsby A Narayanan  2023  Cited by 228  In computer science, the algor...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: knightcolumbia.org  
-   Link: <a href="https://knightcolumbia.org/research/algorithmic-amplification-and-society" target="_blank" rel="noopener noreferrer nofollow">https://knightcolumbia.org/research/algorithmic-amplification-and-society</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>It&#x27;s the Algorithm: A large-scale comparative...Read more...</p></details>
+   Link:<a href="https://knightcolumbia.org/research/algorithmic-amplification-and-society" target="_blank" rel="noopener noreferrer nofollow">https://knightcolumbia.org/research/algorithmic-amplification-and-society</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>It&#x27;s the Algorithm: A large-scale comparative...Read more...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: knightcolumbia.org  
    Title: understanding social media recommendation algorithms  
-   Link: <a href="https://knightcolumbia.org/content/understanding-social-media-recommendation-algorithms" target="_blank" rel="noopener noreferrer nofollow">https://knightcolumbia.org/content/understanding-social-media-recommendation-algorithms</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>misinformation is also consistent with some research.) 61 61... MSI = Meaningful Social Interactions, Facebook&#x27;s engagement metric.Read...</p></details>
+   Link:<a href="https://knightcolumbia.org/content/understanding-social-media-recommendation-algorithms" target="_blank" rel="noopener noreferrer nofollow">https://knightcolumbia.org/content/understanding-social-media-recommendation-algorithms</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>misinformation is also consistent with some research.) 61 61... MSI = Meaningful Social Interactions, Facebook&#x27;s engagement metric.Read...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: mozillafoundation.org  
-   Link: <a href="https://www.mozillafoundation.org/en/blog/action-recommended-how-the-digital-services-act-addresses-platform-recommender-systems/" target="_blank" rel="noopener noreferrer nofollow">https://www.mozillafoundation.org/en/blog/action-recommended-how-the-digital-services-act-addresses-platform-recommender-systems/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Mozilla FoundationHow the Digital Services Act Addresses Platform...Feb 27, 2023  While the DSA pays close attention to the algorithmic...</p></details>
+   Link:<a href="https://www.mozillafoundation.org/en/blog/action-recommended-how-the-digital-services-act-addresses-platform-recommender-systems/" target="_blank" rel="noopener noreferrer nofollow">https://www.mozillafoundation.org/en/blog/action-recommended-how-the-digital-services-act-addresses-platform-recommender-systems/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Mozilla FoundationHow the Digital Services Act Addresses Platform...Feb 27, 2023  While the DSA pays close attention to the algorithmic...</p></details>
 
 ### Additional References
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/401405020_Ranking_for_engagement_How_social_media_algorithms_fuel_misinformation_and_polarization" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/401405020_Ranking_for_engagement_How_social_media_algorithms_fuel_misinformation_and_polarization</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ranking for engagement: How social media algorithms fuel...4 Mar 2026  varying the weight on engagement metrics can raise platform acti...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/401405020_Ranking_for_engagement_How_social_media_algorithms_fuel_misinformation_and_polarization" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/401405020_Ranking_for_engagement_How_social_media_algorithms_fuel_misinformation_and_polarization</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ranking for engagement: How social media algorithms fuel...4 Mar 2026  varying the weight on engagement metrics can raise platform acti...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: knightcolumbia.org  
-   Link: <a href="https://knightcolumbia.org/tags/algorithmic-amplification" target="_blank" rel="noopener noreferrer nofollow">https://knightcolumbia.org/tags/algorithmic-amplification</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Algorithmic AmplificationEngagement-based algorithms often amplify divisive content and fail to meet user preferences. What&#x27;s the alterna...</p></details>
+   Link:<a href="https://knightcolumbia.org/tags/algorithmic-amplification" target="_blank" rel="noopener noreferrer nofollow">https://knightcolumbia.org/tags/algorithmic-amplification</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Algorithmic AmplificationEngagement-based algorithms often amplify divisive content and fail to meet user preferences. What&#x27;s the alterna...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: isdglobal.org  
-   Link: <a href="https://www.isdglobal.org/our-expertise/tech-accountability-and-safety/recommender-systems-and-algorithms/page/2/" target="_blank" rel="noopener noreferrer nofollow">https://www.isdglobal.org/our-expertise/tech-accountability-and-safety/recommender-systems-and-algorithms/page/2/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Recommender Systems and Algorithms- Page 2 of 5This research project explores the topics and content YouTube&#x27;s algorithm recommends to yo...</p></details>
+   Link:<a href="https://www.isdglobal.org/our-expertise/tech-accountability-and-safety/recommender-systems-and-algorithms/page/2/" target="_blank" rel="noopener noreferrer nofollow">https://www.isdglobal.org/our-expertise/tech-accountability-and-safety/recommender-systems-and-algorithms/page/2/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Recommender Systems and Algorithms- Page 2 of 5This research project explores the topics and content YouTube&#x27;s algorithm recommends to yo...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: disinfo.eu  
    Title: mapping algorithmic amplification transparency challenges lessons germany  
-   Link: <a href="https://www.disinfo.eu/publications/mapping-algorithmic-amplification-transparency-challenges-lessons-germany/" target="_blank" rel="noopener noreferrer nofollow">https://www.disinfo.eu/publications/mapping-algorithmic-amplification-transparency-challenges-lessons-germany/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>EU DisinfoLabMapping algorithmic amplification: transparency...Nov 24, 2025  The report maps how algorithmic amplification operates acr...</p></details>
+   Link:<a href="https://www.disinfo.eu/publications/mapping-algorithmic-amplification-transparency-challenges-lessons-germany/" target="_blank" rel="noopener noreferrer nofollow">https://www.disinfo.eu/publications/mapping-algorithmic-amplification-transparency-challenges-lessons-germany/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>EU DisinfoLabMapping algorithmic amplification: transparency...Nov 24, 2025  The report maps how algorithmic amplification operates acr...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: cambridge.org  
    Title: Addressing Misinformation and Disinformationby J Meese  Cited by 1   
-   Link: <a href="https://www.cambridge.org/core/elements/addressing-misinformation-and-disinformation/66BE72E9F1FC74DE2CD6286B8383C146" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/elements/addressing-misinformation-and-disinformation/66BE72E9F1FC74DE2CD6286B8383C146</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>system could miss falsehoods and amplify hateful content (see... Post-Truth, [Fake News](&amp;#123;&amp;#123; &#x27;fake-news/&#x27; | relative_url &amp;#125;&amp;#125;) and Democracy: Mapping the [Politics](&amp;#123;&amp;#123; &#x27;politics/&#x27; | relative_url &amp;#125;&amp;#125;) o...</p></details>
+   Link:<a href="https://www.cambridge.org/core/elements/addressing-misinformation-and-disinformation/66BE72E9F1FC74DE2CD6286B8383C146" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/elements/addressing-misinformation-and-disinformation/66BE72E9F1FC74DE2CD6286B8383C146</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>system could miss falsehoods and amplify hateful content (see... Post-Truth, [Fake News](&amp;#123;&amp;#123; &#x27;fake-news/&#x27; | relative_url &amp;#125;&amp;#125;) and Democracy: Mapping the [Politics](&amp;#123;&amp;#123; &#x27;politics/&#x27; | relative_url &amp;#125;&amp;#125;) o...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/393407319_Research_on_the_Impact_of_Social_Media_Algorithmic_on_User_Decision-making_Focus_on_Algorithmic_Transparent_and_Ethical_Design" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/393407319_Research_on_the_Impact_of_Social_Media_Algorithmic_on_User_Decision-making_Focus_on_Algorithmic_Transparent_and_Ethical_Design</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>These recommendation systems and their users form a feedback loop, wherein the former aims to...Read more...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/393407319_Research_on_the_Impact_of_Social_Media_Algorithmic_on_User_Decision-making_Focus_on_Algorithmic_Transparent_and_Ethical_Design" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/393407319_Research_on_the_Impact_of_Social_Media_Algorithmic_on_User_Decision-making_Focus_on_Algorithmic_Transparent_and_Ethical_Design</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>These recommendation systems and their users form a feedback loop, wherein the former aims to...Read more...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: freshfields.com  
    Title: dsa decoded 10 algorithmic transparency under the dsa 102mgg8  
-   Link: <a href="https://www.freshfields.com/en/our-thinking/blogs/technology-quotient/dsa-decoded-10-algorithmic-transparency-under-the-dsa-102mgg8" target="_blank" rel="noopener noreferrer nofollow">https://www.freshfields.com/en/our-thinking/blogs/technology-quotient/dsa-decoded-10-algorithmic-transparency-under-the-dsa-102mgg8</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>DSA decoded # 10: Algorithmic transparency under the DSAFeb 6, 2026  Most online platforms use recommender systems to enhance the user e...</p></details>
+   Link:<a href="https://www.freshfields.com/en/our-thinking/blogs/technology-quotient/dsa-decoded-10-algorithmic-transparency-under-the-dsa-102mgg8" target="_blank" rel="noopener noreferrer nofollow">https://www.freshfields.com/en/our-thinking/blogs/technology-quotient/dsa-decoded-10-algorithmic-transparency-under-the-dsa-102mgg8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>DSA decoded # 10: Algorithmic transparency under the DSAFeb 6, 2026  Most online platforms use recommender systems to enhance the user e...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: ifo.de  
-   Link: <a href="https://www.ifo.de/en/cesifo/publications/2026/working-paper/ranking-engagement-how-social-media-algorithms-fuel-misinformation" target="_blank" rel="noopener noreferrer nofollow">https://www.ifo.de/en/cesifo/publications/2026/working-paper/ranking-engagement-how-social-media-algorithms-fuel-misinformation</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>s and user behavior, and develops a theoretical framework to assess the impact...Read more...</p></details>
+   Link:<a href="https://www.ifo.de/en/cesifo/publications/2026/working-paper/ranking-engagement-how-social-media-algorithms-fuel-misinformation" target="_blank" rel="noopener noreferrer nofollow">https://www.ifo.de/en/cesifo/publications/2026/working-paper/ranking-engagement-how-social-media-algorithms-fuel-misinformation</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>s and user behavior, and develops a theoretical framework to assess the impact...Read more...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: aph.gov.au  
-   Link: <a href="https://www.aph.gov.au/Parliamentary_Business/Committees/Senate/Information_Integrity_on_Climate_Change_and_Energy/ClimateIntegrity/Report/Chapter_7_-_Improving_digital_platform_transparency_and_accountability" target="_blank" rel="noopener noreferrer nofollow">https://www.aph.gov.au/Parliamentary_Business/Committees/Senate/Information_Integrity_on_Climate_Change_and_Energy/ClimateIntegrity/Report/Chapter_7_-_Improving_digital_platform_transparency_and_accountability</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>transparency, as well as specific actions in relation to bots and inauthentic...Read more...</p></details>
+   Link:<a href="https://www.aph.gov.au/Parliamentary_Business/Committees/Senate/Information_Integrity_on_Climate_Change_and_Energy/ClimateIntegrity/Report/Chapter_7_-_Improving_digital_platform_transparency_and_accountability" target="_blank" rel="noopener noreferrer nofollow">https://www.aph.gov.au/Parliamentary_Business/Committees/Senate/Information_Integrity_on_Climate_Change_and_Energy/ClimateIntegrity/Report/Chapter_7_-_Improving_digital_platform_transparency_and_accountability</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>transparency, as well as specific actions in relation to bots and inauthentic...Read more...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: ifo.de  
    Title: Institut CESifo Working Paper No  
-   Link: <a href="https://www.ifo.de/DocDL/cesifo1_wp10011.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ifo.de/DocDL/cesifo1_wp10011.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>10011by F Germano  Cited by 16  Finally, empirical evidence from survey data in Italy and the United States indicates that Facebook&#x27;s 2...</p></details>
+   Link:<a href="https://www.ifo.de/DocDL/cesifo1_wp10011.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ifo.de/DocDL/cesifo1_wp10011.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>10011by F Germano  Cited by 16  Finally, empirical evidence from survey data in Italy and the United States indicates that Facebook&#x27;s 2...</p></details>

@@ -508,9 +508,9 @@ For communicators, the timing question is therefore not “instant correction or
 
 ## Why early correction has an advantage
 
-Viral myths do not spread like neutral facts waiting to be assessed. They often travel because they are novel, emotional, [identity]({{ 'identity/' | relative_url }})-reinforcing or useful to a group’s existing story. A large study of Twitter from 2006 to 2017 found that false news spread farther, faster and more broadly than true news, with false stories more likely to be retweeted; the researchers argued that novelty and emotional reaction helped explain the gap. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.science.org/doi/10.1126/science.aap9559" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.org">[Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.org</span><span class="citation-popover-snippet">The spread of true and false news onlineby S Vosoughi · 2018 · Cited by 14051 — Although the terms fake news and misinformation al...</span></span></span>
+Viral myths do not spread like neutral facts waiting to be assessed. They often travel because they are novel, emotional, [identity]({{ 'identity/' | relative_url }})-reinforcing or useful to a group’s existing story. A large study of Twitter from 2006 to 2017 found that false news spread farther, faster and more broadly than true news, with false stories more likely to be retweeted; the researchers argued that novelty and emotional reaction helped explain the gap.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.science.org/doi/10.1126/science.aap9559" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.org">[Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.org</span><span class="citation-popover-snippet">The spread of true and false news onlineby S Vosoughi · 2018 · Cited by 14051 — Although the terms fake news and misinformation al...</span></span></span>
 
-That speed changes the job of correction. Once a false claim has been seen repeatedly, people may remember the general story even if they later forget the correction. Research on the continued influence effect shows that misinformation can still shape reasoning after people have been told it is wrong, especially when the correction fails to replace the old story with a clear alternative explanation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://link.springer.com/article/10.1186/s41235-020-00241-6" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer Link]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+That speed changes the job of correction. Once a false claim has been seen repeatedly, people may remember the general story even if they later forget the correction. Research on the continued influence effect shows that misinformation can still shape reasoning after people have been told it is wrong, especially when the correction fails to replace the old story with a clear alternative explanation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://link.springer.com/article/10.1186/s41235-020-00241-6" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer Link]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 Early correction helps because it can interrupt three processes before they harden:
 
@@ -529,7 +529,7 @@ This does not mean every weak rumour deserves a full public rebuttal. Amplifying
 
 A common mistake is to treat correction as a single event: myth appears, fact-check is published, problem solved. In practice, viral myths often require a sequence of messages. The first message may reduce harm; later messages add evidence, address mutations of the claim and correct misunderstandings created by the first wave of coverage.
 
-Public health risk communication has long recognised this problem. The World Health Organization’s risk communication guidance says that effective communication should be timely, transparent, easy to understand and open about uncertainty. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ncbi.nlm.nih.gov/books/NBK540733/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ncbi.nlm.nih.gov">[NCBI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Open source on nih.gov.</span></span></span> The CDC’s crisis and emergency risk communication model similarly uses the principle “be first, be right, be credible”, while warning communicators not to speculate and to monitor misinformation that needs correction. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.asset-scienceinsociety.eu/sites/default/files/cdc_risk_communication_book.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: asset-scienceinsociety.eu">[ASSET]</a><span class="citation-popover" role="note"><span class="citation-popover-source">asset-scienceinsociety.eu</span><span class="citation-popover-title">ASSETCrisis and Emergency Risk Communication</span><span class="citation-popover-snippet">ASSETCrisis and Emergency Risk Communication</span></span></span>
+Public health risk communication has long recognised this problem. The World Health Organization’s risk communication guidance says that effective communication should be timely, transparent, easy to understand and open about uncertainty.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ncbi.nlm.nih.gov/books/NBK540733/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ncbi.nlm.nih.gov">[NCBI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Open source on nih.gov.</span></span></span> The CDC’s crisis and emergency risk communication model similarly uses the principle “be first, be right, be credible”, while warning communicators not to speculate and to monitor misinformation that needs correction.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.asset-scienceinsociety.eu/sites/default/files/cdc_risk_communication_book.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: asset-scienceinsociety.eu">[ASSET]</a><span class="citation-popover" role="note"><span class="citation-popover-source">asset-scienceinsociety.eu</span><span class="citation-popover-title">ASSETCrisis and Emergency Risk Communication</span><span class="citation-popover-snippet">ASSETCrisis and Emergency Risk Communication</span></span></span>
 
 For viral myths, this points to a useful distinction:
 
@@ -537,7 +537,7 @@ For viral myths, this points to a useful distinction:
 
 **A full debunk** says: “This claim is false or misleading because of this evidence. Here is the more accurate explanation.”
 
-The holding correction matters when waiting for a perfect answer would leave people exposed to a harmful falsehood. For example, during an outbreak, officials may not yet know every detail about transmission, but they can still correct a rumour that a vaccine team is spreading disease, that a harmless symptom proves poisoning, or that an invented cure is safe. A Reuters investigation into health rumours in the Democratic Republic of Congo reported that false claims about a supposed genital-atrophy illness contributed to violence and deaths, including attacks on health workers; the case illustrates how delay, mistrust and rumour can combine before authorities have regained control of the information environment. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reuters.com/business/media-telecom/fake-rumors-real-killings-inside-congos-deadly-health-misinformation-crisis-2026-05-07/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">Fake rumors, real killings: Inside Congo&#x27;s deadly health misinformation crisis</span><span class="citation-popover-snippet">Social media, local media, and religious leaders, including megachurch pastor Jules Mulindwa and other pastors, played a key role in ampl...</span></span></span>
+The holding correction matters when waiting for a perfect answer would leave people exposed to a harmful falsehood. For example, during an outbreak, officials may not yet know every detail about transmission, but they can still correct a rumour that a vaccine team is spreading disease, that a harmless symptom proves poisoning, or that an invented cure is safe. A Reuters investigation into health rumours in the Democratic Republic of Congo reported that false claims about a supposed genital-atrophy illness contributed to violence and deaths, including attacks on health workers; the case illustrates how delay, mistrust and rumour can combine before authorities have regained control of the information environment.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reuters.com/business/media-telecom/fake-rumors-real-killings-inside-congos-deadly-health-misinformation-crisis-2026-05-07/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">Fake rumors, real killings: Inside Congo&#x27;s deadly health misinformation crisis</span><span class="citation-popover-snippet">Social media, local media, and religious leaders, including megachurch pastor Jules Mulindwa and other pastors, played a key role in ampl...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/tJIe6sT1ar8" title="CDC’s CERC: Introduction to Crisis &amp; Emergency Risk Communication (CERC)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=tJIe6sT1ar8" target="_blank" rel="noopener noreferrer">CDC’s CERC: Introduction to Crisis &amp; Emergency Risk Communication (CERC)</a></p><p class="youtube-embed-meta">Channel: Centers for Disease Control and Prevention (CDC) &middot; Views: 18.8K &middot; Uploaded: February 2019 &middot; Length: 53 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=tJIe6sT1ar8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=tJIe6sT1ar8">Open on YouTube</a></p></div></div></div>
 
@@ -545,9 +545,9 @@ The holding correction matters when waiting for a perfect answer would leave peo
 
 Speed becomes harmful when the correction outruns the evidence. A public statement that sounds final but later needs heavy revision can be read as incompetence, concealment or bad faith. That is especially risky when the subject is scientifically uncertain, politically charged or changing quickly.
 
-The COVID-19 pandemic made this visible. Guidance on masks, transmission, treatments and origins evolved as evidence changed, but many people experienced those changes as contradiction rather than learning. Studies of COVID-19 communication found that changing guidance could reduce [confidence]({{ 'confidence/' | relative_url }}) in experts unless the possibility of revision was explained in advance. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cambridge.org/core/journals/judgment-and-decision-making/article/brief-forewarning-intervention-overcomes-negative-effects-of-salient-changes-in-covid19-guidance/2854EC51BEDB755B62EDDFBFC79C3039" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cambridge.org">[Cambridge University Press &amp; Assessment]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cambridge.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> Research on public reaction to mask guidance also shows how shifts in official recommendations became a focus for sentiment, confusion and politicisation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.jmir.org/2023/1/e40706/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jmir.org">[JMIR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jmir.org</span><span class="citation-popover-snippet">Open source on jmir.org.</span></span></span>
+The COVID-19 pandemic made this visible. Guidance on masks, transmission, treatments and origins evolved as evidence changed, but many people experienced those changes as contradiction rather than learning. Studies of COVID-19 communication found that changing guidance could reduce [confidence]({{ 'confidence/' | relative_url }}) in experts unless the possibility of revision was explained in advance.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cambridge.org/core/journals/judgment-and-decision-making/article/brief-forewarning-intervention-overcomes-negative-effects-of-salient-changes-in-covid19-guidance/2854EC51BEDB755B62EDDFBFC79C3039" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cambridge.org">[Cambridge University Press &amp; Assessment]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cambridge.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> Research on public reaction to mask guidance also shows how shifts in official recommendations became a focus for sentiment, confusion and politicisation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.jmir.org/2023/1/e40706/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jmir.org">[JMIR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jmir.org</span><span class="citation-popover-snippet">Open source on jmir.org.</span></span></span>
 
-The lesson is not that officials should avoid correcting myths until certainty is complete. It is that they should avoid pretending to have certainty they do not have. WHO guidance on [communicating]({{ 'communicating/' | relative_url }}) uncertainty in emergencies stresses that uncertainty should be communicated because doing so helps maintain trust while advice develops. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.who.int/docs/librariesprovider2/default-document-library/tips-for-communicating-uncertainty-final-eng.pdf?download=true&amp;sfvrsn=6d9700d7_1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: who.int">[World Health Organization]</a><span class="citation-popover" role="note"><span class="citation-popover-source">who.int</span><span class="citation-popover-title">tips for communicating uncertainty final eng</span><span class="citation-popover-snippet">tips for communicating uncertainty final eng</span></span></span> The most trustworthy early correction often contains plain uncertainty markers, such as “based on the evidence available today”, “we have not yet verified”, “this part is false”, and “this part is still under investigation”.
+The lesson is not that officials should avoid correcting myths until certainty is complete. It is that they should avoid pretending to have certainty they do not have. WHO guidance on [communicating]({{ 'communicating/' | relative_url }}) uncertainty in emergencies stresses that uncertainty should be communicated because doing so helps maintain trust while advice develops.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.who.int/docs/librariesprovider2/default-document-library/tips-for-communicating-uncertainty-final-eng.pdf?download=true&amp;sfvrsn=6d9700d7_1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: who.int">[World Health Organization]</a><span class="citation-popover" role="note"><span class="citation-popover-source">who.int</span><span class="citation-popover-title">tips for communicating uncertainty final eng</span><span class="citation-popover-snippet">tips for communicating uncertainty final eng</span></span></span> The most trustworthy early correction often contains plain uncertainty markers, such as “based on the evidence available today”, “we have not yet verified”, “this part is false”, and “this part is still under investigation”.
 
 The timing decision therefore depends on the type of uncertainty:
 
@@ -565,7 +565,7 @@ Not every myth needs the same response window. A false claim about a celebrity�
 
 A practical timing decision should weigh four questions.
 
-**Is the myth causing or likely to cause harm?** Health, safety, finance and civic participation myths deserve faster intervention because even short delays can affect behaviour. The U.S. Surgeon General’s advisory on health misinformation described misinformation as a public health challenge because it can influence decisions and weaken trust in health systems. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.hhs.gov/sites/default/files/surgeon-general-misinformation-advisory.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hhs.gov">[HHS.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hhs.gov</span><span class="citation-popover-title">Confronting Health Misinformation</span><span class="citation-popover-snippet">Confronting Health Misinformation</span></span></span>
+**Is the myth causing or likely to cause harm?** Health, safety, finance and civic participation myths deserve faster intervention because even short delays can affect behaviour. The U.S. Surgeon General’s advisory on health misinformation described misinformation as a public health challenge because it can influence decisions and weaken trust in health systems.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.hhs.gov/sites/default/files/surgeon-general-misinformation-advisory.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hhs.gov">[HHS.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hhs.gov</span><span class="citation-popover-title">Confronting Health Misinformation</span><span class="citation-popover-snippet">Confronting Health Misinformation</span></span></span>
 
 **Is the claim accelerating?** A myth shared by a few accounts may not need a public rebuttal, but one moving across platforms, languages or communities may need a visible correction before it becomes the default story.
 
@@ -579,7 +579,7 @@ The strongest case for rapid public correction is when the myth is both **high-h
 
 Modern correction is not only about what experts say. It is also about when platforms, fact-checkers and community systems attach context to a post. Warning labels, related-article panels and [community notes]({{ 'community-notes/' | relative_url }}) can reduce belief in, engagement with or sharing of false content, but their effect depends heavily on timing.
 
-A 2026 study of X’s Community Notes found that notes reduced the spread of misleading posts once they appeared and increased the odds that authors deleted misleading posts. However, the study also found that notes often arrived too late for the earliest and most viral stage of diffusion, limiting the system-wide reduction in engagement. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s44159-021-00006-y" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Open source on nature.com.</span></span></span>
+A 2026 study of X’s Community Notes found that notes reduced the spread of misleading posts once they appeared and increased the odds that authors deleted misleading posts. However, the study also found that notes often arrived too late for the earliest and most viral stage of diffusion, limiting the system-wide reduction in engagement.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s44159-021-00006-y" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Open source on nature.com.</span></span></span>
 
 That finding captures the central timing problem: a correction can be effective at the moment a user sees it, yet still fail to prevent much of the damage if it appears after the post has already peaked. This is why scalable systems matter. Human fact-checking is valuable, but viral myths can move faster than manual review. Automated detection, user reporting, trusted flagger systems and community annotation all try to shorten the gap between first spread and first correction.
 
@@ -598,7 +598,7 @@ Good updating has three features.
 
 **It preserves a visible record.** Silent deletion fuels suspicion. A dated correction note, update log or pinned follow-up lets readers see how the evidence changed.
 
-This matters because corrections can decay. Research on correction durability has found that corrected beliefs may not remain stable over time, meaning a single debunk may need reinforcement, especially when the myth continues circulating. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/342577598_Correcting_Misinformation_in_News_Stories_An_Investigation_of_Correction_Timing_and_Correction_Durability" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate Correcting Misinformation in News Stories: An Investigation</span><span class="citation-popover-snippet">Research Gate Correcting Misinformation in News Stories: An Investigation</span></span></span> The point is not to repeat the false claim endlessly, but to keep the accurate replacement explanation available where people are still encountering the myth.
+This matters because corrections can decay. Research on correction durability has found that corrected beliefs may not remain stable over time, meaning a single debunk may need reinforcement, especially when the myth continues circulating.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/342577598_Correcting_Misinformation_in_News_Stories_An_Investigation_of_Correction_Timing_and_Correction_Durability" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate Correcting Misinformation in News Stories: An Investigation</span><span class="citation-popover-snippet">Research Gate Correcting Misinformation in News Stories: An Investigation</span></span></span> The point is not to repeat the false claim endlessly, but to keep the accurate replacement explanation available where people are still encountering the myth.
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/9wjfwPjTaRk" title="Risk communication basics - Why facts alone don’t change behaviour" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=9wjfwPjTaRk" target="_blank" rel="noopener noreferrer">Risk communication basics - Why facts alone don’t change behaviour</a></p><p class="youtube-embed-meta">Channel: Let&#x27;s Learn Public Health &middot; Views: 2.4K &middot; Uploaded: November 2025 &middot; Length: 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=9wjfwPjTaRk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=9wjfwPjTaRk">Open on YouTube</a></p></div></div></div>
 
@@ -619,197 +619,197 @@ In practice, that means the first response should not wait until every detail is
 
 </div>
 
-This approach fits the broader evidence on [debunking]({{ 'debunking/' | relative_url }}). Corrections often work, and fears that they usually backfire are overstated, but corrections are rarely magic erasers. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9283209/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> Timing improves the odds: correct early enough to prevent the myth becoming the default explanation, but carefully enough that the correction itself does not become tomorrow’s misinformation.
+This approach fits the broader evidence on [debunking]({{ 'debunking/' | relative_url }}). Corrections often work, and fears that they usually backfire are overstated, but corrections are rarely magic erasers.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9283209/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> Timing improves the odds: correct early enough to prevent the myth becoming the default explanation, but carefully enough that the correction itself does not become tomorrow’s misinformation.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When Should a Myth Be Corrected?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When Should a Myth Be Corrected?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Think+Again+by+Adam+Grant&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Think Again on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=-5SezQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Think Again" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Think+Again+by+Adam+Grant&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Think Again">Think Again</a>
-        </h4>
-        <p class="fr-book-author">By Adam Grant</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Think+Again+by+Adam+Grant&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Think Again on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=-5SezQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Think Again" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Think+Again+by+Adam+Grant&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Think Again">Think Again</a>
+</h4>
+<p class="fr-book-author">By Adam Grant</p>
         
-        <p class="fr-book-desc">Explains how people revise views and why overconfidence can damage trust.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Think+Again+by+Adam+Grant&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains how people revise views and why overconfidence can damage trust.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Think+Again+by+Adam+Grant&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Calling Bullshit on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Plu9DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Calling Bullshit" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Calling Bullshit">Calling Bullshit</a>
-        </h4>
-        <p class="fr-book-author">By Carl T. Bergstrom, Jevin D. West</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Calling Bullshit on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Plu9DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Calling Bullshit" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Calling Bullshit">Calling Bullshit</a>
+</h4>
+<p class="fr-book-author">By Carl T. Bergstrom, Jevin D. West</p>
         
-        <p class="fr-book-desc">Helps readers identify weak claims quickly and communicate why they are unreliable.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps readers identify weak claims quickly and communicate why they are unreliable.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+misinformation+age&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The misinformation age on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8361816-M.jpg" alt="Cover for The misinformation age" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+misinformation+age&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The misinformation age">The misinformation age</a>
-        </h4>
-        <p class="fr-book-author">By Unknown author</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+misinformation+age&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The misinformation age on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8361816-M.jpg" alt="Cover for The misinformation age" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+misinformation+age&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The misinformation age">The misinformation age</a>
+</h4>
+<p class="fr-book-author">By Unknown author</p>
         
-        <p class="fr-book-desc">Explains social transmission of false claims and why timing and networks affect correction.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+misinformation+age&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains social transmission of false claims and why timing and networks affect correction.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+misinformation+age&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Made+to+Stick+by+Chip+Heath&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Made to Stick on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=kW9nrgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Made to Stick" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Made+to+Stick+by+Chip+Heath&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Made to Stick">Made to Stick</a>
-        </h4>
-        <p class="fr-book-author">By Chip Heath, Dan Heath</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Made+to+Stick+by+Chip+Heath&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Made to Stick on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=kW9nrgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Made to Stick" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Made+to+Stick+by+Chip+Heath&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Made to Stick">Made to Stick</a>
+</h4>
+<p class="fr-book-author">By Chip Heath, Dan Heath</p>
         
-        <p class="fr-book-desc">Explains why memorable claims spread and how clearer replacement messages can compete.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Made+to+Stick+by+Chip+Heath&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains why memorable claims spread and how clearer replacement messages can compete.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Made+to+Stick+by+Chip+Heath&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Think+Again&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Think Again</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Calling+Bullshit&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Calling Bullshit</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+misinformation+age&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The misinformation age</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Think+Again&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Think Again</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Calling+Bullshit&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Calling Bullshit</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+misinformation+age&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The misinformation age</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timing-when-should-a-myth-be-corrected-myths-and-misconcept-psychology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="psychology poster" data-ebay-reference="timing-when-should-a-myth-be-corrected-myths-and-misconcept-psychology-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Political Psychology Framed Art Pri Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/c3043224cef26a887498.jpg' | relative_url }}" alt="Listing image for Political Psychology Framed Art Pri Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timing-when-should-a-myth-be-corrected-myths-and-misconcept-psychology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="psychology poster" data-ebay-reference="timing-when-should-a-myth-be-corrected-myths-and-misconcept-psychology-poster" target="_blank" rel="sponsored noopener noreferrer">Political Psychology Framed Art Pri Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timing-when-should-a-myth-be-corrected-myths-and-misconcept-psychology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="psychology poster" data-ebay-reference="timing-when-should-a-myth-be-corrected-myths-and-misconcept-psychology-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for psychology poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: psychology poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timing-when-should-a-myth-be-corrected-myths-and-misconcept-psychology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="psychology poster" data-ebay-reference="timing-when-should-a-myth-be-corrected-myths-and-misconcept-psychology-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timing-when-should-a-myth-be-corrected-myths-and-misconcept-psychology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="psychology poster" data-ebay-reference="timing-when-should-a-myth-be-corrected-myths-and-misconcept-psychology-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Political Psychology Framed Art Pri Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/c3043224cef26a887498.jpg' | relative_url }}" alt="Listing image for Political Psychology Framed Art Pri Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timing-when-should-a-myth-be-corrected-myths-and-misconcept-psychology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="psychology poster" data-ebay-reference="timing-when-should-a-myth-be-corrected-myths-and-misconcept-psychology-poster" target="_blank" rel="sponsored noopener noreferrer">Political Psychology Framed Art Pri Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timing-when-should-a-myth-be-corrected-myths-and-misconcept-psychology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="psychology poster" data-ebay-reference="timing-when-should-a-myth-be-corrected-myths-and-misconcept-psychology-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for psychology poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: psychology poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timing-when-should-a-myth-be-corrected-myths-and-misconcept-psychology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="psychology poster" data-ebay-reference="timing-when-should-a-myth-be-corrected-myths-and-misconcept-psychology-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timing-when-should-a-myth-be-corrected-myths-and-misconcept-psychology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="psychology poster" data-ebay-reference="timing-when-should-a-myth-be-corrected-myths-and-misconcept-psychology-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Parts Of Brain Psychology Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/9d55718535d3f8dac09e.jpg' | relative_url }}" alt="Listing image for Parts Of Brain Psychology Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timing-when-should-a-myth-be-corrected-myths-and-misconcept-psychology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="psychology poster" data-ebay-reference="timing-when-should-a-myth-be-corrected-myths-and-misconcept-psychology-poster" target="_blank" rel="sponsored noopener noreferrer">Parts Of Brain Psychology Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timing-when-should-a-myth-be-corrected-myths-and-misconcept-psychology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="psychology poster" data-ebay-reference="timing-when-should-a-myth-be-corrected-myths-and-misconcept-psychology-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for psychology poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: psychology poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timing-when-should-a-myth-be-corrected-myths-and-misconcept-psychology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="psychology poster" data-ebay-reference="timing-when-should-a-myth-be-corrected-myths-and-misconcept-psychology-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timing-when-should-a-myth-be-corrected-myths-and-misconcept-psychology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="psychology poster" data-ebay-reference="timing-when-should-a-myth-be-corrected-myths-and-misconcept-psychology-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Parts Of Brain Psychology Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/9d55718535d3f8dac09e.jpg' | relative_url }}" alt="Listing image for Parts Of Brain Psychology Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timing-when-should-a-myth-be-corrected-myths-and-misconcept-psychology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="psychology poster" data-ebay-reference="timing-when-should-a-myth-be-corrected-myths-and-misconcept-psychology-poster" target="_blank" rel="sponsored noopener noreferrer">Parts Of Brain Psychology Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timing-when-should-a-myth-be-corrected-myths-and-misconcept-psychology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="psychology poster" data-ebay-reference="timing-when-should-a-myth-be-corrected-myths-and-misconcept-psychology-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for psychology poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: psychology poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timing-when-should-a-myth-be-corrected-myths-and-misconcept-psychology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="psychology poster" data-ebay-reference="timing-when-should-a-myth-be-corrected-myths-and-misconcept-psychology-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timing-when-should-a-myth-be-corrected-myths-and-misconcept-psychology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="psychology poster" data-ebay-reference="timing-when-should-a-myth-be-corrected-myths-and-misconcept-psychology-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Carl Jung Psychology Tree Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/92f11548e2571b9c5bb7.jpg' | relative_url }}" alt="Listing image for Carl Jung Psychology Tree Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timing-when-should-a-myth-be-corrected-myths-and-misconcept-psychology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="psychology poster" data-ebay-reference="timing-when-should-a-myth-be-corrected-myths-and-misconcept-psychology-poster" target="_blank" rel="sponsored noopener noreferrer">Carl Jung Psychology Tree Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timing-when-should-a-myth-be-corrected-myths-and-misconcept-psychology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="psychology poster" data-ebay-reference="timing-when-should-a-myth-be-corrected-myths-and-misconcept-psychology-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for psychology poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: psychology poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timing-when-should-a-myth-be-corrected-myths-and-misconcept-psychology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="psychology poster" data-ebay-reference="timing-when-should-a-myth-be-corrected-myths-and-misconcept-psychology-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timing-when-should-a-myth-be-corrected-myths-and-misconcept-psychology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="psychology poster" data-ebay-reference="timing-when-should-a-myth-be-corrected-myths-and-misconcept-psychology-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Carl Jung Psychology Tree Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/92f11548e2571b9c5bb7.jpg' | relative_url }}" alt="Listing image for Carl Jung Psychology Tree Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timing-when-should-a-myth-be-corrected-myths-and-misconcept-psychology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="psychology poster" data-ebay-reference="timing-when-should-a-myth-be-corrected-myths-and-misconcept-psychology-poster" target="_blank" rel="sponsored noopener noreferrer">Carl Jung Psychology Tree Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timing-when-should-a-myth-be-corrected-myths-and-misconcept-psychology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="psychology poster" data-ebay-reference="timing-when-should-a-myth-be-corrected-myths-and-misconcept-psychology-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for psychology poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: psychology poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timing-when-should-a-myth-be-corrected-myths-and-misconcept-psychology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="psychology poster" data-ebay-reference="timing-when-should-a-myth-be-corrected-myths-and-misconcept-psychology-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timing-when-should-a-myth-be-corrected-myths-and-misconcept-psychology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="psychology poster" data-ebay-reference="timing-when-should-a-myth-be-corrected-myths-and-misconcept-psychology-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Psychology A4 Poster Print Lab Rat, Classical Conditioning Art for Psychologist"><img src="{{ '/assets/images/marketplace-covers/b9d6a80e381347dbe1b9.jpg' | relative_url }}" alt="Listing image for Psychology A4 Poster Print Lab Rat, Classical Conditioning Art for Psychologist" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timing-when-should-a-myth-be-corrected-myths-and-misconcept-psychology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="psychology poster" data-ebay-reference="timing-when-should-a-myth-be-corrected-myths-and-misconcept-psychology-poster" target="_blank" rel="sponsored noopener noreferrer">Psychology A4 Poster Print Lab Rat, Classical Conditioning Art for Psychologist</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timing-when-should-a-myth-be-corrected-myths-and-misconcept-psychology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="psychology poster" data-ebay-reference="timing-when-should-a-myth-be-corrected-myths-and-misconcept-psychology-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for psychology poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: psychology poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timing-when-should-a-myth-be-corrected-myths-and-misconcept-psychology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="psychology poster" data-ebay-reference="timing-when-should-a-myth-be-corrected-myths-and-misconcept-psychology-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timing-when-should-a-myth-be-corrected-myths-and-misconcept-psychology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="psychology poster" data-ebay-reference="timing-when-should-a-myth-be-corrected-myths-and-misconcept-psychology-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timing-when-should-a-myth-be-corrected-myths-and-misconcept-psychology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="psychology poster" data-ebay-reference="timing-when-should-a-myth-be-corrected-myths-and-misconcept-psychology-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Psychology A4 Poster Print Lab Rat, Classical Conditioning Art for Psychologist"><img src="{{ '/assets/images/marketplace-covers/b9d6a80e381347dbe1b9.jpg' | relative_url }}" alt="Listing image for Psychology A4 Poster Print Lab Rat, Classical Conditioning Art for Psychologist" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timing-when-should-a-myth-be-corrected-myths-and-misconcept-psychology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="psychology poster" data-ebay-reference="timing-when-should-a-myth-be-corrected-myths-and-misconcept-psychology-poster" target="_blank" rel="sponsored noopener noreferrer">Psychology A4 Poster Print Lab Rat, Classical Conditioning Art for Psychologist</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timing-when-should-a-myth-be-corrected-myths-and-misconcept-psychology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="psychology poster" data-ebay-reference="timing-when-should-a-myth-be-corrected-myths-and-misconcept-psychology-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for psychology poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: psychology poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timing-when-should-a-myth-be-corrected-myths-and-misconcept-psychology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="psychology poster" data-ebay-reference="timing-when-should-a-myth-be-corrected-myths-and-misconcept-psychology-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timing-when-should-a-myth-be-corrected-myths-and-misconcept-psychology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="psychology poster" data-ebay-reference="timing-when-should-a-myth-be-corrected-myths-and-misconcept-psychology-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -825,7 +825,7 @@ This approach fits the broader evidence on [debunking]({{ 'debunking/' | relativ
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -845,7 +845,7 @@ This approach fits the broader evidence on [debunking]({{ 'debunking/' | relativ
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -877,7 +877,7 @@ This approach fits the broader evidence on [debunking]({{ 'debunking/' | relativ
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -929,7 +929,7 @@ This approach fits the broader evidence on [debunking]({{ 'debunking/' | relativ
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -974,7 +974,7 @@ This approach fits the broader evidence on [debunking]({{ 'debunking/' | relativ
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -1015,163 +1015,163 @@ This approach fits the broader evidence on [debunking]({{ 'debunking/' | relativ
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: link.springer.com  
-   Link: <a href="https://link.springer.com/article/10.1186/s41235-020-00241-6" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1186/s41235-020-00241-6</a>  
+   Link:<a href="https://link.springer.com/article/10.1186/s41235-020-00241-6" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1186/s41235-020-00241-6</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: nature.com  
-   Link: <a href="https://www.nature.com/articles/s44159-021-00006-y" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s44159-021-00006-y</a>  
+   Link:<a href="https://www.nature.com/articles/s44159-021-00006-y" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s44159-021-00006-y</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: ncbi.nlm.nih.gov  
-   Link: <a href="https://www.ncbi.nlm.nih.gov/books/NBK540733/" target="_blank" rel="noopener noreferrer nofollow">https://www.ncbi.nlm.nih.gov/books/NBK540733/</a>  
+   Link:<a href="https://www.ncbi.nlm.nih.gov/books/NBK540733/" target="_blank" rel="noopener noreferrer nofollow">https://www.ncbi.nlm.nih.gov/books/NBK540733/</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: asset-scienceinsociety.eu  
    Title: ASSETCrisis and Emergency Risk Communication  
-   Link: <a href="https://www.asset-scienceinsociety.eu/sites/default/files/cdc_risk_communication_book.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.asset-scienceinsociety.eu/sites/default/files/cdc_risk_communication_book.pdf</a>  
+   Link:<a href="https://www.asset-scienceinsociety.eu/sites/default/files/cdc_risk_communication_book.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.asset-scienceinsociety.eu/sites/default/files/cdc_risk_communication_book.pdf</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: reuters.com  
    Title: Fake rumors, real killings: Inside Congo's deadly health misinformation crisis  
-   Link: <a href="https://www.reuters.com/business/media-telecom/fake-rumors-real-killings-inside-congos-deadly-health-misinformation-crisis-2026-05-07/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/business/media-telecom/fake-rumors-real-killings-inside-congos-deadly-health-misinformation-crisis-2026-05-07/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Social media, local media, and religious leaders, including megachurch pastor Jules Mulindwa and other pastors, played a key role in ampl...</p></details>
+   Link:<a href="https://www.reuters.com/business/media-telecom/fake-rumors-real-killings-inside-congos-deadly-health-misinformation-crisis-2026-05-07/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/business/media-telecom/fake-rumors-real-killings-inside-congos-deadly-health-misinformation-crisis-2026-05-07/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Social media, local media, and religious leaders, including megachurch pastor Jules Mulindwa and other pastors, played a key role in ampl...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: cambridge.org  
-   Link: <a href="https://www.cambridge.org/core/journals/judgment-and-decision-making/article/brief-forewarning-intervention-overcomes-negative-effects-of-salient-changes-in-covid19-guidance/2854EC51BEDB755B62EDDFBFC79C3039" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/journals/judgment-and-decision-making/article/brief-forewarning-intervention-overcomes-negative-effects-of-salient-changes-in-covid19-guidance/2854EC51BEDB755B62EDDFBFC79C3039</a>  
+   Link:<a href="https://www.cambridge.org/core/journals/judgment-and-decision-making/article/brief-forewarning-intervention-overcomes-negative-effects-of-salient-changes-in-covid19-guidance/2854EC51BEDB755B62EDDFBFC79C3039" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/journals/judgment-and-decision-making/article/brief-forewarning-intervention-overcomes-negative-effects-of-salient-changes-in-covid19-guidance/2854EC51BEDB755B62EDDFBFC79C3039</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: jmir.org  
-   Link: <a href="https://www.jmir.org/2023/1/e40706/" target="_blank" rel="noopener noreferrer nofollow">https://www.jmir.org/2023/1/e40706/</a>  
+   Link:<a href="https://www.jmir.org/2023/1/e40706/" target="_blank" rel="noopener noreferrer nofollow">https://www.jmir.org/2023/1/e40706/</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: who.int  
    Title: tips for communicating uncertainty final eng  
-   Link: <a href="https://www.who.int/docs/librariesprovider2/default-document-library/tips-for-communicating-uncertainty-final-eng.pdf?download=true&amp;sfvrsn=6d9700d7_1" target="_blank" rel="noopener noreferrer nofollow">https://www.who.int/docs/librariesprovider2/default-document-library/tips-for-communicating-uncertainty-final-eng.pdf?download=true&amp;sfvrsn=6d9700d7_1</a>  
+   Link:<a href="https://www.who.int/docs/librariesprovider2/default-document-library/tips-for-communicating-uncertainty-final-eng.pdf?download=true&amp;sfvrsn=6d9700d7_1" target="_blank" rel="noopener noreferrer nofollow">https://www.who.int/docs/librariesprovider2/default-document-library/tips-for-communicating-uncertainty-final-eng.pdf?download=true&amp;sfvrsn=6d9700d7_1</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: hhs.gov  
    Title: Confronting Health Misinformation  
-   Link: <a href="https://www.hhs.gov/sites/default/files/surgeon-general-misinformation-advisory.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.hhs.gov/sites/default/files/surgeon-general-misinformation-advisory.pdf</a>  
+   Link:<a href="https://www.hhs.gov/sites/default/files/surgeon-general-misinformation-advisory.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.hhs.gov/sites/default/files/surgeon-general-misinformation-advisory.pdf</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: ncbi.nlm.nih.gov  
    Title: NCBIConfronting Health Misinformation  
-   Link: <a href="https://www.ncbi.nlm.nih.gov/books/NBK572169/" target="_blank" rel="noopener noreferrer nofollow">https://www.ncbi.nlm.nih.gov/books/NBK572169/</a>  
+   Link:<a href="https://www.ncbi.nlm.nih.gov/books/NBK572169/" target="_blank" rel="noopener noreferrer nofollow">https://www.ncbi.nlm.nih.gov/books/NBK572169/</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: nature.com  
-   Link: <a href="https://www.nature.com/articles/s41467-026-72597-0" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41467-026-72597-0</a>  
+   Link:<a href="https://www.nature.com/articles/s41467-026-72597-0" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41467-026-72597-0</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: researchgate.net  
    Title: Research Gate Correcting Misinformation in News Stories: An Investigation  
-   Link: <a href="https://www.researchgate.net/publication/342577598_Correcting_Misinformation_in_News_Stories_An_Investigation_of_Correction_Timing_and_Correction_Durability" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/342577598_Correcting_Misinformation_in_News_Stories_An_Investigation_of_Correction_Timing_and_Correction_Durability</a>  
+   Link:<a href="https://www.researchgate.net/publication/342577598_Correcting_Misinformation_in_News_Stories_An_Investigation_of_Correction_Timing_and_Correction_Durability" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/342577598_Correcting_Misinformation_in_News_Stories_An_Investigation_of_Correction_Timing_and_Correction_Durability</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9283209/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9283209/</a>  
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9283209/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9283209/</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: cdc.gov  
-   Link: <a href="https://www.cdc.gov/cerc/media/pdfs/CERC_Introduction.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cdc.gov/cerc/media/pdfs/CERC_Introduction.pdf</a>  
+   Link:<a href="https://www.cdc.gov/cerc/media/pdfs/CERC_Introduction.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cdc.gov/cerc/media/pdfs/CERC_Introduction.pdf</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: nature.com  
-   Link: <a href="https://www.nature.com/articles/s41598-026-42329-x" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41598-026-42329-x</a>  
+   Link:<a href="https://www.nature.com/articles/s41598-026-42329-x" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41598-026-42329-x</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: nature.com  
-   Link: <a href="https://www.nature.com/articles/s41562-021-01278-3" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41562-021-01278-3</a>  
+   Link:<a href="https://www.nature.com/articles/s41562-021-01278-3" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41562-021-01278-3</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: infodemiology.jmir.org  
-   Link: <a href="https://infodemiology.jmir.org/2025/1/e67464" target="_blank" rel="noopener noreferrer nofollow">https://infodemiology.jmir.org/2025/1/e67464</a>  
+   Link:<a href="https://infodemiology.jmir.org/2025/1/e67464" target="_blank" rel="noopener noreferrer nofollow">https://infodemiology.jmir.org/2025/1/e67464</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/343887042_Can_corrections_spread_misinformation_to_new_audiences_Testing_for_the_elusive_familiarity_backfire_effect" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/343887042_Can_corrections_spread_misinformation_to_new_audiences_Testing_for_the_elusive_familiarity_backfire_effect</a>  
+   Link:<a href="https://www.researchgate.net/publication/343887042_Can_corrections_spread_misinformation_to_new_audiences_Testing_for_the_elusive_familiarity_backfire_effect" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/343887042_Can_corrections_spread_misinformation_to_new_audiences_Testing_for_the_elusive_familiarity_backfire_effect</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: cambridge.org  
-   Link: <a href="https://www.cambridge.org/core/books/social-media-and-democracy/misinformation-and-its-correction/61FA7FD743784A723BA234533012E810" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/books/social-media-and-democracy/misinformation-and-its-correction/61FA7FD743784A723BA234533012E810</a>  
+   Link:<a href="https://www.cambridge.org/core/books/social-media-and-democracy/misinformation-and-its-correction/61FA7FD743784A723BA234533012E810" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/books/social-media-and-democracy/misinformation-and-its-correction/61FA7FD743784A723BA234533012E810</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: assets.cambridge.org  
    Title: 9781009449038 excerpt  
-   Link: <a href="https://assets.cambridge.org/97810094/49038/excerpt/9781009449038_excerpt.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.cambridge.org/97810094/49038/excerpt/9781009449038_excerpt.pdf</a>  
+   Link:<a href="https://assets.cambridge.org/97810094/49038/excerpt/9781009449038_excerpt.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.cambridge.org/97810094/49038/excerpt/9781009449038_excerpt.pdf</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: science.org  
-   Link: <a href="https://www.science.org/doi/10.1126/science.aap9559" target="_blank" rel="noopener noreferrer nofollow">https://www.science.org/doi/10.1126/science.aap9559</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The spread of true and false news onlineby S Vosoughi · 2018 · Cited by 14051 — Although the terms [fake news](&amp;#123;&amp;#123; &#x27;fake-news/&#x27; | relative_url &amp;#125;&amp;#125;) and misinformation al...</p></details>
+   Link:<a href="https://www.science.org/doi/10.1126/science.aap9559" target="_blank" rel="noopener noreferrer nofollow">https://www.science.org/doi/10.1126/science.aap9559</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The spread of true and false news onlineby S Vosoughi · 2018 · Cited by 14051 — Although the terms [fake news](&amp;#123;&amp;#123; &#x27;fake-news/&#x27; | relative_url &amp;#125;&amp;#125;) and misinformation al...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0167811626000261" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0167811626000261</a>  
+   Link:<a href="https://www.sciencedirect.com/science/article/pii/S0167811626000261" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0167811626000261</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/pii/S004727272500043X" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S004727272500043X</a>  
+   Link:<a href="https://www.sciencedirect.com/science/article/pii/S004727272500043X" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S004727272500043X</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/pii/S2468696420300458" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S2468696420300458</a>  
+   Link:<a href="https://www.sciencedirect.com/science/article/pii/S2468696420300458" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S2468696420300458</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0277953625006033" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0277953625006033</a>  
+   Link:<a href="https://www.sciencedirect.com/science/article/pii/S0277953625006033" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0277953625006033</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: ebm.bmj.com  
-   Link: <a href="https://ebm.bmj.com/content/30/6/420" target="_blank" rel="noopener noreferrer nofollow">https://ebm.bmj.com/content/30/6/420</a>  
+   Link:<a href="https://ebm.bmj.com/content/30/6/420" target="_blank" rel="noopener noreferrer nofollow">https://ebm.bmj.com/content/30/6/420</a>  
 
 ### Additional References
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: news.mit.edu  
    Title: study twitter false news travels faster true stories 0308  
-   Link: <a href="https://news.mit.edu/2018/study-twitter-false-news-travels-faster-true-stories-0308" target="_blank" rel="noopener noreferrer nofollow">https://news.mit.edu/2018/study-twitter-false-news-travels-faster-true-stories-0308</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>MIT NewsStudy: On Twitter, false news travels faster than true stories8 Mar 2018 — Researchers from the Media Lab and Sloan found that hu...</p></details>
+   Link:<a href="https://news.mit.edu/2018/study-twitter-false-news-travels-faster-true-stories-0308" target="_blank" rel="noopener noreferrer nofollow">https://news.mit.edu/2018/study-twitter-false-news-travels-faster-true-stories-0308</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>MIT NewsStudy: On Twitter, false news travels faster than true stories8 Mar 2018 — Researchers from the Media Lab and Sloan found that hu...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: whitehouse.gov  
-   Link: <a href="https://www.whitehouse.gov/lab-leak-true-origins-of-covid-19/" target="_blank" rel="noopener noreferrer nofollow">https://www.whitehouse.gov/lab-leak-true-origins-of-covid-19/</a>  
+   Link:<a href="https://www.whitehouse.gov/lab-leak-true-origins-of-covid-19/" target="_blank" rel="noopener noreferrer nofollow">https://www.whitehouse.gov/lab-leak-true-origins-of-covid-19/</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: govinfo.gov  
-   Link: <a href="https://www.govinfo.gov/app/details/GOVPUB-HE20-PURL-gpo157762" target="_blank" rel="noopener noreferrer nofollow">https://www.govinfo.gov/app/details/GOVPUB-HE20-PURL-gpo157762</a>  
+   Link:<a href="https://www.govinfo.gov/app/details/GOVPUB-HE20-PURL-gpo157762" target="_blank" rel="noopener noreferrer nofollow">https://www.govinfo.gov/app/details/GOVPUB-HE20-PURL-gpo157762</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: youtube.com  
    Title: Misinformation: The "Truth Sandwich" and Other Techniques  
-   Link: <a href="https://www.youtube.com/watch?v=o33y194O1O0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=o33y194O1O0</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How to Talk to Someone Who Believes Conspiracy Theories...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=o33y194O1O0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=o33y194O1O0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How to Talk to Someone Who Believes Conspiracy Theories...</p></details>
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: youtube.com  
    Title: How to Talk to Someone Who Believes Conspiracy Theories  
-   Link: <a href="https://www.youtube.com/watch?v=S216W98pZ_8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=S216W98pZ_8</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Debunking Misinformation: Strategies for Success...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=S216W98pZ_8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=S216W98pZ_8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Debunking Misinformation: Strategies for Success...</p></details>
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: ebolacommunicationnetwork.org  
-   Link: <a href="https://ebolacommunicationnetwork.org/wp-content/uploads/2014/09/CrisisEmregencyRiskCommunication.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ebolacommunicationnetwork.org/wp-content/uploads/2014/09/CrisisEmregencyRiskCommunication.pdf</a>  
+   Link:<a href="https://ebolacommunicationnetwork.org/wp-content/uploads/2014/09/CrisisEmregencyRiskCommunication.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ebolacommunicationnetwork.org/wp-content/uploads/2014/09/CrisisEmregencyRiskCommunication.pdf</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: asef.org  
-   Link: <a href="https://asef.org/wp-content/uploads/2021/10/Presentation_Dr-Margaret-HARRIS.pdf" target="_blank" rel="noopener noreferrer nofollow">https://asef.org/wp-content/uploads/2021/10/Presentation_Dr-Margaret-HARRIS.pdf</a>  
+   Link:<a href="https://asef.org/wp-content/uploads/2021/10/Presentation_Dr-Margaret-HARRIS.pdf" target="_blank" rel="noopener noreferrer nofollow">https://asef.org/wp-content/uploads/2021/10/Presentation_Dr-Margaret-HARRIS.pdf</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: michsafetyconference.org  
-   Link: <a href="https://michsafetyconference.org/wp-content/uploads/2022/04/WEd-1015-am-Emerg-Mgt-Crisis-and-Emergency-Risk-Communication.pdf" target="_blank" rel="noopener noreferrer nofollow">https://michsafetyconference.org/wp-content/uploads/2022/04/WEd-1015-am-Emerg-Mgt-Crisis-and-Emergency-Risk-Communication.pdf</a>  
+   Link:<a href="https://michsafetyconference.org/wp-content/uploads/2022/04/WEd-1015-am-Emerg-Mgt-Crisis-and-Emergency-Risk-Communication.pdf" target="_blank" rel="noopener noreferrer nofollow">https://michsafetyconference.org/wp-content/uploads/2022/04/WEd-1015-am-Emerg-Mgt-Crisis-and-Emergency-Risk-Communication.pdf</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: ualberta.ca  
-   Link: <a href="https://www.ualberta.ca/en/law/media-library/faculty-research/hli/media/images/caulfield-debunking-works-vulnerable-caulfield.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ualberta.ca/en/law/media-library/faculty-research/hli/media/images/caulfield-debunking-works-vulnerable-caulfield.pdf</a>  
+   Link:<a href="https://www.ualberta.ca/en/law/media-library/faculty-research/hli/media/images/caulfield-debunking-works-vulnerable-caulfield.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ualberta.ca/en/law/media-library/faculty-research/hli/media/images/caulfield-debunking-works-vulnerable-caulfield.pdf</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: cepr.org  
-   Link: <a href="https://cepr.org/voxeu/columns/fact-checking-reduces-circulation-misinformation-we-should-not-get-rid-it" target="_blank" rel="noopener noreferrer nofollow">https://cepr.org/voxeu/columns/fact-checking-reduces-circulation-misinformation-we-should-not-get-rid-it</a>
+   Link:<a href="https://cepr.org/voxeu/columns/fact-checking-reduces-circulation-misinformation-we-should-not-get-rid-it" target="_blank" rel="noopener noreferrer nofollow">https://cepr.org/voxeu/columns/fact-checking-reduces-circulation-misinformation-we-should-not-get-rid-it</a>

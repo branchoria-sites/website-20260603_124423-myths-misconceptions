@@ -274,16 +274,16 @@ image: /assets/images/Myths_and_misconcept_0d48d7_slogans_vs_explanati_60c7b9_re
 
 ## Introduction
 
-A [correction]({{ 'correction/' | relative_url }}) is most useful when it does more than reject a false slogan. People often remember misinformation because it helped explain an event, assign responsibility, or make sense of confusing facts. Simply announcing that a claim is false can remove the label of truth without removing the explanatory role the claim was performing. Research on the continued influence effect shows that misinformation can continue shaping reasoning even after people accept a correction, particularly when the correction leaves an unanswered question behind. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/26173286/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Misinformation and Its Correction: Continued Influence and...by S Lewandowsky · 2012 · Cited by 4658 — We look at people&#x27;s memory...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8627545/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCExploring factors that mitigate the continued influence</span><span class="citation-popover-snippet">by IP Kan · 2021 · Cited by 27 — The term “continued influence effect” (CIE) refers to the phenomenon that discredited and obsolete in...</span></span></span>
+A [correction]({{ 'correction/' | relative_url }}) is most useful when it does more than reject a false slogan. People often remember misinformation because it helped explain an event, assign responsibility, or make sense of confusing facts. Simply announcing that a claim is false can remove the label of truth without removing the explanatory role the claim was performing. Research on the continued influence effect shows that misinformation can continue shaping reasoning even after people accept a correction, particularly when the correction leaves an unanswered question behind.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/26173286/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Misinformation and Its Correction: Continued Influence and...by S Lewandowsky · 2012 · Cited by 4658 — We look at people&#x27;s memory...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8627545/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCExploring factors that mitigate the continued influence</span><span class="citation-popover-snippet">by IP Kan · 2021 · Cited by 27 — The term “continued influence effect” (CIE) refers to the phenomenon that discredited and obsolete in...</span></span></span>
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_slogans_vs_explanati_60c7b9_replacement_correcti_5f9954-Illustration-1-dark.svg" | relative_url }}" alt="Corrections illustration 1" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_slogans_vs_explanati_60c7b9_replacement_correcti_5f9954-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_slogans_vs_explanati_60c7b9_replacement_correcti_5f9954-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-This is why many misinformation researchers recommend turning corrections into [replacement stories]({{ 'rumour-gaps/' | relative_url }}). Instead of creating a gap, the correction supplies a more accurate account of what happened, why the mistaken claim appeared convincing, and what evidence supports the alternative explanation. Studies and [debunking]({{ 'debunking/' | relative_url }}) guidance consistently find that corrections are stronger when they replace a false narrative with a coherent factual one. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.climatechangecommunication.org/wp-content/uploads/2023/09/DebunkingHandbook2020.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: climatechangecommunication.org">[Center for Climate Change Communication]</a><span class="citation-popover" role="note"><span class="citation-popover-source">climatechangecommunication.org</span><span class="citation-popover-title">Center for Climate Change Communication Debunking Handbook</span><span class="citation-popover-snippet">Center for Climate Change CommunicationDebunking HandbookOctober 11, 2020 — Continued influence effect: The continued reliance on inaccur...</span><span class="citation-popover-meta">Published: October 11, 2020</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://skepticalscience.com/Debunking-Handbook-Part-5-Filling-gap-with-alternative-explanation.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalscience.com">[Skeptical Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalscience.com</span><span class="citation-popover-title">Debunking Handbook Part 5 Filling gap with alternative explanation</span><span class="citation-popover-snippet">The Debunking Handbook Part 5: Filling the gap with an...25 Nov 2011 — The most effective way to reduce the effect of misinformation is...</span></span></span>
+This is why many misinformation researchers recommend turning corrections into [replacement stories]({{ 'rumour-gaps/' | relative_url }}). Instead of creating a gap, the correction supplies a more accurate account of what happened, why the mistaken claim appeared convincing, and what evidence supports the alternative explanation. Studies and [debunking]({{ 'debunking/' | relative_url }}) guidance consistently find that corrections are stronger when they replace a false narrative with a coherent factual one.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.climatechangecommunication.org/wp-content/uploads/2023/09/DebunkingHandbook2020.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: climatechangecommunication.org">[Center for Climate Change Communication]</a><span class="citation-popover" role="note"><span class="citation-popover-source">climatechangecommunication.org</span><span class="citation-popover-title">Center for Climate Change Communication Debunking Handbook</span><span class="citation-popover-snippet">Center for Climate Change CommunicationDebunking HandbookOctober 11, 2020 — Continued influence effect: The continued reliance on inaccur...</span><span class="citation-popover-meta">Published: October 11, 2020</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://skepticalscience.com/Debunking-Handbook-Part-5-Filling-gap-with-alternative-explanation.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalscience.com">[Skeptical Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalscience.com</span><span class="citation-popover-title">Debunking Handbook Part 5 Filling gap with alternative explanation</span><span class="citation-popover-snippet">The Debunking Handbook Part 5: Filling the gap with an...25 Nov 2011 — The most effective way to reduce the effect of misinformation is...</span></span></span>
 
 ## Why bare retractions leave a gap
 
 A slogan is often remembered because it functions as a shortcut explanation. It may be wrong, but it answers a question. If people hear that a warehouse fire was caused by stored chemicals, that claim immediately links cause and effect. When later told that the chemicals were not present, the correction removes the explanation but does not automatically provide a new one.
 
-This problem appears repeatedly in research on misinformation. People can accurately recall that information was retracted and still rely on it when making inferences. The issue is not necessarily [memory]({{ 'memory/' | relative_url }}) failure. In many cases, the original claim remains useful because it still offers the only available account of what happened. PubMed <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nature.com/articles/s44159-021-00006-y" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">The psychological drivers of misinformation belief and its...by UKH Ecker · 2022 · Cited by 1916 — In this Review, we describe the...</span></span></span> The classic warehouse-fire studies illustrate the point. Participants continued referring to supposedly withdrawn information about flammable materials when explaining the fire. However, reliance on the misinformation decreased when researchers supplied an alternative cause that could perform the same explanatory function. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.shapingtomorrowsworld.org/debunking-handbook-part-5-filling-gap-with-alternative-explanation.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: shapingtomorrowsworld.org">[Shaping Tomorrows World]</a><span class="citation-popover" role="note"><span class="citation-popover-source">shapingtomorrowsworld.org</span><span class="citation-popover-snippet">Shaping Tomorrows WorldThe Debunking Handbook Part 5: Filling the gap with an...by S Lewandowsky — The most effective way to reduce the...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://scispace.com/pdf/the-continued-influence-of-misinformation-in-memory-what-4tijzg1jh2.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scispace.com">[SciSpace For communicators]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scispace.com</span><span class="citation-popover-snippet">The continued influence of misinformation in memoryThat is, the effect is not due to just any misinformation, nor to the absence of a cau...</span></span></span>, this means that a correction which merely says "false" often asks the audience to live with uncertainty. Many people will instead return to the old story because it remains the most complete explanation available.
+This problem appears repeatedly in research on misinformation. People can accurately recall that information was retracted and still rely on it when making inferences. The issue is not necessarily [memory]({{ 'memory/' | relative_url }}) failure. In many cases, the original claim remains useful because it still offers the only available account of what happened. PubMed<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nature.com/articles/s44159-021-00006-y" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">The psychological drivers of misinformation belief and its...by UKH Ecker · 2022 · Cited by 1916 — In this Review, we describe the...</span></span></span> The classic warehouse-fire studies illustrate the point. Participants continued referring to supposedly withdrawn information about flammable materials when explaining the fire. However, reliance on the misinformation decreased when researchers supplied an alternative cause that could perform the same explanatory function.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.shapingtomorrowsworld.org/debunking-handbook-part-5-filling-gap-with-alternative-explanation.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: shapingtomorrowsworld.org">[Shaping Tomorrows World]</a><span class="citation-popover" role="note"><span class="citation-popover-source">shapingtomorrowsworld.org</span><span class="citation-popover-snippet">Shaping Tomorrows WorldThe Debunking Handbook Part 5: Filling the gap with an...by S Lewandowsky — The most effective way to reduce the...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://scispace.com/pdf/the-continued-influence-of-misinformation-in-memory-what-4tijzg1jh2.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scispace.com">[SciSpace For communicators]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scispace.com</span><span class="citation-popover-snippet">The continued influence of misinformation in memoryThat is, the effect is not due to just any misinformation, nor to the absence of a cau...</span></span></span>, this means that a correction which merely says "false" often asks the audience to live with uncertainty. Many people will instead return to the old story because it remains the most complete explanation available.
 
 ## What makes a replacement story work?
 
@@ -293,7 +293,7 @@ Effective replacement explanations typically contain three elements:
 
 1. **The factual account** – what actually happened.
 2. **The mechanism** – how the event unfolded or why the evidence points in that direction.
-3. **The explanation for the error** – why the false claim appeared, spread, or seemed plausible. <span class="citation-chip-wrap"><a class="citation-chip" href="https://research-information.bris.ac.uk/files/298563464/Ecker_v4_TSshorten_UE_clean.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: research-information.bris.ac.uk">[University of Bristol]</a><span class="citation-popover" role="note"><span class="citation-popover-source">research-information.bris.ac.uk</span><span class="citation-popover-snippet">University of BristolEcker, UKH, Lewandowsky, S., Cook, J., Schmid, P., Fazio...First, the most important element of a debunking correc...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.climatechangecommunication.org/wp-content/uploads/2023/09/DebunkingHandbook2020.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: climatechangecommunication.org">[Center for Climate Change Communication]</a><span class="citation-popover" role="note"><span class="citation-popover-source">climatechangecommunication.org</span><span class="citation-popover-title">Center for Climate Change Communication Debunking Handbook</span><span class="citation-popover-snippet">Center for Climate Change CommunicationDebunking HandbookOctober 11, 2020 — Continued influence effect: The continued reliance on inaccur...</span><span class="citation-popover-meta">Published: October 11, 2020</span></span></span>
+3. **The explanation for the error** – why the false claim appeared, spread, or seemed plausible.<span class="citation-chip-wrap"><a class="citation-chip" href="https://research-information.bris.ac.uk/files/298563464/Ecker_v4_TSshorten_UE_clean.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: research-information.bris.ac.uk">[University of Bristol]</a><span class="citation-popover" role="note"><span class="citation-popover-source">research-information.bris.ac.uk</span><span class="citation-popover-snippet">University of BristolEcker, UKH, Lewandowsky, S., Cook, J., Schmid, P., Fazio...First, the most important element of a debunking correc...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.climatechangecommunication.org/wp-content/uploads/2023/09/DebunkingHandbook2020.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: climatechangecommunication.org">[Center for Climate Change Communication]</a><span class="citation-popover" role="note"><span class="citation-popover-source">climatechangecommunication.org</span><span class="citation-popover-title">Center for Climate Change Communication Debunking Handbook</span><span class="citation-popover-snippet">Center for Climate Change CommunicationDebunking HandbookOctober 11, 2020 — Continued influence effect: The continued reliance on inaccur...</span><span class="citation-popover-meta">Published: October 11, 2020</span></span></span>
 
 Consider the difference between these two corrections:
 
@@ -302,7 +302,7 @@ Consider the difference between these two corrections:
 
 The second version gives readers a usable account. It explains both reality and the source of the confusion.
 
-Research summarised in the Debunking Handbook identifies alternative explanations as one of the most effective ways to reduce misinformation's continued influence because they help people update their mental model rather than simply delete information. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.climatechangecommunication.org/wp-content/uploads/2023/09/DebunkingHandbook2020.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: climatechangecommunication.org">[Center for Climate Change Communication]</a><span class="citation-popover" role="note"><span class="citation-popover-source">climatechangecommunication.org</span><span class="citation-popover-title">Center for Climate Change Communication Debunking Handbook</span><span class="citation-popover-snippet">Center for Climate Change CommunicationDebunking HandbookOctober 11, 2020 — Continued influence effect: The continued reliance on inaccur...</span><span class="citation-popover-meta">Published: October 11, 2020</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.climatechangecommunication.org/wp-content/uploads/2023/09/DebunkingHandbook2020.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: climatechangecommunication.org">[Center for Climate Change Communication]</a><span class="citation-popover" role="note"><span class="citation-popover-source">climatechangecommunication.org</span><span class="citation-popover-title">Center for Climate Change Communication Debunking Handbook</span><span class="citation-popover-snippet">Center for Climate Change CommunicationDebunking HandbookOctober 11, 2020 — Continued influence effect: The continued reliance on inaccur...</span><span class="citation-popover-meta">Published: October 11, 2020</span></span></span>
+Research summarised in the Debunking Handbook identifies alternative explanations as one of the most effective ways to reduce misinformation's continued influence because they help people update their mental model rather than simply delete information.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.climatechangecommunication.org/wp-content/uploads/2023/09/DebunkingHandbook2020.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: climatechangecommunication.org">[Center for Climate Change Communication]</a><span class="citation-popover" role="note"><span class="citation-popover-source">climatechangecommunication.org</span><span class="citation-popover-title">Center for Climate Change Communication Debunking Handbook</span><span class="citation-popover-snippet">Center for Climate Change CommunicationDebunking HandbookOctober 11, 2020 — Continued influence effect: The continued reliance on inaccur...</span><span class="citation-popover-meta">Published: October 11, 2020</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.climatechangecommunication.org/wp-content/uploads/2023/09/DebunkingHandbook2020.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: climatechangecommunication.org">[Center for Climate Change Communication]</a><span class="citation-popover" role="note"><span class="citation-popover-source">climatechangecommunication.org</span><span class="citation-popover-title">Center for Climate Change Communication Debunking Handbook</span><span class="citation-popover-snippet">Center for Climate Change CommunicationDebunking HandbookOctober 11, 2020 — Continued influence effect: The continued reliance on inaccur...</span><span class="citation-popover-meta">Published: October 11, 2020</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/wVXYf3Gr_BE" title="Are Psychological Inoculations Against Misinformation Likely to be Effective at Scale?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=wVXYf3Gr_BE" target="_blank" rel="noopener noreferrer">Are Psychological Inoculations Against Misinformation Likely to be Effective at Scale?</a></p><p class="youtube-embed-meta">Channel: Shorenstein Center &middot; Views: 1.0K &middot; Uploaded: December 2023 &middot; Length: 1 hour 28 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=wVXYf3Gr_BE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=wVXYf3Gr_BE">Open on YouTube</a></p></div></div></div>
 
@@ -322,7 +322,7 @@ A stronger correction preserves explanation:
 
 The second correction gives readers a complete model they can recall later.
 
-This principle matters because people naturally organise information into narratives. Research on the continued influence effect suggests that misinformation often persists when it becomes embedded in a causal model of events. Corrections are more successful when they update that model rather than simply removing one piece of it. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/26173286/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Misinformation and Its Correction: Continued Influence and...by S Lewandowsky · 2012 · Cited by 4658 — We look at people&#x27;s memory...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/abs/10.1177/1529100612451018" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsMisinformation and Its Correctionby S Lewandowsky · 2012 · Cited by 4673 — Sources of the continued influence effect: When m...</span></span></span>
+This principle matters because people naturally organise information into narratives. Research on the continued influence effect suggests that misinformation often persists when it becomes embedded in a causal model of events. Corrections are more successful when they update that model rather than simply removing one piece of it.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/26173286/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Misinformation and Its Correction: Continued Influence and...by S Lewandowsky · 2012 · Cited by 4658 — We look at people&#x27;s memory...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/abs/10.1177/1529100612451018" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsMisinformation and Its Correctionby S Lewandowsky · 2012 · Cited by 4673 — Sources of the continued influence effect: When m...</span></span></span>
 
 A useful test is simple: after reading the correction, could a person answer "What happened instead?" If not, the correction may still leave room for the myth.
 
@@ -372,7 +372,7 @@ Again, the reader receives a replacement account rather than a rejection.
 
 There is a temptation to answer every myth with an equally short counter-slogan. Sometimes a brief statement is appropriate, but a correction can become fragile if it strips away the explanation that makes it meaningful.
 
-Research on misinformation repeatedly shows that familiarity and [repetition]({{ 'repetition/' | relative_url }}) influence belief. A correction that focuses entirely on repeating the myth may accidentally reinforce it, while a correction that centres the factual account gives readers a different memory to retrieve later. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S0001691823002706" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">A replication study of Johnson and Seifert&#x27;s (1994)...by V Laurent · 2023 · Cited by 5 — The term “Continued Influence Effe...</span></span></span>
+Research on misinformation repeatedly shows that familiarity and [repetition]({{ 'repetition/' | relative_url }}) influence belief. A correction that focuses entirely on repeating the myth may accidentally reinforce it, while a correction that centres the factual account gives readers a different memory to retrieve later.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S0001691823002706" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">A replication study of Johnson and Seifert&#x27;s (1994)...by V Laurent · 2023 · Cited by 5 — The term “Continued Influence Effe...</span></span></span>
 
 The challenge is therefore not choosing between simplicity and accuracy. It is finding the simplest explanation that still captures the essential truth.
 
@@ -389,200 +389,200 @@ The most effective correction therefore follows a simple sequence:
 1. State the factual conclusion.
 2. Briefly identify the false claim.
 3. Explain why the claim is wrong.
-4. Provide a clear alternative account. <span class="citation-chip-wrap"><a class="citation-chip" href="https://research-information.bris.ac.uk/files/298563464/Ecker_v4_TSshorten_UE_clean.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: research-information.bris.ac.uk">[research-information.bris.ac.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">research-information.bris.ac.uk</span><span class="citation-popover-snippet">University of BristolEcker, UKH, Lewandowsky, S., Cook, J., Schmid, P., Fazio...First, the most important element of a debunking correc...</span></span></span>
+4. Provide a clear alternative account.<span class="citation-chip-wrap"><a class="citation-chip" href="https://research-information.bris.ac.uk/files/298563464/Ecker_v4_TSshorten_UE_clean.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: research-information.bris.ac.uk">[research-information.bris.ac.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">research-information.bris.ac.uk</span><span class="citation-popover-snippet">University of BristolEcker, UKH, Lewandowsky, S., Cook, J., Schmid, P., Fazio...First, the most important element of a debunking correc...</span></span></span>
 5. Return to the factual explanation.
 
-This approach aligns with decades of research showing that misinformation is hardest to remove when it continues doing explanatory work. A correction succeeds when the truth becomes more useful than the myth. <span class="citation-chip-wrap"><a class="citation-chip" href="https://research-information.bris.ac.uk/files/298563464/Ecker_v4_TSshorten_UE_clean.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: research-information.bris.ac.uk">[University of Bristol]</a><span class="citation-popover" role="note"><span class="citation-popover-source">research-information.bris.ac.uk</span><span class="citation-popover-snippet">University of BristolEcker, UKH, Lewandowsky, S., Cook, J., Schmid, P., Fazio...First, the most important element of a debunking correc...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.climatechangecommunication.org/wp-content/uploads/2023/09/DebunkingHandbook2020.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: climatechangecommunication.org">[Center for Climate Change Communication]</a><span class="citation-popover" role="note"><span class="citation-popover-source">climatechangecommunication.org</span><span class="citation-popover-title">Center for Climate Change Communication Debunking Handbook</span><span class="citation-popover-snippet">Center for Climate Change CommunicationDebunking HandbookOctober 11, 2020 — Continued influence effect: The continued reliance on inaccur...</span><span class="citation-popover-meta">Published: October 11, 2020</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/26173286/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Misinformation and Its Correction: Continued Influence and...by S Lewandowsky · 2012 · Cited by 4658 — We look at people&#x27;s memory...</span></span></span>
+This approach aligns with decades of research showing that misinformation is hardest to remove when it continues doing explanatory work. A correction succeeds when the truth becomes more useful than the myth.<span class="citation-chip-wrap"><a class="citation-chip" href="https://research-information.bris.ac.uk/files/298563464/Ecker_v4_TSshorten_UE_clean.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: research-information.bris.ac.uk">[University of Bristol]</a><span class="citation-popover" role="note"><span class="citation-popover-source">research-information.bris.ac.uk</span><span class="citation-popover-snippet">University of BristolEcker, UKH, Lewandowsky, S., Cook, J., Schmid, P., Fazio...First, the most important element of a debunking correc...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.climatechangecommunication.org/wp-content/uploads/2023/09/DebunkingHandbook2020.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: climatechangecommunication.org">[Center for Climate Change Communication]</a><span class="citation-popover" role="note"><span class="citation-popover-source">climatechangecommunication.org</span><span class="citation-popover-title">Center for Climate Change Communication Debunking Handbook</span><span class="citation-popover-snippet">Center for Climate Change CommunicationDebunking HandbookOctober 11, 2020 — Continued influence effect: The continued reliance on inaccur...</span><span class="citation-popover-meta">Published: October 11, 2020</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/26173286/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Misinformation and Its Correction: Continued Influence and...by S Lewandowsky · 2012 · Cited by 4658 — We look at people&#x27;s memory...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What should replace a false slogan?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What should replace a false slogan?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Made+to+Stick+by+Chip+Heath&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Made to Stick on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=kW9nrgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Made to Stick" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Made+to+Stick+by+Chip+Heath&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Made to Stick">Made to Stick</a>
-        </h4>
-        <p class="fr-book-author">By Chip Heath, Dan Heath</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Made+to+Stick+by+Chip+Heath&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Made to Stick on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=kW9nrgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Made to Stick" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Made+to+Stick+by+Chip+Heath&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Made to Stick">Made to Stick</a>
+</h4>
+<p class="fr-book-author">By Chip Heath, Dan Heath</p>
         
-        <p class="fr-book-desc">Shows how memorable explanations can replace weaker narratives.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Made+to+Stick+by+Chip+Heath&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows how memorable explanations can replace weaker narratives.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Made+to+Stick+by+Chip+Heath&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Don%27t+Think+of+an+Elephant%21+George+Lakoff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Don&#x27;t Think of an Elephant! on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/956754-M.jpg" alt="Cover for Don&#x27;t Think of an Elephant!" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Don%27t+Think+of+an+Elephant%21+George+Lakoff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Don&#x27;t Think of an Elephant!">Don&#x27;t Think of an Elephant!</a>
-        </h4>
-        <p class="fr-book-author">By George Lakoff</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Don%27t+Think+of+an+Elephant%21+George+Lakoff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Don&#x27;t Think of an Elephant! on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/956754-M.jpg" alt="Cover for Don&#x27;t Think of an Elephant!" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Don%27t+Think+of+an+Elephant%21+George+Lakoff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Don&#x27;t Think of an Elephant!">Don&#x27;t Think of an Elephant!</a>
+</h4>
+<p class="fr-book-author">By George Lakoff</p>
         
-        <p class="fr-book-desc">First published 2004. Subjects: Politics and government, Communication in politics, Progressivism (United States politics), Politische Ko...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Don%27t+Think+of+an+Elephant%21+George+Lakoff&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2004. Subjects: Politics and government, Communication in politics, Progressivism (United States politics), Politische Ko...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Don%27t+Think+of+an+Elephant%21+George+Lakoff&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Post-truth+Lee+C.+McIntyre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Post-truth on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8750473-M.jpg" alt="Cover for Post-truth" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Post-truth+Lee+C.+McIntyre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Post-truth">Post-truth</a>
-        </h4>
-        <p class="fr-book-author">By Lee C. McIntyre</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Post-truth+Lee+C.+McIntyre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Post-truth on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8750473-M.jpg" alt="Cover for Post-truth" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Post-truth+Lee+C.+McIntyre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Post-truth">Post-truth</a>
+</h4>
+<p class="fr-book-author">By Lee C. McIntyre</p>
         
-        <p class="fr-book-desc">First published 2018. Subjects: Politics and government, In mass media, Public opinion, Mass media, Truth.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Post-truth+Lee+C.+McIntyre&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2018. Subjects: Politics and government, In mass media, Public opinion, Mass media, Truth.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Post-truth+Lee+C.+McIntyre&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Foolproof+Sander+Van+Der+Linden&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Foolproof on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/13300557-M.jpg" alt="Cover for Foolproof" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Foolproof+Sander+Van+Der+Linden&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Foolproof">Foolproof</a>
-        </h4>
-        <p class="fr-book-author">By Sander Van Der Linden</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Foolproof+Sander+Van+Der+Linden&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Foolproof on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/13300557-M.jpg" alt="Cover for Foolproof" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Foolproof+Sander+Van+Der+Linden&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Foolproof">Foolproof</a>
+</h4>
+<p class="fr-book-author">By Sander Van Der Linden</p>
         
-        <p class="fr-book-desc">First published 2023.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Foolproof+Sander+Van+Der+Linden&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2023.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Foolproof+Sander+Van+Der+Linden&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Made+to+Stick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Made to Stick</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Don%27t+Think+of+an+Elephant%21&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Don&#x27;t Think of an Elephant!</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Post+truth&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Post truth</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Made+to+Stick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Made to Stick</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Don%27t+Think+of+an+Elephant%21&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Don&#x27;t Think of an Elephant!</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Post+truth&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Post truth</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+training+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=corrections-what-should-replace-a-false-slogan-myths-and-misconcept-teacher-training-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher training poster" data-ebay-reference="corrections-what-should-replace-a-false-slogan-myths-and-misconcept-teacher-training-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Special Education Teacher, SPED Fra Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/ce5caa89a0d0230e589d.jpg' | relative_url }}" alt="Listing image for Special Education Teacher, SPED Fra Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+training+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=corrections-what-should-replace-a-false-slogan-myths-and-misconcept-teacher-training-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher training poster" data-ebay-reference="corrections-what-should-replace-a-false-slogan-myths-and-misconcept-teacher-training-poster" target="_blank" rel="sponsored noopener noreferrer">Special Education Teacher, SPED Fra Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+training+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=corrections-what-should-replace-a-false-slogan-myths-and-misconcept-teacher-training-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher training poster" data-ebay-reference="corrections-what-should-replace-a-false-slogan-myths-and-misconcept-teacher-training-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for teacher training poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: teacher training poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+training+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=corrections-what-should-replace-a-false-slogan-myths-and-misconcept-teacher-training-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher training poster" data-ebay-reference="corrections-what-should-replace-a-false-slogan-myths-and-misconcept-teacher-training-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+training+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=corrections-what-should-replace-a-false-slogan-myths-and-misconcept-teacher-training-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher training poster" data-ebay-reference="corrections-what-should-replace-a-false-slogan-myths-and-misconcept-teacher-training-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Special Education Teacher, SPED Fra Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/ce5caa89a0d0230e589d.jpg' | relative_url }}" alt="Listing image for Special Education Teacher, SPED Fra Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+training+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=corrections-what-should-replace-a-false-slogan-myths-and-misconcept-teacher-training-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher training poster" data-ebay-reference="corrections-what-should-replace-a-false-slogan-myths-and-misconcept-teacher-training-poster" target="_blank" rel="sponsored noopener noreferrer">Special Education Teacher, SPED Fra Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+training+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=corrections-what-should-replace-a-false-slogan-myths-and-misconcept-teacher-training-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher training poster" data-ebay-reference="corrections-what-should-replace-a-false-slogan-myths-and-misconcept-teacher-training-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for teacher training poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: teacher training poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+training+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=corrections-what-should-replace-a-false-slogan-myths-and-misconcept-teacher-training-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher training poster" data-ebay-reference="corrections-what-should-replace-a-false-slogan-myths-and-misconcept-teacher-training-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+training+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=corrections-what-should-replace-a-false-slogan-myths-and-misconcept-teacher-training-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher training poster" data-ebay-reference="corrections-what-should-replace-a-false-slogan-myths-and-misconcept-teacher-training-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Special Education Teacher, SPED Fra Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/32c819eca7a07f0a7cdc.jpg' | relative_url }}" alt="Listing image for Special Education Teacher, SPED Fra Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+training+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=corrections-what-should-replace-a-false-slogan-myths-and-misconcept-teacher-training-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher training poster" data-ebay-reference="corrections-what-should-replace-a-false-slogan-myths-and-misconcept-teacher-training-poster" target="_blank" rel="sponsored noopener noreferrer">Special Education Teacher, SPED Fra Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+training+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=corrections-what-should-replace-a-false-slogan-myths-and-misconcept-teacher-training-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher training poster" data-ebay-reference="corrections-what-should-replace-a-false-slogan-myths-and-misconcept-teacher-training-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for teacher training poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: teacher training poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+training+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=corrections-what-should-replace-a-false-slogan-myths-and-misconcept-teacher-training-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher training poster" data-ebay-reference="corrections-what-should-replace-a-false-slogan-myths-and-misconcept-teacher-training-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+training+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=corrections-what-should-replace-a-false-slogan-myths-and-misconcept-teacher-training-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher training poster" data-ebay-reference="corrections-what-should-replace-a-false-slogan-myths-and-misconcept-teacher-training-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Special Education Teacher, SPED Fra Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/32c819eca7a07f0a7cdc.jpg' | relative_url }}" alt="Listing image for Special Education Teacher, SPED Fra Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+training+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=corrections-what-should-replace-a-false-slogan-myths-and-misconcept-teacher-training-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher training poster" data-ebay-reference="corrections-what-should-replace-a-false-slogan-myths-and-misconcept-teacher-training-poster" target="_blank" rel="sponsored noopener noreferrer">Special Education Teacher, SPED Fra Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+training+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=corrections-what-should-replace-a-false-slogan-myths-and-misconcept-teacher-training-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher training poster" data-ebay-reference="corrections-what-should-replace-a-false-slogan-myths-and-misconcept-teacher-training-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for teacher training poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: teacher training poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+training+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=corrections-what-should-replace-a-false-slogan-myths-and-misconcept-teacher-training-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher training poster" data-ebay-reference="corrections-what-should-replace-a-false-slogan-myths-and-misconcept-teacher-training-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+training+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=corrections-what-should-replace-a-false-slogan-myths-and-misconcept-teacher-training-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher training poster" data-ebay-reference="corrections-what-should-replace-a-false-slogan-myths-and-misconcept-teacher-training-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Special Education Teacher, Special Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/c97c09dfaffcefee2438.jpg' | relative_url }}" alt="Listing image for Special Education Teacher, Special Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+training+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=corrections-what-should-replace-a-false-slogan-myths-and-misconcept-teacher-training-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher training poster" data-ebay-reference="corrections-what-should-replace-a-false-slogan-myths-and-misconcept-teacher-training-poster" target="_blank" rel="sponsored noopener noreferrer">Special Education Teacher, Special Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+training+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=corrections-what-should-replace-a-false-slogan-myths-and-misconcept-teacher-training-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher training poster" data-ebay-reference="corrections-what-should-replace-a-false-slogan-myths-and-misconcept-teacher-training-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for teacher training poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: teacher training poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+training+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=corrections-what-should-replace-a-false-slogan-myths-and-misconcept-teacher-training-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher training poster" data-ebay-reference="corrections-what-should-replace-a-false-slogan-myths-and-misconcept-teacher-training-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+training+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=corrections-what-should-replace-a-false-slogan-myths-and-misconcept-teacher-training-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher training poster" data-ebay-reference="corrections-what-should-replace-a-false-slogan-myths-and-misconcept-teacher-training-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Special Education Teacher, Special Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/c97c09dfaffcefee2438.jpg' | relative_url }}" alt="Listing image for Special Education Teacher, Special Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+training+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=corrections-what-should-replace-a-false-slogan-myths-and-misconcept-teacher-training-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher training poster" data-ebay-reference="corrections-what-should-replace-a-false-slogan-myths-and-misconcept-teacher-training-poster" target="_blank" rel="sponsored noopener noreferrer">Special Education Teacher, Special Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+training+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=corrections-what-should-replace-a-false-slogan-myths-and-misconcept-teacher-training-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher training poster" data-ebay-reference="corrections-what-should-replace-a-false-slogan-myths-and-misconcept-teacher-training-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for teacher training poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: teacher training poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+training+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=corrections-what-should-replace-a-false-slogan-myths-and-misconcept-teacher-training-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher training poster" data-ebay-reference="corrections-what-should-replace-a-false-slogan-myths-and-misconcept-teacher-training-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+training+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=corrections-what-should-replace-a-false-slogan-myths-and-misconcept-teacher-training-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher training poster" data-ebay-reference="corrections-what-should-replace-a-false-slogan-myths-and-misconcept-teacher-training-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Special Education Teacher, SPED Fra Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/09be870a7811a268cac2.jpg' | relative_url }}" alt="Listing image for Special Education Teacher, SPED Fra Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+training+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=corrections-what-should-replace-a-false-slogan-myths-and-misconcept-teacher-training-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher training poster" data-ebay-reference="corrections-what-should-replace-a-false-slogan-myths-and-misconcept-teacher-training-poster" target="_blank" rel="sponsored noopener noreferrer">Special Education Teacher, SPED Fra Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+training+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=corrections-what-should-replace-a-false-slogan-myths-and-misconcept-teacher-training-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher training poster" data-ebay-reference="corrections-what-should-replace-a-false-slogan-myths-and-misconcept-teacher-training-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for teacher training poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: teacher training poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+training+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=corrections-what-should-replace-a-false-slogan-myths-and-misconcept-teacher-training-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher training poster" data-ebay-reference="corrections-what-should-replace-a-false-slogan-myths-and-misconcept-teacher-training-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+training+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=corrections-what-should-replace-a-false-slogan-myths-and-misconcept-teacher-training-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher training poster" data-ebay-reference="corrections-what-should-replace-a-false-slogan-myths-and-misconcept-teacher-training-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+training+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=corrections-what-should-replace-a-false-slogan-myths-and-misconcept-teacher-training-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher training poster" data-ebay-reference="corrections-what-should-replace-a-false-slogan-myths-and-misconcept-teacher-training-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Special Education Teacher, SPED Fra Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/09be870a7811a268cac2.jpg' | relative_url }}" alt="Listing image for Special Education Teacher, SPED Fra Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+training+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=corrections-what-should-replace-a-false-slogan-myths-and-misconcept-teacher-training-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher training poster" data-ebay-reference="corrections-what-should-replace-a-false-slogan-myths-and-misconcept-teacher-training-poster" target="_blank" rel="sponsored noopener noreferrer">Special Education Teacher, SPED Fra Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+training+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=corrections-what-should-replace-a-false-slogan-myths-and-misconcept-teacher-training-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher training poster" data-ebay-reference="corrections-what-should-replace-a-false-slogan-myths-and-misconcept-teacher-training-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for teacher training poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: teacher training poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+training+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=corrections-what-should-replace-a-false-slogan-myths-and-misconcept-teacher-training-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher training poster" data-ebay-reference="corrections-what-should-replace-a-false-slogan-myths-and-misconcept-teacher-training-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+training+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=corrections-what-should-replace-a-false-slogan-myths-and-misconcept-teacher-training-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher training poster" data-ebay-reference="corrections-what-should-replace-a-false-slogan-myths-and-misconcept-teacher-training-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -598,7 +598,7 @@ This approach aligns with decades of research showing that misinformation is har
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -618,7 +618,7 @@ This approach aligns with decades of research showing that misinformation is har
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -650,7 +650,7 @@ This approach aligns with decades of research showing that misinformation is har
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -702,7 +702,7 @@ This approach aligns with decades of research showing that misinformation is har
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -747,7 +747,7 @@ This approach aligns with decades of research showing that misinformation is har
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -788,180 +788,180 @@ This approach aligns with decades of research showing that misinformation is har
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCExploring factors that mitigate the continued influence  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8627545/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8627545/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>by IP Kan · 2021 · Cited by 27 — The term “continued influence effect” (CIE) refers to the phenomenon that discredited and obsolete in...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8627545/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8627545/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by IP Kan · 2021 · Cited by 27 — The term “continued influence effect” (CIE) refers to the phenomenon that discredited and obsolete in...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCCorrection format has a limited role when debunking  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8715407/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8715407/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>by B Swire-Thompson · 2021 · Cited by 79 — Misinformation can continue to influence an individual&#x27;s memory and reasoning even after a...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8715407/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8715407/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by B Swire-Thompson · 2021 · Cited by 79 — Misinformation can continue to influence an individual&#x27;s memory and reasoning even after a...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: nature.com  
-   Link: <a href="https://www.nature.com/articles/s44159-021-00006-y" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s44159-021-00006-y</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The psychological drivers of misinformation belief and its...by UKH Ecker · 2022 · Cited by 1916 — In this Review, we describe the...</p></details>
+   Link:<a href="https://www.nature.com/articles/s44159-021-00006-y" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s44159-021-00006-y</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The psychological drivers of misinformation belief and its...by UKH Ecker · 2022 · Cited by 1916 — In this Review, we describe the...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCThe role of discomfort in the continued influence effect  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8447889/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8447889/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>by MW Susmann · 2021 · Cited by 90 — Research examining the continued influence effect (CIE) of misinformation has reliably found that...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8447889/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8447889/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by MW Susmann · 2021 · Cited by 90 — Research examining the continued influence effect (CIE) of misinformation has reliably found that...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: scispace.com  
-   Link: <a href="https://scispace.com/pdf/the-continued-influence-of-misinformation-in-memory-what-4tijzg1jh2.pdf" target="_blank" rel="noopener noreferrer nofollow">https://scispace.com/pdf/the-continued-influence-of-misinformation-in-memory-what-4tijzg1jh2.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The continued influence of misinformation in memoryThat is, the effect is not due to just any misinformation, nor to the absence of a cau...</p></details>
+   Link:<a href="https://scispace.com/pdf/the-continued-influence-of-misinformation-in-memory-what-4tijzg1jh2.pdf" target="_blank" rel="noopener noreferrer nofollow">https://scispace.com/pdf/the-continued-influence-of-misinformation-in-memory-what-4tijzg1jh2.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The continued influence of misinformation in memoryThat is, the effect is not due to just any misinformation, nor to the absence of a cau...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0001691823002706" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0001691823002706</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>A replication study of Johnson and Seifert&#x27;s (1994)...by V Laurent · 2023 · Cited by 5 — The term “Continued Influence Effe...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/pii/S0001691823002706" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0001691823002706</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A replication study of Johnson and Seifert&#x27;s (1994)...by V Laurent · 2023 · Cited by 5 — The term “Continued Influence Effe...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S2211368116301838" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S2211368116301838</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Reminders and Repetition of Misinformationby UKH Ecker · 2017 · Cited by 392 — People frequently rely on information even af...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/abs/pii/S2211368116301838" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S2211368116301838</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Reminders and Repetition of Misinformationby UKH Ecker · 2017 · Cited by 392 — People frequently rely on information even af...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0010027725000307" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0010027725000307</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Belief updating in the face of misinformation: The role...by GA Sanna · 2025 · Cited by 14 — This paper investigates the process of beli...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/pii/S0010027725000307" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0010027725000307</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Belief updating in the face of misinformation: The role...by GA Sanna · 2025 · Cited by 14 — This paper investigates the process of beli...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0010027720302729" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0010027720302729</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The rational continued influence of misinformationby SAC Desai · 2020 · Cited by 71 — Studies on the &#x27;Continued Influence Effect&#x27; (CIE) s...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/abs/pii/S0010027720302729" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0010027720302729</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The rational continued influence of misinformationby SAC Desai · 2020 · Cited by 71 — Studies on the &#x27;Continued Influence Effect&#x27; (CIE) s...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/26173286/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/26173286/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Misinformation and Its Correction: Continued Influence and...by S Lewandowsky · 2012 · Cited by 4658 — We look at people&#x27;s memory...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/26173286/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/26173286/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Misinformation and Its Correction: Continued Influence and...by S Lewandowsky · 2012 · Cited by 4658 — We look at people&#x27;s memory...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: climatechangecommunication.org  
    Title: Center for Climate Change Communication Debunking Handbook  
-   Link: <a href="https://www.climatechangecommunication.org/wp-content/uploads/2023/09/DebunkingHandbook2020.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.climatechangecommunication.org/wp-content/uploads/2023/09/DebunkingHandbook2020.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Center for Climate Change CommunicationDebunking HandbookOctober 11, 2020 — Continued influence effect: The continued reliance on inaccur...</p></details>
+   Link:<a href="https://www.climatechangecommunication.org/wp-content/uploads/2023/09/DebunkingHandbook2020.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.climatechangecommunication.org/wp-content/uploads/2023/09/DebunkingHandbook2020.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Center for Climate Change CommunicationDebunking HandbookOctober 11, 2020 — Continued influence effect: The continued reliance on inaccur...</p></details>
    Published: October 11, 2020  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: skepticalscience.com  
    Title: Debunking Handbook Part 5 Filling gap with alternative explanation  
-   Link: <a href="https://skepticalscience.com/Debunking-Handbook-Part-5-Filling-gap-with-alternative-explanation.html" target="_blank" rel="noopener noreferrer nofollow">https://skepticalscience.com/Debunking-Handbook-Part-5-Filling-gap-with-alternative-explanation.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Debunking Handbook Part 5: Filling the gap with an...25 Nov 2011 — The most effective way to reduce the effect of misinformation is...</p></details>
+   Link:<a href="https://skepticalscience.com/Debunking-Handbook-Part-5-Filling-gap-with-alternative-explanation.html" target="_blank" rel="noopener noreferrer nofollow">https://skepticalscience.com/Debunking-Handbook-Part-5-Filling-gap-with-alternative-explanation.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Debunking Handbook Part 5: Filling the gap with an...25 Nov 2011 — The most effective way to reduce the effect of misinformation is...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: research-information.bris.ac.uk  
-   Link: <a href="https://research-information.bris.ac.uk/files/298563464/Ecker_v4_TSshorten_UE_clean.pdf" target="_blank" rel="noopener noreferrer nofollow">https://research-information.bris.ac.uk/files/298563464/Ecker_v4_TSshorten_UE_clean.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>University of BristolEcker, UKH, Lewandowsky, S., Cook, J., Schmid, P., Fazio...First, the most important element of a debunking correc...</p></details>
+   Link:<a href="https://research-information.bris.ac.uk/files/298563464/Ecker_v4_TSshorten_UE_clean.pdf" target="_blank" rel="noopener noreferrer nofollow">https://research-information.bris.ac.uk/files/298563464/Ecker_v4_TSshorten_UE_clean.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>University of BristolEcker, UKH, Lewandowsky, S., Cook, J., Schmid, P., Fazio...First, the most important element of a debunking correc...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: shapingtomorrowsworld.org  
-   Link: <a href="https://www.shapingtomorrowsworld.org/debunking-handbook-part-5-filling-gap-with-alternative-explanation.html" target="_blank" rel="noopener noreferrer nofollow">https://www.shapingtomorrowsworld.org/debunking-handbook-part-5-filling-gap-with-alternative-explanation.html</a>  
+   Link:<a href="https://www.shapingtomorrowsworld.org/debunking-handbook-part-5-filling-gap-with-alternative-explanation.html" target="_blank" rel="noopener noreferrer nofollow">https://www.shapingtomorrowsworld.org/debunking-handbook-part-5-filling-gap-with-alternative-explanation.html</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: climatecommunication.gmu.edu  
    Title: the debunking handbook 2020  
-   Link: <a href="https://climatecommunication.gmu.edu/all/the-debunking-handbook-2020/" target="_blank" rel="noopener noreferrer nofollow">https://climatecommunication.gmu.edu/all/the-debunking-handbook-2020/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Center for Climate Change CommunicationThe Debunking Handbook 2020Sep 13, 2023 — The Debunking Handbook 2020 summarizes the current state...</p></details>
+   Link:<a href="https://climatecommunication.gmu.edu/all/the-debunking-handbook-2020/" target="_blank" rel="noopener noreferrer nofollow">https://climatecommunication.gmu.edu/all/the-debunking-handbook-2020/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Center for Climate Change CommunicationThe Debunking Handbook 2020Sep 13, 2023 — The Debunking Handbook 2020 summarizes the current state...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: journals.sagepub.com  
-   Link: <a href="https://journals.sagepub.com/doi/abs/10.1177/1529100612451018" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/abs/10.1177/1529100612451018</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sage JournalsMisinformation and Its Correctionby S Lewandowsky · 2012 · Cited by 4673 — Sources of the continued influence effect: When m...</p></details>
+   Link:<a href="https://journals.sagepub.com/doi/abs/10.1177/1529100612451018" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/abs/10.1177/1529100612451018</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sage JournalsMisinformation and Its Correctionby S Lewandowsky · 2012 · Cited by 4673 — Sources of the continued influence effect: When m...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/36988856/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/36988856/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>impact of misinformation corrections on source...by V Westbrook · 2023 · Cited by 26 — Research on the continued influence effect (CIE)...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/36988856/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/36988856/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>impact of misinformation corrections on source...by V Westbrook · 2023 · Cited by 26 — Research on the continued influence effect (CIE)...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: skepticalscience.com  
    Title: debunking handbook 2020 references  
-   Link: <a href="https://skepticalscience.com/debunking-handbook-2020-references.html" target="_blank" rel="noopener noreferrer nofollow">https://skepticalscience.com/debunking-handbook-2020-references.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Debunking Handbook 2020: References26 Oct 2020 — A meta-analytic examination of the continued influence of misinformation in the face...</p></details>
+   Link:<a href="https://skepticalscience.com/debunking-handbook-2020-references.html" target="_blank" rel="noopener noreferrer nofollow">https://skepticalscience.com/debunking-handbook-2020-references.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Debunking Handbook 2020: References26 Oct 2020 — A meta-analytic examination of the continued influence of misinformation in the face...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: cogbias.site  
    Title: Continued influence effect  
-   Link: <a href="https://cogbias.site/biases/continued-influence-effect/" target="_blank" rel="noopener noreferrer nofollow">https://cogbias.site/biases/continued-influence-effect/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A correction can remove a claim without removing the explanatory work the claim was doing.Read more...</p></details>
+   Link:<a href="https://cogbias.site/biases/continued-influence-effect/" target="_blank" rel="noopener noreferrer nofollow">https://cogbias.site/biases/continued-influence-effect/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A correction can remove a claim without removing the explanatory work the claim was doing.Read more...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: ltrr.arizona.edu  
    Title: Debunking Handbook  
-   Link: <a href="https://www.ltrr.arizona.edu/~katie/kt/natsgc/Debunking_Handbook.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ltrr.arizona.edu/~katie/kt/natsgc/Debunking_Handbook.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>by S Lewandowsky — Sources of the continued influence effect: When discredited information in memory affects later inferences. Journal of...</p></details>
+   Link:<a href="https://www.ltrr.arizona.edu/~katie/kt/natsgc/Debunking_Handbook.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ltrr.arizona.edu/~katie/kt/natsgc/Debunking_Handbook.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by S Lewandowsky — Sources of the continued influence effect: When discredited information in memory affects later inferences. Journal of...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: shapingtomorrowsworld.org  
    Title: debunking handbook part 2 familiarity [backfire](&#123;&#123; 'backfire/' | relative_url &#125;&#125;) effect  
-   Link: <a href="https://www.shapingtomorrowsworld.org/debunking-handbook-part-2-familiarity-backfire-effect.html" target="_blank" rel="noopener noreferrer nofollow">https://www.shapingtomorrowsworld.org/debunking-handbook-part-2-familiarity-backfire-effect.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Debunking Handbook Part 2: The Familiarity Backfire Effect18 Nov 2011 — This Handbook boils down the research into a short, simple su...</p></details>
+   Link:<a href="https://www.shapingtomorrowsworld.org/debunking-handbook-part-2-familiarity-backfire-effect.html" target="_blank" rel="noopener noreferrer nofollow">https://www.shapingtomorrowsworld.org/debunking-handbook-part-2-familiarity-backfire-effect.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Debunking Handbook Part 2: The Familiarity Backfire Effect18 Nov 2011 — This Handbook boils down the research into a short, simple su...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: youtube.com  
    Title: The Continued Influence Effect  
-   Link: <a href="https://www.youtube.com/watch?v=eZ_hcf01EFw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=eZ_hcf01EFw</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Why do memories of...The continued influence effect is when misinformation continues to exist in a person&#x27;s memory even after they&#x27;ve le...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=eZ_hcf01EFw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=eZ_hcf01EFw</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Why do memories of...The continued influence effect is when misinformation continues to exist in a person&#x27;s memory even after they&#x27;ve le...</p></details>
 
 ### Additional References
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: inoculation.science  
-   Link: <a href="https://inoculation.science/the-debunking-handbook/" target="_blank" rel="noopener noreferrer nofollow">https://inoculation.science/the-debunking-handbook/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Debunking HandbookMisinformation is false information that is spread either by mistake or with intent to mislead. When there is inten...</p></details>
+   Link:<a href="https://inoculation.science/the-debunking-handbook/" target="_blank" rel="noopener noreferrer nofollow">https://inoculation.science/the-debunking-handbook/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Debunking HandbookMisinformation is false information that is spread either by mistake or with intent to mislead. When there is inten...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: brod.ntcenter.bg  
-   Link: <a href="https://brod.ntcenter.bg/en/continued-influence-effect/" target="_blank" rel="noopener noreferrer nofollow">https://brod.ntcenter.bg/en/continued-influence-effect/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Influence EffectThe &quot;Continued Influence Effect&quot; refers to the phenomenon where misinformation continues to affect people&#x27;s thinking and...</p></details>
+   Link:<a href="https://brod.ntcenter.bg/en/continued-influence-effect/" target="_blank" rel="noopener noreferrer nofollow">https://brod.ntcenter.bg/en/continued-influence-effect/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Influence EffectThe &quot;Continued Influence Effect&quot; refers to the phenomenon where misinformation continues to affect people&#x27;s thinking and...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: research-information.bris.ac.uk  
    Title: misinformation and its correction continued influence and success  
-   Link: <a href="https://research-information.bris.ac.uk/en/publications/misinformation-and-its-correction-continued-influence-and-success/" target="_blank" rel="noopener noreferrer nofollow">https://research-information.bris.ac.uk/en/publications/misinformation-and-its-correction-continued-influence-and-success/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>and Its Correction: Continued Influence and...by S Lewandowsky · 2012 · Cited by 4713 — We look at people&#x27;s memory for misinformation an...</p></details>
+   Link:<a href="https://research-information.bris.ac.uk/en/publications/misinformation-and-its-correction-continued-influence-and-success/" target="_blank" rel="noopener noreferrer nofollow">https://research-information.bris.ac.uk/en/publications/misinformation-and-its-correction-continued-influence-and-success/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>and Its Correction: Continued Influence and...by S Lewandowsky · 2012 · Cited by 4713 — We look at people&#x27;s memory for misinformation an...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: education.umd.edu  
    Title: 10 14 20 debunking handbook 2020 countering misinformation  
-   Link: <a href="https://education.umd.edu/news/10-14-20-debunking-handbook-2020-countering-misinformation" target="_blank" rel="noopener noreferrer nofollow">https://education.umd.edu/news/10-14-20-debunking-handbook-2020-countering-misinformation</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Handbook 2020: Countering MisinformationOct 14, 2020 — There is little doubt that misinformation and “[fake news](&amp;#123;&amp;#123; &#x27;fake-news/&#x27; | relative_url &amp;#125;&amp;#125;)” are currently underminin...</p></details>
+   Link:<a href="https://education.umd.edu/news/10-14-20-debunking-handbook-2020-countering-misinformation" target="_blank" rel="noopener noreferrer nofollow">https://education.umd.edu/news/10-14-20-debunking-handbook-2020-countering-misinformation</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Handbook 2020: Countering MisinformationOct 14, 2020 — There is little doubt that misinformation and “[fake news](&amp;#123;&amp;#123; &#x27;fake-news/&#x27; | relative_url &amp;#125;&amp;#125;)” are currently underminin...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: ofcom.org.uk  
    Title: misinformation and disinformation literature review  
-   Link: <a href="https://www.ofcom.org.uk/siteassets/resources/documents/research-and-data/media-literacy-research/mis-and-disinformation/misinformation-and-disinformation-literature-review.pdf?v=397787" target="_blank" rel="noopener noreferrer nofollow">https://www.ofcom.org.uk/siteassets/resources/documents/research-and-data/media-literacy-research/mis-and-disinformation/misinformation-and-disinformation-literature-review.pdf?v=397787</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Misinformation and Disinformation: Literature Review27 May 2025 — This briefing provides an overview of the available academic and grey l...</p></details>
+   Link:<a href="https://www.ofcom.org.uk/siteassets/resources/documents/research-and-data/media-literacy-research/mis-and-disinformation/misinformation-and-disinformation-literature-review.pdf?v=397787" target="_blank" rel="noopener noreferrer nofollow">https://www.ofcom.org.uk/siteassets/resources/documents/research-and-data/media-literacy-research/mis-and-disinformation/misinformation-and-disinformation-literature-review.pdf?v=397787</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Misinformation and Disinformation: Literature Review27 May 2025 — This briefing provides an overview of the available academic and grey l...</p></details>
    Published: May 2025  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/258180567_Misinformation_and_Its_Correction_Continued_Influence_and_Successful_Debiasing" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/258180567_Misinformation_and_Its_Correction_Continued_Influence_and_Successful_Debiasing</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>These recommendations pertain to the ways in which corrections should be...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/258180567_Misinformation_and_Its_Correction_Continued_Influence_and_Successful_Debiasing" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/258180567_Misinformation_and_Its_Correction_Continued_Influence_and_Successful_Debiasing</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>These recommendations pertain to the ways in which corrections should be...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: researchportalplus.anu.edu.au  
    Title: Original language, English. Article  
-   Link: <a href="https://researchportalplus.anu.edu.au/en/publications/causal-inference-in-misinformation-and-conspiracy-research/" target="_blank" rel="noopener noreferrer nofollow">https://researchportalplus.anu.edu.au/en/publications/causal-inference-in-misinformation-and-conspiracy-research/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>inference in misinformation and conspiracy researchby LQ Tay · 2024 · Cited by 1 — Keywords: causal inference, conspiracy theory, fake ne...</p></details>
+   Link:<a href="https://researchportalplus.anu.edu.au/en/publications/causal-inference-in-misinformation-and-conspiracy-research/" target="_blank" rel="noopener noreferrer nofollow">https://researchportalplus.anu.edu.au/en/publications/causal-inference-in-misinformation-and-conspiracy-research/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>inference in misinformation and conspiracy researchby LQ Tay · 2024 · Cited by 1 — Keywords: causal inference, conspiracy theory, fake ne...</p></details>
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/391015007_To_be_continued_misinformation%27s_bizarre_adventure_beyond_memory_failures_-_exploring_non-memory-based_mechanisms_driving_the_continued_influence_effect_CIE" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/391015007_To_be_continued_misinformation%27s_bizarre_adventure_beyond_memory_failures_-_exploring_non-memory-based_mechanisms_driving_the_continued_influence_effect_CIE</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) To be continued: misinformation&#x27;s bizarre adventure...18 Nov 2025 — The psychology of fake news: Accepting, sharing, and correctin...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/391015007_To_be_continued_misinformation%27s_bizarre_adventure_beyond_memory_failures_-_exploring_non-memory-based_mechanisms_driving_the_continued_influence_effect_CIE" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/391015007_To_be_continued_misinformation%27s_bizarre_adventure_beyond_memory_failures_-_exploring_non-memory-based_mechanisms_driving_the_continued_influence_effect_CIE</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) To be continued: misinformation&#x27;s bizarre adventure...18 Nov 2025 — The psychology of fake news: Accepting, sharing, and correctin...</p></details>
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: cambridge.org  
-   Link: <a href="https://www.cambridge.org/core/elements/persistence-of-misinformation/1C45DB820E289194235818E12A202255" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/elements/persistence-of-misinformation/1C45DB820E289194235818E12A202255</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Persistence of Misinformationby Y Zhou · 2025 · Cited by 1 — A meta-analytic examination of the continued influence of misinformation in...</p></details>
+   Link:<a href="https://www.cambridge.org/core/elements/persistence-of-misinformation/1C45DB820E289194235818E12A202255" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/elements/persistence-of-misinformation/1C45DB820E289194235818E12A202255</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Persistence of Misinformationby Y Zhou · 2025 · Cited by 1 — A meta-analytic examination of the continued influence of misinformation in...</p></details>
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=wVXYf3Gr_BE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=wVXYf3Gr_BE</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>f an article its intent or whether it&#x27;s been fact checked or not...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=wVXYf3Gr_BE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=wVXYf3Gr_BE</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>f an article its intent or whether it&#x27;s been fact checked or not...</p></details>

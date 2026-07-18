@@ -271,17 +271,17 @@ image: /assets/images/Myths_and_misconcept_0d48d7_identity_trust_belie_3d20c4_tr
 Correcting a myth is not only a factual task. It is often a social one. People can accept new information more easily when the [correction]({{ 'correction/' | relative_url }}) does not force them to choose between accuracy and belonging. A myth tied to family traditions, political [identity]({{ 'identity/' | relative_url }}), religious community, professional pride or personal intelligence can become difficult to challenge because rejecting the claim may feel like rejecting the people associated with it.
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_identity_trust_belie_3d20c4_trusted_messenger_co_ba3df3-Illustration-1-dark.svg" | relative_url }}" alt="Trusted Fixes illustration 1" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_identity_trust_belie_3d20c4_trusted_messenger_co_ba3df3-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_identity_trust_belie_3d20c4_trusted_messenger_co_ba3df3-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-Research on misinformation and identity-protective reasoning suggests that [corrections]({{ 'corrections/' | relative_url }}) work best when they reduce threat rather than increase it. Trusted messengers can play a crucial role because they are often seen as part of the listener’s group rather than an external critic. The most effective interventions tend to separate respect for the person from rejection of the false claim, allowing people to update beliefs without public humiliation or loss of status. <span class="citation-chip-wrap"><a class="citation-chip" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2973067" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: papers.ssrn.com">[SSRN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">papers.ssrn.com</span><span class="citation-popover-snippet">Misconceptions, Misinformation, and the Logic of Identity-...by DM Kahan · 2017 · Cited by 582 — Identity protective cognition refer...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://informalscience.org/identity/dan-kahan/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: informalscience.org">[Informal Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">informalscience.org</span><span class="citation-popover-snippet">Identity &#124; Dan KahanDan Kahan&#x27;s identity-related work has focused on “identity protective cognition”, which refers to the tendency of ind...</span></span></span>
+Research on misinformation and identity-protective reasoning suggests that [corrections]({{ 'corrections/' | relative_url }}) work best when they reduce threat rather than increase it. Trusted messengers can play a crucial role because they are often seen as part of the listener’s group rather than an external critic. The most effective interventions tend to separate respect for the person from rejection of the false claim, allowing people to update beliefs without public humiliation or loss of status.<span class="citation-chip-wrap"><a class="citation-chip" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2973067" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: papers.ssrn.com">[SSRN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">papers.ssrn.com</span><span class="citation-popover-snippet">Misconceptions, Misinformation, and the Logic of Identity-...by DM Kahan · 2017 · Cited by 582 — Identity protective cognition refer...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://informalscience.org/identity/dan-kahan/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: informalscience.org">[Informal Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">informalscience.org</span><span class="citation-popover-snippet">Identity &#124; Dan KahanDan Kahan&#x27;s identity-related work has focused on “identity protective cognition”, which refers to the tendency of ind...</span></span></span>
 
 ## Why blunt debunking can trigger defensiveness
 
 Many failed corrections share a common problem: they sound like judgments about the believer rather than evaluations of the information.
 
-A direct statement such as “that’s nonsense” or “only uninformed people believe that” may communicate more than disagreement. It can imply that the listener is gullible, irresponsible or disloyal. Once a correction is interpreted as an identity threat, people often shift from evaluating evidence to defending themselves or their group. Research on misinformation correction notes that perceived attacks on identity can trigger emotional responses that interfere with belief revision and encourage people to dismiss the source of the correction. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.emc-lab.org/uploads/1/1/3/6/113627673/ecker.2022.nrp_preprint.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: emc-lab.org">[Ecker Memory &amp; Cognition Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">emc-lab.org</span><span class="citation-popover-title">ecker.2022.nrp preprint</span><span class="citation-popover-snippet">Ecker Memory &amp; Cognition Lab1 The Psychological Drivers of Misinformation Belief and its...by UKH Ecker · Cited by 1916 — Such correctio...</span></span></span>
+A direct statement such as “that’s nonsense” or “only uninformed people believe that” may communicate more than disagreement. It can imply that the listener is gullible, irresponsible or disloyal. Once a correction is interpreted as an identity threat, people often shift from evaluating evidence to defending themselves or their group. Research on misinformation correction notes that perceived attacks on identity can trigger emotional responses that interfere with belief revision and encourage people to dismiss the source of the correction.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.emc-lab.org/uploads/1/1/3/6/113627673/ecker.2022.nrp_preprint.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: emc-lab.org">[Ecker Memory &amp; Cognition Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">emc-lab.org</span><span class="citation-popover-title">ecker.2022.nrp preprint</span><span class="citation-popover-snippet">Ecker Memory &amp; Cognition Lab1 The Psychological Drivers of Misinformation Belief and its...by UKH Ecker · Cited by 1916 — Such correctio...</span></span></span>
 
 This helps explain why highly educated people can still resist corrections. The barrier is not necessarily a lack of intelligence. It is often a concern about social consequences. If accepting a correction feels like admitting that one's family, political allies, religious community or trusted leaders were wrong, the psychological cost becomes much higher.
 
-Importantly, recent reviews of misinformation research suggest that fears of dramatic “[backfire]({{ 'backfire/' | relative_url }}) effects” have often been overstated. Corrections frequently help rather than harm. However, effectiveness still depends on how the correction is delivered and whether it generates unnecessary defensiveness. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8522433/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">by AK Shen · 2021 · Cited by 46 — Vaccine hesitancy is a major health threat that can undermine communities&#x27; ability to attain herd im...</span></span></span>
+Importantly, recent reviews of misinformation research suggest that fears of dramatic “[backfire]({{ 'backfire/' | relative_url }}) effects” have often been overstated. Corrections frequently help rather than harm. However, effectiveness still depends on how the correction is delivered and whether it generates unnecessary defensiveness.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8522433/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">by AK Shen · 2021 · Cited by 46 — Vaccine hesitancy is a major health threat that can undermine communities&#x27; ability to attain herd im...</span></span></span>
 
 ### The dignity principle
 
@@ -298,7 +298,7 @@ This means:
 
 </div>
 
-The World Health Organization's guidance on vaccine conversations emphasises listening with empathy, acknowledging concerns and creating space for discussion before presenting corrective information. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.who.int/news-room/feature-stories/detail/how-to-talk-about-vaccines" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: who.int">[World Health Organization]</a><span class="citation-popover" role="note"><span class="citation-popover-source">who.int</span><span class="citation-popover-title">how to talk about vaccines</span><span class="citation-popover-snippet">Don&#x27;t dismiss them; instead, acknowledge how they&#x27;re feeling and create space...Read more...</span></span></span>
+The World Health Organization's guidance on vaccine conversations emphasises listening with empathy, acknowledging concerns and creating space for discussion before presenting corrective information.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.who.int/news-room/feature-stories/detail/how-to-talk-about-vaccines" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: who.int">[World Health Organization]</a><span class="citation-popover" role="note"><span class="citation-popover-source">who.int</span><span class="citation-popover-title">how to talk about vaccines</span><span class="citation-popover-snippet">Don&#x27;t dismiss them; instead, acknowledge how they&#x27;re feeling and create space...Read more...</span></span></span>
 
 The correction then becomes: “You are a reasonable person who received inaccurate information,” rather than: “You are the problem.”
 
@@ -308,7 +308,7 @@ People rarely evaluate claims in isolation. They ask whether the source understa
 
 A correction from an outsider may be factually stronger yet socially weaker than a correction from someone inside the listener's community. Trusted messengers reduce perceived hostility because they already possess relationship capital. The listener is less likely to assume malicious motives.
 
-Studies of misinformation correction on messaging platforms have found that people are more willing to engage with and share [debunking]({{ 'debunking/' | relative_url }}) material when it comes through strong social ties or trusted in-group connections. Research on WhatsApp misinformation, for example, found that close relationships can increase willingness to redistribute corrective information. <span class="citation-chip-wrap"><a class="citation-chip" href="https://dspace.mit.edu/bitstream/handle/1721.1/146161/3512964.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dspace.mit.edu">[DSpace]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dspace.mit.edu</span><span class="citation-popover-snippet">Social Debunking of Misinformation on WhatsAppby I Pasquetto · 2022 · Cited by 87 — Our research design enables us to examine wheth...</span></span></span>
+Studies of misinformation correction on messaging platforms have found that people are more willing to engage with and share [debunking]({{ 'debunking/' | relative_url }}) material when it comes through strong social ties or trusted in-group connections. Research on WhatsApp misinformation, for example, found that close relationships can increase willingness to redistribute corrective information.<span class="citation-chip-wrap"><a class="citation-chip" href="https://dspace.mit.edu/bitstream/handle/1721.1/146161/3512964.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dspace.mit.edu">[DSpace]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dspace.mit.edu</span><span class="citation-popover-snippet">Social Debunking of Misinformation on WhatsAppby I Pasquetto · 2022 · Cited by 87 — Our research design enables us to examine wheth...</span></span></span>
 
 This does not mean any familiar person automatically becomes persuasive. Trust generally combines several elements:
 
@@ -321,7 +321,7 @@ This does not mean any familiar person automatically becomes persuasive. Trust g
 
 </div>
 
-A local pharmacist, community organiser, sports coach, religious leader or neighbourhood volunteer may sometimes outperform a distant institution because they are seen as understanding local concerns rather than issuing instructions from above. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8522433/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">by AK Shen · 2021 · Cited by 46 — Vaccine hesitancy is a major health threat that can undermine communities&#x27; ability to attain herd im...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.local.gov.uk/case-studies/leeds-importance-messenger-not-just-message" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: local.gov.uk">[Local]</a><span class="citation-popover" role="note"><span class="citation-popover-source">local.gov.uk</span><span class="citation-popover-title">leeds importance messenger not just message</span><span class="citation-popover-snippet">ernment AssociationThe importance of the messenger, not just the message10 Mar 2022 — Local insight, taken before the first wave...</span></span></span>
+A local pharmacist, community organiser, sports coach, religious leader or neighbourhood volunteer may sometimes outperform a distant institution because they are seen as understanding local concerns rather than issuing instructions from above.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8522433/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">by AK Shen · 2021 · Cited by 46 — Vaccine hesitancy is a major health threat that can undermine communities&#x27; ability to attain herd im...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.local.gov.uk/case-studies/leeds-importance-messenger-not-just-message" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: local.gov.uk">[Local]</a><span class="citation-popover" role="note"><span class="citation-popover-source">local.gov.uk</span><span class="citation-popover-title">leeds importance messenger not just message</span><span class="citation-popover-snippet">ernment AssociationThe importance of the messenger, not just the message10 Mar 2022 — Local insight, taken before the first wave...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/E4Rkf_JWbG4" title="S3 E8 Professor Neil and Zach talk Toxic Masculinity, parasocial relationships and content creation" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=E4Rkf_JWbG4" target="_blank" rel="noopener noreferrer">S3 E8 Professor Neil and Zach talk Toxic Masculinity, parasocial relationships and content creation</a></p><p class="youtube-embed-meta">Channel: Zachmentalloadcoach &middot; Views: 491 &middot; Uploaded: March 2024 &middot; Length: 1 hour 25 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=E4Rkf_JWbG4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=E4Rkf_JWbG4">Open on YouTube</a></p></div></div></div>
 
@@ -344,7 +344,7 @@ For example:
 
 The factual content may remain unchanged, but the social meaning shifts. The correction no longer signals group betrayal.
 
-Research on identity-protective cognition helps explain why this matters. People often evaluate evidence through the lens of group commitments. Information becomes easier to accept when acceptance does not threaten those commitments. <span class="citation-chip-wrap"><a class="citation-chip" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2973067" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: papers.ssrn.com">[SSRN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">papers.ssrn.com</span><span class="citation-popover-snippet">Misconceptions, Misinformation, and the Logic of Identity-...by DM Kahan · 2017 · Cited by 582 — Identity protective cognition refer...</span></span></span>
+Research on identity-protective cognition helps explain why this matters. People often evaluate evidence through the lens of group commitments. Information becomes easier to accept when acceptance does not threaten those commitments.<span class="citation-chip-wrap"><a class="citation-chip" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2973067" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: papers.ssrn.com">[SSRN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">papers.ssrn.com</span><span class="citation-popover-snippet">Misconceptions, Misinformation, and the Logic of Identity-...by DM Kahan · 2017 · Cited by 582 — Identity protective cognition refer...</span></span></span>
 
 ## Using in-group trust without spreading new myths
 
@@ -384,7 +384,7 @@ Instead of repeatedly restating a myth, communicators can:
 
 </div>
 
-This reduces the risk of increasing familiarity with the myth itself while still correcting it. Research on debunking strategies and misinformation correction has repeatedly examined the benefits of emphasising the factual explanation rather than centring the falsehood. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/359807700_Social_Debunking_of_Misinformation_on_WhatsApp_The_Case_for_Strong_and_In-group_Ties" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Social Debunking of Misinformation on WhatsAppA cross-cultural study in the US, Singapore, and Turkey revealed that users who have greate...</span></span></span>
+This reduces the risk of increasing familiarity with the myth itself while still correcting it. Research on debunking strategies and misinformation correction has repeatedly examined the benefits of emphasising the factual explanation rather than centring the falsehood.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/359807700_Social_Debunking_of_Misinformation_on_WhatsApp_The_Case_for_Strong_and_In-group_Ties" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Social Debunking of Misinformation on WhatsAppA cross-cultural study in the US, Singapore, and Turkey revealed that users who have greate...</span></span></span>
 
 ### Share a journey rather than a verdict
 
@@ -400,11 +400,11 @@ The first message provides a model for changing one's mind without losing status
 
 Large public-health [campaigns]({{ 'campaigns/' | relative_url }}) provide some of the clearest examples of this approach in practice.
 
-During vaccine communication efforts, many organisations found that official statements alone were often insufficient in communities with low institutional trust. Local partnerships with faith leaders, neighbourhood groups, healthcare workers and community advocates became important channels for addressing rumours and fears. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.who.int/news-room/feature-stories/detail/how-to-talk-about-vaccines" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: who.int">[World Health Organization]</a><span class="citation-popover" role="note"><span class="citation-popover-source">who.int</span><span class="citation-popover-title">how to talk about vaccines</span><span class="citation-popover-snippet">Don&#x27;t dismiss them; instead, acknowledge how they&#x27;re feeling and create space...Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8522433/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">by AK Shen · 2021 · Cited by 46 — Vaccine hesitancy is a major health threat that can undermine communities&#x27; ability to attain herd im...</span></span></span>
+During vaccine communication efforts, many organisations found that official statements alone were often insufficient in communities with low institutional trust. Local partnerships with faith leaders, neighbourhood groups, healthcare workers and community advocates became important channels for addressing rumours and fears.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.who.int/news-room/feature-stories/detail/how-to-talk-about-vaccines" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: who.int">[World Health Organization]</a><span class="citation-popover" role="note"><span class="citation-popover-source">who.int</span><span class="citation-popover-title">how to talk about vaccines</span><span class="citation-popover-snippet">Don&#x27;t dismiss them; instead, acknowledge how they&#x27;re feeling and create space...Read more...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8522433/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">by AK Shen · 2021 · Cited by 46 — Vaccine hesitancy is a major health threat that can undermine communities&#x27; ability to attain herd im...</span></span></span>
 
-In Leeds, local authorities reported that understanding community concerns and working through trusted local partners helped address misinformation and mistrust around vaccination. The emphasis was not merely on distributing facts but on identifying messengers who already possessed credibility within specific communities. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.local.gov.uk/case-studies/leeds-importance-messenger-not-just-message" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: local.gov.uk">[Local Government Association]</a><span class="citation-popover" role="note"><span class="citation-popover-source">local.gov.uk</span><span class="citation-popover-title">leeds importance messenger not just message</span><span class="citation-popover-snippet">ernment AssociationThe importance of the messenger, not just the message10 Mar 2022 — Local insight, taken before the first wave...</span></span></span>
+In Leeds, local authorities reported that understanding community concerns and working through trusted local partners helped address misinformation and mistrust around vaccination. The emphasis was not merely on distributing facts but on identifying messengers who already possessed credibility within specific communities.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.local.gov.uk/case-studies/leeds-importance-messenger-not-just-message" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: local.gov.uk">[Local Government Association]</a><span class="citation-popover" role="note"><span class="citation-popover-source">local.gov.uk</span><span class="citation-popover-title">leeds importance messenger not just message</span><span class="citation-popover-snippet">ernment AssociationThe importance of the messenger, not just the message10 Mar 2022 — Local insight, taken before the first wave...</span></span></span>
 
-Similar patterns appeared in community-based outreach efforts described by journalists and public-health organisations. Campaigns often relied on familiar local figures, multilingual communication and testimonials from recognised community members rather than purely institutional messaging. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.newyorker.com/news/letter-from-the-uk/the-fight-against-vaccine-misinformation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newyorker.com">[The New Yorker]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newyorker.com</span><span class="citation-popover-title">The New Yorker The Fight Against Vaccine Misinformation</span><span class="citation-popover-snippet">Vaccine hesitancy, partly fueled by misinformation, poses a significant challenge to achieving herd immunity. Fact-checking organizations...</span></span></span>
+Similar patterns appeared in community-based outreach efforts described by journalists and public-health organisations. Campaigns often relied on familiar local figures, multilingual communication and testimonials from recognised community members rather than purely institutional messaging.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.newyorker.com/news/letter-from-the-uk/the-fight-against-vaccine-misinformation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newyorker.com">[The New Yorker]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newyorker.com</span><span class="citation-popover-title">The New Yorker The Fight Against Vaccine Misinformation</span><span class="citation-popover-snippet">Vaccine hesitancy, partly fueled by misinformation, poses a significant challenge to achieving herd immunity. Fact-checking organizations...</span></span></span>
 
 These examples illustrate an important distinction: trust cannot be manufactured at the moment of crisis. Effective messengers are usually people whose credibility existed before the correction became necessary.
 
@@ -448,13 +448,13 @@ Shared goals reduce the sense that the conversation is a contest between opposin
 
 Sometimes campaigns accidentally strengthen myths by portraying believers as a distinct social group under attack.
 
-When people feel targeted, they may embrace the belief more strongly as a sign of loyalty. Communication efforts that focus on evidence while preserving respect are less likely to create this reaction. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.emc-lab.org/uploads/1/1/3/6/113627673/ecker.2022.nrp_preprint.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: emc-lab.org">[Ecker Memory &amp; Cognition Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">emc-lab.org</span><span class="citation-popover-title">ecker.2022.nrp preprint</span><span class="citation-popover-snippet">Ecker Memory &amp; Cognition Lab1 The Psychological Drivers of Misinformation Belief and its...by UKH Ecker · Cited by 1916 — Such correctio...</span></span></span>
+When people feel targeted, they may embrace the belief more strongly as a sign of loyalty. Communication efforts that focus on evidence while preserving respect are less likely to create this reaction.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.emc-lab.org/uploads/1/1/3/6/113627673/ecker.2022.nrp_preprint.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: emc-lab.org">[Ecker Memory &amp; Cognition Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">emc-lab.org</span><span class="citation-popover-title">ecker.2022.nrp preprint</span><span class="citation-popover-snippet">Ecker Memory &amp; Cognition Lab1 The Psychological Drivers of Misinformation Belief and its...by UKH Ecker · Cited by 1916 — Such correctio...</span></span></span>
 
 ### Build trust before a correction is needed
 
 The strongest corrections often succeed because trust already exists.
 
-Healthcare workers, teachers, local leaders and community organisations that maintain credibility over time have a reservoir of goodwill during moments of confusion or misinformation. Public-health research increasingly emphasises community engagement and relationship-building as foundations for effective responses to false claims rather than relying exclusively on reactive fact-checking after myths spread. ScienceDirect <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8522433/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">by AK Shen · 2021 · Cited by 46 — Vaccine hesitancy is a major health threat that can undermine communities&#x27; ability to attain herd im...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8522433/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">by AK Shen · 2021 · Cited by 46 — Vaccine hesitancy is a major health threat that can undermine communities&#x27; ability to attain herd im...</span></span></span>
+Healthcare workers, teachers, local leaders and community organisations that maintain credibility over time have a reservoir of goodwill during moments of confusion or misinformation. Public-health research increasingly emphasises community engagement and relationship-building as foundations for effective responses to false claims rather than relying exclusively on reactive fact-checking after myths spread. ScienceDirect<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8522433/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">by AK Shen · 2021 · Cited by 46 — Vaccine hesitancy is a major health threat that can undermine communities&#x27; ability to attain herd im...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8522433/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">by AK Shen · 2021 · Cited by 46 — Vaccine hesitancy is a major health threat that can undermine communities&#x27; ability to attain herd im...</span></span></span>
 
 ## The central lesson
 
@@ -463,194 +463,194 @@ Trusted messengers are effective not because they possess magical persuasive pow
 A correction is more likely to succeed when it allows people to keep their dignity, preserve valued relationships and remain part of their community while accepting new information. Facts remain essential, but the route those facts travel often determines whether they are heard. When trusted voices separate respect for people from criticism of a claim, myths can be challenged without making listeners feel personally attacked.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How corrections avoid sounding like attacks. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How corrections avoid sounding like attacks. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mistakes Were Made (but Not by Me) Third Edition on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jmmVxgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Mistakes Were Made (but Not by Me) Third Edition" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mistakes Were Made (but Not by Me) Third Edition">Mistakes Were Made (but Not by Me) Third Edition</a>
-        </h4>
-        <p class="fr-book-author">By Carol Tavris, Elliot Aronson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mistakes Were Made (but Not by Me) Third Edition on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jmmVxgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Mistakes Were Made (but Not by Me) Third Edition" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mistakes Were Made (but Not by Me) Third Edition">Mistakes Were Made (but Not by Me) Third Edition</a>
+</h4>
+<p class="fr-book-author">By Carol Tavris, Elliot Aronson</p>
         
-        <p class="fr-book-desc">Explains defensiveness, self-justification and belief protection.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains defensiveness, self-justification and belief protection.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+Minds+Change+David+McRaney&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How Minds Change on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/11954199-M.jpg" alt="Cover for How Minds Change" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+Minds+Change+David+McRaney&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How Minds Change">How Minds Change</a>
-        </h4>
-        <p class="fr-book-author">By David McRaney</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+Minds+Change+David+McRaney&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How Minds Change on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/11954199-M.jpg" alt="Cover for How Minds Change" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=How+Minds+Change+David+McRaney&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How Minds Change">How Minds Change</a>
+</h4>
+<p class="fr-book-author">By David McRaney</p>
         
-        <p class="fr-book-desc">First published 2019.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+Minds+Change+David+McRaney&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2019.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=How+Minds+Change+David+McRaney&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28But+Not+by+Me%29+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mistakes Were Made (But Not by Me) on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/1119860-M.jpg" alt="Cover for Mistakes Were Made (But Not by Me)" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28But+Not+by+Me%29+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mistakes Were Made (But Not by Me)">Mistakes Were Made (But Not by Me)</a>
-        </h4>
-        <p class="fr-book-author">By Carol Tavris, Elliot Aronson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28But+Not+by+Me%29+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mistakes Were Made (But Not by Me) on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/1119860-M.jpg" alt="Cover for Mistakes Were Made (But Not by Me)" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28But+Not+by+Me%29+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mistakes Were Made (But Not by Me)">Mistakes Were Made (But Not by Me)</a>
+</h4>
+<p class="fr-book-author">By Carol Tavris, Elliot Aronson</p>
         
-        <p class="fr-book-desc">First published 2007. Subjects: Fouten, Vergissingen, Cognitive dissonance, Self-deception, Rechtvaardiging.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28But+Not+by+Me%29+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2007. Subjects: Fouten, Vergissingen, Cognitive dissonance, Self-deception, Rechtvaardiging.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28But+Not+by+Me%29+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Influence+by+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Influence on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Influence+by+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Influence">Influence</a>
-        </h4>
-        <p class="fr-book-author">By Robert B. Cialdini</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Influence+by+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Influence on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Influence+by+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Influence">Influence</a>
+</h4>
+<p class="fr-book-author">By Robert B. Cialdini</p>
         
-        <p class="fr-book-desc">Covers trusted messengers and persuasive communication.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Influence+by+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers trusted messengers and persuasive communication.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Influence+by+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mistakes Were Made (but Not by Me) Third Edition</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+Minds+Change&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How Minds Change</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28But+Not+by+Me%29&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mistakes Were Made (But Not by Me)</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mistakes Were Made (but Not by Me) Third Edition</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=How+Minds+Change&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How Minds Change</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28But+Not+by+Me%29&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mistakes Were Made (But Not by Me)</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trusted-fixes-how-corrections-avoid-sounding-like-attacks-myths-and-misconcept-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="trusted-fixes-how-corrections-avoid-sounding-like-attacks-myths-and-misconcept-critical-thinking-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking 2020 3 Movie Poster Art Print Fan PopCulture Nostalgic PopCult"><img src="{{ '/assets/images/marketplace-covers/0734f05b6a1eeec32948.jpg' | relative_url }}" alt="Listing image for Critical Thinking 2020 3 Movie Poster Art Print Fan PopCulture Nostalgic PopCult" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trusted-fixes-how-corrections-avoid-sounding-like-attacks-myths-and-misconcept-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="trusted-fixes-how-corrections-avoid-sounding-like-attacks-myths-and-misconcept-critical-thinking-poster" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking 2020 3 Movie Poster Art Print Fan PopCulture Nostalgic PopCult</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trusted-fixes-how-corrections-avoid-sounding-like-attacks-myths-and-misconcept-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="trusted-fixes-how-corrections-avoid-sounding-like-attacks-myths-and-misconcept-critical-thinking-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trusted-fixes-how-corrections-avoid-sounding-like-attacks-myths-and-misconcept-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="trusted-fixes-how-corrections-avoid-sounding-like-attacks-myths-and-misconcept-critical-thinking-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trusted-fixes-how-corrections-avoid-sounding-like-attacks-myths-and-misconcept-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="trusted-fixes-how-corrections-avoid-sounding-like-attacks-myths-and-misconcept-critical-thinking-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking 2020 3 Movie Poster Art Print Fan PopCulture Nostalgic PopCult"><img src="{{ '/assets/images/marketplace-covers/0734f05b6a1eeec32948.jpg' | relative_url }}" alt="Listing image for Critical Thinking 2020 3 Movie Poster Art Print Fan PopCulture Nostalgic PopCult" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trusted-fixes-how-corrections-avoid-sounding-like-attacks-myths-and-misconcept-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="trusted-fixes-how-corrections-avoid-sounding-like-attacks-myths-and-misconcept-critical-thinking-poster" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking 2020 3 Movie Poster Art Print Fan PopCulture Nostalgic PopCult</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trusted-fixes-how-corrections-avoid-sounding-like-attacks-myths-and-misconcept-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="trusted-fixes-how-corrections-avoid-sounding-like-attacks-myths-and-misconcept-critical-thinking-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trusted-fixes-how-corrections-avoid-sounding-like-attacks-myths-and-misconcept-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="trusted-fixes-how-corrections-avoid-sounding-like-attacks-myths-and-misconcept-critical-thinking-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trusted-fixes-how-corrections-avoid-sounding-like-attacks-myths-and-misconcept-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="trusted-fixes-how-corrections-avoid-sounding-like-attacks-myths-and-misconcept-critical-thinking-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking Framed Art Print Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/e43d6233dedc62687c14.jpg' | relative_url }}" alt="Listing image for Critical Thinking Framed Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trusted-fixes-how-corrections-avoid-sounding-like-attacks-myths-and-misconcept-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="trusted-fixes-how-corrections-avoid-sounding-like-attacks-myths-and-misconcept-critical-thinking-poster" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking Framed Art Print Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trusted-fixes-how-corrections-avoid-sounding-like-attacks-myths-and-misconcept-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="trusted-fixes-how-corrections-avoid-sounding-like-attacks-myths-and-misconcept-critical-thinking-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trusted-fixes-how-corrections-avoid-sounding-like-attacks-myths-and-misconcept-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="trusted-fixes-how-corrections-avoid-sounding-like-attacks-myths-and-misconcept-critical-thinking-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trusted-fixes-how-corrections-avoid-sounding-like-attacks-myths-and-misconcept-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="trusted-fixes-how-corrections-avoid-sounding-like-attacks-myths-and-misconcept-critical-thinking-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking Framed Art Print Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/e43d6233dedc62687c14.jpg' | relative_url }}" alt="Listing image for Critical Thinking Framed Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trusted-fixes-how-corrections-avoid-sounding-like-attacks-myths-and-misconcept-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="trusted-fixes-how-corrections-avoid-sounding-like-attacks-myths-and-misconcept-critical-thinking-poster" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking Framed Art Print Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trusted-fixes-how-corrections-avoid-sounding-like-attacks-myths-and-misconcept-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="trusted-fixes-how-corrections-avoid-sounding-like-attacks-myths-and-misconcept-critical-thinking-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trusted-fixes-how-corrections-avoid-sounding-like-attacks-myths-and-misconcept-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="trusted-fixes-how-corrections-avoid-sounding-like-attacks-myths-and-misconcept-critical-thinking-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trusted-fixes-how-corrections-avoid-sounding-like-attacks-myths-and-misconcept-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="trusted-fixes-how-corrections-avoid-sounding-like-attacks-myths-and-misconcept-critical-thinking-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking 2020 2 Movie Poster Art Print Display Famous Artwork StudioDec"><img src="{{ '/assets/images/marketplace-covers/2d0303c0f2d17049521c.jpg' | relative_url }}" alt="Listing image for Critical Thinking 2020 2 Movie Poster Art Print Display Famous Artwork StudioDec" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trusted-fixes-how-corrections-avoid-sounding-like-attacks-myths-and-misconcept-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="trusted-fixes-how-corrections-avoid-sounding-like-attacks-myths-and-misconcept-critical-thinking-poster" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking 2020 2 Movie Poster Art Print Display Famous Artwork StudioDec</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trusted-fixes-how-corrections-avoid-sounding-like-attacks-myths-and-misconcept-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="trusted-fixes-how-corrections-avoid-sounding-like-attacks-myths-and-misconcept-critical-thinking-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trusted-fixes-how-corrections-avoid-sounding-like-attacks-myths-and-misconcept-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="trusted-fixes-how-corrections-avoid-sounding-like-attacks-myths-and-misconcept-critical-thinking-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trusted-fixes-how-corrections-avoid-sounding-like-attacks-myths-and-misconcept-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="trusted-fixes-how-corrections-avoid-sounding-like-attacks-myths-and-misconcept-critical-thinking-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking 2020 2 Movie Poster Art Print Display Famous Artwork StudioDec"><img src="{{ '/assets/images/marketplace-covers/2d0303c0f2d17049521c.jpg' | relative_url }}" alt="Listing image for Critical Thinking 2020 2 Movie Poster Art Print Display Famous Artwork StudioDec" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trusted-fixes-how-corrections-avoid-sounding-like-attacks-myths-and-misconcept-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="trusted-fixes-how-corrections-avoid-sounding-like-attacks-myths-and-misconcept-critical-thinking-poster" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking 2020 2 Movie Poster Art Print Display Famous Artwork StudioDec</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trusted-fixes-how-corrections-avoid-sounding-like-attacks-myths-and-misconcept-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="trusted-fixes-how-corrections-avoid-sounding-like-attacks-myths-and-misconcept-critical-thinking-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trusted-fixes-how-corrections-avoid-sounding-like-attacks-myths-and-misconcept-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="trusted-fixes-how-corrections-avoid-sounding-like-attacks-myths-and-misconcept-critical-thinking-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trusted-fixes-how-corrections-avoid-sounding-like-attacks-myths-and-misconcept-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="trusted-fixes-how-corrections-avoid-sounding-like-attacks-myths-and-misconcept-critical-thinking-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Manic Street Preachers Signed Photo Framed &amp; COA Auto Critical Thinking Poster"><img src="{{ '/assets/images/marketplace-covers/f53b5ef9808c94d6a4f1.jpg' | relative_url }}" alt="Listing image for Manic Street Preachers Signed Photo Framed &amp; COA Auto Critical Thinking Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trusted-fixes-how-corrections-avoid-sounding-like-attacks-myths-and-misconcept-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="trusted-fixes-how-corrections-avoid-sounding-like-attacks-myths-and-misconcept-critical-thinking-poster" target="_blank" rel="sponsored noopener noreferrer">Manic Street Preachers Signed Photo Framed &amp; COA Auto Critical Thinking Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trusted-fixes-how-corrections-avoid-sounding-like-attacks-myths-and-misconcept-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="trusted-fixes-how-corrections-avoid-sounding-like-attacks-myths-and-misconcept-critical-thinking-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trusted-fixes-how-corrections-avoid-sounding-like-attacks-myths-and-misconcept-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="trusted-fixes-how-corrections-avoid-sounding-like-attacks-myths-and-misconcept-critical-thinking-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trusted-fixes-how-corrections-avoid-sounding-like-attacks-myths-and-misconcept-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="trusted-fixes-how-corrections-avoid-sounding-like-attacks-myths-and-misconcept-critical-thinking-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trusted-fixes-how-corrections-avoid-sounding-like-attacks-myths-and-misconcept-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="trusted-fixes-how-corrections-avoid-sounding-like-attacks-myths-and-misconcept-critical-thinking-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Manic Street Preachers Signed Photo Framed &amp; COA Auto Critical Thinking Poster"><img src="{{ '/assets/images/marketplace-covers/f53b5ef9808c94d6a4f1.jpg' | relative_url }}" alt="Listing image for Manic Street Preachers Signed Photo Framed &amp; COA Auto Critical Thinking Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trusted-fixes-how-corrections-avoid-sounding-like-attacks-myths-and-misconcept-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="trusted-fixes-how-corrections-avoid-sounding-like-attacks-myths-and-misconcept-critical-thinking-poster" target="_blank" rel="sponsored noopener noreferrer">Manic Street Preachers Signed Photo Framed &amp; COA Auto Critical Thinking Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trusted-fixes-how-corrections-avoid-sounding-like-attacks-myths-and-misconcept-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="trusted-fixes-how-corrections-avoid-sounding-like-attacks-myths-and-misconcept-critical-thinking-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trusted-fixes-how-corrections-avoid-sounding-like-attacks-myths-and-misconcept-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="trusted-fixes-how-corrections-avoid-sounding-like-attacks-myths-and-misconcept-critical-thinking-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=trusted-fixes-how-corrections-avoid-sounding-like-attacks-myths-and-misconcept-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="trusted-fixes-how-corrections-avoid-sounding-like-attacks-myths-and-misconcept-critical-thinking-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -666,7 +666,7 @@ A correction is more likely to succeed when it allows people to keep their digni
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -686,7 +686,7 @@ A correction is more likely to succeed when it allows people to keep their digni
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -718,7 +718,7 @@ A correction is more likely to succeed when it allows people to keep their digni
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -770,7 +770,7 @@ A correction is more likely to succeed when it allows people to keep their digni
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -815,7 +815,7 @@ A correction is more likely to succeed when it allows people to keep their digni
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -856,154 +856,154 @@ A correction is more likely to succeed when it allows people to keep their digni
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: papers.ssrn.com  
-   Link: <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2973067" target="_blank" rel="noopener noreferrer nofollow">https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2973067</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Misconceptions, Misinformation, and the Logic of Identity-...by DM Kahan · 2017 · Cited by 582 — Identity protective cognition refer...</p></details>
+   Link:<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2973067" target="_blank" rel="noopener noreferrer nofollow">https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2973067</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Misconceptions, Misinformation, and the Logic of Identity-...by DM Kahan · 2017 · Cited by 582 — Identity protective cognition refer...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9283209/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9283209/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The backfire effect after correcting misinformation is strongly...by B Swire-Thompson · 2022 · Cited by 111 — The backfire effect is...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9283209/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9283209/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The backfire effect after correcting misinformation is strongly...by B Swire-Thompson · 2022 · Cited by 111 — The backfire effect is...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: who.int  
    Title: how to talk about [vaccines](&#123;&#123; 'vaccines/' | relative_url &#125;&#125;)  
-   Link: <a href="https://www.who.int/news-room/feature-stories/detail/how-to-talk-about-vaccines" target="_blank" rel="noopener noreferrer nofollow">https://www.who.int/news-room/feature-stories/detail/how-to-talk-about-vaccines</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Don&#x27;t dismiss them; instead, acknowledge how they&#x27;re feeling and create space...Read more...</p></details>
+   Link:<a href="https://www.who.int/news-room/feature-stories/detail/how-to-talk-about-vaccines" target="_blank" rel="noopener noreferrer nofollow">https://www.who.int/news-room/feature-stories/detail/how-to-talk-about-vaccines</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Don&#x27;t dismiss them; instead, acknowledge how they&#x27;re feeling and create space...Read more...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: who.int  
-   Link: <a href="https://www.who.int/teams/regulation-prequalification/regulation-and-safety/pharmacovigilance/guidance/operations/communication" target="_blank" rel="noopener noreferrer nofollow">https://www.who.int/teams/regulation-prequalification/regulation-and-safety/pharmacovigilance/guidance/operations/communication</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Vaccine safety communicationVaccine safety is a concern that continues to drive hesitancy and refusal in populations in low-and-middle in...</p></details>
+   Link:<a href="https://www.who.int/teams/regulation-prequalification/regulation-and-safety/pharmacovigilance/guidance/operations/communication" target="_blank" rel="noopener noreferrer nofollow">https://www.who.int/teams/regulation-prequalification/regulation-and-safety/pharmacovigilance/guidance/operations/communication</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Vaccine safety communicationVaccine safety is a concern that continues to drive hesitancy and refusal in populations in low-and-middle in...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/359807700_Social_Debunking_of_Misinformation_on_WhatsApp_The_Case_for_Strong_and_In-group_Ties" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/359807700_Social_Debunking_of_Misinformation_on_WhatsApp_The_Case_for_Strong_and_In-group_Ties</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Social Debunking of Misinformation on WhatsAppA cross-cultural study in the US, Singapore, and Turkey revealed that users who have greate...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/359807700_Social_Debunking_of_Misinformation_on_WhatsApp_The_Case_for_Strong_and_In-group_Ties" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/359807700_Social_Debunking_of_Misinformation_on_WhatsApp_The_Case_for_Strong_and_In-group_Ties</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Social Debunking of Misinformation on WhatsAppA cross-cultural study in the US, Singapore, and Turkey revealed that users who have greate...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8522433/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8522433/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>by AK Shen · 2021 · Cited by 46 — Vaccine hesitancy is a major health threat that can undermine communities&#x27; ability to attain herd im...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8522433/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8522433/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by AK Shen · 2021 · Cited by 46 — Vaccine hesitancy is a major health threat that can undermine communities&#x27; ability to attain herd im...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: who.int  
-   Link: <a href="https://www.who.int/europe/news/item/09-12-2024-trusted-messengers--community-anchors-and-agents-of-change--engaging-health-and-care-workers-in-times-of-crisis" target="_blank" rel="noopener noreferrer nofollow">https://www.who.int/europe/news/item/09-12-2024-trusted-messengers--community-anchors-and-agents-of-change--engaging-health-and-care-workers-in-times-of-crisis</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>World Health OrganizationTrusted messengers, community anchors and agents of...9 Dec 2024 — The COVID-19 pandemic underscored the necess...</p></details>
+   Link:<a href="https://www.who.int/europe/news/item/09-12-2024-trusted-messengers--community-anchors-and-agents-of-change--engaging-health-and-care-workers-in-times-of-crisis" target="_blank" rel="noopener noreferrer nofollow">https://www.who.int/europe/news/item/09-12-2024-trusted-messengers--community-anchors-and-agents-of-change--engaging-health-and-care-workers-in-times-of-crisis</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>World Health OrganizationTrusted messengers, community anchors and agents of...9 Dec 2024 — The COVID-19 pandemic underscored the necess...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/317603082_Misinformation_and_its_Correction_Cognitive_Mechanisms_and_Recommendations_for_Mass_Communication" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/317603082_Misinformation_and_its_Correction_Cognitive_Mechanisms_and_Recommendations_for_Mass_Communication</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Misinformation and its Correction: Cognitive Mechanisms...December 31, 2018 — Based on this notion, one recommendation to “m...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/317603082_Misinformation_and_its_Correction_Cognitive_Mechanisms_and_Recommendations_for_Mass_Communication" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/317603082_Misinformation_and_its_Correction_Cognitive_Mechanisms_and_Recommendations_for_Mass_Communication</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Misinformation and its Correction: Cognitive Mechanisms...December 31, 2018 — Based on this notion, one recommendation to “m...</p></details>
    Published: December 31, 2018  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12184151/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12184151/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Building trust and equity in vaccine communication through...by T Sommers · 2025 · Cited by 22 — Community engagement (CE) strategies...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12184151/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12184151/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Building trust and equity in vaccine communication through...by T Sommers · 2025 · Cited by 22 — Community engagement (CE) strategies...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: Tackling disinformation and misinformation.Read more  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12872406/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12872406/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Effective communication and public engagement strategies to...by S Cruickshank · 2025 — The 5 Cs to tackle declining vaccine uptake...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12872406/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12872406/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Effective communication and public engagement strategies to...by S Cruickshank · 2025 — The 5 Cs to tackle declining vaccine uptake...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0264410X25007716" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0264410X25007716</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>3.3.5. Challenge: bandwidth and...Read more...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/pii/S0264410X25007716" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0264410X25007716</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>3.3.5. Challenge: bandwidth and...Read more...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: who.int  
    Title: policy brief covid 19 rcce  
-   Link: <a href="https://www.who.int/docs/default-source/coronaviruse/policy-briefs/policy-brief_covid-19_rcce.pdf?download=true&amp;sfvrsn=ada67c54_4" target="_blank" rel="noopener noreferrer nofollow">https://www.who.int/docs/default-source/coronaviruse/policy-briefs/policy-brief_covid-19_rcce.pdf?download=true&amp;sfvrsn=ada67c54_4</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Building trust through risk communication and community...WHO Policy Brief: Building trust through risk communication and community enga...</p></details>
+   Link:<a href="https://www.who.int/docs/default-source/coronaviruse/policy-briefs/policy-brief_covid-19_rcce.pdf?download=true&amp;sfvrsn=ada67c54_4" target="_blank" rel="noopener noreferrer nofollow">https://www.who.int/docs/default-source/coronaviruse/policy-briefs/policy-brief_covid-19_rcce.pdf?download=true&amp;sfvrsn=ada67c54_4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Building trust through risk communication and community...WHO Policy Brief: Building trust through risk communication and community enga...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0268401224000288" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0268401224000288</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Social media trust: Fighting misinformation in the time of crisisby M Shahbazi · 2024 · Cited by 198 — This research looks at the utilisa...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/pii/S0268401224000288" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0268401224000288</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Social media trust: Fighting misinformation in the time of crisisby M Shahbazi · 2024 · Cited by 198 — This research looks at the utilisa...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: informalscience.org  
-   Link: <a href="https://informalscience.org/identity/dan-kahan/" target="_blank" rel="noopener noreferrer nofollow">https://informalscience.org/identity/dan-kahan/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Identity | Dan KahanDan Kahan&#x27;s identity-related work has focused on “identity protective cognition”, which refers to the tendency of ind...</p></details>
+   Link:<a href="https://informalscience.org/identity/dan-kahan/" target="_blank" rel="noopener noreferrer nofollow">https://informalscience.org/identity/dan-kahan/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Identity | Dan KahanDan Kahan&#x27;s identity-related work has focused on “identity protective cognition”, which refers to the tendency of ind...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: emc-lab.org  
    Title: ecker.2022.nrp preprint  
-   Link: <a href="https://www.emc-lab.org/uploads/1/1/3/6/113627673/ecker.2022.nrp_preprint.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.emc-lab.org/uploads/1/1/3/6/113627673/ecker.2022.nrp_preprint.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ecker [Memory](&amp;#123;&amp;#123; &#x27;memory/&#x27; | relative_url &amp;#125;&amp;#125;) &amp; Cognition Lab1 The Psychological Drivers of Misinformation Belief and its...by UKH Ecker · Cited by 1916 — Such correctio...</p></details>
+   Link:<a href="https://www.emc-lab.org/uploads/1/1/3/6/113627673/ecker.2022.nrp_preprint.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.emc-lab.org/uploads/1/1/3/6/113627673/ecker.2022.nrp_preprint.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ecker [Memory](&amp;#123;&amp;#123; &#x27;memory/&#x27; | relative_url &amp;#125;&amp;#125;) &amp; Cognition Lab1 The Psychological Drivers of Misinformation Belief and its...by UKH Ecker · Cited by 1916 — Such correctio...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: dspace.mit.edu  
-   Link: <a href="https://dspace.mit.edu/bitstream/handle/1721.1/146161/3512964.pdf" target="_blank" rel="noopener noreferrer nofollow">https://dspace.mit.edu/bitstream/handle/1721.1/146161/3512964.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Social Debunking of Misinformation on WhatsAppby I Pasquetto · 2022 · Cited by 87 — Our research design enables us to examine wheth...</p></details>
+   Link:<a href="https://dspace.mit.edu/bitstream/handle/1721.1/146161/3512964.pdf" target="_blank" rel="noopener noreferrer nofollow">https://dspace.mit.edu/bitstream/handle/1721.1/146161/3512964.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Social Debunking of Misinformation on WhatsAppby I Pasquetto · 2022 · Cited by 87 — Our research design enables us to examine wheth...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: local.gov.uk  
    Title: leeds importance messenger not just message  
-   Link: <a href="https://www.local.gov.uk/case-studies/leeds-importance-messenger-not-just-message" target="_blank" rel="noopener noreferrer nofollow">https://www.local.gov.uk/case-studies/leeds-importance-messenger-not-just-message</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ernment AssociationThe importance of the messenger, not just the message10 Mar 2022 — Local insight, taken before the first wave...</p></details>
+   Link:<a href="https://www.local.gov.uk/case-studies/leeds-importance-messenger-not-just-message" target="_blank" rel="noopener noreferrer nofollow">https://www.local.gov.uk/case-studies/leeds-importance-messenger-not-just-message</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ernment AssociationThe importance of the messenger, not just the message10 Mar 2022 — Local insight, taken before the first wave...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: newyorker.com  
    Title: The New Yorker The Fight Against Vaccine Misinformation  
-   Link: <a href="https://www.newyorker.com/news/letter-from-the-uk/the-fight-against-vaccine-misinformation" target="_blank" rel="noopener noreferrer nofollow">https://www.newyorker.com/news/letter-from-the-uk/the-fight-against-vaccine-misinformation</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Vaccine hesitancy, partly fueled by misinformation, poses a significant challenge to achieving herd immunity. Fact-checking organizations...</p></details>
+   Link:<a href="https://www.newyorker.com/news/letter-from-the-uk/the-fight-against-vaccine-misinformation" target="_blank" rel="noopener noreferrer nofollow">https://www.newyorker.com/news/letter-from-the-uk/the-fight-against-vaccine-misinformation</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Vaccine hesitancy, partly fueled by misinformation, poses a significant challenge to achieving herd immunity. Fact-checking organizations...</p></details>
 
 ### Additional References
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: asc.upenn.edu  
-   Link: <a href="https://www.asc.upenn.edu/news-events/news/research-identifies-factors-make-correcting-misinformation-about-science-more-successful" target="_blank" rel="noopener noreferrer nofollow">https://www.asc.upenn.edu/news-events/news/research-identifies-factors-make-correcting-misinformation-about-science-more-successful</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Identifies Factors That Make Correcting...20 Jun 2023 — A new study from PIK Professor Dolores Albarracín and Research Associate Man-pui...</p></details>
+   Link:<a href="https://www.asc.upenn.edu/news-events/news/research-identifies-factors-make-correcting-misinformation-about-science-more-successful" target="_blank" rel="noopener noreferrer nofollow">https://www.asc.upenn.edu/news-events/news/research-identifies-factors-make-correcting-misinformation-about-science-more-successful</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Identifies Factors That Make Correcting...20 Jun 2023 — A new study from PIK Professor Dolores Albarracín and Research Associate Man-pui...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: eprints.icstudies.org.uk  
-   Link: <a href="https://eprints.icstudies.org.uk/269/5/VACCINE%20HESITANCY%20V5a%20amended%20title.pdf" target="_blank" rel="noopener noreferrer nofollow">https://eprints.icstudies.org.uk/269/5/VACCINE%20HESITANCY%20V5a%20amended%20title.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;community engagement remains an underutilised approach&#x27; in the context of vaccine hesitancy and consequently...Read more...</p></details>
+   Link:<a href="https://eprints.icstudies.org.uk/269/5/VACCINE%20HESITANCY%20V5a%20amended%20title.pdf" target="_blank" rel="noopener noreferrer nofollow">https://eprints.icstudies.org.uk/269/5/VACCINE%20HESITANCY%20V5a%20amended%20title.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;community engagement remains an underutilised approach&#x27; in the context of vaccine hesitancy and consequently...Read more...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9829031/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9829031/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>by HS Whitehead · 2023 · Cited by 154 — This review identifies some promising communication strategies for addressing vaccine misinfor...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9829031/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9829031/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by HS Whitehead · 2023 · Cited by 154 — This review identifies some promising communication strategies for addressing vaccine misinfor...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: cidob.org  
-   Link: <a href="https://www.cidob.org/sites/default/files/2025-10/REGROUP%20focus%20paper%20no.%208.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cidob.org/sites/default/files/2025-10/REGROUP%20focus%20paper%20no.%208.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ly a cognitive processing problem but is deeply tied to emotional manipulation, social identity...Read more...</p></details>
+   Link:<a href="https://www.cidob.org/sites/default/files/2025-10/REGROUP%20focus%20paper%20no.%208.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cidob.org/sites/default/files/2025-10/REGROUP%20focus%20paper%20no.%208.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ly a cognitive processing problem but is deeply tied to emotional manipulation, social identity...Read more...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: carnegieendowment.org  
    Title: countering disinformation effectively an evidence based policy guide  
-   Link: <a href="https://carnegieendowment.org/russia-eurasia/research/2024/01/countering-disinformation-effectively-an-evidence-based-policy-guide" target="_blank" rel="noopener noreferrer nofollow">https://carnegieendowment.org/russia-eurasia/research/2024/01/countering-disinformation-effectively-an-evidence-based-policy-guide</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Countering Disinformation Effectively: An Evidence-Based...31 Jan 2024 — A high-level, evidence-informed guide to some of the major prop...</p></details>
+   Link:<a href="https://carnegieendowment.org/russia-eurasia/research/2024/01/countering-disinformation-effectively-an-evidence-based-policy-guide" target="_blank" rel="noopener noreferrer nofollow">https://carnegieendowment.org/russia-eurasia/research/2024/01/countering-disinformation-effectively-an-evidence-based-policy-guide</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Countering Disinformation Effectively: An Evidence-Based...31 Jan 2024 — A high-level, evidence-informed guide to some of the major prop...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: frontiersin.org  
-   Link: <a href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2020.01755/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2020.01755/full</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Human Cognition Through the Lens of Social Engineering...by R Montañez · 2020 · Cited by 188 — In this paper, we review human cognition...</p></details>
+   Link:<a href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2020.01755/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2020.01755/full</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Human Cognition Through the Lens of Social Engineering...by R Montañez · 2020 · Cited by 188 — In this paper, we review human cognition...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: scispace.com  
-   Link: <a href="https://scispace.com/pdf/misconceptions-misinformation-and-the-logic-of-identity-mpc3ka7t6o.pdf" target="_blank" rel="noopener noreferrer nofollow">https://scispace.com/pdf/misconceptions-misinformation-and-the-logic-of-identity-mpc3ka7t6o.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>individuals to selectively credit and dismiss evi- dence in patterns that reflect the...Read more...</p></details>
+   Link:<a href="https://scispace.com/pdf/misconceptions-misinformation-and-the-logic-of-identity-mpc3ka7t6o.pdf" target="_blank" rel="noopener noreferrer nofollow">https://scispace.com/pdf/misconceptions-misinformation-and-the-logic-of-identity-mpc3ka7t6o.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>individuals to selectively credit and dismiss evi- dence in patterns that reflect the...Read more...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: Tech Policy Press  
    Title: why people believe misinformation and resist correction  
-   Link: <a href="https://techpolicy.press/why-people-believe-misinformation-and-resist-correction" target="_blank" rel="noopener noreferrer nofollow">https://techpolicy.press/why-people-believe-misinformation-and-resist-correction</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>14 Jan 2022 — The authors suggest broader interventions to strengthen trust may yield results in the fight against misinformation.Read more...</p></details>
+   Link:<a href="https://techpolicy.press/why-people-believe-misinformation-and-resist-correction" target="_blank" rel="noopener noreferrer nofollow">https://techpolicy.press/why-people-believe-misinformation-and-resist-correction</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>14 Jan 2022 — The authors suggest broader interventions to strengthen trust may yield results in the fight against misinformation.Read more...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: cochrane.org  
    Title: role trusted evidence fighting vaccine disinformation  
-   Link: <a href="https://www.cochrane.org/about-us/news/role-trusted-evidence-fighting-vaccine-disinformation" target="_blank" rel="noopener noreferrer nofollow">https://www.cochrane.org/about-us/news/role-trusted-evidence-fighting-vaccine-disinformation</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The role of trusted evidence in fighting vaccine disinformation16 Oct 2025 — The speakers highlighted how disinformation deliberately sow...</p></details>
+   Link:<a href="https://www.cochrane.org/about-us/news/role-trusted-evidence-fighting-vaccine-disinformation" target="_blank" rel="noopener noreferrer nofollow">https://www.cochrane.org/about-us/news/role-trusted-evidence-fighting-vaccine-disinformation</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The role of trusted evidence in fighting vaccine disinformation16 Oct 2025 — The speakers highlighted how disinformation deliberately sow...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=E4Rkf_JWbG4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=E4Rkf_JWbG4</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Do Autistic People Feel Empathy? Debunking Research Myths with Critical Thinking Tools...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=E4Rkf_JWbG4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=E4Rkf_JWbG4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Do Autistic People Feel Empathy? Debunking Research Myths with Critical Thinking Tools...</p></details>

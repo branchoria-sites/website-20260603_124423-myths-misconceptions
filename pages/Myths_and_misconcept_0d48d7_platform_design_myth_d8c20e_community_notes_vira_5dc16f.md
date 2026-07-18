@@ -277,23 +277,23 @@ image: /assets/images/Myths_and_misconcept_0d48d7_platform_design_myth_d8c20e_co
 Community Notes are one of the most prominent attempts to slow the spread of myths and misconceptions without relying entirely on professional moderators or direct content removal. Instead of a platform declaring that a claim is false, contributors propose contextual notes and other contributors evaluate whether those notes are helpful. The approach is designed to make [correction]({{ 'correction/' | relative_url }}) more transparent, less top-down and more accountable to public scrutiny.
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_platform_design_myth_d8c20e_community_notes_vira_5dc16f-Illustration-1-dark.svg" | relative_url }}" alt="Community Notes illustration 1" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_platform_design_myth_d8c20e_community_notes_vira_5dc16f-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_platform_design_myth_d8c20e_community_notes_vira_5dc16f-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-The central question is not whether Community Notes can work at all. Increasingly, research suggests that visible notes can reduce engagement with misleading content and encourage some users to retract or delete inaccurate posts. The harder question is whether crowd-based [corrections]({{ 'corrections/' | relative_url }}) can move quickly enough when a myth is spreading at viral speed. Evidence suggests that the greatest weakness of these systems is often not accuracy but [timing]({{ 'timing/' | relative_url }}): a correction that appears after millions of views may arrive too late to stop the most important phase of diffusion. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41467-026-72597-0" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Community-based fact-checking reduces the spread of...by Y Chuai · 2026 · Cited by 1 — Here, we perform a large-scale empirical st...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2404.02803" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Open source on arxiv.org.</span></span></span>
+The central question is not whether Community Notes can work at all. Increasingly, research suggests that visible notes can reduce engagement with misleading content and encourage some users to retract or delete inaccurate posts. The harder question is whether crowd-based [corrections]({{ 'corrections/' | relative_url }}) can move quickly enough when a myth is spreading at viral speed. Evidence suggests that the greatest weakness of these systems is often not accuracy but [timing]({{ 'timing/' | relative_url }}): a correction that appears after millions of views may arrive too late to stop the most important phase of diffusion.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41467-026-72597-0" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Community-based fact-checking reduces the spread of...by Y Chuai · 2026 · Cited by 1 — Here, we perform a large-scale empirical st...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2404.02803" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Open source on arxiv.org.</span></span></span>
 
 ## Can Crowds Catch Viral Misinformation Fast Enough?
 
-Community Notes emerged from the idea that misinformation correction should not depend entirely on a central authority. On X, contributors can write notes explaining why a post may be misleading and provide supporting evidence. Other contributors then rate those notes. Only notes that satisfy specific helpfulness criteria become visible to the wider public. <span class="citation-chip-wrap"><a class="citation-chip" href="https://communitynotes.x.com/guide/en/about/introduction" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: communitynotes.x.com">[X (formerly Twitter]</a><span class="citation-popover" role="note"><span class="citation-popover-source">communitynotes.x.com</span><span class="citation-popover-snippet">X (formerly Twitter)Community NotesCommunity Notes aims to create a better-informed world, by empowering people on X to collaboratively a...</span></span></span>
+Community Notes emerged from the idea that misinformation correction should not depend entirely on a central authority. On X, contributors can write notes explaining why a post may be misleading and provide supporting evidence. Other contributors then rate those notes. Only notes that satisfy specific helpfulness criteria become visible to the wider public.<span class="citation-chip-wrap"><a class="citation-chip" href="https://communitynotes.x.com/guide/en/about/introduction" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: communitynotes.x.com">[X (formerly Twitter]</a><span class="citation-popover" role="note"><span class="citation-popover-source">communitynotes.x.com</span><span class="citation-popover-snippet">X (formerly Twitter)Community NotesCommunity Notes aims to create a better-informed world, by empowering people on X to collaboratively a...</span></span></span>
 
-This design reflects a governance choice. Rather than asking users to trust a platform's moderation team, it asks them to trust a process in which many participants can inspect, challenge and improve corrections. Supporters argue that this reduces accusations of partisan censorship and creates a more publicly accountable form of fact-checking. Research has also found that contextual notes can increase trust in fact-checking and improve users' ability to identify misleading content. <span class="citation-chip-wrap"><a class="citation-chip" href="https://academic.oup.com/pnasnexus/article/3/7/pgae217/7686087" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academic.oup.com">[OUP Academic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academic.oup.com</span><span class="citation-popover-snippet">In sum, our work implies that context matters in fact-checking and that community notes...Read more...</span></span></span>
+This design reflects a governance choice. Rather than asking users to trust a platform's moderation team, it asks them to trust a process in which many participants can inspect, challenge and improve corrections. Supporters argue that this reduces accusations of partisan censorship and creates a more publicly accountable form of fact-checking. Research has also found that contextual notes can increase trust in fact-checking and improve users' ability to identify misleading content.<span class="citation-chip-wrap"><a class="citation-chip" href="https://academic.oup.com/pnasnexus/article/3/7/pgae217/7686087" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academic.oup.com">[OUP Academic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academic.oup.com</span><span class="citation-popover-snippet">In sum, our work implies that context matters in fact-checking and that community notes...Read more...</span></span></span>
 
-The difficulty is that myths often spread fastest in their earliest hours. A rumour, fabricated image or misleading claim can gain enormous reach before a note has been written, rated and approved. By the time contextual information appears, the post may already have reached much of its eventual audience. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2404.02803" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://dl.acm.org/doi/10.1145/3686967" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dl.acm.org">[ACM]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dl.acm.org</span><span class="citation-popover-snippet">ACM Digital LibraryDid the Roll-Out of Community Notes Reduce Engagement...8 Nov 2024 — This temporal mismatch suggests notes are displa...</span></span></span>
+The difficulty is that myths often spread fastest in their earliest hours. A rumour, fabricated image or misleading claim can gain enormous reach before a note has been written, rated and approved. By the time contextual information appears, the post may already have reached much of its eventual audience.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2404.02803" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://dl.acm.org/doi/10.1145/3686967" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dl.acm.org">[ACM]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dl.acm.org</span><span class="citation-popover-snippet">ACM Digital LibraryDid the Roll-Out of Community Notes Reduce Engagement...8 Nov 2024 — This temporal mismatch suggests notes are displa...</span></span></span>
 
 ## How Cross-Viewpoint Note Systems Work
 
-A distinctive feature of Community Notes is its use of what is often called a "bridging" approach. Notes do not become public simply because a majority likes them. Instead, they must be rated as helpful by contributors who have historically disagreed on other issues. The goal is to reward explanations that persuade across viewpoint groups rather than only within ideological camps. <span class="citation-chip-wrap"><a class="citation-chip" href="https://communitynotes.x.com/guide/en/about/introduction" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: communitynotes.x.com">[X (formerly Twitter]</a><span class="citation-popover" role="note"><span class="citation-popover-source">communitynotes.x.com</span><span class="citation-popover-snippet">X (formerly Twitter)Community NotesCommunity Notes aims to create a better-informed world, by empowering people on X to collaboratively a...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.washingtonpost.com/technology/2025/08/04/meta-fact-check-community-notes-test-facebook-instagram/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: washingtonpost.com">[The Washington Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">washingtonpost.com</span><span class="citation-popover-title">The Washington Post Zuckerberg fired the fact-checkers</span><span class="citation-popover-snippet">We tested their replacement.In 2025, Meta replaced its professional fact-checkers on Facebook, Instagram, and Threads with a “community n...</span></span></span>
+A distinctive feature of Community Notes is its use of what is often called a "bridging" approach. Notes do not become public simply because a majority likes them. Instead, they must be rated as helpful by contributors who have historically disagreed on other issues. The goal is to reward explanations that persuade across viewpoint groups rather than only within ideological camps.<span class="citation-chip-wrap"><a class="citation-chip" href="https://communitynotes.x.com/guide/en/about/introduction" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: communitynotes.x.com">[X (formerly Twitter]</a><span class="citation-popover" role="note"><span class="citation-popover-source">communitynotes.x.com</span><span class="citation-popover-snippet">X (formerly Twitter)Community NotesCommunity Notes aims to create a better-informed world, by empowering people on X to collaboratively a...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.washingtonpost.com/technology/2025/08/04/meta-fact-check-community-notes-test-facebook-instagram/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: washingtonpost.com">[The Washington Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">washingtonpost.com</span><span class="citation-popover-title">The Washington Post Zuckerberg fired the fact-checkers</span><span class="citation-popover-snippet">We tested their replacement.In 2025, Meta replaced its professional fact-checkers on Facebook, Instagram, and Threads with a “community n...</span></span></span>
 
-From a governance perspective, this solves a real problem. Many moderation systems are criticised because one side believes the moderators are politically biased. A cross-viewpoint mechanism attempts to identify notes that attract support from people who normally disagree, creating a signal that the note provides broadly useful context rather than partisan argument. <span class="citation-chip-wrap"><a class="citation-chip" href="https://communitynotes.x.com/guide/en/about/introduction" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: communitynotes.x.com">[X (formerly Twitter]</a><span class="citation-popover" role="note"><span class="citation-popover-source">communitynotes.x.com</span><span class="citation-popover-snippet">X (formerly Twitter)Community NotesCommunity Notes aims to create a better-informed world, by empowering people on X to collaboratively a...</span></span></span>
+From a governance perspective, this solves a real problem. Many moderation systems are criticised because one side believes the moderators are politically biased. A cross-viewpoint mechanism attempts to identify notes that attract support from people who normally disagree, creating a signal that the note provides broadly useful context rather than partisan argument.<span class="citation-chip-wrap"><a class="citation-chip" href="https://communitynotes.x.com/guide/en/about/introduction" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: communitynotes.x.com">[X (formerly Twitter]</a><span class="citation-popover" role="note"><span class="citation-popover-source">communitynotes.x.com</span><span class="citation-popover-snippet">X (formerly Twitter)Community NotesCommunity Notes aims to create a better-informed world, by empowering people on X to collaboratively a...</span></span></span>
 
-The trade-off is speed. Requiring agreement across different contributor groups means the threshold for publication is intentionally demanding. That may improve legitimacy, but it also slows correction. Topics with broad factual consensus can often gain visible notes relatively quickly. Highly polarised claims, however, may struggle to achieve the agreement needed for publication, even when many contributors believe context is necessary. <span class="citation-chip-wrap"><a class="citation-chip" href="https://fortune.com/2025/07/10/more-than-90-x-community-notes-are-never-published-stuck-limbo-study/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fortune.com">[Fortune]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fortune.com</span><span class="citation-popover-title">more than 90 x community notes are never published stuck limbo study</span><span class="citation-popover-snippet">More than 90% of X&#x27;s Community Notes are never...Jul 10, 2025 — Studies have shown Community Notes can work to dispel some falseh...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.businessinsider.com/meta-community-notes-twitter-zuckerberg-musk-how-do-they-work-2025-1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: businessinsider.com">[Business Insider]</a><span class="citation-popover" role="note"><span class="citation-popover-source">businessinsider.com</span><span class="citation-popover-snippet">Here&#x27;s how they work — and how they don&#x27;t.Mark Zuckerberg announced that Meta would implement &quot;community notes&quot; inspired by a simil...</span></span></span>
+The trade-off is speed. Requiring agreement across different contributor groups means the threshold for publication is intentionally demanding. That may improve legitimacy, but it also slows correction. Topics with broad factual consensus can often gain visible notes relatively quickly. Highly polarised claims, however, may struggle to achieve the agreement needed for publication, even when many contributors believe context is necessary.<span class="citation-chip-wrap"><a class="citation-chip" href="https://fortune.com/2025/07/10/more-than-90-x-community-notes-are-never-published-stuck-limbo-study/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fortune.com">[Fortune]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fortune.com</span><span class="citation-popover-title">more than 90 x community notes are never published stuck limbo study</span><span class="citation-popover-snippet">More than 90% of X&#x27;s Community Notes are never...Jul 10, 2025 — Studies have shown Community Notes can work to dispel some falseh...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.businessinsider.com/meta-community-notes-twitter-zuckerberg-musk-how-do-they-work" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: businessinsider.com">[Business Insider]</a><span class="citation-popover" role="note"><span class="citation-popover-source">businessinsider.com</span><span class="citation-popover-snippet">Here&#x27;s how they work — and how they don&#x27;t.Mark Zuckerberg announced that Meta would implement &quot;community notes&quot; inspired by a simil...</span></span></span>
 
 This tension lies at the heart of Community Notes: the very feature designed to increase trust can also reduce responsiveness during fast-moving misinformation events.
 
@@ -301,231 +301,231 @@ This tension lies at the heart of Community Notes: the very feature designed to 
 
 The strongest recent evidence suggests that Community Notes can substantially reduce engagement once they become visible.
 
-Large-scale studies examining hundreds of thousands of fact-checked posts on X found significant reductions in the subsequent spread of misleading content after notes appeared. One study estimated that visible notes reduced reposting by roughly 60% and substantially increased the likelihood that authors deleted misleading posts. <span class="citation-chip-wrap"><a class="citation-chip" href="https://osf.io/preprints/osf/3a4fe" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: osf.io">[OSF]</a><span class="citation-popover" role="note"><span class="citation-popover-source">osf.io</span><span class="citation-popover-snippet">Community notes reduce the spread of misleading posts on Xby Y Chuai · Cited by 17 — We found that exposing users to community notes r...</span></span></span> Nature A separate analysis found that attaching notes led to sizeable declines in reposts <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41467-026-72597-0" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[nature.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Community-based fact-checking reduces the spread of...by Y Chuai · 2026 · Cited by 1 — Here, we perform a large-scale empirical st...</span></span></span>, likes, replies and views. Researchers also observed changes in how information travelled through networks, with corrected posts becoming less likely to continue spreading through extended sharing chains. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.pnas.org/doi/10.1073/pnas.2503413122" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pnas.org">[PNAS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pnas.org</span><span class="citation-popover-snippet">Community notes reduce engagement with and diffusion of...by I Slaughter · 2025 · Cited by 31 — In this work, we estimate the causal...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2307.07960" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Open source on arxiv.org.</span></span></span>
+Large-scale studies examining hundreds of thousands of fact-checked posts on X found significant reductions in the subsequent spread of misleading content after notes appeared. One study estimated that visible notes reduced reposting by roughly 60% and substantially increased the likelihood that authors deleted misleading posts.<span class="citation-chip-wrap"><a class="citation-chip" href="https://osf.io/preprints/osf/3a4fe" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: osf.io">[OSF]</a><span class="citation-popover" role="note"><span class="citation-popover-source">osf.io</span><span class="citation-popover-snippet">Community notes reduce the spread of misleading posts on Xby Y Chuai · Cited by 17 — We found that exposing users to community notes r...</span></span></span> Nature A separate analysis found that attaching notes led to sizeable declines in reposts<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41467-026-72597-0" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[nature.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Community-based fact-checking reduces the spread of...by Y Chuai · 2026 · Cited by 1 — Here, we perform a large-scale empirical st...</span></span></span>, likes, replies and views. Researchers also observed changes in how information travelled through networks, with corrected posts becoming less likely to continue spreading through extended sharing chains.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.pnas.org/doi/10.1073/pnas.2503413122" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pnas.org">[PNAS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pnas.org</span><span class="citation-popover-snippet">Community notes reduce engagement with and diffusion of...by I Slaughter · 2025 · Cited by 31 — In this work, we estimate the causal...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2307.07960" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Open source on arxiv.org.</span></span></span>
 
-Research from the University of Washington similarly reported that posts receiving Community Notes experienced large reductions in reposts and likes after notes became visible. The effect was not merely symbolic; user behaviour changed measurably once contextual information appeared beneath a misleading claim. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.washington.edu/news/2025/09/18/community-notes-x-false-information-viral/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: washington.edu">[UW Homepage]</a><span class="citation-popover" role="note"><span class="citation-popover-source">washington.edu</span><span class="citation-popover-title">community notes x false information viral</span><span class="citation-popover-snippet">UW HomepageCommunity Notes help reduce the virality of false...Sep 18, 2025 — A University of Washington-led study of X found that posts...</span></span></span>
+Research from the University of Washington similarly reported that posts receiving Community Notes experienced large reductions in reposts and likes after notes became visible. The effect was not merely symbolic; user behaviour changed measurably once contextual information appeared beneath a misleading claim.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.washington.edu/news/2025/09/18/community-notes-x-false-information-viral/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: washington.edu">[UW Homepage]</a><span class="citation-popover" role="note"><span class="citation-popover-source">washington.edu</span><span class="citation-popover-title">community notes x false information viral</span><span class="citation-popover-snippet">UW HomepageCommunity Notes help reduce the virality of false...Sep 18, 2025 — A University of Washington-led study of X found that posts...</span></span></span>
 
-These findings challenge a common misconception that crowd-based fact-checking is ineffective. The evidence increasingly suggests that visible notes do influence engagement and can slow further diffusion. The question is whether those benefits arrive early enough to matter most. <span class="citation-chip-wrap"><a class="citation-chip" href="https://blogs.lse.ac.uk/impactofsocialsciences/2025/01/14/do-community-notes-work/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blogs.lse.ac.uk">[LSE Blogs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blogs.lse.ac.uk</span><span class="citation-popover-title">LSE Blogs Do Community Notes work?</span><span class="citation-popover-snippet">LSE BlogsDo Community Notes work? - LSE ImpactJan 14, 2025 — Community Notes, like other fact-checks, work. This study found that notes o...</span></span></span>
+These findings challenge a common misconception that crowd-based fact-checking is ineffective. The evidence increasingly suggests that visible notes do influence engagement and can slow further diffusion. The question is whether those benefits arrive early enough to matter most.<span class="citation-chip-wrap"><a class="citation-chip" href="https://blogs.lse.ac.uk/impactofsocialsciences/2025/01/14/do-community-notes-work/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blogs.lse.ac.uk">[LSE Blogs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blogs.lse.ac.uk</span><span class="citation-popover-title">LSE Blogs Do Community Notes work?</span><span class="citation-popover-snippet">LSE BlogsDo Community Notes work? - LSE ImpactJan 14, 2025 — Community Notes, like other fact-checks, work. This study found that notes o...</span></span></span>
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_platform_design_myth_d8c20e_community_notes_vira_5dc16f-Illustration-2-dark.svg" | relative_url }}" alt="Community Notes illustration 2" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_platform_design_myth_d8c20e_community_notes_vira_5dc16f-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_platform_design_myth_d8c20e_community_notes_vira_5dc16f-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Speed Remains the Weak Point
 
-Several studies identify the same structural problem: misinformation often reaches peak virality before a note becomes public. Researchers repeatedly describe a temporal mismatch between the speed of misinformation and the speed of crowd-based correction. <span class="citation-chip-wrap"><a class="citation-chip" href="https://dl.acm.org/doi/10.1145/3686967" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dl.acm.org">[ACM Digital Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dl.acm.org</span><span class="citation-popover-snippet">ACM Digital LibraryDid the Roll-Out of Community Notes Reduce Engagement...8 Nov 2024 — This temporal mismatch suggests notes are displa...</span></span></span> 2arXiv
+Several studies identify the same structural problem: misinformation often reaches peak virality before a note becomes public. Researchers repeatedly describe a temporal mismatch between the speed of misinformation and the speed of crowd-based correction.<span class="citation-chip-wrap"><a class="citation-chip" href="https://dl.acm.org/doi/10.1145/3686967" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dl.acm.org">[ACM Digital Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dl.acm.org</span><span class="citation-popover-snippet">ACM Digital LibraryDid the Roll-Out of Community Notes Reduce Engagement...8 Nov 2024 — This temporal mismatch suggests notes are displa...</span></span></span> 2arXiv
 
-This matters because online diffusion is highly unequal over time. A large share of a viral post's eventual reach may occur in its earliest hours. If a note appears after that surge, the correction can reduce future spread while doing little to undo exposure that has already occurred. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2404.02803" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+This matters because online diffusion is highly unequal over time. A large share of a viral post's eventual reach may occur in its earliest hours. If a note appears after that surge, the correction can reduce future spread while doing little to undo exposure that has already occurred.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2404.02803" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-The problem becomes particularly visible during crises, breaking news events and rapidly evolving rumours. In these situations, facts are still emerging, evidence is incomplete and contributors may need time to verify claims. Yet those are exactly the moments when misleading information can spread fastest. A system that prioritises consensus and verification may therefore struggle most when public demand for information is highest. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2404.02803" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.washingtonpost.com/technology/2025/08/04/meta-fact-check-community-notes-test-facebook-instagram/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: washingtonpost.com">[The Washington Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">washingtonpost.com</span><span class="citation-popover-title">The Washington Post Zuckerberg fired the fact-checkers</span><span class="citation-popover-snippet">We tested their replacement.In 2025, Meta replaced its professional fact-checkers on Facebook, Instagram, and Threads with a “community n...</span></span></span>
+The problem becomes particularly visible during crises, breaking news events and rapidly evolving rumours. In these situations, facts are still emerging, evidence is incomplete and contributors may need time to verify claims. Yet those are exactly the moments when misleading information can spread fastest. A system that prioritises consensus and verification may therefore struggle most when public demand for information is highest.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2404.02803" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.washingtonpost.com/technology/2025/08/04/meta-fact-check-community-notes-test-facebook-instagram/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: washingtonpost.com">[The Washington Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">washingtonpost.com</span><span class="citation-popover-title">The Washington Post Zuckerberg fired the fact-checkers</span><span class="citation-popover-snippet">We tested their replacement.In 2025, Meta replaced its professional fact-checkers on Facebook, Instagram, and Threads with a “community n...</span></span></span>
 
-Researchers have also noted that influential accounts and politically charged content can present special challenges. Some evidence suggests that correction effects are weaker for highly influential users and contentious political topics, partly because agreement on note quality is harder to achieve and because the content may already have reached very large audiences before intervention occurs. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.linkedin.com/posts/marklittlenews_community-based-fact-checking-reduces-the-activity-7458055908091277313-sbyW" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: linkedin.com">[LinkedIn]</a><span class="citation-popover" role="note"><span class="citation-popover-source">linkedin.com</span><span class="citation-popover-snippet">Mark Little&#x27;s PostExposing people to community notes reduces the subsequent spread of misleading posts by 61.2%. The effect is si...</span></span></span>
+Researchers have also noted that influential accounts and politically charged content can present special challenges. Some evidence suggests that correction effects are weaker for highly influential users and contentious political topics, partly because agreement on note quality is harder to achieve and because the content may already have reached very large audiences before intervention occurs.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.linkedin.com/posts/marklittlenews_community-based-fact-checking-reduces-the-activity-7458055908091277313-sbyW" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: linkedin.com">[LinkedIn]</a><span class="citation-popover" role="note"><span class="citation-popover-source">linkedin.com</span><span class="citation-popover-snippet">Mark Little&#x27;s PostExposing people to community notes reduces the subsequent spread of misleading posts by 61.2%. The effect is si...</span></span></span>
 
 ## Why Coverage Is Also Limited
 
 Speed is not the only limitation. Coverage presents a second challenge.
 
-Not every proposed note becomes visible. The publication threshold is intentionally restrictive, which helps maintain quality but limits scale. Reports and independent evaluations have found that many proposed notes never reach the public because they fail to achieve sufficient cross-group agreement. <span class="citation-chip-wrap"><a class="citation-chip" href="https://fortune.com/2025/07/10/more-than-90-x-community-notes-are-never-published-stuck-limbo-study/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fortune.com">[Fortune]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fortune.com</span><span class="citation-popover-title">more than 90 x community notes are never published stuck limbo study</span><span class="citation-popover-snippet">More than 90% of X&#x27;s Community Notes are never...Jul 10, 2025 — Studies have shown Community Notes can work to dispel some falseh...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.washingtonpost.com/technology/2025/08/04/meta-fact-check-community-notes-test-facebook-instagram/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: washingtonpost.com">[The Washington Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">washingtonpost.com</span><span class="citation-popover-title">The Washington Post Zuckerberg fired the fact-checkers</span><span class="citation-popover-snippet">We tested their replacement.In 2025, Meta replaced its professional fact-checkers on Facebook, Instagram, and Threads with a “community n...</span></span></span>
+Not every proposed note becomes visible. The publication threshold is intentionally restrictive, which helps maintain quality but limits scale. Reports and independent evaluations have found that many proposed notes never reach the public because they fail to achieve sufficient cross-group agreement.<span class="citation-chip-wrap"><a class="citation-chip" href="https://fortune.com/2025/07/10/more-than-90-x-community-notes-are-never-published-stuck-limbo-study/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fortune.com">[Fortune]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fortune.com</span><span class="citation-popover-title">more than 90 x community notes are never published stuck limbo study</span><span class="citation-popover-snippet">More than 90% of X&#x27;s Community Notes are never...Jul 10, 2025 — Studies have shown Community Notes can work to dispel some falseh...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.washingtonpost.com/technology/2025/08/04/meta-fact-check-community-notes-test-facebook-instagram/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: washingtonpost.com">[The Washington Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">washingtonpost.com</span><span class="citation-popover-title">The Washington Post Zuckerberg fired the fact-checkers</span><span class="citation-popover-snippet">We tested their replacement.In 2025, Meta replaced its professional fact-checkers on Facebook, Instagram, and Threads with a “community n...</span></span></span>
 
-This creates a difficult balancing act. Lower thresholds could increase coverage and speed but might also allow partisan, low-quality or inaccurate notes to appear more often. Higher thresholds improve [confidence]({{ 'confidence/' | relative_url }}) that visible notes are broadly accepted, but they leave many disputed posts without publicly visible context. <span class="citation-chip-wrap"><a class="citation-chip" href="https://communitynotes.x.com/guide/en/about/introduction" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: communitynotes.x.com">[X (formerly Twitter]</a><span class="citation-popover" role="note"><span class="citation-popover-source">communitynotes.x.com</span><span class="citation-popover-snippet">X (formerly Twitter)Community NotesCommunity Notes aims to create a better-informed world, by empowering people on X to collaboratively a...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.pnas.org/doi/10.1073/pnas.2524004122" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pnas.org">[PNAS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pnas.org</span><span class="citation-popover-snippet">Understanding the strengths and limitations of community-...by EK Vraga · 2025 · Cited by 1 — Slaughter&#x27;s study offers new insights into...</span></span></span>
+This creates a difficult balancing act. Lower thresholds could increase coverage and speed but might also allow partisan, low-quality or inaccurate notes to appear more often. Higher thresholds improve [confidence]({{ 'confidence/' | relative_url }}) that visible notes are broadly accepted, but they leave many disputed posts without publicly visible context.<span class="citation-chip-wrap"><a class="citation-chip" href="https://communitynotes.x.com/guide/en/about/introduction" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: communitynotes.x.com">[X (formerly Twitter]</a><span class="citation-popover" role="note"><span class="citation-popover-source">communitynotes.x.com</span><span class="citation-popover-snippet">X (formerly Twitter)Community NotesCommunity Notes aims to create a better-informed world, by empowering people on X to collaboratively a...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.pnas.org/doi/10.1073/pnas.2524004122" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pnas.org">[PNAS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pnas.org</span><span class="citation-popover-snippet">Understanding the strengths and limitations of community-...by EK Vraga · 2025 · Cited by 1 — Slaughter&#x27;s study offers new insights into...</span></span></span>
 
-The result is that Community Notes often work best on claims where evidence is relatively clear and where contributors from different viewpoints can converge on a common explanation. The system is less effective when factual disputes overlap with [identity]({{ 'identity/' | relative_url }}), ideology or rapidly changing events. <span class="citation-chip-wrap"><a class="citation-chip" href="https://fortune.com/2025/07/10/more-than-90-x-community-notes-are-never-published-stuck-limbo-study/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fortune.com">[Fortune]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fortune.com</span><span class="citation-popover-title">more than 90 x community notes are never published stuck limbo study</span><span class="citation-popover-snippet">More than 90% of X&#x27;s Community Notes are never...Jul 10, 2025 — Studies have shown Community Notes can work to dispel some falseh...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.techpolicy.press/community-notes-alone-wont-beat-disinformation-why-factcheckers-are-essential/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Tech Policy Press">[Tech Policy Press]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Tech Policy Press</span><span class="citation-popover-snippet">Community Notes Alone Won&#x27;t Beat DisinformationMar 3, 2026 — Furthermore, health-related misinformation has created a massive economic drain...</span></span></span>
+The result is that Community Notes often work best on claims where evidence is relatively clear and where contributors from different viewpoints can converge on a common explanation. The system is less effective when factual disputes overlap with [identity]({{ 'identity/' | relative_url }}), ideology or rapidly changing events.<span class="citation-chip-wrap"><a class="citation-chip" href="https://fortune.com/2025/07/10/more-than-90-x-community-notes-are-never-published-stuck-limbo-study/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fortune.com">[Fortune]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fortune.com</span><span class="citation-popover-title">more than 90 x community notes are never published stuck limbo study</span><span class="citation-popover-snippet">More than 90% of X&#x27;s Community Notes are never...Jul 10, 2025 — Studies have shown Community Notes can work to dispel some falseh...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.techpolicy.press/community-notes-alone-wont-beat-disinformation-why-factcheckers-are-essential/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Tech Policy Press">[Tech Policy Press]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Tech Policy Press</span><span class="citation-popover-snippet">Community Notes Alone Won&#x27;t Beat DisinformationMar 3, 2026 — Furthermore, health-related misinformation has created a massive economic drain...</span></span></span>
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_platform_design_myth_d8c20e_community_notes_vira_5dc16f-Illustration-3-dark.svg" | relative_url }}" alt="Community Notes illustration 3" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_platform_design_myth_d8c20e_community_notes_vira_5dc16f-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_platform_design_myth_d8c20e_community_notes_vira_5dc16f-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What Community Notes Can and Cannot Do
 
-Community Notes demonstrate that crowd-based correction can reduce the spread of misleading information once corrective context becomes visible. The growing research literature points to meaningful declines in engagement, sharing and downstream diffusion after notes are attached. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41598-025-09372-6" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">References to unbiased sources increase the helpfulness...by K Solovev · 2025 · Cited by 11 — Launched to the public in October, 2021, C...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.pnas.org/doi/10.1073/pnas.2503413122" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pnas.org">[PNAS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pnas.org</span><span class="citation-popover-snippet">Community notes reduce engagement with and diffusion of...by I Slaughter · 2025 · Cited by 31 — In this work, we estimate the causal...</span></span></span>
+Community Notes demonstrate that crowd-based correction can reduce the spread of misleading information once corrective context becomes visible. The growing research literature points to meaningful declines in engagement, sharing and downstream diffusion after notes are attached.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41598-025-09372-6" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">References to unbiased sources increase the helpfulness...by K Solovev · 2025 · Cited by 11 — Launched to the public in October, 2021, C...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.pnas.org/doi/10.1073/pnas.2503413122" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pnas.org">[PNAS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pnas.org</span><span class="citation-popover-snippet">Community notes reduce engagement with and diffusion of...by I Slaughter · 2025 · Cited by 31 — In this work, we estimate the causal...</span></span></span>
 
-At the same time, the system exposes a fundamental challenge in misinformation governance. Accuracy, legitimacy and speed often pull in different directions. Requiring broad agreement across viewpoints can make corrections more trustworthy, but it also slows publication. Viral myths exploit exactly that delay. By the time a note is visible, much of the attention may already have been captured. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2404.02803" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+At the same time, the system exposes a fundamental challenge in misinformation governance. Accuracy, legitimacy and speed often pull in different directions. Requiring broad agreement across viewpoints can make corrections more trustworthy, but it also slows publication. Viral myths exploit exactly that delay. By the time a note is visible, much of the attention may already have been captured.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2404.02803" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-For that reason, Community Notes are best understood as a valuable but incomplete intervention. They can weaken the later stages of misinformation spread and provide publicly accountable context, yet they remain vulnerable to the same reality that benefits many myths: false claims can travel extraordinarily fast, while verification takes time. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2404.02803" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41467-026-72597-0" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Community-based fact-checking reduces the spread of...by Y Chuai · 2026 · Cited by 1 — Here, we perform a large-scale empirical st...</span></span></span>
+For that reason, Community Notes are best understood as a valuable but incomplete intervention. They can weaken the later stages of misinformation spread and provide publicly accountable context, yet they remain vulnerable to the same reality that benefits many myths: false claims can travel extraordinarily fast, while verification takes time.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2404.02803" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41467-026-72597-0" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Community-based fact-checking reduces the spread of...by Y Chuai · 2026 · Cited by 1 — Here, we perform a large-scale empirical st...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Can Crowds Catch Viral Misinformation Fast Enough?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Can Crowds Catch Viral Misinformation Fast Enough?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Constitution+of+Knowledge+by+Jonathan+Rauch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Constitution of Knowledge on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=W4J_EQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Constitution of Knowledge" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Constitution+of+Knowledge+by+Jonathan+Rauch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Constitution of Knowledge">The Constitution of Knowledge</a>
-        </h4>
-        <p class="fr-book-author">By Jonathan Rauch</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Constitution+of+Knowledge+by+Jonathan+Rauch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Constitution of Knowledge on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=W4J_EQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Constitution of Knowledge" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Constitution+of+Knowledge+by+Jonathan+Rauch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Constitution of Knowledge">The Constitution of Knowledge</a>
+</h4>
+<p class="fr-book-author">By Jonathan Rauch</p>
         
-        <p class="fr-book-desc">Closely relates to crowd correction, trust, and knowledge-production systems.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Constitution+of+Knowledge+by+Jonathan+Rauch&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Closely relates to crowd correction, trust, and knowledge-production systems.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Constitution+of+Knowledge+by+Jonathan+Rauch&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Calling Bullshit on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Plu9DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Calling Bullshit" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Calling Bullshit">Calling Bullshit</a>
-        </h4>
-        <p class="fr-book-author">By Carl T. Bergstrom, Jevin D. West</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Calling Bullshit on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Plu9DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Calling Bullshit" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Calling Bullshit">Calling Bullshit</a>
+</h4>
+<p class="fr-book-author">By Carl T. Bergstrom, Jevin D. West</p>
         
-        <p class="fr-book-desc">Focuses on evaluating claims and evidence in public information systems.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on evaluating claims and evidence in public information systems.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Psychology+of+Fake+News+by+Rainer+Greifeneder&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Psychology of Fake News on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=-Q72DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Psychology of Fake News" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Psychology+of+Fake+News+by+Rainer+Greifeneder&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Psychology of Fake News">The Psychology of Fake News</a>
-        </h4>
-        <p class="fr-book-author">By Rainer Greifeneder, Mariela Jaffe et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Psychology+of+Fake+News+by+Rainer+Greifeneder&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Psychology of Fake News on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=-Q72DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Psychology of Fake News" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Psychology+of+Fake+News+by+Rainer+Greifeneder&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Psychology of Fake News">The Psychology of Fake News</a>
+</h4>
+<p class="fr-book-author">By Rainer Greifeneder, Mariela Jaffe et al.</p>
         
-        <p class="fr-book-desc">Provides evidence on how people assess credibility and corrections.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Psychology+of+Fake+News+by+Rainer+Greifeneder&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides evidence on how people assess credibility and corrections.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Psychology+of+Fake+News+by+Rainer+Greifeneder&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Network+Propaganda+Yochai+Benkler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Network Propaganda on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9238306-M.jpg" alt="Cover for Network Propaganda" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Network+Propaganda+Yochai+Benkler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Network Propaganda">Network Propaganda</a>
-        </h4>
-        <p class="fr-book-author">By Yochai Benkler, Robert Faris et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Network+Propaganda+Yochai+Benkler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Network Propaganda on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9238306-M.jpg" alt="Cover for Network Propaganda" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Network+Propaganda+Yochai+Benkler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Network Propaganda">Network Propaganda</a>
+</h4>
+<p class="fr-book-author">By Yochai Benkler, Robert Faris et al.</p>
         
-        <p class="fr-book-desc">First published 2018. Subjects: Politics &amp; government, Presidents, united states, election, 2016, Communication in politics, Political ca...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Network+Propaganda+Yochai+Benkler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2018. Subjects: Politics &amp; government, Presidents, united states, election, 2016, Communication in politics, Political ca...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Network+Propaganda+Yochai+Benkler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Constitution+of+Knowledge&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Constitution of Knowledge</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Calling+Bullshit&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Calling Bullshit</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Psychology+of+Fake+News&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Psychology of Fake News</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Constitution+of+Knowledge&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Constitution of Knowledge</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Calling+Bullshit&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Calling Bullshit</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Psychology+of+Fake+News&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Psychology of Fake News</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=classroom+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=community-notes-can-crowds-catch-viral-misinformation-fast-enough-myths-and-misconcept-classroom-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classroom poster" data-ebay-reference="community-notes-can-crowds-catch-viral-misinformation-fast-enough-myths-and-misconcept-classroom-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Map Of The World Wall Poster With Flags Classroom Geography Gift Print A5-A3"><img src="{{ '/assets/images/marketplace-covers/c3047e32d56e58c2f792.jpg' | relative_url }}" alt="Listing image for Map Of The World Wall Poster With Flags Classroom Geography Gift Print A5-A3" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=classroom+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=community-notes-can-crowds-catch-viral-misinformation-fast-enough-myths-and-misconcept-classroom-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classroom poster" data-ebay-reference="community-notes-can-crowds-catch-viral-misinformation-fast-enough-myths-and-misconcept-classroom-poster" target="_blank" rel="sponsored noopener noreferrer">Map Of The World Wall Poster With Flags Classroom Geography Gift Print A5-A3</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=classroom+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=community-notes-can-crowds-catch-viral-misinformation-fast-enough-myths-and-misconcept-classroom-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classroom poster" data-ebay-reference="community-notes-can-crowds-catch-viral-misinformation-fast-enough-myths-and-misconcept-classroom-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for classroom poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: classroom poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=classroom+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=community-notes-can-crowds-catch-viral-misinformation-fast-enough-myths-and-misconcept-classroom-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classroom poster" data-ebay-reference="community-notes-can-crowds-catch-viral-misinformation-fast-enough-myths-and-misconcept-classroom-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=classroom+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=community-notes-can-crowds-catch-viral-misinformation-fast-enough-myths-and-misconcept-classroom-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classroom poster" data-ebay-reference="community-notes-can-crowds-catch-viral-misinformation-fast-enough-myths-and-misconcept-classroom-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Map Of The World Wall Poster With Flags Classroom Geography Gift Print A5-A3"><img src="{{ '/assets/images/marketplace-covers/c3047e32d56e58c2f792.jpg' | relative_url }}" alt="Listing image for Map Of The World Wall Poster With Flags Classroom Geography Gift Print A5-A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=classroom+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=community-notes-can-crowds-catch-viral-misinformation-fast-enough-myths-and-misconcept-classroom-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classroom poster" data-ebay-reference="community-notes-can-crowds-catch-viral-misinformation-fast-enough-myths-and-misconcept-classroom-poster" target="_blank" rel="sponsored noopener noreferrer">Map Of The World Wall Poster With Flags Classroom Geography Gift Print A5-A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=classroom+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=community-notes-can-crowds-catch-viral-misinformation-fast-enough-myths-and-misconcept-classroom-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classroom poster" data-ebay-reference="community-notes-can-crowds-catch-viral-misinformation-fast-enough-myths-and-misconcept-classroom-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for classroom poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: classroom poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=classroom+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=community-notes-can-crowds-catch-viral-misinformation-fast-enough-myths-and-misconcept-classroom-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classroom poster" data-ebay-reference="community-notes-can-crowds-catch-viral-misinformation-fast-enough-myths-and-misconcept-classroom-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=classroom+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=community-notes-can-crowds-catch-viral-misinformation-fast-enough-myths-and-misconcept-classroom-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classroom poster" data-ebay-reference="community-notes-can-crowds-catch-viral-misinformation-fast-enough-myths-and-misconcept-classroom-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Faithful Prints World Map Poster Atlas Print Geography Educational Classroom Cha"><img src="{{ '/assets/images/marketplace-covers/75f3d990fc21a47e8e1a.jpg' | relative_url }}" alt="Listing image for Faithful Prints World Map Poster Atlas Print Geography Educational Classroom Cha" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=classroom+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=community-notes-can-crowds-catch-viral-misinformation-fast-enough-myths-and-misconcept-classroom-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classroom poster" data-ebay-reference="community-notes-can-crowds-catch-viral-misinformation-fast-enough-myths-and-misconcept-classroom-poster" target="_blank" rel="sponsored noopener noreferrer">Faithful Prints World Map Poster Atlas Print Geography Educational Classroom Cha</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=classroom+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=community-notes-can-crowds-catch-viral-misinformation-fast-enough-myths-and-misconcept-classroom-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classroom poster" data-ebay-reference="community-notes-can-crowds-catch-viral-misinformation-fast-enough-myths-and-misconcept-classroom-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for classroom poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: classroom poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=classroom+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=community-notes-can-crowds-catch-viral-misinformation-fast-enough-myths-and-misconcept-classroom-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classroom poster" data-ebay-reference="community-notes-can-crowds-catch-viral-misinformation-fast-enough-myths-and-misconcept-classroom-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=classroom+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=community-notes-can-crowds-catch-viral-misinformation-fast-enough-myths-and-misconcept-classroom-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classroom poster" data-ebay-reference="community-notes-can-crowds-catch-viral-misinformation-fast-enough-myths-and-misconcept-classroom-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Faithful Prints World Map Poster Atlas Print Geography Educational Classroom Cha"><img src="{{ '/assets/images/marketplace-covers/75f3d990fc21a47e8e1a.jpg' | relative_url }}" alt="Listing image for Faithful Prints World Map Poster Atlas Print Geography Educational Classroom Cha" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=classroom+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=community-notes-can-crowds-catch-viral-misinformation-fast-enough-myths-and-misconcept-classroom-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classroom poster" data-ebay-reference="community-notes-can-crowds-catch-viral-misinformation-fast-enough-myths-and-misconcept-classroom-poster" target="_blank" rel="sponsored noopener noreferrer">Faithful Prints World Map Poster Atlas Print Geography Educational Classroom Cha</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=classroom+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=community-notes-can-crowds-catch-viral-misinformation-fast-enough-myths-and-misconcept-classroom-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classroom poster" data-ebay-reference="community-notes-can-crowds-catch-viral-misinformation-fast-enough-myths-and-misconcept-classroom-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for classroom poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: classroom poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=classroom+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=community-notes-can-crowds-catch-viral-misinformation-fast-enough-myths-and-misconcept-classroom-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classroom poster" data-ebay-reference="community-notes-can-crowds-catch-viral-misinformation-fast-enough-myths-and-misconcept-classroom-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=classroom+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=community-notes-can-crowds-catch-viral-misinformation-fast-enough-myths-and-misconcept-classroom-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classroom poster" data-ebay-reference="community-notes-can-crowds-catch-viral-misinformation-fast-enough-myths-and-misconcept-classroom-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for A3 Times Tables 1-12 Educational Poster Maths Wall Chart Kids Classroom Home"><img src="{{ '/assets/images/marketplace-covers/83e42933a24967ed34f8.jpg' | relative_url }}" alt="Listing image for A3 Times Tables 1-12 Educational Poster Maths Wall Chart Kids Classroom Home" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=classroom+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=community-notes-can-crowds-catch-viral-misinformation-fast-enough-myths-and-misconcept-classroom-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classroom poster" data-ebay-reference="community-notes-can-crowds-catch-viral-misinformation-fast-enough-myths-and-misconcept-classroom-poster" target="_blank" rel="sponsored noopener noreferrer">A3 Times Tables 1-12 Educational Poster Maths Wall Chart Kids Classroom Home</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=classroom+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=community-notes-can-crowds-catch-viral-misinformation-fast-enough-myths-and-misconcept-classroom-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classroom poster" data-ebay-reference="community-notes-can-crowds-catch-viral-misinformation-fast-enough-myths-and-misconcept-classroom-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for classroom poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: classroom poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=classroom+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=community-notes-can-crowds-catch-viral-misinformation-fast-enough-myths-and-misconcept-classroom-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classroom poster" data-ebay-reference="community-notes-can-crowds-catch-viral-misinformation-fast-enough-myths-and-misconcept-classroom-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=classroom+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=community-notes-can-crowds-catch-viral-misinformation-fast-enough-myths-and-misconcept-classroom-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classroom poster" data-ebay-reference="community-notes-can-crowds-catch-viral-misinformation-fast-enough-myths-and-misconcept-classroom-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for A3 Times Tables 1-12 Educational Poster Maths Wall Chart Kids Classroom Home"><img src="{{ '/assets/images/marketplace-covers/83e42933a24967ed34f8.jpg' | relative_url }}" alt="Listing image for A3 Times Tables 1-12 Educational Poster Maths Wall Chart Kids Classroom Home" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=classroom+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=community-notes-can-crowds-catch-viral-misinformation-fast-enough-myths-and-misconcept-classroom-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classroom poster" data-ebay-reference="community-notes-can-crowds-catch-viral-misinformation-fast-enough-myths-and-misconcept-classroom-poster" target="_blank" rel="sponsored noopener noreferrer">A3 Times Tables 1-12 Educational Poster Maths Wall Chart Kids Classroom Home</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=classroom+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=community-notes-can-crowds-catch-viral-misinformation-fast-enough-myths-and-misconcept-classroom-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classroom poster" data-ebay-reference="community-notes-can-crowds-catch-viral-misinformation-fast-enough-myths-and-misconcept-classroom-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for classroom poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: classroom poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=classroom+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=community-notes-can-crowds-catch-viral-misinformation-fast-enough-myths-and-misconcept-classroom-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classroom poster" data-ebay-reference="community-notes-can-crowds-catch-viral-misinformation-fast-enough-myths-and-misconcept-classroom-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=classroom+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=community-notes-can-crowds-catch-viral-misinformation-fast-enough-myths-and-misconcept-classroom-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classroom poster" data-ebay-reference="community-notes-can-crowds-catch-viral-misinformation-fast-enough-myths-and-misconcept-classroom-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Eyewitness Classroom Learning Wall Charts Posters X9 Never Used"><img src="{{ '/assets/images/marketplace-covers/39c50b2ead1f6d727f6f.jpg' | relative_url }}" alt="Listing image for Eyewitness Classroom Learning Wall Charts Posters X9 Never Used" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=classroom+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=community-notes-can-crowds-catch-viral-misinformation-fast-enough-myths-and-misconcept-classroom-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classroom poster" data-ebay-reference="community-notes-can-crowds-catch-viral-misinformation-fast-enough-myths-and-misconcept-classroom-poster" target="_blank" rel="sponsored noopener noreferrer">Eyewitness Classroom Learning Wall Charts Posters X9 Never Used</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=classroom+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=community-notes-can-crowds-catch-viral-misinformation-fast-enough-myths-and-misconcept-classroom-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classroom poster" data-ebay-reference="community-notes-can-crowds-catch-viral-misinformation-fast-enough-myths-and-misconcept-classroom-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for classroom poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: classroom poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=classroom+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=community-notes-can-crowds-catch-viral-misinformation-fast-enough-myths-and-misconcept-classroom-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classroom poster" data-ebay-reference="community-notes-can-crowds-catch-viral-misinformation-fast-enough-myths-and-misconcept-classroom-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=classroom+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=community-notes-can-crowds-catch-viral-misinformation-fast-enough-myths-and-misconcept-classroom-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classroom poster" data-ebay-reference="community-notes-can-crowds-catch-viral-misinformation-fast-enough-myths-and-misconcept-classroom-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=classroom+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=community-notes-can-crowds-catch-viral-misinformation-fast-enough-myths-and-misconcept-classroom-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classroom poster" data-ebay-reference="community-notes-can-crowds-catch-viral-misinformation-fast-enough-myths-and-misconcept-classroom-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Eyewitness Classroom Learning Wall Charts Posters X9 Never Used"><img src="{{ '/assets/images/marketplace-covers/39c50b2ead1f6d727f6f.jpg' | relative_url }}" alt="Listing image for Eyewitness Classroom Learning Wall Charts Posters X9 Never Used" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=classroom+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=community-notes-can-crowds-catch-viral-misinformation-fast-enough-myths-and-misconcept-classroom-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classroom poster" data-ebay-reference="community-notes-can-crowds-catch-viral-misinformation-fast-enough-myths-and-misconcept-classroom-poster" target="_blank" rel="sponsored noopener noreferrer">Eyewitness Classroom Learning Wall Charts Posters X9 Never Used</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=classroom+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=community-notes-can-crowds-catch-viral-misinformation-fast-enough-myths-and-misconcept-classroom-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classroom poster" data-ebay-reference="community-notes-can-crowds-catch-viral-misinformation-fast-enough-myths-and-misconcept-classroom-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for classroom poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: classroom poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=classroom+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=community-notes-can-crowds-catch-viral-misinformation-fast-enough-myths-and-misconcept-classroom-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classroom poster" data-ebay-reference="community-notes-can-crowds-catch-viral-misinformation-fast-enough-myths-and-misconcept-classroom-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=classroom+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=community-notes-can-crowds-catch-viral-misinformation-fast-enough-myths-and-misconcept-classroom-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classroom poster" data-ebay-reference="community-notes-can-crowds-catch-viral-misinformation-fast-enough-myths-and-misconcept-classroom-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -541,7 +541,7 @@ For that reason, Community Notes are best understood as a valuable but incomplet
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -561,7 +561,7 @@ For that reason, Community Notes are best understood as a valuable but incomplet
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -593,7 +593,7 @@ For that reason, Community Notes are best understood as a valuable but incomplet
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -645,7 +645,7 @@ For that reason, Community Notes are best understood as a valuable but incomplet
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -690,7 +690,7 @@ For that reason, Community Notes are best understood as a valuable but incomplet
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -731,177 +731,177 @@ For that reason, Community Notes are best understood as a valuable but incomplet
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: nature.com  
-   Link: <a href="https://www.nature.com/articles/s41467-026-72597-0" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41467-026-72597-0</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Community-based fact-checking reduces the spread of...by Y Chuai · 2026 · Cited by 1 — Here, we perform a large-scale empirical st...</p></details>
+   Link:<a href="https://www.nature.com/articles/s41467-026-72597-0" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41467-026-72597-0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Community-based fact-checking reduces the spread of...by Y Chuai · 2026 · Cited by 1 — Here, we perform a large-scale empirical st...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2404.02803" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2404.02803</a>  
+   Link:<a href="https://arxiv.org/abs/2404.02803" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2404.02803</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2307.07960" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2307.07960</a>  
+   Link:<a href="https://arxiv.org/abs/2307.07960" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2307.07960</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: academic.oup.com  
-   Link: <a href="https://academic.oup.com/pnasnexus/article/3/7/pgae217/7686087" target="_blank" rel="noopener noreferrer nofollow">https://academic.oup.com/pnasnexus/article/3/7/pgae217/7686087</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>In sum, our work implies that context matters in fact-checking and that community notes...Read more...</p></details>
+   Link:<a href="https://academic.oup.com/pnasnexus/article/3/7/pgae217/7686087" target="_blank" rel="noopener noreferrer nofollow">https://academic.oup.com/pnasnexus/article/3/7/pgae217/7686087</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>In sum, our work implies that context matters in fact-checking and that community notes...Read more...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: dl.acm.org  
-   Link: <a href="https://dl.acm.org/doi/10.1145/3686967" target="_blank" rel="noopener noreferrer nofollow">https://dl.acm.org/doi/10.1145/3686967</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ACM Digital LibraryDid the Roll-Out of Community Notes Reduce Engagement...8 Nov 2024 — This temporal mismatch suggests notes are displa...</p></details>
+   Link:<a href="https://dl.acm.org/doi/10.1145/3686967" target="_blank" rel="noopener noreferrer nofollow">https://dl.acm.org/doi/10.1145/3686967</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ACM Digital LibraryDid the Roll-Out of Community Notes Reduce Engagement...8 Nov 2024 — This temporal mismatch suggests notes are displa...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2409.08781" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2409.08781</a>  
+   Link:<a href="https://arxiv.org/abs/2409.08781" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2409.08781</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: fortune.com  
    Title: more than 90 x community notes are never published stuck limbo study  
-   Link: <a href="https://fortune.com/2025/07/10/more-than-90-x-community-notes-are-never-published-stuck-limbo-study/" target="_blank" rel="noopener noreferrer nofollow">https://fortune.com/2025/07/10/more-than-90-x-community-notes-are-never-published-stuck-limbo-study/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>More than 90% of X&#x27;s Community Notes are never...Jul 10, 2025 — Studies have shown Community Notes can work to dispel some falseh...</p></details>
+   Link:<a href="https://fortune.com/2025/07/10/more-than-90-x-community-notes-are-never-published-stuck-limbo-study/" target="_blank" rel="noopener noreferrer nofollow">https://fortune.com/2025/07/10/more-than-90-x-community-notes-are-never-published-stuck-limbo-study/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>More than 90% of X&#x27;s Community Notes are never...Jul 10, 2025 — Studies have shown Community Notes can work to dispel some falseh...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: osf.io  
-   Link: <a href="https://osf.io/preprints/osf/3a4fe" target="_blank" rel="noopener noreferrer nofollow">https://osf.io/preprints/osf/3a4fe</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Community notes reduce the spread of misleading posts on Xby Y Chuai · Cited by 17 — We found that exposing users to community notes r...</p></details>
+   Link:<a href="https://osf.io/preprints/osf/3a4fe" target="_blank" rel="noopener noreferrer nofollow">https://osf.io/preprints/osf/3a4fe</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Community notes reduce the spread of misleading posts on Xby Y Chuai · Cited by 17 — We found that exposing users to community notes r...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: pnas.org  
-   Link: <a href="https://www.pnas.org/doi/10.1073/pnas.2503413122" target="_blank" rel="noopener noreferrer nofollow">https://www.pnas.org/doi/10.1073/pnas.2503413122</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Community notes reduce engagement with and diffusion of...by I Slaughter · 2025 · Cited by 31 — In this work, we estimate the causal...</p></details>
+   Link:<a href="https://www.pnas.org/doi/10.1073/pnas.2503413122" target="_blank" rel="noopener noreferrer nofollow">https://www.pnas.org/doi/10.1073/pnas.2503413122</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Community notes reduce engagement with and diffusion of...by I Slaughter · 2025 · Cited by 31 — In this work, we estimate the causal...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2502.13322" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2502.13322</a>  
+   Link:<a href="https://arxiv.org/abs/2502.13322" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2502.13322</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: washington.edu  
    Title: community notes x false information viral  
-   Link: <a href="https://www.washington.edu/news/2025/09/18/community-notes-x-false-information-viral/" target="_blank" rel="noopener noreferrer nofollow">https://www.washington.edu/news/2025/09/18/community-notes-x-false-information-viral/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UW HomepageCommunity Notes help reduce the virality of false...Sep 18, 2025 — A University of Washington-led study of X found that posts...</p></details>
+   Link:<a href="https://www.washington.edu/news/2025/09/18/community-notes-x-false-information-viral/" target="_blank" rel="noopener noreferrer nofollow">https://www.washington.edu/news/2025/09/18/community-notes-x-false-information-viral/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UW HomepageCommunity Notes help reduce the virality of false...Sep 18, 2025 — A University of Washington-led study of X found that posts...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/html/2409.08781v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2409.08781v1</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Community-based fact-checking reduces the spread of...The long delay in displaying community notes rendered them ineffective in cur...</p></details>
+   Link:<a href="https://arxiv.org/html/2409.08781v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2409.08781v1</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Community-based fact-checking reduces the spread of...The long delay in displaying community notes rendered them ineffective in cur...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/posts/marklittlenews_community-based-fact-checking-reduces-the-activity-7458055908091277313-sbyW" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/marklittlenews_community-based-fact-checking-reduces-the-activity-7458055908091277313-sbyW</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Mark Little&#x27;s PostExposing people to community notes reduces the subsequent spread of misleading posts by 61.2%. The effect is si...</p></details>
+   Link:<a href="https://www.linkedin.com/posts/marklittlenews_community-based-fact-checking-reduces-the-activity-7458055908091277313-sbyW" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/marklittlenews_community-based-fact-checking-reduces-the-activity-7458055908091277313-sbyW</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Mark Little&#x27;s PostExposing people to community notes reduces the subsequent spread of misleading posts by 61.2%. The effect is si...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: pnas.org  
-   Link: <a href="https://www.pnas.org/doi/10.1073/pnas.2524004122" target="_blank" rel="noopener noreferrer nofollow">https://www.pnas.org/doi/10.1073/pnas.2524004122</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Understanding the strengths and limitations of community-...by EK Vraga · 2025 · Cited by 1 — Slaughter&#x27;s study offers new insights into...</p></details>
+   Link:<a href="https://www.pnas.org/doi/10.1073/pnas.2524004122" target="_blank" rel="noopener noreferrer nofollow">https://www.pnas.org/doi/10.1073/pnas.2524004122</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Understanding the strengths and limitations of community-...by EK Vraga · 2025 · Cited by 1 — Slaughter&#x27;s study offers new insights into...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: community.com  
-   Link: <a href="https://community.com/" target="_blank" rel="noopener noreferrer nofollow">https://community.com/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Aggregates your external system data, demographics, engagement history, and interests into a living profile that powers...Read more...</p></details>
+   Link:<a href="https://community.com/" target="_blank" rel="noopener noreferrer nofollow">https://community.com/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Aggregates your external system data, demographics, engagement history, and interests into a living profile that powers...Read more...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/posts/trenault_our-paper-is-out-in-nature-communications-activity-7457677138205396993-8UvF" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/trenault_our-paper-is-out-in-nature-communications-activity-7457677138205396993-8UvF</a>  
+   Link:<a href="https://www.linkedin.com/posts/trenault_our-paper-is-out-in-nature-communications-activity-7457677138205396993-8UvF" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/trenault_our-paper-is-out-in-nature-communications-activity-7457677138205396993-8UvF</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/posts/isaac-slaughter_community-notes-help-reduce-the-virality-activity-7374590802683076608-8yOc" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/isaac-slaughter_community-notes-help-reduce-the-virality-activity-7374590802683076608-8yOc</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>e virality of posts flagged for misinformation. Posts with...Read more...</p></details>
+   Link:<a href="https://www.linkedin.com/posts/isaac-slaughter_community-notes-help-reduce-the-virality-activity-7374590802683076608-8yOc" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/isaac-slaughter_community-notes-help-reduce-the-virality-activity-7374590802683076608-8yOc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>e virality of posts flagged for misinformation. Posts with...Read more...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: nature.com  
-   Link: <a href="https://www.nature.com/articles/s41598-025-09372-6" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41598-025-09372-6</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>References to unbiased sources increase the helpfulness...by K Solovev · 2025 · Cited by 11 — Launched to the public in October, 2021, C...</p></details>
+   Link:<a href="https://www.nature.com/articles/s41598-025-09372-6" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41598-025-09372-6</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>References to unbiased sources increase the helpfulness...by K Solovev · 2025 · Cited by 11 — Launched to the public in October, 2021, C...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: communitynotes.x.com  
-   Link: <a href="https://communitynotes.x.com/guide/en/about/introduction" target="_blank" rel="noopener noreferrer nofollow">https://communitynotes.x.com/guide/en/about/introduction</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>X (formerly Twitter)Community NotesCommunity Notes aims to create a better-informed world, by empowering people on X to collaboratively a...</p></details>
+   Link:<a href="https://communitynotes.x.com/guide/en/about/introduction" target="_blank" rel="noopener noreferrer nofollow">https://communitynotes.x.com/guide/en/about/introduction</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>X (formerly Twitter)Community NotesCommunity Notes aims to create a better-informed world, by empowering people on X to collaboratively a...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: washingtonpost.com  
    Title: The Washington Post Zuckerberg fired the fact-checkers  
-   Link: <a href="https://www.washingtonpost.com/technology/2025/08/04/meta-fact-check-community-notes-test-facebook-instagram/" target="_blank" rel="noopener noreferrer nofollow">https://www.washingtonpost.com/technology/2025/08/04/meta-fact-check-community-notes-test-facebook-instagram/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>We tested their replacement.In 2025, Meta replaced its professional fact-checkers on Facebook, Instagram, and Threads with a “community n...</p></details>
+   Link:<a href="https://www.washingtonpost.com/technology/2025/08/04/meta-fact-check-community-notes-test-facebook-instagram/" target="_blank" rel="noopener noreferrer nofollow">https://www.washingtonpost.com/technology/2025/08/04/meta-fact-check-community-notes-test-facebook-instagram/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>We tested their replacement.In 2025, Meta replaced its professional fact-checkers on Facebook, Instagram, and Threads with a “community n...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: businessinsider.com  
-   Link: <a href="https://www.businessinsider.com/meta-community-notes-twitter-zuckerberg-musk-how-do-they-work-2025-1" target="_blank" rel="noopener noreferrer nofollow">https://www.businessinsider.com/meta-community-notes-twitter-zuckerberg-musk-how-do-they-work-2025-1</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Here&#x27;s how they work &amp;mdash; and how they don&#x27;t.Mark Zuckerberg announced that Meta would implement &quot;community notes&quot; inspired by a simil...</p></details>
+   Link:<a href="https://www.businessinsider.com/meta-community-notes-twitter-zuckerberg-musk-how-do-they-work" target="_blank" rel="noopener noreferrer nofollow">https://www.businessinsider.com/meta-community-notes-twitter-zuckerberg-musk-how-do-they-work</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Here&#x27;s how they work &amp;mdash; and how they don&#x27;t.Mark Zuckerberg announced that Meta would implement &quot;community notes&quot; inspired by a simil...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: Tech Policy Press  
-   Link: <a href="https://www.techpolicy.press/community-notes-alone-wont-beat-disinformation-why-factcheckers-are-essential/" target="_blank" rel="noopener noreferrer nofollow">https://www.techpolicy.press/community-notes-alone-wont-beat-disinformation-why-factcheckers-are-essential/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Community Notes Alone Won&#x27;t Beat DisinformationMar 3, 2026 — Furthermore, health-related misinformation has created a massive economic drain...</p></details>
+   Link:<a href="https://www.techpolicy.press/community-notes-alone-wont-beat-disinformation-why-factcheckers-are-essential/" target="_blank" rel="noopener noreferrer nofollow">https://www.techpolicy.press/community-notes-alone-wont-beat-disinformation-why-factcheckers-are-essential/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Community Notes Alone Won&#x27;t Beat DisinformationMar 3, 2026 — Furthermore, health-related misinformation has created a massive economic drain...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: blogs.lse.ac.uk  
    Title: LSE Blogs Do Community Notes work?  
-   Link: <a href="https://blogs.lse.ac.uk/impactofsocialsciences/2025/01/14/do-community-notes-work/" target="_blank" rel="noopener noreferrer nofollow">https://blogs.lse.ac.uk/impactofsocialsciences/2025/01/14/do-community-notes-work/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>LSE BlogsDo Community Notes work? - LSE ImpactJan 14, 2025 — Community Notes, like other fact-checks, work. This study found that notes o...</p></details>
+   Link:<a href="https://blogs.lse.ac.uk/impactofsocialsciences/2025/01/14/do-community-notes-work/" target="_blank" rel="noopener noreferrer nofollow">https://blogs.lse.ac.uk/impactofsocialsciences/2025/01/14/do-community-notes-work/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>LSE BlogsDo Community Notes work? - LSE ImpactJan 14, 2025 — Community Notes, like other fact-checks, work. This study found that notes o...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: dictionary.cambridge.org  
-   Link: <a href="https://dictionary.cambridge.org/dictionary/english/community" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/dictionary/english/community</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>English meaning - Cambridge Dictionary7 days ago — the people living in one particular area or people who are considered as a unit beca...</p></details>
+   Link:<a href="https://dictionary.cambridge.org/dictionary/english/community" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/dictionary/english/community</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>English meaning - Cambridge Dictionary7 days ago — the people living in one particular area or people who are considered as a unit beca...</p></details>
 
 ### Additional References
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: rottentomatoes.com  
-   Link: <a href="https://www.rottentomatoes.com/tv/community" target="_blank" rel="noopener noreferrer nofollow">https://www.rottentomatoes.com/tv/community</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>CommunityWhen fast-talking lawyer Jeff Winger (Joel McHale) finds his degree has been revoked, he is forced to go back to school at Green...</p></details>
+   Link:<a href="https://www.rottentomatoes.com/tv/community" target="_blank" rel="noopener noreferrer nofollow">https://www.rottentomatoes.com/tv/community</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>CommunityWhen fast-talking lawyer Jeff Winger (Joel McHale) finds his degree has been revoked, he is forced to go back to school at Green...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: netflix.com  
-   Link: <a href="https://www.netflix.com/title/70155589" target="_blank" rel="noopener noreferrer nofollow">https://www.netflix.com/title/70155589</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Watch CommunityAfter his bachelor&#x27;s degree is revoked, lawyer Jeff Winger returns to community college, where he forms a study group with...</p></details>
+   Link:<a href="https://www.netflix.com/title/70155589" target="_blank" rel="noopener noreferrer nofollow">https://www.netflix.com/title/70155589</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Watch CommunityAfter his bachelor&#x27;s degree is revoked, lawyer Jeff Winger returns to community college, where he forms a study group with...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/channel/UC083VJ23T17StE7R7Fm00jQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/channel/UC083VJ23T17StE7R7Fm00jQ</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>CommunityWatch as the cast gets together to read out the scripts of Community! 57:32 Episode #9 - 8 Podcasts and a Zoom Chat The Darkest...</p></details>
+   Link:<a href="https://www.youtube.com/channel/UC083VJ23T17StE7R7Fm00jQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/channel/UC083VJ23T17StE7R7Fm00jQ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>CommunityWatch as the cast gets together to read out the scripts of Community! 57:32 Episode #9 - 8 Podcasts and a Zoom Chat The Darkest...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: researchgate.net  
    Title: 380181067 Community notes reduce the spread of misleading posts on X  
-   Link: <a href="https://www.researchgate.net/publication/380181067_Community_notes_reduce_the_spread_of_misleading_posts_on_X" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/380181067_Community_notes_reduce_the_spread_of_misleading_posts_on_X</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Community notes reduce the spread of misleading posts on X17 Dec 2025 — Community-based fact-checking is a promising approach to verify s...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/380181067_Community_notes_reduce_the_spread_of_misleading_posts_on_X" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/380181067_Community_notes_reduce_the_spread_of_misleading_posts_on_X</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Community notes reduce the spread of misleading posts on X17 Dec 2025 — Community-based fact-checking is a promising approach to verify s...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: For example, several incidents of public health  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8853081/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8853081/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>disaster of misinformation: a review of research in social...by SK Mathew · 2022 · Cited by 529 — The spread of misinformation in social...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8853081/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8853081/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>disaster of misinformation: a review of research in social...by SK Mathew · 2022 · Cited by 529 — The spread of misinformation in social...</p></details>
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: mycommunity.org.uk  
-   Link: <a href="https://mycommunity.org.uk/" target="_blank" rel="noopener noreferrer nofollow">https://mycommunity.org.uk/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Search for tools, tips and ideasMy Community is a simple way to find all the latest tools, tips and ideas to make your commu...</p></details>
+   Link:<a href="https://mycommunity.org.uk/" target="_blank" rel="noopener noreferrer nofollow">https://mycommunity.org.uk/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Search for tools, tips and ideasMy Community is a simple way to find all the latest tools, tips and ideas to make your commu...</p></details>
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: news.mit.edu  
    Title: study twitter false news travels faster true stories 0308  
-   Link: <a href="https://news.mit.edu/2018/study-twitter-false-news-travels-faster-true-stories-0308" target="_blank" rel="noopener noreferrer nofollow">https://news.mit.edu/2018/study-twitter-false-news-travels-faster-true-stories-0308</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>mit.eduStudy: On Twitter, false news travels faster than true stories8 Mar 2018 — A new study by three MIT scholars has found that false...</p></details>
+   Link:<a href="https://news.mit.edu/2018/study-twitter-false-news-travels-faster-true-stories-0308" target="_blank" rel="noopener noreferrer nofollow">https://news.mit.edu/2018/study-twitter-false-news-travels-faster-true-stories-0308</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>mit.eduStudy: On Twitter, false news travels faster than true stories8 Mar 2018 — A new study by three MIT scholars has found that false...</p></details>
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/science/comments/1ot7opj/a_study_finds_that_flagging_misinformation_on/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/science/comments/1ot7opj/a_study_finds_that_flagging_misinformation_on/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>lted, on average, in 46.1% fewer reposts, 44.1% fewer likes, 21.9%...Read more...</p></details>
+   Link:<a href="https://www.reddit.com/r/science/comments/1ot7opj/a_study_finds_that_flagging_misinformation_on/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/science/comments/1ot7opj/a_study_finds_that_flagging_misinformation_on/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>lted, on average, in 46.1% fewer reposts, 44.1% fewer likes, 21.9%...Read more...</p></details>
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: semanticscholar.org  
-   Link: <a href="https://www.semanticscholar.org/paper/Did-the-Roll-Out-of-Community-Notes-Reduce-With-on-Chuai-Tian/25b093bedd3fecaea97b0a49f6833fc9329594db" target="_blank" rel="noopener noreferrer nofollow">https://www.semanticscholar.org/paper/Did-the-Roll-Out-of-Community-Notes-Reduce-With-on-Chuai-Tian/25b093bedd3fecaea97b0a49f6833fc9329594db</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>agement with misinformation in the early (and most viral) stage of diffusion...</p></details>
+   Link:<a href="https://www.semanticscholar.org/paper/Did-the-Roll-Out-of-Community-Notes-Reduce-With-on-Chuai-Tian/25b093bedd3fecaea97b0a49f6833fc9329594db" target="_blank" rel="noopener noreferrer nofollow">https://www.semanticscholar.org/paper/Did-the-Roll-Out-of-Community-Notes-Reduce-With-on-Chuai-Tian/25b093bedd3fecaea97b0a49f6833fc9329594db</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>agement with misinformation in the early (and most viral) stage of diffusion...</p></details>
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: medium.com  
    Title: What is 'community' and why is it important?  
-   Link: <a href="https://medium.com/centre-for-public-impact/what-is-community-2e895219a205" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/centre-for-public-impact/what-is-community-2e895219a205</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>by Toby LoweA community is a group of people who share an identity-forming narrative. This means, a group of people who share a story t...</p></details>
+   Link:<a href="https://medium.com/centre-for-public-impact/what-is-community-2e895219a205" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/centre-for-public-impact/what-is-community-2e895219a205</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by Toby LoweA community is a group of people who share an identity-forming narrative. This means, a group of people who share a story t...</p></details>

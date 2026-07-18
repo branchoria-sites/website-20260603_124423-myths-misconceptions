@@ -274,256 +274,256 @@ image: /assets/images/Myths_and_misconcept_0d48d7_continued_influence_15b78f_ret
 
 ## Introduction
 
-A corrected cause can continue shaping later explanations even when people know it was withdrawn. This happens because the original cause often became part of a working explanation rather than a standalone fact. Once people have used a claim to answer questions such as “Why did this happen?” or “Who was responsible?”, removing that claim leaves a hole in the story. The [correction]({{ 'correction/' | relative_url }}) may be remembered, yet the old cause remains mentally useful because it still connects events together. Research on the continued influence effect repeatedly finds that people can recall a retraction and still rely on the retracted information when drawing inferences or explaining outcomes. <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/1529100612451018" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsMisinformation and Its CorrectionAnother explanation for the continued influence of misinformation is the failure of control...</span></span></span>
+A corrected cause can continue shaping later explanations even when people know it was withdrawn. This happens because the original cause often became part of a working explanation rather than a standalone fact. Once people have used a claim to answer questions such as “Why did this happen?” or “Who was responsible?”, removing that claim leaves a hole in the story. The [correction]({{ 'correction/' | relative_url }}) may be remembered, yet the old cause remains mentally useful because it still connects events together. Research on the continued influence effect repeatedly finds that people can recall a retraction and still rely on the retracted information when drawing inferences or explaining outcomes.<span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/1529100612451018" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsMisinformation and Its CorrectionAnother explanation for the continued influence of misinformation is the failure of control...</span></span></span>
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_continued_influence_15b78f_retracted_causes_772da4-Illustration-1-dark.svg" | relative_url }}" alt="Old Causes illustration 1" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_continued_influence_15b78f_retracted_causes_772da4-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_continued_influence_15b78f_retracted_causes_772da4-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-The key issue is not simple forgetfulness. The false cause often survives because it performed explanatory work. It helped organise events into a coherent sequence, and later reasoning can reactivate that structure even after the claim has been labelled false. Understanding this mechanism helps explain why myths and misconceptions are difficult to fully remove once they have become part of a person's understanding of an event. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8447889/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCThe role of discomfort in the continued influence effect</span><span class="citation-popover-snippet">by MW Susmann · 2021 · Cited by 88 — According to this account, people then reject correcting information and maintain belief in the m...</span></span></span>
+The key issue is not simple forgetfulness. The false cause often survives because it performed explanatory work. It helped organise events into a coherent sequence, and later reasoning can reactivate that structure even after the claim has been labelled false. Understanding this mechanism helps explain why myths and misconceptions are difficult to fully remove once they have become part of a person's understanding of an event.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8447889/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCThe role of discomfort in the continued influence effect</span><span class="citation-popover-snippet">by MW Susmann · 2021 · Cited by 88 — According to this account, people then reject correcting information and maintain belief in the m...</span></span></span>
 
 ## How false causes enter a mental model
 
-People rarely store information as disconnected statements. As new information arrives, they build what psychologists call a mental model: a rough internal representation of what happened, what caused it, and how different events fit together. When a false cause appears early in a narrative, it can become one of the model's organising pieces. <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/1529100612451018" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsMisinformation and Its CorrectionAnother explanation for the continued influence of misinformation is the failure of control...</span></span></span>
+People rarely store information as disconnected statements. As new information arrives, they build what psychologists call a mental model: a rough internal representation of what happened, what caused it, and how different events fit together. When a false cause appears early in a narrative, it can become one of the model's organising pieces.<span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/1529100612451018" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsMisinformation and Its CorrectionAnother explanation for the continued influence of misinformation is the failure of control...</span></span></span>
 
-Consider a report about a major fire. If people hear that flammable chemicals were stored inside the building, that detail does more than add a fact. It explains the intensity of the fire, the smoke, the explosions and the emergency response. Multiple later details become linked to that single cause. When a correction later announces that the chemicals were never there, the correction removes the cause but does not automatically rebuild all the connections that depended on it. <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/1529100612451018" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsMisinformation and Its CorrectionAnother explanation for the continued influence of misinformation is the failure of control...</span></span></span>
+Consider a report about a major fire. If people hear that flammable chemicals were stored inside the building, that detail does more than add a fact. It explains the intensity of the fire, the smoke, the explosions and the emergency response. Multiple later details become linked to that single cause. When a correction later announces that the chemicals were never there, the correction removes the cause but does not automatically rebuild all the connections that depended on it.<span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/1529100612451018" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsMisinformation and Its CorrectionAnother explanation for the continued influence of misinformation is the failure of control...</span></span></span>
 
-This is why causal misinformation is especially persistent. A false claim about a date, a name or a minor detail may be easy to replace. A false claim that explains an outcome occupies a more central position in the mental model. Because it links many pieces of information together, it becomes easier to retrieve whenever the event is recalled. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8447889/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCThe role of discomfort in the continued influence effect</span><span class="citation-popover-snippet">by MW Susmann · 2021 · Cited by 88 — According to this account, people then reject correcting information and maintain belief in the m...</span></span></span>
+This is why causal misinformation is especially persistent. A false claim about a date, a name or a minor detail may be easy to replace. A false claim that explains an outcome occupies a more central position in the mental model. Because it links many pieces of information together, it becomes easier to retrieve whenever the event is recalled.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8447889/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCThe role of discomfort in the continued influence effect</span><span class="citation-popover-snippet">by MW Susmann · 2021 · Cited by 88 — According to this account, people then reject correcting information and maintain belief in the m...</span></span></span>
 
-Researchers studying the continued influence effect have repeatedly found that misinformation embedded within a causal explanation remains influential even [after correction]({{ 'after-correction/' | relative_url }}). Participants often acknowledge that the information was retracted while still using it to answer questions about what happened and why. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.classes.cs.uchicago.edu/archive/2020/spring/33231-1/readings/Ecker2010_Article_ExplicitWarningsReduceButDoNot.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: classes.cs.uchicago.edu">[classes.cs.uchicago.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">classes.cs.uchicago.edu</span><span class="citation-popover-snippet">Explicit warnings reduce but do not eliminate the continued...by UKH ECKER · 2010 · Cited by 741 — correction, implying that the continu...</span></span></span>
+Researchers studying the continued influence effect have repeatedly found that misinformation embedded within a causal explanation remains influential even [after correction]({{ 'after-correction/' | relative_url }}). Participants often acknowledge that the information was retracted while still using it to answer questions about what happened and why.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.classes.cs.uchicago.edu/archive/2020/spring/33231-1/readings/Ecker2010_Article_ExplicitWarningsReduceButDoNot.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: classes.cs.uchicago.edu">[classes.cs.uchicago.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">classes.cs.uchicago.edu</span><span class="citation-popover-snippet">Explicit warnings reduce but do not eliminate the continued...by UKH ECKER · 2010 · Cited by 741 — correction, implying that the continu...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/gmPPAUWEQxs" title="Misinformation, Fake News, Conspiracy Theories, and Pseudoscientific BS" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=gmPPAUWEQxs" target="_blank" rel="noopener noreferrer">Misinformation, Fake News, Conspiracy Theories, and Pseudoscientific BS</a></p><p class="youtube-embed-meta">Channel: Northwestern Univ. Feinberg School of Medicine &middot; Views: 9.0K &middot; Uploaded: March 2024 &middot; Length: 56 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=gmPPAUWEQxs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=gmPPAUWEQxs">Open on YouTube</a></p></div></div></div>
 
 ## Why retractions leave explanatory gaps
 
-The most influential account of this phenomenon focuses on explanatory gaps. A correction can successfully tell people that a cause was false while failing to answer the questions that the cause previously resolved. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8447889/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCThe role of discomfort in the continued influence effect</span><span class="citation-popover-snippet">by MW Susmann · 2021 · Cited by 88 — According to this account, people then reject correcting information and maintain belief in the m...</span></span></span>
+The most influential account of this phenomenon focuses on explanatory gaps. A correction can successfully tell people that a cause was false while failing to answer the questions that the cause previously resolved.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8447889/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCThe role of discomfort in the continued influence effect</span><span class="citation-popover-snippet">by MW Susmann · 2021 · Cited by 88 — According to this account, people then reject correcting information and maintain belief in the m...</span></span></span>
 
-Imagine a story that initially attributes an economic problem to a particular policy failure. If that explanation is later withdrawn without a replacement, readers are left with an unresolved puzzle. The outcome still needs a cause. The original explanation may have been discredited, but it remains the most complete answer available. In later reasoning, people can drift back towards it because it continues to satisfy the need for causal coherence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/1529100612451018" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsMisinformation and Its CorrectionAnother explanation for the continued influence of misinformation is the failure of control...</span></span></span>
+Imagine a story that initially attributes an economic problem to a particular policy failure. If that explanation is later withdrawn without a replacement, readers are left with an unresolved puzzle. The outcome still needs a cause. The original explanation may have been discredited, but it remains the most complete answer available. In later reasoning, people can drift back towards it because it continues to satisfy the need for causal coherence.<span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/1529100612451018" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsMisinformation and Its CorrectionAnother explanation for the continued influence of misinformation is the failure of control...</span></span></span>
 
-Research consistently shows that [corrections]({{ 'corrections/' | relative_url }}) work better when they provide an alternative explanation rather than a simple negation. A replacement cause gives people something new to insert into the mental model. Without that replacement, the retracted cause often remains the easiest way to make sense of the remaining information. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.classes.cs.uchicago.edu/archive/2020/spring/33231-1/readings/Ecker2010_Article_ExplicitWarningsReduceButDoNot.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: classes.cs.uchicago.edu">[classes.cs.uchicago.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">classes.cs.uchicago.edu</span><span class="citation-popover-snippet">Explicit warnings reduce but do not eliminate the continued...by UKH ECKER · 2010 · Cited by 741 — correction, implying that the continu...</span></span></span>
+Research consistently shows that [corrections]({{ 'corrections/' | relative_url }}) work better when they provide an alternative explanation rather than a simple negation. A replacement cause gives people something new to insert into the mental model. Without that replacement, the retracted cause often remains the easiest way to make sense of the remaining information.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.classes.cs.uchicago.edu/archive/2020/spring/33231-1/readings/Ecker2010_Article_ExplicitWarningsReduceButDoNot.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: classes.cs.uchicago.edu">[classes.cs.uchicago.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">classes.cs.uchicago.edu</span><span class="citation-popover-snippet">Explicit warnings reduce but do not eliminate the continued...by UKH ECKER · 2010 · Cited by 741 — correction, implying that the continu...</span></span></span>
 
-This helps explain a common communication mistake. Many corrections focus exclusively on proving that a claim is false. From a factual perspective, that seems sufficient. From a cognitive perspective, it may not be. If the correction destroys a causal explanation without supplying another one, the audience still faces the original explanatory problem. The old cause can therefore continue influencing later judgements despite being officially rejected. <span class="citation-chip-wrap"><a class="citation-chip" href="https://research-repository.uwa.edu.au/en/publications/misinformation-and-its-correction-continued-influence-and-success/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: research-repository.uwa.edu.au">[the UWA Profiles and Research Repository]</a><span class="citation-popover" role="note"><span class="citation-popover-source">research-repository.uwa.edu.au</span><span class="citation-popover-title">Seifert ·, N. Schwarz ·, J. Cook.Read more</span><span class="citation-popover-snippet">the UWA Profiles and Research RepositoryMisinformation and Its Correction: Continued Influence and...by S Lewandowsky · 2012 · Cited by...</span></span></span>
+This helps explain a common communication mistake. Many corrections focus exclusively on proving that a claim is false. From a factual perspective, that seems sufficient. From a cognitive perspective, it may not be. If the correction destroys a causal explanation without supplying another one, the audience still faces the original explanatory problem. The old cause can therefore continue influencing later judgements despite being officially rejected.<span class="citation-chip-wrap"><a class="citation-chip" href="https://research-repository.uwa.edu.au/en/publications/misinformation-and-its-correction-continued-influence-and-success/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: research-repository.uwa.edu.au">[the UWA Profiles and Research Repository]</a><span class="citation-popover" role="note"><span class="citation-popover-source">research-repository.uwa.edu.au</span><span class="citation-popover-title">Seifert ·, N. Schwarz ·, J. Cook.Read more</span><span class="citation-popover-snippet">the UWA Profiles and Research RepositoryMisinformation and Its Correction: Continued Influence and...by S Lewandowsky · 2012 · Cited by...</span></span></span>
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_continued_influence_15b78f_retracted_causes_772da4-Illustration-2-dark.svg" | relative_url }}" alt="Old Causes illustration 2" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_continued_influence_15b78f_retracted_causes_772da4-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_continued_influence_15b78f_retracted_causes_772da4-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How later questions reactivate the old cause
 
-A retracted cause often returns when people are asked to explain events rather than merely recall facts. Explanation tasks encourage retrieval of the broader mental model, including the relationships between events. During that retrieval process, the old causal link can become active again. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S0010027720302729" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">The rational continued influence of misinformationby SAC Desai · 2020 · Cited by 70 — Studies on the &#x27;Continued Influence Ef...</span></span></span>
+A retracted cause often returns when people are asked to explain events rather than merely recall facts. Explanation tasks encourage retrieval of the broader mental model, including the relationships between events. During that retrieval process, the old causal link can become active again.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S0010027720302729" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">The rational continued influence of misinformationby SAC Desai · 2020 · Cited by 70 — Studies on the &#x27;Continued Influence Ef...</span></span></span>
 
-This creates a striking pattern in experiments. Participants may correctly answer a direct question such as “Was that information retracted?” yet still rely on the retracted information when asked why an event occurred. The correction exists in [memory]({{ 'memory/' | relative_url }}), but it competes with a previously established explanatory structure. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.classes.cs.uchicago.edu/archive/2020/spring/33231-1/readings/Ecker2010_Article_ExplicitWarningsReduceButDoNot.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: classes.cs.uchicago.edu">[classes.cs.uchicago.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">classes.cs.uchicago.edu</span><span class="citation-popover-snippet">Explicit warnings reduce but do not eliminate the continued...by UKH ECKER · 2010 · Cited by 741 — correction, implying that the continu...</span></span></span>
+This creates a striking pattern in experiments. Participants may correctly answer a direct question such as “Was that information retracted?” yet still rely on the retracted information when asked why an event occurred. The correction exists in [memory]({{ 'memory/' | relative_url }}), but it competes with a previously established explanatory structure.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.classes.cs.uchicago.edu/archive/2020/spring/33231-1/readings/Ecker2010_Article_ExplicitWarningsReduceButDoNot.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: classes.cs.uchicago.edu">[classes.cs.uchicago.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">classes.cs.uchicago.edu</span><span class="citation-popover-snippet">Explicit warnings reduce but do not eliminate the continued...by UKH ECKER · 2010 · Cited by 741 — correction, implying that the continu...</span></span></span>
 
-Some researchers describe this as a retrieval problem. Both the misinformation and the correction may be stored in memory, but the original cause can be more accessible when people are constructing an explanation. The false cause is often connected to many other details, giving it multiple paths back into awareness. The correction may be remembered as a separate statement yet fail to dominate the reasoning process at the moment an explanation is needed. <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0271566" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.plos.org">[PLOS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.plos.org</span><span class="citation-popover-snippet">Examining the role of information integration in the continued...by JA Sanderson · 2022 · Cited by 10 — Thus, overall, results provi...</span></span></span>
+Some researchers describe this as a retrieval problem. Both the misinformation and the correction may be stored in memory, but the original cause can be more accessible when people are constructing an explanation. The false cause is often connected to many other details, giving it multiple paths back into awareness. The correction may be remembered as a separate statement yet fail to dominate the reasoning process at the moment an explanation is needed.<span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0271566" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.plos.org">[PLOS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.plos.org</span><span class="citation-popover-snippet">Examining the role of information integration in the continued...by JA Sanderson · 2022 · Cited by 10 — Thus, overall, results provi...</span></span></span>
 
-The effect becomes especially visible after delays. As memory for specific wording fades, people often retain the overall narrative structure. If the original cause helped define that structure, later questions can reactivate it even when the correction itself has not been completely forgotten. <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/1529100612451018" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsMisinformation and Its CorrectionAnother explanation for the continued influence of misinformation is the failure of control...</span></span></span>
+The effect becomes especially visible after delays. As memory for specific wording fades, people often retain the overall narrative structure. If the original cause helped define that structure, later questions can reactivate it even when the correction itself has not been completely forgotten.<span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/1529100612451018" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsMisinformation and Its CorrectionAnother explanation for the continued influence of misinformation is the failure of control...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/NoI8QzUAeiA" title="Decoding Deception: The Psychology of Combating Misinformation" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=NoI8QzUAeiA" target="_blank" rel="noopener noreferrer">Decoding Deception: The Psychology of Combating Misinformation</a></p><p class="youtube-embed-meta">Channel: PNAS &middot; Views: 12.4K &middot; Uploaded: October 2024 &middot; Length: 16 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=NoI8QzUAeiA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=NoI8QzUAeiA">Open on YouTube</a></p></div></div></div>
 
 ## Why the old cause can feel more satisfying than the correction
 
-Explanations do more than convey information. They create a sense that events make sense. A correction that simply removes a cause can leave an account feeling incomplete or unstable. Researchers have argued that people may experience discomfort when a previously coherent mental model becomes causally incomplete. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8447889/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCThe role of discomfort in the continued influence effect</span><span class="citation-popover-snippet">by MW Susmann · 2021 · Cited by 88 — According to this account, people then reject correcting information and maintain belief in the m...</span></span></span>
+Explanations do more than convey information. They create a sense that events make sense. A correction that simply removes a cause can leave an account feeling incomplete or unstable. Researchers have argued that people may experience discomfort when a previously coherent mental model becomes causally incomplete.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8447889/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCThe role of discomfort in the continued influence effect</span><span class="citation-popover-snippet">by MW Susmann · 2021 · Cited by 88 — According to this account, people then reject correcting information and maintain belief in the m...</span></span></span>
 
-In this situation, the old cause offers an immediate solution. Even though it has been discredited, it restores coherence. It reconnects the events, resolves unanswered questions and reduces uncertainty. The attraction is therefore not always a matter of believing the misinformation outright. Sometimes it is a matter of explanatory convenience. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8447889/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCThe role of discomfort in the continued influence effect</span><span class="citation-popover-snippet">by MW Susmann · 2021 · Cited by 88 — According to this account, people then reject correcting information and maintain belief in the m...</span></span></span>
+In this situation, the old cause offers an immediate solution. Even though it has been discredited, it restores coherence. It reconnects the events, resolves unanswered questions and reduces uncertainty. The attraction is therefore not always a matter of believing the misinformation outright. Sometimes it is a matter of explanatory convenience.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8447889/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCThe role of discomfort in the continued influence effect</span><span class="citation-popover-snippet">by MW Susmann · 2021 · Cited by 88 — According to this account, people then reject correcting information and maintain belief in the m...</span></span></span>
 
-Recent work has explored whether this discomfort contributes to continued reliance on misinformation. The findings suggest that when a retraction creates a causal gap, people can be motivated to preserve or return to the earlier explanation because it maintains a complete account of the event. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8447889/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCThe role of discomfort in the continued influence effect</span><span class="citation-popover-snippet">by MW Susmann · 2021 · Cited by 88 — According to this account, people then reject correcting information and maintain belief in the m...</span></span></span>
+Recent work has explored whether this discomfort contributes to continued reliance on misinformation. The findings suggest that when a retraction creates a causal gap, people can be motivated to preserve or return to the earlier explanation because it maintains a complete account of the event.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8447889/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCThe role of discomfort in the continued influence effect</span><span class="citation-popover-snippet">by MW Susmann · 2021 · Cited by 88 — According to this account, people then reject correcting information and maintain belief in the m...</span></span></span>
 
 This helps explain why myths often survive in subtle forms. People may publicly accept the correction while privately continuing to use the old cause as a background explanation. The myth no longer appears as an explicit belief, yet it still shapes how later events are interpreted.
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_continued_influence_15b78f_retracted_causes_772da4-Illustration-3-dark.svg" | relative_url }}" alt="Old Causes illustration 3" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_continued_influence_15b78f_retracted_causes_772da4-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_continued_influence_15b78f_retracted_causes_772da4-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why replacement explanations matter
 
-The strongest lesson from this research is that causal misinformation is not removed simply by crossing it out. Once a false cause has been integrated into a mental model, effective correction requires reconstruction as well as rejection. <span class="citation-chip-wrap"><a class="citation-chip" href="https://digitalcommons.chapman.edu/cgi/viewcontent.cgi?article=1061&amp;context=comm_articles" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: digitalcommons.chapman.edu">[Digital Commons]</a><span class="citation-popover" role="note"><span class="citation-popover-source">digitalcommons.chapman.edu</span><span class="citation-popover-snippet">Digital CommonsA Meta-Analytic Examination of the Continued Influence of...by N Walter · 2019 · Cited by 649 — A more effective correcti...</span></span></span>
+The strongest lesson from this research is that causal misinformation is not removed simply by crossing it out. Once a false cause has been integrated into a mental model, effective correction requires reconstruction as well as rejection.<span class="citation-chip-wrap"><a class="citation-chip" href="https://digitalcommons.chapman.edu/cgi/viewcontent.cgi?article=1061&amp;context=comm_articles" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: digitalcommons.chapman.edu">[Digital Commons]</a><span class="citation-popover" role="note"><span class="citation-popover-source">digitalcommons.chapman.edu</span><span class="citation-popover-snippet">Digital CommonsA Meta-Analytic Examination of the Continued Influence of...by N Walter · 2019 · Cited by 649 — A more effective correcti...</span></span></span>
 
-Replacement explanations work because they preserve coherence while updating the facts. Instead of leaving a gap, they offer a new account that explains the same outcome. This reduces the need to fall back on the original cause and gives later reasoning a different path to follow. <span class="citation-chip-wrap"><a class="citation-chip" href="https://digitalcommons.chapman.edu/cgi/viewcontent.cgi?article=1061&amp;context=comm_articles" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: digitalcommons.chapman.edu">[Digital Commons]</a><span class="citation-popover" role="note"><span class="citation-popover-source">digitalcommons.chapman.edu</span><span class="citation-popover-snippet">Digital CommonsA Meta-Analytic Examination of the Continued Influence of...by N Walter · 2019 · Cited by 649 — A more effective correcti...</span></span></span>
+Replacement explanations work because they preserve coherence while updating the facts. Instead of leaving a gap, they offer a new account that explains the same outcome. This reduces the need to fall back on the original cause and gives later reasoning a different path to follow.<span class="citation-chip-wrap"><a class="citation-chip" href="https://digitalcommons.chapman.edu/cgi/viewcontent.cgi?article=1061&amp;context=comm_articles" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: digitalcommons.chapman.edu">[Digital Commons]</a><span class="citation-popover" role="note"><span class="citation-popover-source">digitalcommons.chapman.edu</span><span class="citation-popover-snippet">Digital CommonsA Meta-Analytic Examination of the Continued Influence of...by N Walter · 2019 · Cited by 649 — A more effective correcti...</span></span></span>
 
-The continued influence effect therefore reveals something important about how misconceptions persist. People are not always clinging to false causes because they missed the correction or refused to believe it. Often the retracted cause survives because it remains the most useful explanation available. Until another explanation takes its place, the old one can continue shaping answers to the simple question that drives much human reasoning: “Why did that happen?” <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/1529100612451018" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsMisinformation and Its CorrectionAnother explanation for the continued influence of misinformation is the failure of control...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8447889/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCThe role of discomfort in the continued influence effect</span><span class="citation-popover-snippet">by MW Susmann · 2021 · Cited by 88 — According to this account, people then reject correcting information and maintain belief in the m...</span></span></span>
+The continued influence effect therefore reveals something important about how misconceptions persist. People are not always clinging to false causes because they missed the correction or refused to believe it. Often the retracted cause survives because it remains the most useful explanation available. Until another explanation takes its place, the old one can continue shaping answers to the simple question that drives much human reasoning: “Why did that happen?”<span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/1529100612451018" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsMisinformation and Its CorrectionAnother explanation for the continued influence of misinformation is the failure of control...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8447889/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCThe role of discomfort in the continued influence effect</span><span class="citation-popover-snippet">by MW Susmann · 2021 · Cited by 88 — According to this account, people then reject correcting information and maintain belief in the m...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/H_dHJVH5hPU" title="The Continued Influence of Misinformation — Ullrich Ecker (CHDH Seminar Series 2020 )" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=H_dHJVH5hPU" target="_blank" rel="noopener noreferrer">The Continued Influence of Misinformation — Ullrich Ecker (CHDH Seminar Series 2020 )</a></p><p class="youtube-embed-meta">Channel: Complex Human Data Hub &middot; Views: 214 &middot; Uploaded: September 2020 &middot; Length: 1 hour 4 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=H_dHJVH5hPU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=H_dHJVH5hPU">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why corrected causes still feel useful. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why corrected causes still feel useful. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YGPzXWanppcC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
-        </h4>
-        <p class="fr-book-author">By Daniel Kahneman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YGPzXWanppcC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
+</h4>
+<p class="fr-book-author">By Daniel Kahneman</p>
         
-        <p class="fr-book-desc">Explains cognitive shortcuts that keep corrected causes mentally active.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains cognitive shortcuts that keep corrected causes mentally active.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mistakes Were Made (but Not by Me) Third Edition on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jmmVxgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Mistakes Were Made (but Not by Me) Third Edition" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mistakes Were Made (but Not by Me) Third Edition">Mistakes Were Made (but Not by Me) Third Edition</a>
-        </h4>
-        <p class="fr-book-author">By Carol Tavris, Elliot Aronson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mistakes Were Made (but Not by Me) Third Edition on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jmmVxgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Mistakes Were Made (but Not by Me) Third Edition" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mistakes Were Made (but Not by Me) Third Edition">Mistakes Were Made (but Not by Me) Third Edition</a>
+</h4>
+<p class="fr-book-author">By Carol Tavris, Elliot Aronson</p>
         
-        <p class="fr-book-desc">Helps explain why people continue defending or using corrected beliefs.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps explain why people continue defending or using corrected beliefs.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Knowledge+Illusion+Steven+Sloman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Knowledge Illusion on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8826867-M.jpg" alt="Cover for The Knowledge Illusion" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Knowledge+Illusion+Steven+Sloman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Knowledge Illusion">The Knowledge Illusion</a>
-        </h4>
-        <p class="fr-book-author">By Steven Sloman, Philip Fernbach</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Knowledge+Illusion+Steven+Sloman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Knowledge Illusion on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8826867-M.jpg" alt="Cover for The Knowledge Illusion" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Knowledge+Illusion+Steven+Sloman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Knowledge Illusion">The Knowledge Illusion</a>
+</h4>
+<p class="fr-book-author">By Steven Sloman, Philip Fernbach</p>
         
-        <p class="fr-book-desc">First published 2017. Subjects: Cognitive psychology, Knowledge, theory of, Knowledge, sociology of, Thought and thinking, Intellect.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Knowledge+Illusion+Steven+Sloman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2017. Subjects: Cognitive psychology, Knowledge, theory of, Knowledge, sociology of, Thought and thinking, Intellect.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Knowledge+Illusion+Steven+Sloman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Foolproof+Sander+Van+Der+Linden&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Foolproof on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/13300557-M.jpg" alt="Cover for Foolproof" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Foolproof+Sander+Van+Der+Linden&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Foolproof">Foolproof</a>
-        </h4>
-        <p class="fr-book-author">By Sander Van Der Linden</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Foolproof+Sander+Van+Der+Linden&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Foolproof on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/13300557-M.jpg" alt="Cover for Foolproof" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Foolproof+Sander+Van+Der+Linden&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Foolproof">Foolproof</a>
+</h4>
+<p class="fr-book-author">By Sander Van Der Linden</p>
         
-        <p class="fr-book-desc">First published 2023.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Foolproof+Sander+Van+Der+Linden&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2023.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Foolproof+Sander+Van+Der+Linden&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mistakes Were Made (but Not by Me) Third Edition</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Knowledge+Illusion&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Knowledge Illusion</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mistakes Were Made (but Not by Me) Third Edition</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Knowledge+Illusion&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Knowledge Illusion</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=old-causes-why-corrected-causes-still-feel-useful-myths-and-misconcept-critical-thinking-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster -book -books" data-ebay-reference="old-causes-why-corrected-causes-still-feel-useful-myths-and-misconcept-critical-thinking-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Manic Street Preachers Signed Photo &amp; CD Framed &amp; COA Critical Thinking Poster"><img src="{{ '/assets/images/marketplace-covers/de840e360b6897338238.jpg' | relative_url }}" alt="Listing image for Manic Street Preachers Signed Photo &amp; CD Framed &amp; COA Critical Thinking Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=old-causes-why-corrected-causes-still-feel-useful-myths-and-misconcept-critical-thinking-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster -book -books" data-ebay-reference="old-causes-why-corrected-causes-still-feel-useful-myths-and-misconcept-critical-thinking-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Manic Street Preachers Signed Photo &amp; CD Framed &amp; COA Critical Thinking Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=old-causes-why-corrected-causes-still-feel-useful-myths-and-misconcept-critical-thinking-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster -book -books" data-ebay-reference="old-causes-why-corrected-causes-still-feel-useful-myths-and-misconcept-critical-thinking-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=old-causes-why-corrected-causes-still-feel-useful-myths-and-misconcept-critical-thinking-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster -book -books" data-ebay-reference="old-causes-why-corrected-causes-still-feel-useful-myths-and-misconcept-critical-thinking-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=old-causes-why-corrected-causes-still-feel-useful-myths-and-misconcept-critical-thinking-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster -book -books" data-ebay-reference="old-causes-why-corrected-causes-still-feel-useful-myths-and-misconcept-critical-thinking-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Manic Street Preachers Signed Photo &amp; CD Framed &amp; COA Critical Thinking Poster"><img src="{{ '/assets/images/marketplace-covers/de840e360b6897338238.jpg' | relative_url }}" alt="Listing image for Manic Street Preachers Signed Photo &amp; CD Framed &amp; COA Critical Thinking Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=old-causes-why-corrected-causes-still-feel-useful-myths-and-misconcept-critical-thinking-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster -book -books" data-ebay-reference="old-causes-why-corrected-causes-still-feel-useful-myths-and-misconcept-critical-thinking-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Manic Street Preachers Signed Photo &amp; CD Framed &amp; COA Critical Thinking Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=old-causes-why-corrected-causes-still-feel-useful-myths-and-misconcept-critical-thinking-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster -book -books" data-ebay-reference="old-causes-why-corrected-causes-still-feel-useful-myths-and-misconcept-critical-thinking-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=old-causes-why-corrected-causes-still-feel-useful-myths-and-misconcept-critical-thinking-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster -book -books" data-ebay-reference="old-causes-why-corrected-causes-still-feel-useful-myths-and-misconcept-critical-thinking-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=old-causes-why-corrected-causes-still-feel-useful-myths-and-misconcept-critical-thinking-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster -book -books" data-ebay-reference="old-causes-why-corrected-causes-still-feel-useful-myths-and-misconcept-critical-thinking-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Manic Street Preachers Signed Photo Framed &amp; COA Auto Critical Thinking Poster"><img src="{{ '/assets/images/marketplace-covers/f53b5ef9808c94d6a4f1.jpg' | relative_url }}" alt="Listing image for Manic Street Preachers Signed Photo Framed &amp; COA Auto Critical Thinking Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=old-causes-why-corrected-causes-still-feel-useful-myths-and-misconcept-critical-thinking-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster -book -books" data-ebay-reference="old-causes-why-corrected-causes-still-feel-useful-myths-and-misconcept-critical-thinking-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Manic Street Preachers Signed Photo Framed &amp; COA Auto Critical Thinking Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=old-causes-why-corrected-causes-still-feel-useful-myths-and-misconcept-critical-thinking-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster -book -books" data-ebay-reference="old-causes-why-corrected-causes-still-feel-useful-myths-and-misconcept-critical-thinking-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=old-causes-why-corrected-causes-still-feel-useful-myths-and-misconcept-critical-thinking-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster -book -books" data-ebay-reference="old-causes-why-corrected-causes-still-feel-useful-myths-and-misconcept-critical-thinking-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=old-causes-why-corrected-causes-still-feel-useful-myths-and-misconcept-critical-thinking-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster -book -books" data-ebay-reference="old-causes-why-corrected-causes-still-feel-useful-myths-and-misconcept-critical-thinking-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Manic Street Preachers Signed Photo Framed &amp; COA Auto Critical Thinking Poster"><img src="{{ '/assets/images/marketplace-covers/f53b5ef9808c94d6a4f1.jpg' | relative_url }}" alt="Listing image for Manic Street Preachers Signed Photo Framed &amp; COA Auto Critical Thinking Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=old-causes-why-corrected-causes-still-feel-useful-myths-and-misconcept-critical-thinking-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster -book -books" data-ebay-reference="old-causes-why-corrected-causes-still-feel-useful-myths-and-misconcept-critical-thinking-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Manic Street Preachers Signed Photo Framed &amp; COA Auto Critical Thinking Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=old-causes-why-corrected-causes-still-feel-useful-myths-and-misconcept-critical-thinking-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster -book -books" data-ebay-reference="old-causes-why-corrected-causes-still-feel-useful-myths-and-misconcept-critical-thinking-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=old-causes-why-corrected-causes-still-feel-useful-myths-and-misconcept-critical-thinking-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster -book -books" data-ebay-reference="old-causes-why-corrected-causes-still-feel-useful-myths-and-misconcept-critical-thinking-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=old-causes-why-corrected-causes-still-feel-useful-myths-and-misconcept-critical-thinking-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster -book -books" data-ebay-reference="old-causes-why-corrected-causes-still-feel-useful-myths-and-misconcept-critical-thinking-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking 2020 2 Movie Poster Art Print Display Famous Artwork StudioDec"><img src="{{ '/assets/images/marketplace-covers/2d0303c0f2d17049521c.jpg' | relative_url }}" alt="Listing image for Critical Thinking 2020 2 Movie Poster Art Print Display Famous Artwork StudioDec" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=old-causes-why-corrected-causes-still-feel-useful-myths-and-misconcept-critical-thinking-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster -book -books" data-ebay-reference="old-causes-why-corrected-causes-still-feel-useful-myths-and-misconcept-critical-thinking-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking 2020 2 Movie Poster Art Print Display Famous Artwork StudioDec</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=old-causes-why-corrected-causes-still-feel-useful-myths-and-misconcept-critical-thinking-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster -book -books" data-ebay-reference="old-causes-why-corrected-causes-still-feel-useful-myths-and-misconcept-critical-thinking-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=old-causes-why-corrected-causes-still-feel-useful-myths-and-misconcept-critical-thinking-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster -book -books" data-ebay-reference="old-causes-why-corrected-causes-still-feel-useful-myths-and-misconcept-critical-thinking-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=old-causes-why-corrected-causes-still-feel-useful-myths-and-misconcept-critical-thinking-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster -book -books" data-ebay-reference="old-causes-why-corrected-causes-still-feel-useful-myths-and-misconcept-critical-thinking-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking 2020 2 Movie Poster Art Print Display Famous Artwork StudioDec"><img src="{{ '/assets/images/marketplace-covers/2d0303c0f2d17049521c.jpg' | relative_url }}" alt="Listing image for Critical Thinking 2020 2 Movie Poster Art Print Display Famous Artwork StudioDec" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=old-causes-why-corrected-causes-still-feel-useful-myths-and-misconcept-critical-thinking-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster -book -books" data-ebay-reference="old-causes-why-corrected-causes-still-feel-useful-myths-and-misconcept-critical-thinking-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking 2020 2 Movie Poster Art Print Display Famous Artwork StudioDec</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=old-causes-why-corrected-causes-still-feel-useful-myths-and-misconcept-critical-thinking-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster -book -books" data-ebay-reference="old-causes-why-corrected-causes-still-feel-useful-myths-and-misconcept-critical-thinking-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=old-causes-why-corrected-causes-still-feel-useful-myths-and-misconcept-critical-thinking-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster -book -books" data-ebay-reference="old-causes-why-corrected-causes-still-feel-useful-myths-and-misconcept-critical-thinking-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=old-causes-why-corrected-causes-still-feel-useful-myths-and-misconcept-critical-thinking-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster -book -books" data-ebay-reference="old-causes-why-corrected-causes-still-feel-useful-myths-and-misconcept-critical-thinking-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking 2020 4 Movie Poster Art Print PopCulture Wall Memorable Exclus"><img src="{{ '/assets/images/marketplace-covers/d99b026298e0e1e60836.jpg' | relative_url }}" alt="Listing image for Critical Thinking 2020 4 Movie Poster Art Print PopCulture Wall Memorable Exclus" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=old-causes-why-corrected-causes-still-feel-useful-myths-and-misconcept-critical-thinking-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster -book -books" data-ebay-reference="old-causes-why-corrected-causes-still-feel-useful-myths-and-misconcept-critical-thinking-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking 2020 4 Movie Poster Art Print PopCulture Wall Memorable Exclus</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=old-causes-why-corrected-causes-still-feel-useful-myths-and-misconcept-critical-thinking-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster -book -books" data-ebay-reference="old-causes-why-corrected-causes-still-feel-useful-myths-and-misconcept-critical-thinking-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=old-causes-why-corrected-causes-still-feel-useful-myths-and-misconcept-critical-thinking-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster -book -books" data-ebay-reference="old-causes-why-corrected-causes-still-feel-useful-myths-and-misconcept-critical-thinking-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=old-causes-why-corrected-causes-still-feel-useful-myths-and-misconcept-critical-thinking-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster -book -books" data-ebay-reference="old-causes-why-corrected-causes-still-feel-useful-myths-and-misconcept-critical-thinking-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=old-causes-why-corrected-causes-still-feel-useful-myths-and-misconcept-critical-thinking-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster -book -books" data-ebay-reference="old-causes-why-corrected-causes-still-feel-useful-myths-and-misconcept-critical-thinking-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking 2020 4 Movie Poster Art Print PopCulture Wall Memorable Exclus"><img src="{{ '/assets/images/marketplace-covers/d99b026298e0e1e60836.jpg' | relative_url }}" alt="Listing image for Critical Thinking 2020 4 Movie Poster Art Print PopCulture Wall Memorable Exclus" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=old-causes-why-corrected-causes-still-feel-useful-myths-and-misconcept-critical-thinking-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster -book -books" data-ebay-reference="old-causes-why-corrected-causes-still-feel-useful-myths-and-misconcept-critical-thinking-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking 2020 4 Movie Poster Art Print PopCulture Wall Memorable Exclus</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=old-causes-why-corrected-causes-still-feel-useful-myths-and-misconcept-critical-thinking-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster -book -books" data-ebay-reference="old-causes-why-corrected-causes-still-feel-useful-myths-and-misconcept-critical-thinking-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=old-causes-why-corrected-causes-still-feel-useful-myths-and-misconcept-critical-thinking-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster -book -books" data-ebay-reference="old-causes-why-corrected-causes-still-feel-useful-myths-and-misconcept-critical-thinking-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=old-causes-why-corrected-causes-still-feel-useful-myths-and-misconcept-critical-thinking-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster -book -books" data-ebay-reference="old-causes-why-corrected-causes-still-feel-useful-myths-and-misconcept-critical-thinking-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -539,7 +539,7 @@ The continued influence effect therefore reveals something important about how m
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -559,7 +559,7 @@ The continued influence effect therefore reveals something important about how m
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -591,7 +591,7 @@ The continued influence effect therefore reveals something important about how m
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -643,7 +643,7 @@ The continued influence effect therefore reveals something important about how m
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -688,7 +688,7 @@ The continued influence effect therefore reveals something important about how m
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -729,113 +729,113 @@ The continued influence effect therefore reveals something important about how m
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: classes.cs.uchicago.edu  
-   Link: <a href="https://www.classes.cs.uchicago.edu/archive/2020/spring/33231-1/readings/Ecker2010_Article_ExplicitWarningsReduceButDoNot.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.classes.cs.uchicago.edu/archive/2020/spring/33231-1/readings/Ecker2010_Article_ExplicitWarningsReduceButDoNot.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Explicit warnings reduce but do not eliminate the continued...by UKH ECKER · 2010 · Cited by 741 — correction, implying that the continu...</p></details>
+   Link:<a href="https://www.classes.cs.uchicago.edu/archive/2020/spring/33231-1/readings/Ecker2010_Article_ExplicitWarningsReduceButDoNot.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.classes.cs.uchicago.edu/archive/2020/spring/33231-1/readings/Ecker2010_Article_ExplicitWarningsReduceButDoNot.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Explicit warnings reduce but do not eliminate the continued...by UKH ECKER · 2010 · Cited by 741 — correction, implying that the continu...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCThe role of discomfort in the continued influence effect  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8447889/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8447889/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>by MW Susmann · 2021 · Cited by 88 — According to this account, people then reject correcting information and maintain belief in the m...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8447889/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8447889/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by MW Susmann · 2021 · Cited by 88 — According to this account, people then reject correcting information and maintain belief in the m...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: research-repository.uwa.edu.au  
    Title: Seifert ·, N. Schwarz ·, J. Cook.Read more  
-   Link: <a href="https://research-repository.uwa.edu.au/en/publications/misinformation-and-its-correction-continued-influence-and-success/" target="_blank" rel="noopener noreferrer nofollow">https://research-repository.uwa.edu.au/en/publications/misinformation-and-its-correction-continued-influence-and-success/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>the UWA Profiles and Research RepositoryMisinformation and Its Correction: Continued Influence and...by S Lewandowsky · 2012 · Cited by...</p></details>
+   Link:<a href="https://research-repository.uwa.edu.au/en/publications/misinformation-and-its-correction-continued-influence-and-success/" target="_blank" rel="noopener noreferrer nofollow">https://research-repository.uwa.edu.au/en/publications/misinformation-and-its-correction-continued-influence-and-success/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>the UWA Profiles and Research RepositoryMisinformation and Its Correction: Continued Influence and...by S Lewandowsky · 2012 · Cited by...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0010027720302729" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0010027720302729</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The rational continued influence of misinformationby SAC Desai · 2020 · Cited by 70 — Studies on the &#x27;Continued Influence Ef...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/abs/pii/S0010027720302729" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0010027720302729</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The rational continued influence of misinformationby SAC Desai · 2020 · Cited by 70 — Studies on the &#x27;Continued Influence Ef...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9292086/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9292086/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Examining the role of information integration in the continued...by JA Sanderson · 2022 · Cited by 10 — Thus, overall, results provid...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9292086/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9292086/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Examining the role of information integration in the continued...by JA Sanderson · 2022 · Cited by 10 — Thus, overall, results provid...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: journals.plos.org  
-   Link: <a href="https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0271566" target="_blank" rel="noopener noreferrer nofollow">https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0271566</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Examining the role of information integration in the continued...by JA Sanderson · 2022 · Cited by 10 — Thus, overall, results provi...</p></details>
+   Link:<a href="https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0271566" target="_blank" rel="noopener noreferrer nofollow">https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0271566</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Examining the role of information integration in the continued...by JA Sanderson · 2022 · Cited by 10 — Thus, overall, results provi...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: youtube.com  
    Title: Decoding Deception: The Psychology of Combating Misinformation  
-   Link: <a href="https://www.youtube.com/watch?v=NoI8QzUAeiA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=NoI8QzUAeiA</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Continued Influence Effect - Why do memories of misinformation persist in our minds?...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=NoI8QzUAeiA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=NoI8QzUAeiA</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Continued Influence Effect - Why do memories of misinformation persist in our minds?...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: youtube.com  
    Title: The Continued Influence Effect  
-   Link: <a href="https://www.youtube.com/watch?v=eZ_hcf01EFw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=eZ_hcf01EFw</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Continued Influence of Misinformation — Ullrich Ecker...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=eZ_hcf01EFw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=eZ_hcf01EFw</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Continued Influence of Misinformation — Ullrich Ecker...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: journals.sagepub.com  
-   Link: <a href="https://journals.sagepub.com/doi/10.1177/1529100612451018" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/1529100612451018</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Sage JournalsMisinformation and Its CorrectionAnother explanation for the continued influence of misinformation is the failure of control...</p></details>
+   Link:<a href="https://journals.sagepub.com/doi/10.1177/1529100612451018" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/1529100612451018</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sage JournalsMisinformation and Its CorrectionAnother explanation for the continued influence of misinformation is the failure of control...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: digitalcommons.chapman.edu  
-   Link: <a href="https://digitalcommons.chapman.edu/cgi/viewcontent.cgi?article=1061&amp;context=comm_articles" target="_blank" rel="noopener noreferrer nofollow">https://digitalcommons.chapman.edu/cgi/viewcontent.cgi?article=1061&amp;context=comm_articles</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Digital CommonsA Meta-Analytic Examination of the Continued Influence of...by N Walter · 2019 · Cited by 649 — A more effective correcti...</p></details>
+   Link:<a href="https://digitalcommons.chapman.edu/cgi/viewcontent.cgi?article=1061&amp;context=comm_articles" target="_blank" rel="noopener noreferrer nofollow">https://digitalcommons.chapman.edu/cgi/viewcontent.cgi?article=1061&amp;context=comm_articles</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Digital CommonsA Meta-Analytic Examination of the Continued Influence of...by N Walter · 2019 · Cited by 649 — A more effective correcti...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Misinformation" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Misinformation</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>MisinformationMisinformation can include inaccurate, incomplete, misleading, or false information as well as selective or half-truths...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Misinformation" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Misinformation</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>MisinformationMisinformation can include inaccurate, incomplete, misleading, or false information as well as selective or half-truths...</p></details>
 
 ### Additional References
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: un.org  
-   Link: <a href="https://www.un.org/en/countering-disinformation" target="_blank" rel="noopener noreferrer nofollow">https://www.un.org/en/countering-disinformation</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Countering DisinformationWhile misinformation refers to the accidental spread of inaccurate information, disinformation is not only inacc...</p></details>
+   Link:<a href="https://www.un.org/en/countering-disinformation" target="_blank" rel="noopener noreferrer nofollow">https://www.un.org/en/countering-disinformation</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Countering DisinformationWhile misinformation refers to the accidental spread of inaccurate information, disinformation is not only inacc...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: psychology.hku.hk  
-   Link: <a href="https://www.psychology.hku.hk/scnlab/files/publications/preprint/Guo%20et%20al.%2C%202023%2C%20Preprint.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.psychology.hku.hk/scnlab/files/publications/preprint/Guo%20et%20al.%2C%202023%2C%20Preprint.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of PsychologyHow does an alternative explanation reduce the continued...by S Guo — The outdated misinformation often co...</p></details>
+   Link:<a href="https://www.psychology.hku.hk/scnlab/files/publications/preprint/Guo%20et%20al.%2C%202023%2C%20Preprint.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.psychology.hku.hk/scnlab/files/publications/preprint/Guo%20et%20al.%2C%202023%2C%20Preprint.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Department of PsychologyHow does an alternative explanation reduce the continued...by S Guo — The outdated misinformation often co...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: aec.gov.au  
-   Link: <a href="https://www.aec.gov.au/About_AEC/files/eiat/eiat-disinformation-factsheet.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aec.gov.au/About_AEC/files/eiat/eiat-disinformation-factsheet.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Disinformation and MisinformationDisinformation and Misinformation. What is disinformation and misinformation? Misinformation is false in...</p></details>
+   Link:<a href="https://www.aec.gov.au/About_AEC/files/eiat/eiat-disinformation-factsheet.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aec.gov.au/About_AEC/files/eiat/eiat-disinformation-factsheet.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Disinformation and MisinformationDisinformation and Misinformation. What is disinformation and misinformation? Misinformation is false in...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: emc-lab.org  
-   Link: <a href="https://www.emc-lab.org/uploads/1/1/3/6/113627673/chapter_swireecker_revised.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.emc-lab.org/uploads/1/1/3/6/113627673/chapter_swireecker_revised.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ecker Memory &amp; Cognition LabMisinformation and its Correctionby B Swire · Cited by 137 — Even after people receive clear and credible cor...</p></details>
+   Link:<a href="https://www.emc-lab.org/uploads/1/1/3/6/113627673/chapter_swireecker_revised.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.emc-lab.org/uploads/1/1/3/6/113627673/chapter_swireecker_revised.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ecker Memory &amp; Cognition LabMisinformation and its Correctionby B Swire · Cited by 137 — Even after people receive clear and credible cor...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: apa.org  
-   Link: <a href="https://www.apa.org/topics/journalism-facts/misinformation-disinformation" target="_blank" rel="noopener noreferrer nofollow">https://www.apa.org/topics/journalism-facts/misinformation-disinformation</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Misinformation and disinformationMisinformation is false or inaccurate information—getting the facts wrong. Disinformation is false infor...</p></details>
+   Link:<a href="https://www.apa.org/topics/journalism-facts/misinformation-disinformation" target="_blank" rel="noopener noreferrer nofollow">https://www.apa.org/topics/journalism-facts/misinformation-disinformation</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Misinformation and disinformationMisinformation is false or inaccurate information—getting the facts wrong. Disinformation is false infor...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/391015007_To_be_continued_misinformation%27s_bizarre_adventure_beyond_memory_failures_-_exploring_non-memory-based_mechanisms_driving_the_continued_influence_effect_CIE" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/391015007_To_be_continued_misinformation%27s_bizarre_adventure_beyond_memory_failures_-_exploring_non-memory-based_mechanisms_driving_the_continued_influence_effect_CIE</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) To be continued: misinformation&#x27;s bizarre adventure...18 Nov 2025 — The Continued Influence Effect (CIE) refers to the persistent...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/391015007_To_be_continued_misinformation%27s_bizarre_adventure_beyond_memory_failures_-_exploring_non-memory-based_mechanisms_driving_the_continued_influence_effect_CIE" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/391015007_To_be_continued_misinformation%27s_bizarre_adventure_beyond_memory_failures_-_exploring_non-memory-based_mechanisms_driving_the_continued_influence_effect_CIE</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) To be continued: misinformation&#x27;s bizarre adventure...18 Nov 2025 — The Continued Influence Effect (CIE) refers to the persistent...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: research-information.bris.ac.uk  
-   Link: <a href="https://research-information.bris.ac.uk/files/298563464/Ecker_v4_TSshorten_UE_clean.pdf" target="_blank" rel="noopener noreferrer nofollow">https://research-information.bris.ac.uk/files/298563464/Ecker_v4_TSshorten_UE_clean.pdf</a>  
+   Link:<a href="https://research-information.bris.ac.uk/files/298563464/Ecker_v4_TSshorten_UE_clean.pdf" target="_blank" rel="noopener noreferrer nofollow">https://research-information.bris.ac.uk/files/298563464/Ecker_v4_TSshorten_UE_clean.pdf</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: unhcr.org  
-   Link: <a href="https://www.unhcr.org/innovation/wp-content/uploads/2022/02/Factsheet-4.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.unhcr.org/innovation/wp-content/uploads/2022/02/Factsheet-4.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Disinformation. Misinformation is false or inaccurate information. Examples include rumors, insults and pranks. Disinformation is...Read...</p></details>
+   Link:<a href="https://www.unhcr.org/innovation/wp-content/uploads/2022/02/Factsheet-4.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.unhcr.org/innovation/wp-content/uploads/2022/02/Factsheet-4.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Disinformation. Misinformation is false or inaccurate information. Examples include rumors, insults and pranks. Disinformation is...Read...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/26173286/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/26173286/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>and Its Correction: Continued Influence and...by S Lewandowsky · 2012 · Cited by 4641 — We first examine the mechanisms by which such mi...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/26173286/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/26173286/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>and Its Correction: Continued Influence and...by S Lewandowsky · 2012 · Cited by 4641 — We first examine the mechanisms by which such mi...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: youtube.com  
    Title: The Continued Influence of Misinformation — Ullrich Ecker  
-   Link: <a href="https://www.youtube.com/watch?v=H_dHJVH5hPU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=H_dHJVH5hPU</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>These videos explain the psychological mechanisms behind the continued influence effect, detailing how retracted information functions as...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=H_dHJVH5hPU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=H_dHJVH5hPU</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>These videos explain the psychological mechanisms behind the continued influence effect, detailing how retracted information functions as...</p></details>

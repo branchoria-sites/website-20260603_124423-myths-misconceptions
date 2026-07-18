@@ -271,7 +271,7 @@ image: /assets/images/Myths_and_misconcept_0d48d7_uncertainty_and_myth_ca758b_an
 Anxiety does more than make people feel uneasy. It changes how they deal with uncertainty. When the future seems unclear, the mind often looks for explanations that reduce doubt quickly. This is one reason simple myths can become especially convincing during anxious periods. Rather than leaving questions unanswered, myths offer a clear story, an identifiable cause, and a sense that events are understandable and predictable.
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_uncertainty_and_myth_ca758b_anxiety_myth_appeal_c1e58c-Illustration-1-dark.svg" | relative_url }}" alt="Anxiety Effects illustration 1" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_uncertainty_and_myth_ca758b_anxiety_myth_appeal_c1e58c-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_uncertainty_and_myth_ca758b_anxiety_myth_appeal_c1e58c-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-Research in psychology suggests that anxiety is closely linked to intolerance of uncertainty—the tendency to find ambiguous situations especially uncomfortable. When uncertainty feels threatening, explanations that simplify complexity can provide emotional relief, even if those explanations are inaccurate or unsupported by evidence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.psychologytools.com/articles/intolerance-of-uncertainty-help-your-clients-to-embrace-the-unknown-using-behavioral-experiments" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: psychologytools.com">[Psychology Tools]</a><span class="citation-popover" role="note"><span class="citation-popover-source">psychologytools.com</span><span class="citation-popover-snippet">Psychology ToolsIntolerance Of Uncertainty: Help Your Clients To Embrace...15 Jun 2020 — Intolerance of uncertainty is an important tran...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10475148/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCAnxiety as a disorder of uncertainty</span><span class="citation-popover-snippet">NIHby VM Brown · 2023 · Cited by 51 — Studies of risk, ambiguity, and loss aversion in anxiety point to increased risk and ambiguit...</span></span></span>
+Research in psychology suggests that anxiety is closely linked to intolerance of uncertainty—the tendency to find ambiguous situations especially uncomfortable. When uncertainty feels threatening, explanations that simplify complexity can provide emotional relief, even if those explanations are inaccurate or unsupported by evidence.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.psychologytools.com/articles/intolerance-of-uncertainty-help-your-clients-to-embrace-the-unknown-using-behavioral-experiments" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: psychologytools.com">[Psychology Tools]</a><span class="citation-popover" role="note"><span class="citation-popover-source">psychologytools.com</span><span class="citation-popover-snippet">Psychology ToolsIntolerance Of Uncertainty: Help Your Clients To Embrace...15 Jun 2020 — Intolerance of uncertainty is an important tran...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10475148/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCAnxiety as a disorder of uncertainty</span><span class="citation-popover-snippet">NIHby VM Brown · 2023 · Cited by 51 — Studies of risk, ambiguity, and loss aversion in anxiety point to increased risk and ambiguit...</span></span></span>
 
 ## Why Do Anxious People Prefer Simple Explanations?
 
@@ -279,7 +279,7 @@ The key mechanism is not a lack of intelligence or information. Instead, anxiety
 
 When people are anxious, unanswered questions can feel emotionally exhausting. A complex reality often contains competing explanations, incomplete evidence, and unresolved debates. Accepting that ambiguity requires mental effort and emotional tolerance. For an anxious person, that uncertainty may feel more distressing than adopting a simple explanation.
 
-Studies of anxiety consistently find links between anxiety and ambiguity aversion—the tendency to avoid situations where outcomes or information remain unclear. People with higher anxiety levels often perceive ambiguous situations as more threatening and more difficult to tolerate. PMC <span class="citation-chip-wrap"><a class="citation-chip" href="https://cpsyjournal.org/articles/10.5334/cpsy.67" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cpsyjournal.org">[Computational Psychiatry]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cpsyjournal.org</span><span class="citation-popover-snippet">Computational PsychiatryThe Computational and Neural Substrates of Ambiguity...by EL Lawrance · 2022 · Cited by 12 — We used computation...</span></span></span>
+Studies of anxiety consistently find links between anxiety and ambiguity aversion—the tendency to avoid situations where outcomes or information remain unclear. People with higher anxiety levels often perceive ambiguous situations as more threatening and more difficult to tolerate. PMC<span class="citation-chip-wrap"><a class="citation-chip" href="https://cpsyjournal.org/articles/10.5334/cpsy.67" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cpsyjournal.org">[Computational Psychiatry]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cpsyjournal.org</span><span class="citation-popover-snippet">Computational PsychiatryThe Computational and Neural Substrates of Ambiguity...by EL Lawrance · 2022 · Cited by 12 — We used computation...</span></span></span>
 
 A simple myth addresses this discomfort by replacing uncertainty with certainty:
 
@@ -298,7 +298,7 @@ The emotional reward is immediate. The myth may not increase factual understandi
 
 One of the strongest findings in anxiety research is that anxious individuals tend to react negatively to ambiguity itself.
 
-Researchers studying intolerance of uncertainty have found that people high in this trait are more likely to interpret ambiguous situations as threatening and experience stronger negative emotions when information is incomplete. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/26763496/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Intolerance of Uncertainty Is Associated With Increased...by JTH Chen · 2016 · Cited by 78 — Intolerance of Uncertainty Is Associa...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cambridge.org/core/journals/the-cognitive-behaviour-therapist/article/review-of-the-relationship-between-intolerance-of-uncertainty-and-threat-appraisal-in-anxiety/5D881C65A0A26CDEB3DDFDF2A8D3A458" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cambridge.org">[Cambridge University Press &amp; Assessment]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cambridge.org</span><span class="citation-popover-snippet">more...</span></span></span>
+Researchers studying intolerance of uncertainty have found that people high in this trait are more likely to interpret ambiguous situations as threatening and experience stronger negative emotions when information is incomplete.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/26763496/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Intolerance of Uncertainty Is Associated With Increased...by JTH Chen · 2016 · Cited by 78 — Intolerance of Uncertainty Is Associa...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cambridge.org/core/journals/the-cognitive-behaviour-therapist/article/review-of-the-relationship-between-intolerance-of-uncertainty-and-threat-appraisal-in-anxiety/5D881C65A0A26CDEB3DDFDF2A8D3A458" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cambridge.org">[Cambridge University Press &amp; Assessment]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cambridge.org</span><span class="citation-popover-snippet">more...</span></span></span>
 
 This matters because myths often succeed by eliminating ambiguity rather than by providing strong evidence.
 
@@ -311,7 +311,7 @@ Consider two explanations for an unexpected event:
 
 The first explanation may be more accurate, but the second often feels psychologically easier when anxiety is high. The certainty itself becomes attractive.
 
-Research on ambiguity aversion shows that people generally prefer known situations over unknown ones, even when the objective evidence does not justify that preference. Anxiety appears to intensify this tendency. <span class="citation-chip-wrap"><a class="citation-chip" href="https://thedecisionlab.com/biases/ambiguity-effect" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thedecisionlab.com">[The Decision Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thedecisionlab.com</span><span class="citation-popover-snippet">The Decision LabAmbiguity EffectThe ambiguity effect is a cognitive bias that describes how we tend to avoid options that we consider to...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2025.1485346/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-snippet">effects on ambiguity intolerance (Eysenck et al., 1991; Richards et al., 2002). Yet another study showed that people become more ambiguit...</span></span></span>
+Research on ambiguity aversion shows that people generally prefer known situations over unknown ones, even when the objective evidence does not justify that preference. Anxiety appears to intensify this tendency.<span class="citation-chip-wrap"><a class="citation-chip" href="https://thedecisionlab.com/biases/ambiguity-effect" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thedecisionlab.com">[The Decision Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thedecisionlab.com</span><span class="citation-popover-snippet">The Decision LabAmbiguity EffectThe ambiguity effect is a cognitive bias that describes how we tend to avoid options that we consider to...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2025.1485346/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-snippet">effects on ambiguity intolerance (Eysenck et al., 1991; Richards et al., 2002). Yet another study showed that people become more ambiguit...</span></span></span>
 
 ## How Myths Reduce Psychological Discomfort
 
@@ -327,16 +327,16 @@ A myth typically provides three forms of psychological relief:
 
 **A predictable outcome.** The future feels easier to anticipate because the myth claims to explain how the world works.
 
-This reduction in uncertainty can feel rewarding. Psychological theories of anxiety increasingly describe anxiety as a response to the unknown itself, not merely to specific dangers. From this perspective, any explanation that appears to make the unknown more manageable may become appealing. PMC <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2025.1485346/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-snippet">effects on ambiguity intolerance (Eysenck et al., 1991; Richards et al., 2002). Yet another study showed that people become more ambiguit...</span></span></span>
+This reduction in uncertainty can feel rewarding. Psychological theories of anxiety increasingly describe anxiety as a response to the unknown itself, not merely to specific dangers. From this perspective, any explanation that appears to make the unknown more manageable may become appealing. PMC<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2025.1485346/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-snippet">effects on ambiguity intolerance (Eysenck et al., 1991; Richards et al., 2002). Yet another study showed that people become more ambiguit...</span></span></span>
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_uncertainty_and_myth_ca758b_anxiety_myth_appeal_c1e58c-Illustration-2-dark.svg" | relative_url }}" alt="Anxiety Effects illustration 2" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_uncertainty_and_myth_ca758b_anxiety_myth_appeal_c1e58c-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_uncertainty_and_myth_ca758b_anxiety_myth_appeal_c1e58c-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The Search for Cognitive Closure
 
 Another important mechanism is the need for cognitive closure.
 
-Cognitive closure refers to the desire for a firm answer rather than ongoing uncertainty. People differ in how strongly they seek closure, but anxiety often increases that desire. When uncertainty becomes emotionally uncomfortable, individuals may feel pressure to reach a conclusion quickly. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9223033/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCThe Computational and Neural Substrates of Ambiguity</span><span class="citation-popover-snippet">by EL Lawrance · 2022 · Cited by 12 — Abstract. Theoretical accounts have linked anxiety to intolerance of ambiguity. However, this re...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3694217/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Beliefs in conspiracy theories and the need for cognitive closureby PJ Leman · 2013 · Cited by 303 — Two studies examined the relation...</span></span></span>
+Cognitive closure refers to the desire for a firm answer rather than ongoing uncertainty. People differ in how strongly they seek closure, but anxiety often increases that desire. When uncertainty becomes emotionally uncomfortable, individuals may feel pressure to reach a conclusion quickly.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9223033/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCThe Computational and Neural Substrates of Ambiguity</span><span class="citation-popover-snippet">by EL Lawrance · 2022 · Cited by 12 — Abstract. Theoretical accounts have linked anxiety to intolerance of ambiguity. However, this re...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3694217/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Beliefs in conspiracy theories and the need for cognitive closureby PJ Leman · 2013 · Cited by 303 — Two studies examined the relation...</span></span></span>
 
-Researchers studying conspiracy beliefs and similar forms of myth acceptance have repeatedly linked stronger needs for closure with greater attraction to definitive explanations. The appeal is not necessarily the content of the explanation; it is the fact that the explanation appears to settle the issue. PMC <span class="citation-chip-wrap"><a class="citation-chip" href="https://kar.kent.ac.uk/61588/1/Marchlewska%20et%20al.%20Addicted%20to%20Answers%20FINAL.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kar.kent.ac.uk">[Kent Academic Repository]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kar.kent.ac.uk</span><span class="citation-popover-title">Marchlewska et al. Addicted to Answers FINAL</span><span class="citation-popover-snippet">Galinsky, 2008), uncertainty (van...Read more...</span></span></span>
+Researchers studying conspiracy beliefs and similar forms of myth acceptance have repeatedly linked stronger needs for closure with greater attraction to definitive explanations. The appeal is not necessarily the content of the explanation; it is the fact that the explanation appears to settle the issue. PMC<span class="citation-chip-wrap"><a class="citation-chip" href="https://kar.kent.ac.uk/61588/1/Marchlewska%20et%20al.%20Addicted%20to%20Answers%20FINAL.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kar.kent.ac.uk">[Kent Academic Repository]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kar.kent.ac.uk</span><span class="citation-popover-title">Marchlewska et al. Addicted to Answers FINAL</span><span class="citation-popover-snippet">Galinsky, 2008), uncertainty (van...Read more...</span></span></span>
 
 This process can create a trade-off:
 
@@ -350,11 +350,11 @@ As a result, a simple myth can feel more satisfying than a complex but evidence-
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_uncertainty_and_myth_ca758b_anxiety_myth_appeal_c1e58c-Illustration-3-dark.svg" | relative_url }}" alt="Anxiety Effects illustration 3" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_uncertainty_and_myth_ca758b_anxiety_myth_appeal_c1e58c-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_uncertainty_and_myth_ca758b_anxiety_myth_appeal_c1e58c-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What Uncertainty Research Shows
 
-Research across anxiety, decision-making, and belief formation points toward a consistent pattern: people who struggle more with uncertainty are more motivated to eliminate it. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S0005789425000887" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">State of the Science: Intolerance of Uncertaintyby MJ Dugas · 2025 · Cited by 15 — The construct of Intolerance of Uncertain...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/abs/pii/S0005789425000887" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">State of the Science: Intolerance of Uncertaintyby MJ Dugas · 2025 · Cited by 15 — The construct of Intolerance of Uncertain...</span></span></span>
+Research across anxiety, decision-making, and belief formation points toward a consistent pattern: people who struggle more with uncertainty are more motivated to eliminate it.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S0005789425000887" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">State of the Science: Intolerance of Uncertaintyby MJ Dugas · 2025 · Cited by 15 — The construct of Intolerance of Uncertain...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/abs/pii/S0005789425000887" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">State of the Science: Intolerance of Uncertaintyby MJ Dugas · 2025 · Cited by 15 — The construct of Intolerance of Uncertain...</span></span></span>
 
-Studies have found that intolerance of uncertainty is associated with stronger threat appraisals, increased negative emotional reactions under ambiguity, and decision-making styles that avoid uncertain situations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/26763496/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Intolerance of Uncertainty Is Associated With Increased...by JTH Chen · 2016 · Cited by 78 — Intolerance of Uncertainty Is Associa...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/00332941251415319" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsDecision-Making Styles and Intolerance of Uncertainty23 Jan 2026 — The findings showed that individuals with higher intolera...</span></span></span>
+Studies have found that intolerance of uncertainty is associated with stronger threat appraisals, increased negative emotional reactions under ambiguity, and decision-making styles that avoid uncertain situations.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/26763496/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Intolerance of Uncertainty Is Associated With Increased...by JTH Chen · 2016 · Cited by 78 — Intolerance of Uncertainty Is Associa...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/00332941251415319" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsDecision-Making Styles and Intolerance of Uncertainty23 Jan 2026 — The findings showed that individuals with higher intolera...</span></span></span>
 
-Research on conspiracy beliefs provides a closely related example. Investigators have shown that the desire for certainty and closure can make broad explanatory narratives more attractive, particularly when official explanations seem incomplete or leave important questions unresolved. <span class="citation-chip-wrap"><a class="citation-chip" href="https://kar.kent.ac.uk/61588/1/Marchlewska%20et%20al.%20Addicted%20to%20Answers%20FINAL.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kar.kent.ac.uk">[Kent Academic Repository]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kar.kent.ac.uk</span><span class="citation-popover-title">Marchlewska et al. Addicted to Answers FINAL</span><span class="citation-popover-snippet">Galinsky, 2008), uncertainty (van...Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://onlinelibrary.wiley.com/doi/abs/10.1002/ejsp.2308?ref=andybusam.com" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: onlinelibrary.wiley.com">[Wiley Online Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">onlinelibrary.wiley.com</span><span class="citation-popover-snippet">Wiley Online LibraryAddicted to answers: Need for cognitive closure and the...by M Marchlewska · 2018 · Cited by 414 — We hypothesized t...</span></span></span>
+Research on conspiracy beliefs provides a closely related example. Investigators have shown that the desire for certainty and closure can make broad explanatory narratives more attractive, particularly when official explanations seem incomplete or leave important questions unresolved.<span class="citation-chip-wrap"><a class="citation-chip" href="https://kar.kent.ac.uk/61588/1/Marchlewska%20et%20al.%20Addicted%20to%20Answers%20FINAL.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kar.kent.ac.uk">[Kent Academic Repository]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kar.kent.ac.uk</span><span class="citation-popover-title">Marchlewska et al. Addicted to Answers FINAL</span><span class="citation-popover-snippet">Galinsky, 2008), uncertainty (van...Read more...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://onlinelibrary.wiley.com/doi/abs/10.1002/ejsp.2308?ref=andybusam.com" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: onlinelibrary.wiley.com">[Wiley Online Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">onlinelibrary.wiley.com</span><span class="citation-popover-snippet">Wiley Online LibraryAddicted to answers: Need for cognitive closure and the...by M Marchlewska · 2018 · Cited by 414 — We hypothesized t...</span></span></span>
 
 The implication is not that anxiety automatically causes belief in myths. Most anxious people do not adopt false beliefs. Rather, anxiety creates conditions in which explanations that promise certainty gain an emotional advantage. If a myth appears to remove confusion, it may feel more convincing than it otherwise would.
 
@@ -364,7 +364,7 @@ A common misunderstanding is that [confidence]({{ 'confidence/' | relative_url }
 
 Simple myths often produce a strong feeling of understanding because they eliminate ambiguity. However, the emotional relief that follows can be mistaken for evidence that the explanation is correct.
 
-This is one reason myths can persist even when contradictory information exists. Once a belief reduces anxiety and restores a sense of order, abandoning it may require returning to uncertainty—a state many people find uncomfortable. Researchers studying cognitive closure note that individuals seeking certainty often prefer maintaining a settled answer over reopening unresolved questions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9690611/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">The Mediating Effect of Beliefs in Conspiracy Theories about...by S Staszak · 2022 · Cited by 12 — The need for closure [19] is relat...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9942526/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">nih.govComputationally-defined markers of uncertainty aversion...by T Wise · 2022 · Cited by 8 — In line with this hypothesis, intoleran...</span></span></span>
+This is one reason myths can persist even when contradictory information exists. Once a belief reduces anxiety and restores a sense of order, abandoning it may require returning to uncertainty—a state many people find uncomfortable. Researchers studying cognitive closure note that individuals seeking certainty often prefer maintaining a settled answer over reopening unresolved questions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9690611/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">The Mediating Effect of Beliefs in Conspiracy Theories about...by S Staszak · 2022 · Cited by 12 — The need for closure [19] is relat...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9942526/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">nih.govComputationally-defined markers of uncertainty aversion...by T Wise · 2022 · Cited by 8 — In line with this hypothesis, intoleran...</span></span></span>
 
 The result is a powerful psychological dynamic: anxiety increases discomfort with uncertainty, myths reduce that discomfort, and the resulting sense of certainty can make those myths feel more believable than they actually are.
 
@@ -374,197 +374,197 @@ The result is a powerful psychological dynamic: anxiety increases discomfort wit
 
 The relationship between anxiety and myth acceptance is fundamentally about uncertainty management.
 
-Anxiety heightens sensitivity to ambiguity and increases the desire for clear answers. Simple myths satisfy that desire by transforming uncertainty into a coherent story with an identifiable cause and predictable outcome. The attraction comes less from the factual strength of the explanation and more from its ability to relieve psychological discomfort. When uncertainty feels threatening, certainty itself can become persuasive. PMC 3PMC <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/26763496/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Intolerance of Uncertainty Is Associated With Increased...by JTH Chen · 2016 · Cited by 78 — Intolerance of Uncertainty Is Associa...</span></span></span>
+Anxiety heightens sensitivity to ambiguity and increases the desire for clear answers. Simple myths satisfy that desire by transforming uncertainty into a coherent story with an identifiable cause and predictable outcome. The attraction comes less from the factual strength of the explanation and more from its ability to relieve psychological discomfort. When uncertainty feels threatening, certainty itself can become persuasive. PMC 3PMC<span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/26763496/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Intolerance of Uncertainty Is Associated With Increased...by JTH Chen · 2016 · Cited by 78 — Intolerance of Uncertainty Is Associa...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Do Anxious People Prefer Simple Explanations?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Do Anxious People Prefer Simple Explanations?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YGPzXWanppcC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
-        </h4>
-        <p class="fr-book-author">By Daniel Kahneman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YGPzXWanppcC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
+</h4>
+<p class="fr-book-author">By Daniel Kahneman</p>
         
-        <p class="fr-book-desc">Explains intuitive thinking under uncertainty.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains intuitive thinking under uncertainty.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mistakes Were Made (but Not by Me) Third Edition on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jmmVxgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Mistakes Were Made (but Not by Me) Third Edition" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mistakes Were Made (but Not by Me) Third Edition">Mistakes Were Made (but Not by Me) Third Edition</a>
-        </h4>
-        <p class="fr-book-author">By Carol Tavris, Elliot Aronson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mistakes Were Made (but Not by Me) Third Edition on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jmmVxgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Mistakes Were Made (but Not by Me) Third Edition" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mistakes Were Made (but Not by Me) Third Edition">Mistakes Were Made (but Not by Me) Third Edition</a>
+</h4>
+<p class="fr-book-author">By Carol Tavris, Elliot Aronson</p>
         
-        <p class="fr-book-desc">Shows how people defend comforting explanations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows how people defend comforting explanations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Righteous+Mind+Jonathan+Haidt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Righteous Mind on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/7256782-M.jpg" alt="Cover for The Righteous Mind" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Righteous+Mind+Jonathan+Haidt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Righteous Mind">The Righteous Mind</a>
-        </h4>
-        <p class="fr-book-author">By Jonathan Haidt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Righteous+Mind+Jonathan+Haidt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Righteous Mind on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/7256782-M.jpg" alt="Cover for The Righteous Mind" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Righteous+Mind+Jonathan+Haidt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Righteous Mind">The Righteous Mind</a>
+</h4>
+<p class="fr-book-author">By Jonathan Haidt</p>
         
-        <p class="fr-book-desc">First published 2012. Subjects: Political psychology, Social psychology, Ethics, Religious Psychology, nyt:combined-print-and-e-book-nonf...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Righteous+Mind+Jonathan+Haidt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2012. Subjects: Political psychology, Social psychology, Ethics, Religious Psychology, nyt:combined-print-and-e-book-nonf...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Righteous+Mind+Jonathan+Haidt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Scout+Mindset+Julia+Galef&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Scout Mindset on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10690900-M.jpg" alt="Cover for Scout Mindset" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Scout+Mindset+Julia+Galef&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scout Mindset">Scout Mindset</a>
-        </h4>
-        <p class="fr-book-author">By Julia Galef</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Scout+Mindset+Julia+Galef&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Scout Mindset on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10690900-M.jpg" alt="Cover for Scout Mindset" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Scout+Mindset+Julia+Galef&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scout Mindset">Scout Mindset</a>
+</h4>
+<p class="fr-book-author">By Julia Galef</p>
         
-        <p class="fr-book-desc">First published 2021. Subjects: Economics, Psychology, Cognition, Skepticism, Critical thinking.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Scout+Mindset+Julia+Galef&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2021. Subjects: Economics, Psychology, Cognition, Skepticism, Critical thinking.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Scout+Mindset+Julia+Galef&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mistakes Were Made (but Not by Me) Third Edition</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Righteous+Mind&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Righteous Mind</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mistakes Were Made (but Not by Me) Third Edition</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Righteous+Mind&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Righteous Mind</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+education+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=anxiety-effects-why-do-anxious-people-prefer-simple-explanations-myths-and-misconcept-science-education-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science education poster" data-ebay-reference="anxiety-effects-why-do-anxious-people-prefer-simple-explanations-myths-and-misconcept-science-education-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Periodic Table Of Elements Science Education Poster A3 - FREE NEXT DAY DELIVERY"><img src="{{ '/assets/images/marketplace-covers/5b717c978322ca397a5d.jpg' | relative_url }}" alt="Listing image for Periodic Table Of Elements Science Education Poster A3 - FREE NEXT DAY DELIVERY" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+education+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=anxiety-effects-why-do-anxious-people-prefer-simple-explanations-myths-and-misconcept-science-education-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science education poster" data-ebay-reference="anxiety-effects-why-do-anxious-people-prefer-simple-explanations-myths-and-misconcept-science-education-poster" target="_blank" rel="sponsored noopener noreferrer">Periodic Table Of Elements Science Education Poster A3 - FREE NEXT DAY DELIVERY</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+education+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=anxiety-effects-why-do-anxious-people-prefer-simple-explanations-myths-and-misconcept-science-education-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science education poster" data-ebay-reference="anxiety-effects-why-do-anxious-people-prefer-simple-explanations-myths-and-misconcept-science-education-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science education poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: science education poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+education+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=anxiety-effects-why-do-anxious-people-prefer-simple-explanations-myths-and-misconcept-science-education-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science education poster" data-ebay-reference="anxiety-effects-why-do-anxious-people-prefer-simple-explanations-myths-and-misconcept-science-education-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+education+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=anxiety-effects-why-do-anxious-people-prefer-simple-explanations-myths-and-misconcept-science-education-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science education poster" data-ebay-reference="anxiety-effects-why-do-anxious-people-prefer-simple-explanations-myths-and-misconcept-science-education-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Periodic Table Of Elements Science Education Poster A3 - FREE NEXT DAY DELIVERY"><img src="{{ '/assets/images/marketplace-covers/5b717c978322ca397a5d.jpg' | relative_url }}" alt="Listing image for Periodic Table Of Elements Science Education Poster A3 - FREE NEXT DAY DELIVERY" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+education+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=anxiety-effects-why-do-anxious-people-prefer-simple-explanations-myths-and-misconcept-science-education-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science education poster" data-ebay-reference="anxiety-effects-why-do-anxious-people-prefer-simple-explanations-myths-and-misconcept-science-education-poster" target="_blank" rel="sponsored noopener noreferrer">Periodic Table Of Elements Science Education Poster A3 - FREE NEXT DAY DELIVERY</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+education+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=anxiety-effects-why-do-anxious-people-prefer-simple-explanations-myths-and-misconcept-science-education-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science education poster" data-ebay-reference="anxiety-effects-why-do-anxious-people-prefer-simple-explanations-myths-and-misconcept-science-education-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science education poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: science education poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+education+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=anxiety-effects-why-do-anxious-people-prefer-simple-explanations-myths-and-misconcept-science-education-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science education poster" data-ebay-reference="anxiety-effects-why-do-anxious-people-prefer-simple-explanations-myths-and-misconcept-science-education-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+education+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=anxiety-effects-why-do-anxious-people-prefer-simple-explanations-myths-and-misconcept-science-education-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science education poster" data-ebay-reference="anxiety-effects-why-do-anxious-people-prefer-simple-explanations-myths-and-misconcept-science-education-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Periodic Table Of The Elements Science Education Poster For Students A4 A3 A2 A1"><img src="{{ '/assets/images/marketplace-covers/c3b9a38bf2b70fc3d814.jpg' | relative_url }}" alt="Listing image for Periodic Table Of The Elements Science Education Poster For Students A4 A3 A2 A1" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+education+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=anxiety-effects-why-do-anxious-people-prefer-simple-explanations-myths-and-misconcept-science-education-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science education poster" data-ebay-reference="anxiety-effects-why-do-anxious-people-prefer-simple-explanations-myths-and-misconcept-science-education-poster" target="_blank" rel="sponsored noopener noreferrer">Periodic Table Of The Elements Science Education Poster For Students A4 A3 A2 A1</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+education+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=anxiety-effects-why-do-anxious-people-prefer-simple-explanations-myths-and-misconcept-science-education-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science education poster" data-ebay-reference="anxiety-effects-why-do-anxious-people-prefer-simple-explanations-myths-and-misconcept-science-education-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science education poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: science education poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+education+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=anxiety-effects-why-do-anxious-people-prefer-simple-explanations-myths-and-misconcept-science-education-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science education poster" data-ebay-reference="anxiety-effects-why-do-anxious-people-prefer-simple-explanations-myths-and-misconcept-science-education-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+education+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=anxiety-effects-why-do-anxious-people-prefer-simple-explanations-myths-and-misconcept-science-education-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science education poster" data-ebay-reference="anxiety-effects-why-do-anxious-people-prefer-simple-explanations-myths-and-misconcept-science-education-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Periodic Table Of The Elements Science Education Poster For Students A4 A3 A2 A1"><img src="{{ '/assets/images/marketplace-covers/c3b9a38bf2b70fc3d814.jpg' | relative_url }}" alt="Listing image for Periodic Table Of The Elements Science Education Poster For Students A4 A3 A2 A1" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+education+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=anxiety-effects-why-do-anxious-people-prefer-simple-explanations-myths-and-misconcept-science-education-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science education poster" data-ebay-reference="anxiety-effects-why-do-anxious-people-prefer-simple-explanations-myths-and-misconcept-science-education-poster" target="_blank" rel="sponsored noopener noreferrer">Periodic Table Of The Elements Science Education Poster For Students A4 A3 A2 A1</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+education+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=anxiety-effects-why-do-anxious-people-prefer-simple-explanations-myths-and-misconcept-science-education-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science education poster" data-ebay-reference="anxiety-effects-why-do-anxious-people-prefer-simple-explanations-myths-and-misconcept-science-education-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science education poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: science education poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+education+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=anxiety-effects-why-do-anxious-people-prefer-simple-explanations-myths-and-misconcept-science-education-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science education poster" data-ebay-reference="anxiety-effects-why-do-anxious-people-prefer-simple-explanations-myths-and-misconcept-science-education-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+education+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=anxiety-effects-why-do-anxious-people-prefer-simple-explanations-myths-and-misconcept-science-education-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science education poster" data-ebay-reference="anxiety-effects-why-do-anxious-people-prefer-simple-explanations-myths-and-misconcept-science-education-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Periodic Table Of Elements Science Education Poster A3 - FREE NEXT DAY DELIVERY"><img src="{{ '/assets/images/marketplace-covers/4f8e6bdcfcfffd8e11e7.jpg' | relative_url }}" alt="Listing image for Periodic Table Of Elements Science Education Poster A3 - FREE NEXT DAY DELIVERY" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+education+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=anxiety-effects-why-do-anxious-people-prefer-simple-explanations-myths-and-misconcept-science-education-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science education poster" data-ebay-reference="anxiety-effects-why-do-anxious-people-prefer-simple-explanations-myths-and-misconcept-science-education-poster" target="_blank" rel="sponsored noopener noreferrer">Periodic Table Of Elements Science Education Poster A3 - FREE NEXT DAY DELIVERY</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+education+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=anxiety-effects-why-do-anxious-people-prefer-simple-explanations-myths-and-misconcept-science-education-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science education poster" data-ebay-reference="anxiety-effects-why-do-anxious-people-prefer-simple-explanations-myths-and-misconcept-science-education-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science education poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: science education poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+education+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=anxiety-effects-why-do-anxious-people-prefer-simple-explanations-myths-and-misconcept-science-education-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science education poster" data-ebay-reference="anxiety-effects-why-do-anxious-people-prefer-simple-explanations-myths-and-misconcept-science-education-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+education+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=anxiety-effects-why-do-anxious-people-prefer-simple-explanations-myths-and-misconcept-science-education-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science education poster" data-ebay-reference="anxiety-effects-why-do-anxious-people-prefer-simple-explanations-myths-and-misconcept-science-education-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Periodic Table Of Elements Science Education Poster A3 - FREE NEXT DAY DELIVERY"><img src="{{ '/assets/images/marketplace-covers/4f8e6bdcfcfffd8e11e7.jpg' | relative_url }}" alt="Listing image for Periodic Table Of Elements Science Education Poster A3 - FREE NEXT DAY DELIVERY" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+education+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=anxiety-effects-why-do-anxious-people-prefer-simple-explanations-myths-and-misconcept-science-education-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science education poster" data-ebay-reference="anxiety-effects-why-do-anxious-people-prefer-simple-explanations-myths-and-misconcept-science-education-poster" target="_blank" rel="sponsored noopener noreferrer">Periodic Table Of Elements Science Education Poster A3 - FREE NEXT DAY DELIVERY</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+education+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=anxiety-effects-why-do-anxious-people-prefer-simple-explanations-myths-and-misconcept-science-education-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science education poster" data-ebay-reference="anxiety-effects-why-do-anxious-people-prefer-simple-explanations-myths-and-misconcept-science-education-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science education poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: science education poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+education+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=anxiety-effects-why-do-anxious-people-prefer-simple-explanations-myths-and-misconcept-science-education-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science education poster" data-ebay-reference="anxiety-effects-why-do-anxious-people-prefer-simple-explanations-myths-and-misconcept-science-education-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+education+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=anxiety-effects-why-do-anxious-people-prefer-simple-explanations-myths-and-misconcept-science-education-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science education poster" data-ebay-reference="anxiety-effects-why-do-anxious-people-prefer-simple-explanations-myths-and-misconcept-science-education-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PERIODIC TABLE Real Elements A3 Laminated Chemistry Science Educational Poster"><img src="{{ '/assets/images/marketplace-covers/fe6eac85e0cbd3115c4c.jpg' | relative_url }}" alt="Listing image for PERIODIC TABLE Real Elements A3 Laminated Chemistry Science Educational Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+education+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=anxiety-effects-why-do-anxious-people-prefer-simple-explanations-myths-and-misconcept-science-education-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science education poster" data-ebay-reference="anxiety-effects-why-do-anxious-people-prefer-simple-explanations-myths-and-misconcept-science-education-poster" target="_blank" rel="sponsored noopener noreferrer">PERIODIC TABLE Real Elements A3 Laminated Chemistry Science Educational Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+education+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=anxiety-effects-why-do-anxious-people-prefer-simple-explanations-myths-and-misconcept-science-education-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science education poster" data-ebay-reference="anxiety-effects-why-do-anxious-people-prefer-simple-explanations-myths-and-misconcept-science-education-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science education poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: science education poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+education+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=anxiety-effects-why-do-anxious-people-prefer-simple-explanations-myths-and-misconcept-science-education-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science education poster" data-ebay-reference="anxiety-effects-why-do-anxious-people-prefer-simple-explanations-myths-and-misconcept-science-education-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+education+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=anxiety-effects-why-do-anxious-people-prefer-simple-explanations-myths-and-misconcept-science-education-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science education poster" data-ebay-reference="anxiety-effects-why-do-anxious-people-prefer-simple-explanations-myths-and-misconcept-science-education-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+education+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=anxiety-effects-why-do-anxious-people-prefer-simple-explanations-myths-and-misconcept-science-education-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science education poster" data-ebay-reference="anxiety-effects-why-do-anxious-people-prefer-simple-explanations-myths-and-misconcept-science-education-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PERIODIC TABLE Real Elements A3 Laminated Chemistry Science Educational Poster"><img src="{{ '/assets/images/marketplace-covers/fe6eac85e0cbd3115c4c.jpg' | relative_url }}" alt="Listing image for PERIODIC TABLE Real Elements A3 Laminated Chemistry Science Educational Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+education+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=anxiety-effects-why-do-anxious-people-prefer-simple-explanations-myths-and-misconcept-science-education-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science education poster" data-ebay-reference="anxiety-effects-why-do-anxious-people-prefer-simple-explanations-myths-and-misconcept-science-education-poster" target="_blank" rel="sponsored noopener noreferrer">PERIODIC TABLE Real Elements A3 Laminated Chemistry Science Educational Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+education+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=anxiety-effects-why-do-anxious-people-prefer-simple-explanations-myths-and-misconcept-science-education-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science education poster" data-ebay-reference="anxiety-effects-why-do-anxious-people-prefer-simple-explanations-myths-and-misconcept-science-education-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science education poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: science education poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+education+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=anxiety-effects-why-do-anxious-people-prefer-simple-explanations-myths-and-misconcept-science-education-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science education poster" data-ebay-reference="anxiety-effects-why-do-anxious-people-prefer-simple-explanations-myths-and-misconcept-science-education-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+education+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=anxiety-effects-why-do-anxious-people-prefer-simple-explanations-myths-and-misconcept-science-education-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science education poster" data-ebay-reference="anxiety-effects-why-do-anxious-people-prefer-simple-explanations-myths-and-misconcept-science-education-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -580,7 +580,7 @@ Anxiety heightens sensitivity to ambiguity and increases the desire for clear an
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -600,7 +600,7 @@ Anxiety heightens sensitivity to ambiguity and increases the desire for clear an
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -632,7 +632,7 @@ Anxiety heightens sensitivity to ambiguity and increases the desire for clear an
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -684,7 +684,7 @@ Anxiety heightens sensitivity to ambiguity and increases the desire for clear an
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -729,7 +729,7 @@ Anxiety heightens sensitivity to ambiguity and increases the desire for clear an
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -770,175 +770,175 @@ Anxiety heightens sensitivity to ambiguity and increases the desire for clear an
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCAnxiety as a disorder of uncertainty  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10475148/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10475148/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NIHby VM Brown · 2023 · Cited by 51 — Studies of risk, ambiguity, and loss aversion in anxiety point to increased risk and ambiguit...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10475148/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10475148/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NIHby VM Brown · 2023 · Cited by 51 — Studies of risk, ambiguity, and loss aversion in anxiety point to increased risk and ambiguit...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCThe Computational and Neural Substrates of Ambiguity  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9223033/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9223033/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>by EL Lawrance · 2022 · Cited by 12 — Abstract. Theoretical accounts have linked anxiety to intolerance of ambiguity. However, this re...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9223033/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9223033/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by EL Lawrance · 2022 · Cited by 12 — Abstract. Theoretical accounts have linked anxiety to intolerance of ambiguity. However, this re...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: cambridge.org  
-   Link: <a href="https://www.cambridge.org/core/journals/the-cognitive-behaviour-therapist/article/review-of-the-relationship-between-intolerance-of-uncertainty-and-threat-appraisal-in-anxiety/5D881C65A0A26CDEB3DDFDF2A8D3A458" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/journals/the-cognitive-behaviour-therapist/article/review-of-the-relationship-between-intolerance-of-uncertainty-and-threat-appraisal-in-anxiety/5D881C65A0A26CDEB3DDFDF2A8D3A458</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>more...</p></details>
+   Link:<a href="https://www.cambridge.org/core/journals/the-cognitive-behaviour-therapist/article/review-of-the-relationship-between-intolerance-of-uncertainty-and-threat-appraisal-in-anxiety/5D881C65A0A26CDEB3DDFDF2A8D3A458" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/journals/the-cognitive-behaviour-therapist/article/review-of-the-relationship-between-intolerance-of-uncertainty-and-threat-appraisal-in-anxiety/5D881C65A0A26CDEB3DDFDF2A8D3A458</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>more...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0005789425000887" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0005789425000887</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>State of the Science: Intolerance of Uncertaintyby MJ Dugas · 2025 · Cited by 15 — The construct of Intolerance of Uncertain...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/abs/pii/S0005789425000887" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0005789425000887</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>State of the Science: Intolerance of Uncertaintyby MJ Dugas · 2025 · Cited by 15 — The construct of Intolerance of Uncertain...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3694217/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3694217/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Beliefs in conspiracy theories and the need for cognitive closureby PJ Leman · 2013 · Cited by 303 — Two studies examined the relation...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3694217/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3694217/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Beliefs in conspiracy theories and the need for cognitive closureby PJ Leman · 2013 · Cited by 303 — Two studies examined the relation...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9690611/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9690611/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Mediating Effect of Beliefs in Conspiracy Theories about...by S Staszak · 2022 · Cited by 12 — The need for closure [19] is relat...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9690611/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9690611/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Mediating Effect of Beliefs in Conspiracy Theories about...by S Staszak · 2022 · Cited by 12 — The need for closure [19] is relat...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: onlinelibrary.wiley.com  
-   Link: <a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/ejsp.2308?ref=andybusam.com" target="_blank" rel="noopener noreferrer nofollow">https://onlinelibrary.wiley.com/doi/abs/10.1002/ejsp.2308?ref=andybusam.com</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Wiley Online LibraryAddicted to answers: Need for cognitive closure and the...by M Marchlewska · 2018 · Cited by 414 — We hypothesized t...</p></details>
+   Link:<a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/ejsp.2308?ref=andybusam.com" target="_blank" rel="noopener noreferrer nofollow">https://onlinelibrary.wiley.com/doi/abs/10.1002/ejsp.2308?ref=andybusam.com</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Wiley Online LibraryAddicted to answers: Need for cognitive closure and the...by M Marchlewska · 2018 · Cited by 414 — We hypothesized t...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0092656624000382" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0092656624000382</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Intolerance of uncertainty predicts indecisiveness and...by H Appel · 2024 · Cited by 22 — In decision making, intolerance of uncertaint...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/pii/S0092656624000382" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0092656624000382</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Intolerance of uncertainty predicts indecisiveness and...by H Appel · 2024 · Cited by 22 — In decision making, intolerance of uncertaint...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9942526/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9942526/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>nih.govComputationally-defined markers of uncertainty aversion...by T Wise · 2022 · Cited by 8 — In line with this hypothesis, intoleran...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9942526/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9942526/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>nih.govComputationally-defined markers of uncertainty aversion...by T Wise · 2022 · Cited by 8 — In line with this hypothesis, intoleran...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: cambridge.org  
-   Link: <a href="https://www.cambridge.org/core/books/creating-conspiracy-beliefs/anxiety-psychological-motivations-and-conspiracy-beliefs/82B8FD804565C88C8748B706AC3D5730" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/books/creating-conspiracy-beliefs/anxiety-psychological-motivations-and-conspiracy-beliefs/82B8FD804565C88C8748B706AC3D5730</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>uncertainty and the need for cognitive closure scales. Conspiracy beliefs were measured with the Belief in Conspiracy Theories Inventory...</p></details>
+   Link:<a href="https://www.cambridge.org/core/books/creating-conspiracy-beliefs/anxiety-psychological-motivations-and-conspiracy-beliefs/82B8FD804565C88C8748B706AC3D5730" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/books/creating-conspiracy-beliefs/anxiety-psychological-motivations-and-conspiracy-beliefs/82B8FD804565C88C8748B706AC3D5730</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>uncertainty and the need for cognitive closure scales. Conspiracy beliefs were measured with the Belief in Conspiracy Theories Inventory...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0301051123001187" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0301051123001187</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Intolerance of uncertainty enhances generalisation of cued...by X Zhou · 2023 · Cited by 9 — Overgeneralisation is one of the aetiologie...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/abs/pii/S0301051123001187" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0301051123001187</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Intolerance of uncertainty enhances generalisation of cued...by X Zhou · 2023 · Cited by 9 — Overgeneralisation is one of the aetiologie...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: bpspsychub.onlinelibrary.wiley.com  
-   Link: <a href="https://bpspsychub.onlinelibrary.wiley.com/doi/10.1111/bjc.12534" target="_blank" rel="noopener noreferrer nofollow">https://bpspsychub.onlinelibrary.wiley.com/doi/10.1111/bjc.12534</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>of uncertainty causally affects indecisiveness - Appel11 Mar 2025 — Intolerance of uncertainty predicts indecisiveness and safety behavio...</p></details>
+   Link:<a href="https://bpspsychub.onlinelibrary.wiley.com/doi/10.1111/bjc.12534" target="_blank" rel="noopener noreferrer nofollow">https://bpspsychub.onlinelibrary.wiley.com/doi/10.1111/bjc.12534</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>of uncertainty causally affects indecisiveness - Appel11 Mar 2025 — Intolerance of uncertainty predicts indecisiveness and safety behavio...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: psychologytools.com  
-   Link: <a href="https://www.psychologytools.com/articles/intolerance-of-uncertainty-help-your-clients-to-embrace-the-unknown-using-behavioral-experiments" target="_blank" rel="noopener noreferrer nofollow">https://www.psychologytools.com/articles/intolerance-of-uncertainty-help-your-clients-to-embrace-the-unknown-using-behavioral-experiments</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Psychology ToolsIntolerance Of Uncertainty: Help Your Clients To Embrace...15 Jun 2020 — Intolerance of uncertainty is an important tran...</p></details>
+   Link:<a href="https://www.psychologytools.com/articles/intolerance-of-uncertainty-help-your-clients-to-embrace-the-unknown-using-behavioral-experiments" target="_blank" rel="noopener noreferrer nofollow">https://www.psychologytools.com/articles/intolerance-of-uncertainty-help-your-clients-to-embrace-the-unknown-using-behavioral-experiments</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Psychology ToolsIntolerance Of Uncertainty: Help Your Clients To Embrace...15 Jun 2020 — Intolerance of uncertainty is an important tran...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/26763496/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/26763496/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Intolerance of Uncertainty Is Associated With Increased...by JTH Chen · 2016 · Cited by 78 — Intolerance of Uncertainty Is Associa...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/26763496/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/26763496/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Intolerance of Uncertainty Is Associated With Increased...by JTH Chen · 2016 · Cited by 78 — Intolerance of Uncertainty Is Associa...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: cpsyjournal.org  
-   Link: <a href="https://cpsyjournal.org/articles/10.5334/cpsy.67" target="_blank" rel="noopener noreferrer nofollow">https://cpsyjournal.org/articles/10.5334/cpsy.67</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Computational PsychiatryThe Computational and Neural Substrates of Ambiguity...by EL Lawrance · 2022 · Cited by 12 — We used computation...</p></details>
+   Link:<a href="https://cpsyjournal.org/articles/10.5334/cpsy.67" target="_blank" rel="noopener noreferrer nofollow">https://cpsyjournal.org/articles/10.5334/cpsy.67</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Computational PsychiatryThe Computational and Neural Substrates of Ambiguity...by EL Lawrance · 2022 · Cited by 12 — We used computation...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: thedecisionlab.com  
-   Link: <a href="https://thedecisionlab.com/biases/ambiguity-effect" target="_blank" rel="noopener noreferrer nofollow">https://thedecisionlab.com/biases/ambiguity-effect</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Decision LabAmbiguity EffectThe ambiguity effect is a cognitive bias that describes how we tend to avoid options that we consider to...</p></details>
+   Link:<a href="https://thedecisionlab.com/biases/ambiguity-effect" target="_blank" rel="noopener noreferrer nofollow">https://thedecisionlab.com/biases/ambiguity-effect</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Decision LabAmbiguity EffectThe ambiguity effect is a cognitive bias that describes how we tend to avoid options that we consider to...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: frontiersin.org  
-   Link: <a href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2025.1485346/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2025.1485346/full</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>effects on ambiguity intolerance (Eysenck et al., 1991; Richards et al., 2002). Yet another study showed that people become more ambiguit...</p></details>
+   Link:<a href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2025.1485346/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2025.1485346/full</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>effects on ambiguity intolerance (Eysenck et al., 1991; Richards et al., 2002). Yet another study showed that people become more ambiguit...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: frontiersin.org  
-   Link: <a href="https://www.frontiersin.org/journals/integrative-neuroscience/articles/10.3389/fnint.2011.00055/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/integrative-neuroscience/articles/10.3389/fnint.2011.00055/full</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Unpredictability and Uncertainty in Anxiety: A New...by JI Lake · 2011 · Cited by 69 — Human and non-human animal studies suggest that b...</p></details>
+   Link:<a href="https://www.frontiersin.org/journals/integrative-neuroscience/articles/10.3389/fnint.2011.00055/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/integrative-neuroscience/articles/10.3389/fnint.2011.00055/full</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Unpredictability and Uncertainty in Anxiety: A New...by JI Lake · 2011 · Cited by 69 — Human and non-human animal studies suggest that b...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: kar.kent.ac.uk  
    Title: Marchlewska et al. Addicted to Answers FINAL  
-   Link: <a href="https://kar.kent.ac.uk/61588/1/Marchlewska%20et%20al.%20Addicted%20to%20Answers%20FINAL.pdf" target="_blank" rel="noopener noreferrer nofollow">https://kar.kent.ac.uk/61588/1/Marchlewska%20et%20al.%20Addicted%20to%20Answers%20FINAL.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Galinsky, 2008), uncertainty (van...Read more...</p></details>
+   Link:<a href="https://kar.kent.ac.uk/61588/1/Marchlewska%20et%20al.%20Addicted%20to%20Answers%20FINAL.pdf" target="_blank" rel="noopener noreferrer nofollow">https://kar.kent.ac.uk/61588/1/Marchlewska%20et%20al.%20Addicted%20to%20Answers%20FINAL.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Galinsky, 2008), uncertainty (van...Read more...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: journals.sagepub.com  
-   Link: <a href="https://journals.sagepub.com/doi/10.1177/00332941251415319" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/00332941251415319</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sage JournalsDecision-Making Styles and Intolerance of Uncertainty23 Jan 2026 — The findings showed that individuals with higher intolera...</p></details>
+   Link:<a href="https://journals.sagepub.com/doi/10.1177/00332941251415319" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/00332941251415319</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sage JournalsDecision-Making Styles and Intolerance of Uncertainty23 Jan 2026 — The findings showed that individuals with higher intolera...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: frontiersin.org  
-   Link: <a href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2014.01550/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2014.01550/full</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Are ambiguity aversion and ambiguity intolerance identical...by Y Tanaka · 2015 · Cited by 33 — Our results suggest that ambiguity avers...</p></details>
+   Link:<a href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2014.01550/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2014.01550/full</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Are ambiguity aversion and ambiguity intolerance identical...by Y Tanaka · 2015 · Cited by 33 — Our results suggest that ambiguity avers...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: gonudgeyourself.com  
-   Link: <a href="https://www.gonudgeyourself.com/post/ambiguity-aversion" target="_blank" rel="noopener noreferrer nofollow">https://www.gonudgeyourself.com/post/ambiguity-aversion</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ambiguity Aversion - Definitions, Causes, Risks, Advantages...31 Mar 2020 — Ambiguity aversion is defined as our preference for known ri...</p></details>
+   Link:<a href="https://www.gonudgeyourself.com/post/ambiguity-aversion" target="_blank" rel="noopener noreferrer nofollow">https://www.gonudgeyourself.com/post/ambiguity-aversion</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ambiguity Aversion - Definitions, Causes, Risks, Advantages...31 Mar 2020 — Ambiguity aversion is defined as our preference for known ri...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: skepticalinquirer.org  
-   Link: <a href="https://skepticalinquirer.org/2015/01/crazy-beliefs-sane-believers-toward-a-cognitive-psychology-of-conspiracy-id/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/2015/01/crazy-beliefs-sane-believers-toward-a-cognitive-psychology-of-conspiracy-id/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Frontiers in Psychology 4:378. Mason, Oliver, Gordon Claridge, and Mike Jackson. 1995...Read more...</p></details>
+   Link:<a href="https://skepticalinquirer.org/2015/01/crazy-beliefs-sane-believers-toward-a-cognitive-psychology-of-conspiracy-id/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/2015/01/crazy-beliefs-sane-believers-toward-a-cognitive-psychology-of-conspiracy-id/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Frontiers in Psychology 4:378. Mason, Oliver, Gordon Claridge, and Mike Jackson. 1995...Read more...</p></details>
 
 ### Additional References
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: clinicaltrials.gov  
-   Link: <a href="https://clinicaltrials.gov/study/NCT06962527" target="_blank" rel="noopener noreferrer nofollow">https://clinicaltrials.gov/study/NCT06962527</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Test of Target Engagement of Ambiguity AversionThe present work aims to test whether a single session intervention alters ambiguity avers...</p></details>
+   Link:<a href="https://clinicaltrials.gov/study/NCT06962527" target="_blank" rel="noopener noreferrer nofollow">https://clinicaltrials.gov/study/NCT06962527</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Test of Target Engagement of Ambiguity AversionThe present work aims to test whether a single session intervention alters ambiguity avers...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/244482781_Beliefs_in_conspiracy_theories_and_need_for_cognitive_closure" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/244482781_Beliefs_in_conspiracy_theories_and_need_for_cognitive_closure</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Beliefs in conspiracy theories and need for cognitive closureTwo studies examined the relationship between the need for cognitive closure...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/244482781_Beliefs_in_conspiracy_theories_and_need_for_cognitive_closure" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/244482781_Beliefs_in_conspiracy_theories_and_need_for_cognitive_closure</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Beliefs in conspiracy theories and need for cognitive closureTwo studies examined the relationship between the need for cognitive closure...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: taylorfrancis.com  
-   Link: <a href="https://www.taylorfrancis.com/chapters/oa-edit/10.1201/9781315225302-79/need-cognitive-closure-belief-conspiracy-theories-exploration-role-religious-fundamentalism-cognition-umam-muluk-milla" target="_blank" rel="noopener noreferrer nofollow">https://www.taylorfrancis.com/chapters/oa-edit/10.1201/9781315225302-79/need-cognitive-closure-belief-conspiracy-theories-exploration-role-religious-fundamentalism-cognition-umam-muluk-milla</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The need for cognitive closure and belief in conspiracy theoriesby AN Umam · 2017 · Cited by 15 — Latest research shows that belief in co...</p></details>
+   Link:<a href="https://www.taylorfrancis.com/chapters/oa-edit/10.1201/9781315225302-79/need-cognitive-closure-belief-conspiracy-theories-exploration-role-religious-fundamentalism-cognition-umam-muluk-milla" target="_blank" rel="noopener noreferrer nofollow">https://www.taylorfrancis.com/chapters/oa-edit/10.1201/9781315225302-79/need-cognitive-closure-belief-conspiracy-theories-exploration-role-religious-fundamentalism-cognition-umam-muluk-milla</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The need for cognitive closure and belief in conspiracy theoriesby AN Umam · 2017 · Cited by 15 — Latest research shows that belief in co...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: pdfs.semanticscholar.org  
-   Link: <a href="https://pdfs.semanticscholar.org/6e85/8861ef04c081dc7a736d39ca01e1c65d5b91.pdf" target="_blank" rel="noopener noreferrer nofollow">https://pdfs.semanticscholar.org/6e85/8861ef04c081dc7a736d39ca01e1c65d5b91.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>semanticscholar.org224 Tolerance of uncertainty and ambiguity of the situation...by S Bokuniewicz · Cited by 32 — The aim of the underta...</p></details>
+   Link:<a href="https://pdfs.semanticscholar.org/6e85/8861ef04c081dc7a736d39ca01e1c65d5b91.pdf" target="_blank" rel="noopener noreferrer nofollow">https://pdfs.semanticscholar.org/6e85/8861ef04c081dc7a736d39ca01e1c65d5b91.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>semanticscholar.org224 Tolerance of uncertainty and ambiguity of the situation...by S Bokuniewicz · Cited by 32 — The aim of the underta...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: discovery.ucl.ac.uk  
-   Link: <a href="https://discovery.ucl.ac.uk/10167134/1/s13415-023-01068-6.pdf" target="_blank" rel="noopener noreferrer nofollow">https://discovery.ucl.ac.uk/10167134/1/s13415-023-01068-6.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ucl.ac.ukAversion, interpretation and determinability: Three factors of...People tend to show an aversion to choices that have uncertain...</p></details>
+   Link:<a href="https://discovery.ucl.ac.uk/10167134/1/s13415-023-01068-6.pdf" target="_blank" rel="noopener noreferrer nofollow">https://discovery.ucl.ac.uk/10167134/1/s13415-023-01068-6.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ucl.ac.ukAversion, interpretation and determinability: Three factors of...People tend to show an aversion to choices that have uncertain...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: scientificamerican.com  
    Title: people drawn to conspiracy theories share a cluster of psychological features  
-   Link: <a href="https://www.scientificamerican.com/article/people-drawn-to-conspiracy-theories-share-a-cluster-of-psychological-features/" target="_blank" rel="noopener noreferrer nofollow">https://www.scientificamerican.com/article/people-drawn-to-conspiracy-theories-share-a-cluster-of-psychological-features/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>People Drawn to Conspiracy Theories Share a Cluster of...1 Mar 2019 — New research suggests that events happening worldwide are nurturin...</p></details>
+   Link:<a href="https://www.scientificamerican.com/article/people-drawn-to-conspiracy-theories-share-a-cluster-of-psychological-features/" target="_blank" rel="noopener noreferrer nofollow">https://www.scientificamerican.com/article/people-drawn-to-conspiracy-theories-share-a-cluster-of-psychological-features/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>People Drawn to Conspiracy Theories Share a Cluster of...1 Mar 2019 — New research suggests that events happening worldwide are nurturin...</p></details>
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: ssoar.info  
    Title: ssoar frontierssp 2025 Jedinger et al Need for cognitive closure  
-   Link: <a href="https://www.ssoar.info/ssoar/bitstream/handle/document/99896/ssoar-frontierssp-2025-Jedinger_et_al-Need_for_cognitive_closure.pdf?sequence=3" target="_blank" rel="noopener noreferrer nofollow">https://www.ssoar.info/ssoar/bitstream/handle/document/99896/ssoar-frontierssp-2025-Jedinger_et_al-Need_for_cognitive_closure.pdf?sequence=3</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Need for cognitive closure, political trust, and belief in...by A Jedinger · 2025 · Cited by 5 — Psychological motives related to height...</p></details>
+   Link:<a href="https://www.ssoar.info/ssoar/bitstream/handle/document/99896/ssoar-frontierssp-2025-Jedinger_et_al-Need_for_cognitive_closure.pdf?sequence=3" target="_blank" rel="noopener noreferrer nofollow">https://www.ssoar.info/ssoar/bitstream/handle/document/99896/ssoar-frontierssp-2025-Jedinger_et_al-Need_for_cognitive_closure.pdf?sequence=3</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Need for cognitive closure, political trust, and belief in...by A Jedinger · 2025 · Cited by 5 — Psychological motives related to height...</p></details>
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/358311829_The_Computational_and_Neural_Substrates_of_Ambiguity_Avoidance_in_Anxiety" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/358311829_The_Computational_and_Neural_Substrates_of_Ambiguity_Avoidance_in_Anxiety</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ed ambiguity aversion (Lawrance et al., 2022), while patients with...Read more...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/358311829_The_Computational_and_Neural_Substrates_of_Ambiguity_Avoidance_in_Anxiety" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/358311829_The_Computational_and_Neural_Substrates_of_Ambiguity_Avoidance_in_Anxiety</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ed ambiguity aversion (Lawrance et al., 2022), while patients with...Read more...</p></details>
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: facebook.com  
    Title: 🧩🤯 Why do conspiracy theories feel so… comforting?  
-   Link: <a href="https://www.facebook.com/EconomicTimes/posts/-why-do-conspiracy-theories-feel-so-comforting-a-new-study-says-its-not-social-m/1356041056551799/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/EconomicTimes/posts/-why-do-conspiracy-theories-feel-so-comforting-a-new-study-says-its-not-social-m/1356041056551799/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>conspiracies are a way for us to get “cognitive closure,” and that&#x27;s thought to be a major appeal of them. “They Give Us a Sense...</p></details>
+   Link:<a href="https://www.facebook.com/EconomicTimes/posts/-why-do-conspiracy-theories-feel-so-comforting-a-new-study-says-its-not-social-m/1356041056551799/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/EconomicTimes/posts/-why-do-conspiracy-theories-feel-so-comforting-a-new-study-says-its-not-social-m/1356041056551799/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>conspiracies are a way for us to get “cognitive closure,” and that&#x27;s thought to be a major appeal of them. “They Give Us a Sense...</p></details>
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: scholarship.miami.edu  
-   Link: <a href="https://scholarship.miami.edu/esploro/outputs/doctoral/An-Ecological-Momentary-Assessment-Study-of/991032728834802976" target="_blank" rel="noopener noreferrer nofollow">https://scholarship.miami.edu/esploro/outputs/doctoral/An-Ecological-Momentary-Assessment-Study-of/991032728834802976</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ecological Momentary Assessment Study of Intolerance of...by HC Broos — Greater self-reported IU was significantly associated with great...</p></details>
+   Link:<a href="https://scholarship.miami.edu/esploro/outputs/doctoral/An-Ecological-Momentary-Assessment-Study-of/991032728834802976" target="_blank" rel="noopener noreferrer nofollow">https://scholarship.miami.edu/esploro/outputs/doctoral/An-Ecological-Momentary-Assessment-Study-of/991032728834802976</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ecological Momentary Assessment Study of Intolerance of...by HC Broos — Greater self-reported IU was significantly associated with great...</p></details>

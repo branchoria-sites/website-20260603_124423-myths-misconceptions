@@ -277,7 +277,7 @@ image: /assets/images/Myths_and_misconcept_0d48d7_authority_shortcuts_4b05b1_inf
 A common route for myths and misconceptions is not the creation of trust but its relocation. An influencer earns credibility in one area—fitness, fashion, gaming, parenting, [politics]({{ 'politics/' | relative_url }}), entrepreneurship or everyday lifestyle content—and then begins speaking about a different subject that requires specialised evidence. Followers often carry their trust across with them. The result is a form of “trust transfer”: [confidence]({{ 'confidence/' | relative_url }}) in the person becomes confidence in claims that fall outside that person's demonstrated expertise.
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_authority_shortcuts_4b05b1_influencer_lane_drif_bd41e8-Illustration-1-dark.svg" | relative_url }}" alt="Lane Drift illustration 1" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_authority_shortcuts_4b05b1_influencer_lane_drif_bd41e8-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_authority_shortcuts_4b05b1_influencer_lane_drif_bd41e8-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-This mechanism matters because many high-stakes misconceptions spread through familiar and trusted voices rather than through obvious fraudsters. The same creator who offers useful advice about training routines, makeup techniques or personal experiences may be far less reliable when interpreting medical research, legal rules, statistical findings or scientific controversies. The key question is not whether the influencer is trustworthy overall, but whether the evidence supports their authority on the specific claim being made. Research on source credibility consistently finds that audiences rely heavily on authority and expertise cues, even when those cues are only loosely connected to the topic under discussion. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S074756321630320X" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">· Authority cues produced higher credibility. · Cue-cumulative effects were found.Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pure.psu.edu/en/publications/social-media-and-credibility-indicators-the-effect-of-influence-c/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pure.psu.edu">[Penn State]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pure.psu.edu</span><span class="citation-popover-title">social media and credibility indicators the effect of influence c</span><span class="citation-popover-snippet">Penn StateSocial media and credibility indicators: The effect of...by X Lin · 2016 · Cited by 321 — Authority cues most strongly influen...</span></span></span>
+This mechanism matters because many high-stakes misconceptions spread through familiar and trusted voices rather than through obvious fraudsters. The same creator who offers useful advice about training routines, makeup techniques or personal experiences may be far less reliable when interpreting medical research, legal rules, statistical findings or scientific controversies. The key question is not whether the influencer is trustworthy overall, but whether the evidence supports their authority on the specific claim being made. Research on source credibility consistently finds that audiences rely heavily on authority and expertise cues, even when those cues are only loosely connected to the topic under discussion.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S074756321630320X" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">· Authority cues produced higher credibility. · Cue-cumulative effects were found.Read more...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://pure.psu.edu/en/publications/social-media-and-credibility-indicators-the-effect-of-influence-c/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pure.psu.edu">[Penn State]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pure.psu.edu</span><span class="citation-popover-title">social media and credibility indicators the effect of influence c</span><span class="citation-popover-snippet">Penn StateSocial media and credibility indicators: The effect of...by X Lin · 2016 · Cited by 321 — Authority cues most strongly influen...</span></span></span>
 
 ## Why Popularity in One Domain Travels to Another
 
@@ -285,15 +285,15 @@ Trust transfer works because people rarely evaluate every claim from scratch. In
 
 The problem is that expertise is usually domain-specific. A marathon runner may understand their own training exceptionally well while misunderstanding epidemiology. A successful entrepreneur may know how to build a company yet misinterpret climate data. A political commentator may be skilled at persuasion while lacking statistical literacy.
 
-Research on social-media credibility has shown that authority cues strongly affect perceptions of credibility. People often infer expertise from signals such as follower counts, professional presentation, confidence and social status, even when those signals do not establish competence on the topic being discussed. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S074756321630320X" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">· Authority cues produced higher credibility. · Cue-cumulative effects were found.Read more...</span></span></span>
+Research on social-media credibility has shown that authority cues strongly affect perceptions of credibility. People often infer expertise from signals such as follower counts, professional presentation, confidence and social status, even when those signals do not establish competence on the topic being discussed.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S074756321630320X" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">· Authority cues produced higher credibility. · Cue-cumulative effects were found.Read more...</span></span></span>
 
-Another factor is the distinction between trustworthiness and expertise. Communication research commonly treats source credibility as resting on both dimensions. Someone can appear honest, relatable and sincere while still being mistaken about complex evidence. Trust transfer occurs when audiences correctly identify trustworthiness in one context but incorrectly assume expertise in another. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S074756321630320X" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">· Authority cues produced higher credibility. · Cue-cumulative effects were found.Read more...</span></span></span>
+Another factor is the distinction between trustworthiness and expertise. Communication research commonly treats source credibility as resting on both dimensions. Someone can appear honest, relatable and sincere while still being mistaken about complex evidence. Trust transfer occurs when audiences correctly identify trustworthiness in one context but incorrectly assume expertise in another.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S074756321630320X" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">· Authority cues produced higher credibility. · Cue-cumulative effects were found.Read more...</span></span></span>
 
 ### The Parasocial Shortcut
 
-Social media creates unusually strong one-sided relationships between creators and audiences. Researchers describe these as parasocial relationships: followers feel familiarity, affection and connection despite not knowing the creator personally. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S074756321630320X" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">· Authority cues produced higher credibility. · Cue-cumulative effects were found.Read more...</span></span></span>
+Social media creates unusually strong one-sided relationships between creators and audiences. Researchers describe these as parasocial relationships: followers feel familiarity, affection and connection despite not knowing the creator personally.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S074756321630320X" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">· Authority cues produced higher credibility. · Cue-cumulative effects were found.Read more...</span></span></span>
 
-These relationships can make information feel more credible because it comes from a familiar source. Studies of influencers repeatedly find that authenticity, perceived similarity and parasocial bonds contribute to trust and persuasion. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nature.com/articles/s41599-023-02512-1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">The persuasive power of social media influencers in brand...by X Liu · 2024 · Cited by 238 — This study explores the persuasive po...</span></span></span> ScienceDirect The consequence is that followers may unconsciously reason: <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/abs/pii/S074756321630320X" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[sciencedirect.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">· Authority cues produced higher credibility. · Cue-cumulative effects were found.Read more...</span></span></span>
+These relationships can make information feel more credible because it comes from a familiar source. Studies of influencers repeatedly find that authenticity, perceived similarity and parasocial bonds contribute to trust and persuasion.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nature.com/articles/s41599-023-02512-1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">The persuasive power of social media influencers in brand...by X Liu · 2024 · Cited by 238 — This study explores the persuasive po...</span></span></span> ScienceDirect The consequence is that followers may unconsciously reason:<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/abs/pii/S074756321630320X" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[sciencedirect.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">· Authority cues produced higher credibility. · Cue-cumulative effects were found.Read more...</span></span></span>
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -311,9 +311,9 @@ Not every move outside a creator's primary field is problematic. People can lear
 
 Several lane shifts repeatedly appear in misinformation research and reporting.
 
-**Fitness to medicine.** Fitness creators often discuss nutrition, hormones, supplements, disease prevention or treatment. Experience with exercise does not automatically confer expertise in clinical medicine, pharmacology or public-health research. Yet [health claims]({{ 'health-claims/' | relative_url }}) often receive extra credibility because they come from a familiar fitness personality. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.tandfonline.com/doi/full/10.1080/10410236.2024.2397268" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tandfonline.com">[Taylor &amp; Francis Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tandfonline.com</span><span class="citation-popover-snippet">Taylor &amp; Francis OnlineHealth-Related Communication of Social Media Influencersby J Kaňková · 2025 · Cited by 67 — The goal of this scopi...</span></span></span>
+**Fitness to medicine.** Fitness creators often discuss nutrition, hormones, supplements, disease prevention or treatment. Experience with exercise does not automatically confer expertise in clinical medicine, pharmacology or public-health research. Yet [health claims]({{ 'health-claims/' | relative_url }}) often receive extra credibility because they come from a familiar fitness personality.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.tandfonline.com/doi/full/10.1080/10410236.2024.2397268" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tandfonline.com">[Taylor &amp; Francis Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tandfonline.com</span><span class="citation-popover-snippet">Taylor &amp; Francis OnlineHealth-Related Communication of Social Media Influencersby J Kaňková · 2025 · Cited by 67 — The goal of this scopi...</span></span></span>
 
-**Lifestyle to science.** Lifestyle influencers may recommend detoxes, alternative treatments, anti-vaccine narratives or unsupported health practices. Personal [anecdotes]({{ 'anecdotes/' | relative_url }}) can be valuable descriptions of individual experiences, but they are weak evidence for population-level conclusions. Health communication researchers have repeatedly identified concerns about influencers presenting personal experiences as broadly applicable medical guidance. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.tandfonline.com/doi/full/10.1080/10410236.2024.2397268" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tandfonline.com">[Taylor &amp; Francis Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tandfonline.com</span><span class="citation-popover-snippet">Taylor &amp; Francis OnlineHealth-Related Communication of Social Media Influencersby J Kaňková · 2025 · Cited by 67 — The goal of this scopi...</span></span></span>
+**Lifestyle to science.** Lifestyle influencers may recommend detoxes, alternative treatments, anti-vaccine narratives or unsupported health practices. Personal [anecdotes]({{ 'anecdotes/' | relative_url }}) can be valuable descriptions of individual experiences, but they are weak evidence for population-level conclusions. Health communication researchers have repeatedly identified concerns about influencers presenting personal experiences as broadly applicable medical guidance.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.tandfonline.com/doi/full/10.1080/10410236.2024.2397268" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tandfonline.com">[Taylor &amp; Francis Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tandfonline.com</span><span class="citation-popover-snippet">Taylor &amp; Francis OnlineHealth-Related Communication of Social Media Influencersby J Kaňková · 2025 · Cited by 67 — The goal of this scopi...</span></span></span>
 
 **Politics to technical expertise.** Political influencers often discuss economics, statistics, public health, energy systems or legal interpretation. Persuasive communication skills can create an impression of authority even when the underlying analysis is incomplete or inaccurate.
 
@@ -338,7 +338,7 @@ The difficulty begins when a personal story becomes a universal claim.
 
 For example, an influencer may say a diet improved their energy levels. That experience is real. The unsupported leap occurs when the story becomes evidence that the diet cures a disease, works for everyone or is superior to established medical treatments.
 
-Research on health-related influencer communication highlights this tension. Personal experiences often make content engaging and relatable, but individual experiences are not substitutes for controlled studies, systematic reviews or professional consensus. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.tandfonline.com/doi/full/10.1080/10410236.2024.2397268" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tandfonline.com">[Taylor &amp; Francis Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tandfonline.com</span><span class="citation-popover-snippet">Taylor &amp; Francis OnlineHealth-Related Communication of Social Media Influencersby J Kaňková · 2025 · Cited by 67 — The goal of this scopi...</span></span></span>
+Research on health-related influencer communication highlights this tension. Personal experiences often make content engaging and relatable, but individual experiences are not substitutes for controlled studies, systematic reviews or professional consensus.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.tandfonline.com/doi/full/10.1080/10410236.2024.2397268" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tandfonline.com">[Taylor &amp; Francis Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tandfonline.com</span><span class="citation-popover-snippet">Taylor &amp; Francis OnlineHealth-Related Communication of Social Media Influencersby J Kaňková · 2025 · Cited by 67 — The goal of this scopi...</span></span></span>
 
 In evidence-heavy fields, anecdotes generate hypotheses; they do not settle questions.
 
@@ -356,7 +356,7 @@ A patient genuinely understands what living with an illness feels like.
 
 The mistake is assuming that experiential expertise automatically extends to evidence interpretation.
 
-Research into credibility evaluation suggests that perceived expertise often affects credibility judgements more strongly than the quality of evidence itself. In some contexts, people are influenced more by who appears to be speaking than by the strength of the supporting data. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2303.09656" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Revealing complexities when adult readers engage in the credibility evaluation of social media postsMarch 16, 2023...</span><span class="citation-popover-meta">Published: March 16, 2023</span></span></span> ScienceDirect This helps explain why myths can spread through trusted influencers even when contradictory evidence is publicly available. Followers may nev <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/abs/pii/S074756321630320X" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[sciencedirect.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">· Authority cues produced higher credibility. · Cue-cumulative effects were found.Read more...</span></span></span> er consciously decide that the influencer is an expert. Instead, trust accumulated in one domain quietly colours judgement in another.
+Research into credibility evaluation suggests that perceived expertise often affects credibility judgements more strongly than the quality of evidence itself. In some contexts, people are influenced more by who appears to be speaking than by the strength of the supporting data.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2303.09656" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Revealing complexities when adult readers engage in the credibility evaluation of social media postsMarch 16, 2023...</span><span class="citation-popover-meta">Published: March 16, 2023</span></span></span> ScienceDirect This helps explain why myths can spread through trusted influencers even when contradictory evidence is publicly available. Followers may nev<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/abs/pii/S074756321630320X" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[sciencedirect.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">· Authority cues produced higher credibility. · Cue-cumulative effects were found.Read more...</span></span></span> er consciously decide that the influencer is an expert. Instead, trust accumulated in one domain quietly colours judgement in another.
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_authority_shortcuts_4b05b1_influencer_lane_drif_bd41e8-Illustration-3-dark.svg" | relative_url }}" alt="Lane Drift illustration 3" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_authority_shortcuts_4b05b1_influencer_lane_drif_bd41e8-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_authority_shortcuts_4b05b1_influencer_lane_drif_bd41e8-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How Creators Can Mark Their Limits Clearly
@@ -400,194 +400,194 @@ Several quick checks help separate relevant expertise from transferred trust:
 The mechanism of trust transfer is powerful because it builds on something valuable: genuine audience trust. Yet myths often spread when that trust crosses an invisible boundary. Popularity, authenticity and personal experience can make a creator influential, but they do not automatically transform them into a reliable authority on science, medicine, law or statistics. Recognising where expertise ends is one of the most effective ways to prevent authority shortcuts from turning trusted voices into vectors for misconception.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When Trusted Influencers Leave Their Lane. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When Trusted Influencers Leave Their Lane. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YGPzXWanppcC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
-        </h4>
-        <p class="fr-book-author">By Daniel Kahneman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YGPzXWanppcC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
+</h4>
+<p class="fr-book-author">By Daniel Kahneman</p>
         
-        <p class="fr-book-desc">Covers heuristics that cause trust transfer.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers heuristics that cause trust transfer.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Trust+Me+I%27m+Lying+by+Ryan+Holiday&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Trust Me I&#x27;m Lying on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nHU7DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Trust Me I&#x27;m Lying" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Trust+Me+I%27m+Lying+by+Ryan+Holiday&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Trust Me I&#x27;m Lying">Trust Me I&#x27;m Lying</a>
-        </h4>
-        <p class="fr-book-author">By Ryan Holiday</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Trust+Me+I%27m+Lying+by+Ryan+Holiday&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Trust Me I&#x27;m Lying on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nHU7DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Trust Me I&#x27;m Lying" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Trust+Me+I%27m+Lying+by+Ryan+Holiday&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Trust Me I&#x27;m Lying">Trust Me I&#x27;m Lying</a>
+</h4>
+<p class="fr-book-author">By Ryan Holiday</p>
         
-        <p class="fr-book-desc">Shows how influence can exceed competence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Trust+Me+I%27m+Lying+by+Ryan+Holiday&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows how influence can exceed competence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Trust+Me+I%27m+Lying+by+Ryan+Holiday&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+death+of+expertise+Thomas+M.+Nichols&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The death of expertise on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/14456978-M.jpg" alt="Cover for The death of expertise" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+death+of+expertise+Thomas+M.+Nichols&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The death of expertise">The death of expertise</a>
-        </h4>
-        <p class="fr-book-author">By Thomas M. Nichols, Sean Pratt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+death+of+expertise+Thomas+M.+Nichols&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The death of expertise on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/14456978-M.jpg" alt="Cover for The death of expertise" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+death+of+expertise+Thomas+M.+Nichols&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The death of expertise">The death of expertise</a>
+</h4>
+<p class="fr-book-author">By Thomas M. Nichols, Sean Pratt</p>
         
-        <p class="fr-book-desc">First published 2017. Subjects: Higher Education, Sociology of Knowledge, Theory of Knowledge, Internet, Expertise.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+death+of+expertise+Thomas+M.+Nichols&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2017. Subjects: Higher Education, Sociology of Knowledge, Theory of Knowledge, Internet, Expertise.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+death+of+expertise+Thomas+M.+Nichols&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Influence+by+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Influence on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Influence+by+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Influence">Influence</a>
-        </h4>
-        <p class="fr-book-author">By Robert B. Cialdini</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Influence+by+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Influence on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Influence+by+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Influence">Influence</a>
+</h4>
+<p class="fr-book-author">By Robert B. Cialdini</p>
         
-        <p class="fr-book-desc">Explains why audiences follow familiar authorities.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Influence+by+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains why audiences follow familiar authorities.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Influence+by+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Trust+Me+I%27m+Lying&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Trust Me I&#x27;m Lying</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+death+of+expertise&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The death of expertise</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Trust+Me+I%27m+Lying&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Trust Me I&#x27;m Lying</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+death+of+expertise&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The death of expertise</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=learning+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lane-drift-when-trusted-influencers-leave-their-lane-myths-and-misconcept-learning-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="learning poster" data-ebay-reference="lane-drift-when-trusted-influencers-leave-their-lane-myths-and-misconcept-learning-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Interactive Alphabet Wall Chart Talking ABC Electronic Poster Toy Learning Presc"><img src="{{ '/assets/images/marketplace-covers/ffeaaa386decd67bce71.jpg' | relative_url }}" alt="Listing image for Interactive Alphabet Wall Chart Talking ABC Electronic Poster Toy Learning Presc" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=learning+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lane-drift-when-trusted-influencers-leave-their-lane-myths-and-misconcept-learning-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="learning poster" data-ebay-reference="lane-drift-when-trusted-influencers-leave-their-lane-myths-and-misconcept-learning-poster" target="_blank" rel="sponsored noopener noreferrer">Interactive Alphabet Wall Chart Talking ABC Electronic Poster Toy Learning Presc</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=learning+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lane-drift-when-trusted-influencers-leave-their-lane-myths-and-misconcept-learning-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="learning poster" data-ebay-reference="lane-drift-when-trusted-influencers-leave-their-lane-myths-and-misconcept-learning-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for learning poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: learning poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=learning+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lane-drift-when-trusted-influencers-leave-their-lane-myths-and-misconcept-learning-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="learning poster" data-ebay-reference="lane-drift-when-trusted-influencers-leave-their-lane-myths-and-misconcept-learning-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=learning+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lane-drift-when-trusted-influencers-leave-their-lane-myths-and-misconcept-learning-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="learning poster" data-ebay-reference="lane-drift-when-trusted-influencers-leave-their-lane-myths-and-misconcept-learning-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Interactive Alphabet Wall Chart Talking ABC Electronic Poster Toy Learning Presc"><img src="{{ '/assets/images/marketplace-covers/ffeaaa386decd67bce71.jpg' | relative_url }}" alt="Listing image for Interactive Alphabet Wall Chart Talking ABC Electronic Poster Toy Learning Presc" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=learning+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lane-drift-when-trusted-influencers-leave-their-lane-myths-and-misconcept-learning-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="learning poster" data-ebay-reference="lane-drift-when-trusted-influencers-leave-their-lane-myths-and-misconcept-learning-poster" target="_blank" rel="sponsored noopener noreferrer">Interactive Alphabet Wall Chart Talking ABC Electronic Poster Toy Learning Presc</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=learning+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lane-drift-when-trusted-influencers-leave-their-lane-myths-and-misconcept-learning-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="learning poster" data-ebay-reference="lane-drift-when-trusted-influencers-leave-their-lane-myths-and-misconcept-learning-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for learning poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: learning poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=learning+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lane-drift-when-trusted-influencers-leave-their-lane-myths-and-misconcept-learning-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="learning poster" data-ebay-reference="lane-drift-when-trusted-influencers-leave-their-lane-myths-and-misconcept-learning-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=learning+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lane-drift-when-trusted-influencers-leave-their-lane-myths-and-misconcept-learning-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="learning poster" data-ebay-reference="lane-drift-when-trusted-influencers-leave-their-lane-myths-and-misconcept-learning-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for New English Learning Poster Wall Chart For Kids Talking With Touch Buttons"><img src="{{ '/assets/images/marketplace-covers/a3e5c1e95d296598141e.jpg' | relative_url }}" alt="Listing image for New English Learning Poster Wall Chart For Kids Talking With Touch Buttons" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=learning+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lane-drift-when-trusted-influencers-leave-their-lane-myths-and-misconcept-learning-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="learning poster" data-ebay-reference="lane-drift-when-trusted-influencers-leave-their-lane-myths-and-misconcept-learning-poster" target="_blank" rel="sponsored noopener noreferrer">New English Learning Poster Wall Chart For Kids Talking With Touch Buttons</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=learning+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lane-drift-when-trusted-influencers-leave-their-lane-myths-and-misconcept-learning-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="learning poster" data-ebay-reference="lane-drift-when-trusted-influencers-leave-their-lane-myths-and-misconcept-learning-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for learning poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: learning poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=learning+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lane-drift-when-trusted-influencers-leave-their-lane-myths-and-misconcept-learning-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="learning poster" data-ebay-reference="lane-drift-when-trusted-influencers-leave-their-lane-myths-and-misconcept-learning-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=learning+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lane-drift-when-trusted-influencers-leave-their-lane-myths-and-misconcept-learning-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="learning poster" data-ebay-reference="lane-drift-when-trusted-influencers-leave-their-lane-myths-and-misconcept-learning-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for New English Learning Poster Wall Chart For Kids Talking With Touch Buttons"><img src="{{ '/assets/images/marketplace-covers/a3e5c1e95d296598141e.jpg' | relative_url }}" alt="Listing image for New English Learning Poster Wall Chart For Kids Talking With Touch Buttons" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=learning+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lane-drift-when-trusted-influencers-leave-their-lane-myths-and-misconcept-learning-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="learning poster" data-ebay-reference="lane-drift-when-trusted-influencers-leave-their-lane-myths-and-misconcept-learning-poster" target="_blank" rel="sponsored noopener noreferrer">New English Learning Poster Wall Chart For Kids Talking With Touch Buttons</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=learning+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lane-drift-when-trusted-influencers-leave-their-lane-myths-and-misconcept-learning-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="learning poster" data-ebay-reference="lane-drift-when-trusted-influencers-leave-their-lane-myths-and-misconcept-learning-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for learning poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: learning poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=learning+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lane-drift-when-trusted-influencers-leave-their-lane-myths-and-misconcept-learning-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="learning poster" data-ebay-reference="lane-drift-when-trusted-influencers-leave-their-lane-myths-and-misconcept-learning-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=learning+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lane-drift-when-trusted-influencers-leave-their-lane-myths-and-misconcept-learning-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="learning poster" data-ebay-reference="lane-drift-when-trusted-influencers-leave-their-lane-myths-and-misconcept-learning-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Kids Electronic Alphabet Wall Chart Talking ABC 123 Music Poster Learning Toy"><img src="{{ '/assets/images/marketplace-covers/9b4d1f64f0fdea7be9e2.jpg' | relative_url }}" alt="Listing image for Kids Electronic Alphabet Wall Chart Talking ABC 123 Music Poster Learning Toy" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=learning+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lane-drift-when-trusted-influencers-leave-their-lane-myths-and-misconcept-learning-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="learning poster" data-ebay-reference="lane-drift-when-trusted-influencers-leave-their-lane-myths-and-misconcept-learning-poster" target="_blank" rel="sponsored noopener noreferrer">Kids Electronic Alphabet Wall Chart Talking ABC 123 Music Poster Learning Toy</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=learning+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lane-drift-when-trusted-influencers-leave-their-lane-myths-and-misconcept-learning-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="learning poster" data-ebay-reference="lane-drift-when-trusted-influencers-leave-their-lane-myths-and-misconcept-learning-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for learning poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: learning poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=learning+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lane-drift-when-trusted-influencers-leave-their-lane-myths-and-misconcept-learning-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="learning poster" data-ebay-reference="lane-drift-when-trusted-influencers-leave-their-lane-myths-and-misconcept-learning-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=learning+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lane-drift-when-trusted-influencers-leave-their-lane-myths-and-misconcept-learning-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="learning poster" data-ebay-reference="lane-drift-when-trusted-influencers-leave-their-lane-myths-and-misconcept-learning-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Kids Electronic Alphabet Wall Chart Talking ABC 123 Music Poster Learning Toy"><img src="{{ '/assets/images/marketplace-covers/9b4d1f64f0fdea7be9e2.jpg' | relative_url }}" alt="Listing image for Kids Electronic Alphabet Wall Chart Talking ABC 123 Music Poster Learning Toy" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=learning+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lane-drift-when-trusted-influencers-leave-their-lane-myths-and-misconcept-learning-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="learning poster" data-ebay-reference="lane-drift-when-trusted-influencers-leave-their-lane-myths-and-misconcept-learning-poster" target="_blank" rel="sponsored noopener noreferrer">Kids Electronic Alphabet Wall Chart Talking ABC 123 Music Poster Learning Toy</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=learning+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lane-drift-when-trusted-influencers-leave-their-lane-myths-and-misconcept-learning-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="learning poster" data-ebay-reference="lane-drift-when-trusted-influencers-leave-their-lane-myths-and-misconcept-learning-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for learning poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: learning poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=learning+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lane-drift-when-trusted-influencers-leave-their-lane-myths-and-misconcept-learning-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="learning poster" data-ebay-reference="lane-drift-when-trusted-influencers-leave-their-lane-myths-and-misconcept-learning-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=learning+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lane-drift-when-trusted-influencers-leave-their-lane-myths-and-misconcept-learning-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="learning poster" data-ebay-reference="lane-drift-when-trusted-influencers-leave-their-lane-myths-and-misconcept-learning-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Electronic ABC Learning Wall Chart Talking Alphabet 123 Educational Poster Large"><img src="{{ '/assets/images/marketplace-covers/8d54b8a1e09ac57a8c0b.jpg' | relative_url }}" alt="Listing image for Electronic ABC Learning Wall Chart Talking Alphabet 123 Educational Poster Large" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=learning+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lane-drift-when-trusted-influencers-leave-their-lane-myths-and-misconcept-learning-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="learning poster" data-ebay-reference="lane-drift-when-trusted-influencers-leave-their-lane-myths-and-misconcept-learning-poster" target="_blank" rel="sponsored noopener noreferrer">Electronic ABC Learning Wall Chart Talking Alphabet 123 Educational Poster Large</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=learning+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lane-drift-when-trusted-influencers-leave-their-lane-myths-and-misconcept-learning-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="learning poster" data-ebay-reference="lane-drift-when-trusted-influencers-leave-their-lane-myths-and-misconcept-learning-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for learning poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: learning poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=learning+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lane-drift-when-trusted-influencers-leave-their-lane-myths-and-misconcept-learning-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="learning poster" data-ebay-reference="lane-drift-when-trusted-influencers-leave-their-lane-myths-and-misconcept-learning-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=learning+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lane-drift-when-trusted-influencers-leave-their-lane-myths-and-misconcept-learning-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="learning poster" data-ebay-reference="lane-drift-when-trusted-influencers-leave-their-lane-myths-and-misconcept-learning-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=learning+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lane-drift-when-trusted-influencers-leave-their-lane-myths-and-misconcept-learning-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="learning poster" data-ebay-reference="lane-drift-when-trusted-influencers-leave-their-lane-myths-and-misconcept-learning-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Electronic ABC Learning Wall Chart Talking Alphabet 123 Educational Poster Large"><img src="{{ '/assets/images/marketplace-covers/8d54b8a1e09ac57a8c0b.jpg' | relative_url }}" alt="Listing image for Electronic ABC Learning Wall Chart Talking Alphabet 123 Educational Poster Large" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=learning+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lane-drift-when-trusted-influencers-leave-their-lane-myths-and-misconcept-learning-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="learning poster" data-ebay-reference="lane-drift-when-trusted-influencers-leave-their-lane-myths-and-misconcept-learning-poster" target="_blank" rel="sponsored noopener noreferrer">Electronic ABC Learning Wall Chart Talking Alphabet 123 Educational Poster Large</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=learning+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lane-drift-when-trusted-influencers-leave-their-lane-myths-and-misconcept-learning-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="learning poster" data-ebay-reference="lane-drift-when-trusted-influencers-leave-their-lane-myths-and-misconcept-learning-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for learning poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: learning poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=learning+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lane-drift-when-trusted-influencers-leave-their-lane-myths-and-misconcept-learning-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="learning poster" data-ebay-reference="lane-drift-when-trusted-influencers-leave-their-lane-myths-and-misconcept-learning-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=learning+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lane-drift-when-trusted-influencers-leave-their-lane-myths-and-misconcept-learning-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="learning poster" data-ebay-reference="lane-drift-when-trusted-influencers-leave-their-lane-myths-and-misconcept-learning-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -603,7 +603,7 @@ The mechanism of trust transfer is powerful because it builds on something valua
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -623,7 +623,7 @@ The mechanism of trust transfer is powerful because it builds on something valua
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -655,7 +655,7 @@ The mechanism of trust transfer is powerful because it builds on something valua
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -707,7 +707,7 @@ The mechanism of trust transfer is powerful because it builds on something valua
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -752,7 +752,7 @@ The mechanism of trust transfer is powerful because it builds on something valua
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -793,126 +793,126 @@ The mechanism of trust transfer is powerful because it builds on something valua
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S074756321630320X" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S074756321630320X</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>· Authority cues produced higher credibility. · Cue-cumulative effects were found.Read more...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/abs/pii/S074756321630320X" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S074756321630320X</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>· Authority cues produced higher credibility. · Cue-cumulative effects were found.Read more...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: sciencedirect.com  
    Title: ScienceDirect Source credibility  
-   Link: <a href="https://www.sciencedirect.com/topics/social-sciences/source-credibility" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/topics/social-sciences/source-credibility</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Source credibility - an overviewA source&#x27;s credibility rests on two major characteristics: expertise and trustworthiness. In...</p></details>
+   Link:<a href="https://www.sciencedirect.com/topics/social-sciences/source-credibility" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/topics/social-sciences/source-credibility</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Source credibility - an overviewA source&#x27;s credibility rests on two major characteristics: expertise and trustworthiness. In...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0001691822002463" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0001691822002463</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Parasocial relations and social media influencers...by DC Balaban · 2022 · Cited by 155 — This study addresses consumers&#x27; c...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/pii/S0001691822002463" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0001691822002463</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Parasocial relations and social media influencers...by DC Balaban · 2022 · Cited by 155 — This study addresses consumers&#x27; c...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: nature.com  
-   Link: <a href="https://www.nature.com/articles/s41599-023-02512-1" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41599-023-02512-1</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The persuasive power of social media influencers in brand...by X Liu · 2024 · Cited by 238 — This study explores the persuasive po...</p></details>
+   Link:<a href="https://www.nature.com/articles/s41599-023-02512-1" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41599-023-02512-1</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The persuasive power of social media influencers in brand...by X Liu · 2024 · Cited by 238 — This study explores the persuasive po...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2303.09656" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2303.09656</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Revealing complexities when adult readers engage in the credibility evaluation of social media postsMarch 16, 2023...</p></details>
+   Link:<a href="https://arxiv.org/abs/2303.09656" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2303.09656</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Revealing complexities when adult readers engage in the credibility evaluation of social media postsMarch 16, 2023...</p></details>
    Published: March 16, 2023  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/pii/S2949882124000604" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S2949882124000604</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The mediating role of source credibility and authenticity in...by D Kim · 2024 · Cited by 66 — This study examines the differences betwe...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/pii/S2949882124000604" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S2949882124000604</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The mediating role of source credibility and authenticity in...by D Kim · 2024 · Cited by 66 — This study examines the differences betwe...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0747563225003437" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0747563225003437</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Encouraging Critical Reflection as a Shield against Health...by J Kaňková · 2025 · Cited by 1 — Both misinformation and overgeneralized...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/pii/S0747563225003437" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0747563225003437</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Encouraging Critical Reflection as a Shield against Health...by J Kaňková · 2025 · Cited by 1 — Both misinformation and overgeneralized...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/pii/S027795362300744X" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S027795362300744X</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>These challenges stem primarily from SMIs&#x27; ability to form intimate...Read...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/pii/S027795362300744X" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S027795362300744X</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>These challenges stem primarily from SMIs&#x27; ability to form intimate...Read...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: pure.psu.edu  
    Title: social media and credibility indicators the effect of influence c  
-   Link: <a href="https://pure.psu.edu/en/publications/social-media-and-credibility-indicators-the-effect-of-influence-c/" target="_blank" rel="noopener noreferrer nofollow">https://pure.psu.edu/en/publications/social-media-and-credibility-indicators-the-effect-of-influence-c/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Penn StateSocial media and credibility indicators: The effect of...by X Lin · 2016 · Cited by 321 — Authority cues most strongly influen...</p></details>
+   Link:<a href="https://pure.psu.edu/en/publications/social-media-and-credibility-indicators-the-effect-of-influence-c/" target="_blank" rel="noopener noreferrer nofollow">https://pure.psu.edu/en/publications/social-media-and-credibility-indicators-the-effect-of-influence-c/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Penn StateSocial media and credibility indicators: The effect of...by X Lin · 2016 · Cited by 321 — Authority cues most strongly influen...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: tandfonline.com  
-   Link: <a href="https://www.tandfonline.com/doi/full/10.1080/10410236.2024.2397268" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/full/10.1080/10410236.2024.2397268</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Taylor &amp; Francis OnlineHealth-Related Communication of Social Media Influencersby J Kaňková · 2025 · Cited by 67 — The goal of this scopi...</p></details>
+   Link:<a href="https://www.tandfonline.com/doi/full/10.1080/10410236.2024.2397268" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/full/10.1080/10410236.2024.2397268</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Taylor &amp; Francis OnlineHealth-Related Communication of Social Media Influencersby J Kaňková · 2025 · Cited by 67 — The goal of this scopi...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: Wikipedia  
    Title: Source credibility  
-   Link: <a href="https://en.wikipedia.org/wiki/Source_credibility" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Source_credibility</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Source credibilitySource credibility is a term commonly used to imply a communicator&#x27;s positive characteristics that affect the receiv...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Source_credibility" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Source_credibility</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Source credibilitySource credibility is a term commonly used to imply a communicator&#x27;s positive characteristics that affect the receiv...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: merriam-webster.com  
-   Link: <a href="https://www.merriam-webster.com/dictionary/parasocial" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/parasocial</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Definition &amp; Meaning15 May 2026 — The meaning of PARASOCIAL is relating to or involving a one-sided emotional connection with someone (es...</p></details>
+   Link:<a href="https://www.merriam-webster.com/dictionary/parasocial" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/parasocial</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Definition &amp; Meaning15 May 2026 — The meaning of PARASOCIAL is relating to or involving a one-sided emotional connection with someone (es...</p></details>
    Published: May 2026  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: childrensmercy.org  
    Title: parasocial relationships  
-   Link: <a href="https://www.childrensmercy.org/parent-ish/2026/02/parasocial-relationships/" target="_blank" rel="noopener noreferrer nofollow">https://www.childrensmercy.org/parent-ish/2026/02/parasocial-relationships/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Understanding parasocial relationships in teen media use2 Feb 2026 — Learn signs of unhealthy relationships with social media use and how...</p></details>
+   Link:<a href="https://www.childrensmercy.org/parent-ish/2026/02/parasocial-relationships/" target="_blank" rel="noopener noreferrer nofollow">https://www.childrensmercy.org/parent-ish/2026/02/parasocial-relationships/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Understanding parasocial relationships in teen media use2 Feb 2026 — Learn signs of unhealthy relationships with social media use and how...</p></details>
 
 ### Additional References
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: psychologytoday.com  
-   Link: <a href="https://www.psychologytoday.com/gb/basics/parasocial-relationships" target="_blank" rel="noopener noreferrer nofollow">https://www.psychologytoday.com/gb/basics/parasocial-relationships</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Parasocial RelationshipsParasocial relationships refer to one-sided relationships in which a person develops a strong sense of connection...</p></details>
+   Link:<a href="https://www.psychologytoday.com/gb/basics/parasocial-relationships" target="_blank" rel="noopener noreferrer nofollow">https://www.psychologytoday.com/gb/basics/parasocial-relationships</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Parasocial RelationshipsParasocial relationships refer to one-sided relationships in which a person develops a strong sense of connection...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: findapsychologist.org  
-   Link: <a href="https://www.findapsychologist.org/parasocial-relationships-the-nature-of-celebrity-fascinations/" target="_blank" rel="noopener noreferrer nofollow">https://www.findapsychologist.org/parasocial-relationships-the-nature-of-celebrity-fascinations/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Parasocial Relationships: The Nature of Celebrity FascinationsParasocial relationships are one-sided relationships, where one person exte...</p></details>
+   Link:<a href="https://www.findapsychologist.org/parasocial-relationships-the-nature-of-celebrity-fascinations/" target="_blank" rel="noopener noreferrer nofollow">https://www.findapsychologist.org/parasocial-relationships-the-nature-of-celebrity-fascinations/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Parasocial Relationships: The Nature of Celebrity FascinationsParasocial relationships are one-sided relationships, where one person exte...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: hrmars.com  
-   Link: <a href="https://hrmars.com/papers_submitted/24688/source-credibility-as-a-catalyst-unraveling-its-role-in-shaping-strategic-communication-acceptability-sca.pdf" target="_blank" rel="noopener noreferrer nofollow">https://hrmars.com/papers_submitted/24688/source-credibility-as-a-catalyst-unraveling-its-role-in-shaping-strategic-communication-acceptability-sca.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Source Credibility as a Catalyst: Unraveling its Role in...Feb 26, 2025 — The dissemination of misinformation via social media [platforms](&amp;#123;&amp;#123; &#x27;platforms/&#x27; | relative_url &amp;#125;&amp;#125;)...</p></details>
+   Link:<a href="https://hrmars.com/papers_submitted/24688/source-credibility-as-a-catalyst-unraveling-its-role-in-shaping-strategic-communication-acceptability-sca.pdf" target="_blank" rel="noopener noreferrer nofollow">https://hrmars.com/papers_submitted/24688/source-credibility-as-a-catalyst-unraveling-its-role-in-shaping-strategic-communication-acceptability-sca.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Source Credibility as a Catalyst: Unraveling its Role in...Feb 26, 2025 — The dissemination of misinformation via social media [platforms](&amp;#123;&amp;#123; &#x27;platforms/&#x27; | relative_url &amp;#125;&amp;#125;)...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: merriam-webster.com  
-   Link: <a href="https://www.merriam-webster.com/dictionary/credibility" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/credibility</a>  
+   Link:<a href="https://www.merriam-webster.com/dictionary/credibility" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/credibility</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: research.usc.edu.au  
-   Link: <a href="https://research.usc.edu.au/esploro/outputs/journalArticle/Going-Viral-Sharing-of-Misinformation-by/991062952902621" target="_blank" rel="noopener noreferrer nofollow">https://research.usc.edu.au/esploro/outputs/journalArticle/Going-Viral-Sharing-of-Misinformation-by/991062952902621</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Viral: Sharing of Misinformation by Social Media...by R Mulcahy · Cited by 29 — It investigates the virality of misinformation posts by...</p></details>
+   Link:<a href="https://research.usc.edu.au/esploro/outputs/journalArticle/Going-Viral-Sharing-of-Misinformation-by/991062952902621" target="_blank" rel="noopener noreferrer nofollow">https://research.usc.edu.au/esploro/outputs/journalArticle/Going-Viral-Sharing-of-Misinformation-by/991062952902621</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Viral: Sharing of Misinformation by Social Media...by R Mulcahy · Cited by 29 — It investigates the virality of misinformation posts by...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: news.sky.com  
-   Link: <a href="https://news.sky.com/story/parasocial-relationships-how-well-do-we-really-know-the-people-we-follow-online-13385757" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/parasocial-relationships-how-well-do-we-really-know-the-people-we-follow-online-13385757</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>sky.com&#x27;Parasocial&#x27; is the Cambridge dictionary word of the year...19 Nov 2025 — That funny feeling is what psychologists call a parasoc...</p></details>
+   Link:<a href="https://news.sky.com/story/parasocial-relationships-how-well-do-we-really-know-the-people-we-follow-online-13385757" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/parasocial-relationships-how-well-do-we-really-know-the-people-we-follow-online-13385757</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>sky.com&#x27;Parasocial&#x27; is the Cambridge dictionary word of the year...19 Nov 2025 — That funny feeling is what psychologists call a parasoc...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: advances.in  
-   Link: <a href="https://advances.in/psychology/10.56296/aip00028/" target="_blank" rel="noopener noreferrer nofollow">https://advances.in/psychology/10.56296/aip00028/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Source credibility effects in misinformation research: A review...by V Mang · 2024 · Cited by 13 — Source credibility isn&#x27;t a simple fix...</p></details>
+   Link:<a href="https://advances.in/psychology/10.56296/aip00028/" target="_blank" rel="noopener noreferrer nofollow">https://advances.in/psychology/10.56296/aip00028/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Source credibility effects in misinformation research: A review...by V Mang · 2024 · Cited by 13 — Source credibility isn&#x27;t a simple fix...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: pure.uva.nl  
-   Link: <a href="https://pure.uva.nl/ws/files/118138707/Greenfluencing_The_Impact_of_Parasocial_Relationships_with_Social_Media_Influencers_on_Advertising_Effectiveness_and_Followers_Pro_environmental.pdf" target="_blank" rel="noopener noreferrer nofollow">https://pure.uva.nl/ws/files/118138707/Greenfluencing_The_Impact_of_Parasocial_Relationships_with_Social_Media_Influencers_on_Advertising_Effectiveness_and_Followers_Pro_environmental.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The importance and inter- play of parasocial relationships and advertising disclosures in explaining influencers&#x27; persuasive effects on t...</p></details>
+   Link:<a href="https://pure.uva.nl/ws/files/118138707/Greenfluencing_The_Impact_of_Parasocial_Relationships_with_Social_Media_Influencers_on_Advertising_Effectiveness_and_Followers_Pro_environmental.pdf" target="_blank" rel="noopener noreferrer nofollow">https://pure.uva.nl/ws/files/118138707/Greenfluencing_The_Impact_of_Parasocial_Relationships_with_Social_Media_Influencers_on_Advertising_Effectiveness_and_Followers_Pro_environmental.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The importance and inter- play of parasocial relationships and advertising disclosures in explaining influencers&#x27; persuasive effects on t...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: spia.princeton.edu  
    Title: credibility cues may improve news diets misinformation consumers  
-   Link: <a href="https://spia.princeton.edu/news/credibility-cues-may-improve-news-diets-misinformation-consumers" target="_blank" rel="noopener noreferrer nofollow">https://spia.princeton.edu/news/credibility-cues-may-improve-news-diets-misinformation-consumers</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Cues May Improve the “News Diets” of...May 6, 2022 — Source credibility information doesn&#x27;t change whether people on average read low-qu...</p></details>
+   Link:<a href="https://spia.princeton.edu/news/credibility-cues-may-improve-news-diets-misinformation-consumers" target="_blank" rel="noopener noreferrer nofollow">https://spia.princeton.edu/news/credibility-cues-may-improve-news-diets-misinformation-consumers</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Cues May Improve the “News Diets” of...May 6, 2022 — Source credibility information doesn&#x27;t change whether people on average read low-qu...</p></details>
    Published: May 6, 2022  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/404926118_Scientific_authority_cues_increase_the_spread_of_misinformation" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/404926118_Scientific_authority_cues_increase_the_spread_of_misinformation</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>rather, they do so unintentionally due to cognitive biases triggered by...Read more...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/404926118_Scientific_authority_cues_increase_the_spread_of_misinformation" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/404926118_Scientific_authority_cues_increase_the_spread_of_misinformation</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>rather, they do so unintentionally due to cognitive biases triggered by...Read more...</p></details>

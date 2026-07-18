@@ -274,14 +274,14 @@ image: /assets/images/Myths_and_misconcept_0d48d7_education_myth_corre_425e93_pe
 
 ## Introduction
 
-Should every teacher be exposed to every educational myth in the hope that future misconceptions will be prevented? The evidence suggests a more cautious answer. Personalised [correction]({{ 'correction/' | relative_url }}) can be one of the most effective ways to reduce belief in educational myths because it targets misconceptions that teachers actually hold. However, correction is not risk-free. Repeated exposure to myths that were previously unfamiliar can increase their familiarity, and familiar claims often feel more credible than unfamiliar ones. The challenge for professional learning is therefore not simply to debunk myths, but to identify which myths are present, who believes them, and how [corrections]({{ 'corrections/' | relative_url }}) can be delivered without unintentionally spreading the misconception further. Research on misinformation correction, conceptual change and educational myths increasingly points towards diagnosis-first approaches rather than blanket myth-busting sessions. Springer Nature <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.emc-lab.org/uploads/1/1/3/6/113627673/swire.2017.jeplmc.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: emc-lab.org">[Ecker Memory &amp; Cognition Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">emc-lab.org</span><span class="citation-popover-snippet">Page 6. CORRECTING INACCURATE...Read more...</span></span></span>
+Should every teacher be exposed to every educational myth in the hope that future misconceptions will be prevented? The evidence suggests a more cautious answer. Personalised [correction]({{ 'correction/' | relative_url }}) can be one of the most effective ways to reduce belief in educational myths because it targets misconceptions that teachers actually hold. However, correction is not risk-free. Repeated exposure to myths that were previously unfamiliar can increase their familiarity, and familiar claims often feel more credible than unfamiliar ones. The challenge for professional learning is therefore not simply to debunk myths, but to identify which myths are present, who believes them, and how [corrections]({{ 'corrections/' | relative_url }}) can be delivered without unintentionally spreading the misconception further. Research on misinformation correction, conceptual change and educational myths increasingly points towards diagnosis-first approaches rather than blanket myth-busting sessions. Springer Nature<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.emc-lab.org/uploads/1/1/3/6/113627673/swire.2017.jeplmc.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: emc-lab.org">[Ecker Memory &amp; Cognition Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">emc-lab.org</span><span class="citation-popover-snippet">Page 6. CORRECTING INACCURATE...Read more...</span></span></span>
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_education_myth_corre_425e93_personalised_correct_c6819a-Illustration-1-dark.svg" | relative_url }}" alt="Personalised fixes illustration 1" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_education_myth_corre_425e93_personalised_correct_c6819a-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_education_myth_corre_425e93_personalised_correct_c6819a-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Why Diagnosis Should Come Before Correction
 
 A common assumption in teacher training is that more myth correction is always better. Yet educational myths are not distributed evenly. Some beliefs are widespread, while others may be unknown to many teachers. Presenting a long catalogue of misconceptions can therefore create an odd situation: participants leave the session having encountered myths they had never previously considered.
 
-This concern reflects a broader finding from misinformation research. People often use familiarity as a shortcut when judging whether a claim is true. Simply hearing a statement repeatedly can make it seem more plausible later, a phenomenon sometimes called the illusory truth effect. Corrections usually overcome this problem, but unnecessary [repetition]({{ 'repetition/' | relative_url }}) of false claims can still increase familiarity with them. Springer Nature <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.emc-lab.org/uploads/1/1/3/6/113627673/swire.2017.jeplmc.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: emc-lab.org">[Ecker Memory &amp; Cognition Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">emc-lab.org</span><span class="citation-popover-snippet">Page 6. CORRECTING INACCURATE...Read more...</span></span></span>
+This concern reflects a broader finding from misinformation research. People often use familiarity as a shortcut when judging whether a claim is true. Simply hearing a statement repeatedly can make it seem more plausible later, a phenomenon sometimes called the illusory truth effect. Corrections usually overcome this problem, but unnecessary [repetition]({{ 'repetition/' | relative_url }}) of false claims can still increase familiarity with them. Springer Nature<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.emc-lab.org/uploads/1/1/3/6/113627673/swire.2017.jeplmc.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: emc-lab.org">[Ecker Memory &amp; Cognition Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">emc-lab.org</span><span class="citation-popover-snippet">Page 6. CORRECTING INACCURATE...Read more...</span></span></span>
 
 For educational leaders, the practical implication is straightforward. Before designing a correction programme, it helps to establish which misconceptions are actually present in a school, department or training cohort. This can be done through anonymous surveys, discussions of classroom decision-making, or audits of existing teaching materials. A correction aimed at a real misconception has a clear target. A correction aimed at a myth nobody believes may simply introduce a new idea into circulation.
 
@@ -295,24 +295,24 @@ Targeted correction has several advantages over generic myth-busting.
 
 First, it increases relevance. Teachers are more likely to engage with information that addresses decisions they currently make. A discussion of learning styles, for example, has greater impact when participants are actively using learning-style questionnaires or grouping pupils according to presumed sensory preferences than when the concept is merely mentioned as a historical curiosity.
 
-Second, personalised correction can support conceptual change rather than simple rejection. Research on [refutation texts]({{ 'refutation-texts/' | relative_url }}) shows that corrections work best when they explicitly identify the misconception, explain why it is incorrect and provide a stronger alternative explanation. The goal is not merely to remove a false belief but to replace it with a more useful model of learning. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12810723/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Debunking educational myths: towards evidence-based...by D Cecilio-Fernandes · 2025 · Cited by 1 — We hope this editorial will increa...</span></span></span>
+Second, personalised correction can support conceptual change rather than simple rejection. Research on [refutation texts]({{ 'refutation-texts/' | relative_url }}) shows that corrections work best when they explicitly identify the misconception, explain why it is incorrect and provide a stronger alternative explanation. The goal is not merely to remove a false belief but to replace it with a more useful model of learning.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12810723/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Debunking educational myths: towards evidence-based...by D Cecilio-Fernandes · 2025 · Cited by 1 — We hope this editorial will increa...</span></span></span>
 
-Third, targeted interventions may reduce resistance. The often-cited “[backfire]({{ 'backfire/' | relative_url }}) effect”, in which correction supposedly strengthens belief in misinformation, appears to be much rarer than originally feared. Large reviews and replication studies have generally found that evidence-based corrections reduce misconceptions more often than they increase them. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8715407/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCCorrection format has a limited role when debunking</span><span class="citation-popover-snippet">by B Swire-Thompson · 2021 · Cited by 79 — The current paper investigated how altering the format of corrections influences people&#x27;s s...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/pii/S2211368120300516" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Searching for the Backfire Effect: Measurement and Design...by B Swire-Thompson · 2020 · Cited by 418 — A backfire effect is when people...</span></span></span>
+Third, targeted interventions may reduce resistance. The often-cited “[backfire]({{ 'backfire/' | relative_url }}) effect”, in which correction supposedly strengthens belief in misinformation, appears to be much rarer than originally feared. Large reviews and replication studies have generally found that evidence-based corrections reduce misconceptions more often than they increase them.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8715407/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCCorrection format has a limited role when debunking</span><span class="citation-popover-snippet">by B Swire-Thompson · 2021 · Cited by 79 — The current paper investigated how altering the format of corrections influences people&#x27;s s...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/pii/S2211368120300516" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Searching for the Backfire Effect: Measurement and Design...by B Swire-Thompson · 2020 · Cited by 418 — A backfire effect is when people...</span></span></span>
 
-In education, this means trainers do not need to avoid correction altogether. Instead, they should focus on delivering corrections that are directly relevant, evidence-based and accompanied by practical alternatives. Recent work on educational myths among teachers also suggests that richer explanatory interventions can outperform simple refutation alone, particularly when they connect evidence to realistic educational situations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nature.com/articles/s41599-025-05470-y" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Educational myths among teachers: prevalence and...by Y Tunga · 2025 · Cited by 1 — Results indicated that educational myths are c...</span></span></span>
+In education, this means trainers do not need to avoid correction altogether. Instead, they should focus on delivering corrections that are directly relevant, evidence-based and accompanied by practical alternatives. Recent work on educational myths among teachers also suggests that richer explanatory interventions can outperform simple refutation alone, particularly when they connect evidence to realistic educational situations.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nature.com/articles/s41599-025-05470-y" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Educational myths among teachers: prevalence and...by Y Tunga · 2025 · Cited by 1 — Results indicated that educational myths are c...</span></span></span>
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_education_myth_corre_425e93_personalised_correct_c6819a-Illustration-2-dark.svg" | relative_url }}" alt="Personalised fixes illustration 2" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_education_myth_corre_425e93_personalised_correct_c6819a-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_education_myth_corre_425e93_personalised_correct_c6819a-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The Familiarity Risk in Myth Training
 
 The strongest argument for personalisation is not that corrections are dangerous in themselves, but that indiscriminate correction can create unnecessary exposure.
 
-Researchers have long debated the so-called familiarity backfire effect. The original concern was that repeating a myth in order to debunk it could make the myth more memorable than the correction. Over time, people might remember the claim while forgetting that it had been disproved. Skeptical Science <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.emc-lab.org/uploads/1/1/3/6/113627673/swire.2017.jeplmc.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: emc-lab.org">[Ecker Memory &amp; Cognition Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">emc-lab.org</span><span class="citation-popover-snippet">Page 6. CORRECTING INACCURATE...Read more...</span></span></span>
+Researchers have long debated the so-called familiarity backfire effect. The original concern was that repeating a myth in order to debunk it could make the myth more memorable than the correction. Over time, people might remember the claim while forgetting that it had been disproved. Skeptical Science<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.emc-lab.org/uploads/1/1/3/6/113627673/swire.2017.jeplmc.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: emc-lab.org">[Ecker Memory &amp; Cognition Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">emc-lab.org</span><span class="citation-popover-snippet">Page 6. CORRECTING INACCURATE...Read more...</span></span></span>
 
-More recent evidence suggests that true familiarity backfire effects are uncommon and difficult to reproduce experimentally. Many studies find that corrections remain beneficial even when they repeat the myth, provided the correction is clear and the false claim is explicitly labelled as incorrect. PMC <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0281140" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.plos.org">[PLOS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.plos.org</span><span class="citation-popover-snippet">A failure to replicate familiarity or fear-driven backfire effectsby UKH Ecker · 2023 · Cited by 48 — The authors found that repeatin...</span></span></span>
+More recent evidence suggests that true familiarity backfire effects are uncommon and difficult to reproduce experimentally. Many studies find that corrections remain beneficial even when they repeat the myth, provided the correction is clear and the false claim is explicitly labelled as incorrect. PMC<span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0281140" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.plos.org">[PLOS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.plos.org</span><span class="citation-popover-snippet">A failure to replicate familiarity or fear-driven backfire effectsby UKH Ecker · 2023 · Cited by 48 — The authors found that repeatin...</span></span></span>
 
-Even so, the familiarity problem has not disappeared entirely. Researchers distinguish between a correction that genuinely increases belief and one that is simply less effective than it could have been. A training session packed with dozens of myths may not cause teachers to adopt those myths, but it may dilute attention and increase recognition of claims that participants had never encountered before. <span class="citation-chip-wrap"><a class="citation-chip" href="https://firstdraftnews.org/articles/the-psychology-of-misinformation-why-its-so-hard-to-correct/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: firstdraftnews.org">[First Draft]</a><span class="citation-popover" role="note"><span class="citation-popover-source">firstdraftnews.org</span><span class="citation-popover-title">the psychology of misinformation why its so hard to correct</span><span class="citation-popover-snippet">First DraftThe psychology of misinformation: Why it&#x27;s so hard to correct14 Jul 2020 — The familiarity backfire effect describes the fact...</span></span></span>
+Even so, the familiarity problem has not disappeared entirely. Researchers distinguish between a correction that genuinely increases belief and one that is simply less effective than it could have been. A training session packed with dozens of myths may not cause teachers to adopt those myths, but it may dilute attention and increase recognition of claims that participants had never encountered before.<span class="citation-chip-wrap"><a class="citation-chip" href="https://firstdraftnews.org/articles/the-psychology-of-misinformation-why-its-so-hard-to-correct/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: firstdraftnews.org">[First Draft]</a><span class="citation-popover" role="note"><span class="citation-popover-source">firstdraftnews.org</span><span class="citation-popover-title">the psychology of misinformation why its so hard to correct</span><span class="citation-popover-snippet">First DraftThe psychology of misinformation: Why it&#x27;s so hard to correct14 Jul 2020 — The familiarity backfire effect describes the fact...</span></span></span>
 
-This is particularly relevant in education because many myths have intuitive appeal. Claims about “left-brained learners”, “learning styles” or fixed ability often seem to fit everyday observations. If a correction is brief, vague or poorly remembered, familiarity with the myth may remain while the corrective explanation fades. <span class="citation-chip-wrap"><a class="citation-chip" href="https://my.chartered.college/early-career-hub/engaging-with-research-and-debunking-myths/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: my.chartered.college">[My College]</a><span class="citation-popover" role="note"><span class="citation-popover-source">my.chartered.college</span><span class="citation-popover-snippet">My CollegeEngaging with research and debunking mythsby C Bokhove — This article aims to give an overview of some aspects that come into p...</span></span></span>
+This is particularly relevant in education because many myths have intuitive appeal. Claims about “left-brained learners”, “learning styles” or fixed ability often seem to fit everyday observations. If a correction is brief, vague or poorly remembered, familiarity with the myth may remain while the corrective explanation fades.<span class="citation-chip-wrap"><a class="citation-chip" href="https://my.chartered.college/early-career-hub/engaging-with-research-and-debunking-myths/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: my.chartered.college">[My College]</a><span class="citation-popover" role="note"><span class="citation-popover-source">my.chartered.college</span><span class="citation-popover-snippet">My CollegeEngaging with research and debunking mythsby C Bokhove — This article aims to give an overview of some aspects that come into p...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/RBDCw_izDzE" title="Why Do People Believe Misinformation Despite Corrections? | Media Literacy For Everyone News" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=RBDCw_izDzE" target="_blank" rel="noopener noreferrer">Why Do People Believe Misinformation Despite Corrections? | Media Literacy For Everyone News</a></p><p class="youtube-embed-meta">Channel: Media Literacy For Everyone &middot; Views: 8 &middot; Uploaded: August 2025 &middot; Length: 2 minutes 32 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=RBDCw_izDzE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=RBDCw_izDzE">Open on YouTube</a></p></div></div></div>
 
@@ -327,185 +327,185 @@ The evidence points towards several design principles for educational correction
 * **Provide an alternative explanation.** Replacing a misconception is more effective than simply rejecting it.
 * **Link correction to classroom decisions.** Teachers need to know what practice should change and what should replace it.
 * **Avoid unnecessary repetition.** Mention the myth when needed for clarity, but keep attention focused on the accurate explanation.
-* **Revisit corrections over time.** Reinforcement helps prevent the correction from fading while the familiar myth remains memorable. <span class="citation-chip-wrap"><a class="citation-chip" href="https://skepticalscience.com/print.php?n=4890" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalscience.com">[Skeptical Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalscience.com</span><span class="citation-popover-snippet">The Debunking Handbook 2020: The elusive backfire effects22 Oct 2020 — Backfire Effect: A backfire effect is where a correction inadverte...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9283209/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">The backfire effect after correcting misinformation is strongly...by B Swire-Thompson · 2022 · Cited by 111 — The backfire effect is...</span></span></span>
+* **Revisit corrections over time.** Reinforcement helps prevent the correction from fading while the familiar myth remains memorable.<span class="citation-chip-wrap"><a class="citation-chip" href="https://skepticalscience.com/print.php?n=4890" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalscience.com">[Skeptical Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalscience.com</span><span class="citation-popover-snippet">The Debunking Handbook 2020: The elusive backfire effects22 Oct 2020 — Backfire Effect: A backfire effect is where a correction inadverte...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9283209/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">The backfire effect after correcting misinformation is strongly...by B Swire-Thompson · 2022 · Cited by 111 — The backfire effect is...</span></span></span>
 
-The central lesson is that personalised correction is not merely a matter of efficiency. It is also a safeguard against spreading misconceptions unnecessarily. Educational corrections work best when they are aimed at real beliefs held by real teachers, delivered with clear refutations and stronger alternatives, and embedded within the practical realities of teaching rather than presented as a catalogue of myths. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nature.com/articles/s41599-025-05470-y" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Educational myths among teachers: prevalence and...by Y Tunga · 2025 · Cited by 1 — Results indicated that educational myths are c...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10096191/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCCorrecting vaccine misinformation: A failure to replicate</span><span class="citation-popover-snippet">by UKH Ecker · 2023 · Cited by 48 — Some have even suggested that this familiarity boost may cause a correction to inadvertently incre...</span></span></span>
+The central lesson is that personalised correction is not merely a matter of efficiency. It is also a safeguard against spreading misconceptions unnecessarily. Educational corrections work best when they are aimed at real beliefs held by real teachers, delivered with clear refutations and stronger alternatives, and embedded within the practical realities of teaching rather than presented as a catalogue of myths.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nature.com/articles/s41599-025-05470-y" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Educational myths among teachers: prevalence and...by Y Tunga · 2025 · Cited by 1 — Results indicated that educational myths are c...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10096191/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCCorrecting vaccine misinformation: A failure to replicate</span><span class="citation-popover-snippet">by UKH Ecker · 2023 · Cited by 48 — Some have even suggested that this familiarity boost may cause a correction to inadvertently incre...</span></span></span>
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_education_myth_corre_425e93_personalised_correct_c6819a-Illustration-3-dark.svg" | relative_url }}" alt="Personalised fixes illustration 3" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_education_myth_corre_425e93_personalised_correct_c6819a-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_education_myth_corre_425e93_personalised_correct_c6819a-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Should Every Teacher Hear Every Myth?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Should Every Teacher Hear Every Myth?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Calling Bullshit on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Plu9DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Calling Bullshit" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Calling Bullshit">Calling Bullshit</a>
-        </h4>
-        <p class="fr-book-author">By Carl T. Bergstrom, Jevin D. West</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Calling Bullshit on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Plu9DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Calling Bullshit" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Calling Bullshit">Calling Bullshit</a>
+</h4>
+<p class="fr-book-author">By Carl T. Bergstrom, Jevin D. West</p>
         
-        <p class="fr-book-desc">Helps readers evaluate claims without spreading misconceptions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps readers evaluate claims without spreading misconceptions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YGPzXWanppcC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
-        </h4>
-        <p class="fr-book-author">By Daniel Kahneman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YGPzXWanppcC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
+</h4>
+<p class="fr-book-author">By Daniel Kahneman</p>
         
-        <p class="fr-book-desc">Covers familiarity effects and judgment shortcuts relevant to myth correction.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers familiarity effects and judgment shortcuts relevant to myth correction.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Factfulness on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=rxg0tgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Factfulness" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Factfulness">Factfulness</a>
-        </h4>
-        <p class="fr-book-author">By Hans Rosling, Ola Rosling et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Factfulness on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=rxg0tgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Factfulness" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Factfulness">Factfulness</a>
+</h4>
+<p class="fr-book-author">By Hans Rosling, Ola Rosling et al.</p>
         
-        <p class="fr-book-desc">Demonstrates practical approaches to correcting widespread false beliefs.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Demonstrates practical approaches to correcting widespread false beliefs.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Knowledge+Illusion+Steven+Sloman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Knowledge Illusion on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8826867-M.jpg" alt="Cover for The Knowledge Illusion" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Knowledge+Illusion+Steven+Sloman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Knowledge Illusion">The Knowledge Illusion</a>
-        </h4>
-        <p class="fr-book-author">By Steven Sloman, Philip Fernbach</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Knowledge+Illusion+Steven+Sloman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Knowledge Illusion on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8826867-M.jpg" alt="Cover for The Knowledge Illusion" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Knowledge+Illusion+Steven+Sloman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Knowledge Illusion">The Knowledge Illusion</a>
+</h4>
+<p class="fr-book-author">By Steven Sloman, Philip Fernbach</p>
         
-        <p class="fr-book-desc">First published 2017. Subjects: Cognitive psychology, Knowledge, theory of, Knowledge, sociology of, Thought and thinking, Intellect.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Knowledge+Illusion+Steven+Sloman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2017. Subjects: Cognitive psychology, Knowledge, theory of, Knowledge, sociology of, Thought and thinking, Intellect.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Knowledge+Illusion+Steven+Sloman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Calling+Bullshit&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Calling Bullshit</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Factfulness&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Factfulness</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Calling+Bullshit&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Calling Bullshit</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Factfulness&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Factfulness</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=civic+education+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=personalised-fixes-should-every-teacher-hear-every-myth-myths-and-misconcept-civic-education-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="civic education poster" data-ebay-reference="personalised-fixes-should-every-teacher-hear-every-myth-myths-and-misconcept-civic-education-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 18 US Government Posters for Classroom, 11X17In Matte-Laminated Educational Bill"><img src="{{ '/assets/images/marketplace-covers/f43f66ba2b4a757950ca.jpg' | relative_url }}" alt="Listing image for 18 US Government Posters for Classroom, 11X17In Matte-Laminated Educational Bill" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=civic+education+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=personalised-fixes-should-every-teacher-hear-every-myth-myths-and-misconcept-civic-education-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="civic education poster" data-ebay-reference="personalised-fixes-should-every-teacher-hear-every-myth-myths-and-misconcept-civic-education-poster" target="_blank" rel="sponsored noopener noreferrer">18 US Government Posters for Classroom, 11X17In Matte-Laminated Educational Bill</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=civic+education+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=personalised-fixes-should-every-teacher-hear-every-myth-myths-and-misconcept-civic-education-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="civic education poster" data-ebay-reference="personalised-fixes-should-every-teacher-hear-every-myth-myths-and-misconcept-civic-education-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for civic education poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: civic education poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=civic+education+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=personalised-fixes-should-every-teacher-hear-every-myth-myths-and-misconcept-civic-education-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="civic education poster" data-ebay-reference="personalised-fixes-should-every-teacher-hear-every-myth-myths-and-misconcept-civic-education-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=civic+education+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=personalised-fixes-should-every-teacher-hear-every-myth-myths-and-misconcept-civic-education-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="civic education poster" data-ebay-reference="personalised-fixes-should-every-teacher-hear-every-myth-myths-and-misconcept-civic-education-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 18 US Government Posters for Classroom, 11X17In Matte-Laminated Educational Bill"><img src="{{ '/assets/images/marketplace-covers/f43f66ba2b4a757950ca.jpg' | relative_url }}" alt="Listing image for 18 US Government Posters for Classroom, 11X17In Matte-Laminated Educational Bill" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=civic+education+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=personalised-fixes-should-every-teacher-hear-every-myth-myths-and-misconcept-civic-education-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="civic education poster" data-ebay-reference="personalised-fixes-should-every-teacher-hear-every-myth-myths-and-misconcept-civic-education-poster" target="_blank" rel="sponsored noopener noreferrer">18 US Government Posters for Classroom, 11X17In Matte-Laminated Educational Bill</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=civic+education+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=personalised-fixes-should-every-teacher-hear-every-myth-myths-and-misconcept-civic-education-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="civic education poster" data-ebay-reference="personalised-fixes-should-every-teacher-hear-every-myth-myths-and-misconcept-civic-education-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for civic education poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: civic education poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=civic+education+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=personalised-fixes-should-every-teacher-hear-every-myth-myths-and-misconcept-civic-education-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="civic education poster" data-ebay-reference="personalised-fixes-should-every-teacher-hear-every-myth-myths-and-misconcept-civic-education-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=civic+education+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=personalised-fixes-should-every-teacher-hear-every-myth-myths-and-misconcept-civic-education-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="civic education poster" data-ebay-reference="personalised-fixes-should-every-teacher-hear-every-myth-myths-and-misconcept-civic-education-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for NIGERIA 1966 Civic Education Service MAP 28&quot; x 37&quot; Poster African Poster"><img src="{{ '/assets/images/marketplace-covers/4e4df09c01c72e301062.jpg' | relative_url }}" alt="Listing image for NIGERIA 1966 Civic Education Service MAP 28&quot; x 37&quot; Poster African Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=civic+education+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=personalised-fixes-should-every-teacher-hear-every-myth-myths-and-misconcept-civic-education-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="civic education poster" data-ebay-reference="personalised-fixes-should-every-teacher-hear-every-myth-myths-and-misconcept-civic-education-poster" target="_blank" rel="sponsored noopener noreferrer">NIGERIA 1966 Civic Education Service MAP 28&quot; x 37&quot; Poster African Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=civic+education+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=personalised-fixes-should-every-teacher-hear-every-myth-myths-and-misconcept-civic-education-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="civic education poster" data-ebay-reference="personalised-fixes-should-every-teacher-hear-every-myth-myths-and-misconcept-civic-education-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for civic education poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: civic education poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=civic+education+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=personalised-fixes-should-every-teacher-hear-every-myth-myths-and-misconcept-civic-education-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="civic education poster" data-ebay-reference="personalised-fixes-should-every-teacher-hear-every-myth-myths-and-misconcept-civic-education-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=civic+education+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=personalised-fixes-should-every-teacher-hear-every-myth-myths-and-misconcept-civic-education-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="civic education poster" data-ebay-reference="personalised-fixes-should-every-teacher-hear-every-myth-myths-and-misconcept-civic-education-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for NIGERIA 1966 Civic Education Service MAP 28&quot; x 37&quot; Poster African Poster"><img src="{{ '/assets/images/marketplace-covers/4e4df09c01c72e301062.jpg' | relative_url }}" alt="Listing image for NIGERIA 1966 Civic Education Service MAP 28&quot; x 37&quot; Poster African Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=civic+education+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=personalised-fixes-should-every-teacher-hear-every-myth-myths-and-misconcept-civic-education-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="civic education poster" data-ebay-reference="personalised-fixes-should-every-teacher-hear-every-myth-myths-and-misconcept-civic-education-poster" target="_blank" rel="sponsored noopener noreferrer">NIGERIA 1966 Civic Education Service MAP 28&quot; x 37&quot; Poster African Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=civic+education+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=personalised-fixes-should-every-teacher-hear-every-myth-myths-and-misconcept-civic-education-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="civic education poster" data-ebay-reference="personalised-fixes-should-every-teacher-hear-every-myth-myths-and-misconcept-civic-education-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for civic education poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: civic education poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=civic+education+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=personalised-fixes-should-every-teacher-hear-every-myth-myths-and-misconcept-civic-education-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="civic education poster" data-ebay-reference="personalised-fixes-should-every-teacher-hear-every-myth-myths-and-misconcept-civic-education-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=civic+education+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=personalised-fixes-should-every-teacher-hear-every-myth-myths-and-misconcept-civic-education-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="civic education poster" data-ebay-reference="personalised-fixes-should-every-teacher-hear-every-myth-myths-and-misconcept-civic-education-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Rare 1961 Civic Education Service &quot;World of Facts&quot; Large Map Poster. 49&quot; x 34&quot;"><img src="{{ '/assets/images/marketplace-covers/a6714756de30cef872d6.jpg' | relative_url }}" alt="Listing image for Rare 1961 Civic Education Service &quot;World of Facts&quot; Large Map Poster. 49&quot; x 34&quot;" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=civic+education+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=personalised-fixes-should-every-teacher-hear-every-myth-myths-and-misconcept-civic-education-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="civic education poster" data-ebay-reference="personalised-fixes-should-every-teacher-hear-every-myth-myths-and-misconcept-civic-education-poster" target="_blank" rel="sponsored noopener noreferrer">Rare 1961 Civic Education Service &quot;World of Facts&quot; Large Map Poster. 49&quot; x 34&quot;</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=civic+education+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=personalised-fixes-should-every-teacher-hear-every-myth-myths-and-misconcept-civic-education-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="civic education poster" data-ebay-reference="personalised-fixes-should-every-teacher-hear-every-myth-myths-and-misconcept-civic-education-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for civic education poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: civic education poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=civic+education+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=personalised-fixes-should-every-teacher-hear-every-myth-myths-and-misconcept-civic-education-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="civic education poster" data-ebay-reference="personalised-fixes-should-every-teacher-hear-every-myth-myths-and-misconcept-civic-education-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=civic+education+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=personalised-fixes-should-every-teacher-hear-every-myth-myths-and-misconcept-civic-education-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="civic education poster" data-ebay-reference="personalised-fixes-should-every-teacher-hear-every-myth-myths-and-misconcept-civic-education-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=civic+education+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=personalised-fixes-should-every-teacher-hear-every-myth-myths-and-misconcept-civic-education-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="civic education poster" data-ebay-reference="personalised-fixes-should-every-teacher-hear-every-myth-myths-and-misconcept-civic-education-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Rare 1961 Civic Education Service &quot;World of Facts&quot; Large Map Poster. 49&quot; x 34&quot;"><img src="{{ '/assets/images/marketplace-covers/a6714756de30cef872d6.jpg' | relative_url }}" alt="Listing image for Rare 1961 Civic Education Service &quot;World of Facts&quot; Large Map Poster. 49&quot; x 34&quot;" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=civic+education+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=personalised-fixes-should-every-teacher-hear-every-myth-myths-and-misconcept-civic-education-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="civic education poster" data-ebay-reference="personalised-fixes-should-every-teacher-hear-every-myth-myths-and-misconcept-civic-education-poster" target="_blank" rel="sponsored noopener noreferrer">Rare 1961 Civic Education Service &quot;World of Facts&quot; Large Map Poster. 49&quot; x 34&quot;</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=civic+education+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=personalised-fixes-should-every-teacher-hear-every-myth-myths-and-misconcept-civic-education-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="civic education poster" data-ebay-reference="personalised-fixes-should-every-teacher-hear-every-myth-myths-and-misconcept-civic-education-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for civic education poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: civic education poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=civic+education+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=personalised-fixes-should-every-teacher-hear-every-myth-myths-and-misconcept-civic-education-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="civic education poster" data-ebay-reference="personalised-fixes-should-every-teacher-hear-every-myth-myths-and-misconcept-civic-education-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=civic+education+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=personalised-fixes-should-every-teacher-hear-every-myth-myths-and-misconcept-civic-education-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="civic education poster" data-ebay-reference="personalised-fixes-should-every-teacher-hear-every-myth-myths-and-misconcept-civic-education-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -521,7 +521,7 @@ The central lesson is that personalised correction is not merely a matter of eff
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -541,7 +541,7 @@ The central lesson is that personalised correction is not merely a matter of eff
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -573,7 +573,7 @@ The central lesson is that personalised correction is not merely a matter of eff
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -625,7 +625,7 @@ The central lesson is that personalised correction is not merely a matter of eff
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -670,7 +670,7 @@ The central lesson is that personalised correction is not merely a matter of eff
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -711,149 +711,149 @@ The central lesson is that personalised correction is not merely a matter of eff
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: link.springer.com  
-   Link: <a href="https://link.springer.com/article/10.1186/s41235-020-00241-6" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1186/s41235-020-00241-6</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Springer NatureCan corrections spread misinformation to new audiences...by UKH Ecker · 2020 · Cited by 197 — Misinformation often contin...</p></details>
+   Link:<a href="https://link.springer.com/article/10.1186/s41235-020-00241-6" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1186/s41235-020-00241-6</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Springer NatureCan corrections spread misinformation to new audiences...by UKH Ecker · 2020 · Cited by 197 — Misinformation often contin...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12810723/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12810723/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Debunking educational myths: towards evidence-based...by D Cecilio-Fernandes · 2025 · Cited by 1 — We hope this editorial will increa...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12810723/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12810723/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Debunking educational myths: towards evidence-based...by D Cecilio-Fernandes · 2025 · Cited by 1 — We hope this editorial will increa...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCCorrection format has a limited role when [debunking](&#123;&#123; 'debunking/' | relative_url &#125;&#125;)  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8715407/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8715407/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>by B Swire-Thompson · 2021 · Cited by 79 — The current paper investigated how altering the format of corrections influences people&#x27;s s...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8715407/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8715407/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by B Swire-Thompson · 2021 · Cited by 79 — The current paper investigated how altering the format of corrections influences people&#x27;s s...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9283209/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9283209/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The backfire effect after correcting misinformation is strongly...by B Swire-Thompson · 2022 · Cited by 111 — The backfire effect is...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9283209/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9283209/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The backfire effect after correcting misinformation is strongly...by B Swire-Thompson · 2022 · Cited by 111 — The backfire effect is...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/pii/S2211368120300516" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S2211368120300516</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Searching for the Backfire Effect: Measurement and Design...by B Swire-Thompson · 2020 · Cited by 418 — A backfire effect is when people...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/pii/S2211368120300516" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S2211368120300516</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Searching for the Backfire Effect: Measurement and Design...by B Swire-Thompson · 2020 · Cited by 418 — A backfire effect is when people...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: nature.com  
-   Link: <a href="https://www.nature.com/articles/s41599-025-05470-y" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41599-025-05470-y</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Educational myths among teachers: prevalence and...by Y Tunga · 2025 · Cited by 1 — Results indicated that educational myths are c...</p></details>
+   Link:<a href="https://www.nature.com/articles/s41599-025-05470-y" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41599-025-05470-y</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Educational myths among teachers: prevalence and...by Y Tunga · 2025 · Cited by 1 — Results indicated that educational myths are c...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCCorrecting vaccine misinformation: A failure to replicate  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10096191/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10096191/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>by UKH Ecker · 2023 · Cited by 48 — Some have even suggested that this familiarity boost may cause a correction to inadvertently incre...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10096191/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10096191/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by UKH Ecker · 2023 · Cited by 48 — Some have even suggested that this familiarity boost may cause a correction to inadvertently incre...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: journals.plos.org  
-   Link: <a href="https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0281140" target="_blank" rel="noopener noreferrer nofollow">https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0281140</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>A failure to replicate familiarity or fear-driven backfire effectsby UKH Ecker · 2023 · Cited by 48 — The authors found that repeatin...</p></details>
+   Link:<a href="https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0281140" target="_blank" rel="noopener noreferrer nofollow">https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0281140</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A failure to replicate familiarity or fear-driven backfire effectsby UKH Ecker · 2023 · Cited by 48 — The authors found that repeatin...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: sciencedirect.com  
    Title: ScienceDirect Familiarity backfire effects?  
-   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0167811626000261" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0167811626000261</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Disentangling the competing...by IN Nibat · 2026 — The backfire effect occurs when a correction inadvertently increases belief in the ve...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/pii/S0167811626000261" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0167811626000261</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Disentangling the competing...by IN Nibat · 2026 — The backfire effect occurs when a correction inadvertently increases belief in the ve...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: link.springer.com  
-   Link: <a href="https://link.springer.com/article/10.1186/s41235-023-00492-z" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1186/s41235-023-00492-z</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Springer NatureExamining the replicability of backfire effects after standalone...by T Prike · 2023 · Cited by 25 — Such an outcome coul...</p></details>
+   Link:<a href="https://link.springer.com/article/10.1186/s41235-023-00492-z" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1186/s41235-023-00492-z</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Springer NatureExamining the replicability of backfire effects after standalone...by T Prike · 2023 · Cited by 25 — Such an outcome coul...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: aho.afro.who.int  
-   Link: <a href="https://aho.afro.who.int/features-detail/af?id=30" target="_blank" rel="noopener noreferrer nofollow">https://aho.afro.who.int/features-detail/af?id=30</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>RO iAHO | Features details... myth&#x27;s familiarity (Pluviano et al., 2019). In this context, where vaccine misinformation hinders acceptanc...</p></details>
+   Link:<a href="https://aho.afro.who.int/features-detail/af?id=30" target="_blank" rel="noopener noreferrer nofollow">https://aho.afro.who.int/features-detail/af?id=30</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>RO iAHO | Features details... myth&#x27;s familiarity (Pluviano et al., 2019). In this context, where vaccine misinformation hinders acceptanc...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: emc-lab.org  
-   Link: <a href="https://www.emc-lab.org/uploads/1/1/3/6/113627673/swire.2017.jeplmc.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.emc-lab.org/uploads/1/1/3/6/113627673/swire.2017.jeplmc.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Page 6. CORRECTING INACCURATE...Read more...</p></details>
+   Link:<a href="https://www.emc-lab.org/uploads/1/1/3/6/113627673/swire.2017.jeplmc.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.emc-lab.org/uploads/1/1/3/6/113627673/swire.2017.jeplmc.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Page 6. CORRECTING INACCURATE...Read more...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: skepticalscience.com  
-   Link: <a href="https://skepticalscience.com/print.php?n=4890" target="_blank" rel="noopener noreferrer nofollow">https://skepticalscience.com/print.php?n=4890</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Debunking Handbook 2020: The elusive backfire effects22 Oct 2020 — Backfire Effect: A backfire effect is where a correction inadverte...</p></details>
+   Link:<a href="https://skepticalscience.com/print.php?n=4890" target="_blank" rel="noopener noreferrer nofollow">https://skepticalscience.com/print.php?n=4890</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Debunking Handbook 2020: The elusive backfire effects22 Oct 2020 — Backfire Effect: A backfire effect is where a correction inadverte...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: skepticalscience.com  
-   Link: <a href="https://skepticalscience.com/docs/Lewandowsky_2012_misinfo.pdf" target="_blank" rel="noopener noreferrer nofollow">https://skepticalscience.com/docs/Lewandowsky_2012_misinfo.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Skeptical ScienceMisinformation and its Correction: Continued Influence and...May 5, 2012 — by S Lewandowsky · Cited by 4713 — increases...</p></details>
+   Link:<a href="https://skepticalscience.com/docs/Lewandowsky_2012_misinfo.pdf" target="_blank" rel="noopener noreferrer nofollow">https://skepticalscience.com/docs/Lewandowsky_2012_misinfo.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Skeptical ScienceMisinformation and its Correction: Continued Influence and...May 5, 2012 — by S Lewandowsky · Cited by 4713 — increases...</p></details>
    Published: May 5, 2012  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: skepticalscience.com  
    Title: Debunking Handbook Part 2 Familiarity Backfire Effect  
-   Link: <a href="https://skepticalscience.com/Debunking-Handbook-Part-2-Familiarity-Backfire-Effect.html" target="_blank" rel="noopener noreferrer nofollow">https://skepticalscience.com/Debunking-Handbook-Part-2-Familiarity-Backfire-Effect.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The driving force is the fact that familiarity increases the chances of accepting information as true.Read more...</p></details>
+   Link:<a href="https://skepticalscience.com/Debunking-Handbook-Part-2-Familiarity-Backfire-Effect.html" target="_blank" rel="noopener noreferrer nofollow">https://skepticalscience.com/Debunking-Handbook-Part-2-Familiarity-Backfire-Effect.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The driving force is the fact that familiarity increases the chances of accepting information as true.Read more...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: firstdraftnews.org  
    Title: the psychology of misinformation why its so hard to correct  
-   Link: <a href="https://firstdraftnews.org/articles/the-psychology-of-misinformation-why-its-so-hard-to-correct/" target="_blank" rel="noopener noreferrer nofollow">https://firstdraftnews.org/articles/the-psychology-of-misinformation-why-its-so-hard-to-correct/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>First DraftThe psychology of misinformation: Why it&#x27;s so hard to correct14 Jul 2020 — The familiarity backfire effect describes the fact...</p></details>
+   Link:<a href="https://firstdraftnews.org/articles/the-psychology-of-misinformation-why-its-so-hard-to-correct/" target="_blank" rel="noopener noreferrer nofollow">https://firstdraftnews.org/articles/the-psychology-of-misinformation-why-its-so-hard-to-correct/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>First DraftThe psychology of misinformation: Why it&#x27;s so hard to correct14 Jul 2020 — The familiarity backfire effect describes the fact...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: my.chartered.college  
-   Link: <a href="https://my.chartered.college/early-career-hub/engaging-with-research-and-debunking-myths/" target="_blank" rel="noopener noreferrer nofollow">https://my.chartered.college/early-career-hub/engaging-with-research-and-debunking-myths/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>My CollegeEngaging with research and debunking mythsby C Bokhove — This article aims to give an overview of some aspects that come into p...</p></details>
+   Link:<a href="https://my.chartered.college/early-career-hub/engaging-with-research-and-debunking-myths/" target="_blank" rel="noopener noreferrer nofollow">https://my.chartered.college/early-career-hub/engaging-with-research-and-debunking-myths/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>My CollegeEngaging with research and debunking mythsby C Bokhove — This article aims to give an overview of some aspects that come into p...</p></details>
 
 ### Additional References
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/281332803_Two_Birds_With_One_Myth-Debunking_Campaign_Engaging_Students_to_Target_Psychological_Misconceptions" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/281332803_Two_Birds_With_One_Myth-Debunking_Campaign_Engaging_Students_to_Target_Psychological_Misconceptions</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Two Birds With One Myth-Debunking CampaignThe research methods students viewed their experiences with the myth-debunking campaign a...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/281332803_Two_Birds_With_One_Myth-Debunking_Campaign_Engaging_Students_to_Target_Psychological_Misconceptions" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/281332803_Two_Birds_With_One_Myth-Debunking_Campaign_Engaging_Students_to_Target_Psychological_Misconceptions</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Two Birds With One Myth-Debunking CampaignThe research methods students viewed their experiences with the myth-debunking campaign a...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: learningfocused.com  
-   Link: <a href="https://learningfocused.com/blogs/effective-teaching-strategies/overcoming-teaching-myths-with-evidence-based-practices?srsltid=AfmBOoo3TgSWWW87Dq1tWjurgSuLDmgIV4X_ojV3taKMrNBsa8dH7SIY" target="_blank" rel="noopener noreferrer nofollow">https://learningfocused.com/blogs/effective-teaching-strategies/overcoming-teaching-myths-with-evidence-based-practices?srsltid=AfmBOoo3TgSWWW87Dq1tWjurgSuLDmgIV4X_ojV3taKMrNBsa8dH7SIY</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Overcoming Teaching Myths with Evidence-Based PracticesTo truly serve our students we must be willing to let go of outdated practices. Le...</p></details>
+   Link:<a href="https://learningfocused.com/blogs/effective-teaching-strategies/overcoming-teaching-myths-with-evidence-based-practices?srsltid=AfmBOoo3TgSWWW87Dq1tWjurgSuLDmgIV4X_ojV3taKMrNBsa8dH7SIY" target="_blank" rel="noopener noreferrer nofollow">https://learningfocused.com/blogs/effective-teaching-strategies/overcoming-teaching-myths-with-evidence-based-practices?srsltid=AfmBOoo3TgSWWW87Dq1tWjurgSuLDmgIV4X_ojV3taKMrNBsa8dH7SIY</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Overcoming Teaching Myths with Evidence-Based PracticesTo truly serve our students we must be willing to let go of outdated practices. Le...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: markpack.org.uk  
    Title: the backfire effect how debunking a myth can make things worse  
-   Link: <a href="https://www.markpack.org.uk/130355/the-backfire-effect-how-debunking-a-myth-can-make-things-worse/" target="_blank" rel="noopener noreferrer nofollow">https://www.markpack.org.uk/130355/the-backfire-effect-how-debunking-a-myth-can-make-things-worse/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The backfire effect: how debunking a myth can make things...24 Mar 2015 — Repeating a myth even when followed up by a list of facts to s...</p></details>
+   Link:<a href="https://www.markpack.org.uk/130355/the-backfire-effect-how-debunking-a-myth-can-make-things-worse/" target="_blank" rel="noopener noreferrer nofollow">https://www.markpack.org.uk/130355/the-backfire-effect-how-debunking-a-myth-can-make-things-worse/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The backfire effect: how debunking a myth can make things...24 Mar 2015 — Repeating a myth even when followed up by a list of facts to s...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: youtube.com  
-   Link: <a href="http://www.youtube.com/watch?v=w6lwqp8TGCI" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=w6lwqp8TGCI</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Illusory truth effect in education misinformation correction &quot;Well, Actually...&quot;: Unraveling the Psychology of Online Corrections PsyberS...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=w6lwqp8TGCI" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=w6lwqp8TGCI</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Illusory truth effect in education misinformation correction &quot;Well, Actually...&quot;: Unraveling the Psychology of Online Corrections PsyberS...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: jamesbrindley.org.uk  
-   Link: <a href="https://www.jamesbrindley.org.uk/debunking-educational-myths-and-embracing-effective-teaching-strategies/" target="_blank" rel="noopener noreferrer nofollow">https://www.jamesbrindley.org.uk/debunking-educational-myths-and-embracing-effective-teaching-strategies/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Trends in Neuroscience and education.pdf The paper documents...Read more...</p></details>
+   Link:<a href="https://www.jamesbrindley.org.uk/debunking-educational-myths-and-embracing-effective-teaching-strategies/" target="_blank" rel="noopener noreferrer nofollow">https://www.jamesbrindley.org.uk/debunking-educational-myths-and-embracing-effective-teaching-strategies/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Trends in Neuroscience and education.pdf The paper documents...Read more...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: effectiviology.com  
-   Link: <a href="https://effectiviology.com/familiarity-backfire-effect/" target="_blank" rel="noopener noreferrer nofollow">https://effectiviology.com/familiarity-backfire-effect/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>member misinformation better, and to remember it as being true...</p></details>
+   Link:<a href="https://effectiviology.com/familiarity-backfire-effect/" target="_blank" rel="noopener noreferrer nofollow">https://effectiviology.com/familiarity-backfire-effect/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>member misinformation better, and to remember it as being true...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: tes.com  
-   Link: <a href="https://www.tes.com/magazine/teaching-learning/general/beware-debunking-research-myths-can-backfire-you" target="_blank" rel="noopener noreferrer nofollow">https://www.tes.com/magazine/teaching-learning/general/beware-debunking-research-myths-can-backfire-you</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Beware: debunking research myths can backfire on you19 Jul 2019 — In The Debunking Handbook, Cook and Lewandowsky (2011) describe several...</p></details>
+   Link:<a href="https://www.tes.com/magazine/teaching-learning/general/beware-debunking-research-myths-can-backfire-you" target="_blank" rel="noopener noreferrer nofollow">https://www.tes.com/magazine/teaching-learning/general/beware-debunking-research-myths-can-backfire-you</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Beware: debunking research myths can backfire on you19 Jul 2019 — In The Debunking Handbook, Cook and Lewandowsky (2011) describe several...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: researchgate.net  
    Title: (PDF) Familiarity backfire effects?  
-   Link: <a href="https://www.researchgate.net/publication/403219211_Familiarity_backfire_effects_Disentangling_the_competing_effects_of_repetition_and_fact-checking_corrections_of_brand_misinformation" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/403219211_Familiarity_backfire_effects_Disentangling_the_competing_effects_of_repetition_and_fact-checking_corrections_of_brand_misinformation</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Disentangling the...14 May 2026 — Familiarity backfire effects? Disentangling the competing effects of repetition and fact-checking corr...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/403219211_Familiarity_backfire_effects_Disentangling_the_competing_effects_of_repetition_and_fact-checking_corrections_of_brand_misinformation" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/403219211_Familiarity_backfire_effects_Disentangling_the_competing_effects_of_repetition_and_fact-checking_corrections_of_brand_misinformation</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Disentangling the...14 May 2026 — Familiarity backfire effects? Disentangling the competing effects of repetition and fact-checking corr...</p></details>
    Published: May 2026  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: youtube.com  
-   Link: <a href="http://www.youtube.com/watch?v=RBDCw_izDzE" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=RBDCw_izDzE</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Embrace the Pause: Why Delays Deflate ‘Illusory Truth’ #Street Epistemology...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=RBDCw_izDzE" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=RBDCw_izDzE</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Embrace the Pause: Why Delays Deflate ‘Illusory Truth’ #Street Epistemology...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: zfhe.at  
    Title: Educational Myths Debunked  
-   Link: <a href="https://www.zfhe.at/index.php/zfhe/article/download/2118/1378" target="_blank" rel="noopener noreferrer nofollow">https://www.zfhe.at/index.php/zfhe/article/download/2118/1378</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Insights into the...by ST Siegel · 2025 · Cited by 2 — This article discusses Educational Myths Debunked 101 (EMD101), a further educati...</p></details>
+   Link:<a href="https://www.zfhe.at/index.php/zfhe/article/download/2118/1378" target="_blank" rel="noopener noreferrer nofollow">https://www.zfhe.at/index.php/zfhe/article/download/2118/1378</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Insights into the...by ST Siegel · 2025 · Cited by 2 — This article discusses Educational Myths Debunked 101 (EMD101), a further educati...</p></details>

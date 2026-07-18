@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /myths-and-misconcept-0d48d7-conceptual/
 description: Focused pages that expand on Concept Change.
-date: '2026-06-11'
+date: '2026'
 layout: default
 parent_basename: Myths_and_misconcept_0d48d7_conceptual_change_le_bdc9ae
 parent_title: Concept Change
@@ -16,7 +16,7 @@ parent_permalink: /concept-change/
 
 # Explore Topics in Concept Change
 
-The following pages expand on the main **[Concept Change]({{ '/concept-change/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[Concept Change]({{ '/concept-change/' | relative_url }})** page and cover its key branches in.
 
 - [Conflict]({{ '/conflict/' | relative_url }})
 - [Diagnostics]({{ '/diagnostics/' | relative_url }})

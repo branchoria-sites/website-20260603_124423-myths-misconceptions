@@ -271,19 +271,19 @@ image: /assets/images/Myths_and_misconcept_0d48d7_sciencey_language_94b7a1_neuro
 Brain-based language often feels persuasive because it seems to bring us closer to the machinery of human behaviour. An explanation that mentions neurons, dopamine, brain circuits or neural pathways can sound more concrete and scientific than one that does not. The problem is that neuroscience terms do not automatically make an explanation better. In some cases, they merely decorate an explanation that is otherwise weak, circular or unsupported.
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_sciencey_language_94b7a1_neuroscience_jargon_8b6ab5-Illustration-1-dark.svg" | relative_url }}" alt="Brain Jargon illustration 1" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_sciencey_language_94b7a1_neuroscience_jargon_8b6ab5-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_sciencey_language_94b7a1_neuroscience_jargon_8b6ab5-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-This effect has been studied directly. Researchers found that people without specialist training judged explanations of psychological phenomena as more satisfying when they included neuroscience information, even when that information was irrelevant to the logic of the explanation. The extra brain language did not improve the explanation itself, but it changed how convincing the explanation felt. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC2778755/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">The Seductive Allure of Neuroscience Explanations - PMC - NIHby DS Weisberg · 2008 · Cited by 1694 — Crucially, the neuroscience infor...</span></span></span>
+This effect has been studied directly. Researchers found that people without specialist training judged explanations of psychological phenomena as more satisfying when they included neuroscience information, even when that information was irrelevant to the logic of the explanation. The extra brain language did not improve the explanation itself, but it changed how convincing the explanation felt.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC2778755/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">The Seductive Allure of Neuroscience Explanations - PMC - NIHby DS Weisberg · 2008 · Cited by 1694 — Crucially, the neuroscience infor...</span></span></span>
 
 Within the broader problem of science-sounding language in weak claims, neuroscience jargon is especially powerful because the brain occupies a unique cultural position. It is associated with intelligence, medicine, technology and hard science. As a result, references to the brain can create an impression of depth even when they add little evidence.
 
 ## What Seductive Neuroscience Detail Does
 
-One of the most influential demonstrations of this phenomenon came from experiments by Deena Weisberg and colleagues. Participants read explanations of psychological effects that were either genuinely informative or clearly flawed. Some versions included additional neuroscience information that experts agreed was irrelevant to the explanation. Non-experts consistently rated explanations containing the neuroscience material as more satisfying, even when the underlying explanation remained poor. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3032992/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Midbrain dopamine neurons are well known for their strong responses to rewards and their critical role in positive motivation.Read more...</span></span></span>
+One of the most influential demonstrations of this phenomenon came from experiments by Deena Weisberg and colleagues. Participants read explanations of psychological effects that were either genuinely informative or clearly flawed. Some versions included additional neuroscience information that experts agreed was irrelevant to the explanation. Non-experts consistently rated explanations containing the neuroscience material as more satisfying, even when the underlying explanation remained poor.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3032992/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Midbrain dopamine neurons are well known for their strong responses to rewards and their critical role in positive motivation.Read more...</span></span></span>
 
-The key point is that the brain information did not make the explanation more accurate. Instead, it appeared to signal that a scientific explanation had been provided. Researchers described this as a "seductive allure" because the neuroscience language attracted approval beyond its actual explanatory value. PMC <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cambridge.org/core/journals/judgment-and-decision-making/article/deconstructing-the-seductive-allure-of-neuroscience-explanations/568C206CD761E70374975276BBF69737" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cambridge.org">[Cambridge University Press &amp; Assessment]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cambridge.org</span><span class="citation-popover-snippet">Cambridge University Press &amp; AssessmentDeconstructing the seductive allure of neuroscience...by DS Weisberg · 2015 · Cited by 188 — Prev...</span></span></span>
+The key point is that the brain information did not make the explanation more accurate. Instead, it appeared to signal that a scientific explanation had been provided. Researchers described this as a "seductive allure" because the neuroscience language attracted approval beyond its actual explanatory value. PMC<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cambridge.org/core/journals/judgment-and-decision-making/article/deconstructing-the-seductive-allure-of-neuroscience-explanations/568C206CD761E70374975276BBF69737" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cambridge.org">[Cambridge University Press &amp; Assessment]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cambridge.org</span><span class="citation-popover-snippet">Cambridge University Press &amp; AssessmentDeconstructing the seductive allure of neuroscience...by DS Weisberg · 2015 · Cited by 188 — Prev...</span></span></span>
 
 This matters because many myths and misconceptions are not presented as obvious pseudoscience. They often mimic legitimate scientific communication. A claim about motivation may invoke neural circuitry. A wellness programme may discuss brain rewiring. A self-help product may reference neurotransmitters. The presence of these terms can encourage readers to assume that a strong scientific foundation exists even when the evidence is weak or absent.
 
-Later research explored why this effect occurs. Part of the answer appears to be that neuroscience information is perceived as fundamental. People often regard explanations that descend to the level of the brain as deeper or more complete, even when the added detail does not actually explain the phenomenon in question. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S0010027716301585" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">The seductive allure is a reductive allure: People prefer...by EJ Hopkins · 2016 · Cited by 143 — People may judge explanat...</span></span></span>
+Later research explored why this effect occurs. Part of the answer appears to be that neuroscience information is perceived as fundamental. People often regard explanations that descend to the level of the brain as deeper or more complete, even when the added detail does not actually explain the phenomenon in question.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S0010027716301585" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">The seductive allure is a reductive allure: People prefer...by EJ Hopkins · 2016 · Cited by 143 — People may judge explanat...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Wa8_nLwQIpg" title="2-Minute Neuroscience: Dopamine" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Wa8_nLwQIpg" target="_blank" rel="noopener noreferrer">2-Minute Neuroscience: Dopamine</a></p><p class="youtube-embed-meta">Channel: Neuroscientifically Challenged &middot; Views: 1.4M &middot; Uploaded: April 2018 &middot; Length: 2 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Wa8_nLwQIpg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Wa8_nLwQIpg">Open on YouTube</a></p></div></div></div>
 
@@ -291,11 +291,11 @@ Later research explored why this effect occurs. Part of the answer appears to be
 
 Few neuroscience terms have become as widespread in popular culture as "dopamine". It appears in discussions of productivity, addiction, motivation, social media use, shopping habits and personal success. The scientific reality is more complicated.
 
-Dopamine is a neurotransmitter involved in multiple functions, including motivation, learning, movement, attention and reward-related processes. It is not simply a "pleasure chemical" that can explain every enjoyable or undesirable behaviour. Neuroscientists have spent decades refining their understanding of dopamine's role in the brain, and contemporary accounts emphasise its involvement in learning, prediction and motivational processes rather than a single feeling of pleasure. PMC <span class="citation-chip-wrap"><a class="citation-chip" href="https://my.clevelandclinic.org/health/articles/22581-dopamine" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: my.clevelandclinic.org">[Cleveland Clinic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">my.clevelandclinic.org</span><span class="citation-popover-title">22581 dopamine</span><span class="citation-popover-snippet">clevelandclinic.orgDopamine: What It Is, Function &amp; Symptoms23 Mar 2022 — Dopamine is a neurotransmitter made in your brain. It&#x27;s known a...</span></span></span>
+Dopamine is a neurotransmitter involved in multiple functions, including motivation, learning, movement, attention and reward-related processes. It is not simply a "pleasure chemical" that can explain every enjoyable or undesirable behaviour. Neuroscientists have spent decades refining their understanding of dopamine's role in the brain, and contemporary accounts emphasise its involvement in learning, prediction and motivational processes rather than a single feeling of pleasure. PMC<span class="citation-chip-wrap"><a class="citation-chip" href="https://my.clevelandclinic.org/health/articles/22581-dopamine" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: my.clevelandclinic.org">[Cleveland Clinic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">my.clevelandclinic.org</span><span class="citation-popover-title">22581 dopamine</span><span class="citation-popover-snippet">clevelandclinic.orgDopamine: What It Is, Function &amp; Symptoms23 Mar 2022 — Dopamine is a neurotransmitter made in your brain. It&#x27;s known a...</span></span></span>
 
 Yet in weak explanations, dopamine often becomes a catch-all mechanism. A claim may assert that someone procrastinates because of dopamine, buys products because of dopamine, or follows a trend because of dopamine. The word creates an impression of biological precision, but the actual explanation may be little more than a relabelling of behaviour.
 
-A similar problem occurs with references to "neural pathways", "brain circuitry" or "reward systems". These are legitimate scientific concepts, but they can be inserted into explanations without clarifying how a proposed mechanism produces the claimed outcome. Saying that a habit is caused by a reward pathway sounds sophisticated, but unless the explanation identifies evidence, causal links and measurable effects, the phrase may add little beyond scientific flavouring. <span class="citation-chip-wrap"><a class="citation-chip" href="https://neuroscientificallychallenged.com/posts/know-your-brain-reward-system" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: neuroscientificallychallenged.com">[@neurochallenged]</a><span class="citation-popover" role="note"><span class="citation-popover-source">neuroscientificallychallenged.com</span><span class="citation-popover-snippet">@neurochallengedKnow Your Brain: Reward SystemBased on brain stimulation experiments and the increasingly recognized importance of dopami...</span></span></span>
+A similar problem occurs with references to "neural pathways", "brain circuitry" or "reward systems". These are legitimate scientific concepts, but they can be inserted into explanations without clarifying how a proposed mechanism produces the claimed outcome. Saying that a habit is caused by a reward pathway sounds sophisticated, but unless the explanation identifies evidence, causal links and measurable effects, the phrase may add little beyond scientific flavouring.<span class="citation-chip-wrap"><a class="citation-chip" href="https://neuroscientificallychallenged.com/posts/know-your-brain-reward-system" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: neuroscientificallychallenged.com">[@neurochallenged]</a><span class="citation-popover" role="note"><span class="citation-popover-source">neuroscientificallychallenged.com</span><span class="citation-popover-snippet">@neurochallengedKnow Your Brain: Reward SystemBased on brain stimulation experiments and the increasingly recognized importance of dopami...</span></span></span>
 
 This is why neuroscience jargon can be attractive in advertising, wellness marketing and popular commentary. It offers a vocabulary that sounds specific without necessarily requiring specific evidence.
 
@@ -311,7 +311,7 @@ Consider the difference between these two statements:
 
 The second statement sounds more technical. It may even sound more scientific. Yet unless the neuroscience details are necessary and supported by evidence, the explanation may not actually tell the reader anything more useful than the first statement.
 
-Researchers investigating the seductive allure effect found that neuroscience information can sometimes mask weaknesses in explanations rather than correct them. Poor explanations appeared more acceptable when wrapped in brain terminology. PMC PubMed This tendency reflects a broader cognitive shortcut. When readers encounter specialised language associated with a respected scientific field <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3032992/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[pmc.ncbi.nlm.nih.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Midbrain dopamine neurons are well known for their strong responses to rewards and their critical role in positive motivation.Read more...</span></span></span>, they may treat the explanation as more credible before carefully evaluating its logic. The neuroscience vocabulary functions as a cue of expertise.
+Researchers investigating the seductive allure effect found that neuroscience information can sometimes mask weaknesses in explanations rather than correct them. Poor explanations appeared more acceptable when wrapped in brain terminology. PMC PubMed This tendency reflects a broader cognitive shortcut. When readers encounter specialised language associated with a respected scientific field<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3032992/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[pmc.ncbi.nlm.nih.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Midbrain dopamine neurons are well known for their strong responses to rewards and their critical role in positive motivation.Read more...</span></span></span>, they may treat the explanation as more credible before carefully evaluating its logic. The neuroscience vocabulary functions as a cue of expertise.
 
 Importantly, this does not mean neuroscience itself is unreliable. The problem arises when references to the brain are used as substitutes for evidence rather than as parts of an evidence-based explanation.
 
@@ -341,197 +341,197 @@ Strong scientific explanations become clearer when translated into simpler terms
 
 Many modern misconceptions are not built around rejecting science. Instead, they borrow the language of science. Neuroscience provides particularly powerful material because it combines technical complexity with public fascination. References to brain chemistry, neurotransmitters and neural networks can make claims sound evidence-based even when the evidence is thin.
 
-The research on the seductive allure of neuroscience suggests that readers should be cautious whenever brain terminology seems to be doing most of the persuasive work. An explanation is not strengthened simply because it mentions neurons, pathways or dopamine. The important question is whether those details genuinely improve the explanation and are supported by evidence. When they do, neuroscience can illuminate behaviour. When they do not, they may merely make a weak explanation feel stronger than it is. PMC <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cambridge.org/core/journals/judgment-and-decision-making/article/deconstructing-the-seductive-allure-of-neuroscience-explanations/568C206CD761E70374975276BBF69737" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cambridge.org">[Cambridge University Press &amp; Assessment]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cambridge.org</span><span class="citation-popover-snippet">Cambridge University Press &amp; AssessmentDeconstructing the seductive allure of neuroscience...by DS Weisberg · 2015 · Cited by 188 — Prev...</span></span></span>
+The research on the seductive allure of neuroscience suggests that readers should be cautious whenever brain terminology seems to be doing most of the persuasive work. An explanation is not strengthened simply because it mentions neurons, pathways or dopamine. The important question is whether those details genuinely improve the explanation and are supported by evidence. When they do, neuroscience can illuminate behaviour. When they do not, they may merely make a weak explanation feel stronger than it is. PMC<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cambridge.org/core/journals/judgment-and-decision-making/article/deconstructing-the-seductive-allure-of-neuroscience-explanations/568C206CD761E70374975276BBF69737" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cambridge.org">[Cambridge University Press &amp; Assessment]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cambridge.org</span><span class="citation-popover-snippet">Cambridge University Press &amp; AssessmentDeconstructing the seductive allure of neuroscience...by DS Weisberg · 2015 · Cited by 188 — Prev...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to The Brain Words That Sell Weak Explanations. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to The Brain Words That Sell Weak Explanations. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Skeptics&#x27; Guide to the Universe on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CuVKDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Skeptics&#x27; Guide to the Universe" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Skeptics&#x27; Guide to the Universe">The Skeptics&#x27; Guide to the Universe</a>
-        </h4>
-        <p class="fr-book-author">By Dr. Steven Novella</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Skeptics&#x27; Guide to the Universe on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CuVKDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Skeptics&#x27; Guide to the Universe" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Skeptics&#x27; Guide to the Universe">The Skeptics&#x27; Guide to the Universe</a>
+</h4>
+<p class="fr-book-author">By Dr. Steven Novella</p>
         
-        <p class="fr-book-desc">Covers misuse of neuroscience and scientific authority.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers misuse of neuroscience and scientific authority.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Calling Bullshit on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Plu9DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Calling Bullshit" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Calling Bullshit">Calling Bullshit</a>
-        </h4>
-        <p class="fr-book-author">By Carl T. Bergstrom, Jevin D. West</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Calling Bullshit on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Plu9DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Calling Bullshit" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Calling Bullshit">Calling Bullshit</a>
+</h4>
+<p class="fr-book-author">By Carl T. Bergstrom, Jevin D. West</p>
         
-        <p class="fr-book-desc">Shows how technical language can mask weak reasoning.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows how technical language can mask weak reasoning.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=You+are+Not+So+Smart+by+David+McRaney&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open You are Not So Smart on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=rhq9DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for You are Not So Smart" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=You+are+Not+So+Smart+by+David+McRaney&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="You are Not So Smart">You are Not So Smart</a>
-        </h4>
-        <p class="fr-book-author">By David McRaney</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=You+are+Not+So+Smart+by+David+McRaney&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open You are Not So Smart on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=rhq9DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for You are Not So Smart" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=You+are+Not+So+Smart+by+David+McRaney&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="You are Not So Smart">You are Not So Smart</a>
+</h4>
+<p class="fr-book-author">By David McRaney</p>
         
-        <p class="fr-book-desc">Explains cognitive biases behind persuasive but weak explanations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=You+are+Not+So+Smart+by+David+McRaney&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains cognitive biases behind persuasive but weak explanations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=You+are+Not+So+Smart+by+David+McRaney&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YGPzXWanppcC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
-        </h4>
-        <p class="fr-book-author">By Daniel Kahneman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YGPzXWanppcC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
+</h4>
+<p class="fr-book-author">By Daniel Kahneman</p>
         
-        <p class="fr-book-desc">Helps explain why scientific-sounding details can feel convincing.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps explain why scientific-sounding details can feel convincing.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Skeptics%27+to+the+Universe+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Skeptics&#x27; to the Universe books</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Calling+Bullshit&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Calling Bullshit</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=You+are+Not+So+Smart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">You are Not So Smart</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Skeptics%27+to+the+Universe+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Skeptics&#x27; to the Universe books</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Calling+Bullshit&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Calling Bullshit</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=You+are+Not+So+Smart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">You are Not So Smart</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=brain+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=brain-jargon-the-brain-words-that-sell-weak-explanations-myths-and-misconcept-brain-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="brain poster" data-ebay-reference="brain-jargon-the-brain-words-that-sell-weak-explanations-myths-and-misconcept-brain-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Brain Rot Characters Poster Viral Meme Neon Print Kids Teens Wall Art"><img src="{{ '/assets/images/marketplace-covers/b033c98d5eaf10c1e4b2.jpg' | relative_url }}" alt="Listing image for Brain Rot Characters Poster Viral Meme Neon Print Kids Teens Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=brain+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=brain-jargon-the-brain-words-that-sell-weak-explanations-myths-and-misconcept-brain-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="brain poster" data-ebay-reference="brain-jargon-the-brain-words-that-sell-weak-explanations-myths-and-misconcept-brain-poster" target="_blank" rel="sponsored noopener noreferrer">Brain Rot Characters Poster Viral Meme Neon Print Kids Teens Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=brain+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=brain-jargon-the-brain-words-that-sell-weak-explanations-myths-and-misconcept-brain-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="brain poster" data-ebay-reference="brain-jargon-the-brain-words-that-sell-weak-explanations-myths-and-misconcept-brain-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for brain poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: brain poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=brain+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=brain-jargon-the-brain-words-that-sell-weak-explanations-myths-and-misconcept-brain-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="brain poster" data-ebay-reference="brain-jargon-the-brain-words-that-sell-weak-explanations-myths-and-misconcept-brain-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=brain+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=brain-jargon-the-brain-words-that-sell-weak-explanations-myths-and-misconcept-brain-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="brain poster" data-ebay-reference="brain-jargon-the-brain-words-that-sell-weak-explanations-myths-and-misconcept-brain-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Brain Rot Characters Poster Viral Meme Neon Print Kids Teens Wall Art"><img src="{{ '/assets/images/marketplace-covers/b033c98d5eaf10c1e4b2.jpg' | relative_url }}" alt="Listing image for Brain Rot Characters Poster Viral Meme Neon Print Kids Teens Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=brain+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=brain-jargon-the-brain-words-that-sell-weak-explanations-myths-and-misconcept-brain-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="brain poster" data-ebay-reference="brain-jargon-the-brain-words-that-sell-weak-explanations-myths-and-misconcept-brain-poster" target="_blank" rel="sponsored noopener noreferrer">Brain Rot Characters Poster Viral Meme Neon Print Kids Teens Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=brain+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=brain-jargon-the-brain-words-that-sell-weak-explanations-myths-and-misconcept-brain-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="brain poster" data-ebay-reference="brain-jargon-the-brain-words-that-sell-weak-explanations-myths-and-misconcept-brain-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for brain poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: brain poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=brain+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=brain-jargon-the-brain-words-that-sell-weak-explanations-myths-and-misconcept-brain-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="brain poster" data-ebay-reference="brain-jargon-the-brain-words-that-sell-weak-explanations-myths-and-misconcept-brain-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=brain+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=brain-jargon-the-brain-words-that-sell-weak-explanations-myths-and-misconcept-brain-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="brain poster" data-ebay-reference="brain-jargon-the-brain-words-that-sell-weak-explanations-myths-and-misconcept-brain-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Brain Rot Poster Funny Characters Neon Bedroom Art Viral Meme Decor"><img src="{{ '/assets/images/marketplace-covers/d6c22b8c7eef61a6537b.jpg' | relative_url }}" alt="Listing image for Brain Rot Poster Funny Characters Neon Bedroom Art Viral Meme Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=brain+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=brain-jargon-the-brain-words-that-sell-weak-explanations-myths-and-misconcept-brain-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="brain poster" data-ebay-reference="brain-jargon-the-brain-words-that-sell-weak-explanations-myths-and-misconcept-brain-poster" target="_blank" rel="sponsored noopener noreferrer">Brain Rot Poster Funny Characters Neon Bedroom Art Viral Meme Decor</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=brain+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=brain-jargon-the-brain-words-that-sell-weak-explanations-myths-and-misconcept-brain-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="brain poster" data-ebay-reference="brain-jargon-the-brain-words-that-sell-weak-explanations-myths-and-misconcept-brain-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for brain poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: brain poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=brain+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=brain-jargon-the-brain-words-that-sell-weak-explanations-myths-and-misconcept-brain-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="brain poster" data-ebay-reference="brain-jargon-the-brain-words-that-sell-weak-explanations-myths-and-misconcept-brain-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=brain+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=brain-jargon-the-brain-words-that-sell-weak-explanations-myths-and-misconcept-brain-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="brain poster" data-ebay-reference="brain-jargon-the-brain-words-that-sell-weak-explanations-myths-and-misconcept-brain-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Brain Rot Poster Funny Characters Neon Bedroom Art Viral Meme Decor"><img src="{{ '/assets/images/marketplace-covers/d6c22b8c7eef61a6537b.jpg' | relative_url }}" alt="Listing image for Brain Rot Poster Funny Characters Neon Bedroom Art Viral Meme Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=brain+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=brain-jargon-the-brain-words-that-sell-weak-explanations-myths-and-misconcept-brain-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="brain poster" data-ebay-reference="brain-jargon-the-brain-words-that-sell-weak-explanations-myths-and-misconcept-brain-poster" target="_blank" rel="sponsored noopener noreferrer">Brain Rot Poster Funny Characters Neon Bedroom Art Viral Meme Decor</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=brain+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=brain-jargon-the-brain-words-that-sell-weak-explanations-myths-and-misconcept-brain-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="brain poster" data-ebay-reference="brain-jargon-the-brain-words-that-sell-weak-explanations-myths-and-misconcept-brain-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for brain poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: brain poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=brain+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=brain-jargon-the-brain-words-that-sell-weak-explanations-myths-and-misconcept-brain-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="brain poster" data-ebay-reference="brain-jargon-the-brain-words-that-sell-weak-explanations-myths-and-misconcept-brain-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=brain+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=brain-jargon-the-brain-words-that-sell-weak-explanations-myths-and-misconcept-brain-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="brain poster" data-ebay-reference="brain-jargon-the-brain-words-that-sell-weak-explanations-myths-and-misconcept-brain-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Brain medic Framed Art Print Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/ea37225ba47daaddc67e.jpg' | relative_url }}" alt="Listing image for Brain medic Framed Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=brain+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=brain-jargon-the-brain-words-that-sell-weak-explanations-myths-and-misconcept-brain-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="brain poster" data-ebay-reference="brain-jargon-the-brain-words-that-sell-weak-explanations-myths-and-misconcept-brain-poster" target="_blank" rel="sponsored noopener noreferrer">Brain medic Framed Art Print Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=brain+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=brain-jargon-the-brain-words-that-sell-weak-explanations-myths-and-misconcept-brain-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="brain poster" data-ebay-reference="brain-jargon-the-brain-words-that-sell-weak-explanations-myths-and-misconcept-brain-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for brain poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: brain poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=brain+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=brain-jargon-the-brain-words-that-sell-weak-explanations-myths-and-misconcept-brain-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="brain poster" data-ebay-reference="brain-jargon-the-brain-words-that-sell-weak-explanations-myths-and-misconcept-brain-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=brain+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=brain-jargon-the-brain-words-that-sell-weak-explanations-myths-and-misconcept-brain-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="brain poster" data-ebay-reference="brain-jargon-the-brain-words-that-sell-weak-explanations-myths-and-misconcept-brain-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Brain medic Framed Art Print Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/ea37225ba47daaddc67e.jpg' | relative_url }}" alt="Listing image for Brain medic Framed Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=brain+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=brain-jargon-the-brain-words-that-sell-weak-explanations-myths-and-misconcept-brain-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="brain poster" data-ebay-reference="brain-jargon-the-brain-words-that-sell-weak-explanations-myths-and-misconcept-brain-poster" target="_blank" rel="sponsored noopener noreferrer">Brain medic Framed Art Print Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=brain+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=brain-jargon-the-brain-words-that-sell-weak-explanations-myths-and-misconcept-brain-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="brain poster" data-ebay-reference="brain-jargon-the-brain-words-that-sell-weak-explanations-myths-and-misconcept-brain-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for brain poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: brain poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=brain+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=brain-jargon-the-brain-words-that-sell-weak-explanations-myths-and-misconcept-brain-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="brain poster" data-ebay-reference="brain-jargon-the-brain-words-that-sell-weak-explanations-myths-and-misconcept-brain-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=brain+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=brain-jargon-the-brain-words-that-sell-weak-explanations-myths-and-misconcept-brain-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="brain poster" data-ebay-reference="brain-jargon-the-brain-words-that-sell-weak-explanations-myths-and-misconcept-brain-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage Ciba-Geigy 3D Anatomical Poster Set - Brain, Heart &amp; Lung - Medical Reli"><img src="{{ '/assets/images/marketplace-covers/ce5aa72deba65537477a.jpg' | relative_url }}" alt="Listing image for Vintage Ciba-Geigy 3D Anatomical Poster Set - Brain, Heart &amp; Lung - Medical Reli" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=brain+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=brain-jargon-the-brain-words-that-sell-weak-explanations-myths-and-misconcept-brain-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="brain poster" data-ebay-reference="brain-jargon-the-brain-words-that-sell-weak-explanations-myths-and-misconcept-brain-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage Ciba-Geigy 3D Anatomical Poster Set - Brain, Heart &amp; Lung - Medical Reli</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=brain+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=brain-jargon-the-brain-words-that-sell-weak-explanations-myths-and-misconcept-brain-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="brain poster" data-ebay-reference="brain-jargon-the-brain-words-that-sell-weak-explanations-myths-and-misconcept-brain-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for brain poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: brain poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=brain+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=brain-jargon-the-brain-words-that-sell-weak-explanations-myths-and-misconcept-brain-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="brain poster" data-ebay-reference="brain-jargon-the-brain-words-that-sell-weak-explanations-myths-and-misconcept-brain-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=brain+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=brain-jargon-the-brain-words-that-sell-weak-explanations-myths-and-misconcept-brain-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="brain poster" data-ebay-reference="brain-jargon-the-brain-words-that-sell-weak-explanations-myths-and-misconcept-brain-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=brain+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=brain-jargon-the-brain-words-that-sell-weak-explanations-myths-and-misconcept-brain-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="brain poster" data-ebay-reference="brain-jargon-the-brain-words-that-sell-weak-explanations-myths-and-misconcept-brain-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage Ciba-Geigy 3D Anatomical Poster Set - Brain, Heart &amp; Lung - Medical Reli"><img src="{{ '/assets/images/marketplace-covers/ce5aa72deba65537477a.jpg' | relative_url }}" alt="Listing image for Vintage Ciba-Geigy 3D Anatomical Poster Set - Brain, Heart &amp; Lung - Medical Reli" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=brain+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=brain-jargon-the-brain-words-that-sell-weak-explanations-myths-and-misconcept-brain-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="brain poster" data-ebay-reference="brain-jargon-the-brain-words-that-sell-weak-explanations-myths-and-misconcept-brain-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage Ciba-Geigy 3D Anatomical Poster Set - Brain, Heart &amp; Lung - Medical Reli</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=brain+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=brain-jargon-the-brain-words-that-sell-weak-explanations-myths-and-misconcept-brain-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="brain poster" data-ebay-reference="brain-jargon-the-brain-words-that-sell-weak-explanations-myths-and-misconcept-brain-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for brain poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: brain poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=brain+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=brain-jargon-the-brain-words-that-sell-weak-explanations-myths-and-misconcept-brain-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="brain poster" data-ebay-reference="brain-jargon-the-brain-words-that-sell-weak-explanations-myths-and-misconcept-brain-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=brain+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=brain-jargon-the-brain-words-that-sell-weak-explanations-myths-and-misconcept-brain-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="brain poster" data-ebay-reference="brain-jargon-the-brain-words-that-sell-weak-explanations-myths-and-misconcept-brain-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -547,7 +547,7 @@ The research on the seductive allure of neuroscience suggests that readers shoul
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -567,7 +567,7 @@ The research on the seductive allure of neuroscience suggests that readers shoul
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -599,7 +599,7 @@ The research on the seductive allure of neuroscience suggests that readers shoul
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -651,7 +651,7 @@ The research on the seductive allure of neuroscience suggests that readers shoul
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -696,7 +696,7 @@ The research on the seductive allure of neuroscience suggests that readers shoul
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -737,100 +737,100 @@ The research on the seductive allure of neuroscience suggests that readers shoul
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC2778755/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC2778755/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Seductive Allure of Neuroscience Explanations - PMC - NIHby DS Weisberg · 2008 · Cited by 1694 — Crucially, the neuroscience infor...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC2778755/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC2778755/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Seductive Allure of Neuroscience Explanations - PMC - NIHby DS Weisberg · 2008 · Cited by 1694 — Crucially, the neuroscience infor...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: cambridge.org  
-   Link: <a href="https://www.cambridge.org/core/journals/judgment-and-decision-making/article/deconstructing-the-seductive-allure-of-neuroscience-explanations/568C206CD761E70374975276BBF69737" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/journals/judgment-and-decision-making/article/deconstructing-the-seductive-allure-of-neuroscience-explanations/568C206CD761E70374975276BBF69737</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Cambridge University Press &amp; AssessmentDeconstructing the seductive allure of neuroscience...by DS Weisberg · 2015 · Cited by 188 — Prev...</p></details>
+   Link:<a href="https://www.cambridge.org/core/journals/judgment-and-decision-making/article/deconstructing-the-seductive-allure-of-neuroscience-explanations/568C206CD761E70374975276BBF69737" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/journals/judgment-and-decision-making/article/deconstructing-the-seductive-allure-of-neuroscience-explanations/568C206CD761E70374975276BBF69737</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Cambridge University Press &amp; AssessmentDeconstructing the seductive allure of neuroscience...by DS Weisberg · 2015 · Cited by 188 — Prev...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0010027716301585" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0010027716301585</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The seductive allure is a reductive allure: People prefer...by EJ Hopkins · 2016 · Cited by 143 — People may judge explanat...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/abs/pii/S0010027716301585" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0010027716301585</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The seductive allure is a reductive allure: People prefer...by EJ Hopkins · 2016 · Cited by 143 — People may judge explanat...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3032992/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3032992/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Midbrain dopamine neurons are well known for their strong responses to rewards and their critical role in positive motivation.Read more...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3032992/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3032992/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Midbrain dopamine neurons are well known for their strong responses to rewards and their critical role in positive motivation.Read more...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
    Title: Pub Med The seductive allure of neuroscience explanations  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/18004955/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/18004955/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>seductive allure of neuroscience explanations - PubMedby DS Weisberg · 2008 · Cited by 1667 — Explanations of psychological phenomena see...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/18004955/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/18004955/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>seductive allure of neuroscience explanations - PubMedby DS Weisberg · 2008 · Cited by 1667 — Explanations of psychological phenomena see...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: my.clevelandclinic.org  
    Title: 22581 dopamine  
-   Link: <a href="https://my.clevelandclinic.org/health/articles/22581-dopamine" target="_blank" rel="noopener noreferrer nofollow">https://my.clevelandclinic.org/health/articles/22581-dopamine</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>clevelandclinic.orgDopamine: What It Is, Function &amp; Symptoms23 Mar 2022 — Dopamine is a neurotransmitter made in your brain. It&#x27;s known a...</p></details>
+   Link:<a href="https://my.clevelandclinic.org/health/articles/22581-dopamine" target="_blank" rel="noopener noreferrer nofollow">https://my.clevelandclinic.org/health/articles/22581-dopamine</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>clevelandclinic.orgDopamine: What It Is, Function &amp; Symptoms23 Mar 2022 — Dopamine is a neurotransmitter made in your brain. It&#x27;s known a...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: neuroscientificallychallenged.com  
-   Link: <a href="https://neuroscientificallychallenged.com/posts/know-your-brain-reward-system" target="_blank" rel="noopener noreferrer nofollow">https://neuroscientificallychallenged.com/posts/know-your-brain-reward-system</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>@neurochallengedKnow Your Brain: Reward SystemBased on brain stimulation experiments and the increasingly recognized importance of dopami...</p></details>
+   Link:<a href="https://neuroscientificallychallenged.com/posts/know-your-brain-reward-system" target="_blank" rel="noopener noreferrer nofollow">https://neuroscientificallychallenged.com/posts/know-your-brain-reward-system</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>@neurochallengedKnow Your Brain: Reward SystemBased on brain stimulation experiments and the increasingly recognized importance of dopami...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: synapse.substack.com  
    Title: the seductive allure of neuroscience  
-   Link: <a href="https://synapse.substack.com/p/the-seductive-allure-of-neuroscience" target="_blank" rel="noopener noreferrer nofollow">https://synapse.substack.com/p/the-seductive-allure-of-neuroscience</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Seductive Allure of Neuroscience Explanations - SynapseIt turns out that the presence of neuroscience drastically improved the subjects&#x27;...</p></details>
+   Link:<a href="https://synapse.substack.com/p/the-seductive-allure-of-neuroscience" target="_blank" rel="noopener noreferrer nofollow">https://synapse.substack.com/p/the-seductive-allure-of-neuroscience</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Seductive Allure of Neuroscience Explanations - SynapseIt turns out that the presence of neuroscience drastically improved the subjects&#x27;...</p></details>
 
 ### Additional References
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/pulse/seductive-allure-neuroscience-explanations-ben-hutchinson" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/pulse/seductive-allure-neuroscience-explanations-ben-hutchinson</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Seductive Allure of Neuroscience ExplanationsThe authors proposed that neuroscience information in explanations may interfere with pe...</p></details>
+   Link:<a href="https://www.linkedin.com/pulse/seductive-allure-neuroscience-explanations-ben-hutchinson" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/pulse/seductive-allure-neuroscience-explanations-ben-hutchinson</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Seductive Allure of Neuroscience ExplanationsThe authors proposed that neuroscience information in explanations may interfere with pe...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: scribd.com  
-   Link: <a href="https://www.scribd.com/document/937334443/The-Seductive-Allure-of-Neuroscience-Explanations" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/937334443/The-Seductive-Allure-of-Neuroscience-Explanations</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Seductive Allure of Neuroscience ExplanationsThe study investigates why explanations of psychological phenomena are perceived as more...</p></details>
+   Link:<a href="https://www.scribd.com/document/937334443/The-Seductive-Allure-of-Neuroscience-Explanations" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/937334443/The-Seductive-Allure-of-Neuroscience-Explanations</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Seductive Allure of Neuroscience ExplanationsThe study investigates why explanations of psychological phenomena are perceived as more...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: chegg.com  
-   Link: <a href="https://www.chegg.com/homework-help/questions-and-answers/adding-irrelevant-neuroscience-information-explanation-psychological-phenomenon-makes-expl-q138530891" target="_blank" rel="noopener noreferrer nofollow">https://www.chegg.com/homework-help/questions-and-answers/adding-irrelevant-neuroscience-information-explanation-psychological-phenomenon-makes-expl-q138530891</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Solved Adding irrelevant neuroscience information to anFeb 5, 2024 — This effect has been termed the &quot;seductive allure of neuroscience ex...</p></details>
+   Link:<a href="https://www.chegg.com/homework-help/questions-and-answers/adding-irrelevant-neuroscience-information-explanation-psychological-phenomenon-makes-expl-q138530891" target="_blank" rel="noopener noreferrer nofollow">https://www.chegg.com/homework-help/questions-and-answers/adding-irrelevant-neuroscience-information-explanation-psychological-phenomenon-makes-expl-q138530891</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Solved Adding irrelevant neuroscience information to anFeb 5, 2024 — This effect has been termed the &quot;seductive allure of neuroscience ex...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: discovermagazine.com  
    Title: critiquing a classic the seductive allure of neuroscience explanations 4911  
-   Link: <a href="https://www.discovermagazine.com/critiquing-a-classic-the-seductive-allure-of-neuroscience-explanations-4911" target="_blank" rel="noopener noreferrer nofollow">https://www.discovermagazine.com/critiquing-a-classic-the-seductive-allure-of-neuroscience-explanations-4911</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Seductive Allure of Neuroscience ExplanationsJan 7, 2009 — Explore the seductive allure of neuroscience and how it impacts perception...</p></details>
+   Link:<a href="https://www.discovermagazine.com/critiquing-a-classic-the-seductive-allure-of-neuroscience-explanations-4911" target="_blank" rel="noopener noreferrer nofollow">https://www.discovermagazine.com/critiquing-a-classic-the-seductive-allure-of-neuroscience-explanations-4911</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Seductive Allure of Neuroscience ExplanationsJan 7, 2009 — Explore the seductive allure of neuroscience and how it impacts perception...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=Wa8_nLwQIpg&amp;vl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Wa8_nLwQIpg&amp;vl=en</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>2-Minute Neuroscience: DopamineDopamine is a monoamine and catecholamine neurotransmitter with many functions in the nervous system rangi...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Wa8_nLwQIpg&amp;vl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Wa8_nLwQIpg&amp;vl=en</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>2-Minute Neuroscience: DopamineDopamine is a monoamine and catecholamine neurotransmitter with many functions in the nervous system rangi...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=f7E0mTJQ2KM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=f7E0mTJQ2KM</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>2-Minute Neuroscience: Reward SystemThe reward system refers to a group of structures that are activated whenever we experience something...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=f7E0mTJQ2KM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=f7E0mTJQ2KM</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>2-Minute Neuroscience: Reward SystemThe reward system refers to a group of structures that are activated whenever we experience something...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: osf.io  
-   Link: <a href="https://osf.io/3y7v9/overview" target="_blank" rel="noopener noreferrer nofollow">https://osf.io/3y7v9/overview</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>xplanations of psychological phenomena when those explanations contain neuroscience...Read more...</p></details>
+   Link:<a href="https://osf.io/3y7v9/overview" target="_blank" rel="noopener noreferrer nofollow">https://osf.io/3y7v9/overview</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>xplanations of psychological phenomena when those explanations contain neuroscience...Read more...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: researchgate.net  
    Title: 235412019 The Seductive Allure of Seductive Allure  
-   Link: <a href="https://www.researchgate.net/publication/235412019_The_Seductive_Allure_of_Seductive_Allure" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/235412019_The_Seductive_Allure_of_Seductive_Allure</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) The Seductive Allure of &quot;Seductive Allure&quot;Feb 1, 2016 — Weisenberg and colleagues note that neuroscience may have a &quot;seductive allu...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/235412019_The_Seductive_Allure_of_Seductive_Allure" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/235412019_The_Seductive_Allure_of_Seductive_Allure</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) The Seductive Allure of &quot;Seductive Allure&quot;Feb 1, 2016 — Weisenberg and colleagues note that neuroscience may have a &quot;seductive allu...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: safetyinsights.org  
    Title: the seductive allure of neuroscience explanations  
-   Link: <a href="https://safetyinsights.org/2025/07/26/the-seductive-allure-of-neuroscience-explanations/" target="_blank" rel="noopener noreferrer nofollow">https://safetyinsights.org/2025/07/26/the-seductive-allure-of-neuroscience-explanations/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>26 Jul 2025 — The authors proposed that neuroscience information in explanations may interfere with people&#x27;s ability to judge the quality...</p></details>
+   Link:<a href="https://safetyinsights.org/2025/07/26/the-seductive-allure-of-neuroscience-explanations/" target="_blank" rel="noopener noreferrer nofollow">https://safetyinsights.org/2025/07/26/the-seductive-allure-of-neuroscience-explanations/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>26 Jul 2025 — The authors proposed that neuroscience information in explanations may interfere with people&#x27;s ability to judge the quality...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: studocu.com  
-   Link: <a href="https://www.studocu.com/en-us/document/the-pennsylvania-state-university/seminars-in-neuroscience-i/the-seductive-allure-of-neuroscience-in-psychological-explanations-j-cogn/140890562" target="_blank" rel="noopener noreferrer nofollow">https://www.studocu.com/en-us/document/the-pennsylvania-state-university/seminars-in-neuroscience-i/the-seductive-allure-of-neuroscience-in-psychological-explanations-j-cogn/140890562</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ions of psychological explanations, revealing that irrelevant neuroscience...</p></details>
+   Link:<a href="https://www.studocu.com/en-us/document/the-pennsylvania-state-university/seminars-in-neuroscience-i/the-seductive-allure-of-neuroscience-in-psychological-explanations-j-cogn/140890562" target="_blank" rel="noopener noreferrer nofollow">https://www.studocu.com/en-us/document/the-pennsylvania-state-university/seminars-in-neuroscience-i/the-seductive-allure-of-neuroscience-in-psychological-explanations-j-cogn/140890562</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ions of psychological explanations, revealing that irrelevant neuroscience...</p></details>

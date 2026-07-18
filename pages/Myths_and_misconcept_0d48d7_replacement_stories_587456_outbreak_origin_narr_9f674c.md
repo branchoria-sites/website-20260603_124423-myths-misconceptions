@@ -274,14 +274,14 @@ image: /assets/images/Myths_and_misconcept_0d48d7_replacement_stories_587456_out
 
 ## Introduction
 
-Rumours about disease outbreaks often succeed because they answer a question that people urgently want resolved: where did the disease come from? When a [correction]({{ 'correction/' | relative_url }}) simply says that a secret plot, deliberate release, or hidden actor was not responsible, it can leave an explanatory gap. Research on misinformation shows that people are more likely to abandon a false claim when they are offered a coherent alternative account that explains the same events. In the context of outbreaks, that replacement story is often a natural-cause narrative built from genetics, ecology, epidemiology, and transmission data. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8447889/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCThe role of discomfort in the continued influence effect</span><span class="citation-popover-snippet">by MW Susmann · 2021 · Cited by 90 — The present research tested the prediction that retractions of misinformation produce feelings of...</span></span></span> Springer Natural-cause explanations do not work because they are reassuring. They work when they are evidence-based and capable of answering the same <span class="citation-link-wrap"><a class="citation-inline-link" href="https://link.springer.com/article/10.1186/s41235-021-00335-9" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[link.springer.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">factors that mitigate the continued influence of...by IP Kan · 2021 · Cited by 27 — The term “continued influence effect” (CIE) refers t...</span></span></span> questions that rumours attempt to answer: how a pathogen emerged, how it entered human populations, and why the outbreak spread when and where it did.
+Rumours about disease outbreaks often succeed because they answer a question that people urgently want resolved: where did the disease come from? When a [correction]({{ 'correction/' | relative_url }}) simply says that a secret plot, deliberate release, or hidden actor was not responsible, it can leave an explanatory gap. Research on misinformation shows that people are more likely to abandon a false claim when they are offered a coherent alternative account that explains the same events. In the context of outbreaks, that replacement story is often a natural-cause narrative built from genetics, ecology, epidemiology, and transmission data.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8447889/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCThe role of discomfort in the continued influence effect</span><span class="citation-popover-snippet">by MW Susmann · 2021 · Cited by 90 — The present research tested the prediction that retractions of misinformation produce feelings of...</span></span></span> Springer Natural-cause explanations do not work because they are reassuring. They work when they are evidence-based and capable of answering the same<span class="citation-link-wrap"><a class="citation-inline-link" href="https://link.springer.com/article/10.1186/s41235-021-00335-9" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[link.springer.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">factors that mitigate the continued influence of...by IP Kan · 2021 · Cited by 27 — The term “continued influence effect” (CIE) refers t...</span></span></span> questions that rumours attempt to answer: how a pathogen emerged, how it entered human populations, and why the outbreak spread when and where it did.
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_replacement_stories_587456_outbreak_origin_narr_9f674c-Illustration-1-dark.svg" | relative_url }}" alt="Outbreak Origins illustration 1" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_replacement_stories_587456_outbreak_origin_narr_9f674c-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_replacement_stories_587456_outbreak_origin_narr_9f674c-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Why Secret-Plot Claims Feel Coherent
 
 Conspiracy theories about outbreaks frequently provide a complete narrative structure. They identify a cause, assign responsibility, and explain consequences in a single story. Even when the evidence is weak, the story can feel psychologically satisfying because it removes uncertainty.
 
-A correction that only says, “there is no evidence of a deliberate release,” may fail to replace that structure. People are still left asking why the outbreak began. Studies of the continued influence effect show that misinformation can continue shaping judgement even [after correction]({{ 'after-correction/' | relative_url }}), particularly when no alternative explanation fills the gap. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8447889/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCThe role of discomfort in the continued influence effect</span><span class="citation-popover-snippet">by MW Susmann · 2021 · Cited by 90 — The present research tested the prediction that retractions of misinformation produce feelings of...</span></span></span> Springer Disease outbreaks are especially vulnerable to this pattern because emergence events are often complex. A natural origin may involve wildlife <span class="citation-link-wrap"><a class="citation-inline-link" href="https://link.springer.com/article/10.1186/s41235-021-00335-9" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[link.springer.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">factors that mitigate the continued influence of...by IP Kan · 2021 · Cited by 27 — The term “continued influence effect” (CIE) refers t...</span></span></span> reservoirs, ecological change, cross-species transmission, and a period of undetected spread before authorities recognise a new disease. Compared with a simple allegation of intentional action, the real explanation can initially appear fragmented or incomplete.
+A correction that only says, “there is no evidence of a deliberate release,” may fail to replace that structure. People are still left asking why the outbreak began. Studies of the continued influence effect show that misinformation can continue shaping judgement even [after correction]({{ 'after-correction/' | relative_url }}), particularly when no alternative explanation fills the gap.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8447889/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCThe role of discomfort in the continued influence effect</span><span class="citation-popover-snippet">by MW Susmann · 2021 · Cited by 90 — The present research tested the prediction that retractions of misinformation produce feelings of...</span></span></span> Springer Disease outbreaks are especially vulnerable to this pattern because emergence events are often complex. A natural origin may involve wildlife<span class="citation-link-wrap"><a class="citation-inline-link" href="https://link.springer.com/article/10.1186/s41235-021-00335-9" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[link.springer.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">factors that mitigate the continued influence of...by IP Kan · 2021 · Cited by 27 — The term “continued influence effect” (CIE) refers t...</span></span></span> reservoirs, ecological change, cross-species transmission, and a period of undetected spread before authorities recognise a new disease. Compared with a simple allegation of intentional action, the real explanation can initially appear fragmented or incomplete.
 
 This creates a communication challenge. Public health agencies must do more than reject unsupported claims. They must show how available evidence fits together into a plausible and understandable account of events.
 
@@ -289,7 +289,7 @@ This creates a communication challenge. Public health agencies must do more than
 
 Genetic sequencing provides one of the most powerful tools for constructing origin stories grounded in evidence. Every time a pathogen reproduces, small mutations accumulate. By comparing genomes collected from different places and times, scientists can reconstruct relationships between strains and estimate how transmission unfolded.
 
-For emerging infectious diseases, this approach often reveals links to pathogens already circulating in animal populations. Zoonotic spillover—the movement of a pathogen from animals into humans—is a well-established mechanism behind many emerging diseases. Reviews of outbreak biology estimate that a large proportion of emerging human infectious diseases have animal origins. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8447889/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCThe role of discomfort in the continued influence effect</span><span class="citation-popover-snippet">by MW Susmann · 2021 · Cited by 90 — The present research tested the prediction that retractions of misinformation produce feelings of...</span></span></span>
+For emerging infectious diseases, this approach often reveals links to pathogens already circulating in animal populations. Zoonotic spillover—the movement of a pathogen from animals into humans—is a well-established mechanism behind many emerging diseases. Reviews of outbreak biology estimate that a large proportion of emerging human infectious diseases have animal origins.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8447889/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCThe role of discomfort in the continued influence effect</span><span class="citation-popover-snippet">by MW Susmann · 2021 · Cited by 90 — The present research tested the prediction that retractions of misinformation produce feelings of...</span></span></span>
 
 Genetic evidence serves an important narrative function because it provides a concrete alternative to speculation. Instead of merely stating that a pathogen was not engineered or deliberately introduced, researchers can show:
 
@@ -308,9 +308,9 @@ These findings create a causal chain that is often more detailed than the rumour
 
 The debate over the origins of COVID-19 illustrates why [replacement stories]({{ 'rumour-gaps/' | relative_url }}) matter. Competing explanations emerged almost immediately, including claims of deliberate creation, laboratory escape, and natural zoonotic emergence.
 
-Scientific investigation focused heavily on genetic evidence, environmental sampling, epidemiological data, and known patterns of coronavirus evolution. Reviews of the evidence have consistently found substantial support for a zoonotic pathway involving animal-to-human transmission, while acknowledging that some uncertainties remain because crucial historical data are incomplete. ScienceDirect <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nejm.org/doi/full/10.1056/NEJMp2305081" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nejm.org">[New England Journal of Medicine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nejm.org</span><span class="citation-popover-snippet">New England Journal of MedicineThe Origins of Covid-19 — Why It Matters (and...by LO Gostin · 2023 · Cited by 80 — The two major hypothe...</span></span></span>
+Scientific investigation focused heavily on genetic evidence, environmental sampling, epidemiological data, and known patterns of coronavirus evolution. Reviews of the evidence have consistently found substantial support for a zoonotic pathway involving animal-to-human transmission, while acknowledging that some uncertainties remain because crucial historical data are incomplete. ScienceDirect<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nejm.org/doi/full/10.1056/NEJMp2305081" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nejm.org">[New England Journal of Medicine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nejm.org</span><span class="citation-popover-snippet">New England Journal of MedicineThe Origins of Covid-19 — Why It Matters (and...by LO Gostin · 2023 · Cited by 80 — The two major hypothe...</span></span></span>
 
-The World Health Organization's Scientific Advisory Group for the Origins of Novel Pathogens reported in 2025 that available evidence points most strongly toward zoonotic spillover, while also noting that not all questions can yet be definitively resolved because some information remains unavailable. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.who.int/news/item/27-06-2025-who-scientific-advisory-group-issues-report-on-origins-of-covid-19" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: who.int">[World Health Organization]</a><span class="citation-popover" role="note"><span class="citation-popover-source">who.int</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.who.int/news/item/27-06-2025-who-scientific-advisory-group-issues-report-on-origins-of-covid-19" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: who.int">[World Health Organization]</a><span class="citation-popover" role="note"><span class="citation-popover-source">who.int</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The World Health Organization's Scientific Advisory Group for the Origins of Novel Pathogens reported in 2025 that available evidence points most strongly toward zoonotic spillover, while also noting that not all questions can yet be definitively resolved because some information remains unavailable.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.who.int/news/item/27-06-2025-who-scientific-advisory-group-issues-report-on-origins-of-covid-19" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: who.int">[World Health Organization]</a><span class="citation-popover" role="note"><span class="citation-popover-source">who.int</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.who.int/news/item/27-06-2025-who-scientific-advisory-group-issues-report-on-origins-of-covid-19" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: who.int">[World Health Organization]</a><span class="citation-popover" role="note"><span class="citation-popover-source">who.int</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 What matters for misinformation correction is not that every detail has been settled. It is that investigators can present an evidence-based pathway linking animal hosts, viral evolution, environmental conditions, and human transmission. That account gives people a scientifically grounded explanation rather than leaving a vacuum that rumours can fill.
 
@@ -344,7 +344,7 @@ Outbreak investigations often begin with incomplete information. Scientists may 
 
 However, uncertainty is not evidence for any particular alternative explanation. The absence of complete knowledge about an outbreak's origin does not automatically support claims of conspiracy, deliberate release, or cover-up.
 
-The WHO's framework for investigating pathogen origins explicitly recognises that origin tracing is a gradual process requiring evidence from multiple disciplines, including epidemiology, laboratory science, ecology, and genomics. Investigations may narrow possibilities long before they can answer every question. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.who.int/news/item/27-06-2025-who-scientific-advisory-group-issues-report-on-origins-of-covid-19" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: who.int">[World Health Organization]</a><span class="citation-popover" role="note"><span class="citation-popover-source">who.int</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The WHO's framework for investigating pathogen origins explicitly recognises that origin tracing is a gradual process requiring evidence from multiple disciplines, including epidemiology, laboratory science, ecology, and genomics. Investigations may narrow possibilities long before they can answer every question.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.who.int/news/item/27-06-2025-who-scientific-advisory-group-issues-report-on-origins-of-covid-19" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: who.int">[World Health Organization]</a><span class="citation-popover" role="note"><span class="citation-popover-source">who.int</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 A natural-cause narrative therefore does not require perfect certainty. It requires a body of evidence that consistently points toward a plausible mechanism and explains observed facts better than competing claims.
 
@@ -352,165 +352,165 @@ A natural-cause narrative therefore does not require perfect certainty. It requi
 
 The most effective [corrections]({{ 'corrections/' | relative_url }}) answer the question that generated the rumour in the first place. In outbreak settings, that question is usually not whether a specific claim is false. It is where the disease came from and how it spread.
 
-Natural-cause narratives help because they provide explanatory completeness. They connect wildlife reservoirs, genetic evolution, spillover events, early transmission chains, and population spread into a single account. When supported by genetic and epidemiological evidence, these narratives give people a framework for understanding the outbreak without relying on unsupported speculation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8447889/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCThe role of discomfort in the continued influence effect</span><span class="citation-popover-snippet">by MW Susmann · 2021 · Cited by 90 — The present research tested the prediction that retractions of misinformation produce feelings of...</span></span></span> Springer The broader lesson for myths and misconceptions is that corrections work best when they replace faulty explanations rather than merely removi <span class="citation-link-wrap"><a class="citation-inline-link" href="https://link.springer.com/article/10.1186/s41235-021-00335-9" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[link.springer.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">factors that mitigate the continued influence of...by IP Kan · 2021 · Cited by 27 — The term “continued influence effect” (CIE) refers t...</span></span></span> ng them. In disease outbreaks, evidence-based origin stories fill the gap that rumours would otherwise occupy, making scientific explanations more understandable, memorable, and resilient.
+Natural-cause narratives help because they provide explanatory completeness. They connect wildlife reservoirs, genetic evolution, spillover events, early transmission chains, and population spread into a single account. When supported by genetic and epidemiological evidence, these narratives give people a framework for understanding the outbreak without relying on unsupported speculation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8447889/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCThe role of discomfort in the continued influence effect</span><span class="citation-popover-snippet">by MW Susmann · 2021 · Cited by 90 — The present research tested the prediction that retractions of misinformation produce feelings of...</span></span></span> Springer The broader lesson for myths and misconceptions is that corrections work best when they replace faulty explanations rather than merely removi<span class="citation-link-wrap"><a class="citation-inline-link" href="https://link.springer.com/article/10.1186/s41235-021-00335-9" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[link.springer.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">factors that mitigate the continued influence of...by IP Kan · 2021 · Cited by 27 — The term “continued influence effect” (CIE) refers t...</span></span></span> ng them. In disease outbreaks, evidence-based origin stories fill the gap that rumours would otherwise occupy, making scientific explanations more understandable, memorable, and resilient.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Outbreak Rumours Need Origin Stories. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Outbreak Rumours Need Origin Stories. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Spillover+by+David+Quammen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Spillover on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=RMmxxYUBQhgC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Spillover" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Spillover+by+David+Quammen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Spillover">Spillover</a>
-        </h4>
-        <p class="fr-book-author">By David Quammen</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Spillover+by+David+Quammen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Spillover on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=RMmxxYUBQhgC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Spillover" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Spillover+by+David+Quammen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Spillover">Spillover</a>
+</h4>
+<p class="fr-book-author">By David Quammen</p>
         
-        <p class="fr-book-desc">Explains how diseases emerge and spread, providing evidence-based origin stories that replace conspiracy narratives.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Spillover+by+David+Quammen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains how diseases emerge and spread, providing evidence-based origin stories that replace conspiracy narratives.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Spillover+by+David+Quammen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Teaches skeptical evaluation of extraordinary claims and conspiracy-style explanations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Teaches skeptical evaluation of extraordinary claims and conspiracy-style explanations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hot+Zone+Richard+Preston&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hot Zone on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/417976-M.jpg" alt="Cover for The Hot Zone" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Hot+Zone+Richard+Preston&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hot Zone">The Hot Zone</a>
-        </h4>
-        <p class="fr-book-author">By Richard Preston, Richard Preston et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hot+Zone+Richard+Preston&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hot Zone on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/417976-M.jpg" alt="Cover for The Hot Zone" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Hot+Zone+Richard+Preston&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hot Zone">The Hot Zone</a>
+</h4>
+<p class="fr-book-author">By Richard Preston, Richard Preston et al.</p>
         
-        <p class="fr-book-desc">First published 1994. Subjects: Ebola virus disease, Molecular virology, Primates as laboratory animals, Epidemias, Ebolavirus.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Hot+Zone+Richard+Preston&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1994. Subjects: Ebola virus disease, Molecular virology, Primates as laboratory animals, Epidemias, Ebolavirus.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Hot+Zone+Richard+Preston&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Foolproof+Sander+Van+Der+Linden&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Foolproof on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/13300557-M.jpg" alt="Cover for Foolproof" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Foolproof+Sander+Van+Der+Linden&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Foolproof">Foolproof</a>
-        </h4>
-        <p class="fr-book-author">By Sander Van Der Linden</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Foolproof+Sander+Van+Der+Linden&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Foolproof on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/13300557-M.jpg" alt="Cover for Foolproof" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Foolproof+Sander+Van+Der+Linden&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Foolproof">Foolproof</a>
+</h4>
+<p class="fr-book-author">By Sander Van Der Linden</p>
         
-        <p class="fr-book-desc">First published 2023.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Foolproof+Sander+Van+Der+Linden&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2023.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Foolproof+Sander+Van+Der+Linden&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Spillover&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Spillover</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hot+Zone&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hot Zone</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Spillover&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Spillover</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hot+Zone&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hot Zone</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=outbreak-origins-why-outbreak-rumours-need-origin-stories-myths-and-misconcept-teacher-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher t shirt" data-ebay-reference="outbreak-origins-why-outbreak-rumours-need-origin-stories-myths-and-misconcept-teacher-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Funny Periodic Table T-Shirt - Chemistry Symbols Be &amp; Er Science Meme Unisex Tee"><img src="{{ '/assets/images/marketplace-covers/9f0c20549a534f5a3f8f.jpg' | relative_url }}" alt="Listing image for Funny Periodic Table T-Shirt - Chemistry Symbols Be &amp; Er Science Meme Unisex Tee" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=outbreak-origins-why-outbreak-rumours-need-origin-stories-myths-and-misconcept-teacher-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher t shirt" data-ebay-reference="outbreak-origins-why-outbreak-rumours-need-origin-stories-myths-and-misconcept-teacher-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Funny Periodic Table T-Shirt - Chemistry Symbols Be &amp; Er Science Meme Unisex Tee</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=outbreak-origins-why-outbreak-rumours-need-origin-stories-myths-and-misconcept-teacher-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher t shirt" data-ebay-reference="outbreak-origins-why-outbreak-rumours-need-origin-stories-myths-and-misconcept-teacher-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for teacher t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: teacher t shirt</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=outbreak-origins-why-outbreak-rumours-need-origin-stories-myths-and-misconcept-teacher-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher t shirt" data-ebay-reference="outbreak-origins-why-outbreak-rumours-need-origin-stories-myths-and-misconcept-teacher-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=outbreak-origins-why-outbreak-rumours-need-origin-stories-myths-and-misconcept-teacher-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher t shirt" data-ebay-reference="outbreak-origins-why-outbreak-rumours-need-origin-stories-myths-and-misconcept-teacher-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Funny Periodic Table T-Shirt - Chemistry Symbols Be &amp; Er Science Meme Unisex Tee"><img src="{{ '/assets/images/marketplace-covers/9f0c20549a534f5a3f8f.jpg' | relative_url }}" alt="Listing image for Funny Periodic Table T-Shirt - Chemistry Symbols Be &amp; Er Science Meme Unisex Tee" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=outbreak-origins-why-outbreak-rumours-need-origin-stories-myths-and-misconcept-teacher-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher t shirt" data-ebay-reference="outbreak-origins-why-outbreak-rumours-need-origin-stories-myths-and-misconcept-teacher-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Funny Periodic Table T-Shirt - Chemistry Symbols Be &amp; Er Science Meme Unisex Tee</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=outbreak-origins-why-outbreak-rumours-need-origin-stories-myths-and-misconcept-teacher-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher t shirt" data-ebay-reference="outbreak-origins-why-outbreak-rumours-need-origin-stories-myths-and-misconcept-teacher-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for teacher t shirt">Search<span data-ebay-domain-label>eBay.co.uk</span>: teacher t shirt</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=outbreak-origins-why-outbreak-rumours-need-origin-stories-myths-and-misconcept-teacher-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher t shirt" data-ebay-reference="outbreak-origins-why-outbreak-rumours-need-origin-stories-myths-and-misconcept-teacher-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=outbreak-origins-why-outbreak-rumours-need-origin-stories-myths-and-misconcept-teacher-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher t shirt" data-ebay-reference="outbreak-origins-why-outbreak-rumours-need-origin-stories-myths-and-misconcept-teacher-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Custom Seagulls Teacher T-Shirt, Funny Gift Shirt, Teacher Appreciation Gift"><img src="{{ '/assets/images/marketplace-covers/f95e234aa6f6408aec06.jpg' | relative_url }}" alt="Listing image for Custom Seagulls Teacher T-Shirt, Funny Gift Shirt, Teacher Appreciation Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=outbreak-origins-why-outbreak-rumours-need-origin-stories-myths-and-misconcept-teacher-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher t shirt" data-ebay-reference="outbreak-origins-why-outbreak-rumours-need-origin-stories-myths-and-misconcept-teacher-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Custom Seagulls Teacher T-Shirt, Funny Gift Shirt, Teacher Appreciation Gift</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=outbreak-origins-why-outbreak-rumours-need-origin-stories-myths-and-misconcept-teacher-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher t shirt" data-ebay-reference="outbreak-origins-why-outbreak-rumours-need-origin-stories-myths-and-misconcept-teacher-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for teacher t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: teacher t shirt</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=outbreak-origins-why-outbreak-rumours-need-origin-stories-myths-and-misconcept-teacher-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher t shirt" data-ebay-reference="outbreak-origins-why-outbreak-rumours-need-origin-stories-myths-and-misconcept-teacher-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=outbreak-origins-why-outbreak-rumours-need-origin-stories-myths-and-misconcept-teacher-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher t shirt" data-ebay-reference="outbreak-origins-why-outbreak-rumours-need-origin-stories-myths-and-misconcept-teacher-t-shirt" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=outbreak-origins-why-outbreak-rumours-need-origin-stories-myths-and-misconcept-teacher-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher t shirt" data-ebay-reference="outbreak-origins-why-outbreak-rumours-need-origin-stories-myths-and-misconcept-teacher-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Custom Seagulls Teacher T-Shirt, Funny Gift Shirt, Teacher Appreciation Gift"><img src="{{ '/assets/images/marketplace-covers/f95e234aa6f6408aec06.jpg' | relative_url }}" alt="Listing image for Custom Seagulls Teacher T-Shirt, Funny Gift Shirt, Teacher Appreciation Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=outbreak-origins-why-outbreak-rumours-need-origin-stories-myths-and-misconcept-teacher-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher t shirt" data-ebay-reference="outbreak-origins-why-outbreak-rumours-need-origin-stories-myths-and-misconcept-teacher-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Custom Seagulls Teacher T-Shirt, Funny Gift Shirt, Teacher Appreciation Gift</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=outbreak-origins-why-outbreak-rumours-need-origin-stories-myths-and-misconcept-teacher-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher t shirt" data-ebay-reference="outbreak-origins-why-outbreak-rumours-need-origin-stories-myths-and-misconcept-teacher-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for teacher t shirt">Search<span data-ebay-domain-label>eBay.co.uk</span>: teacher t shirt</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=outbreak-origins-why-outbreak-rumours-need-origin-stories-myths-and-misconcept-teacher-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher t shirt" data-ebay-reference="outbreak-origins-why-outbreak-rumours-need-origin-stories-myths-and-misconcept-teacher-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=outbreak-origins-why-outbreak-rumours-need-origin-stories-myths-and-misconcept-teacher-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher t shirt" data-ebay-reference="outbreak-origins-why-outbreak-rumours-need-origin-stories-myths-and-misconcept-teacher-t-shirt" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -526,7 +526,7 @@ Natural-cause narratives help because they provide explanatory completeness. The
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -546,7 +546,7 @@ Natural-cause narratives help because they provide explanatory completeness. The
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -578,7 +578,7 @@ Natural-cause narratives help because they provide explanatory completeness. The
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -630,7 +630,7 @@ Natural-cause narratives help because they provide explanatory completeness. The
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -675,7 +675,7 @@ Natural-cause narratives help because they provide explanatory completeness. The
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -716,113 +716,113 @@ Natural-cause narratives help because they provide explanatory completeness. The
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCThe role of discomfort in the continued influence effect  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8447889/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8447889/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>by MW Susmann · 2021 · Cited by 90 — The present research tested the prediction that retractions of misinformation produce feelings of...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8447889/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8447889/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by MW Susmann · 2021 · Cited by 90 — The present research tested the prediction that retractions of misinformation produce feelings of...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: link.springer.com  
-   Link: <a href="https://link.springer.com/article/10.1186/s41235-021-00335-9" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1186/s41235-021-00335-9</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>factors that mitigate the continued influence of...by IP Kan · 2021 · Cited by 27 — The term “continued influence effect” (CIE) refers t...</p></details>
+   Link:<a href="https://link.springer.com/article/10.1186/s41235-021-00335-9" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1186/s41235-021-00335-9</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>factors that mitigate the continued influence of...by IP Kan · 2021 · Cited by 27 — The term “continued influence effect” (CIE) refers t...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: link.springer.com  
-   Link: <a href="https://link.springer.com/article/10.3758/s13421-023-01402-w" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.3758/s13421-023-01402-w</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The impact of misinformation corrections on source perceptionsby V Westbrook · 2023 · Cited by 26 — Research on the continued inf...</p></details>
+   Link:<a href="https://link.springer.com/article/10.3758/s13421-023-01402-w" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.3758/s13421-023-01402-w</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The impact of misinformation corrections on source perceptionsby V Westbrook · 2023 · Cited by 26 — Research on the continued inf...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8182890/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8182890/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Zoonotic spillover: Understanding basic aspects for better...by JH Ellwanger · 2021 · Cited by 319 — The transmission of pathogens fr...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8182890/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8182890/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Zoonotic spillover: Understanding basic aspects for better...by JH Ellwanger · 2021 · Cited by 319 — The transmission of pathogens fr...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0092867421009910" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0092867421009910</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The origins of SARS-CoV-2: A critical reviewby EC Holmes · 2021 · Cited by 758 — Evidence supporting a zoonotic origin of se...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/pii/S0092867421009910" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0092867421009910</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The origins of SARS-CoV-2: A critical reviewby EC Holmes · 2021 · Cited by 758 — Evidence supporting a zoonotic origin of se...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: who.int  
-   Link: <a href="https://www.who.int/news/item/27-06-2025-who-scientific-advisory-group-issues-report-on-origins-of-covid-19" target="_blank" rel="noopener noreferrer nofollow">https://www.who.int/news/item/27-06-2025-who-scientific-advisory-group-issues-report-on-origins-of-covid-19</a>  
+   Link:<a href="https://www.who.int/news/item/27-06-2025-who-scientific-advisory-group-issues-report-on-origins-of-covid-19" target="_blank" rel="noopener noreferrer nofollow">https://www.who.int/news/item/27-06-2025-who-scientific-advisory-group-issues-report-on-origins-of-covid-19</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: who.int  
-   Link: <a href="https://www.who.int/publications/m/item/independent-assessment-of-the-origins-of-sars-cov-2-from-the-scientific-advisory-group-for-the-origins-of-novel-pathogens" target="_blank" rel="noopener noreferrer nofollow">https://www.who.int/publications/m/item/independent-assessment-of-the-origins-of-sars-cov-2-from-the-scientific-advisory-group-for-the-origins-of-novel-pathogens</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>World Health OrganizationIndependent assessment of the origins of SARS‑CoV‑2This current review is an independent assessment of the origi...</p></details>
+   Link:<a href="https://www.who.int/publications/m/item/independent-assessment-of-the-origins-of-sars-cov-2-from-the-scientific-advisory-group-for-the-origins-of-novel-pathogens" target="_blank" rel="noopener noreferrer nofollow">https://www.who.int/publications/m/item/independent-assessment-of-the-origins-of-sars-cov-2-from-the-scientific-advisory-group-for-the-origins-of-novel-pathogens</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>World Health OrganizationIndependent assessment of the origins of SARS‑CoV‑2This current review is an independent assessment of the origi...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: who.int  
-   Link: <a href="https://www.who.int/news/item/04-09-2024-who-launches-global-framework-for-understanding-the-origins-of-new-or-re-emerging-pathogens" target="_blank" rel="noopener noreferrer nofollow">https://www.who.int/news/item/04-09-2024-who-launches-global-framework-for-understanding-the-origins-of-new-or-re-emerging-pathogens</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>World Health OrganizationWHO launches global framework for understanding the...4 Sept 2024 — The World Health Organization (WHO) has pub...</p></details>
+   Link:<a href="https://www.who.int/news/item/04-09-2024-who-launches-global-framework-for-understanding-the-origins-of-new-or-re-emerging-pathogens" target="_blank" rel="noopener noreferrer nofollow">https://www.who.int/news/item/04-09-2024-who-launches-global-framework-for-understanding-the-origins-of-new-or-re-emerging-pathogens</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>World Health OrganizationWHO launches global framework for understanding the...4 Sept 2024 — The World Health Organization (WHO) has pub...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: who.int  
    Title: final joint report origins studies 6 april 201  
-   Link: <a href="https://www.who.int/docs/default-source/coronaviruse/final-joint-report_origins-studies-6-april-201.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.who.int/docs/default-source/coronaviruse/final-joint-report_origins-studies-6-april-201.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>convened Global Study of Origins of SARS-CoV-2by WHO Joint · 2021 · Cited by 3 — Evidence from surveys and targeted studies so far ha...</p></details>
+   Link:<a href="https://www.who.int/docs/default-source/coronaviruse/final-joint-report_origins-studies-6-april-201.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.who.int/docs/default-source/coronaviruse/final-joint-report_origins-studies-6-april-201.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>convened Global Study of Origins of SARS-CoV-2by WHO Joint · 2021 · Cited by 3 — Evidence from surveys and targeted studies so far ha...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0001691823002706" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0001691823002706</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A replication study of Johnson and Seifert&#x27;s (1994)...by V Laurent · 2023 · Cited by 5 — The term “Continued Influence Effect” (CIE) (Jo...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/pii/S0001691823002706" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0001691823002706</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A replication study of Johnson and Seifert&#x27;s (1994)...by V Laurent · 2023 · Cited by 5 — The term “Continued Influence Effect” (CIE) (Jo...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: nejm.org  
-   Link: <a href="https://www.nejm.org/doi/full/10.1056/NEJMp2305081" target="_blank" rel="noopener noreferrer nofollow">https://www.nejm.org/doi/full/10.1056/NEJMp2305081</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>New England Journal of MedicineThe Origins of Covid-19 — Why It Matters (and...by LO Gostin · 2023 · Cited by 80 — The two major hypothe...</p></details>
+   Link:<a href="https://www.nejm.org/doi/full/10.1056/NEJMp2305081" target="_blank" rel="noopener noreferrer nofollow">https://www.nejm.org/doi/full/10.1056/NEJMp2305081</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>New England Journal of MedicineThe Origins of Covid-19 — Why It Matters (and...by LO Gostin · 2023 · Cited by 80 — The two major hypothe...</p></details>
 
 ### Additional References
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: dni.gov  
-   Link: <a href="https://www.dni.gov/files/ODNI/documents/assessments/Declassified-Assessment-on-COVID-19-Origins.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dni.gov/files/ODNI/documents/assessments/Declassified-Assessment-on-COVID-19-Origins.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Updated Assessment on COVID-19 OriginsThe IC assesses that SARS-CoV-2, the virus that causes COVID-19, probably emerged and infected huma...</p></details>
+   Link:<a href="https://www.dni.gov/files/ODNI/documents/assessments/Declassified-Assessment-on-COVID-19-Origins.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dni.gov/files/ODNI/documents/assessments/Declassified-Assessment-on-COVID-19-Origins.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Updated Assessment on COVID-19 OriginsThe IC assesses that SARS-CoV-2, the virus that causes COVID-19, probably emerged and infected huma...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: scispace.com  
-   Link: <a href="https://scispace.com/pdf/the-continued-influence-of-misinformation-in-[memory" target="_blank" rel="noopener noreferrer nofollow">https://scispace.com/pdf/the-continued-influence-of-misinformation-in-[memory</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The continued influence of misinformation in memoryYet despite these factors, the misinformation continues to influence later judgments a...</p></details>
+   Link:<a href="https://scispace.com/pdf/the-continued-influence-of-misinformation-in-[memory" target="_blank" rel="noopener noreferrer nofollow">https://scispace.com/pdf/the-continued-influence-of-misinformation-in-[memory</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The continued influence of misinformation in memoryYet despite these factors, the misinformation continues to influence later judgments a...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: today.ucsd.edu  
-   Link: <a href="https://today.ucsd.edu/story/recent-pandemic-viruses-jumped-to-humans-without-prior-adaptation-uc-san-diego-study-finds" target="_blank" rel="noopener noreferrer nofollow">https://today.ucsd.edu/story/recent-pandemic-viruses-jumped-to-humans-without-prior-adaptation-uc-san-diego-study-finds</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Pandemic Viruses Jumped to Humans Without Prior...9 Mar 2026 — For certain viruses, researchers found no evidence that they evolved spec...</p></details>
+   Link:<a href="https://today.ucsd.edu/story/recent-pandemic-viruses-jumped-to-humans-without-prior-adaptation-uc-san-diego-study-finds" target="_blank" rel="noopener noreferrer nofollow">https://today.ucsd.edu/story/recent-pandemic-viruses-jumped-to-humans-without-prior-adaptation-uc-san-diego-study-finds</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Pandemic Viruses Jumped to Humans Without Prior...9 Mar 2026 — For certain viruses, researchers found no evidence that they evolved spec...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: middleeasthealth.com  
-   Link: <a href="https://middleeasthealth.com/covid-19-update/who-scientific-panel-concludes-natural-spillover-most-likely-origin-of-covid-19-but-laboratory-leak-cannot-be-ruled-out/" target="_blank" rel="noopener noreferrer nofollow">https://middleeasthealth.com/covid-19-update/who-scientific-panel-concludes-natural-spillover-most-likely-origin-of-covid-19-but-laboratory-leak-cannot-be-ruled-out/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>WHO scientific panel concludes natural spillover most...Aug 6, 2025 — The assessment highlights compelling metagenomic evidence from the...</p></details>
+   Link:<a href="https://middleeasthealth.com/covid-19-update/who-scientific-panel-concludes-natural-spillover-most-likely-origin-of-covid-19-but-laboratory-leak-cannot-be-ruled-out/" target="_blank" rel="noopener noreferrer nofollow">https://middleeasthealth.com/covid-19-update/who-scientific-panel-concludes-natural-spillover-most-likely-origin-of-covid-19-but-laboratory-leak-cannot-be-ruled-out/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>WHO scientific panel concludes natural spillover most...Aug 6, 2025 — The assessment highlights compelling metagenomic evidence from the...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/391015007_To_be_continued_misinformation%27s_bizarre_adventure_beyond_memory_failures_-_exploring_non-memory-based_mechanisms_driving_the_continued_influence_effect_CIE" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/391015007_To_be_continued_misinformation%27s_bizarre_adventure_beyond_memory_failures_-_exploring_non-memory-based_mechanisms_driving_the_continued_influence_effect_CIE</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) To be continued: misinformation&#x27;s bizarre adventure...18 Nov 2025 — The Continued Influence Effect (CIE) refers to the persistent...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/391015007_To_be_continued_misinformation%27s_bizarre_adventure_beyond_memory_failures_-_exploring_non-memory-based_mechanisms_driving_the_continued_influence_effect_CIE" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/391015007_To_be_continued_misinformation%27s_bizarre_adventure_beyond_memory_failures_-_exploring_non-memory-based_mechanisms_driving_the_continued_influence_effect_CIE</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) To be continued: misinformation&#x27;s bizarre adventure...18 Nov 2025 — The Continued Influence Effect (CIE) refers to the persistent...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: brod.ntcenter.bg  
-   Link: <a href="https://brod.ntcenter.bg/en/continued-influence-effect/" target="_blank" rel="noopener noreferrer nofollow">https://brod.ntcenter.bg/en/continued-influence-effect/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Influence EffectThe &quot;Continued Influence Effect&quot; refers to the phenomenon where misinformation continues to affect people&#x27;s thinking and...</p></details>
+   Link:<a href="https://brod.ntcenter.bg/en/continued-influence-effect/" target="_blank" rel="noopener noreferrer nofollow">https://brod.ntcenter.bg/en/continued-influence-effect/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Influence EffectThe &quot;Continued Influence Effect&quot; refers to the phenomenon where misinformation continues to affect people&#x27;s thinking and...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: GOV.UK  
    Title: uk government approach to implementing the strategy england only  
-   Link: <a href="https://www.gov.uk/government/publications/pandemic-preparedness-strategy-building-our-capabilities/uk-government-approach-to-implementing-the-strategy-england-only" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/pandemic-preparedness-strategy-building-our-capabilities/uk-government-approach-to-implementing-the-strategy-england-only</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ernment approach to implementing the strategy...25 Mar 2026 — The UK government has learned crucial lessons from COVID-19. These have...</p></details>
+   Link:<a href="https://www.gov.uk/government/publications/pandemic-preparedness-strategy-building-our-capabilities/uk-government-approach-to-implementing-the-strategy-england-only" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/pandemic-preparedness-strategy-building-our-capabilities/uk-government-approach-to-implementing-the-strategy-england-only</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ernment approach to implementing the strategy...25 Mar 2026 — The UK government has learned crucial lessons from COVID-19. These have...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: Keywords: COVID-19, SARS-Co V  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9420317/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9420317/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>updated review of the scientific literature on the origin of...by JL Domingo · 2022 · Cited by 39 — Based on the information here review...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9420317/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9420317/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>updated review of the scientific literature on the origin of...by JL Domingo · 2022 · Cited by 39 — Based on the information here review...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: fao.org  
-   Link: <a href="https://www.fao.org/one-health/highlights/understanding-the-origins-of-zoonotic-threats/en" target="_blank" rel="noopener noreferrer nofollow">https://www.fao.org/one-health/highlights/understanding-the-origins-of-zoonotic-threats/en</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>an animal host into a human population.Read more...</p></details>
+   Link:<a href="https://www.fao.org/one-health/highlights/understanding-the-origins-of-zoonotic-threats/en" target="_blank" rel="noopener noreferrer nofollow">https://www.fao.org/one-health/highlights/understanding-the-origins-of-zoonotic-threats/en</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>an animal host into a human population.Read more...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: Wikipedia  
    Title: Zoonotic origins of COVID 19  
-   Link: <a href="https://en.wikipedia.org/wiki/Zoonotic_origins_of_COVID-19" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Zoonotic_origins_of_COVID-19</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Zoonotic origins of COVID-19SARS-CoV-2, the causative agent of COVID-19, was first introduced to humans through zoonosis and a zoonoti...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Zoonotic_origins_of_COVID-19" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Zoonotic_origins_of_COVID-19</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Zoonotic origins of COVID-19SARS-CoV-2, the causative agent of COVID-19, was first introduced to humans through zoonosis and a zoonoti...</p></details>

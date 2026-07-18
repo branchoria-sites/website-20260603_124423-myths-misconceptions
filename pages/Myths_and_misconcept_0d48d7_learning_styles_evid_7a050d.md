@@ -501,7 +501,7 @@ image: /assets/images/Myths_and_misconcept_0d48d7_learning_styles_evid_7a050d-ov
 
 ## Introduction
 
-Learning styles are popular because the idea feels humane: notice how each student prefers to learn, then teach them that way. The problem is that this appealing classroom story has not held up as a reliable learning strategy. Students can certainly have preferences — one pupil may enjoy diagrams, another may like discussion, another may prefer building or moving — but the stronger claim is different: that students learn better when teaching is matched to a fixed “visual”, “auditory” or “kinaesthetic” style. That [matching claim]({{ 'matching-claim/' | relative_url }}), often called the meshing hypothesis, is not supported by the evidence. Reviews have repeatedly found little or no credible basis for sorting learners into styles and then designing instruction around those labels. EEF <span class="citation-chip-wrap"><a class="citation-chip" href="https://bjorklab.psych.ucla.edu/wp-content/uploads/sites/13/2016/07/Pashler_McDaniel_Rohrer_Bjork_2009_PSPI.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bjorklab.psych.ucla.edu">[2bjorklab.psych.ucla.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bjorklab.psych.ucla.edu</span><span class="citation-popover-title">Pashler McDaniel Rohrer Bjork 2009 PSPI</span><span class="citation-popover-snippet">Learning Stylesby H Pashler · Cited by 5022 — Note that the learning-styles hypothesis, as defined here, could be true without the meshin...</span></span></span>
+Learning styles are popular because the idea feels humane: notice how each student prefers to learn, then teach them that way. The problem is that this appealing classroom story has not held up as a reliable learning strategy. Students can certainly have preferences — one pupil may enjoy diagrams, another may like discussion, another may prefer building or moving — but the stronger claim is different: that students learn better when teaching is matched to a fixed “visual”, “auditory” or “kinaesthetic” style. That [matching claim]({{ 'matching-claim/' | relative_url }}), often called the meshing hypothesis, is not supported by the evidence. Reviews have repeatedly found little or no credible basis for sorting learners into styles and then designing instruction around those labels. EEF<span class="citation-chip-wrap"><a class="citation-chip" href="https://bjorklab.psych.ucla.edu/wp-content/uploads/sites/13/2016/07/Pashler_McDaniel_Rohrer_Bjork_2009_PSPI.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bjorklab.psych.ucla.edu">[2bjorklab.psych.ucla.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bjorklab.psych.ucla.edu</span><span class="citation-popover-title">Pashler McDaniel Rohrer Bjork 2009 PSPI</span><span class="citation-popover-snippet">Learning Stylesby H Pashler · Cited by 5022 — Note that the learning-styles hypothesis, as defined here, could be true without the meshin...</span></span></span>
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_learning_styles_evid_7a050d-overview.webp" | relative_url }}" alt="Overview image for Learning Styles" loading="eager" decoding="sync" fetchpriority="high">
 This makes learning styles a classic education myth rather than a silly mistake. It starts from a caring impulse, borrows the language of individuality, and can look convincing in everyday classroom life. But when the belief turns into labels, lesson planning checklists or explanations for success and failure, it can distract from better-supported ways to help students learn.
@@ -510,11 +510,11 @@ This makes learning styles a classic education myth rather than a silly mistake.
 
 The most important distinction is between **learning preferences** and **learning-style-based instruction**. A preference is ordinary: a student may say they like videos, diagrams, practical tasks, quiet reading or spoken explanation. Teachers often notice these preferences, and it is reasonable to use them as part of classroom engagement. The evidence problem begins when preference is treated as a stable learning category that predicts the best mode of instruction for that student.
 
-A strong test of learning styles would need to show a specific pattern. For example, “visual learners” would need to learn best from visual instruction, while “auditory learners” would need to learn best from auditory instruction, with the reverse pattern appearing for the other group. Pashler, McDaniel, Rohrer and Bjork’s influential review made this point clearly: many studies did not use a design capable of testing the learning-styles claim, and the studies that could test it did not provide adequate support for using styles in education. <span class="citation-chip-wrap"><a class="citation-chip" href="https://bjorklab.psych.ucla.edu/wp-content/uploads/sites/13/2016/07/Pashler_McDaniel_Rohrer_Bjork_2009_PSPI.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bjorklab.psych.ucla.edu">[bjorklab.psych.ucla.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bjorklab.psych.ucla.edu</span><span class="citation-popover-title">Pashler McDaniel Rohrer Bjork 2009 PSPI</span><span class="citation-popover-snippet">Learning Stylesby H Pashler · Cited by 5022 — Note that the learning-styles hypothesis, as defined here, could be true without the meshin...</span></span></span>
+A strong test of learning styles would need to show a specific pattern. For example, “visual learners” would need to learn best from visual instruction, while “auditory learners” would need to learn best from auditory instruction, with the reverse pattern appearing for the other group. Pashler, McDaniel, Rohrer and Bjork’s influential review made this point clearly: many studies did not use a design capable of testing the learning-styles claim, and the studies that could test it did not provide adequate support for using styles in education.<span class="citation-chip-wrap"><a class="citation-chip" href="https://bjorklab.psych.ucla.edu/wp-content/uploads/sites/13/2016/07/Pashler_McDaniel_Rohrer_Bjork_2009_PSPI.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bjorklab.psych.ucla.edu">[bjorklab.psych.ucla.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bjorklab.psych.ucla.edu</span><span class="citation-popover-title">Pashler McDaniel Rohrer Bjork 2009 PSPI</span><span class="citation-popover-snippet">Learning Stylesby H Pashler · Cited by 5022 — Note that the learning-styles hypothesis, as defined here, could be true without the meshin...</span></span></span>
 
 That distinction matters because weaker observations are often mistaken for evidence. It is not enough to show that students differ from one another; all teachers know they do. It is not enough to show that students prefer different activities; they often do. It is not even enough to show that a student performs well after receiving a preferred activity, because the activity may simply have been well designed, more engaging, better matched to the subject matter, or easier than the alternative. The key question is whether **matching the mode to the labelled style** improves learning more than good teaching would otherwise do. On that question, the evidence is poor.
 
-The Education Endowment Foundation, which summarises education evidence for schools, states that there is very limited evidence for any consistent set of learning styles that can reliably identify pupils’ learning needs, and that it is unhelpful to assign learners to groups or categories based on a supposed style. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://educationendowmentfoundation.org.uk/education-evidence/teaching-learning-toolkit/learning-styles" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: educationendowmentfoundation.org.uk">[EEF]</a><span class="citation-popover" role="note"><span class="citation-popover-source">educationendowmentfoundation.org.uk</span><span class="citation-popover-snippet">the learning needs of young people. Instead...Read more...</span></span></span> This is a practical classroom judgement, not just a theoretical complaint. A school can spend time surveying pupils, colour-coding profiles and adapting resources to categories without improving learning.
+The Education Endowment Foundation, which summarises education evidence for schools, states that there is very limited evidence for any consistent set of learning styles that can reliably identify pupils’ learning needs, and that it is unhelpful to assign learners to groups or categories based on a supposed style.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://educationendowmentfoundation.org.uk/education-evidence/teaching-learning-toolkit/learning-styles" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: educationendowmentfoundation.org.uk">[EEF]</a><span class="citation-popover" role="note"><span class="citation-popover-source">educationendowmentfoundation.org.uk</span><span class="citation-popover-snippet">the learning needs of young people. Instead...Read more...</span></span></span> This is a practical classroom judgement, not just a theoretical complaint. A school can spend time surveying pupils, colour-coding profiles and adapting resources to categories without improving learning.
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_learning_styles_evid_7a050d-Illustration-1-dark.svg" | relative_url }}" alt="Learning Styles illustration 1" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_learning_styles_evid_7a050d-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_learning_styles_evid_7a050d-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the Idea Feels Compassionate
@@ -523,7 +523,7 @@ Learning styles endure because they seem to honour difference. A teacher who say
 
 This is why the myth is hard to dislodge. It sounds student-centred. It gives teachers a simple language for inclusion. It can reassure a struggling child that the problem is not ability but mismatch. It also gives parents and pupils a memorable explanation: “I am a kinaesthetic learner”, “she is visual”, “he needs to hear it”. In a busy classroom, that shorthand can feel more useful than a complicated conversation about prior knowledge, attention, vocabulary, motivation, working [memory]({{ 'memory/' | relative_url }}), practice, feedback and curriculum design.
 
-The danger is that compassionate language can become limiting. Research published in *npj Science of Learning* found that learning-style descriptions can shape how adults think about children’s academic potential. In one study, all parents and 85.1% of teachers surveyed endorsed the belief that individuals learn best when information is presented in their preferred learning style; the wider work found that such labels could influence expectations about which subjects children were likely to be good at. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nature.com/articles/s41539-023-00190-x" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-title">At the end of the survey, this study also included two open-ended exploratory</span><span class="citation-popover-snippet">Beware the myth: learning styles affect parents&#x27;, children&#x27;s...by X Sun · 2023 · Cited by 31 — All parents and 85.1% of teachers b...</span></span></span>
+The danger is that compassionate language can become limiting. Research published in *npj Science of Learning* found that learning-style descriptions can shape how adults think about children’s academic potential. In one study, all parents and 85.1% of teachers surveyed endorsed the belief that individuals learn best when information is presented in their preferred learning style; the wider work found that such labels could influence expectations about which subjects children were likely to be good at.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nature.com/articles/s41539-023-00190-x" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-title">At the end of the survey, this study also included two open-ended exploratory</span><span class="citation-popover-snippet">Beware the myth: learning styles affect parents&#x27;, children&#x27;s...by X Sun · 2023 · Cited by 31 — All parents and 85.1% of teachers b...</span></span></span>
 
 This is the hidden cost of a benign-sounding myth. A label meant to validate a child can quietly narrow what adults expect from them. A pupil described as “hands-on” may be subtly steered away from reading-heavy or abstract work. A pupil described as “visual” may be assumed to have strengths in some school subjects and weaknesses in others. The evidence problem, then, is not only that learning styles fail as an instructional matching tool. It is also that the labels can become explanations for performance before the teacher has examined more changeable causes.
 
@@ -533,9 +533,9 @@ This is the hidden cost of a benign-sounding myth. A label meant to validate a c
 
 The classroom evidence does not say that mode never matters. It says that **the best mode usually depends on the content, task and learning goal**, not on a fixed learner type. A map is useful for geography because spatial relationships matter. A worked example is useful in mathematics because students need to see the steps and reasoning. A phonics lesson must include sound-symbol relationships because the content demands it. A science practical may help students observe a phenomenon, but it still needs explanation, vocabulary, modelling and later retrieval.
 
-This is very different from saying that visual students need visual teaching and auditory students need auditory teaching. Rogowsky, Calhoun and Tallal tested the visual-auditory version of the claim in work explicitly linked to the experimental standard proposed by Pashler and colleagues. Their later paper concluded that providing instruction based on students’ learning style preferences did not improve learning. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/32116958/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+This is very different from saying that visual students need visual teaching and auditory students need auditory teaching. Rogowsky, Calhoun and Tallal tested the visual-auditory version of the claim in work explicitly linked to the experimental standard proposed by Pashler and colleagues. Their later paper concluded that providing instruction based on students’ learning style preferences did not improve learning.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/32116958/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-Older and broader reviews also show why the field became confused. Coffield, Moseley, Hall and Ecclestone’s major review of post-16 learning examined a large landscape of learning-style models and looked closely at 13 influential ones. One problem was not simply “lack of evidence” in the abstract, but inconsistency: different models used different categories, different instruments and different assumptions about what a style even was. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.voced.edu.au/content/ngv%3A13692?ref=brainscape-academy" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: voced.edu.au">[voced.edu.au]</a><span class="citation-popover" role="note"><span class="citation-popover-source">voced.edu.au</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> When a concept can mean visual-auditory-kinaesthetic preferences in one setting, personality-like tendencies in another, and broad approaches to learning in a third, it becomes hard for teachers to know what they are supposed to act on.
+Older and broader reviews also show why the field became confused. Coffield, Moseley, Hall and Ecclestone’s major review of post-16 learning examined a large landscape of learning-style models and looked closely at 13 influential ones. One problem was not simply “lack of evidence” in the abstract, but inconsistency: different models used different categories, different instruments and different assumptions about what a style even was.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.voced.edu.au/content/ngv%3A13692?ref=brainscape-academy" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: voced.edu.au">[voced.edu.au]</a><span class="citation-popover" role="note"><span class="citation-popover-source">voced.edu.au</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> When a concept can mean visual-auditory-kinaesthetic preferences in one setting, personality-like tendencies in another, and broad approaches to learning in a third, it becomes hard for teachers to know what they are supposed to act on.
 
 The most useful takeaway for classrooms is therefore not “ignore student differences”. It is more precise: do not treat a learning-style label as a reliable diagnosis of how a student learns best. Teachers should still notice pupils’ interests, prior knowledge, [confidence]({{ 'confidence/' | relative_url }}), language needs, misconceptions, attention, [fluency]({{ 'fluency/' | relative_url }}) and motivation. Those differences are visible in real work and can be addressed through assessment, questioning, modelling, feedback and practice. Learning styles are attractive partly because they promise personalised teaching without the harder work of finding out what a pupil actually understands.
 
@@ -557,7 +557,7 @@ There are several practical risks:
 
 </div>
 
-The American Psychological Association has highlighted a related concern: many people, including educators, believe learning styles are set early and predict later success, despite the lack of scientific evidence for that belief. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.apa.org/news/press/releases/2019/05/learning-styles-myth" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apa.org">[American Psychological Association]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apa.org</span><span class="citation-popover-title">learning styles myth</span><span class="citation-popover-snippet">learning styles myth</span></span></span> The strongest classroom response is not to replace one label with another, but to move from [identity]({{ 'identity/' | relative_url }}) claims to evidence from learning: What can the student explain? What can they recall later? What errors are recurring? What support helps them improve?
+The American Psychological Association has highlighted a related concern: many people, including educators, believe learning styles are set early and predict later success, despite the lack of scientific evidence for that belief.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.apa.org/news/press/releases/2019/05/learning-styles-myth" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apa.org">[American Psychological Association]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apa.org</span><span class="citation-popover-title">learning styles myth</span><span class="citation-popover-snippet">learning styles myth</span></span></span> The strongest classroom response is not to replace one label with another, but to move from [identity]({{ 'identity/' | relative_url }}) claims to evidence from learning: What can the student explain? What can they recall later? What errors are recurring? What support helps them improve?
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/_bWueJub_eU" title="Learning Styles - The BIGGEST Myth in Education" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=_bWueJub_eU" target="_blank" rel="noopener noreferrer">Learning Styles - The BIGGEST Myth in Education</a></p><p class="youtube-embed-meta">Channel: Digital Learning Consultant &middot; Views: 336 &middot; Uploaded: January 2026 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=_bWueJub_eU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=_bWueJub_eU">Open on YouTube</a></p></div></div></div>
 
@@ -565,11 +565,11 @@ The American Psychological Association has highlighted a related concern: many p
 
 Dropping learning styles does not mean teaching every student in exactly the same way. It means using differences that are more instructionally useful. The alternatives below preserve the compassionate aim — helping students learn — while relying on stronger evidence and clearer classroom mechanisms.
 
-**Use multiple representations because the content benefits, not because pupils belong to types.** A diagram can clarify a process; a spoken explanation can guide attention; a physical model can make an abstract relationship concrete; writing can consolidate thought. The point is to choose representations that illuminate the idea, then help all students connect them. Cognitive science reviews describe approaches such as dual coding, worked examples, scaffolding and managing cognitive load as ways to support knowledge acquisition and retention, while also warning that classroom application needs care rather than [slogans]({{ 'slogans/' | relative_url }}). <span class="citation-chip-wrap"><a class="citation-chip" href="https://d2tic4wvo1iusb.cloudfront.net/documents/guidance/Cognitive_science_approaches_in_the_classroom_-_A_review_of_the_evidence.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: d2tic4wvo1iusb.cloudfront.net">[CloudFront]</a><span class="citation-popover" role="note"><span class="citation-popover-source">d2tic4wvo1iusb.cloudfront.net</span><span class="citation-popover-title">Cloud Front Cognitive science approaches in the classroom</span><span class="citation-popover-snippet">Cloud Front Cognitive science approaches in the classroom</span></span></span>
+**Use multiple representations because the content benefits, not because pupils belong to types.** A diagram can clarify a process; a spoken explanation can guide attention; a physical model can make an abstract relationship concrete; writing can consolidate thought. The point is to choose representations that illuminate the idea, then help all students connect them. Cognitive science reviews describe approaches such as dual coding, worked examples, scaffolding and managing cognitive load as ways to support knowledge acquisition and retention, while also warning that classroom application needs care rather than [slogans]({{ 'slogans/' | relative_url }}).<span class="citation-chip-wrap"><a class="citation-chip" href="https://d2tic4wvo1iusb.cloudfront.net/documents/guidance/Cognitive_science_approaches_in_the_classroom_-_A_review_of_the_evidence.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: d2tic4wvo1iusb.cloudfront.net">[CloudFront]</a><span class="citation-popover" role="note"><span class="citation-popover-source">d2tic4wvo1iusb.cloudfront.net</span><span class="citation-popover-title">Cloud Front Cognitive science approaches in the classroom</span><span class="citation-popover-snippet">Cloud Front Cognitive science approaches in the classroom</span></span></span>
 
-**Teach students how to study, not just what their preferences are.** Metacognition and self-regulation ask students to plan, monitor and evaluate their learning. Instead of “I am a visual learner”, the question becomes “What strategy fits this task, and how will I know whether it worked?” The EEF describes metacognition and self-regulation as supported by a strong body of research and as a high-impact, low-cost approach when taught explicitly and well. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://educationendowmentfoundation.org.uk/education-evidence/evidence-reviews/cognitive-science-approaches-in-the-classroom" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: educationendowmentfoundation.org.uk">[EEF]</a><span class="citation-popover" role="note"><span class="citation-popover-source">educationendowmentfoundation.org.uk</span><span class="citation-popover-title">cognitive science approaches in the classroom</span><span class="citation-popover-snippet">cognitive science approaches in the classroom</span></span></span>
+**Teach students how to study, not just what their preferences are.** Metacognition and self-regulation ask students to plan, monitor and evaluate their learning. Instead of “I am a visual learner”, the question becomes “What strategy fits this task, and how will I know whether it worked?” The EEF describes metacognition and self-regulation as supported by a strong body of research and as a high-impact, low-cost approach when taught explicitly and well.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://educationendowmentfoundation.org.uk/education-evidence/evidence-reviews/cognitive-science-approaches-in-the-classroom" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: educationendowmentfoundation.org.uk">[EEF]</a><span class="citation-popover" role="note"><span class="citation-popover-source">educationendowmentfoundation.org.uk</span><span class="citation-popover-title">cognitive science approaches in the classroom</span><span class="citation-popover-snippet">cognitive science approaches in the classroom</span></span></span>
 
-**Build retrieval into lessons.** Retrieval practice means asking students to bring information back from memory, not simply reread or rewatch it. Low-stakes quizzes, short written recalls, flashcards, cumulative questioning and “brain dumps” can help students strengthen memory and reveal gaps. Research reviews and practice guides describe retrieval as a robust learning strategy across many settings, though it still needs good feedback and alignment with learning goals. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4786565/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+**Build retrieval into lessons.** Retrieval practice means asking students to bring information back from memory, not simply reread or rewatch it. Low-stakes quizzes, short written recalls, flashcards, cumulative questioning and “brain dumps” can help students strengthen memory and reveal gaps. Research reviews and practice guides describe retrieval as a robust learning strategy across many settings, though it still needs good feedback and alignment with learning goals.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4786565/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 **Respond to actual evidence of learning.** The most useful classroom data are not style inventories but student work, explanations, questions, misconceptions and performance over time. A pupil who cannot solve equations may need prerequisite knowledge, clearer modelling, guided practice or feedback on a specific misconception. A pupil who cannot remember [key terms]({{ 'key-terms/' | relative_url }}) may need spaced retrieval. A pupil who appears disengaged may need relevance, confidence, routines or success experiences. None of these responses requires a fixed style label.
 
@@ -585,194 +585,194 @@ The weaker version of learning styles — “students like different things” �
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Gm9O6QMNppE" title="The Myth of Learning Styles" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Gm9O6QMNppE" target="_blank" rel="noopener noreferrer">The Myth of Learning Styles</a></p><p class="youtube-embed-meta">Channel: John Kellogg &middot; Views: 4.1K &middot; Uploaded: January 2019 &middot; Length: 7 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Gm9O6QMNppE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Gm9O6QMNppE">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Do Learning Styles Really Improve Learning?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Do Learning Styles Really Improve Learning?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Why+Don%27t+Students+Like+School%3F+by+Daniel+T.+Willingham&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Why Don&#x27;t Students Like School? on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=kuEmEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Why Don&#x27;t Students Like School?" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Why+Don%27t+Students+Like+School%3F+by+Daniel+T.+Willingham&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Why Don&#x27;t Students Like School?">Why Don&#x27;t Students Like School?</a>
-        </h4>
-        <p class="fr-book-author">By Daniel T. Willingham</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Why+Don%27t+Students+Like+School%3F+by+Daniel+T.+Willingham&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Why Don&#x27;t Students Like School? on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=kuEmEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Why Don&#x27;t Students Like School?" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Why+Don%27t+Students+Like+School%3F+by+Daniel+T.+Willingham&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Why Don&#x27;t Students Like School?">Why Don&#x27;t Students Like School?</a>
+</h4>
+<p class="fr-book-author">By Daniel T. Willingham</p>
         
-        <p class="fr-book-desc">Directly critiques learning styles and explains cognitive science.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Why+Don%27t+Students+Like+School%3F+by+Daniel+T.+Willingham&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly critiques learning styles and explains cognitive science.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Why+Don%27t+Students+Like+School%3F+by+Daniel+T.+Willingham&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Make It Stick on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fpAXEQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Make It Stick" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Make It Stick">Make It Stick</a>
-        </h4>
-        <p class="fr-book-author">By Peter C. Brown, Henry L. Roediger III et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Make It Stick on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fpAXEQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Make It Stick" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Make It Stick">Make It Stick</a>
+</h4>
+<p class="fr-book-author">By Peter C. Brown, Henry L. Roediger III et al.</p>
         
-        <p class="fr-book-desc">Offers evidence-based alternatives to learning-style thinking.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Offers evidence-based alternatives to learning-style thinking.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Seven+Myths+about+Education&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Seven Myths about Education on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/13290314-M.jpg" alt="Cover for Seven Myths about Education" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Seven+Myths+about+Education&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Seven Myths about Education">Seven Myths about Education</a>
-        </h4>
-        <p class="fr-book-author">By Unknown author</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Seven+Myths+about+Education&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Seven Myths about Education on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/13290314-M.jpg" alt="Cover for Seven Myths about Education" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Seven+Myths+about+Education&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Seven Myths about Education">Seven Myths about Education</a>
+</h4>
+<p class="fr-book-author">By Unknown author</p>
         
-        <p class="fr-book-desc">Challenges widespread but unsupported educational beliefs.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Seven+Myths+about+Education&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Challenges widespread but unsupported educational beliefs.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Seven+Myths+about+Education&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Visible+Learning+for+Teachers+by+John+Hattie&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Visible Learning for Teachers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=vSoUT6PXdoIC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Visible Learning for Teachers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Visible+Learning+for+Teachers+by+John+Hattie&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Visible Learning for Teachers">Visible Learning for Teachers</a>
-        </h4>
-        <p class="fr-book-author">By John Hattie</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Visible+Learning+for+Teachers+by+John+Hattie&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Visible Learning for Teachers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=vSoUT6PXdoIC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Visible Learning for Teachers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Visible+Learning+for+Teachers+by+John+Hattie&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Visible Learning for Teachers">Visible Learning for Teachers</a>
+</h4>
+<p class="fr-book-author">By John Hattie</p>
         
-        <p class="fr-book-desc">Focuses on evidence-backed influences on achievement.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Visible+Learning+for+Teachers+by+John+Hattie&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on evidence-backed influences on achievement.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Visible+Learning+for+Teachers+by+John+Hattie&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Why+Don%27t+Students+Like+School%3F&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Why Don&#x27;t Students Like School?</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Make+It+Stick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Make It Stick</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Seven+Myths+about+Education&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Seven Myths about Education</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Why+Don%27t+Students+Like+School%3F&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Why Don&#x27;t Students Like School?</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Make+It+Stick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Make It Stick</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Seven+Myths+about+Education&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Seven Myths about Education</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=learning+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=learning-styles-do-learning-styles-really-improve-learning-myths-and-misconcept-learning-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="learning poster" data-ebay-reference="learning-styles-do-learning-styles-really-improve-learning-myths-and-misconcept-learning-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for A3 learning posters. 10 piece. brand new in pack"><img src="{{ '/assets/images/marketplace-covers/9b8b7a9d86ee32c98b90.jpg' | relative_url }}" alt="Listing image for A3 learning posters. 10 piece. brand new in pack" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=learning+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=learning-styles-do-learning-styles-really-improve-learning-myths-and-misconcept-learning-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="learning poster" data-ebay-reference="learning-styles-do-learning-styles-really-improve-learning-myths-and-misconcept-learning-poster" target="_blank" rel="sponsored noopener noreferrer">A3 learning posters. 10 piece. brand new in pack</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=learning+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=learning-styles-do-learning-styles-really-improve-learning-myths-and-misconcept-learning-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="learning poster" data-ebay-reference="learning-styles-do-learning-styles-really-improve-learning-myths-and-misconcept-learning-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for learning poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: learning poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=learning+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=learning-styles-do-learning-styles-really-improve-learning-myths-and-misconcept-learning-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="learning poster" data-ebay-reference="learning-styles-do-learning-styles-really-improve-learning-myths-and-misconcept-learning-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=learning+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=learning-styles-do-learning-styles-really-improve-learning-myths-and-misconcept-learning-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="learning poster" data-ebay-reference="learning-styles-do-learning-styles-really-improve-learning-myths-and-misconcept-learning-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for A3 learning posters. 10 piece. brand new in pack"><img src="{{ '/assets/images/marketplace-covers/9b8b7a9d86ee32c98b90.jpg' | relative_url }}" alt="Listing image for A3 learning posters. 10 piece. brand new in pack" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=learning+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=learning-styles-do-learning-styles-really-improve-learning-myths-and-misconcept-learning-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="learning poster" data-ebay-reference="learning-styles-do-learning-styles-really-improve-learning-myths-and-misconcept-learning-poster" target="_blank" rel="sponsored noopener noreferrer">A3 learning posters. 10 piece. brand new in pack</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=learning+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=learning-styles-do-learning-styles-really-improve-learning-myths-and-misconcept-learning-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="learning poster" data-ebay-reference="learning-styles-do-learning-styles-really-improve-learning-myths-and-misconcept-learning-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for learning poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: learning poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=learning+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=learning-styles-do-learning-styles-really-improve-learning-myths-and-misconcept-learning-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="learning poster" data-ebay-reference="learning-styles-do-learning-styles-really-improve-learning-myths-and-misconcept-learning-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=learning+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=learning-styles-do-learning-styles-really-improve-learning-myths-and-misconcept-learning-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="learning poster" data-ebay-reference="learning-styles-do-learning-styles-really-improve-learning-myths-and-misconcept-learning-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Electronic ABC Learning Wall Chart Talking Alphabet 123 Educational Poster Large"><img src="{{ '/assets/images/marketplace-covers/8d54b8a1e09ac57a8c0b.jpg' | relative_url }}" alt="Listing image for Electronic ABC Learning Wall Chart Talking Alphabet 123 Educational Poster Large" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=learning+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=learning-styles-do-learning-styles-really-improve-learning-myths-and-misconcept-learning-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="learning poster" data-ebay-reference="learning-styles-do-learning-styles-really-improve-learning-myths-and-misconcept-learning-poster" target="_blank" rel="sponsored noopener noreferrer">Electronic ABC Learning Wall Chart Talking Alphabet 123 Educational Poster Large</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=learning+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=learning-styles-do-learning-styles-really-improve-learning-myths-and-misconcept-learning-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="learning poster" data-ebay-reference="learning-styles-do-learning-styles-really-improve-learning-myths-and-misconcept-learning-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for learning poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: learning poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=learning+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=learning-styles-do-learning-styles-really-improve-learning-myths-and-misconcept-learning-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="learning poster" data-ebay-reference="learning-styles-do-learning-styles-really-improve-learning-myths-and-misconcept-learning-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=learning+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=learning-styles-do-learning-styles-really-improve-learning-myths-and-misconcept-learning-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="learning poster" data-ebay-reference="learning-styles-do-learning-styles-really-improve-learning-myths-and-misconcept-learning-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Electronic ABC Learning Wall Chart Talking Alphabet 123 Educational Poster Large"><img src="{{ '/assets/images/marketplace-covers/8d54b8a1e09ac57a8c0b.jpg' | relative_url }}" alt="Listing image for Electronic ABC Learning Wall Chart Talking Alphabet 123 Educational Poster Large" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=learning+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=learning-styles-do-learning-styles-really-improve-learning-myths-and-misconcept-learning-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="learning poster" data-ebay-reference="learning-styles-do-learning-styles-really-improve-learning-myths-and-misconcept-learning-poster" target="_blank" rel="sponsored noopener noreferrer">Electronic ABC Learning Wall Chart Talking Alphabet 123 Educational Poster Large</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=learning+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=learning-styles-do-learning-styles-really-improve-learning-myths-and-misconcept-learning-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="learning poster" data-ebay-reference="learning-styles-do-learning-styles-really-improve-learning-myths-and-misconcept-learning-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for learning poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: learning poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=learning+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=learning-styles-do-learning-styles-really-improve-learning-myths-and-misconcept-learning-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="learning poster" data-ebay-reference="learning-styles-do-learning-styles-really-improve-learning-myths-and-misconcept-learning-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=learning+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=learning-styles-do-learning-styles-really-improve-learning-myths-and-misconcept-learning-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="learning poster" data-ebay-reference="learning-styles-do-learning-styles-really-improve-learning-myths-and-misconcept-learning-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Interactive Alphabet Wall Chart Talking ABC Electronic Poster Toy Learning Presc"><img src="{{ '/assets/images/marketplace-covers/ffeaaa386decd67bce71.jpg' | relative_url }}" alt="Listing image for Interactive Alphabet Wall Chart Talking ABC Electronic Poster Toy Learning Presc" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=learning+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=learning-styles-do-learning-styles-really-improve-learning-myths-and-misconcept-learning-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="learning poster" data-ebay-reference="learning-styles-do-learning-styles-really-improve-learning-myths-and-misconcept-learning-poster" target="_blank" rel="sponsored noopener noreferrer">Interactive Alphabet Wall Chart Talking ABC Electronic Poster Toy Learning Presc</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=learning+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=learning-styles-do-learning-styles-really-improve-learning-myths-and-misconcept-learning-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="learning poster" data-ebay-reference="learning-styles-do-learning-styles-really-improve-learning-myths-and-misconcept-learning-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for learning poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: learning poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=learning+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=learning-styles-do-learning-styles-really-improve-learning-myths-and-misconcept-learning-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="learning poster" data-ebay-reference="learning-styles-do-learning-styles-really-improve-learning-myths-and-misconcept-learning-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=learning+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=learning-styles-do-learning-styles-really-improve-learning-myths-and-misconcept-learning-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="learning poster" data-ebay-reference="learning-styles-do-learning-styles-really-improve-learning-myths-and-misconcept-learning-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Interactive Alphabet Wall Chart Talking ABC Electronic Poster Toy Learning Presc"><img src="{{ '/assets/images/marketplace-covers/ffeaaa386decd67bce71.jpg' | relative_url }}" alt="Listing image for Interactive Alphabet Wall Chart Talking ABC Electronic Poster Toy Learning Presc" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=learning+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=learning-styles-do-learning-styles-really-improve-learning-myths-and-misconcept-learning-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="learning poster" data-ebay-reference="learning-styles-do-learning-styles-really-improve-learning-myths-and-misconcept-learning-poster" target="_blank" rel="sponsored noopener noreferrer">Interactive Alphabet Wall Chart Talking ABC Electronic Poster Toy Learning Presc</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=learning+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=learning-styles-do-learning-styles-really-improve-learning-myths-and-misconcept-learning-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="learning poster" data-ebay-reference="learning-styles-do-learning-styles-really-improve-learning-myths-and-misconcept-learning-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for learning poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: learning poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=learning+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=learning-styles-do-learning-styles-really-improve-learning-myths-and-misconcept-learning-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="learning poster" data-ebay-reference="learning-styles-do-learning-styles-really-improve-learning-myths-and-misconcept-learning-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=learning+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=learning-styles-do-learning-styles-really-improve-learning-myths-and-misconcept-learning-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="learning poster" data-ebay-reference="learning-styles-do-learning-styles-really-improve-learning-myths-and-misconcept-learning-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Electronic ABC Learning Wall Chart Talking Alphabet 123 Educational Poster Large"><img src="{{ '/assets/images/marketplace-covers/3259f2ba352e7ddb7113.jpg' | relative_url }}" alt="Listing image for Electronic ABC Learning Wall Chart Talking Alphabet 123 Educational Poster Large" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=learning+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=learning-styles-do-learning-styles-really-improve-learning-myths-and-misconcept-learning-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="learning poster" data-ebay-reference="learning-styles-do-learning-styles-really-improve-learning-myths-and-misconcept-learning-poster" target="_blank" rel="sponsored noopener noreferrer">Electronic ABC Learning Wall Chart Talking Alphabet 123 Educational Poster Large</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=learning+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=learning-styles-do-learning-styles-really-improve-learning-myths-and-misconcept-learning-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="learning poster" data-ebay-reference="learning-styles-do-learning-styles-really-improve-learning-myths-and-misconcept-learning-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for learning poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: learning poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=learning+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=learning-styles-do-learning-styles-really-improve-learning-myths-and-misconcept-learning-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="learning poster" data-ebay-reference="learning-styles-do-learning-styles-really-improve-learning-myths-and-misconcept-learning-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=learning+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=learning-styles-do-learning-styles-really-improve-learning-myths-and-misconcept-learning-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="learning poster" data-ebay-reference="learning-styles-do-learning-styles-really-improve-learning-myths-and-misconcept-learning-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=learning+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=learning-styles-do-learning-styles-really-improve-learning-myths-and-misconcept-learning-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="learning poster" data-ebay-reference="learning-styles-do-learning-styles-really-improve-learning-myths-and-misconcept-learning-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Electronic ABC Learning Wall Chart Talking Alphabet 123 Educational Poster Large"><img src="{{ '/assets/images/marketplace-covers/3259f2ba352e7ddb7113.jpg' | relative_url }}" alt="Listing image for Electronic ABC Learning Wall Chart Talking Alphabet 123 Educational Poster Large" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=learning+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=learning-styles-do-learning-styles-really-improve-learning-myths-and-misconcept-learning-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="learning poster" data-ebay-reference="learning-styles-do-learning-styles-really-improve-learning-myths-and-misconcept-learning-poster" target="_blank" rel="sponsored noopener noreferrer">Electronic ABC Learning Wall Chart Talking Alphabet 123 Educational Poster Large</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=learning+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=learning-styles-do-learning-styles-really-improve-learning-myths-and-misconcept-learning-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="learning poster" data-ebay-reference="learning-styles-do-learning-styles-really-improve-learning-myths-and-misconcept-learning-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for learning poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: learning poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=learning+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=learning-styles-do-learning-styles-really-improve-learning-myths-and-misconcept-learning-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="learning poster" data-ebay-reference="learning-styles-do-learning-styles-really-improve-learning-myths-and-misconcept-learning-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=learning+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=learning-styles-do-learning-styles-really-improve-learning-myths-and-misconcept-learning-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="learning poster" data-ebay-reference="learning-styles-do-learning-styles-really-improve-learning-myths-and-misconcept-learning-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -788,7 +788,7 @@ The weaker version of learning styles — “students like different things” �
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -808,7 +808,7 @@ The weaker version of learning styles — “students like different things” �
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -840,7 +840,7 @@ The weaker version of learning styles — “students like different things” �
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -892,7 +892,7 @@ The weaker version of learning styles — “students like different things” �
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -937,7 +937,7 @@ The weaker version of learning styles — “students like different things” �
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -978,120 +978,120 @@ The weaker version of learning styles — “students like different things” �
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: educationendowmentfoundation.org.uk  
-   Link: <a href="https://educationendowmentfoundation.org.uk/education-evidence/teaching-learning-toolkit/learning-styles" target="_blank" rel="noopener noreferrer nofollow">https://educationendowmentfoundation.org.uk/education-evidence/teaching-learning-toolkit/learning-styles</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>the learning needs of young people. Instead...Read more...</p></details>
+   Link:<a href="https://educationendowmentfoundation.org.uk/education-evidence/teaching-learning-toolkit/learning-styles" target="_blank" rel="noopener noreferrer nofollow">https://educationendowmentfoundation.org.uk/education-evidence/teaching-learning-toolkit/learning-styles</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>the learning needs of young people. Instead...Read more...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: bjorklab.psych.ucla.edu  
    Title: Pashler McDaniel Rohrer Bjork 2009 PSPI  
-   Link: <a href="https://bjorklab.psych.ucla.edu/wp-content/uploads/sites/13/2016/07/Pashler_McDaniel_Rohrer_Bjork_2009_PSPI.pdf" target="_blank" rel="noopener noreferrer nofollow">https://bjorklab.psych.ucla.edu/wp-content/uploads/sites/13/2016/07/Pashler_McDaniel_Rohrer_Bjork_2009_PSPI.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Learning Stylesby H Pashler · Cited by 5022 — Note that the learning-styles hypothesis, as defined here, could be true without the meshin...</p></details>
+   Link:<a href="https://bjorklab.psych.ucla.edu/wp-content/uploads/sites/13/2016/07/Pashler_McDaniel_Rohrer_Bjork_2009_PSPI.pdf" target="_blank" rel="noopener noreferrer nofollow">https://bjorklab.psych.ucla.edu/wp-content/uploads/sites/13/2016/07/Pashler_McDaniel_Rohrer_Bjork_2009_PSPI.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Learning Stylesby H Pashler · Cited by 5022 — Note that the learning-styles hypothesis, as defined here, could be true without the meshin...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: nature.com  
    Title: At the end of the survey, this study also included two open-ended exploratory  
-   Link: <a href="https://www.nature.com/articles/s41539-023-00190-x" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41539-023-00190-x</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Beware the myth: learning styles affect parents&#x27;, children&#x27;s...by X Sun · 2023 · Cited by 31 — All parents and 85.1% of teachers b...</p></details>
+   Link:<a href="https://www.nature.com/articles/s41539-023-00190-x" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41539-023-00190-x</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Beware the myth: learning styles affect parents&#x27;, children&#x27;s...by X Sun · 2023 · Cited by 31 — All parents and 85.1% of teachers b...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: voced.edu.au  
-   Link: <a href="https://www.voced.edu.au/content/ngv%3A13692?ref=brainscape-academy" target="_blank" rel="noopener noreferrer nofollow">https://www.voced.edu.au/content/ngv%3A13692?ref=brainscape-academy</a>  
+   Link:<a href="https://www.voced.edu.au/content/ngv%3A13692?ref=brainscape-academy" target="_blank" rel="noopener noreferrer nofollow">https://www.voced.edu.au/content/ngv%3A13692?ref=brainscape-academy</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: d2tic4wvo1iusb.cloudfront.net  
    Title: Cloud Front Cognitive science approaches in the classroom  
-   Link: <a href="https://d2tic4wvo1iusb.cloudfront.net/documents/guidance/Cognitive_science_approaches_in_the_classroom_-_A_review_of_the_evidence.pdf" target="_blank" rel="noopener noreferrer nofollow">https://d2tic4wvo1iusb.cloudfront.net/documents/guidance/Cognitive_science_approaches_in_the_classroom_-_A_review_of_the_evidence.pdf</a>  
+   Link:<a href="https://d2tic4wvo1iusb.cloudfront.net/documents/guidance/Cognitive_science_approaches_in_the_classroom_-_A_review_of_the_evidence.pdf" target="_blank" rel="noopener noreferrer nofollow">https://d2tic4wvo1iusb.cloudfront.net/documents/guidance/Cognitive_science_approaches_in_the_classroom_-_A_review_of_the_evidence.pdf</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: educationendowmentfoundation.org.uk  
    Title: cognitive science approaches in the classroom  
-   Link: <a href="https://educationendowmentfoundation.org.uk/education-evidence/evidence-reviews/cognitive-science-approaches-in-the-classroom" target="_blank" rel="noopener noreferrer nofollow">https://educationendowmentfoundation.org.uk/education-evidence/evidence-reviews/cognitive-science-approaches-in-the-classroom</a>  
+   Link:<a href="https://educationendowmentfoundation.org.uk/education-evidence/evidence-reviews/cognitive-science-approaches-in-the-classroom" target="_blank" rel="noopener noreferrer nofollow">https://educationendowmentfoundation.org.uk/education-evidence/evidence-reviews/cognitive-science-approaches-in-the-classroom</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: educationendowmentfoundation.org.uk  
-   Link: <a href="https://educationendowmentfoundation.org.uk/education-evidence/guidance-reports/metacognition" target="_blank" rel="noopener noreferrer nofollow">https://educationendowmentfoundation.org.uk/education-evidence/guidance-reports/metacognition</a>  
+   Link:<a href="https://educationendowmentfoundation.org.uk/education-evidence/guidance-reports/metacognition" target="_blank" rel="noopener noreferrer nofollow">https://educationendowmentfoundation.org.uk/education-evidence/guidance-reports/metacognition</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: d2tic4wvo1iusb.cloudfront.net  
    Title: Cloud Front Metacognition and Self-Regulated Learning  
-   Link: <a href="https://d2tic4wvo1iusb.cloudfront.net/production/eef-guidance-reports/metacognition/metacognition-and-self-regulated-learning_guidance-report.v.2.4.0.pdf" target="_blank" rel="noopener noreferrer nofollow">https://d2tic4wvo1iusb.cloudfront.net/production/eef-guidance-reports/metacognition/metacognition-and-self-regulated-learning_guidance-report.v.2.4.0.pdf</a>  
+   Link:<a href="https://d2tic4wvo1iusb.cloudfront.net/production/eef-guidance-reports/metacognition/metacognition-and-self-regulated-learning_guidance-report.v.2.4.0.pdf" target="_blank" rel="noopener noreferrer nofollow">https://d2tic4wvo1iusb.cloudfront.net/production/eef-guidance-reports/metacognition/metacognition-and-self-regulated-learning_guidance-report.v.2.4.0.pdf</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4786565/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4786565/</a>  
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4786565/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4786565/</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: youtube.com  
    Title: Learning Styles  
-   Link: <a href="https://www.youtube.com/watch?v=_bWueJub_eU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=_bWueJub_eU</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Good Thinking! — Sending &quot;Learning Styles&quot; Out of Style...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=_bWueJub_eU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=_bWueJub_eU</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Good Thinking! — Sending &quot;Learning Styles&quot; Out of Style...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/32116958/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/32116958/</a>  
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/32116958/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/32116958/</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: apa.org  
    Title: learning styles myth  
-   Link: <a href="https://www.apa.org/news/press/releases/2019/05/learning-styles-myth" target="_blank" rel="noopener noreferrer nofollow">https://www.apa.org/news/press/releases/2019/05/learning-styles-myth</a>  
+   Link:<a href="https://www.apa.org/news/press/releases/2019/05/learning-styles-myth" target="_blank" rel="noopener noreferrer nofollow">https://www.apa.org/news/press/releases/2019/05/learning-styles-myth</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: structural-learning.com  
    Title: learning styles  
-   Link: <a href="https://www.structural-learning.com/post/learning-styles" target="_blank" rel="noopener noreferrer nofollow">https://www.structural-learning.com/post/learning-styles</a>  
+   Link:<a href="https://www.structural-learning.com/post/learning-styles" target="_blank" rel="noopener noreferrer nofollow">https://www.structural-learning.com/post/learning-styles</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: saffronteachingschoolhub.net  
    Title: Metacognition and self-regulation  
-   Link: <a href="https://www.saffronteachingschoolhub.net/attachments/download.asp?file=114&amp;type=pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.saffronteachingschoolhub.net/attachments/download.asp?file=114&amp;type=pdf</a>  
+   Link:<a href="https://www.saffronteachingschoolhub.net/attachments/download.asp?file=114&amp;type=pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.saffronteachingschoolhub.net/attachments/download.asp?file=114&amp;type=pdf</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: Wikipedia  
    Title: Learning styles  
-   Link: <a href="https://en.wikipedia.org/wiki/Learning_styles" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Learning_styles</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Learning_styles" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Learning_styles</a>  
 
 ### Additional References
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: link.springer.com  
    Title: Learning Styles, Preferences, or Strategies?  
-   Link: <a href="https://link.springer.com/article/10.1007/s10648-025-10002-w" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1007/s10648-025-10002-w</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>An Explanation...by J Hattie · 2025 · Cited by 75 — This paper examines the resurgence of learning styles across meta-analyses and propo...</p></details>
+   Link:<a href="https://link.springer.com/article/10.1007/s10648-025-10002-w" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1007/s10648-025-10002-w</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>An Explanation...by J Hattie · 2025 · Cited by 75 — This paper examines the resurgence of learning styles across meta-analyses and propo...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/232929341_Learning_styles_and_pedagogy_in_post_16_education_a_critical_and_systematic_review" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/232929341_Learning_styles_and_pedagogy_in_post_16_education_a_critical_and_systematic_review</a>  
+   Link:<a href="https://www.researchgate.net/publication/232929341_Learning_styles_and_pedagogy_in_post_16_education_a_critical_and_systematic_review" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/232929341_Learning_styles_and_pedagogy_in_post_16_education_a_critical_and_systematic_review</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: academia.edu  
-   Link: <a href="https://www.academia.edu/10608972/A_Critical_Analysis_of_Learning_Styles_and_Pedagogy_in_post_16_learning_A_systematic_and_critical_review_published_in_2004_by_Coffield_F_Moseley_D_Hall_E_and_Ecclestone_K" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/10608972/A_Critical_Analysis_of_Learning_Styles_and_Pedagogy_in_post_16_learning_A_systematic_and_critical_review_published_in_2004_by_Coffield_F_Moseley_D_Hall_E_and_Ecclestone_K</a>  
+   Link:<a href="https://www.academia.edu/10608972/A_Critical_Analysis_of_Learning_Styles_and_Pedagogy_in_post_16_learning_A_systematic_and_critical_review_published_in_2004_by_Coffield_F_Moseley_D_Hall_E_and_Ecclestone_K" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/10608972/A_Critical_Analysis_of_Learning_Styles_and_Pedagogy_in_post_16_learning_A_systematic_and_critical_review_published_in_2004_by_Coffield_F_Moseley_D_Hall_E_and_Ecclestone_K</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/374794202_Beware_the_myth_learning_styles_affect_parents%27_children%27s_and_teachers%27_thinking_about_children%27s_academic_potential" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/374794202_Beware_the_myth_learning_styles_affect_parents%27_children%27s_and_teachers%27_thinking_about_children%27s_academic_potential</a>  
+   Link:<a href="https://www.researchgate.net/publication/374794202_Beware_the_myth_learning_styles_affect_parents%27_children%27s_and_teachers%27_thinking_about_children%27s_academic_potential" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/374794202_Beware_the_myth_learning_styles_affect_parents%27_children%27s_and_teachers%27_thinking_about_children%27s_academic_potential</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: structural-learning.com  
-   Link: <a href="https://www.structural-learning.com/post/eef-teaching-learning-toolkit-guide" target="_blank" rel="noopener noreferrer nofollow">https://www.structural-learning.com/post/eef-teaching-learning-toolkit-guide</a>  
+   Link:<a href="https://www.structural-learning.com/post/eef-teaching-learning-toolkit-guide" target="_blank" rel="noopener noreferrer nofollow">https://www.structural-learning.com/post/eef-teaching-learning-toolkit-guide</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: scribd.com  
-   Link: <a href="https://www.scribd.com/document/479826337/Retrieval-Practice-presentation" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/479826337/Retrieval-Practice-presentation</a>  
+   Link:<a href="https://www.scribd.com/document/479826337/Retrieval-Practice-presentation" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/479826337/Retrieval-Practice-presentation</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: leerbeleving.nl  
-   Link: <a href="https://www.leerbeleving.nl/wp-content/uploads/2011/09/learning-styles.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.leerbeleving.nl/wp-content/uploads/2011/09/learning-styles.pdf</a>  
+   Link:<a href="https://www.leerbeleving.nl/wp-content/uploads/2011/09/learning-styles.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.leerbeleving.nl/wp-content/uploads/2011/09/learning-styles.pdf</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/australianprimaryteachers/posts/2798822343751981/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/australianprimaryteachers/posts/2798822343751981/</a>  
+   Link:<a href="https://www.facebook.com/groups/australianprimaryteachers/posts/2798822343751981/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/australianprimaryteachers/posts/2798822343751981/</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/100057794222624/posts/learning-styles-have-been-disproven-by-research-they-do-not-exist/1294359929167136/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/100057794222624/posts/learning-styles-have-been-disproven-by-research-they-do-not-exist/1294359929167136/</a>  
+   Link:<a href="https://www.facebook.com/100057794222624/posts/learning-styles-have-been-disproven-by-research-they-do-not-exist/1294359929167136/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/100057794222624/posts/learning-styles-have-been-disproven-by-research-they-do-not-exist/1294359929167136/</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/270940278_Matching_Learning_Style_to_Instructional_Method_Effects_on_Comprehension" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/270940278_Matching_Learning_Style_to_Instructional_Method_Effects_on_Comprehension</a>
+   Link:<a href="https://www.researchgate.net/publication/270940278_Matching_Learning_Style_to_Instructional_Method_Effects_on_Comprehension" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/270940278_Matching_Learning_Style_to_Instructional_Method_Effects_on_Comprehension</a>

@@ -271,7 +271,7 @@ image: /assets/images/Myths_and_misconcept_0d48d7_conceptual_change_le_bdc9ae_re
 Correcting a science misconception is rarely a matter of swapping one sentence for another. Students often abandon a wrong answer during a lesson, only to return to it later when they face a diagram, prediction task or unfamiliar example. The reason is simple: the original idea was doing explanatory work. It helped the learner make sense of the world. Unless teaching provides a replacement explanation that works better, the old model remains available and often reappears.
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_conceptual_change_le_bdc9ae_replacement_explanat_bc9380-Illustration-1-dark.svg" | relative_url }}" alt="Replacement illustration 1" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_conceptual_change_le_bdc9ae_replacement_explanat_bc9380-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_conceptual_change_le_bdc9ae_replacement_explanat_bc9380-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-Research on conceptual change has repeatedly shown that learners do not simply store scientific facts alongside existing beliefs. They interpret new information through what they already think they know. For a [correction]({{ 'correction/' | relative_url }}) to last, the new explanation must become more useful than the old one: clearer, more convincing and more powerful across different situations. Posner and colleagues famously argued that successful conceptual change depends on learners finding a new conception intelligible, plausible and fruitful. <span class="citation-chip-wrap"><a class="citation-chip" href="https://eclass.uoa.gr/modules/document/file.php/PHS122/%CE%91%CF%81%CE%B8%CF%81%CE%B1/Posner_Strike_Hewson_Gertzog.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eclass.uoa.gr">[eClass UOA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eclass.uoa.gr</span><span class="citation-popover-title">Usually scientific work is done</span><span class="citation-popover-snippet">Accommodation of a scientific conception: Toward a theory...August 22, 2006 — by GJ POSNER · Cited by 10835 — Contemporary vie...</span><span class="citation-popover-meta">Published: August 22, 2006</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ejmste.com/download/an-overview-of-conceptual-changetheories-4082.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ejmste.com">[Eurasia Journal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ejmste.com</span><span class="citation-popover-title">an overview of conceptual changetheories 4082</span><span class="citation-popover-snippet">Posner et al. (1982), the scientific conception must also be intelligible, plausible, and fruitful for successful conceptual change to occur...</span></span></span>
+Research on conceptual change has repeatedly shown that learners do not simply store scientific facts alongside existing beliefs. They interpret new information through what they already think they know. For a [correction]({{ 'correction/' | relative_url }}) to last, the new explanation must become more useful than the old one: clearer, more convincing and more powerful across different situations. Posner and colleagues famously argued that successful conceptual change depends on learners finding a new conception intelligible, plausible and fruitful.<span class="citation-chip-wrap"><a class="citation-chip" href="https://eclass.uoa.gr/modules/document/file.php/PHS122/%CE%91%CF%81%CE%B8%CF%81%CE%B1/Posner_Strike_Hewson_Gertzog.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eclass.uoa.gr">[eClass UOA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eclass.uoa.gr</span><span class="citation-popover-title">Usually scientific work is done</span><span class="citation-popover-snippet">Accommodation of a scientific conception: Toward a theory...August 22, 2006 — by GJ POSNER · Cited by 10835 — Contemporary vie...</span><span class="citation-popover-meta">Published: August 22, 2006</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ejmste.com/download/an-overview-of-conceptual-changetheories-4082.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ejmste.com">[Eurasia Journal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ejmste.com</span><span class="citation-popover-title">an overview of conceptual changetheories 4082</span><span class="citation-popover-snippet">Posner et al. (1982), the scientific conception must also be intelligible, plausible, and fruitful for successful conceptual change to occur...</span></span></span>
 
 ## Why Corrections Need Better Explanations
 
@@ -279,9 +279,9 @@ Many misconceptions survive because they explain something real, even if the exp
 
 A student who believes heavier objects fall faster is trying to account for everyday observations. A stone does seem to reach the ground before a feather. Simply stating that all objects accelerate equally under gravity leaves an explanatory gap. The learner still has a working story for what they see and no equally usable replacement for interpreting the world.
 
-Conceptual change research has consistently found that learners evaluate new ideas partly by whether those ideas help them make sense of problems. A scientific explanation must therefore do more than contradict an existing belief. It must offer a stronger way of understanding observations, predictions and relationships. Posner's framework describes this as fruitfulness: the new conception should help solve problems and generate successful explanations beyond the immediate lesson. Eurasia Journal <span class="citation-chip-wrap"><a class="citation-chip" href="https://eclass.uoa.gr/modules/document/file.php/PHS122/%CE%91%CF%81%CE%B8%CF%81%CE%B1/Posner_Strike_Hewson_Gertzog.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eclass.uoa.gr">[2eClass UOA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eclass.uoa.gr</span><span class="citation-popover-title">Usually scientific work is done</span><span class="citation-popover-snippet">Accommodation of a scientific conception: Toward a theory...August 22, 2006 — by GJ POSNER · Cited by 10835 — Contemporary vie...</span><span class="citation-popover-meta">Published: August 22, 2006</span></span></span>
+Conceptual change research has consistently found that learners evaluate new ideas partly by whether those ideas help them make sense of problems. A scientific explanation must therefore do more than contradict an existing belief. It must offer a stronger way of understanding observations, predictions and relationships. Posner's framework describes this as fruitfulness: the new conception should help solve problems and generate successful explanations beyond the immediate lesson. Eurasia Journal<span class="citation-chip-wrap"><a class="citation-chip" href="https://eclass.uoa.gr/modules/document/file.php/PHS122/%CE%91%CF%81%CE%B8%CF%81%CE%B1/Posner_Strike_Hewson_Gertzog.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eclass.uoa.gr">[2eClass UOA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eclass.uoa.gr</span><span class="citation-popover-title">Usually scientific work is done</span><span class="citation-popover-snippet">Accommodation of a scientific conception: Toward a theory...August 22, 2006 — by GJ POSNER · Cited by 10835 — Contemporary vie...</span><span class="citation-popover-meta">Published: August 22, 2006</span></span></span>
 
-This is why some [corrections]({{ 'corrections/' | relative_url }}) appear successful during assessment but disappear later. Students may memorise the accepted answer without adopting the underlying model. In effect, they possess two explanations at once: the school answer and the personal explanation. Depending on the context, they switch between them. Research has noted that learners can use scientific language in formal settings while reverting to intuitive beliefs in everyday reasoning. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ijiet.org/vol6/732-M04.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ijiet.org">[IJIET]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ijiet.org</span><span class="citation-popover-snippet">Analyzing with Posner&#x27;s Conceptual Change Model and...Therefore, how to enhance students&#x27; conceptual knowledge to the ―plausible‖ o...</span></span></span>
+This is why some [corrections]({{ 'corrections/' | relative_url }}) appear successful during assessment but disappear later. Students may memorise the accepted answer without adopting the underlying model. In effect, they possess two explanations at once: the school answer and the personal explanation. Depending on the context, they switch between them. Research has noted that learners can use scientific language in formal settings while reverting to intuitive beliefs in everyday reasoning.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ijiet.org/vol6/732-M04.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ijiet.org">[IJIET]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ijiet.org</span><span class="citation-popover-snippet">Analyzing with Posner&#x27;s Conceptual Change Model and...Therefore, how to enhance students&#x27; conceptual knowledge to the ―plausible‖ o...</span></span></span>
 
 The key implementation question is not whether students can repeat the correct statement. It is whether the new explanation has become their preferred tool for understanding phenomena.
 
@@ -303,7 +303,7 @@ A replacement explanation becomes stronger when students can use it repeatedly.
 
 For example, understanding electric current as a conserved flow rather than something "used up" in circuit components helps explain bulb brightness, parallel circuits, battery behaviour and current measurements. The new model becomes attractive because it solves a growing range of problems.
 
-Posner's description of a fruitful conception captures this point. Students are more likely to adopt an explanation when it proves useful beyond a single question or demonstration. Eurasia Journal <span class="citation-chip-wrap"><a class="citation-chip" href="https://eclass.uoa.gr/modules/document/file.php/PHS122/%CE%91%CF%81%CE%B8%CF%81%CE%B1/Posner_Strike_Hewson_Gertzog.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eclass.uoa.gr">[2eClass UOA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eclass.uoa.gr</span><span class="citation-popover-title">Usually scientific work is done</span><span class="citation-popover-snippet">Accommodation of a scientific conception: Toward a theory...August 22, 2006 — by GJ POSNER · Cited by 10835 — Contemporary vie...</span><span class="citation-popover-meta">Published: August 22, 2006</span></span></span>
+Posner's description of a fruitful conception captures this point. Students are more likely to adopt an explanation when it proves useful beyond a single question or demonstration. Eurasia Journal<span class="citation-chip-wrap"><a class="citation-chip" href="https://eclass.uoa.gr/modules/document/file.php/PHS122/%CE%91%CF%81%CE%B8%CF%81%CE%B1/Posner_Strike_Hewson_Gertzog.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eclass.uoa.gr">[2eClass UOA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eclass.uoa.gr</span><span class="citation-popover-title">Usually scientific work is done</span><span class="citation-popover-snippet">Accommodation of a scientific conception: Toward a theory...August 22, 2006 — by GJ POSNER · Cited by 10835 — Contemporary vie...</span><span class="citation-popover-meta">Published: August 22, 2006</span></span></span>
 
 ### It must fit a coherent network of ideas
 
@@ -311,7 +311,7 @@ Misconceptions rarely exist in isolation.
 
 A learner's ideas about force, motion and energy often support one another. Replacing a single belief may require showing how the new explanation connects with a broader scientific framework.
 
-Research on conceptual ecology emphasises that concepts sit within larger systems of beliefs and assumptions. A replacement explanation therefore succeeds more often when students can see how it links to other scientific ideas they already trust. Eurasia Journal <span class="citation-chip-wrap"><a class="citation-chip" href="https://eclass.uoa.gr/modules/document/file.php/PHS122/%CE%91%CF%81%CE%B8%CF%81%CE%B1/Posner_Strike_Hewson_Gertzog.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eclass.uoa.gr">[2eClass UOA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eclass.uoa.gr</span><span class="citation-popover-title">Usually scientific work is done</span><span class="citation-popover-snippet">Accommodation of a scientific conception: Toward a theory...August 22, 2006 — by GJ POSNER · Cited by 10835 — Contemporary vie...</span><span class="citation-popover-meta">Published: August 22, 2006</span></span></span>
+Research on conceptual ecology emphasises that concepts sit within larger systems of beliefs and assumptions. A replacement explanation therefore succeeds more often when students can see how it links to other scientific ideas they already trust. Eurasia Journal<span class="citation-chip-wrap"><a class="citation-chip" href="https://eclass.uoa.gr/modules/document/file.php/PHS122/%CE%91%CF%81%CE%B8%CF%81%CE%B1/Posner_Strike_Hewson_Gertzog.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eclass.uoa.gr">[2eClass UOA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eclass.uoa.gr</span><span class="citation-popover-title">Usually scientific work is done</span><span class="citation-popover-snippet">Accommodation of a scientific conception: Toward a theory...August 22, 2006 — by GJ POSNER · Cited by 10835 — Contemporary vie...</span><span class="citation-popover-meta">Published: August 22, 2006</span></span></span>
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_conceptual_change_le_bdc9ae_replacement_explanat_bc9380-Illustration-2-dark.svg" | relative_url }}" alt="Replacement illustration 2" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_conceptual_change_le_bdc9ae_replacement_explanat_bc9380-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_conceptual_change_le_bdc9ae_replacement_explanat_bc9380-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Memorised Facts Collapse in New Contexts
@@ -320,7 +320,7 @@ One of the clearest signs that conceptual change has not occurred is failure to 
 
 Students may correctly answer a familiar textbook question yet struggle when the same concept appears in a different form. This happens because factual recall and explanatory understanding are not the same thing.
 
-The National Research Council's synthesis of learning research argued that students can learn information for tests while still relying on prior conceptions outside the classroom. If those original ideas remain active, they often re-emerge when the learner encounters a novel situation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sdcoe.net/ngss/evidence-based-practices/key-findings-from-how-people-learn" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sdcoe.net">[San Diego County Office of Education]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sdcoe.net</span><span class="citation-popover-snippet">San Diego County Office of EducationKey Findings from How People LearnA fundamental insight about learning is that new understandings are...</span></span></span>
+The National Research Council's synthesis of learning research argued that students can learn information for tests while still relying on prior conceptions outside the classroom. If those original ideas remain active, they often re-emerge when the learner encounters a novel situation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sdcoe.net/ngss/evidence-based-practices/key-findings-from-how-people-learn" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sdcoe.net">[San Diego County Office of Education]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sdcoe.net</span><span class="citation-popover-snippet">San Diego County Office of EducationKey Findings from How People LearnA fundamental insight about learning is that new understandings are...</span></span></span>
 
 A common example appears in mechanics. Students may learn the statement that objects continue moving without a force. Yet when asked to predict what happens after a thrown ball leaves a hand, many still reason as if motion requires a continuing push. The memorised fact exists, but the underlying explanatory model has not been replaced.
 
@@ -336,7 +336,7 @@ Students frequently maintain two competing explanations.
 
 They may know that natural selection involves differential survival and reproduction, yet still describe evolution as organisms deliberately changing because they "need" a trait. They may know that particles are in constant motion, yet continue imagining diffusion as individual particles deciding where to go.
 
-Conceptual change researchers have noted that learners often alternate between intuitive and scientific frameworks depending on the context. The goal is therefore not merely introducing a scientific explanation but making it the explanation students reach for first. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ijiet.org/vol6/732-M04.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ijiet.org">[IJIET]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ijiet.org</span><span class="citation-popover-snippet">Analyzing with Posner&#x27;s Conceptual Change Model and...Therefore, how to enhance students&#x27; conceptual knowledge to the ―plausible‖ o...</span></span></span>
+Conceptual change researchers have noted that learners often alternate between intuitive and scientific frameworks depending on the context. The goal is therefore not merely introducing a scientific explanation but making it the explanation students reach for first.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ijiet.org/vol6/732-M04.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ijiet.org">[IJIET]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ijiet.org</span><span class="citation-popover-snippet">Analyzing with Posner&#x27;s Conceptual Change Model and...Therefore, how to enhance students&#x27; conceptual knowledge to the ―plausible‖ o...</span></span></span>
 
 ## Revisiting the Same Concept Across Cases
 
@@ -346,7 +346,7 @@ A single successful lesson rarely creates lasting conceptual change. Students ne
 
 For example, a process-based understanding of heat transfer becomes stronger when students apply it to metal spoons, house insulation, weather systems and biological temperature regulation. The concept stops being tied to one classroom example and becomes a general explanatory resource.
 
-Research on conceptual change increasingly emphasises transfer, application and knowledge restructuring rather than one-off correction events. Learners need repeated opportunities to recognise that the same scientific principle can organise many different phenomena. <span class="citation-chip-wrap"><a class="citation-chip" href="https://api.pageplace.de/preview/DT0400.9781136578212_A24435677/preview-9781136578212_A24435677.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: api.pageplace.de">[PagePlace]</a><span class="citation-popover" role="note"><span class="citation-popover-source">api.pageplace.de</span><span class="citation-popover-snippet">International Handbook of Research on Conceptual ChangeConceptual change research investigates the processes through which learn...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cambridge.org/core/books/cambridge-handbook-of-the-learning-sciences/history-of-conceptual-change-research/CA7E946570188227A907AD683E2DAC25" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cambridge.org">[Cambridge University Press &amp; Assessment]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cambridge.org</span><span class="citation-popover-snippet">Cambridge University Press &amp; AssessmentA History of Conceptual Change Research (Chapter 6)Effective learning requires conceptual change...</span></span></span>
+Research on conceptual change increasingly emphasises transfer, application and knowledge restructuring rather than one-off correction events. Learners need repeated opportunities to recognise that the same scientific principle can organise many different phenomena.<span class="citation-chip-wrap"><a class="citation-chip" href="https://api.pageplace.de/preview/DT0400.9781136578212_A24435677/preview-9781136578212_A24435677.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: api.pageplace.de">[PagePlace]</a><span class="citation-popover" role="note"><span class="citation-popover-source">api.pageplace.de</span><span class="citation-popover-snippet">International Handbook of Research on Conceptual ChangeConceptual change research investigates the processes through which learn...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cambridge.org/core/books/cambridge-handbook-of-the-learning-sciences/history-of-conceptual-change-research/CA7E946570188227A907AD683E2DAC25" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cambridge.org">[Cambridge University Press &amp; Assessment]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cambridge.org</span><span class="citation-popover-snippet">Cambridge University Press &amp; AssessmentA History of Conceptual Change Research (Chapter 6)Effective learning requires conceptual change...</span></span></span>
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_conceptual_change_le_bdc9ae_replacement_explanat_bc9380-Illustration-3-dark.svg" | relative_url }}" alt="Replacement illustration 3" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_conceptual_change_le_bdc9ae_replacement_explanat_bc9380-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_conceptual_change_le_bdc9ae_replacement_explanat_bc9380-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Revisiting through prediction
@@ -371,197 +371,197 @@ The most successful science corrections do not simply attack misconceptions. The
 
 When learners discover that a scientific explanation accounts for more evidence, predicts more accurately and works across more contexts, the old explanation gradually loses value. The replacement becomes the easier and more productive way to think.
 
-This is why conceptual change is often described as reconstruction rather than correction. Learners are not merely deleting information. They are adopting a new explanatory system that helps them understand the world more effectively. Research from conceptual change traditions consistently points to this shift: lasting learning occurs when the new conception is not only accepted but becomes the learner's preferred framework for reasoning, prediction and explanation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://api.pageplace.de/preview/DT0400.9781136578212_A24435677/preview-9781136578212_A24435677.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: api.pageplace.de">[PagePlace]</a><span class="citation-popover" role="note"><span class="citation-popover-source">api.pageplace.de</span><span class="citation-popover-snippet">International Handbook of Research on Conceptual ChangeConceptual change research investigates the processes through which learn...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ejmste.com/download/an-overview-of-conceptual-changetheories-4082.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ejmste.com">[Eurasia Journal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ejmste.com</span><span class="citation-popover-title">an overview of conceptual changetheories 4082</span><span class="citation-popover-snippet">Posner et al. (1982), the scientific conception must also be intelligible, plausible, and fruitful for successful conceptual change to occur...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/topics/psychology/conceptual-change-theory" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-title">ScienceDirect Conceptual Change Theory</span><span class="citation-popover-snippet">Conceptual Change Theory - an overviewFor conceptual change to occur, learners must be dissatisfied with existing conceptions and view sc...</span></span></span>
+This is why conceptual change is often described as reconstruction rather than correction. Learners are not merely deleting information. They are adopting a new explanatory system that helps them understand the world more effectively. Research from conceptual change traditions consistently points to this shift: lasting learning occurs when the new conception is not only accepted but becomes the learner's preferred framework for reasoning, prediction and explanation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://api.pageplace.de/preview/DT0400.9781136578212_A24435677/preview-9781136578212_A24435677.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: api.pageplace.de">[PagePlace]</a><span class="citation-popover" role="note"><span class="citation-popover-source">api.pageplace.de</span><span class="citation-popover-snippet">International Handbook of Research on Conceptual ChangeConceptual change research investigates the processes through which learn...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ejmste.com/download/an-overview-of-conceptual-changetheories-4082.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ejmste.com">[Eurasia Journal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ejmste.com</span><span class="citation-popover-title">an overview of conceptual changetheories 4082</span><span class="citation-popover-snippet">Posner et al. (1982), the scientific conception must also be intelligible, plausible, and fruitful for successful conceptual change to occur...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/topics/psychology/conceptual-change-theory" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-title">ScienceDirect Conceptual Change Theory</span><span class="citation-popover-snippet">Conceptual Change Theory - an overviewFor conceptual change to occur, learners must be dissatisfied with existing conceptions and view sc...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Corrections Need Better Explanations. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Corrections Need Better Explanations. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+Learning+Happens+by+Paul+A.+Kirschner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How Learning Happens on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=PdnzEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How Learning Happens" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+Learning+Happens+by+Paul+A.+Kirschner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How Learning Happens">How Learning Happens</a>
-        </h4>
-        <p class="fr-book-author">By Paul A. Kirschner, Carl Hendrick</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+Learning+Happens+by+Paul+A.+Kirschner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How Learning Happens on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=PdnzEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How Learning Happens" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=How+Learning+Happens+by+Paul+A.+Kirschner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How Learning Happens">How Learning Happens</a>
+</h4>
+<p class="fr-book-author">By Paul A. Kirschner, Carl Hendrick</p>
         
-        <p class="fr-book-desc">Explains how better explanations replace misconceptions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+Learning+Happens+by+Paul+A.+Kirschner&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains how better explanations replace misconceptions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=How+Learning+Happens+by+Paul+A.+Kirschner&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Make It Stick on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fpAXEQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Make It Stick" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Make It Stick">Make It Stick</a>
-        </h4>
-        <p class="fr-book-author">By Peter C. Brown, Henry L. Roediger III et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Make It Stick on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fpAXEQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Make It Stick" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Make It Stick">Make It Stick</a>
+</h4>
+<p class="fr-book-author">By Peter C. Brown, Henry L. Roediger III et al.</p>
         
-        <p class="fr-book-desc">Explains lasting learning beyond memorization.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains lasting learning beyond memorization.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Why+Don%27t+Students+Like+School%3F+by+Daniel+T.+Willingham&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Why Don&#x27;t Students Like School? on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=kuEmEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Why Don&#x27;t Students Like School?" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Why+Don%27t+Students+Like+School%3F+by+Daniel+T.+Willingham&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Why Don&#x27;t Students Like School?">Why Don&#x27;t Students Like School?</a>
-        </h4>
-        <p class="fr-book-author">By Daniel T. Willingham</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Why+Don%27t+Students+Like+School%3F+by+Daniel+T.+Willingham&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Why Don&#x27;t Students Like School? on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=kuEmEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Why Don&#x27;t Students Like School?" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Why+Don%27t+Students+Like+School%3F+by+Daniel+T.+Willingham&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Why Don&#x27;t Students Like School?">Why Don&#x27;t Students Like School?</a>
+</h4>
+<p class="fr-book-author">By Daniel T. Willingham</p>
         
-        <p class="fr-book-desc">Explores how explanations become meaningful knowledge.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Why+Don%27t+Students+Like+School%3F+by+Daniel+T.+Willingham&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores how explanations become meaningful knowledge.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Why+Don%27t+Students+Like+School%3F+by+Daniel+T.+Willingham&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+people+learn+National+Research+Council+%28U.S.%29.+Committee+on+Learning+Research+and+Educational+Practice.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How people learn on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/168978-M.jpg" alt="Cover for How people learn" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+people+learn+National+Research+Council+%28U.S.%29.+Committee+on+Learning+Research+and+Educational+Practice.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How people learn">How people learn</a>
-        </h4>
-        <p class="fr-book-author">By National Research Council (U.S.). Committee on Learning Research and Educational Practice.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+people+learn+National+Research+Council+%28U.S.%29.+Committee+on+Learning+Research+and+Educational+Practice.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How people learn on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/168978-M.jpg" alt="Cover for How people learn" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=How+people+learn+National+Research+Council+%28U.S.%29.+Committee+on+Learning+Research+and+Educational+Practice.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How people learn">How people learn</a>
+</h4>
+<p class="fr-book-author">By National Research Council (U.S.). Committee on Learning Research and Educational Practice.</p>
         
-        <p class="fr-book-desc">First published 1999. Subjects: Learning, Psychology of Learning, Research, Social aspects, Social aspects of Learning.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+people+learn+National+Research+Council+%28U.S.%29.+Committee+on+Learning+Research+and+Educational+Practice.&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1999. Subjects: Learning, Psychology of Learning, Research, Social aspects, Social aspects of Learning.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=How+people+learn+National+Research+Council+%28U.S.%29.+Committee+on+Learning+Research+and+Educational+Practice.&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+Learning+Happens&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How Learning Happens</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Make+It+Stick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Make It Stick</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Why+Don%27t+Students+Like+School%3F&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Why Don&#x27;t Students Like School?</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=How+Learning+Happens&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How Learning Happens</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Make+It+Stick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Make It Stick</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Why+Don%27t+Students+Like+School%3F&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Why Don&#x27;t Students Like School?</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=brain+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=replacement-494721-why-corrections-need-better-explanations-myths-and-misconcept-brain-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="brain model" data-ebay-reference="replacement-494721-why-corrections-need-better-explanations-myths-and-misconcept-brain-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Human Brain Model Anatomy Teaching Brain Model 4-Part Labeled 2X Enlarged"><img src="{{ '/assets/images/marketplace-covers/f0c44d931a87a92c6d25.jpg' | relative_url }}" alt="Listing image for Human Brain Model Anatomy Teaching Brain Model 4-Part Labeled 2X Enlarged" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=brain+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=replacement-494721-why-corrections-need-better-explanations-myths-and-misconcept-brain-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="brain model" data-ebay-reference="replacement-494721-why-corrections-need-better-explanations-myths-and-misconcept-brain-model" target="_blank" rel="sponsored noopener noreferrer">Human Brain Model Anatomy Teaching Brain Model 4-Part Labeled 2X Enlarged</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=brain+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=replacement-494721-why-corrections-need-better-explanations-myths-and-misconcept-brain-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="brain model" data-ebay-reference="replacement-494721-why-corrections-need-better-explanations-myths-and-misconcept-brain-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for brain model">Search <span data-ebay-domain-label>eBay.co.uk</span>: brain model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=brain+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=replacement-494721-why-corrections-need-better-explanations-myths-and-misconcept-brain-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="brain model" data-ebay-reference="replacement-494721-why-corrections-need-better-explanations-myths-and-misconcept-brain-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=brain+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=replacement-494721-why-corrections-need-better-explanations-myths-and-misconcept-brain-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="brain model" data-ebay-reference="replacement-494721-why-corrections-need-better-explanations-myths-and-misconcept-brain-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Human Brain Model Anatomy Teaching Brain Model 4-Part Labeled 2X Enlarged"><img src="{{ '/assets/images/marketplace-covers/f0c44d931a87a92c6d25.jpg' | relative_url }}" alt="Listing image for Human Brain Model Anatomy Teaching Brain Model 4-Part Labeled 2X Enlarged" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=brain+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=replacement-494721-why-corrections-need-better-explanations-myths-and-misconcept-brain-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="brain model" data-ebay-reference="replacement-494721-why-corrections-need-better-explanations-myths-and-misconcept-brain-model" target="_blank" rel="sponsored noopener noreferrer">Human Brain Model Anatomy Teaching Brain Model 4-Part Labeled 2X Enlarged</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=brain+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=replacement-494721-why-corrections-need-better-explanations-myths-and-misconcept-brain-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="brain model" data-ebay-reference="replacement-494721-why-corrections-need-better-explanations-myths-and-misconcept-brain-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for brain model">Search<span data-ebay-domain-label>eBay.co.uk</span>: brain model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=brain+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=replacement-494721-why-corrections-need-better-explanations-myths-and-misconcept-brain-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="brain model" data-ebay-reference="replacement-494721-why-corrections-need-better-explanations-myths-and-misconcept-brain-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=brain+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=replacement-494721-why-corrections-need-better-explanations-myths-and-misconcept-brain-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="brain model" data-ebay-reference="replacement-494721-why-corrections-need-better-explanations-myths-and-misconcept-brain-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Color Coded Brain Model Artery Anatomy Medical Teaching"><img src="{{ '/assets/images/marketplace-covers/612ddcb127de768a44a1.jpg' | relative_url }}" alt="Listing image for Color Coded Brain Model Artery Anatomy Medical Teaching" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=brain+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=replacement-494721-why-corrections-need-better-explanations-myths-and-misconcept-brain-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="brain model" data-ebay-reference="replacement-494721-why-corrections-need-better-explanations-myths-and-misconcept-brain-model" target="_blank" rel="sponsored noopener noreferrer">Color Coded Brain Model Artery Anatomy Medical Teaching</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=brain+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=replacement-494721-why-corrections-need-better-explanations-myths-and-misconcept-brain-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="brain model" data-ebay-reference="replacement-494721-why-corrections-need-better-explanations-myths-and-misconcept-brain-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for brain model">Search <span data-ebay-domain-label>eBay.co.uk</span>: brain model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=brain+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=replacement-494721-why-corrections-need-better-explanations-myths-and-misconcept-brain-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="brain model" data-ebay-reference="replacement-494721-why-corrections-need-better-explanations-myths-and-misconcept-brain-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=brain+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=replacement-494721-why-corrections-need-better-explanations-myths-and-misconcept-brain-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="brain model" data-ebay-reference="replacement-494721-why-corrections-need-better-explanations-myths-and-misconcept-brain-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Color Coded Brain Model Artery Anatomy Medical Teaching"><img src="{{ '/assets/images/marketplace-covers/612ddcb127de768a44a1.jpg' | relative_url }}" alt="Listing image for Color Coded Brain Model Artery Anatomy Medical Teaching" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=brain+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=replacement-494721-why-corrections-need-better-explanations-myths-and-misconcept-brain-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="brain model" data-ebay-reference="replacement-494721-why-corrections-need-better-explanations-myths-and-misconcept-brain-model" target="_blank" rel="sponsored noopener noreferrer">Color Coded Brain Model Artery Anatomy Medical Teaching</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=brain+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=replacement-494721-why-corrections-need-better-explanations-myths-and-misconcept-brain-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="brain model" data-ebay-reference="replacement-494721-why-corrections-need-better-explanations-myths-and-misconcept-brain-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for brain model">Search<span data-ebay-domain-label>eBay.co.uk</span>: brain model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=brain+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=replacement-494721-why-corrections-need-better-explanations-myths-and-misconcept-brain-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="brain model" data-ebay-reference="replacement-494721-why-corrections-need-better-explanations-myths-and-misconcept-brain-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=brain+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=replacement-494721-why-corrections-need-better-explanations-myths-and-misconcept-brain-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="brain model" data-ebay-reference="replacement-494721-why-corrections-need-better-explanations-myths-and-misconcept-brain-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Anatomically Accurate 8-Part Human Brain Model Anatomy Science Teaching Medical"><img src="{{ '/assets/images/marketplace-covers/c48285e78261e31213c1.jpg' | relative_url }}" alt="Listing image for Anatomically Accurate 8-Part Human Brain Model Anatomy Science Teaching Medical" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=brain+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=replacement-494721-why-corrections-need-better-explanations-myths-and-misconcept-brain-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="brain model" data-ebay-reference="replacement-494721-why-corrections-need-better-explanations-myths-and-misconcept-brain-model" target="_blank" rel="sponsored noopener noreferrer">Anatomically Accurate 8-Part Human Brain Model Anatomy Science Teaching Medical</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=brain+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=replacement-494721-why-corrections-need-better-explanations-myths-and-misconcept-brain-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="brain model" data-ebay-reference="replacement-494721-why-corrections-need-better-explanations-myths-and-misconcept-brain-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for brain model">Search <span data-ebay-domain-label>eBay.co.uk</span>: brain model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=brain+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=replacement-494721-why-corrections-need-better-explanations-myths-and-misconcept-brain-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="brain model" data-ebay-reference="replacement-494721-why-corrections-need-better-explanations-myths-and-misconcept-brain-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=brain+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=replacement-494721-why-corrections-need-better-explanations-myths-and-misconcept-brain-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="brain model" data-ebay-reference="replacement-494721-why-corrections-need-better-explanations-myths-and-misconcept-brain-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Anatomically Accurate 8-Part Human Brain Model Anatomy Science Teaching Medical"><img src="{{ '/assets/images/marketplace-covers/c48285e78261e31213c1.jpg' | relative_url }}" alt="Listing image for Anatomically Accurate 8-Part Human Brain Model Anatomy Science Teaching Medical" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=brain+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=replacement-494721-why-corrections-need-better-explanations-myths-and-misconcept-brain-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="brain model" data-ebay-reference="replacement-494721-why-corrections-need-better-explanations-myths-and-misconcept-brain-model" target="_blank" rel="sponsored noopener noreferrer">Anatomically Accurate 8-Part Human Brain Model Anatomy Science Teaching Medical</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=brain+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=replacement-494721-why-corrections-need-better-explanations-myths-and-misconcept-brain-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="brain model" data-ebay-reference="replacement-494721-why-corrections-need-better-explanations-myths-and-misconcept-brain-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for brain model">Search<span data-ebay-domain-label>eBay.co.uk</span>: brain model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=brain+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=replacement-494721-why-corrections-need-better-explanations-myths-and-misconcept-brain-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="brain model" data-ebay-reference="replacement-494721-why-corrections-need-better-explanations-myths-and-misconcept-brain-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=brain+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=replacement-494721-why-corrections-need-better-explanations-myths-and-misconcept-brain-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="brain model" data-ebay-reference="replacement-494721-why-corrections-need-better-explanations-myths-and-misconcept-brain-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Right Hemisphere of Brain Human Body Model Education Brain Model 1:1 for"><img src="{{ '/assets/images/marketplace-covers/66cd8da53e5689f2368c.jpg' | relative_url }}" alt="Listing image for Right Hemisphere of Brain Human Body Model Education Brain Model 1:1 for" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=brain+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=replacement-494721-why-corrections-need-better-explanations-myths-and-misconcept-brain-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="brain model" data-ebay-reference="replacement-494721-why-corrections-need-better-explanations-myths-and-misconcept-brain-model" target="_blank" rel="sponsored noopener noreferrer">Right Hemisphere of Brain Human Body Model Education Brain Model 1:1 for</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=brain+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=replacement-494721-why-corrections-need-better-explanations-myths-and-misconcept-brain-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="brain model" data-ebay-reference="replacement-494721-why-corrections-need-better-explanations-myths-and-misconcept-brain-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for brain model">Search <span data-ebay-domain-label>eBay.co.uk</span>: brain model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=brain+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=replacement-494721-why-corrections-need-better-explanations-myths-and-misconcept-brain-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="brain model" data-ebay-reference="replacement-494721-why-corrections-need-better-explanations-myths-and-misconcept-brain-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=brain+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=replacement-494721-why-corrections-need-better-explanations-myths-and-misconcept-brain-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="brain model" data-ebay-reference="replacement-494721-why-corrections-need-better-explanations-myths-and-misconcept-brain-model" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=brain+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=replacement-494721-why-corrections-need-better-explanations-myths-and-misconcept-brain-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="brain model" data-ebay-reference="replacement-494721-why-corrections-need-better-explanations-myths-and-misconcept-brain-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Right Hemisphere of Brain Human Body Model Education Brain Model 1:1 for"><img src="{{ '/assets/images/marketplace-covers/66cd8da53e5689f2368c.jpg' | relative_url }}" alt="Listing image for Right Hemisphere of Brain Human Body Model Education Brain Model 1:1 for" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=brain+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=replacement-494721-why-corrections-need-better-explanations-myths-and-misconcept-brain-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="brain model" data-ebay-reference="replacement-494721-why-corrections-need-better-explanations-myths-and-misconcept-brain-model" target="_blank" rel="sponsored noopener noreferrer">Right Hemisphere of Brain Human Body Model Education Brain Model 1:1 for</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=brain+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=replacement-494721-why-corrections-need-better-explanations-myths-and-misconcept-brain-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="brain model" data-ebay-reference="replacement-494721-why-corrections-need-better-explanations-myths-and-misconcept-brain-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for brain model">Search<span data-ebay-domain-label>eBay.co.uk</span>: brain model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=brain+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=replacement-494721-why-corrections-need-better-explanations-myths-and-misconcept-brain-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="brain model" data-ebay-reference="replacement-494721-why-corrections-need-better-explanations-myths-and-misconcept-brain-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=brain+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=replacement-494721-why-corrections-need-better-explanations-myths-and-misconcept-brain-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="brain model" data-ebay-reference="replacement-494721-why-corrections-need-better-explanations-myths-and-misconcept-brain-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -577,7 +577,7 @@ This is why conceptual change is often described as reconstruction rather than c
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -597,7 +597,7 @@ This is why conceptual change is often described as reconstruction rather than c
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -629,7 +629,7 @@ This is why conceptual change is often described as reconstruction rather than c
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -681,7 +681,7 @@ This is why conceptual change is often described as reconstruction rather than c
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -726,7 +726,7 @@ This is why conceptual change is often described as reconstruction rather than c
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -767,112 +767,112 @@ This is why conceptual change is often described as reconstruction rather than c
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: eclass.uoa.gr  
    Title: Usually scientific work is done  
-   Link: <a href="https://eclass.uoa.gr/modules/document/file.php/PHS122/%CE%91%CF%81%CE%B8%CF%81%CE%B1/Posner_Strike_Hewson_Gertzog.pdf" target="_blank" rel="noopener noreferrer nofollow">https://eclass.uoa.gr/modules/document/file.php/PHS122/%CE%91%CF%81%CE%B8%CF%81%CE%B1/Posner_Strike_Hewson_Gertzog.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Accommodation of a scientific conception: Toward a theory...August 22, 2006 — by GJ POSNER · Cited by 10835 — Contemporary vie...</p></details>
+   Link:<a href="https://eclass.uoa.gr/modules/document/file.php/PHS122/%CE%91%CF%81%CE%B8%CF%81%CE%B1/Posner_Strike_Hewson_Gertzog.pdf" target="_blank" rel="noopener noreferrer nofollow">https://eclass.uoa.gr/modules/document/file.php/PHS122/%CE%91%CF%81%CE%B8%CF%81%CE%B1/Posner_Strike_Hewson_Gertzog.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Accommodation of a scientific conception: Toward a theory...August 22, 2006 — by GJ POSNER · Cited by 10835 — Contemporary vie...</p></details>
    Published: August 22, 2006  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: sciencedirect.com  
    Title: ScienceDirect Conceptual Change Theory  
-   Link: <a href="https://www.sciencedirect.com/topics/psychology/conceptual-change-theory" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/topics/psychology/conceptual-change-theory</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Conceptual Change Theory - an overviewFor conceptual change to occur, learners must be dissatisfied with existing conceptions and view sc...</p></details>
+   Link:<a href="https://www.sciencedirect.com/topics/psychology/conceptual-change-theory" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/topics/psychology/conceptual-change-theory</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Conceptual Change Theory - an overviewFor conceptual change to occur, learners must be dissatisfied with existing conceptions and view sc...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: ijiet.org  
-   Link: <a href="https://www.ijiet.org/vol6/732-M04.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ijiet.org/vol6/732-M04.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Analyzing with Posner&#x27;s Conceptual Change Model and...Therefore, how to enhance students&#x27; conceptual knowledge to the ―plausible‖ o...</p></details>
+   Link:<a href="https://www.ijiet.org/vol6/732-M04.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ijiet.org/vol6/732-M04.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Analyzing with Posner&#x27;s Conceptual Change Model and...Therefore, how to enhance students&#x27; conceptual knowledge to the ―plausible‖ o...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: api.pageplace.de  
-   Link: <a href="https://api.pageplace.de/preview/DT0400.9781136578212_A24435677/preview-9781136578212_A24435677.pdf" target="_blank" rel="noopener noreferrer nofollow">https://api.pageplace.de/preview/DT0400.9781136578212_A24435677/preview-9781136578212_A24435677.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>International Handbook of Research on Conceptual ChangeConceptual change research investigates the processes through which learn...</p></details>
+   Link:<a href="https://api.pageplace.de/preview/DT0400.9781136578212_A24435677/preview-9781136578212_A24435677.pdf" target="_blank" rel="noopener noreferrer nofollow">https://api.pageplace.de/preview/DT0400.9781136578212_A24435677/preview-9781136578212_A24435677.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>International Handbook of Research on Conceptual ChangeConceptual change research investigates the processes through which learn...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: sciencedirect.com  
    Title: ScienceDirect How does prior knowledge affect learning?  
-   Link: <a href="https://www.sciencedirect.com/science/article/pii/S1041608025001207" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S1041608025001207</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>A review of 16...by M Schneider · 2025 · Cited by 29 — We give an integrative review of 16 learning processes mediating the effects of p...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/pii/S1041608025001207" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S1041608025001207</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A review of 16...by M Schneider · 2025 · Cited by 29 — We give an integrative review of 16 learning processes mediating the effects of p...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: cambridge.org  
-   Link: <a href="https://www.cambridge.org/core/books/cambridge-handbook-of-the-learning-sciences/history-of-conceptual-change-research/CA7E946570188227A907AD683E2DAC25" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/books/cambridge-handbook-of-the-learning-sciences/history-of-conceptual-change-research/CA7E946570188227A907AD683E2DAC25</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Cambridge University Press &amp; AssessmentA History of Conceptual Change Research (Chapter 6)Effective learning requires conceptual change...</p></details>
+   Link:<a href="https://www.cambridge.org/core/books/cambridge-handbook-of-the-learning-sciences/history-of-conceptual-change-research/CA7E946570188227A907AD683E2DAC25" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/books/cambridge-handbook-of-the-learning-sciences/history-of-conceptual-change-research/CA7E946570188227A907AD683E2DAC25</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Cambridge University Press &amp; AssessmentA History of Conceptual Change Research (Chapter 6)Effective learning requires conceptual change...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/0959475294900175" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/0959475294900175</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>A theory of conceptual change for learning science conceptsby MTH Chi · 1994 · Cited by 1951 — The theory of conceptual change in this ar...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/abs/pii/0959475294900175" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/0959475294900175</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A theory of conceptual change for learning science conceptsby MTH Chi · 1994 · Cited by 1951 — The theory of conceptual change in this ar...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: ejmste.com  
    Title: an overview of conceptual changetheories 4082  
-   Link: <a href="https://www.ejmste.com/download/an-overview-of-conceptual-changetheories-4082.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ejmste.com/download/an-overview-of-conceptual-changetheories-4082.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Posner et al. (1982), the scientific conception must also be intelligible, plausible, and fruitful for successful conceptual change to occur...</p></details>
+   Link:<a href="https://www.ejmste.com/download/an-overview-of-conceptual-changetheories-4082.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ejmste.com/download/an-overview-of-conceptual-changetheories-4082.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Posner et al. (1982), the scientific conception must also be intelligible, plausible, and fruitful for successful conceptual change to occur...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: sdcoe.net  
-   Link: <a href="https://www.sdcoe.net/ngss/evidence-based-practices/key-findings-from-how-people-learn" target="_blank" rel="noopener noreferrer nofollow">https://www.sdcoe.net/ngss/evidence-based-practices/key-findings-from-how-people-learn</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>San Diego County Office of EducationKey Findings from How People LearnA fundamental insight about learning is that new understandings are...</p></details>
+   Link:<a href="https://www.sdcoe.net/ngss/evidence-based-practices/key-findings-from-how-people-learn" target="_blank" rel="noopener noreferrer nofollow">https://www.sdcoe.net/ngss/evidence-based-practices/key-findings-from-how-people-learn</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>San Diego County Office of EducationKey Findings from How People LearnA fundamental insight about learning is that new understandings are...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: histoforum.net  
    Title: Conceptual Change  
-   Link: <a href="https://histoforum.net/2020/Conceptual%20Change.pdf" target="_blank" rel="noopener noreferrer nofollow">https://histoforum.net/2020/Conceptual%20Change.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>by A van der Kaap — Posner, G.J., Strike, K.A., Hewson, P.W., &amp; Gertzog, W.A. (1982) Accomodation of a scientidic conception: Toward a th...</p></details>
+   Link:<a href="https://histoforum.net/2020/Conceptual%20Change.pdf" target="_blank" rel="noopener noreferrer nofollow">https://histoforum.net/2020/Conceptual%20Change.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by A van der Kaap — Posner, G.J., Strike, K.A., Hewson, P.W., &amp; Gertzog, W.A. (1982) Accomodation of a scientidic conception: Toward a th...</p></details>
 
 ### Additional References
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: researchoutreach.org  
-   Link: <a href="https://researchoutreach.org/wp-content/uploads/2022/04/Patrice-Potvin-1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://researchoutreach.org/wp-content/uploads/2022/04/Patrice-Potvin-1.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Conceptual changeOften referred to as misconceptions, these representations are personal models or theories borrowed or developed by lear...</p></details>
+   Link:<a href="https://researchoutreach.org/wp-content/uploads/2022/04/Patrice-Potvin-1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://researchoutreach.org/wp-content/uploads/2022/04/Patrice-Potvin-1.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Conceptual changeOften referred to as misconceptions, these representations are personal models or theories borrowed or developed by lear...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: mrbartonmaths.com  
-   Link: <a href="https://mrbartonmaths.com/resourcesnew/8.%20Research/Explicit%20Instruction/How%20Do%20I%20Get%20My%20Students%20Over%20Their%20Alternative%20Conceptions.pdf" target="_blank" rel="noopener noreferrer nofollow">https://mrbartonmaths.com/resourcesnew/8.%20Research/Explicit%20Instruction/How%20Do%20I%20Get%20My%20Students%20Over%20Their%20Alternative%20Conceptions.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How Do I Get My Students Over Their Alternative...by J Lucariello · Cited by 73 — However, several instructional strategies have proven...</p></details>
+   Link:<a href="https://mrbartonmaths.com/resourcesnew/8.%20Research/Explicit%20Instruction/How%20Do%20I%20Get%20My%20Students%20Over%20Their%20Alternative%20Conceptions.pdf" target="_blank" rel="noopener noreferrer nofollow">https://mrbartonmaths.com/resourcesnew/8.%20Research/Explicit%20Instruction/How%20Do%20I%20Get%20My%20Students%20Over%20Their%20Alternative%20Conceptions.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How Do I Get My Students Over Their Alternative...by J Lucariello · Cited by 73 — However, several instructional strategies have proven...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: peer.asee.org  
    Title: predictors and mediators of conceptual change a systematic literature review  
-   Link: <a href="https://peer.asee.org/predictors-and-mediators-of-conceptual-change-a-systematic-literature-review.pdf" target="_blank" rel="noopener noreferrer nofollow">https://peer.asee.org/predictors-and-mediators-of-conceptual-change-a-systematic-literature-review.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>and Mediators of Conceptual Changeby OP Olaogun · 2024 — The process by which misconceptions are remediated or replaced with scientifical...</p></details>
+   Link:<a href="https://peer.asee.org/predictors-and-mediators-of-conceptual-change-a-systematic-literature-review.pdf" target="_blank" rel="noopener noreferrer nofollow">https://peer.asee.org/predictors-and-mediators-of-conceptual-change-a-systematic-literature-review.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>and Mediators of Conceptual Changeby OP Olaogun · 2024 — The process by which misconceptions are remediated or replaced with scientifical...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: nationalacademies.org  
-   Link: <a href="https://www.nationalacademies.org/read/5287/chapter/5" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalacademies.org/read/5287/chapter/5</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Descriptions and examples of some common misconceptions in science. Methods to identify misconceptions.Read more...</p></details>
+   Link:<a href="https://www.nationalacademies.org/read/5287/chapter/5" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalacademies.org/read/5287/chapter/5</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Descriptions and examples of some common misconceptions in science. Methods to identify misconceptions.Read more...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=Jcww5lug7DQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Jcww5lug7DQ</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Conceptual Change Theory and Inquiry LearningConceptual Change Theory which is one particular constructivist referenced approach to teach...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Jcww5lug7DQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Jcww5lug7DQ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Conceptual Change Theory and Inquiry LearningConceptual Change Theory which is one particular constructivist referenced approach to teach...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: scite.ai  
    Title: Representation of the conceptual change model in science  
-   Link: <a href="https://scite.ai/reports/10.1002/%28SICI%291098-237X%28199606%2980%3A3%3C317%3A%3AAID-SCE3%3E3.0.CO%3B2-H" target="_blank" rel="noopener noreferrer nofollow">https://scite.ai/reports/10.1002/%28SICI%291098-237X%28199606%2980%3A3%3C317%3A%3AAID-SCE3%3E3.0.CO%3B2-H</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Abstract: A key principle of the Conceptual Change Model is that before learners can consider the plausibility or fruitfulness of a new c...</p></details>
+   Link:<a href="https://scite.ai/reports/10.1002/%28SICI%291098-237X%28199606%2980%3A3%3C317%3A%3AAID-SCE3%3E3.0.CO%3B2-H" target="_blank" rel="noopener noreferrer nofollow">https://scite.ai/reports/10.1002/%28SICI%291098-237X%28199606%2980%3A3%3C317%3A%3AAID-SCE3%3E3.0.CO%3B2-H</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Abstract: A key principle of the Conceptual Change Model is that before learners can consider the plausibility or fruitfulness of a new c...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: educationendowmentfoundation.org.uk  
-   Link: <a href="https://educationendowmentfoundation.org.uk/news/eef-blog-ecf-exploring-the-evidence-prior-knowledge-and-pupil-misconceptions" target="_blank" rel="noopener noreferrer nofollow">https://educationendowmentfoundation.org.uk/news/eef-blog-ecf-exploring-the-evidence-prior-knowledge-and-pupil-misconceptions</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>elop misconceptions, particularly if new ideas are introduced too quickly.Read more...</p></details>
+   Link:<a href="https://educationendowmentfoundation.org.uk/news/eef-blog-ecf-exploring-the-evidence-prior-knowledge-and-pupil-misconceptions" target="_blank" rel="noopener noreferrer nofollow">https://educationendowmentfoundation.org.uk/news/eef-blog-ecf-exploring-the-evidence-prior-knowledge-and-pupil-misconceptions</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>elop misconceptions, particularly if new ideas are introduced too quickly.Read more...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: my.chartered.college  
-   Link: <a href="https://my.chartered.college/impact_article/misconceptions-p-prims-and-bridging-[analogies" target="_blank" rel="noopener noreferrer nofollow">https://my.chartered.college/impact_article/misconceptions-p-prims-and-bridging-[analogies</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>chartered.collegeMisconceptions, p-prims and bridging analogies in Physics...by G Jones — Misconceptions research has been of great net...</p></details>
+   Link:<a href="https://my.chartered.college/impact_article/misconceptions-p-prims-and-bridging-[analogies" target="_blank" rel="noopener noreferrer nofollow">https://my.chartered.college/impact_article/misconceptions-p-prims-and-bridging-[analogies</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>chartered.collegeMisconceptions, p-prims and bridging analogies in Physics...by G Jones — Misconceptions research has been of great net...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: apa.org  
-   Link: <a href="https://www.apa.org/education-career/k12/misconceptions" target="_blank" rel="noopener noreferrer nofollow">https://www.apa.org/education-career/k12/misconceptions</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>s (content knowledge areas) and there is a common set of alternative conceptions...</p></details>
+   Link:<a href="https://www.apa.org/education-career/k12/misconceptions" target="_blank" rel="noopener noreferrer nofollow">https://www.apa.org/education-career/k12/misconceptions</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>s (content knowledge areas) and there is a common set of alternative conceptions...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/227102350_Conceptual_change_A_discussion_of_theoretical_methodological_and_practical_challenges_for_science_education" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/227102350_Conceptual_change_A_discussion_of_theoretical_methodological_and_practical_challenges_for_science_education</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>n various other content domains, have played a significant role in research...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/227102350_Conceptual_change_A_discussion_of_theoretical_methodological_and_practical_challenges_for_science_education" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/227102350_Conceptual_change_A_discussion_of_theoretical_methodological_and_practical_challenges_for_science_education</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>n various other content domains, have played a significant role in research...</p></details>

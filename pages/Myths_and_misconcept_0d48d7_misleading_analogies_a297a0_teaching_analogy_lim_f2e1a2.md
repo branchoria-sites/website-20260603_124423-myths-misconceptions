@@ -268,18 +268,18 @@ image: /assets/images/Myths_and_misconcept_0d48d7_misleading_analogies_a297a0_te
 
 ## Introduction
 
-[Analogies]({{ 'analogies/' | relative_url }}) are among the most effective tools for explaining unfamiliar ideas, but they also create some of the most persistent misconceptions. The problem is rarely the analogy itself. Instead, misconceptions arise when learners assume that every feature of the familiar example transfers directly to the target concept. Research in science education and cognitive psychology consistently shows that analogy-based teaching works best when instructors explicitly identify both the similarities and the limits of the comparison. Learners need help understanding not only where an analogy works, but also where it breaks down. ERIC PubMed Within the broader problem of misleading analogies <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/21098382/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[pubmed.ncbi.nlm.nih.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">in science and science teachingby S Brown · 2010 · Cited by 126 — Analogies are often used in science, but students may not appreciate th...</span></span></span>, effective teaching therefore requires deliberate strategies for framing, testing and refining analogical comparisons. Rather than treating analogies as self-explanatory, skilled teachers use them as temporary learning tools whose boundaries are made visible from the outset. Taylor & Francis Online <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10074267/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCTeaching Postsecondary Students to Use Analogies as</span><span class="citation-popover-snippet">by JC Tise · 2023 · Cited by 17 — Analogical reasoning is an important type of cognition often used by experts across domains. Little...</span></span></span>
+[Analogies]({{ 'analogies/' | relative_url }}) are among the most effective tools for explaining unfamiliar ideas, but they also create some of the most persistent misconceptions. The problem is rarely the analogy itself. Instead, misconceptions arise when learners assume that every feature of the familiar example transfers directly to the target concept. Research in science education and cognitive psychology consistently shows that analogy-based teaching works best when instructors explicitly identify both the similarities and the limits of the comparison. Learners need help understanding not only where an analogy works, but also where it breaks down. ERIC PubMed Within the broader problem of misleading analogies<span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/21098382/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[pubmed.ncbi.nlm.nih.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">in science and science teachingby S Brown · 2010 · Cited by 126 — Analogies are often used in science, but students may not appreciate th...</span></span></span>, effective teaching therefore requires deliberate strategies for framing, testing and refining analogical comparisons. Rather than treating analogies as self-explanatory, skilled teachers use them as temporary learning tools whose boundaries are made visible from the outset. Taylor & Francis Online<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10074267/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCTeaching Postsecondary Students to Use Analogies as</span><span class="citation-popover-snippet">by JC Tise · 2023 · Cited by 17 — Analogical reasoning is an important type of cognition often used by experts across domains. Little...</span></span></span>
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_misleading_analogies_a297a0_teaching_analogy_lim_f2e1a2-Illustration-1-dark.svg" | relative_url }}" alt="Teaching Analogy Limits illustration 1" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_misleading_analogies_a297a0_teaching_analogy_lim_f2e1a2-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_misleading_analogies_a297a0_teaching_analogy_lim_f2e1a2-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Mapping Similarities and Differences
 
-One of the most widely cited approaches is the Teaching-With-Analogies (TWA) model developed by Shawn Glynn and colleagues. A central feature of the model is that teachers do not stop after presenting an analogy and identifying shared features. They also explicitly indicate where the analogy breaks down before drawing conclusions. This step is designed to prevent students from importing inappropriate assumptions from the familiar source domain into the target concept. <span class="citation-chip-wrap"><a class="citation-chip" href="https://osu-wams-blogs-uploads.s3.amazonaws.com/blogs.dir/548/files/2010/10/Glynn2008MakingScienceConceptsMeaningful.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: osu-wams-blogs-uploads.s3.amazonaws.com">[osu-wams-blogs-uploads.s3.amazonaws.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">osu-wams-blogs-uploads.s3.amazonaws.com</span><span class="citation-popover-snippet">5.1 Making science concepts meaningful to studentsby SM Glynn · Cited by 181 — The Teaching-With-Analogies Model (Glynn, 2004, 2007) is b...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.eduhk.hk/apfslt/v13_issue1/yener/page2.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eduhk.hk">[The Education University of Hong Kong]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eduhk.hk</span><span class="citation-popover-snippet">Of these, the one which is used most is the Teaching with...Read more...</span></span></span>
+One of the most widely cited approaches is the Teaching-With-Analogies (TWA) model developed by Shawn Glynn and colleagues. A central feature of the model is that teachers do not stop after presenting an analogy and identifying shared features. They also explicitly indicate where the analogy breaks down before drawing conclusions. This step is designed to prevent students from importing inappropriate assumptions from the familiar source domain into the target concept.<span class="citation-chip-wrap"><a class="citation-chip" href="https://osu-wams-blogs-uploads.s3.amazonaws.com/blogs.dir/548/files/2010/10/Glynn2008MakingScienceConceptsMeaningful.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: osu-wams-blogs-uploads.s3.amazonaws.com">[osu-wams-blogs-uploads.s3.amazonaws.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">osu-wams-blogs-uploads.s3.amazonaws.com</span><span class="citation-popover-snippet">5.1 Making science concepts meaningful to studentsby SM Glynn · Cited by 181 — The Teaching-With-Analogies Model (Glynn, 2004, 2007) is b...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.eduhk.hk/apfslt/v13_issue1/yener/page2.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eduhk.hk">[The Education University of Hong Kong]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eduhk.hk</span><span class="citation-popover-snippet">Of these, the one which is used most is the Teaching with...Read more...</span></span></span>
 
 In practice, this means making the mapping process visible:
 
 Analogy ComponentTarget ConceptStatusShared relationshipMaps directlyValidSurface similarityMay or may not mapRequires discussionUnmatched featureDoes not transferExplicit limitation
 
-Research on structure-mapping theory suggests that learners often focus on obvious surface similarities unless teachers direct attention towards deeper relational correspondences. Explicit comparison helps students distinguish the important relationships from distracting features. <span class="citation-chip-wrap"><a class="citation-chip" href="https://learninglab.uchicago.edu/Publications_files/Richland%26Simms_WIREs.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: learninglab.uchicago.edu">[learninglab.uchicago.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">learninglab.uchicago.edu</span><span class="citation-popover-snippet">in the world as systems of relationships, such that these systems of relationships...Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/21098382/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed For example]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">in science and science teachingby S Brown · 2010 · Cited by 126 — Analogies are often used in science, but students may not appreciate th...</span></span></span>, when using plumbing systems to explain electrical circuits, students may correctly understand the idea of flow and resistance. However, they may incorrectly assume that electric current is “used up” in the same way water is consumed. Effective instruction highlights the useful parallels while directly identifying the incorrect transfer. The limitation becomes part of the lesson rather than an afterthought. <span class="citation-chip-wrap"><a class="citation-chip" href="https://my.chartered.college/impact_article/misconceptions-p-prims-and-bridging-analogies-in-physics-teaching/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: my.chartered.college">[My College]</a><span class="citation-popover" role="note"><span class="citation-popover-source">my.chartered.college</span><span class="citation-popover-snippet">My CollegeMisconceptions, p-prims and bridging analogies in Physics...by G Jones — The &#x27;misconceptions&#x27; we are talking about are things...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10074267/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCTeaching Postsecondary Students to Use Analogies as</span><span class="citation-popover-snippet">by JC Tise · 2023 · Cited by 17 — Analogical reasoning is an important type of cognition often used by experts across domains. Little...</span></span></span>
+Research on structure-mapping theory suggests that learners often focus on obvious surface similarities unless teachers direct attention towards deeper relational correspondences. Explicit comparison helps students distinguish the important relationships from distracting features.<span class="citation-chip-wrap"><a class="citation-chip" href="https://learninglab.uchicago.edu/Publications_files/Richland%26Simms_WIREs.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: learninglab.uchicago.edu">[learninglab.uchicago.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">learninglab.uchicago.edu</span><span class="citation-popover-snippet">in the world as systems of relationships, such that these systems of relationships...Read more...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/21098382/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed For example]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">in science and science teachingby S Brown · 2010 · Cited by 126 — Analogies are often used in science, but students may not appreciate th...</span></span></span>, when using plumbing systems to explain electrical circuits, students may correctly understand the idea of flow and resistance. However, they may incorrectly assume that electric current is “used up” in the same way water is consumed. Effective instruction highlights the useful parallels while directly identifying the incorrect transfer. The limitation becomes part of the lesson rather than an afterthought.<span class="citation-chip-wrap"><a class="citation-chip" href="https://my.chartered.college/impact_article/misconceptions-p-prims-and-bridging-analogies-in-physics-teaching/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: my.chartered.college">[My College]</a><span class="citation-popover" role="note"><span class="citation-popover-source">my.chartered.college</span><span class="citation-popover-snippet">My CollegeMisconceptions, p-prims and bridging analogies in Physics...by G Jones — The &#x27;misconceptions&#x27; we are talking about are things...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10074267/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCTeaching Postsecondary Students to Use Analogies as</span><span class="citation-popover-snippet">by JC Tise · 2023 · Cited by 17 — Analogical reasoning is an important type of cognition often used by experts across domains. Little...</span></span></span>
 
 A useful classroom routine is to ask students two separate questions:
 
@@ -290,18 +290,18 @@ This simple shift encourages learners to treat analogies as models with boundari
 
 ## Why Explicit Limitations Improve Conceptual Understanding
 
-Students frequently experience what researchers describe as an illusion of understanding. Because an analogy feels familiar, learners may believe they understand the target concept more deeply than they actually do. The familiarity of the source can mask missing knowledge and encourage overconfidence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10074267/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCTeaching Postsecondary Students to Use Analogies as</span><span class="citation-popover-snippet">by JC Tise · 2023 · Cited by 17 — Analogical reasoning is an important type of cognition often used by experts across domains. Little...</span></span></span>
+Students frequently experience what researchers describe as an illusion of understanding. Because an analogy feels familiar, learners may believe they understand the target concept more deeply than they actually do. The familiarity of the source can mask missing knowledge and encourage overconfidence.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10074267/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCTeaching Postsecondary Students to Use Analogies as</span><span class="citation-popover-snippet">by JC Tise · 2023 · Cited by 17 — Analogical reasoning is an important type of cognition often used by experts across domains. Little...</span></span></span>
 
 Explicit discussion of limitations counteracts this tendency in several ways:
 
 * It encourages deeper processing rather than passive acceptance.
 * It reduces overgeneralisation from the source domain.
 * It promotes metacognitive monitoring by making students evaluate the quality of the comparison.
-* It creates opportunities for conceptual change when existing misconceptions are challenged. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.psychologyinaction.org/analogy-based-learning-in-the-classroom-implementing-strategies-to-promote-conceptual-understanding-and-performance/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: psychologyinaction.org">[psychologyinaction.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">psychologyinaction.org</span><span class="citation-popover-snippet">he classroom that are crucial for students&#x27; success in analogical...Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://karger.com/hde/article/67/2/88/836775/Conceptual-Change-and-Education-The-Neglected" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: karger.com">[karger]</a><span class="citation-popover" role="note"><span class="citation-popover-source">karger.com</span><span class="citation-popover-title">Conceptual Change and Education The Neglected</span><span class="citation-popover-snippet">Karger PublishersConceptual Change and Education: The Neglected...by T Gennen · 2023 · Cited by 15 — Research on conceptual change (CC)...</span></span></span> Studies of analogy-based instruction show that learners gain more when they actively compare relationships than when they simply receive a finished analogy from the teacher. The act of examining what fits and what does not fit appears to strengthen conceptual understanding. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.uciscienceoflearning.org/uploads/1/1/7/8/117864006/16_richland__2010__learning_by_analogy.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uciscienceoflearning.org">[Science of Learning Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uciscienceoflearning.org</span><span class="citation-popover-title">Science of Learning Lab Learning by analogy</span><span class="citation-popover-snippet">Science of Learning LabLearning by analogyOctober 14, 2009 — by LE Richland · 2009 · Cited by 223 — The ability to successfully discrimin...</span><span class="citation-popover-meta">Published: October 14, 2009</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://par.nsf.gov/servlets/purl/10330103" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: par.nsf.gov">[2par.nsf.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">par.nsf.gov</span><span class="citation-popover-snippet">&amp; Holyoak, 1989; Gentner &amp; Markman, 1997; Gick &amp;. Holyoak...Read more...</span></span></span>
+* It creates opportunities for conceptual change when existing misconceptions are challenged.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.psychologyinaction.org/analogy-based-learning-in-the-classroom-implementing-strategies-to-promote-conceptual-understanding-and-performance/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: psychologyinaction.org">[psychologyinaction.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">psychologyinaction.org</span><span class="citation-popover-snippet">he classroom that are crucial for students&#x27; success in analogical...Read more...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://karger.com/hde/article/67/2/88/836775/Conceptual-Change-and-Education-The-Neglected" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: karger.com">[karger]</a><span class="citation-popover" role="note"><span class="citation-popover-source">karger.com</span><span class="citation-popover-title">Conceptual Change and Education The Neglected</span><span class="citation-popover-snippet">Karger PublishersConceptual Change and Education: The Neglected...by T Gennen · 2023 · Cited by 15 — Research on conceptual change (CC)...</span></span></span> Studies of analogy-based instruction show that learners gain more when they actively compare relationships than when they simply receive a finished analogy from the teacher. The act of examining what fits and what does not fit appears to strengthen conceptual understanding.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.uciscienceoflearning.org/uploads/1/1/7/8/117864006/16_richland__2010__learning_by_analogy.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uciscienceoflearning.org">[Science of Learning Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uciscienceoflearning.org</span><span class="citation-popover-title">Science of Learning Lab Learning by analogy</span><span class="citation-popover-snippet">Science of Learning LabLearning by analogyOctober 14, 2009 — by LE Richland · 2009 · Cited by 223 — The ability to successfully discrimin...</span><span class="citation-popover-meta">Published: October 14, 2009</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://par.nsf.gov/servlets/purl/10330103" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: par.nsf.gov">[2par.nsf.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">par.nsf.gov</span><span class="citation-popover-snippet">&amp; Holyoak, 1989; Gentner &amp; Markman, 1997; Gick &amp;. Holyoak...Read more...</span></span></span>
 
 ## Using Multiple Analogies
 
-A major limitation of single analogies is that every comparison highlights some features while concealing others. Researchers Richard Spiro and colleagues argued that reliance on one dominant analogy can cause learners to reduce a complex concept to an overly simple mental model. Their proposed solution was the deliberate use of multiple analogies. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://files.eric.ed.gov/fulltext/ED373306.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.eric.ed.gov">[ERIC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.eric.ed.gov</span><span class="citation-popover-title">ERICTeaching Science with Analogies</span><span class="citation-popover-snippet">ERICby SM Glynn · 1994 · Cited by 20 — ABSTRACT. This paper describes the role of analogy in science instruction and presents new researc...</span></span></span>
+A major limitation of single analogies is that every comparison highlights some features while concealing others. Researchers Richard Spiro and colleagues argued that reliance on one dominant analogy can cause learners to reduce a complex concept to an overly simple mental model. Their proposed solution was the deliberate use of multiple analogies.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://files.eric.ed.gov/fulltext/ED373306.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.eric.ed.gov">[ERIC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.eric.ed.gov</span><span class="citation-popover-title">ERICTeaching Science with Analogies</span><span class="citation-popover-snippet">ERICby SM Glynn · 1994 · Cited by 20 — ABSTRACT. This paper describes the role of analogy in science instruction and presents new researc...</span></span></span>
 
 When several analogies are presented together, students can see that each captures a different aspect of the target concept. No single analogy becomes the definitive explanation.
 
@@ -315,9 +315,9 @@ Consider the teaching of atoms:
 
 </div>
 
-Each analogy contributes insight, but each is also incomplete. Comparing them helps students understand that scientific concepts often require several representations rather than one perfect comparison. ERIC <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cambridge.org/core/books/similarity-and-analogical-reasoning/multiple-analogies-for-complex-concepts-antidotes-for-analogyinduced-misconception-in-advanced-knowledge-acquisition/FF07DBE3F194DB258119713D3000E730" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cambridge.org">[Cambridge University Press &amp; Assessment]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cambridge.org</span><span class="citation-popover-snippet">Cambridge University Press &amp; Assessment18 - Multiple analogies for complex concepts: antidotes...Analogies seduce learners into reducing...</span></span></span>
+Each analogy contributes insight, but each is also incomplete. Comparing them helps students understand that scientific concepts often require several representations rather than one perfect comparison. ERIC<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cambridge.org/core/books/similarity-and-analogical-reasoning/multiple-analogies-for-complex-concepts-antidotes-for-analogyinduced-misconception-in-advanced-knowledge-acquisition/FF07DBE3F194DB258119713D3000E730" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cambridge.org">[Cambridge University Press &amp; Assessment]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cambridge.org</span><span class="citation-popover-snippet">Cambridge University Press &amp; Assessment18 - Multiple analogies for complex concepts: antidotes...Analogies seduce learners into reducing...</span></span></span>
 
-Research on complex knowledge acquisition suggests that multiple analogies are particularly valuable when concepts contain many interacting elements or when misconceptions are already deeply rooted. They reduce the risk that learners will equate the concept entirely with one familiar image. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/272177924_Multiple_analogies_for_complex_concepts_Antidotes_for_analogy-induced_misconceptionin_advanced_knowledge_acquisition" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGate(PDF) Multiple analogies for complex concepts: Antidotes...Aug 17, 2015 — Previous studies have suggested that analogies are...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://files.eric.ed.gov/fulltext/ED284194.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.eric.ed.gov">[ERIC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.eric.ed.gov</span><span class="citation-popover-title">ERICGlynn, Shawn M</span><span class="citation-popover-snippet">TITLE Teaching Students to Solve Analogy...by DA King · 1986 · Cited by 4 — If analogies were utilizedmore consciously by teachers, stud...</span></span></span>
+Research on complex knowledge acquisition suggests that multiple analogies are particularly valuable when concepts contain many interacting elements or when misconceptions are already deeply rooted. They reduce the risk that learners will equate the concept entirely with one familiar image.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/272177924_Multiple_analogies_for_complex_concepts_Antidotes_for_analogy-induced_misconceptionin_advanced_knowledge_acquisition" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGate(PDF) Multiple analogies for complex concepts: Antidotes...Aug 17, 2015 — Previous studies have suggested that analogies are...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://files.eric.ed.gov/fulltext/ED284194.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.eric.ed.gov">[ERIC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.eric.ed.gov</span><span class="citation-popover-title">ERICGlynn, Shawn M</span><span class="citation-popover-snippet">TITLE Teaching Students to Solve Analogy...by DA King · 1986 · Cited by 4 — If analogies were utilizedmore consciously by teachers, stud...</span></span></span>
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_misleading_analogies_a297a0_teaching_analogy_lim_f2e1a2-Illustration-2-dark.svg" | relative_url }}" alt="Teaching Analogy Limits illustration 2" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_misleading_analogies_a297a0_teaching_analogy_lim_f2e1a2-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_misleading_analogies_a297a0_teaching_analogy_lim_f2e1a2-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Comparing Analogies Against One Another
@@ -332,11 +332,11 @@ An especially effective technique is to place two analogies side by side and ask
 
 </div>
 
-This comparative approach directs attention towards the target concept itself rather than towards any single source analogy. Research on analogical learning indicates that comparison supports recognition of deeper relational structures and improves transfer to new situations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.uciscienceoflearning.org/uploads/1/1/7/8/117864006/16_richland__2010__learning_by_analogy.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uciscienceoflearning.org">[Science of Learning Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uciscienceoflearning.org</span><span class="citation-popover-title">Science of Learning Lab Learning by analogy</span><span class="citation-popover-snippet">Science of Learning LabLearning by analogyOctober 14, 2009 — by LE Richland · 2009 · Cited by 223 — The ability to successfully discrimin...</span><span class="citation-popover-meta">Published: October 14, 2009</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://learninglab.uchicago.edu/Publications_files/Richland%26Simms_WIREs.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: learninglab.uchicago.edu">[2learninglab.uchicago.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">learninglab.uchicago.edu</span><span class="citation-popover-snippet">in the world as systems of relationships, such that these systems of relationships...Read more...</span></span></span>
+This comparative approach directs attention towards the target concept itself rather than towards any single source analogy. Research on analogical learning indicates that comparison supports recognition of deeper relational structures and improves transfer to new situations.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.uciscienceoflearning.org/uploads/1/1/7/8/117864006/16_richland__2010__learning_by_analogy.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uciscienceoflearning.org">[Science of Learning Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uciscienceoflearning.org</span><span class="citation-popover-title">Science of Learning Lab Learning by analogy</span><span class="citation-popover-snippet">Science of Learning LabLearning by analogyOctober 14, 2009 — by LE Richland · 2009 · Cited by 223 — The ability to successfully discrimin...</span><span class="citation-popover-meta">Published: October 14, 2009</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://learninglab.uchicago.edu/Publications_files/Richland%26Simms_WIREs.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: learninglab.uchicago.edu">[2learninglab.uchicago.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">learninglab.uchicago.edu</span><span class="citation-popover-snippet">in the world as systems of relationships, such that these systems of relationships...Read more...</span></span></span>
 
 ## Developing Analogy Discrimination Skills
 
-A long-term goal is not merely helping students understand a particular analogy but helping them evaluate analogies independently. Researchers increasingly describe this as analogy competence: the ability to select, interpret and critique analogical comparisons appropriately. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.tandfonline.com/doi/full/10.1080/03057267.2024.2434797" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tandfonline.com">[Taylor &amp; Francis Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tandfonline.com</span><span class="citation-popover-snippet">Taylor &amp; Francis OnlineFull article: Analogy competence for science teachersby S Eriksson · 2024 · Cited by 6 — The framework is aimed to...</span></span></span>
+A long-term goal is not merely helping students understand a particular analogy but helping them evaluate analogies independently. Researchers increasingly describe this as analogy competence: the ability to select, interpret and critique analogical comparisons appropriately.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.tandfonline.com/doi/full/10.1080/03057267.2024.2434797" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tandfonline.com">[Taylor &amp; Francis Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tandfonline.com</span><span class="citation-popover-snippet">Taylor &amp; Francis OnlineFull article: Analogy competence for science teachersby S Eriksson · 2024 · Cited by 6 — The framework is aimed to...</span></span></span>
 
 Developing this competence involves moving learners from consumers of analogies to analysts of analogies.
 
@@ -344,18 +344,18 @@ Useful classroom activities include:
 
 * Evaluating whether a proposed analogy is strong or weak.
 * Identifying missing correspondences.
-* Generating alternative analogies. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.apa.org/education-career/k12/misconceptions" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apa.org">[apa.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apa.org</span><span class="citation-popover-snippet">How do I get my students over their alternative conceptions...Using examples and analogies to remediate misconceptions in physics: Facto...</span></span></span>
+* Generating alternative analogies.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.apa.org/education-career/k12/misconceptions" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apa.org">[apa.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apa.org</span><span class="citation-popover-snippet">How do I get my students over their alternative conceptions...Using examples and analogies to remediate misconceptions in physics: Facto...</span></span></span>
 * Revising flawed analogies to improve accuracy.
-* Ranking multiple analogies according to explanatory power. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10074267/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCTeaching Postsecondary Students to Use Analogies as</span><span class="citation-popover-snippet">by JC Tise · 2023 · Cited by 17 — Analogical reasoning is an important type of cognition often used by experts across domains. Little...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.tandfonline.com/doi/full/10.1080/03057267.2024.2434797" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tandfonline.com">[Taylor]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tandfonline.com</span><span class="citation-popover-snippet">Taylor &amp; Francis OnlineFull article: Analogy competence for science teachersby S Eriksson · 2024 · Cited by 6 — The framework is aimed to...</span></span></span> & Francis Online
+* Ranking multiple analogies according to explanatory power.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10074267/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCTeaching Postsecondary Students to Use Analogies as</span><span class="citation-popover-snippet">by JC Tise · 2023 · Cited by 17 — Analogical reasoning is an important type of cognition often used by experts across domains. Little...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.tandfonline.com/doi/full/10.1080/03057267.2024.2434797" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tandfonline.com">[Taylor]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tandfonline.com</span><span class="citation-popover-snippet">Taylor &amp; Francis OnlineFull article: Analogy competence for science teachersby S Eriksson · 2024 · Cited by 6 — The framework is aimed to...</span></span></span> & Francis Online
 
-When students create their own analogies, teachers can ask them to provide a “limitations statement” alongside the comparison. This requirement normalises the idea that all analogies are partial representations. Research on teaching analogical reasoning suggests that generating and critiquing analogies strengthens transferable reasoning skills rather than merely supporting memorisation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10074267/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCTeaching Postsecondary Students to Use Analogies as</span><span class="citation-popover-snippet">by JC Tise · 2023 · Cited by 17 — Analogical reasoning is an important type of cognition often used by experts across domains. Little...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://eric.ed.gov/?id=ED301873" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ed.gov">[ERIC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ed.gov</span><span class="citation-popover-title">ERICERIC</span><span class="citation-popover-snippet">ED301873 - Multiple Analogies for Complex Conceptsby RJ Spiro · 1988 · Cited by 643 — This report argues that there exists a pervasive te...</span></span></span>
+When students create their own analogies, teachers can ask them to provide a “limitations statement” alongside the comparison. This requirement normalises the idea that all analogies are partial representations. Research on teaching analogical reasoning suggests that generating and critiquing analogies strengthens transferable reasoning skills rather than merely supporting memorisation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10074267/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCTeaching Postsecondary Students to Use Analogies as</span><span class="citation-popover-snippet">by JC Tise · 2023 · Cited by 17 — Analogical reasoning is an important type of cognition often used by experts across domains. Little...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://eric.ed.gov/?id=ED301873" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ed.gov">[ERIC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ed.gov</span><span class="citation-popover-title">ERICERIC</span><span class="citation-popover-snippet">ED301873 - Multiple Analogies for Complex Conceptsby RJ Spiro · 1988 · Cited by 643 — This report argues that there exists a pervasive te...</span></span></span>
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_misleading_analogies_a297a0_teaching_analogy_lim_f2e1a2-Illustration-3-dark.svg" | relative_url }}" alt="Teaching Analogy Limits illustration 3" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_misleading_analogies_a297a0_teaching_analogy_lim_f2e1a2-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_misleading_analogies_a297a0_teaching_analogy_lim_f2e1a2-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Using Bridging Analogies to Replace Misconceptions
 
-Some misconceptions are resistant because learners possess intuitive but incorrect [mental models]({{ 'mental-models/' | relative_url }}). In these cases, educators sometimes employ bridging analogies: a sequence of intermediate comparisons that gradually connect students' existing beliefs to the scientifically accepted explanation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.per-central.org/items/detail.cfm?ID=2356" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: per-central.org">[per-central.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">per-central.org</span><span class="citation-popover-snippet">A Comparison of Two Example-based Teaching StrategiesThis study was conducted in order to explore the effectiveness of an analogical teac...</span></span></span>
+Some misconceptions are resistant because learners possess intuitive but incorrect [mental models]({{ 'mental-models/' | relative_url }}). In these cases, educators sometimes employ bridging analogies: a sequence of intermediate comparisons that gradually connect students' existing beliefs to the scientifically accepted explanation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.per-central.org/items/detail.cfm?ID=2356" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: per-central.org">[per-central.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">per-central.org</span><span class="citation-popover-snippet">A Comparison of Two Example-based Teaching StrategiesThis study was conducted in order to explore the effectiveness of an analogical teac...</span></span></span>
 
-Rather than confronting a misconception directly with a single analogy, bridging sequences reduce cognitive distance. Each comparison addresses part of the misunderstanding while maintaining enough familiarity to remain believable. Research in physics education has shown that such sequences can be more effective than simple examples when correcting entrenched misconceptions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.per-central.org/items/detail.cfm?ID=2356" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: per-central.org">[per-central.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">per-central.org</span><span class="citation-popover-snippet">A Comparison of Two Example-based Teaching StrategiesThis study was conducted in order to explore the effectiveness of an analogical teac...</span></span></span>
+Rather than confronting a misconception directly with a single analogy, bridging sequences reduce cognitive distance. Each comparison addresses part of the misunderstanding while maintaining enough familiarity to remain believable. Research in physics education has shown that such sequences can be more effective than simple examples when correcting entrenched misconceptions.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.per-central.org/items/detail.cfm?ID=2356" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: per-central.org">[per-central.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">per-central.org</span><span class="citation-popover-snippet">A Comparison of Two Example-based Teaching StrategiesThis study was conducted in order to explore the effectiveness of an analogical teac...</span></span></span>
 
 ## What Effective Implementation Looks Like
 
@@ -367,203 +367,203 @@ Across decades of research, several instructional principles appear consistently
 * Explicitly map corresponding features.
 * Identify non-corresponding features with equal clarity.
 * Treat analogy limitations as part of the lesson, not as a footnote.
-* Use multiple analogies for complex topics. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cambridge.org/core/books/similarity-and-analogical-reasoning/multiple-analogies-for-complex-concepts-antidotes-for-analogyinduced-misconception-in-advanced-knowledge-acquisition/FF07DBE3F194DB258119713D3000E730" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cambridge.org">[cambridge.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cambridge.org</span><span class="citation-popover-snippet">Cambridge University Press &amp; Assessment18 - Multiple analogies for complex concepts: antidotes...Analogies seduce learners into reducing...</span></span></span>
+* Use multiple analogies for complex topics.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cambridge.org/core/books/similarity-and-analogical-reasoning/multiple-analogies-for-complex-concepts-antidotes-for-analogyinduced-misconception-in-advanced-knowledge-acquisition/FF07DBE3F194DB258119713D3000E730" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cambridge.org">[cambridge.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cambridge.org</span><span class="citation-popover-snippet">Cambridge University Press &amp; Assessment18 - Multiple analogies for complex concepts: antidotes...Analogies seduce learners into reducing...</span></span></span>
 * Encourage students to critique and compare analogies.
 * Revisit the target concept after the analogy is removed. [osu-wams-blogs-uploads.s3.amazonaws.com+3The Education University of Hong Kong+3ERIC]
 
 </div>
 
-These strategies shift analogies from persuasive stories to disciplined learning tools. In the context of myths and misconceptions, the key insight is that analogies become most educationally powerful when their imperfections are visible. Learners who understand where a comparison stops being accurate are less likely to carry forward false inferences and more likely to develop robust conceptual understanding. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10074267/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCTeaching Postsecondary Students to Use Analogies as</span><span class="citation-popover-snippet">by JC Tise · 2023 · Cited by 17 — Analogical reasoning is an important type of cognition often used by experts across domains. Little...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/21098382/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">in science and science teachingby S Brown · 2010 · Cited by 126 — Analogies are often used in science, but students may not appreciate th...</span></span></span>
+These strategies shift analogies from persuasive stories to disciplined learning tools. In the context of myths and misconceptions, the key insight is that analogies become most educationally powerful when their imperfections are visible. Learners who understand where a comparison stops being accurate are less likely to carry forward false inferences and more likely to develop robust conceptual understanding.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10074267/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCTeaching Postsecondary Students to Use Analogies as</span><span class="citation-popover-snippet">by JC Tise · 2023 · Cited by 17 — Analogical reasoning is an important type of cognition often used by experts across domains. Little...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/21098382/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">in science and science teachingby S Brown · 2010 · Cited by 126 — Analogies are often used in science, but students may not appreciate th...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How Clear Framing Prevents Misleading Analogies in Education. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How Clear Framing Prevents Misleading Analogies in Education. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+Learning+Works+by+Susan+A.+Ambrose&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How Learning Works on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=6nGaDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How Learning Works" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+Learning+Works+by+Susan+A.+Ambrose&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How Learning Works">How Learning Works</a>
-        </h4>
-        <p class="fr-book-author">By Susan A. Ambrose, Michael W. Bridges et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+Learning+Works+by+Susan+A.+Ambrose&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How Learning Works on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=6nGaDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How Learning Works" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=How+Learning+Works+by+Susan+A.+Ambrose&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How Learning Works">How Learning Works</a>
+</h4>
+<p class="fr-book-author">By Susan A. Ambrose, Michael W. Bridges et al.</p>
         
-        <p class="fr-book-desc">Directly addresses misconceptions and effective teaching methods.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+Learning+Works+by+Susan+A.+Ambrose&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly addresses misconceptions and effective teaching methods.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=How+Learning+Works+by+Susan+A.+Ambrose&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Make It Stick on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fpAXEQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Make It Stick" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Make It Stick">Make It Stick</a>
-        </h4>
-        <p class="fr-book-author">By Peter C. Brown, Henry L. Roediger III et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Make It Stick on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fpAXEQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Make It Stick" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Make It Stick">Make It Stick</a>
+</h4>
+<p class="fr-book-author">By Peter C. Brown, Henry L. Roediger III et al.</p>
         
-        <p class="fr-book-desc">Provides evidence-based approaches to durable understanding.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides evidence-based approaches to durable understanding.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Why+Don%27t+Students+Like+School%3F+by+Daniel+T.+Willingham&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Why Don&#x27;t Students Like School? on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=kuEmEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Why Don&#x27;t Students Like School?" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Why+Don%27t+Students+Like+School%3F+by+Daniel+T.+Willingham&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Why Don&#x27;t Students Like School?">Why Don&#x27;t Students Like School?</a>
-        </h4>
-        <p class="fr-book-author">By Daniel T. Willingham</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Why+Don%27t+Students+Like+School%3F+by+Daniel+T.+Willingham&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Why Don&#x27;t Students Like School? on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=kuEmEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Why Don&#x27;t Students Like School?" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Why+Don%27t+Students+Like+School%3F+by+Daniel+T.+Willingham&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Why Don&#x27;t Students Like School?">Why Don&#x27;t Students Like School?</a>
+</h4>
+<p class="fr-book-author">By Daniel T. Willingham</p>
         
-        <p class="fr-book-desc">Explains cognitive limits relevant to analogy-based instruction.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Why+Don%27t+Students+Like+School%3F+by+Daniel+T.+Willingham&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains cognitive limits relevant to analogy-based instruction.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Why+Don%27t+Students+Like+School%3F+by+Daniel+T.+Willingham&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Visible+Learning+for+Teachers+by+John+Hattie&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Visible Learning for Teachers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=vSoUT6PXdoIC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Visible Learning for Teachers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Visible+Learning+for+Teachers+by+John+Hattie&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Visible Learning for Teachers">Visible Learning for Teachers</a>
-        </h4>
-        <p class="fr-book-author">By John Hattie</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Visible+Learning+for+Teachers+by+John+Hattie&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Visible Learning for Teachers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=vSoUT6PXdoIC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Visible Learning for Teachers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Visible+Learning+for+Teachers+by+John+Hattie&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Visible Learning for Teachers">Visible Learning for Teachers</a>
+</h4>
+<p class="fr-book-author">By John Hattie</p>
         
-        <p class="fr-book-desc">Supports instructional strategies that clarify conceptual boundaries.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Visible+Learning+for+Teachers+by+John+Hattie&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Supports instructional strategies that clarify conceptual boundaries.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Visible+Learning+for+Teachers+by+John+Hattie&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+Learning+Works&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How Learning Works</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Make+It+Stick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Make It Stick</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Why+Don%27t+Students+Like+School%3F&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Why Don&#x27;t Students Like School?</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=How+Learning+Works&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How Learning Works</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Make+It+Stick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Make It Stick</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Why+Don%27t+Students+Like+School%3F&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Why Don&#x27;t Students Like School?</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=education+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=teaching-analogy-limits-how-clear-framing-prevents-misleading-analogies-in-education-myths-and-m-education-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="education wall art" data-ebay-reference="teaching-analogy-limits-how-clear-framing-prevents-misleading-analogies-in-education-myths-and-m-education-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Phonetic Alphabet International Wall Art Informative Education Poster Art"><img src="{{ '/assets/images/marketplace-covers/7765ead2918ad7c39ba6.jpg' | relative_url }}" alt="Listing image for Phonetic Alphabet International Wall Art Informative Education Poster Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=education+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=teaching-analogy-limits-how-clear-framing-prevents-misleading-analogies-in-education-myths-and-m-education-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="education wall art" data-ebay-reference="teaching-analogy-limits-how-clear-framing-prevents-misleading-analogies-in-education-myths-and-m-education-wall-art" target="_blank" rel="sponsored noopener noreferrer">Phonetic Alphabet International Wall Art Informative Education Poster Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=education+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=teaching-analogy-limits-how-clear-framing-prevents-misleading-analogies-in-education-myths-and-m-education-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="education wall art" data-ebay-reference="teaching-analogy-limits-how-clear-framing-prevents-misleading-analogies-in-education-myths-and-m-education-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for education wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: education wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=education+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=teaching-analogy-limits-how-clear-framing-prevents-misleading-analogies-in-education-myths-and-m-education-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="education wall art" data-ebay-reference="teaching-analogy-limits-how-clear-framing-prevents-misleading-analogies-in-education-myths-and-m-education-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=education+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=teaching-analogy-limits-how-clear-framing-prevents-misleading-analogies-in-education-myths-and-m-education-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="education wall art" data-ebay-reference="teaching-analogy-limits-how-clear-framing-prevents-misleading-analogies-in-education-myths-and-m-education-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Phonetic Alphabet International Wall Art Informative Education Poster Art"><img src="{{ '/assets/images/marketplace-covers/7765ead2918ad7c39ba6.jpg' | relative_url }}" alt="Listing image for Phonetic Alphabet International Wall Art Informative Education Poster Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=education+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=teaching-analogy-limits-how-clear-framing-prevents-misleading-analogies-in-education-myths-and-m-education-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="education wall art" data-ebay-reference="teaching-analogy-limits-how-clear-framing-prevents-misleading-analogies-in-education-myths-and-m-education-wall-art" target="_blank" rel="sponsored noopener noreferrer">Phonetic Alphabet International Wall Art Informative Education Poster Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=education+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=teaching-analogy-limits-how-clear-framing-prevents-misleading-analogies-in-education-myths-and-m-education-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="education wall art" data-ebay-reference="teaching-analogy-limits-how-clear-framing-prevents-misleading-analogies-in-education-myths-and-m-education-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for education wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: education wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=education+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=teaching-analogy-limits-how-clear-framing-prevents-misleading-analogies-in-education-myths-and-m-education-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="education wall art" data-ebay-reference="teaching-analogy-limits-how-clear-framing-prevents-misleading-analogies-in-education-myths-and-m-education-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=education+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=teaching-analogy-limits-how-clear-framing-prevents-misleading-analogies-in-education-myths-and-m-education-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="education wall art" data-ebay-reference="teaching-analogy-limits-how-clear-framing-prevents-misleading-analogies-in-education-myths-and-m-education-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 15 Pack Educational Poster Laminated Wall Chart for Children Kids Learning Art"><img src="{{ '/assets/images/marketplace-covers/4ab7b16839228e8d5e64.jpg' | relative_url }}" alt="Listing image for 15 Pack Educational Poster Laminated Wall Chart for Children Kids Learning Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=education+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=teaching-analogy-limits-how-clear-framing-prevents-misleading-analogies-in-education-myths-and-m-education-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="education wall art" data-ebay-reference="teaching-analogy-limits-how-clear-framing-prevents-misleading-analogies-in-education-myths-and-m-education-wall-art" target="_blank" rel="sponsored noopener noreferrer">15 Pack Educational Poster Laminated Wall Chart for Children Kids Learning Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=education+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=teaching-analogy-limits-how-clear-framing-prevents-misleading-analogies-in-education-myths-and-m-education-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="education wall art" data-ebay-reference="teaching-analogy-limits-how-clear-framing-prevents-misleading-analogies-in-education-myths-and-m-education-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for education wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: education wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=education+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=teaching-analogy-limits-how-clear-framing-prevents-misleading-analogies-in-education-myths-and-m-education-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="education wall art" data-ebay-reference="teaching-analogy-limits-how-clear-framing-prevents-misleading-analogies-in-education-myths-and-m-education-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=education+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=teaching-analogy-limits-how-clear-framing-prevents-misleading-analogies-in-education-myths-and-m-education-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="education wall art" data-ebay-reference="teaching-analogy-limits-how-clear-framing-prevents-misleading-analogies-in-education-myths-and-m-education-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 15 Pack Educational Poster Laminated Wall Chart for Children Kids Learning Art"><img src="{{ '/assets/images/marketplace-covers/4ab7b16839228e8d5e64.jpg' | relative_url }}" alt="Listing image for 15 Pack Educational Poster Laminated Wall Chart for Children Kids Learning Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=education+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=teaching-analogy-limits-how-clear-framing-prevents-misleading-analogies-in-education-myths-and-m-education-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="education wall art" data-ebay-reference="teaching-analogy-limits-how-clear-framing-prevents-misleading-analogies-in-education-myths-and-m-education-wall-art" target="_blank" rel="sponsored noopener noreferrer">15 Pack Educational Poster Laminated Wall Chart for Children Kids Learning Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=education+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=teaching-analogy-limits-how-clear-framing-prevents-misleading-analogies-in-education-myths-and-m-education-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="education wall art" data-ebay-reference="teaching-analogy-limits-how-clear-framing-prevents-misleading-analogies-in-education-myths-and-m-education-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for education wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: education wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=education+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=teaching-analogy-limits-how-clear-framing-prevents-misleading-analogies-in-education-myths-and-m-education-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="education wall art" data-ebay-reference="teaching-analogy-limits-how-clear-framing-prevents-misleading-analogies-in-education-myths-and-m-education-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=education+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=teaching-analogy-limits-how-clear-framing-prevents-misleading-analogies-in-education-myths-and-m-education-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="education wall art" data-ebay-reference="teaching-analogy-limits-how-clear-framing-prevents-misleading-analogies-in-education-myths-and-m-education-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for educational NUMBER (1-20) square large A2 laminated maths wall nursery Poster"><img src="{{ '/assets/images/marketplace-covers/a7733c0fff66bdc76df2.jpg' | relative_url }}" alt="Listing image for educational NUMBER (1-20) square large A2 laminated maths wall nursery Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=education+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=teaching-analogy-limits-how-clear-framing-prevents-misleading-analogies-in-education-myths-and-m-education-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="education wall art" data-ebay-reference="teaching-analogy-limits-how-clear-framing-prevents-misleading-analogies-in-education-myths-and-m-education-wall-art" target="_blank" rel="sponsored noopener noreferrer">educational NUMBER (1-20) square large A2 laminated maths wall nursery Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=education+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=teaching-analogy-limits-how-clear-framing-prevents-misleading-analogies-in-education-myths-and-m-education-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="education wall art" data-ebay-reference="teaching-analogy-limits-how-clear-framing-prevents-misleading-analogies-in-education-myths-and-m-education-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for education wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: education wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=education+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=teaching-analogy-limits-how-clear-framing-prevents-misleading-analogies-in-education-myths-and-m-education-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="education wall art" data-ebay-reference="teaching-analogy-limits-how-clear-framing-prevents-misleading-analogies-in-education-myths-and-m-education-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=education+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=teaching-analogy-limits-how-clear-framing-prevents-misleading-analogies-in-education-myths-and-m-education-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="education wall art" data-ebay-reference="teaching-analogy-limits-how-clear-framing-prevents-misleading-analogies-in-education-myths-and-m-education-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for educational NUMBER (1-20) square large A2 laminated maths wall nursery Poster"><img src="{{ '/assets/images/marketplace-covers/a7733c0fff66bdc76df2.jpg' | relative_url }}" alt="Listing image for educational NUMBER (1-20) square large A2 laminated maths wall nursery Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=education+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=teaching-analogy-limits-how-clear-framing-prevents-misleading-analogies-in-education-myths-and-m-education-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="education wall art" data-ebay-reference="teaching-analogy-limits-how-clear-framing-prevents-misleading-analogies-in-education-myths-and-m-education-wall-art" target="_blank" rel="sponsored noopener noreferrer">educational NUMBER (1-20) square large A2 laminated maths wall nursery Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=education+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=teaching-analogy-limits-how-clear-framing-prevents-misleading-analogies-in-education-myths-and-m-education-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="education wall art" data-ebay-reference="teaching-analogy-limits-how-clear-framing-prevents-misleading-analogies-in-education-myths-and-m-education-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for education wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: education wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=education+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=teaching-analogy-limits-how-clear-framing-prevents-misleading-analogies-in-education-myths-and-m-education-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="education wall art" data-ebay-reference="teaching-analogy-limits-how-clear-framing-prevents-misleading-analogies-in-education-myths-and-m-education-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=education+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=teaching-analogy-limits-how-clear-framing-prevents-misleading-analogies-in-education-myths-and-m-education-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="education wall art" data-ebay-reference="teaching-analogy-limits-how-clear-framing-prevents-misleading-analogies-in-education-myths-and-m-education-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for NUMBERS square 1 to 100 A2 Laminated educational school math nursery wall poster"><img src="{{ '/assets/images/marketplace-covers/3f63cd296317fa735e26.jpg' | relative_url }}" alt="Listing image for NUMBERS square 1 to 100 A2 Laminated educational school math nursery wall poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=education+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=teaching-analogy-limits-how-clear-framing-prevents-misleading-analogies-in-education-myths-and-m-education-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="education wall art" data-ebay-reference="teaching-analogy-limits-how-clear-framing-prevents-misleading-analogies-in-education-myths-and-m-education-wall-art" target="_blank" rel="sponsored noopener noreferrer">NUMBERS square 1 to 100 A2 Laminated educational school math nursery wall poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=education+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=teaching-analogy-limits-how-clear-framing-prevents-misleading-analogies-in-education-myths-and-m-education-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="education wall art" data-ebay-reference="teaching-analogy-limits-how-clear-framing-prevents-misleading-analogies-in-education-myths-and-m-education-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for education wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: education wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=education+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=teaching-analogy-limits-how-clear-framing-prevents-misleading-analogies-in-education-myths-and-m-education-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="education wall art" data-ebay-reference="teaching-analogy-limits-how-clear-framing-prevents-misleading-analogies-in-education-myths-and-m-education-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=education+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=teaching-analogy-limits-how-clear-framing-prevents-misleading-analogies-in-education-myths-and-m-education-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="education wall art" data-ebay-reference="teaching-analogy-limits-how-clear-framing-prevents-misleading-analogies-in-education-myths-and-m-education-wall-art" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=education+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=teaching-analogy-limits-how-clear-framing-prevents-misleading-analogies-in-education-myths-and-m-education-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="education wall art" data-ebay-reference="teaching-analogy-limits-how-clear-framing-prevents-misleading-analogies-in-education-myths-and-m-education-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for NUMBERS square 1 to 100 A2 Laminated educational school math nursery wall poster"><img src="{{ '/assets/images/marketplace-covers/3f63cd296317fa735e26.jpg' | relative_url }}" alt="Listing image for NUMBERS square 1 to 100 A2 Laminated educational school math nursery wall poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=education+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=teaching-analogy-limits-how-clear-framing-prevents-misleading-analogies-in-education-myths-and-m-education-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="education wall art" data-ebay-reference="teaching-analogy-limits-how-clear-framing-prevents-misleading-analogies-in-education-myths-and-m-education-wall-art" target="_blank" rel="sponsored noopener noreferrer">NUMBERS square 1 to 100 A2 Laminated educational school math nursery wall poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=education+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=teaching-analogy-limits-how-clear-framing-prevents-misleading-analogies-in-education-myths-and-m-education-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="education wall art" data-ebay-reference="teaching-analogy-limits-how-clear-framing-prevents-misleading-analogies-in-education-myths-and-m-education-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for education wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: education wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=education+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=teaching-analogy-limits-how-clear-framing-prevents-misleading-analogies-in-education-myths-and-m-education-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="education wall art" data-ebay-reference="teaching-analogy-limits-how-clear-framing-prevents-misleading-analogies-in-education-myths-and-m-education-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=education+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=teaching-analogy-limits-how-clear-framing-prevents-misleading-analogies-in-education-myths-and-m-education-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="education wall art" data-ebay-reference="teaching-analogy-limits-how-clear-framing-prevents-misleading-analogies-in-education-myths-and-m-education-wall-art" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -579,7 +579,7 @@ These strategies shift analogies from persuasive stories to disciplined learning
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -599,7 +599,7 @@ These strategies shift analogies from persuasive stories to disciplined learning
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -631,7 +631,7 @@ These strategies shift analogies from persuasive stories to disciplined learning
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -683,7 +683,7 @@ These strategies shift analogies from persuasive stories to disciplined learning
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -728,7 +728,7 @@ These strategies shift analogies from persuasive stories to disciplined learning
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -769,171 +769,171 @@ These strategies shift analogies from persuasive stories to disciplined learning
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: files.eric.ed.gov  
    Title: ERICTeaching Science with Analogies  
-   Link: <a href="https://files.eric.ed.gov/fulltext/ED373306.pdf" target="_blank" rel="noopener noreferrer nofollow">https://files.eric.ed.gov/fulltext/ED373306.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ERICby SM Glynn · 1994 · Cited by 20 — ABSTRACT. This paper describes the role of analogy in science instruction and presents new researc...</p></details>
+   Link:<a href="https://files.eric.ed.gov/fulltext/ED373306.pdf" target="_blank" rel="noopener noreferrer nofollow">https://files.eric.ed.gov/fulltext/ED373306.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ERICby SM Glynn · 1994 · Cited by 20 — ABSTRACT. This paper describes the role of analogy in science instruction and presents new researc...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10228267/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10228267/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Improving University Life Science Instruction with Analogiesby S Petchey · 2023 · Cited by 22 — Though analogies can greatly benefit l...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10228267/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10228267/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Improving University Life Science Instruction with Analogiesby S Petchey · 2023 · Cited by 22 — Though analogies can greatly benefit l...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: osu-wams-blogs-uploads.s3.amazonaws.com  
-   Link: <a href="https://osu-wams-blogs-uploads.s3.amazonaws.com/blogs.dir/548/files/2010/10/Glynn2008MakingScienceConceptsMeaningful.pdf" target="_blank" rel="noopener noreferrer nofollow">https://osu-wams-blogs-uploads.s3.amazonaws.com/blogs.dir/548/files/2010/10/Glynn2008MakingScienceConceptsMeaningful.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>5.1 Making science concepts meaningful to studentsby SM Glynn · Cited by 181 — The Teaching-With-Analogies Model (Glynn, 2004, 2007) is b...</p></details>
+   Link:<a href="https://osu-wams-blogs-uploads.s3.amazonaws.com/blogs.dir/548/files/2010/10/Glynn2008MakingScienceConceptsMeaningful.pdf" target="_blank" rel="noopener noreferrer nofollow">https://osu-wams-blogs-uploads.s3.amazonaws.com/blogs.dir/548/files/2010/10/Glynn2008MakingScienceConceptsMeaningful.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>5.1 Making science concepts meaningful to studentsby SM Glynn · Cited by 181 — The Teaching-With-Analogies Model (Glynn, 2004, 2007) is b...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: learninglab.uchicago.edu  
-   Link: <a href="https://learninglab.uchicago.edu/Publications_files/Richland%26Simms_WIREs.pdf" target="_blank" rel="noopener noreferrer nofollow">https://learninglab.uchicago.edu/Publications_files/Richland%26Simms_WIREs.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>in the world as systems of relationships, such that these systems of relationships...Read more...</p></details>
+   Link:<a href="https://learninglab.uchicago.edu/Publications_files/Richland%26Simms_WIREs.pdf" target="_blank" rel="noopener noreferrer nofollow">https://learninglab.uchicago.edu/Publications_files/Richland%26Simms_WIREs.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>in the world as systems of relationships, such that these systems of relationships...Read more...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: par.nsf.gov  
-   Link: <a href="https://par.nsf.gov/servlets/purl/10330103" target="_blank" rel="noopener noreferrer nofollow">https://par.nsf.gov/servlets/purl/10330103</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>&amp; Holyoak, 1989; Gentner &amp; Markman, 1997; Gick &amp;. Holyoak...Read more...</p></details>
+   Link:<a href="https://par.nsf.gov/servlets/purl/10330103" target="_blank" rel="noopener noreferrer nofollow">https://par.nsf.gov/servlets/purl/10330103</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&amp; Holyoak, 1989; Gentner &amp; Markman, 1997; Gick &amp;. Holyoak...Read more...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: psychologyinaction.org  
-   Link: <a href="https://www.psychologyinaction.org/analogy-based-learning-in-the-classroom-implementing-strategies-to-promote-conceptual-understanding-and-performance/" target="_blank" rel="noopener noreferrer nofollow">https://www.psychologyinaction.org/analogy-based-learning-in-the-classroom-implementing-strategies-to-promote-conceptual-understanding-and-performance/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>he classroom that are crucial for students&#x27; success in analogical...Read more...</p></details>
+   Link:<a href="https://www.psychologyinaction.org/analogy-based-learning-in-the-classroom-implementing-strategies-to-promote-conceptual-understanding-and-performance/" target="_blank" rel="noopener noreferrer nofollow">https://www.psychologyinaction.org/analogy-based-learning-in-the-classroom-implementing-strategies-to-promote-conceptual-understanding-and-performance/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>he classroom that are crucial for students&#x27; success in analogical...Read more...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: karger.com  
    Title: Conceptual Change and Education The Neglected  
-   Link: <a href="https://karger.com/hde/article/67/2/88/836775/Conceptual-Change-and-Education-The-Neglected" target="_blank" rel="noopener noreferrer nofollow">https://karger.com/hde/article/67/2/88/836775/Conceptual-Change-and-Education-The-Neglected</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Karger PublishersConceptual Change and Education: The Neglected...by T Gennen · 2023 · Cited by 15 — Research on conceptual change (CC)...</p></details>
+   Link:<a href="https://karger.com/hde/article/67/2/88/836775/Conceptual-Change-and-Education-The-Neglected" target="_blank" rel="noopener noreferrer nofollow">https://karger.com/hde/article/67/2/88/836775/Conceptual-Change-and-Education-The-Neglected</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Karger PublishersConceptual Change and Education: The Neglected...by T Gennen · 2023 · Cited by 15 — Research on conceptual change (CC)...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCTeaching Postsecondary Students to Use Analogies as  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10074267/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10074267/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>by JC Tise · 2023 · Cited by 17 — Analogical reasoning is an important type of cognition often used by experts across domains. Little...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10074267/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10074267/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by JC Tise · 2023 · Cited by 17 — Analogical reasoning is an important type of cognition often used by experts across domains. Little...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: cambridge.org  
-   Link: <a href="https://www.cambridge.org/core/books/similarity-and-analogical-reasoning/multiple-analogies-for-complex-concepts-antidotes-for-analogyinduced-misconception-in-advanced-knowledge-acquisition/FF07DBE3F194DB258119713D3000E730" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/books/similarity-and-analogical-reasoning/multiple-analogies-for-complex-concepts-antidotes-for-analogyinduced-misconception-in-advanced-knowledge-acquisition/FF07DBE3F194DB258119713D3000E730</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Cambridge University Press &amp; Assessment18 - Multiple analogies for complex concepts: antidotes...Analogies seduce learners into reducing...</p></details>
+   Link:<a href="https://www.cambridge.org/core/books/similarity-and-analogical-reasoning/multiple-analogies-for-complex-concepts-antidotes-for-analogyinduced-misconception-in-advanced-knowledge-acquisition/FF07DBE3F194DB258119713D3000E730" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/books/similarity-and-analogical-reasoning/multiple-analogies-for-complex-concepts-antidotes-for-analogyinduced-misconception-in-advanced-knowledge-acquisition/FF07DBE3F194DB258119713D3000E730</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Cambridge University Press &amp; Assessment18 - Multiple analogies for complex concepts: antidotes...Analogies seduce learners into reducing...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/272177924_Multiple_analogies_for_complex_concepts_Antidotes_for_analogy-induced_misconceptionin_advanced_knowledge_acquisition" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/272177924_Multiple_analogies_for_complex_concepts_Antidotes_for_analogy-induced_misconceptionin_advanced_knowledge_acquisition</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ResearchGate(PDF) Multiple analogies for complex concepts: Antidotes...Aug 17, 2015 — Previous studies have suggested that analogies are...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/272177924_Multiple_analogies_for_complex_concepts_Antidotes_for_analogy-induced_misconceptionin_advanced_knowledge_acquisition" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/272177924_Multiple_analogies_for_complex_concepts_Antidotes_for_analogy-induced_misconceptionin_advanced_knowledge_acquisition</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ResearchGate(PDF) Multiple analogies for complex concepts: Antidotes...Aug 17, 2015 — Previous studies have suggested that analogies are...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: files.eric.ed.gov  
    Title: ERICGlynn, Shawn M  
-   Link: <a href="https://files.eric.ed.gov/fulltext/ED284194.pdf" target="_blank" rel="noopener noreferrer nofollow">https://files.eric.ed.gov/fulltext/ED284194.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>TITLE Teaching Students to Solve Analogy...by DA King · 1986 · Cited by 4 — If analogies were utilizedmore consciously by teachers, stud...</p></details>
+   Link:<a href="https://files.eric.ed.gov/fulltext/ED284194.pdf" target="_blank" rel="noopener noreferrer nofollow">https://files.eric.ed.gov/fulltext/ED284194.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>TITLE Teaching Students to Solve Analogy...by DA King · 1986 · Cited by 4 — If analogies were utilizedmore consciously by teachers, stud...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: per-central.org  
-   Link: <a href="https://www.per-central.org/items/detail.cfm?ID=2356" target="_blank" rel="noopener noreferrer nofollow">https://www.per-central.org/items/detail.cfm?ID=2356</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A Comparison of Two Example-based Teaching StrategiesThis study was conducted in order to explore the effectiveness of an analogical teac...</p></details>
+   Link:<a href="https://www.per-central.org/items/detail.cfm?ID=2356" target="_blank" rel="noopener noreferrer nofollow">https://www.per-central.org/items/detail.cfm?ID=2356</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A Comparison of Two Example-based Teaching StrategiesThis study was conducted in order to explore the effectiveness of an analogical teac...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: aare.edu.au  
-   Link: <a href="https://www.aare.edu.au/data/publications/1993/tread93223.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aare.edu.au/data/publications/1993/tread93223.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>When analogies are used during classroom instruction, discussion between teachers and students about the analogy should assist in the...</p></details>
+   Link:<a href="https://www.aare.edu.au/data/publications/1993/tread93223.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aare.edu.au/data/publications/1993/tread93223.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>When analogies are used during classroom instruction, discussion between teachers and students about the analogy should assist in the...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/333378368_Explaining_science_concepts_A_teaching-with-analogies_model" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/333378368_Explaining_science_concepts_A_teaching-with-analogies_model</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ncept, allowing the learner to undertake a comparison in either verbal or visual...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/333378368_Explaining_science_concepts_A_teaching-with-analogies_model" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/333378368_Explaining_science_concepts_A_teaching-with-analogies_model</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ncept, allowing the learner to undertake a comparison in either verbal or visual...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: researchonline.jcu.edu.au  
-   Link: <a href="https://researchonline.jcu.edu.au/53036/" target="_blank" rel="noopener noreferrer nofollow">https://researchonline.jcu.edu.au/53036/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>in science and science teachingby S Brown · 2010 · Cited by 129 — Analogies are often used in science, but students may not appreciate th...</p></details>
+   Link:<a href="https://researchonline.jcu.edu.au/53036/" target="_blank" rel="noopener noreferrer nofollow">https://researchonline.jcu.edu.au/53036/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>in science and science teachingby S Brown · 2010 · Cited by 129 — Analogies are often used in science, but students may not appreciate th...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/21098382/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/21098382/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>in science and science teachingby S Brown · 2010 · Cited by 126 — Analogies are often used in science, but students may not appreciate th...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/21098382/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/21098382/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>in science and science teachingby S Brown · 2010 · Cited by 126 — Analogies are often used in science, but students may not appreciate th...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: tandfonline.com  
-   Link: <a href="https://www.tandfonline.com/doi/full/10.1080/03057267.2024.2434797" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/full/10.1080/03057267.2024.2434797</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Taylor &amp; Francis OnlineFull article: Analogy competence for science teachersby S Eriksson · 2024 · Cited by 6 — The framework is aimed to...</p></details>
+   Link:<a href="https://www.tandfonline.com/doi/full/10.1080/03057267.2024.2434797" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/full/10.1080/03057267.2024.2434797</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Taylor &amp; Francis OnlineFull article: Analogy competence for science teachersby S Eriksson · 2024 · Cited by 6 — The framework is aimed to...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: eduhk.hk  
-   Link: <a href="https://www.eduhk.hk/apfslt/v13_issue1/yener/page2.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.eduhk.hk/apfslt/v13_issue1/yener/page2.htm</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Of these, the one which is used most is the Teaching with...Read more...</p></details>
+   Link:<a href="https://www.eduhk.hk/apfslt/v13_issue1/yener/page2.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.eduhk.hk/apfslt/v13_issue1/yener/page2.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Of these, the one which is used most is the Teaching with...Read more...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: my.chartered.college  
-   Link: <a href="https://my.chartered.college/impact_article/misconceptions-p-prims-and-bridging-analogies-in-physics-teaching/" target="_blank" rel="noopener noreferrer nofollow">https://my.chartered.college/impact_article/misconceptions-p-prims-and-bridging-analogies-in-physics-teaching/</a>  
+   Link:<a href="https://my.chartered.college/impact_article/misconceptions-p-prims-and-bridging-analogies-in-physics-teaching/" target="_blank" rel="noopener noreferrer nofollow">https://my.chartered.college/impact_article/misconceptions-p-prims-and-bridging-analogies-in-physics-teaching/</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: uciscienceoflearning.org  
    Title: Science of Learning Lab Learning by analogy  
-   Link: <a href="https://www.uciscienceoflearning.org/uploads/1/1/7/8/117864006/16_richland__2010__learning_by_analogy.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.uciscienceoflearning.org/uploads/1/1/7/8/117864006/16_richland__2010__learning_by_analogy.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Science of Learning LabLearning by analogyOctober 14, 2009 — by LE Richland · 2009 · Cited by 223 — The ability to successfully discrimin...</p></details>
+   Link:<a href="https://www.uciscienceoflearning.org/uploads/1/1/7/8/117864006/16_richland__2010__learning_by_analogy.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.uciscienceoflearning.org/uploads/1/1/7/8/117864006/16_richland__2010__learning_by_analogy.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Science of Learning LabLearning by analogyOctober 14, 2009 — by LE Richland · 2009 · Cited by 223 — The ability to successfully discrimin...</p></details>
    Published: October 14, 2009  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: taylorfrancis.com  
    Title: For example, Johannes Kepler, the eminent 17th-century  
-   Link: <a href="https://www.taylorfrancis.com/chapters/edit/10.4324/9780203052396-13/explaining-science-concepts-teaching-analogies-model-shawn-glynn" target="_blank" rel="noopener noreferrer nofollow">https://www.taylorfrancis.com/chapters/edit/10.4324/9780203052396-13/explaining-science-concepts-teaching-analogies-model-shawn-glynn</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Explaining Science Concepts: A Teaching-with-Analogies Modelby SM Glynn · 2012 · Cited by 693 — Analogical reasoning can play an importan...</p></details>
+   Link:<a href="https://www.taylorfrancis.com/chapters/edit/10.4324/9780203052396-13/explaining-science-concepts-teaching-analogies-model-shawn-glynn" target="_blank" rel="noopener noreferrer nofollow">https://www.taylorfrancis.com/chapters/edit/10.4324/9780203052396-13/explaining-science-concepts-teaching-analogies-model-shawn-glynn</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Explaining Science Concepts: A Teaching-with-Analogies Modelby SM Glynn · 2012 · Cited by 693 — Analogical reasoning can play an importan...</p></details>
 
 ### Additional References
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: science-education-research.com  
-   Link: <a href="https://science-education-research.com/teaching-science/teaching-with-analogies/" target="_blank" rel="noopener noreferrer nofollow">https://science-education-research.com/teaching-science/teaching-with-analogies/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Teaching with analogiesWe might consider the teaching analogy as being a bit like a reaction intermediate in a chemical reaction: &quot;So, te...</p></details>
+   Link:<a href="https://science-education-research.com/teaching-science/teaching-with-analogies/" target="_blank" rel="noopener noreferrer nofollow">https://science-education-research.com/teaching-science/teaching-with-analogies/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Teaching with analogiesWe might consider the teaching analogy as being a bit like a reaction intermediate in a chemical reaction: &quot;So, te...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: uakron.edu  
-   Link: <a href="https://www.uakron.edu/polymer/agpa-k12outreach/best-teaching-practices/teaching-for-conceptual-change" target="_blank" rel="noopener noreferrer nofollow">https://www.uakron.edu/polymer/agpa-k12outreach/best-teaching-practices/teaching-for-conceptual-change</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>teaching for conceptual changeTeachers help their students build understanding of complex scientific concepts by disassembling the concep...</p></details>
+   Link:<a href="https://www.uakron.edu/polymer/agpa-k12outreach/best-teaching-practices/teaching-for-conceptual-change" target="_blank" rel="noopener noreferrer nofollow">https://www.uakron.edu/polymer/agpa-k12outreach/best-teaching-practices/teaching-for-conceptual-change</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>teaching for conceptual changeTeachers help their students build understanding of complex scientific concepts by disassembling the concep...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: csun.edu  
-   Link: <a href="https://www.csun.edu/science/books/sourcebook/chapters/10-analogies/teaching-analogies.html" target="_blank" rel="noopener noreferrer nofollow">https://www.csun.edu/science/books/sourcebook/chapters/10-analogies/teaching-analogies.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>teaching with analogiesTeaching science with analogies: A strategy for constructing knowledge. In S. M. Glynn and R. Duit (Eds.). Learnin...</p></details>
+   Link:<a href="https://www.csun.edu/science/books/sourcebook/chapters/10-analogies/teaching-analogies.html" target="_blank" rel="noopener noreferrer nofollow">https://www.csun.edu/science/books/sourcebook/chapters/10-analogies/teaching-analogies.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>teaching with analogiesTeaching science with analogies: A strategy for constructing knowledge. In S. M. Glynn and R. Duit (Eds.). Learnin...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: eu-jer.com  
    Title: science teachers use of analogies findings from classroom practices  
-   Link: <a href="https://www.eu-jer.com/science-teachers-use-of-analogies-findings-from-classroom-practices" target="_blank" rel="noopener noreferrer nofollow">https://www.eu-jer.com/science-teachers-use-of-analogies-findings-from-classroom-practices</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Science Teachers&#x27; Use of Analogies: Findings from...by ZA Shana · 2022 · Cited by 17 — This paper is a quasi-experimental investigation...</p></details>
+   Link:<a href="https://www.eu-jer.com/science-teachers-use-of-analogies-findings-from-classroom-practices" target="_blank" rel="noopener noreferrer nofollow">https://www.eu-jer.com/science-teachers-use-of-analogies-findings-from-classroom-practices</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Science Teachers&#x27; Use of Analogies: Findings from...by ZA Shana · 2022 · Cited by 17 — This paper is a quasi-experimental investigation...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: boldscience.org  
    Title: BOLDHow can analogies promote learning?  
-   Link: <a href="https://boldscience.org/how-can-analogies-promote-learning/" target="_blank" rel="noopener noreferrer nofollow">https://boldscience.org/how-can-analogies-promote-learning/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>BOLDAug 11, 2022 — Analogies can increase comprehension and reduce misconceptions. They may be particularly helpful for learning about co...</p></details>
+   Link:<a href="https://boldscience.org/how-can-analogies-promote-learning/" target="_blank" rel="noopener noreferrer nofollow">https://boldscience.org/how-can-analogies-promote-learning/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>BOLDAug 11, 2022 — Analogies can increase comprehension and reduce misconceptions. They may be particularly helpful for learning about co...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: macstandl.com  
-   Link: <a href="https://macstandl.com/analogies-and-multiple-explanations/" target="_blank" rel="noopener noreferrer nofollow">https://macstandl.com/analogies-and-multiple-explanations/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Analogies and Multiple ExplanationsGood analogies are simple, easy to remember, and based on familiar analogous concepts...</p></details>
+   Link:<a href="https://macstandl.com/analogies-and-multiple-explanations/" target="_blank" rel="noopener noreferrer nofollow">https://macstandl.com/analogies-and-multiple-explanations/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Analogies and Multiple ExplanationsGood analogies are simple, easy to remember, and based on familiar analogous concepts...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: science-education-research.com  
    Title: learning from ones own teaching analogy  
-   Link: <a href="https://science-education-research.com/learning-from-ones-own-teaching-analogy/" target="_blank" rel="noopener noreferrer nofollow">https://science-education-research.com/learning-from-ones-own-teaching-analogy/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Learning from one&#x27;s own teaching analogyAug 24, 2023 — Analogy can be a useful thinking tool for scientists, as well as a means of gettin...</p></details>
+   Link:<a href="https://science-education-research.com/learning-from-ones-own-teaching-analogy/" target="_blank" rel="noopener noreferrer nofollow">https://science-education-research.com/learning-from-ones-own-teaching-analogy/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Learning from one&#x27;s own teaching analogyAug 24, 2023 — Analogy can be a useful thinking tool for scientists, as well as a means of gettin...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: sciencedirect.com  
    Title: ScienceDirect Conceptual Change Theory  
-   Link: <a href="https://www.sciencedirect.com/topics/psychology/conceptual-change-theory" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/topics/psychology/conceptual-change-theory</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Conceptual Change Theory - an overviewConceptual change theory refers to frameworks that guide the design of educational interventions ai...</p></details>
+   Link:<a href="https://www.sciencedirect.com/topics/psychology/conceptual-change-theory" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/topics/psychology/conceptual-change-theory</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Conceptual Change Theory - an overviewConceptual change theory refers to frameworks that guide the design of educational interventions ai...</p></details>
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: apa.org  
-   Link: <a href="https://www.apa.org/education-career/k12/misconceptions" target="_blank" rel="noopener noreferrer nofollow">https://www.apa.org/education-career/k12/misconceptions</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How do I get my students over their alternative conceptions...Using examples and analogies to remediate misconceptions in physics: Facto...</p></details>
+   Link:<a href="https://www.apa.org/education-career/k12/misconceptions" target="_blank" rel="noopener noreferrer nofollow">https://www.apa.org/education-career/k12/misconceptions</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How do I get my students over their alternative conceptions...Using examples and analogies to remediate misconceptions in physics: Facto...</p></details>
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: edutopia.org  
    Title: The Learning Science Behind Analogies  
-   Link: <a href="https://www.edutopia.org/article/using-analogies-teaching/" target="_blank" rel="noopener noreferrer nofollow">https://www.edutopia.org/article/using-analogies-teaching/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>May 30, 2023 — Analogies are a powerful teaching strategy because they help students remember new information by connecting it to an exis...</p></details>
+   Link:<a href="https://www.edutopia.org/article/using-analogies-teaching/" target="_blank" rel="noopener noreferrer nofollow">https://www.edutopia.org/article/using-analogies-teaching/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>May 30, 2023 — Analogies are a powerful teaching strategy because they help students remember new information by connecting it to an exis...</p></details>
    Published: May 30, 2023

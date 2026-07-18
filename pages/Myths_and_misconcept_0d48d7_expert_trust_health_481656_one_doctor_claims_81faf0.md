@@ -285,7 +285,7 @@ A medical qualification is a powerful cue. In everyday life, most people cannot 
 
 The difficulty is that the credential often travels further than the accompanying uncertainty. A physician may discuss a preliminary finding, a speculative hypothesis or a personal interpretation of limited data. As the claim moves through news reports, social media posts and word of mouth, the nuance is stripped away. What remains is a simplified message: “A doctor says this causes cancer”, “A doctor says [vaccines]({{ 'vaccines/' | relative_url }}) are dangerous”, or “A doctor says this supplement cures disease”.
 
-Research on credibility judgments suggests that perceived expertise strongly shapes whether people accept health information, sometimes more than the quality of the evidence itself. Studies of online [health claims]({{ 'health-claims/' | relative_url }}) have found that source expertise has a major effect on perceived credibility, even when supporting evidence is weak or inaccurate. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2303.09656" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Revealing complexities when adult readers engage in the credibility evaluation of social media postsMarch 16, 2023...</span><span class="citation-popover-meta">Published: March 16, 2023</span></span></span>
+Research on credibility judgments suggests that perceived expertise strongly shapes whether people accept health information, sometimes more than the quality of the evidence itself. Studies of online [health claims]({{ 'health-claims/' | relative_url }}) have found that source expertise has a major effect on perceived credibility, even when supporting evidence is weak or inaccurate.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2303.09656" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Revealing complexities when adult readers engage in the credibility evaluation of social media postsMarch 16, 2023...</span><span class="citation-popover-meta">Published: March 16, 2023</span></span></span>
 
 The authority cue is especially durable because it is easy to remember. Most people will not recall the sample size of a study or the details of a re-analysis years later. They may, however, remember that “a doctor warned about it”.
 
@@ -303,15 +303,15 @@ The lesson is not that medical expertise is untrustworthy. Rather, it demonstrat
 
 [Corrections]({{ 'corrections/' | relative_url }}) face a structural disadvantage. The original claim is often novel, alarming or emotionally engaging. The correction usually arrives later and is less dramatic.
 
-Psychologists describe a phenomenon called the “continued influence effect”, in which people continue to rely on misinformation even after it has been explicitly corrected. Decades of research show that retractions and corrections often reduce belief but rarely eliminate the influence of the original claim altogether. PMC <span class="citation-chip-wrap"><a class="citation-chip" href="https://link.springer.com/article/10.1186/s41235-021-00335-9" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer Link]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">Springer LinkExploring factors that mitigate the continued influence of...by IP Kan · 2021 · Cited by 27 — The term “continued influence...</span></span></span>
+Psychologists describe a phenomenon called the “continued influence effect”, in which people continue to rely on misinformation even after it has been explicitly corrected. Decades of research show that retractions and corrections often reduce belief but rarely eliminate the influence of the original claim altogether. PMC<span class="citation-chip-wrap"><a class="citation-chip" href="https://link.springer.com/article/10.1186/s41235-021-00335-9" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer Link]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">Springer LinkExploring factors that mitigate the continued influence of...by IP Kan · 2021 · Cited by 27 — The term “continued influence...</span></span></span>
 
 Several mechanisms make this especially difficult when the original source was a doctor.
 
-**The first message becomes the mental anchor.** Once people have built an explanation around a claim, removing it creates a gap in their understanding. The original story remains cognitively useful even after it has been challenged. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8627545/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCExploring factors that mitigate the continued influence</span><span class="citation-popover-snippet">by IP Kan · 2021 · Cited by 27 — The term “continued influence effect” (CIE) refers to the phenomenon that discredited and obsolete in...</span></span></span>
+**The first message becomes the mental anchor.** Once people have built an explanation around a claim, removing it creates a gap in their understanding. The original story remains cognitively useful even after it has been challenged.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8627545/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCExploring factors that mitigate the continued influence</span><span class="citation-popover-snippet">by IP Kan · 2021 · Cited by 27 — The term “continued influence effect” (CIE) refers to the phenomenon that discredited and obsolete in...</span></span></span>
 
-**Authority creates a [memory]({{ 'memory/' | relative_url }}) advantage.** People may forget details of both the claim and the correction, yet retain the impression that a qualified professional endorsed the original idea. Source expertise has a disproportionate influence on credibility judgments. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2303.09656" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Revealing complexities when adult readers engage in the credibility evaluation of social media postsMarch 16, 2023...</span><span class="citation-popover-meta">Published: March 16, 2023</span></span></span>
+**Authority creates a [memory]({{ 'memory/' | relative_url }}) advantage.** People may forget details of both the claim and the correction, yet retain the impression that a qualified professional endorsed the original idea. Source expertise has a disproportionate influence on credibility judgments.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2303.09656" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Revealing complexities when adult readers engage in the credibility evaluation of social media postsMarch 16, 2023...</span><span class="citation-popover-meta">Published: March 16, 2023</span></span></span>
 
-**Corrections can create psychological discomfort.** Research suggests that retracting previously accepted information can generate discomfort and uncertainty. Some individuals reduce that discomfort by continuing to rely on the original belief. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7810102/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCCan you believe it?</span><span class="citation-popover-snippet">An investigation into the impact of... - PMCby UKH Ecker · 2021 · Cited by 212 — The continued influence effect refers to the finding th...</span></span></span>
+**Corrections can create psychological discomfort.** Research suggests that retracting previously accepted information can generate discomfort and uncertainty. Some individuals reduce that discomfort by continuing to rely on the original belief.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7810102/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCCan you believe it?</span><span class="citation-popover-snippet">An investigation into the impact of... - PMCby UKH Ecker · 2021 · Cited by 212 — The continued influence effect refers to the finding th...</span></span></span>
 
 **Scientific updates sound weaker than confident claims.** Science often communicates in probabilities and degrees of certainty. A myth-promoting doctor may speak in absolutes. To many listeners, certainty sounds more persuasive than caution even when caution is more evidence-based.
 
@@ -326,7 +326,7 @@ A doctor's qualification is evidence that the person has training. It is not pro
 
 This distinction matters because myths often present a lone doctor as though they represent hidden truth against an establishment. In reality, a disagreement between one physician and a broad body of evidence is not a contest between equal forms of expertise. It is a contest between an individual opinion and a cumulative process.
 
-Health authorities continue to rely heavily on trusted clinicians as messengers because professional expertise generally improves public understanding. Organisations such as the World Health Organization describe health workers as trusted communicators whose credibility can help counter misinformation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.who.int/europe/news/item/09-12-2024-trusted-messengers--community-anchors-and-agents-of-change--engaging-health-and-care-workers-in-times-of-crisis" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: who.int">[World Health Organization]</a><span class="citation-popover" role="note"><span class="citation-popover-source">who.int</span><span class="citation-popover-snippet">World Health OrganizationTrusted messengers, community anchors and agents of...9 Dec 2024 — Recognizing that health and care workers (HC...</span></span></span>
+Health authorities continue to rely heavily on trusted clinicians as messengers because professional expertise generally improves public understanding. Organisations such as the World Health Organization describe health workers as trusted communicators whose credibility can help counter misinformation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.who.int/europe/news/item/09-12-2024-trusted-messengers--community-anchors-and-agents-of-change--engaging-health-and-care-workers-in-times-of-crisis" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: who.int">[World Health Organization]</a><span class="citation-popover" role="note"><span class="citation-popover-source">who.int</span><span class="citation-popover-snippet">World Health OrganizationTrusted messengers, community anchors and agents of...9 Dec 2024 — Recognizing that health and care workers (HC...</span></span></span>
 
 The challenge is recognising that trust in doctors works best when it is connected to evidence, not substituted for it.
 
@@ -357,194 +357,194 @@ The enduring power of a doctor's claim comes from a mismatch between how informa
 By the time the evidence is settled, the original authority signal may already be embedded in memory. People remember who spoke, not necessarily what happened afterward. That is why a single doctor's claim can keep a health myth alive long after the scientific record has moved on, and why evaluating evidence requires looking beyond the authority of the messenger to the strength of the proof behind the message.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why One Doctor Can Keep a Myth Alive. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why One Doctor Can Keep a Myth Alive. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Bad+Science+by+Ben+Goldacre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Bad Science on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=wICuv0ePMYoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Bad Science" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Bad+Science+by+Ben+Goldacre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Bad Science">Bad Science</a>
-        </h4>
-        <p class="fr-book-author">By Ben Goldacre</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Bad+Science+by+Ben+Goldacre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Bad Science on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=wICuv0ePMYoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Bad Science" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Bad+Science+by+Ben+Goldacre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Bad Science">Bad Science</a>
+</h4>
+<p class="fr-book-author">By Ben Goldacre</p>
         
-        <p class="fr-book-desc">Examines how expert claims can outrun evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Bad+Science+by+Ben+Goldacre&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines how expert claims can outrun evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Bad+Science+by+Ben+Goldacre&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Calling Bullshit on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Plu9DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Calling Bullshit" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Calling Bullshit">Calling Bullshit</a>
-        </h4>
-        <p class="fr-book-author">By Carl T. Bergstrom, Jevin D. West</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Calling Bullshit on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Plu9DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Calling Bullshit" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Calling Bullshit">Calling Bullshit</a>
+</h4>
+<p class="fr-book-author">By Carl T. Bergstrom, Jevin D. West</p>
         
-        <p class="fr-book-desc">Teaches readers to assess claims beyond credentials.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Teaches readers to assess claims beyond credentials.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Skeptics&#x27; Guide to the Universe on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CuVKDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Skeptics&#x27; Guide to the Universe" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Skeptics&#x27; Guide to the Universe">The Skeptics&#x27; Guide to the Universe</a>
-        </h4>
-        <p class="fr-book-author">By Dr. Steven Novella</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Skeptics&#x27; Guide to the Universe on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CuVKDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Skeptics&#x27; Guide to the Universe" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Skeptics&#x27; Guide to the Universe">The Skeptics&#x27; Guide to the Universe</a>
+</h4>
+<p class="fr-book-author">By Dr. Steven Novella</p>
         
-        <p class="fr-book-desc">Provides tools for evaluating expert authority.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides tools for evaluating expert authority.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YGPzXWanppcC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
-        </h4>
-        <p class="fr-book-author">By Daniel Kahneman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YGPzXWanppcC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
+</h4>
+<p class="fr-book-author">By Daniel Kahneman</p>
         
-        <p class="fr-book-desc">Explains reliance on authority heuristics.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains reliance on authority heuristics.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Bad+Science&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Bad Science</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Calling+Bullshit&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Calling Bullshit</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Skeptics%27+to+the+Universe+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Skeptics&#x27; to the Universe books</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Bad+Science&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Bad Science</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Calling+Bullshit&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Calling Bullshit</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Skeptics%27+to+the+Universe+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Skeptics&#x27; to the Universe books</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=communication+skills+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=one-doctor-why-one-doctor-can-keep-a-myth-alive-myths-and-misconcept-communication-skills-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="communication skills poster" data-ebay-reference="one-doctor-why-one-doctor-can-keep-a-myth-alive-myths-and-misconcept-communication-skills-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Richard J. Leider/David A. Shapiro Lass endlich los und lebe [3 CD]"><img src="{{ '/assets/images/marketplace-covers/711ca737f89123fbe471.jpg' | relative_url }}" alt="Listing image for Richard J. Leider/David A. Shapiro Lass endlich los und lebe [3 CD]" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=communication+skills+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=one-doctor-why-one-doctor-can-keep-a-myth-alive-myths-and-misconcept-communication-skills-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="communication skills poster" data-ebay-reference="one-doctor-why-one-doctor-can-keep-a-myth-alive-myths-and-misconcept-communication-skills-poster" target="_blank" rel="sponsored noopener noreferrer">Richard J. Leider/David A. Shapiro Lass endlich los und lebe [3 CD]</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=communication+skills+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=one-doctor-why-one-doctor-can-keep-a-myth-alive-myths-and-misconcept-communication-skills-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="communication skills poster" data-ebay-reference="one-doctor-why-one-doctor-can-keep-a-myth-alive-myths-and-misconcept-communication-skills-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for communication skills poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: communication skills poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=communication+skills+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=one-doctor-why-one-doctor-can-keep-a-myth-alive-myths-and-misconcept-communication-skills-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="communication skills poster" data-ebay-reference="one-doctor-why-one-doctor-can-keep-a-myth-alive-myths-and-misconcept-communication-skills-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=communication+skills+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=one-doctor-why-one-doctor-can-keep-a-myth-alive-myths-and-misconcept-communication-skills-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="communication skills poster" data-ebay-reference="one-doctor-why-one-doctor-can-keep-a-myth-alive-myths-and-misconcept-communication-skills-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Richard J. Leider/David A. Shapiro Lass endlich los und lebe [3 CD]"><img src="{{ '/assets/images/marketplace-covers/711ca737f89123fbe471.jpg' | relative_url }}" alt="Listing image for Richard J. Leider/David A. Shapiro Lass endlich los und lebe [3 CD]" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=communication+skills+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=one-doctor-why-one-doctor-can-keep-a-myth-alive-myths-and-misconcept-communication-skills-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="communication skills poster" data-ebay-reference="one-doctor-why-one-doctor-can-keep-a-myth-alive-myths-and-misconcept-communication-skills-poster" target="_blank" rel="sponsored noopener noreferrer">Richard J. Leider/David A. Shapiro Lass endlich los und lebe [3 CD]</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=communication+skills+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=one-doctor-why-one-doctor-can-keep-a-myth-alive-myths-and-misconcept-communication-skills-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="communication skills poster" data-ebay-reference="one-doctor-why-one-doctor-can-keep-a-myth-alive-myths-and-misconcept-communication-skills-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for communication skills poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: communication skills poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=communication+skills+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=one-doctor-why-one-doctor-can-keep-a-myth-alive-myths-and-misconcept-communication-skills-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="communication skills poster" data-ebay-reference="one-doctor-why-one-doctor-can-keep-a-myth-alive-myths-and-misconcept-communication-skills-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=communication+skills+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=one-doctor-why-one-doctor-can-keep-a-myth-alive-myths-and-misconcept-communication-skills-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="communication skills poster" data-ebay-reference="one-doctor-why-one-doctor-can-keep-a-myth-alive-myths-and-misconcept-communication-skills-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Colorful Communication Flash Cards with Emotional Support Posters - 24 Piece Set"><img src="{{ '/assets/images/marketplace-covers/18899181e94a7686eb2a.jpg' | relative_url }}" alt="Listing image for Colorful Communication Flash Cards with Emotional Support Posters - 24 Piece Set" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=communication+skills+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=one-doctor-why-one-doctor-can-keep-a-myth-alive-myths-and-misconcept-communication-skills-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="communication skills poster" data-ebay-reference="one-doctor-why-one-doctor-can-keep-a-myth-alive-myths-and-misconcept-communication-skills-poster" target="_blank" rel="sponsored noopener noreferrer">Colorful Communication Flash Cards with Emotional Support Posters - 24 Piece Set</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=communication+skills+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=one-doctor-why-one-doctor-can-keep-a-myth-alive-myths-and-misconcept-communication-skills-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="communication skills poster" data-ebay-reference="one-doctor-why-one-doctor-can-keep-a-myth-alive-myths-and-misconcept-communication-skills-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for communication skills poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: communication skills poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=communication+skills+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=one-doctor-why-one-doctor-can-keep-a-myth-alive-myths-and-misconcept-communication-skills-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="communication skills poster" data-ebay-reference="one-doctor-why-one-doctor-can-keep-a-myth-alive-myths-and-misconcept-communication-skills-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=communication+skills+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=one-doctor-why-one-doctor-can-keep-a-myth-alive-myths-and-misconcept-communication-skills-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="communication skills poster" data-ebay-reference="one-doctor-why-one-doctor-can-keep-a-myth-alive-myths-and-misconcept-communication-skills-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Colorful Communication Flash Cards with Emotional Support Posters - 24 Piece Set"><img src="{{ '/assets/images/marketplace-covers/18899181e94a7686eb2a.jpg' | relative_url }}" alt="Listing image for Colorful Communication Flash Cards with Emotional Support Posters - 24 Piece Set" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=communication+skills+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=one-doctor-why-one-doctor-can-keep-a-myth-alive-myths-and-misconcept-communication-skills-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="communication skills poster" data-ebay-reference="one-doctor-why-one-doctor-can-keep-a-myth-alive-myths-and-misconcept-communication-skills-poster" target="_blank" rel="sponsored noopener noreferrer">Colorful Communication Flash Cards with Emotional Support Posters - 24 Piece Set</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=communication+skills+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=one-doctor-why-one-doctor-can-keep-a-myth-alive-myths-and-misconcept-communication-skills-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="communication skills poster" data-ebay-reference="one-doctor-why-one-doctor-can-keep-a-myth-alive-myths-and-misconcept-communication-skills-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for communication skills poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: communication skills poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=communication+skills+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=one-doctor-why-one-doctor-can-keep-a-myth-alive-myths-and-misconcept-communication-skills-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="communication skills poster" data-ebay-reference="one-doctor-why-one-doctor-can-keep-a-myth-alive-myths-and-misconcept-communication-skills-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=communication+skills+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=one-doctor-why-one-doctor-can-keep-a-myth-alive-myths-and-misconcept-communication-skills-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="communication skills poster" data-ebay-reference="one-doctor-why-one-doctor-can-keep-a-myth-alive-myths-and-misconcept-communication-skills-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Communication Flash Cards for Children - 24 Durable Cards with Emotion Posters"><img src="{{ '/assets/images/marketplace-covers/51a6808a33e864fdd037.jpg' | relative_url }}" alt="Listing image for Communication Flash Cards for Children - 24 Durable Cards with Emotion Posters" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=communication+skills+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=one-doctor-why-one-doctor-can-keep-a-myth-alive-myths-and-misconcept-communication-skills-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="communication skills poster" data-ebay-reference="one-doctor-why-one-doctor-can-keep-a-myth-alive-myths-and-misconcept-communication-skills-poster" target="_blank" rel="sponsored noopener noreferrer">Communication Flash Cards for Children - 24 Durable Cards with Emotion Posters</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=communication+skills+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=one-doctor-why-one-doctor-can-keep-a-myth-alive-myths-and-misconcept-communication-skills-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="communication skills poster" data-ebay-reference="one-doctor-why-one-doctor-can-keep-a-myth-alive-myths-and-misconcept-communication-skills-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for communication skills poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: communication skills poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=communication+skills+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=one-doctor-why-one-doctor-can-keep-a-myth-alive-myths-and-misconcept-communication-skills-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="communication skills poster" data-ebay-reference="one-doctor-why-one-doctor-can-keep-a-myth-alive-myths-and-misconcept-communication-skills-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=communication+skills+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=one-doctor-why-one-doctor-can-keep-a-myth-alive-myths-and-misconcept-communication-skills-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="communication skills poster" data-ebay-reference="one-doctor-why-one-doctor-can-keep-a-myth-alive-myths-and-misconcept-communication-skills-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Communication Flash Cards for Children - 24 Durable Cards with Emotion Posters"><img src="{{ '/assets/images/marketplace-covers/51a6808a33e864fdd037.jpg' | relative_url }}" alt="Listing image for Communication Flash Cards for Children - 24 Durable Cards with Emotion Posters" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=communication+skills+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=one-doctor-why-one-doctor-can-keep-a-myth-alive-myths-and-misconcept-communication-skills-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="communication skills poster" data-ebay-reference="one-doctor-why-one-doctor-can-keep-a-myth-alive-myths-and-misconcept-communication-skills-poster" target="_blank" rel="sponsored noopener noreferrer">Communication Flash Cards for Children - 24 Durable Cards with Emotion Posters</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=communication+skills+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=one-doctor-why-one-doctor-can-keep-a-myth-alive-myths-and-misconcept-communication-skills-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="communication skills poster" data-ebay-reference="one-doctor-why-one-doctor-can-keep-a-myth-alive-myths-and-misconcept-communication-skills-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for communication skills poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: communication skills poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=communication+skills+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=one-doctor-why-one-doctor-can-keep-a-myth-alive-myths-and-misconcept-communication-skills-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="communication skills poster" data-ebay-reference="one-doctor-why-one-doctor-can-keep-a-myth-alive-myths-and-misconcept-communication-skills-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=communication+skills+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=one-doctor-why-one-doctor-can-keep-a-myth-alive-myths-and-misconcept-communication-skills-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="communication skills poster" data-ebay-reference="one-doctor-why-one-doctor-can-keep-a-myth-alive-myths-and-misconcept-communication-skills-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Durable Autism Flash Cards Set with Emotion Posters for Effective Communication"><img src="{{ '/assets/images/marketplace-covers/79b0cc46f8e27eed5866.jpg' | relative_url }}" alt="Listing image for Durable Autism Flash Cards Set with Emotion Posters for Effective Communication" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=communication+skills+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=one-doctor-why-one-doctor-can-keep-a-myth-alive-myths-and-misconcept-communication-skills-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="communication skills poster" data-ebay-reference="one-doctor-why-one-doctor-can-keep-a-myth-alive-myths-and-misconcept-communication-skills-poster" target="_blank" rel="sponsored noopener noreferrer">Durable Autism Flash Cards Set with Emotion Posters for Effective Communication</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=communication+skills+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=one-doctor-why-one-doctor-can-keep-a-myth-alive-myths-and-misconcept-communication-skills-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="communication skills poster" data-ebay-reference="one-doctor-why-one-doctor-can-keep-a-myth-alive-myths-and-misconcept-communication-skills-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for communication skills poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: communication skills poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=communication+skills+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=one-doctor-why-one-doctor-can-keep-a-myth-alive-myths-and-misconcept-communication-skills-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="communication skills poster" data-ebay-reference="one-doctor-why-one-doctor-can-keep-a-myth-alive-myths-and-misconcept-communication-skills-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=communication+skills+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=one-doctor-why-one-doctor-can-keep-a-myth-alive-myths-and-misconcept-communication-skills-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="communication skills poster" data-ebay-reference="one-doctor-why-one-doctor-can-keep-a-myth-alive-myths-and-misconcept-communication-skills-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=communication+skills+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=one-doctor-why-one-doctor-can-keep-a-myth-alive-myths-and-misconcept-communication-skills-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="communication skills poster" data-ebay-reference="one-doctor-why-one-doctor-can-keep-a-myth-alive-myths-and-misconcept-communication-skills-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Durable Autism Flash Cards Set with Emotion Posters for Effective Communication"><img src="{{ '/assets/images/marketplace-covers/79b0cc46f8e27eed5866.jpg' | relative_url }}" alt="Listing image for Durable Autism Flash Cards Set with Emotion Posters for Effective Communication" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=communication+skills+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=one-doctor-why-one-doctor-can-keep-a-myth-alive-myths-and-misconcept-communication-skills-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="communication skills poster" data-ebay-reference="one-doctor-why-one-doctor-can-keep-a-myth-alive-myths-and-misconcept-communication-skills-poster" target="_blank" rel="sponsored noopener noreferrer">Durable Autism Flash Cards Set with Emotion Posters for Effective Communication</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=communication+skills+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=one-doctor-why-one-doctor-can-keep-a-myth-alive-myths-and-misconcept-communication-skills-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="communication skills poster" data-ebay-reference="one-doctor-why-one-doctor-can-keep-a-myth-alive-myths-and-misconcept-communication-skills-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for communication skills poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: communication skills poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=communication+skills+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=one-doctor-why-one-doctor-can-keep-a-myth-alive-myths-and-misconcept-communication-skills-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="communication skills poster" data-ebay-reference="one-doctor-why-one-doctor-can-keep-a-myth-alive-myths-and-misconcept-communication-skills-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=communication+skills+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=one-doctor-why-one-doctor-can-keep-a-myth-alive-myths-and-misconcept-communication-skills-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="communication skills poster" data-ebay-reference="one-doctor-why-one-doctor-can-keep-a-myth-alive-myths-and-misconcept-communication-skills-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -560,7 +560,7 @@ By the time the evidence is settled, the original authority signal may already b
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -580,7 +580,7 @@ By the time the evidence is settled, the original authority signal may already b
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -612,7 +612,7 @@ By the time the evidence is settled, the original authority signal may already b
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -664,7 +664,7 @@ By the time the evidence is settled, the original authority signal may already b
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -709,7 +709,7 @@ By the time the evidence is settled, the original authority signal may already b
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -750,119 +750,119 @@ By the time the evidence is settled, the original authority signal may already b
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2303.09656" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2303.09656</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Revealing complexities when adult readers engage in the credibility evaluation of social media postsMarch 16, 2023...</p></details>
+   Link:<a href="https://arxiv.org/abs/2303.09656" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2303.09656</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Revealing complexities when adult readers engage in the credibility evaluation of social media postsMarch 16, 2023...</p></details>
    Published: March 16, 2023  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCExploring factors that mitigate the continued influence  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8627545/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8627545/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>by IP Kan · 2021 · Cited by 27 — The term “continued influence effect” (CIE) refers to the phenomenon that discredited and obsolete in...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8627545/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8627545/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by IP Kan · 2021 · Cited by 27 — The term “continued influence effect” (CIE) refers to the phenomenon that discredited and obsolete in...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: link.springer.com  
-   Link: <a href="https://link.springer.com/article/10.1186/s41235-021-00335-9" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1186/s41235-021-00335-9</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Springer LinkExploring factors that mitigate the continued influence of...by IP Kan · 2021 · Cited by 27 — The term “continued influence...</p></details>
+   Link:<a href="https://link.springer.com/article/10.1186/s41235-021-00335-9" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1186/s41235-021-00335-9</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Springer LinkExploring factors that mitigate the continued influence of...by IP Kan · 2021 · Cited by 27 — The term “continued influence...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCCan you believe it?  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7810102/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC7810102/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>An investigation into the impact of... - PMCby UKH Ecker · 2021 · Cited by 212 — The continued influence effect refers to the finding th...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7810102/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC7810102/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>An investigation into the impact of... - PMCby UKH Ecker · 2021 · Cited by 212 — The continued influence effect refers to the finding th...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCThe role of discomfort in the continued influence effect  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8447889/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8447889/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>by MW Susmann · 2021 · Cited by 90 — The present research tested the prediction that retractions of misinformation produce feelings of...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8447889/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8447889/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by MW Susmann · 2021 · Cited by 90 — The present research tested the prediction that retractions of misinformation produce feelings of...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: who.int  
-   Link: <a href="https://www.who.int/europe/news/item/09-12-2024-trusted-messengers--community-anchors-and-agents-of-change--engaging-health-and-care-workers-in-times-of-crisis" target="_blank" rel="noopener noreferrer nofollow">https://www.who.int/europe/news/item/09-12-2024-trusted-messengers--community-anchors-and-agents-of-change--engaging-health-and-care-workers-in-times-of-crisis</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>World Health OrganizationTrusted messengers, community anchors and agents of...9 Dec 2024 — Recognizing that health and care workers (HC...</p></details>
+   Link:<a href="https://www.who.int/europe/news/item/09-12-2024-trusted-messengers--community-anchors-and-agents-of-change--engaging-health-and-care-workers-in-times-of-crisis" target="_blank" rel="noopener noreferrer nofollow">https://www.who.int/europe/news/item/09-12-2024-trusted-messengers--community-anchors-and-agents-of-change--engaging-health-and-care-workers-in-times-of-crisis</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>World Health OrganizationTrusted messengers, community anchors and agents of...9 Dec 2024 — Recognizing that health and care workers (HC...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: continued.com  
-   Link: <a href="https://www.continued.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.continued.com/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Online CEUs for ECE, Social Work...Continued makes it easier than ever to find the online continuing education courses you need. You can...</p></details>
+   Link:<a href="https://www.continued.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.continued.com/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Online CEUs for ECE, Social Work...Continued makes it easier than ever to find the online continuing education courses you need. You can...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: link.springer.com  
-   Link: <a href="https://link.springer.com/article/10.3758/s13421-023-01402-w" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.3758/s13421-023-01402-w</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>impact of misinformation corrections on source perceptionsby V Westbrook · 2023 · Cited by 26 — Research on the continued influence effec...</p></details>
+   Link:<a href="https://link.springer.com/article/10.3758/s13421-023-01402-w" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.3758/s13421-023-01402-w</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>impact of misinformation corrections on source perceptionsby V Westbrook · 2023 · Cited by 26 — Research on the continued influence effec...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: link.springer.com  
-   Link: <a href="https://link.springer.com/article/10.1186/s12889-025-23470-0" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1186/s12889-025-23470-0</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>in doctors, social support, and belief in COVID-19...by UA Horoszko · 2025 · Cited by 7 — In the full sample analysis, trust in doctors...</p></details>
+   Link:<a href="https://link.springer.com/article/10.1186/s12889-025-23470-0" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1186/s12889-025-23470-0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>in doctors, social support, and belief in COVID-19...by UA Horoszko · 2025 · Cited by 7 — In the full sample analysis, trust in doctors...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: dictionary.cambridge.org  
-   Link: <a href="https://dictionary.cambridge.org/dictionary/english/how" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/dictionary/english/how</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>English meaning - Cambridge Dictionary6 days ago — HOW definition: 1. in what way, or by what methods: 2. used to ask about someone&#x27;s p...</p></details>
+   Link:<a href="https://dictionary.cambridge.org/dictionary/english/how" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/dictionary/english/how</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>English meaning - Cambridge Dictionary6 days ago — HOW definition: 1. in what way, or by what methods: 2. used to ask about someone&#x27;s p...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: dictionary.cambridge.org  
-   Link: <a href="https://dictionary.cambridge.org/us/dictionary/english/continued" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/us/dictionary/english/continued</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>definition in the Cambridge English Dictionary8 days ago — (also continuing) still happening, existing, or done: Continued fighting in...</p></details>
+   Link:<a href="https://dictionary.cambridge.org/us/dictionary/english/continued" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/us/dictionary/english/continued</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>definition in the Cambridge English Dictionary8 days ago — (also continuing) still happening, existing, or done: Continued fighting in...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: vocabulary.com  
-   Link: <a href="https://www.vocabulary.com/dictionary/continued" target="_blank" rel="noopener noreferrer nofollow">https://www.vocabulary.com/dictionary/continued</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Definition, Meaning &amp; SynonymsContinued means &quot;ongoing.&quot; You might ask your friends for their continued help with the movie you&#x27;re shooti...</p></details>
+   Link:<a href="https://www.vocabulary.com/dictionary/continued" target="_blank" rel="noopener noreferrer nofollow">https://www.vocabulary.com/dictionary/continued</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Definition, Meaning &amp; SynonymsContinued means &quot;ongoing.&quot; You might ask your friends for their continued help with the movie you&#x27;re shooti...</p></details>
 
 ### Additional References
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: merriam-webster.com  
-   Link: <a href="https://www.merriam-webster.com/dictionary/continued" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/continued</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>CONTINUED Definition &amp; Meaning1. lasting or extending without interruption; continued success. 2. resumed after interruption; a continued...</p></details>
+   Link:<a href="https://www.merriam-webster.com/dictionary/continued" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/continued</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>CONTINUED Definition &amp; Meaning1. lasting or extending without interruption; continued success. 2. resumed after interruption; a continued...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: brod.ntcenter.bg  
-   Link: <a href="https://brod.ntcenter.bg/en/continued-influence-effect/" target="_blank" rel="noopener noreferrer nofollow">https://brod.ntcenter.bg/en/continued-influence-effect/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Continued Influence EffectThe &quot;Continued Influence Effect&quot; refers to the phenomenon where misinformation continues to affect people&#x27;s thi...</p></details>
+   Link:<a href="https://brod.ntcenter.bg/en/continued-influence-effect/" target="_blank" rel="noopener noreferrer nofollow">https://brod.ntcenter.bg/en/continued-influence-effect/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Continued Influence EffectThe &quot;Continued Influence Effect&quot; refers to the phenomenon where misinformation continues to affect people&#x27;s thi...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: wordwebonline.com  
-   Link: <a href="https://www.wordwebonline.com/en/HOW" target="_blank" rel="noopener noreferrer nofollow">https://www.wordwebonline.com/en/HOW</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>how- WordWeb dictionary definitionAdverb: how haw. In what way or manner or by what means &quot;how did you catch the snake?&quot;; &quot;he told us how...</p></details>
+   Link:<a href="https://www.wordwebonline.com/en/HOW" target="_blank" rel="noopener noreferrer nofollow">https://www.wordwebonline.com/en/HOW</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>how- WordWeb dictionary definitionAdverb: how haw. In what way or manner or by what means &quot;how did you catch the snake?&quot;; &quot;he told us how...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: committees.parliament.uk  
-   Link: <a href="https://committees.parliament.uk/writtenevidence/111470/html/" target="_blank" rel="noopener noreferrer nofollow">https://committees.parliament.uk/writtenevidence/111470/html/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>use of cookiesWritten evidence submitted by Dr Stephanie Alice Baker. Written Evidence: Select Inquiry into Misinformation and Trusted Vo...</p></details>
+   Link:<a href="https://committees.parliament.uk/writtenevidence/111470/html/" target="_blank" rel="noopener noreferrer nofollow">https://committees.parliament.uk/writtenevidence/111470/html/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>use of cookiesWritten evidence submitted by Dr Stephanie Alice Baker. Written Evidence: Select Inquiry into Misinformation and Trusted Vo...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/391015007_To_be_continued_misinformation%27s_bizarre_adventure_beyond_memory_failures_-_exploring_non-memory-based_mechanisms_driving_the_continued_influence_effect_CIE" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/391015007_To_be_continued_misinformation%27s_bizarre_adventure_beyond_memory_failures_-_exploring_non-memory-based_mechanisms_driving_the_continued_influence_effect_CIE</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) To be continued: misinformation&#x27;s bizarre adventure...18 Nov 2025 — The Continued Influence Effect (CIE) refers to the persistent...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/391015007_To_be_continued_misinformation%27s_bizarre_adventure_beyond_memory_failures_-_exploring_non-memory-based_mechanisms_driving_the_continued_influence_effect_CIE" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/391015007_To_be_continued_misinformation%27s_bizarre_adventure_beyond_memory_failures_-_exploring_non-memory-based_mechanisms_driving_the_continued_influence_effect_CIE</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) To be continued: misinformation&#x27;s bizarre adventure...18 Nov 2025 — The Continued Influence Effect (CIE) refers to the persistent...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: scispace.com  
-   Link: <a href="https://scispace.com/pdf/the-continued-influence-of-misinformation-in-memory-what-4tijzg1jh2.pdf" target="_blank" rel="noopener noreferrer nofollow">https://scispace.com/pdf/the-continued-influence-of-misinformation-in-memory-what-4tijzg1jh2.pdf</a>  
+   Link:<a href="https://scispace.com/pdf/the-continued-influence-of-misinformation-in-memory-what-4tijzg1jh2.pdf" target="_blank" rel="noopener noreferrer nofollow">https://scispace.com/pdf/the-continued-influence-of-misinformation-in-memory-what-4tijzg1jh2.pdf</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: collinsdictionary.com  
-   Link: <a href="https://www.collinsdictionary.com/dictionary/english/how" target="_blank" rel="noopener noreferrer nofollow">https://www.collinsdictionary.com/dictionary/english/how</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>in what manner or way; by what means · 2. in what state or condition · 3. for what reason or purpose; why. how is it that you don...Read...</p></details>
+   Link:<a href="https://www.collinsdictionary.com/dictionary/english/how" target="_blank" rel="noopener noreferrer nofollow">https://www.collinsdictionary.com/dictionary/english/how</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>in what manner or way; by what means · 2. in what state or condition · 3. for what reason or purpose; why. how is it that you don...Read...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: nature.com  
    Title: continued influence effect of misinformation. Memory Cogn.Read more  
-   Link: <a href="https://www.nature.com/articles/s44159-021-00006-y" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s44159-021-00006-y</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The psychological drivers of misinformation belief and its...by UKH Ecker · 2022 · Cited by 1906 — Misinformation and its correction: co...</p></details>
+   Link:<a href="https://www.nature.com/articles/s44159-021-00006-y" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s44159-021-00006-y</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The psychological drivers of misinformation belief and its...by UKH Ecker · 2022 · Cited by 1906 — Misinformation and its correction: co...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0010027725000307" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0010027725000307</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Belief updating in the face of misinformation: The role...by GA Sanna · 2025 · Cited by 14 — Misinformation and its correct...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/pii/S0010027725000307" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0010027725000307</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Belief updating in the face of misinformation: The role...by GA Sanna · 2025 · Cited by 14 — Misinformation and its correct...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: hhs.gov  
    Title: surgeon general misinformation advisory  
-   Link: <a href="https://www.hhs.gov/sites/default/files/surgeon-general-misinformation-advisory.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.hhs.gov/sites/default/files/surgeon-general-misinformation-advisory.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Confronting Health Misinformation14 Jul 2021 — Amplify communications from trusted messengers and subject matter experts. For example, wo...</p></details>
+   Link:<a href="https://www.hhs.gov/sites/default/files/surgeon-general-misinformation-advisory.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.hhs.gov/sites/default/files/surgeon-general-misinformation-advisory.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Confronting Health Misinformation14 Jul 2021 — Amplify communications from trusted messengers and subject matter experts. For example, wo...</p></details>

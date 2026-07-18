@@ -268,29 +268,29 @@ image: /assets/images/Myths_and_misconcept_0d48d7_replacement_stories_587456_bar
 
 ## Introduction
 
-A common assumption about myths and misconceptions is that once a false claim has been labelled false, the problem is solved. Research on misinformation shows that reality is more complicated. A rumour often survives not because people stubbornly believe it, but because it provides an explanation for an event. When a [correction]({{ 'correction/' | relative_url }}) simply says “that did not happen” without explaining what did happen, it creates a causal gap: an unanswered question about cause and effect. In that situation, people may continue to rely on the original rumour when reasoning about the event, even while acknowledging that the rumour was retracted. This mechanism is one of the most studied features of the continued influence effect, a phenomenon in which corrected misinformation continues to shape judgement and [memory]({{ 'memory/' | relative_url }}). PMC <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nature.com/articles/s44159-021-00006-y" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">The psychological drivers of misinformation belief and its...by UKH Ecker · 2022 · Cited by 1916 — In this Review, we describe the...</span></span></span>
+A common assumption about myths and misconceptions is that once a false claim has been labelled false, the problem is solved. Research on misinformation shows that reality is more complicated. A rumour often survives not because people stubbornly believe it, but because it provides an explanation for an event. When a [correction]({{ 'correction/' | relative_url }}) simply says “that did not happen” without explaining what did happen, it creates a causal gap: an unanswered question about cause and effect. In that situation, people may continue to rely on the original rumour when reasoning about the event, even while acknowledging that the rumour was retracted. This mechanism is one of the most studied features of the continued influence effect, a phenomenon in which corrected misinformation continues to shape judgement and [memory]({{ 'memory/' | relative_url }}). PMC<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nature.com/articles/s44159-021-00006-y" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">The psychological drivers of misinformation belief and its...by UKH Ecker · 2022 · Cited by 1916 — In this Review, we describe the...</span></span></span>
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_replacement_stories_587456_bare_denials_causal_99e854-Illustration-1-dark.svg" | relative_url }}" alt="Bare Denials illustration 1" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_replacement_stories_587456_bare_denials_causal_99e854-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_replacement_stories_587456_bare_denials_causal_99e854-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## How rumours become working explanations
 
 Rumours do more than make factual claims. They often supply a complete account of why something happened. A claim about a fire, a disease outbreak, a political decision, or a public scandal typically links an event to a cause. Once that link becomes part of a person's mental picture of events, it serves as a working explanation rather than a standalone fact.
 
-Psychological research suggests that people build what are often called [mental models]({{ 'mental-models/' | relative_url }}) or situation models: coherent representations that connect causes, actions, and outcomes. When misinformation becomes embedded in such a model, removing it is not as simple as deleting a sentence from memory. The false information may occupy a structural role within the explanation itself. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.emc-lab.org/uploads/1/1/3/6/113627673/chapter_swireecker_revised.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: emc-lab.org">[Ecker Memory &amp; Cognition Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">emc-lab.org</span><span class="citation-popover-snippet">Ecker Memory &amp; Cognition LabMisinformation and its CorrectionMarch 6, 2018 — by B Swire · Cited by 139 — The notion that retractions crea...</span><span class="citation-popover-meta">Published: March 6, 2018</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/abs/pii/S0749596X15001035" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-title">ScienceDirect He did it!</span><span class="citation-popover-snippet">She did it! No, she did not! Multiple causal...by UKH Ecker · 2015 · Cited by 164 — This implies that, while a retraction creates a “gap...</span></span></span>
+Psychological research suggests that people build what are often called [mental models]({{ 'mental-models/' | relative_url }}) or situation models: coherent representations that connect causes, actions, and outcomes. When misinformation becomes embedded in such a model, removing it is not as simple as deleting a sentence from memory. The false information may occupy a structural role within the explanation itself.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.emc-lab.org/uploads/1/1/3/6/113627673/chapter_swireecker_revised.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: emc-lab.org">[Ecker Memory &amp; Cognition Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">emc-lab.org</span><span class="citation-popover-snippet">Ecker Memory &amp; Cognition LabMisinformation and its CorrectionMarch 6, 2018 — by B Swire · Cited by 139 — The notion that retractions crea...</span><span class="citation-popover-meta">Published: March 6, 2018</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/abs/pii/S0749596X15001035" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-title">ScienceDirect He did it!</span><span class="citation-popover-snippet">She did it! No, she did not! Multiple causal...by UKH Ecker · 2015 · Cited by 164 — This implies that, while a retraction creates a “gap...</span></span></span>
 
-The classic illustration comes from studies involving reports of a warehouse fire. Participants were told that flammable materials had been stored near the source of the blaze. Later, they learned that this information was incorrect. Even after receiving the correction, many participants continued to refer to the supposedly stored materials when explaining the fire. The original claim had become the event's causal explanation, and the retraction removed that explanation without supplying a replacement. <span class="citation-chip-wrap"><a class="citation-chip" href="https://anecdotal.app/bias/continued-influence-effect/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: anecdotal.app">[ANECDOTAL]</a><span class="citation-popover" role="note"><span class="citation-popover-source">anecdotal.app</span><span class="citation-popover-snippet">Continued influence effect &#124; ANECDOTALWhen misinformation fills a causal role in a mental model — the warehouse fire started in...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.shapingtomorrowsworld.org/debunking-handbook-part-5-filling-gap-with-alternative-explanation.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: shapingtomorrowsworld.org">[Shaping Tomorrows World]</a><span class="citation-popover" role="note"><span class="citation-popover-source">shapingtomorrowsworld.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The classic illustration comes from studies involving reports of a warehouse fire. Participants were told that flammable materials had been stored near the source of the blaze. Later, they learned that this information was incorrect. Even after receiving the correction, many participants continued to refer to the supposedly stored materials when explaining the fire. The original claim had become the event's causal explanation, and the retraction removed that explanation without supplying a replacement.<span class="citation-chip-wrap"><a class="citation-chip" href="https://anecdotal.app/bias/continued-influence-effect/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: anecdotal.app">[ANECDOTAL]</a><span class="citation-popover" role="note"><span class="citation-popover-source">anecdotal.app</span><span class="citation-popover-snippet">Continued influence effect &#124; ANECDOTALWhen misinformation fills a causal role in a mental model — the warehouse fire started in...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.shapingtomorrowsworld.org/debunking-handbook-part-5-filling-gap-with-alternative-explanation.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: shapingtomorrowsworld.org">[Shaping Tomorrows World]</a><span class="citation-popover" role="note"><span class="citation-popover-source">shapingtomorrowsworld.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-This distinction matters because belief and explanation are not identical. A person can remember that a rumour was retracted and still find themselves using it when asked to explain events. The rumour remains cognitively useful because it fills an explanatory role that nothing else has replaced. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2024.1487146/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-snippet">FrontiersThe inhibitory impact of collaboration on the continued...by G Chen · 2024 · Cited by 2 — The continued influence effect (CIE)...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/36988856/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">impact of misinformation corrections on source...by V Westbrook · 2023 · Cited by 26 — Research on the continued influence effect (CIE)...</span></span></span>
+This distinction matters because belief and explanation are not identical. A person can remember that a rumour was retracted and still find themselves using it when asked to explain events. The rumour remains cognitively useful because it fills an explanatory role that nothing else has replaced.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2024.1487146/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-snippet">FrontiersThe inhibitory impact of collaboration on the continued...by G Chen · 2024 · Cited by 2 — The continued influence effect (CIE)...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/36988856/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">impact of misinformation corrections on source...by V Westbrook · 2023 · Cited by 26 — Research on the continued influence effect (CIE)...</span></span></span>
 
 ## Why retractions leave unfinished stories
 
-A bare denial is a correction that simply negates a claim: “The report was false”, “The allegation is incorrect”, or “There is no evidence for that story.” Such statements may reduce belief in the rumour, but they often fail to repair the explanatory structure that the rumour created. <span class="citation-chip-wrap"><a class="citation-chip" href="https://research-information.bris.ac.uk/ws/portalfiles/portal/152516154/Pages_from_JARMAC_2017_59_Revision_1_V1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: research-information.bris.ac.uk">[University of Bristol]</a><span class="citation-popover" role="note"><span class="citation-popover-source">research-information.bris.ac.uk</span><span class="citation-popover-title">University of Bristol Lewandowsky, S., Ecker, UKH, &amp; Cook, J</span><span class="citation-popover-snippet">2017). BeyondToday — Second, corrections must explain why the misinformation was disseminated in the first place or they must provide an...</span></span></span>
+A bare denial is a correction that simply negates a claim: “The report was false”, “The allegation is incorrect”, or “There is no evidence for that story.” Such statements may reduce belief in the rumour, but they often fail to repair the explanatory structure that the rumour created.<span class="citation-chip-wrap"><a class="citation-chip" href="https://research-information.bris.ac.uk/ws/portalfiles/portal/152516154/Pages_from_JARMAC_2017_59_Revision_1_V1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: research-information.bris.ac.uk">[University of Bristol]</a><span class="citation-popover" role="note"><span class="citation-popover-source">research-information.bris.ac.uk</span><span class="citation-popover-title">University of Bristol Lewandowsky, S., Ecker, UKH, &amp; Cook, J</span><span class="citation-popover-snippet">2017). BeyondToday — Second, corrections must explain why the misinformation was disseminated in the first place or they must provide an...</span></span></span>
 
-Researchers have repeatedly found that [corrections]({{ 'corrections/' | relative_url }}) work better when they provide an alternative account of events. Instead of merely rejecting misinformation, effective corrections answer the reader's next question: if that explanation is wrong, what explains the event instead? <span class="citation-chip-wrap"><a class="citation-chip" href="https://research-information.bris.ac.uk/ws/portalfiles/portal/152516154/Pages_from_JARMAC_2017_59_Revision_1_V1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: research-information.bris.ac.uk">[University of Bristol]</a><span class="citation-popover" role="note"><span class="citation-popover-source">research-information.bris.ac.uk</span><span class="citation-popover-title">University of Bristol Lewandowsky, S., Ecker, UKH, &amp; Cook, J</span><span class="citation-popover-snippet">2017). BeyondToday — Second, corrections must explain why the misinformation was disseminated in the first place or they must provide an...</span></span></span> SciSpace Consider two responses to a false claim: <span class="citation-chip-wrap"><a class="citation-chip" href="https://scispace.com/pdf/the-continued-influence-of-misinformation-in-memory-what-4tijzg1jh2.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scispace.com">[scispace.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scispace.com</span><span class="citation-popover-snippet">Successful correction of misinformation appears to require an alternative causal account. The alternative appears to replace the...Read...</span></span></span>
+Researchers have repeatedly found that [corrections]({{ 'corrections/' | relative_url }}) work better when they provide an alternative account of events. Instead of merely rejecting misinformation, effective corrections answer the reader's next question: if that explanation is wrong, what explains the event instead?<span class="citation-chip-wrap"><a class="citation-chip" href="https://research-information.bris.ac.uk/ws/portalfiles/portal/152516154/Pages_from_JARMAC_2017_59_Revision_1_V1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: research-information.bris.ac.uk">[University of Bristol]</a><span class="citation-popover" role="note"><span class="citation-popover-source">research-information.bris.ac.uk</span><span class="citation-popover-title">University of Bristol Lewandowsky, S., Ecker, UKH, &amp; Cook, J</span><span class="citation-popover-snippet">2017). BeyondToday — Second, corrections must explain why the misinformation was disseminated in the first place or they must provide an...</span></span></span> SciSpace Consider two responses to a false claim:<span class="citation-chip-wrap"><a class="citation-chip" href="https://scispace.com/pdf/the-continued-influence-of-misinformation-in-memory-what-4tijzg1jh2.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scispace.com">[scispace.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scispace.com</span><span class="citation-popover-snippet">Successful correction of misinformation appears to require an alternative causal account. The alternative appears to replace the...Read...</span></span></span>
 
 * “The contamination was not caused by the factory.”
 * “The contamination was traced to a damaged sewage pipe identified during the investigation.”
 
-The first statement removes a cause. The second removes one cause and replaces it with another. The difference is not merely informational. It changes whether the listener is left with an unfinished story. Research consistently finds that alternative explanations reduce reliance on misinformation more effectively than simple retractions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.shapingtomorrowsworld.org/debunking-handbook-part-5-filling-gap-with-alternative-explanation.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: shapingtomorrowsworld.org">[Shaping Tomorrows World]</a><span class="citation-popover" role="note"><span class="citation-popover-source">shapingtomorrowsworld.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> SciSpace This helps explain why some myths persist despite extensive fact-checking. If the myth answers a question that remains unresolved <span class="citation-chip-wrap"><a class="citation-chip" href="https://scispace.com/pdf/the-continued-influence-of-misinformation-in-memory-what-4tijzg1jh2.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scispace.com">[scispace.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scispace.com</span><span class="citation-popover-snippet">Successful correction of misinformation appears to require an alternative causal account. The alternative appears to replace the...Read...</span></span></span>, people may continue to draw on it because it offers coherence. Human reasoning generally prefers complete narratives over fragments of disconnected information. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nature.com/articles/s44159-021-00006-y" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">The psychological drivers of misinformation belief and its...by UKH Ecker · 2022 · Cited by 1916 — In this Review, we describe the...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://brod.ntcenter.bg/en/continued-influence-effect/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: brod.ntcenter.bg">[2brod.ntcenter.bg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">brod.ntcenter.bg</span><span class="citation-popover-snippet">Continued Influence EffectThe &quot;Continued Influence Effect&quot; refers to the phenomenon where misinformation continues to affect people&#x27;s thi...</span></span></span>
+The first statement removes a cause. The second removes one cause and replaces it with another. The difference is not merely informational. It changes whether the listener is left with an unfinished story. Research consistently finds that alternative explanations reduce reliance on misinformation more effectively than simple retractions.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.shapingtomorrowsworld.org/debunking-handbook-part-5-filling-gap-with-alternative-explanation.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: shapingtomorrowsworld.org">[Shaping Tomorrows World]</a><span class="citation-popover" role="note"><span class="citation-popover-source">shapingtomorrowsworld.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> SciSpace This helps explain why some myths persist despite extensive fact-checking. If the myth answers a question that remains unresolved<span class="citation-chip-wrap"><a class="citation-chip" href="https://scispace.com/pdf/the-continued-influence-of-misinformation-in-memory-what-4tijzg1jh2.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scispace.com">[scispace.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scispace.com</span><span class="citation-popover-snippet">Successful correction of misinformation appears to require an alternative causal account. The alternative appears to replace the...Read...</span></span></span>, people may continue to draw on it because it offers coherence. Human reasoning generally prefers complete narratives over fragments of disconnected information.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nature.com/articles/s44159-021-00006-y" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">The psychological drivers of misinformation belief and its...by UKH Ecker · 2022 · Cited by 1916 — In this Review, we describe the...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://brod.ntcenter.bg/en/continued-influence-effect/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: brod.ntcenter.bg">[2brod.ntcenter.bg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">brod.ntcenter.bg</span><span class="citation-popover-snippet">Continued Influence EffectThe &quot;Continued Influence Effect&quot; refers to the phenomenon where misinformation continues to affect people&#x27;s thi...</span></span></span>
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_replacement_stories_587456_bare_denials_causal_99e854-Illustration-2-dark.svg" | relative_url }}" alt="Bare Denials illustration 2" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_replacement_stories_587456_bare_denials_causal_99e854-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_replacement_stories_587456_bare_denials_causal_99e854-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What a causal gap looks like in practice
@@ -299,208 +299,208 @@ The causal gap becomes visible when people are asked not whether they believe a 
 
 Imagine a news story reporting that a politician accepted an illegal payment. A correction later establishes that the payment never occurred. If the correction stops there, readers are left with an unresolved question: why did the politician behave as they did, or why did the accusation arise in the first place? The false explanation may continue to shape their interpretation because it remains the only available account connecting the pieces together.
 
-The same pattern appears in health misinformation. A false claim may offer a clear reason for an illness, side effect, or public health event. Even when the claim is disproven, people often continue asking the question that the rumour originally answered. If no alternative explanation is supplied, the retracted claim can retain influence as a placeholder explanation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/258180567_Misinformation_and_Its_Correction_Continued_Influence_and_Successful_Debiasing" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGate(PDF) Misinformation and Its Correction Continued...We look at people&#x27;s memory for misinformation and answer the questions o...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nature.com/articles/s44159-021-00006-y" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">The psychological drivers of misinformation belief and its...by UKH Ecker · 2022 · Cited by 1916 — In this Review, we describe the...</span></span></span> Researchers have even argued that part of the continued influence effect arises because people are attempting to reason rationally with incomplete information. When a correction removes information without replacing it, individuals may continue relying on the original account because it is the only explanation available within their mental model of events. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S0749596X15001035" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-title">ScienceDirect He did it!</span><span class="citation-popover-snippet">She did it! No, she did not! Multiple causal...by UKH Ecker · 2015 · Cited by 164 — This implies that, while a retraction creates a “gap...</span></span></span>
+The same pattern appears in health misinformation. A false claim may offer a clear reason for an illness, side effect, or public health event. Even when the claim is disproven, people often continue asking the question that the rumour originally answered. If no alternative explanation is supplied, the retracted claim can retain influence as a placeholder explanation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/258180567_Misinformation_and_Its_Correction_Continued_Influence_and_Successful_Debiasing" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGate(PDF) Misinformation and Its Correction Continued...We look at people&#x27;s memory for misinformation and answer the questions o...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nature.com/articles/s44159-021-00006-y" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">The psychological drivers of misinformation belief and its...by UKH Ecker · 2022 · Cited by 1916 — In this Review, we describe the...</span></span></span> Researchers have even argued that part of the continued influence effect arises because people are attempting to reason rationally with incomplete information. When a correction removes information without replacing it, individuals may continue relying on the original account because it is the only explanation available within their mental model of events.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S0749596X15001035" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-title">ScienceDirect He did it!</span><span class="citation-popover-snippet">She did it! No, she did not! Multiple causal...by UKH Ecker · 2015 · Cited by 164 — This implies that, while a retraction creates a “gap...</span></span></span>
 
-The result is a striking outcome: people can accurately remember that a rumour was false while still using it to make inferences. The correction and the rumour coexist in memory, but the rumour continues performing explanatory work. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S0749596X15001035" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-title">ScienceDirect He did it!</span><span class="citation-popover-snippet">She did it! No, she did not! Multiple causal...by UKH Ecker · 2015 · Cited by 164 — This implies that, while a retraction creates a “gap...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2024.1487146/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-snippet">FrontiersThe inhibitory impact of collaboration on the continued...by G Chen · 2024 · Cited by 2 — The continued influence effect (CIE)...</span></span></span>
+The result is a striking outcome: people can accurately remember that a rumour was false while still using it to make inferences. The correction and the rumour coexist in memory, but the rumour continues performing explanatory work.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S0749596X15001035" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-title">ScienceDirect He did it!</span><span class="citation-popover-snippet">She did it! No, she did not! Multiple causal...by UKH Ecker · 2015 · Cited by 164 — This implies that, while a retraction creates a “gap...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2024.1487146/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-snippet">FrontiersThe inhibitory impact of collaboration on the continued...by G Chen · 2024 · Cited by 2 — The continued influence effect (CIE)...</span></span></span>
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_replacement_stories_587456_bare_denials_causal_99e854-Illustration-3-dark.svg" | relative_url }}" alt="Bare Denials illustration 3" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_replacement_stories_587456_bare_denials_causal_99e854-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_replacement_stories_587456_bare_denials_causal_99e854-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why replacement stories are usually more effective
 
-The evidence behind misinformation correction increasingly points to a simple lesson: corrections succeed when they replace, not merely remove. An alternative explanation does not have to be elaborate, but it must plausibly account for the event and close the causal gap left by the retraction. <span class="citation-chip-wrap"><a class="citation-chip" href="https://research-information.bris.ac.uk/ws/portalfiles/portal/152516154/Pages_from_JARMAC_2017_59_Revision_1_V1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: research-information.bris.ac.uk">[University of Bristol]</a><span class="citation-popover" role="note"><span class="citation-popover-source">research-information.bris.ac.uk</span><span class="citation-popover-title">University of Bristol Lewandowsky, S., Ecker, UKH, &amp; Cook, J</span><span class="citation-popover-snippet">2017). BeyondToday — Second, corrections must explain why the misinformation was disseminated in the first place or they must provide an...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aiha.org/blog/new-research-on-scientific-misinformation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aiha.org">[AIHA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aiha.org</span><span class="citation-popover-title">new research on scientific misinformation</span><span class="citation-popover-snippet">17 Aug 2021 — “An alternative narrative fills the gap in a recipient&#x27;s mind when a key piece of evidence is retracted,” Cacciatore writes...</span></span></span>
+The evidence behind misinformation correction increasingly points to a simple lesson: corrections succeed when they replace, not merely remove. An alternative explanation does not have to be elaborate, but it must plausibly account for the event and close the causal gap left by the retraction.<span class="citation-chip-wrap"><a class="citation-chip" href="https://research-information.bris.ac.uk/ws/portalfiles/portal/152516154/Pages_from_JARMAC_2017_59_Revision_1_V1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: research-information.bris.ac.uk">[University of Bristol]</a><span class="citation-popover" role="note"><span class="citation-popover-source">research-information.bris.ac.uk</span><span class="citation-popover-title">University of Bristol Lewandowsky, S., Ecker, UKH, &amp; Cook, J</span><span class="citation-popover-snippet">2017). BeyondToday — Second, corrections must explain why the misinformation was disseminated in the first place or they must provide an...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aiha.org/blog/new-research-on-scientific-misinformation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aiha.org">[AIHA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aiha.org</span><span class="citation-popover-title">new research on scientific misinformation</span><span class="citation-popover-snippet">17 Aug 2021 — “An alternative narrative fills the gap in a recipient&#x27;s mind when a key piece of evidence is retracted,” Cacciatore writes...</span></span></span>
 
-Studies examining interventions against the continued influence effect repeatedly find that providing a coherent alternative account is among the most reliable ways to reduce ongoing reliance on misinformation, although no technique eliminates the effect completely. PMC <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/17470218251336232" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsDo the protective effects last? The...9 Apr 2025 — The continued influence effect (CIE) refers to continued reliance on mis...</span></span></span>
+Studies examining interventions against the continued influence effect repeatedly find that providing a coherent alternative account is among the most reliable ways to reduce ongoing reliance on misinformation, although no technique eliminates the effect completely. PMC<span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/17470218251336232" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsDo the protective effects last? The...9 Apr 2025 — The continued influence effect (CIE) refers to continued reliance on mis...</span></span></span>
 
-This is why effective [debunking]({{ 'debunking/' | relative_url }}) often resembles explanation rather than contradiction. A bare denial tells people what not to believe. A replacement story tells them how to understand the event instead. When myths and misconceptions function as explanations, that difference is crucial. Without a substitute explanation, the old rumour may remain the only story available to fill the gap. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.shapingtomorrowsworld.org/debunking-handbook-part-5-filling-gap-with-alternative-explanation.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: shapingtomorrowsworld.org">[Shaping Tomorrows World]</a><span class="citation-popover" role="note"><span class="citation-popover-source">shapingtomorrowsworld.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://scispace.com/pdf/the-continued-influence-of-misinformation-in-memory-what-4tijzg1jh2.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scispace.com">[SciSpace]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scispace.com</span><span class="citation-popover-snippet">Successful correction of misinformation appears to require an alternative causal account. The alternative appears to replace the...Read...</span></span></span>
+This is why effective [debunking]({{ 'debunking/' | relative_url }}) often resembles explanation rather than contradiction. A bare denial tells people what not to believe. A replacement story tells them how to understand the event instead. When myths and misconceptions function as explanations, that difference is crucial. Without a substitute explanation, the old rumour may remain the only story available to fill the gap.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.shapingtomorrowsworld.org/debunking-handbook-part-5-filling-gap-with-alternative-explanation.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: shapingtomorrowsworld.org">[Shaping Tomorrows World]</a><span class="citation-popover" role="note"><span class="citation-popover-source">shapingtomorrowsworld.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://scispace.com/pdf/the-continued-influence-of-misinformation-in-memory-what-4tijzg1jh2.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scispace.com">[SciSpace]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scispace.com</span><span class="citation-popover-snippet">Successful correction of misinformation appears to require an alternative causal account. The alternative appears to replace the...Read...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Saying False Is Not Enough. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Saying False Is Not Enough. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Constitution+of+Knowledge+by+Jonathan+Rauch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Constitution of Knowledge on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=W4J_EQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Constitution of Knowledge" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Constitution+of+Knowledge+by+Jonathan+Rauch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Constitution of Knowledge">The Constitution of Knowledge</a>
-        </h4>
-        <p class="fr-book-author">By Jonathan Rauch</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Constitution+of+Knowledge+by+Jonathan+Rauch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Constitution of Knowledge on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=W4J_EQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Constitution of Knowledge" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Constitution+of+Knowledge+by+Jonathan+Rauch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Constitution of Knowledge">The Constitution of Knowledge</a>
+</h4>
+<p class="fr-book-author">By Jonathan Rauch</p>
         
-        <p class="fr-book-desc">Examines how trustworthy explanations compete with false narratives.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Constitution+of+Knowledge+by+Jonathan+Rauch&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines how trustworthy explanations compete with false narratives.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Constitution+of+Knowledge+by+Jonathan+Rauch&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YGPzXWanppcC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
-        </h4>
-        <p class="fr-book-author">By Daniel Kahneman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YGPzXWanppcC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
+</h4>
+<p class="fr-book-author">By Daniel Kahneman</p>
         
-        <p class="fr-book-desc">Provides cognitive foundations for understanding persistent misconceptions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides cognitive foundations for understanding persistent misconceptions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Factfulness on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=rxg0tgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Factfulness" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Factfulness">Factfulness</a>
-        </h4>
-        <p class="fr-book-author">By Hans Rosling, Ola Rosling et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Factfulness on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=rxg0tgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Factfulness" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Factfulness">Factfulness</a>
+</h4>
+<p class="fr-book-author">By Hans Rosling, Ola Rosling et al.</p>
         
-        <p class="fr-book-desc">Demonstrates the value of replacing myths with evidence-based explanations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Demonstrates the value of replacing myths with evidence-based explanations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Foolproof+Sander+Van+Der+Linden&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Foolproof on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/13300557-M.jpg" alt="Cover for Foolproof" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Foolproof+Sander+Van+Der+Linden&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Foolproof">Foolproof</a>
-        </h4>
-        <p class="fr-book-author">By Sander Van Der Linden</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Foolproof+Sander+Van+Der+Linden&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Foolproof on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/13300557-M.jpg" alt="Cover for Foolproof" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Foolproof+Sander+Van+Der+Linden&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Foolproof">Foolproof</a>
+</h4>
+<p class="fr-book-author">By Sander Van Der Linden</p>
         
-        <p class="fr-book-desc">First published 2023.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Foolproof+Sander+Van+Der+Linden&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2023.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Foolproof+Sander+Van+Der+Linden&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Constitution+of+Knowledge&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Constitution of Knowledge</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Factfulness&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Factfulness</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Constitution+of+Knowledge&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Constitution of Knowledge</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Factfulness&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Factfulness</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=neuroscience+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bare-denials-why-saying-false-is-not-enough-myths-and-misconcept-neuroscience-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="neuroscience poster" data-ebay-reference="bare-denials-why-saying-false-is-not-enough-myths-and-misconcept-neuroscience-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Neuroscience I Think Neuron To Some Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/6654b3d87aacdfaa077c.jpg' | relative_url }}" alt="Listing image for Neuroscience I Think Neuron To Some Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=neuroscience+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bare-denials-why-saying-false-is-not-enough-myths-and-misconcept-neuroscience-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="neuroscience poster" data-ebay-reference="bare-denials-why-saying-false-is-not-enough-myths-and-misconcept-neuroscience-poster" target="_blank" rel="sponsored noopener noreferrer">Neuroscience I Think Neuron To Some Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=neuroscience+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bare-denials-why-saying-false-is-not-enough-myths-and-misconcept-neuroscience-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="neuroscience poster" data-ebay-reference="bare-denials-why-saying-false-is-not-enough-myths-and-misconcept-neuroscience-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for neuroscience poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: neuroscience poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=neuroscience+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bare-denials-why-saying-false-is-not-enough-myths-and-misconcept-neuroscience-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="neuroscience poster" data-ebay-reference="bare-denials-why-saying-false-is-not-enough-myths-and-misconcept-neuroscience-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=neuroscience+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bare-denials-why-saying-false-is-not-enough-myths-and-misconcept-neuroscience-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="neuroscience poster" data-ebay-reference="bare-denials-why-saying-false-is-not-enough-myths-and-misconcept-neuroscience-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Neuroscience I Think Neuron To Some Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/6654b3d87aacdfaa077c.jpg' | relative_url }}" alt="Listing image for Neuroscience I Think Neuron To Some Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=neuroscience+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bare-denials-why-saying-false-is-not-enough-myths-and-misconcept-neuroscience-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="neuroscience poster" data-ebay-reference="bare-denials-why-saying-false-is-not-enough-myths-and-misconcept-neuroscience-poster" target="_blank" rel="sponsored noopener noreferrer">Neuroscience I Think Neuron To Some Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=neuroscience+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bare-denials-why-saying-false-is-not-enough-myths-and-misconcept-neuroscience-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="neuroscience poster" data-ebay-reference="bare-denials-why-saying-false-is-not-enough-myths-and-misconcept-neuroscience-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for neuroscience poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: neuroscience poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=neuroscience+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bare-denials-why-saying-false-is-not-enough-myths-and-misconcept-neuroscience-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="neuroscience poster" data-ebay-reference="bare-denials-why-saying-false-is-not-enough-myths-and-misconcept-neuroscience-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=neuroscience+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bare-denials-why-saying-false-is-not-enough-myths-and-misconcept-neuroscience-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="neuroscience poster" data-ebay-reference="bare-denials-why-saying-false-is-not-enough-myths-and-misconcept-neuroscience-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro INTUITION Brain Anatomy Poster, Science Biology Neuroscience Wall Art"><img src="{{ '/assets/images/marketplace-covers/5e5a3d1e071b94bc9d63.jpg' | relative_url }}" alt="Listing image for Retro INTUITION Brain Anatomy Poster, Science Biology Neuroscience Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=neuroscience+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bare-denials-why-saying-false-is-not-enough-myths-and-misconcept-neuroscience-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="neuroscience poster" data-ebay-reference="bare-denials-why-saying-false-is-not-enough-myths-and-misconcept-neuroscience-poster" target="_blank" rel="sponsored noopener noreferrer">Retro INTUITION Brain Anatomy Poster, Science Biology Neuroscience Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=neuroscience+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bare-denials-why-saying-false-is-not-enough-myths-and-misconcept-neuroscience-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="neuroscience poster" data-ebay-reference="bare-denials-why-saying-false-is-not-enough-myths-and-misconcept-neuroscience-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for neuroscience poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: neuroscience poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=neuroscience+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bare-denials-why-saying-false-is-not-enough-myths-and-misconcept-neuroscience-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="neuroscience poster" data-ebay-reference="bare-denials-why-saying-false-is-not-enough-myths-and-misconcept-neuroscience-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=neuroscience+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bare-denials-why-saying-false-is-not-enough-myths-and-misconcept-neuroscience-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="neuroscience poster" data-ebay-reference="bare-denials-why-saying-false-is-not-enough-myths-and-misconcept-neuroscience-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro INTUITION Brain Anatomy Poster, Science Biology Neuroscience Wall Art"><img src="{{ '/assets/images/marketplace-covers/5e5a3d1e071b94bc9d63.jpg' | relative_url }}" alt="Listing image for Retro INTUITION Brain Anatomy Poster, Science Biology Neuroscience Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=neuroscience+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bare-denials-why-saying-false-is-not-enough-myths-and-misconcept-neuroscience-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="neuroscience poster" data-ebay-reference="bare-denials-why-saying-false-is-not-enough-myths-and-misconcept-neuroscience-poster" target="_blank" rel="sponsored noopener noreferrer">Retro INTUITION Brain Anatomy Poster, Science Biology Neuroscience Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=neuroscience+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bare-denials-why-saying-false-is-not-enough-myths-and-misconcept-neuroscience-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="neuroscience poster" data-ebay-reference="bare-denials-why-saying-false-is-not-enough-myths-and-misconcept-neuroscience-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for neuroscience poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: neuroscience poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=neuroscience+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bare-denials-why-saying-false-is-not-enough-myths-and-misconcept-neuroscience-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="neuroscience poster" data-ebay-reference="bare-denials-why-saying-false-is-not-enough-myths-and-misconcept-neuroscience-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=neuroscience+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bare-denials-why-saying-false-is-not-enough-myths-and-misconcept-neuroscience-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="neuroscience poster" data-ebay-reference="bare-denials-why-saying-false-is-not-enough-myths-and-misconcept-neuroscience-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Neuroscience Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/492845a2e0e8f021d8e6.jpg' | relative_url }}" alt="Listing image for Neuroscience Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=neuroscience+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bare-denials-why-saying-false-is-not-enough-myths-and-misconcept-neuroscience-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="neuroscience poster" data-ebay-reference="bare-denials-why-saying-false-is-not-enough-myths-and-misconcept-neuroscience-poster" target="_blank" rel="sponsored noopener noreferrer">Neuroscience Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=neuroscience+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bare-denials-why-saying-false-is-not-enough-myths-and-misconcept-neuroscience-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="neuroscience poster" data-ebay-reference="bare-denials-why-saying-false-is-not-enough-myths-and-misconcept-neuroscience-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for neuroscience poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: neuroscience poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=neuroscience+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bare-denials-why-saying-false-is-not-enough-myths-and-misconcept-neuroscience-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="neuroscience poster" data-ebay-reference="bare-denials-why-saying-false-is-not-enough-myths-and-misconcept-neuroscience-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=neuroscience+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bare-denials-why-saying-false-is-not-enough-myths-and-misconcept-neuroscience-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="neuroscience poster" data-ebay-reference="bare-denials-why-saying-false-is-not-enough-myths-and-misconcept-neuroscience-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Neuroscience Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/492845a2e0e8f021d8e6.jpg' | relative_url }}" alt="Listing image for Neuroscience Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=neuroscience+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bare-denials-why-saying-false-is-not-enough-myths-and-misconcept-neuroscience-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="neuroscience poster" data-ebay-reference="bare-denials-why-saying-false-is-not-enough-myths-and-misconcept-neuroscience-poster" target="_blank" rel="sponsored noopener noreferrer">Neuroscience Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=neuroscience+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bare-denials-why-saying-false-is-not-enough-myths-and-misconcept-neuroscience-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="neuroscience poster" data-ebay-reference="bare-denials-why-saying-false-is-not-enough-myths-and-misconcept-neuroscience-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for neuroscience poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: neuroscience poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=neuroscience+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bare-denials-why-saying-false-is-not-enough-myths-and-misconcept-neuroscience-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="neuroscience poster" data-ebay-reference="bare-denials-why-saying-false-is-not-enough-myths-and-misconcept-neuroscience-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=neuroscience+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bare-denials-why-saying-false-is-not-enough-myths-and-misconcept-neuroscience-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="neuroscience poster" data-ebay-reference="bare-denials-why-saying-false-is-not-enough-myths-and-misconcept-neuroscience-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Neuroscience I Think Neuron To Some Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/fb2a2c7e512831f3921d.jpg' | relative_url }}" alt="Listing image for Neuroscience I Think Neuron To Some Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=neuroscience+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bare-denials-why-saying-false-is-not-enough-myths-and-misconcept-neuroscience-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="neuroscience poster" data-ebay-reference="bare-denials-why-saying-false-is-not-enough-myths-and-misconcept-neuroscience-poster" target="_blank" rel="sponsored noopener noreferrer">Neuroscience I Think Neuron To Some Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=neuroscience+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bare-denials-why-saying-false-is-not-enough-myths-and-misconcept-neuroscience-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="neuroscience poster" data-ebay-reference="bare-denials-why-saying-false-is-not-enough-myths-and-misconcept-neuroscience-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for neuroscience poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: neuroscience poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=neuroscience+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bare-denials-why-saying-false-is-not-enough-myths-and-misconcept-neuroscience-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="neuroscience poster" data-ebay-reference="bare-denials-why-saying-false-is-not-enough-myths-and-misconcept-neuroscience-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=neuroscience+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bare-denials-why-saying-false-is-not-enough-myths-and-misconcept-neuroscience-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="neuroscience poster" data-ebay-reference="bare-denials-why-saying-false-is-not-enough-myths-and-misconcept-neuroscience-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=neuroscience+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bare-denials-why-saying-false-is-not-enough-myths-and-misconcept-neuroscience-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="neuroscience poster" data-ebay-reference="bare-denials-why-saying-false-is-not-enough-myths-and-misconcept-neuroscience-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Neuroscience I Think Neuron To Some Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/fb2a2c7e512831f3921d.jpg' | relative_url }}" alt="Listing image for Neuroscience I Think Neuron To Some Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=neuroscience+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bare-denials-why-saying-false-is-not-enough-myths-and-misconcept-neuroscience-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="neuroscience poster" data-ebay-reference="bare-denials-why-saying-false-is-not-enough-myths-and-misconcept-neuroscience-poster" target="_blank" rel="sponsored noopener noreferrer">Neuroscience I Think Neuron To Some Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=neuroscience+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bare-denials-why-saying-false-is-not-enough-myths-and-misconcept-neuroscience-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="neuroscience poster" data-ebay-reference="bare-denials-why-saying-false-is-not-enough-myths-and-misconcept-neuroscience-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for neuroscience poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: neuroscience poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=neuroscience+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bare-denials-why-saying-false-is-not-enough-myths-and-misconcept-neuroscience-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="neuroscience poster" data-ebay-reference="bare-denials-why-saying-false-is-not-enough-myths-and-misconcept-neuroscience-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=neuroscience+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bare-denials-why-saying-false-is-not-enough-myths-and-misconcept-neuroscience-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="neuroscience poster" data-ebay-reference="bare-denials-why-saying-false-is-not-enough-myths-and-misconcept-neuroscience-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -516,7 +516,7 @@ This is why effective [debunking]({{ 'debunking/' | relative_url }}) often resem
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -536,7 +536,7 @@ This is why effective [debunking]({{ 'debunking/' | relative_url }}) often resem
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -568,7 +568,7 @@ This is why effective [debunking]({{ 'debunking/' | relative_url }}) often resem
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -620,7 +620,7 @@ This is why effective [debunking]({{ 'debunking/' | relative_url }}) often resem
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -665,7 +665,7 @@ This is why effective [debunking]({{ 'debunking/' | relative_url }}) often resem
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -706,157 +706,157 @@ This is why effective [debunking]({{ 'debunking/' | relative_url }}) often resem
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCThe role of discomfort in the continued influence effect  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8447889/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8447889/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>by MW Susmann · 2021 · Cited by 90 — Research examining the continued influence effect (CIE) of misinformation has reliably found that...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8447889/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8447889/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by MW Susmann · 2021 · Cited by 90 — Research examining the continued influence effect (CIE) of misinformation has reliably found that...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: nature.com  
-   Link: <a href="https://www.nature.com/articles/s44159-021-00006-y" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s44159-021-00006-y</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The psychological drivers of misinformation belief and its...by UKH Ecker · 2022 · Cited by 1916 — In this Review, we describe the...</p></details>
+   Link:<a href="https://www.nature.com/articles/s44159-021-00006-y" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s44159-021-00006-y</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The psychological drivers of misinformation belief and its...by UKH Ecker · 2022 · Cited by 1916 — In this Review, we describe the...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: sciencedirect.com  
    Title: ScienceDirect He did it!  
-   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0749596X15001035" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0749596X15001035</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>She did it! No, she did not! Multiple causal...by UKH Ecker · 2015 · Cited by 164 — This implies that, while a retraction creates a “gap...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/abs/pii/S0749596X15001035" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0749596X15001035</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>She did it! No, she did not! Multiple causal...by UKH Ecker · 2015 · Cited by 164 — This implies that, while a retraction creates a “gap...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: anecdotal.app  
-   Link: <a href="https://anecdotal.app/bias/continued-influence-effect/" target="_blank" rel="noopener noreferrer nofollow">https://anecdotal.app/bias/continued-influence-effect/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Continued influence effect | ANECDOTALWhen misinformation fills a causal role in a mental model — the warehouse fire started in...</p></details>
+   Link:<a href="https://anecdotal.app/bias/continued-influence-effect/" target="_blank" rel="noopener noreferrer nofollow">https://anecdotal.app/bias/continued-influence-effect/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Continued influence effect | ANECDOTALWhen misinformation fills a causal role in a mental model — the warehouse fire started in...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/258180567_Misinformation_and_Its_Correction_Continued_Influence_and_Successful_Debiasing" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/258180567_Misinformation_and_Its_Correction_Continued_Influence_and_Successful_Debiasing</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ResearchGate(PDF) Misinformation and Its Correction Continued...We look at people&#x27;s memory for misinformation and answer the questions o...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/258180567_Misinformation_and_Its_Correction_Continued_Influence_and_Successful_Debiasing" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/258180567_Misinformation_and_Its_Correction_Continued_Influence_and_Successful_Debiasing</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ResearchGate(PDF) Misinformation and Its Correction Continued...We look at people&#x27;s memory for misinformation and answer the questions o...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: scispace.com  
-   Link: <a href="https://scispace.com/pdf/the-continued-influence-of-misinformation-in-memory-what-4tijzg1jh2.pdf" target="_blank" rel="noopener noreferrer nofollow">https://scispace.com/pdf/the-continued-influence-of-misinformation-in-memory-what-4tijzg1jh2.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Successful correction of misinformation appears to require an alternative causal account. The alternative appears to replace the...Read...</p></details>
+   Link:<a href="https://scispace.com/pdf/the-continued-influence-of-misinformation-in-memory-what-4tijzg1jh2.pdf" target="_blank" rel="noopener noreferrer nofollow">https://scispace.com/pdf/the-continued-influence-of-misinformation-in-memory-what-4tijzg1jh2.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Successful correction of misinformation appears to require an alternative causal account. The alternative appears to replace the...Read...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: aiha.org  
    Title: new research on scientific misinformation  
-   Link: <a href="https://www.aiha.org/blog/new-research-on-scientific-misinformation" target="_blank" rel="noopener noreferrer nofollow">https://www.aiha.org/blog/new-research-on-scientific-misinformation</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>17 Aug 2021 — “An alternative narrative fills the gap in a recipient&#x27;s mind when a key piece of evidence is retracted,” Cacciatore writes...</p></details>
+   Link:<a href="https://www.aiha.org/blog/new-research-on-scientific-misinformation" target="_blank" rel="noopener noreferrer nofollow">https://www.aiha.org/blog/new-research-on-scientific-misinformation</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>17 Aug 2021 — “An alternative narrative fills the gap in a recipient&#x27;s mind when a key piece of evidence is retracted,” Cacciatore writes...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: brod.ntcenter.bg  
-   Link: <a href="https://brod.ntcenter.bg/en/continued-influence-effect/" target="_blank" rel="noopener noreferrer nofollow">https://brod.ntcenter.bg/en/continued-influence-effect/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Continued Influence EffectThe &quot;Continued Influence Effect&quot; refers to the phenomenon where misinformation continues to affect people&#x27;s thi...</p></details>
+   Link:<a href="https://brod.ntcenter.bg/en/continued-influence-effect/" target="_blank" rel="noopener noreferrer nofollow">https://brod.ntcenter.bg/en/continued-influence-effect/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Continued Influence EffectThe &quot;Continued Influence Effect&quot; refers to the phenomenon where misinformation continues to affect people&#x27;s thi...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0010027720302729" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0010027720302729</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The rational continued influence of misinformationby SAC Desai · 2020 · Cited by 71 — Studies on the &#x27;Continued Influence Ef...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/abs/pii/S0010027720302729" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0010027720302729</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The rational continued influence of misinformationby SAC Desai · 2020 · Cited by 71 — Studies on the &#x27;Continued Influence Ef...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: Theoretical accounts of the CIE  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10075451/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10075451/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Executive function and the continued influence of misinformationby P McIlhiney · 2023 · Cited by 13 — Misinformation can continue to i...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10075451/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10075451/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Executive function and the continued influence of misinformationby P McIlhiney · 2023 · Cited by 13 — Misinformation can continue to i...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCExploring factors that mitigate the continued influence  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8627545/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8627545/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>by IP Kan · 2021 · Cited by 27 — The term “continued influence effect” (CIE) refers to the phenomenon that discredited and obsolete in...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8627545/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8627545/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by IP Kan · 2021 · Cited by 27 — The term “continued influence effect” (CIE) refers to the phenomenon that discredited and obsolete in...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/391015007_To_be_continued_misinformation%27s_bizarre_adventure_beyond_memory_failures_-_exploring_non-memory-based_mechanisms_driving_the_continued_influence_effect_CIE" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/391015007_To_be_continued_misinformation%27s_bizarre_adventure_beyond_memory_failures_-_exploring_non-memory-based_mechanisms_driving_the_continued_influence_effect_CIE</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) To be continued: misinformation&#x27;s bizarre adventure...18 Nov 2025 — The Continued Influence Effect (CIE) refers to the persistent...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/391015007_To_be_continued_misinformation%27s_bizarre_adventure_beyond_memory_failures_-_exploring_non-memory-based_mechanisms_driving_the_continued_influence_effect_CIE" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/391015007_To_be_continued_misinformation%27s_bizarre_adventure_beyond_memory_failures_-_exploring_non-memory-based_mechanisms_driving_the_continued_influence_effect_CIE</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) To be continued: misinformation&#x27;s bizarre adventure...18 Nov 2025 — The Continued Influence Effect (CIE) refers to the persistent...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: emc-lab.org  
-   Link: <a href="https://www.emc-lab.org/uploads/1/1/3/6/113627673/chapter_swireecker_revised.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.emc-lab.org/uploads/1/1/3/6/113627673/chapter_swireecker_revised.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ecker Memory &amp; Cognition LabMisinformation and its CorrectionMarch 6, 2018 — by B Swire · Cited by 139 — The notion that retractions crea...</p></details>
+   Link:<a href="https://www.emc-lab.org/uploads/1/1/3/6/113627673/chapter_swireecker_revised.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.emc-lab.org/uploads/1/1/3/6/113627673/chapter_swireecker_revised.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ecker Memory &amp; Cognition LabMisinformation and its CorrectionMarch 6, 2018 — by B Swire · Cited by 139 — The notion that retractions crea...</p></details>
    Published: March 6, 2018  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: shapingtomorrowsworld.org  
-   Link: <a href="https://www.shapingtomorrowsworld.org/debunking-handbook-part-5-filling-gap-with-alternative-explanation.html" target="_blank" rel="noopener noreferrer nofollow">https://www.shapingtomorrowsworld.org/debunking-handbook-part-5-filling-gap-with-alternative-explanation.html</a>  
+   Link:<a href="https://www.shapingtomorrowsworld.org/debunking-handbook-part-5-filling-gap-with-alternative-explanation.html" target="_blank" rel="noopener noreferrer nofollow">https://www.shapingtomorrowsworld.org/debunking-handbook-part-5-filling-gap-with-alternative-explanation.html</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: frontiersin.org  
-   Link: <a href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2024.1487146/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2024.1487146/full</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>FrontiersThe inhibitory impact of collaboration on the continued...by G Chen · 2024 · Cited by 2 — The continued influence effect (CIE)...</p></details>
+   Link:<a href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2024.1487146/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2024.1487146/full</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FrontiersThe inhibitory impact of collaboration on the continued...by G Chen · 2024 · Cited by 2 — The continued influence effect (CIE)...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/36988856/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/36988856/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>impact of misinformation corrections on source...by V Westbrook · 2023 · Cited by 26 — Research on the continued influence effect (CIE)...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/36988856/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/36988856/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>impact of misinformation corrections on source...by V Westbrook · 2023 · Cited by 26 — Research on the continued influence effect (CIE)...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: research-information.bris.ac.uk  
    Title: University of Bristol Lewandowsky, S., Ecker, UKH, & Cook, J  
-   Link: <a href="https://research-information.bris.ac.uk/ws/portalfiles/portal/152516154/Pages_from_JARMAC_2017_59_Revision_1_V1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://research-information.bris.ac.uk/ws/portalfiles/portal/152516154/Pages_from_JARMAC_2017_59_Revision_1_V1.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(2017). BeyondToday — Second, corrections must explain why the misinformation was disseminated in the first place or they must provide an...</p></details>
+   Link:<a href="https://research-information.bris.ac.uk/ws/portalfiles/portal/152516154/Pages_from_JARMAC_2017_59_Revision_1_V1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://research-information.bris.ac.uk/ws/portalfiles/portal/152516154/Pages_from_JARMAC_2017_59_Revision_1_V1.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(2017). BeyondToday — Second, corrections must explain why the misinformation was disseminated in the first place or they must provide an...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: journals.sagepub.com  
-   Link: <a href="https://journals.sagepub.com/doi/10.1177/17470218251336232" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/17470218251336232</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sage JournalsDo the protective effects last? The...9 Apr 2025 — The continued influence effect (CIE) refers to continued reliance on mis...</p></details>
+   Link:<a href="https://journals.sagepub.com/doi/10.1177/17470218251336232" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/17470218251336232</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sage JournalsDo the protective effects last? The...9 Apr 2025 — The continued influence effect (CIE) refers to continued reliance on mis...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Misinformation" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Misinformation</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>MisinformationMisinformation can include inaccurate, incomplete, misleading, or false information as well as selective or half-truths...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Misinformation" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Misinformation</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>MisinformationMisinformation can include inaccurate, incomplete, misleading, or false information as well as selective or half-truths...</p></details>
 
 ### Additional References
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: climatechangecommunication.org  
-   Link: <a href="https://www.climatechangecommunication.org/wp-content/uploads/2023/09/DebunkingHandbook2020.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.climatechangecommunication.org/wp-content/uploads/2023/09/DebunkingHandbook2020.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Debunking HandbookCorrections are most successful if people are suspicious, or made to be suspicious, of the source or [intent](&amp;#123;&amp;#123; &#x27;intent/&#x27; | relative_url &amp;#125;&amp;#125;) of the misi...</p></details>
+   Link:<a href="https://www.climatechangecommunication.org/wp-content/uploads/2023/09/DebunkingHandbook2020.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.climatechangecommunication.org/wp-content/uploads/2023/09/DebunkingHandbook2020.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Debunking HandbookCorrections are most successful if people are suspicious, or made to be suspicious, of the source or [intent](&amp;#123;&amp;#123; &#x27;intent/&#x27; | relative_url &amp;#125;&amp;#125;) of the misi...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: research-information.bris.ac.uk  
-   Link: <a href="https://research-information.bris.ac.uk/files/298563464/Ecker_v4_TSshorten_UE_clean.pdf" target="_blank" rel="noopener noreferrer nofollow">https://research-information.bris.ac.uk/files/298563464/Ecker_v4_TSshorten_UE_clean.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>bris.ac.ukEcker, UKH, Lewandowsky, S., Cook, J., Schmid, P., Fazio...In this Review, we describe the cognitive, social, and affective f...</p></details>
+   Link:<a href="https://research-information.bris.ac.uk/files/298563464/Ecker_v4_TSshorten_UE_clean.pdf" target="_blank" rel="noopener noreferrer nofollow">https://research-information.bris.ac.uk/files/298563464/Ecker_v4_TSshorten_UE_clean.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>bris.ac.ukEcker, UKH, Lewandowsky, S., Cook, J., Schmid, P., Fazio...In this Review, we describe the cognitive, social, and affective f...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: esafety.gov.au  
    Title: [fake news](&#123;&#123; 'fake-news/' | relative_url &#125;&#125;) and misinformation  
-   Link: <a href="https://www.esafety.gov.au/key-topics/fake-news-and-misinformation" target="_blank" rel="noopener noreferrer nofollow">https://www.esafety.gov.au/key-topics/fake-news-and-misinformation</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>20 Jan 2026 — Information, images and videos posted online can be untrue or misleading, so check the facts before sharing them.Read more...</p></details>
+   Link:<a href="https://www.esafety.gov.au/key-topics/fake-news-and-misinformation" target="_blank" rel="noopener noreferrer nofollow">https://www.esafety.gov.au/key-topics/fake-news-and-misinformation</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>20 Jan 2026 — Information, images and videos posted online can be untrue or misleading, so check the facts before sharing them.Read more...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: cambridge.org  
-   Link: <a href="https://www.cambridge.org/core/books/social-media-and-democracy/misinformation-and-its-correction/61FA7FD743784A723BA234533012E810" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/books/social-media-and-democracy/misinformation-and-its-correction/61FA7FD743784A723BA234533012E810</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>First, corrections are rarely able to fully eliminate reliance on misinformation in...Read more...</p></details>
+   Link:<a href="https://www.cambridge.org/core/books/social-media-and-democracy/misinformation-and-its-correction/61FA7FD743784A723BA234533012E810" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/books/social-media-and-democracy/misinformation-and-its-correction/61FA7FD743784A723BA234533012E810</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>First, corrections are rarely able to fully eliminate reliance on misinformation in...Read more...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10623619/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10623619/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>by Z Adams · 2023 · Cited by 144 — The consensus view points to advancements in information technology (eg, the Internet, social media...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10623619/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10623619/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by Z Adams · 2023 · Cited by 144 — The consensus view points to advancements in information technology (eg, the Internet, social media...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8715407/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8715407/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>by B Swire-Thompson · 2021 · Cited by 79 — The current paper investigated how altering the format of corrections influences people&#x27;s s...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8715407/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8715407/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by B Swire-Thompson · 2021 · Cited by 79 — The current paper investigated how altering the format of corrections influences people&#x27;s s...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: abc.net.au  
-   Link: <a href="https://www.abc.net.au/education/defining-misinformation/106152200" target="_blank" rel="noopener noreferrer nofollow">https://www.abc.net.au/education/defining-misinformation/106152200</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Media Explained — Misinformation: Defining misinformation15 Jan 2026 — Disinformation, on the other hand, is false information that&#x27;s cre...</p></details>
+   Link:<a href="https://www.abc.net.au/education/defining-misinformation/106152200" target="_blank" rel="noopener noreferrer nofollow">https://www.abc.net.au/education/defining-misinformation/106152200</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Media Explained — Misinformation: Defining misinformation15 Jan 2026 — Disinformation, on the other hand, is false information that&#x27;s cre...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: parkeschampionpost.com.au  
    Title: munity invited to explore truth and misinformation  
-   Link: <a href="https://www.parkeschampionpost.com.au/news/community-invited-to-explore-truth-and-misinformation-ja6cc5bk" target="_blank" rel="noopener noreferrer nofollow">https://www.parkeschampionpost.com.au/news/community-invited-to-explore-truth-and-misinformation-ja6cc5bk</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>munity invited to explore truth and misinformation...</p></details>
+   Link:<a href="https://www.parkeschampionpost.com.au/news/community-invited-to-explore-truth-and-misinformation-ja6cc5bk" target="_blank" rel="noopener noreferrer nofollow">https://www.parkeschampionpost.com.au/news/community-invited-to-explore-truth-and-misinformation-ja6cc5bk</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>munity invited to explore truth and misinformation...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: link.springer.com  
-   Link: <a href="https://link.springer.com/article/10.1186/s41235-021-00335-9" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1186/s41235-021-00335-9</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>factors that mitigate the continued influence of...by IP Kan · 2021 · Cited by 27 — The term “continued influence effect” (CIE) refers t...</p></details>
+   Link:<a href="https://link.springer.com/article/10.1186/s41235-021-00335-9" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1186/s41235-021-00335-9</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>factors that mitigate the continued influence of...by IP Kan · 2021 · Cited by 27 — The term “continued influence effect” (CIE) refers t...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: digitalcommons.chapman.edu  
-   Link: <a href="https://digitalcommons.chapman.edu/cgi/viewcontent.cgi?article=1061&amp;context=comm_articles" target="_blank" rel="noopener noreferrer nofollow">https://digitalcommons.chapman.edu/cgi/viewcontent.cgi?article=1061&amp;context=comm_articles</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Digital CommonsA Meta-Analytic Examination of the Continued Influence of...by N Walter · 2019 · Cited by 649 — A meta-analysis was condu...</p></details>
+   Link:<a href="https://digitalcommons.chapman.edu/cgi/viewcontent.cgi?article=1061&amp;context=comm_articles" target="_blank" rel="noopener noreferrer nofollow">https://digitalcommons.chapman.edu/cgi/viewcontent.cgi?article=1061&amp;context=comm_articles</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Digital CommonsA Meta-Analytic Examination of the Continued Influence of...by N Walter · 2019 · Cited by 649 — A meta-analysis was condu...</p></details>

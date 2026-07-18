@@ -268,12 +268,12 @@ image: /assets/images/Myths_and_misconcept_0d48d7_learning_styles_surv_b4e9eb_te
 
 ## Introduction
 
-One of the most striking findings from research on learning styles is not simply that belief remains widespread among teachers, but that it is almost as common among people who have not yet entered the profession. Evidence from surveys suggests that the learning-styles myth is transmitted across generations of educators rather than fading with time. New teachers are often arriving in schools already convinced that pupils learn best when teaching is matched to a preferred style, even though reviews of the research literature have found little support for that claim. This pattern matters because it suggests that belief is embedded not only in classroom practice but also in the culture and training environments that shape future teachers. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2020.602451/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-snippet">FrontiersHow Common Is Belief in the Learning Styles Neuromyth...by PM Newton  2020  Cited by 205  Self-reported belief in matching i...</span></span></span>
+One of the most striking findings from research on learning styles is not simply that belief remains widespread among teachers, but that it is almost as common among people who have not yet entered the profession. Evidence from surveys suggests that the learning-styles myth is transmitted across generations of educators rather than fading with time. New teachers are often arriving in schools already convinced that pupils learn best when teaching is matched to a preferred style, even though reviews of the research literature have found little support for that claim. This pattern matters because it suggests that belief is embedded not only in classroom practice but also in the culture and training environments that shape future teachers.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2020.602451/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-snippet">FrontiersHow Common Is Belief in the Learning Styles Neuromyth...by PM Newton  2020  Cited by 205  Self-reported belief in matching i...</span></span></span>
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_learning_styles_surv_b4e9eb_teacher_trainee_beli_0528cc-Illustration-1-dark.svg" | relative_url }}" alt="Teacher belief illustration 1" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_learning_styles_surv_b4e9eb_teacher_trainee_beli_0528cc-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_learning_styles_surv_b4e9eb_teacher_trainee_beli_0528cc-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## What the 2020 review found among qualified teachers
 
-The clearest comparison comes from the 2020 systematic review by Phil Newton and Atharva Salvi, which examined 37 studies involving more than 15,000 educators across 18 countries. The review found exceptionally high levels of belief in learning styles overall, but it also compared qualified teachers with pre-service teachersthose still completing teacher education programmes. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2020.602451/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-snippet">FrontiersHow Common Is Belief in the Learning Styles Neuromyth...by PM Newton  2020  Cited by 205  Self-reported belief in matching i...</span></span></span>
+The clearest comparison comes from the 2020 systematic review by Phil Newton and Atharva Salvi, which examined 37 studies involving more than 15,000 educators across 18 countries. The review found exceptionally high levels of belief in learning styles overall, but it also compared qualified teachers with pre-service teachersthose still completing teacher education programmes.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2020.602451/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-snippet">FrontiersHow Common Is Belief in the Learning Styles Neuromyth...by PM Newton  2020  Cited by 205  Self-reported belief in matching i...</span></span></span>
 
 The results showed:
 
@@ -281,11 +281,11 @@ The results showed:
 
 * Qualified teachers: 87.8% weighted belief rate.
 * Pre-service teachers: 95.4% weighted belief rate.
-* No statistically significant difference between the two groups. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2020.602451/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-snippet">FrontiersHow Common Is Belief in the Learning Styles Neuromyth...by PM Newton  2020  Cited by 205  Self-reported belief in matching i...</span></span></span>
+* No statistically significant difference between the two groups.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2020.602451/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-snippet">FrontiersHow Common Is Belief in the Learning Styles Neuromyth...by PM Newton  2020  Cited by 205  Self-reported belief in matching i...</span></span></span>
 
 </div>
 
-These figures challenge a common assumption that learning styles survive mainly because experienced teachers continue to pass on outdated ideas. Instead, belief appears to be present before many teachers begin full-time classroom work. If anything, the review found slightly higher endorsement among trainees, although the difference was not large enough to demonstrate a meaningful gap. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2020.602451/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-snippet">FrontiersHow Common Is Belief in the Learning Styles Neuromyth...by PM Newton  2020  Cited by 205  Self-reported belief in matching i...</span></span></span>
+These figures challenge a common assumption that learning styles survive mainly because experienced teachers continue to pass on outdated ideas. Instead, belief appears to be present before many teachers begin full-time classroom work. If anything, the review found slightly higher endorsement among trainees, although the difference was not large enough to demonstrate a meaningful gap.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2020.602451/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-snippet">FrontiersHow Common Is Belief in the Learning Styles Neuromyth...by PM Newton  2020  Cited by 205  Self-reported belief in matching i...</span></span></span>
 
 This finding is important because it suggests that the persistence of learning styles cannot be explained simply by professional inertia or resistance to change among veteran educators. The belief is already established among many entrants to the profession.
 
@@ -295,7 +295,7 @@ This finding is important because it suggests that the persistence of learning s
 
 When a misconception is already widespread among trainee teachers, schools alone cannot be expected to correct it. Teacher education programmes become a crucial point of intervention.
 
-Research on educational [neuromyths]({{ 'neuromyths/' | relative_url }}) has repeatedly found that prospective teachers often enter training with strong beliefs about learning styles and other brain-based misconceptions. Reviews of the neuromyth literature note that these beliefs have been documented among both practising and prospective teachers for more than two decades. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2020.602451/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-snippet">FrontiersHow Common Is Belief in the Learning Styles Neuromyth...by PM Newton  2020  Cited by 205  Self-reported belief in matching i...</span></span></span>
+Research on educational [neuromyths]({{ 'neuromyths/' | relative_url }}) has repeatedly found that prospective teachers often enter training with strong beliefs about learning styles and other brain-based misconceptions. Reviews of the neuromyth literature note that these beliefs have been documented among both practising and prospective teachers for more than two decades.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2020.602451/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-snippet">FrontiersHow Common Is Belief in the Learning Styles Neuromyth...by PM Newton  2020  Cited by 205  Self-reported belief in matching i...</span></span></span>
 
 The concern is not merely that trainees hold an inaccurate belief. Rather, learning styles are often presented as consistent with values that teacher education rightly promotes:
 
@@ -308,227 +308,227 @@ The concern is not merely that trainees hold an inaccurate belief. Rather, learn
 
 </div>
 
-Because the learning-styles idea appears to align with these goals, it can feel intuitively correct even when the underlying evidence is weak. Researchers have argued that many educators endorse the concept because it seems to offer a practical way to personalise learning, not because they have closely examined the experimental literature. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2020.602451/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-snippet">FrontiersHow Common Is Belief in the Learning Styles Neuromyth...by PM Newton  2020  Cited by 205  Self-reported belief in matching i...</span></span></span>
+Because the learning-styles idea appears to align with these goals, it can feel intuitively correct even when the underlying evidence is weak. Researchers have argued that many educators endorse the concept because it seems to offer a practical way to personalise learning, not because they have closely examined the experimental literature.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2020.602451/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-snippet">FrontiersHow Common Is Belief in the Learning Styles Neuromyth...by PM Newton  2020  Cited by 205  Self-reported belief in matching i...</span></span></span>
 
 This helps explain why the belief can survive the transition from university coursework into professional practice. The idea fits existing educational values and therefore requires active examination rather than simple exposure to research findings.
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_learning_styles_surv_b4e9eb_teacher_trainee_beli_0528cc-Illustration-2-dark.svg" | relative_url }}" alt="Teacher belief illustration 2" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_learning_styles_surv_b4e9eb_teacher_trainee_beli_0528cc-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_learning_styles_surv_b4e9eb_teacher_trainee_beli_0528cc-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Training can reduce belief, but not automatically
 
-The 2020 review identified several studies that explicitly taught participants about the lack of evidence for matching instruction to learning styles. Across those interventions, belief dropped substantially after training. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2020.602451/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-snippet">FrontiersHow Common Is Belief in the Learning Styles Neuromyth...by PM Newton  2020  Cited by 205  Self-reported belief in matching i...</span></span></span>
+The 2020 review identified several studies that explicitly taught participants about the lack of evidence for matching instruction to learning styles. Across those interventions, belief dropped substantially after training.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2020.602451/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-snippet">FrontiersHow Common Is Belief in the Learning Styles Neuromyth...by PM Newton  2020  Cited by 205  Self-reported belief in matching i...</span></span></span>
 
-That result suggests teacher education can make a difference. However, the existence of very high belief rates among trainees shows that exposure to higher education alone does not automatically eliminate the misconception. What appears to matter is whether programmes directly address the claim, examine the evidence and distinguish learning preferences from the stronger "matching" hypothesis. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2020.602451/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-snippet">FrontiersHow Common Is Belief in the Learning Styles Neuromyth...by PM Newton  2020  Cited by 205  Self-reported belief in matching i...</span></span></span>
+That result suggests teacher education can make a difference. However, the existence of very high belief rates among trainees shows that exposure to higher education alone does not automatically eliminate the misconception. What appears to matter is whether programmes directly address the claim, examine the evidence and distinguish learning preferences from the stronger "matching" hypothesis.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2020.602451/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-snippet">FrontiersHow Common Is Belief in the Learning Styles Neuromyth...by PM Newton  2020  Cited by 205  Self-reported belief in matching i...</span></span></span>
 
 ## Why new teachers still inherit learning styles
 
 The persistence of learning-styles belief among newcomers points to several overlapping mechanisms.
 
-First, many trainee teachers encounter the concept long before entering teacher education. Popular books, professional development materials, school placements and online teaching resources frequently present visual, auditory and kinaesthetic categories as established educational knowledge. By the time formal training begins, the idea may already feel familiar and self-evident. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2020.602451/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-snippet">FrontiersHow Common Is Belief in the Learning Styles Neuromyth...by PM Newton  2020  Cited by 205  Self-reported belief in matching i...</span></span></span>
+First, many trainee teachers encounter the concept long before entering teacher education. Popular books, professional development materials, school placements and online teaching resources frequently present visual, auditory and kinaesthetic categories as established educational knowledge. By the time formal training begins, the idea may already feel familiar and self-evident.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2020.602451/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-snippet">FrontiersHow Common Is Belief in the Learning Styles Neuromyth...by PM Newton  2020  Cited by 205  Self-reported belief in matching i...</span></span></span>
 
-Second, the term "learning styles" is often used ambiguously. Research has shown that educators may interpret it in different ways. Some understand it as a claim about matching instruction to learner types, while others hear it simply as encouragement to use varied teaching methods. This ambiguity makes survey responses difficult to interpret and may help explain why endorsement remains high. <span class="citation-chip-wrap"><a class="citation-chip" href="https://link.springer.com/article/10.1007/s10212-020-00485-2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">The learning styles neuromyth: when the same term means...by M Papadatou-Pastou  2021  Cited by 138  A study into neuromyths...</span></span></span>
+Second, the term "learning styles" is often used ambiguously. Research has shown that educators may interpret it in different ways. Some understand it as a claim about matching instruction to learner types, while others hear it simply as encouragement to use varied teaching methods. This ambiguity makes survey responses difficult to interpret and may help explain why endorsement remains high.<span class="citation-chip-wrap"><a class="citation-chip" href="https://link.springer.com/article/10.1007/s10212-020-00485-2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">The learning styles neuromyth: when the same term means...by M Papadatou-Pastou  2021  Cited by 138  A study into neuromyths...</span></span></span>
 
-Third, teacher trainees frequently observe experienced practitioners during placements. If learning-styles language remains common in schools, new teachers may see it modelled as accepted professional practice regardless of what the research literature says. This creates a feedback loop in which beliefs are reproduced across cohorts. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2020.602451/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-snippet">FrontiersHow Common Is Belief in the Learning Styles Neuromyth...by PM Newton  2020  Cited by 205  Self-reported belief in matching i...</span></span></span>
+Third, teacher trainees frequently observe experienced practitioners during placements. If learning-styles language remains common in schools, new teachers may see it modelled as accepted professional practice regardless of what the research literature says. This creates a feedback loop in which beliefs are reproduced across cohorts.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2020.602451/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-snippet">FrontiersHow Common Is Belief in the Learning Styles Neuromyth...by PM Newton  2020  Cited by 205  Self-reported belief in matching i...</span></span></span>
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_learning_styles_surv_b4e9eb_teacher_trainee_beli_0528cc-Illustration-3-dark.svg" | relative_url }}" alt="Teacher belief illustration 3" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_learning_styles_surv_b4e9eb_teacher_trainee_beli_0528cc-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_learning_styles_surv_b4e9eb_teacher_trainee_beli_0528cc-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What the pattern says about professional culture
 
 The absence of a meaningful belief gap between qualified and trainee teachers suggests that learning styles are best understood as a cultural phenomenon within education rather than merely an individual misunderstanding.
 
-If experienced teachers strongly believed in learning styles while trainees largely rejected them, the myth might be expected to decline naturally as new generations entered the profession. The survey evidence does not show that pattern. Instead, high endorsement appears at both ends of the career pipeline. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2020.602451/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-snippet">FrontiersHow Common Is Belief in the Learning Styles Neuromyth...by PM Newton  2020  Cited by 205  Self-reported belief in matching i...</span></span></span>
+If experienced teachers strongly believed in learning styles while trainees largely rejected them, the myth might be expected to decline naturally as new generations entered the profession. The survey evidence does not show that pattern. Instead, high endorsement appears at both ends of the career pipeline.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2020.602451/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-snippet">FrontiersHow Common Is Belief in the Learning Styles Neuromyth...by PM Newton  2020  Cited by 205  Self-reported belief in matching i...</span></span></span>
 
-This continuity helps explain why learning styles have proved unusually resilient. The belief is reinforced during entry into teaching, remains visible in professional discourse and often aligns with broader commitments to differentiation and learner-centred education. As a result, it can persist even when educators are otherwise well informed and supportive of evidence-based practice. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2020.602451/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-snippet">FrontiersHow Common Is Belief in the Learning Styles Neuromyth...by PM Newton  2020  Cited by 205  Self-reported belief in matching i...</span></span></span>
+This continuity helps explain why learning styles have proved unusually resilient. The belief is reinforced during entry into teaching, remains visible in professional discourse and often aligns with broader commitments to differentiation and learner-centred education. As a result, it can persist even when educators are otherwise well informed and supportive of evidence-based practice.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2020.602451/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-snippet">FrontiersHow Common Is Belief in the Learning Styles Neuromyth...by PM Newton  2020  Cited by 205  Self-reported belief in matching i...</span></span></span>
 
-For understanding myths and misconceptions in education, the key lesson is that learning styles are not simply an old idea waiting to disappear with retirement and generational change. Survey evidence indicates that many new teachers inherit the belief before they become teachers, helping to sustain it across successive generations of the profession. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2020.602451/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-snippet">FrontiersHow Common Is Belief in the Learning Styles Neuromyth...by PM Newton  2020  Cited by 205  Self-reported belief in matching i...</span></span></span>
+For understanding myths and misconceptions in education, the key lesson is that learning styles are not simply an old idea waiting to disappear with retirement and generational change. Survey evidence indicates that many new teachers inherit the belief before they become teachers, helping to sustain it across successive generations of the profession.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2020.602451/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-snippet">FrontiersHow Common Is Belief in the Learning Styles Neuromyth...by PM Newton  2020  Cited by 205  Self-reported belief in matching i...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why new teachers still inherit learning styles. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why new teachers still inherit learning styles. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Why+Don%27t+Students+Like+School%3F+by+Daniel+T.+Willingham&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Why Don&#x27;t Students Like School? on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=kuEmEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Why Don&#x27;t Students Like School?" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Why+Don%27t+Students+Like+School%3F+by+Daniel+T.+Willingham&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Why Don&#x27;t Students Like School?">Why Don&#x27;t Students Like School?</a>
-        </h4>
-        <p class="fr-book-author">By Daniel T. Willingham</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Why+Don%27t+Students+Like+School%3F+by+Daniel+T.+Willingham&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Why Don&#x27;t Students Like School? on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=kuEmEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Why Don&#x27;t Students Like School?" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Why+Don%27t+Students+Like+School%3F+by+Daniel+T.+Willingham&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Why Don&#x27;t Students Like School?">Why Don&#x27;t Students Like School?</a>
+</h4>
+<p class="fr-book-author">By Daniel T. Willingham</p>
         
-        <p class="fr-book-desc">Addresses misconceptions commonly inherited by new teachers.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Why+Don%27t+Students+Like+School%3F+by+Daniel+T.+Willingham&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Addresses misconceptions commonly inherited by new teachers.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Why+Don%27t+Students+Like+School%3F+by+Daniel+T.+Willingham&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Make It Stick on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fpAXEQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Make It Stick" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Make It Stick">Make It Stick</a>
-        </h4>
-        <p class="fr-book-author">By Peter C. Brown, Henry L. Roediger III et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Make It Stick on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fpAXEQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Make It Stick" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Make It Stick">Make It Stick</a>
+</h4>
+<p class="fr-book-author">By Peter C. Brown, Henry L. Roediger III et al.</p>
         
-        <p class="fr-book-desc">Offers evidence-based alternatives to learning-style thinking.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Offers evidence-based alternatives to learning-style thinking.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+Learning+Happens+by+Paul+A.+Kirschner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How Learning Happens on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=PdnzEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How Learning Happens" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+Learning+Happens+by+Paul+A.+Kirschner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How Learning Happens">How Learning Happens</a>
-        </h4>
-        <p class="fr-book-author">By Paul A. Kirschner, Carl Hendrick</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+Learning+Happens+by+Paul+A.+Kirschner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How Learning Happens on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=PdnzEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How Learning Happens" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=How+Learning+Happens+by+Paul+A.+Kirschner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How Learning Happens">How Learning Happens</a>
+</h4>
+<p class="fr-book-author">By Paul A. Kirschner, Carl Hendrick</p>
         
-        <p class="fr-book-desc">Explains how educational myths persist in teacher culture.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+Learning+Happens+by+Paul+A.+Kirschner&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains how educational myths persist in teacher culture.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=How+Learning+Happens+by+Paul+A.+Kirschner&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Visible+Learning+for+Teachers+by+John+Hattie&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Visible Learning for Teachers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=vSoUT6PXdoIC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Visible Learning for Teachers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Visible+Learning+for+Teachers+by+John+Hattie&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Visible Learning for Teachers">Visible Learning for Teachers</a>
-        </h4>
-        <p class="fr-book-author">By John Hattie</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Visible+Learning+for+Teachers+by+John+Hattie&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Visible Learning for Teachers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=vSoUT6PXdoIC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Visible Learning for Teachers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Visible+Learning+for+Teachers+by+John+Hattie&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Visible Learning for Teachers">Visible Learning for Teachers</a>
+</h4>
+<p class="fr-book-author">By John Hattie</p>
         
-        <p class="fr-book-desc">Encourages evidence-based teaching decisions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Visible+Learning+for+Teachers+by+John+Hattie&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Encourages evidence-based teaching decisions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Visible+Learning+for+Teachers+by+John+Hattie&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Why+Don%27t+Students+Like+School%3F&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Why Don&#x27;t Students Like School?</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Make+It+Stick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Make It Stick</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+Learning+Happens&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How Learning Happens</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Why+Don%27t+Students+Like+School%3F&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Why Don&#x27;t Students Like School?</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Make+It+Stick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Make It Stick</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=How+Learning+Happens&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How Learning Happens</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+desk+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=teacher-belief-a45b18-why-new-teachers-still-inherit-learning-styles-myths-and-misconcept-teacher-desk-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher desk sign" data-ebay-reference="teacher-belief-a45b18-why-new-teachers-still-inherit-learning-styles-myths-and-misconcept-teacher-desk-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disney Style Personalised Name Plate Stand Plaque Desk Office Desk Teacher Gift"><img src="{{ '/assets/images/marketplace-covers/0a0237889280511932e0.jpg' | relative_url }}" alt="Listing image for Disney Style Personalised Name Plate Stand Plaque Desk Office Desk Teacher Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+desk+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=teacher-belief-a45b18-why-new-teachers-still-inherit-learning-styles-myths-and-misconcept-teacher-desk-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher desk sign" data-ebay-reference="teacher-belief-a45b18-why-new-teachers-still-inherit-learning-styles-myths-and-misconcept-teacher-desk-sign" target="_blank" rel="sponsored noopener noreferrer">Disney Style Personalised Name Plate Stand Plaque Desk Office Desk Teacher Gift</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+desk+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=teacher-belief-a45b18-why-new-teachers-still-inherit-learning-styles-myths-and-misconcept-teacher-desk-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher desk sign" data-ebay-reference="teacher-belief-a45b18-why-new-teachers-still-inherit-learning-styles-myths-and-misconcept-teacher-desk-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for teacher desk sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: teacher desk sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+desk+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=teacher-belief-a45b18-why-new-teachers-still-inherit-learning-styles-myths-and-misconcept-teacher-desk-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher desk sign" data-ebay-reference="teacher-belief-a45b18-why-new-teachers-still-inherit-learning-styles-myths-and-misconcept-teacher-desk-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+desk+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=teacher-belief-a45b18-why-new-teachers-still-inherit-learning-styles-myths-and-misconcept-teacher-desk-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher desk sign" data-ebay-reference="teacher-belief-a45b18-why-new-teachers-still-inherit-learning-styles-myths-and-misconcept-teacher-desk-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disney Style Personalised Name Plate Stand Plaque Desk Office Desk Teacher Gift"><img src="{{ '/assets/images/marketplace-covers/0a0237889280511932e0.jpg' | relative_url }}" alt="Listing image for Disney Style Personalised Name Plate Stand Plaque Desk Office Desk Teacher Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+desk+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=teacher-belief-a45b18-why-new-teachers-still-inherit-learning-styles-myths-and-misconcept-teacher-desk-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher desk sign" data-ebay-reference="teacher-belief-a45b18-why-new-teachers-still-inherit-learning-styles-myths-and-misconcept-teacher-desk-sign" target="_blank" rel="sponsored noopener noreferrer">Disney Style Personalised Name Plate Stand Plaque Desk Office Desk Teacher Gift</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+desk+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=teacher-belief-a45b18-why-new-teachers-still-inherit-learning-styles-myths-and-misconcept-teacher-desk-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher desk sign" data-ebay-reference="teacher-belief-a45b18-why-new-teachers-still-inherit-learning-styles-myths-and-misconcept-teacher-desk-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for teacher desk sign">Search<span data-ebay-domain-label>eBay.co.uk</span>: teacher desk sign</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+desk+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=teacher-belief-a45b18-why-new-teachers-still-inherit-learning-styles-myths-and-misconcept-teacher-desk-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher desk sign" data-ebay-reference="teacher-belief-a45b18-why-new-teachers-still-inherit-learning-styles-myths-and-misconcept-teacher-desk-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+desk+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=teacher-belief-a45b18-why-new-teachers-still-inherit-learning-styles-myths-and-misconcept-teacher-desk-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher desk sign" data-ebay-reference="teacher-belief-a45b18-why-new-teachers-still-inherit-learning-styles-myths-and-misconcept-teacher-desk-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Teacher Desk Name Light – Custom LED Acrylic Sign, Thank You Gift from Student"><img src="{{ '/assets/images/marketplace-covers/502b2afd907a59f12f2a.jpg' | relative_url }}" alt="Listing image for Teacher Desk Name Light – Custom LED Acrylic Sign, Thank You Gift from Student" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+desk+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=teacher-belief-a45b18-why-new-teachers-still-inherit-learning-styles-myths-and-misconcept-teacher-desk-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher desk sign" data-ebay-reference="teacher-belief-a45b18-why-new-teachers-still-inherit-learning-styles-myths-and-misconcept-teacher-desk-sign" target="_blank" rel="sponsored noopener noreferrer">Teacher Desk Name Light – Custom LED Acrylic Sign, Thank You Gift from Student</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+desk+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=teacher-belief-a45b18-why-new-teachers-still-inherit-learning-styles-myths-and-misconcept-teacher-desk-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher desk sign" data-ebay-reference="teacher-belief-a45b18-why-new-teachers-still-inherit-learning-styles-myths-and-misconcept-teacher-desk-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for teacher desk sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: teacher desk sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+desk+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=teacher-belief-a45b18-why-new-teachers-still-inherit-learning-styles-myths-and-misconcept-teacher-desk-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher desk sign" data-ebay-reference="teacher-belief-a45b18-why-new-teachers-still-inherit-learning-styles-myths-and-misconcept-teacher-desk-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+desk+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=teacher-belief-a45b18-why-new-teachers-still-inherit-learning-styles-myths-and-misconcept-teacher-desk-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher desk sign" data-ebay-reference="teacher-belief-a45b18-why-new-teachers-still-inherit-learning-styles-myths-and-misconcept-teacher-desk-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Teacher Desk Name Light – Custom LED Acrylic Sign, Thank You Gift from Student"><img src="{{ '/assets/images/marketplace-covers/502b2afd907a59f12f2a.jpg' | relative_url }}" alt="Listing image for Teacher Desk Name Light – Custom LED Acrylic Sign, Thank You Gift from Student" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+desk+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=teacher-belief-a45b18-why-new-teachers-still-inherit-learning-styles-myths-and-misconcept-teacher-desk-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher desk sign" data-ebay-reference="teacher-belief-a45b18-why-new-teachers-still-inherit-learning-styles-myths-and-misconcept-teacher-desk-sign" target="_blank" rel="sponsored noopener noreferrer">Teacher Desk Name Light – Custom LED Acrylic Sign, Thank You Gift from Student</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+desk+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=teacher-belief-a45b18-why-new-teachers-still-inherit-learning-styles-myths-and-misconcept-teacher-desk-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher desk sign" data-ebay-reference="teacher-belief-a45b18-why-new-teachers-still-inherit-learning-styles-myths-and-misconcept-teacher-desk-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for teacher desk sign">Search<span data-ebay-domain-label>eBay.co.uk</span>: teacher desk sign</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+desk+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=teacher-belief-a45b18-why-new-teachers-still-inherit-learning-styles-myths-and-misconcept-teacher-desk-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher desk sign" data-ebay-reference="teacher-belief-a45b18-why-new-teachers-still-inherit-learning-styles-myths-and-misconcept-teacher-desk-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+desk+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=teacher-belief-a45b18-why-new-teachers-still-inherit-learning-styles-myths-and-misconcept-teacher-desk-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher desk sign" data-ebay-reference="teacher-belief-a45b18-why-new-teachers-still-inherit-learning-styles-myths-and-misconcept-teacher-desk-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Desk Plaque, Acrylic Name Plate for Desk, Teacher Name Plate Sign Acrylic Plaque"><img src="{{ '/assets/images/marketplace-covers/8fc312fa3af34f33ffbf.jpg' | relative_url }}" alt="Listing image for Desk Plaque, Acrylic Name Plate for Desk, Teacher Name Plate Sign Acrylic Plaque" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+desk+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=teacher-belief-a45b18-why-new-teachers-still-inherit-learning-styles-myths-and-misconcept-teacher-desk-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher desk sign" data-ebay-reference="teacher-belief-a45b18-why-new-teachers-still-inherit-learning-styles-myths-and-misconcept-teacher-desk-sign" target="_blank" rel="sponsored noopener noreferrer">Desk Plaque, Acrylic Name Plate for Desk, Teacher Name Plate Sign Acrylic Plaque</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+desk+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=teacher-belief-a45b18-why-new-teachers-still-inherit-learning-styles-myths-and-misconcept-teacher-desk-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher desk sign" data-ebay-reference="teacher-belief-a45b18-why-new-teachers-still-inherit-learning-styles-myths-and-misconcept-teacher-desk-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for teacher desk sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: teacher desk sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+desk+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=teacher-belief-a45b18-why-new-teachers-still-inherit-learning-styles-myths-and-misconcept-teacher-desk-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher desk sign" data-ebay-reference="teacher-belief-a45b18-why-new-teachers-still-inherit-learning-styles-myths-and-misconcept-teacher-desk-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+desk+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=teacher-belief-a45b18-why-new-teachers-still-inherit-learning-styles-myths-and-misconcept-teacher-desk-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher desk sign" data-ebay-reference="teacher-belief-a45b18-why-new-teachers-still-inherit-learning-styles-myths-and-misconcept-teacher-desk-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Desk Plaque, Acrylic Name Plate for Desk, Teacher Name Plate Sign Acrylic Plaque"><img src="{{ '/assets/images/marketplace-covers/8fc312fa3af34f33ffbf.jpg' | relative_url }}" alt="Listing image for Desk Plaque, Acrylic Name Plate for Desk, Teacher Name Plate Sign Acrylic Plaque" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+desk+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=teacher-belief-a45b18-why-new-teachers-still-inherit-learning-styles-myths-and-misconcept-teacher-desk-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher desk sign" data-ebay-reference="teacher-belief-a45b18-why-new-teachers-still-inherit-learning-styles-myths-and-misconcept-teacher-desk-sign" target="_blank" rel="sponsored noopener noreferrer">Desk Plaque, Acrylic Name Plate for Desk, Teacher Name Plate Sign Acrylic Plaque</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+desk+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=teacher-belief-a45b18-why-new-teachers-still-inherit-learning-styles-myths-and-misconcept-teacher-desk-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher desk sign" data-ebay-reference="teacher-belief-a45b18-why-new-teachers-still-inherit-learning-styles-myths-and-misconcept-teacher-desk-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for teacher desk sign">Search<span data-ebay-domain-label>eBay.co.uk</span>: teacher desk sign</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+desk+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=teacher-belief-a45b18-why-new-teachers-still-inherit-learning-styles-myths-and-misconcept-teacher-desk-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher desk sign" data-ebay-reference="teacher-belief-a45b18-why-new-teachers-still-inherit-learning-styles-myths-and-misconcept-teacher-desk-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+desk+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=teacher-belief-a45b18-why-new-teachers-still-inherit-learning-styles-myths-and-misconcept-teacher-desk-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher desk sign" data-ebay-reference="teacher-belief-a45b18-why-new-teachers-still-inherit-learning-styles-myths-and-misconcept-teacher-desk-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Best Teacher Ever Acrylic Desk Sign, Gift, Decor"><img src="{{ '/assets/images/marketplace-covers/123c43b1e377681ac9f3.jpg' | relative_url }}" alt="Listing image for Best Teacher Ever Acrylic Desk Sign, Gift, Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+desk+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=teacher-belief-a45b18-why-new-teachers-still-inherit-learning-styles-myths-and-misconcept-teacher-desk-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher desk sign" data-ebay-reference="teacher-belief-a45b18-why-new-teachers-still-inherit-learning-styles-myths-and-misconcept-teacher-desk-sign" target="_blank" rel="sponsored noopener noreferrer">Best Teacher Ever Acrylic Desk Sign, Gift, Decor</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+desk+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=teacher-belief-a45b18-why-new-teachers-still-inherit-learning-styles-myths-and-misconcept-teacher-desk-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher desk sign" data-ebay-reference="teacher-belief-a45b18-why-new-teachers-still-inherit-learning-styles-myths-and-misconcept-teacher-desk-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for teacher desk sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: teacher desk sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+desk+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=teacher-belief-a45b18-why-new-teachers-still-inherit-learning-styles-myths-and-misconcept-teacher-desk-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher desk sign" data-ebay-reference="teacher-belief-a45b18-why-new-teachers-still-inherit-learning-styles-myths-and-misconcept-teacher-desk-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+desk+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=teacher-belief-a45b18-why-new-teachers-still-inherit-learning-styles-myths-and-misconcept-teacher-desk-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher desk sign" data-ebay-reference="teacher-belief-a45b18-why-new-teachers-still-inherit-learning-styles-myths-and-misconcept-teacher-desk-sign" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+desk+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=teacher-belief-a45b18-why-new-teachers-still-inherit-learning-styles-myths-and-misconcept-teacher-desk-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher desk sign" data-ebay-reference="teacher-belief-a45b18-why-new-teachers-still-inherit-learning-styles-myths-and-misconcept-teacher-desk-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Best Teacher Ever Acrylic Desk Sign, Gift, Decor"><img src="{{ '/assets/images/marketplace-covers/123c43b1e377681ac9f3.jpg' | relative_url }}" alt="Listing image for Best Teacher Ever Acrylic Desk Sign, Gift, Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+desk+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=teacher-belief-a45b18-why-new-teachers-still-inherit-learning-styles-myths-and-misconcept-teacher-desk-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher desk sign" data-ebay-reference="teacher-belief-a45b18-why-new-teachers-still-inherit-learning-styles-myths-and-misconcept-teacher-desk-sign" target="_blank" rel="sponsored noopener noreferrer">Best Teacher Ever Acrylic Desk Sign, Gift, Decor</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+desk+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=teacher-belief-a45b18-why-new-teachers-still-inherit-learning-styles-myths-and-misconcept-teacher-desk-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher desk sign" data-ebay-reference="teacher-belief-a45b18-why-new-teachers-still-inherit-learning-styles-myths-and-misconcept-teacher-desk-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for teacher desk sign">Search<span data-ebay-domain-label>eBay.co.uk</span>: teacher desk sign</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+desk+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=teacher-belief-a45b18-why-new-teachers-still-inherit-learning-styles-myths-and-misconcept-teacher-desk-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher desk sign" data-ebay-reference="teacher-belief-a45b18-why-new-teachers-still-inherit-learning-styles-myths-and-misconcept-teacher-desk-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+desk+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=teacher-belief-a45b18-why-new-teachers-still-inherit-learning-styles-myths-and-misconcept-teacher-desk-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher desk sign" data-ebay-reference="teacher-belief-a45b18-why-new-teachers-still-inherit-learning-styles-myths-and-misconcept-teacher-desk-sign" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -544,7 +544,7 @@ For understanding myths and misconceptions in education, the key lesson is that 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -564,7 +564,7 @@ For understanding myths and misconceptions in education, the key lesson is that 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -596,7 +596,7 @@ For understanding myths and misconceptions in education, the key lesson is that 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -648,7 +648,7 @@ For understanding myths and misconceptions in education, the key lesson is that 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -693,7 +693,7 @@ For understanding myths and misconceptions in education, the key lesson is that 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -734,116 +734,116 @@ For understanding myths and misconceptions in education, the key lesson is that 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: frontiersin.org  
-   Link: <a href="https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2020.602451/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2020.602451/full</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>FrontiersHow Common Is Belief in the Learning Styles Neuromyth...by PM Newton  2020  Cited by 205  Self-reported belief in matching i...</p></details>
+   Link:<a href="https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2020.602451/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2020.602451/full</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FrontiersHow Common Is Belief in the Learning Styles Neuromyth...by PM Newton  2020  Cited by 205  Self-reported belief in matching i...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: frontiersin.org  
-   Link: <a href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2020.591923/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2020.591923/full</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>FrontiersThe Persistence of Neuromyths in the Educational Settingsby M Torrijos-Muelas  2021  Cited by 255  After two decades of publi...</p></details>
+   Link:<a href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2020.591923/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2020.591923/full</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FrontiersThe Persistence of Neuromyths in the Educational Settingsby M Torrijos-Muelas  2021  Cited by 255  After two decades of publi...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: frontiersin.org  
-   Link: <a href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2024.1407518/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2024.1407518/full</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>FrontiersWhy educators endorse a neuromyth: relationships among...by C Bresnahan  2024  Cited by 8  Why educators endorse a neuromyth...</p></details>
+   Link:<a href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2024.1407518/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2024.1407518/full</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FrontiersWhy educators endorse a neuromyth: relationships among...by C Bresnahan  2024  Cited by 8  Why educators endorse a neuromyth...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: link.springer.com  
-   Link: <a href="https://link.springer.com/article/10.1007/s10212-020-00485-2" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1007/s10212-020-00485-2</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The learning styles neuromyth: when the same term means...by M Papadatou-Pastou  2021  Cited by 138  A study into neuromyths...</p></details>
+   Link:<a href="https://link.springer.com/article/10.1007/s10212-020-00485-2" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1007/s10212-020-00485-2</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The learning styles neuromyth: when the same term means...by M Papadatou-Pastou  2021  Cited by 138  A study into neuromyths...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: frontiersin.org  
-   Link: <a href="https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2018.00105/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2018.00105/full</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>FrontiersThe Learning Styles Educational Neuromyth: Lack of...by M Papadatou-Pastou  2018  Cited by 75  Studies have shown that they...</p></details>
+   Link:<a href="https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2018.00105/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2018.00105/full</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FrontiersThe Learning Styles Educational Neuromyth: Lack of...by M Papadatou-Pastou  2018  Cited by 75  Studies have shown that they...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: frontiersin.org  
-   Link: <a href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2017.01314/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2017.01314/full</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>FrontiersDispelling the Myth: Training in Education or Neuroscience...by K Macdonald  2017  Cited by 455  These findings suggest that...</p></details>
+   Link:<a href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2017.01314/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2017.01314/full</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FrontiersDispelling the Myth: Training in Education or Neuroscience...by K Macdonald  2017  Cited by 455  These findings suggest that...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Education" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Education</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Education - WikipediaHow Common Is Belief in the Learning Styles Neuromyth, and...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Education" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Education</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Education - WikipediaHow Common Is Belief in the Learning Styles Neuromyth, and...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: frontiersin.org  
-   Link: <a href="https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2023.1147498/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2023.1147498/full</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The persistence of matching teaching and learning stylesby SBRE Brown  2023  Cited by 35  The studies that have been reviewed here, ha...</p></details>
+   Link:<a href="https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2023.1147498/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2023.1147498/full</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The persistence of matching teaching and learning stylesby SBRE Brown  2023  Cited by 35  The studies that have been reviewed here, ha...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: frontiersin.org  
    Title: Is it really a neuromyth?  
-   Link: <a href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2024.1428732/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2024.1428732/full</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>A meta-analysis of the learning...by V Clinton-Lisell  2024  Cited by 22  The purpose of this study was to conduct a meta-analysis of...</p></details>
+   Link:<a href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2024.1428732/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2024.1428732/full</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A meta-analysis of the learning...by V Clinton-Lisell  2024  Cited by 22  The purpose of this study was to conduct a meta-analysis of...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: frontiersin.org  
    Title: Learning Styles | List of Frontiers open access articles Systematic Review  
-   Link: <a href="https://www.frontiersin.org/subjects/learning-styles" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/subjects/learning-styles</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Published on 14 Dec 2020. How Common Is Belief in the Learning Styles Neuromyth, and Does It Matter? A Pragmatic Systematic Review. in...</p></details>
+   Link:<a href="https://www.frontiersin.org/subjects/learning-styles" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/subjects/learning-styles</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Published on 14 Dec 2020. How Common Is Belief in the Learning Styles Neuromyth, and Does It Matter? A Pragmatic Systematic Review. in...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: frontiersin.org  
-   Link: <a href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2021.719692/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2021.719692/full</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Interventions to Dispel Neuromyths in Educational Settings...by L Rousseau  2021  Cited by 68  Neuromyths are misconceptions about th...</p></details>
+   Link:<a href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2021.719692/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2021.719692/full</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Interventions to Dispel Neuromyths in Educational Settings...by L Rousseau  2021  Cited by 68  Neuromyths are misconceptions about th...</p></details>
 
 ### Additional References
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: educationalneuroscience.org.uk  
-   Link: <a href="https://www.educationalneuroscience.org.uk/resources/neuromyth-or-neurofact/children-have-different-learning-styles/" target="_blank" rel="noopener noreferrer nofollow">https://www.educationalneuroscience.org.uk/resources/neuromyth-or-neurofact/children-have-different-learning-styles/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Children have different learning stylesAlthough as many as 71 different learning style schemes have been proposed[i], most typically lear...</p></details>
+   Link:<a href="https://www.educationalneuroscience.org.uk/resources/neuromyth-or-neurofact/children-have-different-learning-styles/" target="_blank" rel="noopener noreferrer nofollow">https://www.educationalneuroscience.org.uk/resources/neuromyth-or-neurofact/children-have-different-learning-styles/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Children have different learning stylesAlthough as many as 71 different learning style schemes have been proposed[i], most typically lear...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: nature.com  
-   Link: <a href="https://www.nature.com/nature-index/topics/l4/educational-neuroscience-and-teacher-practices" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/nature-index/topics/l4/educational-neuroscience-and-teacher-practices</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Educational Neuroscience and Teacher PracticesFoundational systematic reviews of neuromyth prevalence reveal that misconceptions endure a...</p></details>
+   Link:<a href="https://www.nature.com/nature-index/topics/l4/educational-neuroscience-and-teacher-practices" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/nature-index/topics/l4/educational-neuroscience-and-teacher-practices</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Educational Neuroscience and Teacher PracticesFoundational systematic reviews of neuromyth prevalence reveal that misconceptions endure a...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: educationalneuroscience.org.uk  
    Title: scientists argue teachers must ditch neuromyth of learning styles  
-   Link: <a href="https://educationalneuroscience.org.uk/wordpress/2017/03/20/scientists-argue-teachers-must-ditch-neuromyth-of-learning-styles/" target="_blank" rel="noopener noreferrer nofollow">https://educationalneuroscience.org.uk/wordpress/2017/03/20/scientists-argue-teachers-must-ditch-neuromyth-of-learning-styles/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Scientists argue teachers must ditch &#x27;neuromyth&#x27; of...20 Mar 2017  The letter continues: The brain is essential for learning, but lea...</p></details>
+   Link:<a href="https://educationalneuroscience.org.uk/wordpress/2017/03/20/scientists-argue-teachers-must-ditch-neuromyth-of-learning-styles/" target="_blank" rel="noopener noreferrer nofollow">https://educationalneuroscience.org.uk/wordpress/2017/03/20/scientists-argue-teachers-must-ditch-neuromyth-of-learning-styles/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Scientists argue teachers must ditch &#x27;neuromyth&#x27; of...20 Mar 2017  The letter continues: The brain is essential for learning, but lea...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: my.chartered.college  
-   Link: <a href="https://my.chartered.college/impact_article/teachers-understanding-of-neuromyths-a-role-for-educational-neuroscience-in-teacher-training/" target="_blank" rel="noopener noreferrer nofollow">https://my.chartered.college/impact_article/teachers-understanding-of-neuromyths-a-role-for-educational-neuroscience-in-teacher-training/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>chartered.collegeTeachers&#x27; understanding of neuromyths: A role for...20 Sept 2022  The current study aimed to understand the degree to...</p></details>
+   Link:<a href="https://my.chartered.college/impact_article/teachers-understanding-of-neuromyths-a-role-for-educational-neuroscience-in-teacher-training/" target="_blank" rel="noopener noreferrer nofollow">https://my.chartered.college/impact_article/teachers-understanding-of-neuromyths-a-role-for-educational-neuroscience-in-teacher-training/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>chartered.collegeTeachers&#x27; understanding of neuromyths: A role for...20 Sept 2022  The current study aimed to understand the degree to...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: cronfa.swan.ac.uk  
    Title: A Pragmatic Systematic Review; evidence-based education, pragmatism, neuromyth,  
-   Link: <a href="https://cronfa.swan.ac.uk/Record/cronfa55948" target="_blank" rel="noopener noreferrer nofollow">https://cronfa.swan.ac.uk/Record/cronfa55948</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Common Is Belief in the Learning Styles Neuromyth, and Does...How Common Is Belief in the Learning Styles Neuromyth, and Does It Matter?...</p></details>
+   Link:<a href="https://cronfa.swan.ac.uk/Record/cronfa55948" target="_blank" rel="noopener noreferrer nofollow">https://cronfa.swan.ac.uk/Record/cronfa55948</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Common Is Belief in the Learning Styles Neuromyth, and Does...How Common Is Belief in the Learning Styles Neuromyth, and Does It Matter?...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3475349/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3475349/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>by S Dekker  2012  Cited by 1248  Results showed that on average, teachers believed 49% of the neuromyths, particularly myths relat...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3475349/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3475349/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by S Dekker  2012  Cited by 1248  Results showed that on average, teachers believed 49% of the neuromyths, particularly myths relat...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: theguardian.com  
    Title: teachers neuromyth learning styles scientists neuroscience education  
-   Link: <a href="https://www.theguardian.com/education/2017/mar/13/teachers-neuromyth-learning-styles-scientists-neuroscience-education" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/education/2017/mar/13/teachers-neuromyth-learning-styles-scientists-neuroscience-education</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Teachers must ditch &#x27;neuromyth&#x27; of learning styles, say...12 Mar 2017  Teaching children according to their individual learning style...</p></details>
+   Link:<a href="https://www.theguardian.com/education/2017/mar/13/teachers-neuromyth-learning-styles-scientists-neuroscience-education" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/education/2017/mar/13/teachers-neuromyth-learning-styles-scientists-neuroscience-education</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Teachers must ditch &#x27;neuromyth&#x27; of learning styles, say...12 Mar 2017  Teaching children according to their individual learning style...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: my.chartered.college  
    Title: neuromyths about special educational needs what should teachers know  
-   Link: <a href="https://my.chartered.college/impact_article/neuromyths-about-special-educational-needs-what-should-teachers-know/" target="_blank" rel="noopener noreferrer nofollow">https://my.chartered.college/impact_article/neuromyths-about-special-educational-needs-what-should-teachers-know/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>about Special Educational Needs20 Sept 2022  Some of the most common neuromyths include the beliefs that humans only use 10 per cent of...</p></details>
+   Link:<a href="https://my.chartered.college/impact_article/neuromyths-about-special-educational-needs-what-should-teachers-know/" target="_blank" rel="noopener noreferrer nofollow">https://my.chartered.college/impact_article/neuromyths-about-special-educational-needs-what-should-teachers-know/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>about Special Educational Needs20 Sept 2022  Some of the most common neuromyths include the beliefs that humans only use 10 per cent of...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: cronfa.swansea.ac.uk  
-   Link: <a href="https://cronfa.swansea.ac.uk/Record/cronfa55948/Details" target="_blank" rel="noopener noreferrer nofollow">https://cronfa.swansea.ac.uk/Record/cronfa55948/Details</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A Pragmatic Systematic Review. Phil Newton Orcid Logo, Atharva Salvi. Frontiers in...Read more...</p></details>
+   Link:<a href="https://cronfa.swansea.ac.uk/Record/cronfa55948/Details" target="_blank" rel="noopener noreferrer nofollow">https://cronfa.swansea.ac.uk/Record/cronfa55948/Details</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A Pragmatic Systematic Review. Phil Newton Orcid Logo, Atharva Salvi. Frontiers in...Read more...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: cis.org.au  
    Title: knowledge is power what do teachers believe about learning  
-   Link: <a href="https://www.cis.org.au/publication/knowledge-is-power-what-do-teachers-believe-about-learning/" target="_blank" rel="noopener noreferrer nofollow">https://www.cis.org.au/publication/knowledge-is-power-what-do-teachers-believe-about-learning/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Knowledge is power: What do teachers believe about...by T Jha  A systematic review of the LS myth from 2020... Learning styles and ped...</p></details>
+   Link:<a href="https://www.cis.org.au/publication/knowledge-is-power-what-do-teachers-believe-about-learning/" target="_blank" rel="noopener noreferrer nofollow">https://www.cis.org.au/publication/knowledge-is-power-what-do-teachers-believe-about-learning/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Knowledge is power: What do teachers believe about...by T Jha  A systematic review of the LS myth from 2020... Learning styles and ped...</p></details>

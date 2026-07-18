@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /myths-and-misconcept-0d48d7-retrieval/
 description: Focused pages that expand on Study Practice.
-date: '2026-06-11'
+date: '2026'
 layout: default
 parent_basename: Myths_and_misconcept_0d48d7_retrieval_vs_learnin_6ef371
 parent_title: Study Practice
@@ -16,7 +16,7 @@ parent_permalink: /study-practice/
 
 # Explore Topics in Study Practice
 
-The following pages expand on the main **[Study Practice]({{ '/study-practice/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[Study Practice]({{ '/study-practice/' | relative_url }})** page and cover its key branches in.
 
 - [Style surveys]({{ '/style-surveys/' | relative_url }})
 - [Self testing]({{ '/self-testing/' | relative_url }})

@@ -274,14 +274,14 @@ image: /assets/images/Myths_and_misconcept_0d48d7_learning_styles_surv_b4e9eb_le
 
 ## Introduction
 
-One of the less discussed problems with learning-styles theory is not whether pupils have preferences, but what happens when those preferences become identities. If a child is repeatedly described as a “visual learner”, “auditory learner” or “kinaesthetic learner”, a tentative idea about learning can harden into a label. The risk is that the label begins to shape expectations—those of teachers, parents and the pupils themselves. Research has found little evidence that matching instruction to a supposed learning style improves learning outcomes, yet the practice of categorising learners remains widespread. Critics argue that the greater danger may be psychological and educational: labels can narrow what pupils believe they can do and what others expect them to achieve. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/26162104/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Learning Styles: Concepts and Evidenceby H Pashler · 2008 · Cited by 5025 — Learning styles refers to the concept that individuals...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5366351/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Evidence-Based Higher Education – Is the Learning Styles...by PM Newton · 2017 · Cited by 470 — The basic idea behind the use of &#x27;Lea...</span></span></span>
+One of the less discussed problems with learning-styles theory is not whether pupils have preferences, but what happens when those preferences become identities. If a child is repeatedly described as a “visual learner”, “auditory learner” or “kinaesthetic learner”, a tentative idea about learning can harden into a label. The risk is that the label begins to shape expectations—those of teachers, parents and the pupils themselves. Research has found little evidence that matching instruction to a supposed learning style improves learning outcomes, yet the practice of categorising learners remains widespread. Critics argue that the greater danger may be psychological and educational: labels can narrow what pupils believe they can do and what others expect them to achieve.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/26162104/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Learning Styles: Concepts and Evidenceby H Pashler · 2008 · Cited by 5025 — Learning styles refers to the concept that individuals...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5366351/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Evidence-Based Higher Education – Is the Learning Styles...by PM Newton · 2017 · Cited by 470 — The basic idea behind the use of &#x27;Lea...</span></span></span>
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_learning_styles_surv_b4e9eb_learner_labels_expec_6ca7ad-Illustration-1-dark.svg" | relative_url }}" alt="Learner labels illustration 1" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_learning_styles_surv_b4e9eb_learner_labels_expec_6ca7ad-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_learning_styles_surv_b4e9eb_learner_labels_expec_6ca7ad-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Why labels can feel supportive at first
 
-The appeal of learner labels is easy to understand. They appear to recognise individual differences and offer a reassuring message that every child can succeed in their own way. A pupil who struggles with reading-heavy lessons may feel understood when told they are a “visual learner”, while a teacher may see the label as a route to more personalised teaching. <span class="citation-chip-wrap"><a class="citation-chip" href="https://evidencebased.education/resource/the-lingering-learning-styles-myth/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: evidencebased.education">[Evidence Based Education]</a><span class="citation-popover" role="note"><span class="citation-popover-source">evidencebased.education</span><span class="citation-popover-title">the lingering learning styles myth</span><span class="citation-popover-snippet">Evidence Based EducationThe lingering &#x27;learning styles&#x27; myth5 Aug 2024 — &#x27;Learning styles&#x27; refers to the belief that individuals can be c...</span></span></span>
+The appeal of learner labels is easy to understand. They appear to recognise individual differences and offer a reassuring message that every child can succeed in their own way. A pupil who struggles with reading-heavy lessons may feel understood when told they are a “visual learner”, while a teacher may see the label as a route to more personalised teaching.<span class="citation-chip-wrap"><a class="citation-chip" href="https://evidencebased.education/resource/the-lingering-learning-styles-myth/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: evidencebased.education">[Evidence Based Education]</a><span class="citation-popover" role="note"><span class="citation-popover-source">evidencebased.education</span><span class="citation-popover-title">the lingering learning styles myth</span><span class="citation-popover-snippet">Evidence Based EducationThe lingering &#x27;learning styles&#x27; myth5 Aug 2024 — &#x27;Learning styles&#x27; refers to the belief that individuals can be c...</span></span></span>
 
-The problem is that the label often sounds more scientific and stable than the evidence justifies. Learning-style frameworks typically suggest that learners belong to identifiable categories and learn best when teaching matches those categories. Major reviews of the evidence have repeatedly concluded that support for this [matching claim]({{ 'matching-claim/' | relative_url }}) is lacking. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/26162104/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Learning Styles: Concepts and Evidenceby H Pashler · 2008 · Cited by 5025 — Learning styles refers to the concept that individuals...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://bjorklab.psych.ucla.edu/wp-content/uploads/sites/13/2016/07/Pashler_McDaniel_Rohrer_Bjork_2009_PSPI.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bjorklab.psych.ucla.edu">[Bjork Learning and Forgetting Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bjorklab.psych.ucla.edu</span><span class="citation-popover-title">Pashler McDaniel Rohrer Bjork 2009 PSPI</span><span class="citation-popover-snippet">Bjork Learning and Forgetting LabLearning Stylesby H Pashler · Cited by 5025 — The learning-styles view has acquired great influence with...</span></span></span>
+The problem is that the label often sounds more scientific and stable than the evidence justifies. Learning-style frameworks typically suggest that learners belong to identifiable categories and learn best when teaching matches those categories. Major reviews of the evidence have repeatedly concluded that support for this [matching claim]({{ 'matching-claim/' | relative_url }}) is lacking.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/26162104/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Learning Styles: Concepts and Evidenceby H Pashler · 2008 · Cited by 5025 — Learning styles refers to the concept that individuals...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://bjorklab.psych.ucla.edu/wp-content/uploads/sites/13/2016/07/Pashler_McDaniel_Rohrer_Bjork_2009_PSPI.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bjorklab.psych.ucla.edu">[Bjork Learning and Forgetting Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bjorklab.psych.ucla.edu</span><span class="citation-popover-title">Pashler McDaniel Rohrer Bjork 2009 PSPI</span><span class="citation-popover-snippet">Bjork Learning and Forgetting LabLearning Stylesby H Pashler · Cited by 5025 — The learning-styles view has acquired great influence with...</span></span></span>
 
 As a result, what begins as an attempt to respect individuality can unintentionally communicate something stronger: that a pupil has a fixed way of learning and that other approaches are less suitable for them.
 
@@ -289,21 +289,21 @@ As a result, what begins as an attempt to respect individuality can unintentiona
 
 The most direct risk is that pupils start to interpret the label as a limit rather than a preference.
 
-A child who believes they are a visual learner may become less willing to practise skills that depend on listening, discussion, reading dense text or other demanding forms of learning. Rather than viewing difficulty as part of learning, they may interpret it as evidence that the material is being presented in the “wrong” way. Educational psychologists have warned that students can act on these labels, avoiding effective strategies or even entire subjects because they seem inconsistent with their supposed learning style. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.educationnext.org/stubborn-myth-learning-styles-state-teacher-license-prep-materials-debunked-theory/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: educationnext.org">[Education Next]</a><span class="citation-popover" role="note"><span class="citation-popover-source">educationnext.org</span><span class="citation-popover-snippet">Education NextThe Stubborn Myth of “Learning Styles”7 Apr 2020 — Students may act on their label. If a student believes she or he has a p...</span></span></span>
+A child who believes they are a visual learner may become less willing to practise skills that depend on listening, discussion, reading dense text or other demanding forms of learning. Rather than viewing difficulty as part of learning, they may interpret it as evidence that the material is being presented in the “wrong” way. Educational psychologists have warned that students can act on these labels, avoiding effective strategies or even entire subjects because they seem inconsistent with their supposed learning style.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.educationnext.org/stubborn-myth-learning-styles-state-teacher-license-prep-materials-debunked-theory/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: educationnext.org">[Education Next]</a><span class="citation-popover" role="note"><span class="citation-popover-source">educationnext.org</span><span class="citation-popover-snippet">Education NextThe Stubborn Myth of “Learning Styles”7 Apr 2020 — Students may act on their label. If a student believes she or he has a p...</span></span></span>
 
-This matters because successful learning often requires flexibility. Different subjects place different demands on learners. Learning geometry, spelling, music, scientific reasoning and foreign-language vocabulary may each benefit from different combinations of explanation, practice, retrieval and feedback. A fixed learner label can discourage that adaptability. PMC <span class="citation-chip-wrap"><a class="citation-chip" href="https://educationendowmentfoundation.org.uk/education-evidence/teaching-learning-toolkit/learning-styles" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: educationendowmentfoundation.org.uk">[EEF]</a><span class="citation-popover" role="note"><span class="citation-popover-source">educationendowmentfoundation.org.uk</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+This matters because successful learning often requires flexibility. Different subjects place different demands on learners. Learning geometry, spelling, music, scientific reasoning and foreign-language vocabulary may each benefit from different combinations of explanation, practice, retrieval and feedback. A fixed learner label can discourage that adaptability. PMC<span class="citation-chip-wrap"><a class="citation-chip" href="https://educationendowmentfoundation.org.uk/education-evidence/teaching-learning-toolkit/learning-styles" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: educationendowmentfoundation.org.uk">[EEF]</a><span class="citation-popover" role="note"><span class="citation-popover-source">educationendowmentfoundation.org.uk</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-Researchers associated with educational neuroscience have also highlighted the danger that labelling children as a particular type of learner may restrict their self-[identity]({{ 'identity/' | relative_url }}). Instead of seeing themselves as capable of developing new skills, pupils may come to see themselves as belonging to a narrow category. <span class="citation-chip-wrap"><a class="citation-chip" href="https://educationalneuroscience.org.uk/wordpress/resources/neuromyth-or-neurofact/children-have-different-learning-styles/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: educationalneuroscience.org.uk">[educationalneuroscience.org.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">educationalneuroscience.org.uk</span><span class="citation-popover-snippet">Children have different learning stylesTwo major difficulties with the use of learning styles in schools are that labelling children as a...</span></span></span>
+Researchers associated with educational neuroscience have also highlighted the danger that labelling children as a particular type of learner may restrict their self-[identity]({{ 'identity/' | relative_url }}). Instead of seeing themselves as capable of developing new skills, pupils may come to see themselves as belonging to a narrow category.<span class="citation-chip-wrap"><a class="citation-chip" href="https://educationalneuroscience.org.uk/wordpress/resources/neuromyth-or-neurofact/children-have-different-learning-styles/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: educationalneuroscience.org.uk">[educationalneuroscience.org.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">educationalneuroscience.org.uk</span><span class="citation-popover-snippet">Children have different learning stylesTwo major difficulties with the use of learning styles in schools are that labelling children as a...</span></span></span>
 
 ## When labels influence expectations
 
 The concern extends beyond pupils' self-perceptions. Labels can influence how adults interpret ability.
 
-A large body of research on teacher expectations shows that expectations can affect classroom interactions, feedback and opportunities to learn. Studies of self-fulfilling prophecies in education have found that teacher expectations can shape student outcomes through subtle differences in encouragement, challenge and support. ScienceDirect <span class="citation-chip-wrap"><a class="citation-chip" href="https://fis.uni-bamberg.de/bitstreams/11431983-7227-4134-ae4e-693996888ab1/download" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fis.uni-bamberg.de">[2fis.uni-bamberg.de]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fis.uni-bamberg.de</span><span class="citation-popover-snippet">Self-fulfilling prophecies in the classroomby S Gentrup · 2020 · Cited by 539 — This study investigated the link between teacher expectat...</span></span></span>
+A large body of research on teacher expectations shows that expectations can affect classroom interactions, feedback and opportunities to learn. Studies of self-fulfilling prophecies in education have found that teacher expectations can shape student outcomes through subtle differences in encouragement, challenge and support. ScienceDirect<span class="citation-chip-wrap"><a class="citation-chip" href="https://fis.uni-bamberg.de/bitstreams/11431983-7227-4134-ae4e-693996888ab1/download" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fis.uni-bamberg.de">[2fis.uni-bamberg.de]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fis.uni-bamberg.de</span><span class="citation-popover-snippet">Self-fulfilling prophecies in the classroomby S Gentrup · 2020 · Cited by 539 — This study investigated the link between teacher expectat...</span></span></span>
 
 Learning-style labels create a pathway through which such expectations can emerge. Once a pupil is categorised, adults may begin making assumptions about what that pupil finds difficult, what tasks suit them or how far they can progress. The label may not be intended as a judgement of ability, but it can become one in practice.
 
-Recent research has raised concerns that learning-style categories are not perceived neutrally. A 2023 study found that children, parents and teachers associated different learning-style labels with different expectations about intelligence and future success. Pupils described as “visual learners” were often viewed more favourably in academic contexts than those described as “hands-on” learners, even though the labels themselves are not measures of ability. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nature.com/articles/s41539-023-00190-x" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Beware the myth: learning styles affect parents&#x27;, children&#x27;s...by X Sun · 2023 · Cited by 31 — Educators&#x27; beliefs about whether in...</span></span></span>
+Recent research has raised concerns that learning-style categories are not perceived neutrally. A 2023 study found that children, parents and teachers associated different learning-style labels with different expectations about intelligence and future success. Pupils described as “visual learners” were often viewed more favourably in academic contexts than those described as “hands-on” learners, even though the labels themselves are not measures of ability.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nature.com/articles/s41539-023-00190-x" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Beware the myth: learning styles affect parents&#x27;, children&#x27;s...by X Sun · 2023 · Cited by 31 — Educators&#x27; beliefs about whether in...</span></span></span>
 
 This illustrates how a classification system can quietly acquire status rankings that were never part of the original theory.
 
@@ -312,7 +312,7 @@ This illustrates how a classification system can quietly acquire status rankings
 
 The mechanism linking labels and outcomes is often described as a self-fulfilling prophecy.
 
-The process does not require overt discrimination. A teacher who believes a pupil learns mainly through movement may provide fewer opportunities for advanced reading tasks. A parent who accepts that a child is “not an auditory learner” may be less likely to encourage activities that rely on listening and verbal reasoning. The pupil then receives less practice in those areas and may perform less well, seemingly confirming the original label. <span class="citation-chip-wrap"><a class="citation-chip" href="https://link.springer.com/article/10.1007/s12144-021-02250-0" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">how learning disorder labels affect teacher student&#x27;s...by DJ Franz · 2023 · Cited by 19 — One process possibly associated with...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/pii/S095947521930177X" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect Importantly]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Self-fulfilling prophecies in the classroom: Teacher...by S Gentrup · 2020 · Cited by 539 — This study investigated the lin...</span></span></span>, the issue is not that all labels inevitably cause harm. Students can reject labels, exceed expectations and develop in unexpected ways. However, decades of research on educational labelling show that classifications can influence [confidence]({{ 'confidence/' | relative_url }}), participation and achievement when they become embedded in everyday interactions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.simplypsychology.org/labelling-theory-education.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: simplypsychology.org">[Simply Psychology]</a><span class="citation-popover" role="note"><span class="citation-popover-source">simplypsychology.org</span><span class="citation-popover-snippet">Simply PsychologyLabelling Theory (Education)by S McLeod — This theory shows that pupil responses to schools are not straightforward, and...</span></span></span> ReviseSociology The concern is therefore probabilistic rather than deterministic: learner labels increase the risk that expectations become narrower than the <span class="citation-chip-wrap"><a class="citation-chip" href="https://revisesociology.com/2017/11/01/labelling-self-fulfilling-prophecy-education/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: revisesociology.com">[revisesociology.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">revisesociology.com</span><span class="citation-popover-title">labelling self fulfilling prophecy education</span><span class="citation-popover-snippet">Labelling Theory in Sociology &amp; the Self-Fulfilling Prophecy1 Nov 2017 — This post explores the relationship between labelling theory and...</span></span></span> learner's actual potential.
+The process does not require overt discrimination. A teacher who believes a pupil learns mainly through movement may provide fewer opportunities for advanced reading tasks. A parent who accepts that a child is “not an auditory learner” may be less likely to encourage activities that rely on listening and verbal reasoning. The pupil then receives less practice in those areas and may perform less well, seemingly confirming the original label.<span class="citation-chip-wrap"><a class="citation-chip" href="https://link.springer.com/article/10.1007/s12144-021-02250-0" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">how learning disorder labels affect teacher student&#x27;s...by DJ Franz · 2023 · Cited by 19 — One process possibly associated with...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/pii/S095947521930177X" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect Importantly]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Self-fulfilling prophecies in the classroom: Teacher...by S Gentrup · 2020 · Cited by 539 — This study investigated the lin...</span></span></span>, the issue is not that all labels inevitably cause harm. Students can reject labels, exceed expectations and develop in unexpected ways. However, decades of research on educational labelling show that classifications can influence [confidence]({{ 'confidence/' | relative_url }}), participation and achievement when they become embedded in everyday interactions.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.simplypsychology.org/labelling-theory-education.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: simplypsychology.org">[Simply Psychology]</a><span class="citation-popover" role="note"><span class="citation-popover-source">simplypsychology.org</span><span class="citation-popover-snippet">Simply PsychologyLabelling Theory (Education)by S McLeod — This theory shows that pupil responses to schools are not straightforward, and...</span></span></span> ReviseSociology The concern is therefore probabilistic rather than deterministic: learner labels increase the risk that expectations become narrower than the<span class="citation-chip-wrap"><a class="citation-chip" href="https://revisesociology.com/2017/11/01/labelling-self-fulfilling-prophecy-education/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: revisesociology.com">[revisesociology.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">revisesociology.com</span><span class="citation-popover-title">labelling self fulfilling prophecy education</span><span class="citation-popover-snippet">Labelling Theory in Sociology &amp; the Self-Fulfilling Prophecy1 Nov 2017 — This post explores the relationship between labelling theory and...</span></span></span> learner's actual potential.
 
 ## Better ways to talk about individual differences
 
@@ -330,204 +330,204 @@ A more productive approach is to talk about strategies, strengths and current ne
 
 These descriptions focus on what helps now rather than on what a learner permanently is.
 
-Many researchers and evidence-informed education organisations recommend exposing pupils to multiple ways of engaging with information while helping them develop adaptable learning strategies. The emphasis shifts from “What type of learner are you?” to “What approach works best for this task, and how can you expand your toolkit?” <span class="citation-chip-wrap"><a class="citation-chip" href="https://educationendowmentfoundation.org.uk/education-evidence/teaching-learning-toolkit/learning-styles" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: educationendowmentfoundation.org.uk">[EEF]</a><span class="citation-popover" role="note"><span class="citation-popover-source">educationendowmentfoundation.org.uk</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://evidencebased.education/resource/the-lingering-learning-styles-myth/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: evidencebased.education">[Evidence Based Education]</a><span class="citation-popover" role="note"><span class="citation-popover-source">evidencebased.education</span><span class="citation-popover-title">the lingering learning styles myth</span><span class="citation-popover-snippet">Evidence Based EducationThe lingering &#x27;learning styles&#x27; myth5 Aug 2024 — &#x27;Learning styles&#x27; refers to the belief that individuals can be c...</span></span></span>
+Many researchers and evidence-informed education organisations recommend exposing pupils to multiple ways of engaging with information while helping them develop adaptable learning strategies. The emphasis shifts from “What type of learner are you?” to “What approach works best for this task, and how can you expand your toolkit?”<span class="citation-chip-wrap"><a class="citation-chip" href="https://educationendowmentfoundation.org.uk/education-evidence/teaching-learning-toolkit/learning-styles" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: educationendowmentfoundation.org.uk">[EEF]</a><span class="citation-popover" role="note"><span class="citation-popover-source">educationendowmentfoundation.org.uk</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://evidencebased.education/resource/the-lingering-learning-styles-myth/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: evidencebased.education">[Evidence Based Education]</a><span class="citation-popover" role="note"><span class="citation-popover-source">evidencebased.education</span><span class="citation-popover-title">the lingering learning styles myth</span><span class="citation-popover-snippet">Evidence Based EducationThe lingering &#x27;learning styles&#x27; myth5 Aug 2024 — &#x27;Learning styles&#x27; refers to the belief that individuals can be c...</span></span></span>
 
-This framing avoids turning preferences into identities. It encourages pupils to see learning ability as something that can grow and change, rather than something determined by a category assigned to them early in their education. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.structural-learning.com/post/learning-styles" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: structural-learning.com">[Structural Learning]</a><span class="citation-popover" role="note"><span class="citation-popover-source">structural-learning.com</span><span class="citation-popover-snippet">What Research Showsby P Main · 2026 · Cited by 2 — Labelling learners according to a specific learning style can be detrimental to their...</span></span></span>
+This framing avoids turning preferences into identities. It encourages pupils to see learning ability as something that can grow and change, rather than something determined by a category assigned to them early in their education.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.structural-learning.com/post/learning-styles" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: structural-learning.com">[Structural Learning]</a><span class="citation-popover" role="note"><span class="citation-popover-source">structural-learning.com</span><span class="citation-popover-snippet">What Research Showsby P Main · 2026 · Cited by 2 — Labelling learners according to a specific learning style can be detrimental to their...</span></span></span>
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_learning_styles_surv_b4e9eb_learner_labels_expec_6ca7ad-Illustration-3-dark.svg" | relative_url }}" alt="Learner labels illustration 3" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_learning_styles_surv_b4e9eb_learner_labels_expec_6ca7ad-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_learning_styles_surv_b4e9eb_learner_labels_expec_6ca7ad-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The key lesson
 
-The strongest criticism of learner labels is not merely that the learning-styles theory lacks convincing evidence. It is that categorising pupils as fixed types can unintentionally lower expectations, narrow self-belief and reduce willingness to develop new strategies. A label that begins as a well-meaning attempt to personalise education can become a subtle constraint on what learners think they can achieve. Evidence-based teaching seeks to recognise individual differences without turning them into boundaries. <span class="citation-chip-wrap"><a class="citation-chip" href="https://educationalneuroscience.org.uk/wordpress/resources/neuromyth-or-neurofact/children-have-different-learning-styles/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: educationalneuroscience.org.uk">[educationalneuroscience.org.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">educationalneuroscience.org.uk</span><span class="citation-popover-snippet">Children have different learning stylesTwo major difficulties with the use of learning styles in schools are that labelling children as a...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.educationnext.org/stubborn-myth-learning-styles-state-teacher-license-prep-materials-debunked-theory/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: educationnext.org">[Education Next]</a><span class="citation-popover" role="note"><span class="citation-popover-source">educationnext.org</span><span class="citation-popover-snippet">Education NextThe Stubborn Myth of “Learning Styles”7 Apr 2020 — Students may act on their label. If a student believes she or he has a p...</span></span></span>
+The strongest criticism of learner labels is not merely that the learning-styles theory lacks convincing evidence. It is that categorising pupils as fixed types can unintentionally lower expectations, narrow self-belief and reduce willingness to develop new strategies. A label that begins as a well-meaning attempt to personalise education can become a subtle constraint on what learners think they can achieve. Evidence-based teaching seeks to recognise individual differences without turning them into boundaries.<span class="citation-chip-wrap"><a class="citation-chip" href="https://educationalneuroscience.org.uk/wordpress/resources/neuromyth-or-neurofact/children-have-different-learning-styles/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: educationalneuroscience.org.uk">[educationalneuroscience.org.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">educationalneuroscience.org.uk</span><span class="citation-popover-snippet">Children have different learning stylesTwo major difficulties with the use of learning styles in schools are that labelling children as a...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.educationnext.org/stubborn-myth-learning-styles-state-teacher-license-prep-materials-debunked-theory/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: educationnext.org">[Education Next]</a><span class="citation-popover" role="note"><span class="citation-popover-source">educationnext.org</span><span class="citation-popover-snippet">Education NextThe Stubborn Myth of “Learning Styles”7 Apr 2020 — Students may act on their label. If a student believes she or he has a p...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to The hidden risk of learner labels. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to The hidden risk of learner labels. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Make It Stick on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fpAXEQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Make It Stick" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Make It Stick">Make It Stick</a>
-        </h4>
-        <p class="fr-book-author">By Peter C. Brown, Henry L. Roediger III et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Make It Stick on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fpAXEQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Make It Stick" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Make It Stick">Make It Stick</a>
+</h4>
+<p class="fr-book-author">By Peter C. Brown, Henry L. Roediger III et al.</p>
         
-        <p class="fr-book-desc">Challenges learning myths and promotes effective learning strategies.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Challenges learning myths and promotes effective learning strategies.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Why+Don%27t+Students+Like+School%3F+by+Daniel+T.+Willingham&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Why Don&#x27;t Students Like School? on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=kuEmEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Why Don&#x27;t Students Like School?" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Why+Don%27t+Students+Like+School%3F+by+Daniel+T.+Willingham&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Why Don&#x27;t Students Like School?">Why Don&#x27;t Students Like School?</a>
-        </h4>
-        <p class="fr-book-author">By Daniel T. Willingham</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Why+Don%27t+Students+Like+School%3F+by+Daniel+T.+Willingham&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Why Don&#x27;t Students Like School? on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=kuEmEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Why Don&#x27;t Students Like School?" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Why+Don%27t+Students+Like+School%3F+by+Daniel+T.+Willingham&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Why Don&#x27;t Students Like School?">Why Don&#x27;t Students Like School?</a>
+</h4>
+<p class="fr-book-author">By Daniel T. Willingham</p>
         
-        <p class="fr-book-desc">Addresses misconceptions about learning and learner differences.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Why+Don%27t+Students+Like+School%3F+by+Daniel+T.+Willingham&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Addresses misconceptions about learning and learner differences.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Why+Don%27t+Students+Like+School%3F+by+Daniel+T.+Willingham&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+Learning+Happens+by+Paul+A.+Kirschner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How Learning Happens on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=PdnzEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How Learning Happens" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+Learning+Happens+by+Paul+A.+Kirschner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How Learning Happens">How Learning Happens</a>
-        </h4>
-        <p class="fr-book-author">By Paul A. Kirschner, Carl Hendrick</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+Learning+Happens+by+Paul+A.+Kirschner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How Learning Happens on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=PdnzEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How Learning Happens" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=How+Learning+Happens+by+Paul+A.+Kirschner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How Learning Happens">How Learning Happens</a>
+</h4>
+<p class="fr-book-author">By Paul A. Kirschner, Carl Hendrick</p>
         
-        <p class="fr-book-desc">Counters educational myths including learning styles.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+Learning+Happens+by+Paul+A.+Kirschner&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Counters educational myths including learning styles.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=How+Learning+Happens+by+Paul+A.+Kirschner&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Visible+Learning+for+Teachers+by+John+Hattie&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Visible Learning for Teachers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=vSoUT6PXdoIC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Visible Learning for Teachers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Visible+Learning+for+Teachers+by+John+Hattie&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Visible Learning for Teachers">Visible Learning for Teachers</a>
-        </h4>
-        <p class="fr-book-author">By John Hattie</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Visible+Learning+for+Teachers+by+John+Hattie&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Visible Learning for Teachers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=vSoUT6PXdoIC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Visible Learning for Teachers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Visible+Learning+for+Teachers+by+John+Hattie&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Visible Learning for Teachers">Visible Learning for Teachers</a>
+</h4>
+<p class="fr-book-author">By John Hattie</p>
         
-        <p class="fr-book-desc">Focuses on evidence-backed influences on achievement.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Visible+Learning+for+Teachers+by+John+Hattie&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on evidence-backed influences on achievement.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Visible+Learning+for+Teachers+by+John+Hattie&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Make+It+Stick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Make It Stick</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Why+Don%27t+Students+Like+School%3F&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Why Don&#x27;t Students Like School?</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+Learning+Happens&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How Learning Happens</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Make+It+Stick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Make It Stick</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Why+Don%27t+Students+Like+School%3F&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Why Don&#x27;t Students Like School?</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=How+Learning+Happens&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How Learning Happens</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+classroom+decor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=learner-labels-the-hidden-risk-of-learner-labels-myths-and-misconcept-teacher-classroom-decor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher classroom decor" data-ebay-reference="learner-labels-the-hidden-risk-of-learner-labels-myths-and-misconcept-teacher-classroom-decor" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Personalized Teacher Door Sign,Floral Apple Classroom Decor, Back to School Wood"><img src="{{ '/assets/images/marketplace-covers/894c61e14114b8c4bd23.jpg' | relative_url }}" alt="Listing image for Personalized Teacher Door Sign,Floral Apple Classroom Decor, Back to School Wood" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+classroom+decor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=learner-labels-the-hidden-risk-of-learner-labels-myths-and-misconcept-teacher-classroom-decor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher classroom decor" data-ebay-reference="learner-labels-the-hidden-risk-of-learner-labels-myths-and-misconcept-teacher-classroom-decor" target="_blank" rel="sponsored noopener noreferrer">Personalized Teacher Door Sign,Floral Apple Classroom Decor, Back to School Wood</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+classroom+decor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=learner-labels-the-hidden-risk-of-learner-labels-myths-and-misconcept-teacher-classroom-decor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher classroom decor" data-ebay-reference="learner-labels-the-hidden-risk-of-learner-labels-myths-and-misconcept-teacher-classroom-decor" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for teacher classroom decor">Search <span data-ebay-domain-label>eBay.co.uk</span>: teacher classroom decor</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+classroom+decor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=learner-labels-the-hidden-risk-of-learner-labels-myths-and-misconcept-teacher-classroom-decor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher classroom decor" data-ebay-reference="learner-labels-the-hidden-risk-of-learner-labels-myths-and-misconcept-teacher-classroom-decor" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+classroom+decor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=learner-labels-the-hidden-risk-of-learner-labels-myths-and-misconcept-teacher-classroom-decor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher classroom decor" data-ebay-reference="learner-labels-the-hidden-risk-of-learner-labels-myths-and-misconcept-teacher-classroom-decor" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Personalized Teacher Door Sign,Floral Apple Classroom Decor, Back to School Wood"><img src="{{ '/assets/images/marketplace-covers/894c61e14114b8c4bd23.jpg' | relative_url }}" alt="Listing image for Personalized Teacher Door Sign,Floral Apple Classroom Decor, Back to School Wood" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+classroom+decor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=learner-labels-the-hidden-risk-of-learner-labels-myths-and-misconcept-teacher-classroom-decor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher classroom decor" data-ebay-reference="learner-labels-the-hidden-risk-of-learner-labels-myths-and-misconcept-teacher-classroom-decor" target="_blank" rel="sponsored noopener noreferrer">Personalized Teacher Door Sign,Floral Apple Classroom Decor, Back to School Wood</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+classroom+decor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=learner-labels-the-hidden-risk-of-learner-labels-myths-and-misconcept-teacher-classroom-decor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher classroom decor" data-ebay-reference="learner-labels-the-hidden-risk-of-learner-labels-myths-and-misconcept-teacher-classroom-decor" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for teacher classroom decor">Search<span data-ebay-domain-label>eBay.co.uk</span>: teacher classroom decor</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+classroom+decor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=learner-labels-the-hidden-risk-of-learner-labels-myths-and-misconcept-teacher-classroom-decor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher classroom decor" data-ebay-reference="learner-labels-the-hidden-risk-of-learner-labels-myths-and-misconcept-teacher-classroom-decor" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+classroom+decor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=learner-labels-the-hidden-risk-of-learner-labels-myths-and-misconcept-teacher-classroom-decor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher classroom decor" data-ebay-reference="learner-labels-the-hidden-risk-of-learner-labels-myths-and-misconcept-teacher-classroom-decor" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Teacher Classroom Decor Lot Posters Borders Bulletin Board School Supplies"><img src="{{ '/assets/images/marketplace-covers/66d44b429c212c4f6862.jpg' | relative_url }}" alt="Listing image for Teacher Classroom Decor Lot Posters Borders Bulletin Board School Supplies" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+classroom+decor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=learner-labels-the-hidden-risk-of-learner-labels-myths-and-misconcept-teacher-classroom-decor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher classroom decor" data-ebay-reference="learner-labels-the-hidden-risk-of-learner-labels-myths-and-misconcept-teacher-classroom-decor" target="_blank" rel="sponsored noopener noreferrer">Teacher Classroom Decor Lot Posters Borders Bulletin Board School Supplies</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+classroom+decor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=learner-labels-the-hidden-risk-of-learner-labels-myths-and-misconcept-teacher-classroom-decor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher classroom decor" data-ebay-reference="learner-labels-the-hidden-risk-of-learner-labels-myths-and-misconcept-teacher-classroom-decor" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for teacher classroom decor">Search <span data-ebay-domain-label>eBay.co.uk</span>: teacher classroom decor</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+classroom+decor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=learner-labels-the-hidden-risk-of-learner-labels-myths-and-misconcept-teacher-classroom-decor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher classroom decor" data-ebay-reference="learner-labels-the-hidden-risk-of-learner-labels-myths-and-misconcept-teacher-classroom-decor" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+classroom+decor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=learner-labels-the-hidden-risk-of-learner-labels-myths-and-misconcept-teacher-classroom-decor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher classroom decor" data-ebay-reference="learner-labels-the-hidden-risk-of-learner-labels-myths-and-misconcept-teacher-classroom-decor" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Teacher Classroom Decor Lot Posters Borders Bulletin Board School Supplies"><img src="{{ '/assets/images/marketplace-covers/66d44b429c212c4f6862.jpg' | relative_url }}" alt="Listing image for Teacher Classroom Decor Lot Posters Borders Bulletin Board School Supplies" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+classroom+decor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=learner-labels-the-hidden-risk-of-learner-labels-myths-and-misconcept-teacher-classroom-decor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher classroom decor" data-ebay-reference="learner-labels-the-hidden-risk-of-learner-labels-myths-and-misconcept-teacher-classroom-decor" target="_blank" rel="sponsored noopener noreferrer">Teacher Classroom Decor Lot Posters Borders Bulletin Board School Supplies</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+classroom+decor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=learner-labels-the-hidden-risk-of-learner-labels-myths-and-misconcept-teacher-classroom-decor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher classroom decor" data-ebay-reference="learner-labels-the-hidden-risk-of-learner-labels-myths-and-misconcept-teacher-classroom-decor" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for teacher classroom decor">Search<span data-ebay-domain-label>eBay.co.uk</span>: teacher classroom decor</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+classroom+decor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=learner-labels-the-hidden-risk-of-learner-labels-myths-and-misconcept-teacher-classroom-decor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher classroom decor" data-ebay-reference="learner-labels-the-hidden-risk-of-learner-labels-myths-and-misconcept-teacher-classroom-decor" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+classroom+decor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=learner-labels-the-hidden-risk-of-learner-labels-myths-and-misconcept-teacher-classroom-decor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher classroom decor" data-ebay-reference="learner-labels-the-hidden-risk-of-learner-labels-myths-and-misconcept-teacher-classroom-decor" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Teacher Life Fridge Magnet Travel Souvenir Gift Classroom Teaching Art Decor"><img src="{{ '/assets/images/marketplace-covers/eca619709b015f5ac4a1.jpg' | relative_url }}" alt="Listing image for Teacher Life Fridge Magnet Travel Souvenir Gift Classroom Teaching Art Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+classroom+decor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=learner-labels-the-hidden-risk-of-learner-labels-myths-and-misconcept-teacher-classroom-decor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher classroom decor" data-ebay-reference="learner-labels-the-hidden-risk-of-learner-labels-myths-and-misconcept-teacher-classroom-decor" target="_blank" rel="sponsored noopener noreferrer">Teacher Life Fridge Magnet Travel Souvenir Gift Classroom Teaching Art Decor</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+classroom+decor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=learner-labels-the-hidden-risk-of-learner-labels-myths-and-misconcept-teacher-classroom-decor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher classroom decor" data-ebay-reference="learner-labels-the-hidden-risk-of-learner-labels-myths-and-misconcept-teacher-classroom-decor" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for teacher classroom decor">Search <span data-ebay-domain-label>eBay.co.uk</span>: teacher classroom decor</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+classroom+decor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=learner-labels-the-hidden-risk-of-learner-labels-myths-and-misconcept-teacher-classroom-decor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher classroom decor" data-ebay-reference="learner-labels-the-hidden-risk-of-learner-labels-myths-and-misconcept-teacher-classroom-decor" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+classroom+decor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=learner-labels-the-hidden-risk-of-learner-labels-myths-and-misconcept-teacher-classroom-decor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher classroom decor" data-ebay-reference="learner-labels-the-hidden-risk-of-learner-labels-myths-and-misconcept-teacher-classroom-decor" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Teacher Life Fridge Magnet Travel Souvenir Gift Classroom Teaching Art Decor"><img src="{{ '/assets/images/marketplace-covers/eca619709b015f5ac4a1.jpg' | relative_url }}" alt="Listing image for Teacher Life Fridge Magnet Travel Souvenir Gift Classroom Teaching Art Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+classroom+decor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=learner-labels-the-hidden-risk-of-learner-labels-myths-and-misconcept-teacher-classroom-decor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher classroom decor" data-ebay-reference="learner-labels-the-hidden-risk-of-learner-labels-myths-and-misconcept-teacher-classroom-decor" target="_blank" rel="sponsored noopener noreferrer">Teacher Life Fridge Magnet Travel Souvenir Gift Classroom Teaching Art Decor</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+classroom+decor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=learner-labels-the-hidden-risk-of-learner-labels-myths-and-misconcept-teacher-classroom-decor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher classroom decor" data-ebay-reference="learner-labels-the-hidden-risk-of-learner-labels-myths-and-misconcept-teacher-classroom-decor" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for teacher classroom decor">Search<span data-ebay-domain-label>eBay.co.uk</span>: teacher classroom decor</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+classroom+decor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=learner-labels-the-hidden-risk-of-learner-labels-myths-and-misconcept-teacher-classroom-decor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher classroom decor" data-ebay-reference="learner-labels-the-hidden-risk-of-learner-labels-myths-and-misconcept-teacher-classroom-decor" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+classroom+decor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=learner-labels-the-hidden-risk-of-learner-labels-myths-and-misconcept-teacher-classroom-decor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher classroom decor" data-ebay-reference="learner-labels-the-hidden-risk-of-learner-labels-myths-and-misconcept-teacher-classroom-decor" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Thank You Teacher Canvas Wall Art Appreciation Gift Classroom Colourful Decor"><img src="{{ '/assets/images/marketplace-covers/c5ba9a6faacd87ab0aa4.jpg' | relative_url }}" alt="Listing image for Thank You Teacher Canvas Wall Art Appreciation Gift Classroom Colourful Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+classroom+decor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=learner-labels-the-hidden-risk-of-learner-labels-myths-and-misconcept-teacher-classroom-decor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher classroom decor" data-ebay-reference="learner-labels-the-hidden-risk-of-learner-labels-myths-and-misconcept-teacher-classroom-decor" target="_blank" rel="sponsored noopener noreferrer">Thank You Teacher Canvas Wall Art Appreciation Gift Classroom Colourful Decor</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+classroom+decor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=learner-labels-the-hidden-risk-of-learner-labels-myths-and-misconcept-teacher-classroom-decor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher classroom decor" data-ebay-reference="learner-labels-the-hidden-risk-of-learner-labels-myths-and-misconcept-teacher-classroom-decor" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for teacher classroom decor">Search <span data-ebay-domain-label>eBay.co.uk</span>: teacher classroom decor</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+classroom+decor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=learner-labels-the-hidden-risk-of-learner-labels-myths-and-misconcept-teacher-classroom-decor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher classroom decor" data-ebay-reference="learner-labels-the-hidden-risk-of-learner-labels-myths-and-misconcept-teacher-classroom-decor" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+classroom+decor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=learner-labels-the-hidden-risk-of-learner-labels-myths-and-misconcept-teacher-classroom-decor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher classroom decor" data-ebay-reference="learner-labels-the-hidden-risk-of-learner-labels-myths-and-misconcept-teacher-classroom-decor" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+classroom+decor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=learner-labels-the-hidden-risk-of-learner-labels-myths-and-misconcept-teacher-classroom-decor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher classroom decor" data-ebay-reference="learner-labels-the-hidden-risk-of-learner-labels-myths-and-misconcept-teacher-classroom-decor" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Thank You Teacher Canvas Wall Art Appreciation Gift Classroom Colourful Decor"><img src="{{ '/assets/images/marketplace-covers/c5ba9a6faacd87ab0aa4.jpg' | relative_url }}" alt="Listing image for Thank You Teacher Canvas Wall Art Appreciation Gift Classroom Colourful Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+classroom+decor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=learner-labels-the-hidden-risk-of-learner-labels-myths-and-misconcept-teacher-classroom-decor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher classroom decor" data-ebay-reference="learner-labels-the-hidden-risk-of-learner-labels-myths-and-misconcept-teacher-classroom-decor" target="_blank" rel="sponsored noopener noreferrer">Thank You Teacher Canvas Wall Art Appreciation Gift Classroom Colourful Decor</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+classroom+decor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=learner-labels-the-hidden-risk-of-learner-labels-myths-and-misconcept-teacher-classroom-decor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher classroom decor" data-ebay-reference="learner-labels-the-hidden-risk-of-learner-labels-myths-and-misconcept-teacher-classroom-decor" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for teacher classroom decor">Search<span data-ebay-domain-label>eBay.co.uk</span>: teacher classroom decor</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+classroom+decor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=learner-labels-the-hidden-risk-of-learner-labels-myths-and-misconcept-teacher-classroom-decor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher classroom decor" data-ebay-reference="learner-labels-the-hidden-risk-of-learner-labels-myths-and-misconcept-teacher-classroom-decor" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+classroom+decor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=learner-labels-the-hidden-risk-of-learner-labels-myths-and-misconcept-teacher-classroom-decor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher classroom decor" data-ebay-reference="learner-labels-the-hidden-risk-of-learner-labels-myths-and-misconcept-teacher-classroom-decor" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -543,7 +543,7 @@ The strongest criticism of learner labels is not merely that the learning-styles
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -563,7 +563,7 @@ The strongest criticism of learner labels is not merely that the learning-styles
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -595,7 +595,7 @@ The strongest criticism of learner labels is not merely that the learning-styles
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -647,7 +647,7 @@ The strongest criticism of learner labels is not merely that the learning-styles
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -692,7 +692,7 @@ The strongest criticism of learner labels is not merely that the learning-styles
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -733,140 +733,140 @@ The strongest criticism of learner labels is not merely that the learning-styles
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5366351/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC5366351/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Evidence-Based Higher Education – Is the Learning Styles...by PM Newton · 2017 · Cited by 470 — The basic idea behind the use of &#x27;Lea...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5366351/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC5366351/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Evidence-Based Higher Education – Is the Learning Styles...by PM Newton · 2017 · Cited by 470 — The basic idea behind the use of &#x27;Lea...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: educationendowmentfoundation.org.uk  
-   Link: <a href="https://educationendowmentfoundation.org.uk/education-evidence/teaching-learning-toolkit/learning-styles" target="_blank" rel="noopener noreferrer nofollow">https://educationendowmentfoundation.org.uk/education-evidence/teaching-learning-toolkit/learning-styles</a>  
+   Link:<a href="https://educationendowmentfoundation.org.uk/education-evidence/teaching-learning-toolkit/learning-styles" target="_blank" rel="noopener noreferrer nofollow">https://educationendowmentfoundation.org.uk/education-evidence/teaching-learning-toolkit/learning-styles</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: structural-learning.com  
-   Link: <a href="https://www.structural-learning.com/post/learning-styles" target="_blank" rel="noopener noreferrer nofollow">https://www.structural-learning.com/post/learning-styles</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>What Research Showsby P Main · 2026 · Cited by 2 — Labelling learners according to a specific learning style can be detrimental to their...</p></details>
+   Link:<a href="https://www.structural-learning.com/post/learning-styles" target="_blank" rel="noopener noreferrer nofollow">https://www.structural-learning.com/post/learning-styles</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>What Research Showsby P Main · 2026 · Cited by 2 — Labelling learners according to a specific learning style can be detrimental to their...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: educationalneuroscience.org.uk  
-   Link: <a href="https://educationalneuroscience.org.uk/wordpress/resources/neuromyth-or-neurofact/children-have-different-learning-styles/" target="_blank" rel="noopener noreferrer nofollow">https://educationalneuroscience.org.uk/wordpress/resources/neuromyth-or-neurofact/children-have-different-learning-styles/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Children have different learning stylesTwo major difficulties with the use of learning styles in schools are that labelling children as a...</p></details>
+   Link:<a href="https://educationalneuroscience.org.uk/wordpress/resources/neuromyth-or-neurofact/children-have-different-learning-styles/" target="_blank" rel="noopener noreferrer nofollow">https://educationalneuroscience.org.uk/wordpress/resources/neuromyth-or-neurofact/children-have-different-learning-styles/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Children have different learning stylesTwo major difficulties with the use of learning styles in schools are that labelling children as a...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/pii/S095947521930177X" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S095947521930177X</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Self-fulfilling prophecies in the classroom: Teacher...by S Gentrup · 2020 · Cited by 539 — This study investigated the lin...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/pii/S095947521930177X" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S095947521930177X</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Self-fulfilling prophecies in the classroom: Teacher...by S Gentrup · 2020 · Cited by 539 — This study investigated the lin...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: fis.uni-bamberg.de  
-   Link: <a href="https://fis.uni-bamberg.de/bitstreams/11431983-7227-4134-ae4e-693996888ab1/download" target="_blank" rel="noopener noreferrer nofollow">https://fis.uni-bamberg.de/bitstreams/11431983-7227-4134-ae4e-693996888ab1/download</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Self-fulfilling prophecies in the classroomby S Gentrup · 2020 · Cited by 539 — This study investigated the link between teacher expectat...</p></details>
+   Link:<a href="https://fis.uni-bamberg.de/bitstreams/11431983-7227-4134-ae4e-693996888ab1/download" target="_blank" rel="noopener noreferrer nofollow">https://fis.uni-bamberg.de/bitstreams/11431983-7227-4134-ae4e-693996888ab1/download</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Self-fulfilling prophecies in the classroomby S Gentrup · 2020 · Cited by 539 — This study investigated the link between teacher expectat...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: nature.com  
-   Link: <a href="https://www.nature.com/articles/s41539-023-00190-x" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41539-023-00190-x</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Beware the myth: learning styles affect parents&#x27;, children&#x27;s...by X Sun · 2023 · Cited by 31 — Educators&#x27; beliefs about whether in...</p></details>
+   Link:<a href="https://www.nature.com/articles/s41539-023-00190-x" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41539-023-00190-x</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Beware the myth: learning styles affect parents&#x27;, children&#x27;s...by X Sun · 2023 · Cited by 31 — Educators&#x27; beliefs about whether in...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: link.springer.com  
-   Link: <a href="https://link.springer.com/article/10.1007/s12144-021-02250-0" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1007/s12144-021-02250-0</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>how learning disorder labels affect teacher student&#x27;s...by DJ Franz · 2023 · Cited by 19 — One process possibly associated with...</p></details>
+   Link:<a href="https://link.springer.com/article/10.1007/s12144-021-02250-0" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1007/s12144-021-02250-0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>how learning disorder labels affect teacher student&#x27;s...by DJ Franz · 2023 · Cited by 19 — One process possibly associated with...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: revisesociology.com  
    Title: labelling self fulfilling prophecy education  
-   Link: <a href="https://revisesociology.com/2017/11/01/labelling-self-fulfilling-prophecy-education/" target="_blank" rel="noopener noreferrer nofollow">https://revisesociology.com/2017/11/01/labelling-self-fulfilling-prophecy-education/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Labelling Theory in Sociology &amp; the Self-Fulfilling Prophecy1 Nov 2017 — This post explores the relationship between labelling theory and...</p></details>
+   Link:<a href="https://revisesociology.com/2017/11/01/labelling-self-fulfilling-prophecy-education/" target="_blank" rel="noopener noreferrer nofollow">https://revisesociology.com/2017/11/01/labelling-self-fulfilling-prophecy-education/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Labelling Theory in Sociology &amp; the Self-Fulfilling Prophecy1 Nov 2017 — This post explores the relationship between labelling theory and...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/pii/S2590291120300061" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S2590291120300061</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>An integrative debate on learning styles and the...by LA Dantas · 2020 · Cited by 288 — This paper aims to present a contribution to the...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/pii/S2590291120300061" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S2590291120300061</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>An integrative debate on learning styles and the...by LA Dantas · 2020 · Cited by 288 — This paper aims to present a contribution to the...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/26162104/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/26162104/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Learning Styles: Concepts and Evidenceby H Pashler · 2008 · Cited by 5025 — Learning styles refers to the concept that individuals...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/26162104/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/26162104/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Learning Styles: Concepts and Evidenceby H Pashler · 2008 · Cited by 5025 — Learning styles refers to the concept that individuals...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: evidencebased.education  
    Title: the lingering learning styles myth  
-   Link: <a href="https://evidencebased.education/resource/the-lingering-learning-styles-myth/" target="_blank" rel="noopener noreferrer nofollow">https://evidencebased.education/resource/the-lingering-learning-styles-myth/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Evidence Based EducationThe lingering &#x27;learning styles&#x27; myth5 Aug 2024 — &#x27;Learning styles&#x27; refers to the belief that individuals can be c...</p></details>
+   Link:<a href="https://evidencebased.education/resource/the-lingering-learning-styles-myth/" target="_blank" rel="noopener noreferrer nofollow">https://evidencebased.education/resource/the-lingering-learning-styles-myth/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Evidence Based EducationThe lingering &#x27;learning styles&#x27; myth5 Aug 2024 — &#x27;Learning styles&#x27; refers to the belief that individuals can be c...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: bjorklab.psych.ucla.edu  
    Title: Pashler McDaniel Rohrer Bjork 2009 PSPI  
-   Link: <a href="https://bjorklab.psych.ucla.edu/wp-content/uploads/sites/13/2016/07/Pashler_McDaniel_Rohrer_Bjork_2009_PSPI.pdf" target="_blank" rel="noopener noreferrer nofollow">https://bjorklab.psych.ucla.edu/wp-content/uploads/sites/13/2016/07/Pashler_McDaniel_Rohrer_Bjork_2009_PSPI.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Bjork Learning and Forgetting LabLearning Stylesby H Pashler · Cited by 5025 — The learning-styles view has acquired great influence with...</p></details>
+   Link:<a href="https://bjorklab.psych.ucla.edu/wp-content/uploads/sites/13/2016/07/Pashler_McDaniel_Rohrer_Bjork_2009_PSPI.pdf" target="_blank" rel="noopener noreferrer nofollow">https://bjorklab.psych.ucla.edu/wp-content/uploads/sites/13/2016/07/Pashler_McDaniel_Rohrer_Bjork_2009_PSPI.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Bjork Learning and Forgetting LabLearning Stylesby H Pashler · Cited by 5025 — The learning-styles view has acquired great influence with...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: educationnext.org  
-   Link: <a href="https://www.educationnext.org/stubborn-myth-learning-styles-state-teacher-license-prep-materials-debunked-theory/" target="_blank" rel="noopener noreferrer nofollow">https://www.educationnext.org/stubborn-myth-learning-styles-state-teacher-license-prep-materials-debunked-theory/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Education NextThe Stubborn Myth of “Learning Styles”7 Apr 2020 — Students may act on their label. If a student believes she or he has a p...</p></details>
+   Link:<a href="https://www.educationnext.org/stubborn-myth-learning-styles-state-teacher-license-prep-materials-debunked-theory/" target="_blank" rel="noopener noreferrer nofollow">https://www.educationnext.org/stubborn-myth-learning-styles-state-teacher-license-prep-materials-debunked-theory/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Education NextThe Stubborn Myth of “Learning Styles”7 Apr 2020 — Students may act on their label. If a student believes she or he has a p...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: Wikipedia  
    Title: Learning styles  
-   Link: <a href="https://en.wikipedia.org/wiki/Learning_styles" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Learning_styles</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Learning stylesLearning styles refer to a range of theories that aim to account for differences in individuals&#x27; learning.Read more...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Learning_styles" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Learning_styles</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Learning stylesLearning styles refer to a range of theories that aim to account for differences in individuals&#x27; learning.Read more...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: simplypsychology.org  
-   Link: <a href="https://www.simplypsychology.org/labelling-theory-education.html" target="_blank" rel="noopener noreferrer nofollow">https://www.simplypsychology.org/labelling-theory-education.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Simply PsychologyLabelling Theory (Education)by S McLeod — This theory shows that pupil responses to schools are not straightforward, and...</p></details>
+   Link:<a href="https://www.simplypsychology.org/labelling-theory-education.html" target="_blank" rel="noopener noreferrer nofollow">https://www.simplypsychology.org/labelling-theory-education.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Simply PsychologyLabelling Theory (Education)by S McLeod — This theory shows that pupil responses to schools are not straightforward, and...</p></details>
 
 ### Additional References
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: quizlet.com  
-   Link: <a href="https://quizlet.com/gb/701841338/teacher-labelling-and-the-self-fulfilling-prophecy-flash-cards/" target="_blank" rel="noopener noreferrer nofollow">https://quizlet.com/gb/701841338/teacher-labelling-and-the-self-fulfilling-prophecy-flash-cards/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Teacher Labelling and the self-fulfilling prophecy FlashcardsRosenthal and Jacobson speculated that the teachers had passed on their high...</p></details>
+   Link:<a href="https://quizlet.com/gb/701841338/teacher-labelling-and-the-self-fulfilling-prophecy-flash-cards/" target="_blank" rel="noopener noreferrer nofollow">https://quizlet.com/gb/701841338/teacher-labelling-and-the-self-fulfilling-prophecy-flash-cards/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Teacher Labelling and the self-fulfilling prophecy FlashcardsRosenthal and Jacobson speculated that the teachers had passed on their high...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: techlearning.com  
-   Link: <a href="https://www.techlearning.com/news/busting-the-myth-of-learning-styles" target="_blank" rel="noopener noreferrer nofollow">https://www.techlearning.com/news/busting-the-myth-of-learning-styles</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Despite its deep-rooted presence in education, numerous studies, including those by Polly R. Husmann and Daniel T. Willingham, have found...</p></details>
+   Link:<a href="https://www.techlearning.com/news/busting-the-myth-of-learning-styles" target="_blank" rel="noopener noreferrer nofollow">https://www.techlearning.com/news/busting-the-myth-of-learning-styles</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Despite its deep-rooted presence in education, numerous studies, including those by Polly R. Husmann and Daniel T. Willingham, have found...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: swansea.ac.uk  
-   Link: <a href="https://www.swansea.ac.uk/press-office/news-events/news/2021/01/new-review-says-ineffective-learning-styles-theory-persists-in-education-around-the-world-.php" target="_blank" rel="noopener noreferrer nofollow">https://www.swansea.ac.uk/press-office/news-events/news/2021/01/new-review-says-ineffective-learning-styles-theory-persists-in-education-around-the-world-.php</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>New review says ineffective &#x27;learning styles&#x27; theory persists...6 Jan 2021 — A new review by Swansea University reveals there is widespr...</p></details>
+   Link:<a href="https://www.swansea.ac.uk/press-office/news-events/news/2021/01/new-review-says-ineffective-learning-styles-theory-persists-in-education-around-the-world-.php" target="_blank" rel="noopener noreferrer nofollow">https://www.swansea.ac.uk/press-office/news-events/news/2021/01/new-review-says-ineffective-learning-styles-theory-persists-in-education-around-the-world-.php</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>New review says ineffective &#x27;learning styles&#x27; theory persists...6 Jan 2021 — A new review by Swansea University reveals there is widespr...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: avadolearning.com  
-   Link: <a href="https://www.avadolearning.com/blog/the-7-different-learning-styles-and-what-they-mean/" target="_blank" rel="noopener noreferrer nofollow">https://www.avadolearning.com/blog/the-7-different-learning-styles-and-what-they-mean/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Visual, Kinaesthetic, Aural, Social, Solitary, Verbal, Logical. Author Profile Picture. Avado.Read more...</p></details>
+   Link:<a href="https://www.avadolearning.com/blog/the-7-different-learning-styles-and-what-they-mean/" target="_blank" rel="noopener noreferrer nofollow">https://www.avadolearning.com/blog/the-7-different-learning-styles-and-what-they-mean/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Visual, Kinaesthetic, Aural, Social, Solitary, Verbal, Logical. Author Profile Picture. Avado.Read more...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: visible-learning.org  
-   Link: <a href="https://visible-learning.org/hattie-ranking-influences-effect-sizes-learning-achievement/" target="_blank" rel="noopener noreferrer nofollow">https://visible-learning.org/hattie-ranking-influences-effect-sizes-learning-achievement/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>n; it has approximately 200 group structures that go from simple to complex (Numbered...Read more...</p></details>
+   Link:<a href="https://visible-learning.org/hattie-ranking-influences-effect-sizes-learning-achievement/" target="_blank" rel="noopener noreferrer nofollow">https://visible-learning.org/hattie-ranking-influences-effect-sizes-learning-achievement/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>n; it has approximately 200 group structures that go from simple to complex (Numbered...Read more...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: slideshare.net  
-   Link: <a href="https://www.slideshare.net/slideshow/labelling-and-selffulfilling-prophecy/30747874" target="_blank" rel="noopener noreferrer nofollow">https://www.slideshare.net/slideshow/labelling-and-selffulfilling-prophecy/30747874</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>and their behavior and performance conform to teacher expectations.Read more...</p></details>
+   Link:<a href="https://www.slideshare.net/slideshow/labelling-and-selffulfilling-prophecy/30747874" target="_blank" rel="noopener noreferrer nofollow">https://www.slideshare.net/slideshow/labelling-and-selffulfilling-prophecy/30747874</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>and their behavior and performance conform to teacher expectations.Read more...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: nifdi.org  
    Title: Learning Styles: Is it learner modality?  
-   Link: <a href="https://www.nifdi.org/resources/hempenstall-blog/401-content-modality-or-learner-modality-various-quotes-on-learning-styles" target="_blank" rel="noopener noreferrer nofollow">https://www.nifdi.org/resources/hempenstall-blog/401-content-modality-or-learner-modality-various-quotes-on-learning-styles</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Or Content...6 Nov 2013 — The idea of learning styles is that there are stable, consistent methods that individuals take in, organize, p...</p></details>
+   Link:<a href="https://www.nifdi.org/resources/hempenstall-blog/401-content-modality-or-learner-modality-various-quotes-on-learning-styles" target="_blank" rel="noopener noreferrer nofollow">https://www.nifdi.org/resources/hempenstall-blog/401-content-modality-or-learner-modality-various-quotes-on-learning-styles</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Or Content...6 Nov 2013 — The idea of learning styles is that there are stable, consistent methods that individuals take in, organize, p...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: carlhendrick.substack.com  
    Title: the learning styles illusion [debunking](&#123;&#123; 'debunking/' | relative_url &#125;&#125;)  
-   Link: <a href="https://carlhendrick.substack.com/p/the-learning-styles-illusion-debunking" target="_blank" rel="noopener noreferrer nofollow">https://carlhendrick.substack.com/p/the-learning-styles-illusion-debunking</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Learning Styles Myth Persists And How It Damages...New paper shows that learning style labels create harmful educational hierarchies...</p></details>
+   Link:<a href="https://carlhendrick.substack.com/p/the-learning-styles-illusion-debunking" target="_blank" rel="noopener noreferrer nofollow">https://carlhendrick.substack.com/p/the-learning-styles-illusion-debunking</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Learning Styles Myth Persists And How It Damages...New paper shows that learning style labels create harmful educational hierarchies...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/1595027954050806/posts/2274711049415823/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/1595027954050806/posts/2274711049415823/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>g according to their supposed learning style.Read more...</p></details>
+   Link:<a href="https://www.facebook.com/groups/1595027954050806/posts/2274711049415823/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/1595027954050806/posts/2274711049415823/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>g according to their supposed learning style.Read more...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: teachermagazine.com  
    Title: tackling the learning styles myth  
-   Link: <a href="https://www.teachermagazine.com/au_en/articles/tackling-the-learning-styles-myth" target="_blank" rel="noopener noreferrer nofollow">https://www.teachermagazine.com/au_en/articles/tackling-the-learning-styles-myth</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Tackling the &#x27;learning styles&#x27; mythby T Vaughan · 2017 · Cited by 4 — The common myth for learning styles as an effective teaching and le...</p></details>
+   Link:<a href="https://www.teachermagazine.com/au_en/articles/tackling-the-learning-styles-myth" target="_blank" rel="noopener noreferrer nofollow">https://www.teachermagazine.com/au_en/articles/tackling-the-learning-styles-myth</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Tackling the &#x27;learning styles&#x27; mythby T Vaughan · 2017 · Cited by 4 — The common myth for learning styles as an effective teaching and le...</p></details>

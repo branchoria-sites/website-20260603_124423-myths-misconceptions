@@ -508,7 +508,7 @@ This does not mean minority views should never be reported. It means readers nee
 
 ## What False Balance Means
 
-False balance is not simply “including both sides”. It is including both sides in a way that misrepresents the strength, quality or relevance of the evidence behind them. The Association of Health Care Journalists defines false balance as using outlier voices to contradict facts or accepted evidence simply to provide “balance” to a story. That is why the problem is especially visible in health, science and climate reporting, where one position may be supported by large bodies of research while the opposing position rests on [anecdotes]({{ 'anecdotes/' | relative_url }}), speculation, poor methods or conflicts of interest. <span class="citation-chip-wrap"><a class="citation-chip" href="https://healthjournalism.org/glossary-terms/false-balance-false-equivalence/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: healthjournalism.org">[Association of Health Care Journalists]</a><span class="citation-popover" role="note"><span class="citation-popover-source">healthjournalism.org</span><span class="citation-popover-snippet">Association of Health Care JournalistsFalse balance (false equivalence)This lapse in responsible reporting refers to using outliers&#x27; voic...</span></span></span>
+False balance is not simply “including both sides”. It is including both sides in a way that misrepresents the strength, quality or relevance of the evidence behind them. The Association of Health Care Journalists defines false balance as using outlier voices to contradict facts or accepted evidence simply to provide “balance” to a story. That is why the problem is especially visible in health, science and climate reporting, where one position may be supported by large bodies of research while the opposing position rests on [anecdotes]({{ 'anecdotes/' | relative_url }}), speculation, poor methods or conflicts of interest.<span class="citation-chip-wrap"><a class="citation-chip" href="https://healthjournalism.org/glossary-terms/false-balance-false-equivalence/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: healthjournalism.org">[Association of Health Care Journalists]</a><span class="citation-popover" role="note"><span class="citation-popover-source">healthjournalism.org</span><span class="citation-popover-snippet">Association of Health Care JournalistsFalse balance (false equivalence)This lapse in responsible reporting refers to using outliers&#x27; voic...</span></span></span>
 
 The danger is subtle. A report may be factually accurate in a narrow sense: one expert really did say one thing, and one dissenter really did say another. But the structure of the story can still mislead if it gives the dissenter equal prominence without explaining that the underlying evidential support is not equal. In that situation, balance becomes a form of distortion.
 
@@ -520,13 +520,13 @@ False balance is therefore different from ordinary debate coverage. In a live po
 
 False balance works because it uses familiar signals of legitimacy. A studio debate, a quoted “sceptic”, a headline built around “critics say”, or a panel with one supporter and one opponent all suggest that the issue has two broadly comparable sides. Readers are used to [politics]({{ 'politics/' | relative_url }}) being presented this way, so the format can smuggle that habit into topics where evidence is not evenly distributed.
 
-A classic example is climate change coverage. Maxwell and Jules Boykoff’s influential study of US prestige-press coverage from 1988 to 2002 argued that journalistic norms of balanced reporting contributed to a gap between scientific discourse and public discourse on global warming. The finding was not that journalists invented climate scepticism; it was that routine professional habits helped make the public debate look less settled than the scientific literature was becoming. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S0959378003000669" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Balance as bias: global warming and the US prestige pressby MT Boykoff · 2004 · Cited by 2926 — This paper demonstrates that...</span></span></span>
+A classic example is climate change coverage. Maxwell and Jules Boykoff’s influential study of US prestige-press coverage from 1988 to 2002 argued that journalistic norms of balanced reporting contributed to a gap between scientific discourse and public discourse on global warming. The finding was not that journalists invented climate scepticism; it was that routine professional habits helped make the public debate look less settled than the scientific literature was becoming.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S0959378003000669" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Balance as bias: global warming and the US prestige pressby MT Boykoff · 2004 · Cited by 2926 — This paper demonstrates that...</span></span></span>
 
-That matters because scientific consensus is not a popularity contest. It is a signal that many independent lines of evidence have been tested, criticised, replicated and weighed. Cook and colleagues’ 2013 study examined 11,944 climate abstracts from 1991 to 2011 and found that, among papers expressing a position on human-caused global warming, 97.1% endorsed the consensus position. The exact percentage is less important than the structural point: a small rejection minority should not be framed as half of the expert landscape. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cssn.org/wp-content/uploads/2020/12/Quantifying-the-consensus-on-anthropogenic-global-warming-in-the-scientific-literature-John-Cook.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cssn.org">[Brown Climate Social Science Network]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cssn.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+That matters because scientific consensus is not a popularity contest. It is a signal that many independent lines of evidence have been tested, criticised, replicated and weighed. Cook and colleagues’ 2013 study examined 11,944 climate abstracts from 1991 to 2011 and found that, among papers expressing a position on human-caused global warming, 97.1% endorsed the consensus position. The exact percentage is less important than the structural point: a small rejection minority should not be framed as half of the expert landscape.<span class="citation-chip-wrap"><a class="citation-chip" href="https://cssn.org/wp-content/uploads/2020/12/Quantifying-the-consensus-on-anthropogenic-global-warming-in-the-scientific-literature-John-Cook.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cssn.org">[Brown Climate Social Science Network]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cssn.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-The same pattern appeared in vaccine reporting. The discredited claim that the measles, mumps and rubella vaccine was linked to autism began with Andrew Wakefield’s 1998 Lancet paper, which was later retracted, with subsequent investigations and reviews finding serious scientific and ethical failures. Yet the media controversy lasted far longer than the evidence warranted, partly because the story was repeatedly framed as anxious parents and dissenting doctors versus medical authorities. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7528676/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCWeight-of-Evidence Strategies to Mitigate the Influence</span><span class="citation-popover-snippet">PMCWeight-of-Evidence Strategies to Mitigate the Influence</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7528676/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCWeight-of-Evidence Strategies to Mitigate the Influence</span><span class="citation-popover-snippet">PMCWeight-of-Evidence Strategies to Mitigate the Influence</span></span></span>
+The same pattern appeared in vaccine reporting. The discredited claim that the measles, mumps and rubella vaccine was linked to autism began with Andrew Wakefield’s 1998 Lancet paper, which was later retracted, with subsequent investigations and reviews finding serious scientific and ethical failures. Yet the media controversy lasted far longer than the evidence warranted, partly because the story was repeatedly framed as anxious parents and dissenting doctors versus medical authorities.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7528676/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCWeight-of-Evidence Strategies to Mitigate the Influence</span><span class="citation-popover-snippet">PMCWeight-of-Evidence Strategies to Mitigate the Influence</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7528676/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCWeight-of-Evidence Strategies to Mitigate the Influence</span><span class="citation-popover-snippet">PMCWeight-of-Evidence Strategies to Mitigate the Influence</span></span></span>
 
-The result is not only confusion about facts. False balance can change what people think experts think. In an experiment on autism-[vaccine coverage]({{ 'vaccine-coverage/' | relative_url }}), Graham Dixon and Christopher Clarke randomly assigned 327 participants to different news articles. Readers exposed to a “balanced” presentation of claims for and against an autism-vaccine link were less certain that [vaccines]({{ 'vaccines/' | relative_url }}) did not cause autism and more likely to believe experts were divided. Sage Journals <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/23193194/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The result is not only confusion about facts. False balance can change what people think experts think. In an experiment on autism-[vaccine coverage]({{ 'vaccine-coverage/' | relative_url }}), Graham Dixon and Christopher Clarke randomly assigned 327 participants to different news articles. Readers exposed to a “balanced” presentation of claims for and against an autism-vaccine link were less certain that [vaccines]({{ 'vaccines/' | relative_url }}) did not cause autism and more likely to believe experts were divided. Sage Journals<span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/23193194/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_false_balance_claims_5530ff-Illustration-1-dark.svg" | relative_url }}" alt="False Balance illustration 1" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_false_balance_claims_5530ff-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_false_balance_claims_5530ff-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How Uncertainty Gets Exaggerated
@@ -545,7 +545,7 @@ Three mechanisms are especially important:
 
 </div>
 
-Research on false-balance mitigation suggests that “weight-of-evidence” statements can help. These are explicit signals that tell readers where the evidence lies, rather than merely placing opposing claims side by side. Schmid and Betsch’s work on weight-of-evidence strategies reports that falsely balanced coverage can distort attitudes towards behaviours supported by science, while evidence-weighting can reduce that distortion. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7528676/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCWeight-of-Evidence Strategies to Mitigate the Influence</span><span class="citation-popover-snippet">PMCWeight-of-Evidence Strategies to Mitigate the Influence</span></span></span>
+Research on false-balance mitigation suggests that “weight-of-evidence” statements can help. These are explicit signals that tell readers where the evidence lies, rather than merely placing opposing claims side by side. Schmid and Betsch’s work on weight-of-evidence strategies reports that falsely balanced coverage can distort attitudes towards behaviours supported by science, while evidence-weighting can reduce that distortion.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7528676/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCWeight-of-Evidence Strategies to Mitigate the Influence</span><span class="citation-popover-snippet">PMCWeight-of-Evidence Strategies to Mitigate the Influence</span></span></span>
 
 But weighting evidence is not a magic phrase added at the end. The entire report has to make proportion visible: who has relevant expertise, what evidence has been tested, how many studies point in each direction, whether the claim has survived review, and whether the minority position is scientifically credible or merely visible.
 
@@ -572,7 +572,7 @@ The test is not whether a claim is popular. The test is whether it is supportabl
 
 This is why due weight is better than equal weight. The BBC’s own editorial material has recognised that [due impartiality]({{ 'due-impartiality/' | relative_url }}) is “more than a simple matter of ‘balance’ between opposing viewpoints”, and BBC Trust science-impartiality reviews stressed that science coverage should not give undue attention to marginal opinion or equal weight to opinion and evidence. [downloads.bbc.co.uk+2downloads.bbc.co.uk]
 
-UK broadcasting rules make a similar distinction. Ofcom’s Broadcasting Code requires news to be reported with due accuracy and due impartiality, while its guidance explains that due impartiality does not require an alternative viewpoint in every news story. In other words, impartiality is meant to be appropriate to the subject, not mechanically symmetrical. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ofcom.org.uk/tv-radio-and-on-demand/broadcast-standards/section-five-due-impartiality-accuracy" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ofcom.org.uk">[www.ofcom.org.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ofcom.org.uk</span><span class="citation-popover-title">www.ofcom.org.uk Section five: Due impartiality and due accuracy</span><span class="citation-popover-snippet">www.ofcom.org.uk Section five: Due impartiality and due accuracy</span></span></span>
+UK broadcasting rules make a similar distinction. Ofcom’s Broadcasting Code requires news to be reported with due accuracy and due impartiality, while its guidance explains that due impartiality does not require an alternative viewpoint in every news story. In other words, impartiality is meant to be appropriate to the subject, not mechanically symmetrical.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ofcom.org.uk/tv-radio-and-on-demand/broadcast-standards/section-five-due-impartiality-accuracy" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ofcom.org.uk">[www.ofcom.org.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ofcom.org.uk</span><span class="citation-popover-title">www.ofcom.org.uk Section five: Due impartiality and due accuracy</span><span class="citation-popover-snippet">www.ofcom.org.uk Section five: Due impartiality and due accuracy</span></span></span>
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_false_balance_claims_5530ff-Illustration-2-dark.svg" | relative_url }}" alt="False Balance illustration 2" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_false_balance_claims_5530ff-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_false_balance_claims_5530ff-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How False Balance Sustains Myths
@@ -583,7 +583,7 @@ This is why false balance is especially useful to misinformation. It does not ne
 
 False balance also creates a trap for corrections. When a myth is framed as one side of a debate, debunking can be misread as censorship or partisanship. The corrective voice looks like just another contestant. That is why clear evidence-weighting matters at the first presentation, not only after a misleading claim has spread.
 
-The Canadian Association of Journalists’ 2024 statement on false balance puts the issue in ethical terms: journalism is evidence-based, and presenting opposing views as equally supported by evidence and expertise when one is not can mislead the public. That framing is useful because it treats false balance not as a stylistic flaw, but as a failure of verification and proportion. <span class="citation-chip-wrap"><a class="citation-chip" href="https://caj.ca/wp-content/uploads/False-Balance.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: caj.ca">[Canadian Association of Journalists]</a><span class="citation-popover" role="note"><span class="citation-popover-source">caj.ca</span><span class="citation-popover-title">False Balance</span><span class="citation-popover-snippet">False Balance</span></span></span>
+The Canadian Association of Journalists’ 2024 statement on false balance puts the issue in ethical terms: journalism is evidence-based, and presenting opposing views as equally supported by evidence and expertise when one is not can mislead the public. That framing is useful because it treats false balance not as a stylistic flaw, but as a failure of verification and proportion.<span class="citation-chip-wrap"><a class="citation-chip" href="https://caj.ca/wp-content/uploads/False-Balance.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: caj.ca">[Canadian Association of Journalists]</a><span class="citation-popover" role="note"><span class="citation-popover-source">caj.ca</span><span class="citation-popover-title">False Balance</span><span class="citation-popover-snippet">False Balance</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/O7pgSZyU4_g" title="False Balance explained (explainity® explainer video)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=O7pgSZyU4_g" target="_blank" rel="noopener noreferrer">False Balance explained (explainity® explainer video)</a></p><p class="youtube-embed-meta">Channel: explainitychannel &middot; Views: 2.5K &middot; Uploaded: July 2023 &middot; Length: 2 minutes 48 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=O7pgSZyU4_g" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=O7pgSZyU4_g">Open on YouTube</a></p></div></div></div>
 
@@ -595,11 +595,11 @@ A better approach usually includes four moves.
 
 **First, state the evidence-weighted conclusion early.** If the best evidence strongly supports one conclusion, say so before introducing weaker objections. For example: “The evidence does not support a link between MMR and autism, although anti-vaccine campaigners continue to promote the claim.” That order matters because it prevents the weak claim from setting the frame.
 
-**Second, separate factual disputes from policy disputes.** In climate coverage, the broad scientific basis of human-caused warming is not the same question as how quickly to decarbonise, which technologies to prioritise, or how to distribute costs. Ofcom guidance has treated the scientific principles behind anthropogenic global warming as broadly settled while distinguishing them from political and policy responses. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ofcom.org.uk/siteassets/resources/documents/tv-radio-and-on-demand/broadcast-guidance/programme-guidance/broadcast-code-guidance/section5.pdf?v=328577" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ofcom.org.uk">[www.ofcom.org.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ofcom.org.uk</span><span class="citation-popover-snippet">Open source on ofcom.org.uk.</span></span></span>
+**Second, separate factual disputes from policy disputes.** In climate coverage, the broad scientific basis of human-caused warming is not the same question as how quickly to decarbonise, which technologies to prioritise, or how to distribute costs. Ofcom guidance has treated the scientific principles behind anthropogenic global warming as broadly settled while distinguishing them from political and policy responses.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ofcom.org.uk/siteassets/resources/documents/tv-radio-and-on-demand/broadcast-guidance/programme-guidance/broadcast-code-guidance/section5.pdf?v=328577" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ofcom.org.uk">[www.ofcom.org.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ofcom.org.uk</span><span class="citation-popover-snippet">Open source on ofcom.org.uk.</span></span></span>
 
 **Third, label source types plainly.** “A peer-reviewed review”, “a small observational study”, “an advocacy group”, “a former minister”, “a parent’s account” and “a specialist in the field” are not interchangeable. Labels should not sneer at minority sources, but they should tell readers what kind of evidence or authority is being offered.
 
-**Fourth, challenge unsupported claims in the moment.** A broadcaster or interviewer can include a controversial guest without creating false balance if inaccurate claims are tested, corrected and contextualised. A 2018 Ofcom ruling found that a BBC Radio 4 interview with Nigel Lawson breached accuracy rules because incorrect claims about climate change were not sufficiently challenged during or after the interview. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/environment/2018/apr/09/bbc-radio-4-broke-impartiality-rules-in-nigel-lawson-climate-change-interview" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+**Fourth, challenge unsupported claims in the moment.** A broadcaster or interviewer can include a controversial guest without creating false balance if inaccurate claims are tested, corrected and contextualised. A 2018 Ofcom ruling found that a BBC Radio 4 interview with Nigel Lawson breached accuracy rules because incorrect claims about climate change were not sufficiently challenged during or after the interview.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/environment/2018/apr/09/bbc-radio-4-broke-impartiality-rules-in-nigel-lawson-climate-change-interview" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 A useful rule is: include the claim only with the information needed to evaluate it. Unsupported minority claims should not float alone as memorable soundbites. They should be placed next to the evidence that shows their status.
 
@@ -627,194 +627,194 @@ The best question is not “Did the article include both sides?” but “Did th
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_false_balance_claims_5530ff-Illustration-3-dark.svg" | relative_url }}" alt="False Balance illustration 3" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_false_balance_claims_5530ff-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_false_balance_claims_5530ff-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When Both Sides Framing Misleads Readers. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When Both Sides Framing Misleads Readers. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Calling Bullshit on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Plu9DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Calling Bullshit" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Calling Bullshit">Calling Bullshit</a>
-        </h4>
-        <p class="fr-book-author">By Carl T. Bergstrom, Jevin D. West</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Calling Bullshit on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Plu9DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Calling Bullshit" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Calling Bullshit">Calling Bullshit</a>
+</h4>
+<p class="fr-book-author">By Carl T. Bergstrom, Jevin D. West</p>
         
-        <p class="fr-book-desc">Helps readers identify false equivalence, weak evidence and misleading presentations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps readers identify false equivalence, weak evidence and misleading presentations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Bad+Science+by+Ben+Goldacre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Bad Science on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=wICuv0ePMYoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Bad Science" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Bad+Science+by+Ben+Goldacre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Bad Science">Bad Science</a>
-        </h4>
-        <p class="fr-book-author">By Ben Goldacre</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Bad+Science+by+Ben+Goldacre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Bad Science on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=wICuv0ePMYoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Bad Science" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Bad+Science+by+Ben+Goldacre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Bad Science">Bad Science</a>
+</h4>
+<p class="fr-book-author">By Ben Goldacre</p>
         
-        <p class="fr-book-desc">Shows how poor evidence and media framing distort public understanding of science and health.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Bad+Science+by+Ben+Goldacre&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows how poor evidence and media framing distort public understanding of science and health.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Bad+Science+by+Ben+Goldacre&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Trust+Me+I%27m+Lying+by+Ryan+Holiday&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Trust Me I&#x27;m Lying on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nHU7DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Trust Me I&#x27;m Lying" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Trust+Me+I%27m+Lying+by+Ryan+Holiday&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Trust Me I&#x27;m Lying">Trust Me I&#x27;m Lying</a>
-        </h4>
-        <p class="fr-book-author">By Ryan Holiday</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Trust+Me+I%27m+Lying+by+Ryan+Holiday&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Trust Me I&#x27;m Lying on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nHU7DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Trust Me I&#x27;m Lying" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Trust+Me+I%27m+Lying+by+Ryan+Holiday&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Trust Me I&#x27;m Lying">Trust Me I&#x27;m Lying</a>
+</h4>
+<p class="fr-book-author">By Ryan Holiday</p>
         
-        <p class="fr-book-desc">Explains incentives that make distorted controversy and misleading framing profitable.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Trust+Me+I%27m+Lying+by+Ryan+Holiday&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains incentives that make distorted controversy and misleading framing profitable.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Trust+Me+I%27m+Lying+by+Ryan+Holiday&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Skeptics&#x27; Guide to the Universe on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CuVKDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Skeptics&#x27; Guide to the Universe" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Skeptics&#x27; Guide to the Universe">The Skeptics&#x27; Guide to the Universe</a>
-        </h4>
-        <p class="fr-book-author">By Dr. Steven Novella</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Skeptics&#x27; Guide to the Universe on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CuVKDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Skeptics&#x27; Guide to the Universe" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Skeptics&#x27; Guide to the Universe">The Skeptics&#x27; Guide to the Universe</a>
+</h4>
+<p class="fr-book-author">By Dr. Steven Novella</p>
         
-        <p class="fr-book-desc">Builds general tools for weighing evidence rather than treating all claims equally.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Builds general tools for weighing evidence rather than treating all claims equally.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Calling+Bullshit&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Calling Bullshit</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Bad+Science&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Bad Science</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Trust+Me+I%27m+Lying&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Trust Me I&#x27;m Lying</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Calling+Bullshit&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Calling Bullshit</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Bad+Science&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Bad Science</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Trust+Me+I%27m+Lying&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Trust Me I&#x27;m Lying</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=tech+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-balance-when-both-sides-framing-misleads-readers-myths-and-misconcept-tech-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="tech wall art" data-ebay-reference="false-balance-when-both-sides-framing-misleads-readers-myths-and-misconcept-tech-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Tech Support definition Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/c752ebf8998b832b09e5.jpg' | relative_url }}" alt="Listing image for Tech Support definition Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=tech+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-balance-when-both-sides-framing-misleads-readers-myths-and-misconcept-tech-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="tech wall art" data-ebay-reference="false-balance-when-both-sides-framing-misleads-readers-myths-and-misconcept-tech-wall-art" target="_blank" rel="sponsored noopener noreferrer">Tech Support definition Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=tech+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-balance-when-both-sides-framing-misleads-readers-myths-and-misconcept-tech-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="tech wall art" data-ebay-reference="false-balance-when-both-sides-framing-misleads-readers-myths-and-misconcept-tech-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for tech wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: tech wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=tech+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-balance-when-both-sides-framing-misleads-readers-myths-and-misconcept-tech-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="tech wall art" data-ebay-reference="false-balance-when-both-sides-framing-misleads-readers-myths-and-misconcept-tech-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=tech+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-balance-when-both-sides-framing-misleads-readers-myths-and-misconcept-tech-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="tech wall art" data-ebay-reference="false-balance-when-both-sides-framing-misleads-readers-myths-and-misconcept-tech-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Tech Support definition Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/c752ebf8998b832b09e5.jpg' | relative_url }}" alt="Listing image for Tech Support definition Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=tech+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-balance-when-both-sides-framing-misleads-readers-myths-and-misconcept-tech-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="tech wall art" data-ebay-reference="false-balance-when-both-sides-framing-misleads-readers-myths-and-misconcept-tech-wall-art" target="_blank" rel="sponsored noopener noreferrer">Tech Support definition Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=tech+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-balance-when-both-sides-framing-misleads-readers-myths-and-misconcept-tech-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="tech wall art" data-ebay-reference="false-balance-when-both-sides-framing-misleads-readers-myths-and-misconcept-tech-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for tech wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: tech wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=tech+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-balance-when-both-sides-framing-misleads-readers-myths-and-misconcept-tech-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="tech wall art" data-ebay-reference="false-balance-when-both-sides-framing-misleads-readers-myths-and-misconcept-tech-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=tech+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-balance-when-both-sides-framing-misleads-readers-myths-and-misconcept-tech-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="tech wall art" data-ebay-reference="false-balance-when-both-sides-framing-misleads-readers-myths-and-misconcept-tech-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Tech Graphic T Framed Art Print Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/af26f74ddb828f8bf47e.jpg' | relative_url }}" alt="Listing image for Tech Graphic T Framed Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=tech+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-balance-when-both-sides-framing-misleads-readers-myths-and-misconcept-tech-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="tech wall art" data-ebay-reference="false-balance-when-both-sides-framing-misleads-readers-myths-and-misconcept-tech-wall-art" target="_blank" rel="sponsored noopener noreferrer">Tech Graphic T Framed Art Print Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=tech+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-balance-when-both-sides-framing-misleads-readers-myths-and-misconcept-tech-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="tech wall art" data-ebay-reference="false-balance-when-both-sides-framing-misleads-readers-myths-and-misconcept-tech-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for tech wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: tech wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=tech+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-balance-when-both-sides-framing-misleads-readers-myths-and-misconcept-tech-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="tech wall art" data-ebay-reference="false-balance-when-both-sides-framing-misleads-readers-myths-and-misconcept-tech-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=tech+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-balance-when-both-sides-framing-misleads-readers-myths-and-misconcept-tech-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="tech wall art" data-ebay-reference="false-balance-when-both-sides-framing-misleads-readers-myths-and-misconcept-tech-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Tech Graphic T Framed Art Print Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/af26f74ddb828f8bf47e.jpg' | relative_url }}" alt="Listing image for Tech Graphic T Framed Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=tech+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-balance-when-both-sides-framing-misleads-readers-myths-and-misconcept-tech-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="tech wall art" data-ebay-reference="false-balance-when-both-sides-framing-misleads-readers-myths-and-misconcept-tech-wall-art" target="_blank" rel="sponsored noopener noreferrer">Tech Graphic T Framed Art Print Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=tech+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-balance-when-both-sides-framing-misleads-readers-myths-and-misconcept-tech-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="tech wall art" data-ebay-reference="false-balance-when-both-sides-framing-misleads-readers-myths-and-misconcept-tech-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for tech wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: tech wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=tech+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-balance-when-both-sides-framing-misleads-readers-myths-and-misconcept-tech-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="tech wall art" data-ebay-reference="false-balance-when-both-sides-framing-misleads-readers-myths-and-misconcept-tech-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=tech+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-balance-when-both-sides-framing-misleads-readers-myths-and-misconcept-tech-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="tech wall art" data-ebay-reference="false-balance-when-both-sides-framing-misleads-readers-myths-and-misconcept-tech-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The Tech-Savvy Boy Giant Phone Fram Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/387f459bfc984cbc4040.jpg' | relative_url }}" alt="Listing image for The Tech-Savvy Boy Giant Phone Fram Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=tech+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-balance-when-both-sides-framing-misleads-readers-myths-and-misconcept-tech-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="tech wall art" data-ebay-reference="false-balance-when-both-sides-framing-misleads-readers-myths-and-misconcept-tech-wall-art" target="_blank" rel="sponsored noopener noreferrer">The Tech-Savvy Boy Giant Phone Fram Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=tech+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-balance-when-both-sides-framing-misleads-readers-myths-and-misconcept-tech-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="tech wall art" data-ebay-reference="false-balance-when-both-sides-framing-misleads-readers-myths-and-misconcept-tech-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for tech wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: tech wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=tech+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-balance-when-both-sides-framing-misleads-readers-myths-and-misconcept-tech-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="tech wall art" data-ebay-reference="false-balance-when-both-sides-framing-misleads-readers-myths-and-misconcept-tech-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=tech+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-balance-when-both-sides-framing-misleads-readers-myths-and-misconcept-tech-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="tech wall art" data-ebay-reference="false-balance-when-both-sides-framing-misleads-readers-myths-and-misconcept-tech-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The Tech-Savvy Boy Giant Phone Fram Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/387f459bfc984cbc4040.jpg' | relative_url }}" alt="Listing image for The Tech-Savvy Boy Giant Phone Fram Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=tech+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-balance-when-both-sides-framing-misleads-readers-myths-and-misconcept-tech-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="tech wall art" data-ebay-reference="false-balance-when-both-sides-framing-misleads-readers-myths-and-misconcept-tech-wall-art" target="_blank" rel="sponsored noopener noreferrer">The Tech-Savvy Boy Giant Phone Fram Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=tech+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-balance-when-both-sides-framing-misleads-readers-myths-and-misconcept-tech-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="tech wall art" data-ebay-reference="false-balance-when-both-sides-framing-misleads-readers-myths-and-misconcept-tech-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for tech wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: tech wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=tech+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-balance-when-both-sides-framing-misleads-readers-myths-and-misconcept-tech-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="tech wall art" data-ebay-reference="false-balance-when-both-sides-framing-misleads-readers-myths-and-misconcept-tech-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=tech+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-balance-when-both-sides-framing-misleads-readers-myths-and-misconcept-tech-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="tech wall art" data-ebay-reference="false-balance-when-both-sides-framing-misleads-readers-myths-and-misconcept-tech-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Tech Wall Art Poster - Vintage Computer &amp; Literature Home Decor"><img src="{{ '/assets/images/marketplace-covers/77a56e86dc38d0842a36.jpg' | relative_url }}" alt="Listing image for Retro Tech Wall Art Poster - Vintage Computer &amp; Literature Home Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=tech+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-balance-when-both-sides-framing-misleads-readers-myths-and-misconcept-tech-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="tech wall art" data-ebay-reference="false-balance-when-both-sides-framing-misleads-readers-myths-and-misconcept-tech-wall-art" target="_blank" rel="sponsored noopener noreferrer">Retro Tech Wall Art Poster - Vintage Computer &amp; Literature Home Decor</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=tech+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-balance-when-both-sides-framing-misleads-readers-myths-and-misconcept-tech-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="tech wall art" data-ebay-reference="false-balance-when-both-sides-framing-misleads-readers-myths-and-misconcept-tech-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for tech wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: tech wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=tech+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-balance-when-both-sides-framing-misleads-readers-myths-and-misconcept-tech-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="tech wall art" data-ebay-reference="false-balance-when-both-sides-framing-misleads-readers-myths-and-misconcept-tech-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=tech+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-balance-when-both-sides-framing-misleads-readers-myths-and-misconcept-tech-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="tech wall art" data-ebay-reference="false-balance-when-both-sides-framing-misleads-readers-myths-and-misconcept-tech-wall-art" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=tech+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-balance-when-both-sides-framing-misleads-readers-myths-and-misconcept-tech-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="tech wall art" data-ebay-reference="false-balance-when-both-sides-framing-misleads-readers-myths-and-misconcept-tech-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Tech Wall Art Poster - Vintage Computer &amp; Literature Home Decor"><img src="{{ '/assets/images/marketplace-covers/77a56e86dc38d0842a36.jpg' | relative_url }}" alt="Listing image for Retro Tech Wall Art Poster - Vintage Computer &amp; Literature Home Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=tech+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-balance-when-both-sides-framing-misleads-readers-myths-and-misconcept-tech-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="tech wall art" data-ebay-reference="false-balance-when-both-sides-framing-misleads-readers-myths-and-misconcept-tech-wall-art" target="_blank" rel="sponsored noopener noreferrer">Retro Tech Wall Art Poster - Vintage Computer &amp; Literature Home Decor</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=tech+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-balance-when-both-sides-framing-misleads-readers-myths-and-misconcept-tech-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="tech wall art" data-ebay-reference="false-balance-when-both-sides-framing-misleads-readers-myths-and-misconcept-tech-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for tech wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: tech wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=tech+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-balance-when-both-sides-framing-misleads-readers-myths-and-misconcept-tech-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="tech wall art" data-ebay-reference="false-balance-when-both-sides-framing-misleads-readers-myths-and-misconcept-tech-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=tech+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-balance-when-both-sides-framing-misleads-readers-myths-and-misconcept-tech-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="tech wall art" data-ebay-reference="false-balance-when-both-sides-framing-misleads-readers-myths-and-misconcept-tech-wall-art" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -830,7 +830,7 @@ The best question is not “Did the article include both sides?” but “Did th
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -850,7 +850,7 @@ The best question is not “Did the article include both sides?” but “Did th
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -882,7 +882,7 @@ The best question is not “Did the article include both sides?” but “Did th
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -934,7 +934,7 @@ The best question is not “Did the article include both sides?” but “Did th
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -979,7 +979,7 @@ The best question is not “Did the article include both sides?” but “Did th
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -1020,143 +1020,143 @@ The best question is not “Did the article include both sides?” but “Did th
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0959378003000669" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0959378003000669</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Balance as bias: global warming and the US prestige pressby MT Boykoff · 2004 · Cited by 2926 — This paper demonstrates that...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/pii/S0959378003000669" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0959378003000669</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Balance as bias: global warming and the US prestige pressby MT Boykoff · 2004 · Cited by 2926 — This paper demonstrates that...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCWeight-of-Evidence Strategies to Mitigate the Influence  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7528676/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC7528676/</a>  
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7528676/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC7528676/</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: downloads.bbc.co.uk  
-   Link: <a href="https://downloads.bbc.co.uk/guidelines/editorialguidelines/pdfs/Editorial_Guidelines_in_full.pdf" target="_blank" rel="noopener noreferrer nofollow">https://downloads.bbc.co.uk/guidelines/editorialguidelines/pdfs/Editorial_Guidelines_in_full.pdf</a>  
+   Link:<a href="https://downloads.bbc.co.uk/guidelines/editorialguidelines/pdfs/Editorial_Guidelines_in_full.pdf" target="_blank" rel="noopener noreferrer nofollow">https://downloads.bbc.co.uk/guidelines/editorialguidelines/pdfs/Editorial_Guidelines_in_full.pdf</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: downloads.bbc.co.uk  
-   Link: <a href="https://downloads.bbc.co.uk/bbctrust/assets/files/pdf/our_work/science_impartiality/trust_conclusions.pdf" target="_blank" rel="noopener noreferrer nofollow">https://downloads.bbc.co.uk/bbctrust/assets/files/pdf/our_work/science_impartiality/trust_conclusions.pdf</a>  
+   Link:<a href="https://downloads.bbc.co.uk/bbctrust/assets/files/pdf/our_work/science_impartiality/trust_conclusions.pdf" target="_blank" rel="noopener noreferrer nofollow">https://downloads.bbc.co.uk/bbctrust/assets/files/pdf/our_work/science_impartiality/trust_conclusions.pdf</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: downloads.bbc.co.uk  
-   Link: <a href="https://downloads.bbc.co.uk/bbctrust/assets/files/pdf/our_work/science_impartiality/science_impartiality_followup.pdf" target="_blank" rel="noopener noreferrer nofollow">https://downloads.bbc.co.uk/bbctrust/assets/files/pdf/our_work/science_impartiality/science_impartiality_followup.pdf</a>  
+   Link:<a href="https://downloads.bbc.co.uk/bbctrust/assets/files/pdf/our_work/science_impartiality/science_impartiality_followup.pdf" target="_blank" rel="noopener noreferrer nofollow">https://downloads.bbc.co.uk/bbctrust/assets/files/pdf/our_work/science_impartiality/science_impartiality_followup.pdf</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: ofcom.org.uk  
    Title: www.ofcom.org.uk Section five: Due impartiality and due accuracy  
-   Link: <a href="https://www.ofcom.org.uk/tv-radio-and-on-demand/broadcast-standards/section-five-due-impartiality-accuracy" target="_blank" rel="noopener noreferrer nofollow">https://www.ofcom.org.uk/tv-radio-and-on-demand/broadcast-standards/section-five-due-impartiality-accuracy</a>  
+   Link:<a href="https://www.ofcom.org.uk/tv-radio-and-on-demand/broadcast-standards/section-five-due-impartiality-accuracy" target="_blank" rel="noopener noreferrer nofollow">https://www.ofcom.org.uk/tv-radio-and-on-demand/broadcast-standards/section-five-due-impartiality-accuracy</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: ofcom.org.uk  
-   Link: <a href="https://www.ofcom.org.uk/siteassets/resources/documents/tv-radio-and-on-demand/broadcast-guidance/programme-guidance/broadcast-code-guidance/section5.pdf?v=328577" target="_blank" rel="noopener noreferrer nofollow">https://www.ofcom.org.uk/siteassets/resources/documents/tv-radio-and-on-demand/broadcast-guidance/programme-guidance/broadcast-code-guidance/section5.pdf?v=328577</a>  
+   Link:<a href="https://www.ofcom.org.uk/siteassets/resources/documents/tv-radio-and-on-demand/broadcast-guidance/programme-guidance/broadcast-code-guidance/section5.pdf?v=328577" target="_blank" rel="noopener noreferrer nofollow">https://www.ofcom.org.uk/siteassets/resources/documents/tv-radio-and-on-demand/broadcast-guidance/programme-guidance/broadcast-code-guidance/section5.pdf?v=328577</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: ofcom.org.uk  
-   Link: <a href="https://www.ofcom.org.uk/siteassets/resources/documents/about-ofcom/foi/2024/may/broadcast-coverage-of-climate-energy-and-net-zero.pdf?v=356435" target="_blank" rel="noopener noreferrer nofollow">https://www.ofcom.org.uk/siteassets/resources/documents/about-ofcom/foi/2024/may/broadcast-coverage-of-climate-energy-and-net-zero.pdf?v=356435</a>  
+   Link:<a href="https://www.ofcom.org.uk/siteassets/resources/documents/about-ofcom/foi/2024/may/broadcast-coverage-of-climate-energy-and-net-zero.pdf?v=356435" target="_blank" rel="noopener noreferrer nofollow">https://www.ofcom.org.uk/siteassets/resources/documents/about-ofcom/foi/2024/may/broadcast-coverage-of-climate-energy-and-net-zero.pdf?v=356435</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: downloads.bbc.co.uk  
-   Link: <a href="https://downloads.bbc.co.uk/bbctrust/assets/files/pdf/our_work/science_impartiality/science_impartiality.pdf" target="_blank" rel="noopener noreferrer nofollow">https://downloads.bbc.co.uk/bbctrust/assets/files/pdf/our_work/science_impartiality/science_impartiality.pdf</a>  
+   Link:<a href="https://downloads.bbc.co.uk/bbctrust/assets/files/pdf/our_work/science_impartiality/science_impartiality.pdf" target="_blank" rel="noopener noreferrer nofollow">https://downloads.bbc.co.uk/bbctrust/assets/files/pdf/our_work/science_impartiality/science_impartiality.pdf</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: ofcom.org.uk  
-   Link: <a href="https://www.ofcom.org.uk/siteassets/resources/documents/tv-radio-and-on-demand/broadcast-codes/2025/guidance-notes-section-five-due-impartiality-and-due-accuracy-and-undue-prominence-of-views-and-opinions.pdf?v=406322" target="_blank" rel="noopener noreferrer nofollow">https://www.ofcom.org.uk/siteassets/resources/documents/tv-radio-and-on-demand/broadcast-codes/2025/guidance-notes-section-five-due-impartiality-and-due-accuracy-and-undue-prominence-of-views-and-opinions.pdf?v=406322</a>  
+   Link:<a href="https://www.ofcom.org.uk/siteassets/resources/documents/tv-radio-and-on-demand/broadcast-codes/2025/guidance-notes-section-five-due-impartiality-and-due-accuracy-and-undue-prominence-of-views-and-opinions.pdf?v=406322" target="_blank" rel="noopener noreferrer nofollow">https://www.ofcom.org.uk/siteassets/resources/documents/tv-radio-and-on-demand/broadcast-codes/2025/guidance-notes-section-five-due-impartiality-and-due-accuracy-and-undue-prominence-of-views-and-opinions.pdf?v=406322</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: fair.org  
    Title: Journalistic Balance as Global Warming Bias  
-   Link: <a href="https://fair.org/home/journalistic-balance-as-global-warming-bias/" target="_blank" rel="noopener noreferrer nofollow">https://fair.org/home/journalistic-balance-as-global-warming-bias/</a>  
+   Link:<a href="https://fair.org/home/journalistic-balance-as-global-warming-bias/" target="_blank" rel="noopener noreferrer nofollow">https://fair.org/home/journalistic-balance-as-global-warming-bias/</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: healthjournalism.org  
-   Link: <a href="https://healthjournalism.org/glossary-terms/false-balance-false-equivalence/" target="_blank" rel="noopener noreferrer nofollow">https://healthjournalism.org/glossary-terms/false-balance-false-equivalence/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Association of Health Care JournalistsFalse balance (false equivalence)This lapse in responsible reporting refers to using outliers&#x27; voic...</p></details>
+   Link:<a href="https://healthjournalism.org/glossary-terms/false-balance-false-equivalence/" target="_blank" rel="noopener noreferrer nofollow">https://healthjournalism.org/glossary-terms/false-balance-false-equivalence/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Association of Health Care JournalistsFalse balance (false equivalence)This lapse in responsible reporting refers to using outliers&#x27; voic...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: cssn.org  
-   Link: <a href="https://cssn.org/wp-content/uploads/2020/12/Quantifying-the-consensus-on-anthropogenic-global-warming-in-the-scientific-literature-John-Cook.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cssn.org/wp-content/uploads/2020/12/Quantifying-the-consensus-on-anthropogenic-global-warming-in-the-scientific-literature-John-Cook.pdf</a>  
+   Link:<a href="https://cssn.org/wp-content/uploads/2020/12/Quantifying-the-consensus-on-anthropogenic-global-warming-in-the-scientific-literature-John-Cook.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cssn.org/wp-content/uploads/2020/12/Quantifying-the-consensus-on-anthropogenic-global-warming-in-the-scientific-literature-John-Cook.pdf</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/23193194/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/23193194/</a>  
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/23193194/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/23193194/</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: caj.ca  
    Title: False Balance  
-   Link: <a href="https://caj.ca/wp-content/uploads/False-Balance.pdf" target="_blank" rel="noopener noreferrer nofollow">https://caj.ca/wp-content/uploads/False-Balance.pdf</a>  
+   Link:<a href="https://caj.ca/wp-content/uploads/False-Balance.pdf" target="_blank" rel="noopener noreferrer nofollow">https://caj.ca/wp-content/uploads/False-Balance.pdf</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/environment/2018/apr/09/bbc-radio-4-broke-impartiality-rules-in-nigel-lawson-climate-change-interview" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/environment/2018/apr/09/bbc-radio-4-broke-impartiality-rules-in-nigel-lawson-climate-change-interview</a>  
+   Link:<a href="https://www.theguardian.com/environment/2018/apr/09/bbc-radio-4-broke-impartiality-rules-in-nigel-lawson-climate-change-interview" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/environment/2018/apr/09/bbc-radio-4-broke-impartiality-rules-in-nigel-lawson-climate-change-interview</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: Wikipedia  
    Title: False balance  
-   Link: <a href="https://en.wikipedia.org/wiki/False_balance" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/False_balance</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/False_balance" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/False_balance</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: theguardian.com  
    Title: mps criticise bbc false balance climate change coverage  
-   Link: <a href="https://www.theguardian.com/environment/2014/apr/02/mps-criticise-bbc-false-balance-climate-change-coverage" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/environment/2014/apr/02/mps-criticise-bbc-false-balance-climate-change-coverage</a>  
+   Link:<a href="https://www.theguardian.com/environment/2014/apr/02/mps-criticise-bbc-false-balance-climate-change-coverage" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/environment/2014/apr/02/mps-criticise-bbc-false-balance-climate-change-coverage</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: theguardian.com  
    Title: enforced veganism ofcom gb news flout accuracy rules say climate campaigners  
-   Link: <a href="https://www.theguardian.com/environment/2025/oct/25/enforced-veganism-ofcom-gb-news-flout-accuracy-rules-say-climate-campaigners" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/environment/2025/oct/25/enforced-veganism-ofcom-gb-news-flout-accuracy-rules-say-climate-campaigners</a>  
+   Link:<a href="https://www.theguardian.com/environment/2025/oct/25/enforced-veganism-ofcom-gb-news-flout-accuracy-rules-say-climate-campaigners" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/environment/2025/oct/25/enforced-veganism-ofcom-gb-news-flout-accuracy-rules-say-climate-campaigners</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: dictionary.cambridge.org  
-   Link: <a href="https://dictionary.cambridge.org/dictionary/english/false" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/dictionary/english/false</a>  
+   Link:<a href="https://dictionary.cambridge.org/dictionary/english/false" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/dictionary/english/false</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: gymglish.com  
-   Link: <a href="https://www.gymglish.com/en/gymglish/english-translation/false" target="_blank" rel="noopener noreferrer nofollow">https://www.gymglish.com/en/gymglish/english-translation/false</a>  
+   Link:<a href="https://www.gymglish.com/en/gymglish/english-translation/false" target="_blank" rel="noopener noreferrer nofollow">https://www.gymglish.com/en/gymglish/english-translation/false</a>  
 
 ### Additional References
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: youtube.com  
    Title: Truth or Trend: Tackling Medical Misinformation on Social Media  
-   Link: <a href="https://www.youtube.com/watch?v=9ixY9pr9Fb8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=9ixY9pr9Fb8</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>These videos are relevant because they explore the concept of false balance in journalism, media bias, the impact of logical fallacies on...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=9ixY9pr9Fb8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=9ixY9pr9Fb8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>These videos are relevant because they explore the concept of false balance in journalism, media bias, the impact of logical fallacies on...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: youtube.com  
    Title: How a Group of Grandmothers Reclaimed Argentina's Stolen Grandchildren  
-   Link: <a href="https://www.youtube.com/watch?v=33_keJBtmn8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=33_keJBtmn8</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Truth or Trend: Tackling Medical Misinformation on Social Media...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=33_keJBtmn8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=33_keJBtmn8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Truth or Trend: Tackling Medical Misinformation on Social Media...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: youtube.com  
    Title: Critical Thinking and Logical Fallacies in Modern Discourse  
-   Link: <a href="https://www.youtube.com/watch?v=Mhhr-UIRgjM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Mhhr-UIRgjM</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How a Group of Grandmothers Reclaimed Argentina&#x27;s Stolen Grandchildren...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Mhhr-UIRgjM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Mhhr-UIRgjM</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How a Group of Grandmothers Reclaimed Argentina&#x27;s Stolen Grandchildren...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/radiotimes/posts/some-edits-were-made-so-the-content-was-compliant-with-bbc-editorial-guidelines-/740815628092359/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/radiotimes/posts/some-edits-were-made-so-the-content-was-compliant-with-bbc-editorial-guidelines-/740815628092359/</a>  
+   Link:<a href="https://www.facebook.com/radiotimes/posts/some-edits-were-made-so-the-content-was-compliant-with-bbc-editorial-guidelines-/740815628092359/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/radiotimes/posts/some-edits-were-made-so-the-content-was-compliant-with-bbc-editorial-guidelines-/740815628092359/</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/258186592_Heightening_Uncertainty_Around_Certain_Science_Media_Coverage_False_Balance_and_the_Autism-Vaccine_Controversy" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/258186592_Heightening_Uncertainty_Around_Certain_Science_Media_Coverage_False_Balance_and_the_Autism-Vaccine_Controversy</a>  
+   Link:<a href="https://www.researchgate.net/publication/258186592_Heightening_Uncertainty_Around_Certain_Science_Media_Coverage_False_Balance_and_the_Autism-Vaccine_Controversy" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/258186592_Heightening_Uncertainty_Around_Certain_Science_Media_Coverage_False_Balance_and_the_Autism-Vaccine_Controversy</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/304663753_Rethinking_balance_and_impartiality_in_journalism_How_the_BBC_attempted_and_failed_to_change_the_paradigm" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/304663753_Rethinking_balance_and_impartiality_in_journalism_How_the_BBC_attempted_and_failed_to_change_the_paradigm</a>  
+   Link:<a href="https://www.researchgate.net/publication/304663753_Rethinking_balance_and_impartiality_in_journalism_How_the_BBC_attempted_and_failed_to_change_the_paradigm" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/304663753_Rethinking_balance_and_impartiality_in_journalism_How_the_BBC_attempted_and_failed_to_change_the_paradigm</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/ThinkingPowers/posts/avoiding-bias-is-a-laudable-goal-but-there-arent-always-two-sides-to-every-story/620055799716703/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ThinkingPowers/posts/avoiding-bias-is-a-laudable-goal-but-there-arent-always-two-sides-to-every-story/620055799716703/</a>  
+   Link:<a href="https://www.facebook.com/ThinkingPowers/posts/avoiding-bias-is-a-laudable-goal-but-there-arent-always-two-sides-to-every-story/620055799716703/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ThinkingPowers/posts/avoiding-bias-is-a-laudable-goal-but-there-arent-always-two-sides-to-every-story/620055799716703/</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/ThinkingPowers/posts/avoiding-bias-is-a-laudable-goal-but-there-arent-always-two-sides-to-every-story/715392017252165/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ThinkingPowers/posts/avoiding-bias-is-a-laudable-goal-but-there-arent-always-two-sides-to-every-story/715392017252165/</a>  
+   Link:<a href="https://www.facebook.com/ThinkingPowers/posts/avoiding-bias-is-a-laudable-goal-but-there-arent-always-two-sides-to-every-story/715392017252165/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ThinkingPowers/posts/avoiding-bias-is-a-laudable-goal-but-there-arent-always-two-sides-to-every-story/715392017252165/</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: slideshare.net  
-   Link: <a href="https://www.slideshare.net/slideshow/bbc-editorialguidelineswholedocument/227928715" target="_blank" rel="noopener noreferrer nofollow">https://www.slideshare.net/slideshow/bbc-editorialguidelineswholedocument/227928715</a>  
+   Link:<a href="https://www.slideshare.net/slideshow/bbc-editorialguidelineswholedocument/227928715" target="_blank" rel="noopener noreferrer nofollow">https://www.slideshare.net/slideshow/bbc-editorialguidelineswholedocument/227928715</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/355382090_When_Fairness_is_Flawed_Effects_of_False_Balance_Reporting_and_Weight-of-Evidence_Statements_on_Beliefs_and_Perceptions_of_Climate_Change" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/355382090_When_Fairness_is_Flawed_Effects_of_False_Balance_Reporting_and_Weight-of-Evidence_Statements_on_Beliefs_and_Perceptions_of_Climate_Change</a>
+   Link:<a href="https://www.researchgate.net/publication/355382090_When_Fairness_is_Flawed_Effects_of_False_Balance_Reporting_and_Weight-of-Evidence_Statements_on_Beliefs_and_Perceptions_of_Climate_Change" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/355382090_When_Fairness_is_Flawed_Effects_of_False_Balance_Reporting_and_Weight-of-Evidence_Statements_on_Beliefs_and_Perceptions_of_Climate_Change</a>

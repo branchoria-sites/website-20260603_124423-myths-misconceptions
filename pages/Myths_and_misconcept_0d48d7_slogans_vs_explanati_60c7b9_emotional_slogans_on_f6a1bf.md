@@ -277,13 +277,13 @@ image: /assets/images/Myths_and_misconcept_0d48d7_slogans_vs_explanati_60c7b9_em
 Emotional [slogans]({{ 'slogans/' | relative_url }}) spread faster online because they do more than communicate an idea: they give people a feeling to share. In discussions about myths and misconceptions, this matters because a misleading claim often arrives packaged with surprise, anger, pride, fear, or a sense of belonging. An accurate explanation may be more informative, but it usually demands more attention and offers less immediate emotional reward.
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_slogans_vs_explanati_60c7b9_emotional_slogans_on_f6a1bf-Illustration-1-dark.svg" | relative_url }}" alt="Emotion illustration 1" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_slogans_vs_explanati_60c7b9_emotional_slogans_on_f6a1bf-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_slogans_vs_explanati_60c7b9_emotional_slogans_on_f6a1bf-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-Research across social media [platforms]({{ 'platforms/' | relative_url }}) suggests that content triggering strong emotions is more likely to be noticed, remembered, and passed on. The advantage is not simply that emotional messages are louder. They provide social signals—about who we are, what we value, and which groups we belong to—that encourage sharing. When a myth combines a simple explanation with a strong emotional reaction, it gains a powerful transmission advantage over a careful but less emotionally engaging [correction]({{ 'correction/' | relative_url }}). PNAS <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/28652356/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">shapes the diffusion of moralized content in social...by WJ Brady · 2017 · Cited by 1902 — We show that the expression of moral emotion...</span></span></span>
+Research across social media [platforms]({{ 'platforms/' | relative_url }}) suggests that content triggering strong emotions is more likely to be noticed, remembered, and passed on. The advantage is not simply that emotional messages are louder. They provide social signals—about who we are, what we value, and which groups we belong to—that encourage sharing. When a myth combines a simple explanation with a strong emotional reaction, it gains a powerful transmission advantage over a careful but less emotionally engaging [correction]({{ 'correction/' | relative_url }}). PNAS<span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/28652356/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">shapes the diffusion of moralized content in social...by WJ Brady · 2017 · Cited by 1902 — We show that the expression of moral emotion...</span></span></span>
 
 ## Novelty and emotion in online sharing
 
 One reason emotional slogans travel quickly is that they often feel novel. People are naturally drawn to information that seems surprising, alarming, or unexpected. Online platforms amplify this tendency because users constantly compete for attention in crowded feeds.
 
-A large study of Twitter information cascades found that false news spread farther, faster, deeper, and more broadly than true news. The researchers concluded that novelty was a key factor: false stories often appeared more surprising than accurate ones, making them more likely to be shared. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/28652356/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">shapes the diffusion of moralized content in social...by WJ Brady · 2017 · Cited by 1902 — We show that the expression of moral emotion...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://news.mit.edu/2018/study-twitter-false-news-travels-faster-true-stories-0308" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.mit.edu">[MIT News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.mit.edu</span><span class="citation-popover-title">study twitter false news travels faster true stories 0308</span><span class="citation-popover-snippet">MIT NewsStudy: On Twitter, false news travels faster than true storiesMar 8, 2018 — Researchers from the Media Lab and Sloan found that h...</span></span></span>
+A large study of Twitter information cascades found that false news spread farther, faster, deeper, and more broadly than true news. The researchers concluded that novelty was a key factor: false stories often appeared more surprising than accurate ones, making them more likely to be shared.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/28652356/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">shapes the diffusion of moralized content in social...by WJ Brady · 2017 · Cited by 1902 — We show that the expression of moral emotion...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://news.mit.edu/2018/study-twitter-false-news-travels-faster-true-stories-0308" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.mit.edu">[MIT News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.mit.edu</span><span class="citation-popover-title">study twitter false news travels faster true stories 0308</span><span class="citation-popover-snippet">MIT NewsStudy: On Twitter, false news travels faster than true storiesMar 8, 2018 — Researchers from the Media Lab and Sloan found that h...</span></span></span>
 
 Emotion and novelty frequently work together:
 
@@ -294,13 +294,13 @@ Emotion and novelty frequently work together:
 
 A slogan such as “They’ve been hiding this from you” combines novelty with emotion. It promises a secret, identifies a potential villain, and gives the reader a reason to share immediately. An accurate explanation often has to discuss evidence, uncertainty, and competing interpretations, which makes it harder to process and repeat.
 
-Studies of online content diffusion have also found that specific emotional expressions can influence how widely information spreads. Research on millions of users showed that some negative emotions, particularly anxiety, can increase the size and depth of sharing cascades. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2011.09003" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Emotions in Online Content Diffusion</span><span class="citation-popover-snippet">Emotions in Online Content DiffusionNovember 17, 2020...</span><span class="citation-popover-meta">Published: November 17, 2020</span></span></span>
+Studies of online content diffusion have also found that specific emotional expressions can influence how widely information spreads. Research on millions of users showed that some negative emotions, particularly anxiety, can increase the size and depth of sharing cascades.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2011.09003" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Emotions in Online Content Diffusion</span><span class="citation-popover-snippet">Emotions in Online Content DiffusionNovember 17, 2020...</span><span class="citation-popover-meta">Published: November 17, 2020</span></span></span>
 
 ## Moral language and social identity
 
 Many successful online myths do not merely claim that something is true or false. They imply that someone is good or bad, responsible or irresponsible, loyal or disloyal. This moral framing gives people a social reason to share.
 
-Research published in the Proceedings of the National Academy of Sciences found that messages containing moral-emotional language spread more widely through social networks. In analyses of hundreds of thousands of posts about contentious public issues, each additional moral-emotional word was associated with increased diffusion. PNAS <span class="citation-chip-wrap"><a class="citation-chip" href="https://csmapnyu.org/research/academic-research/emotion-shapes-the-diffusion-of-moralized-content-in-social-networks" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: csmapnyu.org">[2csmapnyu.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">csmapnyu.org</span><span class="citation-popover-title">emotion shapes the diffusion of moralized content in social networks</span><span class="citation-popover-snippet">Emotion Shapes the Diffusion of Moralized Content in...Jul 11, 2017 — We show that the expression of moral emotion is key for the spread...</span></span></span>
+Research published in the Proceedings of the National Academy of Sciences found that messages containing moral-emotional language spread more widely through social networks. In analyses of hundreds of thousands of posts about contentious public issues, each additional moral-emotional word was associated with increased diffusion. PNAS<span class="citation-chip-wrap"><a class="citation-chip" href="https://csmapnyu.org/research/academic-research/emotion-shapes-the-diffusion-of-moralized-content-in-social-networks" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: csmapnyu.org">[2csmapnyu.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">csmapnyu.org</span><span class="citation-popover-title">emotion shapes the diffusion of moralized content in social networks</span><span class="citation-popover-snippet">Emotion Shapes the Diffusion of Moralized Content in...Jul 11, 2017 — We show that the expression of moral emotion is key for the spread...</span></span></span>
 
 This mechanism is especially important for myths because moral language turns information into [identity]({{ 'identity/' | relative_url }}):
 
@@ -311,7 +311,7 @@ This mechanism is especially important for myths because moral language turns in
 
 For example, a slogan that portrays an issue as a battle between virtuous ordinary people and corrupt elites can spread even when evidence is weak. The slogan allows users to communicate group membership with a single click.
 
-Research on social media engagement has found that hostility towards perceived out-groups generates particularly strong engagement. Posts focused on opponents or rival groups tend to receive more sharing and reactions than comparable content without that element. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.pnas.org/doi/10.1073/pnas.1618923114" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pnas.org">[PNAS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pnas.org</span><span class="citation-popover-snippet">Emotion shapes the diffusion of moralized content in social...by WJ Brady · 2017 · Cited by 1902 — JM Salerno, LC Peter-Hagene, The...</span></span></span>
+Research on social media engagement has found that hostility towards perceived out-groups generates particularly strong engagement. Posts focused on opponents or rival groups tend to receive more sharing and reactions than comparable content without that element.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.pnas.org/doi/10.1073/pnas.1618923114" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pnas.org">[PNAS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pnas.org</span><span class="citation-popover-snippet">Emotion shapes the diffusion of moralized content in social...by WJ Brady · 2017 · Cited by 1902 — JM Salerno, LC Peter-Hagene, The...</span></span></span>
 
 This helps explain why myths framed around blame, betrayal, or moral outrage often outperform nuanced explanations. The myth offers both an interpretation of events and a social identity statement.
 
@@ -333,7 +333,7 @@ Meanwhile, a myth can offer:
 
 Because emotional content is easier to remember and discuss, people may recall the feeling long after they forget the evidence supporting or contradicting a claim. In fast-moving social environments, emotional usefulness can matter more for sharing than factual accuracy.
 
-This does not mean people deliberately prefer falsehoods. Rather, online environments often reward content that provokes immediate reactions. Researchers studying false news diffusion found that human behaviour—not merely automated accounts—was central to the faster spread of false stories. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/28652356/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">shapes the diffusion of moralized content in social...by WJ Brady · 2017 · Cited by 1902 — We show that the expression of moral emotion...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://news.mit.edu/2018/study-twitter-false-news-travels-faster-true-stories-0308" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.mit.edu">[MIT News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.mit.edu</span><span class="citation-popover-title">study twitter false news travels faster true stories 0308</span><span class="citation-popover-snippet">MIT NewsStudy: On Twitter, false news travels faster than true storiesMar 8, 2018 — Researchers from the Media Lab and Sloan found that h...</span></span></span>
+This does not mean people deliberately prefer falsehoods. Rather, online environments often reward content that provokes immediate reactions. Researchers studying false news diffusion found that human behaviour—not merely automated accounts—was central to the faster spread of false stories.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/28652356/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">shapes the diffusion of moralized content in social...by WJ Brady · 2017 · Cited by 1902 — We show that the expression of moral emotion...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://news.mit.edu/2018/study-twitter-false-news-travels-faster-true-stories-0308" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.mit.edu">[MIT News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.mit.edu</span><span class="citation-popover-title">study twitter false news travels faster true stories 0308</span><span class="citation-popover-snippet">MIT NewsStudy: On Twitter, false news travels faster than true storiesMar 8, 2018 — Researchers from the Media Lab and Sloan found that h...</span></span></span>
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_slogans_vs_explanati_60c7b9_emotional_slogans_on_f6a1bf-Illustration-3-dark.svg" | relative_url }}" alt="Emotion illustration 3" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_slogans_vs_explanati_60c7b9_emotional_slogans_on_f6a1bf-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_slogans_vs_explanati_60c7b9_emotional_slogans_on_f6a1bf-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How accurate messages can use emotion ethically
@@ -359,197 +359,197 @@ There is also an ethical distinction between emotion and manipulation. Emotion b
 
 The central mechanism is straightforward: emotional slogans give people a reason to share. They capture attention through novelty, strengthen social identity through moral language, and provide an immediate psychological reward for passing the message along. Accurate explanations often contain more truth, but they must compete in an environment where attention is scarce and sharing decisions are made in seconds.
 
-As a result, myths that evoke anger, pride, fear, outrage, or belonging can spread rapidly even when their factual foundations are weak. Understanding that emotional advantage is essential for explaining why misconceptions flourish online—and why effective [corrections]({{ 'corrections/' | relative_url }}) need to be not only accurate, but also memorable and emotionally meaningful. nature.com 3PNAS <span class="citation-chip-wrap"><a class="citation-chip" href="https://csmapnyu.org/research/academic-research/emotion-shapes-the-diffusion-of-moralized-content-in-social-networks" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: csmapnyu.org">[3csmapnyu.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">csmapnyu.org</span><span class="citation-popover-title">emotion shapes the diffusion of moralized content in social networks</span><span class="citation-popover-snippet">Emotion Shapes the Diffusion of Moralized Content in...Jul 11, 2017 — We show that the expression of moral emotion is key for the spread...</span></span></span>
+As a result, myths that evoke anger, pride, fear, outrage, or belonging can spread rapidly even when their factual foundations are weak. Understanding that emotional advantage is essential for explaining why misconceptions flourish online—and why effective [corrections]({{ 'corrections/' | relative_url }}) need to be not only accurate, but also memorable and emotionally meaningful. nature.com 3PNAS<span class="citation-chip-wrap"><a class="citation-chip" href="https://csmapnyu.org/research/academic-research/emotion-shapes-the-diffusion-of-moralized-content-in-social-networks" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: csmapnyu.org">[3csmapnyu.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">csmapnyu.org</span><span class="citation-popover-title">emotion shapes the diffusion of moralized content in social networks</span><span class="citation-popover-snippet">Emotion Shapes the Diffusion of Moralized Content in...Jul 11, 2017 — We show that the expression of moral emotion is key for the spread...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why emotional myths travel faster. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why emotional myths travel faster. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YGPzXWanppcC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
-        </h4>
-        <p class="fr-book-author">By Daniel Kahneman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YGPzXWanppcC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
+</h4>
+<p class="fr-book-author">By Daniel Kahneman</p>
         
-        <p class="fr-book-desc">Provides foundational insight into intuitive versus reflective thinking.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides foundational insight into intuitive versus reflective thinking.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Righteous+Mind+Jonathan+Haidt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Righteous Mind on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/7256782-M.jpg" alt="Cover for The Righteous Mind" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Righteous+Mind+Jonathan+Haidt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Righteous Mind">The Righteous Mind</a>
-        </h4>
-        <p class="fr-book-author">By Jonathan Haidt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Righteous+Mind+Jonathan+Haidt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Righteous Mind on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/7256782-M.jpg" alt="Cover for The Righteous Mind" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Righteous+Mind+Jonathan+Haidt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Righteous Mind">The Righteous Mind</a>
+</h4>
+<p class="fr-book-author">By Jonathan Haidt</p>
         
-        <p class="fr-book-desc">First published 2012. Subjects: Political psychology, Social psychology, Ethics, Religious Psychology, nyt:combined-print-and-e-book-nonf...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Righteous+Mind+Jonathan+Haidt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2012. Subjects: Political psychology, Social psychology, Ethics, Religious Psychology, nyt:combined-print-and-e-book-nonf...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Righteous+Mind+Jonathan+Haidt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Foolproof+Sander+Van+Der+Linden&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Foolproof on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/13300557-M.jpg" alt="Cover for Foolproof" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Foolproof+Sander+Van+Der+Linden&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Foolproof">Foolproof</a>
-        </h4>
-        <p class="fr-book-author">By Sander Van Der Linden</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Foolproof+Sander+Van+Der+Linden&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Foolproof on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/13300557-M.jpg" alt="Cover for Foolproof" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Foolproof+Sander+Van+Der+Linden&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Foolproof">Foolproof</a>
+</h4>
+<p class="fr-book-author">By Sander Van Der Linden</p>
         
-        <p class="fr-book-desc">First published 2023.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Foolproof+Sander+Van+Der+Linden&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2023.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Foolproof+Sander+Van+Der+Linden&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Influence+by+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Influence on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Influence+by+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Influence">Influence</a>
-        </h4>
-        <p class="fr-book-author">By Robert B. Cialdini</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Influence+by+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Influence on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Influence+by+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Influence">Influence</a>
+</h4>
+<p class="fr-book-author">By Robert B. Cialdini</p>
         
-        <p class="fr-book-desc">Explains emotional triggers that motivate belief and sharing.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Influence+by+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains emotional triggers that motivate belief and sharing.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Influence+by+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Righteous+Mind&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Righteous Mind</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Foolproof&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Foolproof</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Righteous+Mind&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Righteous Mind</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Foolproof&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Foolproof</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=emotion-why-emotional-myths-travel-faster-myths-and-misconcept-psychology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="psychology wall art" data-ebay-reference="emotion-why-emotional-myths-travel-faster-myths-and-misconcept-psychology-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Psychology Framed Art Print Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/917838c5c8dbbd984648.jpg' | relative_url }}" alt="Listing image for Psychology Framed Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=emotion-why-emotional-myths-travel-faster-myths-and-misconcept-psychology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="psychology wall art" data-ebay-reference="emotion-why-emotional-myths-travel-faster-myths-and-misconcept-psychology-wall-art" target="_blank" rel="sponsored noopener noreferrer">Psychology Framed Art Print Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=emotion-why-emotional-myths-travel-faster-myths-and-misconcept-psychology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="psychology wall art" data-ebay-reference="emotion-why-emotional-myths-travel-faster-myths-and-misconcept-psychology-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for psychology wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: psychology wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=emotion-why-emotional-myths-travel-faster-myths-and-misconcept-psychology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="psychology wall art" data-ebay-reference="emotion-why-emotional-myths-travel-faster-myths-and-misconcept-psychology-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=emotion-why-emotional-myths-travel-faster-myths-and-misconcept-psychology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="psychology wall art" data-ebay-reference="emotion-why-emotional-myths-travel-faster-myths-and-misconcept-psychology-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Psychology Framed Art Print Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/917838c5c8dbbd984648.jpg' | relative_url }}" alt="Listing image for Psychology Framed Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=emotion-why-emotional-myths-travel-faster-myths-and-misconcept-psychology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="psychology wall art" data-ebay-reference="emotion-why-emotional-myths-travel-faster-myths-and-misconcept-psychology-wall-art" target="_blank" rel="sponsored noopener noreferrer">Psychology Framed Art Print Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=emotion-why-emotional-myths-travel-faster-myths-and-misconcept-psychology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="psychology wall art" data-ebay-reference="emotion-why-emotional-myths-travel-faster-myths-and-misconcept-psychology-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for psychology wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: psychology wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=emotion-why-emotional-myths-travel-faster-myths-and-misconcept-psychology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="psychology wall art" data-ebay-reference="emotion-why-emotional-myths-travel-faster-myths-and-misconcept-psychology-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=emotion-why-emotional-myths-travel-faster-myths-and-misconcept-psychology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="psychology wall art" data-ebay-reference="emotion-why-emotional-myths-travel-faster-myths-and-misconcept-psychology-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Dark Psychology Framed Art Print Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/fb4ac1d4e4c980c9dc1c.jpg' | relative_url }}" alt="Listing image for Dark Psychology Framed Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=emotion-why-emotional-myths-travel-faster-myths-and-misconcept-psychology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="psychology wall art" data-ebay-reference="emotion-why-emotional-myths-travel-faster-myths-and-misconcept-psychology-wall-art" target="_blank" rel="sponsored noopener noreferrer">Dark Psychology Framed Art Print Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=emotion-why-emotional-myths-travel-faster-myths-and-misconcept-psychology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="psychology wall art" data-ebay-reference="emotion-why-emotional-myths-travel-faster-myths-and-misconcept-psychology-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for psychology wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: psychology wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=emotion-why-emotional-myths-travel-faster-myths-and-misconcept-psychology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="psychology wall art" data-ebay-reference="emotion-why-emotional-myths-travel-faster-myths-and-misconcept-psychology-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=emotion-why-emotional-myths-travel-faster-myths-and-misconcept-psychology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="psychology wall art" data-ebay-reference="emotion-why-emotional-myths-travel-faster-myths-and-misconcept-psychology-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Dark Psychology Framed Art Print Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/fb4ac1d4e4c980c9dc1c.jpg' | relative_url }}" alt="Listing image for Dark Psychology Framed Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=emotion-why-emotional-myths-travel-faster-myths-and-misconcept-psychology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="psychology wall art" data-ebay-reference="emotion-why-emotional-myths-travel-faster-myths-and-misconcept-psychology-wall-art" target="_blank" rel="sponsored noopener noreferrer">Dark Psychology Framed Art Print Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=emotion-why-emotional-myths-travel-faster-myths-and-misconcept-psychology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="psychology wall art" data-ebay-reference="emotion-why-emotional-myths-travel-faster-myths-and-misconcept-psychology-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for psychology wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: psychology wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=emotion-why-emotional-myths-travel-faster-myths-and-misconcept-psychology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="psychology wall art" data-ebay-reference="emotion-why-emotional-myths-travel-faster-myths-and-misconcept-psychology-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=emotion-why-emotional-myths-travel-faster-myths-and-misconcept-psychology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="psychology wall art" data-ebay-reference="emotion-why-emotional-myths-travel-faster-myths-and-misconcept-psychology-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 3pcs Neurology &amp; Psychology Wall Art Canvas Unframed/Framed"><img src="{{ '/assets/images/marketplace-covers/c0faa0441e457a78b4cb.jpg' | relative_url }}" alt="Listing image for 3pcs Neurology &amp; Psychology Wall Art Canvas Unframed/Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=emotion-why-emotional-myths-travel-faster-myths-and-misconcept-psychology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="psychology wall art" data-ebay-reference="emotion-why-emotional-myths-travel-faster-myths-and-misconcept-psychology-wall-art" target="_blank" rel="sponsored noopener noreferrer">3pcs Neurology &amp; Psychology Wall Art Canvas Unframed/Framed</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=emotion-why-emotional-myths-travel-faster-myths-and-misconcept-psychology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="psychology wall art" data-ebay-reference="emotion-why-emotional-myths-travel-faster-myths-and-misconcept-psychology-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for psychology wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: psychology wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=emotion-why-emotional-myths-travel-faster-myths-and-misconcept-psychology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="psychology wall art" data-ebay-reference="emotion-why-emotional-myths-travel-faster-myths-and-misconcept-psychology-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=emotion-why-emotional-myths-travel-faster-myths-and-misconcept-psychology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="psychology wall art" data-ebay-reference="emotion-why-emotional-myths-travel-faster-myths-and-misconcept-psychology-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 3pcs Neurology &amp; Psychology Wall Art Canvas Unframed/Framed"><img src="{{ '/assets/images/marketplace-covers/c0faa0441e457a78b4cb.jpg' | relative_url }}" alt="Listing image for 3pcs Neurology &amp; Psychology Wall Art Canvas Unframed/Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=emotion-why-emotional-myths-travel-faster-myths-and-misconcept-psychology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="psychology wall art" data-ebay-reference="emotion-why-emotional-myths-travel-faster-myths-and-misconcept-psychology-wall-art" target="_blank" rel="sponsored noopener noreferrer">3pcs Neurology &amp; Psychology Wall Art Canvas Unframed/Framed</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=emotion-why-emotional-myths-travel-faster-myths-and-misconcept-psychology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="psychology wall art" data-ebay-reference="emotion-why-emotional-myths-travel-faster-myths-and-misconcept-psychology-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for psychology wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: psychology wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=emotion-why-emotional-myths-travel-faster-myths-and-misconcept-psychology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="psychology wall art" data-ebay-reference="emotion-why-emotional-myths-travel-faster-myths-and-misconcept-psychology-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=emotion-why-emotional-myths-travel-faster-myths-and-misconcept-psychology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="psychology wall art" data-ebay-reference="emotion-why-emotional-myths-travel-faster-myths-and-misconcept-psychology-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Parts Of Brain Psychology Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/9d55718535d3f8dac09e.jpg' | relative_url }}" alt="Listing image for Parts Of Brain Psychology Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=emotion-why-emotional-myths-travel-faster-myths-and-misconcept-psychology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="psychology wall art" data-ebay-reference="emotion-why-emotional-myths-travel-faster-myths-and-misconcept-psychology-wall-art" target="_blank" rel="sponsored noopener noreferrer">Parts Of Brain Psychology Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=emotion-why-emotional-myths-travel-faster-myths-and-misconcept-psychology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="psychology wall art" data-ebay-reference="emotion-why-emotional-myths-travel-faster-myths-and-misconcept-psychology-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for psychology wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: psychology wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=emotion-why-emotional-myths-travel-faster-myths-and-misconcept-psychology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="psychology wall art" data-ebay-reference="emotion-why-emotional-myths-travel-faster-myths-and-misconcept-psychology-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=emotion-why-emotional-myths-travel-faster-myths-and-misconcept-psychology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="psychology wall art" data-ebay-reference="emotion-why-emotional-myths-travel-faster-myths-and-misconcept-psychology-wall-art" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=emotion-why-emotional-myths-travel-faster-myths-and-misconcept-psychology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="psychology wall art" data-ebay-reference="emotion-why-emotional-myths-travel-faster-myths-and-misconcept-psychology-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Parts Of Brain Psychology Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/9d55718535d3f8dac09e.jpg' | relative_url }}" alt="Listing image for Parts Of Brain Psychology Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=emotion-why-emotional-myths-travel-faster-myths-and-misconcept-psychology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="psychology wall art" data-ebay-reference="emotion-why-emotional-myths-travel-faster-myths-and-misconcept-psychology-wall-art" target="_blank" rel="sponsored noopener noreferrer">Parts Of Brain Psychology Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=emotion-why-emotional-myths-travel-faster-myths-and-misconcept-psychology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="psychology wall art" data-ebay-reference="emotion-why-emotional-myths-travel-faster-myths-and-misconcept-psychology-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for psychology wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: psychology wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=emotion-why-emotional-myths-travel-faster-myths-and-misconcept-psychology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="psychology wall art" data-ebay-reference="emotion-why-emotional-myths-travel-faster-myths-and-misconcept-psychology-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=emotion-why-emotional-myths-travel-faster-myths-and-misconcept-psychology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="psychology wall art" data-ebay-reference="emotion-why-emotional-myths-travel-faster-myths-and-misconcept-psychology-wall-art" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -565,7 +565,7 @@ As a result, myths that evoke anger, pride, fear, outrage, or belonging can spre
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -585,7 +585,7 @@ As a result, myths that evoke anger, pride, fear, outrage, or belonging can spre
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -617,7 +617,7 @@ As a result, myths that evoke anger, pride, fear, outrage, or belonging can spre
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -669,7 +669,7 @@ As a result, myths that evoke anger, pride, fear, outrage, or belonging can spre
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -714,7 +714,7 @@ As a result, myths that evoke anger, pride, fear, outrage, or belonging can spre
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -755,146 +755,146 @@ As a result, myths that evoke anger, pride, fear, outrage, or belonging can spre
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: pnas.org  
-   Link: <a href="https://www.pnas.org/doi/10.1073/pnas.1618923114" target="_blank" rel="noopener noreferrer nofollow">https://www.pnas.org/doi/10.1073/pnas.1618923114</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Emotion shapes the diffusion of moralized content in social...by WJ Brady · 2017 · Cited by 1902 — JM Salerno, LC Peter-Hagene, The...</p></details>
+   Link:<a href="https://www.pnas.org/doi/10.1073/pnas.1618923114" target="_blank" rel="noopener noreferrer nofollow">https://www.pnas.org/doi/10.1073/pnas.1618923114</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Emotion shapes the diffusion of moralized content in social...by WJ Brady · 2017 · Cited by 1902 — JM Salerno, LC Peter-Hagene, The...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: news.mit.edu  
    Title: study twitter false news travels faster true stories 0308  
-   Link: <a href="https://news.mit.edu/2018/study-twitter-false-news-travels-faster-true-stories-0308" target="_blank" rel="noopener noreferrer nofollow">https://news.mit.edu/2018/study-twitter-false-news-travels-faster-true-stories-0308</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>MIT NewsStudy: On Twitter, false news travels faster than true storiesMar 8, 2018 — Researchers from the Media Lab and Sloan found that h...</p></details>
+   Link:<a href="https://news.mit.edu/2018/study-twitter-false-news-travels-faster-true-stories-0308" target="_blank" rel="noopener noreferrer nofollow">https://news.mit.edu/2018/study-twitter-false-news-travels-faster-true-stories-0308</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>MIT NewsStudy: On Twitter, false news travels faster than true storiesMar 8, 2018 — Researchers from the Media Lab and Sloan found that h...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: mitsloan.mit.edu  
    Title: study false news spreads faster truth  
-   Link: <a href="https://mitsloan.mit.edu/ideas-made-to-matter/study-false-news-spreads-faster-truth" target="_blank" rel="noopener noreferrer nofollow">https://mitsloan.mit.edu/ideas-made-to-matter/study-false-news-spreads-faster-truth</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>MIT SloanStudy: False news spreads faster than the truthMar 8, 2018 — It uses the term “false news” instead of “[fake news](&amp;#123;&amp;#123; &#x27;fake-news/&#x27; | relative_url &amp;#125;&amp;#125;)” because the la...</p></details>
+   Link:<a href="https://mitsloan.mit.edu/ideas-made-to-matter/study-false-news-spreads-faster-truth" target="_blank" rel="noopener noreferrer nofollow">https://mitsloan.mit.edu/ideas-made-to-matter/study-false-news-spreads-faster-truth</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>MIT SloanStudy: False news spreads faster than the truthMar 8, 2018 — It uses the term “false news” instead of “[fake news](&amp;#123;&amp;#123; &#x27;fake-news/&#x27; | relative_url &amp;#125;&amp;#125;)” because the la...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: arxiv.org  
    Title: arXiv Emotions in Online Content Diffusion  
-   Link: <a href="https://arxiv.org/abs/2011.09003" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2011.09003</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Emotions in Online Content DiffusionNovember 17, 2020...</p></details>
+   Link:<a href="https://arxiv.org/abs/2011.09003" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2011.09003</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Emotions in Online Content DiffusionNovember 17, 2020...</p></details>
    Published: November 17, 2020  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: csmapnyu.org  
    Title: emotion shapes the diffusion of moralized content in social networks  
-   Link: <a href="https://csmapnyu.org/research/academic-research/emotion-shapes-the-diffusion-of-moralized-content-in-social-networks" target="_blank" rel="noopener noreferrer nofollow">https://csmapnyu.org/research/academic-research/emotion-shapes-the-diffusion-of-moralized-content-in-social-networks</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Emotion Shapes the Diffusion of Moralized Content in...Jul 11, 2017 — We show that the expression of moral emotion is key for the spread...</p></details>
+   Link:<a href="https://csmapnyu.org/research/academic-research/emotion-shapes-the-diffusion-of-moralized-content-in-social-networks" target="_blank" rel="noopener noreferrer nofollow">https://csmapnyu.org/research/academic-research/emotion-shapes-the-diffusion-of-moralized-content-in-social-networks</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Emotion Shapes the Diffusion of Moralized Content in...Jul 11, 2017 — We show that the expression of moral emotion is key for the spread...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: pnas.org  
-   Link: <a href="https://www.pnas.org/doi/10.1073/pnas.2024292118" target="_blank" rel="noopener noreferrer nofollow">https://www.pnas.org/doi/10.1073/pnas.2024292118</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Out-group animosity drives engagement on social mediaby S Rathje · 2021 · Cited by 873 — This research is consistent with prior resea...</p></details>
+   Link:<a href="https://www.pnas.org/doi/10.1073/pnas.2024292118" target="_blank" rel="noopener noreferrer nofollow">https://www.pnas.org/doi/10.1073/pnas.2024292118</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Out-group animosity drives engagement on social mediaby S Rathje · 2021 · Cited by 873 — This research is consistent with prior resea...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: nature.com  
-   Link: <a href="https://www.nature.com/nature-index/topics/l4/moral-outrage-dynamics-in-social-media" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/nature-index/topics/l4/moral-outrage-dynamics-in-social-media</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Moral Outrage Dynamics in Social MediaMoral outrage on social media arises when users perceive violations of ethical norms and respond wi...</p></details>
+   Link:<a href="https://www.nature.com/nature-index/topics/l4/moral-outrage-dynamics-in-social-media" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/nature-index/topics/l4/moral-outrage-dynamics-in-social-media</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Moral Outrage Dynamics in Social MediaMoral outrage on social media arises when users perceive violations of ethical norms and respond wi...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: pnas.org  
-   Link: <a href="https://www.pnas.org/doi/abs/10.1073/pnas.1618923114?utm=" target="_blank" rel="noopener noreferrer nofollow">https://www.pnas.org/doi/abs/10.1073/pnas.1618923114?utm=</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Emotion shapes the diffusion of moralized content in social...by WJ Brady · 2017 · Cited by 1779 — JM Salerno, LC Peter-Hagene, The inte...</p></details>
+   Link:<a href="https://www.pnas.org/doi/abs/10.1073/pnas.1618923114?utm=" target="_blank" rel="noopener noreferrer nofollow">https://www.pnas.org/doi/abs/10.1073/pnas.1618923114?utm=</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Emotion shapes the diffusion of moralized content in social...by WJ Brady · 2017 · Cited by 1779 — JM Salerno, LC Peter-Hagene, The inte...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: nature.com  
-   Link: <a href="https://www.nature.com/articles/d41586-018-02934-x" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/d41586-018-02934-x</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;News&#x27; spreads faster and more widely when it&#x27;s falseMar 8, 2018 — A study of information sharing on Twitter shows people more... How Fa...</p></details>
+   Link:<a href="https://www.nature.com/articles/d41586-018-02934-x" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/d41586-018-02934-x</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;News&#x27; spreads faster and more widely when it&#x27;s falseMar 8, 2018 — A study of information sharing on Twitter shows people more... How Fa...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/28652356/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/28652356/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>shapes the diffusion of moralized content in social...by WJ Brady · 2017 · Cited by 1902 — We show that the expression of moral emotion...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/28652356/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/28652356/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>shapes the diffusion of moralized content in social...by WJ Brady · 2017 · Cited by 1902 — We show that the expression of moral emotion...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/29590045/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/29590045/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The spread of true and false news onlineby S Vosoughi · 2018 · Cited by 13949 — Falsehood diffused significantly farther, faster, d...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/29590045/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/29590045/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The spread of true and false news onlineby S Vosoughi · 2018 · Cited by 13949 — Falsehood diffused significantly farther, faster, d...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: merriam-webster.com  
-   Link: <a href="https://www.merriam-webster.com/dictionary/why" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/why</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Definition &amp; Meaning4 Apr 2026 — 1. The cause, reason, or purpose for which know why you did it that is why you did it 2. For which: on...</p></details>
+   Link:<a href="https://www.merriam-webster.com/dictionary/why" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/why</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Definition &amp; Meaning4 Apr 2026 — 1. The cause, reason, or purpose for which know why you did it that is why you did it 2. For which: on...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: dictionary.cambridge.org  
-   Link: <a href="https://dictionary.cambridge.org/dictionary/english/false" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/dictionary/english/false</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>English meaning - Cambridge DictionaryFALSE definition: 1. not real, but made to look or seem real: 2. not true, but made to seem true...</p></details>
+   Link:<a href="https://dictionary.cambridge.org/dictionary/english/false" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/dictionary/english/false</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>English meaning - Cambridge DictionaryFALSE definition: 1. not real, but made to look or seem real: 2. not true, but made to seem true...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: dictionary.cambridge.org  
-   Link: <a href="https://dictionary.cambridge.org/us/dictionary/english/moral" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/us/dictionary/english/moral</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>definition in the Cambridge English Dictionaryrelating to the standards of good or bad behavior, fairness, honesty, etc. that each pers...</p></details>
+   Link:<a href="https://dictionary.cambridge.org/us/dictionary/english/moral" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/us/dictionary/english/moral</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>definition in the Cambridge English Dictionaryrelating to the standards of good or bad behavior, fairness, honesty, etc. that each pers...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: dictionary.cambridge.org  
-   Link: <a href="https://dictionary.cambridge.org/dictionary/english/why" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/dictionary/english/why</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>English meaning - Cambridge DictionaryWHY definition: 1. for what reason: 2. used to express surprise or anger: 3. the reasons for some...</p></details>
+   Link:<a href="https://dictionary.cambridge.org/dictionary/english/why" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/dictionary/english/why</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>English meaning - Cambridge DictionaryWHY definition: 1. for what reason: 2. used to express surprise or anger: 3. the reasons for some...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Why" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Why</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Why - WikipediaWhy may refer to: Causality, a consequential relationship between two or more events; Reason (argument), a premise in s...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Why" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Why</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Why - WikipediaWhy may refer to: Causality, a consequential relationship between two or more events; Reason (argument), a premise in s...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: vocabulary.com  
-   Link: <a href="https://www.vocabulary.com/dictionary/why" target="_blank" rel="noopener noreferrer nofollow">https://www.vocabulary.com/dictionary/why</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Definition, Meaning &amp; Synonymsnoun the cause or intention underlying an action or situation, especially in the phrase `the whys and where...</p></details>
+   Link:<a href="https://www.vocabulary.com/dictionary/why" target="_blank" rel="noopener noreferrer nofollow">https://www.vocabulary.com/dictionary/why</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Definition, Meaning &amp; Synonymsnoun the cause or intention underlying an action or situation, especially in the phrase `the whys and where...</p></details>
 
 ### Additional References
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: wired.com  
-   Link: <a href="https://www.wired.com/story/twitter-false-news-elections-scientific-study" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/twitter-false-news-elections-scientific-study</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The research, conducted by Sinan Aral and his colleagues at MIT, found that false news spreads more rapidly, broadly, and extensively tha...</p></details>
+   Link:<a href="https://www.wired.com/story/twitter-false-news-elections-scientific-study" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/twitter-false-news-elections-scientific-study</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The research, conducted by Sinan Aral and his colleagues at MIT, found that false news spreads more rapidly, broadly, and extensively tha...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: merriam-webster.com  
-   Link: <a href="https://www.merriam-webster.com/dictionary/moral" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/moral</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>MORAL Definition &amp; Meaningmoral, ethical, virtuous, righteous, noble mean conforming to a standard of what is right and good. moral impli...</p></details>
+   Link:<a href="https://www.merriam-webster.com/dictionary/moral" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/moral</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>MORAL Definition &amp; Meaningmoral, ethical, virtuous, righteous, noble mean conforming to a standard of what is right and good. moral impli...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/AcademicPsychology/comments/o9zkq2/outgroup_animosity_drives_engagement_on_social/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/AcademicPsychology/comments/o9zkq2/outgroup_animosity_drives_engagement_on_social/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Out-group animosity drives engagement on social mediaLanguage about the out-group was a very strong predictor of “angry” reactions (the m...</p></details>
+   Link:<a href="https://www.reddit.com/r/AcademicPsychology/comments/o9zkq2/outgroup_animosity_drives_engagement_on_social/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/AcademicPsychology/comments/o9zkq2/outgroup_animosity_drives_engagement_on_social/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Out-group animosity drives engagement on social mediaLanguage about the out-group was a very strong predictor of “angry” reactions (the m...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: collinsdictionary.com  
-   Link: <a href="https://www.collinsdictionary.com/dictionary/english/why" target="_blank" rel="noopener noreferrer nofollow">https://www.collinsdictionary.com/dictionary/english/why</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>WHY definition and meaning | Collins English Dictionary4 meanings: 1. a. for what reason, purpose, or cause? b. (used in indirect questio...</p></details>
+   Link:<a href="https://www.collinsdictionary.com/dictionary/english/why" target="_blank" rel="noopener noreferrer nofollow">https://www.collinsdictionary.com/dictionary/english/why</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>WHY definition and meaning | Collins English Dictionary4 meanings: 1. a. for what reason, purpose, or cause? b. (used in indirect questio...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/posts/jon-roozenbeek-33a5365a_new-paper-now-out-in-pnas-we-know-that-activity-7366921841866612736-Mvf9" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/jon-roozenbeek-33a5365a_new-paper-now-out-in-pnas-we-know-that-activity-7366921841866612736-Mvf9</a>  
+   Link:<a href="https://www.linkedin.com/posts/jon-roozenbeek-33a5365a_new-paper-now-out-in-pnas-we-know-that-activity-7366921841866612736-Mvf9" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/jon-roozenbeek-33a5365a_new-paper-now-out-in-pnas-we-know-that-activity-7366921841866612736-Mvf9</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: cottonwoodpsychology.com  
-   Link: <a href="https://cottonwoodpsychology.com/news/why-outrage-about-political-opponents-spreads-so-fast-on-social-media-according-to-a-pnas-study/" target="_blank" rel="noopener noreferrer nofollow">https://cottonwoodpsychology.com/news/why-outrage-about-political-opponents-spreads-so-fast-on-social-media-according-to-a-pnas-study/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Posts that trigger anger or moral judgment can pull us in. When someone feels a rush of outrage, a share can feel like...Read more...</p></details>
+   Link:<a href="https://cottonwoodpsychology.com/news/why-outrage-about-political-opponents-spreads-so-fast-on-social-media-according-to-a-pnas-study/" target="_blank" rel="noopener noreferrer nofollow">https://cottonwoodpsychology.com/news/why-outrage-about-political-opponents-spreads-so-fast-on-social-media-according-to-a-pnas-study/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Posts that trigger anger or moral judgment can pull us in. When someone feels a rush of outrage, a share can feel like...Read more...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: retractionwatch.com  
-   Link: <a href="https://retractionwatch.com/2014/07/03/rapid-mood-swing-pnas-issues-expression-of-concern-for-controversial-facebook-study/" target="_blank" rel="noopener noreferrer nofollow">https://retractionwatch.com/2014/07/03/rapid-mood-swing-pnas-issues-expression-of-concern-for-controversial-facebook-study/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>outrage, in the context of free market profit, is much higher than the threshold for outrage in the context of improving society. And may...</p></details>
+   Link:<a href="https://retractionwatch.com/2014/07/03/rapid-mood-swing-pnas-issues-expression-of-concern-for-controversial-facebook-study/" target="_blank" rel="noopener noreferrer nofollow">https://retractionwatch.com/2014/07/03/rapid-mood-swing-pnas-issues-expression-of-concern-for-controversial-facebook-study/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>outrage, in the context of free market profit, is much higher than the threshold for outrage in the context of improving society. And may...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCOut-group animosity drives engagement on social media  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8256037/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8256037/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>nih.govOut-group animosity drives engagement on social media - PMCby S Rathje · 2021 · Cited by 909 — We report evidence that posts about...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8256037/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8256037/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>nih.govOut-group animosity drives engagement on social media - PMCby S Rathje · 2021 · Cited by 909 — We report evidence that posts about...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: collaborate.princeton.edu  
    Title: emotion shapes the diffusion of moralized content in social netwo  
-   Link: <a href="https://collaborate.princeton.edu/en/publications/emotion-shapes-the-diffusion-of-moralized-content-in-social-netwo/" target="_blank" rel="noopener noreferrer nofollow">https://collaborate.princeton.edu/en/publications/emotion-shapes-the-diffusion-of-moralized-content-in-social-netwo/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>shapes the diffusion of moralized content in social...by WJ Brady · 2017 · Cited by 2043 — Furthermore, we found that moral contagion wa...</p></details>
+   Link:<a href="https://collaborate.princeton.edu/en/publications/emotion-shapes-the-diffusion-of-moralized-content-in-social-netwo/" target="_blank" rel="noopener noreferrer nofollow">https://collaborate.princeton.edu/en/publications/emotion-shapes-the-diffusion-of-moralized-content-in-social-netwo/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>shapes the diffusion of moralized content in social...by WJ Brady · 2017 · Cited by 2043 — Furthermore, we found that moral contagion wa...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: pbs.org  
    Title: false news travels 6 times faster on twitter than truthful news  
-   Link: <a href="https://www.pbs.org/newshour/science/false-news-travels-6-times-faster-on-twitter-than-truthful-news" target="_blank" rel="noopener noreferrer nofollow">https://www.pbs.org/newshour/science/false-news-travels-6-times-faster-on-twitter-than-truthful-news</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Mar 9, 2018 — False news -- inaccurate information presented as truth or opinion presented as fact -- is 70 percent more likely to be ret...</p></details>
+   Link:<a href="https://www.pbs.org/newshour/science/false-news-travels-6-times-faster-on-twitter-than-truthful-news" target="_blank" rel="noopener noreferrer nofollow">https://www.pbs.org/newshour/science/false-news-travels-6-times-faster-on-twitter-than-truthful-news</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Mar 9, 2018 — False news -- inaccurate information presented as truth or opinion presented as fact -- is 70 percent more likely to be ret...</p></details>

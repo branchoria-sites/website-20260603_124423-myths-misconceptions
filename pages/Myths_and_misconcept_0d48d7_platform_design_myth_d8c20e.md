@@ -508,21 +508,21 @@ The strongest evidence supports a mixed approach. Friction can reduce impulsive 
 
 ## Why design matters more than individual good sense
 
-A common misconception about misinformation is that false beliefs spread mainly because users are careless or gullible. Individual judgement matters, but platform architecture sets the conditions under which judgement is used. A post that is emotionally vivid, already popular and effortless to share has a structural advantage over a slower, more careful explanation. Research on misinformation belief has repeatedly found that people do not evaluate every claim as detached fact-checkers; attention, [identity]({{ 'identity/' | relative_url }}), familiarity, [emotion]({{ 'emotion/' | relative_url }}) and social cues all shape whether claims feel credible. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s44159-021-00006-y" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">The psychological drivers of misinformation belief and its...by UKH Ecker · 2022 · Cited by 1919 — In this Review, we describe the...</span></span></span>
+A common misconception about misinformation is that false beliefs spread mainly because users are careless or gullible. Individual judgement matters, but platform architecture sets the conditions under which judgement is used. A post that is emotionally vivid, already popular and effortless to share has a structural advantage over a slower, more careful explanation. Research on misinformation belief has repeatedly found that people do not evaluate every claim as detached fact-checkers; attention, [identity]({{ 'identity/' | relative_url }}), familiarity, [emotion]({{ 'emotion/' | relative_url }}) and social cues all shape whether claims feel credible.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s44159-021-00006-y" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">The psychological drivers of misinformation belief and its...by UKH Ecker · 2022 · Cited by 1919 — In this Review, we describe the...</span></span></span>
 
 That makes design choices important because they intervene before a myth has finished travelling. A [correction]({{ 'correction/' | relative_url }}) published days later may help, but the design question is earlier: what happens at the moment of exposure, ranking, recommendation, reposting or monetisation? A platform can make the quickest action “share now”, or it can insert a question, show provenance, reduce algorithmic spread, route the user to authoritative context, or avoid rewarding the same behaviour with visibility.
 
-This is why platform governance increasingly treats misinformation as a systems problem rather than only a content problem. The EU’s Digital Services Act, for example, focuses not just on individual illegal posts but on platform duties around systemic risks, recommender transparency, advertising transparency and accountability for very large online [platforms]({{ 'platforms/' | relative_url }}). <span class="citation-chip-wrap"><a class="citation-chip" href="https://digital-strategy.ec.europa.eu/en/policies/digital-services-act" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: digital-strategy.ec.europa.eu">[Digital Strategy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">digital-strategy.ec.europa.eu</span><span class="citation-popover-snippet">Digital StrategyThe Digital Services Act &#124; Shaping Europe&#x27;s digital futureThe Digital Services Act helps to make the online environment s...</span></span></span>
+This is why platform governance increasingly treats misinformation as a systems problem rather than only a content problem. The EU’s Digital Services Act, for example, focuses not just on individual illegal posts but on platform duties around systemic risks, recommender transparency, advertising transparency and accountability for very large online [platforms]({{ 'platforms/' | relative_url }}).<span class="citation-chip-wrap"><a class="citation-chip" href="https://digital-strategy.ec.europa.eu/en/policies/digital-services-act" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: digital-strategy.ec.europa.eu">[Digital Strategy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">digital-strategy.ec.europa.eu</span><span class="citation-popover-snippet">Digital StrategyThe Digital Services Act &#124; Shaping Europe&#x27;s digital futureThe Digital Services Act helps to make the online environment s...</span></span></span>
 
 ## Friction before sharing: small delays can change what travels
 
 Friction means adding a small obstacle before an action: a prompt, a confirmation click, a read-before-sharing nudge, or a request to think about accuracy. In consumer technology, friction was long treated as something to remove. For misinformation control, the same ease can become a problem, because myths benefit from speed.
 
-One of the best-known examples is Twitter’s “read before you retweet” prompt, tested in 2020 for users trying to repost an article they had not opened. Twitter reported that users opened articles 40% more often after seeing the prompt, and opened articles before retweeting 33% more often. The intervention did not ban speech or decide whether an article was true; it slowed a specific behaviour at a high-risk moment. <span class="citation-chip-wrap"><a class="citation-chip" href="https://techcrunch.com/2020/09/24/twitter-read-before-retweet/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: techcrunch.com">[TechCrunch]</a><span class="citation-popover" role="note"><span class="citation-popover-source">techcrunch.com</span><span class="citation-popover-title">Tech Crunch Twitter plans to bring prompts to &#x27;read before you retweet</span><span class="citation-popover-snippet">Tech Crunch Twitter plans to bring prompts to &#x27;read before you retweet</span></span></span>
+One of the best-known examples is Twitter’s “read before you retweet” prompt, tested in 2020 for users trying to repost an article they had not opened. Twitter reported that users opened articles 40% more often after seeing the prompt, and opened articles before retweeting 33% more often. The intervention did not ban speech or decide whether an article was true; it slowed a specific behaviour at a high-risk moment.<span class="citation-chip-wrap"><a class="citation-chip" href="https://techcrunch.com/2020/09/24/twitter-read-before-retweet/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: techcrunch.com">[TechCrunch]</a><span class="citation-popover" role="note"><span class="citation-popover-source">techcrunch.com</span><span class="citation-popover-title">Tech Crunch Twitter plans to bring prompts to &#x27;read before you retweet</span><span class="citation-popover-snippet">Tech Crunch Twitter plans to bring prompts to &#x27;read before you retweet</span></span></span>
 
-[Accuracy prompts]({{ 'accuracy-prompts/' | relative_url }}) work on a related principle. Instead of telling users what to believe, they redirect attention towards whether a claim is accurate. A Nature study by Gordon Pennycook and colleagues found that subtly shifting attention to accuracy increased the quality of news people subsequently shared, including in a field experiment on Twitter. The mechanism is important: many users do care about accuracy, but social media often pulls attention towards humour, identity, outrage or social approval instead. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41586-021-03344-2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Open source on nature.com.</span></span></span>
+[Accuracy prompts]({{ 'accuracy-prompts/' | relative_url }}) work on a related principle. Instead of telling users what to believe, they redirect attention towards whether a claim is accurate. A Nature study by Gordon Pennycook and colleagues found that subtly shifting attention to accuracy increased the quality of news people subsequently shared, including in a field experiment on Twitter. The mechanism is important: many users do care about accuracy, but social media often pulls attention towards humour, identity, outrage or social approval instead.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41586-021-03344-2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Open source on nature.com.</span></span></span>
 
-Friction is not automatically good. It can annoy users, burden legitimate speech, or be interpreted as platform manipulation if applied unevenly. A useful design distinction is between targeted protective friction and blanket obstruction. A prompt before resharing a viral claim about an election, public health emergency or crisis is easier to justify than slowing every ordinary post. Recent research reviews describe friction as promising when it is overt, protective and linked to information quality, but still dependent on careful testing and context. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11212665/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Friction is not automatically good. It can annoy users, burden legitimate speech, or be interpreted as platform manipulation if applied unevenly. A useful design distinction is between targeted protective friction and blanket obstruction. A prompt before resharing a viral claim about an election, public health emergency or crisis is easier to justify than slowing every ordinary post. Recent research reviews describe friction as promising when it is overt, protective and linked to information quality, but still dependent on careful testing and context.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11212665/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 The practical lesson is that good friction is not a punishment. It is a speed bump placed where myths gain momentum: before forwarding, reposting, joining a viral pile-on, or sharing material the user has not read.
 
@@ -531,23 +531,23 @@ The practical lesson is that good friction is not a punishment. It is a speed bu
 
 Labels are among the most visible platform interventions. They can say a post is false, missing context, disputed, AI-generated, state-affiliated, manipulated, or linked to a fact-check. Their appeal is obvious: they preserve access to the content while adding a corrective signal. They are also politically and psychologically delicate because the label itself becomes part of the message.
 
-Evidence broadly suggests that [warning labels]({{ 'warning-labels/' | relative_url }}) can reduce perceived credibility and sharing intentions, especially when labels are clear, specific and close to the misleading content. A 2024 randomised controlled study using a mock social media environment tested misinformation warning labels and found that such soft moderation can inform users about post accuracy and reduce willingness to share. <span class="citation-chip-wrap"><a class="citation-chip" href="https://rshare.library.torontomu.ca/articles/conference_contribution/To_Share_or_Not_to_Share_Randomized_Controlled_Study_of_Misinformation_Warning_Labels_on_Social_Media/29950115" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rshare.library.torontomu.ca">[TMU Research Repository]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rshare.library.torontomu.ca</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Evidence broadly suggests that [warning labels]({{ 'warning-labels/' | relative_url }}) can reduce perceived credibility and sharing intentions, especially when labels are clear, specific and close to the misleading content. A 2024 randomised controlled study using a mock social media environment tested misinformation warning labels and found that such soft moderation can inform users about post accuracy and reduce willingness to share.<span class="citation-chip-wrap"><a class="citation-chip" href="https://rshare.library.torontomu.ca/articles/conference_contribution/To_Share_or_Not_to_Share_Randomized_Controlled_Study_of_Misinformation_Warning_Labels_on_Social_Media/29950115" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rshare.library.torontomu.ca">[TMU Research Repository]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rshare.library.torontomu.ca</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-However, labels are not magic stickers. They can fail when they are vague, late, distrusted or interpreted as an attack on a community. A study reported in Harvard Kennedy School’s Misinformation Review and covered by The Guardian found that “disputed” labels on Donald Trump’s false election tweets did not persuade his supporters and, among some Trump voters, could reinforce belief in the false claims. The authors noted that the timing and distrust of Twitter during the 2020 election context may have mattered. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/technology/2024/sep/20/trump-tweets-false-label-credibility-supporters" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+However, labels are not magic stickers. They can fail when they are vague, late, distrusted or interpreted as an attack on a community. A study reported in Harvard Kennedy School’s Misinformation Review and covered by The Guardian found that “disputed” labels on Donald Trump’s false election tweets did not persuade his supporters and, among some Trump voters, could reinforce belief in the false claims. The authors noted that the timing and distrust of Twitter during the 2020 election context may have mattered.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/technology/2024/sep/20/trump-tweets-false-label-credibility-supporters" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-This points to a central design choice: labels should add usable context, not merely signal institutional disapproval. Better labels usually answer questions a reader actually has: What is wrong? Who checked it? What evidence is missing? Is the issue false content, manipulated media, satire, old footage, or a misleading framing? Partnership on AI’s principles for labelling manipulated media emphasise that labels should be understandable, proportionate, tested with users and adapted to different media contexts. <span class="citation-chip-wrap"><a class="citation-chip" href="https://partnershiponai.org/it-matters-how-platforms-label-manipulated-media-here-are-12-principles-designers-should-follow/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: partnershiponai.org">[Partnership on AI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">partnershiponai.org</span><span class="citation-popover-title">Partnership on AIIt matters how platforms label manipulated media. Here are</span><span class="citation-popover-snippet">Partnership on AIIt matters how platforms label manipulated media. Here are</span></span></span>
+This points to a central design choice: labels should add usable context, not merely signal institutional disapproval. Better labels usually answer questions a reader actually has: What is wrong? Who checked it? What evidence is missing? Is the issue false content, manipulated media, satire, old footage, or a misleading framing? Partnership on AI’s principles for labelling manipulated media emphasise that labels should be understandable, proportionate, tested with users and adapted to different media contexts.<span class="citation-chip-wrap"><a class="citation-chip" href="https://partnershiponai.org/it-matters-how-platforms-label-manipulated-media-here-are-12-principles-designers-should-follow/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: partnershiponai.org">[Partnership on AI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">partnershiponai.org</span><span class="citation-popover-title">Partnership on AIIt matters how platforms label manipulated media. Here are</span><span class="citation-popover-snippet">Partnership on AIIt matters how platforms label manipulated media. Here are</span></span></span>
 
-Context labels can also work when they disclose source relationships rather than adjudicating every claim. Research on state-media labels found that warnings about state control can mitigate the influence of election misinformation from outlets such as RT. That kind of label does not say “everything here is false”; it gives readers relevant provenance information they might not otherwise have. <span class="citation-chip-wrap"><a class="citation-chip" href="https://misinforeview.hks.harvard.edu/article/state-media-warning-labels-can-counteract-the-effects-of-foreign-misinformation/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: misinforeview.hks.harvard.edu">[Misinformation Review]</a><span class="citation-popover" role="note"><span class="citation-popover-source">misinforeview.hks.harvard.edu</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Context labels can also work when they disclose source relationships rather than adjudicating every claim. Research on state-media labels found that warnings about state control can mitigate the influence of election misinformation from outlets such as RT. That kind of label does not say “everything here is false”; it gives readers relevant provenance information they might not otherwise have.<span class="citation-chip-wrap"><a class="citation-chip" href="https://misinforeview.hks.harvard.edu/article/state-media-warning-labels-can-counteract-the-effects-of-foreign-misinformation/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: misinforeview.hks.harvard.edu">[Misinformation Review]</a><span class="citation-popover" role="note"><span class="citation-popover-source">misinforeview.hks.harvard.edu</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 The hardest label problem is coverage. A label shown after a myth has already reached millions of people may reduce further spread but cannot undo all exposure. A label system that catches only the most viral falsehoods may still be valuable, but it should not be mistaken for a complete misinformation strategy.
 
 ## Community notes: useful context, uneven coverage
 
-Community-based fact-checking systems, such as X’s [Community Notes]({{ 'community-notes/' | relative_url }}), try to solve a trust problem by replacing top-down platform judgement with notes written and rated by users. X describes Community Notes as a system that lets contributors collaboratively add helpful context to posts that might be misleading. Notes are displayed only after ratings from contributors with differing viewpoints meet the system’s helpfulness threshold. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nature.com/articles/s41467-026-72597-0" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[X (formerly Twitter]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Community-based fact-checking systems, such as X’s [Community Notes]({{ 'community-notes/' | relative_url }}), try to solve a trust problem by replacing top-down platform judgement with notes written and rated by users. X describes Community Notes as a system that lets contributors collaboratively add helpful context to posts that might be misleading. Notes are displayed only after ratings from contributors with differing viewpoints meet the system’s helpfulness threshold.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nature.com/articles/s41467-026-72597-0" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[X (formerly Twitter]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-The strongest case for community notes is that peer-supplied context may feel less like institutional censorship and more like a public correction. Studies have found that community-based fact-checking can increase trust in fact-checking compared with simple misinformation flags, and recent large-scale research on X found evidence that displayed notes reduced the spread of misleading posts. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11212665/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The strongest case for community notes is that peer-supplied context may feel less like institutional censorship and more like a public correction. Studies have found that community-based fact-checking can increase trust in fact-checking compared with simple misinformation flags, and recent large-scale research on X found evidence that displayed notes reduced the spread of misleading posts.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11212665/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-The weakness is speed and coverage. Community notes often require enough contributors, ratings and cross-viewpoint agreement before a note appears. In fast-moving myths — a crisis, election rumour, war image, public health scare or celebrity hoax — the false claim may travel before consensus catches up. Reporting on a Center for Countering Digital Hate analysis of US election misinformation found that many misleading posts in its sample lacked visible Community Notes, and that original misleading posts had far more views than their corrections. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reuters.com/world/us/musks-x-ineffective-against-surge-us-election-misinformation-report-says-2024-10-31/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">Musk&#x27;s X ineffective against surge of US election misinformation, report says</span><span class="citation-popover-snippet">Musk&#x27;s X ineffective against surge of US election misinformation, report says</span></span></span>
+The weakness is speed and coverage. Community notes often require enough contributors, ratings and cross-viewpoint agreement before a note appears. In fast-moving myths — a crisis, election rumour, war image, public health scare or celebrity hoax — the false claim may travel before consensus catches up. Reporting on a Center for Countering Digital Hate analysis of US election misinformation found that many misleading posts in its sample lacked visible Community Notes, and that original misleading posts had far more views than their corrections.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reuters.com/world/us/musks-x-ineffective-against-surge-us-election-misinformation-report-says-2024-10-31/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">Musk&#x27;s X ineffective against surge of US election misinformation, report says</span><span class="citation-popover-snippet">Musk&#x27;s X ineffective against surge of US election misinformation, report says</span></span></span>
 
 This does not mean community notes are useless. It means they are better understood as one layer in a design stack, not a replacement for all professional fact-checking, ranking changes, crisis response and enforcement. They can be particularly useful for adding context to ambiguous or misleading claims, but they struggle when myths move faster than the note approval process.
 
@@ -556,11 +556,11 @@ This does not mean community notes are useless. It means they are better underst
 
 The most important design choice may be the one users rarely see: what the recommendation system rewards. If a platform ranks content mainly by predicted engagement — clicks, comments, shares, watch time or reactions — it may give a boost to claims that provoke anger, fear, surprise or identity defence. Myths and misconceptions are often designed, accidentally or deliberately, to be engaging.
 
-A UK parliamentary report on social media, misinformation and harmful algorithms warned that engagement-maximising design can amplify false or harmful content regardless of accuracy, because harmful and false material is often built to attract attention. <span class="citation-chip-wrap"><a class="citation-chip" href="https://publications.parliament.uk/pa/cm5901/cmselect/cmsctech/441/report.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: publications.parliament.uk">[UK Parliament]</a><span class="citation-popover" role="note"><span class="citation-popover-source">publications.parliament.uk</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> Academic work on engagement-based ranking has also described a trade-off: giving more weight to social interactions such as likes and shares can increase engagement while also increasing misinformation and polarisation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ifo.de/en/cesifo/publications/2026/working-paper/ranking-engagement-how-social-media-algorithms-fuel-misinformation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ifo.de">[ifo Institut]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ifo.de</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+A UK parliamentary report on social media, misinformation and harmful algorithms warned that engagement-maximising design can amplify false or harmful content regardless of accuracy, because harmful and false material is often built to attract attention.<span class="citation-chip-wrap"><a class="citation-chip" href="https://publications.parliament.uk/pa/cm5901/cmselect/cmsctech/441/report.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: publications.parliament.uk">[UK Parliament]</a><span class="citation-popover" role="note"><span class="citation-popover-source">publications.parliament.uk</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> Academic work on engagement-based ranking has also described a trade-off: giving more weight to social interactions such as likes and shares can increase engagement while also increasing misinformation and polarisation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ifo.de/en/cesifo/publications/2026/working-paper/ranking-engagement-how-social-media-algorithms-fuel-misinformation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ifo.de">[ifo Institut]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ifo.de</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-Platforms can respond by changing what counts as success. YouTube’s “Four Rs” approach — remove violative content, raise authoritative sources, reduce borderline content and reward trusted creators — is an example of recommendation governance rather than simple takedown. In 2019, YouTube said it had made more than 30 changes to reduce recommendations of borderline content and harmful misinformation, reporting a 70% average drop in US watch time for such content from non-subscribed recommendations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://blog.youtube/inside-youtube/the-four-rs-of-responsibility-raise-and-reduce/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blog.youtube">[blog.youtube]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blog.youtube</span><span class="citation-popover-title">The Four Rs of Responsibility, Part 2: Raising authoritative</span><span class="citation-popover-snippet">The Four Rs of Responsibility, Part 2: Raising authoritative</span></span></span>
+Platforms can respond by changing what counts as success. YouTube’s “Four Rs” approach — remove violative content, raise authoritative sources, reduce borderline content and reward trusted creators — is an example of recommendation governance rather than simple takedown. In 2019, YouTube said it had made more than 30 changes to reduce recommendations of borderline content and harmful misinformation, reporting a 70% average drop in US watch time for such content from non-subscribed recommendations.<span class="citation-chip-wrap"><a class="citation-chip" href="https://blog.youtube/inside-youtube/the-four-rs-of-responsibility-raise-and-reduce/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blog.youtube">[blog.youtube]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blog.youtube</span><span class="citation-popover-title">The Four Rs of Responsibility, Part 2: Raising authoritative</span><span class="citation-popover-snippet">The Four Rs of Responsibility, Part 2: Raising authoritative</span></span></span>
 
-Facebook has used related tools, including demotion for content rated false by fact-checkers and reduced distribution for repeat offenders. Harvard Kennedy School’s Misinformation Review examined Facebook’s downranking interventions against groups and websites that repeatedly shared misinformation and found a significant reduction in engagement per post or article after repeated false links. <span class="citation-chip-wrap"><a class="citation-chip" href="https://misinforeview.hks.harvard.edu/article/state-media-warning-labels-can-counteract-the-effects-of-foreign-misinformation/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: misinforeview.hks.harvard.edu">[Misinformation Review]</a><span class="citation-popover" role="note"><span class="citation-popover-source">misinforeview.hks.harvard.edu</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> Meta’s own transparency materials describe fact-checking, labelling and reduced distribution as part of its approach outside the United States, while its 2025 US policy shift away from third-party fact-checking shows how contested these systems remain. <span class="citation-chip-wrap"><a class="citation-chip" href="https://transparency.meta.com/features/approach-to-ranking/content-distribution-guidelines/misinformation/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: transparency.meta.com">[Transparency Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">transparency.meta.com</span><span class="citation-popover-title">Transparency Center Fact-Checked Misinformation</span><span class="citation-popover-snippet">Transparency Center Fact-Checked Misinformation</span></span></span>
+Facebook has used related tools, including demotion for content rated false by fact-checkers and reduced distribution for repeat offenders. Harvard Kennedy School’s Misinformation Review examined Facebook’s downranking interventions against groups and websites that repeatedly shared misinformation and found a significant reduction in engagement per post or article after repeated false links.<span class="citation-chip-wrap"><a class="citation-chip" href="https://misinforeview.hks.harvard.edu/article/state-media-warning-labels-can-counteract-the-effects-of-foreign-misinformation/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: misinforeview.hks.harvard.edu">[Misinformation Review]</a><span class="citation-popover" role="note"><span class="citation-popover-source">misinforeview.hks.harvard.edu</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> Meta’s own transparency materials describe fact-checking, labelling and reduced distribution as part of its approach outside the United States, while its 2025 US policy shift away from third-party fact-checking shows how contested these systems remain.<span class="citation-chip-wrap"><a class="citation-chip" href="https://transparency.meta.com/features/approach-to-ranking/content-distribution-guidelines/misinformation/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: transparency.meta.com">[Transparency Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">transparency.meta.com</span><span class="citation-popover-title">Transparency Center Fact-Checked Misinformation</span><span class="citation-popover-snippet">Transparency Center Fact-Checked Misinformation</span></span></span>
 
 The key governance issue is incentives. If a myth earns watch time, comments, creator revenue or follower growth, design has to decide whether those signals should be treated as popularity, risk, or both. Recommendation reform is therefore less visible than a warning label but often more consequential, because it determines whether a misconception remains a fringe claim or becomes a recurring suggestion.
 
@@ -568,7 +568,7 @@ The key governance issue is incentives. If a myth earns watch time, comments, cr
 
 Not every intervention needs to remove content. Platforms can reduce forwarding limits, restrict reshares, require group admin approval, demonetise misinformation, lower the ranking of repeat offenders, or prevent known false content from being recommended. These measures are especially relevant when a myth is not merely a single post but a repeated tactic.
 
-During the COVID-19 pandemic, Meta said it removed some false claims likely to contribute to imminent physical harm, while other claims could be fact-checked, labelled or demoted. It also said groups, pages and accounts that repeatedly shared debunked claims could face removal, and some group admins could be required temporarily to approve posts before publication. <span class="citation-chip-wrap"><a class="citation-chip" href="https://about.fb.com/news/2025/01/meta-more-speech-fewer-mistakes/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: about.fb.com">[About Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">about.fb.com</span><span class="citation-popover-title">About Facebook More Speech and Fewer Mistakes</span><span class="citation-popover-snippet">About Facebook More Speech and Fewer Mistakes</span></span></span>
+During the COVID-19 pandemic, Meta said it removed some false claims likely to contribute to imminent physical harm, while other claims could be fact-checked, labelled or demoted. It also said groups, pages and accounts that repeatedly shared debunked claims could face removal, and some group admins could be required temporarily to approve posts before publication.<span class="citation-chip-wrap"><a class="citation-chip" href="https://about.fb.com/news/2025/01/meta-more-speech-fewer-mistakes/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: about.fb.com">[About Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">about.fb.com</span><span class="citation-popover-title">About Facebook More Speech and Fewer Mistakes</span><span class="citation-popover-snippet">About Facebook More Speech and Fewer Mistakes</span></span></span>
 
 This illustrates a useful ladder of intervention. A platform can start with context, then reduce distribution, then restrict repeat offenders, and reserve removal for the highest-risk cases. That ladder matters because myths vary in harm. A harmless historical misconception, a misleading diet claim, a false voting instruction and a dangerous medical falsehood should not all trigger the same response.
 
@@ -580,9 +580,9 @@ Repeat-offender rules also address a common loophole: misinformation actors may 
 
 Every anti-misinformation design choice creates a governance question. Who decides what counts as misleading? How are errors corrected? Can users appeal? Are labels applied consistently across languages and countries? Do researchers have access to enough data to test whether interventions work? Can platforms explain why a claim was demoted without revealing systems that bad actors can game?
 
-Transparency is not a decorative extra. The Digital Services Act requires very large online platforms and search engines in the EU to assess systemic risks and gives users more information about recommender systems, including at least one option not based on profiling. <span class="citation-chip-wrap"><a class="citation-chip" href="https://digital-strategy.ec.europa.eu/en/policies/digital-services-act" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: digital-strategy.ec.europa.eu">[Digital Strategy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">digital-strategy.ec.europa.eu</span><span class="citation-popover-snippet">Digital StrategyThe Digital Services Act &#124; Shaping Europe&#x27;s digital futureThe Digital Services Act helps to make the online environment s...</span></span></span> These obligations reflect a broader shift: platform design choices are now public-interest decisions, not merely internal product tweaks.
+Transparency is not a decorative extra. The Digital Services Act requires very large online platforms and search engines in the EU to assess systemic risks and gives users more information about recommender systems, including at least one option not based on profiling.<span class="citation-chip-wrap"><a class="citation-chip" href="https://digital-strategy.ec.europa.eu/en/policies/digital-services-act" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: digital-strategy.ec.europa.eu">[Digital Strategy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">digital-strategy.ec.europa.eu</span><span class="citation-popover-snippet">Digital StrategyThe Digital Services Act &#124; Shaping Europe&#x27;s digital futureThe Digital Services Act helps to make the online environment s...</span></span></span> These obligations reflect a broader shift: platform design choices are now public-interest decisions, not merely internal product tweaks.
 
-There is also a legitimacy problem. Labels or demotions may be accurate but still fail if users believe the platform is politically biased or commercially self-interested. Meta’s 2025 decision to replace US third-party fact-checking with a Community Notes-style model was framed by the company as a response to over-enforcement and perceived censorship, while critics warned that it could weaken misinformation controls. <span class="citation-chip-wrap"><a class="citation-chip" href="https://about.fb.com/news/2025/01/meta-more-speech-fewer-mistakes/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: about.fb.com">[About Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">about.fb.com</span><span class="citation-popover-title">About Facebook More Speech and Fewer Mistakes</span><span class="citation-popover-snippet">About Facebook More Speech and Fewer Mistakes</span></span></span> The dispute shows that the design of misinformation controls cannot be separated from public trust in the institution applying them.
+There is also a legitimacy problem. Labels or demotions may be accurate but still fail if users believe the platform is politically biased or commercially self-interested. Meta’s 2025 decision to replace US third-party fact-checking with a Community Notes-style model was framed by the company as a response to over-enforcement and perceived censorship, while critics warned that it could weaken misinformation controls.<span class="citation-chip-wrap"><a class="citation-chip" href="https://about.fb.com/news/2025/01/meta-more-speech-fewer-mistakes/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: about.fb.com">[About Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">about.fb.com</span><span class="citation-popover-title">About Facebook More Speech and Fewer Mistakes</span><span class="citation-popover-snippet">About Facebook More Speech and Fewer Mistakes</span></span></span> The dispute shows that the design of misinformation controls cannot be separated from public trust in the institution applying them.
 
 A well-designed system therefore needs more than clever prompts. It needs published rules, meaningful appeals, independent research access, careful measurement, language coverage, crisis procedures and regular evidence review. Without those, interventions can become either performative safety theatre or opaque moderation that users cannot understand.
 
@@ -609,194 +609,194 @@ The strongest misconception to avoid is that platform design must choose between
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_platform_design_myth_d8c20e-Illustration-3-dark.svg" | relative_url }}" alt="Platform Design illustration 3" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_platform_design_myth_d8c20e-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_platform_design_myth_d8c20e-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Can Platform Design Slow Myths Down?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Can Platform Design Slow Myths Down?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Chaos+Machine+by+Max+Fisher&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Chaos Machine on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Fz5JEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Chaos Machine" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Chaos+Machine+by+Max+Fisher&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Chaos Machine">The Chaos Machine</a>
-        </h4>
-        <p class="fr-book-author">By Max Fisher</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Chaos+Machine+by+Max+Fisher&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Chaos Machine on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Fz5JEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Chaos Machine" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Chaos+Machine+by+Max+Fisher&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Chaos Machine">The Chaos Machine</a>
+</h4>
+<p class="fr-book-author">By Max Fisher</p>
         
-        <p class="fr-book-desc">Directly addresses platform incentives, recommendation systems and viral falsehoods.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Chaos+Machine+by+Max+Fisher&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly addresses platform incentives, recommendation systems and viral falsehoods.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Chaos+Machine+by+Max+Fisher&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Stolen+Focus+by+Johann+Hari&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Stolen Focus on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=3L1UEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Stolen Focus" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Stolen+Focus+by+Johann+Hari&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Stolen Focus">Stolen Focus</a>
-        </h4>
-        <p class="fr-book-author">By Johann Hari</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Stolen+Focus+by+Johann+Hari&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Stolen Focus on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=3L1UEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Stolen Focus" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Stolen+Focus+by+Johann+Hari&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Stolen Focus">Stolen Focus</a>
+</h4>
+<p class="fr-book-author">By Johann Hari</p>
         
-        <p class="fr-book-desc">Connects interface design and attention capture to poor information judgement.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Stolen+Focus+by+Johann+Hari&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Connects interface design and attention capture to poor information judgement.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Stolen+Focus+by+Johann+Hari&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hype+Machine+by+Sinan+Aral&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hype Machine on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=wuY9EAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Hype Machine" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Hype+Machine+by+Sinan+Aral&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hype Machine">The Hype Machine</a>
-        </h4>
-        <p class="fr-book-author">By Sinan Aral</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hype+Machine+by+Sinan+Aral&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hype Machine on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=wuY9EAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Hype Machine" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Hype+Machine+by+Sinan+Aral&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hype Machine">The Hype Machine</a>
+</h4>
+<p class="fr-book-author">By Sinan Aral</p>
         
-        <p class="fr-book-desc">Covers social media design, misinformation, virality and platform interventions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Hype+Machine+by+Sinan+Aral&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers social media design, misinformation, virality and platform interventions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Hype+Machine+by+Sinan+Aral&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Hooked+by+Nir+Eyal&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Hooked on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=oHHZBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Hooked" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Hooked+by+Nir+Eyal&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Hooked">Hooked</a>
-        </h4>
-        <p class="fr-book-author">By Nir Eyal</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Hooked+by+Nir+Eyal&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Hooked on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=oHHZBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Hooked" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Hooked+by+Nir+Eyal&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Hooked">Hooked</a>
+</h4>
+<p class="fr-book-author">By Nir Eyal</p>
         
-        <p class="fr-book-desc">Explains habit-forming design patterns that can also accelerate myth sharing.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Hooked+by+Nir+Eyal&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains habit-forming design patterns that can also accelerate myth sharing.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Hooked+by+Nir+Eyal&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Chaos+Machine&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Chaos Machine</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Stolen+Focus&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Stolen Focus</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hype+Machine&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hype Machine</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Chaos+Machine&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Chaos Machine</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Stolen+Focus&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Stolen Focus</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hype+Machine&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hype Machine</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=technology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=platform-design-can-platform-design-slow-myths-down-myths-and-misconcept-technology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="technology wall art" data-ebay-reference="platform-design-can-platform-design-slow-myths-down-myths-and-misconcept-technology-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for RETRO TECHNOLOGY Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/52587c8494bbf9efb04f.jpg' | relative_url }}" alt="Listing image for RETRO TECHNOLOGY Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=technology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=platform-design-can-platform-design-slow-myths-down-myths-and-misconcept-technology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="technology wall art" data-ebay-reference="platform-design-can-platform-design-slow-myths-down-myths-and-misconcept-technology-wall-art" target="_blank" rel="sponsored noopener noreferrer">RETRO TECHNOLOGY Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=technology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=platform-design-can-platform-design-slow-myths-down-myths-and-misconcept-technology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="technology wall art" data-ebay-reference="platform-design-can-platform-design-slow-myths-down-myths-and-misconcept-technology-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for technology wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: technology wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=technology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=platform-design-can-platform-design-slow-myths-down-myths-and-misconcept-technology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="technology wall art" data-ebay-reference="platform-design-can-platform-design-slow-myths-down-myths-and-misconcept-technology-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=technology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=platform-design-can-platform-design-slow-myths-down-myths-and-misconcept-technology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="technology wall art" data-ebay-reference="platform-design-can-platform-design-slow-myths-down-myths-and-misconcept-technology-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for RETRO TECHNOLOGY Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/52587c8494bbf9efb04f.jpg' | relative_url }}" alt="Listing image for RETRO TECHNOLOGY Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=technology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=platform-design-can-platform-design-slow-myths-down-myths-and-misconcept-technology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="technology wall art" data-ebay-reference="platform-design-can-platform-design-slow-myths-down-myths-and-misconcept-technology-wall-art" target="_blank" rel="sponsored noopener noreferrer">RETRO TECHNOLOGY Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=technology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=platform-design-can-platform-design-slow-myths-down-myths-and-misconcept-technology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="technology wall art" data-ebay-reference="platform-design-can-platform-design-slow-myths-down-myths-and-misconcept-technology-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for technology wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: technology wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=technology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=platform-design-can-platform-design-slow-myths-down-myths-and-misconcept-technology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="technology wall art" data-ebay-reference="platform-design-can-platform-design-slow-myths-down-myths-and-misconcept-technology-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=technology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=platform-design-can-platform-design-slow-myths-down-myths-and-misconcept-technology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="technology wall art" data-ebay-reference="platform-design-can-platform-design-slow-myths-down-myths-and-misconcept-technology-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Technology girl Framed Art Print Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/d15790f38a23a1e38b22.jpg' | relative_url }}" alt="Listing image for Technology girl Framed Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=technology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=platform-design-can-platform-design-slow-myths-down-myths-and-misconcept-technology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="technology wall art" data-ebay-reference="platform-design-can-platform-design-slow-myths-down-myths-and-misconcept-technology-wall-art" target="_blank" rel="sponsored noopener noreferrer">Technology girl Framed Art Print Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=technology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=platform-design-can-platform-design-slow-myths-down-myths-and-misconcept-technology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="technology wall art" data-ebay-reference="platform-design-can-platform-design-slow-myths-down-myths-and-misconcept-technology-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for technology wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: technology wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=technology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=platform-design-can-platform-design-slow-myths-down-myths-and-misconcept-technology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="technology wall art" data-ebay-reference="platform-design-can-platform-design-slow-myths-down-myths-and-misconcept-technology-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=technology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=platform-design-can-platform-design-slow-myths-down-myths-and-misconcept-technology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="technology wall art" data-ebay-reference="platform-design-can-platform-design-slow-myths-down-myths-and-misconcept-technology-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Technology girl Framed Art Print Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/d15790f38a23a1e38b22.jpg' | relative_url }}" alt="Listing image for Technology girl Framed Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=technology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=platform-design-can-platform-design-slow-myths-down-myths-and-misconcept-technology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="technology wall art" data-ebay-reference="platform-design-can-platform-design-slow-myths-down-myths-and-misconcept-technology-wall-art" target="_blank" rel="sponsored noopener noreferrer">Technology girl Framed Art Print Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=technology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=platform-design-can-platform-design-slow-myths-down-myths-and-misconcept-technology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="technology wall art" data-ebay-reference="platform-design-can-platform-design-slow-myths-down-myths-and-misconcept-technology-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for technology wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: technology wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=technology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=platform-design-can-platform-design-slow-myths-down-myths-and-misconcept-technology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="technology wall art" data-ebay-reference="platform-design-can-platform-design-slow-myths-down-myths-and-misconcept-technology-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=technology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=platform-design-can-platform-design-slow-myths-down-myths-and-misconcept-technology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="technology wall art" data-ebay-reference="platform-design-can-platform-design-slow-myths-down-myths-and-misconcept-technology-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for yellow technology tree Framed Art P Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/6e1f60225a82588553d0.jpg' | relative_url }}" alt="Listing image for yellow technology tree Framed Art P Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=technology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=platform-design-can-platform-design-slow-myths-down-myths-and-misconcept-technology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="technology wall art" data-ebay-reference="platform-design-can-platform-design-slow-myths-down-myths-and-misconcept-technology-wall-art" target="_blank" rel="sponsored noopener noreferrer">yellow technology tree Framed Art P Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=technology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=platform-design-can-platform-design-slow-myths-down-myths-and-misconcept-technology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="technology wall art" data-ebay-reference="platform-design-can-platform-design-slow-myths-down-myths-and-misconcept-technology-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for technology wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: technology wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=technology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=platform-design-can-platform-design-slow-myths-down-myths-and-misconcept-technology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="technology wall art" data-ebay-reference="platform-design-can-platform-design-slow-myths-down-myths-and-misconcept-technology-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=technology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=platform-design-can-platform-design-slow-myths-down-myths-and-misconcept-technology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="technology wall art" data-ebay-reference="platform-design-can-platform-design-slow-myths-down-myths-and-misconcept-technology-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for yellow technology tree Framed Art P Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/6e1f60225a82588553d0.jpg' | relative_url }}" alt="Listing image for yellow technology tree Framed Art P Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=technology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=platform-design-can-platform-design-slow-myths-down-myths-and-misconcept-technology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="technology wall art" data-ebay-reference="platform-design-can-platform-design-slow-myths-down-myths-and-misconcept-technology-wall-art" target="_blank" rel="sponsored noopener noreferrer">yellow technology tree Framed Art P Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=technology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=platform-design-can-platform-design-slow-myths-down-myths-and-misconcept-technology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="technology wall art" data-ebay-reference="platform-design-can-platform-design-slow-myths-down-myths-and-misconcept-technology-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for technology wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: technology wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=technology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=platform-design-can-platform-design-slow-myths-down-myths-and-misconcept-technology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="technology wall art" data-ebay-reference="platform-design-can-platform-design-slow-myths-down-myths-and-misconcept-technology-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=technology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=platform-design-can-platform-design-slow-myths-down-myths-and-misconcept-technology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="technology wall art" data-ebay-reference="platform-design-can-platform-design-slow-myths-down-myths-and-misconcept-technology-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Technology Framed Art Print Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/9e5e14d28187b4342672.jpg' | relative_url }}" alt="Listing image for Technology Framed Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=technology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=platform-design-can-platform-design-slow-myths-down-myths-and-misconcept-technology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="technology wall art" data-ebay-reference="platform-design-can-platform-design-slow-myths-down-myths-and-misconcept-technology-wall-art" target="_blank" rel="sponsored noopener noreferrer">Technology Framed Art Print Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=technology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=platform-design-can-platform-design-slow-myths-down-myths-and-misconcept-technology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="technology wall art" data-ebay-reference="platform-design-can-platform-design-slow-myths-down-myths-and-misconcept-technology-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for technology wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: technology wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=technology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=platform-design-can-platform-design-slow-myths-down-myths-and-misconcept-technology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="technology wall art" data-ebay-reference="platform-design-can-platform-design-slow-myths-down-myths-and-misconcept-technology-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=technology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=platform-design-can-platform-design-slow-myths-down-myths-and-misconcept-technology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="technology wall art" data-ebay-reference="platform-design-can-platform-design-slow-myths-down-myths-and-misconcept-technology-wall-art" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=technology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=platform-design-can-platform-design-slow-myths-down-myths-and-misconcept-technology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="technology wall art" data-ebay-reference="platform-design-can-platform-design-slow-myths-down-myths-and-misconcept-technology-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Technology Framed Art Print Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/9e5e14d28187b4342672.jpg' | relative_url }}" alt="Listing image for Technology Framed Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=technology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=platform-design-can-platform-design-slow-myths-down-myths-and-misconcept-technology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="technology wall art" data-ebay-reference="platform-design-can-platform-design-slow-myths-down-myths-and-misconcept-technology-wall-art" target="_blank" rel="sponsored noopener noreferrer">Technology Framed Art Print Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=technology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=platform-design-can-platform-design-slow-myths-down-myths-and-misconcept-technology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="technology wall art" data-ebay-reference="platform-design-can-platform-design-slow-myths-down-myths-and-misconcept-technology-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for technology wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: technology wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=technology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=platform-design-can-platform-design-slow-myths-down-myths-and-misconcept-technology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="technology wall art" data-ebay-reference="platform-design-can-platform-design-slow-myths-down-myths-and-misconcept-technology-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=technology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=platform-design-can-platform-design-slow-myths-down-myths-and-misconcept-technology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="technology wall art" data-ebay-reference="platform-design-can-platform-design-slow-myths-down-myths-and-misconcept-technology-wall-art" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -812,7 +812,7 @@ The strongest misconception to avoid is that platform design must choose between
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -832,7 +832,7 @@ The strongest misconception to avoid is that platform design must choose between
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -864,7 +864,7 @@ The strongest misconception to avoid is that platform design must choose between
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -916,7 +916,7 @@ The strongest misconception to avoid is that platform design must choose between
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -961,7 +961,7 @@ The strongest misconception to avoid is that platform design must choose between
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -1002,233 +1002,233 @@ The strongest misconception to avoid is that platform design must choose between
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: nature.com  
-   Link: <a href="https://www.nature.com/articles/s44159-021-00006-y" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s44159-021-00006-y</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The psychological drivers of misinformation belief and its...by UKH Ecker · 2022 · Cited by 1919 — In this Review, we describe the...</p></details>
+   Link:<a href="https://www.nature.com/articles/s44159-021-00006-y" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s44159-021-00006-y</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The psychological drivers of misinformation belief and its...by UKH Ecker · 2022 · Cited by 1919 — In this Review, we describe the...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: techcrunch.com  
    Title: Tech Crunch Twitter plans to bring prompts to 'read before you retweet  
-   Link: <a href="https://techcrunch.com/2020/09/24/twitter-read-before-retweet/" target="_blank" rel="noopener noreferrer nofollow">https://techcrunch.com/2020/09/24/twitter-read-before-retweet/</a>  
+   Link:<a href="https://techcrunch.com/2020/09/24/twitter-read-before-retweet/" target="_blank" rel="noopener noreferrer nofollow">https://techcrunch.com/2020/09/24/twitter-read-before-retweet/</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: nature.com  
-   Link: <a href="https://www.nature.com/articles/s41586-021-03344-2" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41586-021-03344-2</a>  
+   Link:<a href="https://www.nature.com/articles/s41586-021-03344-2" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41586-021-03344-2</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: partnershiponai.org  
    Title: Partnership on AIIt matters how platforms label manipulated media. Here are  
-   Link: <a href="https://partnershiponai.org/it-matters-how-platforms-label-manipulated-media-here-are-12-principles-designers-should-follow/" target="_blank" rel="noopener noreferrer nofollow">https://partnershiponai.org/it-matters-how-platforms-label-manipulated-media-here-are-12-principles-designers-should-follow/</a>  
+   Link:<a href="https://partnershiponai.org/it-matters-how-platforms-label-manipulated-media-here-are-12-principles-designers-should-follow/" target="_blank" rel="noopener noreferrer nofollow">https://partnershiponai.org/it-matters-how-platforms-label-manipulated-media-here-are-12-principles-designers-should-follow/</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: misinforeview.hks.harvard.edu  
-   Link: <a href="https://misinforeview.hks.harvard.edu/article/state-media-warning-labels-can-counteract-the-effects-of-foreign-misinformation/" target="_blank" rel="noopener noreferrer nofollow">https://misinforeview.hks.harvard.edu/article/state-media-warning-labels-can-counteract-the-effects-of-foreign-misinformation/</a>  
+   Link:<a href="https://misinforeview.hks.harvard.edu/article/state-media-warning-labels-can-counteract-the-effects-of-foreign-misinformation/" target="_blank" rel="noopener noreferrer nofollow">https://misinforeview.hks.harvard.edu/article/state-media-warning-labels-can-counteract-the-effects-of-foreign-misinformation/</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11212665/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11212665/</a>  
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11212665/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11212665/</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: nature.com  
-   Link: <a href="https://www.nature.com/articles/s41467-026-72597-0" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41467-026-72597-0</a>  
+   Link:<a href="https://www.nature.com/articles/s41467-026-72597-0" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41467-026-72597-0</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: reuters.com  
    Title: Musk's X ineffective against surge of US election misinformation, report says  
-   Link: <a href="https://www.reuters.com/world/us/musks-x-ineffective-against-surge-us-election-misinformation-report-says-2024-10-31/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/world/us/musks-x-ineffective-against-surge-us-election-misinformation-report-says-2024-10-31/</a>  
+   Link:<a href="https://www.reuters.com/world/us/musks-x-ineffective-against-surge-us-election-misinformation-report-says-2024-10-31/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/world/us/musks-x-ineffective-against-surge-us-election-misinformation-report-says-2024-10-31/</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: publications.parliament.uk  
-   Link: <a href="https://publications.parliament.uk/pa/cm5901/cmselect/cmsctech/441/report.html" target="_blank" rel="noopener noreferrer nofollow">https://publications.parliament.uk/pa/cm5901/cmselect/cmsctech/441/report.html</a>  
+   Link:<a href="https://publications.parliament.uk/pa/cm5901/cmselect/cmsctech/441/report.html" target="_blank" rel="noopener noreferrer nofollow">https://publications.parliament.uk/pa/cm5901/cmselect/cmsctech/441/report.html</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: ifo.de  
-   Link: <a href="https://www.ifo.de/en/cesifo/publications/2026/working-paper/ranking-engagement-how-social-media-algorithms-fuel-misinformation" target="_blank" rel="noopener noreferrer nofollow">https://www.ifo.de/en/cesifo/publications/2026/working-paper/ranking-engagement-how-social-media-algorithms-fuel-misinformation</a>  
+   Link:<a href="https://www.ifo.de/en/cesifo/publications/2026/working-paper/ranking-engagement-how-social-media-algorithms-fuel-misinformation" target="_blank" rel="noopener noreferrer nofollow">https://www.ifo.de/en/cesifo/publications/2026/working-paper/ranking-engagement-how-social-media-algorithms-fuel-misinformation</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: blog.youtube  
    Title: The Four Rs of Responsibility, Part 2: Raising authoritative  
-   Link: <a href="https://blog.youtube/inside-youtube/the-four-rs-of-responsibility-raise-and-reduce/" target="_blank" rel="noopener noreferrer nofollow">https://blog.youtube/inside-youtube/the-four-rs-of-responsibility-raise-and-reduce/</a>  
+   Link:<a href="https://blog.youtube/inside-youtube/the-four-rs-of-responsibility-raise-and-reduce/" target="_blank" rel="noopener noreferrer nofollow">https://blog.youtube/inside-youtube/the-four-rs-of-responsibility-raise-and-reduce/</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: misinforeview.hks.harvard.edu  
    Title: Misinformation Review Measuring the effect of Facebook's downranking  
-   Link: <a href="https://misinforeview.hks.harvard.edu/article/measuring-the-effect-of-facebooks-downranking-interventions-against-groups-and-websites-that-repeatedly-share-misinformation/" target="_blank" rel="noopener noreferrer nofollow">https://misinforeview.hks.harvard.edu/article/measuring-the-effect-of-facebooks-downranking-interventions-against-groups-and-websites-that-repeatedly-share-misinformation/</a>  
+   Link:<a href="https://misinforeview.hks.harvard.edu/article/measuring-the-effect-of-facebooks-downranking-interventions-against-groups-and-websites-that-repeatedly-share-misinformation/" target="_blank" rel="noopener noreferrer nofollow">https://misinforeview.hks.harvard.edu/article/measuring-the-effect-of-facebooks-downranking-interventions-against-groups-and-websites-that-repeatedly-share-misinformation/</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: transparency.meta.com  
    Title: Transparency Center Fact-Checked Misinformation  
-   Link: <a href="https://transparency.meta.com/features/approach-to-ranking/content-distribution-guidelines/misinformation/" target="_blank" rel="noopener noreferrer nofollow">https://transparency.meta.com/features/approach-to-ranking/content-distribution-guidelines/misinformation/</a>  
+   Link:<a href="https://transparency.meta.com/features/approach-to-ranking/content-distribution-guidelines/misinformation/" target="_blank" rel="noopener noreferrer nofollow">https://transparency.meta.com/features/approach-to-ranking/content-distribution-guidelines/misinformation/</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: transparency.meta.com  
-   Link: <a href="https://transparency.meta.com/en-gb/policies/community-standards/misinformation/" target="_blank" rel="noopener noreferrer nofollow">https://transparency.meta.com/en-gb/policies/community-standards/misinformation/</a>  
+   Link:<a href="https://transparency.meta.com/en-gb/policies/community-standards/misinformation/" target="_blank" rel="noopener noreferrer nofollow">https://transparency.meta.com/en-gb/policies/community-standards/misinformation/</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: transparency.meta.com  
    Title: how fact checking works  
-   Link: <a href="https://transparency.meta.com/en-gb/features/how-fact-checking-works/" target="_blank" rel="noopener noreferrer nofollow">https://transparency.meta.com/en-gb/features/how-fact-checking-works/</a>  
+   Link:<a href="https://transparency.meta.com/en-gb/features/how-fact-checking-works/" target="_blank" rel="noopener noreferrer nofollow">https://transparency.meta.com/en-gb/features/how-fact-checking-works/</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: committees.parliament.uk  
-   Link: <a href="https://committees.parliament.uk/writtenevidence/449/pdf/" target="_blank" rel="noopener noreferrer nofollow">https://committees.parliament.uk/writtenevidence/449/pdf/</a>  
+   Link:<a href="https://committees.parliament.uk/writtenevidence/449/pdf/" target="_blank" rel="noopener noreferrer nofollow">https://committees.parliament.uk/writtenevidence/449/pdf/</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: committees.parliament.uk  
-   Link: <a href="https://committees.parliament.uk/writtenevidence/449/html/" target="_blank" rel="noopener noreferrer nofollow">https://committees.parliament.uk/writtenevidence/449/html/</a>  
+   Link:<a href="https://committees.parliament.uk/writtenevidence/449/html/" target="_blank" rel="noopener noreferrer nofollow">https://committees.parliament.uk/writtenevidence/449/html/</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: committees.parliament.uk  
-   Link: <a href="https://committees.parliament.uk/writtenevidence/138329/html/" target="_blank" rel="noopener noreferrer nofollow">https://committees.parliament.uk/writtenevidence/138329/html/</a>  
+   Link:<a href="https://committees.parliament.uk/writtenevidence/138329/html/" target="_blank" rel="noopener noreferrer nofollow">https://committees.parliament.uk/writtenevidence/138329/html/</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: researchbriefings.files.parliament.uk  
    Title: POST PN 0719  
-   Link: <a href="https://researchbriefings.files.parliament.uk/documents/POST-PN-0719/POST-PN-0719.pdf" target="_blank" rel="noopener noreferrer nofollow">https://researchbriefings.files.parliament.uk/documents/POST-PN-0719/POST-PN-0719.pdf</a>  
+   Link:<a href="https://researchbriefings.files.parliament.uk/documents/POST-PN-0719/POST-PN-0719.pdf" target="_blank" rel="noopener noreferrer nofollow">https://researchbriefings.files.parliament.uk/documents/POST-PN-0719/POST-PN-0719.pdf</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/businessinsider/posts/according-to-a-report-viewed-by-the-verge-facebook-identified-a-massive-ranking-/10159357436404071/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/businessinsider/posts/according-to-a-report-viewed-by-the-verge-facebook-identified-a-massive-ranking-/10159357436404071/</a>  
+   Link:<a href="https://www.facebook.com/businessinsider/posts/according-to-a-report-viewed-by-the-verge-facebook-identified-a-massive-ranking-/10159357436404071/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/businessinsider/posts/according-to-a-report-viewed-by-the-verge-facebook-identified-a-massive-ranking-/10159357436404071/</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/FastCompany/posts/a-new-study-found-the-platforms-recommendation-algorithm-steers-users-toward-sha/1359243662736759/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/FastCompany/posts/a-new-study-found-the-platforms-recommendation-algorithm-steers-users-toward-sha/1359243662736759/</a>  
+   Link:<a href="https://www.facebook.com/FastCompany/posts/a-new-study-found-the-platforms-recommendation-algorithm-steers-users-toward-sha/1359243662736759/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/FastCompany/posts/a-new-study-found-the-platforms-recommendation-algorithm-steers-users-toward-sha/1359243662736759/</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/business/help/315131736305613" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/business/help/315131736305613</a>  
+   Link:<a href="https://www.facebook.com/business/help/315131736305613" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/business/help/315131736305613</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/cnn/posts/youtube-says-it-will-start-reducing-its-recommendations-of-borderline-content-an/10159153613136509/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/cnn/posts/youtube-says-it-will-start-reducing-its-recommendations-of-borderline-content-an/10159153613136509/</a>  
+   Link:<a href="https://www.facebook.com/cnn/posts/youtube-says-it-will-start-reducing-its-recommendations-of-borderline-content-an/10159153613136509/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/cnn/posts/youtube-says-it-will-start-reducing-its-recommendations-of-borderline-content-an/10159153613136509/</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/business/help/297022994952764" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/business/help/297022994952764</a>  
+   Link:<a href="https://www.facebook.com/business/help/297022994952764" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/business/help/297022994952764</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: youtube.com  
    Title: Stanford Seminar  
-   Link: <a href="https://www.youtube.com/watch?v=cjEQikrwbBg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=cjEQikrwbBg</a>  
+   Link:<a href="https://www.youtube.com/watch?v=cjEQikrwbBg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=cjEQikrwbBg</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/howyoutubeworks/our-policies/" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/howyoutubeworks/our-policies/</a>  
+   Link:<a href="https://www.youtube.com/howyoutubeworks/our-policies/" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/howyoutubeworks/our-policies/</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: youtube.com  
    Title: Designing for Trust: How Platforms Shape Online Belief  
-   Link: <a href="https://www.youtube.com/watch?v=0hY7lP5wW6w" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=0hY7lP5wW6w</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Role of Friction in Stopping Misinformation...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=0hY7lP5wW6w" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=0hY7lP5wW6w</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Role of Friction in Stopping Misinformation...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: youtube.com  
    Title: The Role of Friction in Stopping Misinformation  
-   Link: <a href="https://www.youtube.com/watch?v=QZ0s3_s9yXw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=QZ0s3_s9yXw</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How Algorithmic Ranking Influences Viral Myths...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=QZ0s3_s9yXw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=QZ0s3_s9yXw</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How Algorithmic Ranking Influences Viral Myths...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: youtube.com  
    Title: How Algorithmic Ranking Influences Viral Myths  
-   Link: <a href="https://www.youtube.com/watch?v=A-n826H4H7s" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=A-n826H4H7s</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Beyond Content Moderation: Platform Architecture and Misinformation...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=A-n826H4H7s" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=A-n826H4H7s</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Beyond Content Moderation: Platform Architecture and Misinformation...</p></details>
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: youtube.com  
    Title: Beyond Content Moderation: Platform Architecture and Misinformation  
-   Link: <a href="https://www.youtube.com/watch?v=5Ue819b78kU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=5Ue819b78kU</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Designing Social Media to Reduce Emotional Contagion...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=5Ue819b78kU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=5Ue819b78kU</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Designing Social Media to Reduce Emotional Contagion...</p></details>
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: youtube.com  
    Title: Designing Social Media to Reduce Emotional Contagion  
-   Link: <a href="https://www.youtube.com/watch?v=v_WXMEWiZi8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=v_WXMEWiZi8</a>  
+   Link:<a href="https://www.youtube.com/watch?v=v_WXMEWiZi8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=v_WXMEWiZi8</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: digital-strategy.ec.europa.eu  
-   Link: <a href="https://digital-strategy.ec.europa.eu/en/policies/digital-services-act" target="_blank" rel="noopener noreferrer nofollow">https://digital-strategy.ec.europa.eu/en/policies/digital-services-act</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Digital StrategyThe Digital Services Act | Shaping Europe&#x27;s digital futureThe Digital Services Act helps to make the online environment s...</p></details>
+   Link:<a href="https://digital-strategy.ec.europa.eu/en/policies/digital-services-act" target="_blank" rel="noopener noreferrer nofollow">https://digital-strategy.ec.europa.eu/en/policies/digital-services-act</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Digital StrategyThe Digital Services Act | Shaping Europe&#x27;s digital futureThe Digital Services Act helps to make the online environment s...</p></details>
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: rshare.library.torontomu.ca  
-   Link: <a href="https://rshare.library.torontomu.ca/articles/conference_contribution/To_Share_or_Not_to_Share_Randomized_Controlled_Study_of_Misinformation_Warning_Labels_on_Social_Media/29950115" target="_blank" rel="noopener noreferrer nofollow">https://rshare.library.torontomu.ca/articles/conference_contribution/To_Share_or_Not_to_Share_Randomized_Controlled_Study_of_Misinformation_Warning_Labels_on_Social_Media/29950115</a>  
+   Link:<a href="https://rshare.library.torontomu.ca/articles/conference_contribution/To_Share_or_Not_to_Share_Randomized_Controlled_Study_of_Misinformation_Warning_Labels_on_Social_Media/29950115" target="_blank" rel="noopener noreferrer nofollow">https://rshare.library.torontomu.ca/articles/conference_contribution/To_Share_or_Not_to_Share_Randomized_Controlled_Study_of_Misinformation_Warning_Labels_on_Social_Media/29950115</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/technology/2024/sep/20/trump-tweets-false-label-credibility-supporters" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/technology/2024/sep/20/trump-tweets-false-label-credibility-supporters</a>  
+   Link:<a href="https://www.theguardian.com/technology/2024/sep/20/trump-tweets-false-label-credibility-supporters" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/technology/2024/sep/20/trump-tweets-false-label-credibility-supporters</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: communitynotes.x.com  
-   Link: <a href="https://communitynotes.x.com/guide/en/about/introduction" target="_blank" rel="noopener noreferrer nofollow">https://communitynotes.x.com/guide/en/about/introduction</a>  
+   Link:<a href="https://communitynotes.x.com/guide/en/about/introduction" target="_blank" rel="noopener noreferrer nofollow">https://communitynotes.x.com/guide/en/about/introduction</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: about.fb.com  
    Title: About Facebook More Speech and Fewer Mistakes  
-   Link: <a href="https://about.fb.com/news/2025/01/meta-more-speech-fewer-mistakes/" target="_blank" rel="noopener noreferrer nofollow">https://about.fb.com/news/2025/01/meta-more-speech-fewer-mistakes/</a>  
+   Link:<a href="https://about.fb.com/news/2025/01/meta-more-speech-fewer-mistakes/" target="_blank" rel="noopener noreferrer nofollow">https://about.fb.com/news/2025/01/meta-more-speech-fewer-mistakes/</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: about.fb.com  
    Title: About Facebook An Update on Our Work to Keep People Informed and Limit  
-   Link: <a href="https://about.fb.com/news/2020/04/covid-19-misinfo-update/" target="_blank" rel="noopener noreferrer nofollow">https://about.fb.com/news/2020/04/covid-19-misinfo-update/</a>  
+   Link:<a href="https://about.fb.com/news/2020/04/covid-19-misinfo-update/" target="_blank" rel="noopener noreferrer nofollow">https://about.fb.com/news/2020/04/covid-19-misinfo-update/</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/technology/2025/jan/07/meta-facebook-instagram-threads-mark-zuckerberg-remove-fact-checkers-recommend-political-content" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/technology/2025/jan/07/meta-facebook-instagram-threads-mark-zuckerberg-remove-fact-checkers-recommend-political-content</a>  
+   Link:<a href="https://www.theguardian.com/technology/2025/jan/07/meta-facebook-instagram-threads-mark-zuckerberg-remove-fact-checkers-recommend-political-content" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/technology/2025/jan/07/meta-facebook-instagram-threads-mark-zuckerberg-remove-fact-checkers-recommend-political-content</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: theguardian.com  
    Title: twitter aims to limit people sharing articles they have not read  
-   Link: <a href="https://www.theguardian.com/technology/2020/jun/11/twitter-aims-to-limit-people-sharing-articles-they-have-not-read" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/technology/2020/jun/11/twitter-aims-to-limit-people-sharing-articles-they-have-not-read</a>  
+   Link:<a href="https://www.theguardian.com/technology/2020/jun/11/twitter-aims-to-limit-people-sharing-articles-they-have-not-read" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/technology/2020/jun/11/twitter-aims-to-limit-people-sharing-articles-they-have-not-read</a>  
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: support.google.com  
-   Link: <a href="https://support.google.com/youtube/answer/13813322?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://support.google.com/youtube/answer/13813322?hl=en</a>  
+   Link:<a href="https://support.google.com/youtube/answer/13813322?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://support.google.com/youtube/answer/13813322?hl=en</a>  
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: Wikipedia  
    Title: Community Notes  
-   Link: <a href="https://en.wikipedia.org/wiki/Community_Notes" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Community_Notes</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Community_Notes" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Community_Notes</a>  
 
 ### Additional References
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: algorithmwatch.org  
-   Link: <a href="https://algorithmwatch.org/en/dsa-explained/" target="_blank" rel="noopener noreferrer nofollow">https://algorithmwatch.org/en/dsa-explained/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A guide to the Digital Services Act, the EU&#x27;s law to rein in...More transparency on recommender systems and online adverti...</p></details>
+   Link:<a href="https://algorithmwatch.org/en/dsa-explained/" target="_blank" rel="noopener noreferrer nofollow">https://algorithmwatch.org/en/dsa-explained/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A guide to the Digital Services Act, the EU&#x27;s law to rein in...More transparency on recommender systems and online adverti...</p></details>
 
-43. <a id="endnote-43"></a>
+43.<a id="endnote-43"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/374859677_Misinformation_warning_labels_are_widely_effective_A_review_of_warning_effects_and_their_moderating_features" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/374859677_Misinformation_warning_labels_are_widely_effective_A_review_of_warning_effects_and_their_moderating_features</a>  
+   Link:<a href="https://www.researchgate.net/publication/374859677_Misinformation_warning_labels_are_widely_effective_A_review_of_warning_effects_and_their_moderating_features" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/374859677_Misinformation_warning_labels_are_widely_effective_A_review_of_warning_effects_and_their_moderating_features</a>  
 
-44. <a id="endnote-44"></a>
+44.<a id="endnote-44"></a>
    Source: apnews.com  
-   Link: <a href="https://apnews.com/article/0fa4fec0f703369b93be248461e8005d" target="_blank" rel="noopener noreferrer nofollow">https://apnews.com/article/0fa4fec0f703369b93be248461e8005d</a>  
+   Link:<a href="https://apnews.com/article/0fa4fec0f703369b93be248461e8005d" target="_blank" rel="noopener noreferrer nofollow">https://apnews.com/article/0fa4fec0f703369b93be248461e8005d</a>  
 
-45. <a id="endnote-45"></a>
+45.<a id="endnote-45"></a>
    Source: prosocialdesign.org  
-   Link: <a href="https://www.prosocialdesign.org/library/accuracy-prompts" target="_blank" rel="noopener noreferrer nofollow">https://www.prosocialdesign.org/library/accuracy-prompts</a>  
+   Link:<a href="https://www.prosocialdesign.org/library/accuracy-prompts" target="_blank" rel="noopener noreferrer nofollow">https://www.prosocialdesign.org/library/accuracy-prompts</a>  
 
-46. <a id="endnote-46"></a>
+46.<a id="endnote-46"></a>
    Source: eu-digital-services-act.com  
-   Link: <a href="https://www.eu-digital-services-act.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.eu-digital-services-act.com/</a>  
+   Link:<a href="https://www.eu-digital-services-act.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.eu-digital-services-act.com/</a>  
 
-47. <a id="endnote-47"></a>
+47.<a id="endnote-47"></a>
    Source: cepr.org  
-   Link: <a href="https://cepr.org/voxeu/columns/fact-checking-reduces-circulation-misinformation-we-should-not-get-rid-it" target="_blank" rel="noopener noreferrer nofollow">https://cepr.org/voxeu/columns/fact-checking-reduces-circulation-misinformation-we-should-not-get-rid-it</a>  
+   Link:<a href="https://cepr.org/voxeu/columns/fact-checking-reduces-circulation-misinformation-we-should-not-get-rid-it" target="_blank" rel="noopener noreferrer nofollow">https://cepr.org/voxeu/columns/fact-checking-reduces-circulation-misinformation-we-should-not-get-rid-it</a>  
 
-48. <a id="endnote-48"></a>
+48.<a id="endnote-48"></a>
    Source: brookings.edu  
-   Link: <a href="https://www.brookings.edu/articles/how-misinformation-spreads-on-social-media-and-what-to-do-about-it/" target="_blank" rel="noopener noreferrer nofollow">https://www.brookings.edu/articles/how-misinformation-spreads-on-social-media-and-what-to-do-about-it/</a>  
+   Link:<a href="https://www.brookings.edu/articles/how-misinformation-spreads-on-social-media-and-what-to-do-about-it/" target="_blank" rel="noopener noreferrer nofollow">https://www.brookings.edu/articles/how-misinformation-spreads-on-social-media-and-what-to-do-about-it/</a>  
 
-49. <a id="endnote-49"></a>
+49.<a id="endnote-49"></a>
    Source: lawsocietywa.asn.au  
-   Link: <a href="https://lawsocietywa.asn.au/wp-content/uploads/2025/04/Annexure-J-New-Article-Metas-Approach-to-Disinformation-Phoebe-Galbally.pdf" target="_blank" rel="noopener noreferrer nofollow">https://lawsocietywa.asn.au/wp-content/uploads/2025/04/Annexure-J-New-Article-Metas-Approach-to-Disinformation-Phoebe-Galbally.pdf</a>  
+   Link:<a href="https://lawsocietywa.asn.au/wp-content/uploads/2025/04/Annexure-J-New-Article-Metas-Approach-to-Disinformation-Phoebe-Galbally.pdf" target="_blank" rel="noopener noreferrer nofollow">https://lawsocietywa.asn.au/wp-content/uploads/2025/04/Annexure-J-New-Article-Metas-Approach-to-Disinformation-Phoebe-Galbally.pdf</a>  
 
-50. <a id="endnote-50"></a>
+50.<a id="endnote-50"></a>
    Source: 5rightsfoundation.com  
-   Link: <a href="https://5rightsfoundation.com/wp-content/uploads/2024/10/MisinformationBriefingRiskybyDesign.pdf" target="_blank" rel="noopener noreferrer nofollow">https://5rightsfoundation.com/wp-content/uploads/2024/10/MisinformationBriefingRiskybyDesign.pdf</a>  
+   Link:<a href="https://5rightsfoundation.com/wp-content/uploads/2024/10/MisinformationBriefingRiskybyDesign.pdf" target="_blank" rel="noopener noreferrer nofollow">https://5rightsfoundation.com/wp-content/uploads/2024/10/MisinformationBriefingRiskybyDesign.pdf</a>  
 
-51. <a id="endnote-51"></a>
+51.<a id="endnote-51"></a>
    Source: bipartisanpolicy.org  
-   Link: <a href="https://bipartisanpolicy.org/wp-content/uploads/2023/10/BPC_Tech-Algorithm-Tradeoffs_R01.pdf" target="_blank" rel="noopener noreferrer nofollow">https://bipartisanpolicy.org/wp-content/uploads/2023/10/BPC_Tech-Algorithm-Tradeoffs_R01.pdf</a>
+   Link:<a href="https://bipartisanpolicy.org/wp-content/uploads/2023/10/BPC_Tech-Algorithm-Tradeoffs_R01.pdf" target="_blank" rel="noopener noreferrer nofollow">https://bipartisanpolicy.org/wp-content/uploads/2023/10/BPC_Tech-Algorithm-Tradeoffs_R01.pdf</a>

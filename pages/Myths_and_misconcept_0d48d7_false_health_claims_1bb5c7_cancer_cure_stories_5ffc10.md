@@ -271,7 +271,7 @@ image: /assets/images/Myths_and_misconcept_0d48d7_false_health_claims_1bb5c7_can
 Cancer recovery stories can be powerful. They offer hope during frightening diagnoses, make complex medical experiences feel personal, and often spread faster than scientific explanations. The problem is not that survivor stories exist. Many are genuine and meaningful. The problem is that a story about someone who improved after cancer treatment can easily become a story about what supposedly cured them, even when crucial details are missing.
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_false_health_claims_1bb5c7_cancer_cure_stories_5ffc10-Illustration-1-dark.svg" | relative_url }}" alt="Cancer Stories illustration 1" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_false_health_claims_1bb5c7_cancer_cure_stories_5ffc10-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_false_health_claims_1bb5c7_cancer_cure_stories_5ffc10-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-In cancer misinformation, personal testimony often carries more emotional weight than evidence. A social media post may credit a special diet, supplement, detox, prayer practice or alternative therapy for a recovery while barely mentioning surgery, chemotherapy, radiotherapy, immunotherapy or years of medical monitoring. Readers may come away believing that the alternative approach caused the recovery. For some patients, that misunderstanding can encourage delays in proven treatment or create false expectations about what is realistically known to work. Cancer organisations and researchers have repeatedly warned that misinformation about cancer treatments can influence decisions in ways that worsen outcomes. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cancer.gov/news-events/cancer-currents-blog/2021/cancer-misinformation-social-media" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cancer.gov">[Cancer.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cancer.gov</span><span class="citation-popover-snippet">The Challenges of Cancer Misinformation on Social MediaSep 9, 2021 — Misinformation about cancer is pervasive on the Internet and social...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9275772/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Cancer Misinformation and Harmful Information on Facebook...by SB Johnson · 2021 · Cited by 240 — Health misinformation threatens pub...</span></span></span>
+In cancer misinformation, personal testimony often carries more emotional weight than evidence. A social media post may credit a special diet, supplement, detox, prayer practice or alternative therapy for a recovery while barely mentioning surgery, chemotherapy, radiotherapy, immunotherapy or years of medical monitoring. Readers may come away believing that the alternative approach caused the recovery. For some patients, that misunderstanding can encourage delays in proven treatment or create false expectations about what is realistically known to work. Cancer organisations and researchers have repeatedly warned that misinformation about cancer treatments can influence decisions in ways that worsen outcomes.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cancer.gov/news-events/cancer-currents-blog/2021/cancer-misinformation-social-media" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cancer.gov">[Cancer.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cancer.gov</span><span class="citation-popover-snippet">The Challenges of Cancer Misinformation on Social MediaSep 9, 2021 — Misinformation about cancer is pervasive on the Internet and social...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9275772/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Cancer Misinformation and Harmful Information on Facebook...by SB Johnson · 2021 · Cited by 240 — Health misinformation threatens pub...</span></span></span>
 
 ## Why Survivor Stories Feel More Convincing Than Statistics
 
@@ -288,7 +288,7 @@ Several psychological factors make these stories especially influential:
 
 </div>
 
-Researchers studying cancer misinformation have found that false claims about alternative cures spread widely online and are often amplified through emotionally engaging content rather than strong evidence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11648589/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Cancer misinformation on social media - PMC - NIHby S Loeb · 2024 · Cited by 58 — This should be distinguished from disinformation, wh...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10422174/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Exposure and Reactions to Cancer Treatment Misinformation...by AJ Lazard · 2023 · Cited by 30 — Cancer treatment misinformation, or f...</span></span></span>
+Researchers studying cancer misinformation have found that false claims about alternative cures spread widely online and are often amplified through emotionally engaging content rather than strong evidence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11648589/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Cancer misinformation on social media - PMC - NIHby S Loeb · 2024 · Cited by 58 — This should be distinguished from disinformation, wh...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10422174/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Exposure and Reactions to Cancer Treatment Misinformation...by AJ Lazard · 2023 · Cited by 30 — Cancer treatment misinformation, or f...</span></span></span>
 
 The persuasive power of testimony does not mean the testimony is false. A person may honestly believe a particular diet, supplement or wellness practice saved their life. The difficulty is that personal experience alone cannot reliably show which part of a treatment journey caused the outcome.
 
@@ -300,7 +300,7 @@ Many misleading cancer recovery stories do not depend on outright fabrication. I
 
 One of the most common omissions is established medical treatment. A person may publicly credit a natural therapy while having also undergone surgery, chemotherapy, radiation or another evidence-based intervention.
 
-A widely discussed example involved model Elle Macpherson's account of recovering from breast cancer. [Media coverage]({{ 'media-coverage/' | relative_url }}) often highlighted alternative approaches she adopted, but medical experts noted that she had also undergone a lumpectomy, a standard cancer treatment that may have played a central role in removing the cancer. Critics argued that framing the story primarily around alternative therapies risked creating a misleading impression about what caused the successful outcome. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.businessinsider.com/elle-macpherson-breast-cancer-treatment-lumpectomy-misleading-2024-9" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: businessinsider.com">[Business Insider]</a><span class="citation-popover" role="note"><span class="citation-popover-source">businessinsider.com</span><span class="citation-popover-snippet">Doctors say that&#x27;s misleading and potentially dangerous.September 4, 2024 — Elle Macpherson, an Australian supermodel, revealed she was d...</span><span class="citation-popover-meta">Published: September 4, 2024</span></span></span>
+A widely discussed example involved model Elle Macpherson's account of recovering from breast cancer. [Media coverage]({{ 'media-coverage/' | relative_url }}) often highlighted alternative approaches she adopted, but medical experts noted that she had also undergone a lumpectomy, a standard cancer treatment that may have played a central role in removing the cancer. Critics argued that framing the story primarily around alternative therapies risked creating a misleading impression about what caused the successful outcome.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.businessinsider.com/elle-macpherson-breast-cancer-treatment-lumpectomy-misleading" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: businessinsider.com">[Business Insider]</a><span class="citation-popover" role="note"><span class="citation-popover-source">businessinsider.com</span><span class="citation-popover-snippet">Doctors say that&#x27;s misleading and potentially dangerous.September 4, 2024 — Elle Macpherson, an Australian supermodel, revealed she was d...</span><span class="citation-popover-meta">Published: September 4, 2024</span></span></span>
 
 This pattern appears frequently in online testimonials. The visible story centres on the unusual intervention, while the routine medical treatment receives little attention because it is less novel and less likely to attract clicks.
 
@@ -320,7 +320,7 @@ Not every improvement in a patient's condition happens because of a treatment be
 
 Some cancers grow slowly. Symptoms may fluctuate. Imaging findings can change over time. Patients may experience periods of stability that become incorrectly attributed to a supplement, restrictive diet or alternative therapy started around the same time.
 
-Memorial Sloan Kettering Cancer Center has warned that people promoting natural cancer cures often mistake correlation for causation, assuming that because an improvement followed a treatment, the treatment caused it. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.mskcc.org/news/truth-behind-three-natural-cures" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mskcc.org">[Memorial Sloan Kettering]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mskcc.org</span><span class="citation-popover-snippet">Memorial Sloan KetteringThe Truth Behind Four Natural Cancer “Cures”Jun 25, 2024 — “Natural” cancer therapies should be regarded with gre...</span></span></span>
+Memorial Sloan Kettering Cancer Center has warned that people promoting natural cancer cures often mistake correlation for causation, assuming that because an improvement followed a treatment, the treatment caused it.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.mskcc.org/news/truth-behind-three-natural-cures" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mskcc.org">[Memorial Sloan Kettering]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mskcc.org</span><span class="citation-popover-snippet">Memorial Sloan KetteringThe Truth Behind Four Natural Cancer “Cures”Jun 25, 2024 — “Natural” cancer therapies should be regarded with gre...</span></span></span>
 
 ### Survivorship Bias
 
@@ -337,11 +337,11 @@ This is one reason why medicine relies on controlled studies rather than individ
 
 The most serious risk arises when hopeful stories encourage patients to postpone, refuse or replace evidence-based care.
 
-Researchers have repeatedly found links between reliance on alternative cancer treatments and worse outcomes when those treatments are used instead of conventional care. One widely cited study found that cancer patients who chose alternative medicine as their initial treatment experienced substantially poorer survival than comparable patients who received standard treatment. For some cancer types, mortality risks were dramatically higher. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cancer.gov/news-events/cancer-currents-blog/2017/alternative-medicine-cancer-survival" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cancer.gov">[Cancer.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cancer.gov</span><span class="citation-popover-title">alternative medicine cancer survival</span><span class="citation-popover-snippet">Alternative Medicine for Cancer Treatment Raises Mortality...Sep 12, 2017 — Choosing alternative medicine as an initial cancer treatment...</span></span></span>
+Researchers have repeatedly found links between reliance on alternative cancer treatments and worse outcomes when those treatments are used instead of conventional care. One widely cited study found that cancer patients who chose alternative medicine as their initial treatment experienced substantially poorer survival than comparable patients who received standard treatment. For some cancer types, mortality risks were dramatically higher.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cancer.gov/news-events/cancer-currents-blog/2017/alternative-medicine-cancer-survival" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cancer.gov">[Cancer.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cancer.gov</span><span class="citation-popover-title">alternative medicine cancer survival</span><span class="citation-popover-snippet">Alternative Medicine for Cancer Treatment Raises Mortality...Sep 12, 2017 — Choosing alternative medicine as an initial cancer treatment...</span></span></span>
 
-Another study found that patients using complementary medicine were more likely to refuse conventional treatment, a decision associated with higher mortality. Researchers suggested that the survival difference was strongly connected to whether patients completed recommended medical therapies. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6233773/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Complementary Medicine, Refusal of Conventional Cancer...by SB Johnson · 2018 · Cited by 432 — Patients who received complementary me...</span></span></span>
+Another study found that patients using complementary medicine were more likely to refuse conventional treatment, a decision associated with higher mortality. Researchers suggested that the survival difference was strongly connected to whether patients completed recommended medical therapies.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6233773/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Complementary Medicine, Refusal of Conventional Cancer...by SB Johnson · 2018 · Cited by 432 — Patients who received complementary me...</span></span></span>
 
-This distinction matters. Complementary approaches such as mindfulness, exercise programmes, counselling, massage, acupuncture for symptom management or nutritional support may sometimes help patients cope with treatment side effects and improve quality of life. The danger arises when alternative approaches are presented as [replacements]({{ 'replacements/' | relative_url }}) for treatment rather than additions to supportive care. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nccih.nih.gov/health/cancer-and-complementary-health-approaches-what-you-need-to-know" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nccih.nih.gov">[NCCIH]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nccih.nih.gov</span><span class="citation-popover-snippet">em inappropriately can be harmful. For your safety:.Read more...</span></span></span>
+This distinction matters. Complementary approaches such as mindfulness, exercise programmes, counselling, massage, acupuncture for symptom management or nutritional support may sometimes help patients cope with treatment side effects and improve quality of life. The danger arises when alternative approaches are presented as [replacements]({{ 'replacements/' | relative_url }}) for treatment rather than additions to supportive care.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nccih.nih.gov/health/cancer-and-complementary-health-approaches-what-you-need-to-know" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nccih.nih.gov">[NCCIH]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nccih.nih.gov</span><span class="citation-popover-snippet">em inappropriately can be harmful. For your safety:.Read more...</span></span></span>
 
 ## How Social Media Changes the Meaning of a Story
 
@@ -355,7 +355,7 @@ On social media, recovery stories often undergo a process of simplification:
 4. [Headlines]({{ 'headlines/' | relative_url }}) emphasise the surprising intervention.
 5. Audiences receive a simplified message: "This cured cancer."
 
-Researchers and cancer organisations have warned that social [platforms]({{ 'platforms/' | relative_url }}) can accelerate the spread of cancer misinformation because emotionally engaging claims often attract more attention than careful scientific explanations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9275772/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Cancer Misinformation and Harmful Information on Facebook...by SB Johnson · 2021 · Cited by 240 — Health misinformation threatens pub...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cancer.org/cancer/managing-cancer/how-to-interpret-news-about-new-cancer-treatments.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cancer.org">[Cancer.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cancer.org</span><span class="citation-popover-title">how to interpret news about new cancer treatments</span><span class="citation-popover-snippet">American Cancer SocietyUnderstanding Information About New Cancer TreatmentsAug 8, 2025 — Before a new medicine or device can be marketed...</span></span></span>
+Researchers and cancer organisations have warned that social [platforms]({{ 'platforms/' | relative_url }}) can accelerate the spread of cancer misinformation because emotionally engaging claims often attract more attention than careful scientific explanations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9275772/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Cancer Misinformation and Harmful Information on Facebook...by SB Johnson · 2021 · Cited by 240 — Health misinformation threatens pub...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cancer.org/cancer/managing-cancer/how-to-interpret-news-about-new-cancer-treatments.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cancer.org">[Cancer.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cancer.org</span><span class="citation-popover-title">how to interpret news about new cancer treatments</span><span class="citation-popover-snippet">American Cancer SocietyUnderstanding Information About New Cancer TreatmentsAug 8, 2025 — Before a new medicine or device can be marketed...</span></span></span>
 
 The result is a distorted information environment in which dramatic [anecdotes]({{ 'anecdotes/' | relative_url }}) compete directly with evidence gathered from thousands of patients.
 
@@ -364,7 +364,7 @@ The result is a distorted information environment in which dramatic [anecdotes](
 
 Some of the most influential cancer cure narratives emerge from wellness culture.
 
-The Australian influencer Belle Gibson became one of the most notorious examples after building a large following around claims that she had cured terminal brain cancer through diet and alternative health practices. Investigations later found that she never had the cancer she claimed to have survived. Her story demonstrated how difficult it can be for audiences to distinguish between genuine patient experiences and commercially useful narratives. <span class="citation-chip-wrap"><a class="citation-chip" href="https://people.com/apple-cider-vinegar-true-story-8786382" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: people.com">[People.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">people.com</span><span class="citation-popover-title">Did Belle Gibson Actually Have Cancer?</span><span class="citation-popover-snippet">Inside the &quot;Apple Cider Vinegar&quot; True Story and the Influencer&#x27;s Real-Life Disease-Curing ScamFebruary 6, 2025 — Belle Gibson, a former A...</span><span class="citation-popover-meta">Published: February 6, 2025</span></span></span>
+The Australian influencer Belle Gibson became one of the most notorious examples after building a large following around claims that she had cured terminal brain cancer through diet and alternative health practices. Investigations later found that she never had the cancer she claimed to have survived. Her story demonstrated how difficult it can be for audiences to distinguish between genuine patient experiences and commercially useful narratives.<span class="citation-chip-wrap"><a class="citation-chip" href="https://people.com/apple-cider-vinegar-true-story-8786382" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: people.com">[People.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">people.com</span><span class="citation-popover-title">Did Belle Gibson Actually Have Cancer?</span><span class="citation-popover-snippet">Inside the &quot;Apple Cider Vinegar&quot; True Story and the Influencer&#x27;s Real-Life Disease-Curing ScamFebruary 6, 2025 — Belle Gibson, a former A...</span><span class="citation-popover-meta">Published: February 6, 2025</span></span></span>
 
 Most misleading stories are not deliberate frauds on that scale. Nevertheless, the case showed how emotionally compelling recovery claims can spread long before their factual basis is examined.
 
@@ -378,7 +378,7 @@ The problem is that sincerity does not create evidence.
 
 A patient may honestly believe a particular supplement cured their cancer. Another may sincerely credit a strict diet. A third may feel certain that positive thinking changed the course of their illness. Yet personal conviction cannot separate what caused a recovery from what merely accompanied it.
 
-Cancer organisations consistently caution against treating individual testimonials as proof of effectiveness. Unproven therapies may sound persuasive because they are attached to real people, but personal experiences cannot substitute for clinical evidence showing that a treatment works consistently and safely across many patients. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.mskcc.org/news/truth-behind-three-natural-cures" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mskcc.org">[Memorial Sloan Kettering]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mskcc.org</span><span class="citation-popover-snippet">Memorial Sloan KetteringThe Truth Behind Four Natural Cancer “Cures”Jun 25, 2024 — “Natural” cancer therapies should be regarded with gre...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nccih.nih.gov/health/cancer-and-complementary-health-approaches-what-you-need-to-know" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nccih.nih.gov">[NCCIH]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nccih.nih.gov</span><span class="citation-popover-snippet">em inappropriately can be harmful. For your safety:.Read more...</span></span></span>
+Cancer organisations consistently caution against treating individual testimonials as proof of effectiveness. Unproven therapies may sound persuasive because they are attached to real people, but personal experiences cannot substitute for clinical evidence showing that a treatment works consistently and safely across many patients.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.mskcc.org/news/truth-behind-three-natural-cures" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mskcc.org">[Memorial Sloan Kettering]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mskcc.org</span><span class="citation-popover-snippet">Memorial Sloan KetteringThe Truth Behind Four Natural Cancer “Cures”Jun 25, 2024 — “Natural” cancer therapies should be regarded with gre...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nccih.nih.gov/health/cancer-and-complementary-health-approaches-what-you-need-to-know" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nccih.nih.gov">[NCCIH]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nccih.nih.gov</span><span class="citation-popover-snippet">em inappropriately can be harmful. For your safety:.Read more...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/zKp-ZmNYHjY" title="Can You Trust Cancer Advice Online? #misinformation #podcast" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=zKp-ZmNYHjY" target="_blank" rel="noopener noreferrer">Can You Trust Cancer Advice Online? #misinformation #podcast</a></p><p class="youtube-embed-meta">Channel: Cancer Research UK &middot; Views: 2.7K &middot; Uploaded: April 2026 &middot; Length: 33 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=zKp-ZmNYHjY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=zKp-ZmNYHjY">Open on YouTube</a></p></div></div></div>
 
@@ -399,199 +399,199 @@ Useful questions include:
 
 </div>
 
-Reliable cancer organisations stress that promising treatments should be evaluated through research, regulatory review and clinical trials rather than anecdotal success stories alone. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cancer.org/cancer/managing-cancer/how-to-interpret-news-about-new-cancer-treatments.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cancer.org">[American Cancer Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cancer.org</span><span class="citation-popover-title">how to interpret news about new cancer treatments</span><span class="citation-popover-snippet">American Cancer SocietyUnderstanding Information About New Cancer TreatmentsAug 8, 2025 — Before a new medicine or device can be marketed...</span></span></span>
+Reliable cancer organisations stress that promising treatments should be evaluated through research, regulatory review and clinical trials rather than anecdotal success stories alone.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cancer.org/cancer/managing-cancer/how-to-interpret-news-about-new-cancer-treatments.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cancer.org">[American Cancer Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cancer.org</span><span class="citation-popover-title">how to interpret news about new cancer treatments</span><span class="citation-popover-snippet">American Cancer SocietyUnderstanding Information About New Cancer TreatmentsAug 8, 2025 — Before a new medicine or device can be marketed...</span></span></span>
 
 Hope and evidence are not opposites. Patients often need both. Survivor stories can remind people that treatment is worth enduring and that life after cancer is possible. Problems arise when stories stop being sources of encouragement and start being treated as proof that an unverified cure works. In those moments, a reassuring narrative can become a form of misinformation, even when everyone involved believes they are helping.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When Cancer Cure Stories Leave Out Treatment. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When Cancer Cure Stories Leave Out Treatment. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Emperor+of+All+Maladies+by+Siddhartha+Mukherjee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Emperor of All Maladies on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=hgx0sJvphNkC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Emperor of All Maladies" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Emperor+of+All+Maladies+by+Siddhartha+Mukherjee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Emperor of All Maladies">The Emperor of All Maladies</a>
-        </h4>
-        <p class="fr-book-author">By Siddhartha Mukherjee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Emperor+of+All+Maladies+by+Siddhartha+Mukherjee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Emperor of All Maladies on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=hgx0sJvphNkC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Emperor of All Maladies" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Emperor+of+All+Maladies+by+Siddhartha+Mukherjee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Emperor of All Maladies">The Emperor of All Maladies</a>
+</h4>
+<p class="fr-book-author">By Siddhartha Mukherjee</p>
         
-        <p class="fr-book-desc">Provides evidence-based understanding of cancer and treatment.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Emperor+of+All+Maladies+by+Siddhartha+Mukherjee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides evidence-based understanding of cancer and treatment.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Emperor+of+All+Maladies+by+Siddhartha+Mukherjee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Bad+Science+by+Ben+Goldacre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Bad Science on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=wICuv0ePMYoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Bad Science" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Bad+Science+by+Ben+Goldacre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Bad Science">Bad Science</a>
-        </h4>
-        <p class="fr-book-author">By Ben Goldacre</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Bad+Science+by+Ben+Goldacre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Bad Science on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=wICuv0ePMYoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Bad Science" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Bad+Science+by+Ben+Goldacre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Bad Science">Bad Science</a>
+</h4>
+<p class="fr-book-author">By Ben Goldacre</p>
         
-        <p class="fr-book-desc">Explains why anecdotal success stories can mislead.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Bad+Science+by+Ben+Goldacre&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains why anecdotal success stories can mislead.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Bad+Science+by+Ben+Goldacre&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Being+Mortal+by+Atul+Gawande&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Being Mortal on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jfFYBQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Being Mortal" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Being+Mortal+by+Atul+Gawande&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Being Mortal">Being Mortal</a>
-        </h4>
-        <p class="fr-book-author">By Atul Gawande</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Being+Mortal+by+Atul+Gawande&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Being Mortal on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jfFYBQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Being Mortal" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Being+Mortal+by+Atul+Gawande&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Being Mortal">Being Mortal</a>
+</h4>
+<p class="fr-book-author">By Atul Gawande</p>
         
-        <p class="fr-book-desc">Encourages informed thinking about treatment decisions and outcomes.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Being+Mortal+by+Atul+Gawande&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Encourages informed thinking about treatment decisions and outcomes.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Being+Mortal+by+Atul+Gawande&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Foolproof%3A+Why+We+Fall+for+Misinformation+and+How+to+Build+Immunity+by+Sander+van+der+Linden&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Foolproof: Why We Fall for Misinformation and How to Build Immunity on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Y517EAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Foolproof: Why We Fall for Misinformation and How to Build Immunity" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Foolproof%3A+Why+We+Fall+for+Misinformation+and+How+to+Build+Immunity+by+Sander+van+der+Linden&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Foolproof: Why We Fall for Misinformation and How to Build Immunity">Foolproof: Why We Fall for Misinformation and How to Build Im...</a>
-        </h4>
-        <p class="fr-book-author">By Sander van der Linden</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Foolproof%3A+Why+We+Fall+for+Misinformation+and+How+to+Build+Immunity+by+Sander+van+der+Linden&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Foolproof: Why We Fall for Misinformation and How to Build Immunity on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Y517EAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Foolproof: Why We Fall for Misinformation and How to Build Immunity" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Foolproof%3A+Why+We+Fall+for+Misinformation+and+How+to+Build+Immunity+by+Sander+van+der+Linden&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Foolproof: Why We Fall for Misinformation and How to Build Immunity">Foolproof: Why We Fall for Misinformation and How to Build Im...</a>
+</h4>
+<p class="fr-book-author">By Sander van der Linden</p>
         
-        <p class="fr-book-desc">Helps explain why cancer cure stories can be so persuasive.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Foolproof%3A+Why+We+Fall+for+Misinformation+and+How+to+Build+Immunity+by+Sander+van+der+Linden&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps explain why cancer cure stories can be so persuasive.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Foolproof%3A+Why+We+Fall+for+Misinformation+and+How+to+Build+Immunity+by+Sander+van+der+Linden&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Emperor+of+All+Maladies&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Emperor of All Maladies</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Bad+Science&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Bad Science</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Being+Mortal&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Being Mortal</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Emperor+of+All+Maladies&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Emperor of All Maladies</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Bad+Science&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Bad Science</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Being+Mortal&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Being Mortal</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=public+health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cancer-stories-when-cancer-cure-stories-leave-out-treatment-myths-and-misconcept-public-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="public health poster" data-ebay-reference="cancer-stories-when-cancer-cure-stories-leave-out-treatment-myths-and-misconcept-public-health-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Aihrgdesign A Hopeful Public Health Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/2533f13b6b0ba14fe5f5.jpg' | relative_url }}" alt="Listing image for Aihrgdesign A Hopeful Public Health Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=public+health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cancer-stories-when-cancer-cure-stories-leave-out-treatment-myths-and-misconcept-public-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="public health poster" data-ebay-reference="cancer-stories-when-cancer-cure-stories-leave-out-treatment-myths-and-misconcept-public-health-poster" target="_blank" rel="sponsored noopener noreferrer">Aihrgdesign A Hopeful Public Health Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=public+health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cancer-stories-when-cancer-cure-stories-leave-out-treatment-myths-and-misconcept-public-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="public health poster" data-ebay-reference="cancer-stories-when-cancer-cure-stories-leave-out-treatment-myths-and-misconcept-public-health-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for public health poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: public health poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=public+health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cancer-stories-when-cancer-cure-stories-leave-out-treatment-myths-and-misconcept-public-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="public health poster" data-ebay-reference="cancer-stories-when-cancer-cure-stories-leave-out-treatment-myths-and-misconcept-public-health-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=public+health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cancer-stories-when-cancer-cure-stories-leave-out-treatment-myths-and-misconcept-public-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="public health poster" data-ebay-reference="cancer-stories-when-cancer-cure-stories-leave-out-treatment-myths-and-misconcept-public-health-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Aihrgdesign A Hopeful Public Health Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/2533f13b6b0ba14fe5f5.jpg' | relative_url }}" alt="Listing image for Aihrgdesign A Hopeful Public Health Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=public+health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cancer-stories-when-cancer-cure-stories-leave-out-treatment-myths-and-misconcept-public-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="public health poster" data-ebay-reference="cancer-stories-when-cancer-cure-stories-leave-out-treatment-myths-and-misconcept-public-health-poster" target="_blank" rel="sponsored noopener noreferrer">Aihrgdesign A Hopeful Public Health Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=public+health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cancer-stories-when-cancer-cure-stories-leave-out-treatment-myths-and-misconcept-public-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="public health poster" data-ebay-reference="cancer-stories-when-cancer-cure-stories-leave-out-treatment-myths-and-misconcept-public-health-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for public health poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: public health poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=public+health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cancer-stories-when-cancer-cure-stories-leave-out-treatment-myths-and-misconcept-public-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="public health poster" data-ebay-reference="cancer-stories-when-cancer-cure-stories-leave-out-treatment-myths-and-misconcept-public-health-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=public+health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cancer-stories-when-cancer-cure-stories-leave-out-treatment-myths-and-misconcept-public-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="public health poster" data-ebay-reference="cancer-stories-when-cancer-cure-stories-leave-out-treatment-myths-and-misconcept-public-health-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage 1950s public health awareness advert poster"><img src="{{ '/assets/images/marketplace-covers/26b25d9d44b21db71d19.jpg' | relative_url }}" alt="Listing image for Vintage 1950s public health awareness advert poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=public+health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cancer-stories-when-cancer-cure-stories-leave-out-treatment-myths-and-misconcept-public-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="public health poster" data-ebay-reference="cancer-stories-when-cancer-cure-stories-leave-out-treatment-myths-and-misconcept-public-health-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage 1950s public health awareness advert poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=public+health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cancer-stories-when-cancer-cure-stories-leave-out-treatment-myths-and-misconcept-public-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="public health poster" data-ebay-reference="cancer-stories-when-cancer-cure-stories-leave-out-treatment-myths-and-misconcept-public-health-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for public health poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: public health poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=public+health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cancer-stories-when-cancer-cure-stories-leave-out-treatment-myths-and-misconcept-public-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="public health poster" data-ebay-reference="cancer-stories-when-cancer-cure-stories-leave-out-treatment-myths-and-misconcept-public-health-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=public+health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cancer-stories-when-cancer-cure-stories-leave-out-treatment-myths-and-misconcept-public-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="public health poster" data-ebay-reference="cancer-stories-when-cancer-cure-stories-leave-out-treatment-myths-and-misconcept-public-health-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage 1950s public health awareness advert poster"><img src="{{ '/assets/images/marketplace-covers/26b25d9d44b21db71d19.jpg' | relative_url }}" alt="Listing image for Vintage 1950s public health awareness advert poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=public+health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cancer-stories-when-cancer-cure-stories-leave-out-treatment-myths-and-misconcept-public-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="public health poster" data-ebay-reference="cancer-stories-when-cancer-cure-stories-leave-out-treatment-myths-and-misconcept-public-health-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage 1950s public health awareness advert poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=public+health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cancer-stories-when-cancer-cure-stories-leave-out-treatment-myths-and-misconcept-public-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="public health poster" data-ebay-reference="cancer-stories-when-cancer-cure-stories-leave-out-treatment-myths-and-misconcept-public-health-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for public health poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: public health poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=public+health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cancer-stories-when-cancer-cure-stories-leave-out-treatment-myths-and-misconcept-public-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="public health poster" data-ebay-reference="cancer-stories-when-cancer-cure-stories-leave-out-treatment-myths-and-misconcept-public-health-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=public+health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cancer-stories-when-cancer-cure-stories-leave-out-treatment-myths-and-misconcept-public-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="public health poster" data-ebay-reference="cancer-stories-when-cancer-cure-stories-leave-out-treatment-myths-and-misconcept-public-health-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage 1950s public health awareness advert poster"><img src="{{ '/assets/images/marketplace-covers/89316df3874ca53ba5a6.jpg' | relative_url }}" alt="Listing image for Vintage 1950s public health awareness advert poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=public+health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cancer-stories-when-cancer-cure-stories-leave-out-treatment-myths-and-misconcept-public-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="public health poster" data-ebay-reference="cancer-stories-when-cancer-cure-stories-leave-out-treatment-myths-and-misconcept-public-health-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage 1950s public health awareness advert poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=public+health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cancer-stories-when-cancer-cure-stories-leave-out-treatment-myths-and-misconcept-public-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="public health poster" data-ebay-reference="cancer-stories-when-cancer-cure-stories-leave-out-treatment-myths-and-misconcept-public-health-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for public health poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: public health poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=public+health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cancer-stories-when-cancer-cure-stories-leave-out-treatment-myths-and-misconcept-public-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="public health poster" data-ebay-reference="cancer-stories-when-cancer-cure-stories-leave-out-treatment-myths-and-misconcept-public-health-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=public+health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cancer-stories-when-cancer-cure-stories-leave-out-treatment-myths-and-misconcept-public-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="public health poster" data-ebay-reference="cancer-stories-when-cancer-cure-stories-leave-out-treatment-myths-and-misconcept-public-health-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage 1950s public health awareness advert poster"><img src="{{ '/assets/images/marketplace-covers/89316df3874ca53ba5a6.jpg' | relative_url }}" alt="Listing image for Vintage 1950s public health awareness advert poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=public+health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cancer-stories-when-cancer-cure-stories-leave-out-treatment-myths-and-misconcept-public-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="public health poster" data-ebay-reference="cancer-stories-when-cancer-cure-stories-leave-out-treatment-myths-and-misconcept-public-health-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage 1950s public health awareness advert poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=public+health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cancer-stories-when-cancer-cure-stories-leave-out-treatment-myths-and-misconcept-public-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="public health poster" data-ebay-reference="cancer-stories-when-cancer-cure-stories-leave-out-treatment-myths-and-misconcept-public-health-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for public health poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: public health poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=public+health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cancer-stories-when-cancer-cure-stories-leave-out-treatment-myths-and-misconcept-public-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="public health poster" data-ebay-reference="cancer-stories-when-cancer-cure-stories-leave-out-treatment-myths-and-misconcept-public-health-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=public+health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cancer-stories-when-cancer-cure-stories-leave-out-treatment-myths-and-misconcept-public-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="public health poster" data-ebay-reference="cancer-stories-when-cancer-cure-stories-leave-out-treatment-myths-and-misconcept-public-health-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage 1950s public health awareness advert poster"><img src="{{ '/assets/images/marketplace-covers/3ca1e11aa514c707039f.jpg' | relative_url }}" alt="Listing image for Vintage 1950s public health awareness advert poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=public+health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cancer-stories-when-cancer-cure-stories-leave-out-treatment-myths-and-misconcept-public-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="public health poster" data-ebay-reference="cancer-stories-when-cancer-cure-stories-leave-out-treatment-myths-and-misconcept-public-health-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage 1950s public health awareness advert poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=public+health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cancer-stories-when-cancer-cure-stories-leave-out-treatment-myths-and-misconcept-public-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="public health poster" data-ebay-reference="cancer-stories-when-cancer-cure-stories-leave-out-treatment-myths-and-misconcept-public-health-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for public health poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: public health poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=public+health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cancer-stories-when-cancer-cure-stories-leave-out-treatment-myths-and-misconcept-public-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="public health poster" data-ebay-reference="cancer-stories-when-cancer-cure-stories-leave-out-treatment-myths-and-misconcept-public-health-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=public+health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cancer-stories-when-cancer-cure-stories-leave-out-treatment-myths-and-misconcept-public-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="public health poster" data-ebay-reference="cancer-stories-when-cancer-cure-stories-leave-out-treatment-myths-and-misconcept-public-health-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=public+health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cancer-stories-when-cancer-cure-stories-leave-out-treatment-myths-and-misconcept-public-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="public health poster" data-ebay-reference="cancer-stories-when-cancer-cure-stories-leave-out-treatment-myths-and-misconcept-public-health-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage 1950s public health awareness advert poster"><img src="{{ '/assets/images/marketplace-covers/3ca1e11aa514c707039f.jpg' | relative_url }}" alt="Listing image for Vintage 1950s public health awareness advert poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=public+health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cancer-stories-when-cancer-cure-stories-leave-out-treatment-myths-and-misconcept-public-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="public health poster" data-ebay-reference="cancer-stories-when-cancer-cure-stories-leave-out-treatment-myths-and-misconcept-public-health-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage 1950s public health awareness advert poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=public+health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cancer-stories-when-cancer-cure-stories-leave-out-treatment-myths-and-misconcept-public-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="public health poster" data-ebay-reference="cancer-stories-when-cancer-cure-stories-leave-out-treatment-myths-and-misconcept-public-health-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for public health poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: public health poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=public+health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cancer-stories-when-cancer-cure-stories-leave-out-treatment-myths-and-misconcept-public-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="public health poster" data-ebay-reference="cancer-stories-when-cancer-cure-stories-leave-out-treatment-myths-and-misconcept-public-health-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=public+health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cancer-stories-when-cancer-cure-stories-leave-out-treatment-myths-and-misconcept-public-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="public health poster" data-ebay-reference="cancer-stories-when-cancer-cure-stories-leave-out-treatment-myths-and-misconcept-public-health-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -607,7 +607,7 @@ Hope and evidence are not opposites. Patients often need both. Survivor stories 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -627,7 +627,7 @@ Hope and evidence are not opposites. Patients often need both. Survivor stories 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -659,7 +659,7 @@ Hope and evidence are not opposites. Patients often need both. Survivor stories 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -711,7 +711,7 @@ Hope and evidence are not opposites. Patients often need both. Survivor stories 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -756,7 +756,7 @@ Hope and evidence are not opposites. Patients often need both. Survivor stories 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -797,151 +797,151 @@ Hope and evidence are not opposites. Patients often need both. Survivor stories 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: cancer.gov  
-   Link: <a href="https://www.cancer.gov/news-events/cancer-currents-blog/2021/cancer-misinformation-social-media" target="_blank" rel="noopener noreferrer nofollow">https://www.cancer.gov/news-events/cancer-currents-blog/2021/cancer-misinformation-social-media</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Challenges of Cancer Misinformation on Social MediaSep 9, 2021 — Misinformation about cancer is pervasive on the Internet and social...</p></details>
+   Link:<a href="https://www.cancer.gov/news-events/cancer-currents-blog/2021/cancer-misinformation-social-media" target="_blank" rel="noopener noreferrer nofollow">https://www.cancer.gov/news-events/cancer-currents-blog/2021/cancer-misinformation-social-media</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Challenges of Cancer Misinformation on Social MediaSep 9, 2021 — Misinformation about cancer is pervasive on the Internet and social...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9275772/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9275772/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Cancer Misinformation and Harmful Information on Facebook...by SB Johnson · 2021 · Cited by 240 — Health misinformation threatens pub...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9275772/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9275772/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Cancer Misinformation and Harmful Information on Facebook...by SB Johnson · 2021 · Cited by 240 — Health misinformation threatens pub...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11648589/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11648589/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Cancer misinformation on social media - PMC - NIHby S Loeb · 2024 · Cited by 58 — This should be distinguished from disinformation, wh...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11648589/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11648589/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Cancer misinformation on social media - PMC - NIHby S Loeb · 2024 · Cited by 58 — This should be distinguished from disinformation, wh...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10422174/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10422174/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Exposure and Reactions to Cancer Treatment Misinformation...by AJ Lazard · 2023 · Cited by 30 — Cancer treatment misinformation, or f...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10422174/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10422174/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Exposure and Reactions to Cancer Treatment Misinformation...by AJ Lazard · 2023 · Cited by 30 — Cancer treatment misinformation, or f...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: cancer.gov  
    Title: alternative medicine cancer survival  
-   Link: <a href="https://www.cancer.gov/news-events/cancer-currents-blog/2017/alternative-medicine-cancer-survival" target="_blank" rel="noopener noreferrer nofollow">https://www.cancer.gov/news-events/cancer-currents-blog/2017/alternative-medicine-cancer-survival</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Alternative Medicine for Cancer Treatment Raises Mortality...Sep 12, 2017 — Choosing alternative medicine as an initial cancer treatment...</p></details>
+   Link:<a href="https://www.cancer.gov/news-events/cancer-currents-blog/2017/alternative-medicine-cancer-survival" target="_blank" rel="noopener noreferrer nofollow">https://www.cancer.gov/news-events/cancer-currents-blog/2017/alternative-medicine-cancer-survival</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Alternative Medicine for Cancer Treatment Raises Mortality...Sep 12, 2017 — Choosing alternative medicine as an initial cancer treatment...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6233773/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC6233773/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Complementary Medicine, Refusal of Conventional Cancer...by SB Johnson · 2018 · Cited by 432 — Patients who received complementary me...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6233773/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC6233773/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Complementary Medicine, Refusal of Conventional Cancer...by SB Johnson · 2018 · Cited by 432 — Patients who received complementary me...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: nccih.nih.gov  
-   Link: <a href="https://www.nccih.nih.gov/health/cancer-and-complementary-health-approaches-what-you-need-to-know" target="_blank" rel="noopener noreferrer nofollow">https://www.nccih.nih.gov/health/cancer-and-complementary-health-approaches-what-you-need-to-know</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>em inappropriately can be harmful. For your safety:.Read more...</p></details>
+   Link:<a href="https://www.nccih.nih.gov/health/cancer-and-complementary-health-approaches-what-you-need-to-know" target="_blank" rel="noopener noreferrer nofollow">https://www.nccih.nih.gov/health/cancer-and-complementary-health-approaches-what-you-need-to-know</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>em inappropriately can be harmful. For your safety:.Read more...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: time.com  
    Title: Can Complementary Therapies Ease Cancer Treatment Symptoms?  
-   Link: <a href="https://time.com/6171230/complementary-integrative-therapies-cancer/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/6171230/complementary-integrative-therapies-cancer/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>What the Science SaysComplementary therapies can ease the side effects of cancer treatment, such as anxiety, depression, and pain, althou...</p></details>
+   Link:<a href="https://time.com/6171230/complementary-integrative-therapies-cancer/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/6171230/complementary-integrative-therapies-cancer/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>What the Science SaysComplementary therapies can ease the side effects of cancer treatment, such as anxiety, depression, and pain, althou...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: people.com  
    Title: Did Belle Gibson Actually Have Cancer?  
-   Link: <a href="https://people.com/apple-cider-vinegar-true-story-8786382" target="_blank" rel="noopener noreferrer nofollow">https://people.com/apple-cider-vinegar-true-story-8786382</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Inside the &quot;Apple Cider Vinegar&quot; True Story and the Influencer&#x27;s Real-Life Disease-Curing ScamFebruary 6, 2025 — Belle Gibson, a former A...</p></details>
+   Link:<a href="https://people.com/apple-cider-vinegar-true-story-8786382" target="_blank" rel="noopener noreferrer nofollow">https://people.com/apple-cider-vinegar-true-story-8786382</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Inside the &quot;Apple Cider Vinegar&quot; True Story and the Influencer&#x27;s Real-Life Disease-Curing ScamFebruary 6, 2025 — Belle Gibson, a former A...</p></details>
    Published: February 6, 2025  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: cancer.org  
    Title: how to interpret news about new cancer treatments  
-   Link: <a href="https://www.cancer.org/cancer/managing-cancer/how-to-interpret-news-about-new-cancer-treatments.html" target="_blank" rel="noopener noreferrer nofollow">https://www.cancer.org/cancer/managing-cancer/how-to-interpret-news-about-new-cancer-treatments.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>American Cancer SocietyUnderstanding Information About New Cancer TreatmentsAug 8, 2025 — Before a new medicine or device can be marketed...</p></details>
+   Link:<a href="https://www.cancer.org/cancer/managing-cancer/how-to-interpret-news-about-new-cancer-treatments.html" target="_blank" rel="noopener noreferrer nofollow">https://www.cancer.org/cancer/managing-cancer/how-to-interpret-news-about-new-cancer-treatments.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>American Cancer SocietyUnderstanding Information About New Cancer TreatmentsAug 8, 2025 — Before a new medicine or device can be marketed...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: cancer.org  
    Title: how to use safely  
-   Link: <a href="https://www.cancer.org/cancer/supportive-care/integrative-medicine/how-to-use-safely.html" target="_blank" rel="noopener noreferrer nofollow">https://www.cancer.org/cancer/supportive-care/integrative-medicine/how-to-use-safely.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How to Use Integrative (Holistic) Therapies SafelyJul 11, 2025 — Like any treatment, certain integrative (holistic) therapies may pose ri...</p></details>
+   Link:<a href="https://www.cancer.org/cancer/supportive-care/integrative-medicine/how-to-use-safely.html" target="_blank" rel="noopener noreferrer nofollow">https://www.cancer.org/cancer/supportive-care/integrative-medicine/how-to-use-safely.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How to Use Integrative (Holistic) Therapies SafelyJul 11, 2025 — Like any treatment, certain integrative (holistic) therapies may pose ri...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: cancer.org  
-   Link: <a href="https://www.cancer.org/about-us/what-we-do/cancer-stories.html" target="_blank" rel="noopener noreferrer nofollow">https://www.cancer.org/about-us/what-we-do/cancer-stories.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Cancer StoriesRead stories of real people who have survived cancer – and the positive impact the American Cancer Society had on their can...</p></details>
+   Link:<a href="https://www.cancer.org/about-us/what-we-do/cancer-stories.html" target="_blank" rel="noopener noreferrer nofollow">https://www.cancer.org/about-us/what-we-do/cancer-stories.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Cancer StoriesRead stories of real people who have survived cancer – and the positive impact the American Cancer Society had on their can...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: cancer.ca  
-   Link: <a href="https://cancer.ca/en/about-us/stories" target="_blank" rel="noopener noreferrer nofollow">https://cancer.ca/en/about-us/stories</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Our storiesDiscover stories about the impact of cancer on the lives of Canadians. Learn more about cancer research, support programs, hea...</p></details>
+   Link:<a href="https://cancer.ca/en/about-us/stories" target="_blank" rel="noopener noreferrer nofollow">https://cancer.ca/en/about-us/stories</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Our storiesDiscover stories about the impact of cancer on the lives of Canadians. Learn more about cancer research, support programs, hea...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: businessinsider.com  
-   Link: <a href="https://www.businessinsider.com/elle-macpherson-breast-cancer-treatment-lumpectomy-misleading-2024-9" target="_blank" rel="noopener noreferrer nofollow">https://www.businessinsider.com/elle-macpherson-breast-cancer-treatment-lumpectomy-misleading-2024-9</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Doctors say that&#x27;s misleading and potentially dangerous.September 4, 2024 — Elle Macpherson, an Australian supermodel, revealed she was d...</p></details>
+   Link:<a href="https://www.businessinsider.com/elle-macpherson-breast-cancer-treatment-lumpectomy-misleading" target="_blank" rel="noopener noreferrer nofollow">https://www.businessinsider.com/elle-macpherson-breast-cancer-treatment-lumpectomy-misleading</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Doctors say that&#x27;s misleading and potentially dangerous.September 4, 2024 — Elle Macpherson, an Australian supermodel, revealed she was d...</p></details>
    Published: September 4, 2024  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: mskcc.org  
-   Link: <a href="https://www.mskcc.org/news/truth-behind-three-natural-cures" target="_blank" rel="noopener noreferrer nofollow">https://www.mskcc.org/news/truth-behind-three-natural-cures</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Memorial Sloan KetteringThe Truth Behind Four Natural Cancer “Cures”Jun 25, 2024 — “Natural” cancer therapies should be regarded with gre...</p></details>
+   Link:<a href="https://www.mskcc.org/news/truth-behind-three-natural-cures" target="_blank" rel="noopener noreferrer nofollow">https://www.mskcc.org/news/truth-behind-three-natural-cures</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Memorial Sloan KetteringThe Truth Behind Four Natural Cancer “Cures”Jun 25, 2024 — “Natural” cancer therapies should be regarded with gre...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: mskcc.org  
    Title: Memorial Sloan Kettering Alternative Cancer Treatments: The Science vs  
-   Link: <a href="https://www.mskcc.org/podcasts/cancer-straight-talk/alternative-cancer-treatments-science-vs-hype" target="_blank" rel="noopener noreferrer nofollow">https://www.mskcc.org/podcasts/cancer-straight-talk/alternative-cancer-treatments-science-vs-hype</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The HypeFeb 19, 2025 — Many widely discussed alternative treatments lack scientific evidence for treating cancer. For example, Ivermectin...</p></details>
+   Link:<a href="https://www.mskcc.org/podcasts/cancer-straight-talk/alternative-cancer-treatments-science-vs-hype" target="_blank" rel="noopener noreferrer nofollow">https://www.mskcc.org/podcasts/cancer-straight-talk/alternative-cancer-treatments-science-vs-hype</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The HypeFeb 19, 2025 — Many widely discussed alternative treatments lack scientific evidence for treating cancer. For example, Ivermectin...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: macmillan.org.uk  
-   Link: <a href="https://www.macmillan.org.uk/cancer-information-and-support/worried-about-cancer/cancer-myths-and-misinformation" target="_blank" rel="noopener noreferrer nofollow">https://www.macmillan.org.uk/cancer-information-and-support/worried-about-cancer/cancer-myths-and-misinformation</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Wrong information can increase worry and delay people seeing their doctor or...Read more...</p></details>
+   Link:<a href="https://www.macmillan.org.uk/cancer-information-and-support/worried-about-cancer/cancer-myths-and-misinformation" target="_blank" rel="noopener noreferrer nofollow">https://www.macmillan.org.uk/cancer-information-and-support/worried-about-cancer/cancer-myths-and-misinformation</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Wrong information can increase worry and delay people seeing their doctor or...Read more...</p></details>
 
 ### Additional References
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: ecancer.org  
-   Link: <a href="https://ecancer.org/en/news/27083-study-finds-most-cancer-patients-exposed-to-misinformation-researchers-pilot-information-prescription" target="_blank" rel="noopener noreferrer nofollow">https://ecancer.org/en/news/27083-study-finds-most-cancer-patients-exposed-to-misinformation-researchers-pilot-information-prescription</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Study finds most cancer patients exposed to misinformation...25 Sept 2025 — Ninety-three percent of patients with a new cancer diagnosis...</p></details>
+   Link:<a href="https://ecancer.org/en/news/27083-study-finds-most-cancer-patients-exposed-to-misinformation-researchers-pilot-information-prescription" target="_blank" rel="noopener noreferrer nofollow">https://ecancer.org/en/news/27083-study-finds-most-cancer-patients-exposed-to-misinformation-researchers-pilot-information-prescription</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Study finds most cancer patients exposed to misinformation...25 Sept 2025 — Ninety-three percent of patients with a new cancer diagnosis...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: ecancer.org  
-   Link: <a href="https://ecancer.org/en/news/15035-surprising-number-of-americans-believe-alternative-therapies-can-cure-cancer" target="_blank" rel="noopener noreferrer nofollow">https://ecancer.org/en/news/15035-surprising-number-of-americans-believe-alternative-therapies-can-cure-cancer</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Surprising number of Americans believe alternative...1 Nov 2018 — Nearly four in 10 Americans (39%) believe cancer can be cured solely t...</p></details>
+   Link:<a href="https://ecancer.org/en/news/15035-surprising-number-of-americans-believe-alternative-therapies-can-cure-cancer" target="_blank" rel="noopener noreferrer nofollow">https://ecancer.org/en/news/15035-surprising-number-of-americans-believe-alternative-therapies-can-cure-cancer</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Surprising number of Americans believe alternative...1 Nov 2018 — Nearly four in 10 Americans (39%) believe cancer can be cured solely t...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: fda.gov  
-   Link: <a href="https://www.fda.gov/about-fda/conversations-cancer/conversations-cancer-cancer-misinformation-truth-or-consequences" target="_blank" rel="noopener noreferrer nofollow">https://www.fda.gov/about-fda/conversations-cancer/conversations-cancer-cancer-misinformation-truth-or-consequences</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Conversations on Cancer: Cancer Misinformation: Truth or...Nov 6, 2024 — Rapid evolution of social media platforms on the internet has f...</p></details>
+   Link:<a href="https://www.fda.gov/about-fda/conversations-cancer/conversations-cancer-cancer-misinformation-truth-or-consequences" target="_blank" rel="noopener noreferrer nofollow">https://www.fda.gov/about-fda/conversations-cancer/conversations-cancer-cancer-misinformation-truth-or-consequences</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Conversations on Cancer: Cancer Misinformation: Truth or...Nov 6, 2024 — Rapid evolution of social media platforms on the internet has f...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: oncologynewscentral.com  
    Title: interest in ivermectin for cancer has spread like wildfire oncologists say  
-   Link: <a href="https://www.oncologynewscentral.com/oncology/interest-in-ivermectin-for-cancer-has-spread-like-wildfire-oncologists-say" target="_blank" rel="noopener noreferrer nofollow">https://www.oncologynewscentral.com/oncology/interest-in-ivermectin-for-cancer-has-spread-like-wildfire-oncologists-say</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Interest in Ivermectin for Cancer “Has Spread Like Wildfire,”...Jun 13, 2025 — “There is currently no evidence in humans, or in patients...</p></details>
+   Link:<a href="https://www.oncologynewscentral.com/oncology/interest-in-ivermectin-for-cancer-has-spread-like-wildfire-oncologists-say" target="_blank" rel="noopener noreferrer nofollow">https://www.oncologynewscentral.com/oncology/interest-in-ivermectin-for-cancer-has-spread-like-wildfire-oncologists-say</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Interest in Ivermectin for Cancer “Has Spread Like Wildfire,”...Jun 13, 2025 — “There is currently no evidence in humans, or in patients...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: ilcn.org  
-   Link: <a href="https://www.ilcn.org/cancer-misinformation-its-impact-on-patients-and-mitigation-strategies/" target="_blank" rel="noopener noreferrer nofollow">https://www.ilcn.org/cancer-misinformation-its-impact-on-patients-and-mitigation-strategies/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ing the delivery of evidence-based therapies, but it threatens public health by eroding trust.Read more...</p></details>
+   Link:<a href="https://www.ilcn.org/cancer-misinformation-its-impact-on-patients-and-mitigation-strategies/" target="_blank" rel="noopener noreferrer nofollow">https://www.ilcn.org/cancer-misinformation-its-impact-on-patients-and-mitigation-strategies/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ing the delivery of evidence-based therapies, but it threatens public health by eroding trust.Read more...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: hhs.gov  
    Title: surgeon general misinformation advisory  
-   Link: <a href="https://www.hhs.gov/sites/default/files/surgeon-general-misinformation-advisory.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.hhs.gov/sites/default/files/surgeon-general-misinformation-advisory.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Confronting Health MisinformationJul 14, 2021 — Social media, political polarization and political disinformation: A review of the scient...</p></details>
+   Link:<a href="https://www.hhs.gov/sites/default/files/surgeon-general-misinformation-advisory.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.hhs.gov/sites/default/files/surgeon-general-misinformation-advisory.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Confronting Health MisinformationJul 14, 2021 — Social media, political polarization and political disinformation: A review of the scient...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: Wikipedia  
    Title: List of unproven and disproven cancer treatments  
-   Link: <a href="https://en.wikipedia.org/wiki/List_of_unproven_and_disproven_cancer_treatments" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_unproven_and_disproven_cancer_treatments</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>List of unproven and disproven cancer treatmentsMany alternative cancer treatments are considered disproven because they have been inv...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/List_of_unproven_and_disproven_cancer_treatments" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_unproven_and_disproven_cancer_treatments</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>List of unproven and disproven cancer treatmentsMany alternative cancer treatments are considered disproven because they have been inv...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/cancerresearchuk/posts/anyone-can-give-you-cancer-advice-online-but-the-consequences-could-be-seriousin/1438189448342826/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/cancerresearchuk/posts/anyone-can-give-you-cancer-advice-online-but-the-consequences-could-be-seriousin/1438189448342826/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>what&#x27;s not, and why it matters. We&#x27;re joined by breast...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/cancerresearchuk/posts/anyone-can-give-you-cancer-advice-online-but-the-consequences-could-be-seriousin/1438189448342826/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/cancerresearchuk/posts/anyone-can-give-you-cancer-advice-online-but-the-consequences-could-be-seriousin/1438189448342826/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>what&#x27;s not, and why it matters. We&#x27;re joined by breast...Read more...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: cancerresearchuk.org  
-   Link: <a href="https://www.cancerresearchuk.org/about-cancer/treatment/complementary-alternative-therapies/individual-therapies/essiac" target="_blank" rel="noopener noreferrer nofollow">https://www.cancerresearchuk.org/about-cancer/treatment/complementary-alternative-therapies/individual-therapies/essiac</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>s use as a treatment for cancer. Essiac can have side effects...</p></details>
+   Link:<a href="https://www.cancerresearchuk.org/about-cancer/treatment/complementary-alternative-therapies/individual-therapies/essiac" target="_blank" rel="noopener noreferrer nofollow">https://www.cancerresearchuk.org/about-cancer/treatment/complementary-alternative-therapies/individual-therapies/essiac</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>s use as a treatment for cancer. Essiac can have side effects...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: youtube.com  
    Title: Understanding the Science Behind Cancer Treatment  
-   Link: <a href="https://www.youtube.com/watch?v=Xh0YyQW1VqQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Xh0YyQW1VqQ</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>These videos are relevant because they explore how emotional testimonials and unverified claims about &quot;miracle cures&quot; can distract from e...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Xh0YyQW1VqQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Xh0YyQW1VqQ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>These videos are relevant because they explore how emotional testimonials and unverified claims about &quot;miracle cures&quot; can distract from e...</p></details>

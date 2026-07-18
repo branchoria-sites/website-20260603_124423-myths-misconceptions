@@ -510,11 +510,11 @@ The clearest mechanism is simple: ranking systems often optimise for engagement,
 
 A myth can spread without a platform: people have always repeated vivid stories that make the world feel simpler. What social media adds is automated selection. A feed-ranking system scores posts, videos or links against signals such as past behaviour, predicted clicks, comments, likes, shares, watch time, freshness, network connections and inferred interests. That ranking determines what appears first, what disappears and what is recommended to people who never asked for it.
 
-This matters because visibility itself becomes a reward. A claim that gets early attention can be shown to more people, producing more reactions, which can justify still more distribution. Researchers describe this as a feedback loop between user behaviour and algorithmic ranking: social drivers and algorithmic mechanisms interact, making it hard to separate “what people want” from what platforms repeatedly place in front of them. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11373151/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+This matters because visibility itself becomes a reward. A claim that gets early attention can be shown to more people, producing more reactions, which can justify still more distribution. Researchers describe this as a feedback loop between user behaviour and algorithmic ranking: social drivers and algorithmic mechanisms interact, making it hard to separate “what people want” from what platforms repeatedly place in front of them.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11373151/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 For myths and misconceptions, the crucial feature is not only reach but [timing]({{ 'timing/' | relative_url }}). False or misleading claims can spread during the gap between event and verification: after a violent incident, a celebrity rumour, a public-health scare or a dramatic political clip. By the time officials, journalists or fact-checkers clarify what happened, the false version may already have become familiar, emotionally charged and socially useful to a community.
 
-The classic study of Twitter rumours by Soroush Vosoughi, Deb Roy and Sinan Aral found that false news diffused farther, faster and more broadly than true news in their dataset; MIT’s summary notes that false stories were 70 per cent more likely to be retweeted than true stories. The study did not prove that ranking algorithms alone caused the effect, but it showed why engagement systems face a structural problem: falsehoods can have features that make people want to pass them on. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.science.org/doi/10.1126/science.aap9559" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.org">[Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The classic study of Twitter rumours by Soroush Vosoughi, Deb Roy and Sinan Aral found that false news diffused farther, faster and more broadly than true news in their dataset; MIT’s summary notes that false stories were 70 per cent more likely to be retweeted than true stories. The study did not prove that ranking algorithms alone caused the effect, but it showed why engagement systems face a structural problem: falsehoods can have features that make people want to pass them on.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.science.org/doi/10.1126/science.aap9559" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.org">[Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 ## Speed and scale
 
@@ -522,7 +522,7 @@ The first way algorithms help myths travel faster is by collapsing the distance 
 
 This sorting can turn small early differences into large visibility differences. A post that provokes outrage or fascination may generate comments from supporters and opponents alike. To a ranking system, both can look like evidence of relevance. A [correction]({{ 'correction/' | relative_url }}) that is careful, conditional and less emotionally charged may arrive later and attract less interaction. The result is a lopsided race: the myth is short, punchy and repeatable; the correction is slower, more qualified and less socially exciting.
 
-The same mechanism appears in crisis misinformation. A UK parliamentary report on social media, misinformation and harmful algorithms examined how platform incentives and recommender systems can contribute to the spread of harmful misleading content, including during fast-moving events where false claims can trigger offline consequences. The report also noted concerns about advertising models and monetisation around unreliable material, because visibility can be converted into revenue as well as influence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://publications.parliament.uk/pa/cm5901/cmselect/cmsctech/441/report.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: publications.parliament.uk">[UK Parliament]</a><span class="citation-popover" role="note"><span class="citation-popover-source">publications.parliament.uk</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The same mechanism appears in crisis misinformation. A UK parliamentary report on social media, misinformation and harmful algorithms examined how platform incentives and recommender systems can contribute to the spread of harmful misleading content, including during fast-moving events where false claims can trigger offline consequences. The report also noted concerns about advertising models and monetisation around unreliable material, because visibility can be converted into revenue as well as influence.<span class="citation-chip-wrap"><a class="citation-chip" href="https://publications.parliament.uk/pa/cm5901/cmselect/cmsctech/441/report.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: publications.parliament.uk">[UK Parliament]</a><span class="citation-popover" role="note"><span class="citation-popover-source">publications.parliament.uk</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 The scale problem is especially acute for myths that are not a single false post but a repeatable template: “the media are hiding this”, “this cure is being suppressed”, “this event was staged”, “this group is secretly responsible”. Platforms can remove or label one item while many near-duplicates, reaction videos, screenshots and coded references keep the narrative alive. Algorithmic systems trained on engagement may then recommend the theme even when individual pieces are moderated.
 
@@ -531,7 +531,7 @@ The scale problem is especially acute for myths that are not a single false post
 
 The second mechanism is the incentive structure created around attention. Many social platforms make money from advertising, subscriptions, creator programmes, shopping links or data-driven targeting. Even where the exact business model differs, attention remains valuable: more time on the platform creates more chances to show ads, collect signals, sell services or keep users from migrating elsewhere.
 
-Ranking systems therefore tend to privilege content predicted to keep users active. A 2025 PNAS Nexus audit of Twitter’s engagement-based ranking found that optimising for what users engage with can amplify divisive content more than ranking based on what users say they want to see. The authors frame the problem as a gap between revealed preferences, such as clicks and likes, and reflective preferences, such as what users later judge to be valuable or healthy. <span class="citation-chip-wrap"><a class="citation-chip" href="https://academic.oup.com/pnasnexus/article/4/3/pgaf062/8052060" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academic.oup.com">[OUP Academic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academic.oup.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Ranking systems therefore tend to privilege content predicted to keep users active. A 2025 PNAS Nexus audit of Twitter’s engagement-based ranking found that optimising for what users engage with can amplify divisive content more than ranking based on what users say they want to see. The authors frame the problem as a gap between revealed preferences, such as clicks and likes, and reflective preferences, such as what users later judge to be valuable or healthy.<span class="citation-chip-wrap"><a class="citation-chip" href="https://academic.oup.com/pnasnexus/article/4/3/pgaf062/8052060" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academic.oup.com">[OUP Academic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academic.oup.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 That gap is central to myth [amplification]({{ 'amplification/' | relative_url }}). People may click a conspiracy thread because it is disturbing, reply to a false claim because they are angry, or watch a misleading video because it is outrageous. Those actions do not necessarily mean they endorse the content. But if the system reads engagement as satisfaction, it may learn to surface more of the same.
 
@@ -556,9 +556,9 @@ None of these steps requires a platform to intend deception. The harm can emerge
 
 A careful account has to avoid a myth about algorithms too: the idea that every social problem caused by misinformation can be traced neatly to a feed-ranking system. The evidence is more complicated.
 
-Some platform experiments show strong algorithmic influence. Twitter’s own large-scale study, later published in PNAS, found that its home-timeline algorithm amplified political content unevenly across countries, with the mainstream political right receiving higher algorithmic amplification than the mainstream political left in six of seven countries studied. The authors did not find support for the simple claim that the algorithm mainly amplified political extremes over moderates, which is a reminder that algorithmic effects can be specific rather than universally sensational. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.pnas.org/doi/10.1073/pnas.2025334119" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pnas.org">[PNAS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pnas.org</span><span class="citation-popover-snippet">Open source on pnas.org.</span></span></span>
+Some platform experiments show strong algorithmic influence. Twitter’s own large-scale study, later published in PNAS, found that its home-timeline algorithm amplified political content unevenly across countries, with the mainstream political right receiving higher algorithmic amplification than the mainstream political left in six of seven countries studied. The authors did not find support for the simple claim that the algorithm mainly amplified political extremes over moderates, which is a reminder that algorithmic effects can be specific rather than universally sensational.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.pnas.org/doi/10.1073/pnas.2025334119" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pnas.org">[PNAS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pnas.org</span><span class="citation-popover-snippet">Open source on pnas.org.</span></span></span>
 
-Other experiments complicate the story. A 2023 Science study on Facebook and Instagram tested chronological feeds during the 2020 US election period and found that switching users away from algorithmic feeds changed what they saw and how they used the platforms, but did not significantly reduce affective polarisation, issue polarisation or political knowledge gaps during the study period. Nature’s coverage summarised the result as evidence that tweaking feeds is “no easy fix” for political polarisation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.science.org/doi/10.1126/science.aap9559" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.org">[Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Other experiments complicate the story. A 2023 Science study on Facebook and Instagram tested chronological feeds during the 2020 US election period and found that switching users away from algorithmic feeds changed what they saw and how they used the platforms, but did not significantly reduce affective polarisation, issue polarisation or political knowledge gaps during the study period. Nature’s coverage summarised the result as evidence that tweaking feeds is “no easy fix” for political polarisation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.science.org/doi/10.1126/science.aap9559" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.org">[Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 The most reasonable conclusion is not that algorithms are harmless. It is that their effects depend on the platform, the ranking objective, the user’s existing network, the topic, the time window and the outcome being measured. A feed can affect exposure to unreliable content without immediately changing a person’s political identity. It can increase engagement with a myth without being the original source of the belief. It can amplify some kinds of misinformation while suppressing others.
 
@@ -587,11 +587,11 @@ Reducing algorithmic myth amplification does not require a single universal fix.
 
 The first choice is **friction before virality**. Platforms can slow the spread of rapidly accelerating content when it concerns breaking news, public safety, elections or health. This can mean prompts before resharing, limits on forwarding, temporary downranking of unverified claims, or routing borderline material into review before it is recommended widely. The point is not to ban uncertainty; it is to stop the system treating early outrage as proof of reliability.
 
-The second choice is **ranking quality, not just engagement**. Meta’s Transparency Center says the company demotes categories including fact-checked misinformation and some borderline content, showing that large platforms already use distribution reduction as a moderation tool rather than relying only on removal. The unresolved issue is transparency: outsiders often cannot tell how strong those demotions are, how consistently they apply, or whether engagement objectives later compensate for them. <span class="citation-chip-wrap"><a class="citation-chip" href="https://transparency.meta.com/features/approach-to-ranking/types-of-content-we-demote/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: transparency.meta.com">[Transparency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">transparency.meta.com</span><span class="citation-popover-title">Transparency Types of content we demote</span><span class="citation-popover-snippet">Transparency Types of content we demote</span></span></span>
+The second choice is **ranking quality, not just engagement**. Meta’s Transparency Center says the company demotes categories including fact-checked misinformation and some borderline content, showing that large platforms already use distribution reduction as a moderation tool rather than relying only on removal. The unresolved issue is transparency: outsiders often cannot tell how strong those demotions are, how consistently they apply, or whether engagement objectives later compensate for them.<span class="citation-chip-wrap"><a class="citation-chip" href="https://transparency.meta.com/features/approach-to-ranking/types-of-content-we-demote/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: transparency.meta.com">[Transparency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">transparency.meta.com</span><span class="citation-popover-title">Transparency Types of content we demote</span><span class="citation-popover-snippet">Transparency Types of content we demote</span></span></span>
 
-The third choice is **user control that is meaningful by default**. Under the EU Digital Services Act, online platforms using recommender systems must explain the main parameters of those systems in clear language and provide options for users to modify or influence them. The wider DSA framework also imposes stronger obligations on very large online platforms and search engines because of their scale and systemic risks. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.eu-digital-services-act.com/Digital_Services_Act_Article_27.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eu-digital-services-act.com">[Digital Services Act]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eu-digital-services-act.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The third choice is **user control that is meaningful by default**. Under the EU Digital Services Act, online platforms using recommender systems must explain the main parameters of those systems in clear language and provide options for users to modify or influence them. The wider DSA framework also imposes stronger obligations on very large online platforms and search engines because of their scale and systemic risks.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.eu-digital-services-act.com/Digital_Services_Act_Article_27.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eu-digital-services-act.com">[Digital Services Act]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eu-digital-services-act.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-The fourth choice is **risk assessment before deployment**. Ofcom’s Online Safety Act work in the UK requires regulated services to assess and mitigate how algorithms affect the likelihood that users encounter illegal content or content harmful to children. UK parliamentary material also highlights recommender-system pre-testing and children’s protections as part of the regulatory response to algorithmic harm. <span class="citation-chip-wrap"><a class="citation-chip" href="https://committees.parliament.uk/writtenevidence/140786/pdf/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: committees.parliament.uk">[UK Parliament Committees]</a><span class="citation-popover" role="note"><span class="citation-popover-source">committees.parliament.uk</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The fourth choice is **risk assessment before deployment**. Ofcom’s Online Safety Act work in the UK requires regulated services to assess and mitigate how algorithms affect the likelihood that users encounter illegal content or content harmful to children. UK parliamentary material also highlights recommender-system pre-testing and children’s protections as part of the regulatory response to algorithmic harm.<span class="citation-chip-wrap"><a class="citation-chip" href="https://committees.parliament.uk/writtenevidence/140786/pdf/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: committees.parliament.uk">[UK Parliament Committees]</a><span class="citation-popover" role="note"><span class="citation-popover-source">committees.parliament.uk</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 The fifth choice is **independent access for researchers and auditors**. Without access to platform data, public debate falls back on [anecdotes]({{ 'anecdotes/' | relative_url }}), leaks, small external audits or company-selected studies. That is inadequate for systems that shape public knowledge at national and global scale. The mixed evidence from Twitter, X, Facebook and Instagram shows why independent, repeated and platform-specific auditing matters: different systems can produce different effects, and design changes can alter results over time.
 
@@ -600,7 +600,7 @@ The fifth choice is **independent access for researchers and auditors**. Without
 
 The governance challenge is to measure amplification as a system outcome, not just misinformation as a content category. A platform can truthfully say it removed millions of posts while still running a ranking system that rewards the next wave of emotionally optimised falsehoods. A better assessment asks what the system made more visible, more profitable and more repeatable.
 
-Useful measures include: <span class="citation-chip-wrap"><a class="citation-chip" href="https://publications.parliament.uk/pa/cm5901/cmselect/cmsctech/1397/report.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: publications.parliament.uk">[publications.parliament.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">publications.parliament.uk</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Useful measures include:<span class="citation-chip-wrap"><a class="citation-chip" href="https://publications.parliament.uk/pa/cm5901/cmselect/cmsctech/1397/report.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: publications.parliament.uk">[publications.parliament.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">publications.parliament.uk</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 <div class="content-enhancement content-enhancement--metric" markdown="1">
 
@@ -627,194 +627,194 @@ The strongest evidence does not support a simple claim that algorithms always ra
 A myth travels fastest when it feels true, asks little of the reader, and gives people a reason to react. Social media algorithms can turn that reaction into distribution. Governance is the work of changing those incentives so that platforms do not treat the most repeatable claim as the most reliable one.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How Platforms Help Myths Travel Faster. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How Platforms Help Myths Travel Faster. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Chaos+Machine+by+Max+Fisher&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Chaos Machine on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Fz5JEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Chaos Machine" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Chaos+Machine+by+Max+Fisher&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Chaos Machine">The Chaos Machine</a>
-        </h4>
-        <p class="fr-book-author">By Max Fisher</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Chaos+Machine+by+Max+Fisher&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Chaos Machine on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Fz5JEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Chaos Machine" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Chaos+Machine+by+Max+Fisher&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Chaos Machine">The Chaos Machine</a>
+</h4>
+<p class="fr-book-author">By Max Fisher</p>
         
-        <p class="fr-book-desc">Covers how platforms accelerate harmful information flows.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Chaos+Machine+by+Max+Fisher&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers how platforms accelerate harmful information flows.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Chaos+Machine+by+Max+Fisher&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hype+Machine+by+Sinan+Aral&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hype Machine on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=wuY9EAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Hype Machine" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Hype+Machine+by+Sinan+Aral&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hype Machine">The Hype Machine</a>
-        </h4>
-        <p class="fr-book-author">By Sinan Aral</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hype+Machine+by+Sinan+Aral&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hype Machine on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=wuY9EAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Hype Machine" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Hype+Machine+by+Sinan+Aral&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hype Machine">The Hype Machine</a>
+</h4>
+<p class="fr-book-author">By Sinan Aral</p>
         
-        <p class="fr-book-desc">Explores incentives and effects of social networks.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Hype+Machine+by+Sinan+Aral&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores incentives and effects of social networks.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Hype+Machine+by+Sinan+Aral&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Breaking+the+Social+Media+Prism+Chris+Bail&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Breaking the Social Media Prism on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/11144451-M.jpg" alt="Cover for Breaking the Social Media Prism" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Breaking+the+Social+Media+Prism+Chris+Bail&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Breaking the Social Media Prism">Breaking the Social Media Prism</a>
-        </h4>
-        <p class="fr-book-author">By Chris Bail</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Breaking+the+Social+Media+Prism+Chris+Bail&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Breaking the Social Media Prism on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/11144451-M.jpg" alt="Cover for Breaking the Social Media Prism" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Breaking+the+Social+Media+Prism+Chris+Bail&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Breaking the Social Media Prism">Breaking the Social Media Prism</a>
+</h4>
+<p class="fr-book-author">By Chris Bail</p>
         
-        <p class="fr-book-desc">First published 2021. Subjects: Sociology.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Breaking+the+Social+Media+Prism+Chris+Bail&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2021. Subjects: Sociology.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Breaking+the+Social+Media+Prism+Chris+Bail&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Chaos+Machine+Max+Fisher&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Chaos Machine on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/12897860-M.jpg" alt="Cover for Chaos Machine" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Chaos+Machine+Max+Fisher&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Chaos Machine">Chaos Machine</a>
-        </h4>
-        <p class="fr-book-author">By Max Fisher</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Chaos+Machine+Max+Fisher&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Chaos Machine on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/12897860-M.jpg" alt="Cover for Chaos Machine" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Chaos+Machine+Max+Fisher&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Chaos Machine">Chaos Machine</a>
+</h4>
+<p class="fr-book-author">By Max Fisher</p>
         
-        <p class="fr-book-desc">First published 2022.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Chaos+Machine+Max+Fisher&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2022.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Chaos+Machine+Max+Fisher&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Chaos+Machine&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Chaos Machine</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hype+Machine&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hype Machine</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Breaking+the+Social+Media+Prism&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Breaking the Social Media Prism</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Chaos+Machine&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Chaos Machine</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hype+Machine&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hype Machine</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Breaking+the+Social+Media+Prism&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Breaking the Social Media Prism</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=algorithms-how-platforms-help-myths-travel-faster-myths-and-misconcept-medical-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical wall art" data-ebay-reference="algorithms-how-platforms-help-myths-travel-faster-myths-and-misconcept-medical-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bristol Stool Chart Medical Diagram Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/debd529c6420c95645da.jpg' | relative_url }}" alt="Listing image for Bristol Stool Chart Medical Diagram Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=algorithms-how-platforms-help-myths-travel-faster-myths-and-misconcept-medical-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical wall art" data-ebay-reference="algorithms-how-platforms-help-myths-travel-faster-myths-and-misconcept-medical-wall-art" target="_blank" rel="sponsored noopener noreferrer">Bristol Stool Chart Medical Diagram Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=algorithms-how-platforms-help-myths-travel-faster-myths-and-misconcept-medical-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical wall art" data-ebay-reference="algorithms-how-platforms-help-myths-travel-faster-myths-and-misconcept-medical-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for medical wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: medical wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=algorithms-how-platforms-help-myths-travel-faster-myths-and-misconcept-medical-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical wall art" data-ebay-reference="algorithms-how-platforms-help-myths-travel-faster-myths-and-misconcept-medical-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=algorithms-how-platforms-help-myths-travel-faster-myths-and-misconcept-medical-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical wall art" data-ebay-reference="algorithms-how-platforms-help-myths-travel-faster-myths-and-misconcept-medical-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bristol Stool Chart Medical Diagram Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/debd529c6420c95645da.jpg' | relative_url }}" alt="Listing image for Bristol Stool Chart Medical Diagram Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=algorithms-how-platforms-help-myths-travel-faster-myths-and-misconcept-medical-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical wall art" data-ebay-reference="algorithms-how-platforms-help-myths-travel-faster-myths-and-misconcept-medical-wall-art" target="_blank" rel="sponsored noopener noreferrer">Bristol Stool Chart Medical Diagram Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=algorithms-how-platforms-help-myths-travel-faster-myths-and-misconcept-medical-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical wall art" data-ebay-reference="algorithms-how-platforms-help-myths-travel-faster-myths-and-misconcept-medical-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for medical wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: medical wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=algorithms-how-platforms-help-myths-travel-faster-myths-and-misconcept-medical-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical wall art" data-ebay-reference="algorithms-how-platforms-help-myths-travel-faster-myths-and-misconcept-medical-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=algorithms-how-platforms-help-myths-travel-faster-myths-and-misconcept-medical-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical wall art" data-ebay-reference="algorithms-how-platforms-help-myths-travel-faster-myths-and-misconcept-medical-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Brain medic Framed Art Print Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/ea37225ba47daaddc67e.jpg' | relative_url }}" alt="Listing image for Brain medic Framed Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=algorithms-how-platforms-help-myths-travel-faster-myths-and-misconcept-medical-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical wall art" data-ebay-reference="algorithms-how-platforms-help-myths-travel-faster-myths-and-misconcept-medical-wall-art" target="_blank" rel="sponsored noopener noreferrer">Brain medic Framed Art Print Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=algorithms-how-platforms-help-myths-travel-faster-myths-and-misconcept-medical-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical wall art" data-ebay-reference="algorithms-how-platforms-help-myths-travel-faster-myths-and-misconcept-medical-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for medical wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: medical wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=algorithms-how-platforms-help-myths-travel-faster-myths-and-misconcept-medical-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical wall art" data-ebay-reference="algorithms-how-platforms-help-myths-travel-faster-myths-and-misconcept-medical-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=algorithms-how-platforms-help-myths-travel-faster-myths-and-misconcept-medical-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical wall art" data-ebay-reference="algorithms-how-platforms-help-myths-travel-faster-myths-and-misconcept-medical-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Brain medic Framed Art Print Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/ea37225ba47daaddc67e.jpg' | relative_url }}" alt="Listing image for Brain medic Framed Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=algorithms-how-platforms-help-myths-travel-faster-myths-and-misconcept-medical-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical wall art" data-ebay-reference="algorithms-how-platforms-help-myths-travel-faster-myths-and-misconcept-medical-wall-art" target="_blank" rel="sponsored noopener noreferrer">Brain medic Framed Art Print Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=algorithms-how-platforms-help-myths-travel-faster-myths-and-misconcept-medical-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical wall art" data-ebay-reference="algorithms-how-platforms-help-myths-travel-faster-myths-and-misconcept-medical-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for medical wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: medical wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=algorithms-how-platforms-help-myths-travel-faster-myths-and-misconcept-medical-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical wall art" data-ebay-reference="algorithms-how-platforms-help-myths-travel-faster-myths-and-misconcept-medical-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=algorithms-how-platforms-help-myths-travel-faster-myths-and-misconcept-medical-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical wall art" data-ebay-reference="algorithms-how-platforms-help-myths-travel-faster-myths-and-misconcept-medical-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Medic Framed Art Print Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/10be4db0fa58cebf027a.jpg' | relative_url }}" alt="Listing image for Medic Framed Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=algorithms-how-platforms-help-myths-travel-faster-myths-and-misconcept-medical-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical wall art" data-ebay-reference="algorithms-how-platforms-help-myths-travel-faster-myths-and-misconcept-medical-wall-art" target="_blank" rel="sponsored noopener noreferrer">Medic Framed Art Print Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=algorithms-how-platforms-help-myths-travel-faster-myths-and-misconcept-medical-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical wall art" data-ebay-reference="algorithms-how-platforms-help-myths-travel-faster-myths-and-misconcept-medical-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for medical wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: medical wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=algorithms-how-platforms-help-myths-travel-faster-myths-and-misconcept-medical-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical wall art" data-ebay-reference="algorithms-how-platforms-help-myths-travel-faster-myths-and-misconcept-medical-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=algorithms-how-platforms-help-myths-travel-faster-myths-and-misconcept-medical-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical wall art" data-ebay-reference="algorithms-how-platforms-help-myths-travel-faster-myths-and-misconcept-medical-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Medic Framed Art Print Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/10be4db0fa58cebf027a.jpg' | relative_url }}" alt="Listing image for Medic Framed Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=algorithms-how-platforms-help-myths-travel-faster-myths-and-misconcept-medical-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical wall art" data-ebay-reference="algorithms-how-platforms-help-myths-travel-faster-myths-and-misconcept-medical-wall-art" target="_blank" rel="sponsored noopener noreferrer">Medic Framed Art Print Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=algorithms-how-platforms-help-myths-travel-faster-myths-and-misconcept-medical-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical wall art" data-ebay-reference="algorithms-how-platforms-help-myths-travel-faster-myths-and-misconcept-medical-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for medical wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: medical wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=algorithms-how-platforms-help-myths-travel-faster-myths-and-misconcept-medical-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical wall art" data-ebay-reference="algorithms-how-platforms-help-myths-travel-faster-myths-and-misconcept-medical-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=algorithms-how-platforms-help-myths-travel-faster-myths-and-misconcept-medical-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical wall art" data-ebay-reference="algorithms-how-platforms-help-myths-travel-faster-myths-and-misconcept-medical-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UK â˜‘â˜‘ - Reflexology of the Foot Wall Art Poster Human Anatomy Medical Print"><img src="{{ '/assets/images/marketplace-covers/d14b7c8b7e9b82c1d487.jpg' | relative_url }}" alt="Listing image for UK â˜‘â˜‘ - Reflexology of the Foot Wall Art Poster Human Anatomy Medical Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=algorithms-how-platforms-help-myths-travel-faster-myths-and-misconcept-medical-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical wall art" data-ebay-reference="algorithms-how-platforms-help-myths-travel-faster-myths-and-misconcept-medical-wall-art" target="_blank" rel="sponsored noopener noreferrer">UK â˜‘â˜‘ - Reflexology of the Foot Wall Art Poster Human Anatomy Medical Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=algorithms-how-platforms-help-myths-travel-faster-myths-and-misconcept-medical-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical wall art" data-ebay-reference="algorithms-how-platforms-help-myths-travel-faster-myths-and-misconcept-medical-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for medical wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: medical wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=algorithms-how-platforms-help-myths-travel-faster-myths-and-misconcept-medical-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical wall art" data-ebay-reference="algorithms-how-platforms-help-myths-travel-faster-myths-and-misconcept-medical-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=algorithms-how-platforms-help-myths-travel-faster-myths-and-misconcept-medical-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical wall art" data-ebay-reference="algorithms-how-platforms-help-myths-travel-faster-myths-and-misconcept-medical-wall-art" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=algorithms-how-platforms-help-myths-travel-faster-myths-and-misconcept-medical-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical wall art" data-ebay-reference="algorithms-how-platforms-help-myths-travel-faster-myths-and-misconcept-medical-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UK â˜‘â˜‘ - Reflexology of the Foot Wall Art Poster Human Anatomy Medical Print"><img src="{{ '/assets/images/marketplace-covers/d14b7c8b7e9b82c1d487.jpg' | relative_url }}" alt="Listing image for UK â˜‘â˜‘ - Reflexology of the Foot Wall Art Poster Human Anatomy Medical Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=algorithms-how-platforms-help-myths-travel-faster-myths-and-misconcept-medical-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical wall art" data-ebay-reference="algorithms-how-platforms-help-myths-travel-faster-myths-and-misconcept-medical-wall-art" target="_blank" rel="sponsored noopener noreferrer">UK â˜‘â˜‘ - Reflexology of the Foot Wall Art Poster Human Anatomy Medical Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=algorithms-how-platforms-help-myths-travel-faster-myths-and-misconcept-medical-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical wall art" data-ebay-reference="algorithms-how-platforms-help-myths-travel-faster-myths-and-misconcept-medical-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for medical wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: medical wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=algorithms-how-platforms-help-myths-travel-faster-myths-and-misconcept-medical-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical wall art" data-ebay-reference="algorithms-how-platforms-help-myths-travel-faster-myths-and-misconcept-medical-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=algorithms-how-platforms-help-myths-travel-faster-myths-and-misconcept-medical-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical wall art" data-ebay-reference="algorithms-how-platforms-help-myths-travel-faster-myths-and-misconcept-medical-wall-art" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -830,7 +830,7 @@ A myth travels fastest when it feels true, asks little of the reader, and gives 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -850,7 +850,7 @@ A myth travels fastest when it feels true, asks little of the reader, and gives 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -882,7 +882,7 @@ A myth travels fastest when it feels true, asks little of the reader, and gives 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -934,7 +934,7 @@ A myth travels fastest when it feels true, asks little of the reader, and gives 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -979,7 +979,7 @@ A myth travels fastest when it feels true, asks little of the reader, and gives 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -1020,193 +1020,193 @@ A myth travels fastest when it feels true, asks little of the reader, and gives 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11373151/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11373151/</a>  
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11373151/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11373151/</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: academic.oup.com  
-   Link: <a href="https://academic.oup.com/pnasnexus/article/4/3/pgaf062/8052060" target="_blank" rel="noopener noreferrer nofollow">https://academic.oup.com/pnasnexus/article/4/3/pgaf062/8052060</a>  
+   Link:<a href="https://academic.oup.com/pnasnexus/article/4/3/pgaf062/8052060" target="_blank" rel="noopener noreferrer nofollow">https://academic.oup.com/pnasnexus/article/4/3/pgaf062/8052060</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: news.mit.edu  
    Title: study twitter false news travels faster true stories 0308  
-   Link: <a href="https://news.mit.edu/2018/study-twitter-false-news-travels-faster-true-stories-0308" target="_blank" rel="noopener noreferrer nofollow">https://news.mit.edu/2018/study-twitter-false-news-travels-faster-true-stories-0308</a>  
+   Link:<a href="https://news.mit.edu/2018/study-twitter-false-news-travels-faster-true-stories-0308" target="_blank" rel="noopener noreferrer nofollow">https://news.mit.edu/2018/study-twitter-false-news-travels-faster-true-stories-0308</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: publications.parliament.uk  
-   Link: <a href="https://publications.parliament.uk/pa/cm5901/cmselect/cmsctech/441/report.html" target="_blank" rel="noopener noreferrer nofollow">https://publications.parliament.uk/pa/cm5901/cmselect/cmsctech/441/report.html</a>  
+   Link:<a href="https://publications.parliament.uk/pa/cm5901/cmselect/cmsctech/441/report.html" target="_blank" rel="noopener noreferrer nofollow">https://publications.parliament.uk/pa/cm5901/cmselect/cmsctech/441/report.html</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: publications.parliament.uk  
-   Link: <a href="https://publications.parliament.uk/pa/cm5901/cmselect/cmsctech/1397/report.html" target="_blank" rel="noopener noreferrer nofollow">https://publications.parliament.uk/pa/cm5901/cmselect/cmsctech/1397/report.html</a>  
+   Link:<a href="https://publications.parliament.uk/pa/cm5901/cmselect/cmsctech/1397/report.html" target="_blank" rel="noopener noreferrer nofollow">https://publications.parliament.uk/pa/cm5901/cmselect/cmsctech/1397/report.html</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: pnas.org  
-   Link: <a href="https://www.pnas.org/doi/10.1073/pnas.2025334119" target="_blank" rel="noopener noreferrer nofollow">https://www.pnas.org/doi/10.1073/pnas.2025334119</a>  
+   Link:<a href="https://www.pnas.org/doi/10.1073/pnas.2025334119" target="_blank" rel="noopener noreferrer nofollow">https://www.pnas.org/doi/10.1073/pnas.2025334119</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: nature.com  
-   Link: <a href="https://www.nature.com/articles/d41586-023-02420-z" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/d41586-023-02420-z</a>  
+   Link:<a href="https://www.nature.com/articles/d41586-023-02420-z" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/d41586-023-02420-z</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: transparency.meta.com  
    Title: Transparency Types of content we demote  
-   Link: <a href="https://transparency.meta.com/features/approach-to-ranking/types-of-content-we-demote/" target="_blank" rel="noopener noreferrer nofollow">https://transparency.meta.com/features/approach-to-ranking/types-of-content-we-demote/</a>  
+   Link:<a href="https://transparency.meta.com/features/approach-to-ranking/types-of-content-we-demote/" target="_blank" rel="noopener noreferrer nofollow">https://transparency.meta.com/features/approach-to-ranking/types-of-content-we-demote/</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: transparency.meta.com  
    Title: Transparency Misinformation  
-   Link: <a href="https://transparency.meta.com/policies/community-standards/misinformation/" target="_blank" rel="noopener noreferrer nofollow">https://transparency.meta.com/policies/community-standards/misinformation/</a>  
+   Link:<a href="https://transparency.meta.com/policies/community-standards/misinformation/" target="_blank" rel="noopener noreferrer nofollow">https://transparency.meta.com/policies/community-standards/misinformation/</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: eu-digital-services-act.com  
-   Link: <a href="https://www.eu-digital-services-act.com/Digital_Services_Act_Article_27.html" target="_blank" rel="noopener noreferrer nofollow">https://www.eu-digital-services-act.com/Digital_Services_Act_Article_27.html</a>  
+   Link:<a href="https://www.eu-digital-services-act.com/Digital_Services_Act_Article_27.html" target="_blank" rel="noopener noreferrer nofollow">https://www.eu-digital-services-act.com/Digital_Services_Act_Article_27.html</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: committees.parliament.uk  
-   Link: <a href="https://committees.parliament.uk/writtenevidence/140786/pdf/" target="_blank" rel="noopener noreferrer nofollow">https://committees.parliament.uk/writtenevidence/140786/pdf/</a>  
+   Link:<a href="https://committees.parliament.uk/writtenevidence/140786/pdf/" target="_blank" rel="noopener noreferrer nofollow">https://committees.parliament.uk/writtenevidence/140786/pdf/</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: committees.parliament.uk  
-   Link: <a href="https://committees.parliament.uk/writtenevidence/132995/pdf/" target="_blank" rel="noopener noreferrer nofollow">https://committees.parliament.uk/writtenevidence/132995/pdf/</a>  
+   Link:<a href="https://committees.parliament.uk/writtenevidence/132995/pdf/" target="_blank" rel="noopener noreferrer nofollow">https://committees.parliament.uk/writtenevidence/132995/pdf/</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: committees.parliament.uk  
-   Link: <a href="https://committees.parliament.uk/publications/48745/documents/258221/default/" target="_blank" rel="noopener noreferrer nofollow">https://committees.parliament.uk/publications/48745/documents/258221/default/</a>  
+   Link:<a href="https://committees.parliament.uk/publications/48745/documents/258221/default/" target="_blank" rel="noopener noreferrer nofollow">https://committees.parliament.uk/publications/48745/documents/258221/default/</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: committees.parliament.uk  
-   Link: <a href="https://committees.parliament.uk/writtenevidence/132906/pdf/" target="_blank" rel="noopener noreferrer nofollow">https://committees.parliament.uk/writtenevidence/132906/pdf/</a>  
+   Link:<a href="https://committees.parliament.uk/writtenevidence/132906/pdf/" target="_blank" rel="noopener noreferrer nofollow">https://committees.parliament.uk/writtenevidence/132906/pdf/</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: nature.com  
-   Link: <a href="https://www.nature.com/articles/d41586-018-02934-x" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/d41586-018-02934-x</a>  
+   Link:<a href="https://www.nature.com/articles/d41586-018-02934-x" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/d41586-018-02934-x</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: nature.com  
-   Link: <a href="https://www.nature.com/articles/s41586-026-10098-2" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41586-026-10098-2</a>  
+   Link:<a href="https://www.nature.com/articles/s41586-026-10098-2" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41586-026-10098-2</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/franceintheus/posts/fake-news-receives-70-more-retweets-than-the-facts-when-algorithms-prioritize-us/1307434554763003/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/franceintheus/posts/fake-news-receives-70-more-retweets-than-the-facts-when-algorithms-prioritize-us/1307434554763003/</a>  
+   Link:<a href="https://www.facebook.com/franceintheus/posts/fake-news-receives-70-more-retweets-than-the-facts-when-algorithms-prioritize-us/1307434554763003/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/franceintheus/posts/fake-news-receives-70-more-retweets-than-the-facts-when-algorithms-prioritize-us/1307434554763003/</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/WakeUpCarlsbad/posts/881120962066918/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/WakeUpCarlsbad/posts/881120962066918/</a>  
+   Link:<a href="https://www.facebook.com/groups/WakeUpCarlsbad/posts/881120962066918/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/WakeUpCarlsbad/posts/881120962066918/</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/the.university.of.oxford/posts/new-an-oxford-study-has-analysed-10-million-posts-across-seven-social-media-plat/1278837157624263/?locale=es_LA" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/the.university.of.oxford/posts/new-an-oxford-study-has-analysed-10-million-posts-across-seven-social-media-plat/1278837157624263/?locale=es_LA</a>  
+   Link:<a href="https://www.facebook.com/the.university.of.oxford/posts/new-an-oxford-study-has-analysed-10-million-posts-across-seven-social-media-plat/1278837157624263/?locale=es_LA" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/the.university.of.oxford/posts/new-an-oxford-study-has-analysed-10-million-posts-across-seven-social-media-plat/1278837157624263/?locale=es_LA</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: facebook.com  
    Title: internal research documents some previously unreported help to explain why faceb  
-   Link: <a href="https://www.facebook.com/seattletimes/posts/internal-research-documents-some-previously-unreported-help-to-explain-why-faceb/10159654162841215/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/seattletimes/posts/internal-research-documents-some-previously-unreported-help-to-explain-why-faceb/10159654162841215/</a>  
+   Link:<a href="https://www.facebook.com/seattletimes/posts/internal-research-documents-some-previously-unreported-help-to-explain-why-faceb/10159654162841215/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/seattletimes/posts/internal-research-documents-some-previously-unreported-help-to-explain-why-faceb/10159654162841215/</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/NaturePortfolioJournals/posts/a-study-in-nature-human-behaviour-found-that-deceptive-networks-reached-over-37-/1437233908432871/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NaturePortfolioJournals/posts/a-study-in-nature-human-behaviour-found-that-deceptive-networks-reached-over-37-/1437233908432871/</a>  
+   Link:<a href="https://www.facebook.com/NaturePortfolioJournals/posts/a-study-in-nature-human-behaviour-found-that-deceptive-networks-reached-over-37-/1437233908432871/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NaturePortfolioJournals/posts/a-study-in-nature-human-behaviour-found-that-deceptive-networks-reached-over-37-/1437233908432871/</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/TheNationThailand/posts/meta-has-unveiled-tougher-measures-on-facebook-to-support-original-creators-upda/1358838822936115/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TheNationThailand/posts/meta-has-unveiled-tougher-measures-on-facebook-to-support-original-creators-upda/1358838822936115/</a>  
+   Link:<a href="https://www.facebook.com/TheNationThailand/posts/meta-has-unveiled-tougher-measures-on-facebook-to-support-original-creators-upda/1358838822936115/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TheNationThailand/posts/meta-has-unveiled-tougher-measures-on-facebook-to-support-original-creators-upda/1358838822936115/</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: facebook.com  
    Title: the powerful algorithms used by facebook and instagram to deliver content to use  
-   Link: <a href="https://www.facebook.com/8News/posts/the-powerful-algorithms-used-by-facebook-and-instagram-to-deliver-content-to-use/686709300168280/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/8News/posts/the-powerful-algorithms-used-by-facebook-and-instagram-to-deliver-content-to-use/686709300168280/</a>  
+   Link:<a href="https://www.facebook.com/8News/posts/the-powerful-algorithms-used-by-facebook-and-instagram-to-deliver-content-to-use/686709300168280/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/8News/posts/the-powerful-algorithms-used-by-facebook-and-instagram-to-deliver-content-to-use/686709300168280/</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: pnas.org  
-   Link: <a href="https://www.pnas.org/doi/10.1073/pnas.1517441113" target="_blank" rel="noopener noreferrer nofollow">https://www.pnas.org/doi/10.1073/pnas.1517441113</a>  
+   Link:<a href="https://www.pnas.org/doi/10.1073/pnas.1517441113" target="_blank" rel="noopener noreferrer nofollow">https://www.pnas.org/doi/10.1073/pnas.1517441113</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: pnas.org  
-   Link: <a href="https://www.pnas.org/doi/10.1073/pnas.2321584121" target="_blank" rel="noopener noreferrer nofollow">https://www.pnas.org/doi/10.1073/pnas.2321584121</a>  
+   Link:<a href="https://www.pnas.org/doi/10.1073/pnas.2321584121" target="_blank" rel="noopener noreferrer nofollow">https://www.pnas.org/doi/10.1073/pnas.2321584121</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: science.org  
-   Link: <a href="https://www.science.org/doi/10.1126/science.aap9559" target="_blank" rel="noopener noreferrer nofollow">https://www.science.org/doi/10.1126/science.aap9559</a>  
+   Link:<a href="https://www.science.org/doi/10.1126/science.aap9559" target="_blank" rel="noopener noreferrer nofollow">https://www.science.org/doi/10.1126/science.aap9559</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: science.org  
-   Link: <a href="https://www.science.org/doi/10.1126/science.abp9364" target="_blank" rel="noopener noreferrer nofollow">https://www.science.org/doi/10.1126/science.abp9364</a>  
+   Link:<a href="https://www.science.org/doi/10.1126/science.abp9364" target="_blank" rel="noopener noreferrer nofollow">https://www.science.org/doi/10.1126/science.abp9364</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0047272726000253" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0047272726000253</a>  
+   Link:<a href="https://www.sciencedirect.com/science/article/pii/S0047272726000253" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0047272726000253</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0306457325001840" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0306457325001840</a>  
+   Link:<a href="https://www.sciencedirect.com/science/article/pii/S0306457325001840" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0306457325001840</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: people.umass.edu  
    Title: Science ELetter  
-   Link: <a href="https://people.umass.edu/~cbagchi/assets/pdf/ScienceELetter.pdf" target="_blank" rel="noopener noreferrer nofollow">https://people.umass.edu/~cbagchi/assets/pdf/ScienceELetter.pdf</a>  
+   Link:<a href="https://people.umass.edu/~cbagchi/assets/pdf/ScienceELetter.pdf" target="_blank" rel="noopener noreferrer nofollow">https://people.umass.edu/~cbagchi/assets/pdf/ScienceELetter.pdf</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: mccannfitzgerald.com  
-   Link: <a href="https://www.mccannfitzgerald.com/knowledge/disputes/digital-services-act-obligations-of-very-large-online-service-providers-eu-transparency-database-and-enforcement" target="_blank" rel="noopener noreferrer nofollow">https://www.mccannfitzgerald.com/knowledge/disputes/digital-services-act-obligations-of-very-large-online-service-providers-eu-transparency-database-and-enforcement</a>  
+   Link:<a href="https://www.mccannfitzgerald.com/knowledge/disputes/digital-services-act-obligations-of-very-large-online-service-providers-eu-transparency-database-and-enforcement" target="_blank" rel="noopener noreferrer nofollow">https://www.mccannfitzgerald.com/knowledge/disputes/digital-services-act-obligations-of-very-large-online-service-providers-eu-transparency-database-and-enforcement</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: science.org  
-   Link: <a href="https://www.science.org/doi/10.1126/science.adu5584" target="_blank" rel="noopener noreferrer nofollow">https://www.science.org/doi/10.1126/science.adu5584</a>  
+   Link:<a href="https://www.science.org/doi/10.1126/science.adu5584" target="_blank" rel="noopener noreferrer nofollow">https://www.science.org/doi/10.1126/science.adu5584</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: osome.iu.edu  
    Title: science eletter social media algorithms can curb misinformation but do they  
-   Link: <a href="https://osome.iu.edu/research/blog/science-eletter-social-media-algorithms-can-curb-misinformation-but-do-they" target="_blank" rel="noopener noreferrer nofollow">https://osome.iu.edu/research/blog/science-eletter-social-media-algorithms-can-curb-misinformation-but-do-they</a>  
+   Link:<a href="https://osome.iu.edu/research/blog/science-eletter-social-media-algorithms-can-curb-misinformation-but-do-they" target="_blank" rel="noopener noreferrer nofollow">https://osome.iu.edu/research/blog/science-eletter-social-media-algorithms-can-curb-misinformation-but-do-they</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: library.queens.edu  
-   Link: <a href="https://library.queens.edu/misinformation-on-social-media/algorithms" target="_blank" rel="noopener noreferrer nofollow">https://library.queens.edu/misinformation-on-social-media/algorithms</a>  
+   Link:<a href="https://library.queens.edu/misinformation-on-social-media/algorithms" target="_blank" rel="noopener noreferrer nofollow">https://library.queens.edu/misinformation-on-social-media/algorithms</a>  
 
 ### Additional References
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: youtube.com  
    Title: The Feedback Loop: How Social Media Algorithms Shape Reality  
-   Link: <a href="https://www.youtube.com/watch?v=QqQkjAOIbAo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=QqQkjAOIbAo</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How Recommender Systems Fuel Online Echo Chambers...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=QqQkjAOIbAo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=QqQkjAOIbAo</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How Recommender Systems Fuel Online Echo Chambers...</p></details>
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: youtube.com  
    Title: How Social Media Algorithms Amplify Misinformation  
-   Link: <a href="https://www.youtube.com/watch?v=F7J4b7042aE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=F7J4b7042aE</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Feedback Loop: How Social Media Algorithms Shape Reality...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=F7J4b7042aE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=F7J4b7042aE</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Feedback Loop: How Social Media Algorithms Shape Reality...</p></details>
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: youtube.com  
    Title: The Economics of Engagement: Why Myths Go Viral  
-   Link: <a href="https://www.youtube.com/watch?v=Aqk5jF8jN5w" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Aqk5jF8jN5w</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Understanding How Social Media Ranking Systems Influence Belief...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Aqk5jF8jN5w" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Aqk5jF8jN5w</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Understanding How Social Media Ranking Systems Influence Belief...</p></details>
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: disinfocode.eu  
-   Link: <a href="https://disinfocode.eu/reports/download/38" target="_blank" rel="noopener noreferrer nofollow">https://disinfocode.eu/reports/download/38</a>  
+   Link:<a href="https://disinfocode.eu/reports/download/38" target="_blank" rel="noopener noreferrer nofollow">https://disinfocode.eu/reports/download/38</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: brookings.edu  
-   Link: <a href="https://www.brookings.edu/articles/how-misinformation-spreads-on-social-media-and-what-to-do-about-it/" target="_blank" rel="noopener noreferrer nofollow">https://www.brookings.edu/articles/how-misinformation-spreads-on-social-media-and-what-to-do-about-it/</a>  
+   Link:<a href="https://www.brookings.edu/articles/how-misinformation-spreads-on-social-media-and-what-to-do-about-it/" target="_blank" rel="noopener noreferrer nofollow">https://www.brookings.edu/articles/how-misinformation-spreads-on-social-media-and-what-to-do-about-it/</a>  
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: knightcolumbia.org  
-   Link: <a href="https://knightcolumbia.org/content/engagement-user-satisfaction-and-the-amplification-of-divisive-content-on-social-media" target="_blank" rel="noopener noreferrer nofollow">https://knightcolumbia.org/content/engagement-user-satisfaction-and-the-amplification-of-divisive-content-on-social-media</a>  
+   Link:<a href="https://knightcolumbia.org/content/engagement-user-satisfaction-and-the-amplification-of-divisive-content-on-social-media" target="_blank" rel="noopener noreferrer nofollow">https://knightcolumbia.org/content/engagement-user-satisfaction-and-the-amplification-of-divisive-content-on-social-media</a>  
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/centrist/comments/1i5gag0/leftwing_bias_on_twitter_vs_rightwing_bias_on_x/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/centrist/comments/1i5gag0/leftwing_bias_on_twitter_vs_rightwing_bias_on_x/</a>  
+   Link:<a href="https://www.reddit.com/r/centrist/comments/1i5gag0/leftwing_bias_on_twitter_vs_rightwing_bias_on_x/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/centrist/comments/1i5gag0/leftwing_bias_on_twitter_vs_rightwing_bias_on_x/</a>  
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: 5rightsfoundation.com  
-   Link: <a href="https://5rightsfoundation.com/wp-content/uploads/2024/08/ofcom-illegal-harms-consultation-final-submission-2-3-2.pdf" target="_blank" rel="noopener noreferrer nofollow">https://5rightsfoundation.com/wp-content/uploads/2024/08/ofcom-illegal-harms-consultation-final-submission-2-3-2.pdf</a>  
+   Link:<a href="https://5rightsfoundation.com/wp-content/uploads/2024/08/ofcom-illegal-harms-consultation-final-submission-2-3-2.pdf" target="_blank" rel="noopener noreferrer nofollow">https://5rightsfoundation.com/wp-content/uploads/2024/08/ofcom-illegal-harms-consultation-final-submission-2-3-2.pdf</a>  
 
-43. <a id="endnote-43"></a>
+43.<a id="endnote-43"></a>
    Source: ifo.de  
-   Link: <a href="https://www.ifo.de/en/cesifo/publications/2026/working-paper/ranking-engagement-how-social-media-algorithms-fuel-misinformation" target="_blank" rel="noopener noreferrer nofollow">https://www.ifo.de/en/cesifo/publications/2026/working-paper/ranking-engagement-how-social-media-algorithms-fuel-misinformation</a>  
+   Link:<a href="https://www.ifo.de/en/cesifo/publications/2026/working-paper/ranking-engagement-how-social-media-algorithms-fuel-misinformation" target="_blank" rel="noopener noreferrer nofollow">https://www.ifo.de/en/cesifo/publications/2026/working-paper/ranking-engagement-how-social-media-algorithms-fuel-misinformation</a>  
 
-44. <a id="endnote-44"></a>
+44.<a id="endnote-44"></a>
    Source: fph.org.uk  
-   Link: <a href="https://www.fph.org.uk/media/hoejpp0s/social-media-consultation-fph-response.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.fph.org.uk/media/hoejpp0s/social-media-consultation-fph-response.pdf</a>
+   Link:<a href="https://www.fph.org.uk/media/hoejpp0s/social-media-consultation-fph-response.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.fph.org.uk/media/hoejpp0s/social-media-consultation-fph-response.pdf</a>

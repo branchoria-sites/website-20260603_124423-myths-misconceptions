@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /myths-and-misconcept-0d48d7-expert/
 description: Focused pages that expand on Expert Trust.
-date: '2026-06-11'
+date: '2026'
 layout: default
 parent_basename: Myths_and_misconcept_0d48d7_expert_trust_health_481656
 parent_title: Expert Trust
@@ -16,7 +16,7 @@ parent_permalink: /expert-trust/
 
 # Explore Topics in Expert Trust
 
-The following pages expand on the main **[Expert Trust]({{ '/expert-trust/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[Expert Trust]({{ '/expert-trust/' | relative_url }})** page and cover its key branches in.
 
 - [AI Doctors]({{ '/ai-doctors/' | relative_url }})
 - [False Balance]({{ '/false-balance-0e8d1b/' | relative_url }})

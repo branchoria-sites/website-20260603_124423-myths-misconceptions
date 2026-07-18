@@ -504,40 +504,40 @@ image: /assets/images/Myths_and_misconcept_0d48d7_neuromyths_in_school_b3f10d-ov
 Neuromyths are brain-based claims about learning that sound scientific but oversimplify, distort or overextend what neuroscience actually shows. In schools, the most persistent examples include “visual, auditory and kinaesthetic learners”, “left-brain and right-brain pupils”, “Brain Gym” style claims about cross-body movements improving hemispheric integration, and the idea that short “[critical periods]({{ 'critical-periods/' | relative_url }})” determine whether children can learn particular skills. They matter because they are not just harmless [slogans]({{ 'slogans/' | relative_url }}): they can shape teacher training, classroom routines, resource spending and the labels placed on pupils.
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_neuromyths_in_school_b3f10d-overview.webp" | relative_url }}" alt="Overview image for Neuromyths" loading="eager" decoding="sync" fetchpriority="high">
-The distinctive risk is that neuromyths often arrive wearing the clothes of professionalism. They are presented as ways to personalise teaching, respect difference, motivate pupils or bring cutting-edge science into the classroom. That is why they can be persuasive to conscientious teachers rather than only to poorly informed ones. Surveys and reviews repeatedly find that teachers may hold both accurate neuroscience knowledge and neuromyth beliefs at the same time, especially when a claim contains a small “kernel of truth” but adds an unsupported classroom prescription. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3475349/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">by S Dekker · 2012 · Cited by 1291 — Results showed that on average, teachers believed 49% of the neuromyths, particularly myths relat...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7835631/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">The Persistence of Neuromyths in the Educational Settingsby M Torrijos-Muelas · 2021 · Cited by 273 — The findings present neuromyths...</span></span></span>
+The distinctive risk is that neuromyths often arrive wearing the clothes of professionalism. They are presented as ways to personalise teaching, respect difference, motivate pupils or bring cutting-edge science into the classroom. That is why they can be persuasive to conscientious teachers rather than only to poorly informed ones. Surveys and reviews repeatedly find that teachers may hold both accurate neuroscience knowledge and neuromyth beliefs at the same time, especially when a claim contains a small “kernel of truth” but adds an unsupported classroom prescription.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3475349/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">by S Dekker · 2012 · Cited by 1291 — Results showed that on average, teachers believed 49% of the neuromyths, particularly myths relat...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7835631/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">The Persistence of Neuromyths in the Educational Settingsby M Torrijos-Muelas · 2021 · Cited by 273 — The findings present neuromyths...</span></span></span>
 
 ## Why brain language gives myths extra authority
 
 A neuromyth rarely begins as pure nonsense. More often, it grows from a real scientific idea that has been compressed into a classroom rule. The brain is plastic, so a training product may imply that a few prescribed exercises can “rewire” learning. People differ in preferences and prior knowledge, so a worksheet may classify pupils as visual, auditory or kinaesthetic learners. The hemispheres of the brain do specialise in some functions, so a staff-development session may slide into claims about left-brain and right-brain children.
 
-That slide from “there is a brain finding” to “therefore this classroom method works” is the central problem. The Organisation for Economic Co-operation and Development helped popularise concern about neuromyths in education through its work on neuroscience and learning, warning that misunderstandings of brain research could feed ineffective educational practice. Later research with teachers in the UK and the Netherlands found high interest in brain science, but also high endorsement of myths, with teachers believing an average of 49 per cent of the neuromyths included in the survey. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.oecd.org/en/publications/2007/06/understanding-the-brain-the-birth-of-a-learning-science_g1gh76fd.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oecd.org">[OECD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oecd.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+That slide from “there is a brain finding” to “therefore this classroom method works” is the central problem. The Organisation for Economic Co-operation and Development helped popularise concern about neuromyths in education through its work on neuroscience and learning, warning that misunderstandings of brain research could feed ineffective educational practice. Later research with teachers in the UK and the Netherlands found high interest in brain science, but also high endorsement of myths, with teachers believing an average of 49 per cent of the neuromyths included in the survey.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.oecd.org/en/publications/2007/06/understanding-the-brain-the-birth-of-a-learning-science_g1gh76fd.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oecd.org">[OECD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oecd.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 The appeal is easy to understand. Teachers face real classroom complexity: mixed attainment, limited time, behaviour pressures, special educational needs, parental expectations and policy demands. A “brain-based” tool can appear to offer a humane shortcut: diagnose the learner, match the strategy, unlock progress. The myth survives because it is emotionally and professionally attractive, not because teachers are careless.
 
-This is why simply mocking neuromyths is counterproductive. Many are attached to values that educators rightly care about: inclusion, motivation, attention to individual differences and the belief that pupils can improve. The better [correction]({{ 'correction/' | relative_url }}) is to separate the good value from the weak claim. Pupils do differ, but that does not mean they learn best when taught through a fixed sensory style. Movement can support attention and wellbeing, but that does not prove a commercial exercise sequence integrates brain hemispheres. Neuroscience can inform education, but it does not bypass the need for classroom trials, cognitive psychology and evidence about learning outcomes. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/26162104/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2021.719692/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-snippet">The following questions are examined: Does neuroscience training protect against...Read more...</span></span></span>
+This is why simply mocking neuromyths is counterproductive. Many are attached to values that educators rightly care about: inclusion, motivation, attention to individual differences and the belief that pupils can improve. The better [correction]({{ 'correction/' | relative_url }}) is to separate the good value from the weak claim. Pupils do differ, but that does not mean they learn best when taught through a fixed sensory style. Movement can support attention and wellbeing, but that does not prove a commercial exercise sequence integrates brain hemispheres. Neuroscience can inform education, but it does not bypass the need for classroom trials, cognitive psychology and evidence about learning outcomes.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/26162104/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2021.719692/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-snippet">The following questions are examined: Does neuroscience training protect against...Read more...</span></span></span>
 
 ## The classroom myths teachers are most likely to meet
 
 The best-known neuromyth in teacher training is learning styles: the claim that pupils learn better when instruction is matched to a preferred modality, such as visual, auditory or kinaesthetic. This is different from the modest and true claim that pupils may have preferences. A pupil may enjoy diagrams, discussion or hands-on activity. The unsupported leap is that diagnosing that preference and matching instruction to it reliably improves learning.
 
-A major review by Pashler and colleagues found that the evidence needed to support learning-styles-based instruction was lacking: to prove the claim, studies would need to show that different kinds of learners benefit more from different matched forms of instruction, not merely that pupils report preferences. Later reviews have found belief in learning styles remains strikingly high among educators. One systematic review of 37 studies, covering 15,405 educators in 18 countries, found a weighted 89.1 per cent belief in matching instruction to learning styles, and 79.7 per cent reported using or intending to use such matching. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/26162104/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+A major review by Pashler and colleagues found that the evidence needed to support learning-styles-based instruction was lacking: to prove the claim, studies would need to show that different kinds of learners benefit more from different matched forms of instruction, not merely that pupils report preferences. Later reviews have found belief in learning styles remains strikingly high among educators. One systematic review of 37 studies, covering 15,405 educators in 18 countries, found a weighted 89.1 per cent belief in matching instruction to learning styles, and 79.7 per cent reported using or intending to use such matching.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/26162104/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-The left-brain/right-brain myth is similarly resilient. It takes a real fact — some brain functions are lateralised — and turns it into a personality and teaching typology. In schools, this can become the idea that some pupils are naturally logical and analytical while others are creative and intuitive, and that teaching should be adapted around this supposed dominance. The problem is not that hemispheric specialisation is false; it is that complex learning uses distributed networks across the brain, and classroom achievement cannot be reliably sorted into left-brain and right-brain learner types. Reviews of neuromyth research identify hemispheric-dominance claims as among the most common misconceptions teachers encounter. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8548459/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Open source on nih.gov.</span></span></span>
+The left-brain/right-brain myth is similarly resilient. It takes a real fact — some brain functions are lateralised — and turns it into a personality and teaching typology. In schools, this can become the idea that some pupils are naturally logical and analytical while others are creative and intuitive, and that teaching should be adapted around this supposed dominance. The problem is not that hemispheric specialisation is false; it is that complex learning uses distributed networks across the brain, and classroom achievement cannot be reliably sorted into left-brain and right-brain learner types. Reviews of neuromyth research identify hemispheric-dominance claims as among the most common misconceptions teachers encounter.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8548459/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Open source on nih.gov.</span></span></span>
 
-“Brain Gym” and similar movement-based claims show how commercial packaging can strengthen a neuromyth. Short movement breaks may be useful for classroom management, attention or physical activity. The unsupported claim is more specific: that particular cross-body exercises improve learning by integrating the left and right hemispheres or increasing neural connections in a targeted way. Reviews describe these claims as a prominent example of programmes that move from plausible-sounding neuroscience to promises about preventing learning difficulties, improving creativity or raising intelligence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2021.719692/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-snippet">The following questions are examined: Does neuroscience training protect against...Read more...</span></span></span>
+“Brain Gym” and similar movement-based claims show how commercial packaging can strengthen a neuromyth. Short movement breaks may be useful for classroom management, attention or physical activity. The unsupported claim is more specific: that particular cross-body exercises improve learning by integrating the left and right hemispheres or increasing neural connections in a targeted way. Reviews describe these claims as a prominent example of programmes that move from plausible-sounding neuroscience to promises about preventing learning difficulties, improving creativity or raising intelligence.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2021.719692/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-snippet">The following questions are examined: Does neuroscience training protect against...Read more...</span></span></span>
 
-Some myths are especially sensitive because they concern pupils with special educational needs and disabilities. Claims about “brain types”, retained reflexes, auditory or visual processing labels, or fixed developmental windows can sound compassionate because they offer an explanation for difficulty. But weak explanations can also narrow expectations, direct families towards expensive interventions, or distract from better-supported teaching, assessment and support. The Chartered College of Teaching notes that neuromyths can be particularly tempting in special educational needs contexts because teachers are seeking practical ways to understand complex learning profiles. <span class="citation-chip-wrap"><a class="citation-chip" href="https://my.chartered.college/impact_article/neuromyths-about-special-educational-needs-what-should-teachers-know/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: my.chartered.college">[My College]</a><span class="citation-popover" role="note"><span class="citation-popover-source">my.chartered.college</span><span class="citation-popover-title">neuromyths about special educational needs what should teachers know</span><span class="citation-popover-snippet">neuromyths about special educational needs what should teachers know</span></span></span>
+Some myths are especially sensitive because they concern pupils with special educational needs and disabilities. Claims about “brain types”, retained reflexes, auditory or visual processing labels, or fixed developmental windows can sound compassionate because they offer an explanation for difficulty. But weak explanations can also narrow expectations, direct families towards expensive interventions, or distract from better-supported teaching, assessment and support. The Chartered College of Teaching notes that neuromyths can be particularly tempting in special educational needs contexts because teachers are seeking practical ways to understand complex learning profiles.<span class="citation-chip-wrap"><a class="citation-chip" href="https://my.chartered.college/impact_article/neuromyths-about-special-educational-needs-what-should-teachers-know/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: my.chartered.college">[My College]</a><span class="citation-popover" role="note"><span class="citation-popover-source">my.chartered.college</span><span class="citation-popover-title">neuromyths about special educational needs what should teachers know</span><span class="citation-popover-snippet">neuromyths about special educational needs what should teachers know</span></span></span>
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_neuromyths_in_school_b3f10d-Illustration-1-dark.svg" | relative_url }}" alt="Neuromyths illustration 1" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_neuromyths_in_school_b3f10d-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_neuromyths_in_school_b3f10d-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How teacher training can spread neuromyths
 
 Neuromyths spread through teacher education when brain claims are presented as professional knowledge without enough attention to evidence quality. This can happen in initial teacher training, continuing professional development, school improvement packages, popular education books, consultancy sessions, posters, online courses and informal staffroom advice. The route is not always commercial, but commercial training gives myths an especially efficient pathway into practice.
 
-A key finding from the literature is that general enthusiasm for neuroscience is not enough protection. In the UK-Netherlands teacher survey, interest in brain research was high, but teachers still endorsed many myths. Other studies have found that more general brain knowledge can coexist with more neuromyth belief, probably because educators who are most interested in neuroscience are also more exposed to brain-branded claims. Hughes and colleagues found that higher brain-knowledge scores and exposure to prior teacher training were associated with increased neuromyth belief, while specific in-service training in educational neuroscience was associated with better myth recognition. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9312647/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Open source on nih.gov.</span></span></span>
+A key finding from the literature is that general enthusiasm for neuroscience is not enough protection. In the UK-Netherlands teacher survey, interest in brain research was high, but teachers still endorsed many myths. Other studies have found that more general brain knowledge can coexist with more neuromyth belief, probably because educators who are most interested in neuroscience are also more exposed to brain-branded claims. Hughes and colleagues found that higher brain-knowledge scores and exposure to prior teacher training were associated with increased neuromyth belief, while specific in-service training in educational neuroscience was associated with better myth recognition.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9312647/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Open source on nih.gov.</span></span></span>
 
 This creates an uncomfortable lesson for training providers: a module labelled “the brain and learning” can help or harm depending on how it is taught. A weak version gives teachers a list of attractive brain facts and classroom tips. A stronger version teaches the difference between neuroscience, cognitive psychology, classroom evidence and commercial translation. It also shows how to ask whether a claim has been tested with learning outcomes, in real educational contexts, against a meaningful comparison.
 
-Pre-service teachers are a particular concern because early training can become a professional filter for later ideas. Research with 550 pre-service science teachers found that 10 neuromyths were endorsed by more than half of participants; learning styles and Brain Gym were endorsed by 93 per cent and 92 per cent respectively. The same study found that neuromyth endorsement was largely independent of professional knowledge, suggesting that simply adding more content is not the same as building better judgement. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2021.719692/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-snippet">The following questions are examined: Does neuroscience training protect against...Read more...</span></span></span>
+Pre-service teachers are a particular concern because early training can become a professional filter for later ideas. Research with 550 pre-service science teachers found that 10 neuromyths were endorsed by more than half of participants; learning styles and Brain Gym were endorsed by 93 per cent and 92 per cent respectively. The same study found that neuromyth endorsement was largely independent of professional knowledge, suggesting that simply adding more content is not the same as building better judgement.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2021.719692/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-snippet">The following questions are examined: Does neuroscience training protect against...Read more...</span></span></span>
 
 Teacher training can also unintentionally preserve myths through assessment language. Trainees may be asked to demonstrate “meeting individual learning styles”, “using brain-based strategies” or “planning for multiple intelligences” because these phrases have become part of the professional vocabulary. Once a myth is embedded in forms, lesson-plan templates or observation rubrics, it stops looking like a claim and starts looking like a standard.
 
@@ -545,9 +545,9 @@ Teacher training can also unintentionally preserve myths through assessment lang
 
 The practical cost of neuromyths is not only that teachers may believe something false. It is that the belief can redirect planning time, professional development money and pupil [identity]({{ 'identity/' | relative_url }}). A teacher who classifies a pupil as a kinaesthetic learner may spend effort converting tasks into movement-based activities when the more important question is whether the pupil understands the content, has sufficient background knowledge, receives feedback, practises retrieval or can transfer learning to a new problem.
 
-Learning styles illustrate the opportunity cost clearly. The Education Endowment Foundation’s Teaching and Learning Toolkit states that there is very limited evidence for learning styles approaches, and warns that labelling pupils by a supposed style may undermine the belief that they can succeed through effort. That warning matters because a label intended to personalise teaching can become a ceiling: “I am not an auditory learner”, “I cannot learn from reading”, “maths is not my brain type.” <span class="citation-chip-wrap"><a class="citation-chip" href="https://educationendowmentfoundation.org.uk/education-evidence/teaching-learning-toolkit/learning-styles" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: educationendowmentfoundation.org.uk">[EEF]</a><span class="citation-popover" role="note"><span class="citation-popover-source">educationendowmentfoundation.org.uk</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Learning styles illustrate the opportunity cost clearly. The Education Endowment Foundation’s Teaching and Learning Toolkit states that there is very limited evidence for learning styles approaches, and warns that labelling pupils by a supposed style may undermine the belief that they can succeed through effort. That warning matters because a label intended to personalise teaching can become a ceiling: “I am not an auditory learner”, “I cannot learn from reading”, “maths is not my brain type.”<span class="citation-chip-wrap"><a class="citation-chip" href="https://educationendowmentfoundation.org.uk/education-evidence/teaching-learning-toolkit/learning-styles" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: educationendowmentfoundation.org.uk">[EEF]</a><span class="citation-popover" role="note"><span class="citation-popover-source">educationendowmentfoundation.org.uk</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-The classroom effect is not always dramatic or visible. A school may not run a full learning-styles programme, but the idea can still shape smaller decisions: colour-coded learner profiles, seating plans, differentiated worksheets, revision advice, parent conversations or pupil self-descriptions. A 2024 study on why educators endorse learning styles found that belief in the myth can influence instructional choices, while educators may also choose learning-styles-aligned lessons because they seem engaging, inclusive or varied. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2021.719692/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-snippet">The following questions are examined: Does neuroscience training protect against...Read more...</span></span></span>
+The classroom effect is not always dramatic or visible. A school may not run a full learning-styles programme, but the idea can still shape smaller decisions: colour-coded learner profiles, seating plans, differentiated worksheets, revision advice, parent conversations or pupil self-descriptions. A 2024 study on why educators endorse learning styles found that belief in the myth can influence instructional choices, while educators may also choose learning-styles-aligned lessons because they seem engaging, inclusive or varied.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2021.719692/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-snippet">The following questions are examined: Does neuroscience training protect against...Read more...</span></span></span>
 
 This distinction is important: variety is not the problem. Good teaching often uses speech, text, images, worked examples, practice, discussion, models and physical materials. The issue is the reason for choosing them. A diagram may be the best way to teach a geometry concept because the content is spatial, not because a pupil has been diagnosed as a visual learner. A hands-on activity may be useful in science because pupils need to observe a phenomenon, not because the class contains kinaesthetic learners. The practical correction is not “never vary instruction”; it is “match the representation to the content and learning goal, not to a fixed learner label.”
 
@@ -564,17 +564,17 @@ The commercial pathway often follows a recognisable pattern:
 * **Evidence is blurred.** Testimonials, neuroscience facts and classroom [anecdotes]({{ 'anecdotes/' | relative_url }}) are presented as if they prove learning gains.
 * **The claim becomes normalised.** Once enough teachers have been trained, the language enters school culture.
 
-Brain Gym-style claims are a useful example because movement itself is not the enemy. Schools have good reasons to value physical activity, active breaks and varied routines. The questionable step is the proprietary explanation that particular movements improve learning through specific brain-integration mechanisms. The myth is persuasive because the observable part — pupils moving and re-engaging — may feel real, while the hidden causal claim about the brain goes untested. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2021.719692/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-snippet">The following questions are examined: Does neuroscience training protect against...Read more...</span></span></span>
+Brain Gym-style claims are a useful example because movement itself is not the enemy. Schools have good reasons to value physical activity, active breaks and varied routines. The questionable step is the proprietary explanation that particular movements improve learning through specific brain-integration mechanisms. The myth is persuasive because the observable part — pupils moving and re-engaging — may feel real, while the hidden causal claim about the brain goes untested.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2021.719692/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-snippet">The following questions are examined: Does neuroscience training protect against...Read more...</span></span></span>
 
 Professional culture can reinforce the same pattern without a commercial vendor. Teachers often share methods that appear to work in their classroom, and busy schools rely on trust. If a respected colleague says a learning-styles survey helped a difficult class, the claim may travel as practical wisdom. The correction therefore has to be respectful: the teacher may have improved relationships, varied instruction or made pupils feel noticed, even if the learning-styles theory used to explain the improvement was wrong.
 
 ## What the evidence says about reducing neuromyths
 
-The research on reducing neuromyth belief is more encouraging than a simple “myths never die” story, but it also warns against one-off [debunking]({{ 'debunking/' | relative_url }}). A review of interventions to dispel neuromyths found that refutation-based approaches can reduce false beliefs, but raised questions about whether [corrections]({{ 'corrections/' | relative_url }}) last, whether they change classroom practice, and whether neuroscience training alone is enough. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2021.719692/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-snippet">The following questions are examined: Does neuroscience training protect against...Read more...</span></span></span>
+The research on reducing neuromyth belief is more encouraging than a simple “myths never die” story, but it also warns against one-off [debunking]({{ 'debunking/' | relative_url }}). A review of interventions to dispel neuromyths found that refutation-based approaches can reduce false beliefs, but raised questions about whether [corrections]({{ 'corrections/' | relative_url }}) last, whether they change classroom practice, and whether neuroscience training alone is enough.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2021.719692/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-snippet">The following questions are examined: Does neuroscience training protect against...Read more...</span></span></span>
 
-A science-of-learning course for pre-service teachers found improvements in neuroscience literacy and reductions in neuromyth belief, suggesting that well-designed teacher education can help. However, the strongest versions do more than list myths. They teach why the myth was plausible, what the better explanation is, and how to evaluate future claims. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3475349/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">by S Dekker · 2012 · Cited by 1291 — Results showed that on average, teachers believed 49% of the neuromyths, particularly myths relat...</span></span></span>
+A science-of-learning course for pre-service teachers found improvements in neuroscience literacy and reductions in neuromyth belief, suggesting that well-designed teacher education can help. However, the strongest versions do more than list myths. They teach why the myth was plausible, what the better explanation is, and how to evaluate future claims.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3475349/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">by S Dekker · 2012 · Cited by 1291 — Results showed that on average, teachers believed 49% of the neuromyths, particularly myths relat...</span></span></span>
 
-The learning-styles literature offers a practical lesson. In the 2020 systematic review, four training studies that explained the lack of evidence for matching instruction to learning styles reduced belief from a weighted 78.4 per cent before training to 37.1 per cent afterwards. That is a large drop, but it still leaves many educators uncertain or partially convinced. It suggests that correction can work, but that durable change needs repeated reinforcement, better professional language and alternatives teachers can actually use. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2021.719692/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-snippet">The following questions are examined: Does neuroscience training protect against...Read more...</span></span></span>
+The learning-styles literature offers a practical lesson. In the 2020 systematic review, four training studies that explained the lack of evidence for matching instruction to learning styles reduced belief from a weighted 78.4 per cent before training to 37.1 per cent afterwards. That is a large drop, but it still leaves many educators uncertain or partially convinced. It suggests that correction can work, but that durable change needs repeated reinforcement, better professional language and alternatives teachers can actually use.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2021.719692/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-snippet">The following questions are examined: Does neuroscience training protect against...Read more...</span></span></span>
 
 The aim should not be to make teachers suspicious of all neuroscience. Educational neuroscience can be useful when it is careful about translation and works alongside psychology and classroom evidence. The goal is to build “evidence judgement”: the habit of asking what kind of claim is being made, what kind of evidence would support it, and whether the classroom recommendation follows from the science.
 
@@ -605,7 +605,7 @@ Rejecting neuromyths should not leave teachers with less care for individual pup
 
 For classroom planning, a stronger alternative is to match the method to the material. Use diagrams when the content has spatial structure; use oral rehearsal when pupils need fluent explanation; use manipulatives when concrete representation helps pupils grasp an abstract idea; use retrieval practice when the goal is durable recall; use worked examples when novices need to see the steps of a problem. This preserves variety without pretending that each child has a fixed sensory channel.
 
-For teacher training, the replacement is not a “neuromyth week” that briefly debunks common claims and then moves on. Better programmes embed evidence evaluation throughout training. Trainees should encounter examples of attractive but weak claims, learn the difference between preference and performance, practise reading intervention evidence, and discuss how myths can be attached to good intentions. Reviews of neuromyth interventions stress that reducing belief is only part of the task; the harder test is whether teachers then choose better-supported practices in real classrooms. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2021.719692/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-snippet">The following questions are examined: Does neuroscience training protect against...Read more...</span></span></span>
+For teacher training, the replacement is not a “neuromyth week” that briefly debunks common claims and then moves on. Better programmes embed evidence evaluation throughout training. Trainees should encounter examples of attractive but weak claims, learn the difference between preference and performance, practise reading intervention evidence, and discuss how myths can be attached to good intentions. Reviews of neuromyth interventions stress that reducing belief is only part of the task; the harder test is whether teachers then choose better-supported practices in real classrooms.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2021.719692/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-snippet">The following questions are examined: Does neuroscience training protect against...Read more...</span></span></span>
 
 School leaders also have a role. They can audit professional development materials for unsupported brain claims, remove learning-styles language from lesson templates, avoid requiring trainees to label pupils by style, and make evidence discussion routine rather than punitive. The culture shift is subtle but important: teachers should not feel embarrassed for having encountered a neuromyth; they should feel equipped to retire it.
 
@@ -616,194 +616,194 @@ Neuromyths show why misconceptions are so durable in professional settings. They
 The risk is not that every teacher who mentions the brain will damage learning. The risk is that schools may spend scarce time and trust on explanations that do not help pupils learn. The remedy is a more disciplined bridge between research and practice: welcome neuroscience where it is careful, reject labels that outrun the evidence, and judge classroom methods by what they help pupils understand, remember and do.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Brain Myths Spread in Schools. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Brain Myths Spread in Schools. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Why+Don%27t+Students+Like+School%3F+by+Daniel+T.+Willingham&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Why Don&#x27;t Students Like School? on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=kuEmEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Why Don&#x27;t Students Like School?" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Why+Don%27t+Students+Like+School%3F+by+Daniel+T.+Willingham&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Why Don&#x27;t Students Like School?">Why Don&#x27;t Students Like School?</a>
-        </h4>
-        <p class="fr-book-author">By Daniel T. Willingham</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Why+Don%27t+Students+Like+School%3F+by+Daniel+T.+Willingham&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Why Don&#x27;t Students Like School? on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=kuEmEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Why Don&#x27;t Students Like School?" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Why+Don%27t+Students+Like+School%3F+by+Daniel+T.+Willingham&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Why Don&#x27;t Students Like School?">Why Don&#x27;t Students Like School?</a>
+</h4>
+<p class="fr-book-author">By Daniel T. Willingham</p>
         
-        <p class="fr-book-desc">Explains evidence-based learning and counters popular misconceptions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Why+Don%27t+Students+Like+School%3F+by+Daniel+T.+Willingham&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains evidence-based learning and counters popular misconceptions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Why+Don%27t+Students+Like+School%3F+by+Daniel+T.+Willingham&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Make It Stick on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=oneWAwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Make It Stick" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Make It Stick">Make It Stick</a>
-        </h4>
-        <p class="fr-book-author">By Peter C. Brown, Henry L. Roediger III et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Make It Stick on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=oneWAwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Make It Stick" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Make It Stick">Make It Stick</a>
+</h4>
+<p class="fr-book-author">By Peter C. Brown, Henry L. Roediger III et al.</p>
         
-        <p class="fr-book-desc">Provides research-backed alternatives to neuromyth-driven teaching.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides research-backed alternatives to neuromyth-driven teaching.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+Learning+Happens+by+Paul+A.+Kirschner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How Learning Happens on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=PdnzEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How Learning Happens" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+Learning+Happens+by+Paul+A.+Kirschner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How Learning Happens">How Learning Happens</a>
-        </h4>
-        <p class="fr-book-author">By Paul A. Kirschner, Carl Hendrick</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+Learning+Happens+by+Paul+A.+Kirschner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How Learning Happens on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=PdnzEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How Learning Happens" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=How+Learning+Happens+by+Paul+A.+Kirschner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How Learning Happens">How Learning Happens</a>
+</h4>
+<p class="fr-book-author">By Paul A. Kirschner, Carl Hendrick</p>
         
-        <p class="fr-book-desc">Examines learning research often misrepresented by neuromyths.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+Learning+Happens+by+Paul+A.+Kirschner&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines learning research often misrepresented by neuromyths.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=How+Learning+Happens+by+Paul+A.+Kirschner&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Bad+Science+by+Ben+Goldacre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Bad Science on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=wICuv0ePMYoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Bad Science" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Bad+Science+by+Ben+Goldacre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Bad Science">Bad Science</a>
-        </h4>
-        <p class="fr-book-author">By Ben Goldacre</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Bad+Science+by+Ben+Goldacre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Bad Science on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=wICuv0ePMYoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Bad Science" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Bad+Science+by+Ben+Goldacre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Bad Science">Bad Science</a>
+</h4>
+<p class="fr-book-author">By Ben Goldacre</p>
         
-        <p class="fr-book-desc">Teaches skepticism toward scientific-sounding claims and products.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Bad+Science+by+Ben+Goldacre&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Teaches skepticism toward scientific-sounding claims and products.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Bad+Science+by+Ben+Goldacre&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Why+Don%27t+Students+Like+School%3F&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Why Don&#x27;t Students Like School?</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Make+It+Stick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Make It Stick</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+Learning+Happens&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How Learning Happens</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Why+Don%27t+Students+Like+School%3F&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Why Don&#x27;t Students Like School?</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Make+It+Stick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Make It Stick</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=How+Learning+Happens&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How Learning Happens</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=neuromyths-why-brain-myths-spread-in-schools-myths-and-misconcept-critical-thinking-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster -book -books" data-ebay-reference="neuromyths-why-brain-myths-spread-in-schools-myths-and-misconcept-critical-thinking-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking 2020 4 Movie Poster Art Print PopCulture Wall Memorable Exclus"><img src="{{ '/assets/images/marketplace-covers/d99b026298e0e1e60836.jpg' | relative_url }}" alt="Listing image for Critical Thinking 2020 4 Movie Poster Art Print PopCulture Wall Memorable Exclus" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=neuromyths-why-brain-myths-spread-in-schools-myths-and-misconcept-critical-thinking-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster -book -books" data-ebay-reference="neuromyths-why-brain-myths-spread-in-schools-myths-and-misconcept-critical-thinking-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking 2020 4 Movie Poster Art Print PopCulture Wall Memorable Exclus</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=neuromyths-why-brain-myths-spread-in-schools-myths-and-misconcept-critical-thinking-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster -book -books" data-ebay-reference="neuromyths-why-brain-myths-spread-in-schools-myths-and-misconcept-critical-thinking-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=neuromyths-why-brain-myths-spread-in-schools-myths-and-misconcept-critical-thinking-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster -book -books" data-ebay-reference="neuromyths-why-brain-myths-spread-in-schools-myths-and-misconcept-critical-thinking-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=neuromyths-why-brain-myths-spread-in-schools-myths-and-misconcept-critical-thinking-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster -book -books" data-ebay-reference="neuromyths-why-brain-myths-spread-in-schools-myths-and-misconcept-critical-thinking-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking 2020 4 Movie Poster Art Print PopCulture Wall Memorable Exclus"><img src="{{ '/assets/images/marketplace-covers/d99b026298e0e1e60836.jpg' | relative_url }}" alt="Listing image for Critical Thinking 2020 4 Movie Poster Art Print PopCulture Wall Memorable Exclus" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=neuromyths-why-brain-myths-spread-in-schools-myths-and-misconcept-critical-thinking-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster -book -books" data-ebay-reference="neuromyths-why-brain-myths-spread-in-schools-myths-and-misconcept-critical-thinking-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking 2020 4 Movie Poster Art Print PopCulture Wall Memorable Exclus</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=neuromyths-why-brain-myths-spread-in-schools-myths-and-misconcept-critical-thinking-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster -book -books" data-ebay-reference="neuromyths-why-brain-myths-spread-in-schools-myths-and-misconcept-critical-thinking-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=neuromyths-why-brain-myths-spread-in-schools-myths-and-misconcept-critical-thinking-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster -book -books" data-ebay-reference="neuromyths-why-brain-myths-spread-in-schools-myths-and-misconcept-critical-thinking-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=neuromyths-why-brain-myths-spread-in-schools-myths-and-misconcept-critical-thinking-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster -book -books" data-ebay-reference="neuromyths-why-brain-myths-spread-in-schools-myths-and-misconcept-critical-thinking-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking 2020 2 Movie Poster Art Print Display Famous Artwork StudioDec"><img src="{{ '/assets/images/marketplace-covers/2d0303c0f2d17049521c.jpg' | relative_url }}" alt="Listing image for Critical Thinking 2020 2 Movie Poster Art Print Display Famous Artwork StudioDec" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=neuromyths-why-brain-myths-spread-in-schools-myths-and-misconcept-critical-thinking-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster -book -books" data-ebay-reference="neuromyths-why-brain-myths-spread-in-schools-myths-and-misconcept-critical-thinking-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking 2020 2 Movie Poster Art Print Display Famous Artwork StudioDec</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=neuromyths-why-brain-myths-spread-in-schools-myths-and-misconcept-critical-thinking-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster -book -books" data-ebay-reference="neuromyths-why-brain-myths-spread-in-schools-myths-and-misconcept-critical-thinking-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=neuromyths-why-brain-myths-spread-in-schools-myths-and-misconcept-critical-thinking-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster -book -books" data-ebay-reference="neuromyths-why-brain-myths-spread-in-schools-myths-and-misconcept-critical-thinking-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=neuromyths-why-brain-myths-spread-in-schools-myths-and-misconcept-critical-thinking-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster -book -books" data-ebay-reference="neuromyths-why-brain-myths-spread-in-schools-myths-and-misconcept-critical-thinking-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking 2020 2 Movie Poster Art Print Display Famous Artwork StudioDec"><img src="{{ '/assets/images/marketplace-covers/2d0303c0f2d17049521c.jpg' | relative_url }}" alt="Listing image for Critical Thinking 2020 2 Movie Poster Art Print Display Famous Artwork StudioDec" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=neuromyths-why-brain-myths-spread-in-schools-myths-and-misconcept-critical-thinking-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster -book -books" data-ebay-reference="neuromyths-why-brain-myths-spread-in-schools-myths-and-misconcept-critical-thinking-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking 2020 2 Movie Poster Art Print Display Famous Artwork StudioDec</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=neuromyths-why-brain-myths-spread-in-schools-myths-and-misconcept-critical-thinking-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster -book -books" data-ebay-reference="neuromyths-why-brain-myths-spread-in-schools-myths-and-misconcept-critical-thinking-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=neuromyths-why-brain-myths-spread-in-schools-myths-and-misconcept-critical-thinking-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster -book -books" data-ebay-reference="neuromyths-why-brain-myths-spread-in-schools-myths-and-misconcept-critical-thinking-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=neuromyths-why-brain-myths-spread-in-schools-myths-and-misconcept-critical-thinking-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster -book -books" data-ebay-reference="neuromyths-why-brain-myths-spread-in-schools-myths-and-misconcept-critical-thinking-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking Framed Art Print Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/e43d6233dedc62687c14.jpg' | relative_url }}" alt="Listing image for Critical Thinking Framed Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=neuromyths-why-brain-myths-spread-in-schools-myths-and-misconcept-critical-thinking-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster -book -books" data-ebay-reference="neuromyths-why-brain-myths-spread-in-schools-myths-and-misconcept-critical-thinking-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking Framed Art Print Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=neuromyths-why-brain-myths-spread-in-schools-myths-and-misconcept-critical-thinking-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster -book -books" data-ebay-reference="neuromyths-why-brain-myths-spread-in-schools-myths-and-misconcept-critical-thinking-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=neuromyths-why-brain-myths-spread-in-schools-myths-and-misconcept-critical-thinking-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster -book -books" data-ebay-reference="neuromyths-why-brain-myths-spread-in-schools-myths-and-misconcept-critical-thinking-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=neuromyths-why-brain-myths-spread-in-schools-myths-and-misconcept-critical-thinking-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster -book -books" data-ebay-reference="neuromyths-why-brain-myths-spread-in-schools-myths-and-misconcept-critical-thinking-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking Framed Art Print Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/e43d6233dedc62687c14.jpg' | relative_url }}" alt="Listing image for Critical Thinking Framed Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=neuromyths-why-brain-myths-spread-in-schools-myths-and-misconcept-critical-thinking-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster -book -books" data-ebay-reference="neuromyths-why-brain-myths-spread-in-schools-myths-and-misconcept-critical-thinking-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking Framed Art Print Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=neuromyths-why-brain-myths-spread-in-schools-myths-and-misconcept-critical-thinking-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster -book -books" data-ebay-reference="neuromyths-why-brain-myths-spread-in-schools-myths-and-misconcept-critical-thinking-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=neuromyths-why-brain-myths-spread-in-schools-myths-and-misconcept-critical-thinking-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster -book -books" data-ebay-reference="neuromyths-why-brain-myths-spread-in-schools-myths-and-misconcept-critical-thinking-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=neuromyths-why-brain-myths-spread-in-schools-myths-and-misconcept-critical-thinking-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster -book -books" data-ebay-reference="neuromyths-why-brain-myths-spread-in-schools-myths-and-misconcept-critical-thinking-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking 2020 3 Movie Poster Art Print Fan PopCulture Nostalgic PopCult"><img src="{{ '/assets/images/marketplace-covers/0734f05b6a1eeec32948.jpg' | relative_url }}" alt="Listing image for Critical Thinking 2020 3 Movie Poster Art Print Fan PopCulture Nostalgic PopCult" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=neuromyths-why-brain-myths-spread-in-schools-myths-and-misconcept-critical-thinking-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster -book -books" data-ebay-reference="neuromyths-why-brain-myths-spread-in-schools-myths-and-misconcept-critical-thinking-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking 2020 3 Movie Poster Art Print Fan PopCulture Nostalgic PopCult</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=neuromyths-why-brain-myths-spread-in-schools-myths-and-misconcept-critical-thinking-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster -book -books" data-ebay-reference="neuromyths-why-brain-myths-spread-in-schools-myths-and-misconcept-critical-thinking-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=neuromyths-why-brain-myths-spread-in-schools-myths-and-misconcept-critical-thinking-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster -book -books" data-ebay-reference="neuromyths-why-brain-myths-spread-in-schools-myths-and-misconcept-critical-thinking-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=neuromyths-why-brain-myths-spread-in-schools-myths-and-misconcept-critical-thinking-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster -book -books" data-ebay-reference="neuromyths-why-brain-myths-spread-in-schools-myths-and-misconcept-critical-thinking-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=neuromyths-why-brain-myths-spread-in-schools-myths-and-misconcept-critical-thinking-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster -book -books" data-ebay-reference="neuromyths-why-brain-myths-spread-in-schools-myths-and-misconcept-critical-thinking-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking 2020 3 Movie Poster Art Print Fan PopCulture Nostalgic PopCult"><img src="{{ '/assets/images/marketplace-covers/0734f05b6a1eeec32948.jpg' | relative_url }}" alt="Listing image for Critical Thinking 2020 3 Movie Poster Art Print Fan PopCulture Nostalgic PopCult" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=neuromyths-why-brain-myths-spread-in-schools-myths-and-misconcept-critical-thinking-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster -book -books" data-ebay-reference="neuromyths-why-brain-myths-spread-in-schools-myths-and-misconcept-critical-thinking-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking 2020 3 Movie Poster Art Print Fan PopCulture Nostalgic PopCult</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=neuromyths-why-brain-myths-spread-in-schools-myths-and-misconcept-critical-thinking-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster -book -books" data-ebay-reference="neuromyths-why-brain-myths-spread-in-schools-myths-and-misconcept-critical-thinking-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=neuromyths-why-brain-myths-spread-in-schools-myths-and-misconcept-critical-thinking-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster -book -books" data-ebay-reference="neuromyths-why-brain-myths-spread-in-schools-myths-and-misconcept-critical-thinking-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=neuromyths-why-brain-myths-spread-in-schools-myths-and-misconcept-critical-thinking-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster -book -books" data-ebay-reference="neuromyths-why-brain-myths-spread-in-schools-myths-and-misconcept-critical-thinking-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -819,7 +819,7 @@ The risk is not that every teacher who mentions the brain will damage learning. 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -839,7 +839,7 @@ The risk is not that every teacher who mentions the brain will damage learning. 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -871,7 +871,7 @@ The risk is not that every teacher who mentions the brain will damage learning. 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -923,7 +923,7 @@ The risk is not that every teacher who mentions the brain will damage learning. 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -968,7 +968,7 @@ The risk is not that every teacher who mentions the brain will damage learning. 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -1009,124 +1009,124 @@ The risk is not that every teacher who mentions the brain will damage learning. 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3475349/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3475349/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>by S Dekker · 2012 · Cited by 1291 — Results showed that on average, teachers believed 49% of the neuromyths, particularly myths relat...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3475349/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3475349/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by S Dekker · 2012 · Cited by 1291 — Results showed that on average, teachers believed 49% of the neuromyths, particularly myths relat...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7835631/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC7835631/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Persistence of Neuromyths in the Educational Settingsby M Torrijos-Muelas · 2021 · Cited by 273 — The findings present neuromyths...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7835631/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC7835631/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Persistence of Neuromyths in the Educational Settingsby M Torrijos-Muelas · 2021 · Cited by 273 — The findings present neuromyths...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: oecd.org  
-   Link: <a href="https://www.oecd.org/en/publications/2007/06/understanding-the-brain-the-birth-of-a-learning-science_g1gh76fd.html" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/en/publications/2007/06/understanding-the-brain-the-birth-of-a-learning-science_g1gh76fd.html</a>  
+   Link:<a href="https://www.oecd.org/en/publications/2007/06/understanding-the-brain-the-birth-of-a-learning-science_g1gh76fd.html" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/en/publications/2007/06/understanding-the-brain-the-birth-of-a-learning-science_g1gh76fd.html</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8548459/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8548459/</a>  
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8548459/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8548459/</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: my.chartered.college  
    Title: neuromyths about special educational needs what should teachers know  
-   Link: <a href="https://my.chartered.college/impact_article/neuromyths-about-special-educational-needs-what-should-teachers-know/" target="_blank" rel="noopener noreferrer nofollow">https://my.chartered.college/impact_article/neuromyths-about-special-educational-needs-what-should-teachers-know/</a>  
+   Link:<a href="https://my.chartered.college/impact_article/neuromyths-about-special-educational-needs-what-should-teachers-know/" target="_blank" rel="noopener noreferrer nofollow">https://my.chartered.college/impact_article/neuromyths-about-special-educational-needs-what-should-teachers-know/</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: educationendowmentfoundation.org.uk  
-   Link: <a href="https://educationendowmentfoundation.org.uk/education-evidence/teaching-learning-toolkit/learning-styles" target="_blank" rel="noopener noreferrer nofollow">https://educationendowmentfoundation.org.uk/education-evidence/teaching-learning-toolkit/learning-styles</a>  
+   Link:<a href="https://educationendowmentfoundation.org.uk/education-evidence/teaching-learning-toolkit/learning-styles" target="_blank" rel="noopener noreferrer nofollow">https://educationendowmentfoundation.org.uk/education-evidence/teaching-learning-toolkit/learning-styles</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9312647/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9312647/</a>  
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9312647/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9312647/</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: my.chartered.college  
-   Link: <a href="https://my.chartered.college/impact_article/releasing-students-from-the-cognitive-straitjacket-of-visual-auditory-kinaesthetic-learning-styles/" target="_blank" rel="noopener noreferrer nofollow">https://my.chartered.college/impact_article/releasing-students-from-the-cognitive-straitjacket-of-visual-auditory-kinaesthetic-learning-styles/</a>  
+   Link:<a href="https://my.chartered.college/impact_article/releasing-students-from-the-cognitive-straitjacket-of-visual-auditory-kinaesthetic-learning-styles/" target="_blank" rel="noopener noreferrer nofollow">https://my.chartered.college/impact_article/releasing-students-from-the-cognitive-straitjacket-of-visual-auditory-kinaesthetic-learning-styles/</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: my.chartered.college  
-   Link: <a href="https://my.chartered.college/impact_article/teachers-understanding-of-neuromyths-a-role-for-educational-neuroscience-in-teacher-training/" target="_blank" rel="noopener noreferrer nofollow">https://my.chartered.college/impact_article/teachers-understanding-of-neuromyths-a-role-for-educational-neuroscience-in-teacher-training/</a>  
+   Link:<a href="https://my.chartered.college/impact_article/teachers-understanding-of-neuromyths-a-role-for-educational-neuroscience-in-teacher-training/" target="_blank" rel="noopener noreferrer nofollow">https://my.chartered.college/impact_article/teachers-understanding-of-neuromyths-a-role-for-educational-neuroscience-in-teacher-training/</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: youtube.com  
    Title: Neuromyths in Education  
-   Link: <a href="https://www.youtube.com/watch?v=kR2M1W2XpP4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=kR2M1W2XpP4</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Debunking Neuromyths in the Classroom...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=kR2M1W2XpP4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=kR2M1W2XpP4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Debunking Neuromyths in the Classroom...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: frontiersin.org  
-   Link: <a href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2021.719692/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2021.719692/full</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The following questions are examined: Does neuroscience training protect against...Read more...</p></details>
+   Link:<a href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2021.719692/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2021.719692/full</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The following questions are examined: Does neuroscience training protect against...Read more...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/26162104/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/26162104/</a>  
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/26162104/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/26162104/</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: frontiersin.org  
-   Link: <a href="https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2021.665752/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2021.665752/full</a>  
+   Link:<a href="https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2021.665752/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2021.665752/full</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: frontiersin.org  
-   Link: <a href="https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2020.602451/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2020.602451/full</a>  
+   Link:<a href="https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2020.602451/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2020.602451/full</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: frontiersin.org  
    Title: Frontiers Pre-service Science Teachers' Neuroscience Literacy  
-   Link: <a href="https://www.frontiersin.org/journals/human-neuroscience/articles/10.3389/fnhum.2019.00020/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/human-neuroscience/articles/10.3389/fnhum.2019.00020/full</a>  
+   Link:<a href="https://www.frontiersin.org/journals/human-neuroscience/articles/10.3389/fnhum.2019.00020/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/human-neuroscience/articles/10.3389/fnhum.2019.00020/full</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: frontiersin.org  
    Title: Frontiers Why educators endorse a neuromyth: relationships among  
-   Link: <a href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2024.1407518/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2024.1407518/full</a>  
+   Link:<a href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2024.1407518/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2024.1407518/full</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/34721171/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/34721171/</a>  
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/34721171/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/34721171/</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: frontiersin.org  
-   Link: <a href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2020.591923/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2020.591923/full</a>  
+   Link:<a href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2020.591923/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2020.591923/full</a>  
 
 ### Additional References
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: educationalneuroscience.org.uk  
-   Link: <a href="https://educationalneuroscience.org.uk/wordpress/resources/neuromyth-or-neurofact/children-have-different-learning-styles/" target="_blank" rel="noopener noreferrer nofollow">https://educationalneuroscience.org.uk/wordpress/resources/neuromyth-or-neurofact/children-have-different-learning-styles/</a>  
+   Link:<a href="https://educationalneuroscience.org.uk/wordpress/resources/neuromyth-or-neurofact/children-have-different-learning-styles/" target="_blank" rel="noopener noreferrer nofollow">https://educationalneuroscience.org.uk/wordpress/resources/neuromyth-or-neurofact/children-have-different-learning-styles/</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: psychologicalscience.org  
-   Link: <a href="https://www.psychologicalscience.org/news/releases/learning-styles-debunked-there-is-no-evidence-supporting-auditory-and-visual-learning-psychologists-say.html" target="_blank" rel="noopener noreferrer nofollow">https://www.psychologicalscience.org/news/releases/learning-styles-debunked-there-is-no-evidence-supporting-auditory-and-visual-learning-psychologists-say.html</a>  
+   Link:<a href="https://www.psychologicalscience.org/news/releases/learning-styles-debunked-there-is-no-evidence-supporting-auditory-and-visual-learning-psychologists-say.html" target="_blank" rel="noopener noreferrer nofollow">https://www.psychologicalscience.org/news/releases/learning-styles-debunked-there-is-no-evidence-supporting-auditory-and-visual-learning-psychologists-say.html</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/233600402_Learning_Styles_Concepts_and_Evidence" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/233600402_Learning_Styles_Concepts_and_Evidence</a>  
+   Link:<a href="https://www.researchgate.net/publication/233600402_Learning_Styles_Concepts_and_Evidence" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/233600402_Learning_Styles_Concepts_and_Evidence</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: uel.ac.uk  
-   Link: <a href="https://www.uel.ac.uk/sites/default/files/a-reflection-on-the-principles-of-learning-styles.docx" target="_blank" rel="noopener noreferrer nofollow">https://www.uel.ac.uk/sites/default/files/a-reflection-on-the-principles-of-learning-styles.docx</a>  
+   Link:<a href="https://www.uel.ac.uk/sites/default/files/a-reflection-on-the-principles-of-learning-styles.docx" target="_blank" rel="noopener noreferrer nofollow">https://www.uel.ac.uk/sites/default/files/a-reflection-on-the-principles-of-learning-styles.docx</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: gdoc.pub  
-   Link: <a href="https://gdoc.pub/doc/e/2PACX-1vSYLiQNF3XCdGSl-Axe-Da_0qaJxayn0oy4YXm4gCitzLXIMJ7FiFyAUlKcRMJi_H03WjtF8hLUAyb_" target="_blank" rel="noopener noreferrer nofollow">https://gdoc.pub/doc/e/2PACX-1vSYLiQNF3XCdGSl-Axe-Da_0qaJxayn0oy4YXm4gCitzLXIMJ7FiFyAUlKcRMJi_H03WjtF8hLUAyb_</a>  
+   Link:<a href="https://gdoc.pub/doc/e/2PACX-1vSYLiQNF3XCdGSl-Axe-Da_0qaJxayn0oy4YXm4gCitzLXIMJ7FiFyAUlKcRMJi_H03WjtF8hLUAyb_" target="_blank" rel="noopener noreferrer nofollow">https://gdoc.pub/doc/e/2PACX-1vSYLiQNF3XCdGSl-Axe-Da_0qaJxayn0oy4YXm4gCitzLXIMJ7FiFyAUlKcRMJi_H03WjtF8hLUAyb_</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: structural-learning.com  
-   Link: <a href="https://www.structural-learning.com/post/eef-teaching-learning-toolkit-guide" target="_blank" rel="noopener noreferrer nofollow">https://www.structural-learning.com/post/eef-teaching-learning-toolkit-guide</a>  
+   Link:<a href="https://www.structural-learning.com/post/eef-teaching-learning-toolkit-guide" target="_blank" rel="noopener noreferrer nofollow">https://www.structural-learning.com/post/eef-teaching-learning-toolkit-guide</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: scispace.com  
-   Link: <a href="https://scispace.com/pdf/educational-neuromyths-and-instructional-practices-the-case-12ess1im50.pdf" target="_blank" rel="noopener noreferrer nofollow">https://scispace.com/pdf/educational-neuromyths-and-instructional-practices-the-case-12ess1im50.pdf</a>  
+   Link:<a href="https://scispace.com/pdf/educational-neuromyths-and-instructional-practices-the-case-12ess1im50.pdf" target="_blank" rel="noopener noreferrer nofollow">https://scispace.com/pdf/educational-neuromyths-and-instructional-practices-the-case-12ess1im50.pdf</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: innerdrive.co.uk  
-   Link: <a href="https://www.innerdrive.co.uk/blog/combat-neuromyths/" target="_blank" rel="noopener noreferrer nofollow">https://www.innerdrive.co.uk/blog/combat-neuromyths/</a>  
+   Link:<a href="https://www.innerdrive.co.uk/blog/combat-neuromyths/" target="_blank" rel="noopener noreferrer nofollow">https://www.innerdrive.co.uk/blog/combat-neuromyths/</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: nifdi.org  
-   Link: <a href="https://www.nifdi.org/what-is-di/88-news/kerry-hempenstall/814-neuroscience-and-education-where-to.html" target="_blank" rel="noopener noreferrer nofollow">https://www.nifdi.org/what-is-di/88-news/kerry-hempenstall/814-neuroscience-and-education-where-to.html</a>  
+   Link:<a href="https://www.nifdi.org/what-is-di/88-news/kerry-hempenstall/814-neuroscience-and-education-where-to.html" target="_blank" rel="noopener noreferrer nofollow">https://www.nifdi.org/what-is-di/88-news/kerry-hempenstall/814-neuroscience-and-education-where-to.html</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/pii/S2211949324000097?dgcid=rss_sd_all" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S2211949324000097?dgcid=rss_sd_all</a>
+   Link:<a href="https://www.sciencedirect.com/science/article/pii/S2211949324000097?dgcid=rss_sd_all" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S2211949324000097?dgcid=rss_sd_all</a>

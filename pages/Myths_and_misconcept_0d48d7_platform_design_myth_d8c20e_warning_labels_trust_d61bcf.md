@@ -268,16 +268,16 @@ image: /assets/images/Myths_and_misconcept_0d48d7_platform_design_myth_d8c20e_wa
 
 ## Introduction
 
-Warning labels are one of the most widely used platform tools for reducing belief in myths and misinformation. Rather than removing content, they add context: a post may be marked as disputed, fact-checked, misleading, state-affiliated, or lacking evidence. Research generally finds that well-designed labels can reduce belief in false claims and lower willingness to share them. However, their success depends heavily on trust. If users distrust the institution applying the label, view it as politically motivated, or cannot understand why it appears, the intervention becomes less effective and can sometimes strengthen resistance among particular groups. The central challenge is therefore not merely whether [platforms]({{ 'platforms/' | relative_url }}) label content, but whether users regard those labels as credible, fair and informative. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S2352250X23001550" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Review Misinformation warning labels are widely effectiveby C Martel · 2023 · Cited by 163 — Recent evidence indicates that...</span></span></span>
+Warning labels are one of the most widely used platform tools for reducing belief in myths and misinformation. Rather than removing content, they add context: a post may be marked as disputed, fact-checked, misleading, state-affiliated, or lacking evidence. Research generally finds that well-designed labels can reduce belief in false claims and lower willingness to share them. However, their success depends heavily on trust. If users distrust the institution applying the label, view it as politically motivated, or cannot understand why it appears, the intervention becomes less effective and can sometimes strengthen resistance among particular groups. The central challenge is therefore not merely whether [platforms]({{ 'platforms/' | relative_url }}) label content, but whether users regard those labels as credible, fair and informative.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S2352250X23001550" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Review Misinformation warning labels are widely effectiveby C Martel · 2023 · Cited by 163 — Recent evidence indicates that...</span></span></span>
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_platform_design_myth_d8c20e_warning_labels_trust_d61bcf-Illustration-1-dark.svg" | relative_url }}" alt="Warning Labels illustration 1" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_platform_design_myth_d8c20e_warning_labels_trust_d61bcf-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_platform_design_myth_d8c20e_warning_labels_trust_d61bcf-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## What Effective Labels Tell Readers
 
 The strongest warning labels do more than announce that something is questionable. They provide enough information for readers to understand why caution is warranted.
 
-Studies reviewing misinformation interventions consistently find that labels are more effective when they are specific, visible and connected to a credible source. Labels that identify a claim as false, misleading or fact-checked generally reduce belief and sharing intentions more reliably than vague alerts. Their effect is particularly strong when users encounter the warning before accepting or sharing the claim. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S2352250X23001550" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Review Misinformation warning labels are widely effectiveby C Martel · 2023 · Cited by 163 — Recent evidence indicates that...</span></span></span>
+Studies reviewing misinformation interventions consistently find that labels are more effective when they are specific, visible and connected to a credible source. Labels that identify a claim as false, misleading or fact-checked generally reduce belief and sharing intentions more reliably than vague alerts. Their effect is particularly strong when users encounter the warning before accepting or sharing the claim.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S2352250X23001550" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Review Misinformation warning labels are widely effectiveby C Martel · 2023 · Cited by 163 — Recent evidence indicates that...</span></span></span>
 
-Researchers have also found benefits when labels explain their reasoning. Experiments examining AI-assisted and crowd-assisted warning systems suggest that users respond more positively when they receive some explanation of how the warning was generated rather than a bare warning alone. Explanatory labels can make the intervention appear more informative and less arbitrary. <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/abs/10.1177/10776990251347657" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsReducing Misinformation Credibility: How Explanations...by P Mena · Cited by 4 — An online experiment found that explanatio...</span></span></span>
+Researchers have also found benefits when labels explain their reasoning. Experiments examining AI-assisted and crowd-assisted warning systems suggest that users respond more positively when they receive some explanation of how the warning was generated rather than a bare warning alone. Explanatory labels can make the intervention appear more informative and less arbitrary.<span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/abs/10.1177/10776990251347657" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsReducing Misinformation Credibility: How Explanations...by P Mena · Cited by 4 — An online experiment found that explanatio...</span></span></span>
 
 A useful distinction exists between:
 
@@ -289,7 +289,7 @@ A useful distinction exists between:
 
 </div>
 
-The latter two approaches tend to generate less suspicion because they give readers a reason for the intervention rather than simply issuing a command about what to believe. <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/abs/10.1177/10776990251347657" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsReducing Misinformation Credibility: How Explanations...by P Mena · Cited by 4 — An online experiment found that explanatio...</span></span></span>
+The latter two approaches tend to generate less suspicion because they give readers a reason for the intervention rather than simply issuing a command about what to believe.<span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/abs/10.1177/10776990251347657" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsReducing Misinformation Credibility: How Explanations...by P Mena · Cited by 4 — An online experiment found that explanatio...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/EZsaA0w_0z0" title="The Facts about Fact Checking: Crash Course Navigating Digital Information #2" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=EZsaA0w_0z0" target="_blank" rel="noopener noreferrer">The Facts about Fact Checking: Crash Course Navigating Digital Information #2</a></p><p class="youtube-embed-meta">Channel: CrashCourse &middot; Views: 755.5K &middot; Uploaded: January 2019 &middot; Length: 13 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=EZsaA0w_0z0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=EZsaA0w_0z0">Open on YouTube</a></p></div></div></div>
 
@@ -297,253 +297,253 @@ The latter two approaches tend to generate less suspicion because they give read
 
 The most controversial question is whether warning labels sometimes increase belief in misinformation rather than reduce it.
 
-Early concerns about “[backfire]({{ 'backfire/' | relative_url }}) effects” emerged when platforms experimented with simple disputed tags. Facebook's original red-flag system was eventually abandoned after evidence suggested that highly visible warning symbols could sometimes reinforce the perception that a claim was controversial rather than false. The company shifted towards providing related fact-checks and contextual information instead. <span class="citation-chip-wrap"><a class="citation-chip" href="https://time.com/5077002/facebook-fake-news-articles/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: time.com">[Time]</a><span class="citation-popover" role="note"><span class="citation-popover-source">time.com</span><span class="citation-popover-snippet">The red warning icon, intended to combat misinformation, occasionally reinforced readers&#x27; beliefs and led to more sharing of disputed con...</span></span></span>
+Early concerns about “[backfire]({{ 'backfire/' | relative_url }}) effects” emerged when platforms experimented with simple disputed tags. Facebook's original red-flag system was eventually abandoned after evidence suggested that highly visible warning symbols could sometimes reinforce the perception that a claim was controversial rather than false. The company shifted towards providing related fact-checks and contextual information instead.<span class="citation-chip-wrap"><a class="citation-chip" href="https://time.com/5077002/facebook-fake-news-articles/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: time.com">[Time]</a><span class="citation-popover" role="note"><span class="citation-popover-source">time.com</span><span class="citation-popover-snippet">The red warning icon, intended to combat misinformation, occasionally reinforced readers&#x27; beliefs and led to more sharing of disputed con...</span></span></span>
 
 Research has identified several mechanisms behind these failures.
 
 ### Reactance and perceived censorship
 
-People often resist information that appears to threaten their autonomy. When a label is interpreted as an attempt to control what users think, some individuals respond by defending the flagged claim more strongly. This phenomenon, known as psychological [reactance]({{ 'reactance/' | relative_url }}), is especially relevant when misinformation aligns with a person's political [identity]({{ 'identity/' | relative_url }}) or worldview. The Journal of Social Media in Society <span class="citation-chip-wrap"><a class="citation-chip" href="https://thejsms.org/index.php/JSMS/article/view/1431/715" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thejsms.org">[thejsms.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thejsms.org</span><span class="citation-popover-snippet">warning label types in discrediting misinformation posts.Keywords: misinformation, warning label, worldview inconsistency, psychological...</span></span></span>
+People often resist information that appears to threaten their autonomy. When a label is interpreted as an attempt to control what users think, some individuals respond by defending the flagged claim more strongly. This phenomenon, known as psychological [reactance]({{ 'reactance/' | relative_url }}), is especially relevant when misinformation aligns with a person's political [identity]({{ 'identity/' | relative_url }}) or worldview. The Journal of Social Media in Society<span class="citation-chip-wrap"><a class="citation-chip" href="https://thejsms.org/index.php/JSMS/article/view/1431/715" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thejsms.org">[thejsms.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thejsms.org</span><span class="citation-popover-snippet">warning label types in discrediting misinformation posts.Keywords: misinformation, warning label, worldview inconsistency, psychological...</span></span></span>
 
-A study examining Twitter's disputed labels on election misinformation found that some politically knowledgeable supporters of the labelled politician became more likely to regard the misinformation as true after seeing the warning. Researchers suggested that distrust of the platform may have contributed to this reaction. <span class="citation-chip-wrap"><a class="citation-chip" href="https://misinforeview.hks.harvard.edu/article/trump-twitter-and-truth-judgments-the-effects-of-disputed-tags-and-political-knowledge-on-the-judged-truthfulness-of-election-misinformation/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: misinforeview.hks.harvard.edu">[Misinformation Review]</a><span class="citation-popover" role="note"><span class="citation-popover-source">misinforeview.hks.harvard.edu</span><span class="citation-popover-snippet">Misinformation ReviewTrump, Twitter, and truth judgments: The effects of “...by JC Blanchar · 2024 · Cited by 10 — Trump voters with hig...</span></span></span>
+A study examining Twitter's disputed labels on election misinformation found that some politically knowledgeable supporters of the labelled politician became more likely to regard the misinformation as true after seeing the warning. Researchers suggested that distrust of the platform may have contributed to this reaction.<span class="citation-chip-wrap"><a class="citation-chip" href="https://misinforeview.hks.harvard.edu/article/trump-twitter-and-truth-judgments-the-effects-of-disputed-tags-and-political-knowledge-on-the-judged-truthfulness-of-election-misinformation/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: misinforeview.hks.harvard.edu">[Misinformation Review]</a><span class="citation-popover" role="note"><span class="citation-popover-source">misinforeview.hks.harvard.edu</span><span class="citation-popover-snippet">Misinformation ReviewTrump, Twitter, and truth judgments: The effects of “...by JC Blanchar · 2024 · Cited by 10 — Trump voters with hig...</span></span></span>
 
 ### The trust transfer problem
 
 Users do not evaluate labels in isolation. They evaluate the source behind them.
 
-If readers distrust fact-checkers, media organisations, governments or technology companies, they may discount the warning regardless of its accuracy. In highly polarised environments, labels can become symbols of group [conflict]({{ 'conflict/' | relative_url }}) rather than signals of reliability. A warning intended to communicate evidence can instead be interpreted as evidence of bias. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S2352250X23001550" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Review Misinformation warning labels are widely effectiveby C Martel · 2023 · Cited by 163 — Recent evidence indicates that...</span></span></span>
+If readers distrust fact-checkers, media organisations, governments or technology companies, they may discount the warning regardless of its accuracy. In highly polarised environments, labels can become symbols of group [conflict]({{ 'conflict/' | relative_url }}) rather than signals of reliability. A warning intended to communicate evidence can instead be interpreted as evidence of bias.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S2352250X23001550" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Review Misinformation warning labels are widely effectiveby C Martel · 2023 · Cited by 163 — Recent evidence indicates that...</span></span></span>
 
-Interestingly, newer research suggests that complete trust in fact-checkers may not be necessary for labels to work. Experiments reported by MIT researchers found that fact-checking labels still reduced belief in misinformation even among participants who expressed scepticism towards fact-checkers. Nevertheless, effectiveness varied, showing that trust remains an important moderator rather than an all-or-nothing requirement. <span class="citation-chip-wrap"><a class="citation-chip" href="https://mitsloan.mit.edu/press/warning-labels-fact-checkers-work-even-if-you-dont-trust-them" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mitsloan.mit.edu">[MIT Sloan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mitsloan.mit.edu</span><span class="citation-popover-title">warning labels fact checkers work even if you dont trust them</span><span class="citation-popover-snippet">MIT SloanWarning labels from fact checkers work — even if you don&#x27;t...2 Sept 2024 — Fact-checker warning labels on social media can sign...</span></span></span>
+Interestingly, newer research suggests that complete trust in fact-checkers may not be necessary for labels to work. Experiments reported by MIT researchers found that fact-checking labels still reduced belief in misinformation even among participants who expressed scepticism towards fact-checkers. Nevertheless, effectiveness varied, showing that trust remains an important moderator rather than an all-or-nothing requirement.<span class="citation-chip-wrap"><a class="citation-chip" href="https://mitsloan.mit.edu/press/warning-labels-fact-checkers-work-even-if-you-dont-trust-them" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mitsloan.mit.edu">[MIT Sloan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mitsloan.mit.edu</span><span class="citation-popover-title">warning labels fact checkers work even if you dont trust them</span><span class="citation-popover-snippet">MIT SloanWarning labels from fact checkers work — even if you don&#x27;t...2 Sept 2024 — Fact-checker warning labels on social media can sign...</span></span></span>
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_platform_design_myth_d8c20e_warning_labels_trust_d61bcf-Illustration-2-dark.svg" | relative_url }}" alt="Warning Labels illustration 2" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_platform_design_myth_d8c20e_warning_labels_trust_d61bcf-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_platform_design_myth_d8c20e_warning_labels_trust_d61bcf-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### The implied truth effect
 
 Another risk appears when platforms label only a small fraction of false content.
 
-If users see warnings attached to some posts but not others, they may infer that unlabelled content has effectively been verified. Researchers call this the "implied truth effect". In such cases, incomplete labelling can unintentionally increase trust in misinformation that escapes review. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.niemanlab.org/2017/09/adding-a-disputed-label-to-fake-news-seems-to-work-a-little-but-for-some-groups-it-actually-backfires/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: niemanlab.org">[Nieman Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">niemanlab.org</span><span class="citation-popover-snippet">Nieman LabAdding a “disputed” label to fake news seems to work...Sep 12, 2017 — Labeling only some fake news stories as fake can make s...</span></span></span>
+If users see warnings attached to some posts but not others, they may infer that unlabelled content has effectively been verified. Researchers call this the "implied truth effect". In such cases, incomplete labelling can unintentionally increase trust in misinformation that escapes review.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.niemanlab.org/2017/09/adding-a-disputed-label-to-fake-news-seems-to-work-a-little-but-for-some-groups-it-actually-backfires/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: niemanlab.org">[Nieman Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">niemanlab.org</span><span class="citation-popover-snippet">Nieman LabAdding a “disputed” label to fake news seems to work...Sep 12, 2017 — Labeling only some fake news stories as fake can make s...</span></span></span>
 
-This problem helps explain why researchers often argue for broad and consistent application rather than selective warnings that leave large amounts of questionable content untouched. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S2352250X23001550" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Review Misinformation warning labels are widely effectiveby C Martel · 2023 · Cited by 163 — Recent evidence indicates that...</span></span></span>
+This problem helps explain why researchers often argue for broad and consistent application rather than selective warnings that leave large amounts of questionable content untouched.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S2352250X23001550" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Review Misinformation warning labels are widely effectiveby C Martel · 2023 · Cited by 163 — Recent evidence indicates that...</span></span></span>
 
 ## Why Trust Is a Design Problem, Not Just a User Problem
 
 It is tempting to treat distrust as something users bring with them, but [platform design]({{ 'platform-design/' | relative_url }}) decisions can either increase or decrease trust in labels.
 
-The source of a warning matters. Studies comparing labels from platforms, fact-checkers, other users and artificial intelligence systems show that effectiveness can vary depending on whom users believe is making the judgement. In some experiments, AI-generated warnings performed surprisingly well among participants who reported low trust in traditional news organisations, suggesting that perceptions of neutrality can influence outcomes. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2112.03450" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The source of a warning matters. Studies comparing labels from platforms, fact-checkers, other users and artificial intelligence systems show that effectiveness can vary depending on whom users believe is making the judgement. In some experiments, AI-generated warnings performed surprisingly well among participants who reported low trust in traditional news organisations, suggesting that perceptions of neutrality can influence outcomes.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2112.03450" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-Visibility also matters. A warning hidden behind multiple clicks may be ignored, while a dramatic warning may provoke defensive reactions. Research on content labels repeatedly finds that prominence helps only when paired with clarity and credibility. Highly conspicuous warnings that lack explanation can generate scepticism rather than reflection. ScienceDirect <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/abs/10.1177/10776990251347657" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsReducing Misinformation Credibility: How Explanations...by P Mena · Cited by 4 — An online experiment found that explanatio...</span></span></span>
+Visibility also matters. A warning hidden behind multiple clicks may be ignored, while a dramatic warning may provoke defensive reactions. Research on content labels repeatedly finds that prominence helps only when paired with clarity and credibility. Highly conspicuous warnings that lack explanation can generate scepticism rather than reflection. ScienceDirect<span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/abs/10.1177/10776990251347657" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsReducing Misinformation Credibility: How Explanations...by P Mena · Cited by 4 — An online experiment found that explanatio...</span></span></span>
 
-Timing is equally important. Labels applied before engagement are generally more effective than corrections encountered after a belief has already formed. Once a false claim becomes familiar, repetition itself can increase perceived accuracy, making later corrections more difficult. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11955583/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Social media and the spread of misinformation - PMC - NIHby E Denniss · 2025 · Cited by 137 — There is evidence that warning and fact...</span></span></span>
+Timing is equally important. Labels applied before engagement are generally more effective than corrections encountered after a belief has already formed. Once a false claim becomes familiar, repetition itself can increase perceived accuracy, making later corrections more difficult.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11955583/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Social media and the spread of misinformation - PMC - NIHby E Denniss · 2025 · Cited by 137 — There is evidence that warning and fact...</span></span></span>
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_platform_design_myth_d8c20e_warning_labels_trust_d61bcf-Illustration-3-dark.svg" | relative_url }}" alt="Warning Labels illustration 3" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_platform_design_myth_d8c20e_warning_labels_trust_d61bcf-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_platform_design_myth_d8c20e_warning_labels_trust_d61bcf-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Design Choices That Build Label Trust
 
 Evidence from platform experiments and misinformation research points towards several principles that make labels more trustworthy.
 
-**Explain the judgement.** Users are more receptive when they understand why content has been flagged and what evidence supports the warning. <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/abs/10.1177/10776990251347657" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsReducing Misinformation Credibility: How Explanations...by P Mena · Cited by 4 — An online experiment found that explanatio...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/abs/10.1177/10776990251347657" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsReducing Misinformation Credibility: How Explanations...by P Mena · Cited by 4 — An online experiment found that explanatio...</span></span></span>
+**Explain the judgement.** Users are more receptive when they understand why content has been flagged and what evidence supports the warning.<span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/abs/10.1177/10776990251347657" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsReducing Misinformation Credibility: How Explanations...by P Mena · Cited by 4 — An online experiment found that explanatio...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/abs/10.1177/10776990251347657" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsReducing Misinformation Credibility: How Explanations...by P Mena · Cited by 4 — An online experiment found that explanatio...</span></span></span>
 
-**Use credible and transparent sources.** Whether labels come from professional fact-checkers, community reviewers or automated systems, users should be able to understand who generated the warning and how. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S2352250X23001550" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Review Misinformation warning labels are widely effectiveby C Martel · 2023 · Cited by 163 — Recent evidence indicates that...</span></span></span>
+**Use credible and transparent sources.** Whether labels come from professional fact-checkers, community reviewers or automated systems, users should be able to understand who generated the warning and how.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S2352250X23001550" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Review Misinformation warning labels are widely effectiveby C Martel · 2023 · Cited by 163 — Recent evidence indicates that...</span></span></span>
 
-**Apply labels consistently.** Broad coverage reduces the implied truth effect created when only a small subset of misinformation receives warnings. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.niemanlab.org/2017/09/adding-a-disputed-label-to-fake-news-seems-to-work-a-little-but-for-some-groups-it-actually-backfires/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: niemanlab.org">[Nieman Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">niemanlab.org</span><span class="citation-popover-snippet">Nieman LabAdding a “disputed” label to fake news seems to work...Sep 12, 2017 — Labeling only some fake news stories as fake can make s...</span></span></span>
+**Apply labels consistently.** Broad coverage reduces the implied truth effect created when only a small subset of misinformation receives warnings.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.niemanlab.org/2017/09/adding-a-disputed-label-to-fake-news-seems-to-work-a-little-but-for-some-groups-it-actually-backfires/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: niemanlab.org">[Nieman Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">niemanlab.org</span><span class="citation-popover-snippet">Nieman LabAdding a “disputed” label to fake news seems to work...Sep 12, 2017 — Labeling only some fake news stories as fake can make s...</span></span></span>
 
-**Provide context, not only judgement.** Supplementary articles, explanations and corrective information often outperform simple disputed tags because they help users evaluate claims independently. <span class="citation-chip-wrap"><a class="citation-chip" href="https://time.com/5077002/facebook-fake-news-articles/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: time.com">[Time]</a><span class="citation-popover" role="note"><span class="citation-popover-source">time.com</span><span class="citation-popover-snippet">The red warning icon, intended to combat misinformation, occasionally reinforced readers&#x27; beliefs and led to more sharing of disputed con...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.teenvogue.com/story/facebook-changes-fake-news-flagging-approach" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: teenvogue.com">[Teen Vogue]</a><span class="citation-popover" role="note"><span class="citation-popover-source">teenvogue.com</span><span class="citation-popover-snippet">Previously, disputed articles were flagged with a red warning, but research showed that related articles providing more context were more...</span></span></span>
+**Provide context, not only judgement.** Supplementary articles, explanations and corrective information often outperform simple disputed tags because they help users evaluate claims independently.<span class="citation-chip-wrap"><a class="citation-chip" href="https://time.com/5077002/facebook-fake-news-articles/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: time.com">[Time]</a><span class="citation-popover" role="note"><span class="citation-popover-source">time.com</span><span class="citation-popover-snippet">The red warning icon, intended to combat misinformation, occasionally reinforced readers&#x27; beliefs and led to more sharing of disputed con...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.teenvogue.com/story/facebook-changes-fake-news-flagging-approach" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: teenvogue.com">[Teen Vogue]</a><span class="citation-popover" role="note"><span class="citation-popover-source">teenvogue.com</span><span class="citation-popover-snippet">Previously, disputed articles were flagged with a red warning, but research showed that related articles providing more context were more...</span></span></span>
 
-**Avoid unnecessary alarm signals.** Strong visual cues can attract attention, but they can also trigger defensiveness if users perceive them as attempts to shame or censor. <span class="citation-chip-wrap"><a class="citation-chip" href="https://time.com/5077002/facebook-fake-news-articles/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: time.com">[Time]</a><span class="citation-popover" role="note"><span class="citation-popover-source">time.com</span><span class="citation-popover-snippet">The red warning icon, intended to combat misinformation, occasionally reinforced readers&#x27; beliefs and led to more sharing of disputed con...</span></span></span>
+**Avoid unnecessary alarm signals.** Strong visual cues can attract attention, but they can also trigger defensiveness if users perceive them as attempts to shame or censor.<span class="citation-chip-wrap"><a class="citation-chip" href="https://time.com/5077002/facebook-fake-news-articles/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: time.com">[Time]</a><span class="citation-popover" role="note"><span class="citation-popover-source">time.com</span><span class="citation-popover-snippet">The red warning icon, intended to combat misinformation, occasionally reinforced readers&#x27; beliefs and led to more sharing of disputed con...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/uOxxgaZMZfk" title="How NOT to Argue - The Backfire effect" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=uOxxgaZMZfk" target="_blank" rel="noopener noreferrer">How NOT to Argue - The Backfire effect</a></p><p class="youtube-embed-meta">Channel: Best Class Ever &middot; Views: 2.1K &middot; Uploaded: June 2017 &middot; Length: 7 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=uOxxgaZMZfk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=uOxxgaZMZfk">Open on YouTube</a></p></div></div></div>
 
 ## The Main Lesson
 
-The debate over misinformation labels is no longer mainly about whether they work at all. A growing body of evidence indicates that warning labels usually reduce belief in and sharing of false claims when they are visible, specific and timely. The harder question is how to preserve trust in the label itself. A warning that readers see as informative can slow the spread of myths. A warning that readers see as partisan, arbitrary or opaque may be ignored—or, among some audiences, become another reason to cling to the underlying misconception. The effectiveness of labels therefore depends as much on trust-building design choices as on the factual accuracy of the warning they deliver. <span class="citation-chip-wrap"><a class="citation-chip" href="https://carnegieendowment.org/russia-eurasia/research/2024/01/countering-disinformation-effectively-an-evidence-based-policy-guide" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: carnegieendowment.org">[Carnegie Endowment]</a><span class="citation-popover" role="note"><span class="citation-popover-source">carnegieendowment.org</span><span class="citation-popover-title">countering disinformation effectively an evidence based policy guide</span><span class="citation-popover-snippet">Countering Disinformation Effectively: An Evidence-Based...31 Jan 2024 — A high-level, evidence-informed guide to some of the major prop...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S2352250X23001550" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[3ScienceDirect 3MIT]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Review Misinformation warning labels are widely effectiveby C Martel · 2023 · Cited by 163 — Recent evidence indicates that...</span></span></span> Sloan](#endnote-6 "Snippet: MIT SloanWarning labels from fact checkers work — even if you don't...2 Sept 2024 — Fact-checker warning labels on social media can sign")
+The debate over misinformation labels is no longer mainly about whether they work at all. A growing body of evidence indicates that warning labels usually reduce belief in and sharing of false claims when they are visible, specific and timely. The harder question is how to preserve trust in the label itself. A warning that readers see as informative can slow the spread of myths. A warning that readers see as partisan, arbitrary or opaque may be ignored—or, among some audiences, become another reason to cling to the underlying misconception. The effectiveness of labels therefore depends as much on trust-building design choices as on the factual accuracy of the warning they deliver.<span class="citation-chip-wrap"><a class="citation-chip" href="https://carnegieendowment.org/russia-eurasia/research/2024/01/countering-disinformation-effectively-an-evidence-based-policy-guide" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: carnegieendowment.org">[Carnegie Endowment]</a><span class="citation-popover" role="note"><span class="citation-popover-source">carnegieendowment.org</span><span class="citation-popover-title">countering disinformation effectively an evidence based policy guide</span><span class="citation-popover-snippet">Countering Disinformation Effectively: An Evidence-Based...31 Jan 2024 — A high-level, evidence-informed guide to some of the major prop...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S2352250X23001550" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[3ScienceDirect 3MIT]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Review Misinformation warning labels are widely effectiveby C Martel · 2023 · Cited by 163 — Recent evidence indicates that...</span></span></span> Sloan](#endnote-6 "Snippet: MIT SloanWarning labels from fact checkers work — even if you don't...2 Sept 2024 — Fact-checker warning labels on social media can sign")
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When Do Misinformation Labels Actually Work?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When Do Misinformation Labels Actually Work?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Psychology+of+Fake+News+by+Rainer+Greifeneder&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Psychology of Fake News on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=-Q72DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Psychology of Fake News" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Psychology+of+Fake+News+by+Rainer+Greifeneder&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Psychology of Fake News">The Psychology of Fake News</a>
-        </h4>
-        <p class="fr-book-author">By Rainer Greifeneder, Mariela Jaffe et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Psychology+of+Fake+News+by+Rainer+Greifeneder&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Psychology of Fake News on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=-Q72DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Psychology of Fake News" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Psychology+of+Fake+News+by+Rainer+Greifeneder&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Psychology of Fake News">The Psychology of Fake News</a>
+</h4>
+<p class="fr-book-author">By Rainer Greifeneder, Mariela Jaffe et al.</p>
         
-        <p class="fr-book-desc">Explains how audiences react to credibility signals and corrections.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Psychology+of+Fake+News+by+Rainer+Greifeneder&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains how audiences react to credibility signals and corrections.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Psychology+of+Fake+News+by+Rainer+Greifeneder&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Constitution+of+Knowledge+by+Jonathan+Rauch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Constitution of Knowledge on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=W4J_EQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Constitution of Knowledge" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Constitution+of+Knowledge+by+Jonathan+Rauch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Constitution of Knowledge">The Constitution of Knowledge</a>
-        </h4>
-        <p class="fr-book-author">By Jonathan Rauch</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Constitution+of+Knowledge+by+Jonathan+Rauch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Constitution of Knowledge on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=W4J_EQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Constitution of Knowledge" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Constitution+of+Knowledge+by+Jonathan+Rauch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Constitution of Knowledge">The Constitution of Knowledge</a>
+</h4>
+<p class="fr-book-author">By Jonathan Rauch</p>
         
-        <p class="fr-book-desc">Relevant to institutional credibility and trust in labels.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Constitution+of+Knowledge+by+Jonathan+Rauch&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Relevant to institutional credibility and trust in labels.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Constitution+of+Knowledge+by+Jonathan+Rauch&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Calling Bullshit on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Plu9DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Calling Bullshit" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Calling Bullshit">Calling Bullshit</a>
-        </h4>
-        <p class="fr-book-author">By Carl T. Bergstrom, Jevin D. West</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Calling Bullshit on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Plu9DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Calling Bullshit" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Calling Bullshit">Calling Bullshit</a>
+</h4>
+<p class="fr-book-author">By Carl T. Bergstrom, Jevin D. West</p>
         
-        <p class="fr-book-desc">Teaches readers how to assess claims beyond warning labels.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Teaches readers how to assess claims beyond warning labels.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Death+of+Truth+%5BHardcover%5D+Michiko+Kakutani+michiko+kakutani&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Death of Truth [Hardcover] Michiko Kakutani on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9237737-M.jpg" alt="Cover for The Death of Truth [Hardcover] Michiko Kakutani" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Death+of+Truth+%5BHardcover%5D+Michiko+Kakutani+michiko+kakutani&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Death of Truth [Hardcover] Michiko Kakutani">The Death of Truth [Hardcover] Michiko Kakutani</a>
-        </h4>
-        <p class="fr-book-author">By michiko kakutani</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Death+of+Truth+%5BHardcover%5D+Michiko+Kakutani+michiko+kakutani&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Death of Truth [Hardcover] Michiko Kakutani on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9237737-M.jpg" alt="Cover for The Death of Truth [Hardcover] Michiko Kakutani" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Death+of+Truth+%5BHardcover%5D+Michiko+Kakutani+michiko+kakutani&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Death of Truth [Hardcover] Michiko Kakutani">The Death of Truth [Hardcover] Michiko Kakutani</a>
+</h4>
+<p class="fr-book-author">By michiko kakutani</p>
         
-        <p class="fr-book-desc">First published 2018. Subjects: United states, politics and government, 2017-2021, Political culture, Truth.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Death+of+Truth+%5BHardcover%5D+Michiko+Kakutani+michiko+kakutani&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2018. Subjects: United states, politics and government, 2017-2021, Political culture, Truth.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Death+of+Truth+%5BHardcover%5D+Michiko+Kakutani+michiko+kakutani&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Psychology+of+Fake+News&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Psychology of Fake News</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Constitution+of+Knowledge&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Constitution of Knowledge</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Calling+Bullshit&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Calling Bullshit</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Psychology+of+Fake+News&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Psychology of Fake News</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Constitution+of+Knowledge&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Constitution of Knowledge</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Calling+Bullshit&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Calling Bullshit</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=classroom+decor+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=warning-labels-when-do-misinformation-labels-actually-work-myths-and-misconcept-classroom-decor-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classroom decor sign" data-ebay-reference="warning-labels-when-do-misinformation-labels-actually-work-myths-and-misconcept-classroom-decor-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Funny Chemistry Metal Sign For Shed Garage Workshop School Classroom"><img src="{{ '/assets/images/marketplace-covers/c55dc72643fc9bf5c8e2.jpg' | relative_url }}" alt="Listing image for Funny Chemistry Metal Sign For Shed Garage Workshop School Classroom" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=classroom+decor+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=warning-labels-when-do-misinformation-labels-actually-work-myths-and-misconcept-classroom-decor-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classroom decor sign" data-ebay-reference="warning-labels-when-do-misinformation-labels-actually-work-myths-and-misconcept-classroom-decor-sign" target="_blank" rel="sponsored noopener noreferrer">Funny Chemistry Metal Sign For Shed Garage Workshop School Classroom</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=classroom+decor+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=warning-labels-when-do-misinformation-labels-actually-work-myths-and-misconcept-classroom-decor-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classroom decor sign" data-ebay-reference="warning-labels-when-do-misinformation-labels-actually-work-myths-and-misconcept-classroom-decor-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for classroom decor sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: classroom decor sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=classroom+decor+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=warning-labels-when-do-misinformation-labels-actually-work-myths-and-misconcept-classroom-decor-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classroom decor sign" data-ebay-reference="warning-labels-when-do-misinformation-labels-actually-work-myths-and-misconcept-classroom-decor-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=classroom+decor+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=warning-labels-when-do-misinformation-labels-actually-work-myths-and-misconcept-classroom-decor-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classroom decor sign" data-ebay-reference="warning-labels-when-do-misinformation-labels-actually-work-myths-and-misconcept-classroom-decor-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Funny Chemistry Metal Sign For Shed Garage Workshop School Classroom"><img src="{{ '/assets/images/marketplace-covers/c55dc72643fc9bf5c8e2.jpg' | relative_url }}" alt="Listing image for Funny Chemistry Metal Sign For Shed Garage Workshop School Classroom" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=classroom+decor+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=warning-labels-when-do-misinformation-labels-actually-work-myths-and-misconcept-classroom-decor-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classroom decor sign" data-ebay-reference="warning-labels-when-do-misinformation-labels-actually-work-myths-and-misconcept-classroom-decor-sign" target="_blank" rel="sponsored noopener noreferrer">Funny Chemistry Metal Sign For Shed Garage Workshop School Classroom</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=classroom+decor+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=warning-labels-when-do-misinformation-labels-actually-work-myths-and-misconcept-classroom-decor-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classroom decor sign" data-ebay-reference="warning-labels-when-do-misinformation-labels-actually-work-myths-and-misconcept-classroom-decor-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for classroom decor sign">Search<span data-ebay-domain-label>eBay.co.uk</span>: classroom decor sign</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=classroom+decor+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=warning-labels-when-do-misinformation-labels-actually-work-myths-and-misconcept-classroom-decor-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classroom decor sign" data-ebay-reference="warning-labels-when-do-misinformation-labels-actually-work-myths-and-misconcept-classroom-decor-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=classroom+decor+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=warning-labels-when-do-misinformation-labels-actually-work-myths-and-misconcept-classroom-decor-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classroom decor sign" data-ebay-reference="warning-labels-when-do-misinformation-labels-actually-work-myths-and-misconcept-classroom-decor-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Types Of Dinosaurs Metal Chart Sign For Bedroom Den Classroom"><img src="{{ '/assets/images/marketplace-covers/e236581963451516a5af.jpg' | relative_url }}" alt="Listing image for Types Of Dinosaurs Metal Chart Sign For Bedroom Den Classroom" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=classroom+decor+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=warning-labels-when-do-misinformation-labels-actually-work-myths-and-misconcept-classroom-decor-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classroom decor sign" data-ebay-reference="warning-labels-when-do-misinformation-labels-actually-work-myths-and-misconcept-classroom-decor-sign" target="_blank" rel="sponsored noopener noreferrer">Types Of Dinosaurs Metal Chart Sign For Bedroom Den Classroom</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=classroom+decor+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=warning-labels-when-do-misinformation-labels-actually-work-myths-and-misconcept-classroom-decor-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classroom decor sign" data-ebay-reference="warning-labels-when-do-misinformation-labels-actually-work-myths-and-misconcept-classroom-decor-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for classroom decor sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: classroom decor sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=classroom+decor+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=warning-labels-when-do-misinformation-labels-actually-work-myths-and-misconcept-classroom-decor-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classroom decor sign" data-ebay-reference="warning-labels-when-do-misinformation-labels-actually-work-myths-and-misconcept-classroom-decor-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=classroom+decor+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=warning-labels-when-do-misinformation-labels-actually-work-myths-and-misconcept-classroom-decor-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classroom decor sign" data-ebay-reference="warning-labels-when-do-misinformation-labels-actually-work-myths-and-misconcept-classroom-decor-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Types Of Dinosaurs Metal Chart Sign For Bedroom Den Classroom"><img src="{{ '/assets/images/marketplace-covers/e236581963451516a5af.jpg' | relative_url }}" alt="Listing image for Types Of Dinosaurs Metal Chart Sign For Bedroom Den Classroom" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=classroom+decor+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=warning-labels-when-do-misinformation-labels-actually-work-myths-and-misconcept-classroom-decor-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classroom decor sign" data-ebay-reference="warning-labels-when-do-misinformation-labels-actually-work-myths-and-misconcept-classroom-decor-sign" target="_blank" rel="sponsored noopener noreferrer">Types Of Dinosaurs Metal Chart Sign For Bedroom Den Classroom</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=classroom+decor+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=warning-labels-when-do-misinformation-labels-actually-work-myths-and-misconcept-classroom-decor-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classroom decor sign" data-ebay-reference="warning-labels-when-do-misinformation-labels-actually-work-myths-and-misconcept-classroom-decor-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for classroom decor sign">Search<span data-ebay-domain-label>eBay.co.uk</span>: classroom decor sign</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=classroom+decor+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=warning-labels-when-do-misinformation-labels-actually-work-myths-and-misconcept-classroom-decor-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classroom decor sign" data-ebay-reference="warning-labels-when-do-misinformation-labels-actually-work-myths-and-misconcept-classroom-decor-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=classroom+decor+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=warning-labels-when-do-misinformation-labels-actually-work-myths-and-misconcept-classroom-decor-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classroom decor sign" data-ebay-reference="warning-labels-when-do-misinformation-labels-actually-work-myths-and-misconcept-classroom-decor-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Dinosaur Size Chart Metal Chart Sign For Bedroom Kitchen Den Classroom"><img src="{{ '/assets/images/marketplace-covers/94e382db1ef336712944.jpg' | relative_url }}" alt="Listing image for Dinosaur Size Chart Metal Chart Sign For Bedroom Kitchen Den Classroom" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=classroom+decor+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=warning-labels-when-do-misinformation-labels-actually-work-myths-and-misconcept-classroom-decor-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classroom decor sign" data-ebay-reference="warning-labels-when-do-misinformation-labels-actually-work-myths-and-misconcept-classroom-decor-sign" target="_blank" rel="sponsored noopener noreferrer">Dinosaur Size Chart Metal Chart Sign For Bedroom Kitchen Den Classroom</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=classroom+decor+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=warning-labels-when-do-misinformation-labels-actually-work-myths-and-misconcept-classroom-decor-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classroom decor sign" data-ebay-reference="warning-labels-when-do-misinformation-labels-actually-work-myths-and-misconcept-classroom-decor-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for classroom decor sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: classroom decor sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=classroom+decor+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=warning-labels-when-do-misinformation-labels-actually-work-myths-and-misconcept-classroom-decor-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classroom decor sign" data-ebay-reference="warning-labels-when-do-misinformation-labels-actually-work-myths-and-misconcept-classroom-decor-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=classroom+decor+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=warning-labels-when-do-misinformation-labels-actually-work-myths-and-misconcept-classroom-decor-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classroom decor sign" data-ebay-reference="warning-labels-when-do-misinformation-labels-actually-work-myths-and-misconcept-classroom-decor-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Dinosaur Size Chart Metal Chart Sign For Bedroom Kitchen Den Classroom"><img src="{{ '/assets/images/marketplace-covers/94e382db1ef336712944.jpg' | relative_url }}" alt="Listing image for Dinosaur Size Chart Metal Chart Sign For Bedroom Kitchen Den Classroom" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=classroom+decor+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=warning-labels-when-do-misinformation-labels-actually-work-myths-and-misconcept-classroom-decor-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classroom decor sign" data-ebay-reference="warning-labels-when-do-misinformation-labels-actually-work-myths-and-misconcept-classroom-decor-sign" target="_blank" rel="sponsored noopener noreferrer">Dinosaur Size Chart Metal Chart Sign For Bedroom Kitchen Den Classroom</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=classroom+decor+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=warning-labels-when-do-misinformation-labels-actually-work-myths-and-misconcept-classroom-decor-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classroom decor sign" data-ebay-reference="warning-labels-when-do-misinformation-labels-actually-work-myths-and-misconcept-classroom-decor-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for classroom decor sign">Search<span data-ebay-domain-label>eBay.co.uk</span>: classroom decor sign</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=classroom+decor+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=warning-labels-when-do-misinformation-labels-actually-work-myths-and-misconcept-classroom-decor-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classroom decor sign" data-ebay-reference="warning-labels-when-do-misinformation-labels-actually-work-myths-and-misconcept-classroom-decor-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=classroom+decor+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=warning-labels-when-do-misinformation-labels-actually-work-myths-and-misconcept-classroom-decor-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classroom decor sign" data-ebay-reference="warning-labels-when-do-misinformation-labels-actually-work-myths-and-misconcept-classroom-decor-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Custom Classroom Door Sign, Classroom Decor, Teacher Wooden Door Sign, Classroom"><img src="{{ '/assets/images/marketplace-covers/2a666ca6f21ef618fb60.jpg' | relative_url }}" alt="Listing image for Custom Classroom Door Sign, Classroom Decor, Teacher Wooden Door Sign, Classroom" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=classroom+decor+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=warning-labels-when-do-misinformation-labels-actually-work-myths-and-misconcept-classroom-decor-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classroom decor sign" data-ebay-reference="warning-labels-when-do-misinformation-labels-actually-work-myths-and-misconcept-classroom-decor-sign" target="_blank" rel="sponsored noopener noreferrer">Custom Classroom Door Sign, Classroom Decor, Teacher Wooden Door Sign, Classroom</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=classroom+decor+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=warning-labels-when-do-misinformation-labels-actually-work-myths-and-misconcept-classroom-decor-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classroom decor sign" data-ebay-reference="warning-labels-when-do-misinformation-labels-actually-work-myths-and-misconcept-classroom-decor-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for classroom decor sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: classroom decor sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=classroom+decor+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=warning-labels-when-do-misinformation-labels-actually-work-myths-and-misconcept-classroom-decor-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classroom decor sign" data-ebay-reference="warning-labels-when-do-misinformation-labels-actually-work-myths-and-misconcept-classroom-decor-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=classroom+decor+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=warning-labels-when-do-misinformation-labels-actually-work-myths-and-misconcept-classroom-decor-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classroom decor sign" data-ebay-reference="warning-labels-when-do-misinformation-labels-actually-work-myths-and-misconcept-classroom-decor-sign" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=classroom+decor+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=warning-labels-when-do-misinformation-labels-actually-work-myths-and-misconcept-classroom-decor-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classroom decor sign" data-ebay-reference="warning-labels-when-do-misinformation-labels-actually-work-myths-and-misconcept-classroom-decor-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Custom Classroom Door Sign, Classroom Decor, Teacher Wooden Door Sign, Classroom"><img src="{{ '/assets/images/marketplace-covers/2a666ca6f21ef618fb60.jpg' | relative_url }}" alt="Listing image for Custom Classroom Door Sign, Classroom Decor, Teacher Wooden Door Sign, Classroom" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=classroom+decor+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=warning-labels-when-do-misinformation-labels-actually-work-myths-and-misconcept-classroom-decor-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classroom decor sign" data-ebay-reference="warning-labels-when-do-misinformation-labels-actually-work-myths-and-misconcept-classroom-decor-sign" target="_blank" rel="sponsored noopener noreferrer">Custom Classroom Door Sign, Classroom Decor, Teacher Wooden Door Sign, Classroom</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=classroom+decor+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=warning-labels-when-do-misinformation-labels-actually-work-myths-and-misconcept-classroom-decor-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classroom decor sign" data-ebay-reference="warning-labels-when-do-misinformation-labels-actually-work-myths-and-misconcept-classroom-decor-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for classroom decor sign">Search<span data-ebay-domain-label>eBay.co.uk</span>: classroom decor sign</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=classroom+decor+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=warning-labels-when-do-misinformation-labels-actually-work-myths-and-misconcept-classroom-decor-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classroom decor sign" data-ebay-reference="warning-labels-when-do-misinformation-labels-actually-work-myths-and-misconcept-classroom-decor-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=classroom+decor+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=warning-labels-when-do-misinformation-labels-actually-work-myths-and-misconcept-classroom-decor-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classroom decor sign" data-ebay-reference="warning-labels-when-do-misinformation-labels-actually-work-myths-and-misconcept-classroom-decor-sign" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -559,7 +559,7 @@ The debate over misinformation labels is no longer mainly about whether they wor
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -579,7 +579,7 @@ The debate over misinformation labels is no longer mainly about whether they wor
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -611,7 +611,7 @@ The debate over misinformation labels is no longer mainly about whether they wor
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -663,7 +663,7 @@ The debate over misinformation labels is no longer mainly about whether they wor
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -708,7 +708,7 @@ The debate over misinformation labels is no longer mainly about whether they wor
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -749,180 +749,180 @@ The debate over misinformation labels is no longer mainly about whether they wor
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S2352250X23001550" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S2352250X23001550</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Review Misinformation warning labels are widely effectiveby C Martel · 2023 · Cited by 163 — Recent evidence indicates that...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/abs/pii/S2352250X23001550" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S2352250X23001550</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Review Misinformation warning labels are widely effectiveby C Martel · 2023 · Cited by 163 — Recent evidence indicates that...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11955583/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11955583/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Social media and the spread of misinformation - PMC - NIHby E Denniss · 2025 · Cited by 137 — There is evidence that warning and fact...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11955583/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11955583/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Social media and the spread of misinformation - PMC - NIHby E Denniss · 2025 · Cited by 137 — There is evidence that warning and fact...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2112.03450" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2112.03450</a>  
+   Link:<a href="https://arxiv.org/abs/2112.03450" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2112.03450</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: time.com  
-   Link: <a href="https://time.com/5077002/facebook-fake-news-articles/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/5077002/facebook-fake-news-articles/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The red warning icon, intended to combat misinformation, occasionally reinforced readers&#x27; beliefs and led to more sharing of disputed con...</p></details>
+   Link:<a href="https://time.com/5077002/facebook-fake-news-articles/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/5077002/facebook-fake-news-articles/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The red warning icon, intended to combat misinformation, occasionally reinforced readers&#x27; beliefs and led to more sharing of disputed con...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/pii/S1071581924000600" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S1071581924000600</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Peer-supplied credibility labels as an online misinformation...by S Pareek · 2024 · Cited by 19 — In such scenarios, our cr...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/pii/S1071581924000600" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S1071581924000600</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Peer-supplied credibility labels as an online misinformation...by S Pareek · 2024 · Cited by 19 — In such scenarios, our cr...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: mitsloan.mit.edu  
    Title: warning labels fact checkers work even if you dont trust them  
-   Link: <a href="https://mitsloan.mit.edu/press/warning-labels-fact-checkers-work-even-if-you-dont-trust-them" target="_blank" rel="noopener noreferrer nofollow">https://mitsloan.mit.edu/press/warning-labels-fact-checkers-work-even-if-you-dont-trust-them</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>MIT SloanWarning labels from fact checkers work — even if you don&#x27;t...2 Sept 2024 — Fact-checker warning labels on social media can sign...</p></details>
+   Link:<a href="https://mitsloan.mit.edu/press/warning-labels-fact-checkers-work-even-if-you-dont-trust-them" target="_blank" rel="noopener noreferrer nofollow">https://mitsloan.mit.edu/press/warning-labels-fact-checkers-work-even-if-you-dont-trust-them</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>MIT SloanWarning labels from fact checkers work — even if you don&#x27;t...2 Sept 2024 — Fact-checker warning labels on social media can sign...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: ide.mit.edu  
-   Link: <a href="https://ide.mit.edu/wp-content/uploads/2024/10/10-21-24-research-brief-final.pdf?x65156=" target="_blank" rel="noopener noreferrer nofollow">https://ide.mit.edu/wp-content/uploads/2024/10/10-21-24-research-brief-final.pdf?x65156=</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>FACT-CHECKER LABELS WORK—EVEN WITH...We also investigate the rise of [fake news](&amp;#123;&amp;#123; &#x27;fake-news/&#x27; | relative_url &amp;#125;&amp;#125;) and misinformation and the development of a digital cultu...</p></details>
+   Link:<a href="https://ide.mit.edu/wp-content/uploads/2024/10/10-21-24-research-brief-final.pdf?x65156=" target="_blank" rel="noopener noreferrer nofollow">https://ide.mit.edu/wp-content/uploads/2024/10/10-21-24-research-brief-final.pdf?x65156=</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FACT-CHECKER LABELS WORK—EVEN WITH...We also investigate the rise of [fake news](&amp;#123;&amp;#123; &#x27;fake-news/&#x27; | relative_url &amp;#125;&amp;#125;) and misinformation and the development of a digital cultu...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6279465/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC6279465/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Prior exposure increases perceived accuracy of fake newsby G Pennycook · 2018 · Cited by 1892 — Participants were randomized into two...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6279465/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC6279465/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Prior exposure increases perceived accuracy of fake newsby G Pennycook · 2018 · Cited by 1892 — Participants were randomized into two...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2407.21592" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2407.21592</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Does the Source of a Warning Matter? Examining the Effectiveness of Veracity Warning Labels Across WarnersJuly 31, 2024...</p></details>
+   Link:<a href="https://arxiv.org/abs/2407.21592" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2407.21592</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Does the Source of a Warning Matter? Examining the Effectiveness of Veracity Warning Labels Across WarnersJuly 31, 2024...</p></details>
    Published: July 31, 2024  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/html/2407.21592v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2407.21592v1</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Does the Source of a Warning Matter? Examining...31 Jul 2024 — In this study, we conducted an online, between-subjects experiment (N = 2...</p></details>
+   Link:<a href="https://arxiv.org/html/2407.21592v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2407.21592v1</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Does the Source of a Warning Matter? Examining...31 Jul 2024 — In this study, we conducted an online, between-subjects experiment (N = 2...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2503.05711" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2503.05711</a>  
+   Link:<a href="https://arxiv.org/abs/2503.05711" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2503.05711</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/pii/S004727272500043X" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S004727272500043X</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>[Debunking](&amp;#123;&amp;#123; &#x27;debunking/&#x27; | relative_url &amp;#125;&amp;#125;) “fake news” on social media: Immediate and...by LM Berger · 2025 · Cited by 21 — We conduct a randomized survey experiment to...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/pii/S004727272500043X" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S004727272500043X</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>[Debunking](&amp;#123;&amp;#123; &#x27;debunking/&#x27; | relative_url &amp;#125;&amp;#125;) “fake news” on social media: Immediate and...by LM Berger · 2025 · Cited by 21 — We conduct a randomized survey experiment to...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: mitsloan.mit.edu  
    Title: Experts look at how they spread and what can be done to stop them.Read more  
-   Link: <a href="https://mitsloan.mit.edu/ideas-made-to-matter/mit-sloan-research-about-social-media-misinformation-and-elections" target="_blank" rel="noopener noreferrer nofollow">https://mitsloan.mit.edu/ideas-made-to-matter/mit-sloan-research-about-social-media-misinformation-and-elections</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sloan research about social media, misinformation...5 Oct 2020 — “Fake news” and misinformation peak online during presidential electio...</p></details>
+   Link:<a href="https://mitsloan.mit.edu/ideas-made-to-matter/mit-sloan-research-about-social-media-misinformation-and-elections" target="_blank" rel="noopener noreferrer nofollow">https://mitsloan.mit.edu/ideas-made-to-matter/mit-sloan-research-about-social-media-misinformation-and-elections</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sloan research about social media, misinformation...5 Oct 2020 — “Fake news” and misinformation peak online during presidential electio...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/YaleUniversity/posts/fact-checking-makes-a-differencea-new-study-co-authored-by-yales-johan-ugander-f/1212740750883729/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/YaleUniversity/posts/fact-checking-makes-a-differencea-new-study-co-authored-by-yales-johan-ugander-f/1212740750883729/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>University Factual corrections published on Facebook&#x27;s...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/YaleUniversity/posts/fact-checking-makes-a-differencea-new-study-co-authored-by-yales-johan-ugander-f/1212740750883729/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/YaleUniversity/posts/fact-checking-makes-a-differencea-new-study-co-authored-by-yales-johan-ugander-f/1212740750883729/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>University Factual corrections published on Facebook&#x27;s...Read more...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: journals.sagepub.com  
-   Link: <a href="https://journals.sagepub.com/doi/abs/10.1177/10776990251347657" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/abs/10.1177/10776990251347657</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sage JournalsReducing Misinformation Credibility: How Explanations...by P Mena · Cited by 4 — An online experiment found that explanatio...</p></details>
+   Link:<a href="https://journals.sagepub.com/doi/abs/10.1177/10776990251347657" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/abs/10.1177/10776990251347657</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sage JournalsReducing Misinformation Credibility: How Explanations...by P Mena · Cited by 4 — An online experiment found that explanatio...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: journals.sagepub.com  
-   Link: <a href="https://journals.sagepub.com/doi/10.1177/10776990251347657" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/10776990251347657</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sage JournalsReducing Misinformation Credibility: How Explanations...19 Jun 2025 — A study found some evidence that explanations may boo...</p></details>
+   Link:<a href="https://journals.sagepub.com/doi/10.1177/10776990251347657" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/10776990251347657</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sage JournalsReducing Misinformation Credibility: How Explanations...19 Jun 2025 — A study found some evidence that explanations may boo...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: journals.sagepub.com  
-   Link: <a href="https://journals.sagepub.com/doi/10.1177/01634437241237936" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/01634437241237936</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sage JournalsFacebook&#x27;s measures against information disorder do not...12 Mar 2024 — Research has indicated that warning labels on false...</p></details>
+   Link:<a href="https://journals.sagepub.com/doi/10.1177/01634437241237936" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/01634437241237936</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sage JournalsFacebook&#x27;s measures against information disorder do not...12 Mar 2024 — Research has indicated that warning labels on false...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: carnegieendowment.org  
    Title: countering disinformation effectively an evidence based policy guide  
-   Link: <a href="https://carnegieendowment.org/russia-eurasia/research/2024/01/countering-disinformation-effectively-an-evidence-based-policy-guide" target="_blank" rel="noopener noreferrer nofollow">https://carnegieendowment.org/russia-eurasia/research/2024/01/countering-disinformation-effectively-an-evidence-based-policy-guide</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Countering Disinformation Effectively: An Evidence-Based...31 Jan 2024 — A high-level, evidence-informed guide to some of the major prop...</p></details>
+   Link:<a href="https://carnegieendowment.org/russia-eurasia/research/2024/01/countering-disinformation-effectively-an-evidence-based-policy-guide" target="_blank" rel="noopener noreferrer nofollow">https://carnegieendowment.org/russia-eurasia/research/2024/01/countering-disinformation-effectively-an-evidence-based-policy-guide</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Countering Disinformation Effectively: An Evidence-Based...31 Jan 2024 — A high-level, evidence-informed guide to some of the major prop...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: teenvogue.com  
-   Link: <a href="https://www.teenvogue.com/story/facebook-changes-fake-news-flagging-approach" target="_blank" rel="noopener noreferrer nofollow">https://www.teenvogue.com/story/facebook-changes-fake-news-flagging-approach</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Previously, disputed articles were flagged with a red warning, but research showed that related articles providing more context were more...</p></details>
+   Link:<a href="https://www.teenvogue.com/story/facebook-changes-fake-news-flagging-approach" target="_blank" rel="noopener noreferrer nofollow">https://www.teenvogue.com/story/facebook-changes-fake-news-flagging-approach</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Previously, disputed articles were flagged with a red warning, but research showed that related articles providing more context were more...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: thejsms.org  
-   Link: <a href="https://thejsms.org/index.php/JSMS/article/view/1431/715" target="_blank" rel="noopener noreferrer nofollow">https://thejsms.org/index.php/JSMS/article/view/1431/715</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>warning label types in discrediting misinformation posts.Keywords: misinformation, warning label, worldview inconsistency, psychological...</p></details>
+   Link:<a href="https://thejsms.org/index.php/JSMS/article/view/1431/715" target="_blank" rel="noopener noreferrer nofollow">https://thejsms.org/index.php/JSMS/article/view/1431/715</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>warning label types in discrediting misinformation posts.Keywords: misinformation, warning label, worldview inconsistency, psychological...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: thejsms.org  
-   Link: <a href="https://thejsms.org/index.php/JSMS/article/view/1431" target="_blank" rel="noopener noreferrer nofollow">https://thejsms.org/index.php/JSMS/article/view/1431</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Journal of Social Media in SocietyExamining the effectiveness of social media warning labelsby B Zhang · 2024 · Cited by 4 — The resu...</p></details>
+   Link:<a href="https://thejsms.org/index.php/JSMS/article/view/1431" target="_blank" rel="noopener noreferrer nofollow">https://thejsms.org/index.php/JSMS/article/view/1431</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Journal of Social Media in SocietyExamining the effectiveness of social media warning labelsby B Zhang · 2024 · Cited by 4 — The resu...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: misinforeview.hks.harvard.edu  
-   Link: <a href="https://misinforeview.hks.harvard.edu/article/trump-twitter-and-truth-judgments-the-effects-of-disputed-tags-and-political-knowledge-on-the-judged-truthfulness-of-election-misinformation/" target="_blank" rel="noopener noreferrer nofollow">https://misinforeview.hks.harvard.edu/article/trump-twitter-and-truth-judgments-the-effects-of-disputed-tags-and-political-knowledge-on-the-judged-truthfulness-of-election-misinformation/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Misinformation ReviewTrump, Twitter, and truth judgments: The effects of “...by JC Blanchar · 2024 · Cited by 10 — Trump voters with hig...</p></details>
+   Link:<a href="https://misinforeview.hks.harvard.edu/article/trump-twitter-and-truth-judgments-the-effects-of-disputed-tags-and-political-knowledge-on-the-judged-truthfulness-of-election-misinformation/" target="_blank" rel="noopener noreferrer nofollow">https://misinforeview.hks.harvard.edu/article/trump-twitter-and-truth-judgments-the-effects-of-disputed-tags-and-political-knowledge-on-the-judged-truthfulness-of-election-misinformation/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Misinformation ReviewTrump, Twitter, and truth judgments: The effects of “...by JC Blanchar · 2024 · Cited by 10 — Trump voters with hig...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: niemanlab.org  
-   Link: <a href="https://www.niemanlab.org/2017/09/adding-a-disputed-label-to-fake-news-seems-to-work-a-little-but-for-some-groups-it-actually-backfires/" target="_blank" rel="noopener noreferrer nofollow">https://www.niemanlab.org/2017/09/adding-a-disputed-label-to-fake-news-seems-to-work-a-little-but-for-some-groups-it-actually-backfires/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Nieman LabAdding a “disputed” label to fake news seems to work...Sep 12, 2017 — Labeling only some fake news stories as fake can make s...</p></details>
+   Link:<a href="https://www.niemanlab.org/2017/09/adding-a-disputed-label-to-fake-news-seems-to-work-a-little-but-for-some-groups-it-actually-backfires/" target="_blank" rel="noopener noreferrer nofollow">https://www.niemanlab.org/2017/09/adding-a-disputed-label-to-fake-news-seems-to-work-a-little-but-for-some-groups-it-actually-backfires/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Nieman LabAdding a “disputed” label to fake news seems to work...Sep 12, 2017 — Labeling only some fake news stories as fake can make s...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: carnegieendowment.org  
    Title: countering disinformation effectively an evidence based policy guide  
-   Link: <a href="https://carnegieendowment.org/research/2024/01/countering-disinformation-effectively-an-evidence-based-policy-guide" target="_blank" rel="noopener noreferrer nofollow">https://carnegieendowment.org/research/2024/01/countering-disinformation-effectively-an-evidence-based-policy-guide</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Countering Disinformation Effectively: An Evidence-Based...Jan 31, 2024 — For these and other reasons, a growing number of experts rejec...</p></details>
+   Link:<a href="https://carnegieendowment.org/research/2024/01/countering-disinformation-effectively-an-evidence-based-policy-guide" target="_blank" rel="noopener noreferrer nofollow">https://carnegieendowment.org/research/2024/01/countering-disinformation-effectively-an-evidence-based-policy-guide</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Countering Disinformation Effectively: An Evidence-Based...Jan 31, 2024 — For these and other reasons, a growing number of experts rejec...</p></details>
 
 ### Additional References
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: ftc.gov  
-   Link: <a href="https://www.ftc.gov/system/files/documents/public_events/1582978/social_media_covid-19_misinformation_interventions_viewed_positively_but_have_limited_impact.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/system/files/documents/public_events/1582978/social_media_covid-19_misinformation_interventions_viewed_positively_but_have_limited_impact.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Social Media COVID-19 Misinformation Interventions...by C Geeng · 2020 · Cited by 18 — While having post-specific “disputed” labels migh...</p></details>
+   Link:<a href="https://www.ftc.gov/system/files/documents/public_events/1582978/social_media_covid-19_misinformation_interventions_viewed_positively_but_have_limited_impact.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/system/files/documents/public_events/1582978/social_media_covid-19_misinformation_interventions_viewed_positively_but_have_limited_impact.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Social Media COVID-19 Misinformation Interventions...by C Geeng · 2020 · Cited by 18 — While having post-specific “disputed” labels migh...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/technology/2024/sep/20/trump-tweets-false-label-credibility-supporters" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/technology/2024/sep/20/trump-tweets-false-label-credibility-supporters</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The research, analyzing data from a December 2020 survey of 1,072 Americans, indicated that Trump voters became more likely to believe mi...</p></details>
+   Link:<a href="https://www.theguardian.com/technology/2024/sep/20/trump-tweets-false-label-credibility-supporters" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/technology/2024/sep/20/trump-tweets-false-label-credibility-supporters</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The research, analyzing data from a December 2020 survey of 1,072 Americans, indicated that Trump voters became more likely to believe mi...</p></details>
    Published: December 2020  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: misinforeview.hks.harvard.edu  
    Title: state media warning labels can counteract the effects of foreign misinformation  
-   Link: <a href="https://misinforeview.hks.harvard.edu/article/state-media-warning-labels-can-counteract-the-effects-of-foreign-misinformation/" target="_blank" rel="noopener noreferrer nofollow">https://misinforeview.hks.harvard.edu/article/state-media-warning-labels-can-counteract-the-effects-of-foreign-misinformation/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>media warning labels can counteract the effects of...by J Nassetta · 2020 · Cited by 70 — We show that these labels have the ability to...</p></details>
+   Link:<a href="https://misinforeview.hks.harvard.edu/article/state-media-warning-labels-can-counteract-the-effects-of-foreign-misinformation/" target="_blank" rel="noopener noreferrer nofollow">https://misinforeview.hks.harvard.edu/article/state-media-warning-labels-can-counteract-the-effects-of-foreign-misinformation/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>media warning labels can counteract the effects of...by J Nassetta · 2020 · Cited by 70 — We show that these labels have the ability to...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: news.yale.edu  
    Title: flagging misinformation social media reduces engagement study finds  
-   Link: <a href="https://news.yale.edu/2025/09/25/flagging-misinformation-social-media-reduces-engagement-study-finds" target="_blank" rel="noopener noreferrer nofollow">https://news.yale.edu/2025/09/25/flagging-misinformation-social-media-reduces-engagement-study-finds</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>News25 Sept 2025 — Pointing out potentially misleading posts on social media significantly reduces the number of reposts, likes, repl...</p></details>
+   Link:<a href="https://news.yale.edu/2025/09/25/flagging-misinformation-social-media-reduces-engagement-study-finds" target="_blank" rel="noopener noreferrer nofollow">https://news.yale.edu/2025/09/25/flagging-misinformation-social-media-reduces-engagement-study-finds</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>News25 Sept 2025 — Pointing out potentially misleading posts on social media significantly reduces the number of reposts, likes, repl...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/334740447_Cleaning_Up_Social_Media_The_Effect_of_Warning_Labels_on_Likelihood_of_Sharing_False_News_on_Facebook" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/334740447_Cleaning_Up_Social_Media_The_Effect_of_Warning_Labels_on_Likelihood_of_Sharing_False_News_on_Facebook</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ebook may indeed help the current efforts to combat sharing of deceiving...Read more...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/334740447_Cleaning_Up_Social_Media_The_Effect_of_Warning_Labels_on_Likelihood_of_Sharing_False_News_on_Facebook" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/334740447_Cleaning_Up_Social_Media_The_Effect_of_Warning_Labels_on_Likelihood_of_Sharing_False_News_on_Facebook</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ebook may indeed help the current efforts to combat sharing of deceiving...Read more...</p></details>
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: osf.io  
-   Link: <a href="https://osf.io/ugt2v/" target="_blank" rel="noopener noreferrer nofollow">https://osf.io/ugt2v/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>perceived credibility of a fake news post exaggerating the consequences of...</p></details>
+   Link:<a href="https://osf.io/ugt2v/" target="_blank" rel="noopener noreferrer nofollow">https://osf.io/ugt2v/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>perceived credibility of a fake news post exaggerating the consequences of...</p></details>
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: tandfonline.com  
-   Link: <a href="https://www.tandfonline.com/doi/full/10.1080/10810730.2024.2385638" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/full/10.1080/10810730.2024.2385638</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Examining the Effects of Social Media Warning Labels on...by B Zhang · 2024 · Cited by 7 — This study investigates the nuanced effects o...</p></details>
+   Link:<a href="https://www.tandfonline.com/doi/full/10.1080/10810730.2024.2385638" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/full/10.1080/10810730.2024.2385638</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Examining the Effects of Social Media Warning Labels on...by B Zhang · 2024 · Cited by 7 — This study investigates the nuanced effects o...</p></details>
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: nature.com  
-   Link: <a href="https://www.nature.com/articles/s41562-024-02086-1" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41562-024-02086-1</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>a systematic review and meta-analysis of news judgementsby J Pfänder · 2025 · Cited by 68 — Social media and trust in news: an experiment...</p></details>
+   Link:<a href="https://www.nature.com/articles/s41562-024-02086-1" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41562-024-02086-1</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>a systematic review and meta-analysis of news judgementsby J Pfänder · 2025 · Cited by 68 — Social media and trust in news: an experiment...</p></details>
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11094033/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11094033/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>by S Williams-Ceci · 2024 · Cited by 15 — In contrast, while a warning about unreliable sources might decrease trust in misinformation...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11094033/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11094033/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by S Williams-Ceci · 2024 · Cited by 15 — In contrast, while a warning about unreliable sources might decrease trust in misinformation...</p></details>
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12015313/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12015313/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>adhere to content warning labels even when they are...by BD Horne · 2025 · Cited by 5 — In a series of three online experiments, we find...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12015313/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12015313/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>adhere to content warning labels even when they are...by BD Horne · 2025 · Cited by 5 — In a series of three online experiments, we find...</p></details>

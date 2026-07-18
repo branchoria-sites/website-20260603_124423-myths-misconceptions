@@ -268,24 +268,24 @@ image: /assets/images/Myths_and_misconcept_0d48d7_backfire_effect_myth_0599c9_la
 
 ## Introduction
 
-The most important finding from the last decade of misinformation research is surprisingly simple: factual [corrections]({{ 'corrections/' | relative_url }}) usually help. The famous idea that corrections routinely [backfire]({{ 'backfire/' | relative_url }}) and make people believe falsehoods more strongly became influential after a handful of early political studies, but larger and more systematic tests have generally failed to reproduce that pattern. Instead, researchers repeatedly find that corrections move beliefs in the right direction, even on polarising political topics. True backfire effects can occur in isolated cases, but they appear to be rare rather than typical. <span class="citation-chip-wrap"><a class="citation-chip" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2819073" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: papers.ssrn.com">[SSRN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">papers.ssrn.com</span><span class="citation-popover-snippet">The Elusive Backfire Effect: Mass Attitudes&#x27; Steadfast...by T Wood  2017  Cited by 1163  The present paper presents results from...</span></span></span> ScienceDirect This shift matters because the fear of backfire affected how journalists <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S2211368120300516" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[sciencedirect.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Searching for the Backfire Effect: Measurement and Design...by B Swire-Thompson  2020  Cited by 418  In sum, the current...</span></span></span>, fact-checkers, public-health officials and educators approached misinformation. If corrections usually improve factual accuracy rather than worsen it, then the practical challenge is not whether to correct false claims, but how to make corrections clear, credible and memorable.
+The most important finding from the last decade of misinformation research is surprisingly simple: factual [corrections]({{ 'corrections/' | relative_url }}) usually help. The famous idea that corrections routinely [backfire]({{ 'backfire/' | relative_url }}) and make people believe falsehoods more strongly became influential after a handful of early political studies, but larger and more systematic tests have generally failed to reproduce that pattern. Instead, researchers repeatedly find that corrections move beliefs in the right direction, even on polarising political topics. True backfire effects can occur in isolated cases, but they appear to be rare rather than typical.<span class="citation-chip-wrap"><a class="citation-chip" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2819073" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: papers.ssrn.com">[SSRN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">papers.ssrn.com</span><span class="citation-popover-snippet">The Elusive Backfire Effect: Mass Attitudes&#x27; Steadfast...by T Wood  2017  Cited by 1163  The present paper presents results from...</span></span></span> ScienceDirect This shift matters because the fear of backfire affected how journalists<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S2211368120300516" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[sciencedirect.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Searching for the Backfire Effect: Measurement and Design...by B Swire-Thompson  2020  Cited by 418  In sum, the current...</span></span></span>, fact-checkers, public-health officials and educators approached misinformation. If corrections usually improve factual accuracy rather than worsen it, then the practical challenge is not whether to correct false claims, but how to make corrections clear, credible and memorable.
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_backfire_effect_myth_0599c9_large_correction_stu_7d2498-Illustration-1-dark.svg" | relative_url }}" alt="Study Evidence illustration 1" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_backfire_effect_myth_0599c9_large_correction_stu_7d2498-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_backfire_effect_myth_0599c9_large_correction_stu_7d2498-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Did the Original Backfire Findings Hold Up?
 
-The backfire effect entered public debate largely through Brendan Nyhan and Jason Reiflers 2010 paper on political misperceptions. In several experiments involving contentious US political issues, they found examples where corrections failed to reduce false beliefs and a smaller number of cases where some participants appeared to become even more committed to the misconception after seeing a [correction]({{ 'correction/' | relative_url }}). <span class="citation-chip-wrap"><a class="citation-chip" href="https://eprints.soton.ac.uk/500567/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eprints.soton.ac.uk">[ePrints Soton]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eprints.soton.ac.uk</span><span class="citation-popover-snippet">ePrints SotonWhen corrections fail: the persistence of political misperceptionsby B Nyhan  2010  Cited by 4638  We also document sever...</span></span></span>
+The backfire effect entered public debate largely through Brendan Nyhan and Jason Reiflers 2010 paper on political misperceptions. In several experiments involving contentious US political issues, they found examples where corrections failed to reduce false beliefs and a smaller number of cases where some participants appeared to become even more committed to the misconception after seeing a [correction]({{ 'correction/' | relative_url }}).<span class="citation-chip-wrap"><a class="citation-chip" href="https://eprints.soton.ac.uk/500567/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eprints.soton.ac.uk">[ePrints Soton]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eprints.soton.ac.uk</span><span class="citation-popover-snippet">ePrints SotonWhen corrections fail: the persistence of political misperceptionsby B Nyhan  2010  Cited by 4638  We also document sever...</span></span></span>
 
 Those findings were striking because they suggested something stronger than ordinary persuasion failure. A failed correction simply leaves beliefs unchanged. A backfire effect means the correction itself pushes people further in the wrong direction.
 
-The study quickly became influential because it seemed to explain everyday experiences of political argument. Many people recognised the feeling that presenting evidence to a committed partisan often appeared ineffective. The backfire explanation offered a memorable psychological account: people might defend [identity]({{ 'identity/' | relative_url }})-linked beliefs so strongly that contradictory evidence actually strengthened them. <span class="citation-chip-wrap"><a class="citation-chip" href="https://eprints.soton.ac.uk/500567/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eprints.soton.ac.uk">[ePrints Soton]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eprints.soton.ac.uk</span><span class="citation-popover-snippet">ePrints SotonWhen corrections fail: the persistence of political misperceptionsby B Nyhan  2010  Cited by 4638  We also document sever...</span></span></span>
+The study quickly became influential because it seemed to explain everyday experiences of political argument. Many people recognised the feeling that presenting evidence to a committed partisan often appeared ineffective. The backfire explanation offered a memorable psychological account: people might defend [identity]({{ 'identity/' | relative_url }})-linked beliefs so strongly that contradictory evidence actually strengthened them.<span class="citation-chip-wrap"><a class="citation-chip" href="https://eprints.soton.ac.uk/500567/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eprints.soton.ac.uk">[ePrints Soton]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eprints.soton.ac.uk</span><span class="citation-popover-snippet">ePrints SotonWhen corrections fail: the persistence of political misperceptionsby B Nyhan  2010  Cited by 4638  We also document sever...</span></span></span>
 
 The problem for the theory was that later researchers repeatedly struggled to find the same result.
 
 ## The 10,100-Person Test That Changed the Debate
 
-The most influential challenge to the backfire story came from Thomas Wood and Ethan Porter. Rather than testing a few politically sensitive claims, they conducted five large experiments involving more than 10,100 participants and 52 different factual issues where ideological resistance was expected. Topics ranged across partisan and politically charged subjects, precisely the situations where backfire should have been easiest to detect. <span class="citation-chip-wrap"><a class="citation-chip" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2819073" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: papers.ssrn.com">[SSRN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">papers.ssrn.com</span><span class="citation-popover-snippet">The Elusive Backfire Effect: Mass Attitudes&#x27; Steadfast...by T Wood  2017  Cited by 1163  The present paper presents results from...</span></span></span>
+The most influential challenge to the backfire story came from Thomas Wood and Ethan Porter. Rather than testing a few politically sensitive claims, they conducted five large experiments involving more than 10,100 participants and 52 different factual issues where ideological resistance was expected. Topics ranged across partisan and politically charged subjects, precisely the situations where backfire should have been easiest to detect.<span class="citation-chip-wrap"><a class="citation-chip" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2819073" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: papers.ssrn.com">[SSRN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">papers.ssrn.com</span><span class="citation-popover-snippet">The Elusive Backfire Effect: Mass Attitudes&#x27; Steadfast...by T Wood  2017  Cited by 1163  The present paper presents results from...</span></span></span>
 
-Their conclusion was blunt: they did not observe a single instance of factual backfire across the studies. Participants often resisted complete persuasion, and corrections did not always produce large changes, but the direction of change was generally toward greater factual accuracy rather than greater error. <span class="citation-chip-wrap"><a class="citation-chip" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2819073" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: papers.ssrn.com">[SSRN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">papers.ssrn.com</span><span class="citation-popover-snippet">The Elusive Backfire Effect: Mass Attitudes&#x27; Steadfast...by T Wood  2017  Cited by 1163  The present paper presents results from...</span></span></span>
+Their conclusion was blunt: they did not observe a single instance of factual backfire across the studies. Participants often resisted complete persuasion, and corrections did not always produce large changes, but the direction of change was generally toward greater factual accuracy rather than greater error.<span class="citation-chip-wrap"><a class="citation-chip" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2819073" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: papers.ssrn.com">[SSRN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">papers.ssrn.com</span><span class="citation-popover-snippet">The Elusive Backfire Effect: Mass Attitudes&#x27; Steadfast...by T Wood  2017  Cited by 1163  The present paper presents results from...</span></span></span>
 
 What made the study influential was not merely its size. The researchers deliberately looked for the conditions that earlier theories suggested would generate backlash:
 
@@ -293,27 +293,27 @@ What made the study influential was not merely its size. The researchers deliber
 
 * Strong partisan identities.
 * Politically contentious topics.
-* Corrections that challenged ideological commitments. <span class="citation-chip-wrap"><a class="citation-chip" href="https://daily.jstor.org/the-backfire-effect/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: daily.jstor.org">[daily.jstor.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">daily.jstor.org</span><span class="citation-popover-title">the backfire effect</span><span class="citation-popover-snippet">JSTOR DailyThe Backfire Effect3 Apr 2017  Nyhan and Reifler found that corrections frequently fail to reduce misperceptions among the t...</span></span></span>
+* Corrections that challenged ideological commitments.<span class="citation-chip-wrap"><a class="citation-chip" href="https://daily.jstor.org/the-backfire-effect/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: daily.jstor.org">[daily.jstor.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">daily.jstor.org</span><span class="citation-popover-title">the backfire effect</span><span class="citation-popover-snippet">JSTOR DailyThe Backfire Effect3 Apr 2017  Nyhan and Reifler found that corrections frequently fail to reduce misperceptions among the t...</span></span></span>
 * Different experimental formats and survey populations.
 
 </div>
 
-Even under those conditions, the expected pattern largely failed to appear. The researchers concluded that citizens were generally more responsive to factual information than the backfire narrative implied. <span class="citation-chip-wrap"><a class="citation-chip" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2819073" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: papers.ssrn.com">[SSRN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">papers.ssrn.com</span><span class="citation-popover-snippet">The Elusive Backfire Effect: Mass Attitudes&#x27; Steadfast...by T Wood  2017  Cited by 1163  The present paper presents results from...</span></span></span>
+Even under those conditions, the expected pattern largely failed to appear. The researchers concluded that citizens were generally more responsive to factual information than the backfire narrative implied.<span class="citation-chip-wrap"><a class="citation-chip" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2819073" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: papers.ssrn.com">[SSRN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">papers.ssrn.com</span><span class="citation-popover-snippet">The Elusive Backfire Effect: Mass Attitudes&#x27; Steadfast...by T Wood  2017  Cited by 1163  The present paper presents results from...</span></span></span>
 
-This did not mean people suddenly became perfectly informed. Many retained some mistaken beliefs, and some corrections had modest effects. But the central predictionthat corrections commonly increase belief in misinformationreceived little support. <span class="citation-chip-wrap"><a class="citation-chip" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2819073" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: papers.ssrn.com">[SSRN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">papers.ssrn.com</span><span class="citation-popover-snippet">The Elusive Backfire Effect: Mass Attitudes&#x27; Steadfast...by T Wood  2017  Cited by 1163  The present paper presents results from...</span></span></span>
+This did not mean people suddenly became perfectly informed. Many retained some mistaken beliefs, and some corrections had modest effects. But the central predictionthat corrections commonly increase belief in misinformationreceived little support.<span class="citation-chip-wrap"><a class="citation-chip" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2819073" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: papers.ssrn.com">[SSRN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">papers.ssrn.com</span><span class="citation-popover-snippet">The Elusive Backfire Effect: Mass Attitudes&#x27; Steadfast...by T Wood  2017  Cited by 1163  The present paper presents results from...</span></span></span>
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_backfire_effect_myth_0599c9_large_correction_stu_7d2498-Illustration-2-dark.svg" | relative_url }}" alt="Study Evidence illustration 2" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_backfire_effect_myth_0599c9_large_correction_stu_7d2498-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_backfire_effect_myth_0599c9_large_correction_stu_7d2498-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What Researchers Found Instead of Backfire
 
 As larger correction studies accumulated, a different picture emerged.
 
-The most common outcome was straightforward belief updating. When participants received credible corrective information, their factual beliefs usually moved toward the evidence. The shift was often incomplete, but it was rarely negative. <span class="citation-chip-wrap"><a class="citation-chip" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2819073" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: papers.ssrn.com">[SSRN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">papers.ssrn.com</span><span class="citation-popover-snippet">The Elusive Backfire Effect: Mass Attitudes&#x27; Steadfast...by T Wood  2017  Cited by 1163  The present paper presents results from...</span></span></span> ScienceDirect Researchers also found several phenomena that can be mistaken for backfire: <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S2211368120300516" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[sciencedirect.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Searching for the Backfire Effect: Measurement and Design...by B Swire-Thompson  2020  Cited by 418  In sum, the current...</span></span></span>
+The most common outcome was straightforward belief updating. When participants received credible corrective information, their factual beliefs usually moved toward the evidence. The shift was often incomplete, but it was rarely negative.<span class="citation-chip-wrap"><a class="citation-chip" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2819073" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: papers.ssrn.com">[SSRN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">papers.ssrn.com</span><span class="citation-popover-snippet">The Elusive Backfire Effect: Mass Attitudes&#x27; Steadfast...by T Wood  2017  Cited by 1163  The present paper presents results from...</span></span></span> ScienceDirect Researchers also found several phenomena that can be mistaken for backfire:<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S2211368120300516" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[sciencedirect.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Searching for the Backfire Effect: Measurement and Design...by B Swire-Thompson  2020  Cited by 418  In sum, the current...</span></span></span>
 
-**Corrections that fade over time.** People may initially accept a correction but later forget it or become re-exposed to the false claim. The correction's influence weakens, but that is different from becoming more convinced of the myth. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.pnas.org/doi/10.1073/pnas.1912440117" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pnas.org">[PNAS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pnas.org</span><span class="citation-popover-snippet">Why the backfire effect does not explain the durability of...by B Nyhan  2021  Cited by 325  In 2010, Jason Reifler and I publish...</span></span></span>
+**Corrections that fade over time.** People may initially accept a correction but later forget it or become re-exposed to the false claim. The correction's influence weakens, but that is different from becoming more convinced of the myth.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.pnas.org/doi/10.1073/pnas.1912440117" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pnas.org">[PNAS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pnas.org</span><span class="citation-popover-snippet">Why the backfire effect does not explain the durability of...by B Nyhan  2021  Cited by 325  In 2010, Jason Reifler and I publish...</span></span></span>
 
-**Corrections that improve facts but not attitudes.** Someone may acknowledge a factual correction while maintaining a political preference or emotional commitment. Observers can interpret this as rejection of evidence even when factual beliefs have shifted somewhat. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.pnas.org/doi/10.1073/pnas.1912440117" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pnas.org">[PNAS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pnas.org</span><span class="citation-popover-snippet">Why the backfire effect does not explain the durability of...by B Nyhan  2021  Cited by 325  In 2010, Jason Reifler and I publish...</span></span></span>
+**Corrections that improve facts but not attitudes.** Someone may acknowledge a factual correction while maintaining a political preference or emotional commitment. Observers can interpret this as rejection of evidence even when factual beliefs have shifted somewhat.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.pnas.org/doi/10.1073/pnas.1912440117" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pnas.org">[PNAS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pnas.org</span><span class="citation-popover-snippet">Why the backfire effect does not explain the durability of...by B Nyhan  2021  Cited by 325  In 2010, Jason Reifler and I publish...</span></span></span>
 
-**Corrections overwhelmed by elite cues.** Political leaders, media figures or social networks may repeatedly reinforce misinformation. In such cases, corrections struggle to compete with a continuing stream of contrary messages. Again, this is not necessarily backfire; it is a problem of information environments and [repetition]({{ 'repetition/' | relative_url }}). <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.pnas.org/doi/10.1073/pnas.1912440117" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pnas.org">[PNAS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pnas.org</span><span class="citation-popover-snippet">Why the backfire effect does not explain the durability of...by B Nyhan  2021  Cited by 325  In 2010, Jason Reifler and I publish...</span></span></span>
+**Corrections overwhelmed by elite cues.** Political leaders, media figures or social networks may repeatedly reinforce misinformation. In such cases, corrections struggle to compete with a continuing stream of contrary messages. Again, this is not necessarily backfire; it is a problem of information environments and [repetition]({{ 'repetition/' | relative_url }}).<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.pnas.org/doi/10.1073/pnas.1912440117" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pnas.org">[PNAS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pnas.org</span><span class="citation-popover-snippet">Why the backfire effect does not explain the durability of...by B Nyhan  2021  Cited by 325  In 2010, Jason Reifler and I publish...</span></span></span>
 
 These findings redirected attention away from the question Do corrections make things worse? toward more practical questions about durability, trust and message design.
 
@@ -323,220 +323,220 @@ These findings redirected attention away from the question Do corrections make t
 
 As the literature expanded, review papers began examining the evidence across multiple studies rather than focusing on individual experiments.
 
-One influential review by Briony Swire-Thompson, Joseph DeGutis and David Lazer evaluated research on both worldview backfire and familiarity backfire effects. The authors concluded that backfire effects were not a robust empirical phenomenon. They argued that many earlier claims rested on measurement difficulties, underpowered studies or findings that proved difficult to reproduce. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S2211368120300516" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Searching for the Backfire Effect: Measurement and Design...by B Swire-Thompson  2020  Cited by 418  In sum, the current...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://osf.io/download/ba2kc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: osf.io">[OSF]</a><span class="citation-popover" role="note"><span class="citation-popover-source">osf.io</span><span class="citation-popover-snippet">t backfire effects are not a robust empirical phenomenon, and more reliable measures, powerful designs, and stronger...Read...</span></span></span>
+One influential review by Briony Swire-Thompson, Joseph DeGutis and David Lazer evaluated research on both worldview backfire and familiarity backfire effects. The authors concluded that backfire effects were not a robust empirical phenomenon. They argued that many earlier claims rested on measurement difficulties, underpowered studies or findings that proved difficult to reproduce.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S2211368120300516" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Searching for the Backfire Effect: Measurement and Design...by B Swire-Thompson  2020  Cited by 418  In sum, the current...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://osf.io/download/ba2kc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: osf.io">[OSF]</a><span class="citation-popover" role="note"><span class="citation-popover-source">osf.io</span><span class="citation-popover-snippet">t backfire effects are not a robust empirical phenomenon, and more reliable measures, powerful designs, and stronger...Read...</span></span></span>
 
-The review also highlighted a common confusion involving familiarity. Communicators worried that repeating a myth during a correction would increase its familiarity and therefore its believability. While familiarity can influence perceived truth, large bodies of correction research have generally failed to show that standard myth-versus-fact corrections reliably produce net increases in false belief. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S2211368120300516" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Searching for the Backfire Effect: Measurement and Design...by B Swire-Thompson  2020  Cited by 418  In sum, the current...</span></span></span>
+The review also highlighted a common confusion involving familiarity. Communicators worried that repeating a myth during a correction would increase its familiarity and therefore its believability. While familiarity can influence perceived truth, large bodies of correction research have generally failed to show that standard myth-versus-fact corrections reliably produce net increases in false belief.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S2211368120300516" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Searching for the Backfire Effect: Measurement and Design...by B Swire-Thompson  2020  Cited by 418  In sum, the current...</span></span></span>
 
-Subsequent replication work reached similar conclusions. Studies specifically designed to detect familiarity-driven backfire often failed to reproduce the effect, even when researchers tested delayed recall and different correction formats. <span class="citation-chip-wrap"><a class="citation-chip" href="https://link.springer.com/article/10.1186/s41235-023-00492-z" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer Link]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">Springer LinkExamining the replicability of backfire effects after standalone...by T Prike  2023  Cited by 25  Here, we examined whet...</span></span></span>
+Subsequent replication work reached similar conclusions. Studies specifically designed to detect familiarity-driven backfire often failed to reproduce the effect, even when researchers tested delayed recall and different correction formats.<span class="citation-chip-wrap"><a class="citation-chip" href="https://link.springer.com/article/10.1186/s41235-023-00492-z" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer Link]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">Springer LinkExamining the replicability of backfire effects after standalone...by T Prike  2023  Cited by 25  Here, we examined whet...</span></span></span>
 
-The result is a notable reversal in the field. Researchers now often treat backfire as a phenomenon that requires special explanation when it appears, rather than something expected to occur whenever misinformation is corrected. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S2211368120300516" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Searching for the Backfire Effect: Measurement and Design...by B Swire-Thompson  2020  Cited by 418  In sum, the current...</span></span></span>
+The result is a notable reversal in the field. Researchers now often treat backfire as a phenomenon that requires special explanation when it appears, rather than something expected to occur whenever misinformation is corrected.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S2211368120300516" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Searching for the Backfire Effect: Measurement and Design...by B Swire-Thompson  2020  Cited by 418  In sum, the current...</span></span></span>
 
 ## Why Rare Backfire Cases Still Attract Attention
 
 Despite the broader evidence, occasional reports of backfire continue to appear.
 
-Part of the reason is that a genuine backfire effect is psychologically interesting. A finding that people become more mistaken after receiving corrective evidence is more surprising than a finding that corrections work modestly. As a result, early examples received disproportionate attention. <span class="citation-chip-wrap"><a class="citation-chip" href="https://eprints.soton.ac.uk/500567/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eprints.soton.ac.uk">[ePrints Soton]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eprints.soton.ac.uk</span><span class="citation-popover-snippet">ePrints SotonWhen corrections fail: the persistence of political misperceptionsby B Nyhan  2010  Cited by 4638  We also document sever...</span></span></span>
+Part of the reason is that a genuine backfire effect is psychologically interesting. A finding that people become more mistaken after receiving corrective evidence is more surprising than a finding that corrections work modestly. As a result, early examples received disproportionate attention.<span class="citation-chip-wrap"><a class="citation-chip" href="https://eprints.soton.ac.uk/500567/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eprints.soton.ac.uk">[ePrints Soton]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eprints.soton.ac.uk</span><span class="citation-popover-snippet">ePrints SotonWhen corrections fail: the persistence of political misperceptionsby B Nyhan  2010  Cited by 4638  We also document sever...</span></span></span>
 
-Another reason is that rare individual-level reversals can occur even when there is no group-level backfire. In a large sample, some participants will move in the wrong direction for idiosyncratic reasons. The key question is whether those movements are systematic and large enough to outweigh the people who update accurately. Most [large studies]({{ 'large-studies/' | relative_url }}) suggest they are not. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S2211368120300516" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Searching for the Backfire Effect: Measurement and Design...by B Swire-Thompson  2020  Cited by 418  In sum, the current...</span></span></span>
+Another reason is that rare individual-level reversals can occur even when there is no group-level backfire. In a large sample, some participants will move in the wrong direction for idiosyncratic reasons. The key question is whether those movements are systematic and large enough to outweigh the people who update accurately. Most [large studies]({{ 'large-studies/' | relative_url }}) suggest they are not.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S2211368120300516" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Searching for the Backfire Effect: Measurement and Design...by B Swire-Thompson  2020  Cited by 418  In sum, the current...</span></span></span>
 
-Researchers also note that isolated backfire findings are often sensitive to measurement choices. Depending on how belief change is calculated, a small apparent reversal can sometimes emerge from statistical noise, ceiling effects or unreliable survey responses. This is one reason later reviews placed so much emphasis on replication and experimental design. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S2211368120300516" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Searching for the Backfire Effect: Measurement and Design...by B Swire-Thompson  2020  Cited by 418  In sum, the current...</span></span></span>
+Researchers also note that isolated backfire findings are often sensitive to measurement choices. Depending on how belief change is calculated, a small apparent reversal can sometimes emerge from statistical noise, ceiling effects or unreliable survey responses. This is one reason later reviews placed so much emphasis on replication and experimental design.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S2211368120300516" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Searching for the Backfire Effect: Measurement and Design...by B Swire-Thompson  2020  Cited by 418  In sum, the current...</span></span></span>
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_backfire_effect_myth_0599c9_large_correction_stu_7d2498-Illustration-3-dark.svg" | relative_url }}" alt="Study Evidence illustration 3" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_backfire_effect_myth_0599c9_large_correction_stu_7d2498-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_backfire_effect_myth_0599c9_large_correction_stu_7d2498-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What the Evidence Now Suggests
 
-The broad lesson from large correction studies is not that misinformation is easy to defeat. False beliefs can persist, corrections can decay, and political identities still shape how evidence is received. Yet these problems are different from the classic backfire claim. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.pnas.org/doi/10.1073/pnas.1912440117" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pnas.org">[PNAS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pnas.org</span><span class="citation-popover-snippet">Why the backfire effect does not explain the durability of...by B Nyhan  2021  Cited by 325  In 2010, Jason Reifler and I publish...</span></span></span>
+The broad lesson from large correction studies is not that misinformation is easy to defeat. False beliefs can persist, corrections can decay, and political identities still shape how evidence is received. Yet these problems are different from the classic backfire claim.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.pnas.org/doi/10.1073/pnas.1912440117" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pnas.org">[PNAS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pnas.org</span><span class="citation-popover-snippet">Why the backfire effect does not explain the durability of...by B Nyhan  2021  Cited by 325  In 2010, Jason Reifler and I publish...</span></span></span>
 
-The strongest large-scale evidence points in a more reassuring direction. When researchers deliberately tested situations where backfire was expected, corrections generally improved factual accuracy. Reviews of the literature now describe robust backfire effects as uncommon and difficult to reproduce. <span class="citation-chip-wrap"><a class="citation-chip" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2819073" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: papers.ssrn.com">[SSRN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">papers.ssrn.com</span><span class="citation-popover-snippet">The Elusive Backfire Effect: Mass Attitudes&#x27; Steadfast...by T Wood  2017  Cited by 1163  The present paper presents results from...</span></span></span> ScienceDirect That shift has changed how many scholars think about misinformation. The central concern is no longer that corrections typically make false b <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S2211368120300516" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[sciencedirect.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Searching for the Backfire Effect: Measurement and Design...by B Swire-Thompson  2020  Cited by 418  In sum, the current...</span></span></span> eliefs stronger. It is that corrections often produce only partial gains, compete with repeated misinformation, and must be designed well enough to remain memorable and trusted. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.pnas.org/doi/10.1073/pnas.1912440117" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pnas.org">[PNAS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pnas.org</span><span class="citation-popover-snippet">Why the backfire effect does not explain the durability of...by B Nyhan  2021  Cited by 325  In 2010, Jason Reifler and I publish...</span></span></span>
+The strongest large-scale evidence points in a more reassuring direction. When researchers deliberately tested situations where backfire was expected, corrections generally improved factual accuracy. Reviews of the literature now describe robust backfire effects as uncommon and difficult to reproduce.<span class="citation-chip-wrap"><a class="citation-chip" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2819073" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: papers.ssrn.com">[SSRN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">papers.ssrn.com</span><span class="citation-popover-snippet">The Elusive Backfire Effect: Mass Attitudes&#x27; Steadfast...by T Wood  2017  Cited by 1163  The present paper presents results from...</span></span></span> ScienceDirect That shift has changed how many scholars think about misinformation. The central concern is no longer that corrections typically make false b<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S2211368120300516" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[sciencedirect.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Searching for the Backfire Effect: Measurement and Design...by B Swire-Thompson  2020  Cited by 418  In sum, the current...</span></span></span> eliefs stronger. It is that corrections often produce only partial gains, compete with repeated misinformation, and must be designed well enough to remain memorable and trusted.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.pnas.org/doi/10.1073/pnas.1912440117" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pnas.org">[PNAS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pnas.org</span><span class="citation-popover-snippet">Why the backfire effect does not explain the durability of...by B Nyhan  2021  Cited by 325  In 2010, Jason Reifler and I publish...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Did Researchers Actually Find Backfire?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Did Researchers Actually Find Backfire?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mistakes Were Made (but Not by Me) Third Edition on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jmmVxgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Mistakes Were Made (but Not by Me) Third Edition" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mistakes Were Made (but Not by Me) Third Edition">Mistakes Were Made (but Not by Me) Third Edition</a>
-        </h4>
-        <p class="fr-book-author">By Carol Tavris, Elliot Aronson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mistakes Were Made (but Not by Me) Third Edition on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jmmVxgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Mistakes Were Made (but Not by Me) Third Edition" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mistakes Were Made (but Not by Me) Third Edition">Mistakes Were Made (but Not by Me) Third Edition</a>
+</h4>
+<p class="fr-book-author">By Carol Tavris, Elliot Aronson</p>
         
-        <p class="fr-book-desc">Explains resistance to correction and self-justification.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains resistance to correction and self-justification.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Post-truth+Lee+C.+McIntyre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Post-truth on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8750473-M.jpg" alt="Cover for Post-truth" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Post-truth+Lee+C.+McIntyre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Post-truth">Post-truth</a>
-        </h4>
-        <p class="fr-book-author">By Lee C. McIntyre</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Post-truth+Lee+C.+McIntyre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Post-truth on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8750473-M.jpg" alt="Cover for Post-truth" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Post-truth+Lee+C.+McIntyre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Post-truth">Post-truth</a>
+</h4>
+<p class="fr-book-author">By Lee C. McIntyre</p>
         
-        <p class="fr-book-desc">First published 2018. Subjects: Politics and government, In mass media, Public opinion, Mass media, Truth.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Post-truth+Lee+C.+McIntyre&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2018. Subjects: Politics and government, In mass media, Public opinion, Mass media, Truth.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Post-truth+Lee+C.+McIntyre&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Scout+Mindset+Julia+Galef&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Scout Mindset on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10690900-M.jpg" alt="Cover for Scout Mindset" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Scout+Mindset+Julia+Galef&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scout Mindset">Scout Mindset</a>
-        </h4>
-        <p class="fr-book-author">By Julia Galef</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Scout+Mindset+Julia+Galef&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Scout Mindset on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10690900-M.jpg" alt="Cover for Scout Mindset" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Scout+Mindset+Julia+Galef&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scout Mindset">Scout Mindset</a>
+</h4>
+<p class="fr-book-author">By Julia Galef</p>
         
-        <p class="fr-book-desc">First published 2021. Subjects: Economics, Psychology, Cognition, Skepticism, Critical thinking.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Scout+Mindset+Julia+Galef&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2021. Subjects: Economics, Psychology, Cognition, Skepticism, Critical thinking.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Scout+Mindset+Julia+Galef&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Foolproof+Sander+Van+Der+Linden&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Foolproof on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/13300557-M.jpg" alt="Cover for Foolproof" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Foolproof+Sander+Van+Der+Linden&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Foolproof">Foolproof</a>
-        </h4>
-        <p class="fr-book-author">By Sander Van Der Linden</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Foolproof+Sander+Van+Der+Linden&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Foolproof on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/13300557-M.jpg" alt="Cover for Foolproof" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Foolproof+Sander+Van+Der+Linden&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Foolproof">Foolproof</a>
+</h4>
+<p class="fr-book-author">By Sander Van Der Linden</p>
         
-        <p class="fr-book-desc">First published 2023.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Foolproof+Sander+Van+Der+Linden&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2023.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Foolproof+Sander+Van+Der+Linden&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mistakes Were Made (but Not by Me) Third Edition</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Post+truth&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Post truth</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Scout+Mindset&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Scout Mindset</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mistakes Were Made (but Not by Me) Third Edition</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Post+truth&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Post truth</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Scout+Mindset&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Scout Mindset</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+classroom+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=study-evidence-did-researchers-actually-find-backfire-myths-and-misconcept-teacher-classroom-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher classroom poster" data-ebay-reference="study-evidence-did-researchers-actually-find-backfire-myths-and-misconcept-teacher-classroom-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Teacher Classroom Quote Framed Wall Art Poster Canvas Print Picture"><span>eBay</span></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+classroom+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=study-evidence-did-researchers-actually-find-backfire-myths-and-misconcept-teacher-classroom-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher classroom poster" data-ebay-reference="study-evidence-did-researchers-actually-find-backfire-myths-and-misconcept-teacher-classroom-poster" target="_blank" rel="sponsored noopener noreferrer">Teacher Classroom Quote Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+classroom+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=study-evidence-did-researchers-actually-find-backfire-myths-and-misconcept-teacher-classroom-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher classroom poster" data-ebay-reference="study-evidence-did-researchers-actually-find-backfire-myths-and-misconcept-teacher-classroom-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for teacher classroom poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: teacher classroom poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+classroom+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=study-evidence-did-researchers-actually-find-backfire-myths-and-misconcept-teacher-classroom-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher classroom poster" data-ebay-reference="study-evidence-did-researchers-actually-find-backfire-myths-and-misconcept-teacher-classroom-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+classroom+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=study-evidence-did-researchers-actually-find-backfire-myths-and-misconcept-teacher-classroom-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher classroom poster" data-ebay-reference="study-evidence-did-researchers-actually-find-backfire-myths-and-misconcept-teacher-classroom-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Teacher Classroom Quote Framed Wall Art Poster Canvas Print Picture"><span>eBay</span></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+classroom+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=study-evidence-did-researchers-actually-find-backfire-myths-and-misconcept-teacher-classroom-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher classroom poster" data-ebay-reference="study-evidence-did-researchers-actually-find-backfire-myths-and-misconcept-teacher-classroom-poster" target="_blank" rel="sponsored noopener noreferrer">Teacher Classroom Quote Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+classroom+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=study-evidence-did-researchers-actually-find-backfire-myths-and-misconcept-teacher-classroom-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher classroom poster" data-ebay-reference="study-evidence-did-researchers-actually-find-backfire-myths-and-misconcept-teacher-classroom-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for teacher classroom poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: teacher classroom poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+classroom+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=study-evidence-did-researchers-actually-find-backfire-myths-and-misconcept-teacher-classroom-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher classroom poster" data-ebay-reference="study-evidence-did-researchers-actually-find-backfire-myths-and-misconcept-teacher-classroom-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+classroom+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=study-evidence-did-researchers-actually-find-backfire-myths-and-misconcept-teacher-classroom-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher classroom poster" data-ebay-reference="study-evidence-did-researchers-actually-find-backfire-myths-and-misconcept-teacher-classroom-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Teacher - Science classroom - The s Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/ebd7123c520a4ec294fe.jpg' | relative_url }}" alt="Listing image for Teacher - Science classroom - The s Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+classroom+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=study-evidence-did-researchers-actually-find-backfire-myths-and-misconcept-teacher-classroom-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher classroom poster" data-ebay-reference="study-evidence-did-researchers-actually-find-backfire-myths-and-misconcept-teacher-classroom-poster" target="_blank" rel="sponsored noopener noreferrer">Teacher - Science classroom - The s Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+classroom+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=study-evidence-did-researchers-actually-find-backfire-myths-and-misconcept-teacher-classroom-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher classroom poster" data-ebay-reference="study-evidence-did-researchers-actually-find-backfire-myths-and-misconcept-teacher-classroom-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for teacher classroom poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: teacher classroom poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+classroom+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=study-evidence-did-researchers-actually-find-backfire-myths-and-misconcept-teacher-classroom-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher classroom poster" data-ebay-reference="study-evidence-did-researchers-actually-find-backfire-myths-and-misconcept-teacher-classroom-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+classroom+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=study-evidence-did-researchers-actually-find-backfire-myths-and-misconcept-teacher-classroom-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher classroom poster" data-ebay-reference="study-evidence-did-researchers-actually-find-backfire-myths-and-misconcept-teacher-classroom-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Teacher - Science classroom - The s Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/ebd7123c520a4ec294fe.jpg' | relative_url }}" alt="Listing image for Teacher - Science classroom - The s Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+classroom+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=study-evidence-did-researchers-actually-find-backfire-myths-and-misconcept-teacher-classroom-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher classroom poster" data-ebay-reference="study-evidence-did-researchers-actually-find-backfire-myths-and-misconcept-teacher-classroom-poster" target="_blank" rel="sponsored noopener noreferrer">Teacher - Science classroom - The s Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+classroom+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=study-evidence-did-researchers-actually-find-backfire-myths-and-misconcept-teacher-classroom-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher classroom poster" data-ebay-reference="study-evidence-did-researchers-actually-find-backfire-myths-and-misconcept-teacher-classroom-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for teacher classroom poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: teacher classroom poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+classroom+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=study-evidence-did-researchers-actually-find-backfire-myths-and-misconcept-teacher-classroom-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher classroom poster" data-ebay-reference="study-evidence-did-researchers-actually-find-backfire-myths-and-misconcept-teacher-classroom-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+classroom+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=study-evidence-did-researchers-actually-find-backfire-myths-and-misconcept-teacher-classroom-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher classroom poster" data-ebay-reference="study-evidence-did-researchers-actually-find-backfire-myths-and-misconcept-teacher-classroom-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Armed Teacher in Classroom Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/3dd7201994d1731c433b.jpg' | relative_url }}" alt="Listing image for Armed Teacher in Classroom Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+classroom+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=study-evidence-did-researchers-actually-find-backfire-myths-and-misconcept-teacher-classroom-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher classroom poster" data-ebay-reference="study-evidence-did-researchers-actually-find-backfire-myths-and-misconcept-teacher-classroom-poster" target="_blank" rel="sponsored noopener noreferrer">Armed Teacher in Classroom Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+classroom+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=study-evidence-did-researchers-actually-find-backfire-myths-and-misconcept-teacher-classroom-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher classroom poster" data-ebay-reference="study-evidence-did-researchers-actually-find-backfire-myths-and-misconcept-teacher-classroom-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for teacher classroom poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: teacher classroom poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+classroom+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=study-evidence-did-researchers-actually-find-backfire-myths-and-misconcept-teacher-classroom-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher classroom poster" data-ebay-reference="study-evidence-did-researchers-actually-find-backfire-myths-and-misconcept-teacher-classroom-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+classroom+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=study-evidence-did-researchers-actually-find-backfire-myths-and-misconcept-teacher-classroom-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher classroom poster" data-ebay-reference="study-evidence-did-researchers-actually-find-backfire-myths-and-misconcept-teacher-classroom-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Armed Teacher in Classroom Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/3dd7201994d1731c433b.jpg' | relative_url }}" alt="Listing image for Armed Teacher in Classroom Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+classroom+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=study-evidence-did-researchers-actually-find-backfire-myths-and-misconcept-teacher-classroom-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher classroom poster" data-ebay-reference="study-evidence-did-researchers-actually-find-backfire-myths-and-misconcept-teacher-classroom-poster" target="_blank" rel="sponsored noopener noreferrer">Armed Teacher in Classroom Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+classroom+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=study-evidence-did-researchers-actually-find-backfire-myths-and-misconcept-teacher-classroom-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher classroom poster" data-ebay-reference="study-evidence-did-researchers-actually-find-backfire-myths-and-misconcept-teacher-classroom-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for teacher classroom poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: teacher classroom poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+classroom+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=study-evidence-did-researchers-actually-find-backfire-myths-and-misconcept-teacher-classroom-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher classroom poster" data-ebay-reference="study-evidence-did-researchers-actually-find-backfire-myths-and-misconcept-teacher-classroom-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+classroom+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=study-evidence-did-researchers-actually-find-backfire-myths-and-misconcept-teacher-classroom-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher classroom poster" data-ebay-reference="study-evidence-did-researchers-actually-find-backfire-myths-and-misconcept-teacher-classroom-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 3 Pk Classroom Posters Canvas 16x24 Teacher Wall Art School Motivational Quote"><img src="{{ '/assets/images/marketplace-covers/83b01e0e2aba5fecd8b3.jpg' | relative_url }}" alt="Listing image for 3 Pk Classroom Posters Canvas 16x24 Teacher Wall Art School Motivational Quote" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+classroom+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=study-evidence-did-researchers-actually-find-backfire-myths-and-misconcept-teacher-classroom-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher classroom poster" data-ebay-reference="study-evidence-did-researchers-actually-find-backfire-myths-and-misconcept-teacher-classroom-poster" target="_blank" rel="sponsored noopener noreferrer">3 Pk Classroom Posters Canvas 16x24 Teacher Wall Art School Motivational Quote</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+classroom+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=study-evidence-did-researchers-actually-find-backfire-myths-and-misconcept-teacher-classroom-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher classroom poster" data-ebay-reference="study-evidence-did-researchers-actually-find-backfire-myths-and-misconcept-teacher-classroom-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for teacher classroom poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: teacher classroom poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+classroom+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=study-evidence-did-researchers-actually-find-backfire-myths-and-misconcept-teacher-classroom-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher classroom poster" data-ebay-reference="study-evidence-did-researchers-actually-find-backfire-myths-and-misconcept-teacher-classroom-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+classroom+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=study-evidence-did-researchers-actually-find-backfire-myths-and-misconcept-teacher-classroom-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher classroom poster" data-ebay-reference="study-evidence-did-researchers-actually-find-backfire-myths-and-misconcept-teacher-classroom-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+classroom+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=study-evidence-did-researchers-actually-find-backfire-myths-and-misconcept-teacher-classroom-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher classroom poster" data-ebay-reference="study-evidence-did-researchers-actually-find-backfire-myths-and-misconcept-teacher-classroom-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 3 Pk Classroom Posters Canvas 16x24 Teacher Wall Art School Motivational Quote"><img src="{{ '/assets/images/marketplace-covers/83b01e0e2aba5fecd8b3.jpg' | relative_url }}" alt="Listing image for 3 Pk Classroom Posters Canvas 16x24 Teacher Wall Art School Motivational Quote" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+classroom+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=study-evidence-did-researchers-actually-find-backfire-myths-and-misconcept-teacher-classroom-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher classroom poster" data-ebay-reference="study-evidence-did-researchers-actually-find-backfire-myths-and-misconcept-teacher-classroom-poster" target="_blank" rel="sponsored noopener noreferrer">3 Pk Classroom Posters Canvas 16x24 Teacher Wall Art School Motivational Quote</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+classroom+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=study-evidence-did-researchers-actually-find-backfire-myths-and-misconcept-teacher-classroom-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher classroom poster" data-ebay-reference="study-evidence-did-researchers-actually-find-backfire-myths-and-misconcept-teacher-classroom-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for teacher classroom poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: teacher classroom poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+classroom+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=study-evidence-did-researchers-actually-find-backfire-myths-and-misconcept-teacher-classroom-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher classroom poster" data-ebay-reference="study-evidence-did-researchers-actually-find-backfire-myths-and-misconcept-teacher-classroom-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+classroom+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=study-evidence-did-researchers-actually-find-backfire-myths-and-misconcept-teacher-classroom-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher classroom poster" data-ebay-reference="study-evidence-did-researchers-actually-find-backfire-myths-and-misconcept-teacher-classroom-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -552,7 +552,7 @@ The strongest large-scale evidence points in a more reassuring direction. When r
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -572,7 +572,7 @@ The strongest large-scale evidence points in a more reassuring direction. When r
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -604,7 +604,7 @@ The strongest large-scale evidence points in a more reassuring direction. When r
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -656,7 +656,7 @@ The strongest large-scale evidence points in a more reassuring direction. When r
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -701,7 +701,7 @@ The strongest large-scale evidence points in a more reassuring direction. When r
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -742,98 +742,98 @@ The strongest large-scale evidence points in a more reassuring direction. When r
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: papers.ssrn.com  
-   Link: <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2819073" target="_blank" rel="noopener noreferrer nofollow">https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2819073</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Elusive Backfire Effect: Mass Attitudes&#x27; Steadfast...by T Wood  2017  Cited by 1163  The present paper presents results from...</p></details>
+   Link:<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2819073" target="_blank" rel="noopener noreferrer nofollow">https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2819073</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Elusive Backfire Effect: Mass Attitudes&#x27; Steadfast...by T Wood  2017  Cited by 1163  The present paper presents results from...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/pii/S2211368120300516" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S2211368120300516</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Searching for the Backfire Effect: Measurement and Design...by B Swire-Thompson  2020  Cited by 418  In sum, the current...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/pii/S2211368120300516" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S2211368120300516</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Searching for the Backfire Effect: Measurement and Design...by B Swire-Thompson  2020  Cited by 418  In sum, the current...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: pnas.org  
-   Link: <a href="https://www.pnas.org/doi/10.1073/pnas.1912440117" target="_blank" rel="noopener noreferrer nofollow">https://www.pnas.org/doi/10.1073/pnas.1912440117</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Why the backfire effect does not explain the durability of...by B Nyhan  2021  Cited by 325  In 2010, Jason Reifler and I publish...</p></details>
+   Link:<a href="https://www.pnas.org/doi/10.1073/pnas.1912440117" target="_blank" rel="noopener noreferrer nofollow">https://www.pnas.org/doi/10.1073/pnas.1912440117</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Why the backfire effect does not explain the durability of...by B Nyhan  2021  Cited by 325  In 2010, Jason Reifler and I publish...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: osf.io  
-   Link: <a href="https://osf.io/download/ba2kc" target="_blank" rel="noopener noreferrer nofollow">https://osf.io/download/ba2kc</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>t backfire effects are not a robust empirical phenomenon, and more reliable measures, powerful designs, and stronger...Read...</p></details>
+   Link:<a href="https://osf.io/download/ba2kc" target="_blank" rel="noopener noreferrer nofollow">https://osf.io/download/ba2kc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>t backfire effects are not a robust empirical phenomenon, and more reliable measures, powerful designs, and stronger...Read...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: link.springer.com  
-   Link: <a href="https://link.springer.com/article/10.1186/s41235-023-00492-z" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1186/s41235-023-00492-z</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Springer LinkExamining the replicability of backfire effects after standalone...by T Prike  2023  Cited by 25  Here, we examined whet...</p></details>
+   Link:<a href="https://link.springer.com/article/10.1186/s41235-023-00492-z" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1186/s41235-023-00492-z</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Springer LinkExamining the replicability of backfire effects after standalone...by T Prike  2023  Cited by 25  Here, we examined whet...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: eprints.soton.ac.uk  
-   Link: <a href="https://eprints.soton.ac.uk/500567/" target="_blank" rel="noopener noreferrer nofollow">https://eprints.soton.ac.uk/500567/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ePrints SotonWhen corrections fail: the persistence of political misperceptionsby B Nyhan  2010  Cited by 4638  We also document sever...</p></details>
+   Link:<a href="https://eprints.soton.ac.uk/500567/" target="_blank" rel="noopener noreferrer nofollow">https://eprints.soton.ac.uk/500567/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ePrints SotonWhen corrections fail: the persistence of political misperceptionsby B Nyhan  2010  Cited by 4638  We also document sever...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: daily.jstor.org  
    Title: the backfire effect  
-   Link: <a href="https://daily.jstor.org/the-backfire-effect/" target="_blank" rel="noopener noreferrer nofollow">https://daily.jstor.org/the-backfire-effect/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>JSTOR DailyThe Backfire Effect3 Apr 2017  Nyhan and Reifler found that corrections frequently fail to reduce misperceptions among the t...</p></details>
+   Link:<a href="https://daily.jstor.org/the-backfire-effect/" target="_blank" rel="noopener noreferrer nofollow">https://daily.jstor.org/the-backfire-effect/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>JSTOR DailyThe Backfire Effect3 Apr 2017  Nyhan and Reifler found that corrections frequently fail to reduce misperceptions among the t...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: cjr.org  
    Title: the backfire effect  
-   Link: <a href="https://www.cjr.org/behind_the_news/the_backfire_effect.php" target="_blank" rel="noopener noreferrer nofollow">https://www.cjr.org/behind_the_news/the_backfire_effect.php</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>17 Jun 2011  The study was led by Brendan Nyhan and Jason Reifler, two leading researchers examining political misinformation and the wa...</p></details>
+   Link:<a href="https://www.cjr.org/behind_the_news/the_backfire_effect.php" target="_blank" rel="noopener noreferrer nofollow">https://www.cjr.org/behind_the_news/the_backfire_effect.php</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>17 Jun 2011  The study was led by Brendan Nyhan and Jason Reifler, two leading researchers examining political misinformation and the wa...</p></details>
 
 ### Additional References
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: nationalacademies.org  
-   Link: <a href="https://www.nationalacademies.org/cdn/materials/9fba0c8a-0f5f-445b-b7e8-1662edd96bd4" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalacademies.org/cdn/materials/9fba0c8a-0f5f-445b-b7e8-1662edd96bd4</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Briony Swire-ThompsonA backfire effect is said to occur when an evidence-based correction leads to an individual believing even more in t...</p></details>
+   Link:<a href="https://www.nationalacademies.org/cdn/materials/9fba0c8a-0f5f-445b-b7e8-1662edd96bd4" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalacademies.org/cdn/materials/9fba0c8a-0f5f-445b-b7e8-1662edd96bd4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Briony Swire-ThompsonA backfire effect is said to occur when an evidence-based correction leads to an individual believing even more in t...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/358440351_The_backfire_effect_after_correcting_misinformation_is_strongly_associated_with_reliability" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/358440351_The_backfire_effect_after_correcting_misinformation_is_strongly_associated_with_reliability</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Backfire Effect After Correcting Misinformation Is...We suggest that backfire effects are not a robust empirical phenomenon, and tha...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/358440351_The_backfire_effect_after_correcting_misinformation_is_strongly_associated_with_reliability" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/358440351_The_backfire_effect_after_correcting_misinformation_is_strongly_associated_with_reliability</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Backfire Effect After Correcting Misinformation Is...We suggest that backfire effects are not a robust empirical phenomenon, and tha...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: cssh.northeastern.edu  
-   Link: <a href="https://cssh.northeastern.edu/nulab/backfire-effects/" target="_blank" rel="noopener noreferrer nofollow">https://cssh.northeastern.edu/nulab/backfire-effects/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Social Sciences &amp; HumanitiesThe Prevalence of Backfire Effects After the Correction of...This study aims to explore (1) how frequent the...</p></details>
+   Link:<a href="https://cssh.northeastern.edu/nulab/backfire-effects/" target="_blank" rel="noopener noreferrer nofollow">https://cssh.northeastern.edu/nulab/backfire-effects/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Social Sciences &amp; HumanitiesThe Prevalence of Backfire Effects After the Correction of...This study aims to explore (1) how frequent the...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: researchgate.net  
    Title: 225336846 When Corrections Fail The Persistence of Political Misperceptions  
-   Link: <a href="https://www.researchgate.net/publication/225336846_When_Corrections_Fail_The_Persistence_of_Political_Misperceptions" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/225336846_When_Corrections_Fail_The_Persistence_of_Political_Misperceptions</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) When Corrections Fail: The Persistence of Political...Nyhan and Reifler (2010) noted the &quot;backfire effect,&quot; but Wood and Porter (2...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/225336846_When_Corrections_Fail_The_Persistence_of_Political_Misperceptions" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/225336846_When_Corrections_Fail_The_Persistence_of_Political_Misperceptions</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) When Corrections Fail: The Persistence of Political...Nyhan and Reifler (2010) noted the &quot;backfire effect,&quot; but Wood and Porter (2...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: smpa.gwu.edu  
-   Link: <a href="https://smpa.gwu.edu/elusive-backfire-effect-mass-attitudes-steadfast-factual-adherence" target="_blank" rel="noopener noreferrer nofollow">https://smpa.gwu.edu/elusive-backfire-effect-mass-attitudes-steadfast-factual-adherence</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>al information when that information challenges their partisan and/or ideological...Read more...</p></details>
+   Link:<a href="https://smpa.gwu.edu/elusive-backfire-effect-mass-attitudes-steadfast-factual-adherence" target="_blank" rel="noopener noreferrer nofollow">https://smpa.gwu.edu/elusive-backfire-effect-mass-attitudes-steadfast-factual-adherence</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>al information when that information challenges their partisan and/or ideological...Read more...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: calgara.github.io  
-   Link: <a href="https://calgara.github.io/Pol157_Spring2019/Nyhan%20%26%20Reifler%202010.pdf" target="_blank" rel="noopener noreferrer nofollow">https://calgara.github.io/Pol157_Spring2019/Nyhan%20%26%20Reifler%202010.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>When Corrections Fail: The Persistence of Political...by B Nyhan  2010  Cited by 4638  the backfire effect must be the result of the...</p></details>
+   Link:<a href="https://calgara.github.io/Pol157_Spring2019/Nyhan%20%26%20Reifler%202010.pdf" target="_blank" rel="noopener noreferrer nofollow">https://calgara.github.io/Pol157_Spring2019/Nyhan%20%26%20Reifler%202010.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>When Corrections Fail: The Persistence of Political...by B Nyhan  2010  Cited by 4638  the backfire effect must be the result of the...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: fullfact.org  
-   Link: <a href="https://fullfact.org/media/uploads/backfire_report_fullfact.pdf" target="_blank" rel="noopener noreferrer nofollow">https://fullfact.org/media/uploads/backfire_report_fullfact.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>than 10,100 people in the US. They selected prominent...Read more...</p></details>
+   Link:<a href="https://fullfact.org/media/uploads/backfire_report_fullfact.pdf" target="_blank" rel="noopener noreferrer nofollow">https://fullfact.org/media/uploads/backfire_report_fullfact.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>than 10,100 people in the US. They selected prominent...Read more...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: semanticscholar.org  
-   Link: <a href="https://www.semanticscholar.org/paper/The-Elusive-Backfire-Effect%3A-Mass-Attitudes%E2%80%99-Wood-Porter/683758a5c7d21c485b1a9691cb8b03cbe4bfb951" target="_blank" rel="noopener noreferrer nofollow">https://www.semanticscholar.org/paper/The-Elusive-Backfire-Effect%3A-Mass-Attitudes%E2%80%99-Wood-Porter/683758a5c7d21c485b1a9691cb8b03cbe4bfb951</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>[PDF] The Elusive Backfire Effect: Mass Attitudes&#x27; Steadfast...15 Mar 2019  The research that is reviewed suggests that the accuracy-in...</p></details>
+   Link:<a href="https://www.semanticscholar.org/paper/The-Elusive-Backfire-Effect%3A-Mass-Attitudes%E2%80%99-Wood-Porter/683758a5c7d21c485b1a9691cb8b03cbe4bfb951" target="_blank" rel="noopener noreferrer nofollow">https://www.semanticscholar.org/paper/The-Elusive-Backfire-Effect%3A-Mass-Attitudes%E2%80%99-Wood-Porter/683758a5c7d21c485b1a9691cb8b03cbe4bfb951</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>[PDF] The Elusive Backfire Effect: Mass Attitudes&#x27; Steadfast...15 Mar 2019  The research that is reviewed suggests that the accuracy-in...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: djflynn.org  
    Title: elusive backfire effect wood porter  
-   Link: <a href="https://www.djflynn.org/wp-content/uploads/2016/08/elusive-backfire-effect-wood-porter.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.djflynn.org/wp-content/uploads/2016/08/elusive-backfire-effect-wood-porter.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The elusive backfire effectby T Wood  2016  Cited by 1163  Nyhan and Reifler observed backfire on two high salience issues (whether WM...</p></details>
+   Link:<a href="https://www.djflynn.org/wp-content/uploads/2016/08/elusive-backfire-effect-wood-porter.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.djflynn.org/wp-content/uploads/2016/08/elusive-backfire-effect-wood-porter.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The elusive backfire effectby T Wood  2016  Cited by 1163  Nyhan and Reifler observed backfire on two high salience issues (whether WM...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: bibsonomy.org  
-   Link: <a href="https://www.bibsonomy.org/bibtex/f1e68aafbf02cca80f2b425b02bd262e" target="_blank" rel="noopener noreferrer nofollow">https://www.bibsonomy.org/bibtex/f1e68aafbf02cca80f2b425b02bd262e</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>When Corrections Fail: The Persistence of Political...An extensive literature addresses citizen ignorance, but very little research focu...</p></details>
+   Link:<a href="https://www.bibsonomy.org/bibtex/f1e68aafbf02cca80f2b425b02bd262e" target="_blank" rel="noopener noreferrer nofollow">https://www.bibsonomy.org/bibtex/f1e68aafbf02cca80f2b425b02bd262e</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>When Corrections Fail: The Persistence of Political...An extensive literature addresses citizen ignorance, but very little research focu...</p></details>

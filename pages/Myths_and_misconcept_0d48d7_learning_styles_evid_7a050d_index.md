@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /myths-and-misconcept-0d48d7-learning/
 description: Focused pages that expand on Learning Styles.
-date: '2026-06-11'
+date: '2026'
 layout: default
 parent_basename: Myths_and_misconcept_0d48d7_learning_styles_evid_7a050d
 parent_title: Learning Styles
@@ -16,7 +16,7 @@ parent_permalink: /learning-styles/
 
 # Explore Topics in Learning Styles
 
-The following pages expand on the main **[Learning Styles]({{ '/learning-styles/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[Learning Styles]({{ '/learning-styles/' | relative_url }})** page and cover its key branches in.
 
 - [Content first]({{ '/content-first/' | relative_url }})
 - [Labels risk]({{ '/labels-risk/' | relative_url }})

@@ -277,7 +277,7 @@ image: /assets/images/Myths_and_misconcept_0d48d7_identity_trust_belie_3d20c4_gr
 False claims do not survive only because people are confused or uninformed. They often survive because accepting them becomes a way of showing loyalty. In families, political movements, religious communities, wellness circles, workplaces and online fandoms, beliefs can function as social signals as much as factual judgments. A claim may start as a question about reality, but over time it can become a test of who belongs, who can be trusted and who is willing to stand with the group when challenged.
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_identity_trust_belie_3d20c4_group_loyalty_myths_b2972f-Illustration-1-dark.svg" | relative_url }}" alt="Group Loyalty illustration 1" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_identity_trust_belie_3d20c4_group_loyalty_myths_b2972f-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_identity_trust_belie_3d20c4_group_loyalty_myths_b2972f-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-This is one reason myths and misconceptions can feel morally important even when evidence is weak. Rejecting a false claim may come to feel less like correcting a mistake and more like abandoning friends, disrespecting elders, betraying a cause or helping an enemy. Research on [identity]({{ 'identity/' | relative_url }})-protective cognition suggests that people often evaluate information in ways that protect valued social identities rather than simply maximising factual accuracy. <span class="citation-chip-wrap"><a class="citation-chip" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2973067" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: papers.ssrn.com">[SSRN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">papers.ssrn.com</span><span class="citation-popover-snippet">Misconceptions, Misinformation, and the Logic of Identity-...by DM Kahan · 2017 · Cited by 582 — The incidence and impact of misconc...</span></span></span>
+This is one reason myths and misconceptions can feel morally important even when evidence is weak. Rejecting a false claim may come to feel less like correcting a mistake and more like abandoning friends, disrespecting elders, betraying a cause or helping an enemy. Research on [identity]({{ 'identity/' | relative_url }})-protective cognition suggests that people often evaluate information in ways that protect valued social identities rather than simply maximising factual accuracy.<span class="citation-chip-wrap"><a class="citation-chip" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2973067" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: papers.ssrn.com">[SSRN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">papers.ssrn.com</span><span class="citation-popover-snippet">Misconceptions, Misinformation, and the Logic of Identity-...by DM Kahan · 2017 · Cited by 582 — The incidence and impact of misconc...</span></span></span>
 
 ## When a factual claim becomes a group signal
 
@@ -295,7 +295,7 @@ Once a belief becomes associated with a community, accepting or rejecting it sen
 
 </div>
 
-Psychologists studying social identity have long argued that people derive part of their self-concept from group membership. Political parties, religious communities, professions, nations and online communities all provide identity, status and belonging. When a disputed claim becomes attached to one of those identities, changing one's mind may feel like changing sides. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.centerconflictcooperation-newsletter.com/p/social-identity-shapes-your-belief" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: centerconflictcooperation-newsletter.com">[centerconflictcooperation-newsletter.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">centerconflictcooperation-newsletter.com</span><span class="citation-popover-title">Social identity shapes your belief in fake news</span><span class="citation-popover-snippet">August 3, 2022 — To understand how partisanship works in the mind and brain, we have to return to one of the most fundamental theories in...</span><span class="citation-popover-meta">Published: August 3, 2022</span></span></span>
+Psychologists studying social identity have long argued that people derive part of their self-concept from group membership. Political parties, religious communities, professions, nations and online communities all provide identity, status and belonging. When a disputed claim becomes attached to one of those identities, changing one's mind may feel like changing sides.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.centerconflictcooperation-newsletter.com/p/social-identity-shapes-your-belief" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: centerconflictcooperation-newsletter.com">[centerconflictcooperation-newsletter.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">centerconflictcooperation-newsletter.com</span><span class="citation-popover-title">Social identity shapes your belief in fake news</span><span class="citation-popover-snippet">August 3, 2022 — To understand how partisanship works in the mind and brain, we have to return to one of the most fundamental theories in...</span><span class="citation-popover-meta">Published: August 3, 2022</span></span></span>
 
 This helps explain why arguments over myths often become emotionally charged. The dispute is no longer only about evidence. It is about membership.
 
@@ -319,7 +319,7 @@ Group loyalty becomes especially powerful when a belief is attached to moral lan
 
 A claim may come to represent courage, compassion, patriotism, faithfulness, independence or care for vulnerable people. Once that happens, belief is no longer judged primarily on whether it is true. It is judged on whether it expresses the right moral character.
 
-Researchers studying misinformation have found that identity-congruent information is often processed differently from identity-threatening information. People are more likely to accept claims that reinforce important social identities and more likely to resist [corrections]({{ 'corrections/' | relative_url }}) that appear to threaten those identities. <span class="citation-chip-wrap"><a class="citation-chip" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2973067" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: papers.ssrn.com">[SSRN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">papers.ssrn.com</span><span class="citation-popover-snippet">Misconceptions, Misinformation, and the Logic of Identity-...by DM Kahan · 2017 · Cited by 582 — The incidence and impact of misconc...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cambridge.org/core/journals/episteme/article/identityprotective-reasoning-an-epistemic-and-political-defense/5C62B4A3FC3F564ADE86BA5B7C5EF2BE" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cambridge.org">[cambridge]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cambridge.org</span><span class="citation-popover-snippet">Cambridge University Press &amp; AssessmentIdentity-protective reasoning: an epistemic and political...by C Flores · 2025 · Cited by 5 — Ide...</span></span></span> The shift often follows a predictable pattern:
+Researchers studying misinformation have found that identity-congruent information is often processed differently from identity-threatening information. People are more likely to accept claims that reinforce important social identities and more likely to resist [corrections]({{ 'corrections/' | relative_url }}) that appear to threaten those identities.<span class="citation-chip-wrap"><a class="citation-chip" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2973067" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: papers.ssrn.com">[SSRN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">papers.ssrn.com</span><span class="citation-popover-snippet">Misconceptions, Misinformation, and the Logic of Identity-...by DM Kahan · 2017 · Cited by 582 — The incidence and impact of misconc...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cambridge.org/core/journals/episteme/article/identityprotective-reasoning-an-epistemic-and-political-defense/5C62B4A3FC3F564ADE86BA5B7C5EF2BE" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cambridge.org">[cambridge]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cambridge.org</span><span class="citation-popover-snippet">Cambridge University Press &amp; AssessmentIdentity-protective reasoning: an epistemic and political...by C Flores · 2025 · Cited by 5 — Ide...</span></span></span> The shift often follows a predictable pattern:
 
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 
@@ -356,7 +356,7 @@ That transformation makes correction far more difficult because evidence now com
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_identity_trust_belie_3d20c4_group_loyalty_myths_b2972f-Illustration-2-dark.svg" | relative_url }}" alt="Group Loyalty illustration 2" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_identity_trust_belie_3d20c4_group_loyalty_myths_b2972f-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_identity_trust_belie_3d20c4_group_loyalty_myths_b2972f-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Identity protection and the fear of social loss
 
-The theory of identity-protective cognition, associated with the work of Dan Kahan and colleagues, proposes that people often evaluate information in ways that preserve standing within groups they value. On highly polarised topics, individuals may selectively credit or dismiss evidence depending on whether it aligns with the beliefs dominant in their community. <span class="citation-chip-wrap"><a class="citation-chip" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2973067" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: papers.ssrn.com">[SSRN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">papers.ssrn.com</span><span class="citation-popover-snippet">Misconceptions, Misinformation, and the Logic of Identity-...by DM Kahan · 2017 · Cited by 582 — The incidence and impact of misconc...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.fondationdescartes.org/en/2020/06/les-idees-fausses-les-fausses-informations-et-la-logique-du-raisonnement-pour-proteger-son-identite/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fondationdescartes.org">[Fondation Descartes]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fondationdescartes.org</span><span class="citation-popover-title">Fondation Descartes False ideas, fake information, and the logic of identity</span><span class="citation-popover-snippet">protection of cultural identity and its impact on the emergence of fake news... research team on major themes related to information and...</span></span></span>
+The theory of identity-protective cognition, associated with the work of Dan Kahan and colleagues, proposes that people often evaluate information in ways that preserve standing within groups they value. On highly polarised topics, individuals may selectively credit or dismiss evidence depending on whether it aligns with the beliefs dominant in their community.<span class="citation-chip-wrap"><a class="citation-chip" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2973067" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: papers.ssrn.com">[SSRN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">papers.ssrn.com</span><span class="citation-popover-snippet">Misconceptions, Misinformation, and the Logic of Identity-...by DM Kahan · 2017 · Cited by 582 — The incidence and impact of misconc...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.fondationdescartes.org/en/2020/06/les-idees-fausses-les-fausses-informations-et-la-logique-du-raisonnement-pour-proteger-son-identite/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fondationdescartes.org">[Fondation Descartes]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fondationdescartes.org</span><span class="citation-popover-title">Fondation Descartes False ideas, fake information, and the logic of identity</span><span class="citation-popover-snippet">protection of cultural identity and its impact on the emergence of fake news... research team on major themes related to information and...</span></span></span>
 
 This does not necessarily happen consciously.
 
@@ -364,7 +364,7 @@ People rarely think, “I know this is false, but I will believe it anyway.” I
 
 From the perspective of everyday life, this can be rational. Losing acceptance within a family, congregation, workplace or political network can carry immediate costs. Being factually correct may provide little benefit if it threatens relationships that matter deeply.
 
-Researchers have argued that identity-protective reasoning can be understood partly as a response to social realities. In some circumstances, preserving group trust may appear more valuable than publicly challenging a shared belief. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cambridge.org/core/journals/episteme/article/identityprotective-reasoning-an-epistemic-and-political-defense/5C62B4A3FC3F564ADE86BA5B7C5EF2BE" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cambridge.org">[Cambridge University Press &amp; Assessment]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cambridge.org</span><span class="citation-popover-snippet">Cambridge University Press &amp; AssessmentIdentity-protective reasoning: an epistemic and political...by C Flores · 2025 · Cited by 5 — Ide...</span></span></span>
+Researchers have argued that identity-protective reasoning can be understood partly as a response to social realities. In some circumstances, preserving group trust may appear more valuable than publicly challenging a shared belief.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cambridge.org/core/journals/episteme/article/identityprotective-reasoning-an-epistemic-and-political-defense/5C62B4A3FC3F564ADE86BA5B7C5EF2BE" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cambridge.org">[Cambridge University Press &amp; Assessment]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cambridge.org</span><span class="citation-popover-snippet">Cambridge University Press &amp; AssessmentIdentity-protective reasoning: an epistemic and political...by C Flores · 2025 · Cited by 5 — Ide...</span></span></span>
 
 The crucial point is that social incentives and truth-seeking incentives do not always point in the same direction.
 
@@ -386,7 +386,7 @@ Several mechanisms reinforce this process.
 
 These dynamics help explain why evidence sometimes strengthens commitment instead of weakening it. New information is evaluated not only for accuracy but for what accepting it would communicate socially.
 
-Research on conspiracy beliefs has identified similar patterns. Some scholars argue that identity-based motivations encourage people to avoid information that threatens group cohesion, creating self-reinforcing cycles in which belief and selective information exposure support one another. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S2352250X25002064" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">A social-psychological model of the self-reinforcing cycle...by T Gkinopoulos · 2025 · Cited by 2 — This avoidance, in turn...</span></span></span>
+Research on conspiracy beliefs has identified similar patterns. Some scholars argue that identity-based motivations encourage people to avoid information that threatens group cohesion, creating self-reinforcing cycles in which belief and selective information exposure support one another.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S2352250X25002064" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">A social-psychological model of the self-reinforcing cycle...by T Gkinopoulos · 2025 · Cited by 2 — This avoidance, in turn...</span></span></span>
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_identity_trust_belie_3d20c4_group_loyalty_myths_b2972f-Illustration-3-dark.svg" | relative_url }}" alt="Group Loyalty illustration 3" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_identity_trust_belie_3d20c4_group_loyalty_myths_b2972f-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_identity_trust_belie_3d20c4_group_loyalty_myths_b2972f-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Historical patterns across different eras
@@ -399,7 +399,7 @@ Nationalist movements have frequently attached moral virtue to particular histor
 
 Political parties have long used symbolic beliefs to distinguish supporters from opponents. What matters is often not the specific claim but the willingness to affirm it publicly.
 
-The digital age has accelerated these tendencies rather than inventing them. Online communities can rapidly transform factual claims into identity markers because social approval, visibility and group reinforcement operate continuously. Shared beliefs spread through networks where belonging and reputation are constantly on display. Researchers increasingly describe misinformation as deeply connected to social identity processes rather than simply failures of knowledge. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.emerald.com/jices/article/doi/10.1108/JICES-07-2025-0195/1360204/Misinformation-and-polarisation-as-manifestations" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: emerald.com">[Emerald]</a><span class="citation-popover" role="note"><span class="citation-popover-source">emerald.com</span><span class="citation-popover-snippet">Misinformation and polarisation as manifestations of social...This study argues that, although social identity is often considere...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cambridge.org/core/journals/episteme/article/identityprotective-reasoning-an-epistemic-and-political-defense/5C62B4A3FC3F564ADE86BA5B7C5EF2BE" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cambridge.org">[Cambridge]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cambridge.org</span><span class="citation-popover-snippet">Cambridge University Press &amp; AssessmentIdentity-protective reasoning: an epistemic and political...by C Flores · 2025 · Cited by 5 — Ide...</span></span></span>
+The digital age has accelerated these tendencies rather than inventing them. Online communities can rapidly transform factual claims into identity markers because social approval, visibility and group reinforcement operate continuously. Shared beliefs spread through networks where belonging and reputation are constantly on display. Researchers increasingly describe misinformation as deeply connected to social identity processes rather than simply failures of knowledge.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.emerald.com/jices/article/doi/10.1108/JICES-07-2025-0195/1360204/Misinformation-and-polarisation-as-manifestations" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: emerald.com">[Emerald]</a><span class="citation-popover" role="note"><span class="citation-popover-source">emerald.com</span><span class="citation-popover-snippet">Misinformation and polarisation as manifestations of social...This study argues that, although social identity is often considere...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cambridge.org/core/journals/episteme/article/identityprotective-reasoning-an-epistemic-and-political-defense/5C62B4A3FC3F564ADE86BA5B7C5EF2BE" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cambridge.org">[Cambridge]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cambridge.org</span><span class="citation-popover-snippet">Cambridge University Press &amp; AssessmentIdentity-protective reasoning: an epistemic and political...by C Flores · 2025 · Cited by 5 — Ide...</span></span></span>
 
 ## Why facts alone often fail
 
@@ -418,7 +418,7 @@ If a belief functions as a signal of belonging, providing contrary evidence may 
 
 When corrections carry those implications, resistance becomes more understandable. People are defending social identities as well as factual claims.
 
-Research on misinformation repeatedly finds that successful correction depends not only on accuracy but also on trust, source credibility and identity concerns. Information that threatens a valued identity often encounters stronger resistance than information that merely challenges a factual misunderstanding. <span class="citation-chip-wrap"><a class="citation-chip" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2973067" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: papers.ssrn.com">[SSRN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">papers.ssrn.com</span><span class="citation-popover-snippet">Misconceptions, Misinformation, and the Logic of Identity-...by DM Kahan · 2017 · Cited by 582 — The incidence and impact of misconc...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cambridge.org/core/journals/episteme/article/identityprotective-reasoning-an-epistemic-and-political-defense/5C62B4A3FC3F564ADE86BA5B7C5EF2BE" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cambridge.org">[cambridge]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cambridge.org</span><span class="citation-popover-snippet">Cambridge University Press &amp; AssessmentIdentity-protective reasoning: an epistemic and political...by C Flores · 2025 · Cited by 5 — Ide...</span></span></span> This is why myths tied to loyalty can be unusually durable. They are supported by relationships, status and moral commitments, not just mistaken facts.
+Research on misinformation repeatedly finds that successful correction depends not only on accuracy but also on trust, source credibility and identity concerns. Information that threatens a valued identity often encounters stronger resistance than information that merely challenges a factual misunderstanding.<span class="citation-chip-wrap"><a class="citation-chip" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2973067" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: papers.ssrn.com">[SSRN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">papers.ssrn.com</span><span class="citation-popover-snippet">Misconceptions, Misinformation, and the Logic of Identity-...by DM Kahan · 2017 · Cited by 582 — The incidence and impact of misconc...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cambridge.org/core/journals/episteme/article/identityprotective-reasoning-an-epistemic-and-political-defense/5C62B4A3FC3F564ADE86BA5B7C5EF2BE" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cambridge.org">[cambridge]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cambridge.org</span><span class="citation-popover-snippet">Cambridge University Press &amp; AssessmentIdentity-protective reasoning: an epistemic and political...by C Flores · 2025 · Cited by 5 — Ide...</span></span></span> This is why myths tied to loyalty can be unusually durable. They are supported by relationships, status and moral commitments, not just mistaken facts.
 
 ## The deeper reason loyalty can make myths feel moral
 
@@ -431,194 +431,194 @@ The myth survives not because truth has become irrelevant, but because another q
 Once that question dominates, correcting the misconception requires more than supplying facts. It requires addressing the social and moral meanings that have become attached to the belief itself.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When a myth becomes a loyalty test. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When a myth becomes a loyalty test. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Them+by+Jon+Ronson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Them on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Okg6WBbMjzQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Them" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Them+by+Jon+Ronson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Them">Them</a>
-        </h4>
-        <p class="fr-book-author">By Jon Ronson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Them+by+Jon+Ronson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Them on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Okg6WBbMjzQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Them" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Them+by+Jon+Ronson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Them">Them</a>
+</h4>
+<p class="fr-book-author">By Jon Ronson</p>
         
-        <p class="fr-book-desc">Illustrates how groups form identity around beliefs.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Them+by+Jon+Ronson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Illustrates how groups form identity around beliefs.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Them+by+Jon+Ronson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mistakes Were Made (but Not by Me) Third Edition on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jmmVxgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Mistakes Were Made (but Not by Me) Third Edition" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mistakes Were Made (but Not by Me) Third Edition">Mistakes Were Made (but Not by Me) Third Edition</a>
-        </h4>
-        <p class="fr-book-author">By Carol Tavris, Elliot Aronson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mistakes Were Made (but Not by Me) Third Edition on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jmmVxgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Mistakes Were Made (but Not by Me) Third Edition" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mistakes Were Made (but Not by Me) Third Edition">Mistakes Were Made (but Not by Me) Third Edition</a>
+</h4>
+<p class="fr-book-author">By Carol Tavris, Elliot Aronson</p>
         
-        <p class="fr-book-desc">Shows why people defend group-linked beliefs.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows why people defend group-linked beliefs.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Righteous+Mind+Jonathan+Haidt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Righteous Mind on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/7256782-M.jpg" alt="Cover for The Righteous Mind" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Righteous+Mind+Jonathan+Haidt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Righteous Mind">The Righteous Mind</a>
-        </h4>
-        <p class="fr-book-author">By Jonathan Haidt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Righteous+Mind+Jonathan+Haidt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Righteous Mind on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/7256782-M.jpg" alt="Cover for The Righteous Mind" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Righteous+Mind+Jonathan+Haidt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Righteous Mind">The Righteous Mind</a>
+</h4>
+<p class="fr-book-author">By Jonathan Haidt</p>
         
-        <p class="fr-book-desc">First published 2012. Subjects: Political psychology, Social psychology, Ethics, Religious Psychology, nyt:combined-print-and-e-book-nonf...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Righteous+Mind+Jonathan+Haidt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2012. Subjects: Political psychology, Social psychology, Ethics, Religious Psychology, nyt:combined-print-and-e-book-nonf...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Righteous+Mind+Jonathan+Haidt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Influence+by+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Influence on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Influence+by+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Influence">Influence</a>
-        </h4>
-        <p class="fr-book-author">By Robert B. Cialdini</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Influence+by+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Influence on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Influence+by+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Influence">Influence</a>
+</h4>
+<p class="fr-book-author">By Robert B. Cialdini</p>
         
-        <p class="fr-book-desc">Explores social proof and conformity pressures.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Influence+by+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores social proof and conformity pressures.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Influence+by+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Them&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Them</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mistakes Were Made (but Not by Me) Third Edition</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Righteous+Mind&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Righteous Mind</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Them&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Them</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mistakes Were Made (but Not by Me) Third Edition</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Righteous+Mind&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Righteous Mind</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=journalism+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=group-loyalty-when-a-myth-becomes-a-loyalty-test-myths-and-misconcept-journalism-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="journalism poster" data-ebay-reference="group-loyalty-when-a-myth-becomes-a-loyalty-test-myths-and-misconcept-journalism-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1980s Anti-Journalism Soviet Union Propaganda Poster, Original USSR Propaganda"><img src="{{ '/assets/images/marketplace-covers/586986dbe0044e047bca.jpg' | relative_url }}" alt="Listing image for 1980s Anti-Journalism Soviet Union Propaganda Poster, Original USSR Propaganda" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=journalism+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=group-loyalty-when-a-myth-becomes-a-loyalty-test-myths-and-misconcept-journalism-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="journalism poster" data-ebay-reference="group-loyalty-when-a-myth-becomes-a-loyalty-test-myths-and-misconcept-journalism-poster" target="_blank" rel="sponsored noopener noreferrer">1980s Anti-Journalism Soviet Union Propaganda Poster, Original USSR Propaganda</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=journalism+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=group-loyalty-when-a-myth-becomes-a-loyalty-test-myths-and-misconcept-journalism-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="journalism poster" data-ebay-reference="group-loyalty-when-a-myth-becomes-a-loyalty-test-myths-and-misconcept-journalism-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for journalism poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: journalism poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=journalism+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=group-loyalty-when-a-myth-becomes-a-loyalty-test-myths-and-misconcept-journalism-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="journalism poster" data-ebay-reference="group-loyalty-when-a-myth-becomes-a-loyalty-test-myths-and-misconcept-journalism-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=journalism+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=group-loyalty-when-a-myth-becomes-a-loyalty-test-myths-and-misconcept-journalism-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="journalism poster" data-ebay-reference="group-loyalty-when-a-myth-becomes-a-loyalty-test-myths-and-misconcept-journalism-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1980s Anti-Journalism Soviet Union Propaganda Poster, Original USSR Propaganda"><img src="{{ '/assets/images/marketplace-covers/586986dbe0044e047bca.jpg' | relative_url }}" alt="Listing image for 1980s Anti-Journalism Soviet Union Propaganda Poster, Original USSR Propaganda" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=journalism+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=group-loyalty-when-a-myth-becomes-a-loyalty-test-myths-and-misconcept-journalism-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="journalism poster" data-ebay-reference="group-loyalty-when-a-myth-becomes-a-loyalty-test-myths-and-misconcept-journalism-poster" target="_blank" rel="sponsored noopener noreferrer">1980s Anti-Journalism Soviet Union Propaganda Poster, Original USSR Propaganda</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=journalism+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=group-loyalty-when-a-myth-becomes-a-loyalty-test-myths-and-misconcept-journalism-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="journalism poster" data-ebay-reference="group-loyalty-when-a-myth-becomes-a-loyalty-test-myths-and-misconcept-journalism-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for journalism poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: journalism poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=journalism+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=group-loyalty-when-a-myth-becomes-a-loyalty-test-myths-and-misconcept-journalism-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="journalism poster" data-ebay-reference="group-loyalty-when-a-myth-becomes-a-loyalty-test-myths-and-misconcept-journalism-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=journalism+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=group-loyalty-when-a-myth-becomes-a-loyalty-test-myths-and-misconcept-journalism-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="journalism poster" data-ebay-reference="group-loyalty-when-a-myth-becomes-a-loyalty-test-myths-and-misconcept-journalism-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Colourful Journalism Art Print Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/814520aa0cb49773a1b6.jpg' | relative_url }}" alt="Listing image for Colourful Journalism Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=journalism+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=group-loyalty-when-a-myth-becomes-a-loyalty-test-myths-and-misconcept-journalism-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="journalism poster" data-ebay-reference="group-loyalty-when-a-myth-becomes-a-loyalty-test-myths-and-misconcept-journalism-poster" target="_blank" rel="sponsored noopener noreferrer">Colourful Journalism Art Print Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=journalism+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=group-loyalty-when-a-myth-becomes-a-loyalty-test-myths-and-misconcept-journalism-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="journalism poster" data-ebay-reference="group-loyalty-when-a-myth-becomes-a-loyalty-test-myths-and-misconcept-journalism-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for journalism poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: journalism poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=journalism+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=group-loyalty-when-a-myth-becomes-a-loyalty-test-myths-and-misconcept-journalism-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="journalism poster" data-ebay-reference="group-loyalty-when-a-myth-becomes-a-loyalty-test-myths-and-misconcept-journalism-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=journalism+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=group-loyalty-when-a-myth-becomes-a-loyalty-test-myths-and-misconcept-journalism-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="journalism poster" data-ebay-reference="group-loyalty-when-a-myth-becomes-a-loyalty-test-myths-and-misconcept-journalism-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Colourful Journalism Art Print Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/814520aa0cb49773a1b6.jpg' | relative_url }}" alt="Listing image for Colourful Journalism Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=journalism+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=group-loyalty-when-a-myth-becomes-a-loyalty-test-myths-and-misconcept-journalism-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="journalism poster" data-ebay-reference="group-loyalty-when-a-myth-becomes-a-loyalty-test-myths-and-misconcept-journalism-poster" target="_blank" rel="sponsored noopener noreferrer">Colourful Journalism Art Print Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=journalism+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=group-loyalty-when-a-myth-becomes-a-loyalty-test-myths-and-misconcept-journalism-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="journalism poster" data-ebay-reference="group-loyalty-when-a-myth-becomes-a-loyalty-test-myths-and-misconcept-journalism-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for journalism poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: journalism poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=journalism+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=group-loyalty-when-a-myth-becomes-a-loyalty-test-myths-and-misconcept-journalism-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="journalism poster" data-ebay-reference="group-loyalty-when-a-myth-becomes-a-loyalty-test-myths-and-misconcept-journalism-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=journalism+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=group-loyalty-when-a-myth-becomes-a-loyalty-test-myths-and-misconcept-journalism-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="journalism poster" data-ebay-reference="group-loyalty-when-a-myth-becomes-a-loyalty-test-myths-and-misconcept-journalism-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Journalism Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/653de9bd276f6160d54e.jpg' | relative_url }}" alt="Listing image for Journalism Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=journalism+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=group-loyalty-when-a-myth-becomes-a-loyalty-test-myths-and-misconcept-journalism-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="journalism poster" data-ebay-reference="group-loyalty-when-a-myth-becomes-a-loyalty-test-myths-and-misconcept-journalism-poster" target="_blank" rel="sponsored noopener noreferrer">Journalism Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=journalism+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=group-loyalty-when-a-myth-becomes-a-loyalty-test-myths-and-misconcept-journalism-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="journalism poster" data-ebay-reference="group-loyalty-when-a-myth-becomes-a-loyalty-test-myths-and-misconcept-journalism-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for journalism poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: journalism poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=journalism+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=group-loyalty-when-a-myth-becomes-a-loyalty-test-myths-and-misconcept-journalism-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="journalism poster" data-ebay-reference="group-loyalty-when-a-myth-becomes-a-loyalty-test-myths-and-misconcept-journalism-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=journalism+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=group-loyalty-when-a-myth-becomes-a-loyalty-test-myths-and-misconcept-journalism-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="journalism poster" data-ebay-reference="group-loyalty-when-a-myth-becomes-a-loyalty-test-myths-and-misconcept-journalism-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Journalism Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/653de9bd276f6160d54e.jpg' | relative_url }}" alt="Listing image for Journalism Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=journalism+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=group-loyalty-when-a-myth-becomes-a-loyalty-test-myths-and-misconcept-journalism-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="journalism poster" data-ebay-reference="group-loyalty-when-a-myth-becomes-a-loyalty-test-myths-and-misconcept-journalism-poster" target="_blank" rel="sponsored noopener noreferrer">Journalism Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=journalism+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=group-loyalty-when-a-myth-becomes-a-loyalty-test-myths-and-misconcept-journalism-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="journalism poster" data-ebay-reference="group-loyalty-when-a-myth-becomes-a-loyalty-test-myths-and-misconcept-journalism-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for journalism poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: journalism poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=journalism+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=group-loyalty-when-a-myth-becomes-a-loyalty-test-myths-and-misconcept-journalism-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="journalism poster" data-ebay-reference="group-loyalty-when-a-myth-becomes-a-loyalty-test-myths-and-misconcept-journalism-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=journalism+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=group-loyalty-when-a-myth-becomes-a-loyalty-test-myths-and-misconcept-journalism-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="journalism poster" data-ebay-reference="group-loyalty-when-a-myth-becomes-a-loyalty-test-myths-and-misconcept-journalism-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Journalism Definition Meaning Art P Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/2b11b4a6d0628311daa6.jpg' | relative_url }}" alt="Listing image for Journalism Definition Meaning Art P Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=journalism+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=group-loyalty-when-a-myth-becomes-a-loyalty-test-myths-and-misconcept-journalism-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="journalism poster" data-ebay-reference="group-loyalty-when-a-myth-becomes-a-loyalty-test-myths-and-misconcept-journalism-poster" target="_blank" rel="sponsored noopener noreferrer">Journalism Definition Meaning Art P Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=journalism+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=group-loyalty-when-a-myth-becomes-a-loyalty-test-myths-and-misconcept-journalism-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="journalism poster" data-ebay-reference="group-loyalty-when-a-myth-becomes-a-loyalty-test-myths-and-misconcept-journalism-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for journalism poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: journalism poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=journalism+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=group-loyalty-when-a-myth-becomes-a-loyalty-test-myths-and-misconcept-journalism-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="journalism poster" data-ebay-reference="group-loyalty-when-a-myth-becomes-a-loyalty-test-myths-and-misconcept-journalism-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=journalism+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=group-loyalty-when-a-myth-becomes-a-loyalty-test-myths-and-misconcept-journalism-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="journalism poster" data-ebay-reference="group-loyalty-when-a-myth-becomes-a-loyalty-test-myths-and-misconcept-journalism-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=journalism+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=group-loyalty-when-a-myth-becomes-a-loyalty-test-myths-and-misconcept-journalism-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="journalism poster" data-ebay-reference="group-loyalty-when-a-myth-becomes-a-loyalty-test-myths-and-misconcept-journalism-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Journalism Definition Meaning Art P Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/2b11b4a6d0628311daa6.jpg' | relative_url }}" alt="Listing image for Journalism Definition Meaning Art P Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=journalism+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=group-loyalty-when-a-myth-becomes-a-loyalty-test-myths-and-misconcept-journalism-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="journalism poster" data-ebay-reference="group-loyalty-when-a-myth-becomes-a-loyalty-test-myths-and-misconcept-journalism-poster" target="_blank" rel="sponsored noopener noreferrer">Journalism Definition Meaning Art P Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=journalism+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=group-loyalty-when-a-myth-becomes-a-loyalty-test-myths-and-misconcept-journalism-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="journalism poster" data-ebay-reference="group-loyalty-when-a-myth-becomes-a-loyalty-test-myths-and-misconcept-journalism-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for journalism poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: journalism poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=journalism+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=group-loyalty-when-a-myth-becomes-a-loyalty-test-myths-and-misconcept-journalism-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="journalism poster" data-ebay-reference="group-loyalty-when-a-myth-becomes-a-loyalty-test-myths-and-misconcept-journalism-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=journalism+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=group-loyalty-when-a-myth-becomes-a-loyalty-test-myths-and-misconcept-journalism-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="journalism poster" data-ebay-reference="group-loyalty-when-a-myth-becomes-a-loyalty-test-myths-and-misconcept-journalism-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -634,7 +634,7 @@ Once that question dominates, correcting the misconception requires more than su
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -654,7 +654,7 @@ Once that question dominates, correcting the misconception requires more than su
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -686,7 +686,7 @@ Once that question dominates, correcting the misconception requires more than su
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -738,7 +738,7 @@ Once that question dominates, correcting the misconception requires more than su
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -783,7 +783,7 @@ Once that question dominates, correcting the misconception requires more than su
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -824,104 +824,104 @@ Once that question dominates, correcting the misconception requires more than su
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: papers.ssrn.com  
-   Link: <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2973067" target="_blank" rel="noopener noreferrer nofollow">https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2973067</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Misconceptions, Misinformation, and the Logic of Identity-...by DM Kahan · 2017 · Cited by 582 — The incidence and impact of misconc...</p></details>
+   Link:<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2973067" target="_blank" rel="noopener noreferrer nofollow">https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2973067</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Misconceptions, Misinformation, and the Logic of Identity-...by DM Kahan · 2017 · Cited by 582 — The incidence and impact of misconc...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: centerconflictcooperation-newsletter.com  
    Title: Social identity shapes your belief in [fake news](&#123;&#123; 'fake-news/' | relative_url &#125;&#125;)  
-   Link: <a href="https://www.centerconflictcooperation-newsletter.com/p/social-identity-shapes-your-belief" target="_blank" rel="noopener noreferrer nofollow">https://www.centerconflictcooperation-newsletter.com/p/social-identity-shapes-your-belief</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>August 3, 2022 — To understand how partisanship works in the mind and brain, we have to return to one of the most fundamental theories in...</p></details>
+   Link:<a href="https://www.centerconflictcooperation-newsletter.com/p/social-identity-shapes-your-belief" target="_blank" rel="noopener noreferrer nofollow">https://www.centerconflictcooperation-newsletter.com/p/social-identity-shapes-your-belief</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>August 3, 2022 — To understand how partisanship works in the mind and brain, we have to return to one of the most fundamental theories in...</p></details>
    Published: August 3, 2022  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: cambridge.org  
-   Link: <a href="https://www.cambridge.org/core/journals/episteme/article/identityprotective-reasoning-an-epistemic-and-political-defense/5C62B4A3FC3F564ADE86BA5B7C5EF2BE" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/journals/episteme/article/identityprotective-reasoning-an-epistemic-and-political-defense/5C62B4A3FC3F564ADE86BA5B7C5EF2BE</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Cambridge University Press &amp; AssessmentIdentity-protective reasoning: an epistemic and political...by C Flores · 2025 · Cited by 5 — Ide...</p></details>
+   Link:<a href="https://www.cambridge.org/core/journals/episteme/article/identityprotective-reasoning-an-epistemic-and-political-defense/5C62B4A3FC3F564ADE86BA5B7C5EF2BE" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/journals/episteme/article/identityprotective-reasoning-an-epistemic-and-political-defense/5C62B4A3FC3F564ADE86BA5B7C5EF2BE</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Cambridge University Press &amp; AssessmentIdentity-protective reasoning: an epistemic and political...by C Flores · 2025 · Cited by 5 — Ide...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/pii/S2352250X25002064" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S2352250X25002064</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>A social-psychological model of the self-reinforcing cycle...by T Gkinopoulos · 2025 · Cited by 2 — This avoidance, in turn...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/pii/S2352250X25002064" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S2352250X25002064</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A social-psychological model of the self-reinforcing cycle...by T Gkinopoulos · 2025 · Cited by 2 — This avoidance, in turn...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: emerald.com  
-   Link: <a href="https://www.emerald.com/jices/article/doi/10.1108/JICES-07-2025-0195/1360204/Misinformation-and-polarisation-as-manifestations" target="_blank" rel="noopener noreferrer nofollow">https://www.emerald.com/jices/article/doi/10.1108/JICES-07-2025-0195/1360204/Misinformation-and-polarisation-as-manifestations</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Misinformation and polarisation as manifestations of social...This study argues that, although social identity is often considere...</p></details>
+   Link:<a href="https://www.emerald.com/jices/article/doi/10.1108/JICES-07-2025-0195/1360204/Misinformation-and-polarisation-as-manifestations" target="_blank" rel="noopener noreferrer nofollow">https://www.emerald.com/jices/article/doi/10.1108/JICES-07-2025-0195/1360204/Misinformation-and-polarisation-as-manifestations</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Misinformation and polarisation as manifestations of social...This study argues that, although social identity is often considere...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: informalscience.org  
-   Link: <a href="https://informalscience.org/identity/dan-kahan/" target="_blank" rel="noopener noreferrer nofollow">https://informalscience.org/identity/dan-kahan/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Identity | Dan KahanDan Kahan&#x27;s identity-related work has focused on “identity protective cognition”, which refers to the tendency of ind...</p></details>
+   Link:<a href="https://informalscience.org/identity/dan-kahan/" target="_blank" rel="noopener noreferrer nofollow">https://informalscience.org/identity/dan-kahan/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Identity | Dan KahanDan Kahan&#x27;s identity-related work has focused on “identity protective cognition”, which refers to the tendency of ind...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: repository.cam.ac.uk  
-   Link: <a href="https://www.repository.cam.ac.uk/items/fa35a87e-595f-4b64-aa44-3e9f2e8fdd76" target="_blank" rel="noopener noreferrer nofollow">https://www.repository.cam.ac.uk/items/fa35a87e-595f-4b64-aa44-3e9f2e8fdd76</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>bridge RepositoryAccuracy and Social Motivations Shape Judgements of (Mis...by S Rathje · 2022 · Cited by 173 — Some theories focus o...</p></details>
+   Link:<a href="https://www.repository.cam.ac.uk/items/fa35a87e-595f-4b64-aa44-3e9f2e8fdd76" target="_blank" rel="noopener noreferrer nofollow">https://www.repository.cam.ac.uk/items/fa35a87e-595f-4b64-aa44-3e9f2e8fdd76</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>bridge RepositoryAccuracy and Social Motivations Shape Judgements of (Mis...by S Rathje · 2022 · Cited by 173 — Some theories focus o...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: fondationdescartes.org  
    Title: Fondation Descartes False ideas, fake information, and the logic of identity  
-   Link: <a href="https://www.fondationdescartes.org/en/2020/06/les-idees-fausses-les-fausses-informations-et-la-logique-du-raisonnement-pour-proteger-son-identite/" target="_blank" rel="noopener noreferrer nofollow">https://www.fondationdescartes.org/en/2020/06/les-idees-fausses-les-fausses-informations-et-la-logique-du-raisonnement-pour-proteger-son-identite/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>protection of cultural identity and its impact on the emergence of fake news... research team on major themes related to information and...</p></details>
+   Link:<a href="https://www.fondationdescartes.org/en/2020/06/les-idees-fausses-les-fausses-informations-et-la-logique-du-raisonnement-pour-proteger-son-identite/" target="_blank" rel="noopener noreferrer nofollow">https://www.fondationdescartes.org/en/2020/06/les-idees-fausses-les-fausses-informations-et-la-logique-du-raisonnement-pour-proteger-son-identite/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>protection of cultural identity and its impact on the emergence of fake news... research team on major themes related to information and...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: repository.cam.ac.uk  
-   Link: <a href="https://www.repository.cam.ac.uk/bitstreams/f897d791-4623-494b-8773-600bd44fb858/download" target="_blank" rel="noopener noreferrer nofollow">https://www.repository.cam.ac.uk/bitstreams/f897d791-4623-494b-8773-600bd44fb858/download</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>bridge RepositoryThe Social Cognition of Misinformation and Implications for...by CS Traberg · 2025 — To examine the psychological un...</p></details>
+   Link:<a href="https://www.repository.cam.ac.uk/bitstreams/f897d791-4623-494b-8773-600bd44fb858/download" target="_blank" rel="noopener noreferrer nofollow">https://www.repository.cam.ac.uk/bitstreams/f897d791-4623-494b-8773-600bd44fb858/download</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>bridge RepositoryThe Social Cognition of Misinformation and Implications for...by CS Traberg · 2025 — To examine the psychological un...</p></details>
 
 ### Additional References
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/377292982_Updating_the_Identity-based_Model_of_Belief_From_False_Belief_to_the_Spread_of_Misinformation" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/377292982_Updating_the_Identity-based_Model_of_Belief_From_False_Belief_to_the_Spread_of_Misinformation</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Updating the Identity-based Model of Belief: From False...25 Apr 2026 — The identity-based model suggests that people spread misinformat...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/377292982_Updating_the_Identity-based_Model_of_Belief_From_False_Belief_to_the_Spread_of_Misinformation" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/377292982_Updating_the_Identity-based_Model_of_Belief_From_False_Belief_to_the_Spread_of_Misinformation</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Updating the Identity-based Model of Belief: From False...25 Apr 2026 — The identity-based model suggests that people spread misinformat...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11575416/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11575416/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>by S Munusamy · 2024 · Cited by 42 — Cognitive biases, emotional appeals, and social identity motivations are believed to play a cruci...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11575416/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11575416/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by S Munusamy · 2024 · Cited by 42 — Cognitive biases, emotional appeals, and social identity motivations are believed to play a cruci...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: scispace.com  
-   Link: <a href="https://scispace.com/pdf/misconceptions-misinformation-and-the-logic-of-identity-mpc3ka7t6o.pdf" target="_blank" rel="noopener noreferrer nofollow">https://scispace.com/pdf/misconceptions-misinformation-and-the-logic-of-identity-mpc3ka7t6o.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>individuals to selectively credit and dismiss evi- dence in patterns that reflect the...Read more...</p></details>
+   Link:<a href="https://scispace.com/pdf/misconceptions-misinformation-and-the-logic-of-identity-mpc3ka7t6o.pdf" target="_blank" rel="noopener noreferrer nofollow">https://scispace.com/pdf/misconceptions-misinformation-and-the-logic-of-identity-mpc3ka7t6o.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>individuals to selectively credit and dismiss evi- dence in patterns that reflect the...Read more...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/317999685_Misconceptions_Misinformation_and_the_Logic_of_Identity-Protective_Cognition" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/317999685_Misconceptions_Misinformation_and_the_Logic_of_Identity-Protective_Cognition</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>emphasizes the role of group identity in shaping how individuals process information...Read more...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/317999685_Misconceptions_Misinformation_and_the_Logic_of_Identity-Protective_Cognition" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/317999685_Misconceptions_Misinformation_and_the_Logic_of_Identity-Protective_Cognition</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>emphasizes the role of group identity in shaping how individuals process information...Read more...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: elizabethsandelmd.com  
    Title: flying in the face of facts denialism anosognosia and the human brain  
-   Link: <a href="https://elizabethsandelmd.com/insights/flying-in-the-face-of-facts-denialism-anosognosia-and-the-human-brain/" target="_blank" rel="noopener noreferrer nofollow">https://elizabethsandelmd.com/insights/flying-in-the-face-of-facts-denialism-anosognosia-and-the-human-brain/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>This irrational thinking is called motivated reasoning, a kind of reasoning that results...Read more...</p></details>
+   Link:<a href="https://elizabethsandelmd.com/insights/flying-in-the-face-of-facts-denialism-anosognosia-and-the-human-brain/" target="_blank" rel="noopener noreferrer nofollow">https://elizabethsandelmd.com/insights/flying-in-the-face-of-facts-denialism-anosognosia-and-the-human-brain/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>This irrational thinking is called motivated reasoning, a kind of reasoning that results...Read more...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: pdfs.semanticscholar.org  
-   Link: <a href="https://pdfs.semanticscholar.org/69b6/fb97529b86bc3b8f0f65d666aa987a1a91ed.pdf" target="_blank" rel="noopener noreferrer nofollow">https://pdfs.semanticscholar.org/69b6/fb97529b86bc3b8f0f65d666aa987a1a91ed.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Role of Emotions and Identity-Protection Cognition...by M Wischnewski · 2021 · Cited by 17 — Previous studies about misinformation accep...</p></details>
+   Link:<a href="https://pdfs.semanticscholar.org/69b6/fb97529b86bc3b8f0f65d666aa987a1a91ed.pdf" target="_blank" rel="noopener noreferrer nofollow">https://pdfs.semanticscholar.org/69b6/fb97529b86bc3b8f0f65d666aa987a1a91ed.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Role of Emotions and Identity-Protection Cognition...by M Wischnewski · 2021 · Cited by 17 — Previous studies about misinformation accep...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: dhi.ac.uk  
    Title: governance crone connelly 2016  
-   Link: <a href="https://www.dhi.ac.uk/san/waysofbeing/data/governance-crone-connelly-2016.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dhi.ac.uk/san/waysofbeing/data/governance-crone-connelly-2016.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The online presence of ideological groups has enabled the dissemination of group beliefs and ideas through a variety of new media.Read more...</p></details>
+   Link:<a href="https://www.dhi.ac.uk/san/waysofbeing/data/governance-crone-connelly-2016.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dhi.ac.uk/san/waysofbeing/data/governance-crone-connelly-2016.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The online presence of ideological groups has enabled the dissemination of group beliefs and ideas through a variety of new media.Read more...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: tandfonline.com  
-   Link: <a href="https://www.tandfonline.com/doi/full/10.1080/09515089.2024.2358089" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/full/10.1080/09515089.2024.2358089</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Full article: Misinformation, observational equivalence and...by M van Doorn · 2025 · Cited by 3 — Nonetheless, these findings often dep...</p></details>
+   Link:<a href="https://www.tandfonline.com/doi/full/10.1080/09515089.2024.2358089" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/full/10.1080/09515089.2024.2358089</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Full article: Misinformation, observational equivalence and...by M van Doorn · 2025 · Cited by 3 — Nonetheless, these findings often dep...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: tandfonline.com  
-   Link: <a href="https://www.tandfonline.com/doi/full/10.1080/10510974.2025.2515032" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/full/10.1080/10510974.2025.2515032</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Interplay of Social Identity, Moral Framing, and Credibilityby H Song · 2026 · Cited by 1 — Extensive research has highlighted how po...</p></details>
+   Link:<a href="https://www.tandfonline.com/doi/full/10.1080/10510974.2025.2515032" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/full/10.1080/10510974.2025.2515032</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Interplay of Social Identity, Moral Framing, and Credibilityby H Song · 2026 · Cited by 1 — Extensive research has highlighted how po...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10623619/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10623619/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>by Z Adams · 2023 · Cited by 127 — Most studies made reference to the effects of misinformation or fake news in their introduction as...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10623619/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10623619/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by Z Adams · 2023 · Cited by 127 — Most studies made reference to the effects of misinformation or fake news in their introduction as...</p></details>

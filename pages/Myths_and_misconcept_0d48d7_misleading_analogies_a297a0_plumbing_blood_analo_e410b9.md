@@ -274,18 +274,18 @@ image: /assets/images/Myths_and_misconcept_0d48d7_misleading_analogies_a297a0_pl
 
 ## Introduction
 
-One of the most common ways biology teachers introduce blood flow and pressure is by comparing the circulatory system to **household plumbing**  pipes carrying water under pressure from a tap or pump. At first glance this seems helpful: both involve fluid moving through connected conduits under pressure. But research in education and cognitive science shows that [analogies]({{ 'analogies/' | relative_url }}) like this can unintentionally create **persistent misconceptions** about how blood actually moves through the body. These misunderstandings arise because key features of plumbing dont map neatly onto the dynamics of flexible, pulsatile blood vessels, and learners often extend the pipe metaphor beyond its explanatory limits. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/profile/Rand-Spiro/publication/49176526_Multiple_analogies_for_complex_concepts_antidotes_for_analogy-induced_misconception_in_advanced_knowledge_acquisition/links/543290bb0cf225bddcc7bb24/Multiple-analogies-for-complex-concepts-antidotes-for-analogy-induced-misconception-in-advanced-knowledge-acquisition.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Multiple analogies for complex conceptsMarch 28, 2008  EXAMPLE: A common analogy used to teach opposition to blood flow (imp...</span><span class="citation-popover-meta">Published: March 28, 2008</span></span></span>
+One of the most common ways biology teachers introduce blood flow and pressure is by comparing the circulatory system to **household plumbing**  pipes carrying water under pressure from a tap or pump. At first glance this seems helpful: both involve fluid moving through connected conduits under pressure. But research in education and cognitive science shows that [analogies]({{ 'analogies/' | relative_url }}) like this can unintentionally create **persistent misconceptions** about how blood actually moves through the body. These misunderstandings arise because key features of plumbing dont map neatly onto the dynamics of flexible, pulsatile blood vessels, and learners often extend the pipe metaphor beyond its explanatory limits.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/profile/Rand-Spiro/publication/49176526_Multiple_analogies_for_complex_concepts_antidotes_for_analogy-induced_misconception_in_advanced_knowledge_acquisition/links/543290bb0cf225bddcc7bb24/Multiple-analogies-for-complex-concepts-antidotes-for-analogy-induced-misconception-in-advanced-knowledge-acquisition.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Multiple analogies for complex conceptsMarch 28, 2008  EXAMPLE: A common analogy used to teach opposition to blood flow (imp...</span><span class="citation-popover-meta">Published: March 28, 2008</span></span></span>
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_misleading_analogies_a297a0_plumbing_blood_analo_e410b9-Illustration-1-dark.svg" | relative_url }}" alt="Plumbing Analogy illustration 1" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_misleading_analogies_a297a0_plumbing_blood_analo_e410b9-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_misleading_analogies_a297a0_plumbing_blood_analo_e410b9-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Common PipeBlood Misconceptions
 
 When students hear that blood flows like water in pipes, several simplistic inferences can take hold:
 
-* **Rigid conduit assumption**: In plumbing, pipes are rigid. Learners may implicitly assume blood vessels behave the same way, overlooking the fact that arteries and veins **expand and recoil** as part of normal circulation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/profile/Rand-Spiro/publication/49176526_Multiple_analogies_for_complex_concepts_antidotes_for_analogy-induced_misconception_in_advanced_knowledge_acquisition/links/543290bb0cf225bddcc7bb24/Multiple-analogies-for-complex-concepts-antidotes-for-analogy-induced-misconception-in-advanced-knowledge-acquisition.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Multiple analogies for complex conceptsMarch 28, 2008  EXAMPLE: A common analogy used to teach opposition to blood flow (imp...</span><span class="citation-popover-meta">Published: March 28, 2008</span></span></span>
-* **Pressure misconception**: Household water systems usually maintain a fairly stable pressure. In contrast, blood pressure **varies with each heartbeat** and along the vascular network. Learners may misattribute constant pressure analogues to a system that is inherently pulsatile and dynamic. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/profile/Rand-Spiro/publication/49176526_Multiple_analogies_for_complex_concepts_antidotes_for_analogy-induced_misconception_in_advanced_knowledge_acquisition/links/543290bb0cf225bddcc7bb24/Multiple-analogies-for-complex-concepts-antidotes-for-analogy-induced-misconception-in-advanced-knowledge-acquisition.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Multiple analogies for complex conceptsMarch 28, 2008  EXAMPLE: A common analogy used to teach opposition to blood flow (imp...</span><span class="citation-popover-meta">Published: March 28, 2008</span></span></span>
-* **Oversimplified resistance view**: Plumbing analogies tend to emphasise simple frictional resistance due to pipe diameter narrowing. While vessel radius does affect flow, **vascular compliance and inertia**  properties absent in rigid pipes  also contribute importantly to overall impedance in the circulatory system. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/profile/Rand-Spiro/publication/49176526_Multiple_analogies_for_complex_concepts_antidotes_for_analogy-induced_misconception_in_advanced_knowledge_acquisition/links/543290bb0cf225bddcc7bb24/Multiple-analogies-for-complex-concepts-antidotes-for-analogy-induced-misconception-in-advanced-knowledge-acquisition.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Multiple analogies for complex conceptsMarch 28, 2008  EXAMPLE: A common analogy used to teach opposition to blood flow (imp...</span><span class="citation-popover-meta">Published: March 28, 2008</span></span></span>
+* **Rigid conduit assumption**: In plumbing, pipes are rigid. Learners may implicitly assume blood vessels behave the same way, overlooking the fact that arteries and veins **expand and recoil** as part of normal circulation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/profile/Rand-Spiro/publication/49176526_Multiple_analogies_for_complex_concepts_antidotes_for_analogy-induced_misconception_in_advanced_knowledge_acquisition/links/543290bb0cf225bddcc7bb24/Multiple-analogies-for-complex-concepts-antidotes-for-analogy-induced-misconception-in-advanced-knowledge-acquisition.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Multiple analogies for complex conceptsMarch 28, 2008  EXAMPLE: A common analogy used to teach opposition to blood flow (imp...</span><span class="citation-popover-meta">Published: March 28, 2008</span></span></span>
+* **Pressure misconception**: Household water systems usually maintain a fairly stable pressure. In contrast, blood pressure **varies with each heartbeat** and along the vascular network. Learners may misattribute constant pressure analogues to a system that is inherently pulsatile and dynamic.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/profile/Rand-Spiro/publication/49176526_Multiple_analogies_for_complex_concepts_antidotes_for_analogy-induced_misconception_in_advanced_knowledge_acquisition/links/543290bb0cf225bddcc7bb24/Multiple-analogies-for-complex-concepts-antidotes-for-analogy-induced-misconception-in-advanced-knowledge-acquisition.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Multiple analogies for complex conceptsMarch 28, 2008  EXAMPLE: A common analogy used to teach opposition to blood flow (imp...</span><span class="citation-popover-meta">Published: March 28, 2008</span></span></span>
+* **Oversimplified resistance view**: Plumbing analogies tend to emphasise simple frictional resistance due to pipe diameter narrowing. While vessel radius does affect flow, **vascular compliance and inertia**  properties absent in rigid pipes  also contribute importantly to overall impedance in the circulatory system.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/profile/Rand-Spiro/publication/49176526_Multiple_analogies_for_complex_concepts_antidotes_for_analogy-induced_misconception_in_advanced_knowledge_acquisition/links/543290bb0cf225bddcc7bb24/Multiple-analogies-for-complex-concepts-antidotes-for-analogy-induced-misconception-in-advanced-knowledge-acquisition.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Multiple analogies for complex conceptsMarch 28, 2008  EXAMPLE: A common analogy used to teach opposition to blood flow (imp...</span><span class="citation-popover-meta">Published: March 28, 2008</span></span></span>
 
-Cognitive researchers describe these as **indirectly misleading properties**: aspects of the source domain (rigid pipes) that carry over incorrectly into the target domain (circulation) because learners fail to differentiate which features align and which dont. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/profile/Rand-Spiro/publication/49176526_Multiple_analogies_for_complex_concepts_antidotes_for_analogy-induced_misconception_in_advanced_knowledge_acquisition/links/543290bb0cf225bddcc7bb24/Multiple-analogies-for-complex-concepts-antidotes-for-analogy-induced-misconception-in-advanced-knowledge-acquisition.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Multiple analogies for complex conceptsMarch 28, 2008  EXAMPLE: A common analogy used to teach opposition to blood flow (imp...</span><span class="citation-popover-meta">Published: March 28, 2008</span></span></span>
+Cognitive researchers describe these as **indirectly misleading properties**: aspects of the source domain (rigid pipes) that carry over incorrectly into the target domain (circulation) because learners fail to differentiate which features align and which dont.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/profile/Rand-Spiro/publication/49176526_Multiple_analogies_for_complex_concepts_antidotes_for_analogy-induced_misconception_in_advanced_knowledge_acquisition/links/543290bb0cf225bddcc7bb24/Multiple-analogies-for-complex-concepts-antidotes-for-analogy-induced-misconception-in-advanced-knowledge-acquisition.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Multiple analogies for complex conceptsMarch 28, 2008  EXAMPLE: A common analogy used to teach opposition to blood flow (imp...</span><span class="citation-popover-meta">Published: March 28, 2008</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Ab9OZsDECZw" title="How blood pressure works - Wilfred Manzano" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Ab9OZsDECZw" target="_blank" rel="noopener noreferrer">How blood pressure works - Wilfred Manzano</a></p><p class="youtube-embed-meta">Channel: TED-Ed &middot; Views: 17.9M &middot; Uploaded: July 2015 &middot; Length: 4 minutes 32 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Ab9OZsDECZw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Ab9OZsDECZw">Open on YouTube</a></p></div></div></div>
 
@@ -293,23 +293,23 @@ Cognitive researchers describe these as **indirectly misleading properties**: as
 
 Analogy works when *structure mapping*  the shared relationships between source and target  is strong. But the plumbingcirculation comparison breaks down in several key mechanisms:
 
-* **Material flexibility**: Unlike household pipes, blood vessels are **elastic and regulated** by smooth muscle tone. Their ability to stretch and recoil underlies fundamental circulatory functions such as maintaining pressure during diastole, something a rigid pipe analogy fails to capture. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/profile/Rand-Spiro/publication/49176526_Multiple_analogies_for_complex_concepts_antidotes_for_analogy-induced_misconception_in_advanced_knowledge_acquisition/links/543290bb0cf225bddcc7bb24/Multiple-analogies-for-complex-concepts-antidotes-for-analogy-induced-misconception-in-advanced-knowledge-acquisition.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Multiple analogies for complex conceptsMarch 28, 2008  EXAMPLE: A common analogy used to teach opposition to blood flow (imp...</span><span class="citation-popover-meta">Published: March 28, 2008</span></span></span>
-* **Pulsatility**: Water drawn from a tap flows with a relatively constant head; arterial blood flow is driven by the **hearts rhythmic pumping**, with rapid acceleration and deceleration of blood that affect pressure and flow relations. This pulsatility introduces additional components of vascular impedance  **compliant and inertial [reactance]({{ 'reactance/' | relative_url }})**  that have no simple counterpart in household plumbing. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/profile/Rand-Spiro/publication/49176526_Multiple_analogies_for_complex_concepts_antidotes_for_analogy-induced_misconception_in_advanced_knowledge_acquisition/links/543290bb0cf225bddcc7bb24/Multiple-analogies-for-complex-concepts-antidotes-for-analogy-induced-misconception-in-advanced-knowledge-acquisition.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Multiple analogies for complex conceptsMarch 28, 2008  EXAMPLE: A common analogy used to teach opposition to blood flow (imp...</span><span class="citation-popover-meta">Published: March 28, 2008</span></span></span>
-* **Dynamic regulation**: Blood vessels actively change diameter via smooth muscle contraction in response to metabolic and neural signals. A tap doesnt selfregulate in this way, so students may miss how **physiological feedback** shapes flow distribution in the body. <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.physiology.org/doi/full/10.1152/advan.00022.2010?doi=10.1152%2Fadvan.00022.2010" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.physiology.org">[journals.physiology.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.physiology.org</span><span class="citation-popover-snippet">Analogies in science and science teachingAnalogies are often used in science, but students may not appreciate their significance, and so...</span></span></span>
+* **Material flexibility**: Unlike household pipes, blood vessels are **elastic and regulated** by smooth muscle tone. Their ability to stretch and recoil underlies fundamental circulatory functions such as maintaining pressure during diastole, something a rigid pipe analogy fails to capture.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/profile/Rand-Spiro/publication/49176526_Multiple_analogies_for_complex_concepts_antidotes_for_analogy-induced_misconception_in_advanced_knowledge_acquisition/links/543290bb0cf225bddcc7bb24/Multiple-analogies-for-complex-concepts-antidotes-for-analogy-induced-misconception-in-advanced-knowledge-acquisition.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Multiple analogies for complex conceptsMarch 28, 2008  EXAMPLE: A common analogy used to teach opposition to blood flow (imp...</span><span class="citation-popover-meta">Published: March 28, 2008</span></span></span>
+* **Pulsatility**: Water drawn from a tap flows with a relatively constant head; arterial blood flow is driven by the **hearts rhythmic pumping**, with rapid acceleration and deceleration of blood that affect pressure and flow relations. This pulsatility introduces additional components of vascular impedance  **compliant and inertial [reactance]({{ 'reactance/' | relative_url }})**  that have no simple counterpart in household plumbing.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/profile/Rand-Spiro/publication/49176526_Multiple_analogies_for_complex_concepts_antidotes_for_analogy-induced_misconception_in_advanced_knowledge_acquisition/links/543290bb0cf225bddcc7bb24/Multiple-analogies-for-complex-concepts-antidotes-for-analogy-induced-misconception-in-advanced-knowledge-acquisition.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Multiple analogies for complex conceptsMarch 28, 2008  EXAMPLE: A common analogy used to teach opposition to blood flow (imp...</span><span class="citation-popover-meta">Published: March 28, 2008</span></span></span>
+* **Dynamic regulation**: Blood vessels actively change diameter via smooth muscle contraction in response to metabolic and neural signals. A tap doesnt selfregulate in this way, so students may miss how **physiological feedback** shapes flow distribution in the body.<span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.physiology.org/doi/full/10.1152/advan.00022.2010?doi=10.1152%2Fadvan.00022.2010" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.physiology.org">[journals.physiology.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.physiology.org</span><span class="citation-popover-snippet">Analogies in science and science teachingAnalogies are often used in science, but students may not appreciate their significance, and so...</span></span></span>
 
-Because the analogys base domain (plumbing) lacks these dynamic features, learners can **omit or distort** critical aspects of circulatory physics when they overapply the metaphor. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/profile/Rand-Spiro/publication/49176526_Multiple_analogies_for_complex_concepts_antidotes_for_analogy-induced_misconception_in_advanced_knowledge_acquisition/links/543290bb0cf225bddcc7bb24/Multiple-analogies-for-complex-concepts-antidotes-for-analogy-induced-misconception-in-advanced-knowledge-acquisition.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Multiple analogies for complex conceptsMarch 28, 2008  EXAMPLE: A common analogy used to teach opposition to blood flow (imp...</span><span class="citation-popover-meta">Published: March 28, 2008</span></span></span>
+Because the analogys base domain (plumbing) lacks these dynamic features, learners can **omit or distort** critical aspects of circulatory physics when they overapply the metaphor.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/profile/Rand-Spiro/publication/49176526_Multiple_analogies_for_complex_concepts_antidotes_for_analogy-induced_misconception_in_advanced_knowledge_acquisition/links/543290bb0cf225bddcc7bb24/Multiple-analogies-for-complex-concepts-antidotes-for-analogy-induced-misconception-in-advanced-knowledge-acquisition.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Multiple analogies for complex conceptsMarch 28, 2008  EXAMPLE: A common analogy used to teach opposition to blood flow (imp...</span><span class="citation-popover-meta">Published: March 28, 2008</span></span></span>
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_misleading_analogies_a297a0_plumbing_blood_analo_e410b9-Illustration-2-dark.svg" | relative_url }}" alt="Plumbing Analogy illustration 2" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_misleading_analogies_a297a0_plumbing_blood_analo_e410b9-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_misleading_analogies_a297a0_plumbing_blood_analo_e410b9-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Alternative Teaching Strategies
 
 Given the limitations of the plumbing metaphor, educators and researchers recommend alternatives that preserve intuitive appeal **while highlighting differences**:
 
-* **Explicitly outline limitations**: When introducing any analogy, teachers should mark where the comparison breaks down. For circulatory analogies, this means pointing out vessel elasticity and pulsatile pressure as contrasts to rigid pipes. <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.physiology.org/doi/full/10.1152/advan.00022.2010?doi=10.1152%2Fadvan.00022.2010" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.physiology.org">[journals.physiology.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.physiology.org</span><span class="citation-popover-snippet">Analogies in science and science teachingAnalogies are often used in science, but students may not appreciate their significance, and so...</span></span></span>
-* **Use multiple analogies**: Research on conceptual learning suggests that presenting several analogical comparisons  each capturing different relational features  helps learners build a more complete, nuanced model and reduces the risk of entrenched misconceptions from a single source analogy. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/profile/Rand-Spiro/publication/49176526_Multiple_analogies_for_complex_concepts_antidotes_for_analogy-induced_misconception_in_advanced_knowledge_acquisition/links/543290bb0cf225bddcc7bb24/Multiple-analogies-for-complex-concepts-antidotes-for-analogy-induced-misconception-in-advanced-knowledge-acquisition.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Multiple analogies for complex conceptsMarch 28, 2008  EXAMPLE: A common analogy used to teach opposition to blood flow (imp...</span><span class="citation-popover-meta">Published: March 28, 2008</span></span></span>
-* **Structured comparisons**: Pair the familiar domain with clear mapping exercises that show which features correspond and which do not. This supports cognitive *structure mapping* and encourages learners to attend to deeper relationships rather than surface similarities. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Structure-mapping_theory" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Structure-mapping theory</span><span class="citation-popover-snippet">Structure-mapping theory</span></span></span>
-* **Dynamic simulations and models**: Where possible, interactive models that demonstrate pulsatile flow and vessel compliance can provide concrete experiences that contrast with static pipe behaviour, helping students reconcile metaphor with physiological reality. <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.physiology.org/doi/full/10.1152/advan.00022.2010?doi=10.1152%2Fadvan.00022.2010" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.physiology.org">[journals.physiology.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.physiology.org</span><span class="citation-popover-snippet">Analogies in science and science teachingAnalogies are often used in science, but students may not appreciate their significance, and so...</span></span></span>
+* **Explicitly outline limitations**: When introducing any analogy, teachers should mark where the comparison breaks down. For circulatory analogies, this means pointing out vessel elasticity and pulsatile pressure as contrasts to rigid pipes.<span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.physiology.org/doi/full/10.1152/advan.00022.2010?doi=10.1152%2Fadvan.00022.2010" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.physiology.org">[journals.physiology.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.physiology.org</span><span class="citation-popover-snippet">Analogies in science and science teachingAnalogies are often used in science, but students may not appreciate their significance, and so...</span></span></span>
+* **Use multiple analogies**: Research on conceptual learning suggests that presenting several analogical comparisons  each capturing different relational features  helps learners build a more complete, nuanced model and reduces the risk of entrenched misconceptions from a single source analogy.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/profile/Rand-Spiro/publication/49176526_Multiple_analogies_for_complex_concepts_antidotes_for_analogy-induced_misconception_in_advanced_knowledge_acquisition/links/543290bb0cf225bddcc7bb24/Multiple-analogies-for-complex-concepts-antidotes-for-analogy-induced-misconception-in-advanced-knowledge-acquisition.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Multiple analogies for complex conceptsMarch 28, 2008  EXAMPLE: A common analogy used to teach opposition to blood flow (imp...</span><span class="citation-popover-meta">Published: March 28, 2008</span></span></span>
+* **Structured comparisons**: Pair the familiar domain with clear mapping exercises that show which features correspond and which do not. This supports cognitive *structure mapping* and encourages learners to attend to deeper relationships rather than surface similarities.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Structure-mapping_theory" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Structure-mapping theory</span><span class="citation-popover-snippet">Structure-mapping theory</span></span></span>
+* **Dynamic simulations and models**: Where possible, interactive models that demonstrate pulsatile flow and vessel compliance can provide concrete experiences that contrast with static pipe behaviour, helping students reconcile metaphor with physiological reality.<span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.physiology.org/doi/full/10.1152/advan.00022.2010?doi=10.1152%2Fadvan.00022.2010" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.physiology.org">[journals.physiology.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.physiology.org</span><span class="citation-popover-snippet">Analogies in science and science teachingAnalogies are often used in science, but students may not appreciate their significance, and so...</span></span></span>
 
-By combining analogies with clear conceptual boundaries and multiple representational resources, teachers can preserve the **pedagogical benefits of analogy** while reducing the risk of ingrained misconceptions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.physiology.org/doi/full/10.1152/advan.00022.2010?doi=10.1152%2Fadvan.00022.2010" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.physiology.org">[journals.physiology.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.physiology.org</span><span class="citation-popover-snippet">Analogies in science and science teachingAnalogies are often used in science, but students may not appreciate their significance, and so...</span></span></span>
+By combining analogies with clear conceptual boundaries and multiple representational resources, teachers can preserve the **pedagogical benefits of analogy** while reducing the risk of ingrained misconceptions.<span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.physiology.org/doi/full/10.1152/advan.00022.2010?doi=10.1152%2Fadvan.00022.2010" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.physiology.org">[journals.physiology.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.physiology.org</span><span class="citation-popover-snippet">Analogies in science and science teachingAnalogies are often used in science, but students may not appreciate their significance, and so...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/CVIemNoOqtY" title="Blood Pressure, Blood Flow, Resistance and Their Relationship|| Hemodynamics" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=CVIemNoOqtY" target="_blank" rel="noopener noreferrer">Blood Pressure, Blood Flow, Resistance and Their Relationship|| Hemodynamics</a></p><p class="youtube-embed-meta">Channel: Nonstop Neuron &middot; Views: 48.3K &middot; Uploaded: October 2023 &middot; Length: 10 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=CVIemNoOqtY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=CVIemNoOqtY">Open on YouTube</a></p></div></div></div>
 
@@ -317,201 +317,201 @@ By combining analogies with clear conceptual boundaries and multiple representat
 
 ## Evidence From Educational Research
 
-Studies in science education emphasise that analogies are a **doubleedged sword**: they can aid initial understanding but also embed incorrect ideas when learners dont recognise limits. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/profile/Rand-Spiro/publication/49176526_Multiple_analogies_for_complex_concepts_antidotes_for_analogy-induced_misconception_in_advanced_knowledge_acquisition/links/543290bb0cf225bddcc7bb24/Multiple-analogies-for-complex-concepts-antidotes-for-analogy-induced-misconception-in-advanced-knowledge-acquisition.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Multiple analogies for complex conceptsMarch 28, 2008  EXAMPLE: A common analogy used to teach opposition to blood flow (imp...</span><span class="citation-popover-meta">Published: March 28, 2008</span></span></span> Evidence shows that students often latch onto the most salient features of the analogy while overlooking nuanced aspects of the target domain, a pattern that is particularly clear in the rigidpipe analogy for blood flow. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/profile/Rand-Spiro/publication/49176526_Multiple_analogies_for_complex_concepts_antidotes_for_analogy-induced_misconception_in_advanced_knowledge_acquisition/links/543290bb0cf225bddcc7bb24/Multiple-analogies-for-complex-concepts-antidotes-for-analogy-induced-misconception-in-advanced-knowledge-acquisition.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Multiple analogies for complex conceptsMarch 28, 2008  EXAMPLE: A common analogy used to teach opposition to blood flow (imp...</span><span class="citation-popover-meta">Published: March 28, 2008</span></span></span> Pedagogical interventions that integrate multiple analogies or bridging analogies (metaphors that progressively converge on the scientific concept) have been found more effective at mitigating such misconceptions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://repository.lboro.ac.uk/articles/thesis/Overcoming_misconceptions_using_bridging_analogies_to_cue_scientific_ideas/9357515" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: repository.lboro.ac.uk">[repository.lboro.ac.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">repository.lboro.ac.uk</span><span class="citation-popover-snippet">Overcoming misconceptions: using bridging analogies to...by A Nelmes  Cited by 1  This research looks at the use of bridging analogies...</span></span></span>
+Studies in science education emphasise that analogies are a **doubleedged sword**: they can aid initial understanding but also embed incorrect ideas when learners dont recognise limits.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/profile/Rand-Spiro/publication/49176526_Multiple_analogies_for_complex_concepts_antidotes_for_analogy-induced_misconception_in_advanced_knowledge_acquisition/links/543290bb0cf225bddcc7bb24/Multiple-analogies-for-complex-concepts-antidotes-for-analogy-induced-misconception-in-advanced-knowledge-acquisition.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Multiple analogies for complex conceptsMarch 28, 2008  EXAMPLE: A common analogy used to teach opposition to blood flow (imp...</span><span class="citation-popover-meta">Published: March 28, 2008</span></span></span> Evidence shows that students often latch onto the most salient features of the analogy while overlooking nuanced aspects of the target domain, a pattern that is particularly clear in the rigidpipe analogy for blood flow.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/profile/Rand-Spiro/publication/49176526_Multiple_analogies_for_complex_concepts_antidotes_for_analogy-induced_misconception_in_advanced_knowledge_acquisition/links/543290bb0cf225bddcc7bb24/Multiple-analogies-for-complex-concepts-antidotes-for-analogy-induced-misconception-in-advanced-knowledge-acquisition.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Multiple analogies for complex conceptsMarch 28, 2008  EXAMPLE: A common analogy used to teach opposition to blood flow (imp...</span><span class="citation-popover-meta">Published: March 28, 2008</span></span></span> Pedagogical interventions that integrate multiple analogies or bridging analogies (metaphors that progressively converge on the scientific concept) have been found more effective at mitigating such misconceptions.<span class="citation-chip-wrap"><a class="citation-chip" href="https://repository.lboro.ac.uk/articles/thesis/Overcoming_misconceptions_using_bridging_analogies_to_cue_scientific_ideas/9357515" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: repository.lboro.ac.uk">[repository.lboro.ac.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">repository.lboro.ac.uk</span><span class="citation-popover-snippet">Overcoming misconceptions: using bridging analogies to...by A Nelmes  Cited by 1  This research looks at the use of bridging analogies...</span></span></span>
 
-In summary, while plumbing metaphors make aspects of blood circulation familiar, their structural differences from vascular physiology can foster **persistent misconceptions** about flow, pressure dynamics, and vessel behaviour. Thoughtful teaching that situates analogies within a broader set of explanatory tools helps learners construct more accurate [mental models]({{ 'mental-models/' | relative_url }}). <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/profile/Rand-Spiro/publication/49176526_Multiple_analogies_for_complex_concepts_antidotes_for_analogy-induced_misconception_in_advanced_knowledge_acquisition/links/543290bb0cf225bddcc7bb24/Multiple-analogies-for-complex-concepts-antidotes-for-analogy-induced-misconception-in-advanced-knowledge-acquisition.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Multiple analogies for complex conceptsMarch 28, 2008  EXAMPLE: A common analogy used to teach opposition to blood flow (imp...</span><span class="citation-popover-meta">Published: March 28, 2008</span></span></span>
+In summary, while plumbing metaphors make aspects of blood circulation familiar, their structural differences from vascular physiology can foster **persistent misconceptions** about flow, pressure dynamics, and vessel behaviour. Thoughtful teaching that situates analogies within a broader set of explanatory tools helps learners construct more accurate [mental models]({{ 'mental-models/' | relative_url }}).<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/profile/Rand-Spiro/publication/49176526_Multiple_analogies_for_complex_concepts_antidotes_for_analogy-induced_misconception_in_advanced_knowledge_acquisition/links/543290bb0cf225bddcc7bb24/Multiple-analogies-for-complex-concepts-antidotes-for-analogy-induced-misconception-in-advanced-knowledge-acquisition.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Multiple analogies for complex conceptsMarch 28, 2008  EXAMPLE: A common analogy used to teach opposition to blood flow (imp...</span><span class="citation-popover-meta">Published: March 28, 2008</span></span></span>
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_misleading_analogies_a297a0_plumbing_blood_analo_e410b9-Illustration-3-dark.svg" | relative_url }}" alt="Plumbing Analogy illustration 3" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_misleading_analogies_a297a0_plumbing_blood_analo_e410b9-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_misleading_analogies_a297a0_plumbing_blood_analo_e410b9-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How Plumbing Comparisons Misrepresent Blood Circulation. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How Plumbing Comparisons Misrepresent Blood Circulation. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+Learning+Works+by+Susan+A.+Ambrose&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How Learning Works on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=6nGaDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How Learning Works" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+Learning+Works+by+Susan+A.+Ambrose&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How Learning Works">How Learning Works</a>
-        </h4>
-        <p class="fr-book-author">By Susan A. Ambrose, Michael W. Bridges et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+Learning+Works+by+Susan+A.+Ambrose&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How Learning Works on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=6nGaDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How Learning Works" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=How+Learning+Works+by+Susan+A.+Ambrose&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How Learning Works">How Learning Works</a>
+</h4>
+<p class="fr-book-author">By Susan A. Ambrose, Michael W. Bridges et al.</p>
         
-        <p class="fr-book-desc">Addresses how misconceptions form from oversimplified instructional models.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+Learning+Works+by+Susan+A.+Ambrose&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Addresses how misconceptions form from oversimplified instructional models.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=How+Learning+Works+by+Susan+A.+Ambrose&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Way+We+Work+David+Macaulay&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Way We Work on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/5804122-M.jpg" alt="Cover for The Way We Work" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Way+We+Work+David+Macaulay&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Way We Work">The Way We Work</a>
-        </h4>
-        <p class="fr-book-author">By David Macaulay</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Way+We+Work+David+Macaulay&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Way We Work on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/5804122-M.jpg" alt="Cover for The Way We Work" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Way+We+Work+David+Macaulay&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Way We Work">The Way We Work</a>
+</h4>
+<p class="fr-book-author">By David Macaulay</p>
         
-        <p class="fr-book-desc">First published 2008. Subjects: Human body, Juvenile literature, Human physiology, Physiology, Human physiology, juvenile literature.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Way+We+Work+David+Macaulay&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2008. Subjects: Human body, Juvenile literature, Human physiology, Physiology, Human physiology, juvenile literature.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Way+We+Work+David+Macaulay&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Human+physiology+%3A+an+integrated+approach+-+8.+edici%C3%B3n+Dee+Unglaub+Silverthorn&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Human physiology : an integrated approach - 8. edición on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8264011-M.jpg" alt="Cover for Human physiology : an integrated approach - 8. edición" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Human+physiology+%3A+an+integrated+approach+-+8.+edici%C3%B3n+Dee+Unglaub+Silverthorn&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Human physiology : an integrated approach - 8. edición">Human physiology : an integrated approach - 8. edición</a>
-        </h4>
-        <p class="fr-book-author">By Dee Unglaub Silverthorn</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Human+physiology+%3A+an+integrated+approach+-+8.+edici%C3%B3n+Dee+Unglaub+Silverthorn&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Human physiology : an integrated approach - 8. edición on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8264011-M.jpg" alt="Cover for Human physiology : an integrated approach - 8. edición" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Human+physiology+%3A+an+integrated+approach+-+8.+edici%C3%B3n+Dee+Unglaub+Silverthorn&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Human physiology : an integrated approach - 8. edición">Human physiology : an integrated approach - 8. edición</a>
+</h4>
+<p class="fr-book-author">By Dee Unglaub Silverthorn</p>
         
-        <p class="fr-book-desc">First published 2019. Subjects: Human physiology, Physiology.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Human+physiology+%3A+an+integrated+approach+-+8.+edici%C3%B3n+Dee+Unglaub+Silverthorn&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2019. Subjects: Human physiology, Physiology.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Human+physiology+%3A+an+integrated+approach+-+8.+edici%C3%B3n+Dee+Unglaub+Silverthorn&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Body+Bill+Bryson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Body on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/12722746-M.jpg" alt="Cover for The Body" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Body+Bill+Bryson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Body">The Body</a>
-        </h4>
-        <p class="fr-book-author">By Bill Bryson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Body+Bill+Bryson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Body on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/12722746-M.jpg" alt="Cover for The Body" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Body+Bill+Bryson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Body">The Body</a>
+</h4>
+<p class="fr-book-author">By Bill Bryson</p>
         
-        <p class="fr-book-desc">First published 2019. Subjects: Human anatomy, Human physiology, Anatomy, SCIENCE / Life Sciences / Human Anatomy &amp; Physiology, MEDICAL /...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Body+Bill+Bryson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2019. Subjects: Human anatomy, Human physiology, Anatomy, SCIENCE / Life Sciences / Human Anatomy &amp; Physiology, MEDICAL /...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Body+Bill+Bryson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+Learning+Works&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How Learning Works</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Way+We+Work&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Way We Work</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Human+physiology+%3A+an+integrated+approach+8.+edici%C3%B3n&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Human physiology : an integrated approach 8. edición</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=How+Learning+Works&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How Learning Works</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Way+We+Work&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Way We Work</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Human+physiology+%3A+an+integrated+approach+8.+edici%C3%B3n&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Human physiology : an integrated approach 8. edición</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=tech+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=plumbing-analogy-how-plumbing-comparisons-misrepresent-blood-circulation-myths-and-misconcept-tech-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="tech wall art" data-ebay-reference="plumbing-analogy-how-plumbing-comparisons-misrepresent-blood-circulation-myths-and-misconcept-tech-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Tech Support I&#x27;m Here To Delete You Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/57d0b4b7fa73e9b6bd00.jpg' | relative_url }}" alt="Listing image for Tech Support I&#x27;m Here To Delete You Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=tech+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=plumbing-analogy-how-plumbing-comparisons-misrepresent-blood-circulation-myths-and-misconcept-tech-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="tech wall art" data-ebay-reference="plumbing-analogy-how-plumbing-comparisons-misrepresent-blood-circulation-myths-and-misconcept-tech-wall-art" target="_blank" rel="sponsored noopener noreferrer">Tech Support I&#x27;m Here To Delete You Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=tech+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=plumbing-analogy-how-plumbing-comparisons-misrepresent-blood-circulation-myths-and-misconcept-tech-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="tech wall art" data-ebay-reference="plumbing-analogy-how-plumbing-comparisons-misrepresent-blood-circulation-myths-and-misconcept-tech-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for tech wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: tech wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=tech+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=plumbing-analogy-how-plumbing-comparisons-misrepresent-blood-circulation-myths-and-misconcept-tech-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="tech wall art" data-ebay-reference="plumbing-analogy-how-plumbing-comparisons-misrepresent-blood-circulation-myths-and-misconcept-tech-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=tech+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=plumbing-analogy-how-plumbing-comparisons-misrepresent-blood-circulation-myths-and-misconcept-tech-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="tech wall art" data-ebay-reference="plumbing-analogy-how-plumbing-comparisons-misrepresent-blood-circulation-myths-and-misconcept-tech-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Tech Support I&#x27;m Here To Delete You Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/57d0b4b7fa73e9b6bd00.jpg' | relative_url }}" alt="Listing image for Tech Support I&#x27;m Here To Delete You Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=tech+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=plumbing-analogy-how-plumbing-comparisons-misrepresent-blood-circulation-myths-and-misconcept-tech-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="tech wall art" data-ebay-reference="plumbing-analogy-how-plumbing-comparisons-misrepresent-blood-circulation-myths-and-misconcept-tech-wall-art" target="_blank" rel="sponsored noopener noreferrer">Tech Support I&#x27;m Here To Delete You Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=tech+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=plumbing-analogy-how-plumbing-comparisons-misrepresent-blood-circulation-myths-and-misconcept-tech-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="tech wall art" data-ebay-reference="plumbing-analogy-how-plumbing-comparisons-misrepresent-blood-circulation-myths-and-misconcept-tech-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for tech wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: tech wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=tech+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=plumbing-analogy-how-plumbing-comparisons-misrepresent-blood-circulation-myths-and-misconcept-tech-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="tech wall art" data-ebay-reference="plumbing-analogy-how-plumbing-comparisons-misrepresent-blood-circulation-myths-and-misconcept-tech-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=tech+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=plumbing-analogy-how-plumbing-comparisons-misrepresent-blood-circulation-myths-and-misconcept-tech-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="tech wall art" data-ebay-reference="plumbing-analogy-how-plumbing-comparisons-misrepresent-blood-circulation-myths-and-misconcept-tech-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Tech Graphic T Framed Art Print Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/af26f74ddb828f8bf47e.jpg' | relative_url }}" alt="Listing image for Tech Graphic T Framed Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=tech+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=plumbing-analogy-how-plumbing-comparisons-misrepresent-blood-circulation-myths-and-misconcept-tech-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="tech wall art" data-ebay-reference="plumbing-analogy-how-plumbing-comparisons-misrepresent-blood-circulation-myths-and-misconcept-tech-wall-art" target="_blank" rel="sponsored noopener noreferrer">Tech Graphic T Framed Art Print Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=tech+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=plumbing-analogy-how-plumbing-comparisons-misrepresent-blood-circulation-myths-and-misconcept-tech-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="tech wall art" data-ebay-reference="plumbing-analogy-how-plumbing-comparisons-misrepresent-blood-circulation-myths-and-misconcept-tech-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for tech wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: tech wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=tech+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=plumbing-analogy-how-plumbing-comparisons-misrepresent-blood-circulation-myths-and-misconcept-tech-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="tech wall art" data-ebay-reference="plumbing-analogy-how-plumbing-comparisons-misrepresent-blood-circulation-myths-and-misconcept-tech-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=tech+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=plumbing-analogy-how-plumbing-comparisons-misrepresent-blood-circulation-myths-and-misconcept-tech-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="tech wall art" data-ebay-reference="plumbing-analogy-how-plumbing-comparisons-misrepresent-blood-circulation-myths-and-misconcept-tech-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Tech Graphic T Framed Art Print Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/af26f74ddb828f8bf47e.jpg' | relative_url }}" alt="Listing image for Tech Graphic T Framed Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=tech+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=plumbing-analogy-how-plumbing-comparisons-misrepresent-blood-circulation-myths-and-misconcept-tech-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="tech wall art" data-ebay-reference="plumbing-analogy-how-plumbing-comparisons-misrepresent-blood-circulation-myths-and-misconcept-tech-wall-art" target="_blank" rel="sponsored noopener noreferrer">Tech Graphic T Framed Art Print Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=tech+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=plumbing-analogy-how-plumbing-comparisons-misrepresent-blood-circulation-myths-and-misconcept-tech-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="tech wall art" data-ebay-reference="plumbing-analogy-how-plumbing-comparisons-misrepresent-blood-circulation-myths-and-misconcept-tech-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for tech wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: tech wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=tech+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=plumbing-analogy-how-plumbing-comparisons-misrepresent-blood-circulation-myths-and-misconcept-tech-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="tech wall art" data-ebay-reference="plumbing-analogy-how-plumbing-comparisons-misrepresent-blood-circulation-myths-and-misconcept-tech-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=tech+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=plumbing-analogy-how-plumbing-comparisons-misrepresent-blood-circulation-myths-and-misconcept-tech-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="tech wall art" data-ebay-reference="plumbing-analogy-how-plumbing-comparisons-misrepresent-blood-circulation-myths-and-misconcept-tech-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Tech Support definition Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/c752ebf8998b832b09e5.jpg' | relative_url }}" alt="Listing image for Tech Support definition Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=tech+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=plumbing-analogy-how-plumbing-comparisons-misrepresent-blood-circulation-myths-and-misconcept-tech-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="tech wall art" data-ebay-reference="plumbing-analogy-how-plumbing-comparisons-misrepresent-blood-circulation-myths-and-misconcept-tech-wall-art" target="_blank" rel="sponsored noopener noreferrer">Tech Support definition Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=tech+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=plumbing-analogy-how-plumbing-comparisons-misrepresent-blood-circulation-myths-and-misconcept-tech-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="tech wall art" data-ebay-reference="plumbing-analogy-how-plumbing-comparisons-misrepresent-blood-circulation-myths-and-misconcept-tech-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for tech wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: tech wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=tech+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=plumbing-analogy-how-plumbing-comparisons-misrepresent-blood-circulation-myths-and-misconcept-tech-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="tech wall art" data-ebay-reference="plumbing-analogy-how-plumbing-comparisons-misrepresent-blood-circulation-myths-and-misconcept-tech-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=tech+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=plumbing-analogy-how-plumbing-comparisons-misrepresent-blood-circulation-myths-and-misconcept-tech-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="tech wall art" data-ebay-reference="plumbing-analogy-how-plumbing-comparisons-misrepresent-blood-circulation-myths-and-misconcept-tech-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Tech Support definition Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/c752ebf8998b832b09e5.jpg' | relative_url }}" alt="Listing image for Tech Support definition Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=tech+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=plumbing-analogy-how-plumbing-comparisons-misrepresent-blood-circulation-myths-and-misconcept-tech-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="tech wall art" data-ebay-reference="plumbing-analogy-how-plumbing-comparisons-misrepresent-blood-circulation-myths-and-misconcept-tech-wall-art" target="_blank" rel="sponsored noopener noreferrer">Tech Support definition Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=tech+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=plumbing-analogy-how-plumbing-comparisons-misrepresent-blood-circulation-myths-and-misconcept-tech-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="tech wall art" data-ebay-reference="plumbing-analogy-how-plumbing-comparisons-misrepresent-blood-circulation-myths-and-misconcept-tech-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for tech wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: tech wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=tech+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=plumbing-analogy-how-plumbing-comparisons-misrepresent-blood-circulation-myths-and-misconcept-tech-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="tech wall art" data-ebay-reference="plumbing-analogy-how-plumbing-comparisons-misrepresent-blood-circulation-myths-and-misconcept-tech-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=tech+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=plumbing-analogy-how-plumbing-comparisons-misrepresent-blood-circulation-myths-and-misconcept-tech-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="tech wall art" data-ebay-reference="plumbing-analogy-how-plumbing-comparisons-misrepresent-blood-circulation-myths-and-misconcept-tech-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Cool Gadget Boy Tech Framed Art Pri Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/42736e933384445b101f.jpg' | relative_url }}" alt="Listing image for Cool Gadget Boy Tech Framed Art Pri Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=tech+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=plumbing-analogy-how-plumbing-comparisons-misrepresent-blood-circulation-myths-and-misconcept-tech-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="tech wall art" data-ebay-reference="plumbing-analogy-how-plumbing-comparisons-misrepresent-blood-circulation-myths-and-misconcept-tech-wall-art" target="_blank" rel="sponsored noopener noreferrer">Cool Gadget Boy Tech Framed Art Pri Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=tech+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=plumbing-analogy-how-plumbing-comparisons-misrepresent-blood-circulation-myths-and-misconcept-tech-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="tech wall art" data-ebay-reference="plumbing-analogy-how-plumbing-comparisons-misrepresent-blood-circulation-myths-and-misconcept-tech-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for tech wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: tech wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=tech+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=plumbing-analogy-how-plumbing-comparisons-misrepresent-blood-circulation-myths-and-misconcept-tech-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="tech wall art" data-ebay-reference="plumbing-analogy-how-plumbing-comparisons-misrepresent-blood-circulation-myths-and-misconcept-tech-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=tech+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=plumbing-analogy-how-plumbing-comparisons-misrepresent-blood-circulation-myths-and-misconcept-tech-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="tech wall art" data-ebay-reference="plumbing-analogy-how-plumbing-comparisons-misrepresent-blood-circulation-myths-and-misconcept-tech-wall-art" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=tech+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=plumbing-analogy-how-plumbing-comparisons-misrepresent-blood-circulation-myths-and-misconcept-tech-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="tech wall art" data-ebay-reference="plumbing-analogy-how-plumbing-comparisons-misrepresent-blood-circulation-myths-and-misconcept-tech-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Cool Gadget Boy Tech Framed Art Pri Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/42736e933384445b101f.jpg' | relative_url }}" alt="Listing image for Cool Gadget Boy Tech Framed Art Pri Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=tech+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=plumbing-analogy-how-plumbing-comparisons-misrepresent-blood-circulation-myths-and-misconcept-tech-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="tech wall art" data-ebay-reference="plumbing-analogy-how-plumbing-comparisons-misrepresent-blood-circulation-myths-and-misconcept-tech-wall-art" target="_blank" rel="sponsored noopener noreferrer">Cool Gadget Boy Tech Framed Art Pri Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=tech+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=plumbing-analogy-how-plumbing-comparisons-misrepresent-blood-circulation-myths-and-misconcept-tech-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="tech wall art" data-ebay-reference="plumbing-analogy-how-plumbing-comparisons-misrepresent-blood-circulation-myths-and-misconcept-tech-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for tech wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: tech wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=tech+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=plumbing-analogy-how-plumbing-comparisons-misrepresent-blood-circulation-myths-and-misconcept-tech-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="tech wall art" data-ebay-reference="plumbing-analogy-how-plumbing-comparisons-misrepresent-blood-circulation-myths-and-misconcept-tech-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=tech+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=plumbing-analogy-how-plumbing-comparisons-misrepresent-blood-circulation-myths-and-misconcept-tech-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="tech wall art" data-ebay-reference="plumbing-analogy-how-plumbing-comparisons-misrepresent-blood-circulation-myths-and-misconcept-tech-wall-art" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -527,7 +527,7 @@ In summary, while plumbing metaphors make aspects of blood circulation familiar,
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -547,7 +547,7 @@ In summary, while plumbing metaphors make aspects of blood circulation familiar,
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -579,7 +579,7 @@ In summary, while plumbing metaphors make aspects of blood circulation familiar,
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -631,7 +631,7 @@ In summary, while plumbing metaphors make aspects of blood circulation familiar,
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -676,7 +676,7 @@ In summary, while plumbing metaphors make aspects of blood circulation familiar,
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -717,90 +717,90 @@ In summary, while plumbing metaphors make aspects of blood circulation familiar,
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/profile/Rand-Spiro/publication/49176526_Multiple_analogies_for_complex_concepts_antidotes_for_analogy-induced_misconception_in_advanced_knowledge_acquisition/links/543290bb0cf225bddcc7bb24/Multiple-analogies-for-complex-concepts-antidotes-for-analogy-induced-misconception-in-advanced-knowledge-acquisition.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/profile/Rand-Spiro/publication/49176526_Multiple_analogies_for_complex_concepts_antidotes_for_analogy-induced_misconception_in_advanced_knowledge_acquisition/links/543290bb0cf225bddcc7bb24/Multiple-analogies-for-complex-concepts-antidotes-for-analogy-induced-misconception-in-advanced-knowledge-acquisition.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Multiple analogies for complex conceptsMarch 28, 2008  EXAMPLE: A common analogy used to teach opposition to blood flow (imp...</p></details>
+   Link:<a href="https://www.researchgate.net/profile/Rand-Spiro/publication/49176526_Multiple_analogies_for_complex_concepts_antidotes_for_analogy-induced_misconception_in_advanced_knowledge_acquisition/links/543290bb0cf225bddcc7bb24/Multiple-analogies-for-complex-concepts-antidotes-for-analogy-induced-misconception-in-advanced-knowledge-acquisition.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/profile/Rand-Spiro/publication/49176526_Multiple_analogies_for_complex_concepts_antidotes_for_analogy-induced_misconception_in_advanced_knowledge_acquisition/links/543290bb0cf225bddcc7bb24/Multiple-analogies-for-complex-concepts-antidotes-for-analogy-induced-misconception-in-advanced-knowledge-acquisition.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Multiple analogies for complex conceptsMarch 28, 2008  EXAMPLE: A common analogy used to teach opposition to blood flow (imp...</p></details>
    Published: March 28, 2008  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: journals.physiology.org  
-   Link: <a href="https://journals.physiology.org/doi/full/10.1152/advan.00022.2010?doi=10.1152%2Fadvan.00022.2010" target="_blank" rel="noopener noreferrer nofollow">https://journals.physiology.org/doi/full/10.1152/advan.00022.2010?doi=10.1152%2Fadvan.00022.2010</a>  
+   Link:<a href="https://journals.physiology.org/doi/full/10.1152/advan.00022.2010?doi=10.1152%2Fadvan.00022.2010" target="_blank" rel="noopener noreferrer nofollow">https://journals.physiology.org/doi/full/10.1152/advan.00022.2010?doi=10.1152%2Fadvan.00022.2010</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: Wikipedia  
    Title: Structure-mapping theory  
-   Link: <a href="https://en.wikipedia.org/wiki/Structure-mapping_theory" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Structure-mapping_theory</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Structure-mapping_theory" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Structure-mapping_theory</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: repository.lboro.ac.uk  
-   Link: <a href="https://repository.lboro.ac.uk/articles/thesis/Overcoming_misconceptions_using_bridging_analogies_to_cue_scientific_ideas/9357515" target="_blank" rel="noopener noreferrer nofollow">https://repository.lboro.ac.uk/articles/thesis/Overcoming_misconceptions_using_bridging_analogies_to_cue_scientific_ideas/9357515</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Overcoming misconceptions: using bridging analogies to...by A Nelmes  Cited by 1  This research looks at the use of bridging analogies...</p></details>
+   Link:<a href="https://repository.lboro.ac.uk/articles/thesis/Overcoming_misconceptions_using_bridging_analogies_to_cue_scientific_ideas/9357515" target="_blank" rel="noopener noreferrer nofollow">https://repository.lboro.ac.uk/articles/thesis/Overcoming_misconceptions_using_bridging_analogies_to_cue_scientific_ideas/9357515</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Overcoming misconceptions: using bridging analogies to...by A Nelmes  Cited by 1  This research looks at the use of bridging analogies...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: teachmephysiology.com  
    Title: Blood Flow in Vessels  
-   Link: <a href="https://teachmephysiology.com/cardiovascular-system/circulation/blood-flow-in-vessels/picture-1-5/" target="_blank" rel="noopener noreferrer nofollow">https://teachmephysiology.com/cardiovascular-system/circulation/blood-flow-in-vessels/picture-1-5/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Circulation - TeachMePhysiologyBLOOD FLOW IN VESSELS Written by Georgie Banks and Kaitlyn Whitelaw BLOOD FLOW IN VESSELS - PODCAST VERSIO...</p></details>
+   Link:<a href="https://teachmephysiology.com/cardiovascular-system/circulation/blood-flow-in-vessels/picture-1-5/" target="_blank" rel="noopener noreferrer nofollow">https://teachmephysiology.com/cardiovascular-system/circulation/blood-flow-in-vessels/picture-1-5/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Circulation - TeachMePhysiologyBLOOD FLOW IN VESSELS Written by Georgie Banks and Kaitlyn Whitelaw BLOOD FLOW IN VESSELS - PODCAST VERSIO...</p></details>
 
 ### Additional References
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: nature.com  
    Title: A novel tube law analysis under anisotropic external load | Scientific Reports  
-   Link: <a href="https://www.nature.com/articles/s41598-024-82476-7" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41598-024-82476-7</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>December 17, 2024  A novel tube law analysis under anisotropic external load Download PDF Download PDF * Article * Open access *...</p></details>
+   Link:<a href="https://www.nature.com/articles/s41598-024-82476-7" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41598-024-82476-7</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>December 17, 2024  A novel tube law analysis under anisotropic external load Download PDF Download PDF * Article * Open access *...</p></details>
    Published: December 17, 2024  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: macstandl.com  
-   Link: <a href="https://macstandl.com/analogies-and-multiple-explanations/" target="_blank" rel="noopener noreferrer nofollow">https://macstandl.com/analogies-and-multiple-explanations/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Analogies and Multiple ExplanationsResources, ideas and prompts for discussion related to Explanation. Making complex ideas easier to und...</p></details>
+   Link:<a href="https://macstandl.com/analogies-and-multiple-explanations/" target="_blank" rel="noopener noreferrer nofollow">https://macstandl.com/analogies-and-multiple-explanations/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Analogies and Multiple ExplanationsResources, ideas and prompts for discussion related to Explanation. Making complex ideas easier to und...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: en12.zlibrary.to  
-   Link: <a href="https://en12.zlibrary.to/dl/multiple-analogies-for-complex-concepts-antidotes-for-analogy-induced-misconception-in" target="_blank" rel="noopener noreferrer nofollow">https://en12.zlibrary.to/dl/multiple-analogies-for-complex-concepts-antidotes-for-analogy-induced-misconception-in</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PDFSeptember 1, 1988  Since the analogy-based misconceptions involve very technical subject matter, our characterizations will stress th...</p></details>
+   Link:<a href="https://en12.zlibrary.to/dl/multiple-analogies-for-complex-concepts-antidotes-for-analogy-induced-misconception-in" target="_blank" rel="noopener noreferrer nofollow">https://en12.zlibrary.to/dl/multiple-analogies-for-complex-concepts-antidotes-for-analogy-induced-misconception-in</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>PDFSeptember 1, 1988  Since the analogy-based misconceptions involve very technical subject matter, our characterizations will stress th...</p></details>
    Published: September 1, 1988  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: uakron.edu  
-   Link: <a href="https://www.uakron.edu/polymer/agpa-k12outreach/best-teaching-practices/using-analogies" target="_blank" rel="noopener noreferrer nofollow">https://www.uakron.edu/polymer/agpa-k12outreach/best-teaching-practices/using-analogies</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>using analogiesUsing analogies assists in concept development. This is particularly true when students have alternative conceptions about...</p></details>
+   Link:<a href="https://www.uakron.edu/polymer/agpa-k12outreach/best-teaching-practices/using-analogies" target="_blank" rel="noopener noreferrer nofollow">https://www.uakron.edu/polymer/agpa-k12outreach/best-teaching-practices/using-analogies</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>using analogiesUsing analogies assists in concept development. This is particularly true when students have alternative conceptions about...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: my.chartered.college  
-   Link: <a href="https://my.chartered.college/impact_article/misconceptions-p-prims-and-bridging-analogies-in-physics-teaching/" target="_blank" rel="noopener noreferrer nofollow">https://my.chartered.college/impact_article/misconceptions-p-prims-and-bridging-analogies-in-physics-teaching/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>chartered.collegeMisconceptions, p-prims and bridging analogies in Physics...by G Jones  The &#x27;misconceptions&#x27; we are talking about are...</p></details>
+   Link:<a href="https://my.chartered.college/impact_article/misconceptions-p-prims-and-bridging-analogies-in-physics-teaching/" target="_blank" rel="noopener noreferrer nofollow">https://my.chartered.college/impact_article/misconceptions-p-prims-and-bridging-analogies-in-physics-teaching/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>chartered.collegeMisconceptions, p-prims and bridging analogies in Physics...by G Jones  The &#x27;misconceptions&#x27; we are talking about are...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: studyres.com  
    Title: Multiple analogies for complex concepts: antidotes for analogysource  
-   Link: <a href="https://studyres.com/doc/13513537/multiple-analogies-for-complex-concepts---antidotes-for-a" target="_blank" rel="noopener noreferrer nofollow">https://studyres.com/doc/13513537/multiple-analogies-for-complex-concepts---antidotes-for-a</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>EXAMPLE: A common analogy used to teach opposition to blood flow (impedance) uses rigid pipe systems such as household plumbing as the so...</p></details>
+   Link:<a href="https://studyres.com/doc/13513537/multiple-analogies-for-complex-concepts---antidotes-for-a" target="_blank" rel="noopener noreferrer nofollow">https://studyres.com/doc/13513537/multiple-analogies-for-complex-concepts---antidotes-for-a</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>EXAMPLE: A common analogy used to teach opposition to blood flow (impedance) uses rigid pipe systems such as household plumbing as the so...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: sciencedirect.com  
    Title: Hemodynamics of vascular waterfall: is the analogy justified?  
-   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/003456879290060A" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/003456879290060A</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>RESPIRATION PHYSIOLOGY Volume 87, Issue 2, February 1992, Pages 205-217 Respiration Physiolo HEMODYNAMICS OF VASCULAR WATE...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/abs/pii/003456879290060A" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/003456879290060A</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>RESPIRATION PHYSIOLOGY Volume 87, Issue 2, February 1992, Pages 205-217 Respiration Physiolo HEMODYNAMICS OF VASCULAR WATE...</p></details>
    Published: February 1992  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: sciencedirect.com  
    Title: Hemodynamics of vascular waterfall: is the analogy justified?  
-   Link: <a href="https://www.sciencedirect.com/science/article/pii/003456879290060A" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/003456879290060A</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>RESPIRATION PHYSIOLOGY Volume 87, Issue 2, February 1992, Pages 205-217 Respiration Physiolo HEMODYNAMICS OF VASCULAR WATE...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/pii/003456879290060A" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/003456879290060A</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>RESPIRATION PHYSIOLOGY Volume 87, Issue 2, February 1992, Pages 205-217 Respiration Physiolo HEMODYNAMICS OF VASCULAR WATE...</p></details>
    Published: February 1992  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: boldscience.org  
    Title: How can analogies promote learning?  
-   Link: <a href="https://boldscience.org/how-can-analogies-promote-learning/" target="_blank" rel="noopener noreferrer nofollow">https://boldscience.org/how-can-analogies-promote-learning/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>BOLD11 Aug 2022  Analogies can increase comprehension and reduce misconceptions. They may be particularly helpful for learning about con...</p></details>
+   Link:<a href="https://boldscience.org/how-can-analogies-promote-learning/" target="_blank" rel="noopener noreferrer nofollow">https://boldscience.org/how-can-analogies-promote-learning/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>BOLD11 Aug 2022  Analogies can increase comprehension and reduce misconceptions. They may be particularly helpful for learning about con...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: research.cuhk.edu.hk  
    Title: cuhk.edu.hk Teachers' misconceptions of the circulatory system  
-   Link: <a href="https://research.cuhk.edu.hk/en/publications/teachers-misconceptions-of-the-circulatory-system-2/" target="_blank" rel="noopener noreferrer nofollow">https://research.cuhk.edu.hk/en/publications/teachers-misconceptions-of-the-circulatory-system-2/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>cuhk.edu.hkTeachers&#x27; misconceptions of the circulatory system - The Chinese University of Hong KongTEACHERS&#x27; MISCONCEPTIONS OF THE CIRCUL...</p></details>
+   Link:<a href="https://research.cuhk.edu.hk/en/publications/teachers-misconceptions-of-the-circulatory-system-2/" target="_blank" rel="noopener noreferrer nofollow">https://research.cuhk.edu.hk/en/publications/teachers-misconceptions-of-the-circulatory-system-2/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>cuhk.edu.hkTeachers&#x27; misconceptions of the circulatory system - The Chinese University of Hong KongTEACHERS&#x27; MISCONCEPTIONS OF THE CIRCUL...</p></details>

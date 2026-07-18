@@ -271,13 +271,13 @@ image: /assets/images/Myths_and_misconcept_0d48d7_correction_timing_c61362_corre
 Correcting a rumour is not always a simple matter of publishing the facts. Sometimes a public rebuttal gives a fringe claim its largest audience. The challenge is to distinguish between a rumour that is already spreading and one that remains largely confined to a small community. In the first case, [correction]({{ 'correction/' | relative_url }}) may reduce harm. In the second, a prominent correction can inadvertently act as free publicity.
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_correction_timing_c61362_correction_amplifica_32a55c-Illustration-1-dark.svg" | relative_url }}" alt="Amplification illustration 1" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_correction_timing_c61362_correction_amplifica_32a55c-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_correction_timing_c61362_correction_amplifica_32a55c-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-Research on misinformation suggests that the greatest risk is not usually that [corrections]({{ 'corrections/' | relative_url }}) make people believe a claim more strongly. Large reviews have found little evidence for widespread “[backfire]({{ 'backfire/' | relative_url }}) effects” in which corrections systematically strengthen false beliefs. However, there is a separate and more practical concern: corrections can expose new audiences to a rumour and increase familiarity with it. The key decision is therefore not whether correction works at all, but whether a correction will reach more people than the rumour itself. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9283209/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">The backfire effect after correcting misinformation is strongly...by B Swire-Thompson · 2022 · Cited by 102 — A significant drawback...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7462781/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Searching for the Backfire Effect: Measurement and Design...by B Swire-Thompson · 2020 · Cited by 418 — A backfire effect is when peo...</span></span></span>
+Research on misinformation suggests that the greatest risk is not usually that [corrections]({{ 'corrections/' | relative_url }}) make people believe a claim more strongly. Large reviews have found little evidence for widespread “[backfire]({{ 'backfire/' | relative_url }}) effects” in which corrections systematically strengthen false beliefs. However, there is a separate and more practical concern: corrections can expose new audiences to a rumour and increase familiarity with it. The key decision is therefore not whether correction works at all, but whether a correction will reach more people than the rumour itself.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9283209/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">The backfire effect after correcting misinformation is strongly...by B Swire-Thompson · 2022 · Cited by 102 — A significant drawback...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7462781/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Searching for the Backfire Effect: Measurement and Design...by B Swire-Thompson · 2020 · Cited by 418 — A backfire effect is when peo...</span></span></span>
 
 ## Can a correction spread the myth further?
 
 The amplification problem arises because attention is a limited resource. When journalists, officials, influencers or fact-checkers respond publicly to a rumour, they often repeat the claim in order to refute it. That [repetition]({{ 'repetition/' | relative_url }}) can increase awareness even among people who had never encountered the rumour before.
 
-Researchers studying misinformation have long noted that familiarity affects perceived plausibility. Repeated exposure can make a statement feel more familiar and therefore more credible, even when people later struggle to remember whether it was true or false. This concern led to debates about whether fact-checking might accidentally strengthen myths through repetition. While recent evidence suggests that strong familiarity-based backfire effects are uncommon, familiarity itself remains an important consideration when deciding how visibly to correct a claim. PMC <span class="citation-chip-wrap"><a class="citation-chip" href="https://link.springer.com/article/10.1186/s41235-020-00241-6" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">corrections spread misinformation to new audiences...by UKH Ecker · 2020 · Cited by 203 — Misinformation often continues to influence in...</span></span></span> The practical question is therefore: if you publish a correction today, how many people will learn about the rumour for the first time through the correction rather than through the original falsehood?
+Researchers studying misinformation have long noted that familiarity affects perceived plausibility. Repeated exposure can make a statement feel more familiar and therefore more credible, even when people later struggle to remember whether it was true or false. This concern led to debates about whether fact-checking might accidentally strengthen myths through repetition. While recent evidence suggests that strong familiarity-based backfire effects are uncommon, familiarity itself remains an important consideration when deciding how visibly to correct a claim. PMC<span class="citation-chip-wrap"><a class="citation-chip" href="https://link.springer.com/article/10.1186/s41235-020-00241-6" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">corrections spread misinformation to new audiences...by UKH Ecker · 2020 · Cited by 203 — Misinformation often continues to influence in...</span></span></span> The practical question is therefore: if you publish a correction today, how many people will learn about the rumour for the first time through the correction rather than through the original falsehood?
 
 ## How to judge whether a claim is still too small
 
@@ -296,7 +296,7 @@ A rumour may still be too small for a major rebuttal when:
 
 In these situations, a high-profile correction may transform an obscure rumour into a wider public conversation.
 
-Professional fact-checkers often make similar judgements. Research into fact-checking prioritisation shows that organisations routinely assess potential harm, likely spread and public visibility before deciding which claims deserve substantial resources. Not every false claim receives a public fact-check because attention itself can become a vector for dissemination. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2312.11678" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Misinformation as a harm: structured approaches for fact-checking prioritizationDecember 18, 2023...</span><span class="citation-popover-meta">Published: December 18, 2023</span></span></span>
+Professional fact-checkers often make similar judgements. Research into fact-checking prioritisation shows that organisations routinely assess potential harm, likely spread and public visibility before deciding which claims deserve substantial resources. Not every false claim receives a public fact-check because attention itself can become a vector for dissemination.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2312.11678" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Misinformation as a harm: structured approaches for fact-checking prioritizationDecember 18, 2023...</span><span class="citation-popover-meta">Published: December 18, 2023</span></span></span>
 
 A useful rule is to compare the expected audience of the correction with the current audience of the rumour. If the correction is likely to reach ten times as many people as the original claim, amplification risk is high.
 
@@ -321,7 +321,7 @@ This approach is particularly relevant when the rumour has little public tractio
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_correction_timing_c61362_correction_amplifica_32a55c-Illustration-2-dark.svg" | relative_url }}" alt="Amplification illustration 2" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_correction_timing_c61362_correction_amplifica_32a55c-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_correction_timing_c61362_correction_amplifica_32a55c-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Community correction
 
-Research on social correction suggests that ordinary users who challenge false claims within conversations can reduce misinformation's spread. A brief correction attached directly to a misleading post often reaches the relevant audience without creating a new, standalone piece of content that could boost visibility. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.davidson.edu/news/2024/10/02/research-finds-simple-corrections-can-slow-spread-misinformation-online" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: davidson.edu">[Davidson College]</a><span class="citation-popover" role="note"><span class="citation-popover-source">davidson.edu</span><span class="citation-popover-snippet">Davidson CollegeResearch Finds Simple Corrections Can Slow Spread of...Oct 2, 2024 — Research Finds Simple Corrections Can Slow Spread o...</span></span></span>
+Research on social correction suggests that ordinary users who challenge false claims within conversations can reduce misinformation's spread. A brief correction attached directly to a misleading post often reaches the relevant audience without creating a new, standalone piece of content that could boost visibility.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.davidson.edu/news/2024/10/02/research-finds-simple-corrections-can-slow-spread-misinformation-online" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: davidson.edu">[Davidson College]</a><span class="citation-popover" role="note"><span class="citation-popover-source">davidson.edu</span><span class="citation-popover-snippet">Davidson CollegeResearch Finds Simple Corrections Can Slow Spread of...Oct 2, 2024 — Research Finds Simple Corrections Can Slow Spread o...</span></span></span>
 
 The goal in these cases is containment rather than broad public persuasion.
 
@@ -343,7 +343,7 @@ A public rebuttal becomes more defensible when one or more of the following cond
 
 At this stage, the costs of inaction often exceed the risks of amplification.
 
-An important insight from misinformation research is that corrections generally reduce belief in false claims, even if they do not eliminate misinformation entirely. Reviews and meta-analyses consistently find that [debunking]({{ 'debunking/' | relative_url }}) has positive effects on accuracy beliefs. The question becomes less about avoiding attention and more about ensuring that the correction reaches the same audiences as the rumour. Nature <span class="citation-chip-wrap"><a class="citation-chip" href="https://joint-research-centre.ec.europa.eu/jrc-news-and-updates/misinformation-and-disinformation-both-prebunking-and-debunking-work-fighting-it-2024-10-25_en" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: joint-research-centre.ec.europa.eu">[Joint Research Centre]</a><span class="citation-popover" role="note"><span class="citation-popover-source">joint-research-centre.ec.europa.eu</span><span class="citation-popover-snippet">Joint Research CentreMisinformation and disinformation: both prebunking and...25 Oct 2024 — Misinformation and disinformation: both preb...</span></span></span>
+An important insight from misinformation research is that corrections generally reduce belief in false claims, even if they do not eliminate misinformation entirely. Reviews and meta-analyses consistently find that [debunking]({{ 'debunking/' | relative_url }}) has positive effects on accuracy beliefs. The question becomes less about avoiding attention and more about ensuring that the correction reaches the same audiences as the rumour. Nature<span class="citation-chip-wrap"><a class="citation-chip" href="https://joint-research-centre.ec.europa.eu/jrc-news-and-updates/misinformation-and-disinformation-both-prebunking-and-debunking-work-fighting-it-2024-10-25_en" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: joint-research-centre.ec.europa.eu">[Joint Research Centre]</a><span class="citation-popover" role="note"><span class="citation-popover-source">joint-research-centre.ec.europa.eu</span><span class="citation-popover-snippet">Joint Research CentreMisinformation and disinformation: both prebunking and...25 Oct 2024 — Misinformation and disinformation: both preb...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/mvzQ0WPzRSo" title="Debunking CNN&#x27;s Viral 62 Million Men Hoax" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=mvzQ0WPzRSo" target="_blank" rel="noopener noreferrer">Debunking CNN&#x27;s Viral 62 Million Men Hoax</a></p><p class="youtube-embed-meta">Channel: Taylor Lorenz &middot; Views: 148.7K &middot; Uploaded: May 2026 &middot; Length: 55 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=mvzQ0WPzRSo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=mvzQ0WPzRSo">Open on YouTube</a></p></div></div></div>
 
@@ -351,7 +351,7 @@ An important insight from misinformation research is that corrections generally 
 
 Fear of amplification can sometimes become an excuse for inaction.
 
-One reason is that the idea of a correction making things worse has often been linked to the broader “backfire effect” debate. Yet extensive reviews of the literature have found that strong backfire effects appear much rarer than early discussions suggested. Most corrections either help or have little effect; they do not usually increase belief in the misinformation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9283209/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">The backfire effect after correcting misinformation is strongly...by B Swire-Thompson · 2022 · Cited by 102 — A significant drawback...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7462781/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Searching for the Backfire Effect: Measurement and Design...by B Swire-Thompson · 2020 · Cited by 418 — A backfire effect is when peo...</span></span></span>
+One reason is that the idea of a correction making things worse has often been linked to the broader “backfire effect” debate. Yet extensive reviews of the literature have found that strong backfire effects appear much rarer than early discussions suggested. Most corrections either help or have little effect; they do not usually increase belief in the misinformation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9283209/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">The backfire effect after correcting misinformation is strongly...by B Swire-Thompson · 2022 · Cited by 102 — A significant drawback...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7462781/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Searching for the Backfire Effect: Measurement and Design...by B Swire-Thompson · 2020 · Cited by 418 — A backfire effect is when peo...</span></span></span>
 
 Another reason is that rumours rarely remain static. A claim that appears marginal today can become mainstream tomorrow if it is adopted by influential actors or connected to a breaking news event. Waiting indefinitely to avoid amplification can leave the field open for the rumour to grow without challenge.
 
@@ -381,194 +381,194 @@ The strongest responses often combine proportionality with [timing]({{ 'timing/'
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_correction_timing_c61362_correction_amplifica_32a55c-Illustration-3-dark.svg" | relative_url }}" alt="Amplification illustration 3" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_correction_timing_c61362_correction_amplifica_32a55c-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_correction_timing_c61362_correction_amplifica_32a55c-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Can a correction spread the myth further?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Can a correction spread the myth further?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Calling Bullshit on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Plu9DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Calling Bullshit" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Calling Bullshit">Calling Bullshit</a>
-        </h4>
-        <p class="fr-book-author">By Carl T. Bergstrom, Jevin D. West</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Calling Bullshit on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Plu9DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Calling Bullshit" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Calling Bullshit">Calling Bullshit</a>
+</h4>
+<p class="fr-book-author">By Carl T. Bergstrom, Jevin D. West</p>
         
-        <p class="fr-book-desc">Explains misinformation spread and evaluation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains misinformation spread and evaluation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Made+to+Stick+by+Chip+Heath&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Made to Stick on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=kW9nrgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Made to Stick" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Made+to+Stick+by+Chip+Heath&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Made to Stick">Made to Stick</a>
-        </h4>
-        <p class="fr-book-author">By Chip Heath, Dan Heath</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Made+to+Stick+by+Chip+Heath&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Made to Stick on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=kW9nrgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Made to Stick" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Made+to+Stick+by+Chip+Heath&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Made to Stick">Made to Stick</a>
+</h4>
+<p class="fr-book-author">By Chip Heath, Dan Heath</p>
         
-        <p class="fr-book-desc">Useful for understanding message transmission and recall.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Made+to+Stick+by+Chip+Heath&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful for understanding message transmission and recall.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Made+to+Stick+by+Chip+Heath&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Factfulness on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=rxg0tgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Factfulness" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Factfulness">Factfulness</a>
-        </h4>
-        <p class="fr-book-author">By Hans Rosling, Ola Rosling et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Factfulness on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=rxg0tgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Factfulness" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Factfulness">Factfulness</a>
+</h4>
+<p class="fr-book-author">By Hans Rosling, Ola Rosling et al.</p>
         
-        <p class="fr-book-desc">Demonstrates careful correction of widespread misconceptions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Demonstrates careful correction of widespread misconceptions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Foolproof+Sander+Van+Der+Linden&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Foolproof on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/13300557-M.jpg" alt="Cover for Foolproof" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Foolproof+Sander+Van+Der+Linden&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Foolproof">Foolproof</a>
-        </h4>
-        <p class="fr-book-author">By Sander Van Der Linden</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Foolproof+Sander+Van+Der+Linden&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Foolproof on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/13300557-M.jpg" alt="Cover for Foolproof" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Foolproof+Sander+Van+Der+Linden&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Foolproof">Foolproof</a>
+</h4>
+<p class="fr-book-author">By Sander Van Der Linden</p>
         
-        <p class="fr-book-desc">First published 2023.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Foolproof+Sander+Van+Der+Linden&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2023.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Foolproof+Sander+Van+Der+Linden&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Calling+Bullshit&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Calling Bullshit</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Made+to+Stick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Made to Stick</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Factfulness&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Factfulness</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Calling+Bullshit&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Calling Bullshit</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Made+to+Stick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Made to Stick</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Factfulness&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Factfulness</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=journalism+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=amplification-can-a-correction-spread-the-myth-further-myths-and-misconcept-journalism-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="journalism poster" data-ebay-reference="amplification-can-a-correction-spread-the-myth-further-myths-and-misconcept-journalism-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Journalist News Journalism Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/bd32062190389d3b0dfc.jpg' | relative_url }}" alt="Listing image for Journalist News Journalism Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=journalism+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=amplification-can-a-correction-spread-the-myth-further-myths-and-misconcept-journalism-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="journalism poster" data-ebay-reference="amplification-can-a-correction-spread-the-myth-further-myths-and-misconcept-journalism-poster" target="_blank" rel="sponsored noopener noreferrer">Journalist News Journalism Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=journalism+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=amplification-can-a-correction-spread-the-myth-further-myths-and-misconcept-journalism-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="journalism poster" data-ebay-reference="amplification-can-a-correction-spread-the-myth-further-myths-and-misconcept-journalism-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for journalism poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: journalism poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=journalism+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=amplification-can-a-correction-spread-the-myth-further-myths-and-misconcept-journalism-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="journalism poster" data-ebay-reference="amplification-can-a-correction-spread-the-myth-further-myths-and-misconcept-journalism-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=journalism+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=amplification-can-a-correction-spread-the-myth-further-myths-and-misconcept-journalism-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="journalism poster" data-ebay-reference="amplification-can-a-correction-spread-the-myth-further-myths-and-misconcept-journalism-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Journalist News Journalism Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/bd32062190389d3b0dfc.jpg' | relative_url }}" alt="Listing image for Journalist News Journalism Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=journalism+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=amplification-can-a-correction-spread-the-myth-further-myths-and-misconcept-journalism-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="journalism poster" data-ebay-reference="amplification-can-a-correction-spread-the-myth-further-myths-and-misconcept-journalism-poster" target="_blank" rel="sponsored noopener noreferrer">Journalist News Journalism Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=journalism+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=amplification-can-a-correction-spread-the-myth-further-myths-and-misconcept-journalism-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="journalism poster" data-ebay-reference="amplification-can-a-correction-spread-the-myth-further-myths-and-misconcept-journalism-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for journalism poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: journalism poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=journalism+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=amplification-can-a-correction-spread-the-myth-further-myths-and-misconcept-journalism-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="journalism poster" data-ebay-reference="amplification-can-a-correction-spread-the-myth-further-myths-and-misconcept-journalism-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=journalism+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=amplification-can-a-correction-spread-the-myth-further-myths-and-misconcept-journalism-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="journalism poster" data-ebay-reference="amplification-can-a-correction-spread-the-myth-further-myths-and-misconcept-journalism-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Journalism Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/653de9bd276f6160d54e.jpg' | relative_url }}" alt="Listing image for Journalism Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=journalism+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=amplification-can-a-correction-spread-the-myth-further-myths-and-misconcept-journalism-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="journalism poster" data-ebay-reference="amplification-can-a-correction-spread-the-myth-further-myths-and-misconcept-journalism-poster" target="_blank" rel="sponsored noopener noreferrer">Journalism Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=journalism+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=amplification-can-a-correction-spread-the-myth-further-myths-and-misconcept-journalism-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="journalism poster" data-ebay-reference="amplification-can-a-correction-spread-the-myth-further-myths-and-misconcept-journalism-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for journalism poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: journalism poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=journalism+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=amplification-can-a-correction-spread-the-myth-further-myths-and-misconcept-journalism-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="journalism poster" data-ebay-reference="amplification-can-a-correction-spread-the-myth-further-myths-and-misconcept-journalism-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=journalism+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=amplification-can-a-correction-spread-the-myth-further-myths-and-misconcept-journalism-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="journalism poster" data-ebay-reference="amplification-can-a-correction-spread-the-myth-further-myths-and-misconcept-journalism-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Journalism Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/653de9bd276f6160d54e.jpg' | relative_url }}" alt="Listing image for Journalism Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=journalism+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=amplification-can-a-correction-spread-the-myth-further-myths-and-misconcept-journalism-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="journalism poster" data-ebay-reference="amplification-can-a-correction-spread-the-myth-further-myths-and-misconcept-journalism-poster" target="_blank" rel="sponsored noopener noreferrer">Journalism Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=journalism+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=amplification-can-a-correction-spread-the-myth-further-myths-and-misconcept-journalism-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="journalism poster" data-ebay-reference="amplification-can-a-correction-spread-the-myth-further-myths-and-misconcept-journalism-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for journalism poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: journalism poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=journalism+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=amplification-can-a-correction-spread-the-myth-further-myths-and-misconcept-journalism-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="journalism poster" data-ebay-reference="amplification-can-a-correction-spread-the-myth-further-myths-and-misconcept-journalism-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=journalism+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=amplification-can-a-correction-spread-the-myth-further-myths-and-misconcept-journalism-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="journalism poster" data-ebay-reference="amplification-can-a-correction-spread-the-myth-further-myths-and-misconcept-journalism-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Journalism Definition Meaning Art P Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/2b11b4a6d0628311daa6.jpg' | relative_url }}" alt="Listing image for Journalism Definition Meaning Art P Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=journalism+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=amplification-can-a-correction-spread-the-myth-further-myths-and-misconcept-journalism-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="journalism poster" data-ebay-reference="amplification-can-a-correction-spread-the-myth-further-myths-and-misconcept-journalism-poster" target="_blank" rel="sponsored noopener noreferrer">Journalism Definition Meaning Art P Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=journalism+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=amplification-can-a-correction-spread-the-myth-further-myths-and-misconcept-journalism-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="journalism poster" data-ebay-reference="amplification-can-a-correction-spread-the-myth-further-myths-and-misconcept-journalism-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for journalism poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: journalism poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=journalism+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=amplification-can-a-correction-spread-the-myth-further-myths-and-misconcept-journalism-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="journalism poster" data-ebay-reference="amplification-can-a-correction-spread-the-myth-further-myths-and-misconcept-journalism-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=journalism+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=amplification-can-a-correction-spread-the-myth-further-myths-and-misconcept-journalism-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="journalism poster" data-ebay-reference="amplification-can-a-correction-spread-the-myth-further-myths-and-misconcept-journalism-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Journalism Definition Meaning Art P Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/2b11b4a6d0628311daa6.jpg' | relative_url }}" alt="Listing image for Journalism Definition Meaning Art P Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=journalism+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=amplification-can-a-correction-spread-the-myth-further-myths-and-misconcept-journalism-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="journalism poster" data-ebay-reference="amplification-can-a-correction-spread-the-myth-further-myths-and-misconcept-journalism-poster" target="_blank" rel="sponsored noopener noreferrer">Journalism Definition Meaning Art P Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=journalism+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=amplification-can-a-correction-spread-the-myth-further-myths-and-misconcept-journalism-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="journalism poster" data-ebay-reference="amplification-can-a-correction-spread-the-myth-further-myths-and-misconcept-journalism-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for journalism poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: journalism poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=journalism+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=amplification-can-a-correction-spread-the-myth-further-myths-and-misconcept-journalism-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="journalism poster" data-ebay-reference="amplification-can-a-correction-spread-the-myth-further-myths-and-misconcept-journalism-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=journalism+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=amplification-can-a-correction-spread-the-myth-further-myths-and-misconcept-journalism-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="journalism poster" data-ebay-reference="amplification-can-a-correction-spread-the-myth-further-myths-and-misconcept-journalism-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Journalism Definition Meaning Art P Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/de5014adfd25142455c8.jpg' | relative_url }}" alt="Listing image for Journalism Definition Meaning Art P Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=journalism+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=amplification-can-a-correction-spread-the-myth-further-myths-and-misconcept-journalism-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="journalism poster" data-ebay-reference="amplification-can-a-correction-spread-the-myth-further-myths-and-misconcept-journalism-poster" target="_blank" rel="sponsored noopener noreferrer">Journalism Definition Meaning Art P Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=journalism+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=amplification-can-a-correction-spread-the-myth-further-myths-and-misconcept-journalism-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="journalism poster" data-ebay-reference="amplification-can-a-correction-spread-the-myth-further-myths-and-misconcept-journalism-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for journalism poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: journalism poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=journalism+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=amplification-can-a-correction-spread-the-myth-further-myths-and-misconcept-journalism-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="journalism poster" data-ebay-reference="amplification-can-a-correction-spread-the-myth-further-myths-and-misconcept-journalism-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=journalism+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=amplification-can-a-correction-spread-the-myth-further-myths-and-misconcept-journalism-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="journalism poster" data-ebay-reference="amplification-can-a-correction-spread-the-myth-further-myths-and-misconcept-journalism-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=journalism+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=amplification-can-a-correction-spread-the-myth-further-myths-and-misconcept-journalism-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="journalism poster" data-ebay-reference="amplification-can-a-correction-spread-the-myth-further-myths-and-misconcept-journalism-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Journalism Definition Meaning Art P Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/de5014adfd25142455c8.jpg' | relative_url }}" alt="Listing image for Journalism Definition Meaning Art P Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=journalism+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=amplification-can-a-correction-spread-the-myth-further-myths-and-misconcept-journalism-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="journalism poster" data-ebay-reference="amplification-can-a-correction-spread-the-myth-further-myths-and-misconcept-journalism-poster" target="_blank" rel="sponsored noopener noreferrer">Journalism Definition Meaning Art P Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=journalism+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=amplification-can-a-correction-spread-the-myth-further-myths-and-misconcept-journalism-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="journalism poster" data-ebay-reference="amplification-can-a-correction-spread-the-myth-further-myths-and-misconcept-journalism-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for journalism poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: journalism poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=journalism+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=amplification-can-a-correction-spread-the-myth-further-myths-and-misconcept-journalism-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="journalism poster" data-ebay-reference="amplification-can-a-correction-spread-the-myth-further-myths-and-misconcept-journalism-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=journalism+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=amplification-can-a-correction-spread-the-myth-further-myths-and-misconcept-journalism-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="journalism poster" data-ebay-reference="amplification-can-a-correction-spread-the-myth-further-myths-and-misconcept-journalism-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -584,7 +584,7 @@ The strongest responses often combine proportionality with [timing]({{ 'timing/'
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -604,7 +604,7 @@ The strongest responses often combine proportionality with [timing]({{ 'timing/'
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -636,7 +636,7 @@ The strongest responses often combine proportionality with [timing]({{ 'timing/'
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -688,7 +688,7 @@ The strongest responses often combine proportionality with [timing]({{ 'timing/'
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -733,7 +733,7 @@ The strongest responses often combine proportionality with [timing]({{ 'timing/'
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -774,104 +774,104 @@ The strongest responses often combine proportionality with [timing]({{ 'timing/'
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9283209/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9283209/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The backfire effect after correcting misinformation is strongly...by B Swire-Thompson · 2022 · Cited by 102 — A significant drawback...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9283209/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9283209/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The backfire effect after correcting misinformation is strongly...by B Swire-Thompson · 2022 · Cited by 102 — A significant drawback...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7462781/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC7462781/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Searching for the Backfire Effect: Measurement and Design...by B Swire-Thompson · 2020 · Cited by 418 — A backfire effect is when peo...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7462781/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC7462781/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Searching for the Backfire Effect: Measurement and Design...by B Swire-Thompson · 2020 · Cited by 418 — A backfire effect is when peo...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: link.springer.com  
-   Link: <a href="https://link.springer.com/article/10.1186/s41235-020-00241-6" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1186/s41235-020-00241-6</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>corrections spread misinformation to new audiences...by UKH Ecker · 2020 · Cited by 203 — Misinformation often continues to influence in...</p></details>
+   Link:<a href="https://link.springer.com/article/10.1186/s41235-020-00241-6" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1186/s41235-020-00241-6</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>corrections spread misinformation to new audiences...by UKH Ecker · 2020 · Cited by 203 — Misinformation often continues to influence in...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2312.11678" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2312.11678</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Misinformation as a harm: structured approaches for fact-checking prioritizationDecember 18, 2023...</p></details>
+   Link:<a href="https://arxiv.org/abs/2312.11678" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2312.11678</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Misinformation as a harm: structured approaches for fact-checking prioritizationDecember 18, 2023...</p></details>
    Published: December 18, 2023  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: davidson.edu  
-   Link: <a href="https://www.davidson.edu/news/2024/10/02/research-finds-simple-corrections-can-slow-spread-misinformation-online" target="_blank" rel="noopener noreferrer nofollow">https://www.davidson.edu/news/2024/10/02/research-finds-simple-corrections-can-slow-spread-misinformation-online</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Davidson CollegeResearch Finds Simple Corrections Can Slow Spread of...Oct 2, 2024 — Research Finds Simple Corrections Can Slow Spread o...</p></details>
+   Link:<a href="https://www.davidson.edu/news/2024/10/02/research-finds-simple-corrections-can-slow-spread-misinformation-online" target="_blank" rel="noopener noreferrer nofollow">https://www.davidson.edu/news/2024/10/02/research-finds-simple-corrections-can-slow-spread-misinformation-online</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Davidson CollegeResearch Finds Simple Corrections Can Slow Spread of...Oct 2, 2024 — Research Finds Simple Corrections Can Slow Spread o...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2403.04852" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2403.04852</a>  
+   Link:<a href="https://arxiv.org/abs/2403.04852" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2403.04852</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: nature.com  
-   Link: <a href="https://www.nature.com/articles/s41562-025-02294-3" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41562-025-02294-3</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>A meta-analysis of correction effects in science-relevant...by MS Chan · 2025 — We specified changes to codes for negative misinfo...</p></details>
+   Link:<a href="https://www.nature.com/articles/s41562-025-02294-3" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41562-025-02294-3</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A meta-analysis of correction effects in science-relevant...by MS Chan · 2025 — We specified changes to codes for negative misinfo...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: nature.com  
-   Link: <a href="https://www.nature.com/articles/s44159-021-00006-y" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s44159-021-00006-y</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The psychological drivers of misinformation belief and its...by UKH Ecker · 2022 · Cited by 1892 — Misinformation has been identified as...</p></details>
+   Link:<a href="https://www.nature.com/articles/s44159-021-00006-y" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s44159-021-00006-y</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The psychological drivers of misinformation belief and its...by UKH Ecker · 2022 · Cited by 1892 — Misinformation has been identified as...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: joint-research-centre.ec.europa.eu  
-   Link: <a href="https://joint-research-centre.ec.europa.eu/jrc-news-and-updates/misinformation-and-disinformation-both-prebunking-and-debunking-work-fighting-it-2024-10-25_en" target="_blank" rel="noopener noreferrer nofollow">https://joint-research-centre.ec.europa.eu/jrc-news-and-updates/misinformation-and-disinformation-both-prebunking-and-debunking-work-fighting-it-2024-10-25_en</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Joint Research CentreMisinformation and disinformation: both prebunking and...25 Oct 2024 — Misinformation and disinformation: both preb...</p></details>
+   Link:<a href="https://joint-research-centre.ec.europa.eu/jrc-news-and-updates/misinformation-and-disinformation-both-prebunking-and-debunking-work-fighting-it-2024-10-25_en" target="_blank" rel="noopener noreferrer nofollow">https://joint-research-centre.ec.europa.eu/jrc-news-and-updates/misinformation-and-disinformation-both-prebunking-and-debunking-work-fighting-it-2024-10-25_en</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Joint Research CentreMisinformation and disinformation: both prebunking and...25 Oct 2024 — Misinformation and disinformation: both preb...</p></details>
 
 ### Additional References
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: climatechangecommunication.org  
-   Link: <a href="https://www.climatechangecommunication.org/wp-content/uploads/2023/09/DebunkingHandbook2020.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.climatechangecommunication.org/wp-content/uploads/2023/09/DebunkingHandbook2020.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Debunking HandbookMisinformation is false information that is spread either by mistake or with [intent](&amp;#123;&amp;#123; &#x27;intent/&#x27; | relative_url &amp;#125;&amp;#125;) to mislead. When there is intent to...</p></details>
+   Link:<a href="https://www.climatechangecommunication.org/wp-content/uploads/2023/09/DebunkingHandbook2020.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.climatechangecommunication.org/wp-content/uploads/2023/09/DebunkingHandbook2020.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Debunking HandbookMisinformation is false information that is spread either by mistake or with [intent](&amp;#123;&amp;#123; &#x27;intent/&#x27; | relative_url &amp;#125;&amp;#125;) to mislead. When there is intent to...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: misinforeview.hks.harvard.edu  
-   Link: <a href="https://misinforeview.hks.harvard.edu/article/correcting-campaign-misinformation-experimental-evidence-from-a-two-wave-panel-study/" target="_blank" rel="noopener noreferrer nofollow">https://misinforeview.hks.harvard.edu/article/correcting-campaign-misinformation-experimental-evidence-from-a-two-wave-panel-study/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>evidence from a two-wave panel studyby L Horvath · 2024 · Cited by 1 — The fact check itself, featuring both an explanatory text and a gr...</p></details>
+   Link:<a href="https://misinforeview.hks.harvard.edu/article/correcting-campaign-misinformation-experimental-evidence-from-a-two-wave-panel-study/" target="_blank" rel="noopener noreferrer nofollow">https://misinforeview.hks.harvard.edu/article/correcting-campaign-misinformation-experimental-evidence-from-a-two-wave-panel-study/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>evidence from a two-wave panel studyby L Horvath · 2024 · Cited by 1 — The fact check itself, featuring both an explanatory text and a gr...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: kff.org  
-   Link: <a href="https://www.kff.org/health-information-trust/from-margins-to-mainstream-how-amplification-may-be-giving-misinformation-new-reach/" target="_blank" rel="noopener noreferrer nofollow">https://www.kff.org/health-information-trust/from-margins-to-mainstream-how-amplification-may-be-giving-misinformation-new-reach/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How Amplification May Be Giving Misinformation New ReachOct 9, 2025 — Efforts to correct misinformation can unintentionally amplify it by...</p></details>
+   Link:<a href="https://www.kff.org/health-information-trust/from-margins-to-mainstream-how-amplification-may-be-giving-misinformation-new-reach/" target="_blank" rel="noopener noreferrer nofollow">https://www.kff.org/health-information-trust/from-margins-to-mainstream-how-amplification-may-be-giving-misinformation-new-reach/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How Amplification May Be Giving Misinformation New ReachOct 9, 2025 — Efforts to correct misinformation can unintentionally amplify it by...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: research-information.bris.ac.uk  
    Title: can corrections spread misinformation to new audiences testing fo  
-   Link: <a href="https://research-information.bris.ac.uk/en/publications/can-corrections-spread-misinformation-to-new-audiences-testing-fo/" target="_blank" rel="noopener noreferrer nofollow">https://research-information.bris.ac.uk/en/publications/can-corrections-spread-misinformation-to-new-audiences-testing-fo/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>corrections spread misinformation to new audiences...by UKH Ecker · 2020 · Cited by 202 — Misinformation often continues to influence in...</p></details>
+   Link:<a href="https://research-information.bris.ac.uk/en/publications/can-corrections-spread-misinformation-to-new-audiences-testing-fo/" target="_blank" rel="noopener noreferrer nofollow">https://research-information.bris.ac.uk/en/publications/can-corrections-spread-misinformation-to-new-audiences-testing-fo/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>corrections spread misinformation to new audiences...by UKH Ecker · 2020 · Cited by 202 — Misinformation often continues to influence in...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: firstdraftnews.org  
    Title: the psychology of misinformation why its so hard to correct  
-   Link: <a href="https://firstdraftnews.org/articles/the-psychology-of-misinformation-why-its-so-hard-to-correct/" target="_blank" rel="noopener noreferrer nofollow">https://firstdraftnews.org/articles/the-psychology-of-misinformation-why-its-so-hard-to-correct/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>disinformation, information disorder, misinformation, visual misinformation. Why does our psychology make misinformation so hard to corre...</p></details>
+   Link:<a href="https://firstdraftnews.org/articles/the-psychology-of-misinformation-why-its-so-hard-to-correct/" target="_blank" rel="noopener noreferrer nofollow">https://firstdraftnews.org/articles/the-psychology-of-misinformation-why-its-so-hard-to-correct/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>disinformation, information disorder, misinformation, visual misinformation. Why does our psychology make misinformation so hard to corre...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: impact.stanford.edu  
    Title: you know its [fake news](&#123;&#123; 'fake-news/' | relative_url &#125;&#125;) it still affects what you believe  
-   Link: <a href="https://impact.stanford.edu/article/you-know-its-fake-news-it-still-affects-what-you-believe" target="_blank" rel="noopener noreferrer nofollow">https://impact.stanford.edu/article/you-know-its-fake-news-it-still-affects-what-you-believe</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Know It&#x27;s Fake News; It Still Affects What You BelieveJun 30, 2022 — My research addresses whether misinformation we already recognize as...</p></details>
+   Link:<a href="https://impact.stanford.edu/article/you-know-its-fake-news-it-still-affects-what-you-believe" target="_blank" rel="noopener noreferrer nofollow">https://impact.stanford.edu/article/you-know-its-fake-news-it-still-affects-what-you-believe</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Know It&#x27;s Fake News; It Still Affects What You BelieveJun 30, 2022 — My research addresses whether misinformation we already recognize as...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: lindau-nobel.org  
-   Link: <a href="https://www.lindau-nobel.org/blog-fact-checking-an-effective-weapon-against-misinformation/" target="_blank" rel="noopener noreferrer nofollow">https://www.lindau-nobel.org/blog-fact-checking-an-effective-weapon-against-misinformation/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Fact-Checking – An Effective Weapon Against...4 May 2018 — As independent checks, they are a way to tackle misinformation...</p></details>
+   Link:<a href="https://www.lindau-nobel.org/blog-fact-checking-an-effective-weapon-against-misinformation/" target="_blank" rel="noopener noreferrer nofollow">https://www.lindau-nobel.org/blog-fact-checking-an-effective-weapon-against-misinformation/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Fact-Checking – An Effective Weapon Against...4 May 2018 — As independent checks, they are a way to tackle misinformation...</p></details>
    Published: May 2018  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: lse.ac.uk  
-   Link: <a href="https://www.lse.ac.uk/granthaminstitute/wp-content/uploads/2018/04/Bob-Ward-Debunking-myths-EGU-April-2018.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.lse.ac.uk/granthaminstitute/wp-content/uploads/2018/04/Bob-Ward-Debunking-myths-EGU-April-2018.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>3. Identify the most important part of the myth or fake news.Read more...</p></details>
+   Link:<a href="https://www.lse.ac.uk/granthaminstitute/wp-content/uploads/2018/04/Bob-Ward-Debunking-myths-EGU-April-2018.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.lse.ac.uk/granthaminstitute/wp-content/uploads/2018/04/Bob-Ward-Debunking-myths-EGU-April-2018.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>3. Identify the most important part of the myth or fake news.Read more...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: researchbriefings.files.parliament.uk  
-   Link: <a href="https://researchbriefings.files.parliament.uk/documents/POST-PN-0719/POST-PN-0719.pdf" target="_blank" rel="noopener noreferrer nofollow">https://researchbriefings.files.parliament.uk/documents/POST-PN-0719/POST-PN-0719.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>parliament.ukDisinformation: sources, spread and impact25 Apr 2024 — Content can be created as disinformation and unknowingly shared as m...</p></details>
+   Link:<a href="https://researchbriefings.files.parliament.uk/documents/POST-PN-0719/POST-PN-0719.pdf" target="_blank" rel="noopener noreferrer nofollow">https://researchbriefings.files.parliament.uk/documents/POST-PN-0719/POST-PN-0719.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>parliament.ukDisinformation: sources, spread and impact25 Apr 2024 — Content can be created as disinformation and unknowingly shared as m...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: normalcurves.com  
    Title: the backfire effect can fact checking make false beliefs stronger  
-   Link: <a href="https://www.normalcurves.com/the-backfire-effect-can-fact-checking-make-false-beliefs-stronger/" target="_blank" rel="noopener noreferrer nofollow">https://www.normalcurves.com/the-backfire-effect-can-fact-checking-make-false-beliefs-stronger/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The “backfire effect” claims that debunking myths can actually make false beliefs stronger.Read more...</p></details>
+   Link:<a href="https://www.normalcurves.com/the-backfire-effect-can-fact-checking-make-false-beliefs-stronger/" target="_blank" rel="noopener noreferrer nofollow">https://www.normalcurves.com/the-backfire-effect-can-fact-checking-make-false-beliefs-stronger/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The “backfire effect” claims that debunking myths can actually make false beliefs stronger.Read more...</p></details>

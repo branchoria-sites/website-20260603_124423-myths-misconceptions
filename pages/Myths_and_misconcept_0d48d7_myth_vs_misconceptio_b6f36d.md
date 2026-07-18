@@ -501,18 +501,18 @@ image: /assets/images/Myths_and_misconcept_0d48d7_myth_vs_misconceptio_b6f36d-ov
 
 ## Introduction
 
-People often use the words “myth” and “misconception” as if they mean the same thing. In everyday language, both describe beliefs that are wrong or unsupported. Yet the distinction matters. A myth is usually a widely repeated story, claim or piece of conventional wisdom that circulates through a culture, community or social network. A misconception is a mistaken understanding held by an individual or group, often arising from incomplete knowledge, oversimplified explanations or faulty [mental models]({{ 'mental-models/' | relative_url }}). <span class="citation-chip-wrap"><a class="citation-chip" href="https://thechat.scot/wp-content/uploads/2024/10/7.-myth_misconception_misinformation_disinformation-2024.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thechat.scot">[theChat.scot]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thechat.scot</span><span class="citation-popover-title">the Chat.scot Spotlight issue</span><span class="citation-popover-snippet">Myth: A widely heard but false belief or idea. We can share examples of what might be...Read more...</span></span></span>
+People often use the words “myth” and “misconception” as if they mean the same thing. In everyday language, both describe beliefs that are wrong or unsupported. Yet the distinction matters. A myth is usually a widely repeated story, claim or piece of conventional wisdom that circulates through a culture, community or social network. A misconception is a mistaken understanding held by an individual or group, often arising from incomplete knowledge, oversimplified explanations or faulty [mental models]({{ 'mental-models/' | relative_url }}).<span class="citation-chip-wrap"><a class="citation-chip" href="https://thechat.scot/wp-content/uploads/2024/10/7.-myth_misconception_misinformation_disinformation-2024.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thechat.scot">[theChat.scot]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thechat.scot</span><span class="citation-popover-title">the Chat.scot Spotlight issue</span><span class="citation-popover-snippet">Myth: A widely heard but false belief or idea. We can share examples of what might be...Read more...</span></span></span>
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_myth_vs_misconceptio_b6f36d-overview.webp" | relative_url }}" alt="Overview image for Key Terms" loading="eager" decoding="sync" fetchpriority="high">
-The difference is not merely semantic. Calling something a myth highlights its social life: it spreads because people repeat it. Calling something a misconception highlights a problem in understanding: people believe it because it seems to explain how something works. Those differences affect how false beliefs develop, why they persist and how they can be corrected. Researchers and communication organisations increasingly stress the importance of distinguishing different kinds of false belief rather than treating every error as the same phenomenon. UNESCO <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.apa.org/topics/journalism-facts/misinformation-disinformation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apa.org">[American Psychological Association]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apa.org</span><span class="citation-popover-snippet">Misinformation and disinformationMisinformation is false or inaccurate information—getting the facts wrong. Disinformation is false infor...</span></span></span>
+The difference is not merely semantic. Calling something a myth highlights its social life: it spreads because people repeat it. Calling something a misconception highlights a problem in understanding: people believe it because it seems to explain how something works. Those differences affect how false beliefs develop, why they persist and how they can be corrected. Researchers and communication organisations increasingly stress the importance of distinguishing different kinds of false belief rather than treating every error as the same phenomenon. UNESCO<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.apa.org/topics/journalism-facts/misinformation-disinformation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apa.org">[American Psychological Association]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apa.org</span><span class="citation-popover-snippet">Misinformation and disinformationMisinformation is false or inaccurate information—getting the facts wrong. Disinformation is false infor...</span></span></span>
 
 ## Widely Repeated Stories
 
 A myth is often best understood as a shared narrative. In everyday conversation, myths are not limited to ancient legends. They can include common sayings, popular “facts”, [health claims]({{ 'health-claims/' | relative_url }}), historical stories or cultural assumptions that are repeated so often that many people stop questioning them.
 
-For example, claims such as “people only use 10 per cent of their brains” or “goldfish have a three-second [memory]({{ 'memory/' | relative_url }})” became famous largely because they were memorable and easy to repeat. Their persistence depended less on careful evidence than on cultural circulation. A myth gains strength through [repetition]({{ 'repetition/' | relative_url }}), familiarity and social endorsement. The more often people encounter a claim, the more natural and believable it can feel. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/List_of_common_misconceptions" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">List of common misconceptionsCommon misconceptions are widely accepted viewpoints or factoids that are actually false. They often arise f...</span></span></span>
+For example, claims such as “people only use 10 per cent of their brains” or “goldfish have a three-second [memory]({{ 'memory/' | relative_url }})” became famous largely because they were memorable and easy to repeat. Their persistence depended less on careful evidence than on cultural circulation. A myth gains strength through [repetition]({{ 'repetition/' | relative_url }}), familiarity and social endorsement. The more often people encounter a claim, the more natural and believable it can feel.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/List_of_common_misconceptions" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">List of common misconceptionsCommon misconceptions are widely accepted viewpoints or factoids that are actually false. They often arise f...</span></span></span>
 
-Historically, the word “myth” has had multiple meanings. In academic studies of religion and culture, myths can be meaningful traditional stories regardless of whether they are literally true. In everyday language, however, “myth” usually signals a false but widely accepted belief. This popular usage explains why newspapers, educators and fact-checkers often publish “myth versus reality” features. The focus is on challenging a socially shared story rather than correcting one person's misunderstanding. <span class="citation-chip-wrap"><a class="citation-chip" href="https://thechat.scot/wp-content/uploads/2024/10/7.-myth_misconception_misinformation_disinformation-2024.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thechat.scot">[theChat.scot]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thechat.scot</span><span class="citation-popover-title">the Chat.scot Spotlight issue</span><span class="citation-popover-snippet">Myth: A widely heard but false belief or idea. We can share examples of what might be...Read more...</span></span></span>
+Historically, the word “myth” has had multiple meanings. In academic studies of religion and culture, myths can be meaningful traditional stories regardless of whether they are literally true. In everyday language, however, “myth” usually signals a false but widely accepted belief. This popular usage explains why newspapers, educators and fact-checkers often publish “myth versus reality” features. The focus is on challenging a socially shared story rather than correcting one person's misunderstanding.<span class="citation-chip-wrap"><a class="citation-chip" href="https://thechat.scot/wp-content/uploads/2024/10/7.-myth_misconception_misinformation_disinformation-2024.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thechat.scot">[theChat.scot]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thechat.scot</span><span class="citation-popover-title">the Chat.scot Spotlight issue</span><span class="citation-popover-snippet">Myth: A widely heard but false belief or idea. We can share examples of what might be...Read more...</span></span></span>
 
 A useful test is to ask whether the belief exists mainly because many people have heard and repeated it. If so, it is often functioning as a myth.
 
@@ -522,7 +522,7 @@ A misconception works differently. It is usually a mistaken explanation or menta
 
 People develop misconceptions when they try to make sense of the world using incomplete information, misleading [analogies]({{ 'analogies/' | relative_url }}) or everyday experience. A child might think that seasons happen because Earth moves closer to and farther from the Sun. An adult might assume that heavier objects fall faster than lighter ones. These beliefs are understandable because they seem to fit ordinary observation, even though they are incorrect. The problem is not primarily repetition but interpretation.
 
-In education research, misconceptions are often treated as coherent but flawed ways of understanding a topic. Learners are not simply missing information. They may have built an explanation that appears logical from their perspective. Because the misconception performs explanatory work, replacing it can be difficult. Simply presenting a correct fact does not always change the underlying model. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/26173286/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Misinformation and Its Correction: Continued Influence and...by S Lewandowsky · 2012 · Cited by 4641 — We first examine the mechan...</span></span></span>
+In education research, misconceptions are often treated as coherent but flawed ways of understanding a topic. Learners are not simply missing information. They may have built an explanation that appears logical from their perspective. Because the misconception performs explanatory work, replacing it can be difficult. Simply presenting a correct fact does not always change the underlying model.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/26173286/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Misinformation and Its Correction: Continued Influence and...by S Lewandowsky · 2012 · Cited by 4641 — We first examine the mechan...</span></span></span>
 
 This is why misconceptions frequently survive formal teaching. Someone may memorise a correct answer for an exam while still relying on an older, intuitive explanation in everyday reasoning. The misconception remains available because it continues to feel meaningful.
 
@@ -534,7 +534,7 @@ Several features make misconceptions especially persistent:
 * **They fit everyday experience.** People trust what they think they observe directly.
 * **They simplify complexity.** A simple explanation can feel more satisfying than a nuanced one.
 * **They fill gaps in knowledge.** Humans prefer having an explanation to having none at all.
-* **They connect with existing beliefs.** New information is often interpreted through older assumptions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8447889/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCThe role of discomfort in the continued influence effect</span><span class="citation-popover-snippet">by MW Susmann · 2021 · Cited by 90 — Research examining the continued influence effect (CIE) of misinformation has reliably found that...</span></span></span>
+* **They connect with existing beliefs.** New information is often interpreted through older assumptions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8447889/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCThe role of discomfort in the continued influence effect</span><span class="citation-popover-snippet">by MW Susmann · 2021 · Cited by 90 — Research examining the continued influence effect (CIE) of misinformation has reliably found that...</span></span></span>
 
 Unlike myths, misconceptions do not necessarily require widespread social circulation. A person can develop one independently.
 
@@ -559,7 +559,7 @@ Calling something a myth often suggests that the problem lies in repetition and 
 
 Calling something a misconception suggests that the problem lies in understanding. Corrections then focus on explanation, teaching and helping people rebuild their mental models.
 
-Research on misinformation repeatedly finds that corrections work better when they provide an alternative explanation rather than simply declaring a claim false. People rely on explanations to organise their understanding of events. Removing a belief without replacing it can leave a gap that the original claim continues to fill. This phenomenon is known as the continued influence effect. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/26173286/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Misinformation and Its Correction: Continued Influence and...by S Lewandowsky · 2012 · Cited by 4641 — We first examine the mechan...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8627545/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCExploring factors that mitigate the continued influence</span><span class="citation-popover-snippet">by IP Kan · 2021 · Cited by 27 — The term “continued influence effect” (CIE) refers to the phenomenon that discredited and obsolete in...</span></span></span>
+Research on misinformation repeatedly finds that corrections work better when they provide an alternative explanation rather than simply declaring a claim false. People rely on explanations to organise their understanding of events. Removing a belief without replacing it can leave a gap that the original claim continues to fill. This phenomenon is known as the continued influence effect.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/26173286/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Misinformation and Its Correction: Continued Influence and...by S Lewandowsky · 2012 · Cited by 4641 — We first examine the mechan...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8627545/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCExploring factors that mitigate the continued influence</span><span class="citation-popover-snippet">by IP Kan · 2021 · Cited by 27 — The term “continued influence effect” (CIE) refers to the phenomenon that discredited and obsolete in...</span></span></span>
 
 For myths, communicators often need to address familiarity and repetition. For misconceptions, they often need to address reasoning and explanation. The difference affects educational strategies, public-health campaigns and science communication.
 
@@ -567,7 +567,7 @@ For myths, communicators often need to address familiarity and repetition. For m
 
 When every false belief is treated as a myth, communicators may underestimate the role of sincere misunderstanding. When every false belief is treated as a misconception, they may overlook the power of social repetition and cultural narratives.
 
-Modern discussions of misinformation and disinformation have reinforced this point. Major organisations distinguish between inaccurate information shared by mistake and false information spread deliberately to mislead. Intent matters in those categories. Similarly, understanding whether a belief is primarily a myth or a misconception helps identify the most effective response. UNESCO <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.apa.org/topics/journalism-facts/misinformation-disinformation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apa.org">[American Psychological Association]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apa.org</span><span class="citation-popover-snippet">Misinformation and disinformationMisinformation is false or inaccurate information—getting the facts wrong. Disinformation is false infor...</span></span></span>
+Modern discussions of misinformation and disinformation have reinforced this point. Major organisations distinguish between inaccurate information shared by mistake and false information spread deliberately to mislead. Intent matters in those categories. Similarly, understanding whether a belief is primarily a myth or a misconception helps identify the most effective response. UNESCO<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.apa.org/topics/journalism-facts/misinformation-disinformation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apa.org">[American Psychological Association]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apa.org</span><span class="citation-popover-snippet">Misinformation and disinformationMisinformation is false or inaccurate information—getting the facts wrong. Disinformation is false infor...</span></span></span>
 
 A person repeating a popular myth may need evidence that challenges a familiar story. A person holding a misconception may need a better explanatory model. Treating those situations as identical can make correction less effective.
 
@@ -587,194 +587,194 @@ In everyday language, a simple set of questions can help distinguish the terms:
 The distinction is not about judging people more harshly or more generously. It is about understanding the source of the error. Myths spread through communities. Misconceptions develop through understanding. Both can be sincere, both can be influential, and both can survive correction. But recognising the difference provides a clearer way to talk about false beliefs and a better foundation for addressing them.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Myth or Misconception What Is the Difference?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Myth or Misconception What Is the Difference?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Skeptics&#x27; Guide to the Universe on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CuVKDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Skeptics&#x27; Guide to the Universe" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Skeptics&#x27; Guide to the Universe">The Skeptics&#x27; Guide to the Universe</a>
-        </h4>
-        <p class="fr-book-author">By Dr. Steven Novella</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Skeptics&#x27; Guide to the Universe on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CuVKDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Skeptics&#x27; Guide to the Universe" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Skeptics&#x27; Guide to the Universe">The Skeptics&#x27; Guide to the Universe</a>
+</h4>
+<p class="fr-book-author">By Dr. Steven Novella</p>
         
-        <p class="fr-book-desc">Addresses myths, misconceptions, and how false beliefs spread.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Addresses myths, misconceptions, and how false beliefs spread.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Factfulness on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=rxg0tgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Factfulness" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Factfulness">Factfulness</a>
-        </h4>
-        <p class="fr-book-author">By Hans Rosling, Ola Rosling et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Factfulness on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=rxg0tgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Factfulness" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Factfulness">Factfulness</a>
+</h4>
+<p class="fr-book-author">By Hans Rosling, Ola Rosling et al.</p>
         
-        <p class="fr-book-desc">Built around correcting common misconceptions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Built around correcting common misconceptions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Invisible+Gorilla+by+Christopher+Chabris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Invisible Gorilla on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=VecEbBYC_sEC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Invisible Gorilla" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Invisible+Gorilla+by+Christopher+Chabris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Invisible Gorilla">The Invisible Gorilla</a>
-        </h4>
-        <p class="fr-book-author">By Christopher Chabris, Daniel Simons</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Invisible+Gorilla+by+Christopher+Chabris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Invisible Gorilla on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=VecEbBYC_sEC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Invisible Gorilla" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Invisible+Gorilla+by+Christopher+Chabris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Invisible Gorilla">The Invisible Gorilla</a>
+</h4>
+<p class="fr-book-author">By Christopher Chabris, Daniel Simons</p>
         
-        <p class="fr-book-desc">Explains why intuitive beliefs can be wrong.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Invisible+Gorilla+by+Christopher+Chabris&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains why intuitive beliefs can be wrong.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Invisible+Gorilla+by+Christopher+Chabris&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YGPzXWanppcC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
-        </h4>
-        <p class="fr-book-author">By Daniel Kahneman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YGPzXWanppcC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
+</h4>
+<p class="fr-book-author">By Daniel Kahneman</p>
         
-        <p class="fr-book-desc">Explains cognitive mechanisms behind misconceptions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains cognitive mechanisms behind misconceptions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Skeptics%27+to+the+Universe+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Skeptics&#x27; to the Universe books</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Factfulness&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Factfulness</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Invisible+Gorilla&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Invisible Gorilla</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Skeptics%27+to+the+Universe+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Skeptics&#x27; to the Universe books</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Factfulness&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Factfulness</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Invisible+Gorilla&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Invisible Gorilla</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+office+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=key-terms-myth-or-misconception-what-is-the-difference-myths-and-misconcept-medical-office-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical office sign" data-ebay-reference="key-terms-myth-or-misconception-what-is-the-difference-myths-and-misconcept-medical-office-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Classroom College School Metal Signs Plaques Door Wall Toilet Staff Office Sign"><img src="{{ '/assets/images/marketplace-covers/bae486fe622c23aaa4c2.jpg' | relative_url }}" alt="Listing image for Classroom College School Metal Signs Plaques Door Wall Toilet Staff Office Sign" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+office+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=key-terms-myth-or-misconception-what-is-the-difference-myths-and-misconcept-medical-office-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical office sign" data-ebay-reference="key-terms-myth-or-misconception-what-is-the-difference-myths-and-misconcept-medical-office-sign" target="_blank" rel="sponsored noopener noreferrer">Classroom College School Metal Signs Plaques Door Wall Toilet Staff Office Sign</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+office+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=key-terms-myth-or-misconception-what-is-the-difference-myths-and-misconcept-medical-office-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical office sign" data-ebay-reference="key-terms-myth-or-misconception-what-is-the-difference-myths-and-misconcept-medical-office-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for medical office sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: medical office sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+office+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=key-terms-myth-or-misconception-what-is-the-difference-myths-and-misconcept-medical-office-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical office sign" data-ebay-reference="key-terms-myth-or-misconception-what-is-the-difference-myths-and-misconcept-medical-office-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+office+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=key-terms-myth-or-misconception-what-is-the-difference-myths-and-misconcept-medical-office-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical office sign" data-ebay-reference="key-terms-myth-or-misconception-what-is-the-difference-myths-and-misconcept-medical-office-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Classroom College School Metal Signs Plaques Door Wall Toilet Staff Office Sign"><img src="{{ '/assets/images/marketplace-covers/bae486fe622c23aaa4c2.jpg' | relative_url }}" alt="Listing image for Classroom College School Metal Signs Plaques Door Wall Toilet Staff Office Sign" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+office+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=key-terms-myth-or-misconception-what-is-the-difference-myths-and-misconcept-medical-office-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical office sign" data-ebay-reference="key-terms-myth-or-misconception-what-is-the-difference-myths-and-misconcept-medical-office-sign" target="_blank" rel="sponsored noopener noreferrer">Classroom College School Metal Signs Plaques Door Wall Toilet Staff Office Sign</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+office+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=key-terms-myth-or-misconception-what-is-the-difference-myths-and-misconcept-medical-office-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical office sign" data-ebay-reference="key-terms-myth-or-misconception-what-is-the-difference-myths-and-misconcept-medical-office-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for medical office sign">Search<span data-ebay-domain-label>eBay.co.uk</span>: medical office sign</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+office+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=key-terms-myth-or-misconception-what-is-the-difference-myths-and-misconcept-medical-office-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical office sign" data-ebay-reference="key-terms-myth-or-misconception-what-is-the-difference-myths-and-misconcept-medical-office-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+office+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=key-terms-myth-or-misconception-what-is-the-difference-myths-and-misconcept-medical-office-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical office sign" data-ebay-reference="key-terms-myth-or-misconception-what-is-the-difference-myths-and-misconcept-medical-office-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Medical Office Patient Sign In Forms 3 Part Carbonless Green 625 Sheets"><img src="{{ '/assets/images/marketplace-covers/28873a7e18a632e03a16.jpg' | relative_url }}" alt="Listing image for Medical Office Patient Sign In Forms 3 Part Carbonless Green 625 Sheets" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+office+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=key-terms-myth-or-misconception-what-is-the-difference-myths-and-misconcept-medical-office-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical office sign" data-ebay-reference="key-terms-myth-or-misconception-what-is-the-difference-myths-and-misconcept-medical-office-sign" target="_blank" rel="sponsored noopener noreferrer">Medical Office Patient Sign In Forms 3 Part Carbonless Green 625 Sheets</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+office+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=key-terms-myth-or-misconception-what-is-the-difference-myths-and-misconcept-medical-office-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical office sign" data-ebay-reference="key-terms-myth-or-misconception-what-is-the-difference-myths-and-misconcept-medical-office-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for medical office sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: medical office sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+office+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=key-terms-myth-or-misconception-what-is-the-difference-myths-and-misconcept-medical-office-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical office sign" data-ebay-reference="key-terms-myth-or-misconception-what-is-the-difference-myths-and-misconcept-medical-office-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+office+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=key-terms-myth-or-misconception-what-is-the-difference-myths-and-misconcept-medical-office-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical office sign" data-ebay-reference="key-terms-myth-or-misconception-what-is-the-difference-myths-and-misconcept-medical-office-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Medical Office Patient Sign In Forms 3 Part Carbonless Green 625 Sheets"><img src="{{ '/assets/images/marketplace-covers/28873a7e18a632e03a16.jpg' | relative_url }}" alt="Listing image for Medical Office Patient Sign In Forms 3 Part Carbonless Green 625 Sheets" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+office+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=key-terms-myth-or-misconception-what-is-the-difference-myths-and-misconcept-medical-office-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical office sign" data-ebay-reference="key-terms-myth-or-misconception-what-is-the-difference-myths-and-misconcept-medical-office-sign" target="_blank" rel="sponsored noopener noreferrer">Medical Office Patient Sign In Forms 3 Part Carbonless Green 625 Sheets</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+office+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=key-terms-myth-or-misconception-what-is-the-difference-myths-and-misconcept-medical-office-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical office sign" data-ebay-reference="key-terms-myth-or-misconception-what-is-the-difference-myths-and-misconcept-medical-office-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for medical office sign">Search<span data-ebay-domain-label>eBay.co.uk</span>: medical office sign</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+office+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=key-terms-myth-or-misconception-what-is-the-difference-myths-and-misconcept-medical-office-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical office sign" data-ebay-reference="key-terms-myth-or-misconception-what-is-the-difference-myths-and-misconcept-medical-office-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+office+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=key-terms-myth-or-misconception-what-is-the-difference-myths-and-misconcept-medical-office-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical office sign" data-ebay-reference="key-terms-myth-or-misconception-what-is-the-difference-myths-and-misconcept-medical-office-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Medical Clinic Office Entrance OSHA Notice Sign Metal Plastic Decal"><img src="{{ '/assets/images/marketplace-covers/38df156597aa805a48d8.jpg' | relative_url }}" alt="Listing image for Medical Clinic Office Entrance OSHA Notice Sign Metal Plastic Decal" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+office+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=key-terms-myth-or-misconception-what-is-the-difference-myths-and-misconcept-medical-office-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical office sign" data-ebay-reference="key-terms-myth-or-misconception-what-is-the-difference-myths-and-misconcept-medical-office-sign" target="_blank" rel="sponsored noopener noreferrer">Medical Clinic Office Entrance OSHA Notice Sign Metal Plastic Decal</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+office+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=key-terms-myth-or-misconception-what-is-the-difference-myths-and-misconcept-medical-office-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical office sign" data-ebay-reference="key-terms-myth-or-misconception-what-is-the-difference-myths-and-misconcept-medical-office-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for medical office sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: medical office sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+office+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=key-terms-myth-or-misconception-what-is-the-difference-myths-and-misconcept-medical-office-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical office sign" data-ebay-reference="key-terms-myth-or-misconception-what-is-the-difference-myths-and-misconcept-medical-office-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+office+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=key-terms-myth-or-misconception-what-is-the-difference-myths-and-misconcept-medical-office-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical office sign" data-ebay-reference="key-terms-myth-or-misconception-what-is-the-difference-myths-and-misconcept-medical-office-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Medical Clinic Office Entrance OSHA Notice Sign Metal Plastic Decal"><img src="{{ '/assets/images/marketplace-covers/38df156597aa805a48d8.jpg' | relative_url }}" alt="Listing image for Medical Clinic Office Entrance OSHA Notice Sign Metal Plastic Decal" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+office+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=key-terms-myth-or-misconception-what-is-the-difference-myths-and-misconcept-medical-office-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical office sign" data-ebay-reference="key-terms-myth-or-misconception-what-is-the-difference-myths-and-misconcept-medical-office-sign" target="_blank" rel="sponsored noopener noreferrer">Medical Clinic Office Entrance OSHA Notice Sign Metal Plastic Decal</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+office+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=key-terms-myth-or-misconception-what-is-the-difference-myths-and-misconcept-medical-office-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical office sign" data-ebay-reference="key-terms-myth-or-misconception-what-is-the-difference-myths-and-misconcept-medical-office-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for medical office sign">Search<span data-ebay-domain-label>eBay.co.uk</span>: medical office sign</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+office+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=key-terms-myth-or-misconception-what-is-the-difference-myths-and-misconcept-medical-office-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical office sign" data-ebay-reference="key-terms-myth-or-misconception-what-is-the-difference-myths-and-misconcept-medical-office-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+office+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=key-terms-myth-or-misconception-what-is-the-difference-myths-and-misconcept-medical-office-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical office sign" data-ebay-reference="key-terms-myth-or-misconception-what-is-the-difference-myths-and-misconcept-medical-office-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Cardiologist Medical Sign Plaque 1997 Vintage 3D Heart D&amp;S Decor Large"><img src="{{ '/assets/images/marketplace-covers/6ebaac7ee69f56139a3e.jpg' | relative_url }}" alt="Listing image for Cardiologist Medical Sign Plaque 1997 Vintage 3D Heart D&amp;S Decor Large" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+office+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=key-terms-myth-or-misconception-what-is-the-difference-myths-and-misconcept-medical-office-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical office sign" data-ebay-reference="key-terms-myth-or-misconception-what-is-the-difference-myths-and-misconcept-medical-office-sign" target="_blank" rel="sponsored noopener noreferrer">Cardiologist Medical Sign Plaque 1997 Vintage 3D Heart D&amp;S Decor Large</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+office+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=key-terms-myth-or-misconception-what-is-the-difference-myths-and-misconcept-medical-office-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical office sign" data-ebay-reference="key-terms-myth-or-misconception-what-is-the-difference-myths-and-misconcept-medical-office-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for medical office sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: medical office sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+office+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=key-terms-myth-or-misconception-what-is-the-difference-myths-and-misconcept-medical-office-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical office sign" data-ebay-reference="key-terms-myth-or-misconception-what-is-the-difference-myths-and-misconcept-medical-office-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+office+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=key-terms-myth-or-misconception-what-is-the-difference-myths-and-misconcept-medical-office-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical office sign" data-ebay-reference="key-terms-myth-or-misconception-what-is-the-difference-myths-and-misconcept-medical-office-sign" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+office+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=key-terms-myth-or-misconception-what-is-the-difference-myths-and-misconcept-medical-office-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical office sign" data-ebay-reference="key-terms-myth-or-misconception-what-is-the-difference-myths-and-misconcept-medical-office-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Cardiologist Medical Sign Plaque 1997 Vintage 3D Heart D&amp;S Decor Large"><img src="{{ '/assets/images/marketplace-covers/6ebaac7ee69f56139a3e.jpg' | relative_url }}" alt="Listing image for Cardiologist Medical Sign Plaque 1997 Vintage 3D Heart D&amp;S Decor Large" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+office+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=key-terms-myth-or-misconception-what-is-the-difference-myths-and-misconcept-medical-office-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical office sign" data-ebay-reference="key-terms-myth-or-misconception-what-is-the-difference-myths-and-misconcept-medical-office-sign" target="_blank" rel="sponsored noopener noreferrer">Cardiologist Medical Sign Plaque 1997 Vintage 3D Heart D&amp;S Decor Large</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+office+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=key-terms-myth-or-misconception-what-is-the-difference-myths-and-misconcept-medical-office-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical office sign" data-ebay-reference="key-terms-myth-or-misconception-what-is-the-difference-myths-and-misconcept-medical-office-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for medical office sign">Search<span data-ebay-domain-label>eBay.co.uk</span>: medical office sign</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+office+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=key-terms-myth-or-misconception-what-is-the-difference-myths-and-misconcept-medical-office-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical office sign" data-ebay-reference="key-terms-myth-or-misconception-what-is-the-difference-myths-and-misconcept-medical-office-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+office+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=key-terms-myth-or-misconception-what-is-the-difference-myths-and-misconcept-medical-office-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical office sign" data-ebay-reference="key-terms-myth-or-misconception-what-is-the-difference-myths-and-misconcept-medical-office-sign" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -790,7 +790,7 @@ The distinction is not about judging people more harshly or more generously. It 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -810,7 +810,7 @@ The distinction is not about judging people more harshly or more generously. It 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -842,7 +842,7 @@ The distinction is not about judging people more harshly or more generously. It 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -894,7 +894,7 @@ The distinction is not about judging people more harshly or more generously. It 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -939,7 +939,7 @@ The distinction is not about judging people more harshly or more generously. It 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -980,135 +980,135 @@ The distinction is not about judging people more harshly or more generously. It 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: thechat.scot  
    Title: the Chat.scot Spotlight issue  
-   Link: <a href="https://thechat.scot/wp-content/uploads/2024/10/7.-myth_misconception_misinformation_disinformation-2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://thechat.scot/wp-content/uploads/2024/10/7.-myth_misconception_misinformation_disinformation-2024.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Myth: A widely heard but false belief or idea. We can share examples of what might be...Read more...</p></details>
+   Link:<a href="https://thechat.scot/wp-content/uploads/2024/10/7.-myth_misconception_misinformation_disinformation-2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://thechat.scot/wp-content/uploads/2024/10/7.-myth_misconception_misinformation_disinformation-2024.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Myth: A widely heard but false belief or idea. We can share examples of what might be...Read more...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/List_of_common_misconceptions" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_common_misconceptions</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>List of common misconceptionsCommon misconceptions are widely accepted viewpoints or factoids that are actually false. They often arise f...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/List_of_common_misconceptions" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_common_misconceptions</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>List of common misconceptionsCommon misconceptions are widely accepted viewpoints or factoids that are actually false. They often arise f...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: unesco.org  
-   Link: <a href="https://www.unesco.org/en/query-list/m/misinformation" target="_blank" rel="noopener noreferrer nofollow">https://www.unesco.org/en/query-list/m/misinformation</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>What is Misinformation? Meaning, Definition.Misinformation is false information that is shared inadvertently, without meaning to ca...</p></details>
+   Link:<a href="https://www.unesco.org/en/query-list/m/misinformation" target="_blank" rel="noopener noreferrer nofollow">https://www.unesco.org/en/query-list/m/misinformation</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>What is Misinformation? Meaning, Definition.Misinformation is false information that is shared inadvertently, without meaning to ca...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: unesco.org  
-   Link: <a href="https://www.unesco.org/mil4teachers/en/module4/unit2" target="_blank" rel="noopener noreferrer nofollow">https://www.unesco.org/mil4teachers/en/module4/unit2</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Unit 2: The Misinformation and Disinformation Ecosystem11 Apr 2024 — Distinguish the different types of false and misleading content, i.e...</p></details>
+   Link:<a href="https://www.unesco.org/mil4teachers/en/module4/unit2" target="_blank" rel="noopener noreferrer nofollow">https://www.unesco.org/mil4teachers/en/module4/unit2</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Unit 2: The Misinformation and Disinformation Ecosystem11 Apr 2024 — Distinguish the different types of false and misleading content, i.e...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCThe role of discomfort in the continued influence effect  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8447889/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8447889/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>by MW Susmann · 2021 · Cited by 90 — Research examining the continued influence effect (CIE) of misinformation has reliably found that...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8447889/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8447889/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by MW Susmann · 2021 · Cited by 90 — Research examining the continued influence effect (CIE) of misinformation has reliably found that...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCExploring factors that mitigate the continued influence  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8627545/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8627545/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>by IP Kan · 2021 · Cited by 27 — The term “continued influence effect” (CIE) refers to the phenomenon that discredited and obsolete in...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8627545/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8627545/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by IP Kan · 2021 · Cited by 27 — The term “continued influence effect” (CIE) refers to the phenomenon that discredited and obsolete in...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: unesco.org  
-   Link: <a href="https://www.unesco.org/mil4teachers/en/module4" target="_blank" rel="noopener noreferrer nofollow">https://www.unesco.org/mil4teachers/en/module4</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>disinformation, misinformation, and mal-information including conspiracy theories.... UNESCO discourages the term [fake news](&amp;#123;&amp;#123; &#x27;fake-news/&#x27; | relative_url &amp;#125;&amp;#125;), on the basi...</p></details>
+   Link:<a href="https://www.unesco.org/mil4teachers/en/module4" target="_blank" rel="noopener noreferrer nofollow">https://www.unesco.org/mil4teachers/en/module4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>disinformation, misinformation, and mal-information including conspiracy theories.... UNESCO discourages the term [fake news](&amp;#123;&amp;#123; &#x27;fake-news/&#x27; | relative_url &amp;#125;&amp;#125;), on the basi...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: unesco.org  
    Title: What is Disinformation?  
-   Link: <a href="https://www.unesco.org/en/query-list/d/disinformation" target="_blank" rel="noopener noreferrer nofollow">https://www.unesco.org/en/query-list/d/disinformation</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Meaning, Definition.Disinformation refers to the deliberate dissemination of false or misleading information, often intended to deceive o...</p></details>
+   Link:<a href="https://www.unesco.org/en/query-list/d/disinformation" target="_blank" rel="noopener noreferrer nofollow">https://www.unesco.org/en/query-list/d/disinformation</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Meaning, Definition.Disinformation refers to the deliberate dissemination of false or misleading information, often intended to deceive o...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: disinformation.ch  
-   Link: <a href="https://www.disinformation.ch/" target="_blank" rel="noopener noreferrer nofollow">https://www.disinformation.ch/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Deception, disinformation, misinformation, propagandaDisinformation is false or inaccurate information that is deliberately spread with t...</p></details>
+   Link:<a href="https://www.disinformation.ch/" target="_blank" rel="noopener noreferrer nofollow">https://www.disinformation.ch/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Deception, disinformation, misinformation, propagandaDisinformation is false or inaccurate information that is deliberately spread with t...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: apa.org  
-   Link: <a href="https://www.apa.org/topics/journalism-facts/misinformation-disinformation" target="_blank" rel="noopener noreferrer nofollow">https://www.apa.org/topics/journalism-facts/misinformation-disinformation</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Misinformation and disinformationMisinformation is false or inaccurate information—getting the facts wrong. Disinformation is false infor...</p></details>
+   Link:<a href="https://www.apa.org/topics/journalism-facts/misinformation-disinformation" target="_blank" rel="noopener noreferrer nofollow">https://www.apa.org/topics/journalism-facts/misinformation-disinformation</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Misinformation and disinformationMisinformation is false or inaccurate information—getting the facts wrong. Disinformation is false infor...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/26173286/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/26173286/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Misinformation and Its Correction: Continued Influence and...by S Lewandowsky · 2012 · Cited by 4641 — We first examine the mechan...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/26173286/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/26173286/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Misinformation and Its Correction: Continued Influence and...by S Lewandowsky · 2012 · Cited by 4641 — We first examine the mechan...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/36988856/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/36988856/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>impact of misinformation corrections on source...by V Westbrook · 2023 · Cited by 25 — Research on the continued influence effect (CIE)...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/36988856/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/36988856/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>impact of misinformation corrections on source...by V Westbrook · 2023 · Cited by 25 — Research on the continued influence effect (CIE)...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/AmericanPsychologicalAssociation/posts/although-questions-remain-psychological-science-yields-important-conclusions-abo/944208637740808/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/AmericanPsychologicalAssociation/posts/although-questions-remain-psychological-science-yields-important-conclusions-abo/944208637740808/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>American Psychological AssociationMisinformation is false or inaccurate information—getting the facts wrong. Disinformation is [false info](&amp;#123;&amp;#123; &#x27;false-info/&#x27; | relative_url &amp;#125;&amp;#125;)...</p></details>
+   Link:<a href="https://www.facebook.com/AmericanPsychologicalAssociation/posts/although-questions-remain-psychological-science-yields-important-conclusions-abo/944208637740808/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/AmericanPsychologicalAssociation/posts/although-questions-remain-psychological-science-yields-important-conclusions-abo/944208637740808/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>American Psychological AssociationMisinformation is false or inaccurate information—getting the facts wrong. Disinformation is [false info](&amp;#123;&amp;#123; &#x27;false-info/&#x27; | relative_url &amp;#125;&amp;#125;)...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: etd.ohiolink.edu  
-   Link: <a href="https://etd.ohiolink.edu/acprod/odb_etd/ws/send_file/send?accession=osu1638809124303347&amp;disposition=inline" target="_blank" rel="noopener noreferrer nofollow">https://etd.ohiolink.edu/acprod/odb_etd/ws/send_file/send?accession=osu1638809124303347&amp;disposition=inline</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ohiolink.edu1 Mechanisms in Continued Influence of Misinformationby VL Westbrook · 2022 · Cited by 1 — Research on the CIE has shown that...</p></details>
+   Link:<a href="https://etd.ohiolink.edu/acprod/odb_etd/ws/send_file/send?accession=osu1638809124303347&amp;disposition=inline" target="_blank" rel="noopener noreferrer nofollow">https://etd.ohiolink.edu/acprod/odb_etd/ws/send_file/send?accession=osu1638809124303347&amp;disposition=inline</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ohiolink.edu1 Mechanisms in Continued Influence of Misinformationby VL Westbrook · 2022 · Cited by 1 — Research on the CIE has shown that...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: britannica.com  
    Title: misinformation and disinformation  
-   Link: <a href="https://www.britannica.com/topic/misinformation-and-disinformation" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/misinformation-and-disinformation</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Overview, Differences...21 Mar 2026 — Misinformation is the inadvertent spread of false information without intent to harm, while disinf...</p></details>
+   Link:<a href="https://www.britannica.com/topic/misinformation-and-disinformation" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/misinformation-and-disinformation</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Overview, Differences...21 Mar 2026 — Misinformation is the inadvertent spread of false information without intent to harm, while disinf...</p></details>
 
 ### Additional References
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: princetonlibrary.org  
-   Link: <a href="https://princetonlibrary.org/guides/misinformation-disinformation-malinformation-a-guide/" target="_blank" rel="noopener noreferrer nofollow">https://princetonlibrary.org/guides/misinformation-disinformation-malinformation-a-guide/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Misinformation, Disinformation &amp; Malinformation: A GuideMisinformation, Disinformation &amp; Malinformation: A Guide · Misinformation is defi...</p></details>
+   Link:<a href="https://princetonlibrary.org/guides/misinformation-disinformation-malinformation-a-guide/" target="_blank" rel="noopener noreferrer nofollow">https://princetonlibrary.org/guides/misinformation-disinformation-malinformation-a-guide/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Misinformation, Disinformation &amp; Malinformation: A GuideMisinformation, Disinformation &amp; Malinformation: A Guide · Misinformation is defi...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: library.gov.au  
-   Link: <a href="https://www.library.gov.au/research/research-guides-0/what-fake-news-misinformation-and-disinformation" target="_blank" rel="noopener noreferrer nofollow">https://www.library.gov.au/research/research-guides-0/what-fake-news-misinformation-and-disinformation</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>National Library of AustraliaWhat is fake news, misinformation, and disinformation?The Cambridge Dictionary defines fake news as “false s...</p></details>
+   Link:<a href="https://www.library.gov.au/research/research-guides-0/what-fake-news-misinformation-and-disinformation" target="_blank" rel="noopener noreferrer nofollow">https://www.library.gov.au/research/research-guides-0/what-fake-news-misinformation-and-disinformation</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National Library of AustraliaWhat is fake news, misinformation, and disinformation?The Cambridge Dictionary defines fake news as “false s...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: scispace.com  
-   Link: <a href="https://scispace.com/pdf/the-continued-influence-of-misinformation-in-memory-what-4tijzg1jh2.pdf" target="_blank" rel="noopener noreferrer nofollow">https://scispace.com/pdf/the-continued-influence-of-misinformation-in-memory-what-4tijzg1jh2.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The continued influence of misinformation in memoryIn the next sections, we consider several alternative explanations for the continued i...</p></details>
+   Link:<a href="https://scispace.com/pdf/the-continued-influence-of-misinformation-in-memory-what-4tijzg1jh2.pdf" target="_blank" rel="noopener noreferrer nofollow">https://scispace.com/pdf/the-continued-influence-of-misinformation-in-memory-what-4tijzg1jh2.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The continued influence of misinformation in memoryIn the next sections, we consider several alternative explanations for the continued i...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/unesco.pakistan/posts/-think-before-you-share%EF%B8%8F-disinformation-disinformation-is-generally-used-to-refe/1030883275851844/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/unesco.pakistan/posts/-think-before-you-share%EF%B8%8F-disinformation-disinformation-is-generally-used-to-refe/1030883275851844/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UNESCO Pakistan⚠️ Misinformation = Misinformation is generally used to refer to misleading information created or disseminated without ma...</p></details>
+   Link:<a href="https://www.facebook.com/unesco.pakistan/posts/-think-before-you-share%EF%B8%8F-disinformation-disinformation-is-generally-used-to-refe/1030883275851844/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/unesco.pakistan/posts/-think-before-you-share%EF%B8%8F-disinformation-disinformation-is-generally-used-to-refe/1030883275851844/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UNESCO Pakistan⚠️ Misinformation = Misinformation is generally used to refer to misleading information created or disseminated without ma...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: libguides.solent.ac.uk  
-   Link: <a href="https://libguides.solent.ac.uk/fakenews/FakeNews" target="_blank" rel="noopener noreferrer nofollow">https://libguides.solent.ac.uk/fakenews/FakeNews</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NewsUNESCO defines three types of false information: Disinformation: Information... Mal-information: Information that is based on realit...</p></details>
+   Link:<a href="https://libguides.solent.ac.uk/fakenews/FakeNews" target="_blank" rel="noopener noreferrer nofollow">https://libguides.solent.ac.uk/fakenews/FakeNews</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NewsUNESCO defines three types of false information: Disinformation: Information... Mal-information: Information that is based on realit...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/391015007_To_be_continued_misinformation%27s_bizarre_adventure_beyond_memory_failures_-_exploring_non-memory-based_mechanisms_driving_the_continued_influence_effect_CIE" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/391015007_To_be_continued_misinformation%27s_bizarre_adventure_beyond_memory_failures_-_exploring_non-memory-based_mechanisms_driving_the_continued_influence_effect_CIE</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) To be continued: misinformation&#x27;s bizarre adventure...18 Nov 2025 — The Continued Influence Effect (CIE) refers to the persistent...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/391015007_To_be_continued_misinformation%27s_bizarre_adventure_beyond_memory_failures_-_exploring_non-memory-based_mechanisms_driving_the_continued_influence_effect_CIE" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/391015007_To_be_continued_misinformation%27s_bizarre_adventure_beyond_memory_failures_-_exploring_non-memory-based_mechanisms_driving_the_continued_influence_effect_CIE</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) To be continued: misinformation&#x27;s bizarre adventure...18 Nov 2025 — The Continued Influence Effect (CIE) refers to the persistent...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: brod.ntcenter.bg  
-   Link: <a href="https://brod.ntcenter.bg/en/continued-influence-effect/" target="_blank" rel="noopener noreferrer nofollow">https://brod.ntcenter.bg/en/continued-influence-effect/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Influence EffectThe &quot;Continued Influence Effect&quot; refers to the phenomenon where misinformation continues to affect people&#x27;s thinking and...</p></details>
+   Link:<a href="https://brod.ntcenter.bg/en/continued-influence-effect/" target="_blank" rel="noopener noreferrer nofollow">https://brod.ntcenter.bg/en/continued-influence-effect/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Influence EffectThe &quot;Continued Influence Effect&quot; refers to the phenomenon where misinformation continues to affect people&#x27;s thinking and...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: moadoph.gov.au  
-   Link: <a href="https://moadoph.gov.au/explore/democracy/what-is-the-difference-between-misinformation-and-disinformation" target="_blank" rel="noopener noreferrer nofollow">https://moadoph.gov.au/explore/democracy/what-is-the-difference-between-misinformation-and-disinformation</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>False and misleading information created or shared to deliberately mislead people. Malinformation. Information based in fact that is mani...</p></details>
+   Link:<a href="https://moadoph.gov.au/explore/democracy/what-is-the-difference-between-misinformation-and-disinformation" target="_blank" rel="noopener noreferrer nofollow">https://moadoph.gov.au/explore/democracy/what-is-the-difference-between-misinformation-and-disinformation</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>False and misleading information created or shared to deliberately mislead people. Malinformation. Information based in fact that is mani...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: mentalhealthacademy.com.au  
    Title: countering misinformation what can mental health professionals do  
-   Link: <a href="https://www.mentalhealthacademy.com.au/blog/countering-misinformation-what-can-mental-health-professionals-do" target="_blank" rel="noopener noreferrer nofollow">https://www.mentalhealthacademy.com.au/blog/countering-misinformation-what-can-mental-health-professionals-do</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Countering Misinformation5 Apr 2024 — This article explores how mental health professionals can dispel misinformation and disinformation...</p></details>
+   Link:<a href="https://www.mentalhealthacademy.com.au/blog/countering-misinformation-what-can-mental-health-professionals-do" target="_blank" rel="noopener noreferrer nofollow">https://www.mentalhealthacademy.com.au/blog/countering-misinformation-what-can-mental-health-professionals-do</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Countering Misinformation5 Apr 2024 — This article explores how mental health professionals can dispel misinformation and disinformation...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: apa.org  
-   Link: <a href="https://www.apa.org/pubs/reports/health-misinformation" target="_blank" rel="noopener noreferrer nofollow">https://www.apa.org/pubs/reports/health-misinformation</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ined; it can include inaccurate news, conspiracy theories, disinformation campaigns...Read more...</p></details>
+   Link:<a href="https://www.apa.org/pubs/reports/health-misinformation" target="_blank" rel="noopener noreferrer nofollow">https://www.apa.org/pubs/reports/health-misinformation</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ined; it can include inaccurate news, conspiracy theories, disinformation campaigns...Read more...</p></details>

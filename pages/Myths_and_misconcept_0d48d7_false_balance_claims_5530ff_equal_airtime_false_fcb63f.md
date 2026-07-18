@@ -274,16 +274,16 @@ image: /assets/images/Myths_and_misconcept_0d48d7_false_balance_claims_5530ff_eq
 
 ## Introduction
 
-Equal airtime is often treated as a sign of fairness. If two people disagree, giving each the same amount of time to speak can appear neutral and even-handed. The problem is that audiences do not merely listen to what is said; they also take cues from how information is presented. When a news report, panel discussion or article gives equal visibility to two positions, many people infer that the positions have roughly equal support, credibility or evidential strength. In topics where the evidence is highly uneven, that inference can be misleading. False balance arises not because disagreement is reported, but because the format of reporting makes a minority or unsupported claim appear to stand on equal footing with a much stronger body of evidence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://mediahelpingmedia.org/advanced/false-equivalence-and-false-balance/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mediahelpingmedia.org">[Media Helping Media]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mediahelpingmedia.org</span><span class="citation-popover-title">false equivalence and false balance</span><span class="citation-popover-snippet">18 Nov 2023 — False balance is when a report suggests that two sides in a dispute have equally valid arguments, when in fact the evidence...</span></span></span>
+Equal airtime is often treated as a sign of fairness. If two people disagree, giving each the same amount of time to speak can appear neutral and even-handed. The problem is that audiences do not merely listen to what is said; they also take cues from how information is presented. When a news report, panel discussion or article gives equal visibility to two positions, many people infer that the positions have roughly equal support, credibility or evidential strength. In topics where the evidence is highly uneven, that inference can be misleading. False balance arises not because disagreement is reported, but because the format of reporting makes a minority or unsupported claim appear to stand on equal footing with a much stronger body of evidence.<span class="citation-chip-wrap"><a class="citation-chip" href="https://mediahelpingmedia.org/advanced/false-equivalence-and-false-balance/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mediahelpingmedia.org">[Media Helping Media]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mediahelpingmedia.org</span><span class="citation-popover-title">false equivalence and false balance</span><span class="citation-popover-snippet">18 Nov 2023 — False balance is when a report suggests that two sides in a dispute have equally valid arguments, when in fact the evidence...</span></span></span>
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_false_balance_claims_5530ff_equal_airtime_false_fcb63f-Illustration-1-dark.svg" | relative_url }}" alt="Equal Airtime illustration 1" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_false_balance_claims_5530ff_equal_airtime_false_fcb63f-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_false_balance_claims_5530ff_equal_airtime_false_fcb63f-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## How Audiences Infer Support from Airtime
 
 People routinely use shortcuts when evaluating complex information. Most readers and viewers do not have the time to independently examine scientific papers, technical reports or large bodies of evidence. Instead, they rely on signals from trusted intermediaries such as journalists, broadcasters and editors.
 
-One of those signals is prominence. If a television debate devotes half its programme to one claim and half to another, audiences often assume the issue itself is divided down the middle. The structure communicates a message beyond the words spoken. Equal exposure can therefore be interpreted as evidence that experts are evenly split, even when they are not. <span class="citation-chip-wrap"><a class="citation-chip" href="https://undsci.berkeley.edu/understanding-science-101/a-scientific-approach-to-life-a-science-toolkit/beware-of-false-balance-are-the-views-of-the-scientific-community-accurately-portrayed/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: undsci.berkeley.edu">[Understanding Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">undsci.berkeley.edu</span><span class="citation-popover-snippet">Understanding ScienceBeware of false balance: Are the views of the scientific...Journalism and policies that falsely grant all viewpoint...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/0963662515615087" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsThe influence of weight-of-evidence strategies on audience...8 Dec 2015 — The results of our study suggest weight-of-eviden...</span></span></span>
+One of those signals is prominence. If a television debate devotes half its programme to one claim and half to another, audiences often assume the issue itself is divided down the middle. The structure communicates a message beyond the words spoken. Equal exposure can therefore be interpreted as evidence that experts are evenly split, even when they are not.<span class="citation-chip-wrap"><a class="citation-chip" href="https://undsci.berkeley.edu/understanding-science-101/a-scientific-approach-to-life-a-science-toolkit/beware-of-false-balance-are-the-views-of-the-scientific-community-accurately-portrayed/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: undsci.berkeley.edu">[Understanding Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">undsci.berkeley.edu</span><span class="citation-popover-snippet">Understanding ScienceBeware of false balance: Are the views of the scientific...Journalism and policies that falsely grant all viewpoint...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/0963662515615087" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsThe influence of weight-of-evidence strategies on audience...8 Dec 2015 — The results of our study suggest weight-of-eviden...</span></span></span>
 
-Research on false balance has repeatedly found that presenting conflicting claims side by side can increase perceptions of uncertainty and reduce understanding of where expert agreement actually lies. Studies examining climate communication, for example, found that exposure to falsely balanced reporting can lower perceptions of scientific consensus and make audiences more uncertain about established findings. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7528676/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCWeight-of-Evidence Strategies to Mitigate the Influence</span><span class="citation-popover-snippet">by P Schmid · 2020 · Cited by 41 — Extant research shows that falsely balanced reports can distort positive attitudes towards behaviou...</span></span></span> ResearchGate The key mechanism is simple: audiences often treat airtime as a proxy for support. If one view receives 50 <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/355382090_When_Fairness_is_Flawed_Effects_of_False_Balance_Reporting_and_Weight-of-Evidence_Statements_on_Beliefs_and_Perceptions_of_Climate_Change" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[researchgate.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Effects of False Balance Reporting and Weight-of-Evidence...Falsely balanced reports can expose individuals to arguments that run counte...</span></span></span>% of the attention, many people assume it represents roughly 50% of informed opinion.
+Research on false balance has repeatedly found that presenting conflicting claims side by side can increase perceptions of uncertainty and reduce understanding of where expert agreement actually lies. Studies examining climate communication, for example, found that exposure to falsely balanced reporting can lower perceptions of scientific consensus and make audiences more uncertain about established findings.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7528676/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCWeight-of-Evidence Strategies to Mitigate the Influence</span><span class="citation-popover-snippet">by P Schmid · 2020 · Cited by 41 — Extant research shows that falsely balanced reports can distort positive attitudes towards behaviou...</span></span></span> ResearchGate The key mechanism is simple: audiences often treat airtime as a proxy for support. If one view receives 50<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/355382090_When_Fairness_is_Flawed_Effects_of_False_Balance_Reporting_and_Weight-of-Evidence_Statements_on_Beliefs_and_Perceptions_of_Climate_Change" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[researchgate.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Effects of False Balance Reporting and Weight-of-Evidence...Falsely balanced reports can expose individuals to arguments that run counte...</span></span></span>% of the attention, many people assume it represents roughly 50% of informed opinion.
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/tH6Dc82Ql_Y" title="How journalists cover different perspectives - BBC My World" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=tH6Dc82Ql_Y" target="_blank" rel="noopener noreferrer">How journalists cover different perspectives - BBC My World</a></p><p class="youtube-embed-meta">Channel: BBC My World &middot; Views: 3.7K &middot; Uploaded: January 2020 &middot; Length: 4 minutes 36 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=tH6Dc82Ql_Y" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=tH6Dc82Ql_Y">Open on YouTube</a></p></div></div></div>
 
@@ -291,11 +291,11 @@ Research on false balance has repeatedly found that presenting conflicting claim
 
 Equal-airtime formats are especially influential because they are familiar. Political reporting often revolves around contests between opposing sides, so audiences become accustomed to interpreting disagreement as a two-sided struggle. Problems arise when that same format is applied to questions where evidence is not evenly distributed.
 
-A scientific finding supported by decades of research can be placed opposite a small group of dissenters in a studio debate. Technically, both sides have been heard. Yet the visual and narrative structure creates the impression of a live controversy. The audience sees two guests, two podiums and two competing arguments. The unequal evidence behind those arguments becomes less visible than the symmetry of the presentation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S0959378003000669" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Balance as bias: global warming and the US prestige pressby MT Boykoff · 2004 · Cited by 2915 — This paper demonstrates that...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://academic.oup.com/edited-volume/61804/chapter/546619337?searchresult=1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academic.oup.com">[OUP Academic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academic.oup.com</span><span class="citation-popover-snippet">OUP AcademicObjectivity, False Balance, and Advocacy in News Coverage...29 Mar 2017 — They strive to be accurate in their reporting and...</span></span></span>
+A scientific finding supported by decades of research can be placed opposite a small group of dissenters in a studio debate. Technically, both sides have been heard. Yet the visual and narrative structure creates the impression of a live controversy. The audience sees two guests, two podiums and two competing arguments. The unequal evidence behind those arguments becomes less visible than the symmetry of the presentation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S0959378003000669" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Balance as bias: global warming and the US prestige pressby MT Boykoff · 2004 · Cited by 2915 — This paper demonstrates that...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://academic.oup.com/edited-volume/61804/chapter/546619337?searchresult=1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academic.oup.com">[OUP Academic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academic.oup.com</span><span class="citation-popover-snippet">OUP AcademicObjectivity, False Balance, and Advocacy in News Coverage...29 Mar 2017 — They strive to be accurate in their reporting and...</span></span></span>
 
-This is one reason scholars have described some forms of balanced reporting as producing bias rather than correcting it. By trying to distribute attention equally, reporting can distribute credibility equally as well. The result is not neutrality but distortion. ScienceDirect <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7528676/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCWeight-of-Evidence Strategies to Mitigate the Influence</span><span class="citation-popover-snippet">by P Schmid · 2020 · Cited by 41 — Extant research shows that falsely balanced reports can distort positive attitudes towards behaviou...</span></span></span>
+This is one reason scholars have described some forms of balanced reporting as producing bias rather than correcting it. By trying to distribute attention equally, reporting can distribute credibility equally as well. The result is not neutrality but distortion. ScienceDirect<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7528676/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCWeight-of-Evidence Strategies to Mitigate the Influence</span><span class="citation-popover-snippet">by P Schmid · 2020 · Cited by 41 — Extant research shows that falsely balanced reports can distort positive attitudes towards behaviou...</span></span></span>
 
-The effect can be particularly strong when audiences lack prior knowledge. Someone encountering an issue for the first time may have little basis for judging which side reflects mainstream evidence. In that situation, the format itself becomes a source of information. Equal visibility can therefore create a false sense that the evidence is evenly divided. <span class="citation-chip-wrap"><a class="citation-chip" href="https://undsci.berkeley.edu/understanding-science-101/a-scientific-approach-to-life-a-science-toolkit/beware-of-false-balance-are-the-views-of-the-scientific-community-accurately-portrayed/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: undsci.berkeley.edu">[Understanding Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">undsci.berkeley.edu</span><span class="citation-popover-snippet">Understanding ScienceBeware of false balance: Are the views of the scientific...Journalism and policies that falsely grant all viewpoint...</span></span></span>
+The effect can be particularly strong when audiences lack prior knowledge. Someone encountering an issue for the first time may have little basis for judging which side reflects mainstream evidence. In that situation, the format itself becomes a source of information. Equal visibility can therefore create a false sense that the evidence is evenly divided.<span class="citation-chip-wrap"><a class="citation-chip" href="https://undsci.berkeley.edu/understanding-science-101/a-scientific-approach-to-life-a-science-toolkit/beware-of-false-balance-are-the-views-of-the-scientific-community-accurately-portrayed/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: undsci.berkeley.edu">[Understanding Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">undsci.berkeley.edu</span><span class="citation-popover-snippet">Understanding ScienceBeware of false balance: Are the views of the scientific...Journalism and policies that falsely grant all viewpoint...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/O7pgSZyU4_g" title="False Balance explained (explainity® explainer video)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=O7pgSZyU4_g" target="_blank" rel="noopener noreferrer">False Balance explained (explainity® explainer video)</a></p><p class="youtube-embed-meta">Channel: explainitychannel &middot; Views: 2.5K &middot; Uploaded: July 2023 &middot; Length: 2 minutes 48 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=O7pgSZyU4_g" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=O7pgSZyU4_g">Open on YouTube</a></p></div></div></div>
 
@@ -303,9 +303,9 @@ The effect can be particularly strong when audiences lack prior knowledge. Someo
 
 Climate change reporting became one of the most studied examples of false balance. As scientific agreement on human-caused warming strengthened, some media outlets continued to frame coverage as a contest between advocates and sceptics.
 
-The influential study by Maxwell and Jules Boykoff argued that adherence to journalistic balance contributed to a gap between scientific discourse and public discourse. News coverage frequently presented climate science and climate scepticism as competing positions, even as the scientific literature was becoming increasingly one-sided. The consequence was not necessarily misinformation in the form of false facts. Rather, it was a misleading picture of how much disagreement actually existed within the expert community. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S0959378003000669" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Balance as bias: global warming and the US prestige pressby MT Boykoff · 2004 · Cited by 2915 — This paper demonstrates that...</span></span></span>
+The influential study by Maxwell and Jules Boykoff argued that adherence to journalistic balance contributed to a gap between scientific discourse and public discourse. News coverage frequently presented climate science and climate scepticism as competing positions, even as the scientific literature was becoming increasingly one-sided. The consequence was not necessarily misinformation in the form of false facts. Rather, it was a misleading picture of how much disagreement actually existed within the expert community.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S0959378003000669" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Balance as bias: global warming and the US prestige pressby MT Boykoff · 2004 · Cited by 2915 — This paper demonstrates that...</span></span></span>
 
-Subsequent research found that balanced coverage can amplify perceptions of controversy and uncertainty. Even when a contrarian position represents only a small minority of experts, equal representation can make that minority appear much larger and more influential than it is. ScienceDirect <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7528676/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCWeight-of-Evidence Strategies to Mitigate the Influence</span><span class="citation-popover-snippet">by P Schmid · 2020 · Cited by 41 — Extant research shows that falsely balanced reports can distort positive attitudes towards behaviou...</span></span></span>
+Subsequent research found that balanced coverage can amplify perceptions of controversy and uncertainty. Even when a contrarian position represents only a small minority of experts, equal representation can make that minority appear much larger and more influential than it is. ScienceDirect<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7528676/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCWeight-of-Evidence Strategies to Mitigate the Influence</span><span class="citation-popover-snippet">by P Schmid · 2020 · Cited by 41 — Extant research shows that falsely balanced reports can distort positive attitudes towards behaviou...</span></span></span>
 
 This illustrates the central problem with equal airtime: audiences often judge the state of a debate from the way it is staged rather than from the underlying distribution of evidence.
 
@@ -314,9 +314,9 @@ This illustrates the central problem with equal airtime: audiences often judge t
 
 A common misunderstanding is that rejecting equal airtime means silencing dissent. In practice, the issue is not whether minority views should be reported but how they should be contextualised.
 
-Fairness requires accurately representing the strength of competing claims. If one position is supported by extensive evidence and another is supported by a handful of dissenting voices, presenting them as equal can misinform audiences about the real state of knowledge. Several journalism and science-communication organisations explicitly warn against treating all viewpoints as equally credible when the evidence does not justify that treatment. <span class="citation-chip-wrap"><a class="citation-chip" href="https://healthjournalism.org/glossary-terms/false-balance-false-equivalence/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: healthjournalism.org">[Association of Health Care Journalists]</a><span class="citation-popover" role="note"><span class="citation-popover-source">healthjournalism.org</span><span class="citation-popover-snippet">Association of Health Care JournalistsFalse balance (false equivalence)This lapse in responsible reporting refers to using outliers&#x27; voic...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://caj.ca/wp-content/uploads/False-Balance.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: caj.ca">[Canadian Association of Journalists]</a><span class="citation-popover" role="note"><span class="citation-popover-source">caj.ca</span><span class="citation-popover-title">False Balance</span><span class="citation-popover-snippet">Approved March 12 2024.docxmay introduce false balance into the public domain. False balance is defined as presenting two opposing views...</span></span></span>
+Fairness requires accurately representing the strength of competing claims. If one position is supported by extensive evidence and another is supported by a handful of dissenting voices, presenting them as equal can misinform audiences about the real state of knowledge. Several journalism and science-communication organisations explicitly warn against treating all viewpoints as equally credible when the evidence does not justify that treatment.<span class="citation-chip-wrap"><a class="citation-chip" href="https://healthjournalism.org/glossary-terms/false-balance-false-equivalence/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: healthjournalism.org">[Association of Health Care Journalists]</a><span class="citation-popover" role="note"><span class="citation-popover-source">healthjournalism.org</span><span class="citation-popover-snippet">Association of Health Care JournalistsFalse balance (false equivalence)This lapse in responsible reporting refers to using outliers&#x27; voic...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://caj.ca/wp-content/uploads/False-Balance.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: caj.ca">[Canadian Association of Journalists]</a><span class="citation-popover" role="note"><span class="citation-popover-source">caj.ca</span><span class="citation-popover-title">False Balance</span><span class="citation-popover-snippet">Approved March 12 2024.docxmay introduce false balance into the public domain. False balance is defined as presenting two opposing views...</span></span></span>
 
-The distinction is important because genuine disagreements do exist. Experts may disagree about policy responses, future risks, costs, ethics or priorities. In such cases, substantial attention to multiple perspectives can help audiences understand the debate. False balance arises when the disagreement itself is exaggerated by the reporting format. <span class="citation-chip-wrap"><a class="citation-chip" href="https://spiral.imperial.ac.uk/server/api/core/bitstreams/f373f8aa-7395-4981-8f9b-1afe6317d28a/content" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: spiral.imperial.ac.uk">[Spiral]</a><span class="citation-popover" role="note"><span class="citation-popover-source">spiral.imperial.ac.uk</span><span class="citation-popover-title">Spiral Chapter 8</span><span class="citation-popover-snippet">Partial to being impartial? Debates about...The norm of impartiality has been one of the most contentious aspects of science journalism...</span></span></span>
+The distinction is important because genuine disagreements do exist. Experts may disagree about policy responses, future risks, costs, ethics or priorities. In such cases, substantial attention to multiple perspectives can help audiences understand the debate. False balance arises when the disagreement itself is exaggerated by the reporting format.<span class="citation-chip-wrap"><a class="citation-chip" href="https://spiral.imperial.ac.uk/server/api/core/bitstreams/f373f8aa-7395-4981-8f9b-1afe6317d28a/content" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: spiral.imperial.ac.uk">[Spiral]</a><span class="citation-popover" role="note"><span class="citation-popover-source">spiral.imperial.ac.uk</span><span class="citation-popover-title">Spiral Chapter 8</span><span class="citation-popover-snippet">Partial to being impartial? Debates about...The norm of impartiality has been one of the most contentious aspects of science journalism...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/pZ2x2XpQNaU" title="How can journalists call out misinformation without losing public trust? | Webinar" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=pZ2x2XpQNaU" target="_blank" rel="noopener noreferrer">How can journalists call out misinformation without losing public trust? | Webinar</a></p><p class="youtube-embed-meta">Channel: News Literacy Project &middot; Views: 100 &middot; Uploaded: January 2023 &middot; Length: 53 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=pZ2x2XpQNaU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=pZ2x2XpQNaU">Open on YouTube</a></p></div></div></div>
 
@@ -326,209 +326,209 @@ Journalists do not have to choose between ignoring minority views and giving the
 
 Several practices can help:
 
-* **State where expert opinion is concentrated.** Audiences benefit from knowing whether a view is widely accepted, actively contested or supported by only a small minority. <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/0963662515615087" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsThe influence of weight-of-evidence strategies on audience...8 Dec 2015 — The results of our study suggest weight-of-eviden...</span></span></span>
-* **Explain the evidence behind each claim.** Instead of balancing quotations, reporting can balance scrutiny by examining the quality of supporting evidence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://healthjournalism.org/glossary-terms/false-balance-false-equivalence/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: healthjournalism.org">[Association of Health Care Journalists]</a><span class="citation-popover" role="note"><span class="citation-popover-source">healthjournalism.org</span><span class="citation-popover-snippet">Association of Health Care JournalistsFalse balance (false equivalence)This lapse in responsible reporting refers to using outliers&#x27; voic...</span></span></span>
-* **Use proportional sourcing.** The amount of attention devoted to a position can reflect its standing within the relevant field rather than a fixed 50–50 formula. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S0959378003000669" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Balance as bias: global warming and the US prestige pressby MT Boykoff · 2004 · Cited by 2915 — This paper demonstrates that...</span></span></span>
-* **Provide context for outlier views.** Minority claims may be newsworthy, but audiences need enough information to understand whether those claims are mainstream, emerging or fringe. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S0959378003000669" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Balance as bias: global warming and the US prestige pressby MT Boykoff · 2004 · Cited by 2915 — This paper demonstrates that...</span></span></span>
+* **State where expert opinion is concentrated.** Audiences benefit from knowing whether a view is widely accepted, actively contested or supported by only a small minority.<span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/0963662515615087" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsThe influence of weight-of-evidence strategies on audience...8 Dec 2015 — The results of our study suggest weight-of-eviden...</span></span></span>
+* **Explain the evidence behind each claim.** Instead of balancing quotations, reporting can balance scrutiny by examining the quality of supporting evidence.<span class="citation-chip-wrap"><a class="citation-chip" href="https://healthjournalism.org/glossary-terms/false-balance-false-equivalence/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: healthjournalism.org">[Association of Health Care Journalists]</a><span class="citation-popover" role="note"><span class="citation-popover-source">healthjournalism.org</span><span class="citation-popover-snippet">Association of Health Care JournalistsFalse balance (false equivalence)This lapse in responsible reporting refers to using outliers&#x27; voic...</span></span></span>
+* **Use proportional sourcing.** The amount of attention devoted to a position can reflect its standing within the relevant field rather than a fixed 50–50 formula.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S0959378003000669" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Balance as bias: global warming and the US prestige pressby MT Boykoff · 2004 · Cited by 2915 — This paper demonstrates that...</span></span></span>
+* **Provide context for outlier views.** Minority claims may be newsworthy, but audiences need enough information to understand whether those claims are mainstream, emerging or fringe.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S0959378003000669" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Balance as bias: global warming and the US prestige pressby MT Boykoff · 2004 · Cited by 2915 — This paper demonstrates that...</span></span></span>
 
-Research on "weight-of-evidence" reporting suggests that explicitly showing how experts are distributed across competing claims can reduce the uncertainty that falsely balanced coverage creates. Rather than asking audiences to infer support from airtime, this approach makes the evidential landscape visible. <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/0963662515615087" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsThe influence of weight-of-evidence strategies on audience...8 Dec 2015 — The results of our study suggest weight-of-eviden...</span></span></span>
+Research on "weight-of-evidence" reporting suggests that explicitly showing how experts are distributed across competing claims can reduce the uncertainty that falsely balanced coverage creates. Rather than asking audiences to infer support from airtime, this approach makes the evidential landscape visible.<span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/0963662515615087" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsThe influence of weight-of-evidence strategies on audience...8 Dec 2015 — The results of our study suggest weight-of-eviden...</span></span></span>
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_false_balance_claims_5530ff_equal_airtime_false_fcb63f-Illustration-3-dark.svg" | relative_url }}" alt="Equal Airtime illustration 3" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_false_balance_claims_5530ff_equal_airtime_false_fcb63f-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_false_balance_claims_5530ff_equal_airtime_false_fcb63f-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Does Equal Airtime Create False Certainty?
 
 Paradoxically, equal airtime can create a false certainty that a debate is evenly divided. The certainty is not about which side is correct; it is about the existence of a contest itself. Viewers come away convinced that there are two equally substantial camps when the underlying evidence may point overwhelmingly in one direction.
 
-This is why equal airtime can mislead audiences. People naturally treat visibility as a clue to importance and support. When reporting grants the same prominence to unequally supported claims, the format communicates a message that the evidence does not. In debates shaped by myths and misconceptions, that difference between visibility and evidential weight can be the difference between informing the public and confusing it. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.jstor.org/stable/48752503" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jstor.org">[jstor.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jstor.org</span><span class="citation-popover-snippet">It also allows agents to ignore disconfirming data more...Read mo...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/False_balance" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">False balance</span><span class="citation-popover-snippet">January 9, 2026 — False balance, known colloquially as bothsidesism, is a media bias in which journalists present an issue as being more...</span><span class="citation-popover-meta">Published: January 9, 2026</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7528676/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCWeight-of-Evidence Strategies to Mitigate the Influence</span><span class="citation-popover-snippet">by P Schmid · 2020 · Cited by 41 — Extant research shows that falsely balanced reports can distort positive attitudes towards behaviou...</span></span></span>
+This is why equal airtime can mislead audiences. People naturally treat visibility as a clue to importance and support. When reporting grants the same prominence to unequally supported claims, the format communicates a message that the evidence does not. In debates shaped by myths and misconceptions, that difference between visibility and evidential weight can be the difference between informing the public and confusing it.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.jstor.org/stable/48752503" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jstor.org">[jstor.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jstor.org</span><span class="citation-popover-snippet">It also allows agents to ignore disconfirming data more...Read mo...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/False_balance" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">False balance</span><span class="citation-popover-snippet">January 9, 2026 — False balance, known colloquially as bothsidesism, is a media bias in which journalists present an issue as being more...</span><span class="citation-popover-meta">Published: January 9, 2026</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7528676/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCWeight-of-Evidence Strategies to Mitigate the Influence</span><span class="citation-popover-snippet">by P Schmid · 2020 · Cited by 41 — Extant research shows that falsely balanced reports can distort positive attitudes towards behaviou...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Does Equal Airtime Create False Certainty?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Does Equal Airtime Create False Certainty?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Calling Bullshit on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Plu9DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Calling Bullshit" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Calling Bullshit">Calling Bullshit</a>
-        </h4>
-        <p class="fr-book-author">By Carl T. Bergstrom, Jevin D. West</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Calling Bullshit on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Plu9DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Calling Bullshit" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Calling Bullshit">Calling Bullshit</a>
+</h4>
+<p class="fr-book-author">By Carl T. Bergstrom, Jevin D. West</p>
         
-        <p class="fr-book-desc">Explains why presentation and framing can distort perceptions of evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains why presentation and framing can distort perceptions of evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Elements+of+Journalism+by+Bill+Kovach&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Elements of Journalism on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KhMbAQAAIAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Elements of Journalism" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Elements+of+Journalism+by+Bill+Kovach&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Elements of Journalism">The Elements of Journalism</a>
-        </h4>
-        <p class="fr-book-author">By Bill Kovach, Tom Rosenstiel</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Elements+of+Journalism+by+Bill+Kovach&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Elements of Journalism on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KhMbAQAAIAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Elements of Journalism" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Elements+of+Journalism+by+Bill+Kovach&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Elements of Journalism">The Elements of Journalism</a>
+</h4>
+<p class="fr-book-author">By Bill Kovach, Tom Rosenstiel</p>
         
-        <p class="fr-book-desc">Discusses proportionality and evidence-based reporting.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Elements+of+Journalism+by+Bill+Kovach&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Discusses proportionality and evidence-based reporting.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Elements+of+Journalism+by+Bill+Kovach&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Made+to+Stick+by+Chip+Heath&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Made to Stick on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=kW9nrgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Made to Stick" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Made+to+Stick+by+Chip+Heath&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Made to Stick">Made to Stick</a>
-        </h4>
-        <p class="fr-book-author">By Chip Heath, Dan Heath</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Made+to+Stick+by+Chip+Heath&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Made to Stick on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=kW9nrgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Made to Stick" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Made+to+Stick+by+Chip+Heath&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Made to Stick">Made to Stick</a>
+</h4>
+<p class="fr-book-author">By Chip Heath, Dan Heath</p>
         
-        <p class="fr-book-desc">Shows how format and presentation affect audience judgments.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Made+to+Stick+by+Chip+Heath&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows how format and presentation affect audience judgments.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Made+to+Stick+by+Chip+Heath&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YGPzXWanppcC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
-        </h4>
-        <p class="fr-book-author">By Daniel Kahneman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YGPzXWanppcC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
+</h4>
+<p class="fr-book-author">By Daniel Kahneman</p>
         
-        <p class="fr-book-desc">Explains the mental shortcuts audiences use when interpreting information.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains the mental shortcuts audiences use when interpreting information.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Calling+Bullshit&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Calling Bullshit</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Elements+of+Journalism&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Elements of Journalism</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Made+to+Stick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Made to Stick</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Calling+Bullshit&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Calling Bullshit</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Elements+of+Journalism&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Elements of Journalism</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Made+to+Stick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Made to Stick</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=equal-airtime-does-equal-airtime-create-false-certainty-myths-and-misconcept-science-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science wall art" data-ebay-reference="equal-airtime-does-equal-airtime-create-false-certainty-myths-and-misconcept-science-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Science Is Like Magic But Real Unic Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/3cdfff053ac0a1a8635b.jpg' | relative_url }}" alt="Listing image for Science Is Like Magic But Real Unic Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=equal-airtime-does-equal-airtime-create-false-certainty-myths-and-misconcept-science-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science wall art" data-ebay-reference="equal-airtime-does-equal-airtime-create-false-certainty-myths-and-misconcept-science-wall-art" target="_blank" rel="sponsored noopener noreferrer">Science Is Like Magic But Real Unic Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=equal-airtime-does-equal-airtime-create-false-certainty-myths-and-misconcept-science-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science wall art" data-ebay-reference="equal-airtime-does-equal-airtime-create-false-certainty-myths-and-misconcept-science-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: science wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=equal-airtime-does-equal-airtime-create-false-certainty-myths-and-misconcept-science-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science wall art" data-ebay-reference="equal-airtime-does-equal-airtime-create-false-certainty-myths-and-misconcept-science-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=equal-airtime-does-equal-airtime-create-false-certainty-myths-and-misconcept-science-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science wall art" data-ebay-reference="equal-airtime-does-equal-airtime-create-false-certainty-myths-and-misconcept-science-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Science Is Like Magic But Real Unic Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/3cdfff053ac0a1a8635b.jpg' | relative_url }}" alt="Listing image for Science Is Like Magic But Real Unic Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=equal-airtime-does-equal-airtime-create-false-certainty-myths-and-misconcept-science-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science wall art" data-ebay-reference="equal-airtime-does-equal-airtime-create-false-certainty-myths-and-misconcept-science-wall-art" target="_blank" rel="sponsored noopener noreferrer">Science Is Like Magic But Real Unic Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=equal-airtime-does-equal-airtime-create-false-certainty-myths-and-misconcept-science-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science wall art" data-ebay-reference="equal-airtime-does-equal-airtime-create-false-certainty-myths-and-misconcept-science-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: science wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=equal-airtime-does-equal-airtime-create-false-certainty-myths-and-misconcept-science-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science wall art" data-ebay-reference="equal-airtime-does-equal-airtime-create-false-certainty-myths-and-misconcept-science-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=equal-airtime-does-equal-airtime-create-false-certainty-myths-and-misconcept-science-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science wall art" data-ebay-reference="equal-airtime-does-equal-airtime-create-false-certainty-myths-and-misconcept-science-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Science Rules Cute Scientist Fun Sc Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/1ac60d56254d6b01364f.jpg' | relative_url }}" alt="Listing image for Science Rules Cute Scientist Fun Sc Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=equal-airtime-does-equal-airtime-create-false-certainty-myths-and-misconcept-science-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science wall art" data-ebay-reference="equal-airtime-does-equal-airtime-create-false-certainty-myths-and-misconcept-science-wall-art" target="_blank" rel="sponsored noopener noreferrer">Science Rules Cute Scientist Fun Sc Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=equal-airtime-does-equal-airtime-create-false-certainty-myths-and-misconcept-science-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science wall art" data-ebay-reference="equal-airtime-does-equal-airtime-create-false-certainty-myths-and-misconcept-science-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: science wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=equal-airtime-does-equal-airtime-create-false-certainty-myths-and-misconcept-science-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science wall art" data-ebay-reference="equal-airtime-does-equal-airtime-create-false-certainty-myths-and-misconcept-science-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=equal-airtime-does-equal-airtime-create-false-certainty-myths-and-misconcept-science-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science wall art" data-ebay-reference="equal-airtime-does-equal-airtime-create-false-certainty-myths-and-misconcept-science-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Science Rules Cute Scientist Fun Sc Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/1ac60d56254d6b01364f.jpg' | relative_url }}" alt="Listing image for Science Rules Cute Scientist Fun Sc Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=equal-airtime-does-equal-airtime-create-false-certainty-myths-and-misconcept-science-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science wall art" data-ebay-reference="equal-airtime-does-equal-airtime-create-false-certainty-myths-and-misconcept-science-wall-art" target="_blank" rel="sponsored noopener noreferrer">Science Rules Cute Scientist Fun Sc Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=equal-airtime-does-equal-airtime-create-false-certainty-myths-and-misconcept-science-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science wall art" data-ebay-reference="equal-airtime-does-equal-airtime-create-false-certainty-myths-and-misconcept-science-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: science wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=equal-airtime-does-equal-airtime-create-false-certainty-myths-and-misconcept-science-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science wall art" data-ebay-reference="equal-airtime-does-equal-airtime-create-false-certainty-myths-and-misconcept-science-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=equal-airtime-does-equal-airtime-create-false-certainty-myths-and-misconcept-science-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science wall art" data-ebay-reference="equal-airtime-does-equal-airtime-create-false-certainty-myths-and-misconcept-science-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Science science Framed Art Print Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/84e3114d732933008429.jpg' | relative_url }}" alt="Listing image for Science science Framed Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=equal-airtime-does-equal-airtime-create-false-certainty-myths-and-misconcept-science-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science wall art" data-ebay-reference="equal-airtime-does-equal-airtime-create-false-certainty-myths-and-misconcept-science-wall-art" target="_blank" rel="sponsored noopener noreferrer">Science science Framed Art Print Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=equal-airtime-does-equal-airtime-create-false-certainty-myths-and-misconcept-science-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science wall art" data-ebay-reference="equal-airtime-does-equal-airtime-create-false-certainty-myths-and-misconcept-science-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: science wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=equal-airtime-does-equal-airtime-create-false-certainty-myths-and-misconcept-science-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science wall art" data-ebay-reference="equal-airtime-does-equal-airtime-create-false-certainty-myths-and-misconcept-science-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=equal-airtime-does-equal-airtime-create-false-certainty-myths-and-misconcept-science-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science wall art" data-ebay-reference="equal-airtime-does-equal-airtime-create-false-certainty-myths-and-misconcept-science-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Science science Framed Art Print Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/84e3114d732933008429.jpg' | relative_url }}" alt="Listing image for Science science Framed Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=equal-airtime-does-equal-airtime-create-false-certainty-myths-and-misconcept-science-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science wall art" data-ebay-reference="equal-airtime-does-equal-airtime-create-false-certainty-myths-and-misconcept-science-wall-art" target="_blank" rel="sponsored noopener noreferrer">Science science Framed Art Print Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=equal-airtime-does-equal-airtime-create-false-certainty-myths-and-misconcept-science-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science wall art" data-ebay-reference="equal-airtime-does-equal-airtime-create-false-certainty-myths-and-misconcept-science-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: science wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=equal-airtime-does-equal-airtime-create-false-certainty-myths-and-misconcept-science-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science wall art" data-ebay-reference="equal-airtime-does-equal-airtime-create-false-certainty-myths-and-misconcept-science-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=equal-airtime-does-equal-airtime-create-false-certainty-myths-and-misconcept-science-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science wall art" data-ebay-reference="equal-airtime-does-equal-airtime-create-false-certainty-myths-and-misconcept-science-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Science - Science Boy - Science Gir Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/cacc5712f12b7f185696.jpg' | relative_url }}" alt="Listing image for Science - Science Boy - Science Gir Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=equal-airtime-does-equal-airtime-create-false-certainty-myths-and-misconcept-science-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science wall art" data-ebay-reference="equal-airtime-does-equal-airtime-create-false-certainty-myths-and-misconcept-science-wall-art" target="_blank" rel="sponsored noopener noreferrer">Science - Science Boy - Science Gir Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=equal-airtime-does-equal-airtime-create-false-certainty-myths-and-misconcept-science-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science wall art" data-ebay-reference="equal-airtime-does-equal-airtime-create-false-certainty-myths-and-misconcept-science-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: science wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=equal-airtime-does-equal-airtime-create-false-certainty-myths-and-misconcept-science-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science wall art" data-ebay-reference="equal-airtime-does-equal-airtime-create-false-certainty-myths-and-misconcept-science-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=equal-airtime-does-equal-airtime-create-false-certainty-myths-and-misconcept-science-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science wall art" data-ebay-reference="equal-airtime-does-equal-airtime-create-false-certainty-myths-and-misconcept-science-wall-art" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=equal-airtime-does-equal-airtime-create-false-certainty-myths-and-misconcept-science-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science wall art" data-ebay-reference="equal-airtime-does-equal-airtime-create-false-certainty-myths-and-misconcept-science-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Science - Science Boy - Science Gir Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/cacc5712f12b7f185696.jpg' | relative_url }}" alt="Listing image for Science - Science Boy - Science Gir Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=equal-airtime-does-equal-airtime-create-false-certainty-myths-and-misconcept-science-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science wall art" data-ebay-reference="equal-airtime-does-equal-airtime-create-false-certainty-myths-and-misconcept-science-wall-art" target="_blank" rel="sponsored noopener noreferrer">Science - Science Boy - Science Gir Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=equal-airtime-does-equal-airtime-create-false-certainty-myths-and-misconcept-science-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science wall art" data-ebay-reference="equal-airtime-does-equal-airtime-create-false-certainty-myths-and-misconcept-science-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: science wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=equal-airtime-does-equal-airtime-create-false-certainty-myths-and-misconcept-science-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science wall art" data-ebay-reference="equal-airtime-does-equal-airtime-create-false-certainty-myths-and-misconcept-science-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=equal-airtime-does-equal-airtime-create-false-certainty-myths-and-misconcept-science-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science wall art" data-ebay-reference="equal-airtime-does-equal-airtime-create-false-certainty-myths-and-misconcept-science-wall-art" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -544,7 +544,7 @@ This is why equal airtime can mislead audiences. People naturally treat visibili
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -564,7 +564,7 @@ This is why equal airtime can mislead audiences. People naturally treat visibili
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -596,7 +596,7 @@ This is why equal airtime can mislead audiences. People naturally treat visibili
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -648,7 +648,7 @@ This is why equal airtime can mislead audiences. People naturally treat visibili
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -693,7 +693,7 @@ This is why equal airtime can mislead audiences. People naturally treat visibili
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -734,134 +734,134 @@ This is why equal airtime can mislead audiences. People naturally treat visibili
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: False balance  
-   Link: <a href="https://en.wikipedia.org/wiki/False_balance" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/False_balance</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>January 9, 2026 — False balance, known colloquially as bothsidesism, is a media bias in which journalists present an issue as being more...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/False_balance" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/False_balance</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>January 9, 2026 — False balance, known colloquially as bothsidesism, is a media bias in which journalists present an issue as being more...</p></details>
    Published: January 9, 2026  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCWeight-of-Evidence Strategies to Mitigate the Influence  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7528676/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC7528676/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>by P Schmid · 2020 · Cited by 41 — Extant research shows that falsely balanced reports can distort positive attitudes towards behaviou...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7528676/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC7528676/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by P Schmid · 2020 · Cited by 41 — Extant research shows that falsely balanced reports can distort positive attitudes towards behaviou...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/355382090_When_Fairness_is_Flawed_Effects_of_False_Balance_Reporting_and_Weight-of-Evidence_Statements_on_Beliefs_and_Perceptions_of_Climate_Change" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/355382090_When_Fairness_is_Flawed_Effects_of_False_Balance_Reporting_and_Weight-of-Evidence_Statements_on_Beliefs_and_Perceptions_of_Climate_Change</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Effects of False Balance Reporting and Weight-of-Evidence...Falsely balanced reports can expose individuals to arguments that run counte...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/355382090_When_Fairness_is_Flawed_Effects_of_False_Balance_Reporting_and_Weight-of-Evidence_Statements_on_Beliefs_and_Perceptions_of_Climate_Change" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/355382090_When_Fairness_is_Flawed_Effects_of_False_Balance_Reporting_and_Weight-of-Evidence_Statements_on_Beliefs_and_Perceptions_of_Climate_Change</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Effects of False Balance Reporting and Weight-of-Evidence...Falsely balanced reports can expose individuals to arguments that run counte...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0959378003000669" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0959378003000669</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Balance as bias: global warming and the US prestige pressby MT Boykoff · 2004 · Cited by 2915 — This paper demonstrates that...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/pii/S0959378003000669" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0959378003000669</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Balance as bias: global warming and the US prestige pressby MT Boykoff · 2004 · Cited by 2915 — This paper demonstrates that...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: academic.oup.com  
-   Link: <a href="https://academic.oup.com/edited-volume/61804/chapter/546619337?searchresult=1" target="_blank" rel="noopener noreferrer nofollow">https://academic.oup.com/edited-volume/61804/chapter/546619337?searchresult=1</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>OUP AcademicObjectivity, False Balance, and Advocacy in News Coverage...29 Mar 2017 — They strive to be accurate in their reporting and...</p></details>
+   Link:<a href="https://academic.oup.com/edited-volume/61804/chapter/546619337?searchresult=1" target="_blank" rel="noopener noreferrer nofollow">https://academic.oup.com/edited-volume/61804/chapter/546619337?searchresult=1</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>OUP AcademicObjectivity, False Balance, and Advocacy in News Coverage...29 Mar 2017 — They strive to be accurate in their reporting and...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: sciencedirect.com  
    Title: Online misinformation about climate change  
-   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0959378016305209" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0959378016305209</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Beyond false balance: How interpretive journalism shapes...by M Brüggemann · 2017 · Cited by 439 — Misinformation, disinfor...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/abs/pii/S0959378016305209" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0959378016305209</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Beyond false balance: How interpretive journalism shapes...by M Brüggemann · 2017 · Cited by 439 — Misinformation, disinfor...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: jstor.org  
-   Link: <a href="https://www.jstor.org/stable/48752503" target="_blank" rel="noopener noreferrer nofollow">https://www.jstor.org/stable/48752503</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>It also allows agents to ignore disconfirming data more...Read mo...</p></details>
+   Link:<a href="https://www.jstor.org/stable/48752503" target="_blank" rel="noopener noreferrer nofollow">https://www.jstor.org/stable/48752503</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>It also allows agents to ignore disconfirming data more...Read mo...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: Wikipedia  
    Title: Jules Boykoff  
-   Link: <a href="https://en.wikipedia.org/wiki/Jules_Boykoff" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Jules_Boykoff</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Jules BoykoffJules Boykoff (born September 11, 1970) is an American academic, author, and former professional soccer player. His resea...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Jules_Boykoff" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Jules_Boykoff</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Jules BoykoffJules Boykoff (born September 11, 1970) is an American academic, author, and former professional soccer player. His resea...</p></details>
    Published: September 11, 1970  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: mediahelpingmedia.org  
    Title: false equivalence and false balance  
-   Link: <a href="https://mediahelpingmedia.org/advanced/false-equivalence-and-false-balance/" target="_blank" rel="noopener noreferrer nofollow">https://mediahelpingmedia.org/advanced/false-equivalence-and-false-balance/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>18 Nov 2023 — False balance is when a report suggests that two sides in a dispute have equally valid arguments, when in fact the evidence...</p></details>
+   Link:<a href="https://mediahelpingmedia.org/advanced/false-equivalence-and-false-balance/" target="_blank" rel="noopener noreferrer nofollow">https://mediahelpingmedia.org/advanced/false-equivalence-and-false-balance/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>18 Nov 2023 — False balance is when a report suggests that two sides in a dispute have equally valid arguments, when in fact the evidence...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: healthjournalism.org  
-   Link: <a href="https://healthjournalism.org/glossary-terms/false-balance-false-equivalence/" target="_blank" rel="noopener noreferrer nofollow">https://healthjournalism.org/glossary-terms/false-balance-false-equivalence/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Association of Health Care JournalistsFalse balance (false equivalence)This lapse in responsible reporting refers to using outliers&#x27; voic...</p></details>
+   Link:<a href="https://healthjournalism.org/glossary-terms/false-balance-false-equivalence/" target="_blank" rel="noopener noreferrer nofollow">https://healthjournalism.org/glossary-terms/false-balance-false-equivalence/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Association of Health Care JournalistsFalse balance (false equivalence)This lapse in responsible reporting refers to using outliers&#x27; voic...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: undsci.berkeley.edu  
-   Link: <a href="https://undsci.berkeley.edu/understanding-science-101/a-scientific-approach-to-life-a-science-toolkit/beware-of-false-balance-are-the-views-of-the-scientific-community-accurately-portrayed/" target="_blank" rel="noopener noreferrer nofollow">https://undsci.berkeley.edu/understanding-science-101/a-scientific-approach-to-life-a-science-toolkit/beware-of-false-balance-are-the-views-of-the-scientific-community-accurately-portrayed/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Understanding ScienceBeware of false balance: Are the views of the scientific...Journalism and policies that falsely grant all viewpoint...</p></details>
+   Link:<a href="https://undsci.berkeley.edu/understanding-science-101/a-scientific-approach-to-life-a-science-toolkit/beware-of-false-balance-are-the-views-of-the-scientific-community-accurately-portrayed/" target="_blank" rel="noopener noreferrer nofollow">https://undsci.berkeley.edu/understanding-science-101/a-scientific-approach-to-life-a-science-toolkit/beware-of-false-balance-are-the-views-of-the-scientific-community-accurately-portrayed/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Understanding ScienceBeware of false balance: Are the views of the scientific...Journalism and policies that falsely grant all viewpoint...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: journals.sagepub.com  
-   Link: <a href="https://journals.sagepub.com/doi/10.1177/0963662515615087" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/0963662515615087</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sage JournalsThe influence of weight-of-evidence strategies on audience...8 Dec 2015 — The results of our study suggest weight-of-eviden...</p></details>
+   Link:<a href="https://journals.sagepub.com/doi/10.1177/0963662515615087" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/0963662515615087</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sage JournalsThe influence of weight-of-evidence strategies on audience...8 Dec 2015 — The results of our study suggest weight-of-eviden...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: spiral.imperial.ac.uk  
    Title: Spiral Chapter 8  
-   Link: <a href="https://spiral.imperial.ac.uk/server/api/core/bitstreams/f373f8aa-7395-4981-8f9b-1afe6317d28a/content" target="_blank" rel="noopener noreferrer nofollow">https://spiral.imperial.ac.uk/server/api/core/bitstreams/f373f8aa-7395-4981-8f9b-1afe6317d28a/content</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Partial to being impartial? Debates about...The norm of impartiality has been one of the most contentious aspects of science journalism...</p></details>
+   Link:<a href="https://spiral.imperial.ac.uk/server/api/core/bitstreams/f373f8aa-7395-4981-8f9b-1afe6317d28a/content" target="_blank" rel="noopener noreferrer nofollow">https://spiral.imperial.ac.uk/server/api/core/bitstreams/f373f8aa-7395-4981-8f9b-1afe6317d28a/content</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Partial to being impartial? Debates about...The norm of impartiality has been one of the most contentious aspects of science journalism...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: caj.ca  
    Title: False Balance  
-   Link: <a href="https://caj.ca/wp-content/uploads/False-Balance.pdf" target="_blank" rel="noopener noreferrer nofollow">https://caj.ca/wp-content/uploads/False-Balance.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Approved March 12 2024.docxmay introduce false balance into the public domain. False balance is defined as presenting two opposing views...</p></details>
+   Link:<a href="https://caj.ca/wp-content/uploads/False-Balance.pdf" target="_blank" rel="noopener noreferrer nofollow">https://caj.ca/wp-content/uploads/False-Balance.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Approved March 12 2024.docxmay introduce false balance into the public domain. False balance is defined as presenting two opposing views...</p></details>
 
 ### Additional References
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: climatechangecommunication.org  
-   Link: <a href="https://www.climatechangecommunication.org/wp-content/uploads/2023/09/Consensus_Handbook-1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.climatechangecommunication.org/wp-content/uploads/2023/09/Consensus_Handbook-1.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Center for Climate Change CommunicationThe Consensus HandbookOne of the most insidious, albeit often inadvertent forms of climate misinfo...</p></details>
+   Link:<a href="https://www.climatechangecommunication.org/wp-content/uploads/2023/09/Consensus_Handbook-1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.climatechangecommunication.org/wp-content/uploads/2023/09/Consensus_Handbook-1.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Center for Climate Change CommunicationThe Consensus HandbookOne of the most insidious, albeit often inadvertent forms of climate misinfo...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: julesboykoff.org  
-   Link: <a href="https://julesboykoff.org/" target="_blank" rel="noopener noreferrer nofollow">https://julesboykoff.org/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Jules BoykoffOfficial Jules Boykoff website. Resource site including books, academic articles, commentaries, interviews, poems, and photo...</p></details>
+   Link:<a href="https://julesboykoff.org/" target="_blank" rel="noopener noreferrer nofollow">https://julesboykoff.org/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Jules BoykoffOfficial Jules Boykoff website. Resource site including books, academic articles, commentaries, interviews, poems, and photo...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: pacificu.edu  
-   Link: <a href="https://www.pacificu.edu/about/directory/people/jules-boykoff-phd" target="_blank" rel="noopener noreferrer nofollow">https://www.pacificu.edu/about/directory/people/jules-boykoff-phd</a>  
+   Link:<a href="https://www.pacificu.edu/about/directory/people/jules-boykoff-phd" target="_blank" rel="noopener noreferrer nofollow">https://www.pacificu.edu/about/directory/people/jules-boykoff-phd</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: cambridge.org  
-   Link: <a href="https://www.cambridge.org/core/journals/episteme/article/epistemic-dangers-of-journalistic-balance/BE1300ED448BAE016576E07AC0C237EE" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/journals/episteme/article/epistemic-dangers-of-journalistic-balance/BE1300ED448BAE016576E07AC0C237EE</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Cambridge University Press &amp; AssessmentThe epistemic dangers of journalistic balanceby G Terzian · Cited by 9 — False balance continues t...</p></details>
+   Link:<a href="https://www.cambridge.org/core/journals/episteme/article/epistemic-dangers-of-journalistic-balance/BE1300ED448BAE016576E07AC0C237EE" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/journals/episteme/article/epistemic-dangers-of-journalistic-balance/BE1300ED448BAE016576E07AC0C237EE</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Cambridge University Press &amp; AssessmentThe epistemic dangers of journalistic balanceby G Terzian · Cited by 9 — False balance continues t...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: encyclopedia.com  
-   Link: <a href="https://www.encyclopedia.com/environment/energy-government-and-defense-magazines/media-influences-false-balance" target="_blank" rel="noopener noreferrer nofollow">https://www.encyclopedia.com/environment/energy-government-and-defense-magazines/media-influences-false-balance</a>  
+   Link:<a href="https://www.encyclopedia.com/environment/energy-government-and-defense-magazines/media-influences-false-balance" target="_blank" rel="noopener noreferrer nofollow">https://www.encyclopedia.com/environment/energy-government-and-defense-magazines/media-influences-false-balance</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: reteclima.it  
-   Link: <a href="https://www.reteclima.it/wp-content/uploads/Cook_2019_climate_misinformation-1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.reteclima.it/wp-content/uploads/Cook_2019_climate_misinformation-1.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>In Chiluwa, I. &amp; Samoilenko, S. (Eds.). Handbook of Research on Deception, [Fake News](&amp;#123;&amp;#123; &#x27;fake-news/&#x27; | relative_url &amp;#125;&amp;#125;), and...</p></details>
+   Link:<a href="https://www.reteclima.it/wp-content/uploads/Cook_2019_climate_misinformation-1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.reteclima.it/wp-content/uploads/Cook_2019_climate_misinformation-1.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>In Chiluwa, I. &amp; Samoilenko, S. (Eds.). Handbook of Research on Deception, [Fake News](&amp;#123;&amp;#123; &#x27;fake-news/&#x27; | relative_url &amp;#125;&amp;#125;), and...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: fair.org  
    Title: Journalistic Balance as Global Warming Bias  
-   Link: <a href="https://fair.org/home/journalistic-balance-as-global-warming-bias/" target="_blank" rel="noopener noreferrer nofollow">https://fair.org/home/journalistic-balance-as-global-warming-bias/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>1, 2015 — Through “balanced” coverage, the mass media have misrepresented the scientific consensus of humans&#x27; contribution to global warm...</p></details>
+   Link:<a href="https://fair.org/home/journalistic-balance-as-global-warming-bias/" target="_blank" rel="noopener noreferrer nofollow">https://fair.org/home/journalistic-balance-as-global-warming-bias/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>1, 2015 — Through “balanced” coverage, the mass media have misrepresented the scientific consensus of humans&#x27; contribution to global warm...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: facebook.com  
    Title: Avoiding bias is a laudable goal  
-   Link: <a href="https://www.facebook.com/ThinkingPowers/posts/avoiding-bias-is-a-laudable-goal-but-there-arent-always-two-sides-to-every-story/620055799716703/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ThinkingPowers/posts/avoiding-bias-is-a-laudable-goal-but-there-arent-always-two-sides-to-every-story/620055799716703/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>But there aren&#x27;t always “...Giving equal weight to an unsupported position is a false balance, and it can mislead and confuse the audien...</p></details>
+   Link:<a href="https://www.facebook.com/ThinkingPowers/posts/avoiding-bias-is-a-laudable-goal-but-there-arent-always-two-sides-to-every-story/620055799716703/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ThinkingPowers/posts/avoiding-bias-is-a-laudable-goal-but-there-arent-always-two-sides-to-every-story/620055799716703/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>But there aren&#x27;t always “...Giving equal weight to an unsupported position is a false balance, and it can mislead and confuse the audien...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6680130/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC6680130/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A dangerous balancing act - PMC - NIHby DR Grimes · 2019 · Cited by 35 — False balance creates a perception in the public mind that an...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6680130/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC6680130/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A dangerous balancing act - PMC - NIHby DR Grimes · 2019 · Cited by 35 — False balance creates a perception in the public mind that an...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: sciencecommunicationbreakdown.wordpress.com  
    Title: false balance 2015  
-   Link: <a href="https://sciencecommunicationbreakdown.wordpress.com/2015/04/10/false-balance-2015/" target="_blank" rel="noopener noreferrer nofollow">https://sciencecommunicationbreakdown.wordpress.com/2015/04/10/false-balance-2015/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Substantial Costs and Minimal Benefits of False Balance10 Apr 2015 — For the purposes of this post, I&#x27;ll define “false balance” as when a...</p></details>
+   Link:<a href="https://sciencecommunicationbreakdown.wordpress.com/2015/04/10/false-balance-2015/" target="_blank" rel="noopener noreferrer nofollow">https://sciencecommunicationbreakdown.wordpress.com/2015/04/10/false-balance-2015/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Substantial Costs and Minimal Benefits of False Balance10 Apr 2015 — For the purposes of this post, I&#x27;ll define “false balance” as when a...</p></details>

@@ -274,7 +274,7 @@ image: /assets/images/Myths_and_misconcept_0d48d7_political_myth_resis_f90f95_lo
 
 ## Introduction
 
-Correcting a political myth is not only a question of presenting better evidence. In many cases, the real obstacle is identity threat. When people feel that a [correction]({{ 'correction/' | relative_url }}) is trying to embarrass them, expose them as gullible, or push them outside their political community, they often become defensive before they even evaluate the facts. Research on misinformation and identity-protective cognition suggests that [corrections]({{ 'corrections/' | relative_url }}) are more effective when they reduce social threat and allow people to reconsider a claim without feeling personally attacked. <span class="citation-chip-wrap"><a class="citation-chip" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2973067" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: papers.ssrn.com">[SSRN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">papers.ssrn.com</span><span class="citation-popover-snippet">Misconceptions, Misinformation, and the Logic of Identity-...by DM Kahan  2017  Cited by 582  Identity protective cognition refer...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.semanticscholar.org/paper/Misinformation-and-Identity-Protective-Cognition-Kahan/06c54da8033d3449a283722d367b0856de4b10dc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: semanticscholar.org">[Semantic Scholar]</a><span class="citation-popover" role="note"><span class="citation-popover-source">semanticscholar.org</span><span class="citation-popover-snippet">Misinformation and Identity-Protective Cognition2 Oct 2017  This paper synthesizes existing work on misinformation relating to policy-re...</span></span></span>
+Correcting a political myth is not only a question of presenting better evidence. In many cases, the real obstacle is identity threat. When people feel that a [correction]({{ 'correction/' | relative_url }}) is trying to embarrass them, expose them as gullible, or push them outside their political community, they often become defensive before they even evaluate the facts. Research on misinformation and identity-protective cognition suggests that [corrections]({{ 'corrections/' | relative_url }}) are more effective when they reduce social threat and allow people to reconsider a claim without feeling personally attacked.<span class="citation-chip-wrap"><a class="citation-chip" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2973067" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: papers.ssrn.com">[SSRN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">papers.ssrn.com</span><span class="citation-popover-snippet">Misconceptions, Misinformation, and the Logic of Identity-...by DM Kahan  2017  Cited by 582  Identity protective cognition refer...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.semanticscholar.org/paper/Misinformation-and-Identity-Protective-Cognition-Kahan/06c54da8033d3449a283722d367b0856de4b10dc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: semanticscholar.org">[Semantic Scholar]</a><span class="citation-popover" role="note"><span class="citation-popover-source">semanticscholar.org</span><span class="citation-popover-snippet">Misinformation and Identity-Protective Cognition2 Oct 2017  This paper synthesizes existing work on misinformation relating to policy-re...</span></span></span>
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_political_myth_resis_f90f95_low_conflict_correct_93067a-Illustration-1-dark.svg" | relative_url }}" alt="Low Conflict illustration 1" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_political_myth_resis_f90f95_low_conflict_correct_93067a-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_political_myth_resis_f90f95_low_conflict_correct_93067a-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 This is why low-[conflict]({{ 'conflict/' | relative_url }}) corrections matter. They do not abandon accuracy or avoid disagreement. Instead, they separate the factual claim from the person's dignity, status and group belonging. In politically polarised environments, that distinction can determine whether a correction is heard as useful information or as a social challenge.
@@ -283,7 +283,7 @@ This is why low-[conflict]({{ 'conflict/' | relative_url }}) corrections matter.
 
 Many failed corrections share the same pattern: they frame the conversation as a contest between intelligent people and foolish people, or between good citizens and bad citizens. Once a correction takes that form, the factual issue becomes entangled with self-respect and [group loyalty]({{ 'group-loyalty/' | relative_url }}).
 
-Research associated with [identity]({{ 'identity/' | relative_url }})-protective cognition finds that people often assess evidence in ways that protect valued social identities. When a factual correction threatens those identities, resistance can increase even when the evidence is strong. The problem is not simply ignorance. People may selectively trust information that aligns with their group while scrutinising information that appears to come from a hostile camp. <span class="citation-chip-wrap"><a class="citation-chip" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2973067" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: papers.ssrn.com">[SSRN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">papers.ssrn.com</span><span class="citation-popover-snippet">Misconceptions, Misinformation, and the Logic of Identity-...by DM Kahan  2017  Cited by 582  Identity protective cognition refer...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.fondationdescartes.org/en/2020/06/les-idees-fausses-les-fausses-informations-et-la-logique-du-raisonnement-pour-proteger-son-identite/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fondationdescartes.org">[Fondation Descartes]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fondationdescartes.org</span><span class="citation-popover-snippet">False ideas, fake information, and the logic of identity-...This 2017 article is a preparatory work proposed by social scientist Dan Kah...</span></span></span>
+Research associated with [identity]({{ 'identity/' | relative_url }})-protective cognition finds that people often assess evidence in ways that protect valued social identities. When a factual correction threatens those identities, resistance can increase even when the evidence is strong. The problem is not simply ignorance. People may selectively trust information that aligns with their group while scrutinising information that appears to come from a hostile camp.<span class="citation-chip-wrap"><a class="citation-chip" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2973067" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: papers.ssrn.com">[SSRN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">papers.ssrn.com</span><span class="citation-popover-snippet">Misconceptions, Misinformation, and the Logic of Identity-...by DM Kahan  2017  Cited by 582  Identity protective cognition refer...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.fondationdescartes.org/en/2020/06/les-idees-fausses-les-fausses-informations-et-la-logique-du-raisonnement-pour-proteger-son-identite/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fondationdescartes.org">[Fondation Descartes]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fondationdescartes.org</span><span class="citation-popover-snippet">False ideas, fake information, and the logic of identity-...This 2017 article is a preparatory work proposed by social scientist Dan Kah...</span></span></span>
 
 Aggressive corrections can create several problems at once:
 
@@ -298,7 +298,7 @@ Aggressive corrections can create several problems at once:
 
 This dynamic helps explain why public shaming [campaigns]({{ 'campaigns/' | relative_url }}) often produce mixed results. Even when the correction is factually accurate, the recipient may focus on defending identity rather than evaluating evidence.
 
-Researchers studying political fact-checking have also found that contextual cues can influence how corrections are received. Information that activates group-based assumptions or political narratives can undermine acceptance of corrective information by encouraging scepticism toward the correction itself. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://rkellygarrett.com/wp-content/uploads/2014/05/Garrett-et-al.-Undermining-Corrective-Effects1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rkellygarrett.com">[R. Kelly Garrett]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rkellygarrett.com</span><span class="citation-popover-title">Garrett et al. Undermining Corrective Effects1</span><span class="citation-popover-snippet">Kelly GarrettUndermining the Corrective Effects of MediaBased Political...June 13, 2013  by RK Garrett  Cited by 250  Media-based fac...</span><span class="citation-popover-meta">Published: June 13, 2013</span></span></span>
+Researchers studying political fact-checking have also found that contextual cues can influence how corrections are received. Information that activates group-based assumptions or political narratives can undermine acceptance of corrective information by encouraging scepticism toward the correction itself.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://rkellygarrett.com/wp-content/uploads/2014/05/Garrett-et-al.-Undermining-Corrective-Effects1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rkellygarrett.com">[R. Kelly Garrett]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rkellygarrett.com</span><span class="citation-popover-title">Garrett et al. Undermining Corrective Effects1</span><span class="citation-popover-snippet">Kelly GarrettUndermining the Corrective Effects of MediaBased Political...June 13, 2013  by RK Garrett  Cited by 250  Media-based fac...</span><span class="citation-popover-meta">Published: June 13, 2013</span></span></span>
 
 The result is that people may reject not only the specific correction but also the messenger.
 
@@ -310,7 +310,7 @@ One common approach is value affirmation. Rather than opening with a direct accu
 
 For example, a correction about election misinformation may begin by recognising that election integrity matters. A correction about public health misinformation may acknowledge concerns about government accountability or personal autonomy before addressing the factual claim itself.
 
-The psychological logic is straightforward. If people feel their values are recognised, they are less likely to interpret corrective information as an attack on who they are. Research on misinformation consistently finds that corrections interact with social and affective factors, not just information quality. Worldviews, trust relationships and perceived threats all influence whether new information is accepted. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nature.com/articles/s44159-021-00006-y" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">The psychological drivers of misinformation belief and its...by UKH Ecker  2022  Cited by 1916  In this Review, we describe the...</span></span></span>
+The psychological logic is straightforward. If people feel their values are recognised, they are less likely to interpret corrective information as an attack on who they are. Research on misinformation consistently finds that corrections interact with social and affective factors, not just information quality. Worldviews, trust relationships and perceived threats all influence whether new information is accepted.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nature.com/articles/s44159-021-00006-y" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">The psychological drivers of misinformation belief and its...by UKH Ecker  2022  Cited by 1916  In this Review, we describe the...</span></span></span>
 
 This does not mean affirming false claims. It means separating the underlying concern from the inaccurate conclusion.
 
@@ -332,7 +332,7 @@ These messages allow someone to retain a valued identity while revising a factua
 
 The language used in corrections can affect whether people experience them as invitations or confrontations.
 
-Studies examining misinformation correction on social media have identified the importance of relational concerns and politeness norms. Corrections that preserve social relationships can be received differently from those that openly challenge competence or character. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ijoc.org/index.php/ijoc/article/viewFile/18361/3762" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ijoc.org">[International Journal of Communication]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ijoc.org</span><span class="citation-popover-title">view File</span><span class="citation-popover-snippet">International Journal of CommunicationStrategies for Polite Misinformation Correctionby P Malhotra  2022  Cited by 46  One gap in misi...</span></span></span>
+Studies examining misinformation correction on social media have identified the importance of relational concerns and politeness norms. Corrections that preserve social relationships can be received differently from those that openly challenge competence or character.<span class="citation-chip-wrap"><a class="citation-chip" href="https://ijoc.org/index.php/ijoc/article/viewFile/18361/3762" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ijoc.org">[International Journal of Communication]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ijoc.org</span><span class="citation-popover-title">view File</span><span class="citation-popover-snippet">International Journal of CommunicationStrategies for Polite Misinformation Correctionby P Malhotra  2022  Cited by 46  One gap in misi...</span></span></span>
 
 Several communication choices tend to reduce identity threat.
 
@@ -384,7 +384,7 @@ This approach avoids the impression that correction requires total agreement wit
 
 People rarely encounter corrections as isolated facts. They encounter them through social relationships.
 
-A correction from a trusted member of the same political, religious or cultural community may create less identity threat than the identical correction delivered by a perceived opponent. Research on misinformation repeatedly finds that source credibility and group trust affect whether corrective messages are accepted. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Misinformation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+A correction from a trusted member of the same political, religious or cultural community may create less identity threat than the identical correction delivered by a perceived opponent. Research on misinformation repeatedly finds that source credibility and group trust affect whether corrective messages are accepted.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Misinformation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 This does not mean that only in-group messengers can succeed. However, it helps explain why corrections often work better when they avoid signalling contempt for the audience.
 
@@ -395,7 +395,7 @@ The same factual statement can produce different reactions depending on whether 
 
 The second formulation reduces the implication that accepting the correction requires abandoning group membership.
 
-Research on politically charged misinformation has also found promising results from narrative-based corrective approaches. Rather than presenting a correction as a direct confrontation, these approaches embed factual information within stories that provide emotional resolution and reduce defensive processing. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11358629/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCUsing narratives to correct politically charged health</span><span class="citation-popover-snippet">by HM Lillie  2024  Cited by 10  This study investigated the efficacy of a narrative corrective with a relief ending for correcting...</span></span></span>
+Research on politically charged misinformation has also found promising results from narrative-based corrective approaches. Rather than presenting a correction as a direct confrontation, these approaches embed factual information within stories that provide emotional resolution and reduce defensive processing.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11358629/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCUsing narratives to correct politically charged health</span><span class="citation-popover-snippet">by HM Lillie  2024  Cited by 10  This study investigated the efficacy of a narrative corrective with a relief ending for correcting...</span></span></span>
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_political_myth_resis_f90f95_low_conflict_correct_93067a-Illustration-3-dark.svg" | relative_url }}" alt="Low Conflict illustration 3" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_political_myth_resis_f90f95_low_conflict_correct_93067a-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_political_myth_resis_f90f95_low_conflict_correct_93067a-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Low-conflict correction is not the same as avoiding disagreement
@@ -404,206 +404,206 @@ A common misunderstanding is that reducing identity threat requires avoiding har
 
 Effective correction still involves identifying false claims, presenting evidence and challenging inaccuracies. What changes is the social framing. The goal is to make factual revision psychologically possible rather than socially costly.
 
-Research reviews generally find that factual corrections help more often than they harm, and dramatic [backfire]({{ 'backfire/' | relative_url }}) effects appear less common than once feared. However, correction effectiveness depends heavily on context, including wording, presentation and audience investment in the issue. <span class="citation-chip-wrap"><a class="citation-chip" href="https://carnegieendowment.org/russia-eurasia/research/2024/01/countering-disinformation-effectively-an-evidence-based-policy-guide" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: carnegieendowment.org">[Carnegie Endowment]</a><span class="citation-popover" role="note"><span class="citation-popover-source">carnegieendowment.org</span><span class="citation-popover-title">countering disinformation effectively an evidence based policy guide</span><span class="citation-popover-snippet">Carnegie EndowmentCountering Disinformation Effectively: An Evidence-Based...31 Jan 2024  A large body of research indicates that fact...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8715407/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCCorrection format has a limited role when debunking</span><span class="citation-popover-snippet">by B Swire-Thompson  2021  Cited by 79  Abstract. Given that being misinformed can have negative ramifications, finding optimal cor...</span></span></span>
+Research reviews generally find that factual corrections help more often than they harm, and dramatic [backfire]({{ 'backfire/' | relative_url }}) effects appear less common than once feared. However, correction effectiveness depends heavily on context, including wording, presentation and audience investment in the issue.<span class="citation-chip-wrap"><a class="citation-chip" href="https://carnegieendowment.org/russia-eurasia/research/2024/01/countering-disinformation-effectively-an-evidence-based-policy-guide" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: carnegieendowment.org">[Carnegie Endowment]</a><span class="citation-popover" role="note"><span class="citation-popover-source">carnegieendowment.org</span><span class="citation-popover-title">countering disinformation effectively an evidence based policy guide</span><span class="citation-popover-snippet">Carnegie EndowmentCountering Disinformation Effectively: An Evidence-Based...31 Jan 2024  A large body of research indicates that fact...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8715407/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCCorrection format has a limited role when debunking</span><span class="citation-popover-snippet">by B Swire-Thompson  2021  Cited by 79  Abstract. Given that being misinformed can have negative ramifications, finding optimal cor...</span></span></span>
 
 When a myth has become linked to political identity, a successful correction often sends two messages simultaneously:
 
 1. The claim is inaccurate.
 2. Accepting that fact does not require losing dignity, values or belonging.
 
-That combination helps explain why low-conflict approaches can sometimes succeed where aggressive debunking fails. They recognise that political myths are not only beliefs about the world. They are often tied to social identities, and people are more willing to reconsider a claim when doing so does not feel like a public defeat. <span class="citation-chip-wrap"><a class="citation-chip" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2973067" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: papers.ssrn.com">[SSRN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">papers.ssrn.com</span><span class="citation-popover-snippet">Misconceptions, Misinformation, and the Logic of Identity-...by DM Kahan  2017  Cited by 582  Identity protective cognition refer...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.semanticscholar.org/paper/Misinformation-and-Identity-Protective-Cognition-Kahan/06c54da8033d3449a283722d367b0856de4b10dc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: semanticscholar.org">[Semantic Scholar]</a><span class="citation-popover" role="note"><span class="citation-popover-source">semanticscholar.org</span><span class="citation-popover-snippet">Misinformation and Identity-Protective Cognition2 Oct 2017  This paper synthesizes existing work on misinformation relating to policy-re...</span></span></span>
+That combination helps explain why low-conflict approaches can sometimes succeed where aggressive debunking fails. They recognise that political myths are not only beliefs about the world. They are often tied to social identities, and people are more willing to reconsider a claim when doing so does not feel like a public defeat.<span class="citation-chip-wrap"><a class="citation-chip" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2973067" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: papers.ssrn.com">[SSRN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">papers.ssrn.com</span><span class="citation-popover-snippet">Misconceptions, Misinformation, and the Logic of Identity-...by DM Kahan  2017  Cited by 582  Identity protective cognition refer...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.semanticscholar.org/paper/Misinformation-and-Identity-Protective-Cognition-Kahan/06c54da8033d3449a283722d367b0856de4b10dc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: semanticscholar.org">[Semantic Scholar]</a><span class="citation-popover" role="note"><span class="citation-popover-source">semanticscholar.org</span><span class="citation-popover-snippet">Misinformation and Identity-Protective Cognition2 Oct 2017  This paper synthesizes existing work on misinformation relating to policy-re...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/RcGkHrPSzDc" title="Try THIS the Next Time You Have an Uncomfortable Conversation | Simon Sinek" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=RcGkHrPSzDc" target="_blank" rel="noopener noreferrer">Try THIS the Next Time You Have an Uncomfortable Conversation | Simon Sinek</a></p><p class="youtube-embed-meta">Channel: Simon Sinek &middot; Views: 861.1K &middot; Uploaded: July 2023 &middot; Length: 4 minutes 25 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=RcGkHrPSzDc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=RcGkHrPSzDc">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How to Correct Myths Without Starting a Fight. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How to Correct Myths Without Starting a Fight. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Difficult+Conversations+by+Douglas+Stone&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Difficult Conversations on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=D5HxtvaRzdwC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Difficult Conversations" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Difficult+Conversations+by+Douglas+Stone&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Difficult Conversations">Difficult Conversations</a>
-        </h4>
-        <p class="fr-book-author">By Douglas Stone, Bruce Patton et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Difficult+Conversations+by+Douglas+Stone&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Difficult Conversations on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=D5HxtvaRzdwC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Difficult Conversations" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Difficult+Conversations+by+Douglas+Stone&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Difficult Conversations">Difficult Conversations</a>
+</h4>
+<p class="fr-book-author">By Douglas Stone, Bruce Patton et al.</p>
         
-        <p class="fr-book-desc">Helps separate identity and dignity from disagreements.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Difficult+Conversations+by+Douglas+Stone&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps separate identity and dignity from disagreements.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Difficult+Conversations+by+Douglas+Stone&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Crucial+Conversations+Kerry+Patterson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Crucial Conversations on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/1711809-M.jpg" alt="Cover for Crucial Conversations" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Crucial+Conversations+Kerry+Patterson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Crucial Conversations">Crucial Conversations</a>
-        </h4>
-        <p class="fr-book-author">By Kerry Patterson, Joseph Grenny et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Crucial+Conversations+Kerry+Patterson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Crucial Conversations on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/1711809-M.jpg" alt="Cover for Crucial Conversations" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Crucial+Conversations+Kerry+Patterson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Crucial Conversations">Crucial Conversations</a>
+</h4>
+<p class="fr-book-author">By Kerry Patterson, Joseph Grenny et al.</p>
         
-        <p class="fr-book-desc">First published 2001. Subjects: Nonfiction, Business, Communication, Gespräch, Business Communication.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Crucial+Conversations+Kerry+Patterson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2001. Subjects: Nonfiction, Business, Communication, Gespräch, Business Communication.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Crucial+Conversations+Kerry+Patterson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+Minds+Change+David+McRaney&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How Minds Change on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/11954199-M.jpg" alt="Cover for How Minds Change" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+Minds+Change+David+McRaney&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How Minds Change">How Minds Change</a>
-        </h4>
-        <p class="fr-book-author">By David McRaney</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+Minds+Change+David+McRaney&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How Minds Change on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/11954199-M.jpg" alt="Cover for How Minds Change" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=How+Minds+Change+David+McRaney&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How Minds Change">How Minds Change</a>
+</h4>
+<p class="fr-book-author">By David McRaney</p>
         
-        <p class="fr-book-desc">First published 2019.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+Minds+Change+David+McRaney&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2019.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=How+Minds+Change+David+McRaney&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Scout+Mindset+Julia+Galef&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Scout Mindset on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10690900-M.jpg" alt="Cover for Scout Mindset" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Scout+Mindset+Julia+Galef&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scout Mindset">Scout Mindset</a>
-        </h4>
-        <p class="fr-book-author">By Julia Galef</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Scout+Mindset+Julia+Galef&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Scout Mindset on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10690900-M.jpg" alt="Cover for Scout Mindset" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Scout+Mindset+Julia+Galef&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scout Mindset">Scout Mindset</a>
+</h4>
+<p class="fr-book-author">By Julia Galef</p>
         
-        <p class="fr-book-desc">First published 2021. Subjects: Economics, Psychology, Cognition, Skepticism, Critical thinking.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Scout+Mindset+Julia+Galef&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2021. Subjects: Economics, Psychology, Cognition, Skepticism, Critical thinking.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Scout+Mindset+Julia+Galef&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Difficult+Conversations&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Difficult Conversations</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Crucial+Conversations&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Crucial Conversations</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+Minds+Change&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How Minds Change</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Difficult+Conversations&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Difficult Conversations</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Crucial+Conversations&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Crucial Conversations</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=How+Minds+Change&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How Minds Change</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=journalism+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=low-conflict-how-to-correct-myths-without-starting-a-fight-myths-and-misconcept-journalism-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="journalism poster" data-ebay-reference="low-conflict-how-to-correct-myths-without-starting-a-fight-myths-and-misconcept-journalism-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Journalism Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/653de9bd276f6160d54e.jpg' | relative_url }}" alt="Listing image for Journalism Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=journalism+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=low-conflict-how-to-correct-myths-without-starting-a-fight-myths-and-misconcept-journalism-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="journalism poster" data-ebay-reference="low-conflict-how-to-correct-myths-without-starting-a-fight-myths-and-misconcept-journalism-poster" target="_blank" rel="sponsored noopener noreferrer">Journalism Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=journalism+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=low-conflict-how-to-correct-myths-without-starting-a-fight-myths-and-misconcept-journalism-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="journalism poster" data-ebay-reference="low-conflict-how-to-correct-myths-without-starting-a-fight-myths-and-misconcept-journalism-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for journalism poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: journalism poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=journalism+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=low-conflict-how-to-correct-myths-without-starting-a-fight-myths-and-misconcept-journalism-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="journalism poster" data-ebay-reference="low-conflict-how-to-correct-myths-without-starting-a-fight-myths-and-misconcept-journalism-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=journalism+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=low-conflict-how-to-correct-myths-without-starting-a-fight-myths-and-misconcept-journalism-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="journalism poster" data-ebay-reference="low-conflict-how-to-correct-myths-without-starting-a-fight-myths-and-misconcept-journalism-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Journalism Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/653de9bd276f6160d54e.jpg' | relative_url }}" alt="Listing image for Journalism Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=journalism+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=low-conflict-how-to-correct-myths-without-starting-a-fight-myths-and-misconcept-journalism-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="journalism poster" data-ebay-reference="low-conflict-how-to-correct-myths-without-starting-a-fight-myths-and-misconcept-journalism-poster" target="_blank" rel="sponsored noopener noreferrer">Journalism Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=journalism+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=low-conflict-how-to-correct-myths-without-starting-a-fight-myths-and-misconcept-journalism-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="journalism poster" data-ebay-reference="low-conflict-how-to-correct-myths-without-starting-a-fight-myths-and-misconcept-journalism-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for journalism poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: journalism poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=journalism+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=low-conflict-how-to-correct-myths-without-starting-a-fight-myths-and-misconcept-journalism-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="journalism poster" data-ebay-reference="low-conflict-how-to-correct-myths-without-starting-a-fight-myths-and-misconcept-journalism-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=journalism+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=low-conflict-how-to-correct-myths-without-starting-a-fight-myths-and-misconcept-journalism-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="journalism poster" data-ebay-reference="low-conflict-how-to-correct-myths-without-starting-a-fight-myths-and-misconcept-journalism-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Colourful Journalism Art Print Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/814520aa0cb49773a1b6.jpg' | relative_url }}" alt="Listing image for Colourful Journalism Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=journalism+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=low-conflict-how-to-correct-myths-without-starting-a-fight-myths-and-misconcept-journalism-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="journalism poster" data-ebay-reference="low-conflict-how-to-correct-myths-without-starting-a-fight-myths-and-misconcept-journalism-poster" target="_blank" rel="sponsored noopener noreferrer">Colourful Journalism Art Print Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=journalism+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=low-conflict-how-to-correct-myths-without-starting-a-fight-myths-and-misconcept-journalism-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="journalism poster" data-ebay-reference="low-conflict-how-to-correct-myths-without-starting-a-fight-myths-and-misconcept-journalism-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for journalism poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: journalism poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=journalism+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=low-conflict-how-to-correct-myths-without-starting-a-fight-myths-and-misconcept-journalism-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="journalism poster" data-ebay-reference="low-conflict-how-to-correct-myths-without-starting-a-fight-myths-and-misconcept-journalism-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=journalism+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=low-conflict-how-to-correct-myths-without-starting-a-fight-myths-and-misconcept-journalism-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="journalism poster" data-ebay-reference="low-conflict-how-to-correct-myths-without-starting-a-fight-myths-and-misconcept-journalism-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Colourful Journalism Art Print Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/814520aa0cb49773a1b6.jpg' | relative_url }}" alt="Listing image for Colourful Journalism Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=journalism+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=low-conflict-how-to-correct-myths-without-starting-a-fight-myths-and-misconcept-journalism-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="journalism poster" data-ebay-reference="low-conflict-how-to-correct-myths-without-starting-a-fight-myths-and-misconcept-journalism-poster" target="_blank" rel="sponsored noopener noreferrer">Colourful Journalism Art Print Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=journalism+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=low-conflict-how-to-correct-myths-without-starting-a-fight-myths-and-misconcept-journalism-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="journalism poster" data-ebay-reference="low-conflict-how-to-correct-myths-without-starting-a-fight-myths-and-misconcept-journalism-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for journalism poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: journalism poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=journalism+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=low-conflict-how-to-correct-myths-without-starting-a-fight-myths-and-misconcept-journalism-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="journalism poster" data-ebay-reference="low-conflict-how-to-correct-myths-without-starting-a-fight-myths-and-misconcept-journalism-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=journalism+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=low-conflict-how-to-correct-myths-without-starting-a-fight-myths-and-misconcept-journalism-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="journalism poster" data-ebay-reference="low-conflict-how-to-correct-myths-without-starting-a-fight-myths-and-misconcept-journalism-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Journalism Definition Meaning Art P Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/de5014adfd25142455c8.jpg' | relative_url }}" alt="Listing image for Journalism Definition Meaning Art P Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=journalism+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=low-conflict-how-to-correct-myths-without-starting-a-fight-myths-and-misconcept-journalism-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="journalism poster" data-ebay-reference="low-conflict-how-to-correct-myths-without-starting-a-fight-myths-and-misconcept-journalism-poster" target="_blank" rel="sponsored noopener noreferrer">Journalism Definition Meaning Art P Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=journalism+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=low-conflict-how-to-correct-myths-without-starting-a-fight-myths-and-misconcept-journalism-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="journalism poster" data-ebay-reference="low-conflict-how-to-correct-myths-without-starting-a-fight-myths-and-misconcept-journalism-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for journalism poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: journalism poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=journalism+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=low-conflict-how-to-correct-myths-without-starting-a-fight-myths-and-misconcept-journalism-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="journalism poster" data-ebay-reference="low-conflict-how-to-correct-myths-without-starting-a-fight-myths-and-misconcept-journalism-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=journalism+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=low-conflict-how-to-correct-myths-without-starting-a-fight-myths-and-misconcept-journalism-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="journalism poster" data-ebay-reference="low-conflict-how-to-correct-myths-without-starting-a-fight-myths-and-misconcept-journalism-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Journalism Definition Meaning Art P Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/de5014adfd25142455c8.jpg' | relative_url }}" alt="Listing image for Journalism Definition Meaning Art P Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=journalism+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=low-conflict-how-to-correct-myths-without-starting-a-fight-myths-and-misconcept-journalism-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="journalism poster" data-ebay-reference="low-conflict-how-to-correct-myths-without-starting-a-fight-myths-and-misconcept-journalism-poster" target="_blank" rel="sponsored noopener noreferrer">Journalism Definition Meaning Art P Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=journalism+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=low-conflict-how-to-correct-myths-without-starting-a-fight-myths-and-misconcept-journalism-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="journalism poster" data-ebay-reference="low-conflict-how-to-correct-myths-without-starting-a-fight-myths-and-misconcept-journalism-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for journalism poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: journalism poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=journalism+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=low-conflict-how-to-correct-myths-without-starting-a-fight-myths-and-misconcept-journalism-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="journalism poster" data-ebay-reference="low-conflict-how-to-correct-myths-without-starting-a-fight-myths-and-misconcept-journalism-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=journalism+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=low-conflict-how-to-correct-myths-without-starting-a-fight-myths-and-misconcept-journalism-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="journalism poster" data-ebay-reference="low-conflict-how-to-correct-myths-without-starting-a-fight-myths-and-misconcept-journalism-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Journalism Definition Meaning Art P Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/2b11b4a6d0628311daa6.jpg' | relative_url }}" alt="Listing image for Journalism Definition Meaning Art P Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=journalism+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=low-conflict-how-to-correct-myths-without-starting-a-fight-myths-and-misconcept-journalism-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="journalism poster" data-ebay-reference="low-conflict-how-to-correct-myths-without-starting-a-fight-myths-and-misconcept-journalism-poster" target="_blank" rel="sponsored noopener noreferrer">Journalism Definition Meaning Art P Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=journalism+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=low-conflict-how-to-correct-myths-without-starting-a-fight-myths-and-misconcept-journalism-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="journalism poster" data-ebay-reference="low-conflict-how-to-correct-myths-without-starting-a-fight-myths-and-misconcept-journalism-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for journalism poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: journalism poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=journalism+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=low-conflict-how-to-correct-myths-without-starting-a-fight-myths-and-misconcept-journalism-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="journalism poster" data-ebay-reference="low-conflict-how-to-correct-myths-without-starting-a-fight-myths-and-misconcept-journalism-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=journalism+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=low-conflict-how-to-correct-myths-without-starting-a-fight-myths-and-misconcept-journalism-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="journalism poster" data-ebay-reference="low-conflict-how-to-correct-myths-without-starting-a-fight-myths-and-misconcept-journalism-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=journalism+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=low-conflict-how-to-correct-myths-without-starting-a-fight-myths-and-misconcept-journalism-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="journalism poster" data-ebay-reference="low-conflict-how-to-correct-myths-without-starting-a-fight-myths-and-misconcept-journalism-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Journalism Definition Meaning Art P Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/2b11b4a6d0628311daa6.jpg' | relative_url }}" alt="Listing image for Journalism Definition Meaning Art P Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=journalism+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=low-conflict-how-to-correct-myths-without-starting-a-fight-myths-and-misconcept-journalism-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="journalism poster" data-ebay-reference="low-conflict-how-to-correct-myths-without-starting-a-fight-myths-and-misconcept-journalism-poster" target="_blank" rel="sponsored noopener noreferrer">Journalism Definition Meaning Art P Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=journalism+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=low-conflict-how-to-correct-myths-without-starting-a-fight-myths-and-misconcept-journalism-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="journalism poster" data-ebay-reference="low-conflict-how-to-correct-myths-without-starting-a-fight-myths-and-misconcept-journalism-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for journalism poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: journalism poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=journalism+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=low-conflict-how-to-correct-myths-without-starting-a-fight-myths-and-misconcept-journalism-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="journalism poster" data-ebay-reference="low-conflict-how-to-correct-myths-without-starting-a-fight-myths-and-misconcept-journalism-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=journalism+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=low-conflict-how-to-correct-myths-without-starting-a-fight-myths-and-misconcept-journalism-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="journalism poster" data-ebay-reference="low-conflict-how-to-correct-myths-without-starting-a-fight-myths-and-misconcept-journalism-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -619,7 +619,7 @@ That combination helps explain why low-conflict approaches can sometimes succeed
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -639,7 +639,7 @@ That combination helps explain why low-conflict approaches can sometimes succeed
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -671,7 +671,7 @@ That combination helps explain why low-conflict approaches can sometimes succeed
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -723,7 +723,7 @@ That combination helps explain why low-conflict approaches can sometimes succeed
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -768,7 +768,7 @@ That combination helps explain why low-conflict approaches can sometimes succeed
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -809,124 +809,124 @@ That combination helps explain why low-conflict approaches can sometimes succeed
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: papers.ssrn.com  
-   Link: <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2973067" target="_blank" rel="noopener noreferrer nofollow">https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2973067</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Misconceptions, Misinformation, and the Logic of Identity-...by DM Kahan  2017  Cited by 582  Identity protective cognition refer...</p></details>
+   Link:<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2973067" target="_blank" rel="noopener noreferrer nofollow">https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2973067</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Misconceptions, Misinformation, and the Logic of Identity-...by DM Kahan  2017  Cited by 582  Identity protective cognition refer...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: nature.com  
-   Link: <a href="https://www.nature.com/articles/s44159-021-00006-y" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s44159-021-00006-y</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The psychological drivers of misinformation belief and its...by UKH Ecker  2022  Cited by 1916  In this Review, we describe the...</p></details>
+   Link:<a href="https://www.nature.com/articles/s44159-021-00006-y" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s44159-021-00006-y</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The psychological drivers of misinformation belief and its...by UKH Ecker  2022  Cited by 1916  In this Review, we describe the...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Misinformation" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Misinformation</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Misinformation" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Misinformation</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCUsing narratives to correct politically charged health  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11358629/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11358629/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>by HM Lillie  2024  Cited by 10  This study investigated the efficacy of a narrative corrective with a relief ending for correcting...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11358629/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11358629/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by HM Lillie  2024  Cited by 10  This study investigated the efficacy of a narrative corrective with a relief ending for correcting...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCCorrection format has a limited role when debunking  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8715407/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8715407/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>by B Swire-Thompson  2021  Cited by 79  Abstract. Given that being misinformed can have negative ramifications, finding optimal cor...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8715407/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8715407/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by B Swire-Thompson  2021  Cited by 79  Abstract. Given that being misinformed can have negative ramifications, finding optimal cor...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: semanticscholar.org  
-   Link: <a href="https://www.semanticscholar.org/paper/Misinformation-and-Identity-Protective-Cognition-Kahan/06c54da8033d3449a283722d367b0856de4b10dc" target="_blank" rel="noopener noreferrer nofollow">https://www.semanticscholar.org/paper/Misinformation-and-Identity-Protective-Cognition-Kahan/06c54da8033d3449a283722d367b0856de4b10dc</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Misinformation and Identity-Protective Cognition2 Oct 2017  This paper synthesizes existing work on misinformation relating to policy-re...</p></details>
+   Link:<a href="https://www.semanticscholar.org/paper/Misinformation-and-Identity-Protective-Cognition-Kahan/06c54da8033d3449a283722d367b0856de4b10dc" target="_blank" rel="noopener noreferrer nofollow">https://www.semanticscholar.org/paper/Misinformation-and-Identity-Protective-Cognition-Kahan/06c54da8033d3449a283722d367b0856de4b10dc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Misinformation and Identity-Protective Cognition2 Oct 2017  This paper synthesizes existing work on misinformation relating to policy-re...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: fondationdescartes.org  
-   Link: <a href="https://www.fondationdescartes.org/en/2020/06/les-idees-fausses-les-fausses-informations-et-la-logique-du-raisonnement-pour-proteger-son-identite/" target="_blank" rel="noopener noreferrer nofollow">https://www.fondationdescartes.org/en/2020/06/les-idees-fausses-les-fausses-informations-et-la-logique-du-raisonnement-pour-proteger-son-identite/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>False ideas, fake information, and the logic of identity-...This 2017 article is a preparatory work proposed by social scientist Dan Kah...</p></details>
+   Link:<a href="https://www.fondationdescartes.org/en/2020/06/les-idees-fausses-les-fausses-informations-et-la-logique-du-raisonnement-pour-proteger-son-identite/" target="_blank" rel="noopener noreferrer nofollow">https://www.fondationdescartes.org/en/2020/06/les-idees-fausses-les-fausses-informations-et-la-logique-du-raisonnement-pour-proteger-son-identite/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>False ideas, fake information, and the logic of identity-...This 2017 article is a preparatory work proposed by social scientist Dan Kah...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: rkellygarrett.com  
    Title: Garrett et al. Undermining Corrective Effects1  
-   Link: <a href="https://rkellygarrett.com/wp-content/uploads/2014/05/Garrett-et-al.-Undermining-Corrective-Effects1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://rkellygarrett.com/wp-content/uploads/2014/05/Garrett-et-al.-Undermining-Corrective-Effects1.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Kelly GarrettUndermining the Corrective Effects of MediaBased Political...June 13, 2013  by RK Garrett  Cited by 250  Media-based fac...</p></details>
+   Link:<a href="https://rkellygarrett.com/wp-content/uploads/2014/05/Garrett-et-al.-Undermining-Corrective-Effects1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://rkellygarrett.com/wp-content/uploads/2014/05/Garrett-et-al.-Undermining-Corrective-Effects1.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Kelly GarrettUndermining the Corrective Effects of MediaBased Political...June 13, 2013  by RK Garrett  Cited by 250  Media-based fac...</p></details>
    Published: June 13, 2013  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: ijoc.org  
    Title: view File  
-   Link: <a href="https://ijoc.org/index.php/ijoc/article/viewFile/18361/3762" target="_blank" rel="noopener noreferrer nofollow">https://ijoc.org/index.php/ijoc/article/viewFile/18361/3762</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>International Journal of CommunicationStrategies for Polite Misinformation Correctionby P Malhotra  2022  Cited by 46  One gap in misi...</p></details>
+   Link:<a href="https://ijoc.org/index.php/ijoc/article/viewFile/18361/3762" target="_blank" rel="noopener noreferrer nofollow">https://ijoc.org/index.php/ijoc/article/viewFile/18361/3762</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>International Journal of CommunicationStrategies for Polite Misinformation Correctionby P Malhotra  2022  Cited by 46  One gap in misi...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: carnegieendowment.org  
    Title: countering disinformation effectively an evidence based policy guide  
-   Link: <a href="https://carnegieendowment.org/russia-eurasia/research/2024/01/countering-disinformation-effectively-an-evidence-based-policy-guide" target="_blank" rel="noopener noreferrer nofollow">https://carnegieendowment.org/russia-eurasia/research/2024/01/countering-disinformation-effectively-an-evidence-based-policy-guide</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Carnegie EndowmentCountering Disinformation Effectively: An Evidence-Based...31 Jan 2024  A large body of research indicates that fact...</p></details>
+   Link:<a href="https://carnegieendowment.org/russia-eurasia/research/2024/01/countering-disinformation-effectively-an-evidence-based-policy-guide" target="_blank" rel="noopener noreferrer nofollow">https://carnegieendowment.org/russia-eurasia/research/2024/01/countering-disinformation-effectively-an-evidence-based-policy-guide</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Carnegie EndowmentCountering Disinformation Effectively: An Evidence-Based...31 Jan 2024  A large body of research indicates that fact...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: ijoc.org  
-   Link: <a href="https://ijoc.org/index.php/ijoc/article/download/23090/4890/88302" target="_blank" rel="noopener noreferrer nofollow">https://ijoc.org/index.php/ijoc/article/download/23090/4890/88302</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>International Journal of CommunicationWhen Corrections Failby Y Song  2025  Cited by 2  This study evaluates the effectiveness of 3 mi...</p></details>
+   Link:<a href="https://ijoc.org/index.php/ijoc/article/download/23090/4890/88302" target="_blank" rel="noopener noreferrer nofollow">https://ijoc.org/index.php/ijoc/article/download/23090/4890/88302</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>International Journal of CommunicationWhen Corrections Failby Y Song  2025  Cited by 2  This study evaluates the effectiveness of 3 mi...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: rkellygarrett.com  
    Title: Garrett and Weeks Promise and peril of real time corrections  
-   Link: <a href="https://rkellygarrett.com/wp-content/uploads/2014/05/Garrett-and-Weeks-Promise-and-peril-of-real-time-corrections.pdf" target="_blank" rel="noopener noreferrer nofollow">https://rkellygarrett.com/wp-content/uploads/2014/05/Garrett-and-Weeks-Promise-and-peril-of-real-time-corrections.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Promise and Peril of Real-Time Corrections to Politicalby RK Garrett  2013  Cited by 231  When misinformation is corrected immedia...</p></details>
+   Link:<a href="https://rkellygarrett.com/wp-content/uploads/2014/05/Garrett-and-Weeks-Promise-and-peril-of-real-time-corrections.pdf" target="_blank" rel="noopener noreferrer nofollow">https://rkellygarrett.com/wp-content/uploads/2014/05/Garrett-and-Weeks-Promise-and-peril-of-real-time-corrections.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Promise and Peril of Real-Time Corrections to Politicalby RK Garrett  2013  Cited by 231  When misinformation is corrected immedia...</p></details>
 
 ### Additional References
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: research-information.bris.ac.uk  
-   Link: <a href="https://research-information.bris.ac.uk/files/298563464/Ecker_v4_TSshorten_UE_clean.pdf" target="_blank" rel="noopener noreferrer nofollow">https://research-information.bris.ac.uk/files/298563464/Ecker_v4_TSshorten_UE_clean.pdf</a>  
+   Link:<a href="https://research-information.bris.ac.uk/files/298563464/Ecker_v4_TSshorten_UE_clean.pdf" target="_blank" rel="noopener noreferrer nofollow">https://research-information.bris.ac.uk/files/298563464/Ecker_v4_TSshorten_UE_clean.pdf</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: jpe.ox.ac.uk  
-   Link: <a href="https://www.jpe.ox.ac.uk/papers/dilemmas-of-political-correctness/" target="_blank" rel="noopener noreferrer nofollow">https://www.jpe.ox.ac.uk/papers/dilemmas-of-political-correctness/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>of Political Correctnessby D Moller  Cited by 94  Political correctness, as I argue, is an important attempt to advance the legitimate...</p></details>
+   Link:<a href="https://www.jpe.ox.ac.uk/papers/dilemmas-of-political-correctness/" target="_blank" rel="noopener noreferrer nofollow">https://www.jpe.ox.ac.uk/papers/dilemmas-of-political-correctness/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>of Political Correctnessby D Moller  Cited by 94  Political correctness, as I argue, is an important attempt to advance the legitimate...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/247317334_The_continued_influence_of_misinformation_in_memory_What_makes_a_correction_effective" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/247317334_The_continued_influence_of_misinformation_in_memory_What_makes_a_correction_effective</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>In a dynamic world, information in [memory](&amp;#123;&amp;#123; &#x27;memory/&#x27; | relative_url &amp;#125;&amp;#125;) is frequently outdated, corrected, or replaced.Read more...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/247317334_The_continued_influence_of_misinformation_in_memory_What_makes_a_correction_effective" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/247317334_The_continued_influence_of_misinformation_in_memory_What_makes_a_correction_effective</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>In a dynamic world, information in [memory](&amp;#123;&amp;#123; &#x27;memory/&#x27; | relative_url &amp;#125;&amp;#125;) is frequently outdated, corrected, or replaced.Read more...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: scispace.com  
-   Link: <a href="https://scispace.com/pdf/misconceptions-misinformation-and-the-logic-of-identity-mpc3ka7t6o.pdf" target="_blank" rel="noopener noreferrer nofollow">https://scispace.com/pdf/misconceptions-misinformation-and-the-logic-of-identity-mpc3ka7t6o.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>eptions of and misinfor- mation about decision-relevant science.Read more...</p></details>
+   Link:<a href="https://scispace.com/pdf/misconceptions-misinformation-and-the-logic-of-identity-mpc3ka7t6o.pdf" target="_blank" rel="noopener noreferrer nofollow">https://scispace.com/pdf/misconceptions-misinformation-and-the-logic-of-identity-mpc3ka7t6o.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>eptions of and misinfor- mation about decision-relevant science.Read more...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/1509838572657723/posts/3532022283772665/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/1509838572657723/posts/3532022283772665/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>designed to cast doubt on their integrity; it does not have...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/groups/1509838572657723/posts/3532022283772665/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/1509838572657723/posts/3532022283772665/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>designed to cast doubt on their integrity; it does not have...Read more...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: modernconsciousness.com  
    Title: It's the courage to disagree without being  
-   Link: <a href="https://modernconsciousness.com/dignity-lost-and-found-navigating-political-discourse-with-respect/" target="_blank" rel="noopener noreferrer nofollow">https://modernconsciousness.com/dignity-lost-and-found-navigating-political-discourse-with-respect/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Dignity Lost and Found: Navigating Political Discourse with...25 Nov 2024  Dignity is the quiet strength of living in alignment with yo...</p></details>
+   Link:<a href="https://modernconsciousness.com/dignity-lost-and-found-navigating-political-discourse-with-respect/" target="_blank" rel="noopener noreferrer nofollow">https://modernconsciousness.com/dignity-lost-and-found-navigating-political-discourse-with-respect/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Dignity Lost and Found: Navigating Political Discourse with...25 Nov 2024  Dignity is the quiet strength of living in alignment with yo...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: ofcom.org.uk  
    Title: rea online misinformation  
-   Link: <a href="https://www.ofcom.org.uk/siteassets/resources/documents/research-and-data/online-research/online-nation/2021/rea-online-misinformation.pdf?v=326529" target="_blank" rel="noopener noreferrer nofollow">https://www.ofcom.org.uk/siteassets/resources/documents/research-and-data/online-research/online-nation/2021/rea-online-misinformation.pdf?v=326529</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Rapid Evidence Assessment on Online Misinformation and...9 Jun 2021  The review is focused on studies that measure the effectiveness of...</p></details>
+   Link:<a href="https://www.ofcom.org.uk/siteassets/resources/documents/research-and-data/online-research/online-nation/2021/rea-online-misinformation.pdf?v=326529" target="_blank" rel="noopener noreferrer nofollow">https://www.ofcom.org.uk/siteassets/resources/documents/research-and-data/online-research/online-nation/2021/rea-online-misinformation.pdf?v=326529</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Rapid Evidence Assessment on Online Misinformation and...9 Jun 2021  The review is focused on studies that measure the effectiveness of...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: sites.dartmouth.edu  
    Title: Vidigal Jerit Pol Comm 1  
-   Link: <a href="https://sites.dartmouth.edu/jerit/files/2022/08/VidigalJerit_PolComm-1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://sites.dartmouth.edu/jerit/files/2022/08/VidigalJerit_PolComm-1.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Dartmouth SitesIssue Importance and the Correction of Misinformationby R Vidigal  2022  Cited by 35  Even partisans have been shown to...</p></details>
+   Link:<a href="https://sites.dartmouth.edu/jerit/files/2022/08/VidigalJerit_PolComm-1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://sites.dartmouth.edu/jerit/files/2022/08/VidigalJerit_PolComm-1.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Dartmouth SitesIssue Importance and the Correction of Misinformationby R Vidigal  2022  Cited by 35  Even partisans have been shown to...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: youtube.com  
    Title: 7 Strategies To Stop Being So Defensive  
-   Link: <a href="https://www.youtube.com/watch?v=thPuQxYeWw0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=thPuQxYeWw0</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How to have difficult conversations without being defensive How to Handle Defensiveness in Communication: Tips for Healthier Conversation...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=thPuQxYeWw0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=thPuQxYeWw0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How to have difficult conversations without being defensive How to Handle Defensiveness in Communication: Tips for Healthier Conversation...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: youtube.com  
    Title: How to Handle Defensiveness in Communication: Tips for Healthier Conversations  
-   Link: <a href="https://www.youtube.com/watch?v=sELt0_QfR0U" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=sELt0_QfR0U</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Try THIS the Next Time You Have an Uncomfortable Conversation...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=sELt0_QfR0U" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=sELt0_QfR0U</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Try THIS the Next Time You Have an Uncomfortable Conversation...</p></details>

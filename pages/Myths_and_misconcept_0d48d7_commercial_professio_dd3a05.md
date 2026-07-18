@@ -510,7 +510,7 @@ The risk is not that every commercial programme is false. Many paid tools and tr
 
 Professionally packaged myths work because they meet a real need. Teachers, managers, trainers and other professionals often face complex problems under time pressure: helping pupils learn, improving behaviour, supporting staff, raising [confidence]({{ 'confidence/' | relative_url }}), reducing workload or making training more engaging. A neat framework with slides, worksheets and a facilitator script can feel more useful than a careful research summary that says the answer depends on context.
 
-This helps explain why some educational myths spread among knowledgeable people, not just among people with little scientific interest. In a large study of teachers’ beliefs about the brain and learning, teachers answered many general neuroscience questions correctly but still believed a high proportion of “[neuromyths]({{ 'neuromyths/' | relative_url }})”, especially those connected with commercialised educational programmes. The study found that teachers believed, on average, 49% of the neuromyths presented to them, even though their general brain knowledge was considerably better than chance. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3475349/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">by S Dekker · 2012 · Cited by 1291 — Results showed that on average, teachers believed 49% of the neuromyths, particularly myths relat...</span></span></span>
+This helps explain why some educational myths spread among knowledgeable people, not just among people with little scientific interest. In a large study of teachers’ beliefs about the brain and learning, teachers answered many general neuroscience questions correctly but still believed a high proportion of “[neuromyths]({{ 'neuromyths/' | relative_url }})”, especially those connected with commercialised educational programmes. The study found that teachers believed, on average, 49% of the neuromyths presented to them, even though their general brain knowledge was considerably better than chance.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3475349/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">by S Dekker · 2012 · Cited by 1291 — Results showed that on average, teachers believed 49% of the neuromyths, particularly myths relat...</span></span></span>
 
 The persuasive power comes from a bundle of cues. A programme may have a founder, a method name, a logo, a staged training pathway, testimonials, practitioner manuals, classroom posters, diagnostic labels and confident language. None of these proves that the claim is wrong, but none proves that it works either. The problem starts when these cues are treated as substitutes for independent evidence.
 
@@ -520,11 +520,11 @@ A simple contrast shows the issue. “Movement breaks can help some pupils regul
 
 Education is a particularly fertile setting for professional-sounding myths because schools need practical interventions and have limited time to evaluate every claim. Commercial programmes can travel through training days, local authority recommendations, conference sessions, staff meetings, consultancy networks and teacher-preparation materials. Once a claim becomes a purchasable programme, it no longer depends only on whether the evidence is strong. It can persist because it is easy to adopt.
 
-The learning-styles myth is the clearest example. The everyday observation that people have preferences is true enough: one person may enjoy diagrams, another may like discussion, another may prefer hands-on activity. The unsupported leap is the claim that learners should be diagnosed as, for example, visual, auditory or kinaesthetic learners and then taught primarily through that “style”. A major review of learning-styles evidence concluded that the empirical support needed to justify this matching approach was missing, and a later higher-education review stated plainly that there was no evidence to support using learning-styles instruments in that way. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/233600402_Learning_Styles_Concepts_and_Evidence" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate(PDF) Learning Styles: Concepts and Evidence</span><span class="citation-popover-snippet">ResearchGate(PDF) Learning Styles: Concepts and EvidenceDecember 1, 2008 — “Learning styles” refers to the concept that individuals diffe...</span><span class="citation-popover-meta">Published: December 1, 2008</span></span></span>
+The learning-styles myth is the clearest example. The everyday observation that people have preferences is true enough: one person may enjoy diagrams, another may like discussion, another may prefer hands-on activity. The unsupported leap is the claim that learners should be diagnosed as, for example, visual, auditory or kinaesthetic learners and then taught primarily through that “style”. A major review of learning-styles evidence concluded that the empirical support needed to justify this matching approach was missing, and a later higher-education review stated plainly that there was no evidence to support using learning-styles instruments in that way.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/233600402_Learning_Styles_Concepts_and_Evidence" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate(PDF) Learning Styles: Concepts and Evidence</span><span class="citation-popover-snippet">ResearchGate(PDF) Learning Styles: Concepts and EvidenceDecember 1, 2008 — “Learning styles” refers to the concept that individuals diffe...</span><span class="citation-popover-meta">Published: December 1, 2008</span></span></span>
 
-Commercialisation helped the idea become durable. Learning-styles schemes came with questionnaires, categories, planning advice and training materials. Coffield and colleagues’ influential review of post-16 learning styles examined many of the most prominent models and found serious problems, including conceptual confusion and weak evidence for the reliability and validity of several instruments. The report’s warning was especially relevant to buyers: it argued that the choice of instrument mattered greatly, yet many instruments were being used in education and business without adequate validation. It's Life Jim, But Not As We Know It <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.itslifejimbutnotasweknowit.org.uk/files/LSRC_LearningStyles.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: itslifejimbutnotasweknowit.org.uk">[itslifejimbutnotasweknowit.org.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">itslifejimbutnotasweknowit.org.uk</span><span class="citation-popover-title">It&#x27;s Life Jim, But Not As We Know It Should we be using Learning Styles?</span><span class="citation-popover-snippet">What research has to...of the reliability and validity of their learning style instruments strongly suggests that they should not be use...</span></span></span>
+Commercialisation helped the idea become durable. Learning-styles schemes came with questionnaires, categories, planning advice and training materials. Coffield and colleagues’ influential review of post-16 learning styles examined many of the most prominent models and found serious problems, including conceptual confusion and weak evidence for the reliability and validity of several instruments. The report’s warning was especially relevant to buyers: it argued that the choice of instrument mattered greatly, yet many instruments were being used in education and business without adequate validation. It's Life Jim, But Not As We Know It<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.itslifejimbutnotasweknowit.org.uk/files/LSRC_LearningStyles.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: itslifejimbutnotasweknowit.org.uk">[itslifejimbutnotasweknowit.org.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">itslifejimbutnotasweknowit.org.uk</span><span class="citation-popover-title">It&#x27;s Life Jim, But Not As We Know It Should we be using Learning Styles?</span><span class="citation-popover-snippet">What research has to...of the reliability and validity of their learning style instruments strongly suggests that they should not be use...</span></span></span>
 
-Brain Gym shows a more vivid version of the same pathway. It presented a set of physical exercises as a learning intervention, with claims about brain function and educational improvement. Ordinary classroom movement can be sensible; pupils are not machines, and breaks can support attention and wellbeing. But Brain Gym’s branded claims went much further. UK parliamentary evidence on Brain Gym reported that existing studies did not use robust enough methodology to draw conclusions about effectiveness, and that peer-reviewed studies had not found significant evidence for the claimed educational benefits. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.parliament.uk/documents/upload/091125-evidence-check-government-responses-to-questions-from-the-iuss-committee.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: parliament.uk">[parliament.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">parliament.uk</span><span class="citation-popover-title">House of Commons Science and Technology Select</span><span class="citation-popover-snippet">House of Commons Science and Technology Select</span></span></span>
+Brain Gym shows a more vivid version of the same pathway. It presented a set of physical exercises as a learning intervention, with claims about brain function and educational improvement. Ordinary classroom movement can be sensible; pupils are not machines, and breaks can support attention and wellbeing. But Brain Gym’s branded claims went much further. UK parliamentary evidence on Brain Gym reported that existing studies did not use robust enough methodology to draw conclusions about effectiveness, and that peer-reviewed studies had not found significant evidence for the claimed educational benefits.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.parliament.uk/documents/upload/091125-evidence-check-government-responses-to-questions-from-the-iuss-committee.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: parliament.uk">[parliament.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">parliament.uk</span><span class="citation-popover-title">House of Commons Science and Technology Select</span><span class="citation-popover-snippet">House of Commons Science and Technology Select</span></span></span>
 
 The significance of these examples is not that education is uniquely gullible. It is that a professional product changes the social status of a misconception. A claim written on a blog may be dismissed as opinion. The same claim embedded in a staff-training package can be treated as policy, especially if it arrives with confident language and ready-made classroom routines.
 
@@ -533,7 +533,7 @@ The significance of these examples is not that education is uniquely gullible. I
 
 Professional language can help people think clearly, but it can also make weak ideas harder to challenge. Myths often survive by sounding adjacent to real science. A claim may borrow terms from neuroscience, psychology, assessment or inclusion without making a claim that has actually been demonstrated.
 
-This is why “brain-based” language is so powerful. The brain is real, neuroscience is real, and learning does involve the brain. But those facts do not validate every intervention that uses neurological vocabulary. Research on neuromyths suggests that interest in neuroscience can coexist with mistaken beliefs about learning, and training in neuroscience may reduce but does not eliminate belief in neuromyths. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2017.01314/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-title">Frontiers Dispelling the Myth: Training in Education or Neuroscience</span><span class="citation-popover-snippet">Frontiers Dispelling the Myth: Training in Education or Neuroscience</span></span></span>
+This is why “brain-based” language is so powerful. The brain is real, neuroscience is real, and learning does involve the brain. But those facts do not validate every intervention that uses neurological vocabulary. Research on neuromyths suggests that interest in neuroscience can coexist with mistaken beliefs about learning, and training in neuroscience may reduce but does not eliminate belief in neuromyths.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2017.01314/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-title">Frontiers Dispelling the Myth: Training in Education or Neuroscience</span><span class="citation-popover-snippet">Frontiers Dispelling the Myth: Training in Education or Neuroscience</span></span></span>
 
 A common pattern is the retreat from a strong claim to a weaker truth. When challenged, a learning-styles product may shift from “matching instruction to style improves learning” to “good teachers use varied methods”. The second statement is reasonable, but it is not the same claim. Teachers can use diagrams, speech, practice, modelling, discussion and physical materials because the subject matter calls for them, not because each pupil has a fixed sensory learning type.
 
@@ -546,9 +546,9 @@ For buyers, the safest move is to translate jargon into testable English. “Act
 
 The phrase “evidence-based” should make claims clearer, but it can become another piece of packaging. A provider may cite research showing that feedback matters, movement matters, motivation matters or practice matters, then imply that its own paid product is therefore proven. That is not enough. Evidence for a broad principle is not the same as evidence for a specific programme.
 
-This distinction is central to trustworthy evidence systems. The What Works Clearinghouse was created by the Institute of Education Sciences as a source of reviewed evidence about what works in education, including intervention reports and study reviews. Its purpose is not to accept claims because they sound plausible, but to judge whether research meets standards that can support causal conclusions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ies.ed.gov/ncee/wwc/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ies.ed.gov">[ies.ed.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ies.ed.gov</span><span class="citation-popover-title">WW C &#124; Find What Works!</span><span class="citation-popover-snippet">WW C &#124; Find What Works!</span></span></span>
+This distinction is central to trustworthy evidence systems. The What Works Clearinghouse was created by the Institute of Education Sciences as a source of reviewed evidence about what works in education, including intervention reports and study reviews. Its purpose is not to accept claims because they sound plausible, but to judge whether research meets standards that can support causal conclusions.<span class="citation-chip-wrap"><a class="citation-chip" href="https://ies.ed.gov/ncee/wwc/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ies.ed.gov">[ies.ed.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ies.ed.gov</span><span class="citation-popover-title">WW C &#124; Find What Works!</span><span class="citation-popover-snippet">WW C &#124; Find What Works!</span></span></span>
 
-The Education Endowment Foundation takes a similar practical stance in the UK. Its implementation guidance stresses that an approach may look strong in principle, but what matters is how it appears in day-to-day practice in schools. It encourages schools to select and embed evidence-informed approaches in line with their own improvement priorities rather than bolting on attractive new procedures. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://educationendowmentfoundation.org.uk/education-evidence/teaching-learning-toolkit/learning-styles" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: educationendowmentfoundation.org.uk">[EEF]</a><span class="citation-popover" role="note"><span class="citation-popover-source">educationendowmentfoundation.org.uk</span><span class="citation-popover-snippet">Open source on educationendowmentfoundation.org.uk.</span></span></span>
+The Education Endowment Foundation takes a similar practical stance in the UK. Its implementation guidance stresses that an approach may look strong in principle, but what matters is how it appears in day-to-day practice in schools. It encourages schools to select and embed evidence-informed approaches in line with their own improvement priorities rather than bolting on attractive new procedures.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://educationendowmentfoundation.org.uk/education-evidence/teaching-learning-toolkit/learning-styles" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: educationendowmentfoundation.org.uk">[EEF]</a><span class="citation-popover" role="note"><span class="citation-popover-source">educationendowmentfoundation.org.uk</span><span class="citation-popover-snippet">Open source on educationendowmentfoundation.org.uk.</span></span></span>
 
 This matters because commercial evidence can be weak in predictable ways. A brochure may rely on testimonials, before-and-after scores without a comparison group, small pilots, internal evaluations, selective outcomes or case studies from unusually enthusiastic early adopters. Such evidence may be useful as a starting point, but it should not be treated as proof that the programme caused the improvement.
 
@@ -606,194 +606,194 @@ The central test is simple: does the professional packaging make the evidence cl
 <div class="youtube-embed-container youtube-embed-fallback youtube-embed-link-only"><div class="youtube-embed-card"><div class="youtube-embed-link-panel"><span class="youtube-embed-link-kicker">YouTube</span><a href="https://www.youtube.com/watch?v=RFGTOzBlZU8" target="_blank" rel="noopener noreferrer">What Works Clearinghouse Webinar on Evidence-Based ...Hear from experts and educators about what works clearinghouse resources that suppo</a></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=RFGTOzBlZU8" target="_blank" rel="noopener noreferrer">What Works Clearinghouse Webinar on Evidence-Based ...Hear from experts and educators about what works clearinghouse resources that suppo</a></p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=RFGTOzBlZU8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=RFGTOzBlZU8">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When Myths Come in Professional Packaging. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When Myths Come in Professional Packaging. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Seven+Myths+about+Education&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Seven Myths about Education on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/13290314-M.jpg" alt="Cover for Seven Myths about Education" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Seven+Myths+about+Education&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Seven Myths about Education">Seven Myths about Education</a>
-        </h4>
-        <p class="fr-book-author">By Unknown author</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Seven+Myths+about+Education&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Seven Myths about Education on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/13290314-M.jpg" alt="Cover for Seven Myths about Education" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Seven+Myths+about+Education&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Seven Myths about Education">Seven Myths about Education</a>
+</h4>
+<p class="fr-book-author">By Unknown author</p>
         
-        <p class="fr-book-desc">Directly examines popular educational misconceptions and evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Seven+Myths+about+Education&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly examines popular educational misconceptions and evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Seven+Myths+about+Education&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Why+Don%27t+Students+Like+School%3F+by+Daniel+T.+Willingham&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Why Don&#x27;t Students Like School? on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=kuEmEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Why Don&#x27;t Students Like School?" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Why+Don%27t+Students+Like+School%3F+by+Daniel+T.+Willingham&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Why Don&#x27;t Students Like School?">Why Don&#x27;t Students Like School?</a>
-        </h4>
-        <p class="fr-book-author">By Daniel T. Willingham</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Why+Don%27t+Students+Like+School%3F+by+Daniel+T.+Willingham&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Why Don&#x27;t Students Like School? on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=kuEmEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Why Don&#x27;t Students Like School?" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Why+Don%27t+Students+Like+School%3F+by+Daniel+T.+Willingham&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Why Don&#x27;t Students Like School?">Why Don&#x27;t Students Like School?</a>
+</h4>
+<p class="fr-book-author">By Daniel T. Willingham</p>
         
-        <p class="fr-book-desc">Explains how to evaluate learning claims using cognitive science rather than marketing.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Why+Don%27t+Students+Like+School%3F+by+Daniel+T.+Willingham&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains how to evaluate learning claims using cognitive science rather than marketing.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Why+Don%27t+Students+Like+School%3F+by+Daniel+T.+Willingham&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Bad+Science+by+Ben+Goldacre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Bad Science on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=wICuv0ePMYoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Bad Science" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Bad+Science+by+Ben+Goldacre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Bad Science">Bad Science</a>
-        </h4>
-        <p class="fr-book-author">By Ben Goldacre</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Bad+Science+by+Ben+Goldacre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Bad Science on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=wICuv0ePMYoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Bad Science" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Bad+Science+by+Ben+Goldacre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Bad Science">Bad Science</a>
+</h4>
+<p class="fr-book-author">By Ben Goldacre</p>
         
-        <p class="fr-book-desc">Shows how scientific language and marketing can mislead.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Bad+Science+by+Ben+Goldacre&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows how scientific language and marketing can mislead.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Bad+Science+by+Ben+Goldacre&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YGPzXWanppcC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
-        </h4>
-        <p class="fr-book-author">By Daniel Kahneman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YGPzXWanppcC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
+</h4>
+<p class="fr-book-author">By Daniel Kahneman</p>
         
-        <p class="fr-book-desc">Explains cognitive biases that make polished myths persuasive.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains cognitive biases that make polished myths persuasive.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Seven+Myths+about+Education&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Seven Myths about Education</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Why+Don%27t+Students+Like+School%3F&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Why Don&#x27;t Students Like School?</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Bad+Science&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Bad Science</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Seven+Myths+about+Education&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Seven Myths about Education</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Why+Don%27t+Students+Like+School%3F&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Why Don&#x27;t Students Like School?</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Bad+Science&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Bad Science</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=learning+science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-myths-come-in-professional-packaging-learning-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="learning science poster" data-ebay-reference="when-myths-come-in-professional-packaging-learning-science-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Periodic Table Science Education School Kids Learning Aid Poster Graphic Print"><img src="https://i.ebayimg.com/images/g/rYYAAOSwSFll4PlT/s-l225.jpg" alt="Listing image for Periodic Table Science Education School Kids Learning Aid Poster Graphic Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=learning+science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-myths-come-in-professional-packaging-learning-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="learning science poster" data-ebay-reference="when-myths-come-in-professional-packaging-learning-science-poster" target="_blank" rel="sponsored noopener noreferrer">Periodic Table Science Education School Kids Learning Aid Poster Graphic Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=learning+science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-myths-come-in-professional-packaging-learning-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="learning science poster" data-ebay-reference="when-myths-come-in-professional-packaging-learning-science-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for learning science poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: learning science poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=learning+science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-myths-come-in-professional-packaging-learning-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="learning science poster" data-ebay-reference="when-myths-come-in-professional-packaging-learning-science-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=learning+science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-myths-come-in-professional-packaging-learning-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="learning science poster" data-ebay-reference="when-myths-come-in-professional-packaging-learning-science-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Periodic Table Science Education School Kids Learning Aid Poster Graphic Print"><img src="https://i.ebayimg.com/images/g/rYYAAOSwSFll4PlT/s-l225.jpg" alt="Listing image for Periodic Table Science Education School Kids Learning Aid Poster Graphic Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=learning+science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-myths-come-in-professional-packaging-learning-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="learning science poster" data-ebay-reference="when-myths-come-in-professional-packaging-learning-science-poster" target="_blank" rel="sponsored noopener noreferrer">Periodic Table Science Education School Kids Learning Aid Poster Graphic Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=learning+science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-myths-come-in-professional-packaging-learning-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="learning science poster" data-ebay-reference="when-myths-come-in-professional-packaging-learning-science-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for learning science poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: learning science poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=learning+science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-myths-come-in-professional-packaging-learning-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="learning science poster" data-ebay-reference="when-myths-come-in-professional-packaging-learning-science-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=learning+science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-myths-come-in-professional-packaging-learning-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="learning science poster" data-ebay-reference="when-myths-come-in-professional-packaging-learning-science-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Learning Never Ends In Science - ST Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/BnwAAeSwZQpp2SM5/s-l225.jpg" alt="Listing image for Learning Never Ends In Science - ST Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=learning+science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-myths-come-in-professional-packaging-learning-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="learning science poster" data-ebay-reference="when-myths-come-in-professional-packaging-learning-science-poster" target="_blank" rel="sponsored noopener noreferrer">Learning Never Ends In Science - ST Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=learning+science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-myths-come-in-professional-packaging-learning-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="learning science poster" data-ebay-reference="when-myths-come-in-professional-packaging-learning-science-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for learning science poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: learning science poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=learning+science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-myths-come-in-professional-packaging-learning-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="learning science poster" data-ebay-reference="when-myths-come-in-professional-packaging-learning-science-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=learning+science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-myths-come-in-professional-packaging-learning-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="learning science poster" data-ebay-reference="when-myths-come-in-professional-packaging-learning-science-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Learning Never Ends In Science - ST Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/BnwAAeSwZQpp2SM5/s-l225.jpg" alt="Listing image for Learning Never Ends In Science - ST Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=learning+science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-myths-come-in-professional-packaging-learning-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="learning science poster" data-ebay-reference="when-myths-come-in-professional-packaging-learning-science-poster" target="_blank" rel="sponsored noopener noreferrer">Learning Never Ends In Science - ST Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=learning+science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-myths-come-in-professional-packaging-learning-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="learning science poster" data-ebay-reference="when-myths-come-in-professional-packaging-learning-science-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for learning science poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: learning science poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=learning+science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-myths-come-in-professional-packaging-learning-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="learning science poster" data-ebay-reference="when-myths-come-in-professional-packaging-learning-science-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=learning+science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-myths-come-in-professional-packaging-learning-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="learning science poster" data-ebay-reference="when-myths-come-in-professional-packaging-learning-science-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Sunflower Life Cycle Poster, EYFS, Early Learning, Science Teaching Resource"><img src="https://i.ebayimg.com/images/g/XF4AAeSw2AJox9Ov/s-l225.jpg" alt="Listing image for Sunflower Life Cycle Poster, EYFS, Early Learning, Science Teaching Resource" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=learning+science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-myths-come-in-professional-packaging-learning-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="learning science poster" data-ebay-reference="when-myths-come-in-professional-packaging-learning-science-poster" target="_blank" rel="sponsored noopener noreferrer">Sunflower Life Cycle Poster, EYFS, Early Learning, Science Teaching Resource</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=learning+science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-myths-come-in-professional-packaging-learning-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="learning science poster" data-ebay-reference="when-myths-come-in-professional-packaging-learning-science-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for learning science poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: learning science poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=learning+science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-myths-come-in-professional-packaging-learning-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="learning science poster" data-ebay-reference="when-myths-come-in-professional-packaging-learning-science-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=learning+science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-myths-come-in-professional-packaging-learning-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="learning science poster" data-ebay-reference="when-myths-come-in-professional-packaging-learning-science-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Sunflower Life Cycle Poster, EYFS, Early Learning, Science Teaching Resource"><img src="https://i.ebayimg.com/images/g/XF4AAeSw2AJox9Ov/s-l225.jpg" alt="Listing image for Sunflower Life Cycle Poster, EYFS, Early Learning, Science Teaching Resource" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=learning+science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-myths-come-in-professional-packaging-learning-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="learning science poster" data-ebay-reference="when-myths-come-in-professional-packaging-learning-science-poster" target="_blank" rel="sponsored noopener noreferrer">Sunflower Life Cycle Poster, EYFS, Early Learning, Science Teaching Resource</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=learning+science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-myths-come-in-professional-packaging-learning-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="learning science poster" data-ebay-reference="when-myths-come-in-professional-packaging-learning-science-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for learning science poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: learning science poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=learning+science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-myths-come-in-professional-packaging-learning-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="learning science poster" data-ebay-reference="when-myths-come-in-professional-packaging-learning-science-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=learning+science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-myths-come-in-professional-packaging-learning-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="learning science poster" data-ebay-reference="when-myths-come-in-professional-packaging-learning-science-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Educational Brain Anatomy Parts Learn Science Wall Poster Print Opt Laminated"><img src="https://i.ebayimg.com/images/g/yAQAAOSwF7ZjUoAU/s-l225.jpg" alt="Listing image for Educational Brain Anatomy Parts Learn Science Wall Poster Print Opt Laminated" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=learning+science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-myths-come-in-professional-packaging-learning-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="learning science poster" data-ebay-reference="when-myths-come-in-professional-packaging-learning-science-poster" target="_blank" rel="sponsored noopener noreferrer">Educational Brain Anatomy Parts Learn Science Wall Poster Print Opt Laminated</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=learning+science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-myths-come-in-professional-packaging-learning-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="learning science poster" data-ebay-reference="when-myths-come-in-professional-packaging-learning-science-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for learning science poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: learning science poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=learning+science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-myths-come-in-professional-packaging-learning-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="learning science poster" data-ebay-reference="when-myths-come-in-professional-packaging-learning-science-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=learning+science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-myths-come-in-professional-packaging-learning-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="learning science poster" data-ebay-reference="when-myths-come-in-professional-packaging-learning-science-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=learning+science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-myths-come-in-professional-packaging-learning-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="learning science poster" data-ebay-reference="when-myths-come-in-professional-packaging-learning-science-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Educational Brain Anatomy Parts Learn Science Wall Poster Print Opt Laminated"><img src="https://i.ebayimg.com/images/g/yAQAAOSwF7ZjUoAU/s-l225.jpg" alt="Listing image for Educational Brain Anatomy Parts Learn Science Wall Poster Print Opt Laminated" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=learning+science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-myths-come-in-professional-packaging-learning-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="learning science poster" data-ebay-reference="when-myths-come-in-professional-packaging-learning-science-poster" target="_blank" rel="sponsored noopener noreferrer">Educational Brain Anatomy Parts Learn Science Wall Poster Print Opt Laminated</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=learning+science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-myths-come-in-professional-packaging-learning-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="learning science poster" data-ebay-reference="when-myths-come-in-professional-packaging-learning-science-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for learning science poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: learning science poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=learning+science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-myths-come-in-professional-packaging-learning-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="learning science poster" data-ebay-reference="when-myths-come-in-professional-packaging-learning-science-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=learning+science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-myths-come-in-professional-packaging-learning-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="learning science poster" data-ebay-reference="when-myths-come-in-professional-packaging-learning-science-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -809,7 +809,7 @@ The central test is simple: does the professional packaging make the evidence cl
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -829,7 +829,7 @@ The central test is simple: does the professional packaging make the evidence cl
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -861,7 +861,7 @@ The central test is simple: does the professional packaging make the evidence cl
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -913,7 +913,7 @@ The central test is simple: does the professional packaging make the evidence cl
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -958,7 +958,7 @@ The central test is simple: does the professional packaging make the evidence cl
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -999,123 +999,123 @@ The central test is simple: does the professional packaging make the evidence cl
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3475349/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3475349/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>by S Dekker · 2012 · Cited by 1291 — Results showed that on average, teachers believed 49% of the neuromyths, particularly myths relat...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3475349/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3475349/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by S Dekker · 2012 · Cited by 1291 — Results showed that on average, teachers believed 49% of the neuromyths, particularly myths relat...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: researchgate.net  
    Title: Research Gate(PDF) Learning Styles: Concepts and Evidence  
-   Link: <a href="https://www.researchgate.net/publication/233600402_Learning_Styles_Concepts_and_Evidence" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/233600402_Learning_Styles_Concepts_and_Evidence</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ResearchGate(PDF) Learning Styles: Concepts and EvidenceDecember 1, 2008 — “Learning styles” refers to the concept that individuals diffe...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/233600402_Learning_Styles_Concepts_and_Evidence" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/233600402_Learning_Styles_Concepts_and_Evidence</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ResearchGate(PDF) Learning Styles: Concepts and EvidenceDecember 1, 2008 — “Learning styles” refers to the concept that individuals diffe...</p></details>
    Published: December 1, 2008  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5366351/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC5366351/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Evidence-Based Higher Education – Is the Learning Styles...by PM Newton · 2017 · Cited by 470 — The empirical evidence is clear that...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5366351/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC5366351/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Evidence-Based Higher Education – Is the Learning Styles...by PM Newton · 2017 · Cited by 470 — The empirical evidence is clear that...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: parliament.uk  
    Title: House of Commons Science and Technology Select  
-   Link: <a href="https://www.parliament.uk/documents/upload/091125-evidence-check-government-responses-to-questions-from-the-iuss-committee.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.parliament.uk/documents/upload/091125-evidence-check-government-responses-to-questions-from-the-iuss-committee.pdf</a>  
+   Link:<a href="https://www.parliament.uk/documents/upload/091125-evidence-check-government-responses-to-questions-from-the-iuss-committee.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.parliament.uk/documents/upload/091125-evidence-check-government-responses-to-questions-from-the-iuss-committee.pdf</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: ies.ed.gov  
    Title: WW C | Find What Works!  
-   Link: <a href="https://ies.ed.gov/ncee/wwc/" target="_blank" rel="noopener noreferrer nofollow">https://ies.ed.gov/ncee/wwc/</a>  
+   Link:<a href="https://ies.ed.gov/ncee/wwc/" target="_blank" rel="noopener noreferrer nofollow">https://ies.ed.gov/ncee/wwc/</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: schools.oxfordshire.gov.uk  
-   Link: <a href="https://schools.oxfordshire.gov.uk/sites/default/files/2023-09/EEF_Guide_for_School_Governors_and_Trustees_2019_-_print_version.pdf" target="_blank" rel="noopener noreferrer nofollow">https://schools.oxfordshire.gov.uk/sites/default/files/2023-09/EEF_Guide_for_School_Governors_and_Trustees_2019_-_print_version.pdf</a>  
+   Link:<a href="https://schools.oxfordshire.gov.uk/sites/default/files/2023-09/EEF_Guide_for_School_Governors_and_Trustees_2019_-_print_version.pdf" target="_blank" rel="noopener noreferrer nofollow">https://schools.oxfordshire.gov.uk/sites/default/files/2023-09/EEF_Guide_for_School_Governors_and_Trustees_2019_-_print_version.pdf</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: researchgate.net  
    Title: 42802004 Is Brain GymR an Effective Educational Intervention  
-   Link: <a href="https://www.researchgate.net/publication/42802004_Is_Brain_GymR_an_Effective_Educational_Intervention" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/42802004_Is_Brain_GymR_an_Effective_Educational_Intervention</a>  
+   Link:<a href="https://www.researchgate.net/publication/42802004_Is_Brain_GymR_an_Effective_Educational_Intervention" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/42802004_Is_Brain_GymR_an_Effective_Educational_Intervention</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/232536239_Neuromyths_in_Education_Prevalence_and_Predictors_of_Misconceptions_among_Teachers" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/232536239_Neuromyths_in_Education_Prevalence_and_Predictors_of_Misconceptions_among_Teachers</a>  
+   Link:<a href="https://www.researchgate.net/publication/232536239_Neuromyths_in_Education_Prevalence_and_Predictors_of_Misconceptions_among_Teachers" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/232536239_Neuromyths_in_Education_Prevalence_and_Predictors_of_Misconceptions_among_Teachers</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: committees.parliament.uk  
    Title: uk Written evidence  
-   Link: <a href="https://committees.parliament.uk/writtenevidence/163183/html/" target="_blank" rel="noopener noreferrer nofollow">https://committees.parliament.uk/writtenevidence/163183/html/</a>  
+   Link:<a href="https://committees.parliament.uk/writtenevidence/163183/html/" target="_blank" rel="noopener noreferrer nofollow">https://committees.parliament.uk/writtenevidence/163183/html/</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: GOV.UK  
    Title: nick gibb the importance of an evidence informed profession  
-   Link: <a href="https://www.gov.uk/government/speeches/nick-gibb-the-importance-of-an-evidence-informed-profession" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/speeches/nick-gibb-the-importance-of-an-evidence-informed-profession</a>  
+   Link:<a href="https://www.gov.uk/government/speeches/nick-gibb-the-importance-of-an-evidence-informed-profession" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/speeches/nick-gibb-the-importance-of-an-evidence-informed-profession</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: itslifejimbutnotasweknowit.org.uk  
    Title: It's Life Jim, But Not As We Know It Should we be using Learning Styles?  
-   Link: <a href="https://www.itslifejimbutnotasweknowit.org.uk/files/LSRC_LearningStyles.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.itslifejimbutnotasweknowit.org.uk/files/LSRC_LearningStyles.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>What research has to...of the reliability and validity of their learning style instruments strongly suggests that they should not be use...</p></details>
+   Link:<a href="https://www.itslifejimbutnotasweknowit.org.uk/files/LSRC_LearningStyles.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.itslifejimbutnotasweknowit.org.uk/files/LSRC_LearningStyles.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>What research has to...of the reliability and validity of their learning style instruments strongly suggests that they should not be use...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: frontiersin.org  
    Title: Frontiers Dispelling the Myth: Training in Education or Neuroscience  
-   Link: <a href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2017.01314/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2017.01314/full</a>  
+   Link:<a href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2017.01314/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2017.01314/full</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: educationendowmentfoundation.org.uk  
-   Link: <a href="https://educationendowmentfoundation.org.uk/education-evidence/guidance-reports/implementation" target="_blank" rel="noopener noreferrer nofollow">https://educationendowmentfoundation.org.uk/education-evidence/guidance-reports/implementation</a>  
+   Link:<a href="https://educationendowmentfoundation.org.uk/education-evidence/guidance-reports/implementation" target="_blank" rel="noopener noreferrer nofollow">https://educationendowmentfoundation.org.uk/education-evidence/guidance-reports/implementation</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: educationendowmentfoundation.org.uk  
-   Link: <a href="https://educationendowmentfoundation.org.uk/education-evidence/teaching-learning-toolkit/learning-styles" target="_blank" rel="noopener noreferrer nofollow">https://educationendowmentfoundation.org.uk/education-evidence/teaching-learning-toolkit/learning-styles</a>  
+   Link:<a href="https://educationendowmentfoundation.org.uk/education-evidence/teaching-learning-toolkit/learning-styles" target="_blank" rel="noopener noreferrer nofollow">https://educationendowmentfoundation.org.uk/education-evidence/teaching-learning-toolkit/learning-styles</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: careersandenterprise.co.uk  
    Title: What Works  
-   Link: <a href="https://www.careersandenterprise.co.uk/evidence-and-reports/what-works-best-practice-guides" target="_blank" rel="noopener noreferrer nofollow">https://www.careersandenterprise.co.uk/evidence-and-reports/what-works-best-practice-guides</a>  
+   Link:<a href="https://www.careersandenterprise.co.uk/evidence-and-reports/what-works-best-practice-guides" target="_blank" rel="noopener noreferrer nofollow">https://www.careersandenterprise.co.uk/evidence-and-reports/what-works-best-practice-guides</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: Wikipedia  
    Title: Learning styles  
-   Link: <a href="https://en.wikipedia.org/wiki/Learning_styles" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Learning_styles</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Learning_styles" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Learning_styles</a>  
 
 ### Additional References
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: oecd.org  
-   Link: <a href="https://www.oecd.org/content/dam/oecd/en/publications/reports/2007/06/evidence-in-education_g1gh7fde/9789264033672-en.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/content/dam/oecd/en/publications/reports/2007/06/evidence-in-education_g1gh7fde/9789264033672-en.pdf</a>  
+   Link:<a href="https://www.oecd.org/content/dam/oecd/en/publications/reports/2007/06/evidence-in-education_g1gh7fde/9789264033672-en.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/content/dam/oecd/en/publications/reports/2007/06/evidence-in-education_g1gh7fde/9789264033672-en.pdf</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/sharingbestpractice/posts/2232617127071786/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/sharingbestpractice/posts/2232617127071786/</a>  
+   Link:<a href="https://www.facebook.com/groups/sharingbestpractice/posts/2232617127071786/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/sharingbestpractice/posts/2232617127071786/</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: educationtoworkforce.org  
-   Link: <a href="https://educationtoworkforce.org/sites/default/files/2023-04/E-W-Indicator-Framework_ChapterIV_Evidence-based-practices_0.pdf" target="_blank" rel="noopener noreferrer nofollow">https://educationtoworkforce.org/sites/default/files/2023-04/E-W-Indicator-Framework_ChapterIV_Evidence-based-practices_0.pdf</a>  
+   Link:<a href="https://educationtoworkforce.org/sites/default/files/2023-04/E-W-Indicator-Framework_ChapterIV_Evidence-based-practices_0.pdf" target="_blank" rel="noopener noreferrer nofollow">https://educationtoworkforce.org/sites/default/files/2023-04/E-W-Indicator-Framework_ChapterIV_Evidence-based-practices_0.pdf</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: dremilywhitehorse.com  
-   Link: <a href="https://www.dremilywhitehorse.com/blog/did-you-know-that-learning-styles-are-considered-a-neuromyth" target="_blank" rel="noopener noreferrer nofollow">https://www.dremilywhitehorse.com/blog/did-you-know-that-learning-styles-are-considered-a-neuromyth</a>  
+   Link:<a href="https://www.dremilywhitehorse.com/blog/did-you-know-that-learning-styles-are-considered-a-neuromyth" target="_blank" rel="noopener noreferrer nofollow">https://www.dremilywhitehorse.com/blog/did-you-know-that-learning-styles-are-considered-a-neuromyth</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: structural-learning.com  
-   Link: <a href="https://www.structural-learning.com/post/eef-teaching-learning-toolkit-guide" target="_blank" rel="noopener noreferrer nofollow">https://www.structural-learning.com/post/eef-teaching-learning-toolkit-guide</a>  
+   Link:<a href="https://www.structural-learning.com/post/eef-teaching-learning-toolkit-guide" target="_blank" rel="noopener noreferrer nofollow">https://www.structural-learning.com/post/eef-teaching-learning-toolkit-guide</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: educationendowmentfoundation.org.uk  
-   Link: <a href="https://educationendowmentfoundation.org.uk/projects-and-evaluation/evaluation/process-and-people/pipeline-of-eef-trials" target="_blank" rel="noopener noreferrer nofollow">https://educationendowmentfoundation.org.uk/projects-and-evaluation/evaluation/process-and-people/pipeline-of-eef-trials</a>  
+   Link:<a href="https://educationendowmentfoundation.org.uk/projects-and-evaluation/evaluation/process-and-people/pipeline-of-eef-trials" target="_blank" rel="noopener noreferrer nofollow">https://educationendowmentfoundation.org.uk/projects-and-evaluation/evaluation/process-and-people/pipeline-of-eef-trials</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: dera.ioe.ac.uk  
-   Link: <a href="https://dera.ioe.ac.uk/id/eprint/31088/1/EEF-Implementation-Guidance-Report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://dera.ioe.ac.uk/id/eprint/31088/1/EEF-Implementation-Guidance-Report.pdf</a>  
+   Link:<a href="https://dera.ioe.ac.uk/id/eprint/31088/1/EEF-Implementation-Guidance-Report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://dera.ioe.ac.uk/id/eprint/31088/1/EEF-Implementation-Guidance-Report.pdf</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: chartered.college  
-   Link: <a href="https://chartered.college/edtech-evidence-board-project/" target="_blank" rel="noopener noreferrer nofollow">https://chartered.college/edtech-evidence-board-project/</a>  
+   Link:<a href="https://chartered.college/edtech-evidence-board-project/" target="_blank" rel="noopener noreferrer nofollow">https://chartered.college/edtech-evidence-board-project/</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: educationendowmentfoundation.org.uk  
-   Link: <a href="https://educationendowmentfoundation.org.uk/education-evidence" target="_blank" rel="noopener noreferrer nofollow">https://educationendowmentfoundation.org.uk/education-evidence</a>  
+   Link:<a href="https://educationendowmentfoundation.org.uk/education-evidence" target="_blank" rel="noopener noreferrer nofollow">https://educationendowmentfoundation.org.uk/education-evidence</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: npuls.nl  
-   Link: <a href="https://npuls.nl/_assets/06705a66-725b-41ef-87f3-a96c07092b8c/EN-The-Dutch-3E-Framework-EdTech.pdf" target="_blank" rel="noopener noreferrer nofollow">https://npuls.nl/_assets/06705a66-725b-41ef-87f3-a96c07092b8c/EN-The-Dutch-3E-Framework-EdTech.pdf</a>
+   Link:<a href="https://npuls.nl/_assets/06705a66-725b-41ef-87f3-a96c07092b8c/EN-The-Dutch-3E-Framework-EdTech.pdf" target="_blank" rel="noopener noreferrer nofollow">https://npuls.nl/_assets/06705a66-725b-41ef-87f3-a96c07092b8c/EN-The-Dutch-3E-Framework-EdTech.pdf</a>

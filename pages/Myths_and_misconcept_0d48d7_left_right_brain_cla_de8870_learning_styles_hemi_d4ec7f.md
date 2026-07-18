@@ -268,7 +268,7 @@ image: /assets/images/Myths_and_misconcept_0d48d7_left_right_brain_cla_de8870_le
 
 ## Introduction
 
-The claim that some pupils are “left-brain learners” and others are “right-brain learners” often survives because it sounds like a specialised version of a familiar educational idea: people learn best when teaching is matched to their natural style. Once researchers began testing learning-styles claims directly, however, the evidence created a problem for hemisphere-based teaching. The same standards that challenge visual-versus-auditory matching also challenge left-brain-versus-right-brain matching. Both depend on a strong assumption that learners can be sorted into stable categories and that instruction becomes more effective when it is tailored to those categories. Decades of research have struggled to support that assumption. Instead, the strongest evidence suggests that teaching works best when methods fit the content being learned and the cognitive demands of the task, not a supposed brain type. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/26162104/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Learning Styles: Concepts and Evidenceby H Pashler · 2008 · Cited by 5022 — Learning styles refers to the concept that individuals...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/abs/10.1111/j.1539-6053.2009.01038.x" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-title">j.1539 6053.2009.01038.x</span><span class="citation-popover-snippet">Sage JournalsLearning Styles: Concepts and Evidenceby H Pashler · 2008 · Cited by 4835 — We conclude therefore, that at present, there is...</span></span></span>
+The claim that some pupils are “left-brain learners” and others are “right-brain learners” often survives because it sounds like a specialised version of a familiar educational idea: people learn best when teaching is matched to their natural style. Once researchers began testing learning-styles claims directly, however, the evidence created a problem for hemisphere-based teaching. The same standards that challenge visual-versus-auditory matching also challenge left-brain-versus-right-brain matching. Both depend on a strong assumption that learners can be sorted into stable categories and that instruction becomes more effective when it is tailored to those categories. Decades of research have struggled to support that assumption. Instead, the strongest evidence suggests that teaching works best when methods fit the content being learned and the cognitive demands of the task, not a supposed brain type.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/26162104/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Learning Styles: Concepts and Evidenceby H Pashler · 2008 · Cited by 5022 — Learning styles refers to the concept that individuals...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/abs/10.1111/j.1539-6053.2009.01038.x" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-title">j.1539 6053.2009.01038.x</span><span class="citation-popover-snippet">Sage JournalsLearning Styles: Concepts and Evidenceby H Pashler · 2008 · Cited by 4835 — We conclude therefore, that at present, there is...</span></span></span>
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_left_right_brain_cla_de8870_learning_styles_hemi_d4ec7f-Illustration-1-dark.svg" | relative_url }}" alt="Style matching illustration 1" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_left_right_brain_cla_de8870_learning_styles_hemi_d4ec7f-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_left_right_brain_cla_de8870_learning_styles_hemi_d4ec7f-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 The result is not that individual differences disappear. Learners differ in knowledge, motivation, attention, language skills, [memory]({{ 'memory/' | relative_url }}) capacity and experience. The challenge is that hemisphere labels have not provided a reliable way to identify those differences or improve instruction. Research on learning styles became one of the most important tests of that broader idea.
@@ -277,11 +277,11 @@ The result is not that individual differences disappear. Learners differ in know
 
 A common misunderstanding is that learning-style theories can be confirmed simply by showing that people have preferences. Many people do prefer diagrams to text, listening to reading, or hands-on activities to lectures. Yet preference alone does not demonstrate that learning improves when teaching is matched to that preference. Researchers therefore developed a much stricter test.
 
-The influential review by Harold Pashler and colleagues argued that a genuine style-matching theory requires a specific experimental pattern. Learners must first be classified into different styles. They must then be randomly assigned to different instructional methods. Most importantly, the results must show a crossover effect: one group learns best from one method while another group learns best from a different method. Without that interaction, the [matching claim]({{ 'matching-claim/' | relative_url }}) fails. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/26162104/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Learning Styles: Concepts and Evidenceby H Pashler · 2008 · Cited by 5022 — Learning styles refers to the concept that individuals...</span></span></span>
+The influential review by Harold Pashler and colleagues argued that a genuine style-matching theory requires a specific experimental pattern. Learners must first be classified into different styles. They must then be randomly assigned to different instructional methods. Most importantly, the results must show a crossover effect: one group learns best from one method while another group learns best from a different method. Without that interaction, the [matching claim]({{ 'matching-claim/' | relative_url }}) fails.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/26162104/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Learning Styles: Concepts and Evidenceby H Pashler · 2008 · Cited by 5022 — Learning styles refers to the concept that individuals...</span></span></span>
 
 This requirement matters because hemisphere-matching theories make exactly the same prediction. If “left-brain” and “right-brain” learners were meaningful categories, researchers should be able to identify them and demonstrate that each group learns more effectively from different forms of teaching. The evidence would need to show more than different preferences or personalities. It would need to show reliably improved learning outcomes.
 
-That standard turned out to be difficult to meet. Reviews repeatedly found that studies often measured preferences rather than achievement, lacked proper experimental designs, or failed to demonstrate the required interaction effect. As a result, the central matching hypothesis remained unsupported. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubs.acs.org/doi/10.1021/acs.jchemed.7b00424" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubs.acs.org">[American Chemical Society Publications]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubs.acs.org</span><span class="citation-popover-title">American Chemical Society Publications Finding No Evidence for Learning Styles</span><span class="citation-popover-snippet">American Chemical Society PublicationsFinding No Evidence for Learning Styles - ACS Publications11 Jul 2017 — No experimental evidence ex...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/26162104/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Learning Styles: Concepts and Evidenceby H Pashler · 2008 · Cited by 5022 — Learning styles refers to the concept that individuals...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/abs/10.1111/j.1539-6053.2009.01038.x" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-title">j.1539 6053.2009.01038.x</span><span class="citation-popover-snippet">Sage JournalsLearning Styles: Concepts and Evidenceby H Pashler · 2008 · Cited by 4835 — We conclude therefore, that at present, there is...</span></span></span>
+That standard turned out to be difficult to meet. Reviews repeatedly found that studies often measured preferences rather than achievement, lacked proper experimental designs, or failed to demonstrate the required interaction effect. As a result, the central matching hypothesis remained unsupported.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pubs.acs.org/doi/10.1021/acs.jchemed.7b00424" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubs.acs.org">[American Chemical Society Publications]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubs.acs.org</span><span class="citation-popover-title">American Chemical Society Publications Finding No Evidence for Learning Styles</span><span class="citation-popover-snippet">American Chemical Society PublicationsFinding No Evidence for Learning Styles - ACS Publications11 Jul 2017 — No experimental evidence ex...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/26162104/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Learning Styles: Concepts and Evidenceby H Pashler · 2008 · Cited by 5022 — Learning styles refers to the concept that individuals...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/abs/10.1111/j.1539-6053.2009.01038.x" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-title">j.1539 6053.2009.01038.x</span><span class="citation-popover-snippet">Sage JournalsLearning Styles: Concepts and Evidenceby H Pashler · 2008 · Cited by 4835 — We conclude therefore, that at present, there is...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ZMSbDwpIyF4" title="The left brain vs. right brain myth - Elizabeth Waters" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ZMSbDwpIyF4" target="_blank" rel="noopener noreferrer">The left brain vs. right brain myth - Elizabeth Waters</a></p><p class="youtube-embed-meta">Channel: TED-Ed &middot; Views: 1.2M &middot; Uploaded: July 2017 &middot; Length: 4 minutes 12 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ZMSbDwpIyF4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ZMSbDwpIyF4">Open on YouTube</a></p></div></div></div>
 
@@ -289,26 +289,26 @@ That standard turned out to be difficult to meet. Reviews repeatedly found that 
 
 The failure of learning-style evidence has direct consequences for hemisphere-based teaching because both approaches depend on categorising learners before instruction begins.
 
-One major problem is instability. Many style classifications produce inconsistent results over time or across contexts. A learner labelled one way in a questionnaire may not receive the same classification later. If the categories themselves are unstable, building instructional decisions around them becomes difficult to justify. Reviews of learning-style models found major concerns about reliability, validity and inconsistent definitions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.leerbeleving.nl/wp-content/uploads/2011/09/learning-styles.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: leerbeleving.nl">[Leerbeleving]</a><span class="citation-popover" role="note"><span class="citation-popover-source">leerbeleving.nl</span><span class="citation-popover-snippet">The report concludes that it matters...Read more...</span></span></span>
+One major problem is instability. Many style classifications produce inconsistent results over time or across contexts. A learner labelled one way in a questionnaire may not receive the same classification later. If the categories themselves are unstable, building instructional decisions around them becomes difficult to justify. Reviews of learning-style models found major concerns about reliability, validity and inconsistent definitions.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.leerbeleving.nl/wp-content/uploads/2011/09/learning-styles.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: leerbeleving.nl">[Leerbeleving]</a><span class="citation-popover" role="note"><span class="citation-popover-source">leerbeleving.nl</span><span class="citation-popover-snippet">The report concludes that it matters...Read more...</span></span></span>
 
-Another problem is that successful studies often show that one teaching method works better for nearly everyone. For example, diagrams may help when teaching spatial relationships, while spoken explanation may be useful for pronunciation. In such cases, the benefit comes from the nature of the material rather than the learner's category. The result is an instructional advantage, but not evidence for matching. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/26162104/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Learning Styles: Concepts and Evidenceby H Pashler · 2008 · Cited by 5022 — Learning styles refers to the concept that individuals...</span></span></span>
+Another problem is that successful studies often show that one teaching method works better for nearly everyone. For example, diagrams may help when teaching spatial relationships, while spoken explanation may be useful for pronunciation. In such cases, the benefit comes from the nature of the material rather than the learner's category. The result is an instructional advantage, but not evidence for matching.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/26162104/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Learning Styles: Concepts and Evidenceby H Pashler · 2008 · Cited by 5022 — Learning styles refers to the concept that individuals...</span></span></span>
 
-This distinction becomes especially important when left-brain and right-[brain labels]({{ 'brain-labels/' | relative_url }}) enter the classroom. A pupil described as “right-brained” may be directed towards images and creativity-based activities, while a “left-brained” pupil may receive more verbal or analytical work. Yet the research does not show that these labels predict which teaching method will maximise learning. Neuroscience reviews also note that the underlying assumption is weak because most learning depends on distributed networks across both hemispheres rather than a dominant half-brain learning system. <span class="citation-chip-wrap"><a class="citation-chip" href="https://research.monash.edu/en/publications/the-myth-of-the-left-vs-right-brain-learning/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: research.monash.edu">[Monash University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">research.monash.edu</span><span class="citation-popover-snippet">Monash UniversityThe myth of the left- Vs right-brain learningby KA Allen · 2019 · Cited by 34 — This paper explores the myth of hemisphe...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4678182/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCThe Learning Styles Myth is Thriving in Higher Education</span><span class="citation-popover-snippet">Learning Styles Myth is Thriving in Higher Education - PMCby PM Newton · 2015 · Cited by 474 — Only one study tested the &#x27;matching hypoth...</span></span></span>
+This distinction becomes especially important when left-brain and right-[brain labels]({{ 'brain-labels/' | relative_url }}) enter the classroom. A pupil described as “right-brained” may be directed towards images and creativity-based activities, while a “left-brained” pupil may receive more verbal or analytical work. Yet the research does not show that these labels predict which teaching method will maximise learning. Neuroscience reviews also note that the underlying assumption is weak because most learning depends on distributed networks across both hemispheres rather than a dominant half-brain learning system.<span class="citation-chip-wrap"><a class="citation-chip" href="https://research.monash.edu/en/publications/the-myth-of-the-left-vs-right-brain-learning/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: research.monash.edu">[Monash University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">research.monash.edu</span><span class="citation-popover-snippet">Monash UniversityThe myth of the left- Vs right-brain learningby KA Allen · 2019 · Cited by 34 — This paper explores the myth of hemisphe...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4678182/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCThe Learning Styles Myth is Thriving in Higher Education</span><span class="citation-popover-snippet">Learning Styles Myth is Thriving in Higher Education - PMCby PM Newton · 2015 · Cited by 474 — Only one study tested the &#x27;matching hypoth...</span></span></span>
 
-The educational risk is subtle but important. Once learners receive a category, expectations can narrow. Students may avoid effective strategies because they believe those strategies do not fit their style. Teachers may also limit opportunities by assuming certain pupils are naturally suited to one type of thinking. Critics of learning-style instruction argue that these labels can become self-reinforcing without improving outcomes. <span class="citation-chip-wrap"><a class="citation-chip" href="https://the-learning-agency.com/insights/[debunking" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: the-learning-agency.com">[The Learning Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">the-learning-agency.com</span><span class="citation-popover-snippet">The Learning AgencyDebunking The &#x27;Learning Styles&#x27; NeuromythResearch shows there&#x27;s little evidence it actually exists. Placing students i...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3897366/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCLeft Brain, Right Brain: Facts and Fantasies</span><span class="citation-popover-snippet">NIHby MC Corballis · 2014 · Cited by 520 — Michael Corballis discusses in this essay how the asymmetry of the brain raises question...</span></span></span>
+The educational risk is subtle but important. Once learners receive a category, expectations can narrow. Students may avoid effective strategies because they believe those strategies do not fit their style. Teachers may also limit opportunities by assuming certain pupils are naturally suited to one type of thinking. Critics of learning-style instruction argue that these labels can become self-reinforcing without improving outcomes.<span class="citation-chip-wrap"><a class="citation-chip" href="https://the-learning-agency.com/insights/[debunking" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: the-learning-agency.com">[The Learning Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">the-learning-agency.com</span><span class="citation-popover-snippet">The Learning AgencyDebunking The &#x27;Learning Styles&#x27; NeuromythResearch shows there&#x27;s little evidence it actually exists. Placing students i...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3897366/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCLeft Brain, Right Brain: Facts and Fantasies</span><span class="citation-popover-snippet">NIHby MC Corballis · 2014 · Cited by 520 — Michael Corballis discusses in this essay how the asymmetry of the brain raises question...</span></span></span>
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_left_right_brain_cla_de8870_learning_styles_hemi_d4ec7f-Illustration-2-dark.svg" | relative_url }}" alt="Style matching illustration 2" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_left_right_brain_cla_de8870_learning_styles_hemi_d4ec7f-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_left_right_brain_cla_de8870_learning_styles_hemi_d4ec7f-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why hemisphere labels borrowed the language of learning styles
 
 The left-brain/right-brain learner idea gained credibility partly because it appeared to connect educational practice with neuroscience. Genuine findings about hemispheric specialisation were translated into classroom categories.
 
-Researchers have long known that some functions show partial [lateralisation]({{ 'lateralisation/' | relative_url }}). Language processing, for example, is often more concentrated in left-hemisphere networks, while certain attention and spatial functions show stronger right-hemisphere involvement. The leap occurred when these specialised functions were transformed into whole-person learning identities. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5366351/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">nih.govEvidence-Based Higher Education – Is the Learning Styles...by PM Newton · 2017 · Cited by 459 — The empirical evidence is clear t...</span></span></span>
+Researchers have long known that some functions show partial [lateralisation]({{ 'lateralisation/' | relative_url }}). Language processing, for example, is often more concentrated in left-hemisphere networks, while certain attention and spatial functions show stronger right-hemisphere involvement. The leap occurred when these specialised functions were transformed into whole-person learning identities.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5366351/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">nih.govEvidence-Based Higher Education – Is the Learning Styles...by PM Newton · 2017 · Cited by 459 — The empirical evidence is clear t...</span></span></span>
 
 Learning-style theories provided a convenient framework for that leap. If visual, verbal or kinaesthetic learners existed, then it seemed plausible that left-brain and right-brain learners might exist as well. Both models promised personalised education through classification. Both suggested that identifying a learner's type could reveal the best teaching method.
 
-Yet the evidence problems were remarkably similar. Educational researchers found little support for style matching, while neuroscientists found little support for global left-brained or right-brained personality types. Reviews of [neuromyths]({{ 'neuromyths/' | relative_url }}) frequently discuss the two beliefs together because they share the same underlying logic: a simplified brain-based category is assumed to dictate how a person learns. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3475349/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">by S Dekker · 2012 · Cited by 1288 — An example of a neuromyth is that learning could be improved if children were classified and taug...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7835631/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">The Persistence of Neuromyths in the Educational Settingsby M Torrijos-Muelas · 2021 · Cited by 271 — The findings present neuromyths...</span></span></span>
+Yet the evidence problems were remarkably similar. Educational researchers found little support for style matching, while neuroscientists found little support for global left-brained or right-brained personality types. Reviews of [neuromyths]({{ 'neuromyths/' | relative_url }}) frequently discuss the two beliefs together because they share the same underlying logic: a simplified brain-based category is assumed to dictate how a person learns.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3475349/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">by S Dekker · 2012 · Cited by 1288 — An example of a neuromyth is that learning could be improved if children were classified and taug...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7835631/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">The Persistence of Neuromyths in the Educational Settingsby M Torrijos-Muelas · 2021 · Cited by 271 — The findings present neuromyths...</span></span></span>
 
-This overlap helps explain why belief in both myths remains widespread. Each offers an intuitive explanation for individual differences. Each promises customised teaching. The scientific challenge is that the promised mechanism has not been demonstrated convincingly. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.deansforimpact.org/about/news-and-blog/2016/06/09/exploring-the-left-brainright-brain-myth" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: deansforimpact.org">[Deans for Impact]</a><span class="citation-popover" role="note"><span class="citation-popover-source">deansforimpact.org</span><span class="citation-popover-title">exploring the left brainright brain myth</span><span class="citation-popover-snippet">Melina Uncapher explores the right-brain/left-brain myth: that people are preferentially “right-brained” or “left-brained” in the use of...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.learningscientists.org/blog/2016/8/2-1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: learningscientists.org">[The Learning Scientists]</a><span class="citation-popover" role="note"><span class="citation-popover-source">learningscientists.org</span><span class="citation-popover-snippet">The Learning ScientistsGUEST POST: Exploring the Left Brain / Right Brain Myth2 Aug 2016 — The idea that people rely predominantly on eit...</span></span></span>
+This overlap helps explain why belief in both myths remains widespread. Each offers an intuitive explanation for individual differences. Each promises customised teaching. The scientific challenge is that the promised mechanism has not been demonstrated convincingly.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.deansforimpact.org/about/news-and-blog/2016/06/09/exploring-the-left-brainright-brain-myth" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: deansforimpact.org">[Deans for Impact]</a><span class="citation-popover" role="note"><span class="citation-popover-source">deansforimpact.org</span><span class="citation-popover-title">exploring the left brainright brain myth</span><span class="citation-popover-snippet">Melina Uncapher explores the right-brain/left-brain myth: that people are preferentially “right-brained” or “left-brained” in the use of...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.learningscientists.org/blog/2016/8/2-1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: learningscientists.org">[The Learning Scientists]</a><span class="citation-popover" role="note"><span class="citation-popover-source">learningscientists.org</span><span class="citation-popover-snippet">The Learning ScientistsGUEST POST: Exploring the Left Brain / Right Brain Myth2 Aug 2016 — The idea that people rely predominantly on eit...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/eDQquPtqMZs" title="Neurologists Debunk 11 Brain Myths | Debunked | Science Insider" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=eDQquPtqMZs" target="_blank" rel="noopener noreferrer">Neurologists Debunk 11 Brain Myths | Debunked | Science Insider</a></p><p class="youtube-embed-meta">Channel: Insider Science &middot; Views: 2.6M &middot; Uploaded: June 2022 &middot; Length: 14 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=eDQquPtqMZs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=eDQquPtqMZs">Open on YouTube</a></p></div></div></div>
 
@@ -321,212 +321,212 @@ Research increasingly supports matching instruction to the material rather than 
 * Reading requires attention to language, vocabulary, comprehension and background knowledge. Effective instruction therefore focuses on those components rather than on whether a pupil is supposedly left-brained or right-brained.
 * Geometry, engineering and anatomy often benefit from diagrams because the content itself contains spatial relationships that are easier to represent visually.
 * Pronunciation, music and language listening skills require exposure to sound because auditory information is part of the task.
-* Complex procedures often benefit from demonstrations combined with practice because learners need to see and perform the sequence of actions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/26162104/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Learning Styles: Concepts and Evidenceby H Pashler · 2008 · Cited by 5022 — Learning styles refers to the concept that individuals...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://poorvucenter.yale.edu/teaching/teaching-resource-library/learning-styles-as-a-myth" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: poorvucenter.yale.edu">[Poorvu Center for Teaching and Learning]</a><span class="citation-popover" role="note"><span class="citation-popover-source">poorvucenter.yale.edu</span><span class="citation-popover-snippet">Styles as a Myth - Teaching - Poorvu CenterResearch indicates that there is no scientific evidence to support the notion that matching co...</span></span></span>
+* Complex procedures often benefit from demonstrations combined with practice because learners need to see and perform the sequence of actions.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/26162104/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Learning Styles: Concepts and Evidenceby H Pashler · 2008 · Cited by 5022 — Learning styles refers to the concept that individuals...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://poorvucenter.yale.edu/teaching/teaching-resource-library/learning-styles-as-a-myth" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: poorvucenter.yale.edu">[Poorvu Center for Teaching and Learning]</a><span class="citation-popover" role="note"><span class="citation-popover-source">poorvucenter.yale.edu</span><span class="citation-popover-snippet">Styles as a Myth - Teaching - Poorvu CenterResearch indicates that there is no scientific evidence to support the notion that matching co...</span></span></span>
 
 Notice that these decisions depend on the structure of the knowledge being learned, not on a learner's hemisphere label. A student may need text, diagrams, discussion and practice within the same lesson because different parts of the task demand different forms of representation.
 
-This approach also aligns better with contemporary neuroscience. Learning involves large-scale networks that coordinate attention, memory, perception, language and executive control. Different tasks recruit different combinations of these systems. The question becomes “What does this learner need for this task?” rather than “Which side of the brain does this learner belong to?” <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.tandfonline.com/doi/abs/10.1080/00405841.2022.2096386" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tandfonline.com">[Taylor &amp; Francis Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tandfonline.com</span><span class="citation-popover-snippet">Taylor &amp; Francis OnlineBeyond left and right: Learning is a whole-brain processby DD Shin · 2022 · Cited by 12 — The OECD website outline...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5554523/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">the Myth: Training in Education or Neuroscience...by K Macdonald · 2017 · Cited by 454 — These findings suggest that training in educati...</span></span></span>
+This approach also aligns better with contemporary neuroscience. Learning involves large-scale networks that coordinate attention, memory, perception, language and executive control. Different tasks recruit different combinations of these systems. The question becomes “What does this learner need for this task?” rather than “Which side of the brain does this learner belong to?”<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.tandfonline.com/doi/abs/10.1080/00405841.2022.2096386" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tandfonline.com">[Taylor &amp; Francis Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tandfonline.com</span><span class="citation-popover-snippet">Taylor &amp; Francis OnlineBeyond left and right: Learning is a whole-brain processby DD Shin · 2022 · Cited by 12 — The OECD website outline...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5554523/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">the Myth: Training in Education or Neuroscience...by K Macdonald · 2017 · Cited by 454 — These findings suggest that training in educati...</span></span></span>
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_left_right_brain_cla_de8870_learning_styles_hemi_d4ec7f-Illustration-3-dark.svg" | relative_url }}" alt="Style matching illustration 3" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_left_right_brain_cla_de8870_learning_styles_hemi_d4ec7f-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_left_right_brain_cla_de8870_learning_styles_hemi_d4ec7f-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The lasting lesson from the learning-styles debate
 
 The most important contribution of the learning-styles literature may be methodological rather than theoretical. It forced educators to ask what kind of evidence is required before personalised teaching claims should be accepted.
 
-When that standard is applied to hemisphere matching, the results are largely the same. Researchers have not demonstrated that classifying pupils as left-brain or right-brain learners leads to better instructional decisions or stronger learning outcomes. The evidence instead points towards a more grounded form of personalisation: adapting teaching to the content, monitoring what learners actually understand, and responding to observable performance rather than presumed brain types. Monash University <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/26162104/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Learning Styles: Concepts and Evidenceby H Pashler · 2008 · Cited by 5022 — Learning styles refers to the concept that individuals...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/abs/10.1111/j.1539-6053.2009.01038.x" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-title">j.1539 6053.2009.01038.x</span><span class="citation-popover-snippet">Sage JournalsLearning Styles: Concepts and Evidenceby H Pashler · 2008 · Cited by 4835 — We conclude therefore, that at present, there is...</span></span></span>
+When that standard is applied to hemisphere matching, the results are largely the same. Researchers have not demonstrated that classifying pupils as left-brain or right-brain learners leads to better instructional decisions or stronger learning outcomes. The evidence instead points towards a more grounded form of personalisation: adapting teaching to the content, monitoring what learners actually understand, and responding to observable performance rather than presumed brain types. Monash University<span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/26162104/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Learning Styles: Concepts and Evidenceby H Pashler · 2008 · Cited by 5022 — Learning styles refers to the concept that individuals...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/abs/10.1111/j.1539-6053.2009.01038.x" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-title">j.1539 6053.2009.01038.x</span><span class="citation-popover-snippet">Sage JournalsLearning Styles: Concepts and Evidenceby H Pashler · 2008 · Cited by 4835 — We conclude therefore, that at present, there is...</span></span></span>
 
-In that sense, the learning-styles debate did not merely challenge one educational fashion. It exposed a broader weakness in attempts to explain learning through simple categories. The failure to validate style matching became one of the clearest reasons to doubt that “left-brained” and “right-brained” learners are meaningful instructional groups in the first place. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11270031/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCIs it really a neuromyth?</span><span class="citation-popover-snippet">A meta-analysis of the learning styles...by V Clinton-Lisell · 2024 · Cited by 27 — The review by Pashler et al. (2008) concluded that t...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4678182/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCThe Learning Styles Myth is Thriving in Higher Education</span><span class="citation-popover-snippet">Learning Styles Myth is Thriving in Higher Education - PMCby PM Newton · 2015 · Cited by 474 — Only one study tested the &#x27;matching hypoth...</span></span></span>
+In that sense, the learning-styles debate did not merely challenge one educational fashion. It exposed a broader weakness in attempts to explain learning through simple categories. The failure to validate style matching became one of the clearest reasons to doubt that “left-brained” and “right-brained” learners are meaningful instructional groups in the first place.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11270031/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCIs it really a neuromyth?</span><span class="citation-popover-snippet">A meta-analysis of the learning styles...by V Clinton-Lisell · 2024 · Cited by 27 — The review by Pashler et al. (2008) concluded that t...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4678182/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCThe Learning Styles Myth is Thriving in Higher Education</span><span class="citation-popover-snippet">Learning Styles Myth is Thriving in Higher Education - PMCby PM Newton · 2015 · Cited by 474 — Only one study tested the &#x27;matching hypoth...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/HKWuhnLoKKY" title="The Myth of “Learning Styles” [CC]" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=HKWuhnLoKKY" target="_blank" rel="noopener noreferrer">The Myth of “Learning Styles” [CC]</a></p><p class="youtube-embed-meta">Channel: Sydney Zarlengo &middot; Views: 1.6K &middot; Uploaded: March 2024 &middot; Length: 33 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=HKWuhnLoKKY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=HKWuhnLoKKY">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why matching styles is not enough. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why matching styles is not enough. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Why+Don%27t+Students+Like+School%3F+by+Daniel+T.+Willingham&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Why Don&#x27;t Students Like School? on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=kuEmEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Why Don&#x27;t Students Like School?" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Why+Don%27t+Students+Like+School%3F+by+Daniel+T.+Willingham&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Why Don&#x27;t Students Like School?">Why Don&#x27;t Students Like School?</a>
-        </h4>
-        <p class="fr-book-author">By Daniel T. Willingham</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Why+Don%27t+Students+Like+School%3F+by+Daniel+T.+Willingham&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Why Don&#x27;t Students Like School? on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=kuEmEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Why Don&#x27;t Students Like School?" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Why+Don%27t+Students+Like+School%3F+by+Daniel+T.+Willingham&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Why Don&#x27;t Students Like School?">Why Don&#x27;t Students Like School?</a>
+</h4>
+<p class="fr-book-author">By Daniel T. Willingham</p>
         
-        <p class="fr-book-desc">Directly challenges common learning myths, including style-based assumptions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Why+Don%27t+Students+Like+School%3F+by+Daniel+T.+Willingham&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly challenges common learning myths, including style-based assumptions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Why+Don%27t+Students+Like+School%3F+by+Daniel+T.+Willingham&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Make It Stick on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fpAXEQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Make It Stick" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Make It Stick">Make It Stick</a>
-        </h4>
-        <p class="fr-book-author">By Peter C. Brown, Henry L. Roediger III et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Make It Stick on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fpAXEQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Make It Stick" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Make It Stick">Make It Stick</a>
+</h4>
+<p class="fr-book-author">By Peter C. Brown, Henry L. Roediger III et al.</p>
         
-        <p class="fr-book-desc">Focuses on evidence-supported learning methods rather than matching instruction to styles.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on evidence-supported learning methods rather than matching instruction to styles.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Visible+Learning+and+the+Science+of+How+We+Learn+by+John+Hattie&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Visible Learning and the Science of How We Learn on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=1RZBAQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Visible Learning and the Science of How We Learn" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Visible+Learning+and+the+Science+of+How+We+Learn+by+John+Hattie&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Visible Learning and the Science of How We Learn">Visible Learning and the Science of How We Learn</a>
-        </h4>
-        <p class="fr-book-author">By John Hattie, Gregory C. R. Yates</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Visible+Learning+and+the+Science+of+How+We+Learn+by+John+Hattie&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Visible Learning and the Science of How We Learn on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=1RZBAQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Visible Learning and the Science of How We Learn" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Visible+Learning+and+the+Science+of+How+We+Learn+by+John+Hattie&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Visible Learning and the Science of How We Learn">Visible Learning and the Science of How We Learn</a>
+</h4>
+<p class="fr-book-author">By John Hattie, Gregory C. R. Yates</p>
         
-        <p class="fr-book-desc">Reviews evidence on learning effectiveness and educational misconceptions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Visible+Learning+and+the+Science+of+How+We+Learn+by+John+Hattie&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Reviews evidence on learning effectiveness and educational misconceptions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Visible+Learning+and+the+Science+of+How+We+Learn+by+John+Hattie&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+Learning+Happens+by+Paul+A.+Kirschner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How Learning Happens on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=PdnzEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How Learning Happens" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+Learning+Happens+by+Paul+A.+Kirschner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How Learning Happens">How Learning Happens</a>
-        </h4>
-        <p class="fr-book-author">By Paul A. Kirschner, Carl Hendrick</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+Learning+Happens+by+Paul+A.+Kirschner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How Learning Happens on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=PdnzEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How Learning Happens" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=How+Learning+Happens+by+Paul+A.+Kirschner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How Learning Happens">How Learning Happens</a>
+</h4>
+<p class="fr-book-author">By Paul A. Kirschner, Carl Hendrick</p>
         
-        <p class="fr-book-desc">Presents research-backed alternatives to learning-style matching.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+Learning+Happens+by+Paul+A.+Kirschner&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Presents research-backed alternatives to learning-style matching.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=How+Learning+Happens+by+Paul+A.+Kirschner&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Why+Don%27t+Students+Like+School%3F&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Why Don&#x27;t Students Like School?</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Make+It+Stick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Make It Stick</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Visible+Learning+and+the+Science+of+How+We+Learn&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Visible Learning and the Science of How We Learn</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Why+Don%27t+Students+Like+School%3F&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Why Don&#x27;t Students Like School?</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Make+It+Stick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Make It Stick</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Visible+Learning+and+the+Science+of+How+We+Learn&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Visible Learning and the Science of How We Learn</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=brain+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=style-matching-why-matching-styles-is-not-enough-myths-and-misconcept-brain-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="brain poster" data-ebay-reference="style-matching-why-matching-styles-is-not-enough-myths-and-misconcept-brain-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Brain Rot Poster Funny Characters Neon Bedroom Art Viral Meme Decor"><img src="{{ '/assets/images/marketplace-covers/d6c22b8c7eef61a6537b.jpg' | relative_url }}" alt="Listing image for Brain Rot Poster Funny Characters Neon Bedroom Art Viral Meme Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=brain+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=style-matching-why-matching-styles-is-not-enough-myths-and-misconcept-brain-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="brain poster" data-ebay-reference="style-matching-why-matching-styles-is-not-enough-myths-and-misconcept-brain-poster" target="_blank" rel="sponsored noopener noreferrer">Brain Rot Poster Funny Characters Neon Bedroom Art Viral Meme Decor</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=brain+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=style-matching-why-matching-styles-is-not-enough-myths-and-misconcept-brain-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="brain poster" data-ebay-reference="style-matching-why-matching-styles-is-not-enough-myths-and-misconcept-brain-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for brain poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: brain poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=brain+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=style-matching-why-matching-styles-is-not-enough-myths-and-misconcept-brain-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="brain poster" data-ebay-reference="style-matching-why-matching-styles-is-not-enough-myths-and-misconcept-brain-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=brain+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=style-matching-why-matching-styles-is-not-enough-myths-and-misconcept-brain-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="brain poster" data-ebay-reference="style-matching-why-matching-styles-is-not-enough-myths-and-misconcept-brain-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Brain Rot Poster Funny Characters Neon Bedroom Art Viral Meme Decor"><img src="{{ '/assets/images/marketplace-covers/d6c22b8c7eef61a6537b.jpg' | relative_url }}" alt="Listing image for Brain Rot Poster Funny Characters Neon Bedroom Art Viral Meme Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=brain+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=style-matching-why-matching-styles-is-not-enough-myths-and-misconcept-brain-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="brain poster" data-ebay-reference="style-matching-why-matching-styles-is-not-enough-myths-and-misconcept-brain-poster" target="_blank" rel="sponsored noopener noreferrer">Brain Rot Poster Funny Characters Neon Bedroom Art Viral Meme Decor</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=brain+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=style-matching-why-matching-styles-is-not-enough-myths-and-misconcept-brain-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="brain poster" data-ebay-reference="style-matching-why-matching-styles-is-not-enough-myths-and-misconcept-brain-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for brain poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: brain poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=brain+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=style-matching-why-matching-styles-is-not-enough-myths-and-misconcept-brain-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="brain poster" data-ebay-reference="style-matching-why-matching-styles-is-not-enough-myths-and-misconcept-brain-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=brain+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=style-matching-why-matching-styles-is-not-enough-myths-and-misconcept-brain-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="brain poster" data-ebay-reference="style-matching-why-matching-styles-is-not-enough-myths-and-misconcept-brain-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Brain medic Framed Art Print Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/ea37225ba47daaddc67e.jpg' | relative_url }}" alt="Listing image for Brain medic Framed Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=brain+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=style-matching-why-matching-styles-is-not-enough-myths-and-misconcept-brain-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="brain poster" data-ebay-reference="style-matching-why-matching-styles-is-not-enough-myths-and-misconcept-brain-poster" target="_blank" rel="sponsored noopener noreferrer">Brain medic Framed Art Print Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=brain+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=style-matching-why-matching-styles-is-not-enough-myths-and-misconcept-brain-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="brain poster" data-ebay-reference="style-matching-why-matching-styles-is-not-enough-myths-and-misconcept-brain-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for brain poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: brain poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=brain+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=style-matching-why-matching-styles-is-not-enough-myths-and-misconcept-brain-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="brain poster" data-ebay-reference="style-matching-why-matching-styles-is-not-enough-myths-and-misconcept-brain-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=brain+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=style-matching-why-matching-styles-is-not-enough-myths-and-misconcept-brain-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="brain poster" data-ebay-reference="style-matching-why-matching-styles-is-not-enough-myths-and-misconcept-brain-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Brain medic Framed Art Print Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/ea37225ba47daaddc67e.jpg' | relative_url }}" alt="Listing image for Brain medic Framed Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=brain+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=style-matching-why-matching-styles-is-not-enough-myths-and-misconcept-brain-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="brain poster" data-ebay-reference="style-matching-why-matching-styles-is-not-enough-myths-and-misconcept-brain-poster" target="_blank" rel="sponsored noopener noreferrer">Brain medic Framed Art Print Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=brain+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=style-matching-why-matching-styles-is-not-enough-myths-and-misconcept-brain-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="brain poster" data-ebay-reference="style-matching-why-matching-styles-is-not-enough-myths-and-misconcept-brain-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for brain poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: brain poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=brain+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=style-matching-why-matching-styles-is-not-enough-myths-and-misconcept-brain-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="brain poster" data-ebay-reference="style-matching-why-matching-styles-is-not-enough-myths-and-misconcept-brain-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=brain+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=style-matching-why-matching-styles-is-not-enough-myths-and-misconcept-brain-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="brain poster" data-ebay-reference="style-matching-why-matching-styles-is-not-enough-myths-and-misconcept-brain-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Human Brain Anatomy Poster Medical Doctor Anatomical Educational Poster A5-A1"><img src="{{ '/assets/images/marketplace-covers/d252c9d704756e344b96.jpg' | relative_url }}" alt="Listing image for Human Brain Anatomy Poster Medical Doctor Anatomical Educational Poster A5-A1" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=brain+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=style-matching-why-matching-styles-is-not-enough-myths-and-misconcept-brain-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="brain poster" data-ebay-reference="style-matching-why-matching-styles-is-not-enough-myths-and-misconcept-brain-poster" target="_blank" rel="sponsored noopener noreferrer">Human Brain Anatomy Poster Medical Doctor Anatomical Educational Poster A5-A1</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=brain+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=style-matching-why-matching-styles-is-not-enough-myths-and-misconcept-brain-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="brain poster" data-ebay-reference="style-matching-why-matching-styles-is-not-enough-myths-and-misconcept-brain-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for brain poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: brain poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=brain+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=style-matching-why-matching-styles-is-not-enough-myths-and-misconcept-brain-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="brain poster" data-ebay-reference="style-matching-why-matching-styles-is-not-enough-myths-and-misconcept-brain-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=brain+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=style-matching-why-matching-styles-is-not-enough-myths-and-misconcept-brain-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="brain poster" data-ebay-reference="style-matching-why-matching-styles-is-not-enough-myths-and-misconcept-brain-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Human Brain Anatomy Poster Medical Doctor Anatomical Educational Poster A5-A1"><img src="{{ '/assets/images/marketplace-covers/d252c9d704756e344b96.jpg' | relative_url }}" alt="Listing image for Human Brain Anatomy Poster Medical Doctor Anatomical Educational Poster A5-A1" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=brain+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=style-matching-why-matching-styles-is-not-enough-myths-and-misconcept-brain-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="brain poster" data-ebay-reference="style-matching-why-matching-styles-is-not-enough-myths-and-misconcept-brain-poster" target="_blank" rel="sponsored noopener noreferrer">Human Brain Anatomy Poster Medical Doctor Anatomical Educational Poster A5-A1</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=brain+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=style-matching-why-matching-styles-is-not-enough-myths-and-misconcept-brain-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="brain poster" data-ebay-reference="style-matching-why-matching-styles-is-not-enough-myths-and-misconcept-brain-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for brain poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: brain poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=brain+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=style-matching-why-matching-styles-is-not-enough-myths-and-misconcept-brain-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="brain poster" data-ebay-reference="style-matching-why-matching-styles-is-not-enough-myths-and-misconcept-brain-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=brain+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=style-matching-why-matching-styles-is-not-enough-myths-and-misconcept-brain-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="brain poster" data-ebay-reference="style-matching-why-matching-styles-is-not-enough-myths-and-misconcept-brain-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Brain Rot Characters Poster Viral Meme Neon Print Kids Teens Wall Art"><img src="{{ '/assets/images/marketplace-covers/b033c98d5eaf10c1e4b2.jpg' | relative_url }}" alt="Listing image for Brain Rot Characters Poster Viral Meme Neon Print Kids Teens Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=brain+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=style-matching-why-matching-styles-is-not-enough-myths-and-misconcept-brain-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="brain poster" data-ebay-reference="style-matching-why-matching-styles-is-not-enough-myths-and-misconcept-brain-poster" target="_blank" rel="sponsored noopener noreferrer">Brain Rot Characters Poster Viral Meme Neon Print Kids Teens Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=brain+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=style-matching-why-matching-styles-is-not-enough-myths-and-misconcept-brain-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="brain poster" data-ebay-reference="style-matching-why-matching-styles-is-not-enough-myths-and-misconcept-brain-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for brain poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: brain poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=brain+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=style-matching-why-matching-styles-is-not-enough-myths-and-misconcept-brain-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="brain poster" data-ebay-reference="style-matching-why-matching-styles-is-not-enough-myths-and-misconcept-brain-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=brain+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=style-matching-why-matching-styles-is-not-enough-myths-and-misconcept-brain-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="brain poster" data-ebay-reference="style-matching-why-matching-styles-is-not-enough-myths-and-misconcept-brain-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=brain+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=style-matching-why-matching-styles-is-not-enough-myths-and-misconcept-brain-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="brain poster" data-ebay-reference="style-matching-why-matching-styles-is-not-enough-myths-and-misconcept-brain-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Brain Rot Characters Poster Viral Meme Neon Print Kids Teens Wall Art"><img src="{{ '/assets/images/marketplace-covers/b033c98d5eaf10c1e4b2.jpg' | relative_url }}" alt="Listing image for Brain Rot Characters Poster Viral Meme Neon Print Kids Teens Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=brain+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=style-matching-why-matching-styles-is-not-enough-myths-and-misconcept-brain-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="brain poster" data-ebay-reference="style-matching-why-matching-styles-is-not-enough-myths-and-misconcept-brain-poster" target="_blank" rel="sponsored noopener noreferrer">Brain Rot Characters Poster Viral Meme Neon Print Kids Teens Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=brain+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=style-matching-why-matching-styles-is-not-enough-myths-and-misconcept-brain-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="brain poster" data-ebay-reference="style-matching-why-matching-styles-is-not-enough-myths-and-misconcept-brain-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for brain poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: brain poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=brain+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=style-matching-why-matching-styles-is-not-enough-myths-and-misconcept-brain-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="brain poster" data-ebay-reference="style-matching-why-matching-styles-is-not-enough-myths-and-misconcept-brain-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=brain+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=style-matching-why-matching-styles-is-not-enough-myths-and-misconcept-brain-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="brain poster" data-ebay-reference="style-matching-why-matching-styles-is-not-enough-myths-and-misconcept-brain-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -542,7 +542,7 @@ In that sense, the learning-styles debate did not merely challenge one education
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -562,7 +562,7 @@ In that sense, the learning-styles debate did not merely challenge one education
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -594,7 +594,7 @@ In that sense, the learning-styles debate did not merely challenge one education
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -646,7 +646,7 @@ In that sense, the learning-styles debate did not merely challenge one education
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -691,7 +691,7 @@ In that sense, the learning-styles debate did not merely challenge one education
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -732,177 +732,177 @@ In that sense, the learning-styles debate did not merely challenge one education
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCThe Learning Styles Myth is Thriving in Higher Education  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4678182/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4678182/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Learning Styles Myth is Thriving in Higher Education - PMCby PM Newton · 2015 · Cited by 474 — Only one study tested the &#x27;matching hypoth...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4678182/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4678182/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Learning Styles Myth is Thriving in Higher Education - PMCby PM Newton · 2015 · Cited by 474 — Only one study tested the &#x27;matching hypoth...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: leerbeleving.nl  
-   Link: <a href="https://www.leerbeleving.nl/wp-content/uploads/2011/09/learning-styles.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.leerbeleving.nl/wp-content/uploads/2011/09/learning-styles.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The report concludes that it matters...Read more...</p></details>
+   Link:<a href="https://www.leerbeleving.nl/wp-content/uploads/2011/09/learning-styles.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.leerbeleving.nl/wp-content/uploads/2011/09/learning-styles.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The report concludes that it matters...Read more...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: research.monash.edu  
-   Link: <a href="https://research.monash.edu/en/publications/the-myth-of-the-left-vs-right-brain-learning/" target="_blank" rel="noopener noreferrer nofollow">https://research.monash.edu/en/publications/the-myth-of-the-left-vs-right-brain-learning/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Monash UniversityThe myth of the left- Vs right-brain learningby KA Allen · 2019 · Cited by 34 — This paper explores the myth of hemisphe...</p></details>
+   Link:<a href="https://research.monash.edu/en/publications/the-myth-of-the-left-vs-right-brain-learning/" target="_blank" rel="noopener noreferrer nofollow">https://research.monash.edu/en/publications/the-myth-of-the-left-vs-right-brain-learning/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Monash UniversityThe myth of the left- Vs right-brain learningby KA Allen · 2019 · Cited by 34 — This paper explores the myth of hemisphe...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCLeft Brain, Right Brain: Facts and Fantasies  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3897366/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3897366/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NIHby MC Corballis · 2014 · Cited by 520 — Michael Corballis discusses in this essay how the asymmetry of the brain raises question...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3897366/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3897366/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NIHby MC Corballis · 2014 · Cited by 520 — Michael Corballis discusses in this essay how the asymmetry of the brain raises question...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: the-learning-agency.com  
-   Link: <a href="https://the-learning-agency.com/insights/[debunking" target="_blank" rel="noopener noreferrer nofollow">https://the-learning-agency.com/insights/[debunking</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Learning AgencyDebunking The &#x27;Learning Styles&#x27; NeuromythResearch shows there&#x27;s little evidence it actually exists. Placing students i...</p></details>
+   Link:<a href="https://the-learning-agency.com/insights/[debunking" target="_blank" rel="noopener noreferrer nofollow">https://the-learning-agency.com/insights/[debunking</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Learning AgencyDebunking The &#x27;Learning Styles&#x27; NeuromythResearch shows there&#x27;s little evidence it actually exists. Placing students i...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5366351/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC5366351/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>nih.govEvidence-Based Higher Education – Is the Learning Styles...by PM Newton · 2017 · Cited by 459 — The empirical evidence is clear t...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5366351/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC5366351/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>nih.govEvidence-Based Higher Education – Is the Learning Styles...by PM Newton · 2017 · Cited by 459 — The empirical evidence is clear t...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3475349/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3475349/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>by S Dekker · 2012 · Cited by 1288 — An example of a neuromyth is that learning could be improved if children were classified and taug...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3475349/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3475349/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by S Dekker · 2012 · Cited by 1288 — An example of a neuromyth is that learning could be improved if children were classified and taug...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7835631/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC7835631/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Persistence of Neuromyths in the Educational Settingsby M Torrijos-Muelas · 2021 · Cited by 271 — The findings present neuromyths...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7835631/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC7835631/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Persistence of Neuromyths in the Educational Settingsby M Torrijos-Muelas · 2021 · Cited by 271 — The findings present neuromyths...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5554523/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC5554523/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>the Myth: Training in Education or Neuroscience...by K Macdonald · 2017 · Cited by 454 — These findings suggest that training in educati...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5554523/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC5554523/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>the Myth: Training in Education or Neuroscience...by K Macdonald · 2017 · Cited by 454 — These findings suggest that training in educati...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCIs it really a neuromyth?  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11270031/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11270031/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A meta-analysis of the learning styles...by V Clinton-Lisell · 2024 · Cited by 27 — The review by Pashler et al. (2008) concluded that t...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11270031/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11270031/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A meta-analysis of the learning styles...by V Clinton-Lisell · 2024 · Cited by 27 — The review by Pashler et al. (2008) concluded that t...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: structural-learning.com  
    Title: learning styles myth debunked  
-   Link: <a href="https://www.structural-learning.com/post/learning-styles-myth-debunked" target="_blank" rel="noopener noreferrer nofollow">https://www.structural-learning.com/post/learning-styles-myth-debunked</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Learning...</p></details>
+   Link:<a href="https://www.structural-learning.com/post/learning-styles-myth-debunked" target="_blank" rel="noopener noreferrer nofollow">https://www.structural-learning.com/post/learning-styles-myth-debunked</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Learning...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/26162104/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/26162104/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Learning Styles: Concepts and Evidenceby H Pashler · 2008 · Cited by 5022 — Learning styles refers to the concept that individuals...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/26162104/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/26162104/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Learning Styles: Concepts and Evidenceby H Pashler · 2008 · Cited by 5022 — Learning styles refers to the concept that individuals...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: journals.sagepub.com  
    Title: j.1539 6053.2009.01038.x  
-   Link: <a href="https://journals.sagepub.com/doi/abs/10.1111/j.1539-6053.2009.01038.x" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/abs/10.1111/j.1539-6053.2009.01038.x</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sage JournalsLearning Styles: Concepts and Evidenceby H Pashler · 2008 · Cited by 4835 — We conclude therefore, that at present, there is...</p></details>
+   Link:<a href="https://journals.sagepub.com/doi/abs/10.1111/j.1539-6053.2009.01038.x" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/abs/10.1111/j.1539-6053.2009.01038.x</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sage JournalsLearning Styles: Concepts and Evidenceby H Pashler · 2008 · Cited by 4835 — We conclude therefore, that at present, there is...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: poorvucenter.yale.edu  
-   Link: <a href="https://poorvucenter.yale.edu/teaching/teaching-resource-library/learning-styles-as-a-myth" target="_blank" rel="noopener noreferrer nofollow">https://poorvucenter.yale.edu/teaching/teaching-resource-library/learning-styles-as-a-myth</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Styles as a Myth - Teaching - Poorvu CenterResearch indicates that there is no scientific evidence to support the notion that matching co...</p></details>
+   Link:<a href="https://poorvucenter.yale.edu/teaching/teaching-resource-library/learning-styles-as-a-myth" target="_blank" rel="noopener noreferrer nofollow">https://poorvucenter.yale.edu/teaching/teaching-resource-library/learning-styles-as-a-myth</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Styles as a Myth - Teaching - Poorvu CenterResearch indicates that there is no scientific evidence to support the notion that matching co...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: journals.sagepub.com  
-   Link: <a href="https://journals.sagepub.com/doi/10.1111/j.1539-6053.2009.01038.x" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1111/j.1539-6053.2009.01038.x</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sage JournalsLearning Styles: Concepts and Evidenceby H Pashler · 2008 · Cited by 5022 — To provide evidence for the learning-styles hypo...</p></details>
+   Link:<a href="https://journals.sagepub.com/doi/10.1111/j.1539-6053.2009.01038.x" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1111/j.1539-6053.2009.01038.x</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sage JournalsLearning Styles: Concepts and Evidenceby H Pashler · 2008 · Cited by 5022 — To provide evidence for the learning-styles hypo...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: pubs.acs.org  
    Title: American Chemical Society Publications Finding No Evidence for Learning Styles  
-   Link: <a href="https://pubs.acs.org/doi/10.1021/acs.jchemed.7b00424" target="_blank" rel="noopener noreferrer nofollow">https://pubs.acs.org/doi/10.1021/acs.jchemed.7b00424</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>American Chemical Society PublicationsFinding No Evidence for Learning Styles - ACS Publications11 Jul 2017 — No experimental evidence ex...</p></details>
+   Link:<a href="https://pubs.acs.org/doi/10.1021/acs.jchemed.7b00424" target="_blank" rel="noopener noreferrer nofollow">https://pubs.acs.org/doi/10.1021/acs.jchemed.7b00424</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>American Chemical Society PublicationsFinding No Evidence for Learning Styles - ACS Publications11 Jul 2017 — No experimental evidence ex...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: tandfonline.com  
-   Link: <a href="https://www.tandfonline.com/doi/abs/10.1080/00405841.2022.2096386" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/abs/10.1080/00405841.2022.2096386</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Taylor &amp; Francis OnlineBeyond left and right: Learning is a whole-brain processby DD Shin · 2022 · Cited by 12 — The OECD website outline...</p></details>
+   Link:<a href="https://www.tandfonline.com/doi/abs/10.1080/00405841.2022.2096386" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/abs/10.1080/00405841.2022.2096386</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Taylor &amp; Francis OnlineBeyond left and right: Learning is a whole-brain processby DD Shin · 2022 · Cited by 12 — The OECD website outline...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: deansforimpact.org  
    Title: exploring the left brainright brain myth  
-   Link: <a href="https://www.deansforimpact.org/about/news-and-blog/2016/06/09/exploring-the-left-brainright-brain-myth" target="_blank" rel="noopener noreferrer nofollow">https://www.deansforimpact.org/about/news-and-blog/2016/06/09/exploring-the-left-brainright-brain-myth</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Melina Uncapher explores the right-brain/left-brain myth: that people are preferentially “right-brained” or “left-brained” in the use of...</p></details>
+   Link:<a href="https://www.deansforimpact.org/about/news-and-blog/2016/06/09/exploring-the-left-brainright-brain-myth" target="_blank" rel="noopener noreferrer nofollow">https://www.deansforimpact.org/about/news-and-blog/2016/06/09/exploring-the-left-brainright-brain-myth</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Melina Uncapher explores the right-brain/left-brain myth: that people are preferentially “right-brained” or “left-brained” in the use of...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: learningscientists.org  
-   Link: <a href="https://www.learningscientists.org/blog/2016/8/2-1" target="_blank" rel="noopener noreferrer nofollow">https://www.learningscientists.org/blog/2016/8/2-1</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Learning ScientistsGUEST POST: Exploring the [Left Brain](&amp;#123;&amp;#123; &#x27;left-brain/&#x27; | relative_url &amp;#125;&amp;#125;) / Right Brain Myth2 Aug 2016 — The idea that people rely predominantly on eit...</p></details>
+   Link:<a href="https://www.learningscientists.org/blog/2016/8/2-1" target="_blank" rel="noopener noreferrer nofollow">https://www.learningscientists.org/blog/2016/8/2-1</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Learning ScientistsGUEST POST: Exploring the [Left Brain](&amp;#123;&amp;#123; &#x27;left-brain/&#x27; | relative_url &amp;#125;&amp;#125;) / Right Brain Myth2 Aug 2016 — The idea that people rely predominantly on eit...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Learning" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Learning</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>LearningLearning is the process of acquiring new understanding, knowledge, behaviors, skills, values, attitudes, and preferences.Read...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Learning" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Learning</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>LearningLearning is the process of acquiring new understanding, knowledge, behaviors, skills, values, attitudes, and preferences.Read...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: structural-learning.com  
    Title: learning styles  
-   Link: <a href="https://www.structural-learning.com/post/learning-styles" target="_blank" rel="noopener noreferrer nofollow">https://www.structural-learning.com/post/learning-styles</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Understanding Learning Styles: What Are Theyby P Main · 2026 · Cited by 2 — Pashler et al.&#x27;s (2008) comprehensive review found virtually...</p></details>
+   Link:<a href="https://www.structural-learning.com/post/learning-styles" target="_blank" rel="noopener noreferrer nofollow">https://www.structural-learning.com/post/learning-styles</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Understanding Learning Styles: What Are Theyby P Main · 2026 · Cited by 2 — Pashler et al.&#x27;s (2008) comprehensive review found virtually...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: jstor.org  
-   Link: <a href="https://www.jstor.org/stable/258066" target="_blank" rel="noopener noreferrer nofollow">https://www.jstor.org/stable/258066</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Left Brain/Right Brain Mythology and Implications for...by T Hines · 1987 · Cited by 120 — The first section of this paper reviews brief...</p></details>
+   Link:<a href="https://www.jstor.org/stable/258066" target="_blank" rel="noopener noreferrer nofollow">https://www.jstor.org/stable/258066</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Left Brain/Right Brain Mythology and Implications for...by T Hines · 1987 · Cited by 120 — The first section of this paper reviews brief...</p></details>
 
 ### Additional References
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: educationalneuroscience.org.uk  
-   Link: <a href="https://educationalneuroscience.org.uk/wordpress/resources/neuromyth-or-neurofact/left-brain-versus-right-brain-thinkers/" target="_blank" rel="noopener noreferrer nofollow">https://educationalneuroscience.org.uk/wordpress/resources/neuromyth-or-neurofact/left-brain-versus-right-brain-thinkers/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Left brain versus right brain thinkersAccording to this view, the left brain is the analytical, logical, verbal half while the right brai...</p></details>
+   Link:<a href="https://educationalneuroscience.org.uk/wordpress/resources/neuromyth-or-neurofact/left-brain-versus-right-brain-thinkers/" target="_blank" rel="noopener noreferrer nofollow">https://educationalneuroscience.org.uk/wordpress/resources/neuromyth-or-neurofact/left-brain-versus-right-brain-thinkers/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Left brain versus right brain thinkersAccording to this view, the left brain is the analytical, logical, verbal half while the right brai...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: inspire.acu.edu.au  
-   Link: <a href="https://inspire.acu.edu.au/articles/learning-styles" target="_blank" rel="noopener noreferrer nofollow">https://inspire.acu.edu.au/articles/learning-styles</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>stylesby M Noetel — The matching hypothesis suggests people learn best when instruction aligns with their preferred style. For example, a...</p></details>
+   Link:<a href="https://inspire.acu.edu.au/articles/learning-styles" target="_blank" rel="noopener noreferrer nofollow">https://inspire.acu.edu.au/articles/learning-styles</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>stylesby M Noetel — The matching hypothesis suggests people learn best when instruction aligns with their preferred style. For example, a...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: gc-bs.org  
-   Link: <a href="https://gc-bs.org/articles/from-styles-to-science-debunking-the-learning-styles-myth-and-embracing-an-evidence-based-framework-for-learning/" target="_blank" rel="noopener noreferrer nofollow">https://gc-bs.org/articles/from-styles-to-science-debunking-the-learning-styles-myth-and-embracing-an-evidence-based-framework-for-learning/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Debunking the Learning Styles Myth and Embracing...12 Jan 2026 — At the heart of nearly all learning style theories lies a single, core...</p></details>
+   Link:<a href="https://gc-bs.org/articles/from-styles-to-science-debunking-the-learning-styles-myth-and-embracing-an-evidence-based-framework-for-learning/" target="_blank" rel="noopener noreferrer nofollow">https://gc-bs.org/articles/from-styles-to-science-debunking-the-learning-styles-myth-and-embracing-an-evidence-based-framework-for-learning/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Debunking the Learning Styles Myth and Embracing...12 Jan 2026 — At the heart of nearly all learning style theories lies a single, core...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: my.chartered.college  
-   Link: <a href="https://my.chartered.college/impact_article/the-problem-with-learning-styles-debunking-the-meshing-hypothesis-in-english-language-teaching/" target="_blank" rel="noopener noreferrer nofollow">https://my.chartered.college/impact_article/the-problem-with-learning-styles-debunking-the-meshing-hypothesis-in-english-language-teaching/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>problem with learning styles: debunking the meshing...22 Feb 2018 — The idea that catering to a learner&#x27;s favoured sensory preference, o...</p></details>
+   Link:<a href="https://my.chartered.college/impact_article/the-problem-with-learning-styles-debunking-the-meshing-hypothesis-in-english-language-teaching/" target="_blank" rel="noopener noreferrer nofollow">https://my.chartered.college/impact_article/the-problem-with-learning-styles-debunking-the-meshing-hypothesis-in-english-language-teaching/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>problem with learning styles: debunking the meshing...22 Feb 2018 — The idea that catering to a learner&#x27;s favoured sensory preference, o...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: unisc.edu.au  
-   Link: <a href="https://www.unisc.edu.au/about/unisc-news/news-archive/2025/april/students-are-neither-left-nor-right-brained-how-some-early-childhood-educators-get-this-neuromyth-and-others-wrong" target="_blank" rel="noopener noreferrer nofollow">https://www.unisc.edu.au/about/unisc-news/news-archive/2025/april/students-are-neither-left-nor-right-brained-how-some-early-childhood-educators-get-this-neuromyth-and-others-wrong</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Students are neither left nor right brained: how some early...16 Apr 2025 — Students are neither left nor right brained: how some early...</p></details>
+   Link:<a href="https://www.unisc.edu.au/about/unisc-news/news-archive/2025/april/students-are-neither-left-nor-right-brained-how-some-early-childhood-educators-get-this-neuromyth-and-others-wrong" target="_blank" rel="noopener noreferrer nofollow">https://www.unisc.edu.au/about/unisc-news/news-archive/2025/april/students-are-neither-left-nor-right-brained-how-some-early-childhood-educators-get-this-neuromyth-and-others-wrong</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Students are neither left nor right brained: how some early...16 Apr 2025 — Students are neither left nor right brained: how some early...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: theabp.org.uk  
    Title: from categories to clarity how science debunks the learning styles approach  
-   Link: <a href="https://theabp.org.uk/from-categories-to-clarity-how-science-debunks-the-learning-styles-approach/" target="_blank" rel="noopener noreferrer nofollow">https://theabp.org.uk/from-categories-to-clarity-how-science-debunks-the-learning-styles-approach/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Association for Business PsychologyHow Science Debunks the Learning Styles ApproachDec 3, 2025 — The paper examined 71 models and fou...</p></details>
+   Link:<a href="https://theabp.org.uk/from-categories-to-clarity-how-science-debunks-the-learning-styles-approach/" target="_blank" rel="noopener noreferrer nofollow">https://theabp.org.uk/from-categories-to-clarity-how-science-debunks-the-learning-styles-approach/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Association for Business PsychologyHow Science Debunks the Learning Styles ApproachDec 3, 2025 — The paper examined 71 models and fou...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: mirjamglessmer.com  
    Title: the learning styles myth based on pashler et al 2008 nancekivell et al 2020  
-   Link: <a href="https://mirjamglessmer.com/2021/06/25/the-learning-styles-myth-based-on-pashler-et-al-2008-nancekivell-et-al-2020/" target="_blank" rel="noopener noreferrer nofollow">https://mirjamglessmer.com/2021/06/25/the-learning-styles-myth-based-on-pashler-et-al-2008-nancekivell-et-al-2020/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The learning styles myth (based on Pashler et al., 200825 Jun 2021 — Learning styles are a bit of a myth. When you ask people, yes, they...</p></details>
+   Link:<a href="https://mirjamglessmer.com/2021/06/25/the-learning-styles-myth-based-on-pashler-et-al-2008-nancekivell-et-al-2020/" target="_blank" rel="noopener noreferrer nofollow">https://mirjamglessmer.com/2021/06/25/the-learning-styles-myth-based-on-pashler-et-al-2008-nancekivell-et-al-2020/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The learning styles myth (based on Pashler et al., 200825 Jun 2021 — Learning styles are a bit of a myth. When you ask people, yes, they...</p></details>
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: community.articulate.com  
    Title: what you need to know about the myth of left and right brained learners  
-   Link: <a href="https://community.articulate.com/blog/articles/what-you-need-to-know-about-the-myth-of-left--and-right-brained-learners/1085188" target="_blank" rel="noopener noreferrer nofollow">https://community.articulate.com/blog/articles/what-you-need-to-know-about-the-myth-of-left--and-right-brained-learners/1085188</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>You Need to Know About the Myth of Left- and Right-...Right-brained people are supposedly more artistic, creative, thoughtful, and subje...</p></details>
+   Link:<a href="https://community.articulate.com/blog/articles/what-you-need-to-know-about-the-myth-of-left--and-right-brained-learners/1085188" target="_blank" rel="noopener noreferrer nofollow">https://community.articulate.com/blog/articles/what-you-need-to-know-about-the-myth-of-left--and-right-brained-learners/1085188</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>You Need to Know About the Myth of Left- and Right-...Right-brained people are supposedly more artistic, creative, thoughtful, and subje...</p></details>
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: bradfordvts.co.uk  
-   Link: <a href="https://www.bradfordvts.co.uk/wp-content/onlineresources/teaching-learning/learning-personality-styles/learning%20styles%20-%20is%20it%20time%20to%20move%20on%20-%20opinion%20piece%20by%20coffield.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.bradfordvts.co.uk/wp-content/onlineresources/teaching-learning/learning-personality-styles/learning%20styles%20-%20is%20it%20time%20to%20move%20on%20-%20opinion%20piece%20by%20coffield.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>nsistent and convincing: learning styles are invalid, unreliable and have a negligible impact on...Read more...</p></details>
+   Link:<a href="https://www.bradfordvts.co.uk/wp-content/onlineresources/teaching-learning/learning-personality-styles/learning%20styles%20-%20is%20it%20time%20to%20move%20on%20-%20opinion%20piece%20by%20coffield.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.bradfordvts.co.uk/wp-content/onlineresources/teaching-learning/learning-personality-styles/learning%20styles%20-%20is%20it%20time%20to%20move%20on%20-%20opinion%20piece%20by%20coffield.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>nsistent and convincing: learning styles are invalid, unreliable and have a negligible impact on...Read more...</p></details>
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: elearningindustry.com  
    Title: critical analysis of learning styles pedagogy post 16 learning  
-   Link: <a href="https://elearningindustry.com/critical-analysis-of-learning-styles-pedagogy-post-16-learning" target="_blank" rel="noopener noreferrer nofollow">https://elearningindustry.com/critical-analysis-of-learning-styles-pedagogy-post-16-learning</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Critical Analysis of Learning Styles in Post-16 Education12 May 2021 — A critical analysis of Learning Styles and Pedagogy in post-16 lea...</p></details>
+   Link:<a href="https://elearningindustry.com/critical-analysis-of-learning-styles-pedagogy-post-16-learning" target="_blank" rel="noopener noreferrer nofollow">https://elearningindustry.com/critical-analysis-of-learning-styles-pedagogy-post-16-learning</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Critical Analysis of Learning Styles in Post-16 Education12 May 2021 — A critical analysis of Learning Styles and Pedagogy in post-16 lea...</p></details>
    Published: May 2021

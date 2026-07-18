@@ -268,33 +268,33 @@ image: /assets/images/Myths_and_misconcept_0d48d7_conceptual_change_le_bdc9ae_co
 
 ## Introduction
 
-Classroom surprises are often treated as a shortcut to better science learning. A teacher drops two objects and they hit the ground together. A metal ball and ring behave differently when heated. A candle under a jar goes out sooner than students expect. These moments can be memorable, but research on conceptual change shows that surprise by itself rarely replaces a misconception. Students can watch a striking demonstration, enjoy it, and still leave with the same underlying explanation they had before. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S0959475200000372" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">On the cognitive conflict as an instructional strategy for...by M Limón · 2001 · Cited by 1216 — One of the most common con...</span></span></span>
+Classroom surprises are often treated as a shortcut to better science learning. A teacher drops two objects and they hit the ground together. A metal ball and ring behave differently when heated. A candle under a jar goes out sooner than students expect. These moments can be memorable, but research on conceptual change shows that surprise by itself rarely replaces a misconception. Students can watch a striking demonstration, enjoy it, and still leave with the same underlying explanation they had before.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S0959475200000372" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">On the cognitive conflict as an instructional strategy for...by M Limón · 2001 · Cited by 1216 — One of the most common con...</span></span></span>
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_conceptual_change_le_bdc9ae_cognitive_conflict_s_9e7dcb-Illustration-1-dark.svg" | relative_url }}" alt="Conflict illustration 1" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_conceptual_change_le_bdc9ae_cognitive_conflict_s_9e7dcb-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_conceptual_change_le_bdc9ae_cognitive_conflict_s_9e7dcb-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-What matters is not simply creating cognitive conflict — the feeling that evidence clashes with an existing belief — but helping learners work through that conflict. The strongest results tend to appear when students first commit to a prediction, then compare that prediction with evidence, and finally construct a more powerful explanation that accounts for both the old intuition and the new observation. Cognitive conflict can open a door, but it does not tell students what to walk towards. <span class="citation-chip-wrap"><a class="citation-chip" href="https://faculty.weber.edu/eamsel/Classes/Practicum/TA%20Practicum/papers/Posner%20et%20al.%20%281982%29.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faculty.weber.edu">[faculty.weber.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faculty.weber.edu</span><span class="citation-popover-snippet">Toward a Theory of Conceptual Changeby GJ POSNER · Cited by 10769 — Accommodation of a Scientific Conception: Toward a Theory of Conceptu...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/2158244015594662" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsEffects of Cognitive Conflict Instructional Strategy on...by BC Madu · 2015 · Cited by 101 — Posner, Strike, Hewson, and Ge...</span></span></span>
+What matters is not simply creating cognitive conflict — the feeling that evidence clashes with an existing belief — but helping learners work through that conflict. The strongest results tend to appear when students first commit to a prediction, then compare that prediction with evidence, and finally construct a more powerful explanation that accounts for both the old intuition and the new observation. Cognitive conflict can open a door, but it does not tell students what to walk towards.<span class="citation-chip-wrap"><a class="citation-chip" href="https://faculty.weber.edu/eamsel/Classes/Practicum/TA%20Practicum/papers/Posner%20et%20al.%20%281982%29.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faculty.weber.edu">[faculty.weber.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faculty.weber.edu</span><span class="citation-popover-snippet">Toward a Theory of Conceptual Changeby GJ POSNER · Cited by 10769 — Accommodation of a Scientific Conception: Toward a Theory of Conceptu...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/2158244015594662" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsEffects of Cognitive Conflict Instructional Strategy on...by BC Madu · 2015 · Cited by 101 — Posner, Strike, Hewson, and Ge...</span></span></span>
 
 ## Why discrepant events can fail
 
-The classic conceptual change literature gave cognitive conflict a central role. Posner, Strike, Hewson and Gertzog argued that learners are more likely to replace an existing conception when they become dissatisfied with it and encounter a new idea that seems intelligible, plausible and fruitful. <span class="citation-chip-wrap"><a class="citation-chip" href="https://faculty.weber.edu/eamsel/Classes/Practicum/TA%20Practicum/papers/Posner%20et%20al.%20%281982%29.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faculty.weber.edu">[faculty.weber.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faculty.weber.edu</span><span class="citation-popover-snippet">Toward a Theory of Conceptual Changeby GJ POSNER · Cited by 10769 — Accommodation of a Scientific Conception: Toward a Theory of Conceptu...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://eclass.uoa.gr/modules/document/file.php/PHS122/%CE%91%CF%81%CE%B8%CF%81%CE%B1/Posner_Strike_Hewson_Gertzog.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eclass.uoa.gr">[2eClass UOA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eclass.uoa.gr</span><span class="citation-popover-snippet">Accommodation of a scientific conception: Toward a theory...by GJ POSNER · Cited by 10769 — Accommodation of a Scientific Conc...</span></span></span>
+The classic conceptual change literature gave cognitive conflict a central role. Posner, Strike, Hewson and Gertzog argued that learners are more likely to replace an existing conception when they become dissatisfied with it and encounter a new idea that seems intelligible, plausible and fruitful.<span class="citation-chip-wrap"><a class="citation-chip" href="https://faculty.weber.edu/eamsel/Classes/Practicum/TA%20Practicum/papers/Posner%20et%20al.%20%281982%29.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faculty.weber.edu">[faculty.weber.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faculty.weber.edu</span><span class="citation-popover-snippet">Toward a Theory of Conceptual Changeby GJ POSNER · Cited by 10769 — Accommodation of a Scientific Conception: Toward a Theory of Conceptu...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://eclass.uoa.gr/modules/document/file.php/PHS122/%CE%91%CF%81%CE%B8%CF%81%CE%B1/Posner_Strike_Hewson_Gertzog.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eclass.uoa.gr">[2eClass UOA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eclass.uoa.gr</span><span class="citation-popover-snippet">Accommodation of a scientific conception: Toward a theory...by GJ POSNER · Cited by 10769 — Accommodation of a Scientific Conc...</span></span></span>
 
 Many science lessons tried to create this dissatisfaction through discrepant events: demonstrations whose outcomes contradict student expectations. The assumption was straightforward. If students see evidence that their idea cannot explain, they will abandon it and adopt a scientific alternative.
 
 In practice, the process is far less reliable.
 
-Research reviews have repeatedly found that cognitive conflict interventions produce mixed results. Some students change their thinking, while others reinterpret the evidence, ignore the contradiction, or treat the event as a special case. A surprising result may challenge the teacher's understanding of the topic, yet fail to feel meaningful to the learner. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S0959475200000372" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">On the cognitive conflict as an instructional strategy for...by M Limón · 2001 · Cited by 1216 — One of the most common con...</span></span></span> ResearchGate Several recurring problems appear in classrooms: <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/233135080_Inconsistent_or_Discrepant_Events_in_Science_Instruction" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[researchgate.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Inconsistent or Discrepant Events in Science InstructionThese inconsistencies between students&#x27; observations and their expect...</span></span></span>
+Research reviews have repeatedly found that cognitive conflict interventions produce mixed results. Some students change their thinking, while others reinterpret the evidence, ignore the contradiction, or treat the event as a special case. A surprising result may challenge the teacher's understanding of the topic, yet fail to feel meaningful to the learner.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S0959475200000372" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">On the cognitive conflict as an instructional strategy for...by M Limón · 2001 · Cited by 1216 — One of the most common con...</span></span></span> ResearchGate Several recurring problems appear in classrooms:<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/233135080_Inconsistent_or_Discrepant_Events_in_Science_Instruction" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[researchgate.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Inconsistent or Discrepant Events in Science InstructionThese inconsistencies between students&#x27; observations and their expect...</span></span></span>
 
 * **Students may not notice the conflict.** If a learner's prediction was never made explicit, they may not recognise that the result contradicts their own thinking.
 * **The evidence may seem untrustworthy.** Students sometimes assume the equipment was faulty, the teacher manipulated the outcome, or unusual conditions produced an exception.
 * **The misconception may be deeply connected to everyday experience.** A learner who believes continuous force is needed for motion sees countless objects stop moving when pushes stop. One classroom demonstration may not outweigh years of observation.
-* **Students may memorise the result without changing the model.** They remember what happened but not why it happened. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S0959475200000372" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">On the cognitive conflict as an instructional strategy for...by M Limón · 2001 · Cited by 1216 — One of the most common con...</span></span></span> DigitalCommons This helps explain a common teaching frustration. A lesson can feel highly engaging <span class="citation-chip-wrap"><a class="citation-chip" href="https://digitalcommons.unl.edu/cgi/viewcontent.cgi?article=1412&amp;context=teachlearnfacpub" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: digitalcommons.unl.edu">[digitalcommons.unl.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">digitalcommons.unl.edu</span><span class="citation-popover-snippet">In this study, we defined and quantified the degree of cognitive conflict induced by a discrepant event from a cognitive perspective.Read...</span></span></span>, with visible surprise and discussion, yet later assessments show that many students still hold the original misconception.
+* **Students may memorise the result without changing the model.** They remember what happened but not why it happened.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S0959475200000372" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">On the cognitive conflict as an instructional strategy for...by M Limón · 2001 · Cited by 1216 — One of the most common con...</span></span></span> DigitalCommons This helps explain a common teaching frustration. A lesson can feel highly engaging<span class="citation-chip-wrap"><a class="citation-chip" href="https://digitalcommons.unl.edu/cgi/viewcontent.cgi?article=1412&amp;context=teachlearnfacpub" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: digitalcommons.unl.edu">[digitalcommons.unl.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">digitalcommons.unl.edu</span><span class="citation-popover-snippet">In this study, we defined and quantified the degree of cognitive conflict induced by a discrepant event from a cognitive perspective.Read...</span></span></span>, with visible surprise and discussion, yet later assessments show that many students still hold the original misconception.
 
 ### The danger of treating surprise as instruction
 
 Discrepant events are sometimes used as attention-grabbing performances. Students laugh, react and become curious. Attention is valuable, but conceptual change requires more than attention.
 
-Studies of cognitive conflict suggest that confusion can become productive only when learners actively try to resolve it. If the conflict remains unresolved, students may simply store the contradiction alongside their original belief. They end up with two competing explanations rather than a reorganised understanding. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/233135080_Inconsistent_or_Discrepant_Events_in_Science_Instruction" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Inconsistent or Discrepant Events in Science InstructionThese inconsistencies between students&#x27; observations and their expect...</span></span></span>
+Studies of cognitive conflict suggest that confusion can become productive only when learners actively try to resolve it. If the conflict remains unresolved, students may simply store the contradiction alongside their original belief. They end up with two competing explanations rather than a reorganised understanding.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/233135080_Inconsistent_or_Discrepant_Events_in_Science_Instruction" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Inconsistent or Discrepant Events in Science InstructionThese inconsistencies between students&#x27; observations and their expect...</span></span></span>
 
-This is one reason science education researchers increasingly distinguish between creating conflict and supporting knowledge reconstruction. The critical question is not whether students were surprised. It is whether they built a better explanatory model afterwards. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S0959475200000372" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">On the cognitive conflict as an instructional strategy for...by M Limón · 2001 · Cited by 1216 — One of the most common con...</span></span></span>
+This is one reason science education researchers increasingly distinguish between creating conflict and supporting knowledge reconstruction. The critical question is not whether students were surprised. It is whether they built a better explanatory model afterwards.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S0959475200000372" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">On the cognitive conflict as an instructional strategy for...by M Limón · 2001 · Cited by 1216 — One of the most common con...</span></span></span>
 
 ## Prediction, evidence and explanation routines
 
@@ -308,7 +308,7 @@ Prediction changes a demonstration from passive viewing into a test of ideas.
 
 When students must commit to an outcome before seeing evidence, their existing model becomes visible. They are no longer watching a teacher's experiment. They are testing their own explanation of how the world works.
 
-This matters because misconceptions are often tacit. Students may not realise what assumptions they are using until they are asked to make a concrete prediction. Research on discrepant events repeatedly highlights the importance of exposing learners' prior conceptions before confronting them with contradictory evidence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/233135080_Inconsistent_or_Discrepant_Events_in_Science_Instruction" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Inconsistent or Discrepant Events in Science InstructionThese inconsistencies between students&#x27; observations and their expect...</span></span></span>
+This matters because misconceptions are often tacit. Students may not realise what assumptions they are using until they are asked to make a concrete prediction. Research on discrepant events repeatedly highlights the importance of exposing learners' prior conceptions before confronting them with contradictory evidence.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/233135080_Inconsistent_or_Discrepant_Events_in_Science_Instruction" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Inconsistent or Discrepant Events in Science InstructionThese inconsistencies between students&#x27; observations and their expect...</span></span></span>
 
 For example, before demonstrating that objects of different masses fall at the same rate in the absence of significant air resistance, a teacher might ask students to predict which object will land first and explain why. The explanation is often more informative than the prediction itself. It reveals whether students are reasoning about weight, force, speed, momentum or everyday experience.
 
@@ -316,7 +316,7 @@ For example, before demonstrating that objects of different masses fall at the s
 
 Observation is commonly treated as the decisive step. Yet students do not simply record what they see.
 
-Research on science learning has shown that observation is influenced by prior beliefs. Learners may focus on different aspects of an event, interpret the same evidence differently, or remember outcomes selectively. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S0959475200000372" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">On the cognitive conflict as an instructional strategy for...by M Limón · 2001 · Cited by 1216 — One of the most common con...</span></span></span>
+Research on science learning has shown that observation is influenced by prior beliefs. Learners may focus on different aspects of an event, interpret the same evidence differently, or remember outcomes selectively.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S0959475200000372" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">On the cognitive conflict as an instructional strategy for...by M Limón · 2001 · Cited by 1216 — One of the most common con...</span></span></span>
 
 Because of this, effective instruction often slows down the observation phase. Students compare what happened with what they expected. They discuss discrepancies. They revisit initial reasoning rather than moving immediately to the correct answer.
 
@@ -329,7 +329,7 @@ The most important stage is often the one teachers have the least time for.
 
 After prediction and observation, students need opportunities to explain the mismatch. What assumption failed? What alternative explanation fits the evidence better? Why does the new model succeed where the old one struggled?
 
-This step aligns closely with the conceptual change conditions proposed by Posner and colleagues. A replacement idea must not only expose weaknesses in the old conception. It must also provide a more satisfying account of the phenomenon. <span class="citation-chip-wrap"><a class="citation-chip" href="https://faculty.weber.edu/eamsel/Classes/Practicum/TA%20Practicum/papers/Posner%20et%20al.%20%281982%29.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faculty.weber.edu">[faculty.weber.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faculty.weber.edu</span><span class="citation-popover-snippet">Toward a Theory of Conceptual Changeby GJ POSNER · Cited by 10769 — Accommodation of a Scientific Conception: Toward a Theory of Conceptu...</span></span></span>
+This step aligns closely with the conceptual change conditions proposed by Posner and colleagues. A replacement idea must not only expose weaknesses in the old conception. It must also provide a more satisfying account of the phenomenon.<span class="citation-chip-wrap"><a class="citation-chip" href="https://faculty.weber.edu/eamsel/Classes/Practicum/TA%20Practicum/papers/Posner%20et%20al.%20%281982%29.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faculty.weber.edu">[faculty.weber.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faculty.weber.edu</span><span class="citation-popover-snippet">Toward a Theory of Conceptual Changeby GJ POSNER · Cited by 10769 — Accommodation of a Scientific Conception: Toward a Theory of Conceptu...</span></span></span>
 
 Without this explanatory reconstruction, students may experience dissatisfaction without accommodation. They recognise that something is wrong but lack a workable replacement.
 
@@ -345,7 +345,7 @@ A discrepant event might involve evidence showing that Earth is actually slightl
 
 The instructional challenge is helping students replace the distance model with a tilt-and-sunlight-angle model. They need to see how axial tilt explains seasonal differences, why opposite hemispheres experience opposite seasons, and how day length changes across the year.
 
-The replacement explanation succeeds because it explains more phenomena than the original one. It is not merely different. It is more powerful. This emphasis on explanatory fruitfulness appears throughout conceptual change research. <span class="citation-chip-wrap"><a class="citation-chip" href="https://faculty.weber.edu/eamsel/Classes/Practicum/TA%20Practicum/papers/Posner%20et%20al.%20%281982%29.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faculty.weber.edu">[faculty.weber.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faculty.weber.edu</span><span class="citation-popover-snippet">Toward a Theory of Conceptual Changeby GJ POSNER · Cited by 10769 — Accommodation of a Scientific Conception: Toward a Theory of Conceptu...</span></span></span>
+The replacement explanation succeeds because it explains more phenomena than the original one. It is not merely different. It is more powerful. This emphasis on explanatory fruitfulness appears throughout conceptual change research.<span class="citation-chip-wrap"><a class="citation-chip" href="https://faculty.weber.edu/eamsel/Classes/Practicum/TA%20Practicum/papers/Posner%20et%20al.%20%281982%29.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faculty.weber.edu">[faculty.weber.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faculty.weber.edu</span><span class="citation-popover-snippet">Toward a Theory of Conceptual Changeby GJ POSNER · Cited by 10769 — Accommodation of a Scientific Conception: Toward a Theory of Conceptu...</span></span></span>
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_conceptual_change_le_bdc9ae_cognitive_conflict_s_9e7dcb-Illustration-3-dark.svg" | relative_url }}" alt="Conflict illustration 3" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_conceptual_change_le_bdc9ae_cognitive_conflict_s_9e7dcb-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_conceptual_change_le_bdc9ae_cognitive_conflict_s_9e7dcb-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Revisiting the new model in multiple settings
@@ -354,7 +354,7 @@ A common reason misconceptions return is that the new explanation remains tied t
 
 Students may correctly answer a question immediately after instruction yet revert later because the scientific model has not become their default way of reasoning.
 
-Research on long-term conceptual change therefore emphasises repeated application. Learners need chances to use the new model across different problems, examples and contexts. The goal is not simply recognising a correct answer but reorganising how phenomena are interpreted. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8593386/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCLong-Lasting Conceptual Change in Science Education</span><span class="citation-popover-snippet">Accommodation of a scientific conception: Toward a theory of conceptual change. Science Education. 1982;66(2):211–...Read more...</span></span></span>
+Research on long-term conceptual change therefore emphasises repeated application. Learners need chances to use the new model across different problems, examples and contexts. The goal is not simply recognising a correct answer but reorganising how phenomena are interpreted.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8593386/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCLong-Lasting Conceptual Change in Science Education</span><span class="citation-popover-snippet">Accommodation of a scientific conception: Toward a theory of conceptual change. Science Education. 1982;66(2):211–...Read more...</span></span></span>
 
 In practical terms, this means returning to the same underlying idea in new forms:
 
@@ -374,7 +374,7 @@ The model becomes useful rather than merely accepted.
 
 The phrase "cognitive conflict" can suggest that stronger contradiction produces stronger learning. Evidence does not support such a simple relationship.
 
-If the conflict is too weak, students may not notice it. If it is too strong, they may reject the evidence, disengage, or defend the original belief more vigorously. Researchers have argued that meaningful conflict depends on learners viewing the contradiction as relevant, understandable and solvable. <span class="citation-chip-wrap"><a class="citation-chip" href="https://digitalcommons.unl.edu/cgi/viewcontent.cgi?article=1412&amp;context=teachlearnfacpub" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: digitalcommons.unl.edu">[DigitalCommons]</a><span class="citation-popover" role="note"><span class="citation-popover-source">digitalcommons.unl.edu</span><span class="citation-popover-snippet">In this study, we defined and quantified the degree of cognitive conflict induced by a discrepant event from a cognitive perspective.Read...</span></span></span> ScienceDirect Motivation and beliefs about knowledge also matter. Students who see science as a collection of facts to memorise may respond differently fro <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S0959475200000372" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[sciencedirect.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">On the cognitive conflict as an instructional strategy for...by M Limón · 2001 · Cited by 1216 — One of the most common con...</span></span></span> m students who view explanations as models that can be tested and revised. Reviews of conceptual change instruction increasingly stress that emotional, motivational and epistemological factors influence whether conflict leads to learning. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S0959475200000372" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">On the cognitive conflict as an instructional strategy for...by M Limón · 2001 · Cited by 1216 — One of the most common con...</span></span></span>
+If the conflict is too weak, students may not notice it. If it is too strong, they may reject the evidence, disengage, or defend the original belief more vigorously. Researchers have argued that meaningful conflict depends on learners viewing the contradiction as relevant, understandable and solvable.<span class="citation-chip-wrap"><a class="citation-chip" href="https://digitalcommons.unl.edu/cgi/viewcontent.cgi?article=1412&amp;context=teachlearnfacpub" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: digitalcommons.unl.edu">[DigitalCommons]</a><span class="citation-popover" role="note"><span class="citation-popover-source">digitalcommons.unl.edu</span><span class="citation-popover-snippet">In this study, we defined and quantified the degree of cognitive conflict induced by a discrepant event from a cognitive perspective.Read...</span></span></span> ScienceDirect Motivation and beliefs about knowledge also matter. Students who see science as a collection of facts to memorise may respond differently fro<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S0959475200000372" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[sciencedirect.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">On the cognitive conflict as an instructional strategy for...by M Limón · 2001 · Cited by 1216 — One of the most common con...</span></span></span> m students who view explanations as models that can be tested and revised. Reviews of conceptual change instruction increasingly stress that emotional, motivational and epistemological factors influence whether conflict leads to learning.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S0959475200000372" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">On the cognitive conflict as an instructional strategy for...by M Limón · 2001 · Cited by 1216 — One of the most common con...</span></span></span>
 
 This helps explain why identical demonstrations can produce different outcomes in different classrooms. The effectiveness of cognitive conflict depends not only on the evidence presented but on how students interpret the task of learning itself.
 
@@ -384,197 +384,197 @@ Modern conceptual change research has moved away from a simple "prove students w
 
 Instead, conflict functions as a diagnostic and transitional tool. It reveals the limits of an existing explanation and creates a reason to search for a better one. The instructional work then shifts towards helping learners compare models, evaluate evidence and construct a more coherent account.
 
-In that sense, the key lesson from decades of research is surprisingly modest. Misconceptions are rarely overturned by a dramatic demonstration alone. Durable change is more likely when students publicly predict, encounter evidence that challenges those predictions, and then receive sustained support in building an explanation that does more explanatory work than the one they started with. Wiley Online Library <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S0959475200000372" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">On the cognitive conflict as an instructional strategy for...by M Limón · 2001 · Cited by 1216 — One of the most common con...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/233135080_Inconsistent_or_Discrepant_Events_in_Science_Instruction" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Inconsistent or Discrepant Events in Science InstructionThese inconsistencies between students&#x27; observations and their expect...</span></span></span>
+In that sense, the key lesson from decades of research is surprisingly modest. Misconceptions are rarely overturned by a dramatic demonstration alone. Durable change is more likely when students publicly predict, encounter evidence that challenges those predictions, and then receive sustained support in building an explanation that does more explanatory work than the one they started with. Wiley Online Library<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S0959475200000372" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">On the cognitive conflict as an instructional strategy for...by M Limón · 2001 · Cited by 1216 — One of the most common con...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/233135080_Inconsistent_or_Discrepant_Events_in_Science_Instruction" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Inconsistent or Discrepant Events in Science InstructionThese inconsistencies between students&#x27; observations and their expect...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When Surprises Actually Change Thinking. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When Surprises Actually Change Thinking. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+Learning+Happens+by+Paul+A.+Kirschner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How Learning Happens on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=PdnzEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How Learning Happens" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+Learning+Happens+by+Paul+A.+Kirschner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How Learning Happens">How Learning Happens</a>
-        </h4>
-        <p class="fr-book-author">By Paul A. Kirschner, Carl Hendrick</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+Learning+Happens+by+Paul+A.+Kirschner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How Learning Happens on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=PdnzEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How Learning Happens" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=How+Learning+Happens+by+Paul+A.+Kirschner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How Learning Happens">How Learning Happens</a>
+</h4>
+<p class="fr-book-author">By Paul A. Kirschner, Carl Hendrick</p>
         
-        <p class="fr-book-desc">Addresses misconceptions, prediction, and conceptual change.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+Learning+Happens+by+Paul+A.+Kirschner&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Addresses misconceptions, prediction, and conceptual change.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=How+Learning+Happens+by+Paul+A.+Kirschner&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YGPzXWanppcC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
-        </h4>
-        <p class="fr-book-author">By Daniel Kahneman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YGPzXWanppcC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
+</h4>
+<p class="fr-book-author">By Daniel Kahneman</p>
         
-        <p class="fr-book-desc">Provides psychological context for belief persistence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides psychological context for belief persistence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Making+Sense+of+Secondary+Science+Rosalind+Driver&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Making Sense of Secondary Science on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/1204414-M.jpg" alt="Cover for Making Sense of Secondary Science" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Making+Sense+of+Secondary+Science+Rosalind+Driver&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Making Sense of Secondary Science">Making Sense of Secondary Science</a>
-        </h4>
-        <p class="fr-book-author">By Rosalind Driver</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Making+Sense+of+Secondary+Science+Rosalind+Driver&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Making Sense of Secondary Science on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/1204414-M.jpg" alt="Cover for Making Sense of Secondary Science" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Making+Sense+of+Secondary+Science+Rosalind+Driver&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Making Sense of Secondary Science">Making Sense of Secondary Science</a>
+</h4>
+<p class="fr-book-author">By Rosalind Driver</p>
         
-        <p class="fr-book-desc">First published 1993. Subjects: Study and teaching (Secondary), Teaching Methods &amp; Materials, Curriculum planning, Science, Science &amp; Tec...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Making+Sense+of+Secondary+Science+Rosalind+Driver&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1993. Subjects: Study and teaching (Secondary), Teaching Methods &amp; Materials, Curriculum planning, Science, Science &amp; Tec...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Making+Sense+of+Secondary+Science+Rosalind+Driver&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+people+learn+National+Research+Council+%28U.S.%29.+Committee+on+Learning+Research+and+Educational+Practice.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How people learn on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/168978-M.jpg" alt="Cover for How people learn" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+people+learn+National+Research+Council+%28U.S.%29.+Committee+on+Learning+Research+and+Educational+Practice.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How people learn">How people learn</a>
-        </h4>
-        <p class="fr-book-author">By National Research Council (U.S.). Committee on Learning Research and Educational Practice.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+people+learn+National+Research+Council+%28U.S.%29.+Committee+on+Learning+Research+and+Educational+Practice.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How people learn on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/168978-M.jpg" alt="Cover for How people learn" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=How+people+learn+National+Research+Council+%28U.S.%29.+Committee+on+Learning+Research+and+Educational+Practice.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How people learn">How people learn</a>
+</h4>
+<p class="fr-book-author">By National Research Council (U.S.). Committee on Learning Research and Educational Practice.</p>
         
-        <p class="fr-book-desc">First published 1999. Subjects: Learning, Psychology of Learning, Research, Social aspects, Social aspects of Learning.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+people+learn+National+Research+Council+%28U.S.%29.+Committee+on+Learning+Research+and+Educational+Practice.&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1999. Subjects: Learning, Psychology of Learning, Research, Social aspects, Social aspects of Learning.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=How+people+learn+National+Research+Council+%28U.S.%29.+Committee+on+Learning+Research+and+Educational+Practice.&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+Learning+Happens&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How Learning Happens</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Making+Sense+of+Secondary+Science&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Making Sense of Secondary Science</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=How+Learning+Happens&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How Learning Happens</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Making+Sense+of+Secondary+Science&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Making Sense of Secondary Science</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=conflict-when-surprises-actually-change-thinking-myths-and-misconcept-critical-thinking-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking wall art" data-ebay-reference="conflict-when-surprises-actually-change-thinking-myths-and-misconcept-critical-thinking-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 18755 Critical Thinking Classroom Decor Wall Print Poster"><img src="{{ '/assets/images/marketplace-covers/f44a4838fd3b80d052fa.jpg' | relative_url }}" alt="Listing image for 18755 Critical Thinking Classroom Decor Wall Print Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=conflict-when-surprises-actually-change-thinking-myths-and-misconcept-critical-thinking-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking wall art" data-ebay-reference="conflict-when-surprises-actually-change-thinking-myths-and-misconcept-critical-thinking-wall-art" target="_blank" rel="sponsored noopener noreferrer">18755 Critical Thinking Classroom Decor Wall Print Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=conflict-when-surprises-actually-change-thinking-myths-and-misconcept-critical-thinking-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking wall art" data-ebay-reference="conflict-when-surprises-actually-change-thinking-myths-and-misconcept-critical-thinking-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=conflict-when-surprises-actually-change-thinking-myths-and-misconcept-critical-thinking-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking wall art" data-ebay-reference="conflict-when-surprises-actually-change-thinking-myths-and-misconcept-critical-thinking-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=conflict-when-surprises-actually-change-thinking-myths-and-misconcept-critical-thinking-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking wall art" data-ebay-reference="conflict-when-surprises-actually-change-thinking-myths-and-misconcept-critical-thinking-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 18755 Critical Thinking Classroom Decor Wall Print Poster"><img src="{{ '/assets/images/marketplace-covers/f44a4838fd3b80d052fa.jpg' | relative_url }}" alt="Listing image for 18755 Critical Thinking Classroom Decor Wall Print Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=conflict-when-surprises-actually-change-thinking-myths-and-misconcept-critical-thinking-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking wall art" data-ebay-reference="conflict-when-surprises-actually-change-thinking-myths-and-misconcept-critical-thinking-wall-art" target="_blank" rel="sponsored noopener noreferrer">18755 Critical Thinking Classroom Decor Wall Print Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=conflict-when-surprises-actually-change-thinking-myths-and-misconcept-critical-thinking-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking wall art" data-ebay-reference="conflict-when-surprises-actually-change-thinking-myths-and-misconcept-critical-thinking-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=conflict-when-surprises-actually-change-thinking-myths-and-misconcept-critical-thinking-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking wall art" data-ebay-reference="conflict-when-surprises-actually-change-thinking-myths-and-misconcept-critical-thinking-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=conflict-when-surprises-actually-change-thinking-myths-and-misconcept-critical-thinking-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking wall art" data-ebay-reference="conflict-when-surprises-actually-change-thinking-myths-and-misconcept-critical-thinking-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking Framed Art Print Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/1fdf431cb37fb2a99b7f.jpg' | relative_url }}" alt="Listing image for Critical Thinking Framed Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=conflict-when-surprises-actually-change-thinking-myths-and-misconcept-critical-thinking-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking wall art" data-ebay-reference="conflict-when-surprises-actually-change-thinking-myths-and-misconcept-critical-thinking-wall-art" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking Framed Art Print Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=conflict-when-surprises-actually-change-thinking-myths-and-misconcept-critical-thinking-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking wall art" data-ebay-reference="conflict-when-surprises-actually-change-thinking-myths-and-misconcept-critical-thinking-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=conflict-when-surprises-actually-change-thinking-myths-and-misconcept-critical-thinking-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking wall art" data-ebay-reference="conflict-when-surprises-actually-change-thinking-myths-and-misconcept-critical-thinking-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=conflict-when-surprises-actually-change-thinking-myths-and-misconcept-critical-thinking-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking wall art" data-ebay-reference="conflict-when-surprises-actually-change-thinking-myths-and-misconcept-critical-thinking-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking Framed Art Print Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/1fdf431cb37fb2a99b7f.jpg' | relative_url }}" alt="Listing image for Critical Thinking Framed Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=conflict-when-surprises-actually-change-thinking-myths-and-misconcept-critical-thinking-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking wall art" data-ebay-reference="conflict-when-surprises-actually-change-thinking-myths-and-misconcept-critical-thinking-wall-art" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking Framed Art Print Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=conflict-when-surprises-actually-change-thinking-myths-and-misconcept-critical-thinking-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking wall art" data-ebay-reference="conflict-when-surprises-actually-change-thinking-myths-and-misconcept-critical-thinking-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=conflict-when-surprises-actually-change-thinking-myths-and-misconcept-critical-thinking-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking wall art" data-ebay-reference="conflict-when-surprises-actually-change-thinking-myths-and-misconcept-critical-thinking-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=conflict-when-surprises-actually-change-thinking-myths-and-misconcept-critical-thinking-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking wall art" data-ebay-reference="conflict-when-surprises-actually-change-thinking-myths-and-misconcept-critical-thinking-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I wish I lacked critical thinking s Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/a1bb2d3fa5dd95cf6165.jpg' | relative_url }}" alt="Listing image for I wish I lacked critical thinking s Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=conflict-when-surprises-actually-change-thinking-myths-and-misconcept-critical-thinking-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking wall art" data-ebay-reference="conflict-when-surprises-actually-change-thinking-myths-and-misconcept-critical-thinking-wall-art" target="_blank" rel="sponsored noopener noreferrer">I wish I lacked critical thinking s Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=conflict-when-surprises-actually-change-thinking-myths-and-misconcept-critical-thinking-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking wall art" data-ebay-reference="conflict-when-surprises-actually-change-thinking-myths-and-misconcept-critical-thinking-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=conflict-when-surprises-actually-change-thinking-myths-and-misconcept-critical-thinking-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking wall art" data-ebay-reference="conflict-when-surprises-actually-change-thinking-myths-and-misconcept-critical-thinking-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=conflict-when-surprises-actually-change-thinking-myths-and-misconcept-critical-thinking-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking wall art" data-ebay-reference="conflict-when-surprises-actually-change-thinking-myths-and-misconcept-critical-thinking-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I wish I lacked critical thinking s Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/a1bb2d3fa5dd95cf6165.jpg' | relative_url }}" alt="Listing image for I wish I lacked critical thinking s Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=conflict-when-surprises-actually-change-thinking-myths-and-misconcept-critical-thinking-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking wall art" data-ebay-reference="conflict-when-surprises-actually-change-thinking-myths-and-misconcept-critical-thinking-wall-art" target="_blank" rel="sponsored noopener noreferrer">I wish I lacked critical thinking s Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=conflict-when-surprises-actually-change-thinking-myths-and-misconcept-critical-thinking-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking wall art" data-ebay-reference="conflict-when-surprises-actually-change-thinking-myths-and-misconcept-critical-thinking-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=conflict-when-surprises-actually-change-thinking-myths-and-misconcept-critical-thinking-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking wall art" data-ebay-reference="conflict-when-surprises-actually-change-thinking-myths-and-misconcept-critical-thinking-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=conflict-when-surprises-actually-change-thinking-myths-and-misconcept-critical-thinking-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking wall art" data-ebay-reference="conflict-when-surprises-actually-change-thinking-myths-and-misconcept-critical-thinking-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/4c8bc7042d38cd131035.jpg' | relative_url }}" alt="Listing image for Critical Thinking Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=conflict-when-surprises-actually-change-thinking-myths-and-misconcept-critical-thinking-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking wall art" data-ebay-reference="conflict-when-surprises-actually-change-thinking-myths-and-misconcept-critical-thinking-wall-art" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=conflict-when-surprises-actually-change-thinking-myths-and-misconcept-critical-thinking-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking wall art" data-ebay-reference="conflict-when-surprises-actually-change-thinking-myths-and-misconcept-critical-thinking-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=conflict-when-surprises-actually-change-thinking-myths-and-misconcept-critical-thinking-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking wall art" data-ebay-reference="conflict-when-surprises-actually-change-thinking-myths-and-misconcept-critical-thinking-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=conflict-when-surprises-actually-change-thinking-myths-and-misconcept-critical-thinking-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking wall art" data-ebay-reference="conflict-when-surprises-actually-change-thinking-myths-and-misconcept-critical-thinking-wall-art" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=conflict-when-surprises-actually-change-thinking-myths-and-misconcept-critical-thinking-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking wall art" data-ebay-reference="conflict-when-surprises-actually-change-thinking-myths-and-misconcept-critical-thinking-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/4c8bc7042d38cd131035.jpg' | relative_url }}" alt="Listing image for Critical Thinking Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=conflict-when-surprises-actually-change-thinking-myths-and-misconcept-critical-thinking-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking wall art" data-ebay-reference="conflict-when-surprises-actually-change-thinking-myths-and-misconcept-critical-thinking-wall-art" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=conflict-when-surprises-actually-change-thinking-myths-and-misconcept-critical-thinking-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking wall art" data-ebay-reference="conflict-when-surprises-actually-change-thinking-myths-and-misconcept-critical-thinking-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=conflict-when-surprises-actually-change-thinking-myths-and-misconcept-critical-thinking-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking wall art" data-ebay-reference="conflict-when-surprises-actually-change-thinking-myths-and-misconcept-critical-thinking-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=conflict-when-surprises-actually-change-thinking-myths-and-misconcept-critical-thinking-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking wall art" data-ebay-reference="conflict-when-surprises-actually-change-thinking-myths-and-misconcept-critical-thinking-wall-art" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -590,7 +590,7 @@ In that sense, the key lesson from decades of research is surprisingly modest. M
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -610,7 +610,7 @@ In that sense, the key lesson from decades of research is surprisingly modest. M
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -642,7 +642,7 @@ In that sense, the key lesson from decades of research is surprisingly modest. M
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -694,7 +694,7 @@ In that sense, the key lesson from decades of research is surprisingly modest. M
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -739,7 +739,7 @@ In that sense, the key lesson from decades of research is surprisingly modest. M
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -780,120 +780,120 @@ In that sense, the key lesson from decades of research is surprisingly modest. M
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0959475200000372" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0959475200000372</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>On the cognitive conflict as an instructional strategy for...by M Limón · 2001 · Cited by 1216 — One of the most common con...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/abs/pii/S0959475200000372" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0959475200000372</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>On the cognitive conflict as an instructional strategy for...by M Limón · 2001 · Cited by 1216 — One of the most common con...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: faculty.weber.edu  
-   Link: <a href="https://faculty.weber.edu/eamsel/Classes/Practicum/TA%20Practicum/papers/Posner%20et%20al.%20%281982%29.PDF" target="_blank" rel="noopener noreferrer nofollow">https://faculty.weber.edu/eamsel/Classes/Practicum/TA%20Practicum/papers/Posner%20et%20al.%20%281982%29.PDF</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Toward a Theory of Conceptual Changeby GJ POSNER · Cited by 10769 — Accommodation of a Scientific Conception: Toward a Theory of Conceptu...</p></details>
+   Link:<a href="https://faculty.weber.edu/eamsel/Classes/Practicum/TA%20Practicum/papers/Posner%20et%20al.%20%281982%29.PDF" target="_blank" rel="noopener noreferrer nofollow">https://faculty.weber.edu/eamsel/Classes/Practicum/TA%20Practicum/papers/Posner%20et%20al.%20%281982%29.PDF</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Toward a Theory of Conceptual Changeby GJ POSNER · Cited by 10769 — Accommodation of a Scientific Conception: Toward a Theory of Conceptu...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/233135080_Inconsistent_or_Discrepant_Events_in_Science_Instruction" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/233135080_Inconsistent_or_Discrepant_Events_in_Science_Instruction</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Inconsistent or Discrepant Events in Science InstructionThese inconsistencies between students&#x27; observations and their expect...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/233135080_Inconsistent_or_Discrepant_Events_in_Science_Instruction" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/233135080_Inconsistent_or_Discrepant_Events_in_Science_Instruction</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Inconsistent or Discrepant Events in Science InstructionThese inconsistencies between students&#x27; observations and their expect...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: eclass.uoa.gr  
-   Link: <a href="https://eclass.uoa.gr/modules/document/file.php/PHS122/%CE%91%CF%81%CE%B8%CF%81%CE%B1/Posner_Strike_Hewson_Gertzog.pdf" target="_blank" rel="noopener noreferrer nofollow">https://eclass.uoa.gr/modules/document/file.php/PHS122/%CE%91%CF%81%CE%B8%CF%81%CE%B1/Posner_Strike_Hewson_Gertzog.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Accommodation of a scientific conception: Toward a theory...by GJ POSNER · Cited by 10769 — Accommodation of a Scientific Conc...</p></details>
+   Link:<a href="https://eclass.uoa.gr/modules/document/file.php/PHS122/%CE%91%CF%81%CE%B8%CF%81%CE%B1/Posner_Strike_Hewson_Gertzog.pdf" target="_blank" rel="noopener noreferrer nofollow">https://eclass.uoa.gr/modules/document/file.php/PHS122/%CE%91%CF%81%CE%B8%CF%81%CE%B1/Posner_Strike_Hewson_Gertzog.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Accommodation of a scientific conception: Toward a theory...by GJ POSNER · Cited by 10769 — Accommodation of a Scientific Conc...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/200772791_On_the_cognitive_conflict_as_an_instructional_strategy_for_conceptual_change_A_critical_appraisal" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/200772791_On_the_cognitive_conflict_as_an_instructional_strategy_for_conceptual_change_A_critical_appraisal</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>On the cognitive conflict as an instructional strategy for...One of the most common conceptual change instructional strategies implement...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/200772791_On_the_cognitive_conflict_as_an_instructional_strategy_for_conceptual_change_A_critical_appraisal" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/200772791_On_the_cognitive_conflict_as_an_instructional_strategy_for_conceptual_change_A_critical_appraisal</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>On the cognitive conflict as an instructional strategy for...One of the most common conceptual change instructional strategies implement...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: acquire.cqu.edu.au  
    Title: Students learning in science lessons Responses to discrepant events  
-   Link: <a href="https://acquire.cqu.edu.au/articles/thesis/Students_learning_in_science_lessons_Responses_to_discrepant_events/13424681" target="_blank" rel="noopener noreferrer nofollow">https://acquire.cqu.edu.au/articles/thesis/Students_learning_in_science_lessons_Responses_to_discrepant_events/13424681</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Students&#x27; learning in science lessons: Responses to...by K Appleton · 1993 · Cited by 5 — Discrepant events or counter-intuitive events...</p></details>
+   Link:<a href="https://acquire.cqu.edu.au/articles/thesis/Students_learning_in_science_lessons_Responses_to_discrepant_events/13424681" target="_blank" rel="noopener noreferrer nofollow">https://acquire.cqu.edu.au/articles/thesis/Students_learning_in_science_lessons_Responses_to_discrepant_events/13424681</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Students&#x27; learning in science lessons: Responses to...by K Appleton · 1993 · Cited by 5 — Discrepant events or counter-intuitive events...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: onlinelibrary.wiley.com  
-   Link: <a href="https://onlinelibrary.wiley.com/doi/10.1002/tea.21887" target="_blank" rel="noopener noreferrer nofollow">https://onlinelibrary.wiley.com/doi/10.1002/tea.21887</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>of conceptual change strategies in science...8 Jul 2023 — The primary instructional implication of the original CCM is creating a cognit...</p></details>
+   Link:<a href="https://onlinelibrary.wiley.com/doi/10.1002/tea.21887" target="_blank" rel="noopener noreferrer nofollow">https://onlinelibrary.wiley.com/doi/10.1002/tea.21887</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>of conceptual change strategies in science...8 Jul 2023 — The primary instructional implication of the original CCM is creating a cognit...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCLong-Lasting Conceptual Change in Science Education  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8593386/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8593386/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Accommodation of a scientific conception: Toward a theory of conceptual change. Science Education. 1982;66(2):211–...Read more...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8593386/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8593386/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Accommodation of a scientific conception: Toward a theory of conceptual change. Science Education. 1982;66(2):211–...Read more...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: researchgate.net  
    Title: Conceptual Change in Science: A Process of Argumentation Posner, G  
-   Link: <a href="https://www.researchgate.net/publication/228919537_Conceptual_Change_in_Science_A_Process_of_Argumentation" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/228919537_Conceptual_Change_in_Science_A_Process_of_Argumentation</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>J., Strike, K. A., Hewson, P. W., &amp; Gertzog, W. A.. (1982). Accommodation of a scientific conception: Toward a theory of conceptual chang...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/228919537_Conceptual_Change_in_Science_A_Process_of_Argumentation" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/228919537_Conceptual_Change_in_Science_A_Process_of_Argumentation</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>J., Strike, K. A., Hewson, P. W., &amp; Gertzog, W. A.. (1982). Accommodation of a scientific conception: Toward a theory of conceptual chang...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: digitalcommons.unl.edu  
-   Link: <a href="https://digitalcommons.unl.edu/cgi/viewcontent.cgi?article=1412&amp;context=teachlearnfacpub" target="_blank" rel="noopener noreferrer nofollow">https://digitalcommons.unl.edu/cgi/viewcontent.cgi?article=1412&amp;context=teachlearnfacpub</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>In this study, we defined and quantified the degree of cognitive conflict induced by a discrepant event from a cognitive perspective.Read...</p></details>
+   Link:<a href="https://digitalcommons.unl.edu/cgi/viewcontent.cgi?article=1412&amp;context=teachlearnfacpub" target="_blank" rel="noopener noreferrer nofollow">https://digitalcommons.unl.edu/cgi/viewcontent.cgi?article=1412&amp;context=teachlearnfacpub</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>In this study, we defined and quantified the degree of cognitive conflict induced by a discrepant event from a cognitive perspective.Read...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: journals.sagepub.com  
-   Link: <a href="https://journals.sagepub.com/doi/10.1177/2158244015594662" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/2158244015594662</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sage JournalsEffects of Cognitive Conflict Instructional Strategy on...by BC Madu · 2015 · Cited by 101 — Posner, Strike, Hewson, and Ge...</p></details>
+   Link:<a href="https://journals.sagepub.com/doi/10.1177/2158244015594662" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/2158244015594662</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sage JournalsEffects of Cognitive Conflict Instructional Strategy on...by BC Madu · 2015 · Cited by 101 — Posner, Strike, Hewson, and Ge...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: tused.org  
-   Link: <a href="https://www.tused.org/index.php/tused/article/view/917" target="_blank" rel="noopener noreferrer nofollow">https://www.tused.org/index.php/tused/article/view/917</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The effect of cognitive Conflict-Based Learning (CCBL)...by F Mufit · 2023 · Cited by 57 — This study aims to find out the effectiveness...</p></details>
+   Link:<a href="https://www.tused.org/index.php/tused/article/view/917" target="_blank" rel="noopener noreferrer nofollow">https://www.tused.org/index.php/tused/article/view/917</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The effect of cognitive Conflict-Based Learning (CCBL)...by F Mufit · 2023 · Cited by 57 — This study aims to find out the effectiveness...</p></details>
 
 ### Additional References
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: research.ncl.ac.uk  
-   Link: <a href="https://research.ncl.ac.uk/fasmed/positionpapers/Cognitive%2Bconflict_Nottingham_ude_revised.pdf" target="_blank" rel="noopener noreferrer nofollow">https://research.ncl.ac.uk/fasmed/positionpapers/Cognitive%2Bconflict_Nottingham_ude_revised.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Cognitive conflict is a term used to describe the psychological tension or perturbation that is created when an individual&#x27;s expectations...</p></details>
+   Link:<a href="https://research.ncl.ac.uk/fasmed/positionpapers/Cognitive%2Bconflict_Nottingham_ude_revised.pdf" target="_blank" rel="noopener noreferrer nofollow">https://research.ncl.ac.uk/fasmed/positionpapers/Cognitive%2Bconflict_Nottingham_ude_revised.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Cognitive conflict is a term used to describe the psychological tension or perturbation that is created when an individual&#x27;s expectations...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: researchoutreach.org  
-   Link: <a href="https://researchoutreach.org/wp-content/uploads/2022/04/Patrice-Potvin-1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://researchoutreach.org/wp-content/uploads/2022/04/Patrice-Potvin-1.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Conceptual changeTHE COGNITIVE CONFLICT. PROCESS MODEL. From the many frameworks that appear in the literature, Potvin chose to frame his...</p></details>
+   Link:<a href="https://researchoutreach.org/wp-content/uploads/2022/04/Patrice-Potvin-1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://researchoutreach.org/wp-content/uploads/2022/04/Patrice-Potvin-1.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Conceptual changeTHE COGNITIVE CONFLICT. PROCESS MODEL. From the many frameworks that appear in the literature, Potvin chose to frame his...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: ejmste.com  
-   Link: <a href="https://www.ejmste.com/article/fostering-conceptual-change-by-cognitive-conflict-based-instruction-on-students-understanding-of-4026" target="_blank" rel="noopener noreferrer nofollow">https://www.ejmste.com/article/fostering-conceptual-change-by-cognitive-conflict-based-instruction-on-students-understanding-of-4026</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Fostering Conceptual Change by Cognitive Conflict Based...by M Başer · 2006 · Cited by 271 — The purpose of this study was to investigat...</p></details>
+   Link:<a href="https://www.ejmste.com/article/fostering-conceptual-change-by-cognitive-conflict-based-instruction-on-students-understanding-of-4026" target="_blank" rel="noopener noreferrer nofollow">https://www.ejmste.com/article/fostering-conceptual-change-by-cognitive-conflict-based-instruction-on-students-understanding-of-4026</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Fostering Conceptual Change by Cognitive Conflict Based...by M Başer · 2006 · Cited by 271 — The purpose of this study was to investigat...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: dergipark.org.tr  
-   Link: <a href="https://dergipark.org.tr/en/download/article-file/2349895" target="_blank" rel="noopener noreferrer nofollow">https://dergipark.org.tr/en/download/article-file/2349895</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>effective tools that can be used to develop students&#x27; content knowledge, avoid and eliminate misconceptions...Read mo...</p></details>
+   Link:<a href="https://dergipark.org.tr/en/download/article-file/2349895" target="_blank" rel="noopener noreferrer nofollow">https://dergipark.org.tr/en/download/article-file/2349895</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>effective tools that can be used to develop students&#x27; content knowledge, avoid and eliminate misconceptions...Read mo...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: per-central.org  
    Title: Toward a theory of conceptual change Journal Article Detail Page  
-   Link: <a href="https://www.per-central.org/items/detail.cfm?ID=9832" target="_blank" rel="noopener noreferrer nofollow">https://www.per-central.org/items/detail.cfm?ID=9832</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Science Education. Accommodation of a scientific conception: Toward a theory of conceptual change. written by George J. Posner...Read...</p></details>
+   Link:<a href="https://www.per-central.org/items/detail.cfm?ID=9832" target="_blank" rel="noopener noreferrer nofollow">https://www.per-central.org/items/detail.cfm?ID=9832</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Science Education. Accommodation of a scientific conception: Toward a theory of conceptual change. written by George J. Posner...Read...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: eduhk.hk  
-   Link: <a href="https://www.eduhk.hk/apfslt/v18_issue2/ates/page4.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.eduhk.hk/apfslt/v18_issue2/ates/page4.htm</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>d T9, the students have become interesting and different because they have never...Read more...</p></details>
+   Link:<a href="https://www.eduhk.hk/apfslt/v18_issue2/ates/page4.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.eduhk.hk/apfslt/v18_issue2/ates/page4.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>d T9, the students have become interesting and different because they have never...Read more...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: ejmste.com  
    Title: conceptual change in sciencea process of argumentation 4180  
-   Link: <a href="https://www.ejmste.com/download/conceptual-change-in-sciencea-process-of-argumentation-4180.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ejmste.com/download/conceptual-change-in-sciencea-process-of-argumentation-4180.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Accommodation of a scientific conception: Toward a theory of conceptual change. Science Education. 66(2), 211-227. Redish, E. F. &amp; Stein...</p></details>
+   Link:<a href="https://www.ejmste.com/download/conceptual-change-in-sciencea-process-of-argumentation-4180.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ejmste.com/download/conceptual-change-in-sciencea-process-of-argumentation-4180.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Accommodation of a scientific conception: Toward a theory of conceptual change. Science Education. 66(2), 211-227. Redish, E. F. &amp; Stein...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: scirp.org  
    Title: Posner, G., Strike, K., Hewson, P., & Gertzog, W  
-   Link: <a href="https://www.scirp.org/reference/referencespapers?referenceid=1093694" target="_blank" rel="noopener noreferrer nofollow">https://www.scirp.org/reference/referencespapers?referenceid=1093694</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(1982)....Posner, G., Strike, K., Hewson, P., &amp; Gertzog, W. (1982). Accommodation of a scientific conception: Toward a theory of concept...</p></details>
+   Link:<a href="https://www.scirp.org/reference/referencespapers?referenceid=1093694" target="_blank" rel="noopener noreferrer nofollow">https://www.scirp.org/reference/referencespapers?referenceid=1093694</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(1982)....Posner, G., Strike, K., Hewson, P., &amp; Gertzog, W. (1982). Accommodation of a scientific conception: Toward a theory of concept...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: scribd.com  
-   Link: <a href="https://www.scribd.com/document/131143653/Discrepant-Event" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/131143653/Discrepant-Event</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>server. It is used in teaching to get students&#x27; attention...Read more...</p></details>
+   Link:<a href="https://www.scribd.com/document/131143653/Discrepant-Event" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/131143653/Discrepant-Event</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>server. It is used in teaching to get students&#x27; attention...Read more...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: static.nsta.org  
-   Link: <a href="https://static.nsta.org/pdfs/201201BookBeatStaticElectricity.pdf" target="_blank" rel="noopener noreferrer nofollow">https://static.nsta.org/pdfs/201201BookBeatStaticElectricity.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>and Learning With Discrepant Eventsby T O’Brien · 2010 · Cited by 25 — The three activities use science education [analogies](&amp;#123;&amp;#123; &#x27;analogies/&#x27; | relative_url &amp;#125;&amp;#125;) to challenge...</p></details>
+   Link:<a href="https://static.nsta.org/pdfs/201201BookBeatStaticElectricity.pdf" target="_blank" rel="noopener noreferrer nofollow">https://static.nsta.org/pdfs/201201BookBeatStaticElectricity.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>and Learning With Discrepant Eventsby T O’Brien · 2010 · Cited by 25 — The three activities use science education [analogies](&amp;#123;&amp;#123; &#x27;analogies/&#x27; | relative_url &amp;#125;&amp;#125;) to challenge...</p></details>

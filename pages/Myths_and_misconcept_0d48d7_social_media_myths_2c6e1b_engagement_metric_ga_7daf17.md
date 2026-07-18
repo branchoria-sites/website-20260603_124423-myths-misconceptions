@@ -274,7 +274,7 @@ image: /assets/images/Myths_and_misconcept_0d48d7_social_media_myths_2c6e1b_enga
 
 ## Introduction
 
-The assumption behind many social media ranking systems is simple: if people click, watch, like, comment or share something, they must want more of it. Yet a growing body of research suggests that engagement and satisfaction are not the same thing. People often interact with content because it is surprising, infuriating, emotionally charged or difficult to ignore, even when they later judge it to be misleading, unhealthy or a poor use of their time. This gap matters for myths and misconceptions because engagement-based systems can end up rewarding the very content that users say they wish they saw less of. The result is a ranking problem: [platforms]({{ 'platforms/' | relative_url }}) can become highly effective at predicting behaviour while remaining surprisingly poor at predicting what users ultimately value. <span class="citation-chip-wrap"><a class="citation-chip" href="https://academic.oup.com/pnasnexus/article/4/3/pgaf062/8052060" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academic.oup.com">[OUP Academic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academic.oup.com</span><span class="citation-popover-title">user engagement such as clicks, shares, and likes.Read more</span><span class="citation-popover-snippet">OUP AcademicEngagement, user satisfaction, and the amplification of...by S Milli · 2025 · Cited by 244 — Social media ranking algorithms...</span></span></span>
+The assumption behind many social media ranking systems is simple: if people click, watch, like, comment or share something, they must want more of it. Yet a growing body of research suggests that engagement and satisfaction are not the same thing. People often interact with content because it is surprising, infuriating, emotionally charged or difficult to ignore, even when they later judge it to be misleading, unhealthy or a poor use of their time. This gap matters for myths and misconceptions because engagement-based systems can end up rewarding the very content that users say they wish they saw less of. The result is a ranking problem: [platforms]({{ 'platforms/' | relative_url }}) can become highly effective at predicting behaviour while remaining surprisingly poor at predicting what users ultimately value.<span class="citation-chip-wrap"><a class="citation-chip" href="https://academic.oup.com/pnasnexus/article/4/3/pgaf062/8052060" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academic.oup.com">[OUP Academic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academic.oup.com</span><span class="citation-popover-title">user engagement such as clicks, shares, and likes.Read more</span><span class="citation-popover-snippet">OUP AcademicEngagement, user satisfaction, and the amplification of...by S Milli · 2025 · Cited by 244 — Social media ranking algorithms...</span></span></span>
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_social_media_myths_2c6e1b_engagement_metric_ga_7daf17-Illustration-1-dark.svg" | relative_url }}" alt="Metric Gap illustration 1" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_social_media_myths_2c6e1b_engagement_metric_ga_7daf17-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_social_media_myths_2c6e1b_engagement_metric_ga_7daf17-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Do Clicks Show What People Want?
@@ -283,11 +283,11 @@ The assumption behind many social media ranking systems is simple: if people cli
 
 Researchers often distinguish between *revealed preferences* and *reflective preferences*. Revealed preferences are inferred from behaviour: what people click, watch or share. Reflective preferences are what people say they want after thinking about their goals, values and long-term interests.
 
-Social media platforms largely rely on revealed preferences because they are easy to measure at scale. Every tap, pause, comment and share produces data. Reflective preferences are harder to capture because they require surveys, self-assessment or direct questions about what makes an experience worthwhile. <span class="citation-chip-wrap"><a class="citation-chip" href="https://academic.oup.com/pnasnexus/article/4/3/pgaf062/8052060" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academic.oup.com">[OUP Academic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academic.oup.com</span><span class="citation-popover-title">user engagement such as clicks, shares, and likes.Read more</span><span class="citation-popover-snippet">OUP AcademicEngagement, user satisfaction, and the amplification of...by S Milli · 2025 · Cited by 244 — Social media ranking algorithms...</span></span></span>
+Social media platforms largely rely on revealed preferences because they are easy to measure at scale. Every tap, pause, comment and share produces data. Reflective preferences are harder to capture because they require surveys, self-assessment or direct questions about what makes an experience worthwhile.<span class="citation-chip-wrap"><a class="citation-chip" href="https://academic.oup.com/pnasnexus/article/4/3/pgaf062/8052060" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academic.oup.com">[OUP Academic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academic.oup.com</span><span class="citation-popover-title">user engagement such as clicks, shares, and likes.Read more</span><span class="citation-popover-snippet">OUP AcademicEngagement, user satisfaction, and the amplification of...by S Milli · 2025 · Cited by 244 — Social media ranking algorithms...</span></span></span>
 
-A particularly relevant study examined the relationship between engagement-based ranking and user satisfaction on political content. Researchers conducted a preregistered audit of Twitter's ranking system and found that engagement-based ranking amplified emotionally charged and hostile political posts. Crucially, users did not consistently prefer the content selected by the algorithm when asked about their actual preferences. The algorithm was effective at generating engagement but less effective at delivering content users considered desirable. <span class="citation-chip-wrap"><a class="citation-chip" href="https://academic.oup.com/pnasnexus/article/4/3/pgaf062/8052060" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academic.oup.com">[OUP Academic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academic.oup.com</span><span class="citation-popover-title">user engagement such as clicks, shares, and likes.Read more</span><span class="citation-popover-snippet">OUP AcademicEngagement, user satisfaction, and the amplification of...by S Milli · 2025 · Cited by 244 — Social media ranking algorithms...</span></span></span>
+A particularly relevant study examined the relationship between engagement-based ranking and user satisfaction on political content. Researchers conducted a preregistered audit of Twitter's ranking system and found that engagement-based ranking amplified emotionally charged and hostile political posts. Crucially, users did not consistently prefer the content selected by the algorithm when asked about their actual preferences. The algorithm was effective at generating engagement but less effective at delivering content users considered desirable.<span class="citation-chip-wrap"><a class="citation-chip" href="https://academic.oup.com/pnasnexus/article/4/3/pgaf062/8052060" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academic.oup.com">[OUP Academic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academic.oup.com</span><span class="citation-popover-title">user engagement such as clicks, shares, and likes.Read more</span><span class="citation-popover-snippet">OUP AcademicEngagement, user satisfaction, and the amplification of...by S Milli · 2025 · Cited by 244 — Social media ranking algorithms...</span></span></span>
 
-More recent research on young adults' news-consumption habits found a similar pattern. Participants frequently engaged with low-quality content despite reporting a preference for accurate, diverse and higher-quality information. When asked to design an ideal news feed, they created feeds that differed noticeably from the feeds implied by their engagement histories. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2202.11776" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+More recent research on young adults' news-consumption habits found a similar pattern. Participants frequently engaged with low-quality content despite reporting a preference for accurate, diverse and higher-quality information. When asked to design an ideal news feed, they created feeds that differed noticeably from the feeds implied by their engagement histories.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2202.11776" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 For discussions of myths and misconceptions, this distinction is important. A person's behaviour may indicate interest in a rumour, conspiracy claim or inflammatory story, but that does not necessarily mean they believe it, endorse it or wish it occupied more space in their feed.
 
@@ -299,9 +299,9 @@ Engagement metrics measure actions. They do not directly measure whether those a
 
 A misleading claim may attract attention precisely because it appears shocking or implausible. A user may click in order to verify it, mock it or argue against it. Similarly, angry content often generates comments and shares because people feel compelled to respond. From the perspective of a ranking algorithm, these reactions can resemble evidence that the content is valuable.
 
-The Twitter audit provides a concrete example. The researchers found that engagement-based ranking amplified content expressing hostility towards political out-groups. Users reported that such content made them feel worse about those groups, yet the ranking system rewarded it because it generated strong behavioural signals. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2202.11776" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The Twitter audit provides a concrete example. The researchers found that engagement-based ranking amplified content expressing hostility towards political out-groups. Users reported that such content made them feel worse about those groups, yet the ranking system rewarded it because it generated strong behavioural signals.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2202.11776" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-Theoretical work by economists and computer scientists has argued that this mismatch may be unavoidable when systems infer welfare solely from behaviour. People frequently make choices that [conflict]({{ 'conflict/' | relative_url }}) with their longer-term preferences. A platform can therefore optimise engagement perfectly while still moving users away from experiences they would later judge as better for them. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2202.11776" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Theoretical work by economists and computer scientists has argued that this mismatch may be unavoidable when systems infer welfare solely from behaviour. People frequently make choices that [conflict]({{ 'conflict/' | relative_url }}) with their longer-term preferences. A platform can therefore optimise engagement perfectly while still moving users away from experiences they would later judge as better for them.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2202.11776" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 This helps explain why myths can thrive in engagement-driven environments. False or exaggerated claims often trigger exactly the reactions that algorithms interpret as success:
 
@@ -311,18 +311,18 @@ This helps explain why myths can thrive in engagement-driven environments. False
 * Arguments between supporters and critics.
 * Repeated checking for updates.
 
-Each of these behaviours increases measurable engagement, even if users later conclude that the content was misleading or not worth their attention. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ifo.de/en/cesifo/publications/2026/working-paper/ranking-engagement-how-social-media-algorithms-fuel-misinformation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ifo.de">[ifo Institut]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ifo.de</span><span class="citation-popover-snippet">ifo InstitutRanking for Engagement: How Social Media Algorithms...by F Germano · Cited by 16 — This paper investigates the dynamic feedb...</span></span></span>
+Each of these behaviours increases measurable engagement, even if users later conclude that the content was misleading or not worth their attention.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ifo.de/en/cesifo/publications/2026/working-paper/ranking-engagement-how-social-media-algorithms-fuel-misinformation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ifo.de">[ifo Institut]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ifo.de</span><span class="citation-popover-snippet">ifo InstitutRanking for Engagement: How Social Media Algorithms...by F Germano · Cited by 16 — This paper investigates the dynamic feedb...</span></span></span>
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_social_media_myths_2c6e1b_engagement_metric_ga_7daf17-Illustration-2-dark.svg" | relative_url }}" alt="Metric Gap illustration 2" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_social_media_myths_2c6e1b_engagement_metric_ga_7daf17-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_social_media_myths_2c6e1b_engagement_metric_ga_7daf17-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What One Dataset Revealed About the Metric Gap
 
 The audit of Twitter's engagement-based ranking system offers one of the clearest datasets demonstrating the metric gap.
 
-The researchers compared an engagement-ranked feed with a reverse-chronological baseline. They found that the engagement-based system increased the visibility of emotionally charged and out-group hostile political content. At the same time, survey responses indicated that users did not prefer many of the posts that the algorithm elevated. In other words, engagement and user-reported satisfaction diverged. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2202.11776" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The researchers compared an engagement-ranked feed with a reverse-chronological baseline. They found that the engagement-based system increased the visibility of emotionally charged and out-group hostile political content. At the same time, survey responses indicated that users did not prefer many of the posts that the algorithm elevated. In other words, engagement and user-reported satisfaction diverged.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2202.11776" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 This finding matters because it challenges a common defence of engagement metrics: that they merely reflect what people choose. The study suggests that what attracts attention in the moment is not always what users endorse after reflection.
 
-The result also provides a plausible mechanism for myth [amplification]({{ 'amplification/' | relative_url }}). Content that provokes emotional reactions can accumulate engagement signals faster than careful explanations or [corrections]({{ 'corrections/' | relative_url }}). If ranking systems treat those signals as evidence of value, myths may receive greater visibility even when users themselves would prefer a healthier information environment. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2202.11776" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The result also provides a plausible mechanism for myth [amplification]({{ 'amplification/' | relative_url }}). Content that provokes emotional reactions can accumulate engagement signals faster than careful explanations or [corrections]({{ 'corrections/' | relative_url }}). If ranking systems treat those signals as evidence of value, myths may receive greater visibility even when users themselves would prefer a healthier information environment.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2202.11776" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 ## What Healthier Ranking Objectives Might Measure
 
@@ -336,208 +336,208 @@ Several possibilities have emerged:
 * **Quality and accuracy indicators:** incorporating signals about credibility and informational value.
 * **Diversity measures:** ensuring feeds do not become dominated by a narrow range of emotionally engaging material.
 * **Long-term outcomes:** measuring whether users feel informed, connected or satisfied after using a platform rather than only during use.
-* **Preference-aware ranking:** allowing users to express values such as accuracy, civility or relevance and incorporating those values into ranking decisions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2202.11776" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+* **Preference-aware ranking:** allowing users to express values such as accuracy, civility or relevance and incorporating those values into ranking decisions.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2202.11776" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 </div>
 
-The Twitter audit tested one version of this idea by ranking content using users' stated preferences rather than engagement alone. The alternative approach reduced angry, partisan and hostile content, though it introduced new trade-offs, including a tendency to reinforce some existing attitudes. The lesson was not that a perfect metric exists, but that engagement is only one possible objective among many. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2202.11776" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The Twitter audit tested one version of this idea by ranking content using users' stated preferences rather than engagement alone. The alternative approach reduced angry, partisan and hostile content, though it introduced new trade-offs, including a tendency to reinforce some existing attitudes. The lesson was not that a perfect metric exists, but that engagement is only one possible objective among many.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2202.11776" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_social_media_myths_2c6e1b_engagement_metric_ga_7daf17-Illustration-3-dark.svg" | relative_url }}" alt="Metric Gap illustration 3" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_social_media_myths_2c6e1b_engagement_metric_ga_7daf17-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_social_media_myths_2c6e1b_engagement_metric_ga_7daf17-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the Metric Gap Matters for Myths and Misconceptions
 
 A common misconception about social media algorithms is that they simply give people what they want. The evidence suggests a more complicated reality. Engagement metrics are powerful tools for predicting behaviour, but behaviour is not always a reliable guide to what users regard as valuable, accurate or beneficial.
 
-When platforms rely heavily on clicks, likes, comments and watch time, they risk confusing attention with satisfaction. In environments where myths compete with corrections, that confusion can become consequential. Content that is emotionally irresistible may outperform content that is genuinely useful, not because users consciously prefer it, but because engagement metrics capture immediate reactions more easily than considered judgment. <span class="citation-chip-wrap"><a class="citation-chip" href="https://academic.oup.com/pnasnexus/article/4/3/pgaf062/8052060" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academic.oup.com">[OUP Academic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academic.oup.com</span><span class="citation-popover-title">user engagement such as clicks, shares, and likes.Read more</span><span class="citation-popover-snippet">OUP AcademicEngagement, user satisfaction, and the amplification of...by S Milli · 2025 · Cited by 244 — Social media ranking algorithms...</span></span></span> 2arXiv
+When platforms rely heavily on clicks, likes, comments and watch time, they risk confusing attention with satisfaction. In environments where myths compete with corrections, that confusion can become consequential. Content that is emotionally irresistible may outperform content that is genuinely useful, not because users consciously prefer it, but because engagement metrics capture immediate reactions more easily than considered judgment.<span class="citation-chip-wrap"><a class="citation-chip" href="https://academic.oup.com/pnasnexus/article/4/3/pgaf062/8052060" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academic.oup.com">[OUP Academic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academic.oup.com</span><span class="citation-popover-title">user engagement such as clicks, shares, and likes.Read more</span><span class="citation-popover-snippet">OUP AcademicEngagement, user satisfaction, and the amplification of...by S Milli · 2025 · Cited by 244 — Social media ranking algorithms...</span></span></span> 2arXiv
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Do Clicks Show What People Want?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Do Clicks Show What People Want?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hype+Machine+by+Sinan+Aral&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hype Machine on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=wuY9EAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Hype Machine" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Hype+Machine+by+Sinan+Aral&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hype Machine">The Hype Machine</a>
-        </h4>
-        <p class="fr-book-author">By Sinan Aral</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hype+Machine+by+Sinan+Aral&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hype Machine on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=wuY9EAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Hype Machine" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Hype+Machine+by+Sinan+Aral&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hype Machine">The Hype Machine</a>
+</h4>
+<p class="fr-book-author">By Sinan Aral</p>
         
-        <p class="fr-book-desc">Directly addresses metrics, influence and platform optimisation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Hype+Machine+by+Sinan+Aral&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly addresses metrics, influence and platform optimisation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Hype+Machine+by+Sinan+Aral&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Chaos+Machine+by+Max+Fisher&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Chaos Machine on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Fz5JEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Chaos Machine" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Chaos+Machine+by+Max+Fisher&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Chaos Machine">The Chaos Machine</a>
-        </h4>
-        <p class="fr-book-author">By Max Fisher</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Chaos+Machine+by+Max+Fisher&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Chaos Machine on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Fz5JEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Chaos Machine" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Chaos+Machine+by+Max+Fisher&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Chaos Machine">The Chaos Machine</a>
+</h4>
+<p class="fr-book-author">By Max Fisher</p>
         
-        <p class="fr-book-desc">Explains unintended consequences of engagement-driven systems.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Chaos+Machine+by+Max+Fisher&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains unintended consequences of engagement-driven systems.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Chaos+Machine+by+Max+Fisher&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Hooked+by+Nir+Eyal&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Hooked on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=oHHZBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Hooked" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Hooked+by+Nir+Eyal&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Hooked">Hooked</a>
-        </h4>
-        <p class="fr-book-author">By Nir Eyal</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Hooked+by+Nir+Eyal&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Hooked on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=oHHZBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Hooked" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Hooked+by+Nir+Eyal&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Hooked">Hooked</a>
+</h4>
+<p class="fr-book-author">By Nir Eyal</p>
         
-        <p class="fr-book-desc">Helps readers understand engagement mechanics.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Hooked+by+Nir+Eyal&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps readers understand engagement mechanics.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Hooked+by+Nir+Eyal&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Irresistible+by+Adam+Alter&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Irresistible on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=pdZLDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Irresistible" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Irresistible+by+Adam+Alter&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Irresistible">Irresistible</a>
-        </h4>
-        <p class="fr-book-author">By Adam Alter</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Irresistible+by+Adam+Alter&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Irresistible on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=pdZLDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Irresistible" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Irresistible+by+Adam+Alter&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Irresistible">Irresistible</a>
+</h4>
+<p class="fr-book-author">By Adam Alter</p>
         
-        <p class="fr-book-desc">Explores why people interact with attention-grabbing content.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Irresistible+by+Adam+Alter&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores why people interact with attention-grabbing content.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Irresistible+by+Adam+Alter&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hype+Machine&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hype Machine</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Chaos+Machine&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Chaos Machine</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Hooked&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Hooked</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hype+Machine&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hype Machine</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Chaos+Machine&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Chaos Machine</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Hooked&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Hooked</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=metric-gap-do-clicks-show-what-people-want-myths-and-misconcept-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster" data-ebay-reference="metric-gap-do-clicks-show-what-people-want-myths-and-misconcept-science-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Periodic Table of Elements Poster For Kids, LAMINATED, Science &amp; Chemistry Chart"><img src="{{ '/assets/images/marketplace-covers/2d540458477f76b2be20.jpg' | relative_url }}" alt="Listing image for Periodic Table of Elements Poster For Kids, LAMINATED, Science &amp; Chemistry Chart" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=metric-gap-do-clicks-show-what-people-want-myths-and-misconcept-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster" data-ebay-reference="metric-gap-do-clicks-show-what-people-want-myths-and-misconcept-science-poster" target="_blank" rel="sponsored noopener noreferrer">Periodic Table of Elements Poster For Kids, LAMINATED, Science &amp; Chemistry Chart</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=metric-gap-do-clicks-show-what-people-want-myths-and-misconcept-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster" data-ebay-reference="metric-gap-do-clicks-show-what-people-want-myths-and-misconcept-science-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: science poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=metric-gap-do-clicks-show-what-people-want-myths-and-misconcept-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster" data-ebay-reference="metric-gap-do-clicks-show-what-people-want-myths-and-misconcept-science-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=metric-gap-do-clicks-show-what-people-want-myths-and-misconcept-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster" data-ebay-reference="metric-gap-do-clicks-show-what-people-want-myths-and-misconcept-science-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Periodic Table of Elements Poster For Kids, LAMINATED, Science &amp; Chemistry Chart"><img src="{{ '/assets/images/marketplace-covers/2d540458477f76b2be20.jpg' | relative_url }}" alt="Listing image for Periodic Table of Elements Poster For Kids, LAMINATED, Science &amp; Chemistry Chart" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=metric-gap-do-clicks-show-what-people-want-myths-and-misconcept-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster" data-ebay-reference="metric-gap-do-clicks-show-what-people-want-myths-and-misconcept-science-poster" target="_blank" rel="sponsored noopener noreferrer">Periodic Table of Elements Poster For Kids, LAMINATED, Science &amp; Chemistry Chart</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=metric-gap-do-clicks-show-what-people-want-myths-and-misconcept-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster" data-ebay-reference="metric-gap-do-clicks-show-what-people-want-myths-and-misconcept-science-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: science poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=metric-gap-do-clicks-show-what-people-want-myths-and-misconcept-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster" data-ebay-reference="metric-gap-do-clicks-show-what-people-want-myths-and-misconcept-science-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=metric-gap-do-clicks-show-what-people-want-myths-and-misconcept-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster" data-ebay-reference="metric-gap-do-clicks-show-what-people-want-myths-and-misconcept-science-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Snellen Eye Chart Optician Glasses Test Science Poster | A5-A1 | Wall Poster"><img src="{{ '/assets/images/marketplace-covers/44585abe482a25573224.jpg' | relative_url }}" alt="Listing image for Snellen Eye Chart Optician Glasses Test Science Poster | A5-A1 | Wall Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=metric-gap-do-clicks-show-what-people-want-myths-and-misconcept-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster" data-ebay-reference="metric-gap-do-clicks-show-what-people-want-myths-and-misconcept-science-poster" target="_blank" rel="sponsored noopener noreferrer">Snellen Eye Chart Optician Glasses Test Science Poster | A5-A1 | Wall Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=metric-gap-do-clicks-show-what-people-want-myths-and-misconcept-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster" data-ebay-reference="metric-gap-do-clicks-show-what-people-want-myths-and-misconcept-science-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: science poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=metric-gap-do-clicks-show-what-people-want-myths-and-misconcept-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster" data-ebay-reference="metric-gap-do-clicks-show-what-people-want-myths-and-misconcept-science-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=metric-gap-do-clicks-show-what-people-want-myths-and-misconcept-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster" data-ebay-reference="metric-gap-do-clicks-show-what-people-want-myths-and-misconcept-science-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Snellen Eye Chart Optician Glasses Test Science Poster | A5-A1 | Wall Poster"><img src="{{ '/assets/images/marketplace-covers/44585abe482a25573224.jpg' | relative_url }}" alt="Listing image for Snellen Eye Chart Optician Glasses Test Science Poster | A5-A1 | Wall Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=metric-gap-do-clicks-show-what-people-want-myths-and-misconcept-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster" data-ebay-reference="metric-gap-do-clicks-show-what-people-want-myths-and-misconcept-science-poster" target="_blank" rel="sponsored noopener noreferrer">Snellen Eye Chart Optician Glasses Test Science Poster | A5-A1 | Wall Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=metric-gap-do-clicks-show-what-people-want-myths-and-misconcept-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster" data-ebay-reference="metric-gap-do-clicks-show-what-people-want-myths-and-misconcept-science-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: science poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=metric-gap-do-clicks-show-what-people-want-myths-and-misconcept-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster" data-ebay-reference="metric-gap-do-clicks-show-what-people-want-myths-and-misconcept-science-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=metric-gap-do-clicks-show-what-people-want-myths-and-misconcept-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster" data-ebay-reference="metric-gap-do-clicks-show-what-people-want-myths-and-misconcept-science-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Funny Science Poster Can I Lick It Periodic Table Print Chemistry Wall Art Nerd"><img src="{{ '/assets/images/marketplace-covers/7b9530e3e70391be5ab3.jpg' | relative_url }}" alt="Listing image for Funny Science Poster Can I Lick It Periodic Table Print Chemistry Wall Art Nerd" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=metric-gap-do-clicks-show-what-people-want-myths-and-misconcept-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster" data-ebay-reference="metric-gap-do-clicks-show-what-people-want-myths-and-misconcept-science-poster" target="_blank" rel="sponsored noopener noreferrer">Funny Science Poster Can I Lick It Periodic Table Print Chemistry Wall Art Nerd</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=metric-gap-do-clicks-show-what-people-want-myths-and-misconcept-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster" data-ebay-reference="metric-gap-do-clicks-show-what-people-want-myths-and-misconcept-science-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: science poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=metric-gap-do-clicks-show-what-people-want-myths-and-misconcept-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster" data-ebay-reference="metric-gap-do-clicks-show-what-people-want-myths-and-misconcept-science-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=metric-gap-do-clicks-show-what-people-want-myths-and-misconcept-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster" data-ebay-reference="metric-gap-do-clicks-show-what-people-want-myths-and-misconcept-science-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Funny Science Poster Can I Lick It Periodic Table Print Chemistry Wall Art Nerd"><img src="{{ '/assets/images/marketplace-covers/7b9530e3e70391be5ab3.jpg' | relative_url }}" alt="Listing image for Funny Science Poster Can I Lick It Periodic Table Print Chemistry Wall Art Nerd" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=metric-gap-do-clicks-show-what-people-want-myths-and-misconcept-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster" data-ebay-reference="metric-gap-do-clicks-show-what-people-want-myths-and-misconcept-science-poster" target="_blank" rel="sponsored noopener noreferrer">Funny Science Poster Can I Lick It Periodic Table Print Chemistry Wall Art Nerd</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=metric-gap-do-clicks-show-what-people-want-myths-and-misconcept-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster" data-ebay-reference="metric-gap-do-clicks-show-what-people-want-myths-and-misconcept-science-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: science poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=metric-gap-do-clicks-show-what-people-want-myths-and-misconcept-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster" data-ebay-reference="metric-gap-do-clicks-show-what-people-want-myths-and-misconcept-science-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=metric-gap-do-clicks-show-what-people-want-myths-and-misconcept-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster" data-ebay-reference="metric-gap-do-clicks-show-what-people-want-myths-and-misconcept-science-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Periodic table with elements poster Science Wall Chart UPDATED Education Poster"><img src="{{ '/assets/images/marketplace-covers/4353dda57fefeae45a72.jpg' | relative_url }}" alt="Listing image for Periodic table with elements poster Science Wall Chart UPDATED Education Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=metric-gap-do-clicks-show-what-people-want-myths-and-misconcept-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster" data-ebay-reference="metric-gap-do-clicks-show-what-people-want-myths-and-misconcept-science-poster" target="_blank" rel="sponsored noopener noreferrer">Periodic table with elements poster Science Wall Chart UPDATED Education Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=metric-gap-do-clicks-show-what-people-want-myths-and-misconcept-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster" data-ebay-reference="metric-gap-do-clicks-show-what-people-want-myths-and-misconcept-science-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: science poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=metric-gap-do-clicks-show-what-people-want-myths-and-misconcept-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster" data-ebay-reference="metric-gap-do-clicks-show-what-people-want-myths-and-misconcept-science-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=metric-gap-do-clicks-show-what-people-want-myths-and-misconcept-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster" data-ebay-reference="metric-gap-do-clicks-show-what-people-want-myths-and-misconcept-science-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=metric-gap-do-clicks-show-what-people-want-myths-and-misconcept-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster" data-ebay-reference="metric-gap-do-clicks-show-what-people-want-myths-and-misconcept-science-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Periodic table with elements poster Science Wall Chart UPDATED Education Poster"><img src="{{ '/assets/images/marketplace-covers/4353dda57fefeae45a72.jpg' | relative_url }}" alt="Listing image for Periodic table with elements poster Science Wall Chart UPDATED Education Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=metric-gap-do-clicks-show-what-people-want-myths-and-misconcept-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster" data-ebay-reference="metric-gap-do-clicks-show-what-people-want-myths-and-misconcept-science-poster" target="_blank" rel="sponsored noopener noreferrer">Periodic table with elements poster Science Wall Chart UPDATED Education Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=metric-gap-do-clicks-show-what-people-want-myths-and-misconcept-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster" data-ebay-reference="metric-gap-do-clicks-show-what-people-want-myths-and-misconcept-science-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: science poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=metric-gap-do-clicks-show-what-people-want-myths-and-misconcept-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster" data-ebay-reference="metric-gap-do-clicks-show-what-people-want-myths-and-misconcept-science-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=metric-gap-do-clicks-show-what-people-want-myths-and-misconcept-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster" data-ebay-reference="metric-gap-do-clicks-show-what-people-want-myths-and-misconcept-science-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -553,7 +553,7 @@ When platforms rely heavily on clicks, likes, comments and watch time, they risk
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -573,7 +573,7 @@ When platforms rely heavily on clicks, likes, comments and watch time, they risk
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -605,7 +605,7 @@ When platforms rely heavily on clicks, likes, comments and watch time, they risk
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -657,7 +657,7 @@ When platforms rely heavily on clicks, likes, comments and watch time, they risk
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -702,7 +702,7 @@ When platforms rely heavily on clicks, likes, comments and watch time, they risk
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -743,91 +743,91 @@ When platforms rely heavily on clicks, likes, comments and watch time, they risk
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: academic.oup.com  
    Title: user engagement such as clicks, shares, and likes.Read more  
-   Link: <a href="https://academic.oup.com/pnasnexus/article/4/3/pgaf062/8052060" target="_blank" rel="noopener noreferrer nofollow">https://academic.oup.com/pnasnexus/article/4/3/pgaf062/8052060</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>OUP AcademicEngagement, user satisfaction, and the amplification of...by S Milli · 2025 · Cited by 244 — Social media ranking algorithms...</p></details>
+   Link:<a href="https://academic.oup.com/pnasnexus/article/4/3/pgaf062/8052060" target="_blank" rel="noopener noreferrer nofollow">https://academic.oup.com/pnasnexus/article/4/3/pgaf062/8052060</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>OUP AcademicEngagement, user satisfaction, and the amplification of...by S Milli · 2025 · Cited by 244 — Social media ranking algorithms...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2202.11776" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2202.11776</a>  
+   Link:<a href="https://arxiv.org/abs/2202.11776" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2202.11776</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2305.16941" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2305.16941</a>  
+   Link:<a href="https://arxiv.org/abs/2305.16941" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2305.16941</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2604.11517" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2604.11517</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Understanding the Gap Between Stated and Revealed Preferences in News Curation: A Study of Young Adult Social Media UsersApril 13, 2026...</p></details>
+   Link:<a href="https://arxiv.org/abs/2604.11517" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2604.11517</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Understanding the Gap Between Stated and Revealed Preferences in News Curation: A Study of Young Adult Social Media UsersApril 13, 2026...</p></details>
    Published: April 13, 2026  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/html/2604.11517v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2604.11517v1</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>A Study of Young Adult Social Media Users13 Apr 2026 — The gap between stated and revealed preferences was measured by identifying cases...</p></details>
+   Link:<a href="https://arxiv.org/html/2604.11517v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2604.11517v1</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A Study of Young Adult Social Media Users13 Apr 2026 — The gap between stated and revealed preferences was measured by identifying cases...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: ifo.de  
-   Link: <a href="https://www.ifo.de/en/cesifo/publications/2026/working-paper/ranking-engagement-how-social-media-algorithms-fuel-misinformation" target="_blank" rel="noopener noreferrer nofollow">https://www.ifo.de/en/cesifo/publications/2026/working-paper/ranking-engagement-how-social-media-algorithms-fuel-misinformation</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ifo InstitutRanking for Engagement: How Social Media Algorithms...by F Germano · Cited by 16 — This paper investigates the dynamic feedb...</p></details>
+   Link:<a href="https://www.ifo.de/en/cesifo/publications/2026/working-paper/ranking-engagement-how-social-media-algorithms-fuel-misinformation" target="_blank" rel="noopener noreferrer nofollow">https://www.ifo.de/en/cesifo/publications/2026/working-paper/ranking-engagement-how-social-media-algorithms-fuel-misinformation</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ifo InstitutRanking for Engagement: How Social Media Algorithms...by F Germano · Cited by 16 — This paper investigates the dynamic feedb...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: statista.com  
    Title: Social media  
-   Link: <a href="https://www.statista.com/topics/1164/social-networks/?srsltid=AfmBOooSZhxkomCZn4fiPBsu0acLBI6RhMWf0DxMg2uGdqt1uBpD0mSi" target="_blank" rel="noopener noreferrer nofollow">https://www.statista.com/topics/1164/social-networks/?srsltid=AfmBOooSZhxkomCZn4fiPBsu0acLBI6RhMWf0DxMg2uGdqt1uBpD0mSi</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>statistics &amp; factsAs of early 2024, Facebook reported a year-on-year audience growth of 3.1 percent, demonstrating that the social media...</p></details>
+   Link:<a href="https://www.statista.com/topics/1164/social-networks/?srsltid=AfmBOooSZhxkomCZn4fiPBsu0acLBI6RhMWf0DxMg2uGdqt1uBpD0mSi" target="_blank" rel="noopener noreferrer nofollow">https://www.statista.com/topics/1164/social-networks/?srsltid=AfmBOooSZhxkomCZn4fiPBsu0acLBI6RhMWf0DxMg2uGdqt1uBpD0mSi</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>statistics &amp; factsAs of early 2024, Facebook reported a year-on-year audience growth of 3.1 percent, demonstrating that the social media...</p></details>
 
 ### Additional References
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/pulse/crafting-meaningful-social-interaction-metric-facebook-growjunction-slndc" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/pulse/crafting-meaningful-social-interaction-metric-facebook-growjunction-slndc</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Crafting a Meaningful Social Interaction Metric for FacebookCrafting a meaningful social interaction metric for Facebook involves...</p></details>
+   Link:<a href="https://www.linkedin.com/pulse/crafting-meaningful-social-interaction-metric-facebook-growjunction-slndc" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/pulse/crafting-meaningful-social-interaction-metric-facebook-growjunction-slndc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Crafting a Meaningful Social Interaction Metric for FacebookCrafting a meaningful social interaction metric for Facebook involves...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: papers.ssrn.com  
-   Link: <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5316506" target="_blank" rel="noopener noreferrer nofollow">https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5316506</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>for Engagement: How Social Media Algorithms...by F Germano · Cited by 16 — This paper investigates the dynamic feedback loop between rec...</p></details>
+   Link:<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5316506" target="_blank" rel="noopener noreferrer nofollow">https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5316506</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>for Engagement: How Social Media Algorithms...by F Germano · Cited by 16 — This paper investigates the dynamic feedback loop between rec...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/NextUpAsia/posts/10160654553136657/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/NextUpAsia/posts/10160654553136657/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Why Social Media Content Gets Low Views and LikesOne major cause of low views is lack of engagement. Facebook&#x27;s algorithm rewards posts t...</p></details>
+   Link:<a href="https://www.facebook.com/groups/NextUpAsia/posts/10160654553136657/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/NextUpAsia/posts/10160654553136657/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Why Social Media Content Gets Low Views and LikesOne major cause of low views is lack of engagement. Facebook&#x27;s algorithm rewards posts t...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: journalistsresource.org  
-   Link: <a href="https://journalistsresource.org/media/facebook-engagement-patterns/" target="_blank" rel="noopener noreferrer nofollow">https://journalistsresource.org/media/facebook-engagement-patterns/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Why most Facebook users get more than they giveThe average users in the sample “like” their friends&#x27; Facebook posts 14 times a month, but...</p></details>
+   Link:<a href="https://journalistsresource.org/media/facebook-engagement-patterns/" target="_blank" rel="noopener noreferrer nofollow">https://journalistsresource.org/media/facebook-engagement-patterns/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Why most Facebook users get more than they giveThe average users in the sample “like” their friends&#x27; Facebook posts 14 times a month, but...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/1163865390677752/posts/2555700461494231/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/1163865390677752/posts/2555700461494231/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Why people prefer short facebook postsMost people who come on Facebook do not want to read long posts, and scroll past, once they realize...</p></details>
+   Link:<a href="https://www.facebook.com/groups/1163865390677752/posts/2555700461494231/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/1163865390677752/posts/2555700461494231/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Why people prefer short facebook postsMost people who come on Facebook do not want to read long posts, and scroll past, once they realize...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: starsmedia.com  
-   Link: <a href="https://www.starsmedia.com/wp-content/uploads/2022/09/Customer_Engagement_Social_Media_Framework_Meta_Analysis_AAM.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.starsmedia.com/wp-content/uploads/2022/09/Customer_Engagement_Social_Media_Framework_Meta_Analysis_AAM.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ent in social media (CESM) using a meta-analytic model of 814 effect sizes across 97 studies involving 161,059...Read...</p></details>
+   Link:<a href="https://www.starsmedia.com/wp-content/uploads/2022/09/Customer_Engagement_Social_Media_Framework_Meta_Analysis_AAM.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.starsmedia.com/wp-content/uploads/2022/09/Customer_Engagement_Social_Media_Framework_Meta_Analysis_AAM.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ent in social media (CESM) using a meta-analytic model of 814 effect sizes across 97 studies involving 161,059...Read...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/365032175_View_Like_Comment_Post_Analyzing_User_Engagement_by_Topic_at_4_Levels_across_5_Social_Media_Platforms_for_53_News_Organizations" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/365032175_View_Like_Comment_Post_Analyzing_User_Engagement_by_Topic_at_4_Levels_across_5_Social_Media_Platforms_for_53_News_Organizations</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>s five social media platforms (i.e., Facebook, Instagram, Twitter, YouTube...Read more...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/365032175_View_Like_Comment_Post_Analyzing_User_Engagement_by_Topic_at_4_Levels_across_5_Social_Media_Platforms_for_53_News_Organizations" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/365032175_View_Like_Comment_Post_Analyzing_User_Engagement_by_Topic_at_4_Levels_across_5_Social_Media_Platforms_for_53_News_Organizations</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>s five social media platforms (i.e., Facebook, Instagram, Twitter, YouTube...Read more...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: facebook.com  
    Title: Users must genuinely like or want to share and discuss content.Read more  
-   Link: <a href="https://www.facebook.com/groups/3868728716717515/posts/4456305231293191/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/3868728716717515/posts/4456305231293191/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Facebook&#x27;s interaction metrics change, focus on valuable...Facebook prioritizes meaningful social interactions over content consumption...</p></details>
+   Link:<a href="https://www.facebook.com/groups/3868728716717515/posts/4456305231293191/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/3868728716717515/posts/4456305231293191/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Facebook&#x27;s interaction metrics change, focus on valuable...Facebook prioritizes meaningful social interactions over content consumption...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/FacebookforCreators/posts/now-that-we-have-your-attention-lets-dig-into-the-real-meaning-behind-these-metr/1414027426754349/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/FacebookforCreators/posts/now-that-we-have-your-attention-lets-dig-into-the-real-meaning-behind-these-metr/1414027426754349/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>orithm loves you, boosting your reach organically. Likes: 3,857...</p></details>
+   Link:<a href="https://www.facebook.com/FacebookforCreators/posts/now-that-we-have-your-attention-lets-dig-into-the-real-meaning-behind-these-metr/1414027426754349/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/FacebookforCreators/posts/now-that-we-have-your-attention-lets-dig-into-the-real-meaning-behind-these-metr/1414027426754349/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>orithm loves you, boosting your reach organically. Likes: 3,857...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: knightcolumbia.org  
-   Link: <a href="https://knightcolumbia.org/content/engagement-user-satisfaction-and-the-amplification-of-divisive-content-on-social-media" target="_blank" rel="noopener noreferrer nofollow">https://knightcolumbia.org/content/engagement-user-satisfaction-and-the-amplification-of-divisive-content-on-social-media</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Knight First Amendment InstituteEngagement, User Satisfaction, and the Amplification of...by S Milli · Cited by 3 — Social media ranking...</p></details>
+   Link:<a href="https://knightcolumbia.org/content/engagement-user-satisfaction-and-the-amplification-of-divisive-content-on-social-media" target="_blank" rel="noopener noreferrer nofollow">https://knightcolumbia.org/content/engagement-user-satisfaction-and-the-amplification-of-divisive-content-on-social-media</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Knight First Amendment InstituteEngagement, User Satisfaction, and the Amplification of...by S Milli · Cited by 3 — Social media ranking...</p></details>

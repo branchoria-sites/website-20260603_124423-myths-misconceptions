@@ -504,7 +504,7 @@ image: /assets/images/Myths_and_misconcept_0d48d7_identity_trust_belie_3d20c4-ov
 Trusted people make myths stick because belief is social as well as factual. People rarely assess every claim from first principles; they use shortcuts such as Who is saying this?, Do people like me believe it? and What would accepting or rejecting this claim say about my loyalty, intelligence or values? That is why a doubtful health tip from a parent, a classroom myth from a teacher, a rumour from a community leader, or a misleading claim from a favourite influencer can feel more persuasive than the same words from a stranger.
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_identity_trust_belie_3d20c4-overview.webp" | relative_url }}" alt="Overview image for Identity" loading="eager" decoding="sync" fetchpriority="high">
-This does not mean people are irrational or indifferent to evidence. It means source trust is part of how evidence is weighed. Research on misinformation shows that people attend to credibility, expertise, reliability and group identity when deciding what to believe, and that [corrections]({{ 'corrections/' | relative_url }}) can fail when they appear to come from an untrusted or hostile out-group. The practical lesson is clear: myths are not only corrected by better facts, but by better routes for those facts to reach people without threatening belonging. <span class="citation-chip-wrap"><a class="citation-chip" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2973067" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: papers.ssrn.com">[SSRN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">papers.ssrn.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://discovery.ucl.ac.uk/id/eprint/10206076/2/Sanna_1-s2.0-S0010027725000307-main.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: discovery.ucl.ac.uk">[UCL Discovery]</a><span class="citation-popover" role="note"><span class="citation-popover-source">discovery.ucl.ac.uk</span><span class="citation-popover-title">UCL Discovery Belief updating in the face of misinformation</span><span class="citation-popover-snippet">UCL Discovery Belief updating in the face of misinformation</span></span></span>
+This does not mean people are irrational or indifferent to evidence. It means source trust is part of how evidence is weighed. Research on misinformation shows that people attend to credibility, expertise, reliability and group identity when deciding what to believe, and that [corrections]({{ 'corrections/' | relative_url }}) can fail when they appear to come from an untrusted or hostile out-group. The practical lesson is clear: myths are not only corrected by better facts, but by better routes for those facts to reach people without threatening belonging.<span class="citation-chip-wrap"><a class="citation-chip" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2973067" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: papers.ssrn.com">[SSRN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">papers.ssrn.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://discovery.ucl.ac.uk/id/eprint/10206076/2/Sanna_1-s2.0-S0010027725000307-main.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: discovery.ucl.ac.uk">[UCL Discovery]</a><span class="citation-popover" role="note"><span class="citation-popover-source">discovery.ucl.ac.uk</span><span class="citation-popover-title">UCL Discovery Belief updating in the face of misinformation</span><span class="citation-popover-snippet">UCL Discovery Belief updating in the face of misinformation</span></span></span>
 
 ## Trust before evidence
 
@@ -512,18 +512,18 @@ When a claim arrives from someone trusted, it does not arrive as a bare proposit
 
 Source credibility usually has two parts: perceived expertise and perceived trustworthiness. Expertise asks whether the source is likely to know; trustworthiness asks whether the source is likely to tell the truth. A surgeon and a neighbour may both be trusted, but in different ways. A surgeon may be trusted on surgery because of expertise; a neighbour may be trusted on local events because of proximity and shared experience. Myths exploit this distinction when a familiar source speaks confidently outside their actual expertise.
 
-Recent work on belief updating suggests that people are sensitive to source reliability in ways that can be reasonable. If a reliable source makes a claim and a less reliable source later corrects it, people may not fully update because, from their point of view, the [correction]({{ 'correction/' | relative_url }}) has not earned enough weight. Studies on source reliability and misinformation correction argue that the continued influence of false information can partly reflect this comparison between the original source and the correcting source, rather than a simple refusal to learn. <span class="citation-chip-wrap"><a class="citation-chip" href="https://discovery.ucl.ac.uk/id/eprint/10206076/2/Sanna_1-s2.0-S0010027725000307-main.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: discovery.ucl.ac.uk">[UCL Discovery]</a><span class="citation-popover" role="note"><span class="citation-popover-source">discovery.ucl.ac.uk</span><span class="citation-popover-title">UCL Discovery Belief updating in the face of misinformation</span><span class="citation-popover-snippet">UCL Discovery Belief updating in the face of misinformation</span></span></span>
+Recent work on belief updating suggests that people are sensitive to source reliability in ways that can be reasonable. If a reliable source makes a claim and a less reliable source later corrects it, people may not fully update because, from their point of view, the [correction]({{ 'correction/' | relative_url }}) has not earned enough weight. Studies on source reliability and misinformation correction argue that the continued influence of false information can partly reflect this comparison between the original source and the correcting source, rather than a simple refusal to learn.<span class="citation-chip-wrap"><a class="citation-chip" href="https://discovery.ucl.ac.uk/id/eprint/10206076/2/Sanna_1-s2.0-S0010027725000307-main.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: discovery.ucl.ac.uk">[UCL Discovery]</a><span class="citation-popover" role="note"><span class="citation-popover-source">discovery.ucl.ac.uk</span><span class="citation-popover-title">UCL Discovery Belief updating in the face of misinformation</span><span class="citation-popover-snippet">UCL Discovery Belief updating in the face of misinformation</span></span></span>
 
 This matters for everyday misconceptions. A child who learns an oversimplified science claim from a beloved teacher may not abandon it after seeing a dry correction online. A patient who hears a false health claim from a long-trusted clinician may discount a later social media fact-check. A voter who receives a rumour from a leader they see as defending their community may read official correction as damage control. In each case, the belief is anchored not only in content but in the credibility relationship that delivered it.
 
-The same mechanism works online. UNESCO reported in 2024 that many digital content creators had become important information sources for audiences, yet 62% did not carry out rigorous and systematic fact-checking before sharing information. The risk is not simply that creators have large audiences; it is that followers may treat familiarity, personal experience, popularity and perceived authenticity as signs of credibility. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.unesco.org/en/articles/2/3-digital-content-creators-do-not-check-their-facts-sharing-want-learn-how-do-so-unesco-survey" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unesco.org">[UNESCO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unesco.org</span><span class="citation-popover-snippet">Open source on unesco.org.</span></span></span>
+The same mechanism works online. UNESCO reported in 2024 that many digital content creators had become important information sources for audiences, yet 62% did not carry out rigorous and systematic fact-checking before sharing information. The risk is not simply that creators have large audiences; it is that followers may treat familiarity, personal experience, popularity and perceived authenticity as signs of credibility.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.unesco.org/en/articles/2/3-digital-content-creators-do-not-check-their-facts-sharing-want-learn-how-do-so-unesco-survey" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unesco.org">[UNESCO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unesco.org</span><span class="citation-popover-snippet">Open source on unesco.org.</span></span></span>
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_identity_trust_belie_3d20c4-Illustration-1-dark.svg" | relative_url }}" alt="Identity illustration 1" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_identity_trust_belie_3d20c4-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_identity_trust_belie_3d20c4-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Community signals and belonging
 
 Myths become especially durable when they become group signals. A claim can start as a factual statement and then acquire social meaning: believing it marks someone as sensible, loyal, sceptical, patriotic, spiritual, independent, compassionate or awake. Rejecting it may then feel less like changing ones mind and more like betraying ones people.
 
-This is the logic behind identity-protective cognition: people may selectively credit or dismiss evidence in ways that protect their standing in a valued group. Dan Kahans work describes this as a tendency to process information in line with beliefs that predominate in ones cultural group, especially on decision-relevant science and public issues. The important point is not that identity always overwhelms evidence, but that evidence is often interpreted through identity. <span class="citation-chip-wrap"><a class="citation-chip" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2973067" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: papers.ssrn.com">[SSRN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">papers.ssrn.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+This is the logic behind identity-protective cognition: people may selectively credit or dismiss evidence in ways that protect their standing in a valued group. Dan Kahans work describes this as a tendency to process information in line with beliefs that predominate in ones cultural group, especially on decision-relevant science and public issues. The important point is not that identity always overwhelms evidence, but that evidence is often interpreted through identity.<span class="citation-chip-wrap"><a class="citation-chip" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2973067" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: papers.ssrn.com">[SSRN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">papers.ssrn.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 Community signals can make myths feel safer than uncertainty. If everyone in a group repeats a claim, questions it only privately, or treats doubters as naive, the claim gains social reinforcement. The myth becomes part of the local [common sense]({{ 'common-sense/' | relative_url }}). This can happen in families, workplaces, classrooms, fandoms, political groups, wellness communities and professional subcultures. The claim may be false, but the social cost of doubting it is real.
 
@@ -539,9 +539,9 @@ Several signals strengthen this effect:
 
 </div>
 
-Research on trust, political identity and information processing describes how identity and trust shape what people attend to, which sources they treat as legitimate and how they respond to competing claims. The same pattern helps explain why some myths persist even after public correction: the correction may answer the factual claim while ignoring the social role the claim now plays. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7935065/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCTrust in information, political identity and the brain</span><span class="citation-popover-snippet">PMCTrust in information, political identity and the brain</span></span></span>
+Research on trust, political identity and information processing describes how identity and trust shape what people attend to, which sources they treat as legitimate and how they respond to competing claims. The same pattern helps explain why some myths persist even after public correction: the correction may answer the factual claim while ignoring the social role the claim now plays.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7935065/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCTrust in information, political identity and the brain</span><span class="citation-popover-snippet">PMCTrust in information, political identity and the brain</span></span></span>
 
-Health communication offers a clear example. Vaccine attitudes, for instance, can become signals of political, religious or community identity. Evidence reviews on vaccine communication note that in polarised settings the messenger can matter as much as the message, because out-group institutions may be discounted regardless of the strength of the evidence. Healthcare providers often remain highly trusted, but local clinicians, faith leaders, educators and civic organisations may be crucial where distant authorities are mistrusted. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s44159-021-00006-y" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Open source on nature.com.</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9932688/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCTrusted messengers and trusted messages</span><span class="citation-popover-snippet">PMCTrusted messengers and trusted messages</span></span></span>
+Health communication offers a clear example. Vaccine attitudes, for instance, can become signals of political, religious or community identity. Evidence reviews on vaccine communication note that in polarised settings the messenger can matter as much as the message, because out-group institutions may be discounted regardless of the strength of the evidence. Healthcare providers often remain highly trusted, but local clinicians, faith leaders, educators and civic organisations may be crucial where distant authorities are mistrusted.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s44159-021-00006-y" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Open source on nature.com.</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9932688/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCTrusted messengers and trusted messages</span><span class="citation-popover-snippet">PMCTrusted messengers and trusted messages</span></span></span>
 
 This does not mean use someone from the same group is a magic solution. Trusted messengers can spread myths as well as correct them. A charismatic in-group figure with poor evidence standards can make misinformation more resilient precisely because the audience feels seen and respected. The real mechanism is relational trust; whether it improves belief depends on whether that trust is connected to accuracy, accountability and willingness to correct mistakes.
 
@@ -549,9 +549,9 @@ This does not mean use someone from the same group is a magic solution. Trusted 
 
 A correction is often written as if the only problem is missing information. But when a myth is tied to identity, the listener may hear something else: Your people are gullible, Your parents were wrong, Your community is backward, Your leader lied to you, or People like you are the problem. Even a technically accurate correction can fail if it sounds like status loss.
 
-This is why tone and source matter. A correction from a hostile out-group may be processed as an attack, while the same correction from a trusted in-group figure may feel like care. The factual content has not changed, but the social meaning has. Research on source credibility effects in misinformation has found that credibility is not a simple switch; studies vary in how they define credibility, how they measure effects, and whether the source is the original claimant, the correction provider or the platform presenting the cue. <span class="citation-chip-wrap"><a class="citation-chip" href="https://advances.in/psychology/10.56296/aip00028/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: advances.in">[Advances.in]</a><span class="citation-popover" role="note"><span class="citation-popover-source">advances.in</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+This is why tone and source matter. A correction from a hostile out-group may be processed as an attack, while the same correction from a trusted in-group figure may feel like care. The factual content has not changed, but the social meaning has. Research on source credibility effects in misinformation has found that credibility is not a simple switch; studies vary in how they define credibility, how they measure effects, and whether the source is the original claimant, the correction provider or the platform presenting the cue.<span class="citation-chip-wrap"><a class="citation-chip" href="https://advances.in/psychology/10.56296/aip00028/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: advances.in">[Advances.in]</a><span class="citation-popover" role="note"><span class="citation-popover-source">advances.in</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-Corrections also affect how people judge the original source. Work on the continued influence effect suggests that corrections reduce belief partly by changing perceptions of the misinformation source. If a correction makes the original source seem less credible, the myth loses support. But if the original source is loved, prestigious or identity-defining, lowering that sources credibility may be psychologically difficult. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://link.springer.com/article/10.3758/s13421-023-01402-w" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">Open source on springer.com.</span></span></span>
+Corrections also affect how people judge the original source. Work on the continued influence effect suggests that corrections reduce belief partly by changing perceptions of the misinformation source. If a correction makes the original source seem less credible, the myth loses support. But if the original source is loved, prestigious or identity-defining, lowering that sources credibility may be psychologically difficult.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://link.springer.com/article/10.3758/s13421-023-01402-w" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">Open source on springer.com.</span></span></span>
 
 This is why blunt [debunking]({{ 'debunking/' | relative_url }}) can be socially clumsy even when it is factually right. Saying your doctor is wrong, your community is spreading nonsense or only idiots believe this may win an argument while losing the person. It asks the listener to accept not only a new fact, but a humiliating reclassification of someone they trust. Many people will defend the relationship before they evaluate the evidence.
 
@@ -559,7 +559,7 @@ Better correction separates the persons dignity from the claims accuracy. It mak
 
 ## Trusted messengers can correct myths, but only with guardrails
 
-The idea of trusted messengers is now common in public health, crisis communication and misinformation response. The basic principle is sensible: people are more likely to consider information when it comes through someone they already recognise as legitimate. Community-based organisations, local clinicians, faith leaders, youth workers, educators and peer networks can translate abstract evidence into familiar language and local concerns. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11345350/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCDon&#x27;t believe them! Reducing misinformation influence</span><span class="citation-popover-snippet">PMCDon&#x27;t believe them! Reducing misinformation influence</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/pii/S0010027724002865" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Open source on sciencedirect.com.</span></span></span>
+The idea of trusted messengers is now common in public health, crisis communication and misinformation response. The basic principle is sensible: people are more likely to consider information when it comes through someone they already recognise as legitimate. Community-based organisations, local clinicians, faith leaders, youth workers, educators and peer networks can translate abstract evidence into familiar language and local concerns.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11345350/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCDon&#x27;t believe them! Reducing misinformation influence</span><span class="citation-popover-snippet">PMCDon&#x27;t believe them! Reducing misinformation influence</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/pii/S0010027724002865" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Open source on sciencedirect.com.</span></span></span>
 
 But trusted should not be confused with accurate. A trusted messenger strategy works only when trust is paired with evidence discipline. Otherwise it simply moves misinformation through more intimate channels. A local leader repeating a false rumour may be more damaging than a distant anonymous account because the audience has fewer reasons to doubt them.
 
@@ -571,16 +571,16 @@ Useful trusted-source correction has three features.
 
 **Third, the messenger can acknowledge uncertainty without surrendering accuracy.** Many myths grow in the gap between overconfident official statements and lived experience. A trusted source can say what is known, what is still uncertain, and what would change the assessment. That kind of transparency can build credibility because it does not ask for blind trust.
 
-Evidence from public health communication repeatedly points to the importance of existing relationships. CDC-related guidance on vaccine [confidence]({{ 'confidence/' | relative_url }}) has urged communicators to identify community leaders and trusted messengers, while practical health-rumour guidance stresses that partnerships are best built over time rather than invented during a crisis. <span class="citation-chip-wrap"><a class="citation-chip" href="https://stacks.cdc.gov/view/cdc/104372/cdc_104372_DS1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stacks.cdc.gov">[CDC Stacks]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stacks.cdc.gov</span><span class="citation-popover-title">Stacks COVID-19 Vaccine Confidence</span><span class="citation-popover-snippet">Stacks COVID-19 Vaccine Confidence</span></span></span>
+Evidence from public health communication repeatedly points to the importance of existing relationships. CDC-related guidance on vaccine [confidence]({{ 'confidence/' | relative_url }}) has urged communicators to identify community leaders and trusted messengers, while practical health-rumour guidance stresses that partnerships are best built over time rather than invented during a crisis.<span class="citation-chip-wrap"><a class="citation-chip" href="https://stacks.cdc.gov/view/cdc/104372/cdc_104372_DS1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stacks.cdc.gov">[CDC Stacks]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stacks.cdc.gov</span><span class="citation-popover-title">Stacks COVID-19 Vaccine Confidence</span><span class="citation-popover-snippet">Stacks COVID-19 Vaccine Confidence</span></span></span>
 
-The same principle applies outside health. After violent incidents or public emergencies, rumours can spread quickly when official information is delayed, incomplete or mistrusted. Analysis cited in UK reporting on post-incident misinformation has argued that non-government voices such as community leaders, local councillors and police can be more effective when they share accurate information in a coordinated way, especially where public trust in institutions is low. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/media/2025/jul/28/community-leaders-can-help-curb-false-claims-online-after-attacks-in-uk-say-researchers" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The same principle applies outside health. After violent incidents or public emergencies, rumours can spread quickly when official information is delayed, incomplete or mistrusted. Analysis cited in UK reporting on post-incident misinformation has argued that non-government voices such as community leaders, local councillors and police can be more effective when they share accurate information in a coordinated way, especially where public trust in institutions is low.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/media/2025/jul/28/community-leaders-can-help-curb-false-claims-online-after-attacks-in-uk-say-researchers" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_identity_trust_belie_3d20c4-Illustration-2-dark.svg" | relative_url }}" alt="Identity illustration 2" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_identity_trust_belie_3d20c4-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_identity_trust_belie_3d20c4-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The influencer problem: intimacy without verification
 
 Influencers complicate belief formation because they can feel like friends while operating as media channels. A follower may see an influencer daily, learn their routines, hear personal stories, and develop a sense of emotional familiarity. This relational feeling can make a claim seem less like broadcast information and more like advice from someone known.
 
-That intimacy can be useful when creators take accuracy seriously. It can help good information reach audiences who avoid traditional institutions. But it also creates a credibility shortcut: I trust this person becomes this claim is probably true. UNESCOs work on digital content creators highlights the concern that many creators do not systematically verify information before sharing it, even as audiences increasingly rely on them as information relays. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.unesco.org/en/digital-content-creators" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unesco.org">[UNESCO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unesco.org</span><span class="citation-popover-snippet">Open source on unesco.org.</span></span></span>
+That intimacy can be useful when creators take accuracy seriously. It can help good information reach audiences who avoid traditional institutions. But it also creates a credibility shortcut: I trust this person becomes this claim is probably true. UNESCOs work on digital content creators highlights the concern that many creators do not systematically verify information before sharing it, even as audiences increasingly rely on them as information relays.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.unesco.org/en/digital-content-creators" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unesco.org">[UNESCO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unesco.org</span><span class="citation-popover-snippet">Open source on unesco.org.</span></span></span>
 
 The Reuters Institutes 2025 Digital News Report describes a wider shift away from traditional news brands towards social media, video [platforms]({{ 'platforms/' | relative_url }}) and online personalities in many markets. That does not automatically make audiences less informed, but it changes how trust is built. Institutional news brands usually ask for trust through editorial standards, professional routines and public accountability. Influencers often ask for trust through authenticity, consistency and perceived personal connection. [reutersinstitute.[politics]({{ 'politics/' | relative_url }}). ox.ac.uk]
 
@@ -602,7 +602,7 @@ A good correction usually does four things.
 
 **It offers a replacement explanation.** Removing a myth leaves a gap. A correction should give the listener a better account to use in conversation, not just a negation.
 
-Social correction can work, but it has risks. Experiments across the UK, Italy and Germany found that corrective cues from other social media users reduced perceived accuracy of false news posts, but also that incorrect corrections could reduce trust in true posts. In other words, peer correction is powerful enough to help and powerful enough to harm. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41541-026-01487-9_reference.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-title">Vaccine communication</span><span class="citation-popover-snippet">Vaccine communication</span></span></span>
+Social correction can work, but it has risks. Experiments across the UK, Italy and Germany found that corrective cues from other social media users reduced perceived accuracy of false news posts, but also that incorrect corrections could reduce trust in true posts. In other words, peer correction is powerful enough to help and powerful enough to harm.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41541-026-01487-9_reference.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-title">Vaccine communication</span><span class="citation-popover-snippet">Vaccine communication</span></span></span>
 
 This is why correction should be careful, specific and proportionate. The aim is not to perform superiority in front of the group. It is to reduce the myths credibility while preserving the relationships through which better information can travel.
 
@@ -632,194 +632,194 @@ This has practical consequences. Schools need to correct old classroom myths wit
 The most durable myths are often protected by people, not just by arguments. That makes them harder to dislodge, but not impossible. Corrections become more effective when they combine accurate evidence with credible messengers, social respect and a replacement story that people can carry back into their own communities.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Trusted People Make Myths Stick. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Trusted People Make Myths Stick. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YGPzXWanppcC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
-        </h4>
-        <p class="fr-book-author">By Daniel Kahneman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YGPzXWanppcC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
+</h4>
+<p class="fr-book-author">By Daniel Kahneman</p>
         
-        <p class="fr-book-desc">Provides foundations for understanding judgment and trust.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides foundations for understanding judgment and trust.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mistakes Were Made (but Not by Me) Third Edition on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jmmVxgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Mistakes Were Made (but Not by Me) Third Edition" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mistakes Were Made (but Not by Me) Third Edition">Mistakes Were Made (but Not by Me) Third Edition</a>
-        </h4>
-        <p class="fr-book-author">By Carol Tavris, Elliot Aronson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mistakes Were Made (but Not by Me) Third Edition on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jmmVxgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Mistakes Were Made (but Not by Me) Third Edition" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mistakes Were Made (but Not by Me) Third Edition">Mistakes Were Made (but Not by Me) Third Edition</a>
+</h4>
+<p class="fr-book-author">By Carol Tavris, Elliot Aronson</p>
         
-        <p class="fr-book-desc">Explores self-justification and belief persistence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores self-justification and belief persistence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Righteous+Mind+Jonathan+Haidt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Righteous Mind on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/7256782-M.jpg" alt="Cover for The Righteous Mind" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Righteous+Mind+Jonathan+Haidt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Righteous Mind">The Righteous Mind</a>
-        </h4>
-        <p class="fr-book-author">By Jonathan Haidt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Righteous+Mind+Jonathan+Haidt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Righteous Mind on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/7256782-M.jpg" alt="Cover for The Righteous Mind" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Righteous+Mind+Jonathan+Haidt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Righteous Mind">The Righteous Mind</a>
+</h4>
+<p class="fr-book-author">By Jonathan Haidt</p>
         
-        <p class="fr-book-desc">First published 2012. Subjects: Political psychology, Social psychology, Ethics, Religious Psychology, nyt:combined-print-and-e-book-nonf...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Righteous+Mind+Jonathan+Haidt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2012. Subjects: Political psychology, Social psychology, Ethics, Religious Psychology, nyt:combined-print-and-e-book-nonf...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Righteous+Mind+Jonathan+Haidt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Influence+by+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Influence on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Influence+by+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Influence">Influence</a>
-        </h4>
-        <p class="fr-book-author">By Robert B. Cialdini</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Influence+by+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Influence on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Influence+by+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Influence">Influence</a>
+</h4>
+<p class="fr-book-author">By Robert B. Cialdini</p>
         
-        <p class="fr-book-desc">Covers authority, trust and social proof.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Influence+by+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers authority, trust and social proof.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Influence+by+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mistakes Were Made (but Not by Me) Third Edition</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Righteous+Mind&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Righteous Mind</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mistakes Were Made (but Not by Me) Third Edition</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Righteous+Mind&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Righteous Mind</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=identity-why-trusted-people-make-myths-stick-myths-and-misconcept-educational-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational wall art" data-ebay-reference="identity-why-trusted-people-make-myths-stick-myths-and-misconcept-educational-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Phonetic Alphabet International Educational Wall Art Informative Poster Art"><img src="{{ '/assets/images/marketplace-covers/12b10553b466e800245e.jpg' | relative_url }}" alt="Listing image for Phonetic Alphabet International Educational Wall Art Informative Poster Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=identity-why-trusted-people-make-myths-stick-myths-and-misconcept-educational-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational wall art" data-ebay-reference="identity-why-trusted-people-make-myths-stick-myths-and-misconcept-educational-wall-art" target="_blank" rel="sponsored noopener noreferrer">Phonetic Alphabet International Educational Wall Art Informative Poster Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=identity-why-trusted-people-make-myths-stick-myths-and-misconcept-educational-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational wall art" data-ebay-reference="identity-why-trusted-people-make-myths-stick-myths-and-misconcept-educational-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for educational wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: educational wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=identity-why-trusted-people-make-myths-stick-myths-and-misconcept-educational-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational wall art" data-ebay-reference="identity-why-trusted-people-make-myths-stick-myths-and-misconcept-educational-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=identity-why-trusted-people-make-myths-stick-myths-and-misconcept-educational-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational wall art" data-ebay-reference="identity-why-trusted-people-make-myths-stick-myths-and-misconcept-educational-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Phonetic Alphabet International Educational Wall Art Informative Poster Art"><img src="{{ '/assets/images/marketplace-covers/12b10553b466e800245e.jpg' | relative_url }}" alt="Listing image for Phonetic Alphabet International Educational Wall Art Informative Poster Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=identity-why-trusted-people-make-myths-stick-myths-and-misconcept-educational-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational wall art" data-ebay-reference="identity-why-trusted-people-make-myths-stick-myths-and-misconcept-educational-wall-art" target="_blank" rel="sponsored noopener noreferrer">Phonetic Alphabet International Educational Wall Art Informative Poster Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=identity-why-trusted-people-make-myths-stick-myths-and-misconcept-educational-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational wall art" data-ebay-reference="identity-why-trusted-people-make-myths-stick-myths-and-misconcept-educational-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for educational wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: educational wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=identity-why-trusted-people-make-myths-stick-myths-and-misconcept-educational-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational wall art" data-ebay-reference="identity-why-trusted-people-make-myths-stick-myths-and-misconcept-educational-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=identity-why-trusted-people-make-myths-stick-myths-and-misconcept-educational-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational wall art" data-ebay-reference="identity-why-trusted-people-make-myths-stick-myths-and-misconcept-educational-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UK Map Posters – England &amp; Wales, Educational Wall Art, Framed, Canvas, Print"><img src="{{ '/assets/images/marketplace-covers/d35735397948982a1832.jpg' | relative_url }}" alt="Listing image for UK Map Posters – England &amp; Wales, Educational Wall Art, Framed, Canvas, Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=identity-why-trusted-people-make-myths-stick-myths-and-misconcept-educational-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational wall art" data-ebay-reference="identity-why-trusted-people-make-myths-stick-myths-and-misconcept-educational-wall-art" target="_blank" rel="sponsored noopener noreferrer">UK Map Posters – England &amp; Wales, Educational Wall Art, Framed, Canvas, Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=identity-why-trusted-people-make-myths-stick-myths-and-misconcept-educational-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational wall art" data-ebay-reference="identity-why-trusted-people-make-myths-stick-myths-and-misconcept-educational-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for educational wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: educational wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=identity-why-trusted-people-make-myths-stick-myths-and-misconcept-educational-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational wall art" data-ebay-reference="identity-why-trusted-people-make-myths-stick-myths-and-misconcept-educational-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=identity-why-trusted-people-make-myths-stick-myths-and-misconcept-educational-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational wall art" data-ebay-reference="identity-why-trusted-people-make-myths-stick-myths-and-misconcept-educational-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UK Map Posters – England &amp; Wales, Educational Wall Art, Framed, Canvas, Print"><img src="{{ '/assets/images/marketplace-covers/d35735397948982a1832.jpg' | relative_url }}" alt="Listing image for UK Map Posters – England &amp; Wales, Educational Wall Art, Framed, Canvas, Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=identity-why-trusted-people-make-myths-stick-myths-and-misconcept-educational-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational wall art" data-ebay-reference="identity-why-trusted-people-make-myths-stick-myths-and-misconcept-educational-wall-art" target="_blank" rel="sponsored noopener noreferrer">UK Map Posters – England &amp; Wales, Educational Wall Art, Framed, Canvas, Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=identity-why-trusted-people-make-myths-stick-myths-and-misconcept-educational-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational wall art" data-ebay-reference="identity-why-trusted-people-make-myths-stick-myths-and-misconcept-educational-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for educational wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: educational wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=identity-why-trusted-people-make-myths-stick-myths-and-misconcept-educational-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational wall art" data-ebay-reference="identity-why-trusted-people-make-myths-stick-myths-and-misconcept-educational-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=identity-why-trusted-people-make-myths-stick-myths-and-misconcept-educational-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational wall art" data-ebay-reference="identity-why-trusted-people-make-myths-stick-myths-and-misconcept-educational-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UK Map of England, Wales, Political Educational Poster,Canvas or Framed Wall Art"><img src="{{ '/assets/images/marketplace-covers/de97247c6eab2280989b.jpg' | relative_url }}" alt="Listing image for UK Map of England, Wales, Political Educational Poster,Canvas or Framed Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=identity-why-trusted-people-make-myths-stick-myths-and-misconcept-educational-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational wall art" data-ebay-reference="identity-why-trusted-people-make-myths-stick-myths-and-misconcept-educational-wall-art" target="_blank" rel="sponsored noopener noreferrer">UK Map of England, Wales, Political Educational Poster,Canvas or Framed Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=identity-why-trusted-people-make-myths-stick-myths-and-misconcept-educational-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational wall art" data-ebay-reference="identity-why-trusted-people-make-myths-stick-myths-and-misconcept-educational-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for educational wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: educational wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=identity-why-trusted-people-make-myths-stick-myths-and-misconcept-educational-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational wall art" data-ebay-reference="identity-why-trusted-people-make-myths-stick-myths-and-misconcept-educational-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=identity-why-trusted-people-make-myths-stick-myths-and-misconcept-educational-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational wall art" data-ebay-reference="identity-why-trusted-people-make-myths-stick-myths-and-misconcept-educational-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UK Map of England, Wales, Political Educational Poster,Canvas or Framed Wall Art"><img src="{{ '/assets/images/marketplace-covers/de97247c6eab2280989b.jpg' | relative_url }}" alt="Listing image for UK Map of England, Wales, Political Educational Poster,Canvas or Framed Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=identity-why-trusted-people-make-myths-stick-myths-and-misconcept-educational-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational wall art" data-ebay-reference="identity-why-trusted-people-make-myths-stick-myths-and-misconcept-educational-wall-art" target="_blank" rel="sponsored noopener noreferrer">UK Map of England, Wales, Political Educational Poster,Canvas or Framed Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=identity-why-trusted-people-make-myths-stick-myths-and-misconcept-educational-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational wall art" data-ebay-reference="identity-why-trusted-people-make-myths-stick-myths-and-misconcept-educational-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for educational wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: educational wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=identity-why-trusted-people-make-myths-stick-myths-and-misconcept-educational-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational wall art" data-ebay-reference="identity-why-trusted-people-make-myths-stick-myths-and-misconcept-educational-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=identity-why-trusted-people-make-myths-stick-myths-and-misconcept-educational-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational wall art" data-ebay-reference="identity-why-trusted-people-make-myths-stick-myths-and-misconcept-educational-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for GEOMETRY A2 Laminated educational poster maths numeracy teaching wall resource"><img src="{{ '/assets/images/marketplace-covers/50566bea86d5107b3451.jpg' | relative_url }}" alt="Listing image for GEOMETRY A2 Laminated educational poster maths numeracy teaching wall resource" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=identity-why-trusted-people-make-myths-stick-myths-and-misconcept-educational-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational wall art" data-ebay-reference="identity-why-trusted-people-make-myths-stick-myths-and-misconcept-educational-wall-art" target="_blank" rel="sponsored noopener noreferrer">GEOMETRY A2 Laminated educational poster maths numeracy teaching wall resource</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=identity-why-trusted-people-make-myths-stick-myths-and-misconcept-educational-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational wall art" data-ebay-reference="identity-why-trusted-people-make-myths-stick-myths-and-misconcept-educational-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for educational wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: educational wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=identity-why-trusted-people-make-myths-stick-myths-and-misconcept-educational-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational wall art" data-ebay-reference="identity-why-trusted-people-make-myths-stick-myths-and-misconcept-educational-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=identity-why-trusted-people-make-myths-stick-myths-and-misconcept-educational-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational wall art" data-ebay-reference="identity-why-trusted-people-make-myths-stick-myths-and-misconcept-educational-wall-art" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=identity-why-trusted-people-make-myths-stick-myths-and-misconcept-educational-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational wall art" data-ebay-reference="identity-why-trusted-people-make-myths-stick-myths-and-misconcept-educational-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for GEOMETRY A2 Laminated educational poster maths numeracy teaching wall resource"><img src="{{ '/assets/images/marketplace-covers/50566bea86d5107b3451.jpg' | relative_url }}" alt="Listing image for GEOMETRY A2 Laminated educational poster maths numeracy teaching wall resource" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=identity-why-trusted-people-make-myths-stick-myths-and-misconcept-educational-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational wall art" data-ebay-reference="identity-why-trusted-people-make-myths-stick-myths-and-misconcept-educational-wall-art" target="_blank" rel="sponsored noopener noreferrer">GEOMETRY A2 Laminated educational poster maths numeracy teaching wall resource</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=identity-why-trusted-people-make-myths-stick-myths-and-misconcept-educational-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational wall art" data-ebay-reference="identity-why-trusted-people-make-myths-stick-myths-and-misconcept-educational-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for educational wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: educational wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=identity-why-trusted-people-make-myths-stick-myths-and-misconcept-educational-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational wall art" data-ebay-reference="identity-why-trusted-people-make-myths-stick-myths-and-misconcept-educational-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=identity-why-trusted-people-make-myths-stick-myths-and-misconcept-educational-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational wall art" data-ebay-reference="identity-why-trusted-people-make-myths-stick-myths-and-misconcept-educational-wall-art" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -835,7 +835,7 @@ The most durable myths are often protected by people, not just by arguments. Tha
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -855,7 +855,7 @@ The most durable myths are often protected by people, not just by arguments. Tha
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -887,7 +887,7 @@ The most durable myths are often protected by people, not just by arguments. Tha
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -939,7 +939,7 @@ The most durable myths are often protected by people, not just by arguments. Tha
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -984,7 +984,7 @@ The most durable myths are often protected by people, not just by arguments. Tha
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -1025,258 +1025,258 @@ The most durable myths are often protected by people, not just by arguments. Tha
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: papers.ssrn.com  
-   Link: <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2973067" target="_blank" rel="noopener noreferrer nofollow">https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2973067</a>  
+   Link:<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2973067" target="_blank" rel="noopener noreferrer nofollow">https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2973067</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: nature.com  
-   Link: <a href="https://www.nature.com/articles/s44159-021-00006-y" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s44159-021-00006-y</a>  
+   Link:<a href="https://www.nature.com/articles/s44159-021-00006-y" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s44159-021-00006-y</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0010027724002865" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0010027724002865</a>  
+   Link:<a href="https://www.sciencedirect.com/science/article/pii/S0010027724002865" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0010027724002865</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: unesco.org  
-   Link: <a href="https://www.unesco.org/en/articles/2/3-digital-content-creators-do-not-check-their-facts-sharing-want-learn-how-do-so-unesco-survey" target="_blank" rel="noopener noreferrer nofollow">https://www.unesco.org/en/articles/2/3-digital-content-creators-do-not-check-their-facts-sharing-want-learn-how-do-so-unesco-survey</a>  
+   Link:<a href="https://www.unesco.org/en/articles/2/3-digital-content-creators-do-not-check-their-facts-sharing-want-learn-how-do-so-unesco-survey" target="_blank" rel="noopener noreferrer nofollow">https://www.unesco.org/en/articles/2/3-digital-content-creators-do-not-check-their-facts-sharing-want-learn-how-do-so-unesco-survey</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: unesco.org  
-   Link: <a href="https://www.unesco.org/en/digital-content-creators" target="_blank" rel="noopener noreferrer nofollow">https://www.unesco.org/en/digital-content-creators</a>  
+   Link:<a href="https://www.unesco.org/en/digital-content-creators" target="_blank" rel="noopener noreferrer nofollow">https://www.unesco.org/en/digital-content-creators</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCTrust in information, political identity and the brain  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7935065/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC7935065/</a>  
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7935065/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC7935065/</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: nature.com  
    Title: Vaccine communication  
-   Link: <a href="https://www.nature.com/articles/s41541-026-01487-9_reference.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41541-026-01487-9_reference.pdf</a>  
+   Link:<a href="https://www.nature.com/articles/s41541-026-01487-9_reference.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41541-026-01487-9_reference.pdf</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCTrusted messengers and trusted messages  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9932688/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9932688/</a>  
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9932688/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9932688/</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: advances.in  
-   Link: <a href="https://advances.in/psychology/10.56296/aip00028/" target="_blank" rel="noopener noreferrer nofollow">https://advances.in/psychology/10.56296/aip00028/</a>  
+   Link:<a href="https://advances.in/psychology/10.56296/aip00028/" target="_blank" rel="noopener noreferrer nofollow">https://advances.in/psychology/10.56296/aip00028/</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCDon't believe them! Reducing misinformation influence  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11345350/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11345350/</a>  
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11345350/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11345350/</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: link.springer.com  
-   Link: <a href="https://link.springer.com/article/10.3758/s13421-023-01402-w" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.3758/s13421-023-01402-w</a>  
+   Link:<a href="https://link.springer.com/article/10.3758/s13421-023-01402-w" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.3758/s13421-023-01402-w</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10939007/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10939007/</a>  
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10939007/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10939007/</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0264410X25007716" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0264410X25007716</a>  
+   Link:<a href="https://www.sciencedirect.com/science/article/pii/S0264410X25007716" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0264410X25007716</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: stacks.cdc.gov  
    Title: Stacks COVID-19 Vaccine Confidence  
-   Link: <a href="https://stacks.cdc.gov/view/cdc/104372/cdc_104372_DS1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://stacks.cdc.gov/view/cdc/104372/cdc_104372_DS1.pdf</a>  
+   Link:<a href="https://stacks.cdc.gov/view/cdc/104372/cdc_104372_DS1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://stacks.cdc.gov/view/cdc/104372/cdc_104372_DS1.pdf</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: unesco.org  
-   Link: <a href="https://www.unesco.org/en/articles/unesco-trains-digital-content-creators-become-trusted-voices-online" target="_blank" rel="noopener noreferrer nofollow">https://www.unesco.org/en/articles/unesco-trains-digital-content-creators-become-trusted-voices-online</a>  
+   Link:<a href="https://www.unesco.org/en/articles/unesco-trains-digital-content-creators-become-trusted-voices-online" target="_blank" rel="noopener noreferrer nofollow">https://www.unesco.org/en/articles/unesco-trains-digital-content-creators-become-trusted-voices-online</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: reutersinstitute.politics.ox.ac.uk  
    Title: digital news report  
-   Link: <a href="https://reutersinstitute.politics.ox.ac.uk/digital-news-report/2025" target="_blank" rel="noopener noreferrer nofollow">https://reutersinstitute.politics.ox.ac.uk/digital-news-report/2025</a>  
+   Link:<a href="https://reutersinstitute.politics.ox.ac.uk/digital-news-report/2025" target="_blank" rel="noopener noreferrer nofollow">https://reutersinstitute.politics.ox.ac.uk/digital-news-report/2025</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: reutersinstitute.politics.ox.ac.uk  
    Title: dnr executive  
-   Link: <a href="https://reutersinstitute.politics.ox.ac.uk/digital-news-report/2025/dnr-executive-summary" target="_blank" rel="noopener noreferrer nofollow">https://reutersinstitute.politics.ox.ac.uk/digital-news-report/2025/dnr-executive-summary</a>  
+   Link:<a href="https://reutersinstitute.politics.ox.ac.uk/digital-news-report/2025/dnr-executive-summary" target="_blank" rel="noopener noreferrer nofollow">https://reutersinstitute.politics.ox.ac.uk/digital-news-report/2025/dnr-executive-summary</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: nature.com  
-   Link: <a href="https://www.nature.com/articles/s44271-024-00057-w" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s44271-024-00057-w</a>  
+   Link:<a href="https://www.nature.com/articles/s44271-024-00057-w" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s44271-024-00057-w</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0010027725000307" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0010027725000307</a>  
+   Link:<a href="https://www.sciencedirect.com/science/article/pii/S0010027725000307" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0010027725000307</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/pii/S2352250X25002453" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S2352250X25002453</a>  
+   Link:<a href="https://www.sciencedirect.com/science/article/pii/S2352250X25002453" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S2352250X25002453</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0277953625006033" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0277953625006033</a>  
+   Link:<a href="https://www.sciencedirect.com/science/article/pii/S0277953625006033" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0277953625006033</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S2352250X23002312" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S2352250X23002312</a>  
+   Link:<a href="https://www.sciencedirect.com/science/article/abs/pii/S2352250X23002312" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S2352250X23002312</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: nature.com  
-   Link: <a href="https://www.nature.com/articles/s41598-026-42329-x" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41598-026-42329-x</a>  
+   Link:<a href="https://www.nature.com/articles/s41598-026-42329-x" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41598-026-42329-x</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: nature.com  
-   Link: <a href="https://www.nature.com/articles/s41598-024-57560-7" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41598-024-57560-7</a>  
+   Link:<a href="https://www.nature.com/articles/s41598-024-57560-7" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41598-024-57560-7</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: nature.com  
-   Link: <a href="https://www.nature.com/articles/s41541-021-00380-x" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41541-021-00380-x</a>  
+   Link:<a href="https://www.nature.com/articles/s41541-021-00380-x" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41541-021-00380-x</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: nature.com  
-   Link: <a href="https://www.nature.com/articles/s41598-023-30883-7" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41598-023-30883-7</a>  
+   Link:<a href="https://www.nature.com/articles/s41598-023-30883-7" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41598-023-30883-7</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: nature.com  
-   Link: <a href="https://www.nature.com/articles/s41598-026-48330-8_reference.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41598-026-48330-8_reference.pdf</a>  
+   Link:<a href="https://www.nature.com/articles/s41598-026-48330-8_reference.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41598-026-48330-8_reference.pdf</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: nature.com  
-   Link: <a href="https://www.nature.com/articles/s41599-025-06419-x" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41599-025-06419-x</a>  
+   Link:<a href="https://www.nature.com/articles/s41599-025-06419-x" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41599-025-06419-x</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: nature.com  
-   Link: <a href="https://www.nature.com/articles/s41392-024-01735-1" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41392-024-01735-1</a>  
+   Link:<a href="https://www.nature.com/articles/s41392-024-01735-1" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41392-024-01735-1</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: nature.com  
-   Link: <a href="https://www.nature.com/articles/aps201728" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/aps201728</a>  
+   Link:<a href="https://www.nature.com/articles/aps201728" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/aps201728</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: nature.com  
-   Link: <a href="https://www.nature.com/articles/s41599-023-01655-5" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41599-023-01655-5</a>  
+   Link:<a href="https://www.nature.com/articles/s41599-023-01655-5" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41599-023-01655-5</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: nature.com  
-   Link: <a href="https://www.nature.com/articles/nature11247" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/nature11247</a>  
+   Link:<a href="https://www.nature.com/articles/nature11247" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/nature11247</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: nature.com  
-   Link: <a href="https://www.nature.com/articles/s41598-023-50591-6" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41598-023-50591-6</a>  
+   Link:<a href="https://www.nature.com/articles/s41598-023-50591-6" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41598-023-50591-6</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: reutersinstitute.politics.ox.ac.uk  
    Title: Digital News Report 2025  
-   Link: <a href="https://reutersinstitute.politics.ox.ac.uk/sites/default/files/2025-06/Digital_News-Report_2025.pdf" target="_blank" rel="noopener noreferrer nofollow">https://reutersinstitute.politics.ox.ac.uk/sites/default/files/2025-06/Digital_News-Report_2025.pdf</a>  
+   Link:<a href="https://reutersinstitute.politics.ox.ac.uk/sites/default/files/2025-06/Digital_News-Report_2025.pdf" target="_blank" rel="noopener noreferrer nofollow">https://reutersinstitute.politics.ox.ac.uk/sites/default/files/2025-06/Digital_News-Report_2025.pdf</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: reutersinstitute.politics.ox.ac.uk  
    Title: mapping news creators and influencers social and video networks  
-   Link: <a href="https://reutersinstitute.politics.ox.ac.uk/news-creators-influencers/2025/mapping-news-creators-and-influencers-social-and-video-networks" target="_blank" rel="noopener noreferrer nofollow">https://reutersinstitute.politics.ox.ac.uk/news-creators-influencers/2025/mapping-news-creators-and-influencers-social-and-video-networks</a>  
+   Link:<a href="https://reutersinstitute.politics.ox.ac.uk/news-creators-influencers/2025/mapping-news-creators-and-influencers-social-and-video-networks" target="_blank" rel="noopener noreferrer nofollow">https://reutersinstitute.politics.ox.ac.uk/news-creators-influencers/2025/mapping-news-creators-and-influencers-social-and-video-networks</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: reutersinstitute.politics.ox.ac.uk  
-   Link: <a href="https://reutersinstitute.politics.ox.ac.uk/news/our-podcast-digital-news-report-2025-episode-4-how-people-check-if-information-real-or-fake" target="_blank" rel="noopener noreferrer nofollow">https://reutersinstitute.politics.ox.ac.uk/news/our-podcast-digital-news-report-2025-episode-4-how-people-check-if-information-real-or-fake</a>  
+   Link:<a href="https://reutersinstitute.politics.ox.ac.uk/news/our-podcast-digital-news-report-2025-episode-4-how-people-check-if-information-real-or-fake" target="_blank" rel="noopener noreferrer nofollow">https://reutersinstitute.politics.ox.ac.uk/news/our-podcast-digital-news-report-2025-episode-4-how-people-check-if-information-real-or-fake</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: reutersinstitute.politics.ox.ac.uk  
    Title: types sources and claims covid 19 misinformation  
-   Link: <a href="https://reutersinstitute.politics.ox.ac.uk/types-sources-and-claims-covid-19-misinformation" target="_blank" rel="noopener noreferrer nofollow">https://reutersinstitute.politics.ox.ac.uk/types-sources-and-claims-covid-19-misinformation</a>  
+   Link:<a href="https://reutersinstitute.politics.ox.ac.uk/types-sources-and-claims-covid-19-misinformation" target="_blank" rel="noopener noreferrer nofollow">https://reutersinstitute.politics.ox.ac.uk/types-sources-and-claims-covid-19-misinformation</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: link.springer.com  
-   Link: <a href="https://link.springer.com/article/10.3758/s13421-025-01760-7" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.3758/s13421-025-01760-7</a>  
+   Link:<a href="https://link.springer.com/article/10.3758/s13421-025-01760-7" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.3758/s13421-025-01760-7</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: link.springer.com  
-   Link: <a href="https://link.springer.com/article/10.1186/s12889-025-23470-0" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1186/s12889-025-23470-0</a>  
+   Link:<a href="https://link.springer.com/article/10.1186/s12889-025-23470-0" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1186/s12889-025-23470-0</a>  
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: discovery.ucl.ac.uk  
    Title: UCL Discovery Belief updating in the face of misinformation  
-   Link: <a href="https://discovery.ucl.ac.uk/id/eprint/10206076/2/Sanna_1-s2.0-S0010027725000307-main.pdf" target="_blank" rel="noopener noreferrer nofollow">https://discovery.ucl.ac.uk/id/eprint/10206076/2/Sanna_1-s2.0-S0010027725000307-main.pdf</a>  
+   Link:<a href="https://discovery.ucl.ac.uk/id/eprint/10206076/2/Sanna_1-s2.0-S0010027725000307-main.pdf" target="_blank" rel="noopener noreferrer nofollow">https://discovery.ucl.ac.uk/id/eprint/10206076/2/Sanna_1-s2.0-S0010027725000307-main.pdf</a>  
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/media/2025/jul/28/community-leaders-can-help-curb-false-claims-online-after-attacks-in-uk-say-researchers" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/media/2025/jul/28/community-leaders-can-help-curb-false-claims-online-after-attacks-in-uk-say-researchers</a>  
+   Link:<a href="https://www.theguardian.com/media/2025/jul/28/community-leaders-can-help-curb-false-claims-online-after-attacks-in-uk-say-researchers" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/media/2025/jul/28/community-leaders-can-help-curb-false-claims-online-after-attacks-in-uk-say-researchers</a>  
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: ui.adsabs.harvard.edu  
-   Link: <a href="https://ui.adsabs.harvard.edu/abs/2021nsf....2117694W/abstract" target="_blank" rel="noopener noreferrer nofollow">https://ui.adsabs.harvard.edu/abs/2021nsf....2117694W/abstract</a>  
+   Link:<a href="https://ui.adsabs.harvard.edu/abs/2021nsf....2117694W/abstract" target="_blank" rel="noopener noreferrer nofollow">https://ui.adsabs.harvard.edu/abs/2021nsf....2117694W/abstract</a>  
 
-43. <a id="endnote-43"></a>
+43.<a id="endnote-43"></a>
    Source: science.org  
-   Link: <a href="https://www.science.org/doi/10.1126/sciadv.abo6254" target="_blank" rel="noopener noreferrer nofollow">https://www.science.org/doi/10.1126/sciadv.abo6254</a>  
+   Link:<a href="https://www.science.org/doi/10.1126/sciadv.abo6254" target="_blank" rel="noopener noreferrer nofollow">https://www.science.org/doi/10.1126/sciadv.abo6254</a>  
 
-44. <a id="endnote-44"></a>
+44.<a id="endnote-44"></a>
    Source: science.org  
-   Link: <a href="https://www.science.org/toc/sciadv/11/35" target="_blank" rel="noopener noreferrer nofollow">https://www.science.org/toc/sciadv/11/35</a>  
+   Link:<a href="https://www.science.org/toc/sciadv/11/35" target="_blank" rel="noopener noreferrer nofollow">https://www.science.org/toc/sciadv/11/35</a>  
 
-45. <a id="endnote-45"></a>
+45.<a id="endnote-45"></a>
    Source: science.org  
-   Link: <a href="https://www.science.org/doi/10.1126/sciadv.adg1199" target="_blank" rel="noopener noreferrer nofollow">https://www.science.org/doi/10.1126/sciadv.adg1199</a>  
+   Link:<a href="https://www.science.org/doi/10.1126/sciadv.adg1199" target="_blank" rel="noopener noreferrer nofollow">https://www.science.org/doi/10.1126/sciadv.adg1199</a>  
 
-46. <a id="endnote-46"></a>
+46.<a id="endnote-46"></a>
    Source: theguardian.com  
    Title: online influencers need urgent fact checking training warns unesco  
-   Link: <a href="https://www.theguardian.com/media/2024/nov/26/online-influencers-need-urgent-fact-checking-training-warns-unesco" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/media/2024/nov/26/online-influencers-need-urgent-fact-checking-training-warns-unesco</a>  
+   Link:<a href="https://www.theguardian.com/media/2024/nov/26/online-influencers-need-urgent-fact-checking-training-warns-unesco" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/media/2024/nov/26/online-influencers-need-urgent-fact-checking-training-warns-unesco</a>  
 
-47. <a id="endnote-47"></a>
+47.<a id="endnote-47"></a>
    Source: europeanjournalists.org  
-   Link: <a href="https://europeanjournalists.org/blog/2024/12/06/unesco-report-highlights-urgent-need-for-media-literacy-training-for-digital-content-creators-who-report-the-news/" target="_blank" rel="noopener noreferrer nofollow">https://europeanjournalists.org/blog/2024/12/06/unesco-report-highlights-urgent-need-for-media-literacy-training-for-digital-content-creators-who-report-the-news/</a>  
+   Link:<a href="https://europeanjournalists.org/blog/2024/12/06/unesco-report-highlights-urgent-need-for-media-literacy-training-for-digital-content-creators-who-report-the-news/" target="_blank" rel="noopener noreferrer nofollow">https://europeanjournalists.org/blog/2024/12/06/unesco-report-highlights-urgent-need-for-media-literacy-training-for-digital-content-creators-who-report-the-news/</a>  
 
-48. <a id="endnote-48"></a>
+48.<a id="endnote-48"></a>
    Source: informalscience.org  
-   Link: <a href="https://informalscience.org/identity/dan-kahan/" target="_blank" rel="noopener noreferrer nofollow">https://informalscience.org/identity/dan-kahan/</a>  
+   Link:<a href="https://informalscience.org/identity/dan-kahan/" target="_blank" rel="noopener noreferrer nofollow">https://informalscience.org/identity/dan-kahan/</a>  
 
-49. <a id="endnote-49"></a>
+49.<a id="endnote-49"></a>
    Source: vtechworks.lib.vt.edu  
-   Link: <a href="https://vtechworks.lib.vt.edu/server/api/core/bitstreams/eb23e02a-cff8-4cd8-8f84-62f975214dff/content" target="_blank" rel="noopener noreferrer nofollow">https://vtechworks.lib.vt.edu/server/api/core/bitstreams/eb23e02a-cff8-4cd8-8f84-62f975214dff/content</a>  
+   Link:<a href="https://vtechworks.lib.vt.edu/server/api/core/bitstreams/eb23e02a-cff8-4cd8-8f84-62f975214dff/content" target="_blank" rel="noopener noreferrer nofollow">https://vtechworks.lib.vt.edu/server/api/core/bitstreams/eb23e02a-cff8-4cd8-8f84-62f975214dff/content</a>  
 
-50. <a id="endnote-50"></a>
+50.<a id="endnote-50"></a>
    Source: journalqd.org  
-   Link: <a href="https://journalqd.org/article/view/2550" target="_blank" rel="noopener noreferrer nofollow">https://journalqd.org/article/view/2550</a>  
+   Link:<a href="https://journalqd.org/article/view/2550" target="_blank" rel="noopener noreferrer nofollow">https://journalqd.org/article/view/2550</a>  
 
 ### Additional References
 
-51. <a id="endnote-51"></a>
+51.<a id="endnote-51"></a>
    Source: oecd.org  
-   Link: <a href="https://www.oecd.org/content/dam/oecd/en/publications/reports/2024/03/facts-not-fakes-tackling-disinformation-strengthening-information-integrity_ff96d19f/d909ff7a-en.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/content/dam/oecd/en/publications/reports/2024/03/facts-not-fakes-tackling-disinformation-strengthening-information-integrity_ff96d19f/d909ff7a-en.pdf</a>  
+   Link:<a href="https://www.oecd.org/content/dam/oecd/en/publications/reports/2024/03/facts-not-fakes-tackling-disinformation-strengthening-information-integrity_ff96d19f/d909ff7a-en.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/content/dam/oecd/en/publications/reports/2024/03/facts-not-fakes-tackling-disinformation-strengthening-information-integrity_ff96d19f/d909ff7a-en.pdf</a>  
 
-52. <a id="endnote-52"></a>
+52.<a id="endnote-52"></a>
    Source: youtube.com  
    Title: Trust, Expertise, and Misinformation: A Psychologist's Perspective  
-   Link: <a href="https://www.youtube.com/watch?v=kY6g0P0R7y0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=kY6g0P0R7y0</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How to Talk to People Who Believe Conspiracy Theories...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=kY6g0P0R7y0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=kY6g0P0R7y0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How to Talk to People Who Believe Conspiracy Theories...</p></details>
 
-53. <a id="endnote-53"></a>
+53.<a id="endnote-53"></a>
    Source: govinfo.gov  
-   Link: <a href="https://www.govinfo.gov/content/pkg/CHRG-117shrg53086/html/CHRG-117shrg53086.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.govinfo.gov/content/pkg/CHRG-117shrg53086/html/CHRG-117shrg53086.htm</a>  
+   Link:<a href="https://www.govinfo.gov/content/pkg/CHRG-117shrg53086/html/CHRG-117shrg53086.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.govinfo.gov/content/pkg/CHRG-117shrg53086/html/CHRG-117shrg53086.htm</a>  
 
-54. <a id="endnote-54"></a>
+54.<a id="endnote-54"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/330710636_Fighting_misinformation_on_social_media_using_crowdsourced_judgments_of_news_source_quality" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/330710636_Fighting_misinformation_on_social_media_using_crowdsourced_judgments_of_news_source_quality</a>  
+   Link:<a href="https://www.researchgate.net/publication/330710636_Fighting_misinformation_on_social_media_using_crowdsourced_judgments_of_news_source_quality" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/330710636_Fighting_misinformation_on_social_media_using_crowdsourced_judgments_of_news_source_quality</a>  
 
-55. <a id="endnote-55"></a>
+55.<a id="endnote-55"></a>
    Source: ofcom.org.uk  
-   Link: <a href="https://www.ofcom.org.uk/media-use-and-attitudes/attitudes-to-news" target="_blank" rel="noopener noreferrer nofollow">https://www.ofcom.org.uk/media-use-and-attitudes/attitudes-to-news</a>  
+   Link:<a href="https://www.ofcom.org.uk/media-use-and-attitudes/attitudes-to-news" target="_blank" rel="noopener noreferrer nofollow">https://www.ofcom.org.uk/media-use-and-attitudes/attitudes-to-news</a>  
 
-56. <a id="endnote-56"></a>
+56.<a id="endnote-56"></a>
    Source: almendron.com  
-   Link: <a href="https://www.almendron.com/tribuna/wp-content/uploads/2017/05/belief-echoes-the-persistent-effects-of-corrected-misinformation.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.almendron.com/tribuna/wp-content/uploads/2017/05/belief-echoes-the-persistent-effects-of-corrected-misinformation.pdf</a>  
+   Link:<a href="https://www.almendron.com/tribuna/wp-content/uploads/2017/05/belief-echoes-the-persistent-effects-of-corrected-misinformation.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.almendron.com/tribuna/wp-content/uploads/2017/05/belief-echoes-the-persistent-effects-of-corrected-misinformation.pdf</a>  
 
-57. <a id="endnote-57"></a>
+57.<a id="endnote-57"></a>
    Source: scispace.com  
-   Link: <a href="https://scispace.com/pdf/misconceptions-misinformation-and-the-logic-of-identity-mpc3ka7t6o.pdf" target="_blank" rel="noopener noreferrer nofollow">https://scispace.com/pdf/misconceptions-misinformation-and-the-logic-of-identity-mpc3ka7t6o.pdf</a>  
+   Link:<a href="https://scispace.com/pdf/misconceptions-misinformation-and-the-logic-of-identity-mpc3ka7t6o.pdf" target="_blank" rel="noopener noreferrer nofollow">https://scispace.com/pdf/misconceptions-misinformation-and-the-logic-of-identity-mpc3ka7t6o.pdf</a>  
 
-58. <a id="endnote-58"></a>
+58.<a id="endnote-58"></a>
    Source: dco.org  
-   Link: <a href="https://dco.org/wp-content/uploads/2024/10/Online-Misinformation-in-the-Era-of-Digital-Economy.pdf" target="_blank" rel="noopener noreferrer nofollow">https://dco.org/wp-content/uploads/2024/10/Online-Misinformation-in-the-Era-of-Digital-Economy.pdf</a>  
+   Link:<a href="https://dco.org/wp-content/uploads/2024/10/Online-Misinformation-in-the-Era-of-Digital-Economy.pdf" target="_blank" rel="noopener noreferrer nofollow">https://dco.org/wp-content/uploads/2024/10/Online-Misinformation-in-the-Era-of-Digital-Economy.pdf</a>  
 
-59. <a id="endnote-59"></a>
+59.<a id="endnote-59"></a>
    Source: immunizationmanagers.org  
-   Link: <a href="https://www.immunizationmanagers.org/content/uploads/2022/03/Vaccine-Confidence-Guide-Chapter-3_033022.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.immunizationmanagers.org/content/uploads/2022/03/Vaccine-Confidence-Guide-Chapter-3_033022.pdf</a>  
+   Link:<a href="https://www.immunizationmanagers.org/content/uploads/2022/03/Vaccine-Confidence-Guide-Chapter-3_033022.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.immunizationmanagers.org/content/uploads/2022/03/Vaccine-Confidence-Guide-Chapter-3_033022.pdf</a>  
 
-60. <a id="endnote-60"></a>
+60.<a id="endnote-60"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DNDvvtKAkBi/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DNDvvtKAkBi/?hl=en</a>
+   Link:<a href="https://www.instagram.com/reel/DNDvvtKAkBi/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DNDvvtKAkBi/?hl=en</a>

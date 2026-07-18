@@ -268,33 +268,33 @@ image: /assets/images/Myths_and_misconcept_0d48d7_retrieval_vs_learnin_6ef371_re
 
 ## Introduction
 
-A common study myth is that the best way to remember information is simply to read it again and again. Rereading often feels effective because each pass through the material becomes easier. However, research on long-term [memory]({{ 'memory/' | relative_url }}) consistently shows that self-testingalso called retrieval practiceusually produces stronger retention after days, weeks, or months. The difference matters because learners often judge study methods by how fluent they feel in the moment rather than by how well they support later recall. Evidence from laboratory and classroom research shows that rereading can improve immediate performance, while actively trying to retrieve information from memory is more likely to produce durable learning. <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1111/j.1467-9280.2006.01693.x" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-title">Sage Journals Test-Enhanced Learning</span><span class="citation-popover-snippet">Roediger, Jeffrey D....by HL Roediger III  2006  Cited by 4730  When the final test was given after 5 min, repeated studying improved...</span></span></span>
+A common study myth is that the best way to remember information is simply to read it again and again. Rereading often feels effective because each pass through the material becomes easier. However, research on long-term [memory]({{ 'memory/' | relative_url }}) consistently shows that self-testingalso called retrieval practiceusually produces stronger retention after days, weeks, or months. The difference matters because learners often judge study methods by how fluent they feel in the moment rather than by how well they support later recall. Evidence from laboratory and classroom research shows that rereading can improve immediate performance, while actively trying to retrieve information from memory is more likely to produce durable learning.<span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1111/j.1467-9280.2006.01693.x" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-title">Sage Journals Test-Enhanced Learning</span><span class="citation-popover-snippet">Roediger, Jeffrey D....by HL Roediger III  2006  Cited by 4730  When the final test was given after 5 min, repeated studying improved...</span></span></span>
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_retrieval_vs_learnin_6ef371_rereading_vs_self_te_abd7da-Illustration-1-dark.svg" | relative_url }}" alt="Self testing illustration 1" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_retrieval_vs_learnin_6ef371_rereading_vs_self_te_abd7da-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_retrieval_vs_learnin_6ef371_rereading_vs_self_te_abd7da-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Why immediate fluency can mislead learners
 
 Rereading creates a powerful feeling of familiarity. When learners encounter the same text repeatedly, processing becomes easier. Sentences seem clearer, ideas appear more familiar, and [confidence]({{ 'confidence/' | relative_url }}) rises. The problem is that familiarity is not the same as being able to recall information later without the material in front of you.
 
-Cognitive psychologists have described this phenomenon as an illusion of competence. Learners often mistake the ease of recognising information during review for genuine mastery. Because rereading feels smooth and successful, it can create overly optimistic judgments about future performance. <span class="citation-chip-wrap"><a class="citation-chip" href="https://bjorklab.psych.ucla.edu/wp-content/uploads/sites/13/2016/07/LJacoby_RBjork_CKelley_1994.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bjorklab.psych.ucla.edu">[bjorklab.psych.ucla.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bjorklab.psych.ucla.edu</span><span class="citation-popover-snippet">Illusions of Comprehension, Competence, and RememberingThis work shows that past experience influences people&#x27;s interpretation or what co...</span></span></span> ResearchGate This helps explain why rereading remains so popular. It is comfortable <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/6669088_Illusions_of_competence_during_study_can_be_remedied_by_manipulations_that_enhance_learners%27_sensitivity_to_retrieval_conditions_at_test" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[researchgate.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Illusions of competence during study can be remedied by...PDF &#124; Monitoring one&#x27;s knowledge during study is susceptible to a...</span></span></span>, requires relatively little mental effort, and provides immediate feedback in the form of recognition. Self-testing produces the opposite experience. Attempting to recall information from memory can feel difficult, slow, and error-prone. Yet that apparent struggle is often a sign that learning is taking place. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.youtube.com/watch?v=a6brY4se_WM" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[YouTube]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-snippet">Overcoming Illusions of Competence, Dr. Elizabeth BjorkDr. Elizabeth Bjork (UCLA) discusses how re-reading can produce a sense of...</span></span></span>
+Cognitive psychologists have described this phenomenon as an illusion of competence. Learners often mistake the ease of recognising information during review for genuine mastery. Because rereading feels smooth and successful, it can create overly optimistic judgments about future performance.<span class="citation-chip-wrap"><a class="citation-chip" href="https://bjorklab.psych.ucla.edu/wp-content/uploads/sites/13/2016/07/LJacoby_RBjork_CKelley_1994.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bjorklab.psych.ucla.edu">[bjorklab.psych.ucla.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bjorklab.psych.ucla.edu</span><span class="citation-popover-snippet">Illusions of Comprehension, Competence, and RememberingThis work shows that past experience influences people&#x27;s interpretation or what co...</span></span></span> ResearchGate This helps explain why rereading remains so popular. It is comfortable<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/6669088_Illusions_of_competence_during_study_can_be_remedied_by_manipulations_that_enhance_learners%27_sensitivity_to_retrieval_conditions_at_test" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[researchgate.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Illusions of competence during study can be remedied by...PDF &#124; Monitoring one&#x27;s knowledge during study is susceptible to a...</span></span></span>, requires relatively little mental effort, and provides immediate feedback in the form of recognition. Self-testing produces the opposite experience. Attempting to recall information from memory can feel difficult, slow, and error-prone. Yet that apparent struggle is often a sign that learning is taking place.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.youtube.com/watch?v=a6brY4se_WM" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[YouTube]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-snippet">Overcoming Illusions of Competence, Dr. Elizabeth BjorkDr. Elizabeth Bjork (UCLA) discusses how re-reading can produce a sense of...</span></span></span>
 
-A key misconception is that effective learning should feel easy. Research on memory repeatedly shows that techniques creating more effort during study can generate stronger retention later. The challenge of retrieval forces learners to reconstruct knowledge rather than merely encounter it again. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/16507066/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">memory tests improves long-term retentionby HL Roediger  2006  Cited by 4637  Taking a memory test not only assesses what one knows, b...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/topics/psychology/testing-effect" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-title">ScienceDirect Testing Effect</span><span class="citation-popover-snippet">Testing Effect - an overviewThe testing effect refers most generally to the finding that learning and memory are facilitated...</span></span></span>
+A key misconception is that effective learning should feel easy. Research on memory repeatedly shows that techniques creating more effort during study can generate stronger retention later. The challenge of retrieval forces learners to reconstruct knowledge rather than merely encounter it again.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/16507066/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">memory tests improves long-term retentionby HL Roediger  2006  Cited by 4637  Taking a memory test not only assesses what one knows, b...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/topics/psychology/testing-effect" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-title">ScienceDirect Testing Effect</span><span class="citation-popover-snippet">Testing Effect - an overviewThe testing effect refers most generally to the finding that learning and memory are facilitated...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/a6brY4se_WM" title="Overcoming Illusions of Competence, Dr. Elizabeth Bjork" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=a6brY4se_WM" target="_blank" rel="noopener noreferrer">Overcoming Illusions of Competence, Dr. Elizabeth Bjork</a></p><p class="youtube-embed-meta">Channel: LastingLearning.com &middot; Views: 5.5K &middot; Uploaded: October 2015 &middot; Length: 2 minutes 26 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=a6brY4se_WM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=a6brY4se_WM">Open on YouTube</a></p></div></div></div>
 
 ## What delayed recall shows about self-testing
 
-The strongest evidence comes from studies directly comparing rereading with retrieval practice. In influential experiments by Henry Roediger and Jeffrey Karpicke, participants studied prose passages and then either restudied them or practised recalling them from memory. When tested almost immediately, rereading often appeared superior. However, after delays of two days or one week, the retrieval-practice groups remembered substantially more. <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1111/j.1467-9280.2006.01693.x" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-title">Sage Journals Test-Enhanced Learning</span><span class="citation-popover-snippet">Roediger, Jeffrey D....by HL Roediger III  2006  Cited by 4730  When the final test was given after 5 min, repeated studying improved...</span></span></span> PubMed This pattern has been replicated across many learning situations. Reviews of educational research consistently identify practice testing as o <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/16507066/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[pubmed.ncbi.nlm.nih.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">memory tests improves long-term retentionby HL Roediger  2006  Cited by 4637  Taking a memory test not only assesses what one knows, b...</span></span></span> ne of the most reliable study techniques available. Large evidence syntheses have rated practice testing among the highest-utility learning strategies because its benefits appear across different ages, subjects, and educational contexts. <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1111/j.1467-9280.2006.01693.x" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-title">Sage Journals Test-Enhanced Learning</span><span class="citation-popover-snippet">Roediger, Jeffrey D....by HL Roediger III  2006  Cited by 4730  When the final test was given after 5 min, repeated studying improved...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/16507066/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed Importantly]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">memory tests improves long-term retentionby HL Roediger  2006  Cited by 4637  Taking a memory test not only assesses what one knows, b...</span></span></span>, the advantage is usually most visible when memory is tested after a meaningful delay. Researchers have repeatedly found that restudy can look effective in the short term, whereas retrieval practice better protects information from forgetting over time. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6242973/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCThe Direct Testing Effect Is Pervasive in Action Memory</span><span class="citation-popover-snippet">Direct Testing Effect Is Pervasive in Action Memory - PMCby V Kubik  2018  Cited by 19  In addition, there was evidence for a testing...</span></span></span> ResearchGate The pattern is so consistent that it has become known as the testing effect: the act of retrieving information strengthens future access to t <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/6669088_Illusions_of_competence_during_study_can_be_remedied_by_manipulations_that_enhance_learners%27_sensitivity_to_retrieval_conditions_at_test" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[researchgate.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Illusions of competence during study can be remedied by...PDF &#124; Monitoring one&#x27;s knowledge during study is susceptible to a...</span></span></span> hat information. Tests are not merely measurement tools; they can also be learning events. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/16507066/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">memory tests improves long-term retentionby HL Roediger  2006  Cited by 4637  Taking a memory test not only assesses what one knows, b...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/abs/pii/S0959475217301810" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Investigating the testing effect: Retrieval as a characteristic...by CL Bae  2019  Cited by 103  Roediger and Karpicke (2006a) also s...</span></span></span>
+The strongest evidence comes from studies directly comparing rereading with retrieval practice. In influential experiments by Henry Roediger and Jeffrey Karpicke, participants studied prose passages and then either restudied them or practised recalling them from memory. When tested almost immediately, rereading often appeared superior. However, after delays of two days or one week, the retrieval-practice groups remembered substantially more.<span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1111/j.1467-9280.2006.01693.x" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-title">Sage Journals Test-Enhanced Learning</span><span class="citation-popover-snippet">Roediger, Jeffrey D....by HL Roediger III  2006  Cited by 4730  When the final test was given after 5 min, repeated studying improved...</span></span></span> PubMed This pattern has been replicated across many learning situations. Reviews of educational research consistently identify practice testing as o<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/16507066/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[pubmed.ncbi.nlm.nih.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">memory tests improves long-term retentionby HL Roediger  2006  Cited by 4637  Taking a memory test not only assesses what one knows, b...</span></span></span> ne of the most reliable study techniques available. Large evidence syntheses have rated practice testing among the highest-utility learning strategies because its benefits appear across different ages, subjects, and educational contexts.<span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1111/j.1467-9280.2006.01693.x" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-title">Sage Journals Test-Enhanced Learning</span><span class="citation-popover-snippet">Roediger, Jeffrey D....by HL Roediger III  2006  Cited by 4730  When the final test was given after 5 min, repeated studying improved...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/16507066/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed Importantly]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">memory tests improves long-term retentionby HL Roediger  2006  Cited by 4637  Taking a memory test not only assesses what one knows, b...</span></span></span>, the advantage is usually most visible when memory is tested after a meaningful delay. Researchers have repeatedly found that restudy can look effective in the short term, whereas retrieval practice better protects information from forgetting over time.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6242973/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCThe Direct Testing Effect Is Pervasive in Action Memory</span><span class="citation-popover-snippet">Direct Testing Effect Is Pervasive in Action Memory - PMCby V Kubik  2018  Cited by 19  In addition, there was evidence for a testing...</span></span></span> ResearchGate The pattern is so consistent that it has become known as the testing effect: the act of retrieving information strengthens future access to t<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/6669088_Illusions_of_competence_during_study_can_be_remedied_by_manipulations_that_enhance_learners%27_sensitivity_to_retrieval_conditions_at_test" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[researchgate.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Illusions of competence during study can be remedied by...PDF &#124; Monitoring one&#x27;s knowledge during study is susceptible to a...</span></span></span> hat information. Tests are not merely measurement tools; they can also be learning events.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/16507066/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">memory tests improves long-term retentionby HL Roediger  2006  Cited by 4637  Taking a memory test not only assesses what one knows, b...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/abs/pii/S0959475217301810" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Investigating the testing effect: Retrieval as a characteristic...by CL Bae  2019  Cited by 103  Roediger and Karpicke (2006a) also s...</span></span></span>
 
 ## Why retrieval changes memory more effectively than rereading
 
-The central mechanism is that retrieval requires learners to bring information to mind without relying on the original source. This process appears to strengthen memory representations and improve the ability to access them later. Each successful retrieval acts as additional practice in finding and reconstructing the knowledge. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/topics/psychology/testing-effect" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-title">ScienceDirect Testing Effect</span><span class="citation-popover-snippet">Testing Effect - an overviewThe testing effect refers most generally to the finding that learning and memory are facilitated...</span></span></span> PubMed Retrieval also provides more accurate feedback about what is actually known. When students reread notes <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/16507066/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[pubmed.ncbi.nlm.nih.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">memory tests improves long-term retentionby HL Roediger  2006  Cited by 4637  Taking a memory test not only assesses what one knows, b...</span></span></span>, gaps in understanding can remain hidden because the answers are visible. During self-testing, those gaps become obvious. Learners discover which concepts are weak, which facts have been forgotten, and which topics require further study. <span class="citation-chip-wrap"><a class="citation-chip" href="https://psychnet.wustl.edu/memory/wp-content/uploads/2018/04/Karpicke-et-al-2009_Mem.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: psychnet.wustl.edu">[psychnet.wustl.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">psychnet.wustl.edu</span><span class="citation-popover-snippet">ing rereading) they may fall prey to illusions of competence and believe they...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://ebea.org.uk/four-research-informed-tips-for-improving-learning-recall" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ebea.org.uk">[EBEA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ebea.org.uk</span><span class="citation-popover-snippet">Four Research-Informed Tips for Improving Learning Recallby L Out  These informal tests are much more effective revision strategies than...</span></span></span>
+The central mechanism is that retrieval requires learners to bring information to mind without relying on the original source. This process appears to strengthen memory representations and improve the ability to access them later. Each successful retrieval acts as additional practice in finding and reconstructing the knowledge.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/topics/psychology/testing-effect" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-title">ScienceDirect Testing Effect</span><span class="citation-popover-snippet">Testing Effect - an overviewThe testing effect refers most generally to the finding that learning and memory are facilitated...</span></span></span> PubMed Retrieval also provides more accurate feedback about what is actually known. When students reread notes<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/16507066/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[pubmed.ncbi.nlm.nih.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">memory tests improves long-term retentionby HL Roediger  2006  Cited by 4637  Taking a memory test not only assesses what one knows, b...</span></span></span>, gaps in understanding can remain hidden because the answers are visible. During self-testing, those gaps become obvious. Learners discover which concepts are weak, which facts have been forgotten, and which topics require further study.<span class="citation-chip-wrap"><a class="citation-chip" href="https://psychnet.wustl.edu/memory/wp-content/uploads/2018/04/Karpicke-et-al-2009_Mem.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: psychnet.wustl.edu">[psychnet.wustl.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">psychnet.wustl.edu</span><span class="citation-popover-snippet">ing rereading) they may fall prey to illusions of competence and believe they...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://ebea.org.uk/four-research-informed-tips-for-improving-learning-recall" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ebea.org.uk">[EBEA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ebea.org.uk</span><span class="citation-popover-snippet">Four Research-Informed Tips for Improving Learning Recallby L Out  These informal tests are much more effective revision strategies than...</span></span></span>
 
-Another important feature is that retrieval strengthens resistance to forgetting. Studies comparing restudy and testing frequently show that information acquired through retrieval declines more slowly over time. In practical terms, learners may remember less immediately after a difficult retrieval session, yet retain more after several days or weeks. <span class="citation-chip-wrap"><a class="citation-chip" href="https://gwern.net/doc/psychology/spaced-[repetition" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gwern.net">[Gwern]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gwern.net</span><span class="citation-popover-snippet">Taking Memory Tests Improves Long-Term RetentionThis surprising result indicates that taking an initial recall test prevented forget...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6242973/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCThe Direct Testing Effect Is Pervasive in Action Memory</span><span class="citation-popover-snippet">Direct Testing Effect Is Pervasive in Action Memory - PMCby V Kubik  2018  Cited by 19  In addition, there was evidence for a testing...</span></span></span>
+Another important feature is that retrieval strengthens resistance to forgetting. Studies comparing restudy and testing frequently show that information acquired through retrieval declines more slowly over time. In practical terms, learners may remember less immediately after a difficult retrieval session, yet retain more after several days or weeks.<span class="citation-chip-wrap"><a class="citation-chip" href="https://gwern.net/doc/psychology/spaced-[repetition" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gwern.net">[Gwern]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gwern.net</span><span class="citation-popover-snippet">Taking Memory Tests Improves Long-Term RetentionThis surprising result indicates that taking an initial recall test prevented forget...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6242973/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCThe Direct Testing Effect Is Pervasive in Action Memory</span><span class="citation-popover-snippet">Direct Testing Effect Is Pervasive in Action Memory - PMCby V Kubik  2018  Cited by 19  In addition, there was evidence for a testing...</span></span></span>
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_retrieval_vs_learnin_6ef371_rereading_vs_self_te_abd7da-Illustration-2-dark.svg" | relative_url }}" alt="Self testing illustration 2" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_retrieval_vs_learnin_6ef371_rereading_vs_self_te_abd7da-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_retrieval_vs_learnin_6ef371_rereading_vs_self_te_abd7da-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How students can replace passive review with active recall
 
-The evidence does not mean rereading is completely useless. An initial reading is necessary to understand new material, and occasional review can help refresh context. The misconception is that repeated rereading alone is the best route to lasting memory. Once material has been learned at a basic level, active recall generally provides greater returns. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.structural-learning.com/post/robert-bjork-teachers-guide-desirable" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: structural-learning.com">[Structural Learning]</a><span class="citation-popover" role="note"><span class="citation-popover-source">structural-learning.com</span><span class="citation-popover-snippet">Structural LearningRobert Bjork: A Teacher&#x27;s Guide to Desirable Difficulties19 Feb 2026  The problem is when re-reading replaces retriev...</span></span></span>
+The evidence does not mean rereading is completely useless. An initial reading is necessary to understand new material, and occasional review can help refresh context. The misconception is that repeated rereading alone is the best route to lasting memory. Once material has been learned at a basic level, active recall generally provides greater returns.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.structural-learning.com/post/robert-bjork-teachers-guide-desirable" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: structural-learning.com">[Structural Learning]</a><span class="citation-popover" role="note"><span class="citation-popover-source">structural-learning.com</span><span class="citation-popover-snippet">Structural LearningRobert Bjork: A Teacher&#x27;s Guide to Desirable Difficulties19 Feb 2026  The problem is when re-reading replaces retriev...</span></span></span>
 
 Practical alternatives include:
 
@@ -303,206 +303,206 @@ Practical alternatives include:
 * Answering end-of-chapter questions without looking at the text.
 * Explaining a concept aloud from memory.
 * Taking low-stakes practice quizzes.
-* Creating brief summaries from memory and then comparing them with the source material. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aft.org/ae/fall2013/dunlosky" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aft.org">[American Federation of Teachers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aft.org</span><span class="citation-popover-snippet">American Federation of TeachersStrengthening the Student Toolboxby J Dunlosky  Cited by 268  Practice testing: self-testing or taking p...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://my.chartered.college/research-hub/testing-and-spacing-effective-learning-strategies-for-the-classroom/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: my.chartered.college">[My College]</a><span class="citation-popover" role="note"><span class="citation-popover-source">my.chartered.college</span><span class="citation-popover-title">This is known as the testing effect.Read more</span><span class="citation-popover-snippet">My CollegeTesting and spacing: Effective learning strategies for the...Such retrieval has repeatedly been shown to be more beneficial th...</span></span></span>
+* Creating brief summaries from memory and then comparing them with the source material.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aft.org/ae/fall2013/dunlosky" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aft.org">[American Federation of Teachers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aft.org</span><span class="citation-popover-snippet">American Federation of TeachersStrengthening the Student Toolboxby J Dunlosky  Cited by 268  Practice testing: self-testing or taking p...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://my.chartered.college/research-hub/testing-and-spacing-effective-learning-strategies-for-the-classroom/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: my.chartered.college">[My College]</a><span class="citation-popover" role="note"><span class="citation-popover-source">my.chartered.college</span><span class="citation-popover-title">This is known as the testing effect.Read more</span><span class="citation-popover-snippet">My CollegeTesting and spacing: Effective learning strategies for the...Such retrieval has repeatedly been shown to be more beneficial th...</span></span></span>
 
 The critical feature is not the format but the retrieval attempt. A flashcard, quiz, or verbal explanation works because it requires the learner to reconstruct knowledge rather than merely recognise it.
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_retrieval_vs_learnin_6ef371_rereading_vs_self_te_abd7da-Illustration-3-dark.svg" | relative_url }}" alt="Self testing illustration 3" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_retrieval_vs_learnin_6ef371_rereading_vs_self_te_abd7da-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_retrieval_vs_learnin_6ef371_rereading_vs_self_te_abd7da-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The myth versus the evidence
 
-The enduring myth is that learning improves simply through repeated exposure. The evidence paints a different picture. Rereading often creates confidence because information feels familiar, but familiarity can disguise weak memory. Self-testing may feel harder and reveal mistakes, yet those very retrieval attempts are what strengthen long-term retention. Across decades of research, the balance of evidence shows that when the goal is remembering information later rather than recognising it now, active retrieval generally outperforms passive rereading. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2021.581216/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[frontiersin.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-snippet">2013a), and is based on 242 studies...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1111/j.1467-9280.2006.01693.x" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-title">Sage Journals Test-Enhanced Learning</span><span class="citation-popover-snippet">Roediger, Jeffrey D....by HL Roediger III  2006  Cited by 4730  When the final test was given after 5 min, repeated studying improved...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/16507066/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">memory tests improves long-term retentionby HL Roediger  2006  Cited by 4637  Taking a memory test not only assesses what one knows, b...</span></span></span>
+The enduring myth is that learning improves simply through repeated exposure. The evidence paints a different picture. Rereading often creates confidence because information feels familiar, but familiarity can disguise weak memory. Self-testing may feel harder and reveal mistakes, yet those very retrieval attempts are what strengthen long-term retention. Across decades of research, the balance of evidence shows that when the goal is remembering information later rather than recognising it now, active retrieval generally outperforms passive rereading.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2021.581216/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[frontiersin.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-snippet">2013a), and is based on 242 studies...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1111/j.1467-9280.2006.01693.x" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-title">Sage Journals Test-Enhanced Learning</span><span class="citation-popover-snippet">Roediger, Jeffrey D....by HL Roediger III  2006  Cited by 4730  When the final test was given after 5 min, repeated studying improved...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/16507066/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">memory tests improves long-term retentionby HL Roediger  2006  Cited by 4637  Taking a memory test not only assesses what one knows, b...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/G6u9_lbW2hY" title="The Testing Effect &amp; Retrieval practice: the number 1 study hack" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=G6u9_lbW2hY" target="_blank" rel="noopener noreferrer">The Testing Effect &amp; Retrieval practice: the number 1 study hack</a></p><p class="youtube-embed-meta">Channel: Presenting Psychology &middot; Views: 2.3K &middot; Uploaded: May 2023 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=G6u9_lbW2hY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=G6u9_lbW2hY">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why rereading feels easier but works less well. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why rereading feels easier but works less well. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Make It Stick on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=oneWAwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Make It Stick" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Make It Stick">Make It Stick</a>
-        </h4>
-        <p class="fr-book-author">By Peter C. Brown, Henry L. Roediger III et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Make It Stick on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=oneWAwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Make It Stick" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Make It Stick">Make It Stick</a>
+</h4>
+<p class="fr-book-author">By Peter C. Brown, Henry L. Roediger III et al.</p>
         
-        <p class="fr-book-desc">Retrieval practice versus rereading is one of the book&#x27;s core themes.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Retrieval practice versus rereading is one of the book&#x27;s core themes.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Powerful+Teaching+by+Pooja+K.+Agarwal&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Powerful Teaching on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=vcaXDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Powerful Teaching" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Powerful+Teaching+by+Pooja+K.+Agarwal&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Powerful Teaching">Powerful Teaching</a>
-        </h4>
-        <p class="fr-book-author">By Pooja K. Agarwal, Patrice M. Bain</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Powerful+Teaching+by+Pooja+K.+Agarwal&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Powerful Teaching on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=vcaXDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Powerful Teaching" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Powerful+Teaching+by+Pooja+K.+Agarwal&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Powerful Teaching">Powerful Teaching</a>
+</h4>
+<p class="fr-book-author">By Pooja K. Agarwal, Patrice M. Bain</p>
         
-        <p class="fr-book-desc">Centers on retrieval practice, spacing, and durable retention.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Powerful+Teaching+by+Pooja+K.+Agarwal&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Centers on retrieval practice, spacing, and durable retention.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Powerful+Teaching+by+Pooja+K.+Agarwal&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Small+Teaching+by+James+M.+Lang&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Small Teaching on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=RESXCwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Small Teaching" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Small+Teaching+by+James+M.+Lang&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Small Teaching">Small Teaching</a>
-        </h4>
-        <p class="fr-book-author">By James M. Lang</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Small+Teaching+by+James+M.+Lang&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Small Teaching on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=RESXCwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Small Teaching" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Small+Teaching+by+James+M.+Lang&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Small Teaching">Small Teaching</a>
+</h4>
+<p class="fr-book-author">By James M. Lang</p>
         
-        <p class="fr-book-desc">Includes low-effort classroom retrieval techniques that outperform passive review.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Small+Teaching+by+James+M.+Lang&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Includes low-effort classroom retrieval techniques that outperform passive review.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Small+Teaching+by+James+M.+Lang&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Ultralearning+by+Scott+H.+Young&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ultralearning on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jyV2DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Ultralearning" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Ultralearning+by+Scott+H.+Young&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ultralearning">Ultralearning</a>
-        </h4>
-        <p class="fr-book-author">By Scott H. Young</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Ultralearning+by+Scott+H.+Young&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ultralearning on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jyV2DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Ultralearning" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Ultralearning+by+Scott+H.+Young&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ultralearning">Ultralearning</a>
+</h4>
+<p class="fr-book-author">By Scott H. Young</p>
         
-        <p class="fr-book-desc">Advocates active recall and testing rather than passive rereading.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Ultralearning+by+Scott+H.+Young&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Advocates active recall and testing rather than passive rereading.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Ultralearning+by+Scott+H.+Young&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Make+It+Stick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Make It Stick</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Powerful+Teaching&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Powerful Teaching</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Small+Teaching&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Small Teaching</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Make+It+Stick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Make It Stick</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Powerful+Teaching&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Powerful Teaching</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Small+Teaching&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Small Teaching</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=classroom+learning+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=self-testing-why-rereading-feels-easier-but-works-less-well-myths-and-misconcept-classroom-learning-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classroom learning poster" data-ebay-reference="self-testing-why-rereading-feels-easier-but-works-less-well-myths-and-misconcept-classroom-learning-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Times Tables Poster 1-12 A3/A2 | Kids Maths Wall Chart for Home School Classroom"><img src="{{ '/assets/images/marketplace-covers/77c72dc0133e132168f0.jpg' | relative_url }}" alt="Listing image for Times Tables Poster 1-12 A3/A2 | Kids Maths Wall Chart for Home School Classroom" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=classroom+learning+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=self-testing-why-rereading-feels-easier-but-works-less-well-myths-and-misconcept-classroom-learning-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classroom learning poster" data-ebay-reference="self-testing-why-rereading-feels-easier-but-works-less-well-myths-and-misconcept-classroom-learning-poster" target="_blank" rel="sponsored noopener noreferrer">Times Tables Poster 1-12 A3/A2 | Kids Maths Wall Chart for Home School Classroom</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=classroom+learning+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=self-testing-why-rereading-feels-easier-but-works-less-well-myths-and-misconcept-classroom-learning-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classroom learning poster" data-ebay-reference="self-testing-why-rereading-feels-easier-but-works-less-well-myths-and-misconcept-classroom-learning-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for classroom learning poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: classroom learning poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=classroom+learning+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=self-testing-why-rereading-feels-easier-but-works-less-well-myths-and-misconcept-classroom-learning-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classroom learning poster" data-ebay-reference="self-testing-why-rereading-feels-easier-but-works-less-well-myths-and-misconcept-classroom-learning-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=classroom+learning+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=self-testing-why-rereading-feels-easier-but-works-less-well-myths-and-misconcept-classroom-learning-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classroom learning poster" data-ebay-reference="self-testing-why-rereading-feels-easier-but-works-less-well-myths-and-misconcept-classroom-learning-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Times Tables Poster 1-12 A3/A2 | Kids Maths Wall Chart for Home School Classroom"><img src="{{ '/assets/images/marketplace-covers/77c72dc0133e132168f0.jpg' | relative_url }}" alt="Listing image for Times Tables Poster 1-12 A3/A2 | Kids Maths Wall Chart for Home School Classroom" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=classroom+learning+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=self-testing-why-rereading-feels-easier-but-works-less-well-myths-and-misconcept-classroom-learning-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classroom learning poster" data-ebay-reference="self-testing-why-rereading-feels-easier-but-works-less-well-myths-and-misconcept-classroom-learning-poster" target="_blank" rel="sponsored noopener noreferrer">Times Tables Poster 1-12 A3/A2 | Kids Maths Wall Chart for Home School Classroom</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=classroom+learning+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=self-testing-why-rereading-feels-easier-but-works-less-well-myths-and-misconcept-classroom-learning-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classroom learning poster" data-ebay-reference="self-testing-why-rereading-feels-easier-but-works-less-well-myths-and-misconcept-classroom-learning-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for classroom learning poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: classroom learning poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=classroom+learning+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=self-testing-why-rereading-feels-easier-but-works-less-well-myths-and-misconcept-classroom-learning-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classroom learning poster" data-ebay-reference="self-testing-why-rereading-feels-easier-but-works-less-well-myths-and-misconcept-classroom-learning-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=classroom+learning+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=self-testing-why-rereading-feels-easier-but-works-less-well-myths-and-misconcept-classroom-learning-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classroom learning poster" data-ebay-reference="self-testing-why-rereading-feels-easier-but-works-less-well-myths-and-misconcept-classroom-learning-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Classroom Educational Posters - 20pcs 16 x 11 - Teacher Classroom Must Have..."><img src="{{ '/assets/images/marketplace-covers/e92cf70e662e4f29850a.jpg' | relative_url }}" alt="Listing image for Classroom Educational Posters - 20pcs 16 x 11 - Teacher Classroom Must Have..." loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=classroom+learning+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=self-testing-why-rereading-feels-easier-but-works-less-well-myths-and-misconcept-classroom-learning-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classroom learning poster" data-ebay-reference="self-testing-why-rereading-feels-easier-but-works-less-well-myths-and-misconcept-classroom-learning-poster" target="_blank" rel="sponsored noopener noreferrer">Classroom Educational Posters - 20pcs 16 x 11 - Teacher Classroom Must Have...</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=classroom+learning+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=self-testing-why-rereading-feels-easier-but-works-less-well-myths-and-misconcept-classroom-learning-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classroom learning poster" data-ebay-reference="self-testing-why-rereading-feels-easier-but-works-less-well-myths-and-misconcept-classroom-learning-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for classroom learning poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: classroom learning poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=classroom+learning+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=self-testing-why-rereading-feels-easier-but-works-less-well-myths-and-misconcept-classroom-learning-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classroom learning poster" data-ebay-reference="self-testing-why-rereading-feels-easier-but-works-less-well-myths-and-misconcept-classroom-learning-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=classroom+learning+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=self-testing-why-rereading-feels-easier-but-works-less-well-myths-and-misconcept-classroom-learning-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classroom learning poster" data-ebay-reference="self-testing-why-rereading-feels-easier-but-works-less-well-myths-and-misconcept-classroom-learning-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Classroom Educational Posters - 20pcs 16 x 11 - Teacher Classroom Must Have..."><img src="{{ '/assets/images/marketplace-covers/e92cf70e662e4f29850a.jpg' | relative_url }}" alt="Listing image for Classroom Educational Posters - 20pcs 16 x 11 - Teacher Classroom Must Have..." loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=classroom+learning+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=self-testing-why-rereading-feels-easier-but-works-less-well-myths-and-misconcept-classroom-learning-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classroom learning poster" data-ebay-reference="self-testing-why-rereading-feels-easier-but-works-less-well-myths-and-misconcept-classroom-learning-poster" target="_blank" rel="sponsored noopener noreferrer">Classroom Educational Posters - 20pcs 16 x 11 - Teacher Classroom Must Have...</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=classroom+learning+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=self-testing-why-rereading-feels-easier-but-works-less-well-myths-and-misconcept-classroom-learning-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classroom learning poster" data-ebay-reference="self-testing-why-rereading-feels-easier-but-works-less-well-myths-and-misconcept-classroom-learning-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for classroom learning poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: classroom learning poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=classroom+learning+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=self-testing-why-rereading-feels-easier-but-works-less-well-myths-and-misconcept-classroom-learning-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classroom learning poster" data-ebay-reference="self-testing-why-rereading-feels-easier-but-works-less-well-myths-and-misconcept-classroom-learning-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=classroom+learning+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=self-testing-why-rereading-feels-easier-but-works-less-well-myths-and-misconcept-classroom-learning-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classroom learning poster" data-ebay-reference="self-testing-why-rereading-feels-easier-but-works-less-well-myths-and-misconcept-classroom-learning-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Educational Posters 15 Pack A3 Size Early Years Classroom Learning Wall Charts"><img src="{{ '/assets/images/marketplace-covers/a8e510a645162d8c080e.jpg' | relative_url }}" alt="Listing image for Educational Posters 15 Pack A3 Size Early Years Classroom Learning Wall Charts" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=classroom+learning+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=self-testing-why-rereading-feels-easier-but-works-less-well-myths-and-misconcept-classroom-learning-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classroom learning poster" data-ebay-reference="self-testing-why-rereading-feels-easier-but-works-less-well-myths-and-misconcept-classroom-learning-poster" target="_blank" rel="sponsored noopener noreferrer">Educational Posters 15 Pack A3 Size Early Years Classroom Learning Wall Charts</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=classroom+learning+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=self-testing-why-rereading-feels-easier-but-works-less-well-myths-and-misconcept-classroom-learning-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classroom learning poster" data-ebay-reference="self-testing-why-rereading-feels-easier-but-works-less-well-myths-and-misconcept-classroom-learning-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for classroom learning poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: classroom learning poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=classroom+learning+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=self-testing-why-rereading-feels-easier-but-works-less-well-myths-and-misconcept-classroom-learning-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classroom learning poster" data-ebay-reference="self-testing-why-rereading-feels-easier-but-works-less-well-myths-and-misconcept-classroom-learning-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=classroom+learning+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=self-testing-why-rereading-feels-easier-but-works-less-well-myths-and-misconcept-classroom-learning-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classroom learning poster" data-ebay-reference="self-testing-why-rereading-feels-easier-but-works-less-well-myths-and-misconcept-classroom-learning-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Educational Posters 15 Pack A3 Size Early Years Classroom Learning Wall Charts"><img src="{{ '/assets/images/marketplace-covers/a8e510a645162d8c080e.jpg' | relative_url }}" alt="Listing image for Educational Posters 15 Pack A3 Size Early Years Classroom Learning Wall Charts" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=classroom+learning+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=self-testing-why-rereading-feels-easier-but-works-less-well-myths-and-misconcept-classroom-learning-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classroom learning poster" data-ebay-reference="self-testing-why-rereading-feels-easier-but-works-less-well-myths-and-misconcept-classroom-learning-poster" target="_blank" rel="sponsored noopener noreferrer">Educational Posters 15 Pack A3 Size Early Years Classroom Learning Wall Charts</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=classroom+learning+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=self-testing-why-rereading-feels-easier-but-works-less-well-myths-and-misconcept-classroom-learning-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classroom learning poster" data-ebay-reference="self-testing-why-rereading-feels-easier-but-works-less-well-myths-and-misconcept-classroom-learning-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for classroom learning poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: classroom learning poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=classroom+learning+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=self-testing-why-rereading-feels-easier-but-works-less-well-myths-and-misconcept-classroom-learning-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classroom learning poster" data-ebay-reference="self-testing-why-rereading-feels-easier-but-works-less-well-myths-and-misconcept-classroom-learning-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=classroom+learning+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=self-testing-why-rereading-feels-easier-but-works-less-well-myths-and-misconcept-classroom-learning-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classroom learning poster" data-ebay-reference="self-testing-why-rereading-feels-easier-but-works-less-well-myths-and-misconcept-classroom-learning-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Animals Of The World Educational Poster Kids Classroom Learning Chart Wall Art"><img src="{{ '/assets/images/marketplace-covers/6e682dd582a21573957f.jpg' | relative_url }}" alt="Listing image for Animals Of The World Educational Poster Kids Classroom Learning Chart Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=classroom+learning+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=self-testing-why-rereading-feels-easier-but-works-less-well-myths-and-misconcept-classroom-learning-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classroom learning poster" data-ebay-reference="self-testing-why-rereading-feels-easier-but-works-less-well-myths-and-misconcept-classroom-learning-poster" target="_blank" rel="sponsored noopener noreferrer">Animals Of The World Educational Poster Kids Classroom Learning Chart Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=classroom+learning+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=self-testing-why-rereading-feels-easier-but-works-less-well-myths-and-misconcept-classroom-learning-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classroom learning poster" data-ebay-reference="self-testing-why-rereading-feels-easier-but-works-less-well-myths-and-misconcept-classroom-learning-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for classroom learning poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: classroom learning poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=classroom+learning+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=self-testing-why-rereading-feels-easier-but-works-less-well-myths-and-misconcept-classroom-learning-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classroom learning poster" data-ebay-reference="self-testing-why-rereading-feels-easier-but-works-less-well-myths-and-misconcept-classroom-learning-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=classroom+learning+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=self-testing-why-rereading-feels-easier-but-works-less-well-myths-and-misconcept-classroom-learning-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classroom learning poster" data-ebay-reference="self-testing-why-rereading-feels-easier-but-works-less-well-myths-and-misconcept-classroom-learning-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=classroom+learning+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=self-testing-why-rereading-feels-easier-but-works-less-well-myths-and-misconcept-classroom-learning-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classroom learning poster" data-ebay-reference="self-testing-why-rereading-feels-easier-but-works-less-well-myths-and-misconcept-classroom-learning-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Animals Of The World Educational Poster Kids Classroom Learning Chart Wall Art"><img src="{{ '/assets/images/marketplace-covers/6e682dd582a21573957f.jpg' | relative_url }}" alt="Listing image for Animals Of The World Educational Poster Kids Classroom Learning Chart Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=classroom+learning+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=self-testing-why-rereading-feels-easier-but-works-less-well-myths-and-misconcept-classroom-learning-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classroom learning poster" data-ebay-reference="self-testing-why-rereading-feels-easier-but-works-less-well-myths-and-misconcept-classroom-learning-poster" target="_blank" rel="sponsored noopener noreferrer">Animals Of The World Educational Poster Kids Classroom Learning Chart Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=classroom+learning+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=self-testing-why-rereading-feels-easier-but-works-less-well-myths-and-misconcept-classroom-learning-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classroom learning poster" data-ebay-reference="self-testing-why-rereading-feels-easier-but-works-less-well-myths-and-misconcept-classroom-learning-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for classroom learning poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: classroom learning poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=classroom+learning+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=self-testing-why-rereading-feels-easier-but-works-less-well-myths-and-misconcept-classroom-learning-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classroom learning poster" data-ebay-reference="self-testing-why-rereading-feels-easier-but-works-less-well-myths-and-misconcept-classroom-learning-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=classroom+learning+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=self-testing-why-rereading-feels-easier-but-works-less-well-myths-and-misconcept-classroom-learning-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classroom learning poster" data-ebay-reference="self-testing-why-rereading-feels-easier-but-works-less-well-myths-and-misconcept-classroom-learning-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -518,7 +518,7 @@ The enduring myth is that learning improves simply through repeated exposure. Th
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -538,7 +538,7 @@ The enduring myth is that learning improves simply through repeated exposure. Th
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -570,7 +570,7 @@ The enduring myth is that learning improves simply through repeated exposure. Th
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -622,7 +622,7 @@ The enduring myth is that learning improves simply through repeated exposure. Th
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -667,7 +667,7 @@ The enduring myth is that learning improves simply through repeated exposure. Th
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -708,278 +708,278 @@ The enduring myth is that learning improves simply through repeated exposure. Th
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: bjorklab.psych.ucla.edu  
-   Link: <a href="https://bjorklab.psych.ucla.edu/wp-content/uploads/sites/13/2016/07/LJacoby_RBjork_CKelley_1994.pdf" target="_blank" rel="noopener noreferrer nofollow">https://bjorklab.psych.ucla.edu/wp-content/uploads/sites/13/2016/07/LJacoby_RBjork_CKelley_1994.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Illusions of Comprehension, Competence, and RememberingThis work shows that past experience influences people&#x27;s interpretation or what co...</p></details>
+   Link:<a href="https://bjorklab.psych.ucla.edu/wp-content/uploads/sites/13/2016/07/LJacoby_RBjork_CKelley_1994.pdf" target="_blank" rel="noopener noreferrer nofollow">https://bjorklab.psych.ucla.edu/wp-content/uploads/sites/13/2016/07/LJacoby_RBjork_CKelley_1994.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Illusions of Comprehension, Competence, and RememberingThis work shows that past experience influences people&#x27;s interpretation or what co...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/6669088_Illusions_of_competence_during_study_can_be_remedied_by_manipulations_that_enhance_learners%27_sensitivity_to_retrieval_conditions_at_test" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/6669088_Illusions_of_competence_during_study_can_be_remedied_by_manipulations_that_enhance_learners%27_sensitivity_to_retrieval_conditions_at_test</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Illusions of competence during study can be remedied by...PDF | Monitoring one&#x27;s knowledge during study is susceptible to a...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/6669088_Illusions_of_competence_during_study_can_be_remedied_by_manipulations_that_enhance_learners%27_sensitivity_to_retrieval_conditions_at_test" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/6669088_Illusions_of_competence_during_study_can_be_remedied_by_manipulations_that_enhance_learners%27_sensitivity_to_retrieval_conditions_at_test</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Illusions of competence during study can be remedied by...PDF | Monitoring one&#x27;s knowledge during study is susceptible to a...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: psychnet.wustl.edu  
-   Link: <a href="https://psychnet.wustl.edu/memory/wp-content/uploads/2018/04/Karpicke-et-al-2009_Mem.pdf" target="_blank" rel="noopener noreferrer nofollow">https://psychnet.wustl.edu/memory/wp-content/uploads/2018/04/Karpicke-et-al-2009_Mem.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ing rereading) they may fall prey to illusions of competence and believe they...</p></details>
+   Link:<a href="https://psychnet.wustl.edu/memory/wp-content/uploads/2018/04/Karpicke-et-al-2009_Mem.pdf" target="_blank" rel="noopener noreferrer nofollow">https://psychnet.wustl.edu/memory/wp-content/uploads/2018/04/Karpicke-et-al-2009_Mem.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ing rereading) they may fall prey to illusions of competence and believe they...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=a6brY4se_WM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=a6brY4se_WM</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Overcoming Illusions of Competence, Dr. Elizabeth BjorkDr. Elizabeth Bjork (UCLA) discusses how re-reading can produce a sense of...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=a6brY4se_WM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=a6brY4se_WM</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Overcoming Illusions of Competence, Dr. Elizabeth BjorkDr. Elizabeth Bjork (UCLA) discusses how re-reading can produce a sense of...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: sciencedirect.com  
    Title: ScienceDirect Testing Effect  
-   Link: <a href="https://www.sciencedirect.com/topics/psychology/testing-effect" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/topics/psychology/testing-effect</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Testing Effect - an overviewThe testing effect refers most generally to the finding that learning and memory are facilitated...</p></details>
+   Link:<a href="https://www.sciencedirect.com/topics/psychology/testing-effect" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/topics/psychology/testing-effect</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Testing Effect - an overviewThe testing effect refers most generally to the finding that learning and memory are facilitated...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10519161/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10519161/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Retrieval benefits are highly robust and most commonly found after a delay between practice...Read more...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10519161/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10519161/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Retrieval benefits are highly robust and most commonly found after a delay between practice...Read more...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: researchgate.net  
    Title: Research Gate(PDF) Do testing effects change over time?  
-   Link: <a href="https://www.researchgate.net/publication/256376598_Do_testing_effects_change_over_time_Insights_from_immediate_and_delayed_retrieval_speed" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/256376598_Do_testing_effects_change_over_time_Insights_from_immediate_and_delayed_retrieval_speed</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Insights from...16 Sept 2014  Retrieving information from memory improves recall accuracy more than continued studying, but this testin...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/256376598_Do_testing_effects_change_over_time_Insights_from_immediate_and_delayed_retrieval_speed" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/256376598_Do_testing_effects_change_over_time_Insights_from_immediate_and_delayed_retrieval_speed</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Insights from...16 Sept 2014  Retrieving information from memory improves recall accuracy more than continued studying, but this testin...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCThe Direct Testing Effect Is Pervasive in Action Memory  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6242973/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC6242973/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Direct Testing Effect Is Pervasive in Action Memory - PMCby V Kubik  2018  Cited by 19  In addition, there was evidence for a testing...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6242973/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC6242973/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Direct Testing Effect Is Pervasive in Action Memory - PMCby V Kubik  2018  Cited by 19  In addition, there was evidence for a testing...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0959475217301810" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0959475217301810</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Investigating the testing effect: Retrieval as a characteristic...by CL Bae  2019  Cited by 103  Roediger and Karpicke (2006a) also s...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/abs/pii/S0959475217301810" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0959475217301810</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Investigating the testing effect: Retrieval as a characteristic...by CL Bae  2019  Cited by 103  Roediger and Karpicke (2006a) also s...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: ebea.org.uk  
-   Link: <a href="https://ebea.org.uk/four-research-informed-tips-for-improving-learning-recall" target="_blank" rel="noopener noreferrer nofollow">https://ebea.org.uk/four-research-informed-tips-for-improving-learning-recall</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Four Research-Informed Tips for Improving Learning Recallby L Out  These informal tests are much more effective revision strategies than...</p></details>
+   Link:<a href="https://ebea.org.uk/four-research-informed-tips-for-improving-learning-recall" target="_blank" rel="noopener noreferrer nofollow">https://ebea.org.uk/four-research-informed-tips-for-improving-learning-recall</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Four Research-Informed Tips for Improving Learning Recallby L Out  These informal tests are much more effective revision strategies than...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: gwern.net  
-   Link: <a href="https://gwern.net/doc/psychology/spaced-[repetition" target="_blank" rel="noopener noreferrer nofollow">https://gwern.net/doc/psychology/spaced-[repetition</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Taking Memory Tests Improves Long-Term RetentionThis surprising result indicates that taking an initial recall test prevented forget...</p></details>
+   Link:<a href="https://gwern.net/doc/psychology/spaced-[repetition" target="_blank" rel="noopener noreferrer nofollow">https://gwern.net/doc/psychology/spaced-[repetition</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Taking Memory Tests Improves Long-Term RetentionThis surprising result indicates that taking an initial recall test prevented forget...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: structural-learning.com  
-   Link: <a href="https://www.structural-learning.com/post/robert-bjork-teachers-guide-desirable" target="_blank" rel="noopener noreferrer nofollow">https://www.structural-learning.com/post/robert-bjork-teachers-guide-desirable</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Structural LearningRobert Bjork: A Teacher&#x27;s Guide to Desirable Difficulties19 Feb 2026  The problem is when re-reading replaces retriev...</p></details>
+   Link:<a href="https://www.structural-learning.com/post/robert-bjork-teachers-guide-desirable" target="_blank" rel="noopener noreferrer nofollow">https://www.structural-learning.com/post/robert-bjork-teachers-guide-desirable</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Structural LearningRobert Bjork: A Teacher&#x27;s Guide to Desirable Difficulties19 Feb 2026  The problem is when re-reading replaces retriev...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: structural-learning.com  
-   Link: <a href="https://www.structural-learning.com/post/testing-effect-retrieval-practice" target="_blank" rel="noopener noreferrer nofollow">https://www.structural-learning.com/post/testing-effect-retrieval-practice</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Structural LearningThe Testing Effect: Why Retrieval Practice Works20 May 2026  Research shows retrieving info aids learning more than r...</p></details>
+   Link:<a href="https://www.structural-learning.com/post/testing-effect-retrieval-practice" target="_blank" rel="noopener noreferrer nofollow">https://www.structural-learning.com/post/testing-effect-retrieval-practice</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Structural LearningThe Testing Effect: Why Retrieval Practice Works20 May 2026  Research shows retrieving info aids learning more than r...</p></details>
    Published: May 2026  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: frontiersin.org  
-   Link: <a href="https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2021.581216/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2021.581216/full</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(2013a), and is based on 242 studies...</p></details>
+   Link:<a href="https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2021.581216/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2021.581216/full</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(2013a), and is based on 242 studies...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/303833330_Distributed_Practice_and_Retrieval_Practice_in_Primary_School_Vocabulary_Learning_A_Multi-classroom_Study_Distributed_Practice_and_Retrieval_Practice" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/303833330_Distributed_Practice_and_Retrieval_Practice_in_Primary_School_Vocabulary_Learning_A_Multi-classroom_Study_Distributed_Practice_and_Retrieval_Practice</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>retrieval practice in real-life primary school vocabulary lessons.Read more...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/303833330_Distributed_Practice_and_Retrieval_Practice_in_Primary_School_Vocabulary_Learning_A_Multi-classroom_Study_Distributed_Practice_and_Retrieval_Practice" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/303833330_Distributed_Practice_and_Retrieval_Practice_in_Primary_School_Vocabulary_Learning_A_Multi-classroom_Study_Distributed_Practice_and_Retrieval_Practice</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>retrieval practice in real-life primary school vocabulary lessons.Read more...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: structural-learning.com  
    Title: desirable difficulties  
-   Link: <a href="https://www.structural-learning.com/post/desirable-difficulties" target="_blank" rel="noopener noreferrer nofollow">https://www.structural-learning.com/post/desirable-difficulties</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Bjork&#x27;s 5 Principles for Teachers29 Aug 2025  The testing effect shows that retrieval practice strengthens memory far more effectively t...</p></details>
+   Link:<a href="https://www.structural-learning.com/post/desirable-difficulties" target="_blank" rel="noopener noreferrer nofollow">https://www.structural-learning.com/post/desirable-difficulties</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Bjork&#x27;s 5 Principles for Teachers29 Aug 2025  The testing effect shows that retrieval practice strengthens memory far more effectively t...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: structural-learning.com  
    Title: retrieval practice a teachers guide  
-   Link: <a href="https://www.structural-learning.com/post/retrieval-practice-a-teachers-guide" target="_blank" rel="noopener noreferrer nofollow">https://www.structural-learning.com/post/retrieval-practice-a-teachers-guide</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>26 ready-to-use activities backed by cognitive science research for primary and...</p></details>
+   Link:<a href="https://www.structural-learning.com/post/retrieval-practice-a-teachers-guide" target="_blank" rel="noopener noreferrer nofollow">https://www.structural-learning.com/post/retrieval-practice-a-teachers-guide</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>26 ready-to-use activities backed by cognitive science research for primary and...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0959475225001434" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0959475225001434</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Effects of retrieval practice on retention and application...by D Corral  2025  Cited by 5  Retrieval produced better performance tha...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/pii/S0959475225001434" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0959475225001434</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Effects of retrieval practice on retention and application...by D Corral  2025  Cited by 5  Retrieval produced better performance tha...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0361476X20301041" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0361476X20301041</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Supporting the self-regulated use of retrieval practiceby M Broeren  2021  Cited by 30  Although retrieval practice is a highly effect...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/pii/S0361476X20301041" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0361476X20301041</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Supporting the self-regulated use of retrieval practiceby M Broeren  2021  Cited by 30  Although retrieval practice is a highly effect...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: sciencedirect.com  
    Title: But whereas restudy requires only passive reading, practicin  
-   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0010028519302270" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0010028519302270</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Perceiving effort as poor learning: The misinterpreted...by A Kirk-Johnson  2019  Cited by 203  Retrieval practice typically leads to...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/abs/pii/S0010028519302270" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0010028519302270</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Perceiving effort as poor learning: The misinterpreted...by A Kirk-Johnson  2019  Cited by 203  Retrieval practice typically leads to...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=G6u9_lbW2hY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=G6u9_lbW2hY</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Testing Effect &amp; Retrieval practice: the number 1 study hackButler, A. C., Karpicke, J. D., &amp; Roediger III, H. L. (2008).... Henry R...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=G6u9_lbW2hY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=G6u9_lbW2hY</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Testing Effect &amp; Retrieval practice: the number 1 study hackButler, A. C., Karpicke, J. D., &amp; Roediger III, H. L. (2008).... Henry R...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: youtube.com  
    Title: Why Rereading is One of the Worst Ways to Study  
-   Link: <a href="https://www.youtube.com/watch?v=N4tDBh7-75Y" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=N4tDBh7-75Y</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Science of Learning: Why Rereading is Ineffective...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=N4tDBh7-75Y" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=N4tDBh7-75Y</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Science of Learning: Why Rereading is Ineffective...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: youtube.com  
    Title: The Science of Learning: Why Rereading is Ineffective  
-   Link: <a href="https://www.youtube.com/watch?v=3u0U9b2bZ60" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=3u0U9b2bZ60</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Why You Should Stop Rereading and Start Testing Yourself...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=3u0U9b2bZ60" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=3u0U9b2bZ60</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Why You Should Stop Rereading and Start Testing Yourself...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: youtube.com  
    Title: Why You Should Stop Rereading and Start Testing Yourself  
-   Link: <a href="https://www.youtube.com/watch?v=0k5i5J1Jt2c" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=0k5i5J1Jt2c</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Stop Rereading Your Notes: Use Retrieval Practice Instead...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=0k5i5J1Jt2c" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=0k5i5J1Jt2c</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Stop Rereading Your Notes: Use Retrieval Practice Instead...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: youtube.com  
    Title: Stop Rereading Your Notes: Use Retrieval Practice Instead  
-   Link: <a href="https://www.youtube.com/watch?v=83x5OQ1J00k" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=83x5OQ1J00k</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Active Recall vs. Rereading: Understanding the Evidence...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=83x5OQ1J00k" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=83x5OQ1J00k</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Active Recall vs. Rereading: Understanding the Evidence...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: youtube.com  
    Title: Active Recall vs. Rereading: Understanding the Evidence  
-   Link: <a href="https://www.youtube.com/watch?v=mD07yG-hW_Q" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=mD07yG-hW_Q</a>  
+   Link:<a href="https://www.youtube.com/watch?v=mD07yG-hW_Q" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=mD07yG-hW_Q</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: journals.sagepub.com  
    Title: Sage Journals Test-Enhanced Learning  
-   Link: <a href="https://journals.sagepub.com/doi/10.1111/j.1467-9280.2006.01693.x" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1111/j.1467-9280.2006.01693.x</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Roediger, Jeffrey D....by HL Roediger III  2006  Cited by 4730  When the final test was given after 5 min, repeated studying improved...</p></details>
+   Link:<a href="https://journals.sagepub.com/doi/10.1111/j.1467-9280.2006.01693.x" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1111/j.1467-9280.2006.01693.x</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Roediger, Jeffrey D....by HL Roediger III  2006  Cited by 4730  When the final test was given after 5 min, repeated studying improved...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/16507066/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/16507066/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>memory tests improves long-term retentionby HL Roediger  2006  Cited by 4637  Taking a memory test not only assesses what one knows, b...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/16507066/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/16507066/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>memory tests improves long-term retentionby HL Roediger  2006  Cited by 4637  Taking a memory test not only assesses what one knows, b...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/26151629/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/26151629/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A powerful way of improving one&#x27;s memory for material is to be tested on that material. Tests enhance later retention more than additiona...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/26151629/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/26151629/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A powerful way of improving one&#x27;s memory for material is to be tested on that material. Tests enhance later retention more than additiona...</p></details>
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: journals.sagepub.com  
    Title: j.1745 6916.2006.00012.x  
-   Link: <a href="https://journals.sagepub.com/doi/10.1111/j.1745-6916.2006.00012.x" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1111/j.1745-6916.2006.00012.x</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Our results (Roediger &amp; Karpicke, 2006) demonstrate the powerful effect testing has in enhancing later retention, and...Read more...</p></details>
+   Link:<a href="https://journals.sagepub.com/doi/10.1111/j.1745-6916.2006.00012.x" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1111/j.1745-6916.2006.00012.x</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Our results (Roediger &amp; Karpicke, 2006) demonstrate the powerful effect testing has in enhancing later retention, and...Read more...</p></details>
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: journals.sagepub.com  
-   Link: <a href="https://journals.sagepub.com/doi/abs/10.1177/1529100612453266" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/abs/10.1177/1529100612453266</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sage JournalsImproving Students&#x27; Learning With Effective...by J Dunlosky  2013  Cited by 5789  Practice testing and distributed pract...</p></details>
+   Link:<a href="https://journals.sagepub.com/doi/abs/10.1177/1529100612453266" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/abs/10.1177/1529100612453266</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sage JournalsImproving Students&#x27; Learning With Effective...by J Dunlosky  2013  Cited by 5789  Practice testing and distributed pract...</p></details>
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/26173288/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/26173288/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Students&#x27; Learning With Effective...Practice testing and distributed practice received high utility assessments because they benefit lea...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/26173288/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/26173288/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Students&#x27; Learning With Effective...Practice testing and distributed practice received high utility assessments because they benefit lea...</p></details>
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: my.chartered.college  
    Title: This is known as the testing effect.Read more  
-   Link: <a href="https://my.chartered.college/research-hub/testing-and-spacing-effective-learning-strategies-for-the-classroom/" target="_blank" rel="noopener noreferrer nofollow">https://my.chartered.college/research-hub/testing-and-spacing-effective-learning-strategies-for-the-classroom/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>My CollegeTesting and spacing: Effective learning strategies for the...Such retrieval has repeatedly been shown to be more beneficial th...</p></details>
+   Link:<a href="https://my.chartered.college/research-hub/testing-and-spacing-effective-learning-strategies-for-the-classroom/" target="_blank" rel="noopener noreferrer nofollow">https://my.chartered.college/research-hub/testing-and-spacing-effective-learning-strategies-for-the-classroom/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>My CollegeTesting and spacing: Effective learning strategies for the...Such retrieval has repeatedly been shown to be more beneficial th...</p></details>
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: aft.org  
-   Link: <a href="https://www.aft.org/ae/fall2013/dunlosky" target="_blank" rel="noopener noreferrer nofollow">https://www.aft.org/ae/fall2013/dunlosky</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>American Federation of TeachersStrengthening the Student Toolboxby J Dunlosky  Cited by 268  Practice testing: self-testing or taking p...</p></details>
+   Link:<a href="https://www.aft.org/ae/fall2013/dunlosky" target="_blank" rel="noopener noreferrer nofollow">https://www.aft.org/ae/fall2013/dunlosky</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>American Federation of TeachersStrengthening the Student Toolboxby J Dunlosky  Cited by 268  Practice testing: self-testing or taking p...</p></details>
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: my.chartered.college  
    Title: does research on retrieval practice translate into classroom practice  
-   Link: <a href="https://my.chartered.college/impact_article/does-research-on-retrieval-practice-translate-into-classroom-practice/" target="_blank" rel="noopener noreferrer nofollow">https://my.chartered.college/impact_article/does-research-on-retrieval-practice-translate-into-classroom-practice/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>research on retrieval practice translate into...12 Sept 2018  Retrieval practice is strongly supported by over 100 years of research an...</p></details>
+   Link:<a href="https://my.chartered.college/impact_article/does-research-on-retrieval-practice-translate-into-classroom-practice/" target="_blank" rel="noopener noreferrer nofollow">https://my.chartered.college/impact_article/does-research-on-retrieval-practice-translate-into-classroom-practice/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>research on retrieval practice translate into...12 Sept 2018  Retrieval practice is strongly supported by over 100 years of research an...</p></details>
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3983480/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3983480/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>practice enhances new learning: the forward effect of...by B Pasttter  2014  Cited by 275  This work was largely on the backward eff...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3983480/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3983480/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>practice enhances new learning: the forward effect of...by B Pasttter  2014  Cited by 275  This work was largely on the backward eff...</p></details>
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12372469/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12372469/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>learning using flashcards: spacing is more effective than...Read more...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12372469/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12372469/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>learning using flashcards: spacing is more effective than...Read more...</p></details>
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9170123/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9170123/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>the relationship between retrieval practice, self...by AN Frankenstein  2022  Cited by 36  Across two experiments, we examine the pot...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9170123/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9170123/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>the relationship between retrieval practice, self...by AN Frankenstein  2022  Cited by 36  Across two experiments, we examine the pot...</p></details>
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: Wikipedia  
    Title: Testing effect  
-   Link: <a href="https://en.wikipedia.org/wiki/Testing_effect" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Testing_effect</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Testing effectThe testing effect suggests long-term memory is increased when part of the learning period is devoted to retrieving info...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Testing_effect" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Testing_effect</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Testing effectThe testing effect suggests long-term memory is increased when part of the learning period is devoted to retrieving info...</p></details>
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: learnlog.app  
    Title: practice testing  
-   Link: <a href="https://learnlog.app/methods/practice-testing/" target="_blank" rel="noopener noreferrer nofollow">https://learnlog.app/methods/practice-testing/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(2013) rated practice testing &quot;high utility&quot; in the largest review of study techniques ever published, in Psychological...Read more...</p></details>
+   Link:<a href="https://learnlog.app/methods/practice-testing/" target="_blank" rel="noopener noreferrer nofollow">https://learnlog.app/methods/practice-testing/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(2013) rated practice testing &quot;high utility&quot; in the largest review of study techniques ever published, in Psychological...Read more...</p></details>
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: dictionary.cambridge.org  
-   Link: <a href="https://dictionary.cambridge.org/dictionary/english/practice" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/dictionary/english/practice</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>English meaning - Cambridge Dictionary5 days ago  the act of doing something regularly or repeatedly to improve your skill at doing it...</p></details>
+   Link:<a href="https://dictionary.cambridge.org/dictionary/english/practice" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/dictionary/english/practice</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>English meaning - Cambridge Dictionary5 days ago  the act of doing something regularly or repeatedly to improve your skill at doing it...</p></details>
 
 ### Additional References
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: unh.edu  
-   Link: <a href="https://www.unh.edu/teaching-learning-resource-hub/sites/default/files/media/2023-06/itow-introducing-desirable-difficulties-into-practice-and-instruction-bjork-and-bjork.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.unh.edu/teaching-learning-resource-hub/sites/default/files/media/2023-06/itow-introducing-desirable-difficulties-into-practice-and-instruction-bjork-and-bjork.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>L., Bjork, R. A., &amp; Kelley, C. M. (1994). Illusions of comprehension, competence, and remembering. In D. Druckman &amp; R. A. Bjork (Eds.), L...</p></details>
+   Link:<a href="https://www.unh.edu/teaching-learning-resource-hub/sites/default/files/media/2023-06/itow-introducing-desirable-difficulties-into-practice-and-instruction-bjork-and-bjork.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.unh.edu/teaching-learning-resource-hub/sites/default/files/media/2023-06/itow-introducing-desirable-difficulties-into-practice-and-instruction-bjork-and-bjork.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>L., Bjork, R. A., &amp; Kelley, C. M. (1994). Illusions of comprehension, competence, and remembering. In D. Druckman &amp; R. A. Bjork (Eds.), L...</p></details>
 
-43. <a id="endnote-43"></a>
+43.<a id="endnote-43"></a>
    Source: my.chartered.college  
-   Link: <a href="https://my.chartered.college/impact_article/the-utility-of-distributed-practice-in-curriculum-design-and-effective-learning-strategies/" target="_blank" rel="noopener noreferrer nofollow">https://my.chartered.college/impact_article/the-utility-of-distributed-practice-in-curriculum-design-and-effective-learning-strategies/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>utility of distributed practice in curriculum design and...31 Jan 2022  Distributed practice, a learning strategy that can inform curri...</p></details>
+   Link:<a href="https://my.chartered.college/impact_article/the-utility-of-distributed-practice-in-curriculum-design-and-effective-learning-strategies/" target="_blank" rel="noopener noreferrer nofollow">https://my.chartered.college/impact_article/the-utility-of-distributed-practice-in-curriculum-design-and-effective-learning-strategies/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>utility of distributed practice in curriculum design and...31 Jan 2022  Distributed practice, a learning strategy that can inform curri...</p></details>
 
-44. <a id="endnote-44"></a>
+44.<a id="endnote-44"></a>
    Source: ndhs.org.uk  
-   Link: <a href="https://www.ndhs.org.uk/_files/Revision/4484915B7EF6F135BC8E8C5B6E0534A3.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ndhs.org.uk/_files/Revision/4484915B7EF6F135BC8E8C5B6E0534A3.pdf</a>  
+   Link:<a href="https://www.ndhs.org.uk/_files/Revision/4484915B7EF6F135BC8E8C5B6E0534A3.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ndhs.org.uk/_files/Revision/4484915B7EF6F135BC8E8C5B6E0534A3.pdf</a>  
 
-45. <a id="endnote-45"></a>
+45.<a id="endnote-45"></a>
    Source: mike-taylor.org  
-   Link: <a href="https://mike-taylor.org/2025/12/01/the-testing-effect-why-retrieval-practice-is-your-most-powerful-learning-tool/" target="_blank" rel="noopener noreferrer nofollow">https://mike-taylor.org/2025/12/01/the-testing-effect-why-retrieval-practice-is-your-most-powerful-learning-tool/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Students who took practice tests remembered 50% more than students who studied repeatedly (Roediger &amp; Karpicke, 2006).Read more...</p></details>
+   Link:<a href="https://mike-taylor.org/2025/12/01/the-testing-effect-why-retrieval-practice-is-your-most-powerful-learning-tool/" target="_blank" rel="noopener noreferrer nofollow">https://mike-taylor.org/2025/12/01/the-testing-effect-why-retrieval-practice-is-your-most-powerful-learning-tool/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Students who took practice tests remembered 50% more than students who studied repeatedly (Roediger &amp; Karpicke, 2006).Read more...</p></details>
 
-46. <a id="endnote-46"></a>
+46.<a id="endnote-46"></a>
    Source: apa.org  
-   Link: <a href="https://www.apa.org/pubs/journals/features/stl-0000024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.apa.org/pubs/journals/features/stl-0000024.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>provide some pointers about how to use two particularly potent techniquespractice testing and...Read more...</p></details>
+   Link:<a href="https://www.apa.org/pubs/journals/features/stl-0000024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.apa.org/pubs/journals/features/stl-0000024.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>provide some pointers about how to use two particularly potent techniquespractice testing and...Read more...</p></details>
 
-47. <a id="endnote-47"></a>
+47.<a id="endnote-47"></a>
    Source: kqed.org  
    Title: a better way to study through self testing and distributed practice  
-   Link: <a href="https://www.kqed.org/mindshift/49750/a-better-way-to-study-through-self-testing-and-distributed-practice" target="_blank" rel="noopener noreferrer nofollow">https://www.kqed.org/mindshift/49750/a-better-way-to-study-through-self-testing-and-distributed-practice</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>cramming, Dunlosky and his fellow authors write that cramming is better than not studying at all, but if you...Read more...</p></details>
+   Link:<a href="https://www.kqed.org/mindshift/49750/a-better-way-to-study-through-self-testing-and-distributed-practice" target="_blank" rel="noopener noreferrer nofollow">https://www.kqed.org/mindshift/49750/a-better-way-to-study-through-self-testing-and-distributed-practice</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>cramming, Dunlosky and his fellow authors write that cramming is better than not studying at all, but if you...Read more...</p></details>
 
-48. <a id="endnote-48"></a>
+48.<a id="endnote-48"></a>
    Source: icarus.cs.weber.edu  
-   Link: <a href="https://icarus.cs.weber.edu/~gs35549/la2/learning.html" target="_blank" rel="noopener noreferrer nofollow">https://icarus.cs.weber.edu/~gs35549/la2/learning.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Study of Learning Techniques for Effective LearningAs additional research is developed, these techniques may be shown to have high utility...</p></details>
+   Link:<a href="https://icarus.cs.weber.edu/~gs35549/la2/learning.html" target="_blank" rel="noopener noreferrer nofollow">https://icarus.cs.weber.edu/~gs35549/la2/learning.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Study of Learning Techniques for Effective LearningAs additional research is developed, these techniques may be shown to have high utility...</p></details>
 
-49. <a id="endnote-49"></a>
+49.<a id="endnote-49"></a>
    Source: 3starlearningexperiences.wordpress.com  
    Title: demystifying desirable difficulties 1 what they are  
-   Link: <a href="https://3starlearningexperiences.wordpress.com/2023/02/21/demystifying-desirable-difficulties-1-what-they-are/" target="_blank" rel="noopener noreferrer nofollow">https://3starlearningexperiences.wordpress.com/2023/02/21/demystifying-desirable-difficulties-1-what-they-are/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>3-Star learning experiencesDemystifying desirable difficulties 1: What they are21 Feb 2023  As Bjork explains in this video, they&#x27;re des...</p></details>
+   Link:<a href="https://3starlearningexperiences.wordpress.com/2023/02/21/demystifying-desirable-difficulties-1-what-they-are/" target="_blank" rel="noopener noreferrer nofollow">https://3starlearningexperiences.wordpress.com/2023/02/21/demystifying-desirable-difficulties-1-what-they-are/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>3-Star learning experiencesDemystifying desirable difficulties 1: What they are21 Feb 2023  As Bjork explains in this video, they&#x27;re des...</p></details>
 
-50. <a id="endnote-50"></a>
+50.<a id="endnote-50"></a>
    Source: blogs.ubc.ca  
    Title: how i should have studied part 1 retrieval practice  
-   Link: <a href="https://blogs.ubc.ca/teachingamongtrees/2018/09/21/how-i-should-have-studied-part-1-retrieval-practice/" target="_blank" rel="noopener noreferrer nofollow">https://blogs.ubc.ca/teachingamongtrees/2018/09/21/how-i-should-have-studied-part-1-retrieval-practice/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>I Should Have Studied. Part 1: Retrieval Practice21 Sept 2018  In their review of learning strategies, Dunlosky et al. (2013) concluded...</p></details>
+   Link:<a href="https://blogs.ubc.ca/teachingamongtrees/2018/09/21/how-i-should-have-studied-part-1-retrieval-practice/" target="_blank" rel="noopener noreferrer nofollow">https://blogs.ubc.ca/teachingamongtrees/2018/09/21/how-i-should-have-studied-part-1-retrieval-practice/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>I Should Have Studied. Part 1: Retrieval Practice21 Sept 2018  In their review of learning strategies, Dunlosky et al. (2013) concluded...</p></details>
 
-51. <a id="endnote-51"></a>
+51.<a id="endnote-51"></a>
    Source: kent.edu  
-   Link: <a href="https://www.kent.edu/psychology/all-study-strategies-not-created-equal-according-kent-state-researchers" target="_blank" rel="noopener noreferrer nofollow">https://www.kent.edu/psychology/all-study-strategies-not-created-equal-according-kent-state-researchers</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ractice testing and distributed practice  made the grade, receiving the...</p></details>
+   Link:<a href="https://www.kent.edu/psychology/all-study-strategies-not-created-equal-according-kent-state-researchers" target="_blank" rel="noopener noreferrer nofollow">https://www.kent.edu/psychology/all-study-strategies-not-created-equal-according-kent-state-researchers</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ractice testing and distributed practice  made the grade, receiving the...</p></details>

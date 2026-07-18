@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /myths-and-misconcept-0d48d7-continued/
 description: Focused pages that expand on Old Stories.
-date: '2026-06-11'
+date: '2026'
 layout: default
 parent_basename: Myths_and_misconcept_0d48d7_continued_influence_15b78f
 parent_title: Old Stories
@@ -16,7 +16,7 @@ parent_permalink: /old-stories/
 
 # Explore Topics in Old Stories
 
-The following pages expand on the main **[Old Stories]({{ '/old-stories/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[Old Stories]({{ '/old-stories/' | relative_url }})** page and cover its key branches in.
 
 - [Memory Gap]({{ '/memory-gap/' | relative_url }})
 - [Myth vs Fact]({{ '/myth-vs-fact/' | relative_url }})

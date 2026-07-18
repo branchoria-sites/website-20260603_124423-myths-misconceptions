@@ -274,7 +274,7 @@ image: /assets/images/Myths_and_misconcept_0d48d7_misinformation_disin_12ff83_av
 
 ## Introduction
 
-Not every false claim is disinformation. A claim can be inaccurate, misleading, reckless, exaggerated or harmful without being part of a deliberate attempt to deceive. The distinction matters because the defining feature of disinformation is [intent]({{ 'intent/' | relative_url }}): someone knowingly creates or spreads false information in order to mislead, manipulate or cause harm. UNESCO, First Draft and many information-disorder frameworks use intent as the key dividing line between misinformation and disinformation. UNESCO <span class="citation-chip-wrap"><a class="citation-chip" href="https://firstdraftnews.org/long-form-article/understanding-information-disorder/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: firstdraftnews.org">[First Draft]</a><span class="citation-popover" role="note"><span class="citation-popover-source">firstdraftnews.org</span><span class="citation-popover-title">First Draft Understanding Information disorder</span><span class="citation-popover-snippet">Disinformation is content that is intentionally false and designed to cause harm. It is motivated by three...</span></span></span>
+Not every false claim is disinformation. A claim can be inaccurate, misleading, reckless, exaggerated or harmful without being part of a deliberate attempt to deceive. The distinction matters because the defining feature of disinformation is [intent]({{ 'intent/' | relative_url }}): someone knowingly creates or spreads false information in order to mislead, manipulate or cause harm. UNESCO, First Draft and many information-disorder frameworks use intent as the key dividing line between misinformation and disinformation. UNESCO<span class="citation-chip-wrap"><a class="citation-chip" href="https://firstdraftnews.org/long-form-article/understanding-information-disorder/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: firstdraftnews.org">[First Draft]</a><span class="citation-popover" role="note"><span class="citation-popover-source">firstdraftnews.org</span><span class="citation-popover-title">First Draft Understanding Information disorder</span><span class="citation-popover-snippet">Disinformation is content that is intentionally false and designed to cause harm. It is motivated by three...</span></span></span>
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_misinformation_disin_12ff83_avoid_overcalling_di_bc6346-Illustration-1-dark.svg" | relative_url }}" alt="Overcalling illustration 1" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_misinformation_disin_12ff83_avoid_overcalling_di_bc6346-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_misinformation_disin_12ff83_avoid_overcalling_di_bc6346-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 That creates a practical problem. Intent is often harder to prove than falsity. It is usually easier to show that a statement is wrong than to demonstrate that the speaker knew it was wrong and pushed it anyway. When the label “disinformation” is applied too quickly, ordinary mistakes, confusion, satire, disputed interpretations and good-faith disagreement can all be misclassified as organised deception. At the same time, overusing the term can make genuine influence operations harder to identify because everything starts to look like a coordinated campaign.
@@ -283,7 +283,7 @@ That creates a practical problem. Intent is often harder to prove than falsity. 
 
 The central question is not simply whether information is false. It is whether there is evidence that deception was deliberate.
 
-Many widely used definitions require more than factual inaccuracy. UNESCO describes misinformation as false information shared inadvertently, while disinformation involves an intention to deceive. First Draft similarly defines disinformation as intentionally false content designed to cause harm. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.unesco.org/en/query-list/d/disinformation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unesco.org">[UNESCO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unesco.org</span><span class="citation-popover-snippet">What is Disinformation? Meaning, Definition.Misinformation has a neutral or good underlying intent, whereas disinformation is defin...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.unesco.org/en/query-list/m/misinformation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unesco.org">[UNESCO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unesco.org</span><span class="citation-popover-snippet">What is Misinformation? Meaning, Definition.Misinformation is false information that is shared inadvertently, without meaning to ca...</span></span></span>
+Many widely used definitions require more than factual inaccuracy. UNESCO describes misinformation as false information shared inadvertently, while disinformation involves an intention to deceive. First Draft similarly defines disinformation as intentionally false content designed to cause harm.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.unesco.org/en/query-list/d/disinformation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unesco.org">[UNESCO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unesco.org</span><span class="citation-popover-snippet">What is Disinformation? Meaning, Definition.Misinformation has a neutral or good underlying intent, whereas disinformation is defin...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.unesco.org/en/query-list/m/misinformation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unesco.org">[UNESCO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unesco.org</span><span class="citation-popover-snippet">What is Misinformation? Meaning, Definition.Misinformation is false information that is shared inadvertently, without meaning to ca...</span></span></span>
 
 In practice, intent is usually inferred from behaviour rather than directly observed. Researchers, journalists and investigators often look for patterns such as:
 
@@ -298,7 +298,7 @@ In practice, intent is usually inferred from behaviour rather than directly obse
 
 </div>
 
-A single false post rarely proves disinformation on its own. Evidence becomes stronger when multiple indicators point in the same direction. Academic work on information disorder repeatedly notes that intent is the most important distinction between misinformation and disinformation, but also one of the hardest elements to establish reliably. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2406.09343" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Frameworks, Modeling and Simulations of Misinformation and Disinformation: A Systematic Literature ReviewJune 13, 2024...</span><span class="citation-popover-meta">Published: June 13, 2024</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://usher.ed.ac.uk/sites/default/files/2026-05/False%20and%20Misleading%20Information%3A%20An%20Evidence%20Summary%20and%20Map%20for%20Policy%20and%20Practice%20.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: usher.ed.ac.uk">[Usher Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">usher.ed.ac.uk</span><span class="citation-popover-title">Usher Institute False and Misleading Information: An Evidence</span><span class="citation-popover-snippet">Usher InstituteFalse and Misleading Information: An Evidence Summary and...7 May 2026 — Cognitive intent: Terminology emphasising the as...</span><span class="citation-popover-meta">Published: May 2026</span></span></span>
+A single false post rarely proves disinformation on its own. Evidence becomes stronger when multiple indicators point in the same direction. Academic work on information disorder repeatedly notes that intent is the most important distinction between misinformation and disinformation, but also one of the hardest elements to establish reliably.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2406.09343" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Frameworks, Modeling and Simulations of Misinformation and Disinformation: A Systematic Literature ReviewJune 13, 2024...</span><span class="citation-popover-meta">Published: June 13, 2024</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://usher.ed.ac.uk/sites/default/files/2026-05/False%20and%20Misleading%20Information%3A%20An%20Evidence%20Summary%20and%20Map%20for%20Policy%20and%20Practice%20.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: usher.ed.ac.uk">[Usher Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">usher.ed.ac.uk</span><span class="citation-popover-title">Usher Institute False and Misleading Information: An Evidence</span><span class="citation-popover-snippet">Usher InstituteFalse and Misleading Information: An Evidence Summary and...7 May 2026 — Cognitive intent: Terminology emphasising the as...</span><span class="citation-popover-meta">Published: May 2026</span></span></span>
 
 One reason for caution is that people often continue repeating false claims even [after corrections]({{ 'after-correction/' | relative_url }}) for reasons that do not necessarily involve conscious deception. Memory errors, [group loyalty]({{ 'group-loyalty/' | relative_url }}), ideological commitment and motivated reasoning can all contribute to persistence. A person may sincerely believe something that has been disproved.
 
@@ -316,7 +316,7 @@ Imagine three people sharing the same false claim:
 
 The content may be identical. The intent is not.
 
-This is why many scholars argue that content alone is often insufficient for classifying disinformation. Investigations increasingly examine networks, coordination, funding, [timing]({{ 'timing/' | relative_url }}) and [amplification]({{ 'amplification/' | relative_url }}) patterns rather than relying only on whether a statement is false. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2406.09343" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Frameworks, Modeling and Simulations of Misinformation and Disinformation: A Systematic Literature ReviewJune 13, 2024...</span><span class="citation-popover-meta">Published: June 13, 2024</span></span></span>
+This is why many scholars argue that content alone is often insufficient for classifying disinformation. Investigations increasingly examine networks, coordination, funding, [timing]({{ 'timing/' | relative_url }}) and [amplification]({{ 'amplification/' | relative_url }}) patterns rather than relying only on whether a statement is false.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2406.09343" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Frameworks, Modeling and Simulations of Misinformation and Disinformation: A Systematic Literature ReviewJune 13, 2024...</span><span class="citation-popover-meta">Published: June 13, 2024</span></span></span>
 
 Calling all three actors disinformation agents would collapse important distinctions between error, negligence and deliberate manipulation.
 
@@ -324,7 +324,7 @@ Calling all three actors disinformation agents would collapse important distinct
 
 A common misunderstanding is that harmful information must be disinformation. Harm and intent are related questions, but they are not the same.
 
-False information can cause substantial damage even when no deception was intended. Public-health rumours, mistaken eyewitness accounts, viral hoaxes and misidentified suspects have all produced real-world consequences. Yet harm alone does not establish deliberate deceit. <span class="citation-chip-wrap"><a class="citation-chip" href="https://commonslibrary.parliament.uk/disinformation-and-its-effects-on-society/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: commonslibrary.parliament.uk">[House of Commons Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">commonslibrary.parliament.uk</span><span class="citation-popover-snippet">House of Commons LibraryDisinformation and its effects on societyJuly 16, 2024 — 16 Jul 2024 — Research indicates that disinformation can...</span><span class="citation-popover-meta">Published: July 16, 2024</span></span></span>
+False information can cause substantial damage even when no deception was intended. Public-health rumours, mistaken eyewitness accounts, viral hoaxes and misidentified suspects have all produced real-world consequences. Yet harm alone does not establish deliberate deceit.<span class="citation-chip-wrap"><a class="citation-chip" href="https://commonslibrary.parliament.uk/disinformation-and-its-effects-on-society/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: commonslibrary.parliament.uk">[House of Commons Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">commonslibrary.parliament.uk</span><span class="citation-popover-snippet">House of Commons LibraryDisinformation and its effects on societyJuly 16, 2024 — 16 Jul 2024 — Research indicates that disinformation can...</span><span class="citation-popover-meta">Published: July 16, 2024</span></span></span>
 
 Several categories are frequently confused with disinformation:
 
@@ -355,7 +355,7 @@ Researchers investigating coordinated influence [campaigns]({{ 'campaigns/' | re
 
 In these situations, the strongest evidence often comes from the surrounding system rather than from any single statement. A misleading post may appear ordinary in isolation but look very different when connected to a broader campaign.
 
-This is one reason experts increasingly distinguish between false content and information operations. A false claim can exist without an organised campaign, while a campaign can involve manipulation techniques that extend beyond factual falsity, including impersonation, coordinated amplification and hidden sponsorship. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2406.09343" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Frameworks, Modeling and Simulations of Misinformation and Disinformation: A Systematic Literature ReviewJune 13, 2024...</span><span class="citation-popover-meta">Published: June 13, 2024</span></span></span>
+This is one reason experts increasingly distinguish between false content and information operations. A false claim can exist without an organised campaign, while a campaign can involve manipulation techniques that extend beyond factual falsity, including impersonation, coordinated amplification and hidden sponsorship.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2406.09343" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Frameworks, Modeling and Simulations of Misinformation and Disinformation: A Systematic Literature ReviewJune 13, 2024...</span><span class="citation-popover-meta">Published: June 13, 2024</span></span></span>
 
 Overcalling disinformation can therefore create a paradox: focusing exclusively on whether a claim is wrong may distract attention from the more revealing evidence of coordination and strategic behaviour.
 
@@ -387,7 +387,7 @@ Before calling something disinformation, ask:
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
-* Is there evidence the claim is false? <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.jstor.org/content/oa_chapter_monograph/10.16997/mpub.14614695.6" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jstor.org">[jstor.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jstor.org</span><span class="citation-popover-snippet">Fake News, Misinformation and DisinformationOne indicator of a source&#x27;s possible intention to mislead may be the refusal to correct claim...</span></span></span>
+* Is there evidence the claim is false?<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.jstor.org/content/oa_chapter_monograph/10.16997/mpub.14614695.6" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jstor.org">[jstor.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jstor.org</span><span class="citation-popover-snippet">Fake News, Misinformation and DisinformationOne indicator of a source&#x27;s possible intention to mislead may be the refusal to correct claim...</span></span></span>
 * Is there evidence the speaker knew it was false?
 * Is there evidence the falsity was intentional rather than mistaken?
 * Is there evidence of coordination, fabrication or strategic manipulation?
@@ -402,197 +402,197 @@ The temptation to use the strongest possible label is understandable, especially
 
 If every inaccurate statement becomes disinformation, the concept loses analytical value. It becomes harder to distinguish organised deception campaigns from ordinary human error. At the same time, broad accusations of disinformation can discourage legitimate disagreement by treating disputed claims as evidence of malicious intent rather than claims that require examination.
 
-The most useful approach is often a layered one: establish whether a claim is false, assess how it is spreading, examine available evidence about intent, and reserve the label disinformation for cases where deliberate deception is supported rather than merely suspected. That keeps attention on what makes disinformation distinctive in the first place: not just that people were wrong, but that someone appears to have intended to mislead. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.apa.org/topics/journalism-facts/misinformation-disinformation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apa.org">[APA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apa.org</span><span class="citation-popover-snippet">Misinformation and disinformationMisinformation is false or inaccurate information—getting the facts wrong. Disinformation is false infor...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.unesco.org/en/tags/disinformation-0" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unesco.org">[UNESCO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unesco.org</span><span class="citation-popover-snippet">having intention to deceive. Explore further with...Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://firstdraftnews.org/long-form-article/understanding-information-disorder/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: firstdraftnews.org">[First Draft]</a><span class="citation-popover" role="note"><span class="citation-popover-source">firstdraftnews.org</span><span class="citation-popover-title">First Draft Understanding Information disorder</span><span class="citation-popover-snippet">Disinformation is content that is intentionally false and designed to cause harm. It is motivated by three...</span></span></span>
+The most useful approach is often a layered one: establish whether a claim is false, assess how it is spreading, examine available evidence about intent, and reserve the label disinformation for cases where deliberate deception is supported rather than merely suspected. That keeps attention on what makes disinformation distinctive in the first place: not just that people were wrong, but that someone appears to have intended to mislead.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.apa.org/topics/journalism-facts/misinformation-disinformation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apa.org">[APA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apa.org</span><span class="citation-popover-snippet">Misinformation and disinformationMisinformation is false or inaccurate information—getting the facts wrong. Disinformation is false infor...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.unesco.org/en/tags/disinformation-0" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unesco.org">[UNESCO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unesco.org</span><span class="citation-popover-snippet">having intention to deceive. Explore further with...Read more...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://firstdraftnews.org/long-form-article/understanding-information-disorder/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: firstdraftnews.org">[First Draft]</a><span class="citation-popover" role="note"><span class="citation-popover-source">firstdraftnews.org</span><span class="citation-popover-title">First Draft Understanding Information disorder</span><span class="citation-popover-snippet">Disinformation is content that is intentionally false and designed to cause harm. It is motivated by three...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When disinformation is the wrong label. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When disinformation is the wrong label. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Calling Bullshit on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Plu9DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Calling Bullshit" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Calling Bullshit">Calling Bullshit</a>
-        </h4>
-        <p class="fr-book-author">By Carl T. Bergstrom, Jevin D. West</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Calling Bullshit on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Plu9DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Calling Bullshit" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Calling Bullshit">Calling Bullshit</a>
+</h4>
+<p class="fr-book-author">By Carl T. Bergstrom, Jevin D. West</p>
         
-        <p class="fr-book-desc">Encourages evidence-based judgments rather than assuming intent.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Encourages evidence-based judgments rather than assuming intent.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Constitution+of+Knowledge+by+Jonathan+Rauch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Constitution of Knowledge on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=W4J_EQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Constitution of Knowledge" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Constitution+of+Knowledge+by+Jonathan+Rauch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Constitution of Knowledge">The Constitution of Knowledge</a>
-        </h4>
-        <p class="fr-book-author">By Jonathan Rauch</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Constitution+of+Knowledge+by+Jonathan+Rauch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Constitution of Knowledge on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=W4J_EQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Constitution of Knowledge" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Constitution+of+Knowledge+by+Jonathan+Rauch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Constitution of Knowledge">The Constitution of Knowledge</a>
+</h4>
+<p class="fr-book-author">By Jonathan Rauch</p>
         
-        <p class="fr-book-desc">Explores standards for evaluating claims and deception.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Constitution+of+Knowledge+by+Jonathan+Rauch&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores standards for evaluating claims and deception.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Constitution+of+Knowledge+by+Jonathan+Rauch&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Factfulness on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=rxg0tgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Factfulness" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Factfulness">Factfulness</a>
-        </h4>
-        <p class="fr-book-author">By Hans Rosling, Ola Rosling et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Factfulness on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=rxg0tgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Factfulness" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Factfulness">Factfulness</a>
+</h4>
+<p class="fr-book-author">By Hans Rosling, Ola Rosling et al.</p>
         
-        <p class="fr-book-desc">Shows how mistaken beliefs often arise without malicious intent.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows how mistaken beliefs often arise without malicious intent.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Death+of+Truth+%5BHardcover%5D+Michiko+Kakutani+michiko+kakutani&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Death of Truth [Hardcover] Michiko Kakutani on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9237737-M.jpg" alt="Cover for The Death of Truth [Hardcover] Michiko Kakutani" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Death+of+Truth+%5BHardcover%5D+Michiko+Kakutani+michiko+kakutani&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Death of Truth [Hardcover] Michiko Kakutani">The Death of Truth [Hardcover] Michiko Kakutani</a>
-        </h4>
-        <p class="fr-book-author">By michiko kakutani</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Death+of+Truth+%5BHardcover%5D+Michiko+Kakutani+michiko+kakutani&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Death of Truth [Hardcover] Michiko Kakutani on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9237737-M.jpg" alt="Cover for The Death of Truth [Hardcover] Michiko Kakutani" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Death+of+Truth+%5BHardcover%5D+Michiko+Kakutani+michiko+kakutani&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Death of Truth [Hardcover] Michiko Kakutani">The Death of Truth [Hardcover] Michiko Kakutani</a>
+</h4>
+<p class="fr-book-author">By michiko kakutani</p>
         
-        <p class="fr-book-desc">First published 2018. Subjects: United states, politics and government, 2017-2021, Political culture, Truth.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Death+of+Truth+%5BHardcover%5D+Michiko+Kakutani+michiko+kakutani&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2018. Subjects: United states, politics and government, 2017-2021, Political culture, Truth.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Death+of+Truth+%5BHardcover%5D+Michiko+Kakutani+michiko+kakutani&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Calling+Bullshit&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Calling Bullshit</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Constitution+of+Knowledge&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Constitution of Knowledge</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Factfulness&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Factfulness</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Calling+Bullshit&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Calling Bullshit</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Constitution+of+Knowledge&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Constitution of Knowledge</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Factfulness&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Factfulness</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+training+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=overcalling-when-disinformation-is-the-wrong-label-myths-and-misconcept-teacher-training-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher training poster" data-ebay-reference="overcalling-when-disinformation-is-the-wrong-label-myths-and-misconcept-teacher-training-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Special Education Teacher, SPED Fra Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/32c819eca7a07f0a7cdc.jpg' | relative_url }}" alt="Listing image for Special Education Teacher, SPED Fra Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+training+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=overcalling-when-disinformation-is-the-wrong-label-myths-and-misconcept-teacher-training-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher training poster" data-ebay-reference="overcalling-when-disinformation-is-the-wrong-label-myths-and-misconcept-teacher-training-poster" target="_blank" rel="sponsored noopener noreferrer">Special Education Teacher, SPED Fra Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+training+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=overcalling-when-disinformation-is-the-wrong-label-myths-and-misconcept-teacher-training-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher training poster" data-ebay-reference="overcalling-when-disinformation-is-the-wrong-label-myths-and-misconcept-teacher-training-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for teacher training poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: teacher training poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+training+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=overcalling-when-disinformation-is-the-wrong-label-myths-and-misconcept-teacher-training-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher training poster" data-ebay-reference="overcalling-when-disinformation-is-the-wrong-label-myths-and-misconcept-teacher-training-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+training+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=overcalling-when-disinformation-is-the-wrong-label-myths-and-misconcept-teacher-training-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher training poster" data-ebay-reference="overcalling-when-disinformation-is-the-wrong-label-myths-and-misconcept-teacher-training-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Special Education Teacher, SPED Fra Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/32c819eca7a07f0a7cdc.jpg' | relative_url }}" alt="Listing image for Special Education Teacher, SPED Fra Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+training+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=overcalling-when-disinformation-is-the-wrong-label-myths-and-misconcept-teacher-training-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher training poster" data-ebay-reference="overcalling-when-disinformation-is-the-wrong-label-myths-and-misconcept-teacher-training-poster" target="_blank" rel="sponsored noopener noreferrer">Special Education Teacher, SPED Fra Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+training+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=overcalling-when-disinformation-is-the-wrong-label-myths-and-misconcept-teacher-training-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher training poster" data-ebay-reference="overcalling-when-disinformation-is-the-wrong-label-myths-and-misconcept-teacher-training-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for teacher training poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: teacher training poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+training+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=overcalling-when-disinformation-is-the-wrong-label-myths-and-misconcept-teacher-training-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher training poster" data-ebay-reference="overcalling-when-disinformation-is-the-wrong-label-myths-and-misconcept-teacher-training-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+training+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=overcalling-when-disinformation-is-the-wrong-label-myths-and-misconcept-teacher-training-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher training poster" data-ebay-reference="overcalling-when-disinformation-is-the-wrong-label-myths-and-misconcept-teacher-training-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Special Education Teacher, SPED Fra Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/ce5caa89a0d0230e589d.jpg' | relative_url }}" alt="Listing image for Special Education Teacher, SPED Fra Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+training+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=overcalling-when-disinformation-is-the-wrong-label-myths-and-misconcept-teacher-training-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher training poster" data-ebay-reference="overcalling-when-disinformation-is-the-wrong-label-myths-and-misconcept-teacher-training-poster" target="_blank" rel="sponsored noopener noreferrer">Special Education Teacher, SPED Fra Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+training+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=overcalling-when-disinformation-is-the-wrong-label-myths-and-misconcept-teacher-training-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher training poster" data-ebay-reference="overcalling-when-disinformation-is-the-wrong-label-myths-and-misconcept-teacher-training-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for teacher training poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: teacher training poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+training+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=overcalling-when-disinformation-is-the-wrong-label-myths-and-misconcept-teacher-training-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher training poster" data-ebay-reference="overcalling-when-disinformation-is-the-wrong-label-myths-and-misconcept-teacher-training-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+training+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=overcalling-when-disinformation-is-the-wrong-label-myths-and-misconcept-teacher-training-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher training poster" data-ebay-reference="overcalling-when-disinformation-is-the-wrong-label-myths-and-misconcept-teacher-training-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Special Education Teacher, SPED Fra Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/ce5caa89a0d0230e589d.jpg' | relative_url }}" alt="Listing image for Special Education Teacher, SPED Fra Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+training+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=overcalling-when-disinformation-is-the-wrong-label-myths-and-misconcept-teacher-training-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher training poster" data-ebay-reference="overcalling-when-disinformation-is-the-wrong-label-myths-and-misconcept-teacher-training-poster" target="_blank" rel="sponsored noopener noreferrer">Special Education Teacher, SPED Fra Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+training+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=overcalling-when-disinformation-is-the-wrong-label-myths-and-misconcept-teacher-training-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher training poster" data-ebay-reference="overcalling-when-disinformation-is-the-wrong-label-myths-and-misconcept-teacher-training-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for teacher training poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: teacher training poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+training+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=overcalling-when-disinformation-is-the-wrong-label-myths-and-misconcept-teacher-training-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher training poster" data-ebay-reference="overcalling-when-disinformation-is-the-wrong-label-myths-and-misconcept-teacher-training-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+training+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=overcalling-when-disinformation-is-the-wrong-label-myths-and-misconcept-teacher-training-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher training poster" data-ebay-reference="overcalling-when-disinformation-is-the-wrong-label-myths-and-misconcept-teacher-training-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Special Education Teacher, SPED Fra Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/09be870a7811a268cac2.jpg' | relative_url }}" alt="Listing image for Special Education Teacher, SPED Fra Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+training+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=overcalling-when-disinformation-is-the-wrong-label-myths-and-misconcept-teacher-training-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher training poster" data-ebay-reference="overcalling-when-disinformation-is-the-wrong-label-myths-and-misconcept-teacher-training-poster" target="_blank" rel="sponsored noopener noreferrer">Special Education Teacher, SPED Fra Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+training+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=overcalling-when-disinformation-is-the-wrong-label-myths-and-misconcept-teacher-training-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher training poster" data-ebay-reference="overcalling-when-disinformation-is-the-wrong-label-myths-and-misconcept-teacher-training-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for teacher training poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: teacher training poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+training+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=overcalling-when-disinformation-is-the-wrong-label-myths-and-misconcept-teacher-training-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher training poster" data-ebay-reference="overcalling-when-disinformation-is-the-wrong-label-myths-and-misconcept-teacher-training-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+training+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=overcalling-when-disinformation-is-the-wrong-label-myths-and-misconcept-teacher-training-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher training poster" data-ebay-reference="overcalling-when-disinformation-is-the-wrong-label-myths-and-misconcept-teacher-training-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Special Education Teacher, SPED Fra Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/09be870a7811a268cac2.jpg' | relative_url }}" alt="Listing image for Special Education Teacher, SPED Fra Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+training+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=overcalling-when-disinformation-is-the-wrong-label-myths-and-misconcept-teacher-training-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher training poster" data-ebay-reference="overcalling-when-disinformation-is-the-wrong-label-myths-and-misconcept-teacher-training-poster" target="_blank" rel="sponsored noopener noreferrer">Special Education Teacher, SPED Fra Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+training+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=overcalling-when-disinformation-is-the-wrong-label-myths-and-misconcept-teacher-training-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher training poster" data-ebay-reference="overcalling-when-disinformation-is-the-wrong-label-myths-and-misconcept-teacher-training-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for teacher training poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: teacher training poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+training+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=overcalling-when-disinformation-is-the-wrong-label-myths-and-misconcept-teacher-training-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher training poster" data-ebay-reference="overcalling-when-disinformation-is-the-wrong-label-myths-and-misconcept-teacher-training-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+training+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=overcalling-when-disinformation-is-the-wrong-label-myths-and-misconcept-teacher-training-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher training poster" data-ebay-reference="overcalling-when-disinformation-is-the-wrong-label-myths-and-misconcept-teacher-training-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Special Education Teacher, Special Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/c97c09dfaffcefee2438.jpg' | relative_url }}" alt="Listing image for Special Education Teacher, Special Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+training+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=overcalling-when-disinformation-is-the-wrong-label-myths-and-misconcept-teacher-training-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher training poster" data-ebay-reference="overcalling-when-disinformation-is-the-wrong-label-myths-and-misconcept-teacher-training-poster" target="_blank" rel="sponsored noopener noreferrer">Special Education Teacher, Special Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+training+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=overcalling-when-disinformation-is-the-wrong-label-myths-and-misconcept-teacher-training-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher training poster" data-ebay-reference="overcalling-when-disinformation-is-the-wrong-label-myths-and-misconcept-teacher-training-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for teacher training poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: teacher training poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+training+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=overcalling-when-disinformation-is-the-wrong-label-myths-and-misconcept-teacher-training-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher training poster" data-ebay-reference="overcalling-when-disinformation-is-the-wrong-label-myths-and-misconcept-teacher-training-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+training+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=overcalling-when-disinformation-is-the-wrong-label-myths-and-misconcept-teacher-training-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher training poster" data-ebay-reference="overcalling-when-disinformation-is-the-wrong-label-myths-and-misconcept-teacher-training-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+training+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=overcalling-when-disinformation-is-the-wrong-label-myths-and-misconcept-teacher-training-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher training poster" data-ebay-reference="overcalling-when-disinformation-is-the-wrong-label-myths-and-misconcept-teacher-training-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Special Education Teacher, Special Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/c97c09dfaffcefee2438.jpg' | relative_url }}" alt="Listing image for Special Education Teacher, Special Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+training+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=overcalling-when-disinformation-is-the-wrong-label-myths-and-misconcept-teacher-training-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher training poster" data-ebay-reference="overcalling-when-disinformation-is-the-wrong-label-myths-and-misconcept-teacher-training-poster" target="_blank" rel="sponsored noopener noreferrer">Special Education Teacher, Special Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+training+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=overcalling-when-disinformation-is-the-wrong-label-myths-and-misconcept-teacher-training-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher training poster" data-ebay-reference="overcalling-when-disinformation-is-the-wrong-label-myths-and-misconcept-teacher-training-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for teacher training poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: teacher training poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+training+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=overcalling-when-disinformation-is-the-wrong-label-myths-and-misconcept-teacher-training-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher training poster" data-ebay-reference="overcalling-when-disinformation-is-the-wrong-label-myths-and-misconcept-teacher-training-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+training+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=overcalling-when-disinformation-is-the-wrong-label-myths-and-misconcept-teacher-training-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher training poster" data-ebay-reference="overcalling-when-disinformation-is-the-wrong-label-myths-and-misconcept-teacher-training-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -608,7 +608,7 @@ The most useful approach is often a layered one: establish whether a claim is fa
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -628,7 +628,7 @@ The most useful approach is often a layered one: establish whether a claim is fa
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -660,7 +660,7 @@ The most useful approach is often a layered one: establish whether a claim is fa
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -712,7 +712,7 @@ The most useful approach is often a layered one: establish whether a claim is fa
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -757,7 +757,7 @@ The most useful approach is often a layered one: establish whether a claim is fa
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -798,155 +798,155 @@ The most useful approach is often a layered one: establish whether a claim is fa
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: unesco.org  
-   Link: <a href="https://www.unesco.org/en/query-list/d/disinformation" target="_blank" rel="noopener noreferrer nofollow">https://www.unesco.org/en/query-list/d/disinformation</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>What is Disinformation? Meaning, Definition.Misinformation has a neutral or good underlying intent, whereas disinformation is defin...</p></details>
+   Link:<a href="https://www.unesco.org/en/query-list/d/disinformation" target="_blank" rel="noopener noreferrer nofollow">https://www.unesco.org/en/query-list/d/disinformation</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>What is Disinformation? Meaning, Definition.Misinformation has a neutral or good underlying intent, whereas disinformation is defin...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: apa.org  
-   Link: <a href="https://www.apa.org/topics/journalism-facts/misinformation-disinformation" target="_blank" rel="noopener noreferrer nofollow">https://www.apa.org/topics/journalism-facts/misinformation-disinformation</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Misinformation and disinformationMisinformation is false or inaccurate information—getting the facts wrong. Disinformation is false infor...</p></details>
+   Link:<a href="https://www.apa.org/topics/journalism-facts/misinformation-disinformation" target="_blank" rel="noopener noreferrer nofollow">https://www.apa.org/topics/journalism-facts/misinformation-disinformation</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Misinformation and disinformationMisinformation is false or inaccurate information—getting the facts wrong. Disinformation is false infor...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: unesco.org  
-   Link: <a href="https://www.unesco.org/en/query-list/m/misinformation" target="_blank" rel="noopener noreferrer nofollow">https://www.unesco.org/en/query-list/m/misinformation</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>What is Misinformation? Meaning, Definition.Misinformation is false information that is shared inadvertently, without meaning to ca...</p></details>
+   Link:<a href="https://www.unesco.org/en/query-list/m/misinformation" target="_blank" rel="noopener noreferrer nofollow">https://www.unesco.org/en/query-list/m/misinformation</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>What is Misinformation? Meaning, Definition.Misinformation is false information that is shared inadvertently, without meaning to ca...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2406.09343" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2406.09343</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Frameworks, Modeling and Simulations of Misinformation and Disinformation: A Systematic Literature ReviewJune 13, 2024...</p></details>
+   Link:<a href="https://arxiv.org/abs/2406.09343" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2406.09343</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Frameworks, Modeling and Simulations of Misinformation and Disinformation: A Systematic Literature ReviewJune 13, 2024...</p></details>
    Published: June 13, 2024  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2206.12915" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2206.12915</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Disambiguating Disinformation: Extending Beyond the Veracity of Online ContentJune 26, 2022...</p></details>
+   Link:<a href="https://arxiv.org/abs/2206.12915" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2206.12915</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Disambiguating Disinformation: Extending Beyond the Veracity of Online ContentJune 26, 2022...</p></details>
    Published: June 26, 2022  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2603.25883" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2603.25883</a>  
+   Link:<a href="https://arxiv.org/abs/2603.25883" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2603.25883</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: unesco.org  
-   Link: <a href="https://www.unesco.org/en/tags/disinformation-0" target="_blank" rel="noopener noreferrer nofollow">https://www.unesco.org/en/tags/disinformation-0</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>having intention to deceive. Explore further with...Read more...</p></details>
+   Link:<a href="https://www.unesco.org/en/tags/disinformation-0" target="_blank" rel="noopener noreferrer nofollow">https://www.unesco.org/en/tags/disinformation-0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>having intention to deceive. Explore further with...Read more...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: unesco.org  
    Title: What is Misinformation?  
-   Link: <a href="https://www.unesco.org/en/tags/misinformation-0" target="_blank" rel="noopener noreferrer nofollow">https://www.unesco.org/en/tags/misinformation-0</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Meaning, Definition.Misinformation is false information that is shared inadvertently, without meaning to cause harm. The terms misinforma...</p></details>
+   Link:<a href="https://www.unesco.org/en/tags/misinformation-0" target="_blank" rel="noopener noreferrer nofollow">https://www.unesco.org/en/tags/misinformation-0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Meaning, Definition.Misinformation is false information that is shared inadvertently, without meaning to cause harm. The terms misinforma...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: en.unesco.org  
-   Link: <a href="https://en.unesco.org/fightfakenews" target="_blank" rel="noopener noreferrer nofollow">https://en.unesco.org/fightfakenews</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>30 April 2020. UNESCO handbook on “Journalism, [Fake News](&amp;#123;&amp;#123; &#x27;fake-news/&#x27; | relative_url &amp;#125;&amp;#125;) &amp; Disinformation” to be...Read more...</p></details>
+   Link:<a href="https://en.unesco.org/fightfakenews" target="_blank" rel="noopener noreferrer nofollow">https://en.unesco.org/fightfakenews</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>30 April 2020. UNESCO handbook on “Journalism, [Fake News](&amp;#123;&amp;#123; &#x27;fake-news/&#x27; | relative_url &amp;#125;&amp;#125;) &amp; Disinformation” to be...Read more...</p></details>
    Published: April 2020  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: unesco.org  
-   Link: <a href="https://www.unesco.org/mil4teachers/en/module4/unit2" target="_blank" rel="noopener noreferrer nofollow">https://www.unesco.org/mil4teachers/en/module4/unit2</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Unit 2: The Misinformation and Disinformation Ecosystem11 Apr 2024 — Distinguish the different types of false and misleading content, i.e...</p></details>
+   Link:<a href="https://www.unesco.org/mil4teachers/en/module4/unit2" target="_blank" rel="noopener noreferrer nofollow">https://www.unesco.org/mil4teachers/en/module4/unit2</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Unit 2: The Misinformation and Disinformation Ecosystem11 Apr 2024 — Distinguish the different types of false and misleading content, i.e...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: firstdraftnews.org  
    Title: First Draft Understanding Information disorder  
-   Link: <a href="https://firstdraftnews.org/long-form-article/understanding-information-disorder/" target="_blank" rel="noopener noreferrer nofollow">https://firstdraftnews.org/long-form-article/understanding-information-disorder/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Disinformation is content that is intentionally false and designed to cause harm. It is motivated by three...</p></details>
+   Link:<a href="https://firstdraftnews.org/long-form-article/understanding-information-disorder/" target="_blank" rel="noopener noreferrer nofollow">https://firstdraftnews.org/long-form-article/understanding-information-disorder/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Disinformation is content that is intentionally false and designed to cause harm. It is motivated by three...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: usher.ed.ac.uk  
    Title: Usher Institute False and Misleading Information: An Evidence  
-   Link: <a href="https://usher.ed.ac.uk/sites/default/files/2026-05/False%20and%20Misleading%20Information%3A%20An%20Evidence%20Summary%20and%20Map%20for%20Policy%20and%20Practice%20.pdf" target="_blank" rel="noopener noreferrer nofollow">https://usher.ed.ac.uk/sites/default/files/2026-05/False%20and%20Misleading%20Information%3A%20An%20Evidence%20Summary%20and%20Map%20for%20Policy%20and%20Practice%20.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Usher InstituteFalse and Misleading Information: An Evidence Summary and...7 May 2026 — Cognitive intent: Terminology emphasising the as...</p></details>
+   Link:<a href="https://usher.ed.ac.uk/sites/default/files/2026-05/False%20and%20Misleading%20Information%3A%20An%20Evidence%20Summary%20and%20Map%20for%20Policy%20and%20Practice%20.pdf" target="_blank" rel="noopener noreferrer nofollow">https://usher.ed.ac.uk/sites/default/files/2026-05/False%20and%20Misleading%20Information%3A%20An%20Evidence%20Summary%20and%20Map%20for%20Policy%20and%20Practice%20.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Usher InstituteFalse and Misleading Information: An Evidence Summary and...7 May 2026 — Cognitive intent: Terminology emphasising the as...</p></details>
    Published: May 2026  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: commonslibrary.parliament.uk  
-   Link: <a href="https://commonslibrary.parliament.uk/disinformation-and-its-effects-on-society/" target="_blank" rel="noopener noreferrer nofollow">https://commonslibrary.parliament.uk/disinformation-and-its-effects-on-society/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>House of Commons LibraryDisinformation and its effects on societyJuly 16, 2024 — 16 Jul 2024 — Research indicates that disinformation can...</p></details>
+   Link:<a href="https://commonslibrary.parliament.uk/disinformation-and-its-effects-on-society/" target="_blank" rel="noopener noreferrer nofollow">https://commonslibrary.parliament.uk/disinformation-and-its-effects-on-society/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>House of Commons LibraryDisinformation and its effects on societyJuly 16, 2024 — 16 Jul 2024 — Research indicates that disinformation can...</p></details>
    Published: July 16, 2024  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: firstdraftnews.org  
-   Link: <a href="https://firstdraftnews.org/wp-content/uploads/2018/07/infoDisorder_glossary.pdf" target="_blank" rel="noopener noreferrer nofollow">https://firstdraftnews.org/wp-content/uploads/2018/07/infoDisorder_glossary.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Information Disorder: The Essential Glossary | First Draft Newsby C Wardle · 2018 · Cited by 196 — Disinformation Disinformation is false...</p></details>
+   Link:<a href="https://firstdraftnews.org/wp-content/uploads/2018/07/infoDisorder_glossary.pdf" target="_blank" rel="noopener noreferrer nofollow">https://firstdraftnews.org/wp-content/uploads/2018/07/infoDisorder_glossary.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Information Disorder: The Essential Glossary | First Draft Newsby C Wardle · 2018 · Cited by 196 — Disinformation Disinformation is false...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: ohchr.org  
-   Link: <a href="https://www.ohchr.org/sites/default/files/Documents/Issues/Expression/disinformation/5-Others/UNESCO.docx" target="_blank" rel="noopener noreferrer nofollow">https://www.ohchr.org/sites/default/files/Documents/Issues/Expression/disinformation/5-Others/UNESCO.docx</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>unescoUNESCO&#x27;s use of the term “disinformation” as a chapeau covers false and misleading content as regards production, reception, transm...</p></details>
+   Link:<a href="https://www.ohchr.org/sites/default/files/Documents/Issues/Expression/disinformation/5-Others/UNESCO.docx" target="_blank" rel="noopener noreferrer nofollow">https://www.ohchr.org/sites/default/files/Documents/Issues/Expression/disinformation/5-Others/UNESCO.docx</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>unescoUNESCO&#x27;s use of the term “disinformation” as a chapeau covers false and misleading content as regards production, reception, transm...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/unesco.pakistan/posts/-think-before-you-share%EF%B8%8F-disinformation-disinformation-is-generally-used-to-refe/1030883275851844/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/unesco.pakistan/posts/-think-before-you-share%EF%B8%8F-disinformation-disinformation-is-generally-used-to-refe/1030883275851844/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UNESCO PakistanDisinformation is false or inaccurate information that is spread with the deliberate intention to deceive, often for polit...</p></details>
+   Link:<a href="https://www.facebook.com/unesco.pakistan/posts/-think-before-you-share%EF%B8%8F-disinformation-disinformation-is-generally-used-to-refe/1030883275851844/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/unesco.pakistan/posts/-think-before-you-share%EF%B8%8F-disinformation-disinformation-is-generally-used-to-refe/1030883275851844/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UNESCO PakistanDisinformation is false or inaccurate information that is spread with the deliberate intention to deceive, often for polit...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: britannica.com  
    Title: misinformation and disinformation  
-   Link: <a href="https://www.britannica.com/topic/misinformation-and-disinformation" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/misinformation-and-disinformation</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Overview, Differences...22 May 2026 — Misinformation is the inadvertent spread of false information without intent to harm, while disinf...</p></details>
+   Link:<a href="https://www.britannica.com/topic/misinformation-and-disinformation" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/misinformation-and-disinformation</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Overview, Differences...22 May 2026 — Misinformation is the inadvertent spread of false information without intent to harm, while disinf...</p></details>
    Published: May 2026  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Disinformation" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Disinformation</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>DisinformationMisinformation can be used to create disinformation when known misinformation is purposefully and intentionally dissemin...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Disinformation" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Disinformation</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>DisinformationMisinformation can be used to create disinformation when known misinformation is purposefully and intentionally dissemin...</p></details>
 
 ### Additional References
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: boell.de  
-   Link: <a href="https://www.boell.de/sites/default/files/2020-08/200825_E-Paper3_ENG.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.boell.de/sites/default/files/2020-08/200825_E-Paper3_ENG.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Causes, Trends, and Their Influence on DemocracyMisinformation, disinformation, and malinformation can be observed as a part of the infor...</p></details>
+   Link:<a href="https://www.boell.de/sites/default/files/2020-08/200825_E-Paper3_ENG.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.boell.de/sites/default/files/2020-08/200825_E-Paper3_ENG.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Causes, Trends, and Their Influence on DemocracyMisinformation, disinformation, and malinformation can be observed as a part of the infor...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: jstor.org  
-   Link: <a href="https://www.jstor.org/content/oa_chapter_monograph/10.16997/mpub.14614695.6" target="_blank" rel="noopener noreferrer nofollow">https://www.jstor.org/content/oa_chapter_monograph/10.16997/mpub.14614695.6</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Fake News, Misinformation and DisinformationOne indicator of a source&#x27;s possible intention to mislead may be the refusal to correct claim...</p></details>
+   Link:<a href="https://www.jstor.org/content/oa_chapter_monograph/10.16997/mpub.14614695.6" target="_blank" rel="noopener noreferrer nofollow">https://www.jstor.org/content/oa_chapter_monograph/10.16997/mpub.14614695.6</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Fake News, Misinformation and DisinformationOne indicator of a source&#x27;s possible intention to mislead may be the refusal to correct claim...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/1st-draft/information-disorder-part-1-the-essential-glossary-19953c544fe3" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/1st-draft/information-disorder-part-1-the-essential-glossary-19953c544fe3</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Information Disorder, Part 1: The Essential GlossaryThey are increasingly being used as powerful vehicles of disinformation. Misinformati...</p></details>
+   Link:<a href="https://medium.com/1st-draft/information-disorder-part-1-the-essential-glossary-19953c544fe3" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/1st-draft/information-disorder-part-1-the-essential-glossary-19953c544fe3</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Information Disorder, Part 1: The Essential GlossaryThey are increasingly being used as powerful vehicles of disinformation. Misinformati...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/1st-draft/information-disorder-part-3-useful-graphics-2446c7dbb485" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/1st-draft/information-disorder-part-3-useful-graphics-2446c7dbb485</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Information Disorder, Part 3: Useful Graphics | by First DraftMisinformation · Disinformation · Fake News. 218. 218... Agents of disinfo...</p></details>
+   Link:<a href="https://medium.com/1st-draft/information-disorder-part-3-useful-graphics-2446c7dbb485" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/1st-draft/information-disorder-part-3-useful-graphics-2446c7dbb485</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Information Disorder, Part 3: Useful Graphics | by First DraftMisinformation · Disinformation · Fake News. 218. 218... Agents of disinfo...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: princetonlibrary.org  
-   Link: <a href="https://princetonlibrary.org/guides/misinformation-disinformation-malinformation-a-guide/" target="_blank" rel="noopener noreferrer nofollow">https://princetonlibrary.org/guides/misinformation-disinformation-malinformation-a-guide/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Misinformation, Disinformation &amp; Malinformation: A GuideWardle cofounded First Draft News, a collaborative project to “fight misinformati...</p></details>
+   Link:<a href="https://princetonlibrary.org/guides/misinformation-disinformation-malinformation-a-guide/" target="_blank" rel="noopener noreferrer nofollow">https://princetonlibrary.org/guides/misinformation-disinformation-malinformation-a-guide/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Misinformation, Disinformation &amp; Malinformation: A GuideWardle cofounded First Draft News, a collaborative project to “fight misinformati...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: unric.org  
-   Link: <a href="https://unric.org/en/unric-library-backgrounder-information-integrity/" target="_blank" rel="noopener noreferrer nofollow">https://unric.org/en/unric-library-backgrounder-information-integrity/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UNRIC Library Backgrounder: Information IntegrityMisinformation can be rooted in disinformation as deliberate lies and misleading narrati...</p></details>
+   Link:<a href="https://unric.org/en/unric-library-backgrounder-information-integrity/" target="_blank" rel="noopener noreferrer nofollow">https://unric.org/en/unric-library-backgrounder-information-integrity/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UNRIC Library Backgrounder: Information IntegrityMisinformation can be rooted in disinformation as deliberate lies and misleading narrati...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: mediadefence.org  
-   Link: <a href="https://www.mediadefence.org/ereader/publications/modules-digital-rights-europe/module-5-disinformation-misinformation/false-news/" target="_blank" rel="noopener noreferrer nofollow">https://www.mediadefence.org/ereader/publications/modules-digital-rights-europe/module-5-disinformation-misinformation/false-news/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>What is &#x27;False News&#x27;? | eReaderLastly, misinformation entails false or misleading content shared inadvertently, lacking the malicious int...</p></details>
+   Link:<a href="https://www.mediadefence.org/ereader/publications/modules-digital-rights-europe/module-5-disinformation-misinformation/false-news/" target="_blank" rel="noopener noreferrer nofollow">https://www.mediadefence.org/ereader/publications/modules-digital-rights-europe/module-5-disinformation-misinformation/false-news/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>What is &#x27;False News&#x27;? | eReaderLastly, misinformation entails false or misleading content shared inadvertently, lacking the malicious int...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: europarl.europa.eu  
-   Link: <a href="https://www.europarl.europa.eu/RegData/etudes/STUD/2021/653635/EXPO_STU%282021%29653635_EN.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.europarl.europa.eu/RegData/etudes/STUD/2021/653635/EXPO_STU%282021%29653635_EN.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>impact of disinformation on democratic processes and...by C COLOMINA · Cited by 196 — Around the world, disinformation is spreading and...</p></details>
+   Link:<a href="https://www.europarl.europa.eu/RegData/etudes/STUD/2021/653635/EXPO_STU%282021%29653635_EN.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.europarl.europa.eu/RegData/etudes/STUD/2021/653635/EXPO_STU%282021%29653635_EN.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>impact of disinformation on democratic processes and...by C COLOMINA · Cited by 196 — Around the world, disinformation is spreading and...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: rcmediafreedom.eu  
    Title: Understanding Information Disorder We can distinguish: disinformation  
-   Link: <a href="https://www.rcmediafreedom.eu/Resources/Manuals/Understanding-Information-Disorder" target="_blank" rel="noopener noreferrer nofollow">https://www.rcmediafreedom.eu/Resources/Manuals/Understanding-Information-Disorder</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Understanding Information DisorderWe can distinguish: disinformation - intentionally false content designed to cause harm;; misinformatio...</p></details>
+   Link:<a href="https://www.rcmediafreedom.eu/Resources/Manuals/Understanding-Information-Disorder" target="_blank" rel="noopener noreferrer nofollow">https://www.rcmediafreedom.eu/Resources/Manuals/Understanding-Information-Disorder</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Understanding Information DisorderWe can distinguish: disinformation - intentionally false content designed to cause harm;; misinformatio...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: wisconsinwatch.org  
    Title: misinformation disinformation a guide to sorting fiction from reality  
-   Link: <a href="https://wisconsinwatch.org/2023/07/misinformation-disinformation-a-guide-to-sorting-fiction-from-reality/" target="_blank" rel="noopener noreferrer nofollow">https://wisconsinwatch.org/2023/07/misinformation-disinformation-a-guide-to-sorting-fiction-from-reality/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Misinformation, disinformation, malinformation: What to knowJul 20, 2023 — Information disorder takes many forms but can be broken down i...</p></details>
+   Link:<a href="https://wisconsinwatch.org/2023/07/misinformation-disinformation-a-guide-to-sorting-fiction-from-reality/" target="_blank" rel="noopener noreferrer nofollow">https://wisconsinwatch.org/2023/07/misinformation-disinformation-a-guide-to-sorting-fiction-from-reality/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Misinformation, disinformation, malinformation: What to knowJul 20, 2023 — Information disorder takes many forms but can be broken down i...</p></details>

@@ -506,25 +506,25 @@ When people face uncertainty — whether about the future, social change, a cris
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_uncertainty_and_myth_ca758b-overview.webp" | relative_url }}" alt="Overview image for Uncertainty" loading="eager" decoding="sync" fetchpriority="high">
 ## Anxiety, Uncertainty and the Emotional Drive for Closure
 
-Uncertainty is intrinsically linked to **negative emotional states** such as anxiety, worry, fear and existential threat. People dislike ambiguity — it feels psychologically uncomfortable and can motivate efforts to reduce that discomfort. Research shows that individuals who are uncertainty‑averse and experience heightened anxiety are more likely to endorse beliefs that appear to eliminate ambiguity and provide coherent explanations, including conspiracy theories or paranormal beliefs that “fill in the blanks” of complex situations. These beliefs promise a clear cause and outcome, standing in stark contrast to ambiguity and threat. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9896259/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Threat - PMCDecember 29, 2021...</span><span class="citation-popover-meta">Published: December 29, 2021</span></span></span>
+Uncertainty is intrinsically linked to **negative emotional states** such as anxiety, worry, fear and existential threat. People dislike ambiguity — it feels psychologically uncomfortable and can motivate efforts to reduce that discomfort. Research shows that individuals who are uncertainty‑averse and experience heightened anxiety are more likely to endorse beliefs that appear to eliminate ambiguity and provide coherent explanations, including conspiracy theories or paranormal beliefs that “fill in the blanks” of complex situations. These beliefs promise a clear cause and outcome, standing in stark contrast to ambiguity and threat.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9896259/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Threat - PMCDecember 29, 2021...</span><span class="citation-popover-meta">Published: December 29, 2021</span></span></span>
 
-This pattern aligns with broader findings in [emotion]({{ 'emotion/' | relative_url }})‑uncertainty psychology: uncertainty tends to produce negative affective responses, and people often engage in mental simulation of worst‑case scenarios, further amplifying emotional discomfort. This creates a powerful drive for simplified narratives that promise consistency or certainty. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/article/10.3389/fpsyg.2019.02504/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-snippet">FrontiersFrontiers &#124; The Relationship Between Uncertainty and AffectNovember 12, 2019...</span><span class="citation-popover-meta">Published: November 12, 2019</span></span></span>
+This pattern aligns with broader findings in [emotion]({{ 'emotion/' | relative_url }})‑uncertainty psychology: uncertainty tends to produce negative affective responses, and people often engage in mental simulation of worst‑case scenarios, further amplifying emotional discomfort. This creates a powerful drive for simplified narratives that promise consistency or certainty.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/article/10.3389/fpsyg.2019.02504/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-snippet">FrontiersFrontiers &#124; The Relationship Between Uncertainty and AffectNovember 12, 2019...</span><span class="citation-popover-meta">Published: November 12, 2019</span></span></span>
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_uncertainty_and_myth_ca758b-Illustration-1-dark.svg" | relative_url }}" alt="Uncertainty illustration 1" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_uncertainty_and_myth_ca758b-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_uncertainty_and_myth_ca758b-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How Uncertain Emotions Promote Myth Acceptance
 
-Not all emotions operate alike. Distinctive research reveals that **emotions characterised by uncertainty** — worry, surprise, fear, and hope — differ from emotions that convey certainty, such as anger or happiness. When people feel emotions associated with uncertainty, they are motivated to restore a sense of order and reduce psychological ambiguity. Experimental psychology studies have shown that such uncertain emotional states increase compensatory efforts to impose structure on the world, which appears as stronger belief in conspiracies, the paranormal, or simplistic historical narratives. These effects occur even when the emotional valence (positive or negative) is held constant; it is the **certainty associated with the emotion**, not its pleasantness, that predicts greater myth acceptance. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S0022103114001358" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">The emotional roots of conspiratorial perceptions, system justification, and belief in the paranormal - ScienceDirectJanuary...</span></span></span>
+Not all emotions operate alike. Distinctive research reveals that **emotions characterised by uncertainty** — worry, surprise, fear, and hope — differ from emotions that convey certainty, such as anger or happiness. When people feel emotions associated with uncertainty, they are motivated to restore a sense of order and reduce psychological ambiguity. Experimental psychology studies have shown that such uncertain emotional states increase compensatory efforts to impose structure on the world, which appears as stronger belief in conspiracies, the paranormal, or simplistic historical narratives. These effects occur even when the emotional valence (positive or negative) is held constant; it is the **certainty associated with the emotion**, not its pleasantness, that predicts greater myth acceptance.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S0022103114001358" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">The emotional roots of conspiratorial perceptions, system justification, and belief in the paranormal - ScienceDirectJanuary...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/h-eQ2bR1HFk" title="Conspiracy Theories and the Problem of Disappearing Knowledge | Quassim Cassam | TEDxWarwick" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=h-eQ2bR1HFk" target="_blank" rel="noopener noreferrer">Conspiracy Theories and the Problem of Disappearing Knowledge | Quassim Cassam | TEDxWarwick</a></p><p class="youtube-embed-meta">Channel: TEDx Talks &middot; Views: 265.8K &middot; Uploaded: April 2017 &middot; Length: 17 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=h-eQ2bR1HFk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=h-eQ2bR1HFk">Open on YouTube</a></p></div></div></div>
 
 ## Emotion, Narrative Simplicity and Cognitive Closure
 
-Uncertain emotions also heighten the **need for cognitive closure — the desire to reach a firm conclusion quickly and maintain it.** In situations of complexity, ambiguity, or rapid change, people seek closure because ongoing uncertainty feels aversive. Myths and simplified explanations provide closure by offering clear causal stories and reducing the psychological discomfort associated with open‑ended questions. When uncertainty is made salient — for example during public health crises or political upheavals — the need for closure correlates with increased acceptance of conspiracy beliefs and other simplistic narratives because they reduce ambiguity and offer an emotional sense of mastery. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9896259/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Threat - PMCDecember 29, 2021...</span><span class="citation-popover-meta">Published: December 29, 2021</span></span></span>
+Uncertain emotions also heighten the **need for cognitive closure — the desire to reach a firm conclusion quickly and maintain it.** In situations of complexity, ambiguity, or rapid change, people seek closure because ongoing uncertainty feels aversive. Myths and simplified explanations provide closure by offering clear causal stories and reducing the psychological discomfort associated with open‑ended questions. When uncertainty is made salient — for example during public health crises or political upheavals — the need for closure correlates with increased acceptance of conspiracy beliefs and other simplistic narratives because they reduce ambiguity and offer an emotional sense of mastery.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9896259/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Threat - PMCDecember 29, 2021...</span><span class="citation-popover-meta">Published: December 29, 2021</span></span></span>
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_uncertainty_and_myth_ca758b-Illustration-2-dark.svg" | relative_url }}" alt="Uncertainty illustration 2" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_uncertainty_and_myth_ca758b-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_uncertainty_and_myth_ca758b-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The Role of Emotional Processing in Evaluating Information
 
-Beyond general emotional states, **reliance on emotion over analytic reasoning** affects myth acceptance directly. Research on [fake news]({{ 'fake-news/' | relative_url }}) and misinformation shows that heightened emotionality makes people more susceptible to believing false information, even when they have the cognitive ability to evaluate evidence. Experimental evidence demonstrates that individuals who rely more on emotional gut reactions — rather than deliberative reasoning — show greater belief in false news and oversimplified explanations. This suggests that emotion and uncertainty interact not just at the level of *feeling*, but at the level of *information processing*, making emotionally charged narratives feel more credible under uncertainty. <span class="citation-chip-wrap"><a class="citation-chip" href="https://link.springer.com/article/10.1186/s41235-020-00252-3" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[SpringerLink]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">on emotion promotes belief in fake news &#124; Cognitive Research: Principles and Implications &#124; Springer Nature LinkOctober 7, 2020 — RELIANC...</span><span class="citation-popover-meta">Published: October 7, 2020</span></span></span>
+Beyond general emotional states, **reliance on emotion over analytic reasoning** affects myth acceptance directly. Research on [fake news]({{ 'fake-news/' | relative_url }}) and misinformation shows that heightened emotionality makes people more susceptible to believing false information, even when they have the cognitive ability to evaluate evidence. Experimental evidence demonstrates that individuals who rely more on emotional gut reactions — rather than deliberative reasoning — show greater belief in false news and oversimplified explanations. This suggests that emotion and uncertainty interact not just at the level of *feeling*, but at the level of *information processing*, making emotionally charged narratives feel more credible under uncertainty.<span class="citation-chip-wrap"><a class="citation-chip" href="https://link.springer.com/article/10.1186/s41235-020-00252-3" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[SpringerLink]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">on emotion promotes belief in fake news &#124; Cognitive Research: Principles and Implications &#124; Springer Nature LinkOctober 7, 2020 — RELIANC...</span><span class="citation-popover-meta">Published: October 7, 2020</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/z98U1nMFrJQ" title="A Neuroscientist Explains What Conspiracy Theories Do To Your Brain | Inverse" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=z98U1nMFrJQ" target="_blank" rel="noopener noreferrer">A Neuroscientist Explains What Conspiracy Theories Do To Your Brain | Inverse</a></p><p class="youtube-embed-meta">Channel: Inverse &middot; Views: 161.0K &middot; Uploaded: January 2019 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=z98U1nMFrJQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=z98U1nMFrJQ">Open on YouTube</a></p></div></div></div>
 
@@ -544,194 +544,194 @@ Recognising the emotional mechanisms by which uncertainty fuels myth acceptance 
 Uncertainty interacts with emotion to shape how people evaluate and accept myths. Negative affective responses to ambiguity — including anxiety, threat, and the aversion to mental irresolution — drive a psychological need for closure, blame, and control. These needs, in turn, make emotionally resonant myths and simplistic narratives especially appealing during uncertain times. Underlying this pattern is not only the content of the myth, but the **emotional regulation function** myths serve: reducing distress, offering narrative closure, and making sense of complexity. Acknowledging these emotional drivers is crucial for effective communication, education, and strategies to foster resilience against misinformation and unfounded beliefs.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Uncertainty Makes Myths Appealing. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Uncertainty Makes Myths Appealing. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YGPzXWanppcC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
-        </h4>
-        <p class="fr-book-author">By Daniel Kahneman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YGPzXWanppcC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
+</h4>
+<p class="fr-book-author">By Daniel Kahneman</p>
         
-        <p class="fr-book-desc">Explains biases and shortcuts that flourish under uncertainty.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains biases and shortcuts that flourish under uncertainty.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Believing Brain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=a1ueBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Believing Brain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Believing Brain">The Believing Brain</a>
-        </h4>
-        <p class="fr-book-author">By Michael Shermer</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Believing Brain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=a1ueBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Believing Brain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Believing Brain">The Believing Brain</a>
+</h4>
+<p class="fr-book-author">By Michael Shermer</p>
         
-        <p class="fr-book-desc">Explores why people adopt doubtful explanations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores why people adopt doubtful explanations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Psychology+of+Conspiracy+Theories+by+Jan-Willem+van+Prooijen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Psychology of Conspiracy Theories on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=q8ZUDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Psychology of Conspiracy Theories" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Psychology+of+Conspiracy+Theories+by+Jan-Willem+van+Prooijen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Psychology of Conspiracy Theories">The Psychology of Conspiracy Theories</a>
-        </h4>
-        <p class="fr-book-author">By Jan-Willem van Prooijen</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Psychology+of+Conspiracy+Theories+by+Jan-Willem+van+Prooijen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Psychology of Conspiracy Theories on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=q8ZUDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Psychology of Conspiracy Theories" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Psychology+of+Conspiracy+Theories+by+Jan-Willem+van+Prooijen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Psychology of Conspiracy Theories">The Psychology of Conspiracy Theories</a>
+</h4>
+<p class="fr-book-author">By Jan-Willem van Prooijen</p>
         
-        <p class="fr-book-desc">Directly examines uncertainty and conspiracy belief.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Psychology+of+Conspiracy+Theories+by+Jan-Willem+van+Prooijen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly examines uncertainty and conspiracy belief.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Psychology+of+Conspiracy+Theories+by+Jan-Willem+van+Prooijen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Factfulness on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=rxg0tgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Factfulness" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Factfulness">Factfulness</a>
-        </h4>
-        <p class="fr-book-author">By Hans Rosling, Ola Rosling et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Factfulness on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=rxg0tgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Factfulness" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Factfulness">Factfulness</a>
+</h4>
+<p class="fr-book-author">By Hans Rosling, Ola Rosling et al.</p>
         
-        <p class="fr-book-desc">Counters anxiety-driven misconceptions about the world.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Counters anxiety-driven misconceptions about the world.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Believing+Brain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Believing Brain</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Psychology+of+Conspiracy+Theories&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Psychology of Conspiracy Theories</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Believing+Brain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Believing Brain</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Psychology+of+Conspiracy+Theories&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Psychology of Conspiracy Theories</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=neuroscience+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uncertainty-why-uncertainty-makes-myths-appealing-myths-and-misconcept-neuroscience-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="neuroscience wall art" data-ebay-reference="uncertainty-why-uncertainty-makes-myths-appealing-myths-and-misconcept-neuroscience-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Neuroscience &amp; Coffee is happiness Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/4c352c23cc05d8544b10.jpg' | relative_url }}" alt="Listing image for Neuroscience &amp; Coffee is happiness Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=neuroscience+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uncertainty-why-uncertainty-makes-myths-appealing-myths-and-misconcept-neuroscience-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="neuroscience wall art" data-ebay-reference="uncertainty-why-uncertainty-makes-myths-appealing-myths-and-misconcept-neuroscience-wall-art" target="_blank" rel="sponsored noopener noreferrer">Neuroscience &amp; Coffee is happiness Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=neuroscience+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uncertainty-why-uncertainty-makes-myths-appealing-myths-and-misconcept-neuroscience-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="neuroscience wall art" data-ebay-reference="uncertainty-why-uncertainty-makes-myths-appealing-myths-and-misconcept-neuroscience-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for neuroscience wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: neuroscience wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=neuroscience+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uncertainty-why-uncertainty-makes-myths-appealing-myths-and-misconcept-neuroscience-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="neuroscience wall art" data-ebay-reference="uncertainty-why-uncertainty-makes-myths-appealing-myths-and-misconcept-neuroscience-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=neuroscience+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uncertainty-why-uncertainty-makes-myths-appealing-myths-and-misconcept-neuroscience-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="neuroscience wall art" data-ebay-reference="uncertainty-why-uncertainty-makes-myths-appealing-myths-and-misconcept-neuroscience-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Neuroscience &amp; Coffee is happiness Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/4c352c23cc05d8544b10.jpg' | relative_url }}" alt="Listing image for Neuroscience &amp; Coffee is happiness Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=neuroscience+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uncertainty-why-uncertainty-makes-myths-appealing-myths-and-misconcept-neuroscience-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="neuroscience wall art" data-ebay-reference="uncertainty-why-uncertainty-makes-myths-appealing-myths-and-misconcept-neuroscience-wall-art" target="_blank" rel="sponsored noopener noreferrer">Neuroscience &amp; Coffee is happiness Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=neuroscience+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uncertainty-why-uncertainty-makes-myths-appealing-myths-and-misconcept-neuroscience-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="neuroscience wall art" data-ebay-reference="uncertainty-why-uncertainty-makes-myths-appealing-myths-and-misconcept-neuroscience-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for neuroscience wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: neuroscience wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=neuroscience+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uncertainty-why-uncertainty-makes-myths-appealing-myths-and-misconcept-neuroscience-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="neuroscience wall art" data-ebay-reference="uncertainty-why-uncertainty-makes-myths-appealing-myths-and-misconcept-neuroscience-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=neuroscience+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uncertainty-why-uncertainty-makes-myths-appealing-myths-and-misconcept-neuroscience-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="neuroscience wall art" data-ebay-reference="uncertainty-why-uncertainty-makes-myths-appealing-myths-and-misconcept-neuroscience-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Human Head &amp; Brain Anatomy Print, Neuroscience Medical Diagram Vintage Wall Art"><img src="{{ '/assets/images/marketplace-covers/2722a327da8a25413378.jpg' | relative_url }}" alt="Listing image for Human Head &amp; Brain Anatomy Print, Neuroscience Medical Diagram Vintage Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=neuroscience+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uncertainty-why-uncertainty-makes-myths-appealing-myths-and-misconcept-neuroscience-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="neuroscience wall art" data-ebay-reference="uncertainty-why-uncertainty-makes-myths-appealing-myths-and-misconcept-neuroscience-wall-art" target="_blank" rel="sponsored noopener noreferrer">Human Head &amp; Brain Anatomy Print, Neuroscience Medical Diagram Vintage Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=neuroscience+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uncertainty-why-uncertainty-makes-myths-appealing-myths-and-misconcept-neuroscience-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="neuroscience wall art" data-ebay-reference="uncertainty-why-uncertainty-makes-myths-appealing-myths-and-misconcept-neuroscience-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for neuroscience wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: neuroscience wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=neuroscience+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uncertainty-why-uncertainty-makes-myths-appealing-myths-and-misconcept-neuroscience-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="neuroscience wall art" data-ebay-reference="uncertainty-why-uncertainty-makes-myths-appealing-myths-and-misconcept-neuroscience-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=neuroscience+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uncertainty-why-uncertainty-makes-myths-appealing-myths-and-misconcept-neuroscience-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="neuroscience wall art" data-ebay-reference="uncertainty-why-uncertainty-makes-myths-appealing-myths-and-misconcept-neuroscience-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Human Head &amp; Brain Anatomy Print, Neuroscience Medical Diagram Vintage Wall Art"><img src="{{ '/assets/images/marketplace-covers/2722a327da8a25413378.jpg' | relative_url }}" alt="Listing image for Human Head &amp; Brain Anatomy Print, Neuroscience Medical Diagram Vintage Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=neuroscience+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uncertainty-why-uncertainty-makes-myths-appealing-myths-and-misconcept-neuroscience-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="neuroscience wall art" data-ebay-reference="uncertainty-why-uncertainty-makes-myths-appealing-myths-and-misconcept-neuroscience-wall-art" target="_blank" rel="sponsored noopener noreferrer">Human Head &amp; Brain Anatomy Print, Neuroscience Medical Diagram Vintage Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=neuroscience+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uncertainty-why-uncertainty-makes-myths-appealing-myths-and-misconcept-neuroscience-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="neuroscience wall art" data-ebay-reference="uncertainty-why-uncertainty-makes-myths-appealing-myths-and-misconcept-neuroscience-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for neuroscience wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: neuroscience wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=neuroscience+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uncertainty-why-uncertainty-makes-myths-appealing-myths-and-misconcept-neuroscience-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="neuroscience wall art" data-ebay-reference="uncertainty-why-uncertainty-makes-myths-appealing-myths-and-misconcept-neuroscience-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=neuroscience+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uncertainty-why-uncertainty-makes-myths-appealing-myths-and-misconcept-neuroscience-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="neuroscience wall art" data-ebay-reference="uncertainty-why-uncertainty-makes-myths-appealing-myths-and-misconcept-neuroscience-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for i cant i have neuroscience school F Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/41d070aaf2887b2e55d8.jpg' | relative_url }}" alt="Listing image for i cant i have neuroscience school F Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=neuroscience+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uncertainty-why-uncertainty-makes-myths-appealing-myths-and-misconcept-neuroscience-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="neuroscience wall art" data-ebay-reference="uncertainty-why-uncertainty-makes-myths-appealing-myths-and-misconcept-neuroscience-wall-art" target="_blank" rel="sponsored noopener noreferrer">i cant i have neuroscience school F Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=neuroscience+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uncertainty-why-uncertainty-makes-myths-appealing-myths-and-misconcept-neuroscience-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="neuroscience wall art" data-ebay-reference="uncertainty-why-uncertainty-makes-myths-appealing-myths-and-misconcept-neuroscience-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for neuroscience wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: neuroscience wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=neuroscience+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uncertainty-why-uncertainty-makes-myths-appealing-myths-and-misconcept-neuroscience-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="neuroscience wall art" data-ebay-reference="uncertainty-why-uncertainty-makes-myths-appealing-myths-and-misconcept-neuroscience-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=neuroscience+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uncertainty-why-uncertainty-makes-myths-appealing-myths-and-misconcept-neuroscience-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="neuroscience wall art" data-ebay-reference="uncertainty-why-uncertainty-makes-myths-appealing-myths-and-misconcept-neuroscience-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for i cant i have neuroscience school F Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/41d070aaf2887b2e55d8.jpg' | relative_url }}" alt="Listing image for i cant i have neuroscience school F Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=neuroscience+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uncertainty-why-uncertainty-makes-myths-appealing-myths-and-misconcept-neuroscience-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="neuroscience wall art" data-ebay-reference="uncertainty-why-uncertainty-makes-myths-appealing-myths-and-misconcept-neuroscience-wall-art" target="_blank" rel="sponsored noopener noreferrer">i cant i have neuroscience school F Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=neuroscience+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uncertainty-why-uncertainty-makes-myths-appealing-myths-and-misconcept-neuroscience-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="neuroscience wall art" data-ebay-reference="uncertainty-why-uncertainty-makes-myths-appealing-myths-and-misconcept-neuroscience-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for neuroscience wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: neuroscience wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=neuroscience+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uncertainty-why-uncertainty-makes-myths-appealing-myths-and-misconcept-neuroscience-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="neuroscience wall art" data-ebay-reference="uncertainty-why-uncertainty-makes-myths-appealing-myths-and-misconcept-neuroscience-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=neuroscience+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uncertainty-why-uncertainty-makes-myths-appealing-myths-and-misconcept-neuroscience-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="neuroscience wall art" data-ebay-reference="uncertainty-why-uncertainty-makes-myths-appealing-myths-and-misconcept-neuroscience-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for SODIUM SMART, NEUROSCIENCE PUN GRAP Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/f67920c37351c768ae45.jpg' | relative_url }}" alt="Listing image for SODIUM SMART, NEUROSCIENCE PUN GRAP Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=neuroscience+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uncertainty-why-uncertainty-makes-myths-appealing-myths-and-misconcept-neuroscience-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="neuroscience wall art" data-ebay-reference="uncertainty-why-uncertainty-makes-myths-appealing-myths-and-misconcept-neuroscience-wall-art" target="_blank" rel="sponsored noopener noreferrer">SODIUM SMART, NEUROSCIENCE PUN GRAP Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=neuroscience+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uncertainty-why-uncertainty-makes-myths-appealing-myths-and-misconcept-neuroscience-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="neuroscience wall art" data-ebay-reference="uncertainty-why-uncertainty-makes-myths-appealing-myths-and-misconcept-neuroscience-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for neuroscience wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: neuroscience wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=neuroscience+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uncertainty-why-uncertainty-makes-myths-appealing-myths-and-misconcept-neuroscience-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="neuroscience wall art" data-ebay-reference="uncertainty-why-uncertainty-makes-myths-appealing-myths-and-misconcept-neuroscience-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=neuroscience+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uncertainty-why-uncertainty-makes-myths-appealing-myths-and-misconcept-neuroscience-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="neuroscience wall art" data-ebay-reference="uncertainty-why-uncertainty-makes-myths-appealing-myths-and-misconcept-neuroscience-wall-art" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=neuroscience+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uncertainty-why-uncertainty-makes-myths-appealing-myths-and-misconcept-neuroscience-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="neuroscience wall art" data-ebay-reference="uncertainty-why-uncertainty-makes-myths-appealing-myths-and-misconcept-neuroscience-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for SODIUM SMART, NEUROSCIENCE PUN GRAP Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/f67920c37351c768ae45.jpg' | relative_url }}" alt="Listing image for SODIUM SMART, NEUROSCIENCE PUN GRAP Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=neuroscience+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uncertainty-why-uncertainty-makes-myths-appealing-myths-and-misconcept-neuroscience-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="neuroscience wall art" data-ebay-reference="uncertainty-why-uncertainty-makes-myths-appealing-myths-and-misconcept-neuroscience-wall-art" target="_blank" rel="sponsored noopener noreferrer">SODIUM SMART, NEUROSCIENCE PUN GRAP Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=neuroscience+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uncertainty-why-uncertainty-makes-myths-appealing-myths-and-misconcept-neuroscience-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="neuroscience wall art" data-ebay-reference="uncertainty-why-uncertainty-makes-myths-appealing-myths-and-misconcept-neuroscience-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for neuroscience wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: neuroscience wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=neuroscience+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uncertainty-why-uncertainty-makes-myths-appealing-myths-and-misconcept-neuroscience-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="neuroscience wall art" data-ebay-reference="uncertainty-why-uncertainty-makes-myths-appealing-myths-and-misconcept-neuroscience-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=neuroscience+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uncertainty-why-uncertainty-makes-myths-appealing-myths-and-misconcept-neuroscience-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="neuroscience wall art" data-ebay-reference="uncertainty-why-uncertainty-makes-myths-appealing-myths-and-misconcept-neuroscience-wall-art" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -747,7 +747,7 @@ Uncertainty interacts with emotion to shape how people evaluate and accept myths
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -767,7 +767,7 @@ Uncertainty interacts with emotion to shape how people evaluate and accept myths
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -799,7 +799,7 @@ Uncertainty interacts with emotion to shape how people evaluate and accept myths
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -851,7 +851,7 @@ Uncertainty interacts with emotion to shape how people evaluate and accept myths
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -896,7 +896,7 @@ Uncertainty interacts with emotion to shape how people evaluate and accept myths
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -937,116 +937,116 @@ Uncertainty interacts with emotion to shape how people evaluate and accept myths
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9896259/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9896259/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Threat - PMCDecember 29, 2021...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9896259/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9896259/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Threat - PMCDecember 29, 2021...</p></details>
    Published: December 29, 2021  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0022103114001358" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0022103114001358</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The emotional roots of conspiratorial perceptions, system justification, and belief in the paranormal - ScienceDirectJanuary...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/pii/S0022103114001358" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0022103114001358</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The emotional roots of conspiratorial perceptions, system justification, and belief in the paranormal - ScienceDirectJanuary...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0022103104000642" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0022103104000642</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>tions and bolstering of cultural worldviews - ScienceDirectJOURNAL OF EXPERIMENTAL SOCIAL PSYCHOLOGY Volume 41, Issue 2, March 2005, Page...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/pii/S0022103104000642" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0022103104000642</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>tions and bolstering of cultural worldviews - ScienceDirectJOURNAL OF EXPERIMENTAL SOCIAL PSYCHOLOGY Volume 41, Issue 2, March 2005, Page...</p></details>
    Published: March 2005  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: sciencedirect.com  
    Title: That's interesting!  
-   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0747563222004393" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0747563222004393</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The role of epistemic emotions and perceived credibility in the relation between prior beliefs and susceptibility to fake-news - ScienceD...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/pii/S0747563222004393" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0747563222004393</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The role of epistemic emotions and perceived credibility in the relation between prior beliefs and susceptibility to fake-news - ScienceD...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: sciencedirect.com  
    Title: Better the devil you know than a world you don't?  
-   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0191886916303221" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0191886916303221</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Intolerance of uncertainty and worldview explanations for belief in conspiracy theories - ScienceDirectPERSONALITY AND INDIVIDUAL DIFFERE...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/pii/S0191886916303221" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0191886916303221</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Intolerance of uncertainty and worldview explanations for belief in conspiracy theories - ScienceDirectPERSONALITY AND INDIVIDUAL DIFFERE...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: frontiersin.org  
-   Link: <a href="https://www.frontiersin.org/article/10.3389/fpsyg.2019.02504/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/article/10.3389/fpsyg.2019.02504/full</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>FrontiersFrontiers | The Relationship Between Uncertainty and AffectNovember 12, 2019...</p></details>
+   Link:<a href="https://www.frontiersin.org/article/10.3389/fpsyg.2019.02504/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/article/10.3389/fpsyg.2019.02504/full</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FrontiersFrontiers | The Relationship Between Uncertainty and AffectNovember 12, 2019...</p></details>
    Published: November 12, 2019  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: cognitiveresearchjournal.springeropen.com  
-   Link: <a href="https://cognitiveresearchjournal.springeropen.com/articles/10.1186/s41235-020-00252-3" target="_blank" rel="noopener noreferrer nofollow">https://cognitiveresearchjournal.springeropen.com/articles/10.1186/s41235-020-00252-3</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>SpringerLinkReliance on emotion promotes belief in fake news | Cognitive Research: Principles and Implications | Full TextOctober 7, 2020...</p></details>
+   Link:<a href="https://cognitiveresearchjournal.springeropen.com/articles/10.1186/s41235-020-00252-3" target="_blank" rel="noopener noreferrer nofollow">https://cognitiveresearchjournal.springeropen.com/articles/10.1186/s41235-020-00252-3</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>SpringerLinkReliance on emotion promotes belief in fake news | Cognitive Research: Principles and Implications | Full TextOctober 7, 2020...</p></details>
    Published: October 7, 2020  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: link.springer.com  
-   Link: <a href="https://link.springer.com/article/10.1186/s41235-020-00252-3" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1186/s41235-020-00252-3</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>on emotion promotes belief in fake news | Cognitive Research: Principles and Implications | Springer Nature LinkOctober 7, 2020 — RELIANC...</p></details>
+   Link:<a href="https://link.springer.com/article/10.1186/s41235-020-00252-3" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1186/s41235-020-00252-3</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>on emotion promotes belief in fake news | Cognitive Research: Principles and Implications | Springer Nature LinkOctober 7, 2020 — RELIANC...</p></details>
    Published: October 7, 2020  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: business.columbia.edu  
    Title: emotional roots conspiratorial perceptions system justification and belief  
-   Link: <a href="https://business.columbia.edu/faculty/research/emotional-roots-conspiratorial-perceptions-system-justification-and-belief" target="_blank" rel="noopener noreferrer nofollow">https://business.columbia.edu/faculty/research/emotional-roots-conspiratorial-perceptions-system-justification-and-belief</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>emotional roots of conspiratorial perceptions, system justification, and belief in the paranormal | Columbia Business SchoolJanuary 1, 20...</p></details>
+   Link:<a href="https://business.columbia.edu/faculty/research/emotional-roots-conspiratorial-perceptions-system-justification-and-belief" target="_blank" rel="noopener noreferrer nofollow">https://business.columbia.edu/faculty/research/emotional-roots-conspiratorial-perceptions-system-justification-and-belief</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>emotional roots of conspiratorial perceptions, system justification, and belief in the paranormal | Columbia Business SchoolJanuary 1, 20...</p></details>
 
 ### Additional References
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: cambridge.org  
-   Link: <a href="https://www.cambridge.org/core/product/4367D7DB6A2CDCEC9382E957B02A92A1" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/product/4367D7DB6A2CDCEC9382E957B02A92A1</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>January 2, 2025 — A TERROR MANAGEMENT THEORY PERSPECTIVE ON THE APPEAL OF HISTORICAL MYTHS Published online by Cambridge University Press...</p></details>
+   Link:<a href="https://www.cambridge.org/core/product/4367D7DB6A2CDCEC9382E957B02A92A1" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/product/4367D7DB6A2CDCEC9382E957B02A92A1</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>January 2, 2025 — A TERROR MANAGEMENT THEORY PERSPECTIVE ON THE APPEAL OF HISTORICAL MYTHS Published online by Cambridge University Press...</p></details>
    Published: January 2, 2025  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: psychologicalscience.org  
    Title: Awe, Uncertainty, and Agency Detection  
-   Link: <a href="https://www.psychologicalscience.org/journals/psychological-science/0956797613501884/" target="_blank" rel="noopener noreferrer nofollow">https://www.psychologicalscience.org/journals/psychological-science/0956797613501884/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Psychological Science - APSPsychological Science AWE, UNCERTAINTY, AND AGENCY DETECTION Piercarlo Valdesolo, Jesse Graham Volume 25, Issu...</p></details>
+   Link:<a href="https://www.psychologicalscience.org/journals/psychological-science/0956797613501884/" target="_blank" rel="noopener noreferrer nofollow">https://www.psychologicalscience.org/journals/psychological-science/0956797613501884/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Psychological Science - APSPsychological Science AWE, UNCERTAINTY, AND AGENCY DETECTION Piercarlo Valdesolo, Jesse Graham Volume 25, Issu...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: ovid.com  
    Title: * Linton, Susan Author information * ^{1}Graduate School of Bus  
-   Link: <a href="https://www.ovid.com/journals/jpspy/abstract/00005205-200112000-00001~judgment-under-emotional-certainty-and-uncertainty-the" target="_blank" rel="noopener noreferrer nofollow">https://www.ovid.com/journals/jpspy/abstract/00005205-200112000-00001~judgment-under-emotional-certainty-and-uncertainty-the</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Judgment Under Emotional Certainty and Uncertainty: Journal of Personality and Social PsychologyDecember 1, 2001 — JUDGMENT UNDER EMOTIO...</p></details>
+   Link:<a href="https://www.ovid.com/journals/jpspy/abstract/00005205-200112000-00001~judgment-under-emotional-certainty-and-uncertainty-the" target="_blank" rel="noopener noreferrer nofollow">https://www.ovid.com/journals/jpspy/abstract/00005205-200112000-00001~judgment-under-emotional-certainty-and-uncertainty-the</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Judgment Under Emotional Certainty and Uncertainty: Journal of Personality and Social PsychologyDecember 1, 2001 — JUDGMENT UNDER EMOTIO...</p></details>
    Published: December 1, 2001  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: tandfonline.com  
    Title: Full article: Mistrust, uncertainty and health risks  
-   Link: <a href="https://www.tandfonline.com/doi/abs/10.1080/21582041.2020.1804070" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/abs/10.1080/21582041.2020.1804070</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>BreakwellUniversity of Bath, Bath, UK Correspondence vcsgmb@bath.ac.uk [https://orcid.org/0000-0002-2002-5681](https://orcid.org/0000-0002-2002-5681) Pages 504-516 | Received 08...</p></details>
+   Link:<a href="https://www.tandfonline.com/doi/abs/10.1080/21582041.2020.1804070" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/abs/10.1080/21582041.2020.1804070</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>BreakwellUniversity of Bath, Bath, UK Correspondence vcsgmb@bath.ac.uk [https://orcid.org/0000-0002-2002-5681](https://orcid.org/0000-0002-2002-5681) Pages 504-516 | Received 08...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: cambridge.org  
    Title: Grüning [Opens in a new window] and Joachim I. Kr  
-   Link: <a href="https://www.cambridge.org/core/product/2B51024AE3F7DA53358F73887FBD5445" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/product/2B51024AE3F7DA53358F73887FBD5445</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Uncertainty reduction as an alternative explanation of historical myths | Behavioral and Brain Sciences | Cambridge CoreJanuary 2, 2025 —...</p></details>
+   Link:<a href="https://www.cambridge.org/core/product/2B51024AE3F7DA53358F73887FBD5445" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/product/2B51024AE3F7DA53358F73887FBD5445</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Uncertainty reduction as an alternative explanation of historical myths | Behavioral and Brain Sciences | Cambridge CoreJanuary 2, 2025 —...</p></details>
    Published: January 2, 2025  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/36224749/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/36224749/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Examining the Role of Uncertainty, Negative Emotions, and Perceived Relevance and Threat - PubMedOctober 12, 2022 —. 2023 Dec;38(14):309...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/36224749/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/36224749/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Examining the Role of Uncertainty, Negative Emotions, and Perceived Relevance and Threat - PubMedOctober 12, 2022 —. 2023 Dec;38(14):309...</p></details>
    Published: October 12, 2022  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/39743795/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/39743795/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>2025 Jan 2:47:e189. doi: 10.1017/S0140525X2400061X. A TERROR MANAGEMENT THEORY PERSPECTIVE ON THE APPEAL OF HISTORICAL MYTHS Tom Pyszczyn...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/39743795/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/39743795/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>2025 Jan 2:47:e189. doi: 10.1017/S0140525X2400061X. A TERROR MANAGEMENT THEORY PERSPECTIVE ON THE APPEAL OF HISTORICAL MYTHS Tom Pyszczyn...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/6861361/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/6861361/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>2019 Nov 12;10:2504. doi: 10.3389/fpsyg.2019.02504 THE RELATIONSHIP BETWEEN UNCERTAINTY AND AFFECT Eric C Anderson ERIC C ANDERSON ^{1}Ce...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/6861361/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/6861361/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>2019 Nov 12;10:2504. doi: 10.3389/fpsyg.2019.02504 THE RELATIONSHIP BETWEEN UNCERTAINTY AND AFFECT Eric C Anderson ERIC C ANDERSON ^{1}Ce...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: youtube.com  
    Title: The Psychology of Uncertainty and Misinformation  
-   Link: <a href="https://www.youtube.com/watch?v=R2_1835vj7Y" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=R2_1835vj7Y</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Psychology of uncertainty and conspiracy theories The Psychology of Conspiracy Theorists Psychology with Dr. Ana...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=R2_1835vj7Y" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=R2_1835vj7Y</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Psychology of uncertainty and conspiracy theories The Psychology of Conspiracy Theorists Psychology with Dr. Ana...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7539247/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC7539247/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>2020 Oct 7;5:47. doi: 10.1186/s41235-020-00252-3 RELIANCE ON EMOTION PROMOTES BELIEF IN FAKE NEWS Cameron Martel CAMERON MARTEL ^{1}Sloan...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7539247/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC7539247/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>2020 Oct 7;5:47. doi: 10.1186/s41235-020-00252-3 RELIANCE ON EMOTION PROMOTES BELIEF IN FAKE NEWS Cameron Martel CAMERON MARTEL ^{1}Sloan...</p></details>

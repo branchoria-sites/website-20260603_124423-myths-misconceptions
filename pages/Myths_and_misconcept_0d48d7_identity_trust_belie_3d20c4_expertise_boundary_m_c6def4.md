@@ -268,7 +268,7 @@ image: /assets/images/Myths_and_misconcept_0d48d7_identity_trust_belie_3d20c4_ex
 
 ## Introduction
 
-A common misconception about expertise is that it travels intact from one subject to another. In reality, a person can be highly knowledgeable in one field and badly mistaken in another. Yet when a respected surgeon comments on economics, a famous physicist promotes a medical claim, or a successful entrepreneur explains history, audiences often carry over trust earned in one domain and apply it to a different one. This is one way myths survive: not because the speaker lacks ability, but because credibility becomes detached from the limits of their actual expertise. Research on source credibility consistently finds that people use cues such as expertise, trustworthiness and authority when deciding what to believe, especially when they cannot independently verify a claim. <span class="citation-chip-wrap"><a class="citation-chip" href="https://advances.in/psychology/10.56296/aip00028/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: advances.in">[Advances.in]</a><span class="citation-popover" role="note"><span class="citation-popover-source">advances.in</span><span class="citation-popover-snippet">Source credibility effects in misinformation research: A review...by V Mang · 2024 · Cited by 14 — We searched Web of Science, Scopus, a...</span></span></span> ScienceDirect The risk is not that experts are useless guides. Modern societies depend on expertise. The problem appears when professional status is treate <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/topics/social-sciences/source-credibility" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[sciencedirect.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-title">ScienceDirect Source credibility</span><span class="citation-popover-snippet">Source credibility - an overviewA source&#x27;s credibility rests on two major characteristics: expertise and trustworthiness...</span></span></span> d as a general licence to speak authoritatively on any subject. At that point, genuine expertise can unintentionally become a vehicle for misinformation.
+A common misconception about expertise is that it travels intact from one subject to another. In reality, a person can be highly knowledgeable in one field and badly mistaken in another. Yet when a respected surgeon comments on economics, a famous physicist promotes a medical claim, or a successful entrepreneur explains history, audiences often carry over trust earned in one domain and apply it to a different one. This is one way myths survive: not because the speaker lacks ability, but because credibility becomes detached from the limits of their actual expertise. Research on source credibility consistently finds that people use cues such as expertise, trustworthiness and authority when deciding what to believe, especially when they cannot independently verify a claim.<span class="citation-chip-wrap"><a class="citation-chip" href="https://advances.in/psychology/10.56296/aip00028/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: advances.in">[Advances.in]</a><span class="citation-popover" role="note"><span class="citation-popover-source">advances.in</span><span class="citation-popover-snippet">Source credibility effects in misinformation research: A review...by V Mang · 2024 · Cited by 14 — We searched Web of Science, Scopus, a...</span></span></span> ScienceDirect The risk is not that experts are useless guides. Modern societies depend on expertise. The problem appears when professional status is treate<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/topics/social-sciences/source-credibility" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[sciencedirect.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-title">ScienceDirect Source credibility</span><span class="citation-popover-snippet">Source credibility - an overviewA source&#x27;s credibility rests on two major characteristics: expertise and trustworthiness...</span></span></span> d as a general licence to speak authoritatively on any subject. At that point, genuine expertise can unintentionally become a vehicle for misinformation.
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_identity_trust_belie_3d20c4_expertise_boundary_m_c6def4-Illustration-1-dark.svg" | relative_url }}" alt="Expert Limits illustration 1" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_identity_trust_belie_3d20c4_expertise_boundary_m_c6def4-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_identity_trust_belie_3d20c4_expertise_boundary_m_c6def4-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Expertise versus trustworthiness
@@ -282,9 +282,9 @@ People often combine two separate questions into one:
 
 </div>
 
-Source-credibility research has long distinguished expertise from trustworthiness. Expertise refers to whether a person is in a position to know. Trustworthiness refers to whether they are likely to be honest and reliable. Someone may score highly on one dimension without automatically scoring highly on the other. <span class="citation-chip-wrap"><a class="citation-chip" href="https://flanagin.faculty.comm.ucsb.edu/CV/Hocevaretal2018%28E%29.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: flanagin.faculty.comm.ucsb.edu">[2flanagin.faculty.comm.ucsb.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">flanagin.faculty.comm.ucsb.edu</span><span class="citation-popover-snippet">e trustworthiness and expertise, and the effect of credibility on changes in attitudes...Read more...</span></span></span>
+Source-credibility research has long distinguished expertise from trustworthiness. Expertise refers to whether a person is in a position to know. Trustworthiness refers to whether they are likely to be honest and reliable. Someone may score highly on one dimension without automatically scoring highly on the other.<span class="citation-chip-wrap"><a class="citation-chip" href="https://flanagin.faculty.comm.ucsb.edu/CV/Hocevaretal2018%28E%29.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: flanagin.faculty.comm.ucsb.edu">[2flanagin.faculty.comm.ucsb.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">flanagin.faculty.comm.ucsb.edu</span><span class="citation-popover-snippet">e trustworthiness and expertise, and the effect of credibility on changes in attitudes...Read more...</span></span></span>
 
-The confusion begins when audiences treat expertise as a personal trait rather than a domain-specific one. A respected cardiologist may be an excellent source on heart disease but not necessarily on climate modelling. A Nobel Prize-winning chemist may understand chemistry deeply without possessing special insight into public health policy. Credentials often create a "halo effect" in which success in one area spills over into perceived competence elsewhere. <span class="citation-chip-wrap"><a class="citation-chip" href="https://thedecisionlab.com/biases/authority-bias" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thedecisionlab.com">[The Decision Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thedecisionlab.com</span><span class="citation-popover-snippet">The Decision LabAuthority BiasThe authority bias is a cognitive bias which refers to our tendency to be more influenced by the opinions a...</span></span></span>
+The confusion begins when audiences treat expertise as a personal trait rather than a domain-specific one. A respected cardiologist may be an excellent source on heart disease but not necessarily on climate modelling. A Nobel Prize-winning chemist may understand chemistry deeply without possessing special insight into public health policy. Credentials often create a "halo effect" in which success in one area spills over into perceived competence elsewhere.<span class="citation-chip-wrap"><a class="citation-chip" href="https://thedecisionlab.com/biases/authority-bias" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thedecisionlab.com">[The Decision Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thedecisionlab.com</span><span class="citation-popover-snippet">The Decision LabAuthority BiasThe authority bias is a cognitive bias which refers to our tendency to be more influenced by the opinions a...</span></span></span>
 
 This is usually not deliberate deception. The expert may sincerely believe they are applying sound reasoning. The audience may sincerely believe they are following a trustworthy authority. The mismatch lies in the assumption that expertise transfers automatically across fields.
 
@@ -300,25 +300,25 @@ The result is a recurring pattern: a credible professional speaks outside their 
 
 ## Why confidence travels beyond competence
 
-Authority bias describes the tendency to assign extra weight to claims made by perceived authorities. People often evaluate information partly through the status of the speaker rather than solely through the evidence itself. <span class="citation-chip-wrap"><a class="citation-chip" href="https://thedecisionlab.com/biases/authority-bias" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thedecisionlab.com">[The Decision Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thedecisionlab.com</span><span class="citation-popover-snippet">The Decision LabAuthority BiasThe authority bias is a cognitive bias which refers to our tendency to be more influenced by the opinions a...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://dovetail.com/research/what-is-authority-bias/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dovetail.com">[dovetail]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dovetail.com</span><span class="citation-popover-title">what is authority bias</span><span class="citation-popover-snippet">What you need to know about authority bias17 Jan 2024 — Authority bias is a tendency to attribute greater accuracy and truth to statement...</span></span></span> This becomes especially powerful when [confidence]({{ 'confidence/' | relative_url }}) accompanies prestige. A confident statement delivered by a decorated expert can feel more persuasive than a cautious statement delivered by a less famous specialist. Yet confidence is not a reliable indicator of correctness.
+Authority bias describes the tendency to assign extra weight to claims made by perceived authorities. People often evaluate information partly through the status of the speaker rather than solely through the evidence itself.<span class="citation-chip-wrap"><a class="citation-chip" href="https://thedecisionlab.com/biases/authority-bias" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thedecisionlab.com">[The Decision Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thedecisionlab.com</span><span class="citation-popover-snippet">The Decision LabAuthority BiasThe authority bias is a cognitive bias which refers to our tendency to be more influenced by the opinions a...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://dovetail.com/research/what-is-authority-bias/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dovetail.com">[dovetail]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dovetail.com</span><span class="citation-popover-title">what is authority bias</span><span class="citation-popover-snippet">What you need to know about authority bias17 Jan 2024 — Authority bias is a tendency to attribute greater accuracy and truth to statement...</span></span></span> This becomes especially powerful when [confidence]({{ 'confidence/' | relative_url }}) accompanies prestige. A confident statement delivered by a decorated expert can feel more persuasive than a cautious statement delivered by a less famous specialist. Yet confidence is not a reliable indicator of correctness.
 
 Several mechanisms help explain why myths can spread through respected figures:
 
-**Status reduces scepticism.** Audiences often lower their guard when hearing a recognised authority. Questions that might be asked of an unknown speaker go unasked. <span class="citation-chip-wrap"><a class="citation-chip" href="https://thedecisionlab.com/biases/authority-bias" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thedecisionlab.com">[The Decision Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thedecisionlab.com</span><span class="citation-popover-snippet">The Decision LabAuthority BiasThe authority bias is a cognitive bias which refers to our tendency to be more influenced by the opinions a...</span></span></span>
+**Status reduces scepticism.** Audiences often lower their guard when hearing a recognised authority. Questions that might be asked of an unknown speaker go unasked.<span class="citation-chip-wrap"><a class="citation-chip" href="https://thedecisionlab.com/biases/authority-bias" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thedecisionlab.com">[The Decision Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thedecisionlab.com</span><span class="citation-popover-snippet">The Decision LabAuthority BiasThe authority bias is a cognitive bias which refers to our tendency to be more influenced by the opinions a...</span></span></span>
 
 **Media incentives reward certainty.** Television, podcasts and social media tend to reward clear opinions and strong narratives. Experts who express uncertainty may appear less compelling than those who offer confident conclusions.
 
-**Professional success can encourage overreach.** Repeated success within one field may create a reasonable belief in one's own judgement. Over time, that confidence can extend into areas where the evidence base is unfamiliar. Researchers studying expertise bias have examined how people can assign excessive epistemic authority to recognised experts, even outside the relevant domain. <span class="citation-chip-wrap"><a class="citation-chip" href="https://english.swps.pl/42-research/research-project-database/research-projects/2239-the-expertise-bias" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: english.swps.pl">[SWPS University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">english.swps.pl</span><span class="citation-popover-snippet">SWPS UniversityThe Expertise Bias: its psychological mechanisms, sources...The main goal of the present project will be to study how lay...</span></span></span>
+**Professional success can encourage overreach.** Repeated success within one field may create a reasonable belief in one's own judgement. Over time, that confidence can extend into areas where the evidence base is unfamiliar. Researchers studying expertise bias have examined how people can assign excessive epistemic authority to recognised experts, even outside the relevant domain.<span class="citation-chip-wrap"><a class="citation-chip" href="https://english.swps.pl/42-research/research-project-database/research-projects/2239-the-expertise-bias" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: english.swps.pl">[SWPS University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">english.swps.pl</span><span class="citation-popover-snippet">SWPS UniversityThe Expertise Bias: its psychological mechanisms, sources...The main goal of the present project will be to study how lay...</span></span></span>
 
-**Audiences prefer cognitive shortcuts.** Most people cannot independently evaluate complex scientific or technical claims. Trusting experts is usually sensible. Problems emerge when the shortcut becomes too broad and the audience stops asking whether the authority is actually relevant to the topic at hand. <span class="citation-chip-wrap"><a class="citation-chip" href="https://academic.oup.com/jcmc/article/6/4/JCMC643/4584226" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academic.oup.com">[OUP Academic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academic.oup.com</span><span class="citation-popover-snippet">OUP AcademicCredibility Assessments of Online Health Informationby MS Eastin · 2001 · Cited by 610 — For example, as personal relevance i...</span></span></span>
+**Audiences prefer cognitive shortcuts.** Most people cannot independently evaluate complex scientific or technical claims. Trusting experts is usually sensible. Problems emerge when the shortcut becomes too broad and the audience stops asking whether the authority is actually relevant to the topic at hand.<span class="citation-chip-wrap"><a class="citation-chip" href="https://academic.oup.com/jcmc/article/6/4/JCMC643/4584226" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academic.oup.com">[OUP Academic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academic.oup.com</span><span class="citation-popover-snippet">OUP AcademicCredibility Assessments of Online Health Informationby MS Eastin · 2001 · Cited by 610 — For example, as personal relevance i...</span></span></span>
 
 ## The "Nobel disease" problem
 
-One of the most discussed illustrations of this pattern is the informal idea known as "Nobel disease". The term refers to cases where Nobel Prize winners later endorse claims that many experts regard as unsupported or pseudoscientific, often outside the area for which they received their prize. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Source_credibility" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Source credibility</span><span class="citation-popover-snippet">Source credibility</span></span></span>
+One of the most discussed illustrations of this pattern is the informal idea known as "Nobel disease". The term refers to cases where Nobel Prize winners later endorse claims that many experts regard as unsupported or pseudoscientific, often outside the area for which they received their prize.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Source_credibility" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Source credibility</span><span class="citation-popover-snippet">Source credibility</span></span></span>
 
 The phrase is controversial because it can be used too casually. Winning a Nobel Prize does not make someone irrational, and some unconventional ideas later turn out to be correct. The more important lesson is narrower: extraordinary achievement in one field does not eliminate the possibility of error elsewhere.
 
-Even Nobel laureates themselves have warned about this tendency. According to accounts cited in discussions of the phenomenon, Nobel Prize-winning biologist Paul Nurse cautioned winners against believing they had become experts on nearly everything simply because they had received the prize. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Authority_bias" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Authority bias</span><span class="citation-popover-snippet">Authority biasAuthority bias is the tendency to attribute greater accuracy to the opinion of an authority figure (unrelated to its con...</span></span></span>
+Even Nobel laureates themselves have warned about this tendency. According to accounts cited in discussions of the phenomenon, Nobel Prize-winning biologist Paul Nurse cautioned winners against believing they had become experts on nearly everything simply because they had received the prize.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Authority_bias" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Authority bias</span><span class="citation-popover-snippet">Authority biasAuthority bias is the tendency to attribute greater accuracy to the opinion of an authority figure (unrelated to its con...</span></span></span>
 
 The significance of these cases is not that experts sometimes make mistakes. Everyone does. The significance is that the public often treats prestigious credentials as universal evidence of authority. The myth gains strength not from the claim itself but from the reputation attached to it.
 
@@ -327,14 +327,14 @@ The significance of these cases is not that experts sometimes make mistakes. Eve
 
 False claims spread by respected experts can be unusually resilient because the [correction]({{ 'correction/' | relative_url }}) faces a credibility problem.
 
-Research on misinformation shows that source credibility influences how people evaluate both the original claim and later [corrections]({{ 'corrections/' | relative_url }}). Expertise and trustworthiness affect whether audiences update their beliefs. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9718466/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">by MW Susmann · 2022 · Cited by 24 — Past research suggests that the trustworthiness of a source issuing a retraction of misinformatio...</span></span></span> ScienceDirect Imagine two scenarios: <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/topics/social-sciences/source-credibility" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[sciencedirect.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-title">ScienceDirect Source credibility</span><span class="citation-popover-snippet">Source credibility - an overviewA source&#x27;s credibility rests on two major characteristics: expertise and trustworthiness...</span></span></span>
+Research on misinformation shows that source credibility influences how people evaluate both the original claim and later [corrections]({{ 'corrections/' | relative_url }}). Expertise and trustworthiness affect whether audiences update their beliefs.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9718466/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">by MW Susmann · 2022 · Cited by 24 — Past research suggests that the trustworthiness of a source issuing a retraction of misinformatio...</span></span></span> ScienceDirect Imagine two scenarios:<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/topics/social-sciences/source-credibility" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[sciencedirect.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-title">ScienceDirect Source credibility</span><span class="citation-popover-snippet">Source credibility - an overviewA source&#x27;s credibility rests on two major characteristics: expertise and trustworthiness...</span></span></span>
 
 * An unsupported medical claim comes from an anonymous social-media account.
 * The same claim comes from a famous physician speaking outside their specialty.
 
 The factual content is identical, but the second version is likely to receive greater attention and trust because the source appears more credible.
 
-Studies of misinformation correction suggest that highly credible sources can make misinformation more resistant to change. People often compare the status of the correcting source against the status of the original source rather than evaluating the correction in isolation. NYMCTU Academic Hub <span class="citation-chip-wrap"><a class="citation-chip" href="https://link.springer.com/article/10.3758/s13421-023-01402-w" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer Link]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">Springer LinkThe impact of misinformation corrections on source perceptionsby V Westbrook · 2023 · Cited by 26 — Birds of a feather are p...</span></span></span>
+Studies of misinformation correction suggest that highly credible sources can make misinformation more resistant to change. People often compare the status of the correcting source against the status of the original source rather than evaluating the correction in isolation. NYMCTU Academic Hub<span class="citation-chip-wrap"><a class="citation-chip" href="https://link.springer.com/article/10.3758/s13421-023-01402-w" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer Link]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">Springer LinkThe impact of misinformation corrections on source perceptionsby V Westbrook · 2023 · Cited by 26 — Birds of a feather are p...</span></span></span>
 
 This helps explain why expert-driven myths can linger. The audience may feel that rejecting the claim requires rejecting the authority figure who delivered it. Once trust becomes attached to the source, factual correction alone may not be enough.
 
@@ -365,7 +365,7 @@ A lone celebrity scientist making a dramatic claim may attract attention. A posi
 
 Sometimes an argument relies more on the speaker's achievements than on evidence.
 
-If the main reason a claim seems persuasive is that the person is famous, accomplished or highly credentialled, that is a signal to examine the evidence more carefully. Philosophers and critical-thinking researchers describe this problem as a form of misplaced authority: a person may be an authority, but not on the matter currently being discussed. <span class="citation-chip-wrap"><a class="citation-chip" href="https://philosophy.stackexchange.com/questions/88666/fallacy-cognitive-bias-of-assuming-that-being-an-expert-in-one-field-makes-you-a" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: philosophy.stackexchange.com">[Philosophy Stack Exchange]</a><span class="citation-popover" role="note"><span class="citation-popover-source">philosophy.stackexchange.com</span><span class="citation-popover-snippet">Philosophy Stack ExchangeFallacy/Cognitive Bias of assuming that being an expert in...30 Dec 2021 — The belief that expertise is transit...</span></span></span>
+If the main reason a claim seems persuasive is that the person is famous, accomplished or highly credentialled, that is a signal to examine the evidence more carefully. Philosophers and critical-thinking researchers describe this problem as a form of misplaced authority: a person may be an authority, but not on the matter currently being discussed.<span class="citation-chip-wrap"><a class="citation-chip" href="https://philosophy.stackexchange.com/questions/88666/fallacy-cognitive-bias-of-assuming-that-being-an-expert-in-one-field-makes-you-a" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: philosophy.stackexchange.com">[Philosophy Stack Exchange]</a><span class="citation-popover" role="note"><span class="citation-popover-source">philosophy.stackexchange.com</span><span class="citation-popover-snippet">Philosophy Stack ExchangeFallacy/Cognitive Bias of assuming that being an expert in...30 Dec 2021 — The belief that expertise is transit...</span></span></span>
 
 ### Pay attention to uncertainty
 
@@ -384,194 +384,194 @@ The more useful lesson is that expertise has boundaries. Trust works best when i
 Many myths persist because audiences ask, "Is this person smart?" when the more important question is, "Is this person qualified to know this particular thing?" The difference between those questions is often the difference between informed trust and misplaced authority.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When experts are trusted for the wrong thing. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When experts are trusted for the wrong thing. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Superforecasting+by+Philip+E.+Tetlock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Superforecasting on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_lMPDAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Superforecasting" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Superforecasting+by+Philip+E.+Tetlock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Superforecasting">Superforecasting</a>
-        </h4>
-        <p class="fr-book-author">By Philip E. Tetlock, Dan Gardner</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Superforecasting+by+Philip+E.+Tetlock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Superforecasting on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_lMPDAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Superforecasting" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Superforecasting+by+Philip+E.+Tetlock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Superforecasting">Superforecasting</a>
+</h4>
+<p class="fr-book-author">By Philip E. Tetlock, Dan Gardner</p>
         
-        <p class="fr-book-desc">Shows how expertise works when disciplined by evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Superforecasting+by+Philip+E.+Tetlock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows how expertise works when disciplined by evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Superforecasting+by+Philip+E.+Tetlock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YGPzXWanppcC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
-        </h4>
-        <p class="fr-book-author">By Daniel Kahneman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YGPzXWanppcC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
+</h4>
+<p class="fr-book-author">By Daniel Kahneman</p>
         
-        <p class="fr-book-desc">Explains overconfidence and judgment errors.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains overconfidence and judgment errors.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Calling Bullshit on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Plu9DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Calling Bullshit" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Calling Bullshit">Calling Bullshit</a>
-        </h4>
-        <p class="fr-book-author">By Carl T. Bergstrom, Jevin D. West</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Calling Bullshit on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Plu9DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Calling Bullshit" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Calling Bullshit">Calling Bullshit</a>
+</h4>
+<p class="fr-book-author">By Carl T. Bergstrom, Jevin D. West</p>
         
-        <p class="fr-book-desc">Encourages evaluating claims regardless of speaker status.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Encourages evaluating claims regardless of speaker status.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+death+of+expertise+Thomas+M.+Nichols&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The death of expertise on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/14456978-M.jpg" alt="Cover for The death of expertise" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+death+of+expertise+Thomas+M.+Nichols&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The death of expertise">The death of expertise</a>
-        </h4>
-        <p class="fr-book-author">By Thomas M. Nichols, Sean Pratt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+death+of+expertise+Thomas+M.+Nichols&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The death of expertise on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/14456978-M.jpg" alt="Cover for The death of expertise" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+death+of+expertise+Thomas+M.+Nichols&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The death of expertise">The death of expertise</a>
+</h4>
+<p class="fr-book-author">By Thomas M. Nichols, Sean Pratt</p>
         
-        <p class="fr-book-desc">First published 2017. Subjects: Higher Education, Sociology of Knowledge, Theory of Knowledge, Internet, Expertise.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+death+of+expertise+Thomas+M.+Nichols&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2017. Subjects: Higher Education, Sociology of Knowledge, Theory of Knowledge, Internet, Expertise.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+death+of+expertise+Thomas+M.+Nichols&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Superforecasting&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Superforecasting</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Calling+Bullshit&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Calling Bullshit</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Superforecasting&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Superforecasting</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Calling+Bullshit&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Calling Bullshit</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=expert-limits-when-experts-are-trusted-for-the-wrong-thing-myths-and-misconcept-teacher-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher mug" data-ebay-reference="expert-limits-when-experts-are-trusted-for-the-wrong-thing-myths-and-misconcept-teacher-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Custom Teacher Name Tumbler | Personalised Coffee Cup for Teachers | Gift Mug"><img src="{{ '/assets/images/marketplace-covers/59aaf08c5f528d2799f3.jpg' | relative_url }}" alt="Listing image for Custom Teacher Name Tumbler | Personalised Coffee Cup for Teachers | Gift Mug" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=expert-limits-when-experts-are-trusted-for-the-wrong-thing-myths-and-misconcept-teacher-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher mug" data-ebay-reference="expert-limits-when-experts-are-trusted-for-the-wrong-thing-myths-and-misconcept-teacher-mug" target="_blank" rel="sponsored noopener noreferrer">Custom Teacher Name Tumbler | Personalised Coffee Cup for Teachers | Gift Mug</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=expert-limits-when-experts-are-trusted-for-the-wrong-thing-myths-and-misconcept-teacher-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher mug" data-ebay-reference="expert-limits-when-experts-are-trusted-for-the-wrong-thing-myths-and-misconcept-teacher-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for teacher mug">Search <span data-ebay-domain-label>eBay.co.uk</span>: teacher mug</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=expert-limits-when-experts-are-trusted-for-the-wrong-thing-myths-and-misconcept-teacher-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher mug" data-ebay-reference="expert-limits-when-experts-are-trusted-for-the-wrong-thing-myths-and-misconcept-teacher-mug" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=expert-limits-when-experts-are-trusted-for-the-wrong-thing-myths-and-misconcept-teacher-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher mug" data-ebay-reference="expert-limits-when-experts-are-trusted-for-the-wrong-thing-myths-and-misconcept-teacher-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Custom Teacher Name Tumbler | Personalised Coffee Cup for Teachers | Gift Mug"><img src="{{ '/assets/images/marketplace-covers/59aaf08c5f528d2799f3.jpg' | relative_url }}" alt="Listing image for Custom Teacher Name Tumbler | Personalised Coffee Cup for Teachers | Gift Mug" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=expert-limits-when-experts-are-trusted-for-the-wrong-thing-myths-and-misconcept-teacher-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher mug" data-ebay-reference="expert-limits-when-experts-are-trusted-for-the-wrong-thing-myths-and-misconcept-teacher-mug" target="_blank" rel="sponsored noopener noreferrer">Custom Teacher Name Tumbler | Personalised Coffee Cup for Teachers | Gift Mug</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=expert-limits-when-experts-are-trusted-for-the-wrong-thing-myths-and-misconcept-teacher-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher mug" data-ebay-reference="expert-limits-when-experts-are-trusted-for-the-wrong-thing-myths-and-misconcept-teacher-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for teacher mug">Search<span data-ebay-domain-label>eBay.co.uk</span>: teacher mug</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=expert-limits-when-experts-are-trusted-for-the-wrong-thing-myths-and-misconcept-teacher-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher mug" data-ebay-reference="expert-limits-when-experts-are-trusted-for-the-wrong-thing-myths-and-misconcept-teacher-mug" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=expert-limits-when-experts-are-trusted-for-the-wrong-thing-myths-and-misconcept-teacher-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher mug" data-ebay-reference="expert-limits-when-experts-are-trusted-for-the-wrong-thing-myths-and-misconcept-teacher-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for personalised Thank you Teacher mugs 7 choices Name Tea Coffee Mug White 11Oz"><img src="{{ '/assets/images/marketplace-covers/2e5a973ba1e8e323ef2b.jpg' | relative_url }}" alt="Listing image for personalised Thank you Teacher mugs 7 choices Name Tea Coffee Mug White 11Oz" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=expert-limits-when-experts-are-trusted-for-the-wrong-thing-myths-and-misconcept-teacher-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher mug" data-ebay-reference="expert-limits-when-experts-are-trusted-for-the-wrong-thing-myths-and-misconcept-teacher-mug" target="_blank" rel="sponsored noopener noreferrer">personalised Thank you Teacher mugs 7 choices Name Tea Coffee Mug White 11Oz</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=expert-limits-when-experts-are-trusted-for-the-wrong-thing-myths-and-misconcept-teacher-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher mug" data-ebay-reference="expert-limits-when-experts-are-trusted-for-the-wrong-thing-myths-and-misconcept-teacher-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for teacher mug">Search <span data-ebay-domain-label>eBay.co.uk</span>: teacher mug</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=expert-limits-when-experts-are-trusted-for-the-wrong-thing-myths-and-misconcept-teacher-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher mug" data-ebay-reference="expert-limits-when-experts-are-trusted-for-the-wrong-thing-myths-and-misconcept-teacher-mug" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=expert-limits-when-experts-are-trusted-for-the-wrong-thing-myths-and-misconcept-teacher-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher mug" data-ebay-reference="expert-limits-when-experts-are-trusted-for-the-wrong-thing-myths-and-misconcept-teacher-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for personalised Thank you Teacher mugs 7 choices Name Tea Coffee Mug White 11Oz"><img src="{{ '/assets/images/marketplace-covers/2e5a973ba1e8e323ef2b.jpg' | relative_url }}" alt="Listing image for personalised Thank you Teacher mugs 7 choices Name Tea Coffee Mug White 11Oz" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=expert-limits-when-experts-are-trusted-for-the-wrong-thing-myths-and-misconcept-teacher-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher mug" data-ebay-reference="expert-limits-when-experts-are-trusted-for-the-wrong-thing-myths-and-misconcept-teacher-mug" target="_blank" rel="sponsored noopener noreferrer">personalised Thank you Teacher mugs 7 choices Name Tea Coffee Mug White 11Oz</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=expert-limits-when-experts-are-trusted-for-the-wrong-thing-myths-and-misconcept-teacher-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher mug" data-ebay-reference="expert-limits-when-experts-are-trusted-for-the-wrong-thing-myths-and-misconcept-teacher-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for teacher mug">Search<span data-ebay-domain-label>eBay.co.uk</span>: teacher mug</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=expert-limits-when-experts-are-trusted-for-the-wrong-thing-myths-and-misconcept-teacher-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher mug" data-ebay-reference="expert-limits-when-experts-are-trusted-for-the-wrong-thing-myths-and-misconcept-teacher-mug" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=expert-limits-when-experts-are-trusted-for-the-wrong-thing-myths-and-misconcept-teacher-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher mug" data-ebay-reference="expert-limits-when-experts-are-trusted-for-the-wrong-thing-myths-and-misconcept-teacher-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Personalized Teacher Mug: Custom Name Gift, End of Year Appreciation"><img src="{{ '/assets/images/marketplace-covers/31a23af4629cbeb95306.jpg' | relative_url }}" alt="Listing image for Personalized Teacher Mug: Custom Name Gift, End of Year Appreciation" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=expert-limits-when-experts-are-trusted-for-the-wrong-thing-myths-and-misconcept-teacher-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher mug" data-ebay-reference="expert-limits-when-experts-are-trusted-for-the-wrong-thing-myths-and-misconcept-teacher-mug" target="_blank" rel="sponsored noopener noreferrer">Personalized Teacher Mug: Custom Name Gift, End of Year Appreciation</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=expert-limits-when-experts-are-trusted-for-the-wrong-thing-myths-and-misconcept-teacher-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher mug" data-ebay-reference="expert-limits-when-experts-are-trusted-for-the-wrong-thing-myths-and-misconcept-teacher-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for teacher mug">Search <span data-ebay-domain-label>eBay.co.uk</span>: teacher mug</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=expert-limits-when-experts-are-trusted-for-the-wrong-thing-myths-and-misconcept-teacher-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher mug" data-ebay-reference="expert-limits-when-experts-are-trusted-for-the-wrong-thing-myths-and-misconcept-teacher-mug" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=expert-limits-when-experts-are-trusted-for-the-wrong-thing-myths-and-misconcept-teacher-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher mug" data-ebay-reference="expert-limits-when-experts-are-trusted-for-the-wrong-thing-myths-and-misconcept-teacher-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Personalized Teacher Mug: Custom Name Gift, End of Year Appreciation"><img src="{{ '/assets/images/marketplace-covers/31a23af4629cbeb95306.jpg' | relative_url }}" alt="Listing image for Personalized Teacher Mug: Custom Name Gift, End of Year Appreciation" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=expert-limits-when-experts-are-trusted-for-the-wrong-thing-myths-and-misconcept-teacher-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher mug" data-ebay-reference="expert-limits-when-experts-are-trusted-for-the-wrong-thing-myths-and-misconcept-teacher-mug" target="_blank" rel="sponsored noopener noreferrer">Personalized Teacher Mug: Custom Name Gift, End of Year Appreciation</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=expert-limits-when-experts-are-trusted-for-the-wrong-thing-myths-and-misconcept-teacher-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher mug" data-ebay-reference="expert-limits-when-experts-are-trusted-for-the-wrong-thing-myths-and-misconcept-teacher-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for teacher mug">Search<span data-ebay-domain-label>eBay.co.uk</span>: teacher mug</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=expert-limits-when-experts-are-trusted-for-the-wrong-thing-myths-and-misconcept-teacher-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher mug" data-ebay-reference="expert-limits-when-experts-are-trusted-for-the-wrong-thing-myths-and-misconcept-teacher-mug" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=expert-limits-when-experts-are-trusted-for-the-wrong-thing-myths-and-misconcept-teacher-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher mug" data-ebay-reference="expert-limits-when-experts-are-trusted-for-the-wrong-thing-myths-and-misconcept-teacher-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The Best Teacher Coffee/Tea Ceramic Mug 11Oz For Office or Teacher Birthday Gift"><img src="{{ '/assets/images/marketplace-covers/df6b3cfb24dcc564fe48.jpg' | relative_url }}" alt="Listing image for The Best Teacher Coffee/Tea Ceramic Mug 11Oz For Office or Teacher Birthday Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=expert-limits-when-experts-are-trusted-for-the-wrong-thing-myths-and-misconcept-teacher-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher mug" data-ebay-reference="expert-limits-when-experts-are-trusted-for-the-wrong-thing-myths-and-misconcept-teacher-mug" target="_blank" rel="sponsored noopener noreferrer">The Best Teacher Coffee/Tea Ceramic Mug 11Oz For Office or Teacher Birthday Gift</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=expert-limits-when-experts-are-trusted-for-the-wrong-thing-myths-and-misconcept-teacher-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher mug" data-ebay-reference="expert-limits-when-experts-are-trusted-for-the-wrong-thing-myths-and-misconcept-teacher-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for teacher mug">Search <span data-ebay-domain-label>eBay.co.uk</span>: teacher mug</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=expert-limits-when-experts-are-trusted-for-the-wrong-thing-myths-and-misconcept-teacher-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher mug" data-ebay-reference="expert-limits-when-experts-are-trusted-for-the-wrong-thing-myths-and-misconcept-teacher-mug" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=expert-limits-when-experts-are-trusted-for-the-wrong-thing-myths-and-misconcept-teacher-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher mug" data-ebay-reference="expert-limits-when-experts-are-trusted-for-the-wrong-thing-myths-and-misconcept-teacher-mug" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=expert-limits-when-experts-are-trusted-for-the-wrong-thing-myths-and-misconcept-teacher-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher mug" data-ebay-reference="expert-limits-when-experts-are-trusted-for-the-wrong-thing-myths-and-misconcept-teacher-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The Best Teacher Coffee/Tea Ceramic Mug 11Oz For Office or Teacher Birthday Gift"><img src="{{ '/assets/images/marketplace-covers/df6b3cfb24dcc564fe48.jpg' | relative_url }}" alt="Listing image for The Best Teacher Coffee/Tea Ceramic Mug 11Oz For Office or Teacher Birthday Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=expert-limits-when-experts-are-trusted-for-the-wrong-thing-myths-and-misconcept-teacher-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher mug" data-ebay-reference="expert-limits-when-experts-are-trusted-for-the-wrong-thing-myths-and-misconcept-teacher-mug" target="_blank" rel="sponsored noopener noreferrer">The Best Teacher Coffee/Tea Ceramic Mug 11Oz For Office or Teacher Birthday Gift</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=expert-limits-when-experts-are-trusted-for-the-wrong-thing-myths-and-misconcept-teacher-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher mug" data-ebay-reference="expert-limits-when-experts-are-trusted-for-the-wrong-thing-myths-and-misconcept-teacher-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for teacher mug">Search<span data-ebay-domain-label>eBay.co.uk</span>: teacher mug</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=expert-limits-when-experts-are-trusted-for-the-wrong-thing-myths-and-misconcept-teacher-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher mug" data-ebay-reference="expert-limits-when-experts-are-trusted-for-the-wrong-thing-myths-and-misconcept-teacher-mug" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=expert-limits-when-experts-are-trusted-for-the-wrong-thing-myths-and-misconcept-teacher-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher mug" data-ebay-reference="expert-limits-when-experts-are-trusted-for-the-wrong-thing-myths-and-misconcept-teacher-mug" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -587,7 +587,7 @@ Many myths persist because audiences ask, "Is this person smart?" when the more 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -607,7 +607,7 @@ Many myths persist because audiences ask, "Is this person smart?" when the more 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -639,7 +639,7 @@ Many myths persist because audiences ask, "Is this person smart?" when the more 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -691,7 +691,7 @@ Many myths persist because audiences ask, "Is this person smart?" when the more 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -736,7 +736,7 @@ Many myths persist because audiences ask, "Is this person smart?" when the more 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -777,154 +777,154 @@ Many myths persist because audiences ask, "Is this person smart?" when the more 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: advances.in  
-   Link: <a href="https://advances.in/psychology/10.56296/aip00028/" target="_blank" rel="noopener noreferrer nofollow">https://advances.in/psychology/10.56296/aip00028/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Source credibility effects in misinformation research: A review...by V Mang · 2024 · Cited by 14 — We searched Web of Science, Scopus, a...</p></details>
+   Link:<a href="https://advances.in/psychology/10.56296/aip00028/" target="_blank" rel="noopener noreferrer nofollow">https://advances.in/psychology/10.56296/aip00028/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Source credibility effects in misinformation research: A review...by V Mang · 2024 · Cited by 14 — We searched Web of Science, Scopus, a...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: sciencedirect.com  
    Title: ScienceDirect Source credibility  
-   Link: <a href="https://www.sciencedirect.com/topics/social-sciences/source-credibility" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/topics/social-sciences/source-credibility</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Source credibility - an overviewA source&#x27;s credibility rests on two major characteristics: expertise and trustworthiness...</p></details>
+   Link:<a href="https://www.sciencedirect.com/topics/social-sciences/source-credibility" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/topics/social-sciences/source-credibility</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Source credibility - an overviewA source&#x27;s credibility rests on two major characteristics: expertise and trustworthiness...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: flanagin.faculty.comm.ucsb.edu  
-   Link: <a href="https://flanagin.faculty.comm.ucsb.edu/CV/Hocevaretal2018%28E%29.pdf" target="_blank" rel="noopener noreferrer nofollow">https://flanagin.faculty.comm.ucsb.edu/CV/Hocevaretal2018%28E%29.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>e trustworthiness and expertise, and the effect of credibility on changes in attitudes...Read more...</p></details>
+   Link:<a href="https://flanagin.faculty.comm.ucsb.edu/CV/Hocevaretal2018%28E%29.pdf" target="_blank" rel="noopener noreferrer nofollow">https://flanagin.faculty.comm.ucsb.edu/CV/Hocevaretal2018%28E%29.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>e trustworthiness and expertise, and the effect of credibility on changes in attitudes...Read more...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: Wikipedia  
    Title: Source credibility  
-   Link: <a href="https://en.wikipedia.org/wiki/Source_credibility" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Source_credibility</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Source_credibility" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Source_credibility</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: Wikipedia  
    Title: Authority bias  
-   Link: <a href="https://en.wikipedia.org/wiki/Authority_bias" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Authority_bias</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Authority biasAuthority bias is the tendency to attribute greater accuracy to the opinion of an authority figure (unrelated to its con...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Authority_bias" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Authority_bias</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Authority biasAuthority bias is the tendency to attribute greater accuracy to the opinion of an authority figure (unrelated to its con...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: dovetail.com  
    Title: what is authority bias  
-   Link: <a href="https://dovetail.com/research/what-is-authority-bias/" target="_blank" rel="noopener noreferrer nofollow">https://dovetail.com/research/what-is-authority-bias/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>What you need to know about authority bias17 Jan 2024 — Authority bias is a tendency to attribute greater accuracy and truth to statement...</p></details>
+   Link:<a href="https://dovetail.com/research/what-is-authority-bias/" target="_blank" rel="noopener noreferrer nofollow">https://dovetail.com/research/what-is-authority-bias/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>What you need to know about authority bias17 Jan 2024 — Authority bias is a tendency to attribute greater accuracy and truth to statement...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: english.swps.pl  
-   Link: <a href="https://english.swps.pl/42-research/research-project-database/research-projects/2239-the-expertise-bias" target="_blank" rel="noopener noreferrer nofollow">https://english.swps.pl/42-research/research-project-database/research-projects/2239-the-expertise-bias</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>SWPS UniversityThe Expertise Bias: its psychological mechanisms, sources...The main goal of the present project will be to study how lay...</p></details>
+   Link:<a href="https://english.swps.pl/42-research/research-project-database/research-projects/2239-the-expertise-bias" target="_blank" rel="noopener noreferrer nofollow">https://english.swps.pl/42-research/research-project-database/research-projects/2239-the-expertise-bias</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>SWPS UniversityThe Expertise Bias: its psychological mechanisms, sources...The main goal of the present project will be to study how lay...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: academic.oup.com  
-   Link: <a href="https://academic.oup.com/jcmc/article/6/4/JCMC643/4584226" target="_blank" rel="noopener noreferrer nofollow">https://academic.oup.com/jcmc/article/6/4/JCMC643/4584226</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>OUP AcademicCredibility Assessments of Online Health Informationby MS Eastin · 2001 · Cited by 610 — For example, as personal relevance i...</p></details>
+   Link:<a href="https://academic.oup.com/jcmc/article/6/4/JCMC643/4584226" target="_blank" rel="noopener noreferrer nofollow">https://academic.oup.com/jcmc/article/6/4/JCMC643/4584226</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>OUP AcademicCredibility Assessments of Online Health Informationby MS Eastin · 2001 · Cited by 610 — For example, as personal relevance i...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0306457324001079" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0306457324001079</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>News sharing on UK social media: Misinformation, disinformation, and correction. Retrieved from. (2019). F. Chao et al. Causal inference...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/abs/pii/S0306457324001079" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0306457324001079</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>News sharing on UK social media: Misinformation, disinformation, and correction. Retrieved from. (2019). F. Chao et al. Causal inference...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: Wikipedia  
    Title: Nobel disease  
-   Link: <a href="https://en.wikipedia.org/wiki/Nobel_disease" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Nobel_disease</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Nobel_disease" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Nobel_disease</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9718466/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9718466/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>by MW Susmann · 2022 · Cited by 24 — Past research suggests that the trustworthiness of a source issuing a retraction of misinformatio...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9718466/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9718466/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by MW Susmann · 2022 · Cited by 24 — Past research suggests that the trustworthiness of a source issuing a retraction of misinformatio...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0010027725000307" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0010027725000307</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>trustworthiness both had a positive effect on perceived reliability. These findings highlight the impact of source expertise when correct...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/pii/S0010027725000307" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0010027725000307</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>trustworthiness both had a positive effect on perceived reliability. These findings highlight the impact of source expertise when correct...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: scholar.nycu.edu.tw  
    Title: credibility of misinformation source moderates the effectiveness  
-   Link: <a href="https://scholar.nycu.edu.tw/en/publications/credibility-of-misinformation-source-moderates-the-effectiveness-/" target="_blank" rel="noopener noreferrer nofollow">https://scholar.nycu.edu.tw/en/publications/credibility-of-misinformation-source-moderates-the-effectiveness-/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NYMCTU Academic HubCredibility of misinformation source moderates the...by HK Zeng · 2023 · Cited by 23 — To reduce perceived credibilit...</p></details>
+   Link:<a href="https://scholar.nycu.edu.tw/en/publications/credibility-of-misinformation-source-moderates-the-effectiveness-/" target="_blank" rel="noopener noreferrer nofollow">https://scholar.nycu.edu.tw/en/publications/credibility-of-misinformation-source-moderates-the-effectiveness-/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NYMCTU Academic HubCredibility of misinformation source moderates the...by HK Zeng · 2023 · Cited by 23 — To reduce perceived credibilit...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: link.springer.com  
-   Link: <a href="https://link.springer.com/article/10.3758/s13421-023-01402-w" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.3758/s13421-023-01402-w</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Springer LinkThe impact of misinformation corrections on source perceptionsby V Westbrook · 2023 · Cited by 26 — Birds of a feather are p...</p></details>
+   Link:<a href="https://link.springer.com/article/10.3758/s13421-023-01402-w" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.3758/s13421-023-01402-w</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Springer LinkThe impact of misinformation corrections on source perceptionsby V Westbrook · 2023 · Cited by 26 — Birds of a feather are p...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: thedecisionlab.com  
-   Link: <a href="https://thedecisionlab.com/biases/authority-bias" target="_blank" rel="noopener noreferrer nofollow">https://thedecisionlab.com/biases/authority-bias</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Decision LabAuthority BiasThe authority bias is a cognitive bias which refers to our tendency to be more influenced by the opinions a...</p></details>
+   Link:<a href="https://thedecisionlab.com/biases/authority-bias" target="_blank" rel="noopener noreferrer nofollow">https://thedecisionlab.com/biases/authority-bias</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Decision LabAuthority BiasThe authority bias is a cognitive bias which refers to our tendency to be more influenced by the opinions a...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: philosophy.stackexchange.com  
-   Link: <a href="https://philosophy.stackexchange.com/questions/88666/fallacy-cognitive-bias-of-assuming-that-being-an-expert-in-one-field-makes-you-a" target="_blank" rel="noopener noreferrer nofollow">https://philosophy.stackexchange.com/questions/88666/fallacy-cognitive-bias-of-assuming-that-being-an-expert-in-one-field-makes-you-a</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Philosophy Stack ExchangeFallacy/Cognitive Bias of assuming that being an expert in...30 Dec 2021 — The belief that expertise is transit...</p></details>
+   Link:<a href="https://philosophy.stackexchange.com/questions/88666/fallacy-cognitive-bias-of-assuming-that-being-an-expert-in-one-field-makes-you-a" target="_blank" rel="noopener noreferrer nofollow">https://philosophy.stackexchange.com/questions/88666/fallacy-cognitive-bias-of-assuming-that-being-an-expert-in-one-field-makes-you-a</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Philosophy Stack ExchangeFallacy/Cognitive Bias of assuming that being an expert in...30 Dec 2021 — The belief that expertise is transit...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: theknowledge.io  
    Title: The Expert is Always Right?  
-   Link: <a href="https://theknowledge.io/authority-bias/" target="_blank" rel="noopener noreferrer nofollow">https://theknowledge.io/authority-bias/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Authority Bias - by David Elikwu13 May 2022 — Authority bias is the tendency to believe an authoritative person&#x27;s methods, opinions, stra...</p></details>
+   Link:<a href="https://theknowledge.io/authority-bias/" target="_blank" rel="noopener noreferrer nofollow">https://theknowledge.io/authority-bias/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Authority Bias - by David Elikwu13 May 2022 — Authority bias is the tendency to believe an authoritative person&#x27;s methods, opinions, stra...</p></details>
    Published: May 2022  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: science.org  
    Title: potential fabrication research images threatens key theory alzheimers disease  
-   Link: <a href="https://www.science.org/content/article/potential-fabrication-research-images-threatens-key-theory-alzheimers-disease" target="_blank" rel="noopener noreferrer nofollow">https://www.science.org/content/article/potential-fabrication-research-images-threatens-key-theory-alzheimers-disease</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Blots on a field?21 Jul 2022 — A neuroscience image sleuth finds signs of fabrication in scores of Alzheimer&#x27;s articles, threatening a re...</p></details>
+   Link:<a href="https://www.science.org/content/article/potential-fabrication-research-images-threatens-key-theory-alzheimers-disease" target="_blank" rel="noopener noreferrer nofollow">https://www.science.org/content/article/potential-fabrication-research-images-threatens-key-theory-alzheimers-disease</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Blots on a field?21 Jul 2022 — A neuroscience image sleuth finds signs of fabrication in scores of Alzheimer&#x27;s articles, threatening a re...</p></details>
 
 ### Additional References
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: innerdrive.co.uk  
-   Link: <a href="https://www.innerdrive.co.uk/blog/expertise-and-cognitive-biases/" target="_blank" rel="noopener noreferrer nofollow">https://www.innerdrive.co.uk/blog/expertise-and-cognitive-biases/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Expertise and cognitive biases: 3 risks and what to do...Researchers found that, when people perceive themselves as experts, they are at...</p></details>
+   Link:<a href="https://www.innerdrive.co.uk/blog/expertise-and-cognitive-biases/" target="_blank" rel="noopener noreferrer nofollow">https://www.innerdrive.co.uk/blog/expertise-and-cognitive-biases/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Expertise and cognitive biases: 3 risks and what to do...Researchers found that, when people perceive themselves as experts, they are at...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: verdinejad.com  
-   Link: <a href="https://verdinejad.com/en/wp-content/uploads/2020/04/Source-Credibility.pdf" target="_blank" rel="noopener noreferrer nofollow">https://verdinejad.com/en/wp-content/uploads/2020/04/Source-Credibility.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Source CredibilityThis is because the recipient perceives no motive on the part of the communicator, and therefore judges the communicati...</p></details>
+   Link:<a href="https://verdinejad.com/en/wp-content/uploads/2020/04/Source-Credibility.pdf" target="_blank" rel="noopener noreferrer nofollow">https://verdinejad.com/en/wp-content/uploads/2020/04/Source-Credibility.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Source CredibilityThis is because the recipient perceives no motive on the part of the communicator, and therefore judges the communicati...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/science/2024/feb/03/the-situation-has-become-appalling-fake-scientific-papers-push-research-credibility-to-crisis-point" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/science/2024/feb/03/the-situation-has-become-appalling-fake-scientific-papers-push-research-credibility-to-crisis-point</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>fake scientific papers push research credibility to crisis point3 Feb 2024 — Tens of thousands of bogus research papers are being publish...</p></details>
+   Link:<a href="https://www.theguardian.com/science/2024/feb/03/the-situation-has-become-appalling-fake-scientific-papers-push-research-credibility-to-crisis-point" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/science/2024/feb/03/the-situation-has-become-appalling-fake-scientific-papers-push-research-credibility-to-crisis-point</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>fake scientific papers push research credibility to crisis point3 Feb 2024 — Tens of thousands of bogus research papers are being publish...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/365966628_The_independent_effects_of_source_expertise_and_trustworthiness_on_retraction_believability_The_moderating_role_of_vested_interest" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/365966628_The_independent_effects_of_source_expertise_and_trustworthiness_on_retraction_believability_The_moderating_role_of_vested_interest</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The moderating role of vested interestDec 29, 2025 — Past research suggests that the trustworthiness of a source issuing a retraction of...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/365966628_The_independent_effects_of_source_expertise_and_trustworthiness_on_retraction_believability_The_moderating_role_of_vested_interest" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/365966628_The_independent_effects_of_source_expertise_and_trustworthiness_on_retraction_believability_The_moderating_role_of_vested_interest</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The moderating role of vested interestDec 29, 2025 — Past research suggests that the trustworthiness of a source issuing a retraction of...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/todayilearned/comments/1htxgfc/til_about_nobel_disease_a_tendency_for_some_nobel/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/todayilearned/comments/1htxgfc/til_about_nobel_disease_a_tendency_for_some_nobel/</a>  
+   Link:<a href="https://www.reddit.com/r/todayilearned/comments/1htxgfc/til_about_nobel_disease_a_tendency_for_some_nobel/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/todayilearned/comments/1htxgfc/til_about_nobel_disease_a_tendency_for_some_nobel/</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: blogs.bmj.com  
    Title: time to assume that health research is fraudulent until proved otherwise  
-   Link: <a href="https://blogs.bmj.com/bmj/2021/07/05/time-to-assume-that-health-research-is-fraudulent-until-proved-otherwise/" target="_blank" rel="noopener noreferrer nofollow">https://blogs.bmj.com/bmj/2021/07/05/time-to-assume-that-health-research-is-fraudulent-until-proved-otherwise/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>to assume that health research is fraudulent until...5 Jul 2021 — We have now reached a point where those doing systematic reviews must...</p></details>
+   Link:<a href="https://blogs.bmj.com/bmj/2021/07/05/time-to-assume-that-health-research-is-fraudulent-until-proved-otherwise/" target="_blank" rel="noopener noreferrer nofollow">https://blogs.bmj.com/bmj/2021/07/05/time-to-assume-that-health-research-is-fraudulent-until-proved-otherwise/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>to assume that health research is fraudulent until...5 Jul 2021 — We have now reached a point where those doing systematic reviews must...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: journals.sagepub.com  
    Title: The independent effects of source expertise and trustworthiness on retraction  
-   Link: <a href="https://journals.sagepub.com/doi/10.1177/00332941261438080" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/00332941261438080</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>the Believability of Social Media MisinformationMar 28, 2026 — What is unique about acceptance and correction of misinformation...</p></details>
+   Link:<a href="https://journals.sagepub.com/doi/10.1177/00332941261438080" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/00332941261438080</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>the Believability of Social Media MisinformationMar 28, 2026 — What is unique about acceptance and correction of misinformation...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: www-ncbi-nlm-nih-gov.ezp-prod1.hul.harvard.edu  
-   Link: <a href="https://www-ncbi-nlm-nih-gov.ezp-prod1.hul.harvard.edu/pubmed/21034761" target="_blank" rel="noopener noreferrer nofollow">https://www-ncbi-nlm-nih-gov.ezp-prod1.hul.harvard.edu/pubmed/21034761</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>harvard.edu[https://www-ncbi-nlm-nih-gov.ezp-prod1.hul.harvard...No](https://www-ncbi-nlm-nih-gov.ezp-prod1.hul.harvard...No) information is available for this page...</p></details>
+   Link:<a href="https://www-ncbi-nlm-nih-gov.ezp-prod1.hul.harvard.edu/pubmed/21034761" target="_blank" rel="noopener noreferrer nofollow">https://www-ncbi-nlm-nih-gov.ezp-prod1.hul.harvard.edu/pubmed/21034761</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>harvard.edu[https://www-ncbi-nlm-nih-gov.ezp-prod1.hul.harvard...No](https://www-ncbi-nlm-nih-gov.ezp-prod1.hul.harvard...No) information is available for this page...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: research.ed.ac.uk  
    Title: the effects of source expertise and trustworthiness on recollecti  
-   Link: <a href="https://www.research.ed.ac.uk/en/publications/the-effects-of-source-expertise-and-trustworthiness-on-recollecti" target="_blank" rel="noopener noreferrer nofollow">https://www.research.ed.ac.uk/en/publications/the-effects-of-source-expertise-and-trustworthiness-on-recollecti</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>inburgh ResearchThe effects of source expertise and trustworthiness on...by S Pluviano · 2020 · Cited by 65 — Experiment 2 revealed th...</p></details>
+   Link:<a href="https://www.research.ed.ac.uk/en/publications/the-effects-of-source-expertise-and-trustworthiness-on-recollecti" target="_blank" rel="noopener noreferrer nofollow">https://www.research.ed.ac.uk/en/publications/the-effects-of-source-expertise-and-trustworthiness-on-recollecti</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>inburgh ResearchThe effects of source expertise and trustworthiness on...by S Pluviano · 2020 · Cited by 65 — Experiment 2 revealed th...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: theness.com  
    Title: beware the nobel laureate argument from authority  
-   Link: <a href="https://theness.com/neurologicablog/beware-the-nobel-laureate-argument-from-authority/" target="_blank" rel="noopener noreferrer nofollow">https://theness.com/neurologicablog/beware-the-nobel-laureate-argument-from-authority/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>15 Jul 2010 — To me this is the perfect example of a brilliant scientist stepping outside his area of expertise and trying to apply the w...</p></details>
+   Link:<a href="https://theness.com/neurologicablog/beware-the-nobel-laureate-argument-from-authority/" target="_blank" rel="noopener noreferrer nofollow">https://theness.com/neurologicablog/beware-the-nobel-laureate-argument-from-authority/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>15 Jul 2010 — To me this is the perfect example of a brilliant scientist stepping outside his area of expertise and trying to apply the w...</p></details>

@@ -274,16 +274,16 @@ image: /assets/images/Myths_and_misconcept_0d48d7_continued_influence_15b78f_cor
 
 ## Introduction
 
-A [correction]({{ 'correction/' | relative_url }}) can succeed in one sense and fail in another. People may accurately remember that a claim was withdrawn, disproved or labelled false, yet still rely on it when judging motives, assigning blame or explaining what happened. Research on the continued influence effect shows that the real challenge is not simply storing the correction in [memory]({{ 'memory/' | relative_url }}). It is updating the reasoning built around the original claim. When that update does not happen, the false information can continue shaping later judgements even among people who know it was wrong. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.emc-lab.org/uploads/1/1/3/6/113627673/ecker.2011.pbr.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: emc-lab.org">[Ecker Memory &amp; Cognition Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">emc-lab.org</span><span class="citation-popover-snippet">Ecker Memory &amp; Cognition LabManipulating the strength of misinformation encoding and its...May 13, 2011 — by UKH Ecker · 2011 · Cited by...</span><span class="citation-popover-meta">Published: May 13, 2011</span></span></span>
+A [correction]({{ 'correction/' | relative_url }}) can succeed in one sense and fail in another. People may accurately remember that a claim was withdrawn, disproved or labelled false, yet still rely on it when judging motives, assigning blame or explaining what happened. Research on the continued influence effect shows that the real challenge is not simply storing the correction in [memory]({{ 'memory/' | relative_url }}). It is updating the reasoning built around the original claim. When that update does not happen, the false information can continue shaping later judgements even among people who know it was wrong.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.emc-lab.org/uploads/1/1/3/6/113627673/ecker.2011.pbr.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: emc-lab.org">[Ecker Memory &amp; Cognition Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">emc-lab.org</span><span class="citation-popover-snippet">Ecker Memory &amp; Cognition LabManipulating the strength of misinformation encoding and its...May 13, 2011 — by UKH Ecker · 2011 · Cited by...</span><span class="citation-popover-meta">Published: May 13, 2011</span></span></span>
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_continued_influence_15b78f_correction_memory_ga_b12645-Illustration-1-dark.svg" | relative_url }}" alt="Memory Gap illustration 1" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_continued_influence_15b78f_correction_memory_ga_b12645-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_continued_influence_15b78f_correction_memory_ga_b12645-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-This distinction matters because public debates often treat correction as a memory problem. If someone remembers the fact-check, the assumption is that the misinformation has been neutralised. The evidence points to a more complicated reality. [Corrections]({{ 'corrections/' | relative_url }}) frequently reduce the influence of a myth, but they do not automatically stop people using that myth when they interpret events, estimate risks or decide who was responsible. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.emc-lab.org/uploads/1/1/3/6/113627673/ecker.2011.pbr.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: emc-lab.org">[Ecker Memory &amp; Cognition Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">emc-lab.org</span><span class="citation-popover-snippet">Ecker Memory &amp; Cognition LabManipulating the strength of misinformation encoding and its...May 13, 2011 — by UKH Ecker · 2011 · Cited by...</span><span class="citation-popover-meta">Published: May 13, 2011</span></span></span>
+This distinction matters because public debates often treat correction as a memory problem. If someone remembers the fact-check, the assumption is that the misinformation has been neutralised. The evidence points to a more complicated reality. [Corrections]({{ 'corrections/' | relative_url }}) frequently reduce the influence of a myth, but they do not automatically stop people using that myth when they interpret events, estimate risks or decide who was responsible.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.emc-lab.org/uploads/1/1/3/6/113627673/ecker.2011.pbr.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: emc-lab.org">[Ecker Memory &amp; Cognition Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">emc-lab.org</span><span class="citation-popover-snippet">Ecker Memory &amp; Cognition LabManipulating the strength of misinformation encoding and its...May 13, 2011 — by UKH Ecker · 2011 · Cited by...</span><span class="citation-popover-meta">Published: May 13, 2011</span></span></span>
 
 ## Correction memory versus later judgement
 
 One of the most important findings in misinformation research is that remembering a correction and reasoning from that correction are not the same task.
 
-In classic continued influence experiments, participants receive a piece of information and later receive a clear retraction. Afterwards, many can correctly report that the information was withdrawn. Yet when asked to explain an event, they still incorporate the retracted detail into their answers. Researchers have repeatedly found this pattern across different scenarios, including accidents, crimes, political claims and public controversies. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/247317334_The_continued_influence_of_misinformation_in_memory_What_makes_a_correction_effective" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate(PDF) The continued influence of misinformation in memory</span><span class="citation-popover-snippet">In a dynamic world, information in memory is frequently outdated, corrected, or replaced.Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.emc-lab.org/uploads/1/1/3/6/113627673/ecker.2011.pbr.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: emc-lab.org">[Ecker Memory &amp; Cognition Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">emc-lab.org</span><span class="citation-popover-snippet">Ecker Memory &amp; Cognition LabManipulating the strength of misinformation encoding and its...May 13, 2011 — by UKH Ecker · 2011 · Cited by...</span><span class="citation-popover-meta">Published: May 13, 2011</span></span></span>
+In classic continued influence experiments, participants receive a piece of information and later receive a clear retraction. Afterwards, many can correctly report that the information was withdrawn. Yet when asked to explain an event, they still incorporate the retracted detail into their answers. Researchers have repeatedly found this pattern across different scenarios, including accidents, crimes, political claims and public controversies.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/247317334_The_continued_influence_of_misinformation_in_memory_What_makes_a_correction_effective" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate(PDF) The continued influence of misinformation in memory</span><span class="citation-popover-snippet">In a dynamic world, information in memory is frequently outdated, corrected, or replaced.Read more...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.emc-lab.org/uploads/1/1/3/6/113627673/ecker.2011.pbr.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: emc-lab.org">[Ecker Memory &amp; Cognition Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">emc-lab.org</span><span class="citation-popover-snippet">Ecker Memory &amp; Cognition LabManipulating the strength of misinformation encoding and its...May 13, 2011 — by UKH Ecker · 2011 · Cited by...</span><span class="citation-popover-meta">Published: May 13, 2011</span></span></span>
 
 The difference becomes clearer if memory and judgement are separated:
 
@@ -296,9 +296,9 @@ The difference becomes clearer if memory and judgement are separated:
 
 </div>
 
-A person may answer the memory question correctly while still allowing the original misinformation to influence the other three. The correction exists in memory, but it has not fully replaced the earlier explanation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/247317334_The_continued_influence_of_misinformation_in_memory_What_makes_a_correction_effective" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate(PDF) The continued influence of misinformation in memory</span><span class="citation-popover-snippet">In a dynamic world, information in memory is frequently outdated, corrected, or replaced.Read more...</span></span></span>
+A person may answer the memory question correctly while still allowing the original misinformation to influence the other three. The correction exists in memory, but it has not fully replaced the earlier explanation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/247317334_The_continued_influence_of_misinformation_in_memory_What_makes_a_correction_effective" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate(PDF) The continued influence of misinformation in memory</span><span class="citation-popover-snippet">In a dynamic world, information in memory is frequently outdated, corrected, or replaced.Read more...</span></span></span>
 
-This is why researchers often measure more than factual recall. Simply showing that participants remember a retraction does not prove that the misinformation has stopped affecting their thinking. The stronger test is whether their later explanations and decisions change. <span class="citation-chip-wrap"><a class="citation-chip" href="https://appstate.figshare.com/articles/thesis/Interventions_to_Limit_the_Continued_Influence_Effect_Across_Contexts/30334174/1/files/58815109.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: appstate.figshare.com">[appstate.figshare.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">appstate.figshare.com</span><span class="citation-popover-title">interventions to limit the continued influence effect across</span><span class="citation-popover-snippet">M. (2014) The continued influence effect: The persistence of misinformation in memory and reasoning following correction. In Rapp, D. N...</span></span></span>
+This is why researchers often measure more than factual recall. Simply showing that participants remember a retraction does not prove that the misinformation has stopped affecting their thinking. The stronger test is whether their later explanations and decisions change.<span class="citation-chip-wrap"><a class="citation-chip" href="https://appstate.figshare.com/articles/thesis/Interventions_to_Limit_the_Continued_Influence_Effect_Across_Contexts/30334174/1/files/58815109.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: appstate.figshare.com">[appstate.figshare.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">appstate.figshare.com</span><span class="citation-popover-title">interventions to limit the continued influence effect across</span><span class="citation-popover-snippet">M. (2014) The continued influence effect: The persistence of misinformation in memory and reasoning following correction. In Rapp, D. N...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/hrBesZu0k3o" title="Misinformation Effect: How to Alter Memories" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=hrBesZu0k3o" target="_blank" rel="noopener noreferrer">Misinformation Effect: How to Alter Memories</a></p><p class="youtube-embed-meta">Channel: Psy vs. Psy &middot; Views: 642 &middot; Uploaded: October 2020 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=hrBesZu0k3o" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=hrBesZu0k3o">Open on YouTube</a></p></div></div></div>
 
@@ -306,9 +306,9 @@ This is why researchers often measure more than factual recall. Simply showing t
 
 The persistence of misinformation is often linked to the role it plays inside a person's mental model of events.
 
-When people encounter a story, they do not store isolated facts. They build a rough explanation connecting causes, motives and outcomes. If a false claim fills an important explanatory role, removing it creates a gap. The correction may mark the claim as inaccurate, but the underlying need for an explanation remains. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.emc-lab.org/uploads/1/1/3/6/113627673/ecker.2011.pbr.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: emc-lab.org">[Ecker Memory &amp; Cognition Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">emc-lab.org</span><span class="citation-popover-snippet">Ecker Memory &amp; Cognition LabManipulating the strength of misinformation encoding and its...May 13, 2011 — by UKH Ecker · 2011 · Cited by...</span><span class="citation-popover-meta">Published: May 13, 2011</span></span></span>
+When people encounter a story, they do not store isolated facts. They build a rough explanation connecting causes, motives and outcomes. If a false claim fills an important explanatory role, removing it creates a gap. The correction may mark the claim as inaccurate, but the underlying need for an explanation remains.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.emc-lab.org/uploads/1/1/3/6/113627673/ecker.2011.pbr.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: emc-lab.org">[Ecker Memory &amp; Cognition Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">emc-lab.org</span><span class="citation-popover-snippet">Ecker Memory &amp; Cognition LabManipulating the strength of misinformation encoding and its...May 13, 2011 — by UKH Ecker · 2011 · Cited by...</span><span class="citation-popover-meta">Published: May 13, 2011</span></span></span>
 
-The warehouse-fire experiments that became a landmark in this field illustrate the problem. Participants learned that flammable materials supposedly stored in a cupboard had intensified a fire. Later they were told the cupboard had actually been empty. Even when participants remembered the correction, many continued referring to the flammable materials when explaining why the fire was severe. The misinformation remained useful because it answered questions that the correction alone did not address. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/247317334_The_continued_influence_of_misinformation_in_memory_What_makes_a_correction_effective" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate(PDF) The continued influence of misinformation in memory</span><span class="citation-popover-snippet">In a dynamic world, information in memory is frequently outdated, corrected, or replaced.Read more...</span></span></span>
+The warehouse-fire experiments that became a landmark in this field illustrate the problem. Participants learned that flammable materials supposedly stored in a cupboard had intensified a fire. Later they were told the cupboard had actually been empty. Even when participants remembered the correction, many continued referring to the flammable materials when explaining why the fire was severe. The misinformation remained useful because it answered questions that the correction alone did not address.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/247317334_The_continued_influence_of_misinformation_in_memory_What_makes_a_correction_effective" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate(PDF) The continued influence of misinformation in memory</span><span class="citation-popover-snippet">In a dynamic world, information in memory is frequently outdated, corrected, or replaced.Read more...</span></span></span>
 
 In practical terms, people often retain:
 
@@ -321,28 +321,28 @@ In practical terms, people often retain:
 
 </div>
 
-The original claim may no longer be accepted as literally true, but its implications survive. The person remembers the correction while continuing to reason from traces of the earlier story. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S0749596X15001035" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-title">ScienceDirect He did it!</span><span class="citation-popover-snippet">She did it! No, she did not! Multiple causal...by UKH Ecker · 2015 · Cited by 164 — Two types of misinformation effects are discussed in...</span></span></span>
+The original claim may no longer be accepted as literally true, but its implications survive. The person remembers the correction while continuing to reason from traces of the earlier story.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S0749596X15001035" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-title">ScienceDirect He did it!</span><span class="citation-popover-snippet">She did it! No, she did not! Multiple causal...by UKH Ecker · 2015 · Cited by 164 — Two types of misinformation effects are discussed in...</span></span></span>
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_continued_influence_15b78f_correction_memory_ga_b12645-Illustration-2-dark.svg" | relative_url }}" alt="Memory Gap illustration 2" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_continued_influence_15b78f_correction_memory_ga_b12645-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_continued_influence_15b78f_correction_memory_ga_b12645-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why blame and motive are especially difficult to update
 
 Historical and contemporary examples suggest that corrections struggle most when misinformation helps explain [intent]({{ 'intent/' | relative_url }}), guilt or responsibility.
 
-A false claim about hidden motives can become the organising principle for how people understand an event. Once that framework exists, later corrections must compete with an already coherent narrative. Simply stating that a claim was inaccurate may remove a fact while leaving the broader interpretation intact. <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/abs/10.1177/1529100612451018" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsMisinformation and Its Correction: Continued Influence and...by S Lewandowsky · 2012 · Cited by 4713 — We look at people&#x27;s...</span></span></span>
+A false claim about hidden motives can become the organising principle for how people understand an event. Once that framework exists, later corrections must compete with an already coherent narrative. Simply stating that a claim was inaccurate may remove a fact while leaving the broader interpretation intact.<span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/abs/10.1177/1529100612451018" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsMisinformation and Its Correction: Continued Influence and...by S Lewandowsky · 2012 · Cited by 4713 — We look at people&#x27;s...</span></span></span>
 
-This helps explain why accusations can remain damaging even after formal retractions. In experimental settings, participants sometimes continue making guilt-related inferences after an allegation has been withdrawn. The correction reduces the effect, but often does not erase it. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.emc-lab.org/uploads/1/1/3/6/113627673/ecker.2011.pbr.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: emc-lab.org">[Ecker Memory &amp; Cognition Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">emc-lab.org</span><span class="citation-popover-snippet">Ecker Memory &amp; Cognition LabManipulating the strength of misinformation encoding and its...May 13, 2011 — by UKH Ecker · 2011 · Cited by...</span><span class="citation-popover-meta">Published: May 13, 2011</span></span></span>
+This helps explain why accusations can remain damaging even after formal retractions. In experimental settings, participants sometimes continue making guilt-related inferences after an allegation has been withdrawn. The correction reduces the effect, but often does not erase it.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.emc-lab.org/uploads/1/1/3/6/113627673/ecker.2011.pbr.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: emc-lab.org">[Ecker Memory &amp; Cognition Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">emc-lab.org</span><span class="citation-popover-snippet">Ecker Memory &amp; Cognition LabManipulating the strength of misinformation encoding and its...May 13, 2011 — by UKH Ecker · 2011 · Cited by...</span><span class="citation-popover-meta">Published: May 13, 2011</span></span></span>
 
-The same pattern has appeared in public controversies. Claims connecting [vaccines]({{ 'vaccines/' | relative_url }}) and autism, or linking political actors to disputed allegations, have often continued influencing public reasoning after major corrections or contrary evidence emerged. The continued influence effect does not mean people wholly reject the correction. Rather, parts of the earlier interpretation continue to shape how they assess risk and causation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.emc-lab.org/uploads/1/1/3/6/113627673/ecker.2011.pbr.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: emc-lab.org">[Ecker Memory &amp; Cognition Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">emc-lab.org</span><span class="citation-popover-snippet">Ecker Memory &amp; Cognition LabManipulating the strength of misinformation encoding and its...May 13, 2011 — by UKH Ecker · 2011 · Cited by...</span><span class="citation-popover-meta">Published: May 13, 2011</span></span></span> ResearchGate Because motive and blame involve interpretation rather than simple fact recall <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/247317334_The_continued_influence_of_misinformation_in_memory_What_makes_a_correction_effective" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[researchgate.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate(PDF) The continued influence of misinformation in memory</span><span class="citation-popover-snippet">In a dynamic world, information in memory is frequently outdated, corrected, or replaced.Read more...</span></span></span>, they provide more room for misinformation to linger.
+The same pattern has appeared in public controversies. Claims connecting [vaccines]({{ 'vaccines/' | relative_url }}) and autism, or linking political actors to disputed allegations, have often continued influencing public reasoning after major corrections or contrary evidence emerged. The continued influence effect does not mean people wholly reject the correction. Rather, parts of the earlier interpretation continue to shape how they assess risk and causation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.emc-lab.org/uploads/1/1/3/6/113627673/ecker.2011.pbr.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: emc-lab.org">[Ecker Memory &amp; Cognition Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">emc-lab.org</span><span class="citation-popover-snippet">Ecker Memory &amp; Cognition LabManipulating the strength of misinformation encoding and its...May 13, 2011 — by UKH Ecker · 2011 · Cited by...</span><span class="citation-popover-meta">Published: May 13, 2011</span></span></span> ResearchGate Because motive and blame involve interpretation rather than simple fact recall<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/247317334_The_continued_influence_of_misinformation_in_memory_What_makes_a_correction_effective" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[researchgate.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate(PDF) The continued influence of misinformation in memory</span><span class="citation-popover-snippet">In a dynamic world, information in memory is frequently outdated, corrected, or replaced.Read more...</span></span></span>, they provide more room for misinformation to linger.
 
 ## The role of psychological discomfort
 
 Another reason corrections may fail is that they can create an uncomfortable state of uncertainty.
 
-When a correction removes an explanation, people are left with unanswered questions. Why did the event happen? Who was responsible? What should replace the rejected claim? Research has found that retractions can produce psychological discomfort, and that this discomfort is associated with continued reliance on misinformation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8447889/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCThe role of discomfort in the continued influence effect</span><span class="citation-popover-snippet">by MW Susmann · 2021 · Cited by 90 — The present research tested the prediction that retractions of misinformation produce feelings of...</span></span></span>
+When a correction removes an explanation, people are left with unanswered questions. Why did the event happen? Who was responsible? What should replace the rejected claim? Research has found that retractions can produce psychological discomfort, and that this discomfort is associated with continued reliance on misinformation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8447889/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCThe role of discomfort in the continued influence effect</span><span class="citation-popover-snippet">by MW Susmann · 2021 · Cited by 90 — The present research tested the prediction that retractions of misinformation produce feelings of...</span></span></span>
 
 From this perspective, the problem is not only memory. It is also cognitive stability. A flawed explanation can feel preferable to having no explanation at all.
 
-This helps explain why simple negations often underperform. A correction that says “this is false” may succeed factually while leaving the audience with a less satisfying account of events. The old claim remains available as a familiar way to restore coherence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8447889/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCThe role of discomfort in the continued influence effect</span><span class="citation-popover-snippet">by MW Susmann · 2021 · Cited by 90 — The present research tested the prediction that retractions of misinformation produce feelings of...</span></span></span>
+This helps explain why simple negations often underperform. A correction that says “this is false” may succeed factually while leaving the audience with a less satisfying account of events. The old claim remains available as a familiar way to restore coherence.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8447889/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCThe role of discomfort in the continued influence effect</span><span class="citation-popover-snippet">by MW Susmann · 2021 · Cited by 90 — The present research tested the prediction that retractions of misinformation produce feelings of...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/pxHMGHUs3S4" title="Why Misinformation Sticks in Your Brain Even After It’s Debunked" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=pxHMGHUs3S4" target="_blank" rel="noopener noreferrer">Why Misinformation Sticks in Your Brain Even After It’s Debunked</a></p><p class="youtube-embed-meta">Channel: Rational Ruminations &middot; Views: 17 &middot; Uploaded: September 2025 &middot; Length: 28 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=pxHMGHUs3S4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=pxHMGHUs3S4">Open on YouTube</a></p></div></div></div>
 
@@ -354,208 +354,208 @@ Researchers increasingly distinguish between two different outcomes:
 
 TestWhat it measuresRecall testWhether people remember the correction occurredInference testWhether people stop using the misinformation when reasoningJudgement testWhether blame, trust or risk estimates changeDecision testWhether choices reflect the correction rather than the myth
 
-A correction may perform well on the first measure and poorly on the others. That is why studies of the continued influence effect often ask participants to explain events or make judgements rather than merely recall facts. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/247317334_The_continued_influence_of_misinformation_in_memory_What_makes_a_correction_effective" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate(PDF) The continued influence of misinformation in memory</span><span class="citation-popover-snippet">In a dynamic world, information in memory is frequently outdated, corrected, or replaced.Read more...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/abs/pii/S0749596X15001035" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect For communicators]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-title">ScienceDirect He did it!</span><span class="citation-popover-snippet">She did it! No, she did not! Multiple causal...by UKH Ecker · 2015 · Cited by 164 — Two types of misinformation effects are discussed in...</span></span></span>, this distinction has practical consequences. A public-health agency, newsroom or fact-checker may find that audiences can repeat the correction accurately. Yet if those same audiences continue making decisions based on the original misinformation, the correction has only partially succeeded. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.emc-lab.org/uploads/1/1/3/6/113627673/ecker.2011.pbr.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: emc-lab.org">[Ecker Memory &amp; Cognition Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">emc-lab.org</span><span class="citation-popover-snippet">Ecker Memory &amp; Cognition LabManipulating the strength of misinformation encoding and its...May 13, 2011 — by UKH Ecker · 2011 · Cited by...</span><span class="citation-popover-meta">Published: May 13, 2011</span></span></span>
+A correction may perform well on the first measure and poorly on the others. That is why studies of the continued influence effect often ask participants to explain events or make judgements rather than merely recall facts.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/247317334_The_continued_influence_of_misinformation_in_memory_What_makes_a_correction_effective" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate(PDF) The continued influence of misinformation in memory</span><span class="citation-popover-snippet">In a dynamic world, information in memory is frequently outdated, corrected, or replaced.Read more...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/abs/pii/S0749596X15001035" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect For communicators]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-title">ScienceDirect He did it!</span><span class="citation-popover-snippet">She did it! No, she did not! Multiple causal...by UKH Ecker · 2015 · Cited by 164 — Two types of misinformation effects are discussed in...</span></span></span>, this distinction has practical consequences. A public-health agency, newsroom or fact-checker may find that audiences can repeat the correction accurately. Yet if those same audiences continue making decisions based on the original misinformation, the correction has only partially succeeded.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.emc-lab.org/uploads/1/1/3/6/113627673/ecker.2011.pbr.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: emc-lab.org">[Ecker Memory &amp; Cognition Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">emc-lab.org</span><span class="citation-popover-snippet">Ecker Memory &amp; Cognition LabManipulating the strength of misinformation encoding and its...May 13, 2011 — by UKH Ecker · 2011 · Cited by...</span><span class="citation-popover-meta">Published: May 13, 2011</span></span></span>
 
-The strongest corrections therefore aim to change reasoning, not just memory. They provide an alternative explanation, replace the missing causal link and give people a new account to use when they later think about the issue. Research consistently finds that this kind of replacement is more effective than a bare retraction. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/247317334_The_continued_influence_of_misinformation_in_memory_What_makes_a_correction_effective" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate(PDF) The continued influence of misinformation in memory</span><span class="citation-popover-snippet">In a dynamic world, information in memory is frequently outdated, corrected, or replaced.Read more...</span></span></span>
+The strongest corrections therefore aim to change reasoning, not just memory. They provide an alternative explanation, replace the missing causal link and give people a new account to use when they later think about the issue. Research consistently finds that this kind of replacement is more effective than a bare retraction.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/247317334_The_continued_influence_of_misinformation_in_memory_What_makes_a_correction_effective" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate(PDF) The continued influence of misinformation in memory</span><span class="citation-popover-snippet">In a dynamic world, information in memory is frequently outdated, corrected, or replaced.Read more...</span></span></span>
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_continued_influence_15b78f_correction_memory_ga_b12645-Illustration-3-dark.svg" | relative_url }}" alt="Memory Gap illustration 3" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_continued_influence_15b78f_correction_memory_ga_b12645-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_continued_influence_15b78f_correction_memory_ga_b12645-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The memory gap at the centre of misinformation
 
 The key lesson from the continued influence effect is that knowledge and use are different things. People can know that a statement was false and still rely on it when interpreting the world.
 
-That gap explains why myths sometimes survive despite successful fact-checking. The correction may be present in memory, but the older claim remains embedded in explanations, intuitions and judgements. Measuring success therefore requires more than asking whether people remember the correction. The crucial question is whether they have stopped using the misinformation when they reason about causes, responsibility and risk. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.emc-lab.org/uploads/1/1/3/6/113627673/ecker.2011.pbr.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: emc-lab.org">[Ecker Memory &amp; Cognition Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">emc-lab.org</span><span class="citation-popover-snippet">Ecker Memory &amp; Cognition LabManipulating the strength of misinformation encoding and its...May 13, 2011 — by UKH Ecker · 2011 · Cited by...</span><span class="citation-popover-meta">Published: May 13, 2011</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.emc-lab.org/uploads/1/1/3/6/113627673/ecker.2011.pbr.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: emc-lab.org">[Ecker Memory &amp; Cognition Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">emc-lab.org</span><span class="citation-popover-snippet">Ecker Memory &amp; Cognition LabManipulating the strength of misinformation encoding and its...May 13, 2011 — by UKH Ecker · 2011 · Cited by...</span><span class="citation-popover-meta">Published: May 13, 2011</span></span></span>
+That gap explains why myths sometimes survive despite successful fact-checking. The correction may be present in memory, but the older claim remains embedded in explanations, intuitions and judgements. Measuring success therefore requires more than asking whether people remember the correction. The crucial question is whether they have stopped using the misinformation when they reason about causes, responsibility and risk.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.emc-lab.org/uploads/1/1/3/6/113627673/ecker.2011.pbr.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: emc-lab.org">[Ecker Memory &amp; Cognition Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">emc-lab.org</span><span class="citation-popover-snippet">Ecker Memory &amp; Cognition LabManipulating the strength of misinformation encoding and its...May 13, 2011 — by UKH Ecker · 2011 · Cited by...</span><span class="citation-popover-meta">Published: May 13, 2011</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.emc-lab.org/uploads/1/1/3/6/113627673/ecker.2011.pbr.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: emc-lab.org">[Ecker Memory &amp; Cognition Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">emc-lab.org</span><span class="citation-popover-snippet">Ecker Memory &amp; Cognition LabManipulating the strength of misinformation encoding and its...May 13, 2011 — by UKH Ecker · 2011 · Cited by...</span><span class="citation-popover-meta">Published: May 13, 2011</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/H_dHJVH5hPU" title="The Continued Influence of Misinformation — Ullrich Ecker (CHDH Seminar Series 2020 )" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=H_dHJVH5hPU" target="_blank" rel="noopener noreferrer">The Continued Influence of Misinformation — Ullrich Ecker (CHDH Seminar Series 2020 )</a></p><p class="youtube-embed-meta">Channel: Complex Human Data Hub &middot; Views: 214 &middot; Uploaded: September 2020 &middot; Length: 1 hour 4 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=H_dHJVH5hPU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=H_dHJVH5hPU">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Knowing it is false is not enough. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Knowing it is false is not enough. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Calling Bullshit on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Plu9DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Calling Bullshit" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Calling Bullshit">Calling Bullshit</a>
-        </h4>
-        <p class="fr-book-author">By Carl T. Bergstrom, Jevin D. West</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Calling Bullshit on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Plu9DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Calling Bullshit" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Calling Bullshit">Calling Bullshit</a>
+</h4>
+<p class="fr-book-author">By Carl T. Bergstrom, Jevin D. West</p>
         
-        <p class="fr-book-desc">Helps readers understand why false claims persist.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps readers understand why false claims persist.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YGPzXWanppcC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
-        </h4>
-        <p class="fr-book-author">By Daniel Kahneman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YGPzXWanppcC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
+</h4>
+<p class="fr-book-author">By Daniel Kahneman</p>
         
-        <p class="fr-book-desc">Provides framework for reasoning errors after correction.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides framework for reasoning errors after correction.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mistakes Were Made (but Not by Me) Third Edition on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jmmVxgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Mistakes Were Made (but Not by Me) Third Edition" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mistakes Were Made (but Not by Me) Third Edition">Mistakes Were Made (but Not by Me) Third Edition</a>
-        </h4>
-        <p class="fr-book-author">By Carol Tavris, Elliot Aronson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mistakes Were Made (but Not by Me) Third Edition on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jmmVxgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Mistakes Were Made (but Not by Me) Third Edition" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mistakes Were Made (but Not by Me) Third Edition">Mistakes Were Made (but Not by Me) Third Edition</a>
+</h4>
+<p class="fr-book-author">By Carol Tavris, Elliot Aronson</p>
         
-        <p class="fr-book-desc">Explains resistance to updating beliefs.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains resistance to updating beliefs.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28But+Not+by+Me%29+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mistakes Were Made (But Not by Me) on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/1119860-M.jpg" alt="Cover for Mistakes Were Made (But Not by Me)" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28But+Not+by+Me%29+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mistakes Were Made (But Not by Me)">Mistakes Were Made (But Not by Me)</a>
-        </h4>
-        <p class="fr-book-author">By Carol Tavris, Elliot Aronson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28But+Not+by+Me%29+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mistakes Were Made (But Not by Me) on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/1119860-M.jpg" alt="Cover for Mistakes Were Made (But Not by Me)" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28But+Not+by+Me%29+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mistakes Were Made (But Not by Me)">Mistakes Were Made (But Not by Me)</a>
+</h4>
+<p class="fr-book-author">By Carol Tavris, Elliot Aronson</p>
         
-        <p class="fr-book-desc">First published 2007. Subjects: Fouten, Vergissingen, Cognitive dissonance, Self-deception, Rechtvaardiging.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28But+Not+by+Me%29+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2007. Subjects: Fouten, Vergissingen, Cognitive dissonance, Self-deception, Rechtvaardiging.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28But+Not+by+Me%29+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Calling+Bullshit&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Calling Bullshit</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mistakes Were Made (but Not by Me) Third Edition</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Calling+Bullshit&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Calling Bullshit</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mistakes Were Made (but Not by Me) Third Edition</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=education+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-gap-knowing-it-is-false-is-not-enough-myths-and-misconcept-education-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="education wall art" data-ebay-reference="memory-gap-knowing-it-is-false-is-not-enough-myths-and-misconcept-education-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for NUMBERS square 1 to 100 A2 Laminated educational school math nursery wall poster"><img src="{{ '/assets/images/marketplace-covers/3f63cd296317fa735e26.jpg' | relative_url }}" alt="Listing image for NUMBERS square 1 to 100 A2 Laminated educational school math nursery wall poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=education+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-gap-knowing-it-is-false-is-not-enough-myths-and-misconcept-education-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="education wall art" data-ebay-reference="memory-gap-knowing-it-is-false-is-not-enough-myths-and-misconcept-education-wall-art" target="_blank" rel="sponsored noopener noreferrer">NUMBERS square 1 to 100 A2 Laminated educational school math nursery wall poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=education+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-gap-knowing-it-is-false-is-not-enough-myths-and-misconcept-education-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="education wall art" data-ebay-reference="memory-gap-knowing-it-is-false-is-not-enough-myths-and-misconcept-education-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for education wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: education wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=education+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-gap-knowing-it-is-false-is-not-enough-myths-and-misconcept-education-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="education wall art" data-ebay-reference="memory-gap-knowing-it-is-false-is-not-enough-myths-and-misconcept-education-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=education+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-gap-knowing-it-is-false-is-not-enough-myths-and-misconcept-education-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="education wall art" data-ebay-reference="memory-gap-knowing-it-is-false-is-not-enough-myths-and-misconcept-education-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for NUMBERS square 1 to 100 A2 Laminated educational school math nursery wall poster"><img src="{{ '/assets/images/marketplace-covers/3f63cd296317fa735e26.jpg' | relative_url }}" alt="Listing image for NUMBERS square 1 to 100 A2 Laminated educational school math nursery wall poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=education+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-gap-knowing-it-is-false-is-not-enough-myths-and-misconcept-education-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="education wall art" data-ebay-reference="memory-gap-knowing-it-is-false-is-not-enough-myths-and-misconcept-education-wall-art" target="_blank" rel="sponsored noopener noreferrer">NUMBERS square 1 to 100 A2 Laminated educational school math nursery wall poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=education+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-gap-knowing-it-is-false-is-not-enough-myths-and-misconcept-education-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="education wall art" data-ebay-reference="memory-gap-knowing-it-is-false-is-not-enough-myths-and-misconcept-education-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for education wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: education wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=education+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-gap-knowing-it-is-false-is-not-enough-myths-and-misconcept-education-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="education wall art" data-ebay-reference="memory-gap-knowing-it-is-false-is-not-enough-myths-and-misconcept-education-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=education+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-gap-knowing-it-is-false-is-not-enough-myths-and-misconcept-education-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="education wall art" data-ebay-reference="memory-gap-knowing-it-is-false-is-not-enough-myths-and-misconcept-education-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 15 Pack Educational Poster Laminated Wall Chart for Children Kids Learning Art"><img src="{{ '/assets/images/marketplace-covers/4ab7b16839228e8d5e64.jpg' | relative_url }}" alt="Listing image for 15 Pack Educational Poster Laminated Wall Chart for Children Kids Learning Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=education+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-gap-knowing-it-is-false-is-not-enough-myths-and-misconcept-education-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="education wall art" data-ebay-reference="memory-gap-knowing-it-is-false-is-not-enough-myths-and-misconcept-education-wall-art" target="_blank" rel="sponsored noopener noreferrer">15 Pack Educational Poster Laminated Wall Chart for Children Kids Learning Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=education+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-gap-knowing-it-is-false-is-not-enough-myths-and-misconcept-education-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="education wall art" data-ebay-reference="memory-gap-knowing-it-is-false-is-not-enough-myths-and-misconcept-education-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for education wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: education wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=education+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-gap-knowing-it-is-false-is-not-enough-myths-and-misconcept-education-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="education wall art" data-ebay-reference="memory-gap-knowing-it-is-false-is-not-enough-myths-and-misconcept-education-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=education+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-gap-knowing-it-is-false-is-not-enough-myths-and-misconcept-education-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="education wall art" data-ebay-reference="memory-gap-knowing-it-is-false-is-not-enough-myths-and-misconcept-education-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 15 Pack Educational Poster Laminated Wall Chart for Children Kids Learning Art"><img src="{{ '/assets/images/marketplace-covers/4ab7b16839228e8d5e64.jpg' | relative_url }}" alt="Listing image for 15 Pack Educational Poster Laminated Wall Chart for Children Kids Learning Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=education+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-gap-knowing-it-is-false-is-not-enough-myths-and-misconcept-education-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="education wall art" data-ebay-reference="memory-gap-knowing-it-is-false-is-not-enough-myths-and-misconcept-education-wall-art" target="_blank" rel="sponsored noopener noreferrer">15 Pack Educational Poster Laminated Wall Chart for Children Kids Learning Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=education+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-gap-knowing-it-is-false-is-not-enough-myths-and-misconcept-education-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="education wall art" data-ebay-reference="memory-gap-knowing-it-is-false-is-not-enough-myths-and-misconcept-education-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for education wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: education wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=education+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-gap-knowing-it-is-false-is-not-enough-myths-and-misconcept-education-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="education wall art" data-ebay-reference="memory-gap-knowing-it-is-false-is-not-enough-myths-and-misconcept-education-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=education+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-gap-knowing-it-is-false-is-not-enough-myths-and-misconcept-education-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="education wall art" data-ebay-reference="memory-gap-knowing-it-is-false-is-not-enough-myths-and-misconcept-education-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Phonetic Alphabet International Wall Art Informative Education Poster Art"><img src="{{ '/assets/images/marketplace-covers/7765ead2918ad7c39ba6.jpg' | relative_url }}" alt="Listing image for Phonetic Alphabet International Wall Art Informative Education Poster Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=education+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-gap-knowing-it-is-false-is-not-enough-myths-and-misconcept-education-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="education wall art" data-ebay-reference="memory-gap-knowing-it-is-false-is-not-enough-myths-and-misconcept-education-wall-art" target="_blank" rel="sponsored noopener noreferrer">Phonetic Alphabet International Wall Art Informative Education Poster Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=education+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-gap-knowing-it-is-false-is-not-enough-myths-and-misconcept-education-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="education wall art" data-ebay-reference="memory-gap-knowing-it-is-false-is-not-enough-myths-and-misconcept-education-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for education wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: education wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=education+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-gap-knowing-it-is-false-is-not-enough-myths-and-misconcept-education-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="education wall art" data-ebay-reference="memory-gap-knowing-it-is-false-is-not-enough-myths-and-misconcept-education-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=education+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-gap-knowing-it-is-false-is-not-enough-myths-and-misconcept-education-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="education wall art" data-ebay-reference="memory-gap-knowing-it-is-false-is-not-enough-myths-and-misconcept-education-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Phonetic Alphabet International Wall Art Informative Education Poster Art"><img src="{{ '/assets/images/marketplace-covers/7765ead2918ad7c39ba6.jpg' | relative_url }}" alt="Listing image for Phonetic Alphabet International Wall Art Informative Education Poster Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=education+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-gap-knowing-it-is-false-is-not-enough-myths-and-misconcept-education-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="education wall art" data-ebay-reference="memory-gap-knowing-it-is-false-is-not-enough-myths-and-misconcept-education-wall-art" target="_blank" rel="sponsored noopener noreferrer">Phonetic Alphabet International Wall Art Informative Education Poster Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=education+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-gap-knowing-it-is-false-is-not-enough-myths-and-misconcept-education-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="education wall art" data-ebay-reference="memory-gap-knowing-it-is-false-is-not-enough-myths-and-misconcept-education-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for education wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: education wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=education+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-gap-knowing-it-is-false-is-not-enough-myths-and-misconcept-education-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="education wall art" data-ebay-reference="memory-gap-knowing-it-is-false-is-not-enough-myths-and-misconcept-education-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=education+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-gap-knowing-it-is-false-is-not-enough-myths-and-misconcept-education-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="education wall art" data-ebay-reference="memory-gap-knowing-it-is-false-is-not-enough-myths-and-misconcept-education-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for educational NUMBER (1-20) square large A2 laminated maths wall nursery Poster"><img src="{{ '/assets/images/marketplace-covers/a7733c0fff66bdc76df2.jpg' | relative_url }}" alt="Listing image for educational NUMBER (1-20) square large A2 laminated maths wall nursery Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=education+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-gap-knowing-it-is-false-is-not-enough-myths-and-misconcept-education-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="education wall art" data-ebay-reference="memory-gap-knowing-it-is-false-is-not-enough-myths-and-misconcept-education-wall-art" target="_blank" rel="sponsored noopener noreferrer">educational NUMBER (1-20) square large A2 laminated maths wall nursery Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=education+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-gap-knowing-it-is-false-is-not-enough-myths-and-misconcept-education-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="education wall art" data-ebay-reference="memory-gap-knowing-it-is-false-is-not-enough-myths-and-misconcept-education-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for education wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: education wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=education+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-gap-knowing-it-is-false-is-not-enough-myths-and-misconcept-education-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="education wall art" data-ebay-reference="memory-gap-knowing-it-is-false-is-not-enough-myths-and-misconcept-education-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=education+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-gap-knowing-it-is-false-is-not-enough-myths-and-misconcept-education-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="education wall art" data-ebay-reference="memory-gap-knowing-it-is-false-is-not-enough-myths-and-misconcept-education-wall-art" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=education+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-gap-knowing-it-is-false-is-not-enough-myths-and-misconcept-education-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="education wall art" data-ebay-reference="memory-gap-knowing-it-is-false-is-not-enough-myths-and-misconcept-education-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for educational NUMBER (1-20) square large A2 laminated maths wall nursery Poster"><img src="{{ '/assets/images/marketplace-covers/a7733c0fff66bdc76df2.jpg' | relative_url }}" alt="Listing image for educational NUMBER (1-20) square large A2 laminated maths wall nursery Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=education+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-gap-knowing-it-is-false-is-not-enough-myths-and-misconcept-education-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="education wall art" data-ebay-reference="memory-gap-knowing-it-is-false-is-not-enough-myths-and-misconcept-education-wall-art" target="_blank" rel="sponsored noopener noreferrer">educational NUMBER (1-20) square large A2 laminated maths wall nursery Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=education+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-gap-knowing-it-is-false-is-not-enough-myths-and-misconcept-education-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="education wall art" data-ebay-reference="memory-gap-knowing-it-is-false-is-not-enough-myths-and-misconcept-education-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for education wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: education wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=education+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-gap-knowing-it-is-false-is-not-enough-myths-and-misconcept-education-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="education wall art" data-ebay-reference="memory-gap-knowing-it-is-false-is-not-enough-myths-and-misconcept-education-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=education+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-gap-knowing-it-is-false-is-not-enough-myths-and-misconcept-education-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="education wall art" data-ebay-reference="memory-gap-knowing-it-is-false-is-not-enough-myths-and-misconcept-education-wall-art" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -571,7 +571,7 @@ That gap explains why myths sometimes survive despite successful fact-checking. 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -591,7 +591,7 @@ That gap explains why myths sometimes survive despite successful fact-checking. 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -623,7 +623,7 @@ That gap explains why myths sometimes survive despite successful fact-checking. 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -675,7 +675,7 @@ That gap explains why myths sometimes survive despite successful fact-checking. 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -720,7 +720,7 @@ That gap explains why myths sometimes survive despite successful fact-checking. 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -761,119 +761,119 @@ That gap explains why myths sometimes survive despite successful fact-checking. 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: researchgate.net  
    Title: Research Gate(PDF) The continued influence of misinformation in memory  
-   Link: <a href="https://www.researchgate.net/publication/247317334_The_continued_influence_of_misinformation_in_memory_What_makes_a_correction_effective" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/247317334_The_continued_influence_of_misinformation_in_memory_What_makes_a_correction_effective</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>In a dynamic world, information in memory is frequently outdated, corrected, or replaced.Read more...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/247317334_The_continued_influence_of_misinformation_in_memory_What_makes_a_correction_effective" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/247317334_The_continued_influence_of_misinformation_in_memory_What_makes_a_correction_effective</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>In a dynamic world, information in memory is frequently outdated, corrected, or replaced.Read more...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: sciencedirect.com  
    Title: ScienceDirect He did it!  
-   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0749596X15001035" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0749596X15001035</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>She did it! No, she did not! Multiple causal...by UKH Ecker · 2015 · Cited by 164 — Two types of misinformation effects are discussed in...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/abs/pii/S0749596X15001035" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0749596X15001035</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>She did it! No, she did not! Multiple causal...by UKH Ecker · 2015 · Cited by 164 — Two types of misinformation effects are discussed in...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: appstate.figshare.com  
    Title: interventions to limit the continued influence effect across  
-   Link: <a href="https://appstate.figshare.com/articles/thesis/Interventions_to_Limit_the_Continued_Influence_Effect_Across_Contexts/30334174/1/files/58815109.pdf" target="_blank" rel="noopener noreferrer nofollow">https://appstate.figshare.com/articles/thesis/Interventions_to_Limit_the_Continued_Influence_Effect_Across_Contexts/30334174/1/files/58815109.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>M. (2014) The continued influence effect: The persistence of misinformation in memory and reasoning following correction. In Rapp, D. N...</p></details>
+   Link:<a href="https://appstate.figshare.com/articles/thesis/Interventions_to_Limit_the_Continued_Influence_Effect_Across_Contexts/30334174/1/files/58815109.pdf" target="_blank" rel="noopener noreferrer nofollow">https://appstate.figshare.com/articles/thesis/Interventions_to_Limit_the_Continued_Influence_Effect_Across_Contexts/30334174/1/files/58815109.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>M. (2014) The continued influence effect: The persistence of misinformation in memory and reasoning following correction. In Rapp, D. N...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: researchgate.net  
    Title: Research Gate(PDF) He did it!  
-   Link: <a href="https://www.researchgate.net/publication/281618768_He_did_it_She_did_it_No_she_did_not_Multiple_causal_explanations_and_the_continued_influence_of_misinformation" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/281618768_He_did_it_She_did_it_No_she_did_not_Multiple_causal_explanations_and_the_continued_influence_of_misinformation</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>She did it! No, she did not! Multiple causal...Two types of misinformation effects are discussed in the literature—the post-event misinf...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/281618768_He_did_it_She_did_it_No_she_did_not_Multiple_causal_explanations_and_the_continued_influence_of_misinformation" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/281618768_He_did_it_She_did_it_No_she_did_not_Multiple_causal_explanations_and_the_continued_influence_of_misinformation</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>She did it! No, she did not! Multiple causal...Two types of misinformation effects are discussed in the literature—the post-event misinf...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCThe role of discomfort in the continued influence effect  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8447889/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8447889/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>by MW Susmann · 2021 · Cited by 90 — The present research tested the prediction that retractions of misinformation produce feelings of...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8447889/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8447889/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by MW Susmann · 2021 · Cited by 90 — The present research tested the prediction that retractions of misinformation produce feelings of...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0010027724002865" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0010027724002865</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Relative source credibility affects the continued influence...by CV Hey · 2025 · Cited by 6 — The Continued Influence Effect (CIE) is th...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/pii/S0010027724002865" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0010027724002865</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Relative source credibility affects the continued influence...by CV Hey · 2025 · Cited by 6 — The Continued Influence Effect (CIE) is th...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: youtube.com  
    Title: The Continued Influence Effect  
-   Link: <a href="https://www.youtube.com/watch?v=eZ_hcf01EFw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=eZ_hcf01EFw</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Why Misinformation Sticks in Your Brain Even After It&#x27;s Debunked...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=eZ_hcf01EFw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=eZ_hcf01EFw</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Why Misinformation Sticks in Your Brain Even After It&#x27;s Debunked...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: emc-lab.org  
-   Link: <a href="https://www.emc-lab.org/uploads/1/1/3/6/113627673/ecker.2011.pbr.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.emc-lab.org/uploads/1/1/3/6/113627673/ecker.2011.pbr.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Ecker Memory &amp; Cognition LabManipulating the strength of misinformation encoding and its...May 13, 2011 — by UKH Ecker · 2011 · Cited by...</p></details>
+   Link:<a href="https://www.emc-lab.org/uploads/1/1/3/6/113627673/ecker.2011.pbr.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.emc-lab.org/uploads/1/1/3/6/113627673/ecker.2011.pbr.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ecker Memory &amp; Cognition LabManipulating the strength of misinformation encoding and its...May 13, 2011 — by UKH Ecker · 2011 · Cited by...</p></details>
    Published: May 13, 2011  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: journals.sagepub.com  
-   Link: <a href="https://journals.sagepub.com/doi/abs/10.1177/1529100612451018" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/abs/10.1177/1529100612451018</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Sage JournalsMisinformation and Its Correction: Continued Influence and...by S Lewandowsky · 2012 · Cited by 4713 — We look at people&#x27;s...</p></details>
+   Link:<a href="https://journals.sagepub.com/doi/abs/10.1177/1529100612451018" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/abs/10.1177/1529100612451018</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sage JournalsMisinformation and Its Correction: Continued Influence and...by S Lewandowsky · 2012 · Cited by 4713 — We look at people&#x27;s...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: emc-lab.org  
-   Link: <a href="https://www.emc-lab.org/uploads/1/1/3/6/113627673/ecker.2010.mc.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.emc-lab.org/uploads/1/1/3/6/113627673/ecker.2010.mc.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ecker Memory &amp; Cognition LabExplicit warnings reduce but do not eliminate the continued...August 27, 2017 — by UKH ECKER · 2010 · Cited...</p></details>
+   Link:<a href="https://www.emc-lab.org/uploads/1/1/3/6/113627673/ecker.2010.mc.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.emc-lab.org/uploads/1/1/3/6/113627673/ecker.2010.mc.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ecker Memory &amp; Cognition LabExplicit warnings reduce but do not eliminate the continued...August 27, 2017 — by UKH ECKER · 2010 · Cited...</p></details>
    Published: August 27, 2017  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Misinformation" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Misinformation</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>MisinformationMisinformation can include inaccurate, incomplete, misleading, or false information as well as selective or half-truths...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Misinformation" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Misinformation</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>MisinformationMisinformation can include inaccurate, incomplete, misleading, or false information as well as selective or half-truths...</p></details>
 
 ### Additional References
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: un.org  
-   Link: <a href="https://www.un.org/en/countering-disinformation" target="_blank" rel="noopener noreferrer nofollow">https://www.un.org/en/countering-disinformation</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Countering DisinformationWhile misinformation refers to the accidental spread of inaccurate information, disinformation is not only inacc...</p></details>
+   Link:<a href="https://www.un.org/en/countering-disinformation" target="_blank" rel="noopener noreferrer nofollow">https://www.un.org/en/countering-disinformation</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Countering DisinformationWhile misinformation refers to the accidental spread of inaccurate information, disinformation is not only inacc...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: aec.gov.au  
-   Link: <a href="https://www.aec.gov.au/About_AEC/files/eiat/eiat-disinformation-factsheet.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aec.gov.au/About_AEC/files/eiat/eiat-disinformation-factsheet.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Disinformation and MisinformationDisinformation and Misinformation. What is disinformation and misinformation? Misinformation is false in...</p></details>
+   Link:<a href="https://www.aec.gov.au/About_AEC/files/eiat/eiat-disinformation-factsheet.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aec.gov.au/About_AEC/files/eiat/eiat-disinformation-factsheet.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Disinformation and MisinformationDisinformation and Misinformation. What is disinformation and misinformation? Misinformation is false in...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: apa.org  
-   Link: <a href="https://www.apa.org/topics/journalism-facts/misinformation-disinformation" target="_blank" rel="noopener noreferrer nofollow">https://www.apa.org/topics/journalism-facts/misinformation-disinformation</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Misinformation and disinformationMisinformation is false or inaccurate information—getting the facts wrong. Disinformation is false infor...</p></details>
+   Link:<a href="https://www.apa.org/topics/journalism-facts/misinformation-disinformation" target="_blank" rel="noopener noreferrer nofollow">https://www.apa.org/topics/journalism-facts/misinformation-disinformation</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Misinformation and disinformationMisinformation is false or inaccurate information—getting the facts wrong. Disinformation is false infor...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: scispace.com  
-   Link: <a href="https://scispace.com/pdf/the-continued-influence-of-misinformation-in-memory-what-4tijzg1jh2.pdf" target="_blank" rel="noopener noreferrer nofollow">https://scispace.com/pdf/the-continued-influence-of-misinformation-in-memory-what-4tijzg1jh2.pdf</a>  
+   Link:<a href="https://scispace.com/pdf/the-continued-influence-of-misinformation-in-memory-what-4tijzg1jh2.pdf" target="_blank" rel="noopener noreferrer nofollow">https://scispace.com/pdf/the-continued-influence-of-misinformation-in-memory-what-4tijzg1jh2.pdf</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: unhcr.org  
-   Link: <a href="https://www.unhcr.org/innovation/wp-content/uploads/2022/02/Factsheet-4.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.unhcr.org/innovation/wp-content/uploads/2022/02/Factsheet-4.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Disinformation. Misinformation is false or inaccurate information. Examples include rumors, insults and pranks. Disinformation is...Read...</p></details>
+   Link:<a href="https://www.unhcr.org/innovation/wp-content/uploads/2022/02/Factsheet-4.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.unhcr.org/innovation/wp-content/uploads/2022/02/Factsheet-4.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Disinformation. Misinformation is false or inaccurate information. Examples include rumors, insults and pranks. Disinformation is...Read...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: theguardian.com  
    Title: The Guardian US ‘drowning in misinformation’ under RFK Jr, autism advocates say  
-   Link: <a href="https://www.theguardian.com/us-news/2026/may/03/trump-administration-rfk-autism-misinformation" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/us-news/2026/may/03/trump-administration-rfk-autism-misinformation</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>US ‘drowning in misinformation’ under RFK Jr, autism advocates say...</p></details>
+   Link:<a href="https://www.theguardian.com/us-news/2026/may/03/trump-administration-rfk-autism-misinformation" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/us-news/2026/may/03/trump-administration-rfk-autism-misinformation</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>US ‘drowning in misinformation’ under RFK Jr, autism advocates say...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: esafety.gov.au  
    Title: [fake news](&#123;&#123; 'fake-news/' | relative_url &#125;&#125;) and misinformation  
-   Link: <a href="https://www.esafety.gov.au/key-topics/fake-news-and-misinformation" target="_blank" rel="noopener noreferrer nofollow">https://www.esafety.gov.au/key-topics/fake-news-and-misinformation</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>20 Jan 2026 — Information, images and videos posted online can be untrue or misleading, so check the facts before sharing them.Read more...</p></details>
+   Link:<a href="https://www.esafety.gov.au/key-topics/fake-news-and-misinformation" target="_blank" rel="noopener noreferrer nofollow">https://www.esafety.gov.au/key-topics/fake-news-and-misinformation</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>20 Jan 2026 — Information, images and videos posted online can be untrue or misleading, so check the facts before sharing them.Read more...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=H_dHJVH5hPU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=H_dHJVH5hPU</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The [Debunking](&amp;#123;&amp;#123; &#x27;debunking/&#x27; | relative_url &amp;#125;&amp;#125;) Handbook: How to counter misinformation...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=H_dHJVH5hPU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=H_dHJVH5hPU</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The [Debunking](&amp;#123;&amp;#123; &#x27;debunking/&#x27; | relative_url &amp;#125;&amp;#125;) Handbook: How to counter misinformation...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: youtube.com  
    Title: Why Misinformation Sticks in Your Brain Even After It's Debunked  
-   Link: <a href="https://www.youtube.com/watch?v=pxHMGHUs3S4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=pxHMGHUs3S4</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Continued Influence of Misinformation — Ullrich Ecker (CHDH Seminar Series 2020)...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=pxHMGHUs3S4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=pxHMGHUs3S4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Continued Influence of Misinformation — Ullrich Ecker (CHDH Seminar Series 2020)...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10623619/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10623619/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>by Z Adams · 2023 · Cited by 144 — The consensus view points to advancements in information technology (eg, the Internet, social media...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10623619/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10623619/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by Z Adams · 2023 · Cited by 144 — The consensus view points to advancements in information technology (eg, the Internet, social media...</p></details>

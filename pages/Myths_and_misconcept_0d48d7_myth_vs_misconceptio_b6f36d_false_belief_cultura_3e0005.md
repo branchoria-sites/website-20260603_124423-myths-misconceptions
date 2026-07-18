@@ -274,7 +274,7 @@ image: /assets/images/Myths_and_misconcept_0d48d7_myth_vs_misconceptio_b6f36d_fa
 
 ## Introduction
 
-A false belief becomes a cultural myth when it stops functioning as a simple mistake and starts functioning as a story that people share. At that point, its survival depends less on evidence and more on [repetition]({{ 'repetition/' | relative_url }}), familiarity and social usefulness. People encounter the claim through conversations, media, advertising, schools, family traditions or online networks long before they investigate whether it is true. Over time, the belief acquires a sense of obviousness: not because it has been verified, but because it has become culturally recognisable. Research on the “illusory truth effect” shows that repeated statements are often judged as more believable simply because they feel familiar. ScienceDirect PubMed This is one of the key differences between a misconception and a cultural myth. A misconception can remain private or limited to a small grou <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/38113667/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[pubmed.ncbi.nlm.nih.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">A review of how repetition increases belief in misinformationby J Udry · 2024 · Cited by 100 — Repetition increases belief in infor...</span></span></span> p. A cultural myth becomes socially portable. It turns into a claim that people repeat, reference and recognise even when they cannot explain where it came from.
+A false belief becomes a cultural myth when it stops functioning as a simple mistake and starts functioning as a story that people share. At that point, its survival depends less on evidence and more on [repetition]({{ 'repetition/' | relative_url }}), familiarity and social usefulness. People encounter the claim through conversations, media, advertising, schools, family traditions or online networks long before they investigate whether it is true. Over time, the belief acquires a sense of obviousness: not because it has been verified, but because it has become culturally recognisable. Research on the “illusory truth effect” shows that repeated statements are often judged as more believable simply because they feel familiar. ScienceDirect PubMed This is one of the key differences between a misconception and a cultural myth. A misconception can remain private or limited to a small grou<span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/38113667/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[pubmed.ncbi.nlm.nih.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">A review of how repetition increases belief in misinformationby J Udry · 2024 · Cited by 100 — Repetition increases belief in infor...</span></span></span> p. A cultural myth becomes socially portable. It turns into a claim that people repeat, reference and recognise even when they cannot explain where it came from.
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_myth_vs_misconceptio_b6f36d_false_belief_cultura_3e0005-Illustration-1-dark.svg" | relative_url }}" alt="Cultural Myths illustration 1" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_myth_vs_misconceptio_b6f36d_false_belief_cultura_3e0005-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_myth_vs_misconceptio_b6f36d_false_belief_cultura_3e0005-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## What Makes a Belief Socially Repeatable?
@@ -298,22 +298,22 @@ The claim that people use only 10 per cent of their brains illustrates the patte
 
 Many cultural myths survive because they compress a complicated subject into a satisfying narrative. A claim that can be explained in one sentence often spreads more easily than a [correction]({{ 'correction/' | relative_url }}) requiring several paragraphs.
 
-Researchers who study cultural transmission note that ideas move through social groups in ways similar to other cultural practices. People do not transmit information purely because it is accurate. They also transmit information because it is memorable, emotionally engaging or socially valuable. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4461798/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCIf we are all cultural Darwinians what&#x27;s the fuss about</span><span class="citation-popover-snippet">by A Acerbi · 2015 · Cited by 225 — Here, we examine a recent disagreement that concerns the extent to which cultural transmission sho...</span></span></span>
+Researchers who study cultural transmission note that ideas move through social groups in ways similar to other cultural practices. People do not transmit information purely because it is accurate. They also transmit information because it is memorable, emotionally engaging or socially valuable.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4461798/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCIf we are all cultural Darwinians what&#x27;s the fuss about</span><span class="citation-popover-snippet">by A Acerbi · 2015 · Cited by 225 — Here, we examine a recent disagreement that concerns the extent to which cultural transmission sho...</span></span></span>
 
 ## Why Familiarity Can Feel Like Evidence
 
 One of the strongest mechanisms behind cultural myths is familiarity itself.
 
-Psychological research consistently shows that repeated exposure increases perceived truthfulness. This phenomenon, known as the illusory truth effect, appears even when people know that repetition does not provide evidence. Statements that have been encountered before often feel easier to process, and that ease can be mistaken for credibility. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Illusory_truth_effect" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Illusory truth effect</span><span class="citation-popover-snippet">Illusory truth effect</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://journalofcognition.org/articles/10.5334/joc.161" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journalofcognition.org">[Journal of Cognition]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journalofcognition.org</span><span class="citation-popover-snippet">A Longitudinal Study of the Illusory Truth Effectby EL Henderson · 2021 · Cited by 84 — Repeated statements are rated as subjectively tru...</span></span></span>
+Psychological research consistently shows that repeated exposure increases perceived truthfulness. This phenomenon, known as the illusory truth effect, appears even when people know that repetition does not provide evidence. Statements that have been encountered before often feel easier to process, and that ease can be mistaken for credibility.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Illusory_truth_effect" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Illusory truth effect</span><span class="citation-popover-snippet">Illusory truth effect</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://journalofcognition.org/articles/10.5334/joc.161" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journalofcognition.org">[Journal of Cognition]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journalofcognition.org</span><span class="citation-popover-snippet">A Longitudinal Study of the Illusory Truth Effectby EL Henderson · 2021 · Cited by 84 — Repeated statements are rated as subjectively tru...</span></span></span>
 
-The process is subtle. People rarely think, “I have heard this five times, therefore it must be true.” Instead, familiarity produces a feeling of cognitive [fluency]({{ 'fluency/' | relative_url }}). The statement feels smoother, less surprising and more mentally comfortable. The brain can interpret that comfort as a signal of reliability. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Illusory_truth_effect" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Illusory truth effect</span><span class="citation-popover-snippet">Illusory truth effect</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11750381/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">implications: incidental exposure to ideas can induce...by J Mikell · 2025 · Cited by 1 — Under many accounts of the illusory truth effe...</span></span></span>
+The process is subtle. People rarely think, “I have heard this five times, therefore it must be true.” Instead, familiarity produces a feeling of cognitive [fluency]({{ 'fluency/' | relative_url }}). The statement feels smoother, less surprising and more mentally comfortable. The brain can interpret that comfort as a signal of reliability.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Illusory_truth_effect" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Illusory truth effect</span><span class="citation-popover-snippet">Illusory truth effect</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11750381/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">implications: incidental exposure to ideas can induce...by J Mikell · 2025 · Cited by 1 — Under many accounts of the illusory truth effe...</span></span></span>
 
 Studies have found several striking features of this effect:
 
 * Repetition can increase belief in false statements as well as true ones.
 * The effect can occur even when people possess relevant knowledge.
 * Warnings that repetition is misleading often reduce the effect only partially.
-* Repeated misinformation can continue influencing judgement [after correction]({{ 'after-correction/' | relative_url }}). PMC <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Illusory_truth_effect" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Illusory truth effect</span><span class="citation-popover-snippet">Illusory truth effect</span></span></span> PubMed This helps explain why cultural myths often persist after being debunked. A correction may be encountered once <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/38113667/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[pubmed.ncbi.nlm.nih.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">A review of how repetition increases belief in misinformationby J Udry · 2024 · Cited by 100 — Repetition increases belief in infor...</span></span></span>, while the original claim has been encountered dozens of times. The myth retains the advantage of familiarity.
+* Repeated misinformation can continue influencing judgement [after correction]({{ 'after-correction/' | relative_url }}). PMC<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Illusory_truth_effect" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Illusory truth effect</span><span class="citation-popover-snippet">Illusory truth effect</span></span></span> PubMed This helps explain why cultural myths often persist after being debunked. A correction may be encountered once<span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/38113667/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[pubmed.ncbi.nlm.nih.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">A review of how repetition increases belief in misinformationby J Udry · 2024 · Cited by 100 — Repetition increases belief in infor...</span></span></span>, while the original claim has been encountered dozens of times. The myth retains the advantage of familiarity.
 
 ## How Social Circulation Changes a Claim
 
@@ -351,7 +351,7 @@ Many successful myths do more than provide information. They reinforce values, i
 
 A belief is more likely to become culturally durable when it supports something people already want to believe.
 
-Examples include myths that: <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S1090513823000120" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[sciencedirect.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Cross-cultural forager myth transmission rulesby MS Sugiyama · 2023 · Cited by 11 — Telling myths to mixed-age audiences ensures that the...</span></span></span>
+Examples include myths that:<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S1090513823000120" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[sciencedirect.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Cross-cultural forager myth transmission rulesby MS Sugiyama · 2023 · Cited by 11 — Telling myths to mixed-age audiences ensures that the...</span></span></span>
 
 <div class="content-enhancement content-enhancement--phrase-stack" markdown="1">
 
@@ -367,7 +367,7 @@ Because these myths serve a social function, factual correction may not fully ad
 
 This helps explain why some false beliefs survive despite abundant contradictory evidence. People are not always preserving the claim because of the evidence attached to it. They may be preserving the story because it fits a broader worldview.
 
-Research on motivated reasoning and misinformation suggests that people often evaluate information partly through the lens of existing commitments and identities. A claim that feels culturally comfortable can gain resilience beyond its factual strength. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2012.01663" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">The Fake News Effect: Experimentally Identifying Motivated Reasoning Using Trust in NewsDecember 3, 2020...</span><span class="citation-popover-meta">Published: December 3, 2020</span></span></span>
+Research on motivated reasoning and misinformation suggests that people often evaluate information partly through the lens of existing commitments and identities. A claim that feels culturally comfortable can gain resilience beyond its factual strength.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2012.01663" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">The Fake News Effect: Experimentally Identifying Motivated Reasoning Using Trust in NewsDecember 3, 2020...</span><span class="citation-popover-meta">Published: December 3, 2020</span></span></span>
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_myth_vs_misconceptio_b6f36d_false_belief_cultura_3e0005-Illustration-3-dark.svg" | relative_url }}" alt="Cultural Myths illustration 3" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_myth_vs_misconceptio_b6f36d_false_belief_cultura_3e0005-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_myth_vs_misconceptio_b6f36d_false_belief_cultura_3e0005-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Examples That Work Better as Myths Than Misconceptions
@@ -398,7 +398,7 @@ Correcting a misconception often means helping someone replace a flawed explanat
 
 The challenge is not only informational but cultural. People may continue encountering the myth through friends, media, jokes, advertisements or public discussion even after learning that it is false.
 
-Researchers studying misinformation have found that repeating a myth during correction can sometimes unintentionally strengthen familiarity with the original claim. This does not mean myths cannot be debunked, but it highlights why repeated exposure matters so much. Effective correction often requires making accurate information just as visible and memorable as the myth itself. PMC <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ebsco.com/research-starters/psychology/illusory-truth-effect" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ebsco.com">[EBSCO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ebsco.com</span><span class="citation-popover-snippet">Illusory truth effect &#124; Psychology &#124; Research StartersThe illusory truth effect is a cognitive phenomenon where repeated exposure to fals...</span></span></span> The problem is therefore not merely ignorance. A cultural myth can persist because the social environment keeps reproducing it.
+Researchers studying misinformation have found that repeating a myth during correction can sometimes unintentionally strengthen familiarity with the original claim. This does not mean myths cannot be debunked, but it highlights why repeated exposure matters so much. Effective correction often requires making accurate information just as visible and memorable as the myth itself. PMC<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ebsco.com/research-starters/psychology/illusory-truth-effect" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ebsco.com">[EBSCO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ebsco.com</span><span class="citation-popover-snippet">Illusory truth effect &#124; Psychology &#124; Research StartersThe illusory truth effect is a cognitive phenomenon where repeated exposure to fals...</span></span></span> The problem is therefore not merely ignorance. A cultural myth can persist because the social environment keeps reproducing it.
 
 ## When a False Claim Becomes Part of Culture
 
@@ -407,194 +407,194 @@ The transition from misconception to cultural myth happens when a false belief a
 Understanding this mechanism explains why some false claims seem impossible to eliminate. They are not simply errors waiting to be corrected. They have become shared stories, woven into everyday conversation and collective [memory]({{ 'memory/' | relative_url }}). Once a belief reaches that stage, its persistence is driven as much by culture as by cognition.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How False Claims Become Shared Stories. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How False Claims Become Shared Stories. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YGPzXWanppcC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
-        </h4>
-        <p class="fr-book-author">By Daniel Kahneman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YGPzXWanppcC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
+</h4>
+<p class="fr-book-author">By Daniel Kahneman</p>
         
-        <p class="fr-book-desc">Explains familiarity effects, cognitive biases, and why repeated claims can feel true.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains familiarity effects, cognitive biases, and why repeated claims can feel true.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Factfulness on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=rxg0tgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Factfulness" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Factfulness">Factfulness</a>
-        </h4>
-        <p class="fr-book-author">By Hans Rosling, Ola Rosling et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Factfulness on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=rxg0tgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Factfulness" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Factfulness">Factfulness</a>
+</h4>
+<p class="fr-book-author">By Hans Rosling, Ola Rosling et al.</p>
         
-        <p class="fr-book-desc">Shows how shared but inaccurate beliefs become culturally accepted.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows how shared but inaccurate beliefs become culturally accepted.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Calling Bullshit on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Plu9DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Calling Bullshit" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Calling Bullshit">Calling Bullshit</a>
-        </h4>
-        <p class="fr-book-author">By Carl T. Bergstrom, Jevin D. West</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Calling Bullshit on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Plu9DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Calling Bullshit" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Calling Bullshit">Calling Bullshit</a>
+</h4>
+<p class="fr-book-author">By Carl T. Bergstrom, Jevin D. West</p>
         
-        <p class="fr-book-desc">Helps readers understand how dubious claims gain credibility and circulation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps readers understand how dubious claims gain credibility and circulation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Influence+by+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Influence on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Influence+by+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Influence">Influence</a>
-        </h4>
-        <p class="fr-book-author">By Robert B. Cialdini</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Influence+by+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Influence on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Influence+by+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Influence">Influence</a>
+</h4>
+<p class="fr-book-author">By Robert B. Cialdini</p>
         
-        <p class="fr-book-desc">Explains social transmission, persuasion, and repeated messaging.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Influence+by+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains social transmission, persuasion, and repeated messaging.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Influence+by+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Factfulness&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Factfulness</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Calling+Bullshit&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Calling Bullshit</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Factfulness&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Factfulness</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Calling+Bullshit&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Calling Bullshit</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=neuroscience+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cultural-myths-how-false-claims-become-shared-stories-myths-and-misconcept-neuroscience-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="neuroscience poster" data-ebay-reference="cultural-myths-how-false-claims-become-shared-stories-myths-and-misconcept-neuroscience-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The Brain Anatomical Chart by Anatomical Chart Company POSTER / WALLCHART"><img src="{{ '/assets/images/marketplace-covers/1380ccc042494dd813c0.jpg' | relative_url }}" alt="Listing image for The Brain Anatomical Chart by Anatomical Chart Company POSTER / WALLCHART" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=neuroscience+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cultural-myths-how-false-claims-become-shared-stories-myths-and-misconcept-neuroscience-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="neuroscience poster" data-ebay-reference="cultural-myths-how-false-claims-become-shared-stories-myths-and-misconcept-neuroscience-poster" target="_blank" rel="sponsored noopener noreferrer">The Brain Anatomical Chart by Anatomical Chart Company POSTER / WALLCHART</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=neuroscience+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cultural-myths-how-false-claims-become-shared-stories-myths-and-misconcept-neuroscience-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="neuroscience poster" data-ebay-reference="cultural-myths-how-false-claims-become-shared-stories-myths-and-misconcept-neuroscience-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for neuroscience poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: neuroscience poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=neuroscience+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cultural-myths-how-false-claims-become-shared-stories-myths-and-misconcept-neuroscience-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="neuroscience poster" data-ebay-reference="cultural-myths-how-false-claims-become-shared-stories-myths-and-misconcept-neuroscience-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=neuroscience+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cultural-myths-how-false-claims-become-shared-stories-myths-and-misconcept-neuroscience-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="neuroscience poster" data-ebay-reference="cultural-myths-how-false-claims-become-shared-stories-myths-and-misconcept-neuroscience-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The Brain Anatomical Chart by Anatomical Chart Company POSTER / WALLCHART"><img src="{{ '/assets/images/marketplace-covers/1380ccc042494dd813c0.jpg' | relative_url }}" alt="Listing image for The Brain Anatomical Chart by Anatomical Chart Company POSTER / WALLCHART" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=neuroscience+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cultural-myths-how-false-claims-become-shared-stories-myths-and-misconcept-neuroscience-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="neuroscience poster" data-ebay-reference="cultural-myths-how-false-claims-become-shared-stories-myths-and-misconcept-neuroscience-poster" target="_blank" rel="sponsored noopener noreferrer">The Brain Anatomical Chart by Anatomical Chart Company POSTER / WALLCHART</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=neuroscience+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cultural-myths-how-false-claims-become-shared-stories-myths-and-misconcept-neuroscience-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="neuroscience poster" data-ebay-reference="cultural-myths-how-false-claims-become-shared-stories-myths-and-misconcept-neuroscience-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for neuroscience poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: neuroscience poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=neuroscience+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cultural-myths-how-false-claims-become-shared-stories-myths-and-misconcept-neuroscience-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="neuroscience poster" data-ebay-reference="cultural-myths-how-false-claims-become-shared-stories-myths-and-misconcept-neuroscience-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=neuroscience+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cultural-myths-how-false-claims-become-shared-stories-myths-and-misconcept-neuroscience-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="neuroscience poster" data-ebay-reference="cultural-myths-how-false-claims-become-shared-stories-myths-and-misconcept-neuroscience-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Neuroscience Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/492845a2e0e8f021d8e6.jpg' | relative_url }}" alt="Listing image for Neuroscience Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=neuroscience+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cultural-myths-how-false-claims-become-shared-stories-myths-and-misconcept-neuroscience-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="neuroscience poster" data-ebay-reference="cultural-myths-how-false-claims-become-shared-stories-myths-and-misconcept-neuroscience-poster" target="_blank" rel="sponsored noopener noreferrer">Neuroscience Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=neuroscience+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cultural-myths-how-false-claims-become-shared-stories-myths-and-misconcept-neuroscience-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="neuroscience poster" data-ebay-reference="cultural-myths-how-false-claims-become-shared-stories-myths-and-misconcept-neuroscience-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for neuroscience poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: neuroscience poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=neuroscience+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cultural-myths-how-false-claims-become-shared-stories-myths-and-misconcept-neuroscience-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="neuroscience poster" data-ebay-reference="cultural-myths-how-false-claims-become-shared-stories-myths-and-misconcept-neuroscience-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=neuroscience+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cultural-myths-how-false-claims-become-shared-stories-myths-and-misconcept-neuroscience-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="neuroscience poster" data-ebay-reference="cultural-myths-how-false-claims-become-shared-stories-myths-and-misconcept-neuroscience-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Neuroscience Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/492845a2e0e8f021d8e6.jpg' | relative_url }}" alt="Listing image for Neuroscience Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=neuroscience+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cultural-myths-how-false-claims-become-shared-stories-myths-and-misconcept-neuroscience-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="neuroscience poster" data-ebay-reference="cultural-myths-how-false-claims-become-shared-stories-myths-and-misconcept-neuroscience-poster" target="_blank" rel="sponsored noopener noreferrer">Neuroscience Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=neuroscience+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cultural-myths-how-false-claims-become-shared-stories-myths-and-misconcept-neuroscience-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="neuroscience poster" data-ebay-reference="cultural-myths-how-false-claims-become-shared-stories-myths-and-misconcept-neuroscience-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for neuroscience poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: neuroscience poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=neuroscience+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cultural-myths-how-false-claims-become-shared-stories-myths-and-misconcept-neuroscience-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="neuroscience poster" data-ebay-reference="cultural-myths-how-false-claims-become-shared-stories-myths-and-misconcept-neuroscience-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=neuroscience+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cultural-myths-how-false-claims-become-shared-stories-myths-and-misconcept-neuroscience-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="neuroscience poster" data-ebay-reference="cultural-myths-how-false-claims-become-shared-stories-myths-and-misconcept-neuroscience-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Neuroscience I Think Neuron To Some Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/fb2a2c7e512831f3921d.jpg' | relative_url }}" alt="Listing image for Neuroscience I Think Neuron To Some Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=neuroscience+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cultural-myths-how-false-claims-become-shared-stories-myths-and-misconcept-neuroscience-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="neuroscience poster" data-ebay-reference="cultural-myths-how-false-claims-become-shared-stories-myths-and-misconcept-neuroscience-poster" target="_blank" rel="sponsored noopener noreferrer">Neuroscience I Think Neuron To Some Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=neuroscience+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cultural-myths-how-false-claims-become-shared-stories-myths-and-misconcept-neuroscience-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="neuroscience poster" data-ebay-reference="cultural-myths-how-false-claims-become-shared-stories-myths-and-misconcept-neuroscience-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for neuroscience poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: neuroscience poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=neuroscience+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cultural-myths-how-false-claims-become-shared-stories-myths-and-misconcept-neuroscience-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="neuroscience poster" data-ebay-reference="cultural-myths-how-false-claims-become-shared-stories-myths-and-misconcept-neuroscience-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=neuroscience+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cultural-myths-how-false-claims-become-shared-stories-myths-and-misconcept-neuroscience-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="neuroscience poster" data-ebay-reference="cultural-myths-how-false-claims-become-shared-stories-myths-and-misconcept-neuroscience-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Neuroscience I Think Neuron To Some Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/fb2a2c7e512831f3921d.jpg' | relative_url }}" alt="Listing image for Neuroscience I Think Neuron To Some Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=neuroscience+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cultural-myths-how-false-claims-become-shared-stories-myths-and-misconcept-neuroscience-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="neuroscience poster" data-ebay-reference="cultural-myths-how-false-claims-become-shared-stories-myths-and-misconcept-neuroscience-poster" target="_blank" rel="sponsored noopener noreferrer">Neuroscience I Think Neuron To Some Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=neuroscience+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cultural-myths-how-false-claims-become-shared-stories-myths-and-misconcept-neuroscience-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="neuroscience poster" data-ebay-reference="cultural-myths-how-false-claims-become-shared-stories-myths-and-misconcept-neuroscience-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for neuroscience poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: neuroscience poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=neuroscience+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cultural-myths-how-false-claims-become-shared-stories-myths-and-misconcept-neuroscience-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="neuroscience poster" data-ebay-reference="cultural-myths-how-false-claims-become-shared-stories-myths-and-misconcept-neuroscience-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=neuroscience+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cultural-myths-how-false-claims-become-shared-stories-myths-and-misconcept-neuroscience-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="neuroscience poster" data-ebay-reference="cultural-myths-how-false-claims-become-shared-stories-myths-and-misconcept-neuroscience-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Neuroscience I Think Neuron To Some Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/6654b3d87aacdfaa077c.jpg' | relative_url }}" alt="Listing image for Neuroscience I Think Neuron To Some Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=neuroscience+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cultural-myths-how-false-claims-become-shared-stories-myths-and-misconcept-neuroscience-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="neuroscience poster" data-ebay-reference="cultural-myths-how-false-claims-become-shared-stories-myths-and-misconcept-neuroscience-poster" target="_blank" rel="sponsored noopener noreferrer">Neuroscience I Think Neuron To Some Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=neuroscience+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cultural-myths-how-false-claims-become-shared-stories-myths-and-misconcept-neuroscience-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="neuroscience poster" data-ebay-reference="cultural-myths-how-false-claims-become-shared-stories-myths-and-misconcept-neuroscience-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for neuroscience poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: neuroscience poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=neuroscience+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cultural-myths-how-false-claims-become-shared-stories-myths-and-misconcept-neuroscience-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="neuroscience poster" data-ebay-reference="cultural-myths-how-false-claims-become-shared-stories-myths-and-misconcept-neuroscience-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=neuroscience+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cultural-myths-how-false-claims-become-shared-stories-myths-and-misconcept-neuroscience-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="neuroscience poster" data-ebay-reference="cultural-myths-how-false-claims-become-shared-stories-myths-and-misconcept-neuroscience-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=neuroscience+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cultural-myths-how-false-claims-become-shared-stories-myths-and-misconcept-neuroscience-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="neuroscience poster" data-ebay-reference="cultural-myths-how-false-claims-become-shared-stories-myths-and-misconcept-neuroscience-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Neuroscience I Think Neuron To Some Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/6654b3d87aacdfaa077c.jpg' | relative_url }}" alt="Listing image for Neuroscience I Think Neuron To Some Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=neuroscience+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cultural-myths-how-false-claims-become-shared-stories-myths-and-misconcept-neuroscience-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="neuroscience poster" data-ebay-reference="cultural-myths-how-false-claims-become-shared-stories-myths-and-misconcept-neuroscience-poster" target="_blank" rel="sponsored noopener noreferrer">Neuroscience I Think Neuron To Some Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=neuroscience+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cultural-myths-how-false-claims-become-shared-stories-myths-and-misconcept-neuroscience-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="neuroscience poster" data-ebay-reference="cultural-myths-how-false-claims-become-shared-stories-myths-and-misconcept-neuroscience-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for neuroscience poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: neuroscience poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=neuroscience+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cultural-myths-how-false-claims-become-shared-stories-myths-and-misconcept-neuroscience-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="neuroscience poster" data-ebay-reference="cultural-myths-how-false-claims-become-shared-stories-myths-and-misconcept-neuroscience-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=neuroscience+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cultural-myths-how-false-claims-become-shared-stories-myths-and-misconcept-neuroscience-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="neuroscience poster" data-ebay-reference="cultural-myths-how-false-claims-become-shared-stories-myths-and-misconcept-neuroscience-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -610,7 +610,7 @@ Understanding this mechanism explains why some false claims seem impossible to e
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -630,7 +630,7 @@ Understanding this mechanism explains why some false claims seem impossible to e
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -662,7 +662,7 @@ Understanding this mechanism explains why some false claims seem impossible to e
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -714,7 +714,7 @@ Understanding this mechanism explains why some false claims seem impossible to e
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -759,7 +759,7 @@ Understanding this mechanism explains why some false claims seem impossible to e
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -800,134 +800,134 @@ Understanding this mechanism explains why some false claims seem impossible to e
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S2352250X23001811" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S2352250X23001811</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The illusory truth effect: A review of how repetition...by J Udry · 2024 · Cited by 122 — Repetition increases belief in in...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/abs/pii/S2352250X23001811" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S2352250X23001811</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The illusory truth effect: A review of how repetition...by J Udry · 2024 · Cited by 122 — Repetition increases belief in in...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Illusory truth effect  
-   Link: <a href="https://en.wikipedia.org/wiki/Illusory_truth_effect" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Illusory_truth_effect</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Illusory_truth_effect" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Illusory_truth_effect</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCIf we are all cultural Darwinians what's the fuss about  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4461798/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4461798/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>by A Acerbi · 2015 · Cited by 225 — Here, we examine a recent disagreement that concerns the extent to which cultural transmission sho...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4461798/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4461798/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by A Acerbi · 2015 · Cited by 225 — Here, we examine a recent disagreement that concerns the extent to which cultural transmission sho...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11750381/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11750381/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>implications: incidental exposure to ideas can induce...by J Mikell · 2025 · Cited by 1 — Under many accounts of the illusory truth effe...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11750381/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11750381/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>implications: incidental exposure to ideas can induce...by J Mikell · 2025 · Cited by 1 — Under many accounts of the illusory truth effe...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCCorrection format has a limited role when [debunking](&#123;&#123; 'debunking/' | relative_url &#125;&#125;)  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8715407/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8715407/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>by B Swire-Thompson · 2021 · Cited by 79 — The current paper investigated how altering the format of corrections influences people&#x27;s s...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8715407/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8715407/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by B Swire-Thompson · 2021 · Cited by 79 — The current paper investigated how altering the format of corrections influences people&#x27;s s...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2012.01663" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2012.01663</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Fake News Effect: Experimentally Identifying Motivated Reasoning Using Trust in NewsDecember 3, 2020...</p></details>
+   Link:<a href="https://arxiv.org/abs/2012.01663" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2012.01663</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Fake News Effect: Experimentally Identifying Motivated Reasoning Using Trust in NewsDecember 3, 2020...</p></details>
    Published: December 3, 2020  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0010027723000550" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0010027723000550</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>To that end we...Read mor...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/pii/S0010027723000550" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0010027723000550</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>To that end we...Read mor...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: ebsco.com  
-   Link: <a href="https://www.ebsco.com/research-starters/psychology/illusory-truth-effect" target="_blank" rel="noopener noreferrer nofollow">https://www.ebsco.com/research-starters/psychology/illusory-truth-effect</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Illusory truth effect | Psychology | Research StartersThe illusory truth effect is a cognitive phenomenon where repeated exposure to fals...</p></details>
+   Link:<a href="https://www.ebsco.com/research-starters/psychology/illusory-truth-effect" target="_blank" rel="noopener noreferrer nofollow">https://www.ebsco.com/research-starters/psychology/illusory-truth-effect</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Illusory truth effect | Psychology | Research StartersThe illusory truth effect is a cognitive phenomenon where repeated exposure to fals...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S001002772300241X" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S001002772300241X</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The illusory truth effect requires semantic coherence...by J Udry · 2023 · Cited by 14 — Repeated exposure to information increases its&#x27;...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/abs/pii/S001002772300241X" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S001002772300241X</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The illusory truth effect requires semantic coherence...by J Udry · 2023 · Cited by 14 — Repeated exposure to information increases its&#x27;...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S1090513823000120" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S1090513823000120</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Cross-cultural forager myth transmission rulesby MS Sugiyama · 2023 · Cited by 11 — Telling myths to mixed-age audiences ensures that the...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/abs/pii/S1090513823000120" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S1090513823000120</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Cross-cultural forager myth transmission rulesby MS Sugiyama · 2023 · Cited by 11 — Telling myths to mixed-age audiences ensures that the...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0010027724000775" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0010027724000775</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>This truth effect has been widely researched and is relevant for topics...R...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/pii/S0010027724000775" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0010027724000775</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>This truth effect has been widely researched and is relevant for topics...R...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0010027722001457" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0010027722001457</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The effects of repetition spacing on the illusory truth effectby J Udry · 2022 · Cited by 20 — These findings show that repetition is mos...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/abs/pii/S0010027722001457" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0010027722001457</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The effects of repetition spacing on the illusory truth effectby J Udry · 2022 · Cited by 20 — These findings show that repetition is mos...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/38113667/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/38113667/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A review of how repetition increases belief in misinformationby J Udry · 2024 · Cited by 100 — Repetition increases belief in infor...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/38113667/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/38113667/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A review of how repetition increases belief in misinformationby J Udry · 2024 · Cited by 100 — Repetition increases belief in infor...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: journalofcognition.org  
-   Link: <a href="https://journalofcognition.org/articles/10.5334/joc.161" target="_blank" rel="noopener noreferrer nofollow">https://journalofcognition.org/articles/10.5334/joc.161</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A Longitudinal Study of the Illusory Truth Effectby EL Henderson · 2021 · Cited by 84 — Repeated statements are rated as subjectively tru...</p></details>
+   Link:<a href="https://journalofcognition.org/articles/10.5334/joc.161" target="_blank" rel="noopener noreferrer nofollow">https://journalofcognition.org/articles/10.5334/joc.161</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A Longitudinal Study of the Illusory Truth Effectby EL Henderson · 2021 · Cited by 84 — Repeated statements are rated as subjectively tru...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: thedecisionlab.com  
    Title: The Decision Lab Illusory truth effect  
-   Link: <a href="https://thedecisionlab.com/biases/illusory-truth-effect" target="_blank" rel="noopener noreferrer nofollow">https://thedecisionlab.com/biases/illusory-truth-effect</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Illusory truth effect - The Decision...Illusory Truth Effect is the positive feeling when we hear information that we believe to be true...</p></details>
+   Link:<a href="https://thedecisionlab.com/biases/illusory-truth-effect" target="_blank" rel="noopener noreferrer nofollow">https://thedecisionlab.com/biases/illusory-truth-effect</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Illusory truth effect - The Decision...Illusory Truth Effect is the positive feeling when we hear information that we believe to be true...</p></details>
 
 ### Additional References
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/AmericanPsychologicalAssociation/posts/you-keep-seeing-the-same-claim-made-over-and-over-onlineso-it-must-be-true-right/1290086699819665/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/AmericanPsychologicalAssociation/posts/you-keep-seeing-the-same-claim-made-over-and-over-onlineso-it-must-be-true-right/1290086699819665/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>American Psychological AssociationThat&#x27;s the Illusory Truth Effect at work—a powerful psychological bias where repeated information start...</p></details>
+   Link:<a href="https://www.facebook.com/AmericanPsychologicalAssociation/posts/you-keep-seeing-the-same-claim-made-over-and-over-onlineso-it-must-be-true-right/1290086699819665/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/AmericanPsychologicalAssociation/posts/you-keep-seeing-the-same-claim-made-over-and-over-onlineso-it-must-be-true-right/1290086699819665/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>American Psychological AssociationThat&#x27;s the Illusory Truth Effect at work—a powerful psychological bias where repeated information start...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: psychologytoday.com  
-   Link: <a href="https://www.psychologytoday.com/us/basics/illusory-truth-effect" target="_blank" rel="noopener noreferrer nofollow">https://www.psychologytoday.com/us/basics/illusory-truth-effect</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Illusory Truth EffectStudies show that repetition increases the perception of validity—even when people start out knowing that the inform...</p></details>
+   Link:<a href="https://www.psychologytoday.com/us/basics/illusory-truth-effect" target="_blank" rel="noopener noreferrer nofollow">https://www.psychologytoday.com/us/basics/illusory-truth-effect</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Illusory Truth EffectStudies show that repetition increases the perception of validity—even when people start out knowing that the inform...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: psychologytoday.com  
-   Link: <a href="https://www.psychologytoday.com/gb/basics/illusory-truth-effect" target="_blank" rel="noopener noreferrer nofollow">https://www.psychologytoday.com/gb/basics/illusory-truth-effect</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Illusory Truth EffectThe illusory truth effect is the tendency for any statement that is repeated frequently—whether it is factually true...</p></details>
+   Link:<a href="https://www.psychologytoday.com/gb/basics/illusory-truth-effect" target="_blank" rel="noopener noreferrer nofollow">https://www.psychologytoday.com/gb/basics/illusory-truth-effect</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Illusory Truth EffectThe illusory truth effect is the tendency for any statement that is repeated frequently—whether it is factually true...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: fs.blog  
-   Link: <a href="https://fs.blog/illusory-truth-effect/" target="_blank" rel="noopener noreferrer nofollow">https://fs.blog/illusory-truth-effect/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Illusory Truth EffectThe effect is so powerful that repetition can persuade us to believe information we know is false in the first p...</p></details>
+   Link:<a href="https://fs.blog/illusory-truth-effect/" target="_blank" rel="noopener noreferrer nofollow">https://fs.blog/illusory-truth-effect/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Illusory Truth EffectThe effect is so powerful that repetition can persuade us to believe information we know is false in the first p...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: news.vanderbilt.edu  
-   Link: <a href="https://news.vanderbilt.edu/2020/10/06/study-shows-that-repeated-statements-are-more-often-judged-to-be-true-regardless-of-a-persons-age-or-prior-knowledge/" target="_blank" rel="noopener noreferrer nofollow">https://news.vanderbilt.edu/2020/10/06/study-shows-that-repeated-statements-are-more-often-judged-to-be-true-regardless-of-a-persons-age-or-prior-knowledge/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Vanderbilt UniversityStudy shows that repeated statements are more often...6 Oct 2020 — When adults hear a statement repeated twice, the...</p></details>
+   Link:<a href="https://news.vanderbilt.edu/2020/10/06/study-shows-that-repeated-statements-are-more-often-judged-to-be-true-regardless-of-a-persons-age-or-prior-knowledge/" target="_blank" rel="noopener noreferrer nofollow">https://news.vanderbilt.edu/2020/10/06/study-shows-that-repeated-statements-are-more-often-judged-to-be-true-regardless-of-a-persons-age-or-prior-knowledge/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Vanderbilt UniversityStudy shows that repeated statements are more often...6 Oct 2020 — When adults hear a statement repeated twice, the...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: nifdi.org  
-   Link: <a href="https://www.nifdi.org/what-is-di/common-myths-misconceptions.html" target="_blank" rel="noopener noreferrer nofollow">https://www.nifdi.org/what-is-di/common-myths-misconceptions.html</a>  
+   Link:<a href="https://www.nifdi.org/what-is-di/common-myths-misconceptions.html" target="_blank" rel="noopener noreferrer nofollow">https://www.nifdi.org/what-is-di/common-myths-misconceptions.html</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: leadalchemists.com  
-   Link: <a href="https://www.leadalchemists.com/marketing-psychology/illusory-truth-effect/" target="_blank" rel="noopener noreferrer nofollow">https://www.leadalchemists.com/marketing-psychology/illusory-truth-effect/</a>  
+   Link:<a href="https://www.leadalchemists.com/marketing-psychology/illusory-truth-effect/" target="_blank" rel="noopener noreferrer nofollow">https://www.leadalchemists.com/marketing-psychology/illusory-truth-effect/</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: ncd.gov  
    Title: common myths about diversity and cultural competency  
-   Link: <a href="https://www.ncd.gov/fact%20sheets/2006/06/01/common-myths-about-diversity-and-cultural-competency/" target="_blank" rel="noopener noreferrer nofollow">https://www.ncd.gov/fact%20sheets/2006/06/01/common-myths-about-diversity-and-cultural-competency/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>1 Jun 2006 — Cultural competence is not a one-time, finite achievement. It is a life long process that is reapplied in every interaction...</p></details>
+   Link:<a href="https://www.ncd.gov/fact%20sheets/2006/06/01/common-myths-about-diversity-and-cultural-competency/" target="_blank" rel="noopener noreferrer nofollow">https://www.ncd.gov/fact%20sheets/2006/06/01/common-myths-about-diversity-and-cultural-competency/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>1 Jun 2006 — Cultural competence is not a one-time, finite achievement. It is a life long process that is reapplied in every interaction...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: researchportal.hw.ac.uk  
    Title: cultural transmission of attitudes and behaviours from parents pe  
-   Link: <a href="https://researchportal.hw.ac.uk/en/publications/cultural-transmission-of-attitudes-and-behaviours-from-parents-pe/" target="_blank" rel="noopener noreferrer nofollow">https://researchportal.hw.ac.uk/en/publications/cultural-transmission-of-attitudes-and-behaviours-from-parents-pe/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Heriot-Watt Research PortalCultural transmission of attitudes and behaviours from...by M Tamariz · 2026 — This study investigates how at...</p></details>
+   Link:<a href="https://researchportal.hw.ac.uk/en/publications/cultural-transmission-of-attitudes-and-behaviours-from-parents-pe/" target="_blank" rel="noopener noreferrer nofollow">https://researchportal.hw.ac.uk/en/publications/cultural-transmission-of-attitudes-and-behaviours-from-parents-pe/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Heriot-Watt Research PortalCultural transmission of attitudes and behaviours from...by M Tamariz · 2026 — This study investigates how at...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: researchgate.net  
    Title: 329992241 MYTH AS A PHENOMENON OF CULTURE  
-   Link: <a href="https://www.researchgate.net/publication/329992241_MYTH_AS_A_PHENOMENON_OF_CULTURE" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/329992241_MYTH_AS_A_PHENOMENON_OF_CULTURE</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) MYTH AS A PHENOMENON OF CULTURE23 Jan 2019 — This paper aims at exploring myth as a phenomenon of culture. The authors have used an...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/329992241_MYTH_AS_A_PHENOMENON_OF_CULTURE" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/329992241_MYTH_AS_A_PHENOMENON_OF_CULTURE</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) MYTH AS A PHENOMENON OF CULTURE23 Jan 2019 — This paper aims at exploring myth as a phenomenon of culture. The authors have used an...</p></details>

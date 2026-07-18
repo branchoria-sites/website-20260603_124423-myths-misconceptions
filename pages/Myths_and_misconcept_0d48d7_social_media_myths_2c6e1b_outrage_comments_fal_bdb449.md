@@ -274,16 +274,16 @@ image: /assets/images/Myths_and_misconcept_0d48d7_social_media_myths_2c6e1b_outr
 
 ## Introduction
 
-Can angry replies help myths spread? In many cases, yes. A common assumption is that hostile comments weaken a false claim because they challenge it. Yet on many social [platforms]({{ 'platforms/' | relative_url }}), a large volume of comments can also act as a signal that a post is attracting attention. If ranking systems measure engagement more reliably than they measure agreement, a false or misleading post may gain visibility even when much of the audience is arguing against it. The result is a paradox: people trying to correct a myth can sometimes help make it look important, active or relevant to the platforms recommendation system. Research on engagement-driven ranking, outrage, and misinformation repeatedly points to this tension between attention and endorsement. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S2352250X23002154" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">misinformation exploits users&#x27; impulses to share moral outrage [52]. A combination of anger and disgust, moral outrage is typically exper...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ifo.de/en/cesifo/publications/2026/working-paper/ranking-engagement-how-social-media-algorithms-fuel-misinformation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ifo.de">[2ifo Institut]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ifo.de</span><span class="citation-popover-snippet">ifo InstitutRanking for Engagement: How Social Media Algorithms...by F Germano  Cited by 16  This paper investigates the dynamic feedb...</span></span></span>
+Can angry replies help myths spread? In many cases, yes. A common assumption is that hostile comments weaken a false claim because they challenge it. Yet on many social [platforms]({{ 'platforms/' | relative_url }}), a large volume of comments can also act as a signal that a post is attracting attention. If ranking systems measure engagement more reliably than they measure agreement, a false or misleading post may gain visibility even when much of the audience is arguing against it. The result is a paradox: people trying to correct a myth can sometimes help make it look important, active or relevant to the platforms recommendation system. Research on engagement-driven ranking, outrage, and misinformation repeatedly points to this tension between attention and endorsement.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S2352250X23002154" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">misinformation exploits users&#x27; impulses to share moral outrage [52]. A combination of anger and disgust, moral outrage is typically exper...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ifo.de/en/cesifo/publications/2026/working-paper/ranking-engagement-how-social-media-algorithms-fuel-misinformation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ifo.de">[2ifo Institut]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ifo.de</span><span class="citation-popover-snippet">ifo InstitutRanking for Engagement: How Social Media Algorithms...by F Germano  Cited by 16  This paper investigates the dynamic feedb...</span></span></span>
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_social_media_myths_2c6e1b_outrage_comments_fal_bdb449-Illustration-1-dark.svg" | relative_url }}" alt="Outrage Boost illustration 1" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_social_media_myths_2c6e1b_outrage_comments_fal_bdb449-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_social_media_myths_2c6e1b_outrage_comments_fal_bdb449-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## How hostile engagement becomes a ranking signal
 
 Most large social platforms must decide which of millions of posts deserve additional visibility. To do this, they often rely on behavioural signals such as comments, replies, reactions, shares, watch time and other forms of interaction. These signals are easier to measure than the motive behind them.
 
-A ranking system can usually detect that users are engaging. It may be far less certain whether they are approving, mocking, disputing or warning others. When a false claim attracts hundreds or thousands of angry responses, the platform may register intense activity before it understands the sentiment behind that activity. As a result, the post can appear more relevant than a quieter, more accurate [correction]({{ 'correction/' | relative_url }}). <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ifo.de/en/cesifo/publications/2026/working-paper/ranking-engagement-how-social-media-algorithms-fuel-misinformation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ifo.de">[ifo Institut]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ifo.de</span><span class="citation-popover-snippet">ifo InstitutRanking for Engagement: How Social Media Algorithms...by F Germano  Cited by 16  This paper investigates the dynamic feedb...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/abs/pii/S2352250X23002154" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">misinformation exploits users&#x27; impulses to share moral outrage [52]. A combination of anger and disgust, moral outrage is typically exper...</span></span></span>
+A ranking system can usually detect that users are engaging. It may be far less certain whether they are approving, mocking, disputing or warning others. When a false claim attracts hundreds or thousands of angry responses, the platform may register intense activity before it understands the sentiment behind that activity. As a result, the post can appear more relevant than a quieter, more accurate [correction]({{ 'correction/' | relative_url }}).<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ifo.de/en/cesifo/publications/2026/working-paper/ranking-engagement-how-social-media-algorithms-fuel-misinformation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ifo.de">[ifo Institut]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ifo.de</span><span class="citation-popover-snippet">ifo InstitutRanking for Engagement: How Social Media Algorithms...by F Germano  Cited by 16  This paper investigates the dynamic feedb...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/abs/pii/S2352250X23002154" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">misinformation exploits users&#x27; impulses to share moral outrage [52]. A combination of anger and disgust, moral outrage is typically exper...</span></span></span>
 
-This dynamic is especially powerful because outrage is not passive. People often feel compelled to respond, quote, argue or alert friends. Research on misinformation and moral outrage suggests that emotionally charged content attracts attention and interaction, creating conditions that favour wider circulation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.science.org/doi/10.1126/science.adl2829" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.org">[Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.org</span><span class="citation-popover-snippet">Misinformation exploits outrage to spread onlineby KL McLoughlin  2024  Cited by 113  Because outrage is associated with increa...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/pii/S0047272726000253" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Ranking for engagement: How social media algorithms fuel...by F Germano  2026  Cited by 14  Social media are at the cent...</span></span></span>
+This dynamic is especially powerful because outrage is not passive. People often feel compelled to respond, quote, argue or alert friends. Research on misinformation and moral outrage suggests that emotionally charged content attracts attention and interaction, creating conditions that favour wider circulation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.science.org/doi/10.1126/science.adl2829" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.org">[Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.org</span><span class="citation-popover-snippet">Misinformation exploits outrage to spread onlineby KL McLoughlin  2024  Cited by 113  Because outrage is associated with increa...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/pii/S0047272726000253" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Ranking for engagement: How social media algorithms fuel...by F Germano  2026  Cited by 14  Social media are at the cent...</span></span></span>
 
 A simple example illustrates the mechanism:
 
@@ -304,9 +304,9 @@ The important point is that the algorithm does not necessarily need to believe t
 
 The problem is not that [corrections]({{ 'corrections/' | relative_url }}) are harmful in themselves. Accurate rebuttals remain one of the most important tools against misinformation. The difficulty is that rebuttals often occur in the same engagement space as the original claim.
 
-A correction posted as a reply still adds another interaction. A long argument thread still signals sustained attention. A user quote-posting a myth to condemn it may introduce the claim to an entirely new audience. In engagement-based systems, these actions can contribute to the visibility of the original content even while opposing it. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ifo.de/en/cesifo/publications/2026/working-paper/ranking-engagement-how-social-media-algorithms-fuel-misinformation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ifo.de">[ifo Institut]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ifo.de</span><span class="citation-popover-snippet">ifo InstitutRanking for Engagement: How Social Media Algorithms...by F Germano  Cited by 16  This paper investigates the dynamic feedb...</span></span></span>
+A correction posted as a reply still adds another interaction. A long argument thread still signals sustained attention. A user quote-posting a myth to condemn it may introduce the claim to an entirely new audience. In engagement-based systems, these actions can contribute to the visibility of the original content even while opposing it.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ifo.de/en/cesifo/publications/2026/working-paper/ranking-engagement-how-social-media-algorithms-fuel-misinformation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ifo.de">[ifo Institut]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ifo.de</span><span class="citation-popover-snippet">ifo InstitutRanking for Engagement: How Social Media Algorithms...by F Germano  Cited by 16  This paper investigates the dynamic feedb...</span></span></span>
 
-Research on online behaviour has found that people frequently engage with content they dislike. A 2024 study described a confrontation effect, in which users are often motivated to interact with posts that challenge or anger them rather than simply ignoring them. From a ranking perspective, disagreement can therefore produce many of the same measurable signals as support. <span class="citation-chip-wrap"><a class="citation-chip" href="https://news.tulane.edu/pr/rage-clicks-study-shows-how-political-outrage-fuels-social-media-engagement" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.tulane.edu">[Tulane University News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.tulane.edu</span><span class="citation-popover-title">rage clicks study shows how political outrage fuels social media engagement</span><span class="citation-popover-snippet">Tulane University NewsRage clicks: Study shows how political outrage fuels social...9 Oct 2024  A new Tulane University study explains...</span></span></span>
+Research on online behaviour has found that people frequently engage with content they dislike. A 2024 study described a confrontation effect, in which users are often motivated to interact with posts that challenge or anger them rather than simply ignoring them. From a ranking perspective, disagreement can therefore produce many of the same measurable signals as support.<span class="citation-chip-wrap"><a class="citation-chip" href="https://news.tulane.edu/pr/rage-clicks-study-shows-how-political-outrage-fuels-social-media-engagement" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.tulane.edu">[Tulane University News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.tulane.edu</span><span class="citation-popover-title">rage clicks study shows how political outrage fuels social media engagement</span><span class="citation-popover-snippet">Tulane University NewsRage clicks: Study shows how political outrage fuels social...9 Oct 2024  A new Tulane University study explains...</span></span></span>
 
 This helps explain why myths can appear larger than they really are. A casual observer may encounter a highly active post and infer that it is important, influential or widely believed. In reality, much of the activity may consist of criticism. However, the visibility created by that criticism can still expose more people to the original claim.
 
@@ -317,15 +317,15 @@ An additional complication is that exposure itself matters. Even when readers re
 
 Not all engagement is equal. Anger and moral outrage tend to generate rapid, expressive responses.
 
-Researchers studying misinformation have argued that false claims often exploit emotional reactions, particularly outrage directed at perceived wrongdoing. Outrage encourages users to comment immediately, share with others and participate in public disputes. These behaviours generate exactly the forms of activity that engagement-driven systems often reward. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.science.org/doi/10.1126/science.adl2829" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.org">[Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.org</span><span class="citation-popover-snippet">Misinformation exploits outrage to spread onlineby KL McLoughlin  2024  Cited by 113  Because outrage is associated with increa...</span></span></span>
+Researchers studying misinformation have argued that false claims often exploit emotional reactions, particularly outrage directed at perceived wrongdoing. Outrage encourages users to comment immediately, share with others and participate in public disputes. These behaviours generate exactly the forms of activity that engagement-driven systems often reward.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.science.org/doi/10.1126/science.adl2829" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.org">[Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.org</span><span class="citation-popover-snippet">Misinformation exploits outrage to spread onlineby KL McLoughlin  2024  Cited by 113  Because outrage is associated with increa...</span></span></span>
 
-Evidence from platform studies also suggests that engagement-based ranking can disproportionately amplify emotionally charged content. Analyses of social media recommendation systems have found stronger [amplification]({{ 'amplification/' | relative_url }}) for content expressing anger and intergroup hostility than for calmer material. <span class="citation-chip-wrap"><a class="citation-chip" href="https://knightcolumbia.org/content/engagement-user-satisfaction-and-the-amplification-of-divisive-content-on-social-media" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: knightcolumbia.org">[Knight First Amendment Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">knightcolumbia.org</span><span class="citation-popover-snippet">Knight First Amendment InstituteEngagement, User Satisfaction, and the Amplification of...by S Milli  Cited by 3  Our study reveals th...</span></span></span>
+Evidence from platform studies also suggests that engagement-based ranking can disproportionately amplify emotionally charged content. Analyses of social media recommendation systems have found stronger [amplification]({{ 'amplification/' | relative_url }}) for content expressing anger and intergroup hostility than for calmer material.<span class="citation-chip-wrap"><a class="citation-chip" href="https://knightcolumbia.org/content/engagement-user-satisfaction-and-the-amplification-of-divisive-content-on-social-media" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: knightcolumbia.org">[Knight First Amendment Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">knightcolumbia.org</span><span class="citation-popover-snippet">Knight First Amendment InstituteEngagement, User Satisfaction, and the Amplification of...by S Milli  Cited by 3  Our study reveals th...</span></span></span>
 
 The consequence is not that every angry discussion spreads misinformation. Rather, emotionally charged myths have a built-in advantage in environments where attention is a key ranking input. They provoke reactions from supporters and opponents simultaneously, creating a larger engagement pool than many accurate but less emotionally provocative posts.
 
 ## A notable example: weighting reactions and comments
 
-Internal documents disclosed during scrutiny of Facebook's ranking systems drew attention to how engagement signals can unintentionally favour inflammatory content. Reporting based on those documents described periods when certain emotional reactions received substantially greater weighting than a simple like. Internal concerns reportedly noted that posts generating anger often accumulated comments and reactions at unusually high rates, helping them gain prominence in feeds. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.washingtonpost.com/technology/interactive/2021/how-facebook-algorithm-works/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: washingtonpost.com">[The Washington Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">washingtonpost.com</span><span class="citation-popover-title">how facebook algorithm works</span><span class="citation-popover-snippet">The Washington PostHere&#x27;s how Facebook&#x27;s algorithm worksOct 26, 2021  [Five points for anger, one for a &#x27;like&#x27;: How Facebook&#x27;s formula f...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.washingtonpost.com/technology/interactive/2021/how-facebook-algorithm-works/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: washingtonpost.com">[The Washington Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">washingtonpost.com</span><span class="citation-popover-title">how facebook algorithm works</span><span class="citation-popover-snippet">The Washington PostHere&#x27;s how Facebook&#x27;s algorithm worksOct 26, 2021  [Five points for anger, one for a &#x27;like&#x27;: How Facebook&#x27;s formula f...</span></span></span>
+Internal documents disclosed during scrutiny of Facebook's ranking systems drew attention to how engagement signals can unintentionally favour inflammatory content. Reporting based on those documents described periods when certain emotional reactions received substantially greater weighting than a simple like. Internal concerns reportedly noted that posts generating anger often accumulated comments and reactions at unusually high rates, helping them gain prominence in feeds.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.washingtonpost.com/technology/interactive/2021/how-facebook-algorithm-works/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: washingtonpost.com">[The Washington Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">washingtonpost.com</span><span class="citation-popover-title">how facebook algorithm works</span><span class="citation-popover-snippet">The Washington PostHere&#x27;s how Facebook&#x27;s algorithm worksOct 26, 2021  [Five points for anger, one for a &#x27;like&#x27;: How Facebook&#x27;s formula f...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.washingtonpost.com/technology/interactive/2021/how-facebook-algorithm-works/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: washingtonpost.com">[The Washington Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">washingtonpost.com</span><span class="citation-popover-title">how facebook algorithm works</span><span class="citation-popover-snippet">The Washington PostHere&#x27;s how Facebook&#x27;s algorithm worksOct 26, 2021  [Five points for anger, one for a &#x27;like&#x27;: How Facebook&#x27;s formula f...</span></span></span>
 
 The broader lesson extends beyond any single platform. Whenever ranking systems place substantial weight on interaction volume, emotionally charged myths may gain an advantage because they attract participation from both believers and critics.
 
@@ -336,11 +336,11 @@ The challenge for platforms is distinguishing people are talking about this from
 
 Several design approaches attempt to reduce the confusion:
 
-* **Quality and credibility signals:** Ranking systems can include measures of source reliability rather than relying primarily on raw engagement. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.axios.com/2018/01/19/facebook-to-rank-news-quality-1516395007" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: axios.com">[Axios]</a><span class="citation-popover" role="note"><span class="citation-popover-source">axios.com</span><span class="citation-popover-title">Facebook to rank news quality as part of fake news fight</span><span class="citation-popover-snippet">This initiative is part of a broader effort to foster meaningful interactions on the platform, moving away from passive content consumpti...</span></span></span>
+* **Quality and credibility signals:** Ranking systems can include measures of source reliability rather than relying primarily on raw engagement.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.axios.com/2018/01/19/facebook-to-rank-news-quality-1516395007" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: axios.com">[Axios]</a><span class="citation-popover" role="note"><span class="citation-popover-source">axios.com</span><span class="citation-popover-title">Facebook to rank news quality as part of fake news fight</span><span class="citation-popover-snippet">This initiative is part of a broader effort to foster meaningful interactions on the platform, moving away from passive content consumpti...</span></span></span>
 * **Downranking disputed content:** Platforms may reduce distribution after fact-checks or other trust-and-safety reviews, limiting the effect of engagement alone.
 * **Sentiment-aware analysis:** More sophisticated systems can attempt to distinguish approval from criticism, although this remains technically difficult at scale.
-* **Reducing the weight of inflammatory reactions:** Internal debates at major platforms have centred on whether certain reactions or engagement signals create unintended incentives for provocative content. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.washingtonpost.com/technology/interactive/2021/how-facebook-algorithm-works/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: washingtonpost.com">[The Washington Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">washingtonpost.com</span><span class="citation-popover-title">how facebook algorithm works</span><span class="citation-popover-snippet">The Washington PostHere&#x27;s how Facebook&#x27;s algorithm worksOct 26, 2021  [Five points for anger, one for a &#x27;like&#x27;: How Facebook&#x27;s formula f...</span></span></span>
-* **Community fact-checking layers:** [Community notes]({{ 'community-notes/' | relative_url }}) and similar systems can provide context, although research suggests they may also trigger more negative and outraged replies, highlighting the difficulty of separating corrective behaviour from engagement effects. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2509.18440" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+* **Reducing the weight of inflammatory reactions:** Internal debates at major platforms have centred on whether certain reactions or engagement signals create unintended incentives for provocative content.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.washingtonpost.com/technology/interactive/2021/how-facebook-algorithm-works/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: washingtonpost.com">[The Washington Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">washingtonpost.com</span><span class="citation-popover-title">how facebook algorithm works</span><span class="citation-popover-snippet">The Washington PostHere&#x27;s how Facebook&#x27;s algorithm worksOct 26, 2021  [Five points for anger, one for a &#x27;like&#x27;: How Facebook&#x27;s formula f...</span></span></span>
+* **Community fact-checking layers:** [Community notes]({{ 'community-notes/' | relative_url }}) and similar systems can provide context, although research suggests they may also trigger more negative and outraged replies, highlighting the difficulty of separating corrective behaviour from engagement effects.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2509.18440" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 The central design question is whether a platform treats attention as a proxy for value. If comments, replies and reactions are interpreted mainly as evidence of relevance, then outrage can become a visibility engine for myths. If ranking systems better distinguish endorsement from dispute, the incentive for false claims to thrive on angry engagement becomes weaker.
 
@@ -348,197 +348,197 @@ The central design question is whether a platform treats attention as a proxy fo
 
 Many people assume that public criticism naturally suppresses false claims. In social media environments, the relationship is more complicated. A myth does not always benefit because people believe it. Sometimes it benefits because people cannot resist arguing with it.
 
-That distinction matters when evaluating how misinformation spreads. Engagement metrics measure activity, not truth. When ranking systems rely heavily on those metrics, hostile comments can unintentionally help transform a dubious claim from a small falsehood into a widely seen topic. The myth gains reach not because it won the argument, but because it succeeded in capturing attention. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ifo.de/en/cesifo/publications/2026/working-paper/ranking-engagement-how-social-media-algorithms-fuel-misinformation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ifo.de">[ifo Institut]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ifo.de</span><span class="citation-popover-snippet">ifo InstitutRanking for Engagement: How Social Media Algorithms...by F Germano  Cited by 16  This paper investigates the dynamic feedb...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/pii/S1566253524000782" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-title">The search resulted</span><span class="citation-popover-snippet">Emotion detection for misinformation: A reviewby Z Liu  2024  Cited by 110  The specific query used was as follows: (emotion OR sentim...</span></span></span>
+That distinction matters when evaluating how misinformation spreads. Engagement metrics measure activity, not truth. When ranking systems rely heavily on those metrics, hostile comments can unintentionally help transform a dubious claim from a small falsehood into a widely seen topic. The myth gains reach not because it won the argument, but because it succeeded in capturing attention.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ifo.de/en/cesifo/publications/2026/working-paper/ranking-engagement-how-social-media-algorithms-fuel-misinformation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ifo.de">[ifo Institut]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ifo.de</span><span class="citation-popover-snippet">ifo InstitutRanking for Engagement: How Social Media Algorithms...by F Germano  Cited by 16  This paper investigates the dynamic feedb...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/pii/S1566253524000782" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-title">The search resulted</span><span class="citation-popover-snippet">Emotion detection for misinformation: A reviewby Z Liu  2024  Cited by 110  The specific query used was as follows: (emotion OR sentim...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Can Angry Replies Help Myths Spread?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Can Angry Replies Help Myths Spread?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Chaos+Machine+by+Max+Fisher&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Chaos Machine on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Fz5JEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Chaos Machine" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Chaos+Machine+by+Max+Fisher&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Chaos Machine">The Chaos Machine</a>
-        </h4>
-        <p class="fr-book-author">By Max Fisher</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Chaos+Machine+by+Max+Fisher&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Chaos Machine on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Fz5JEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Chaos Machine" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Chaos+Machine+by+Max+Fisher&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Chaos Machine">The Chaos Machine</a>
+</h4>
+<p class="fr-book-author">By Max Fisher</p>
         
-        <p class="fr-book-desc">Examines how platform design rewards conflict and engagement.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Chaos+Machine+by+Max+Fisher&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines how platform design rewards conflict and engagement.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Chaos+Machine+by+Max+Fisher&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Likewar+by+Peter+Warren+Singer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Likewar on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=URFxDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Likewar" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Likewar+by+Peter+Warren+Singer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Likewar">Likewar</a>
-        </h4>
-        <p class="fr-book-author">By Peter Warren Singer, Emerson T. Brooking</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Likewar+by+Peter+Warren+Singer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Likewar on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=URFxDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Likewar" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Likewar+by+Peter+Warren+Singer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Likewar">Likewar</a>
+</h4>
+<p class="fr-book-author">By Peter Warren Singer, Emerson T. Brooking</p>
         
-        <p class="fr-book-desc">Shows how attention and amplification shape online narratives.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Likewar+by+Peter+Warren+Singer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows how attention and amplification shape online narratives.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Likewar+by+Peter+Warren+Singer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Trust+Me+I%27m+Lying+by+Ryan+Holiday&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Trust Me I&#x27;m Lying on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nHU7DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Trust Me I&#x27;m Lying" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Trust+Me+I%27m+Lying+by+Ryan+Holiday&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Trust Me I&#x27;m Lying">Trust Me I&#x27;m Lying</a>
-        </h4>
-        <p class="fr-book-author">By Ryan Holiday</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Trust+Me+I%27m+Lying+by+Ryan+Holiday&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Trust Me I&#x27;m Lying on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nHU7DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Trust Me I&#x27;m Lying" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Trust+Me+I%27m+Lying+by+Ryan+Holiday&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Trust Me I&#x27;m Lying">Trust Me I&#x27;m Lying</a>
+</h4>
+<p class="fr-book-author">By Ryan Holiday</p>
         
-        <p class="fr-book-desc">Illustrates how engagement can boost dubious claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Trust+Me+I%27m+Lying+by+Ryan+Holiday&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Illustrates how engagement can boost dubious claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Trust+Me+I%27m+Lying+by+Ryan+Holiday&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Invisible+Rulers+Ren%C3%A9e+DiResta&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Invisible Rulers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/14646933-M.jpg" alt="Cover for Invisible Rulers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Invisible+Rulers+Ren%C3%A9e+DiResta&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Invisible Rulers">Invisible Rulers</a>
-        </h4>
-        <p class="fr-book-author">By Renée DiResta</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Invisible+Rulers+Ren%C3%A9e+DiResta&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Invisible Rulers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/14646933-M.jpg" alt="Cover for Invisible Rulers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Invisible+Rulers+Ren%C3%A9e+DiResta&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Invisible Rulers">Invisible Rulers</a>
+</h4>
+<p class="fr-book-author">By Renée DiResta</p>
         
-        <p class="fr-book-desc">First published 2024.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Invisible+Rulers+Ren%C3%A9e+DiResta&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2024.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Invisible+Rulers+Ren%C3%A9e+DiResta&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Chaos+Machine&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Chaos Machine</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Likewar&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Likewar</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Trust+Me+I%27m+Lying&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Trust Me I&#x27;m Lying</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Chaos+Machine&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Chaos Machine</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Likewar&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Likewar</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Trust+Me+I%27m+Lying&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Trust Me I&#x27;m Lying</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=outrage-boost-can-angry-replies-help-myths-spread-myths-and-misconcept-science-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science art print" data-ebay-reference="outrage-boost-can-angry-replies-help-myths-spread-myths-and-misconcept-science-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Science Lover Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/c14f5b37d36f323b014a.jpg' | relative_url }}" alt="Listing image for Science Lover Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=outrage-boost-can-angry-replies-help-myths-spread-myths-and-misconcept-science-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science art print" data-ebay-reference="outrage-boost-can-angry-replies-help-myths-spread-myths-and-misconcept-science-art-print" target="_blank" rel="sponsored noopener noreferrer">Science Lover Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=outrage-boost-can-angry-replies-help-myths-spread-myths-and-misconcept-science-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science art print" data-ebay-reference="outrage-boost-can-angry-replies-help-myths-spread-myths-and-misconcept-science-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: science art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=outrage-boost-can-angry-replies-help-myths-spread-myths-and-misconcept-science-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science art print" data-ebay-reference="outrage-boost-can-angry-replies-help-myths-spread-myths-and-misconcept-science-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=outrage-boost-can-angry-replies-help-myths-spread-myths-and-misconcept-science-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science art print" data-ebay-reference="outrage-boost-can-angry-replies-help-myths-spread-myths-and-misconcept-science-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Science Lover Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/c14f5b37d36f323b014a.jpg' | relative_url }}" alt="Listing image for Science Lover Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=outrage-boost-can-angry-replies-help-myths-spread-myths-and-misconcept-science-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science art print" data-ebay-reference="outrage-boost-can-angry-replies-help-myths-spread-myths-and-misconcept-science-art-print" target="_blank" rel="sponsored noopener noreferrer">Science Lover Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=outrage-boost-can-angry-replies-help-myths-spread-myths-and-misconcept-science-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science art print" data-ebay-reference="outrage-boost-can-angry-replies-help-myths-spread-myths-and-misconcept-science-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: science art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=outrage-boost-can-angry-replies-help-myths-spread-myths-and-misconcept-science-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science art print" data-ebay-reference="outrage-boost-can-angry-replies-help-myths-spread-myths-and-misconcept-science-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=outrage-boost-can-angry-replies-help-myths-spread-myths-and-misconcept-science-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science art print" data-ebay-reference="outrage-boost-can-angry-replies-help-myths-spread-myths-and-misconcept-science-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Educational vintage A3 A4 Mushroom Chart Biology Science Fungi art print poster"><img src="{{ '/assets/images/marketplace-covers/17e2f79b1a99ca589e72.jpg' | relative_url }}" alt="Listing image for Educational vintage A3 A4 Mushroom Chart Biology Science Fungi art print poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=outrage-boost-can-angry-replies-help-myths-spread-myths-and-misconcept-science-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science art print" data-ebay-reference="outrage-boost-can-angry-replies-help-myths-spread-myths-and-misconcept-science-art-print" target="_blank" rel="sponsored noopener noreferrer">Educational vintage A3 A4 Mushroom Chart Biology Science Fungi art print poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=outrage-boost-can-angry-replies-help-myths-spread-myths-and-misconcept-science-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science art print" data-ebay-reference="outrage-boost-can-angry-replies-help-myths-spread-myths-and-misconcept-science-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: science art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=outrage-boost-can-angry-replies-help-myths-spread-myths-and-misconcept-science-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science art print" data-ebay-reference="outrage-boost-can-angry-replies-help-myths-spread-myths-and-misconcept-science-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=outrage-boost-can-angry-replies-help-myths-spread-myths-and-misconcept-science-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science art print" data-ebay-reference="outrage-boost-can-angry-replies-help-myths-spread-myths-and-misconcept-science-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Educational vintage A3 A4 Mushroom Chart Biology Science Fungi art print poster"><img src="{{ '/assets/images/marketplace-covers/17e2f79b1a99ca589e72.jpg' | relative_url }}" alt="Listing image for Educational vintage A3 A4 Mushroom Chart Biology Science Fungi art print poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=outrage-boost-can-angry-replies-help-myths-spread-myths-and-misconcept-science-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science art print" data-ebay-reference="outrage-boost-can-angry-replies-help-myths-spread-myths-and-misconcept-science-art-print" target="_blank" rel="sponsored noopener noreferrer">Educational vintage A3 A4 Mushroom Chart Biology Science Fungi art print poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=outrage-boost-can-angry-replies-help-myths-spread-myths-and-misconcept-science-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science art print" data-ebay-reference="outrage-boost-can-angry-replies-help-myths-spread-myths-and-misconcept-science-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: science art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=outrage-boost-can-angry-replies-help-myths-spread-myths-and-misconcept-science-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science art print" data-ebay-reference="outrage-boost-can-angry-replies-help-myths-spread-myths-and-misconcept-science-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=outrage-boost-can-angry-replies-help-myths-spread-myths-and-misconcept-science-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science art print" data-ebay-reference="outrage-boost-can-angry-replies-help-myths-spread-myths-and-misconcept-science-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Science Framed Art Print Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/76f2382783f3bed69e2a.jpg' | relative_url }}" alt="Listing image for Science Framed Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=outrage-boost-can-angry-replies-help-myths-spread-myths-and-misconcept-science-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science art print" data-ebay-reference="outrage-boost-can-angry-replies-help-myths-spread-myths-and-misconcept-science-art-print" target="_blank" rel="sponsored noopener noreferrer">Science Framed Art Print Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=outrage-boost-can-angry-replies-help-myths-spread-myths-and-misconcept-science-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science art print" data-ebay-reference="outrage-boost-can-angry-replies-help-myths-spread-myths-and-misconcept-science-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: science art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=outrage-boost-can-angry-replies-help-myths-spread-myths-and-misconcept-science-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science art print" data-ebay-reference="outrage-boost-can-angry-replies-help-myths-spread-myths-and-misconcept-science-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=outrage-boost-can-angry-replies-help-myths-spread-myths-and-misconcept-science-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science art print" data-ebay-reference="outrage-boost-can-angry-replies-help-myths-spread-myths-and-misconcept-science-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Science Framed Art Print Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/76f2382783f3bed69e2a.jpg' | relative_url }}" alt="Listing image for Science Framed Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=outrage-boost-can-angry-replies-help-myths-spread-myths-and-misconcept-science-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science art print" data-ebay-reference="outrage-boost-can-angry-replies-help-myths-spread-myths-and-misconcept-science-art-print" target="_blank" rel="sponsored noopener noreferrer">Science Framed Art Print Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=outrage-boost-can-angry-replies-help-myths-spread-myths-and-misconcept-science-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science art print" data-ebay-reference="outrage-boost-can-angry-replies-help-myths-spread-myths-and-misconcept-science-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: science art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=outrage-boost-can-angry-replies-help-myths-spread-myths-and-misconcept-science-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science art print" data-ebay-reference="outrage-boost-can-angry-replies-help-myths-spread-myths-and-misconcept-science-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=outrage-boost-can-angry-replies-help-myths-spread-myths-and-misconcept-science-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science art print" data-ebay-reference="outrage-boost-can-angry-replies-help-myths-spread-myths-and-misconcept-science-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Science science Framed Art Print Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/f2929b3429341624ae55.jpg' | relative_url }}" alt="Listing image for Science science Framed Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=outrage-boost-can-angry-replies-help-myths-spread-myths-and-misconcept-science-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science art print" data-ebay-reference="outrage-boost-can-angry-replies-help-myths-spread-myths-and-misconcept-science-art-print" target="_blank" rel="sponsored noopener noreferrer">Science science Framed Art Print Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=outrage-boost-can-angry-replies-help-myths-spread-myths-and-misconcept-science-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science art print" data-ebay-reference="outrage-boost-can-angry-replies-help-myths-spread-myths-and-misconcept-science-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: science art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=outrage-boost-can-angry-replies-help-myths-spread-myths-and-misconcept-science-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science art print" data-ebay-reference="outrage-boost-can-angry-replies-help-myths-spread-myths-and-misconcept-science-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=outrage-boost-can-angry-replies-help-myths-spread-myths-and-misconcept-science-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science art print" data-ebay-reference="outrage-boost-can-angry-replies-help-myths-spread-myths-and-misconcept-science-art-print" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=outrage-boost-can-angry-replies-help-myths-spread-myths-and-misconcept-science-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science art print" data-ebay-reference="outrage-boost-can-angry-replies-help-myths-spread-myths-and-misconcept-science-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Science science Framed Art Print Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/f2929b3429341624ae55.jpg' | relative_url }}" alt="Listing image for Science science Framed Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=outrage-boost-can-angry-replies-help-myths-spread-myths-and-misconcept-science-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science art print" data-ebay-reference="outrage-boost-can-angry-replies-help-myths-spread-myths-and-misconcept-science-art-print" target="_blank" rel="sponsored noopener noreferrer">Science science Framed Art Print Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=outrage-boost-can-angry-replies-help-myths-spread-myths-and-misconcept-science-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science art print" data-ebay-reference="outrage-boost-can-angry-replies-help-myths-spread-myths-and-misconcept-science-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: science art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=outrage-boost-can-angry-replies-help-myths-spread-myths-and-misconcept-science-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science art print" data-ebay-reference="outrage-boost-can-angry-replies-help-myths-spread-myths-and-misconcept-science-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=outrage-boost-can-angry-replies-help-myths-spread-myths-and-misconcept-science-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science art print" data-ebay-reference="outrage-boost-can-angry-replies-help-myths-spread-myths-and-misconcept-science-art-print" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -554,7 +554,7 @@ That distinction matters when evaluating how misinformation spreads. Engagement 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -574,7 +574,7 @@ That distinction matters when evaluating how misinformation spreads. Engagement 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -606,7 +606,7 @@ That distinction matters when evaluating how misinformation spreads. Engagement 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -658,7 +658,7 @@ That distinction matters when evaluating how misinformation spreads. Engagement 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -703,7 +703,7 @@ That distinction matters when evaluating how misinformation spreads. Engagement 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -744,169 +744,169 @@ That distinction matters when evaluating how misinformation spreads. Engagement 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S2352250X23002154" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S2352250X23002154</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>misinformation exploits users&#x27; impulses to share moral outrage [52]. A combination of anger and disgust, moral outrage is typically exper...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/abs/pii/S2352250X23002154" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S2352250X23002154</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>misinformation exploits users&#x27; impulses to share moral outrage [52]. A combination of anger and disgust, moral outrage is typically exper...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: ifo.de  
-   Link: <a href="https://www.ifo.de/en/cesifo/publications/2026/working-paper/ranking-engagement-how-social-media-algorithms-fuel-misinformation" target="_blank" rel="noopener noreferrer nofollow">https://www.ifo.de/en/cesifo/publications/2026/working-paper/ranking-engagement-how-social-media-algorithms-fuel-misinformation</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ifo InstitutRanking for Engagement: How Social Media Algorithms...by F Germano  Cited by 16  This paper investigates the dynamic feedb...</p></details>
+   Link:<a href="https://www.ifo.de/en/cesifo/publications/2026/working-paper/ranking-engagement-how-social-media-algorithms-fuel-misinformation" target="_blank" rel="noopener noreferrer nofollow">https://www.ifo.de/en/cesifo/publications/2026/working-paper/ranking-engagement-how-social-media-algorithms-fuel-misinformation</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ifo InstitutRanking for Engagement: How Social Media Algorithms...by F Germano  Cited by 16  This paper investigates the dynamic feedb...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0047272726000253" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0047272726000253</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Ranking for engagement: How social media algorithms fuel...by F Germano  2026  Cited by 14  Social media are at the cent...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/pii/S0047272726000253" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0047272726000253</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ranking for engagement: How social media algorithms fuel...by F Germano  2026  Cited by 14  Social media are at the cent...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2509.18440" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2509.18440</a>  
+   Link:<a href="https://arxiv.org/abs/2509.18440" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2509.18440</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: news.tulane.edu  
    Title: rage clicks study shows how political outrage fuels social media engagement  
-   Link: <a href="https://news.tulane.edu/pr/rage-clicks-study-shows-how-political-outrage-fuels-social-media-engagement" target="_blank" rel="noopener noreferrer nofollow">https://news.tulane.edu/pr/rage-clicks-study-shows-how-political-outrage-fuels-social-media-engagement</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Tulane University NewsRage clicks: Study shows how political outrage fuels social...9 Oct 2024  A new Tulane University study explains...</p></details>
+   Link:<a href="https://news.tulane.edu/pr/rage-clicks-study-shows-how-political-outrage-fuels-social-media-engagement" target="_blank" rel="noopener noreferrer nofollow">https://news.tulane.edu/pr/rage-clicks-study-shows-how-political-outrage-fuels-social-media-engagement</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Tulane University NewsRage clicks: Study shows how political outrage fuels social...9 Oct 2024  A new Tulane University study explains...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: time.com  
-   Link: <a href="https://time.com/6097704/facebook-instagram-wall-street-journal/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/6097704/facebook-instagram-wall-street-journal/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The &quot;Facebook Files&quot; exposes several critical issues: an internal program known as XCheck exempts high-profile users from moderation rule...</p></details>
+   Link:<a href="https://time.com/6097704/facebook-instagram-wall-street-journal/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/6097704/facebook-instagram-wall-street-journal/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The &quot;Facebook Files&quot; exposes several critical issues: an internal program known as XCheck exempts high-profile users from moderation rule...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: axios.com  
    Title: Facebook to rank news quality as part of [fake news](&#123;&#123; 'fake-news/' | relative_url &#125;&#125;) fight  
-   Link: <a href="https://www.axios.com/2018/01/19/facebook-to-rank-news-quality-1516395007" target="_blank" rel="noopener noreferrer nofollow">https://www.axios.com/2018/01/19/facebook-to-rank-news-quality-1516395007</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>This initiative is part of a broader effort to foster meaningful interactions on the platform, moving away from passive content consumpti...</p></details>
+   Link:<a href="https://www.axios.com/2018/01/19/facebook-to-rank-news-quality-1516395007" target="_blank" rel="noopener noreferrer nofollow">https://www.axios.com/2018/01/19/facebook-to-rank-news-quality-1516395007</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>This initiative is part of a broader effort to foster meaningful interactions on the platform, moving away from passive content consumpti...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2409.08829" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2409.08829</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Community Fact-Checks Trigger Moral Outrage in Replies to Misleading Posts on Social MediaSeptember 13, 2024...</p></details>
+   Link:<a href="https://arxiv.org/abs/2409.08829" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2409.08829</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Community Fact-Checks Trigger Moral Outrage in Replies to Misleading Posts on Social MediaSeptember 13, 2024...</p></details>
    Published: September 13, 2024  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/2204512110/posts/10160435540082111/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/2204512110/posts/10160435540082111/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>that divisive, anger-provoking content generates massive...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/groups/2204512110/posts/10160435540082111/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/2204512110/posts/10160435540082111/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>that divisive, anger-provoking content generates massive...Read more...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>log in or sign upCreate an account or log into Facebook. Connect with friends, family and other people you know. Share photos...</p></details>
+   Link:<a href="https://www.facebook.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>log in or sign upCreate an account or log into Facebook. Connect with friends, family and other people you know. Share photos...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/NorthwesternU/posts/a-mix-of-content-in-your-feed-means-less-toxicity-engagement-based-algorithms-am/1422786266543360/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NorthwesternU/posts/a-mix-of-content-in-your-feed-means-less-toxicity-engagement-based-algorithms-am/1422786266543360/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ify outrage and toxic political content...</p></details>
+   Link:<a href="https://www.facebook.com/NorthwesternU/posts/a-mix-of-content-in-your-feed-means-less-toxicity-engagement-based-algorithms-am/1422786266543360/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NorthwesternU/posts/a-mix-of-content-in-your-feed-means-less-toxicity-engagement-based-algorithms-am/1422786266543360/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ify outrage and toxic political content...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/Prof.Yuval.Noah.Harari/posts/social-media-algorithms-quickly-learned-how-to-drive-engagement-hate-fear-and-an/1486183576197817/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Prof.Yuval.Noah.Harari/posts/social-media-algorithms-quickly-learned-how-to-drive-engagement-hate-fear-and-an/1486183576197817/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>nger... misinformation, outrage, and fear. The platforms&#x27;...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/Prof.Yuval.Noah.Harari/posts/social-media-algorithms-quickly-learned-how-to-drive-engagement-hate-fear-and-an/1486183576197817/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Prof.Yuval.Noah.Harari/posts/social-media-algorithms-quickly-learned-how-to-drive-engagement-hate-fear-and-an/1486183576197817/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>nger... misinformation, outrage, and fear. The platforms&#x27;...Read more...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: facebook.com  
    Title: 's algorithms predicting real-life interactions Ok  
-   Link: <a href="https://www.facebook.com/groups/1143251116647159/posts/1367315594240709/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/1143251116647159/posts/1367315594240709/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Facebook&#x27;s algorithms are getting scary. Less than an hour after I responded to a post regarding unusual aspects of socially interacting...</p></details>
+   Link:<a href="https://www.facebook.com/groups/1143251116647159/posts/1367315594240709/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/1143251116647159/posts/1367315594240709/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Facebook&#x27;s algorithms are getting scary. Less than an hour after I responded to a post regarding unusual aspects of socially interacting...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/dullmensclub/posts/1359098968079974/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/dullmensclub/posts/1359098968079974/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>uld not advise doing this long-term as that way lies madness.Read more...</p></details>
+   Link:<a href="https://www.facebook.com/groups/dullmensclub/posts/1359098968079974/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/dullmensclub/posts/1359098968079974/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>uld not advise doing this long-term as that way lies madness.Read more...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: sciencedirect.com  
    Title: The search resulted  
-   Link: <a href="https://www.sciencedirect.com/science/article/pii/S1566253524000782" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S1566253524000782</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>[Emotion](&amp;#123;&amp;#123; &#x27;emotion/&#x27; | relative_url &amp;#125;&amp;#125;) detection for misinformation: A reviewby Z Liu  2024  Cited by 110  The specific query used was as follows: (emotion OR sentim...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/pii/S1566253524000782" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S1566253524000782</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>[Emotion](&amp;#123;&amp;#123; &#x27;emotion/&#x27; | relative_url &amp;#125;&amp;#125;) detection for misinformation: A reviewby Z Liu  2024  Cited by 110  The specific query used was as follows: (emotion OR sentim...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: ifo.de  
    Title: cesifo1 wp10011  
-   Link: <a href="https://www.ifo.de/DocDL/cesifo1_wp10011.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ifo.de/DocDL/cesifo1_wp10011.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>CESifo Working Paper No. 10011by F Germano  Cited by 16  Social media are at the center of countless debates on polarization, misinform...</p></details>
+   Link:<a href="https://www.ifo.de/DocDL/cesifo1_wp10011.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ifo.de/DocDL/cesifo1_wp10011.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>CESifo Working Paper No. 10011by F Germano  Cited by 16  Social media are at the center of countless debates on polarization, misinform...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: science.org  
-   Link: <a href="https://www.science.org/doi/10.1126/science.adl2829" target="_blank" rel="noopener noreferrer nofollow">https://www.science.org/doi/10.1126/science.adl2829</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Misinformation exploits outrage to spread onlineby KL McLoughlin  2024  Cited by 113  Because outrage is associated with increa...</p></details>
+   Link:<a href="https://www.science.org/doi/10.1126/science.adl2829" target="_blank" rel="noopener noreferrer nofollow">https://www.science.org/doi/10.1126/science.adl2829</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Misinformation exploits outrage to spread onlineby KL McLoughlin  2024  Cited by 113  Because outrage is associated with increa...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: knightcolumbia.org  
-   Link: <a href="https://knightcolumbia.org/content/engagement-user-satisfaction-and-the-amplification-of-divisive-content-on-social-media" target="_blank" rel="noopener noreferrer nofollow">https://knightcolumbia.org/content/engagement-user-satisfaction-and-the-amplification-of-divisive-content-on-social-media</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Knight First Amendment InstituteEngagement, User Satisfaction, and the Amplification of...by S Milli  Cited by 3  Our study reveals th...</p></details>
+   Link:<a href="https://knightcolumbia.org/content/engagement-user-satisfaction-and-the-amplification-of-divisive-content-on-social-media" target="_blank" rel="noopener noreferrer nofollow">https://knightcolumbia.org/content/engagement-user-satisfaction-and-the-amplification-of-divisive-content-on-social-media</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Knight First Amendment InstituteEngagement, User Satisfaction, and the Amplification of...by S Milli  Cited by 3  Our study reveals th...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: washingtonpost.com  
    Title: how facebook algorithm works  
-   Link: <a href="https://www.washingtonpost.com/technology/interactive/2021/how-facebook-algorithm-works/" target="_blank" rel="noopener noreferrer nofollow">https://www.washingtonpost.com/technology/interactive/2021/how-facebook-algorithm-works/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Washington PostHere&#x27;s how Facebook&#x27;s algorithm worksOct 26, 2021  [Five points for anger, one for a &#x27;like&#x27;: How Facebook&#x27;s formula f...</p></details>
+   Link:<a href="https://www.washingtonpost.com/technology/interactive/2021/how-facebook-algorithm-works/" target="_blank" rel="noopener noreferrer nofollow">https://www.washingtonpost.com/technology/interactive/2021/how-facebook-algorithm-works/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Washington PostHere&#x27;s how Facebook&#x27;s algorithm worksOct 26, 2021  [Five points for anger, one for a &#x27;like&#x27;: How Facebook&#x27;s formula f...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: washingtonpost.com  
-   Link: <a href="https://www.washingtonpost.com/technology/2021/10/26/facebook-angry-emoji-algorithm/" target="_blank" rel="noopener noreferrer nofollow">https://www.washingtonpost.com/technology/2021/10/26/facebook-angry-emoji-algorithm/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Washington PostFive points for anger, one for a &#x27;like&#x27;: How Facebook&#x27;s...26 Oct 2021  Starting in 2017, Facebook&#x27;s ranking algorith...</p></details>
+   Link:<a href="https://www.washingtonpost.com/technology/2021/10/26/facebook-angry-emoji-algorithm/" target="_blank" rel="noopener noreferrer nofollow">https://www.washingtonpost.com/technology/2021/10/26/facebook-angry-emoji-algorithm/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Washington PostFive points for anger, one for a &#x27;like&#x27;: How Facebook&#x27;s...26 Oct 2021  Starting in 2017, Facebook&#x27;s ranking algorith...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Facebook" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Facebook</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>FacebookFacebook is an American social networking service owned by the American technology conglomerate Meta Platforms. It was founded...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Facebook" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Facebook</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FacebookFacebook is an American social networking service owned by the American technology conglomerate Meta Platforms. It was founded...</p></details>
 
 ### Additional References
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: niemanlab.org  
-   Link: <a href="https://www.niemanlab.org/2021/10/more-internal-documents-show-how-facebooks-algorithm-prioritized-anger-and-posts-that-triggered-it/" target="_blank" rel="noopener noreferrer nofollow">https://www.niemanlab.org/2021/10/more-internal-documents-show-how-facebooks-algorithm-prioritized-anger-and-posts-that-triggered-it/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>misinformation, spam, or forms of clickbait.... Facebook&#x27;s reaction to this latest finding linking its algorithm and the prioritizing a...</p></details>
+   Link:<a href="https://www.niemanlab.org/2021/10/more-internal-documents-show-how-facebooks-algorithm-prioritized-anger-and-posts-that-triggered-it/" target="_blank" rel="noopener noreferrer nofollow">https://www.niemanlab.org/2021/10/more-internal-documents-show-how-facebooks-algorithm-prioritized-anger-and-posts-that-triggered-it/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>misinformation, spam, or forms of clickbait.... Facebook&#x27;s reaction to this latest finding linking its algorithm and the prioritizing a...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11894805/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11894805/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>by S Milli  2025  Cited by 235  11381142. 17. Srba I, et al. 2023. Auditing YouTube&#x27;s recommendation algorithm for misinformation...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11894805/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11894805/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by S Milli  2025  Cited by 235  11381142. 17. Srba I, et al. 2023. Auditing YouTube&#x27;s recommendation algorithm for misinformation...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: library.hbs.edu  
    Title: hate spreads faster on twitter evidence from 44 news outlets  
-   Link: <a href="https://www.library.hbs.edu/working-knowledge/hate-spreads-faster-on-twitter-evidence-from-44-news-outlets" target="_blank" rel="noopener noreferrer nofollow">https://www.library.hbs.edu/working-knowledge/hate-spreads-faster-on-twitter-evidence-from-44-news-outlets</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Spreads Faster on Twitter: Evidence from 44 News...13 Jul 2021  Social networks have used a similar notification strategy to stem misin...</p></details>
+   Link:<a href="https://www.library.hbs.edu/working-knowledge/hate-spreads-faster-on-twitter-evidence-from-44-news-outlets" target="_blank" rel="noopener noreferrer nofollow">https://www.library.hbs.edu/working-knowledge/hate-spreads-faster-on-twitter-evidence-from-44-news-outlets</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Spreads Faster on Twitter: Evidence from 44 News...13 Jul 2021  Social networks have used a similar notification strategy to stem misin...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: wsj.com  
    Title: Facebook Tried to Make Its Platform a Healthier Place  
-   Link: <a href="https://www.wsj.com/tech/facebook-algorithm-change-zuckerberg-11631654215" target="_blank" rel="noopener noreferrer nofollow">https://www.wsj.com/tech/facebook-algorithm-change-zuckerberg-11631654215</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sep 15, 2021 ... algorithm to reward outrage and lies. Mr. Zuckerberg resisted some... MSI ranking isn&#x27;t actually rewarding content t...</p></details>
+   Link:<a href="https://www.wsj.com/tech/facebook-algorithm-change-zuckerberg-11631654215" target="_blank" rel="noopener noreferrer nofollow">https://www.wsj.com/tech/facebook-algorithm-change-zuckerberg-11631654215</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sep 15, 2021 ... algorithm to reward outrage and lies. Mr. Zuckerberg resisted some... MSI ranking isn&#x27;t actually rewarding content t...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: bse.eu  
    Title: Ranking for Engagement: How Social Media Algorithms  
-   Link: <a href="https://bse.eu/research/working-papers/ranking-for-engagement-how-social-media-algorithms-fuel-misinformation-and-polarization" target="_blank" rel="noopener noreferrer nofollow">https://bse.eu/research/working-papers/ranking-for-engagement-how-social-media-algorithms-fuel-misinformation-and-polarization</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Social media are at the center of countless debates on polarization, misinformation, and even the state of democracy in various parts of...</p></details>
+   Link:<a href="https://bse.eu/research/working-papers/ranking-for-engagement-how-social-media-algorithms-fuel-misinformation-and-polarization" target="_blank" rel="noopener noreferrer nofollow">https://bse.eu/research/working-papers/ranking-for-engagement-how-social-media-algorithms-fuel-misinformation-and-polarization</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Social media are at the center of countless debates on polarization, misinformation, and even the state of democracy in various parts of...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: emerald.com  
-   Link: <a href="https://www.emerald.com/oir/article/46/3/422/318338/Prevalence-of-anger-engaged-in-sadness-engagement" target="_blank" rel="noopener noreferrer nofollow">https://www.emerald.com/oir/article/46/3/422/318338/Prevalence-of-anger-engaged-in-sadness-engagement</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>e., emotional tweets) and different information types (i.e., misinformation...</p></details>
+   Link:<a href="https://www.emerald.com/oir/article/46/3/422/318338/Prevalence-of-anger-engaged-in-sadness-engagement" target="_blank" rel="noopener noreferrer nofollow">https://www.emerald.com/oir/article/46/3/422/318338/Prevalence-of-anger-engaged-in-sadness-engagement</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>e., emotional tweets) and different information types (i.e., misinformation...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/%40jcai9638/the-wrathful-algorithm-how-facebook-and-youtube-amplify-user-anger-for-traffic-and-profit-f1b6f9a0d49f" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40jcai9638/the-wrathful-algorithm-how-facebook-and-youtube-amplify-user-anger-for-traffic-and-profit-f1b6f9a0d49f</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>This implies the algorithm favours posts that stir...Read more...</p></details>
+   Link:<a href="https://medium.com/%40jcai9638/the-wrathful-algorithm-how-facebook-and-youtube-amplify-user-anger-for-traffic-and-profit-f1b6f9a0d49f" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40jcai9638/the-wrathful-algorithm-how-facebook-and-youtube-amplify-user-anger-for-traffic-and-profit-f1b6f9a0d49f</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>This implies the algorithm favours posts that stir...Read more...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/science/comments/1ot7opj/a_study_finds_that_flagging_misinformation_on/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/science/comments/1ot7opj/a_study_finds_that_flagging_misinformation_on/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>impossible to combat, which is itself disinformation...</p></details>
+   Link:<a href="https://www.reddit.com/r/science/comments/1ot7opj/a_study_finds_that_flagging_misinformation_on/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/science/comments/1ot7opj/a_study_finds_that_flagging_misinformation_on/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>impossible to combat, which is itself disinformation...</p></details>
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: tandfonline.com  
-   Link: <a href="https://www.tandfonline.com/doi/full/10.1080/10584609.2024.2350416" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/full/10.1080/10584609.2024.2350416</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>misinformation. A particular case is Donald Trump, who, as a... Research has established that emotions such as anger and anxiety can inc...</p></details>
+   Link:<a href="https://www.tandfonline.com/doi/full/10.1080/10584609.2024.2350416" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/full/10.1080/10584609.2024.2350416</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>misinformation. A particular case is Donald Trump, who, as a... Research has established that emotions such as anger and anxiety can inc...</p></details>
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: econstor.eu  
    Title: cesifo1 wp10011  
-   Link: <a href="https://www.econstor.eu/bitstream/10419/338267/1/cesifo1_wp10011.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.econstor.eu/bitstream/10419/338267/1/cesifo1_wp10011.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ranking for engagement: How social media algorithms fuel...by F Germano  2026  Cited by 16  Social media are at the center of countle...</p></details>
+   Link:<a href="https://www.econstor.eu/bitstream/10419/338267/1/cesifo1_wp10011.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.econstor.eu/bitstream/10419/338267/1/cesifo1_wp10011.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ranking for engagement: How social media algorithms fuel...by F Germano  2026  Cited by 16  Social media are at the center of countle...</p></details>

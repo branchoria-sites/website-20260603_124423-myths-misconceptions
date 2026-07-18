@@ -268,27 +268,27 @@ image: /assets/images/Myths_and_misconcept_0d48d7_uncertainty_and_myth_ca758b_ne
 
 ## Introduction
 
-People often assume that conspiracy beliefs arise because people lack information. Research suggests a more complicated picture. One important factor is the **need for cognitive closure**—the desire to reach a firm answer quickly and avoid the discomfort of uncertainty. When events are confusing, frightening, or difficult to explain, conspiracy narratives can become appealing because they provide a clear story, identifiable causes, and a sense that hidden forces are responsible for what happened. Even if the explanation is weakly supported, it may feel psychologically satisfying because it reduces ambiguity. Studies across psychology have repeatedly found links between closure-seeking tendencies and greater openness to conspiracy narratives, particularly when official explanations are incomplete or uncertainty is especially salient. <span class="citation-chip-wrap"><a class="citation-chip" href="https://kar.kent.ac.uk/61588/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kar.kent.ac.uk">[Kent Academic Repository]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kar.kent.ac.uk</span><span class="citation-popover-snippet">Thus, they should be attractive...Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://onlinelibrary.wiley.com/doi/abs/10.1002/ejsp.2308" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: onlinelibrary.wiley.com">[Wiley Online Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">onlinelibrary.wiley.com</span><span class="citation-popover-snippet">Wiley Online LibraryAddicted to answers: Need for cognitive closure and the...by M Marchlewska · 2018 · Cited by 417 — We hypothesized t...</span></span></span>
+People often assume that conspiracy beliefs arise because people lack information. Research suggests a more complicated picture. One important factor is the **need for cognitive closure**—the desire to reach a firm answer quickly and avoid the discomfort of uncertainty. When events are confusing, frightening, or difficult to explain, conspiracy narratives can become appealing because they provide a clear story, identifiable causes, and a sense that hidden forces are responsible for what happened. Even if the explanation is weakly supported, it may feel psychologically satisfying because it reduces ambiguity. Studies across psychology have repeatedly found links between closure-seeking tendencies and greater openness to conspiracy narratives, particularly when official explanations are incomplete or uncertainty is especially salient.<span class="citation-chip-wrap"><a class="citation-chip" href="https://kar.kent.ac.uk/61588/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kar.kent.ac.uk">[Kent Academic Repository]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kar.kent.ac.uk</span><span class="citation-popover-snippet">Thus, they should be attractive...Read more...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://onlinelibrary.wiley.com/doi/abs/10.1002/ejsp.2308" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: onlinelibrary.wiley.com">[Wiley Online Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">onlinelibrary.wiley.com</span><span class="citation-popover-snippet">Wiley Online LibraryAddicted to answers: Need for cognitive closure and the...by M Marchlewska · 2018 · Cited by 417 — We hypothesized t...</span></span></span>
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_uncertainty_and_myth_ca758b_need_for_closure_con_e3e01f-Illustration-1-dark.svg" | relative_url }}" alt="Need Closure illustration 1" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_uncertainty_and_myth_ca758b_need_for_closure_con_e3e01f-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_uncertainty_and_myth_ca758b_need_for_closure_con_e3e01f-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## What Cognitive Closure Means
 
-The concept of need for cognitive closure was developed to describe a motivational preference for certainty, predictability, and definite answers. People differ in how strongly they experience this need, but nearly everyone seeks more closure when faced with stressful uncertainty or confusing situations. High closure-seeking individuals tend to prefer clear conclusions, dislike ambiguity, and feel uncomfortable when questions remain unresolved. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5724570/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCThe Psychology of Conspiracy Theories</span><span class="citation-popover-snippet">NIHby KM Douglas · 2017 · Cited by 2011 — Our analysis suggests that conspiracy theories may satisfy some epistemic motives at the...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.kruglanskiarie.com/the-need-for-closure-and-conservati" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kruglanskiarie.com">[Arie Kruglanski]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kruglanskiarie.com</span><span class="citation-popover-snippet">the need for closure and conservatism &#124; Arie KruglanskiPapers in this section address the motivation for certainty and closure, its antec...</span></span></span>
+The concept of need for cognitive closure was developed to describe a motivational preference for certainty, predictability, and definite answers. People differ in how strongly they experience this need, but nearly everyone seeks more closure when faced with stressful uncertainty or confusing situations. High closure-seeking individuals tend to prefer clear conclusions, dislike ambiguity, and feel uncomfortable when questions remain unresolved.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5724570/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCThe Psychology of Conspiracy Theories</span><span class="citation-popover-snippet">NIHby KM Douglas · 2017 · Cited by 2011 — Our analysis suggests that conspiracy theories may satisfy some epistemic motives at the...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.kruglanskiarie.com/the-need-for-closure-and-conservati" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kruglanskiarie.com">[Arie Kruglanski]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kruglanskiarie.com</span><span class="citation-popover-snippet">the need for closure and conservatism &#124; Arie KruglanskiPapers in this section address the motivation for certainty and closure, its antec...</span></span></span>
 
 Psychologists often describe closure seeking through two related tendencies:
 
 * **Urgency:** reaching a conclusion quickly to end uncertainty.
-* **Permanence:** holding onto that conclusion and resisting information that reopens the question. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cluequest.co.uk/blog/entry/the-importance-of-cognitive-closure" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cluequest.co.uk">[cluequest.co.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cluequest.co.uk</span><span class="citation-popover-title">the importance of cognitive closure</span><span class="citation-popover-snippet">Nov 18, 2019 — Webster &amp; Kruglanski (1994 &amp; 1996) explain cognitive closure as a theoretical framework to explain why people avoid uncert...</span></span></span>
+* **Permanence:** holding onto that conclusion and resisting information that reopens the question.<span class="citation-chip-wrap"><a class="citation-chip" href="https://cluequest.co.uk/blog/entry/the-importance-of-cognitive-closure" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cluequest.co.uk">[cluequest.co.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cluequest.co.uk</span><span class="citation-popover-title">the importance of cognitive closure</span><span class="citation-popover-snippet">Nov 18, 2019 — Webster &amp; Kruglanski (1994 &amp; 1996) explain cognitive closure as a theoretical framework to explain why people avoid uncert...</span></span></span>
 
 These tendencies are not inherently irrational. In everyday life, people often need to make decisions before all evidence is available. The problem arises when the desire for certainty becomes stronger than the desire for accuracy.
 
 ## Why Uncertainty Increases Closure Seeking
 
-Periods of uncertainty create psychological discomfort. Crises, disasters, political upheaval, public-health emergencies, and unexplained events all generate questions that may not have immediate answers. In such situations, people often experience anxiety, insecurity, and a stronger motivation to find explanations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5724570/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCThe Psychology of Conspiracy Theories</span><span class="citation-popover-snippet">NIHby KM Douglas · 2017 · Cited by 2011 — Our analysis suggests that conspiracy theories may satisfy some epistemic motives at the...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cambridge.org/core/books/creating-conspiracy-beliefs/anxiety-psychological-motivations-and-conspiracy-beliefs/82B8FD804565C88C8748B706AC3D5730" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cambridge.org">[cambridge]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cambridge.org</span><span class="citation-popover-snippet">Cambridge University Press &amp; AssessmentAnxiety, Psychological Motivations, and Conspiracy BeliefsNov 18, 2021 — We review the evidence ab...</span></span></span> University Press & Assessment
+Periods of uncertainty create psychological discomfort. Crises, disasters, political upheaval, public-health emergencies, and unexplained events all generate questions that may not have immediate answers. In such situations, people often experience anxiety, insecurity, and a stronger motivation to find explanations.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5724570/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCThe Psychology of Conspiracy Theories</span><span class="citation-popover-snippet">NIHby KM Douglas · 2017 · Cited by 2011 — Our analysis suggests that conspiracy theories may satisfy some epistemic motives at the...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cambridge.org/core/books/creating-conspiracy-beliefs/anxiety-psychological-motivations-and-conspiracy-beliefs/82B8FD804565C88C8748B706AC3D5730" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cambridge.org">[cambridge]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cambridge.org</span><span class="citation-popover-snippet">Cambridge University Press &amp; AssessmentAnxiety, Psychological Motivations, and Conspiracy BeliefsNov 18, 2021 — We review the evidence ab...</span></span></span> University Press & Assessment
 
-Research on conspiracy beliefs consistently finds that uncertain environments are fertile ground for closure-seeking behaviour. When authoritative explanations are incomplete, evolving, or contested, conspiracy narratives can appear attractive because they seem to eliminate ambiguity. A conspiracy account may answer multiple questions at once: who is responsible, why events occurred, and what hidden motives are involved. Even when evidence is lacking, the narrative provides psychological finality. <span class="citation-chip-wrap"><a class="citation-chip" href="https://kar.kent.ac.uk/61588/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kar.kent.ac.uk">[Kent Academic Repository]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kar.kent.ac.uk</span><span class="citation-popover-snippet">Thus, they should be attractive...Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://onlinelibrary.wiley.com/doi/abs/10.1002/ejsp.2308" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: onlinelibrary.wiley.com">[Wiley Online Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">onlinelibrary.wiley.com</span><span class="citation-popover-snippet">Wiley Online LibraryAddicted to answers: Need for cognitive closure and the...by M Marchlewska · 2018 · Cited by 417 — We hypothesized t...</span></span></span>
+Research on conspiracy beliefs consistently finds that uncertain environments are fertile ground for closure-seeking behaviour. When authoritative explanations are incomplete, evolving, or contested, conspiracy narratives can appear attractive because they seem to eliminate ambiguity. A conspiracy account may answer multiple questions at once: who is responsible, why events occurred, and what hidden motives are involved. Even when evidence is lacking, the narrative provides psychological finality.<span class="citation-chip-wrap"><a class="citation-chip" href="https://kar.kent.ac.uk/61588/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kar.kent.ac.uk">[Kent Academic Repository]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kar.kent.ac.uk</span><span class="citation-popover-snippet">Thus, they should be attractive...Read more...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://onlinelibrary.wiley.com/doi/abs/10.1002/ejsp.2308" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: onlinelibrary.wiley.com">[Wiley Online Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">onlinelibrary.wiley.com</span><span class="citation-popover-snippet">Wiley Online LibraryAddicted to answers: Need for cognitive closure and the...by M Marchlewska · 2018 · Cited by 417 — We hypothesized t...</span></span></span>
 
-Importantly, the attraction is often emotional rather than evidential. A speculative explanation can feel preferable to admitting that an event remains unexplained. The discomfort of uncertainty may make a confident but unsupported claim seem more satisfying than an honest acknowledgement of ignorance. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5724570/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCThe Psychology of Conspiracy Theories</span><span class="citation-popover-snippet">NIHby KM Douglas · 2017 · Cited by 2011 — Our analysis suggests that conspiracy theories may satisfy some epistemic motives at the...</span></span></span>
+Importantly, the attraction is often emotional rather than evidential. A speculative explanation can feel preferable to admitting that an event remains unexplained. The discomfort of uncertainty may make a confident but unsupported claim seem more satisfying than an honest acknowledgement of ignorance.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5724570/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCThe Psychology of Conspiracy Theories</span><span class="citation-popover-snippet">NIHby KM Douglas · 2017 · Cited by 2011 — Our analysis suggests that conspiracy theories may satisfy some epistemic motives at the...</span></span></span>
 
 ## Conspiracies as Certainty-Providing Narratives
 
@@ -299,30 +299,30 @@ Several features make these narratives closure-friendly:
 * **Clear causality:** events are attributed to purposeful actors rather than chance or complexity.
 * **Identifiable villains:** responsibility is concentrated in a specific group.
 * **Narrative coherence:** disconnected events become part of a single explanatory framework.
-* **Resistance to uncertainty:** contradictory evidence can be reinterpreted as part of the conspiracy itself. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5724570/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCThe Psychology of Conspiracy Theories</span><span class="citation-popover-snippet">NIHby KM Douglas · 2017 · Cited by 2011 — Our analysis suggests that conspiracy theories may satisfy some epistemic motives at the...</span></span></span>
+* **Resistance to uncertainty:** contradictory evidence can be reinterpreted as part of the conspiracy itself.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5724570/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCThe Psychology of Conspiracy Theories</span><span class="citation-popover-snippet">NIHby KM Douglas · 2017 · Cited by 2011 — Our analysis suggests that conspiracy theories may satisfy some epistemic motives at the...</span></span></span>
 
-This helps explain why conspiracy theories often emerge around events that genuinely contain uncertainty. In the absence of complete information, a simple story can feel more psychologically satisfying than a nuanced explanation filled with caveats and unresolved questions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://kar.kent.ac.uk/61588/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kar.kent.ac.uk">[Kent Academic Repository]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kar.kent.ac.uk</span><span class="citation-popover-snippet">Thus, they should be attractive...Read more...</span></span></span>
+This helps explain why conspiracy theories often emerge around events that genuinely contain uncertainty. In the absence of complete information, a simple story can feel more psychologically satisfying than a nuanced explanation filled with caveats and unresolved questions.<span class="citation-chip-wrap"><a class="citation-chip" href="https://kar.kent.ac.uk/61588/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kar.kent.ac.uk">[Kent Academic Repository]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kar.kent.ac.uk</span><span class="citation-popover-snippet">Thus, they should be attractive...Read more...</span></span></span>
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_uncertainty_and_myth_ca758b_need_for_closure_con_e3e01f-Illustration-2-dark.svg" | relative_url }}" alt="Need Closure illustration 2" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_uncertainty_and_myth_ca758b_need_for_closure_con_e3e01f-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_uncertainty_and_myth_ca758b_need_for_closure_con_e3e01f-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Evidence Linking Closure Needs and Conspiracy Beliefs
 
 Research has produced substantial evidence that closure-related motives are associated with conspiracy belief, although the relationship is not always large or uniform.
 
-A frequently cited line of work found that conspiracy theories become especially attractive to people high in need for cognitive closure when official explanations are unclear. Researchers argued that conspiracy narratives function as ready-made answers that help resolve uncertainty. <span class="citation-chip-wrap"><a class="citation-chip" href="https://kar.kent.ac.uk/61588/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kar.kent.ac.uk">[Kent Academic Repository]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kar.kent.ac.uk</span><span class="citation-popover-snippet">Thus, they should be attractive...Read more...</span></span></span>
+A frequently cited line of work found that conspiracy theories become especially attractive to people high in need for cognitive closure when official explanations are unclear. Researchers argued that conspiracy narratives function as ready-made answers that help resolve uncertainty.<span class="citation-chip-wrap"><a class="citation-chip" href="https://kar.kent.ac.uk/61588/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kar.kent.ac.uk">[Kent Academic Repository]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kar.kent.ac.uk</span><span class="citation-popover-snippet">Thus, they should be attractive...Read more...</span></span></span>
 
-Experimental studies have also shown that reducing the motivation for closure can weaken the influence of prior conspiracy beliefs when people evaluate evidence. In other words, when individuals become more willing to tolerate ambiguity and consider alternatives, conspiratorial interpretations become less dominant. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5724570/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCThe Psychology of Conspiracy Theories</span><span class="citation-popover-snippet">NIHby KM Douglas · 2017 · Cited by 2011 — Our analysis suggests that conspiracy theories may satisfy some epistemic motives at the...</span></span></span>
+Experimental studies have also shown that reducing the motivation for closure can weaken the influence of prior conspiracy beliefs when people evaluate evidence. In other words, when individuals become more willing to tolerate ambiguity and consider alternatives, conspiratorial interpretations become less dominant.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5724570/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCThe Psychology of Conspiracy Theories</span><span class="citation-popover-snippet">NIHby KM Douglas · 2017 · Cited by 2011 — Our analysis suggests that conspiracy theories may satisfy some epistemic motives at the...</span></span></span>
 
-More recent research continues to find a positive association between need for closure and conspiracy endorsement, although some studies report relatively modest effect sizes and emphasise that other factors—such as institutional trust, political attitudes, and broader worldviews—also play important roles. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/social-psychology/articles/10.3389/frsps.2024.1447313/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-snippet">FrontiersNeed for cognitive closure, political trust, and belief in...by A Jedinger · 2025 · Cited by 5 — We find that individuals with...</span></span></span>
+More recent research continues to find a positive association between need for closure and conspiracy endorsement, although some studies report relatively modest effect sizes and emphasise that other factors—such as institutional trust, political attitudes, and broader worldviews—also play important roles.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/social-psychology/articles/10.3389/frsps.2024.1447313/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-snippet">FrontiersNeed for cognitive closure, political trust, and belief in...by A Jedinger · 2025 · Cited by 5 — We find that individuals with...</span></span></span>
 
 This nuance matters. The need for closure is not a complete explanation for conspiracy thinking. Rather, it is one psychological mechanism that can increase susceptibility under particular conditions.
 
 ## Why the Relationship Is Not Always Straightforward
 
-Although many studies support a connection between closure seeking and conspiracy beliefs, the evidence is not perfectly consistent. Some research has found weak or non-significant relationships between intolerance of uncertainty and conspiracy endorsement. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S2352250X22001117" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-title">ScienceDirect Review Conspiracy beliefs and science rejection</span><span class="citation-popover-snippet">Review Conspiracy beliefs and science rejectionby BT Rutjens · 2022 · Cited by 87 — When an unequivocally clear scientific explanation is...</span></span></span>
+Although many studies support a connection between closure seeking and conspiracy beliefs, the evidence is not perfectly consistent. Some research has found weak or non-significant relationships between intolerance of uncertainty and conspiracy endorsement.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S2352250X22001117" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-title">ScienceDirect Review Conspiracy beliefs and science rejection</span><span class="citation-popover-snippet">Review Conspiracy beliefs and science rejectionby BT Rutjens · 2022 · Cited by 87 — When an unequivocally clear scientific explanation is...</span></span></span>
 
 Several reasons may explain these mixed findings.
 
-First, conspiracy theories themselves vary. Some provide a highly coherent explanation, while others introduce additional uncertainty and complexity. Second, people may adopt conspiracy beliefs for different reasons, including [identity]({{ 'identity/' | relative_url }}) concerns, distrust of institutions, feelings of powerlessness, or social belonging. Third, closure seeking interacts with context. A strong desire for certainty may only increase conspiracy belief when a conspiratorial explanation is readily available and appears to resolve an unresolved question. Kent Academic Repository <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5724570/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCThe Psychology of Conspiracy Theories</span><span class="citation-popover-snippet">NIHby KM Douglas · 2017 · Cited by 2011 — Our analysis suggests that conspiracy theories may satisfy some epistemic motives at the...</span></span></span>
+First, conspiracy theories themselves vary. Some provide a highly coherent explanation, while others introduce additional uncertainty and complexity. Second, people may adopt conspiracy beliefs for different reasons, including [identity]({{ 'identity/' | relative_url }}) concerns, distrust of institutions, feelings of powerlessness, or social belonging. Third, closure seeking interacts with context. A strong desire for certainty may only increase conspiracy belief when a conspiratorial explanation is readily available and appears to resolve an unresolved question. Kent Academic Repository<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5724570/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCThe Psychology of Conspiracy Theories</span><span class="citation-popover-snippet">NIHby KM Douglas · 2017 · Cited by 2011 — Our analysis suggests that conspiracy theories may satisfy some epistemic motives at the...</span></span></span>
 
 As a result, researchers increasingly view need for closure as one contributor within a larger network of psychological and social influences rather than a universal cause.
 
@@ -331,201 +331,201 @@ As a result, researchers increasingly view need for closure as one contributor w
 
 The most important critique of closure-driven belief formation is that it prioritises decisiveness over evidence. The psychological reward comes from ending uncertainty, not necessarily from discovering what is true.
 
-Conspiracy narratives can therefore satisfy an epistemic need—the need to have an explanation—while undermining another epistemic goal: accuracy. Scholars have noted that conspiracy beliefs may shield people from uncertainty by supplying answers, but those answers are not necessarily reliable. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5724570/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCThe Psychology of Conspiracy Theories</span><span class="citation-popover-snippet">NIHby KM Douglas · 2017 · Cited by 2011 — Our analysis suggests that conspiracy theories may satisfy some epistemic motives at the...</span></span></span>
+Conspiracy narratives can therefore satisfy an epistemic need—the need to have an explanation—while undermining another epistemic goal: accuracy. Scholars have noted that conspiracy beliefs may shield people from uncertainty by supplying answers, but those answers are not necessarily reliable.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5724570/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCThe Psychology of Conspiracy Theories</span><span class="citation-popover-snippet">NIHby KM Douglas · 2017 · Cited by 2011 — Our analysis suggests that conspiracy theories may satisfy some epistemic motives at the...</span></span></span>
 
-Longitudinal research further suggests that conspiracy beliefs often fail to deliver the emotional benefits people seek. Although such beliefs may be adopted partly to reduce anxiety and uncertainty, they do not consistently eliminate those feelings over time. In some cases, the beliefs may perpetuate suspicion and vigilance rather than genuine psychological resolution. <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/01461672211060965" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-title">Sage Journals Can Conspiracy Beliefs Be Beneficial?</span><span class="citation-popover-snippet">L Liekefett · 2023 · Cited by 200 — Research suggests that conspiracy beliefs are adopted because they promise to redu...</span></span></span>
+Longitudinal research further suggests that conspiracy beliefs often fail to deliver the emotional benefits people seek. Although such beliefs may be adopted partly to reduce anxiety and uncertainty, they do not consistently eliminate those feelings over time. In some cases, the beliefs may perpetuate suspicion and vigilance rather than genuine psychological resolution.<span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/01461672211060965" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-title">Sage Journals Can Conspiracy Beliefs Be Beneficial?</span><span class="citation-popover-snippet">L Liekefett · 2023 · Cited by 200 — Research suggests that conspiracy beliefs are adopted because they promise to redu...</span></span></span>
 
-This highlights a key tension in myth acceptance more broadly. Humans naturally seek understanding and predictability, but the explanations that feel most certain are not always the explanations best supported by evidence. The need for closure can therefore make conspiracy narratives emotionally compelling precisely when careful reasoning requires patience with uncertainty. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5724570/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCThe Psychology of Conspiracy Theories</span><span class="citation-popover-snippet">NIHby KM Douglas · 2017 · Cited by 2011 — Our analysis suggests that conspiracy theories may satisfy some epistemic motives at the...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://kar.kent.ac.uk/61588/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kar.kent.ac.uk">[Kent Academic Repository]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kar.kent.ac.uk</span><span class="citation-popover-snippet">Thus, they should be attractive...Read more...</span></span></span>
+This highlights a key tension in myth acceptance more broadly. Humans naturally seek understanding and predictability, but the explanations that feel most certain are not always the explanations best supported by evidence. The need for closure can therefore make conspiracy narratives emotionally compelling precisely when careful reasoning requires patience with uncertainty.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5724570/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCThe Psychology of Conspiracy Theories</span><span class="citation-popover-snippet">NIHby KM Douglas · 2017 · Cited by 2011 — Our analysis suggests that conspiracy theories may satisfy some epistemic motives at the...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://kar.kent.ac.uk/61588/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kar.kent.ac.uk">[Kent Academic Repository]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kar.kent.ac.uk</span><span class="citation-popover-snippet">Thus, they should be attractive...Read more...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How the Need for Closure Fuels Conspiracy Beliefs. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How the Need for Closure Fuels Conspiracy Beliefs. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YGPzXWanppcC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
-        </h4>
-        <p class="fr-book-author">By Daniel Kahneman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YGPzXWanppcC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
+</h4>
+<p class="fr-book-author">By Daniel Kahneman</p>
         
-        <p class="fr-book-desc">Explains rapid closure-seeking and cognitive shortcuts.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains rapid closure-seeking and cognitive shortcuts.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Believing Brain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=a1ueBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Believing Brain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Believing Brain">The Believing Brain</a>
-        </h4>
-        <p class="fr-book-author">By Michael Shermer</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Believing Brain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=a1ueBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Believing Brain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Believing Brain">The Believing Brain</a>
+</h4>
+<p class="fr-book-author">By Michael Shermer</p>
         
-        <p class="fr-book-desc">Examines how people form and defend beliefs.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines how people form and defend beliefs.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Suspicious+Minds+by+Rob+Brotherton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Suspicious Minds on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jQdbEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Suspicious Minds" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Suspicious+Minds+by+Rob+Brotherton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Suspicious Minds">Suspicious Minds</a>
-        </h4>
-        <p class="fr-book-author">By Rob Brotherton</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Suspicious+Minds+by+Rob+Brotherton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Suspicious Minds on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jQdbEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Suspicious Minds" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Suspicious+Minds+by+Rob+Brotherton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Suspicious Minds">Suspicious Minds</a>
+</h4>
+<p class="fr-book-author">By Rob Brotherton</p>
         
-        <p class="fr-book-desc">Explores why conspiracy narratives satisfy psychological needs.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Suspicious+Minds+by+Rob+Brotherton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores why conspiracy narratives satisfy psychological needs.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Suspicious+Minds+by+Rob+Brotherton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Advocates skeptical thinking in the face of certainty-providing myths.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Advocates skeptical thinking in the face of certainty-providing myths.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Believing+Brain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Believing Brain</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Suspicious+Minds&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Suspicious Minds</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Believing+Brain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Believing Brain</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Suspicious+Minds&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Suspicious Minds</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=need-closure-how-the-need-for-closure-fuels-conspiracy-beliefs-myths-and-misconcept-psychology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="psychology poster" data-ebay-reference="need-closure-how-the-need-for-closure-fuels-conspiracy-beliefs-myths-and-misconcept-psychology-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Carl Jung Psychology Tree Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/b6d996c3b7663d0ef672.jpg' | relative_url }}" alt="Listing image for Carl Jung Psychology Tree Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=need-closure-how-the-need-for-closure-fuels-conspiracy-beliefs-myths-and-misconcept-psychology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="psychology poster" data-ebay-reference="need-closure-how-the-need-for-closure-fuels-conspiracy-beliefs-myths-and-misconcept-psychology-poster" target="_blank" rel="sponsored noopener noreferrer">Carl Jung Psychology Tree Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=need-closure-how-the-need-for-closure-fuels-conspiracy-beliefs-myths-and-misconcept-psychology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="psychology poster" data-ebay-reference="need-closure-how-the-need-for-closure-fuels-conspiracy-beliefs-myths-and-misconcept-psychology-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for psychology poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: psychology poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=need-closure-how-the-need-for-closure-fuels-conspiracy-beliefs-myths-and-misconcept-psychology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="psychology poster" data-ebay-reference="need-closure-how-the-need-for-closure-fuels-conspiracy-beliefs-myths-and-misconcept-psychology-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=need-closure-how-the-need-for-closure-fuels-conspiracy-beliefs-myths-and-misconcept-psychology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="psychology poster" data-ebay-reference="need-closure-how-the-need-for-closure-fuels-conspiracy-beliefs-myths-and-misconcept-psychology-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Carl Jung Psychology Tree Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/b6d996c3b7663d0ef672.jpg' | relative_url }}" alt="Listing image for Carl Jung Psychology Tree Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=need-closure-how-the-need-for-closure-fuels-conspiracy-beliefs-myths-and-misconcept-psychology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="psychology poster" data-ebay-reference="need-closure-how-the-need-for-closure-fuels-conspiracy-beliefs-myths-and-misconcept-psychology-poster" target="_blank" rel="sponsored noopener noreferrer">Carl Jung Psychology Tree Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=need-closure-how-the-need-for-closure-fuels-conspiracy-beliefs-myths-and-misconcept-psychology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="psychology poster" data-ebay-reference="need-closure-how-the-need-for-closure-fuels-conspiracy-beliefs-myths-and-misconcept-psychology-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for psychology poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: psychology poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=need-closure-how-the-need-for-closure-fuels-conspiracy-beliefs-myths-and-misconcept-psychology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="psychology poster" data-ebay-reference="need-closure-how-the-need-for-closure-fuels-conspiracy-beliefs-myths-and-misconcept-psychology-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=need-closure-how-the-need-for-closure-fuels-conspiracy-beliefs-myths-and-misconcept-psychology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="psychology poster" data-ebay-reference="need-closure-how-the-need-for-closure-fuels-conspiracy-beliefs-myths-and-misconcept-psychology-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Psychology A4 Poster Print Lab Rat, Classical Conditioning Art for Psychologist"><img src="{{ '/assets/images/marketplace-covers/b9d6a80e381347dbe1b9.jpg' | relative_url }}" alt="Listing image for Psychology A4 Poster Print Lab Rat, Classical Conditioning Art for Psychologist" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=need-closure-how-the-need-for-closure-fuels-conspiracy-beliefs-myths-and-misconcept-psychology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="psychology poster" data-ebay-reference="need-closure-how-the-need-for-closure-fuels-conspiracy-beliefs-myths-and-misconcept-psychology-poster" target="_blank" rel="sponsored noopener noreferrer">Psychology A4 Poster Print Lab Rat, Classical Conditioning Art for Psychologist</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=need-closure-how-the-need-for-closure-fuels-conspiracy-beliefs-myths-and-misconcept-psychology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="psychology poster" data-ebay-reference="need-closure-how-the-need-for-closure-fuels-conspiracy-beliefs-myths-and-misconcept-psychology-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for psychology poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: psychology poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=need-closure-how-the-need-for-closure-fuels-conspiracy-beliefs-myths-and-misconcept-psychology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="psychology poster" data-ebay-reference="need-closure-how-the-need-for-closure-fuels-conspiracy-beliefs-myths-and-misconcept-psychology-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=need-closure-how-the-need-for-closure-fuels-conspiracy-beliefs-myths-and-misconcept-psychology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="psychology poster" data-ebay-reference="need-closure-how-the-need-for-closure-fuels-conspiracy-beliefs-myths-and-misconcept-psychology-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Psychology A4 Poster Print Lab Rat, Classical Conditioning Art for Psychologist"><img src="{{ '/assets/images/marketplace-covers/b9d6a80e381347dbe1b9.jpg' | relative_url }}" alt="Listing image for Psychology A4 Poster Print Lab Rat, Classical Conditioning Art for Psychologist" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=need-closure-how-the-need-for-closure-fuels-conspiracy-beliefs-myths-and-misconcept-psychology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="psychology poster" data-ebay-reference="need-closure-how-the-need-for-closure-fuels-conspiracy-beliefs-myths-and-misconcept-psychology-poster" target="_blank" rel="sponsored noopener noreferrer">Psychology A4 Poster Print Lab Rat, Classical Conditioning Art for Psychologist</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=need-closure-how-the-need-for-closure-fuels-conspiracy-beliefs-myths-and-misconcept-psychology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="psychology poster" data-ebay-reference="need-closure-how-the-need-for-closure-fuels-conspiracy-beliefs-myths-and-misconcept-psychology-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for psychology poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: psychology poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=need-closure-how-the-need-for-closure-fuels-conspiracy-beliefs-myths-and-misconcept-psychology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="psychology poster" data-ebay-reference="need-closure-how-the-need-for-closure-fuels-conspiracy-beliefs-myths-and-misconcept-psychology-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=need-closure-how-the-need-for-closure-fuels-conspiracy-beliefs-myths-and-misconcept-psychology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="psychology poster" data-ebay-reference="need-closure-how-the-need-for-closure-fuels-conspiracy-beliefs-myths-and-misconcept-psychology-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Carl Jung Psychology Tree Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/92f11548e2571b9c5bb7.jpg' | relative_url }}" alt="Listing image for Carl Jung Psychology Tree Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=need-closure-how-the-need-for-closure-fuels-conspiracy-beliefs-myths-and-misconcept-psychology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="psychology poster" data-ebay-reference="need-closure-how-the-need-for-closure-fuels-conspiracy-beliefs-myths-and-misconcept-psychology-poster" target="_blank" rel="sponsored noopener noreferrer">Carl Jung Psychology Tree Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=need-closure-how-the-need-for-closure-fuels-conspiracy-beliefs-myths-and-misconcept-psychology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="psychology poster" data-ebay-reference="need-closure-how-the-need-for-closure-fuels-conspiracy-beliefs-myths-and-misconcept-psychology-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for psychology poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: psychology poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=need-closure-how-the-need-for-closure-fuels-conspiracy-beliefs-myths-and-misconcept-psychology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="psychology poster" data-ebay-reference="need-closure-how-the-need-for-closure-fuels-conspiracy-beliefs-myths-and-misconcept-psychology-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=need-closure-how-the-need-for-closure-fuels-conspiracy-beliefs-myths-and-misconcept-psychology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="psychology poster" data-ebay-reference="need-closure-how-the-need-for-closure-fuels-conspiracy-beliefs-myths-and-misconcept-psychology-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Carl Jung Psychology Tree Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/92f11548e2571b9c5bb7.jpg' | relative_url }}" alt="Listing image for Carl Jung Psychology Tree Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=need-closure-how-the-need-for-closure-fuels-conspiracy-beliefs-myths-and-misconcept-psychology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="psychology poster" data-ebay-reference="need-closure-how-the-need-for-closure-fuels-conspiracy-beliefs-myths-and-misconcept-psychology-poster" target="_blank" rel="sponsored noopener noreferrer">Carl Jung Psychology Tree Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=need-closure-how-the-need-for-closure-fuels-conspiracy-beliefs-myths-and-misconcept-psychology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="psychology poster" data-ebay-reference="need-closure-how-the-need-for-closure-fuels-conspiracy-beliefs-myths-and-misconcept-psychology-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for psychology poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: psychology poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=need-closure-how-the-need-for-closure-fuels-conspiracy-beliefs-myths-and-misconcept-psychology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="psychology poster" data-ebay-reference="need-closure-how-the-need-for-closure-fuels-conspiracy-beliefs-myths-and-misconcept-psychology-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=need-closure-how-the-need-for-closure-fuels-conspiracy-beliefs-myths-and-misconcept-psychology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="psychology poster" data-ebay-reference="need-closure-how-the-need-for-closure-fuels-conspiracy-beliefs-myths-and-misconcept-psychology-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Psychology symbol Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/ed441eae68b77d8d8b77.jpg' | relative_url }}" alt="Listing image for Psychology symbol Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=need-closure-how-the-need-for-closure-fuels-conspiracy-beliefs-myths-and-misconcept-psychology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="psychology poster" data-ebay-reference="need-closure-how-the-need-for-closure-fuels-conspiracy-beliefs-myths-and-misconcept-psychology-poster" target="_blank" rel="sponsored noopener noreferrer">Psychology symbol Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=need-closure-how-the-need-for-closure-fuels-conspiracy-beliefs-myths-and-misconcept-psychology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="psychology poster" data-ebay-reference="need-closure-how-the-need-for-closure-fuels-conspiracy-beliefs-myths-and-misconcept-psychology-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for psychology poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: psychology poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=need-closure-how-the-need-for-closure-fuels-conspiracy-beliefs-myths-and-misconcept-psychology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="psychology poster" data-ebay-reference="need-closure-how-the-need-for-closure-fuels-conspiracy-beliefs-myths-and-misconcept-psychology-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=need-closure-how-the-need-for-closure-fuels-conspiracy-beliefs-myths-and-misconcept-psychology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="psychology poster" data-ebay-reference="need-closure-how-the-need-for-closure-fuels-conspiracy-beliefs-myths-and-misconcept-psychology-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=need-closure-how-the-need-for-closure-fuels-conspiracy-beliefs-myths-and-misconcept-psychology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="psychology poster" data-ebay-reference="need-closure-how-the-need-for-closure-fuels-conspiracy-beliefs-myths-and-misconcept-psychology-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Psychology symbol Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/ed441eae68b77d8d8b77.jpg' | relative_url }}" alt="Listing image for Psychology symbol Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=need-closure-how-the-need-for-closure-fuels-conspiracy-beliefs-myths-and-misconcept-psychology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="psychology poster" data-ebay-reference="need-closure-how-the-need-for-closure-fuels-conspiracy-beliefs-myths-and-misconcept-psychology-poster" target="_blank" rel="sponsored noopener noreferrer">Psychology symbol Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=need-closure-how-the-need-for-closure-fuels-conspiracy-beliefs-myths-and-misconcept-psychology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="psychology poster" data-ebay-reference="need-closure-how-the-need-for-closure-fuels-conspiracy-beliefs-myths-and-misconcept-psychology-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for psychology poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: psychology poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=need-closure-how-the-need-for-closure-fuels-conspiracy-beliefs-myths-and-misconcept-psychology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="psychology poster" data-ebay-reference="need-closure-how-the-need-for-closure-fuels-conspiracy-beliefs-myths-and-misconcept-psychology-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=need-closure-how-the-need-for-closure-fuels-conspiracy-beliefs-myths-and-misconcept-psychology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="psychology poster" data-ebay-reference="need-closure-how-the-need-for-closure-fuels-conspiracy-beliefs-myths-and-misconcept-psychology-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -541,7 +541,7 @@ This highlights a key tension in myth acceptance more broadly. Humans naturally 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -561,7 +561,7 @@ This highlights a key tension in myth acceptance more broadly. Humans naturally 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -593,7 +593,7 @@ This highlights a key tension in myth acceptance more broadly. Humans naturally 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -645,7 +645,7 @@ This highlights a key tension in myth acceptance more broadly. Humans naturally 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -690,7 +690,7 @@ This highlights a key tension in myth acceptance more broadly. Humans naturally 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -731,154 +731,154 @@ This highlights a key tension in myth acceptance more broadly. Humans naturally 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: onlinelibrary.wiley.com  
-   Link: <a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/ejsp.2308" target="_blank" rel="noopener noreferrer nofollow">https://onlinelibrary.wiley.com/doi/abs/10.1002/ejsp.2308</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Wiley Online LibraryAddicted to answers: Need for cognitive closure and the...by M Marchlewska · 2018 · Cited by 417 — We hypothesized t...</p></details>
+   Link:<a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/ejsp.2308" target="_blank" rel="noopener noreferrer nofollow">https://onlinelibrary.wiley.com/doi/abs/10.1002/ejsp.2308</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Wiley Online LibraryAddicted to answers: Need for cognitive closure and the...by M Marchlewska · 2018 · Cited by 417 — We hypothesized t...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: sciencedirect.com  
    Title: ScienceDirect Review Conspiracy beliefs and science rejection  
-   Link: <a href="https://www.sciencedirect.com/science/article/pii/S2352250X22001117" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S2352250X22001117</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Review Conspiracy beliefs and science rejectionby BT Rutjens · 2022 · Cited by 87 — When an unequivocally clear scientific explanation is...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/pii/S2352250X22001117" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S2352250X22001117</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Review Conspiracy beliefs and science rejectionby BT Rutjens · 2022 · Cited by 87 — When an unequivocally clear scientific explanation is...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9690611/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9690611/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Mediating Effect of Beliefs in Conspiracy Theories about...by S Staszak · 2022 · Cited by 12 — The need for closure [19] is relat...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9690611/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9690611/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Mediating Effect of Beliefs in Conspiracy Theories about...by S Staszak · 2022 · Cited by 12 — The need for closure [19] is relat...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: cluequest.co.uk  
    Title: the importance of cognitive closure  
-   Link: <a href="https://cluequest.co.uk/blog/entry/the-importance-of-cognitive-closure" target="_blank" rel="noopener noreferrer nofollow">https://cluequest.co.uk/blog/entry/the-importance-of-cognitive-closure</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Nov 18, 2019 — Webster &amp; Kruglanski (1994 &amp; 1996) explain cognitive closure as a theoretical framework to explain why people avoid uncert...</p></details>
+   Link:<a href="https://cluequest.co.uk/blog/entry/the-importance-of-cognitive-closure" target="_blank" rel="noopener noreferrer nofollow">https://cluequest.co.uk/blog/entry/the-importance-of-cognitive-closure</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Nov 18, 2019 — Webster &amp; Kruglanski (1994 &amp; 1996) explain cognitive closure as a theoretical framework to explain why people avoid uncert...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8212084/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8212084/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The usual suspects: How psychological motives and thinking...by V Gligorić · 2021 · Cited by 119 — It is no surprise that conspiracy...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8212084/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8212084/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The usual suspects: How psychological motives and thinking...by V Gligorić · 2021 · Cited by 119 — It is no surprise that conspiracy...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: cambridge.org  
-   Link: <a href="https://www.cambridge.org/core/books/creating-conspiracy-beliefs/anxiety-psychological-motivations-and-conspiracy-beliefs/82B8FD804565C88C8748B706AC3D5730" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/books/creating-conspiracy-beliefs/anxiety-psychological-motivations-and-conspiracy-beliefs/82B8FD804565C88C8748B706AC3D5730</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Cambridge University Press &amp; AssessmentAnxiety, Psychological Motivations, and Conspiracy BeliefsNov 18, 2021 — We review the evidence ab...</p></details>
+   Link:<a href="https://www.cambridge.org/core/books/creating-conspiracy-beliefs/anxiety-psychological-motivations-and-conspiracy-beliefs/82B8FD804565C88C8748B706AC3D5730" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/books/creating-conspiracy-beliefs/anxiety-psychological-motivations-and-conspiracy-beliefs/82B8FD804565C88C8748B706AC3D5730</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Cambridge University Press &amp; AssessmentAnxiety, Psychological Motivations, and Conspiracy BeliefsNov 18, 2021 — We review the evidence ab...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCThe Psychology of Conspiracy Theories  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5724570/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC5724570/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NIHby KM Douglas · 2017 · Cited by 2011 — Our analysis suggests that conspiracy theories may satisfy some epistemic motives at the...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5724570/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC5724570/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NIHby KM Douglas · 2017 · Cited by 2011 — Our analysis suggests that conspiracy theories may satisfy some epistemic motives at the...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3694217/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3694217/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Beliefs in conspiracy theories and the need for cognitive closureby PJ Leman · 2013 · Cited by 305 — Two studies examined the relation...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3694217/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3694217/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Beliefs in conspiracy theories and the need for cognitive closureby PJ Leman · 2013 · Cited by 305 — Two studies examined the relation...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: sciencedirect.com  
    Title: ScienceDirect Better the devil you know than a world you don't?  
-   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0191886916303221" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0191886916303221</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>by R Moulding · 2016 · Cited by 191 — Two explanations for endorsement of Conspiracy Theories (CTs) are examined. No evidence was found f...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/abs/pii/S0191886916303221" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0191886916303221</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by R Moulding · 2016 · Cited by 191 — Two explanations for endorsement of Conspiracy Theories (CTs) are examined. No evidence was found f...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0191886925005306" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0191886925005306</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>When education fails: Narcissism, uniqueness, and need...by T Cosgrove · 2026 · Cited by 1 — Similarly, in Study Two, narcissism, and le...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/pii/S0191886925005306" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0191886925005306</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>When education fails: Narcissism, uniqueness, and need...by T Cosgrove · 2026 · Cited by 1 — Similarly, in Study Two, narcissism, and le...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0023969025000955" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0023969025000955</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The roles of need frustration and regulatory focus in...by M Hunsinger · 2025 · Cited by 2 — Research on conspiratorial thinking suggest...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/abs/pii/S0023969025000955" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0023969025000955</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The roles of need frustration and regulatory focus in...by M Hunsinger · 2025 · Cited by 2 — Research on conspiratorial thinking suggest...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/chapter/bookseries/pii/S0065260125000279" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/chapter/bookseries/pii/S0065260125000279</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Chapter Two - The psychology of conspiracy mentalityThis chapter reviews and contrasts existing methods for measuring conspiracy beliefs...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/chapter/bookseries/pii/S0065260125000279" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/chapter/bookseries/pii/S0065260125000279</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Chapter Two - The psychology of conspiracy mentalityThis chapter reviews and contrasts existing methods for measuring conspiracy beliefs...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0191886922005475" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0191886922005475</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>[Emotion](&amp;#123;&amp;#123; &#x27;emotion/&#x27; | relative_url &amp;#125;&amp;#125;) dysregulation and belief in conspiracy theoriesby Z Molenda · 2023 · Cited by 55 — In the present research, we hypothesized that...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/abs/pii/S0191886922005475" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0191886922005475</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>[Emotion](&amp;#123;&amp;#123; &#x27;emotion/&#x27; | relative_url &amp;#125;&amp;#125;) dysregulation and belief in conspiracy theoriesby Z Molenda · 2023 · Cited by 55 — In the present research, we hypothesized that...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: kar.kent.ac.uk  
-   Link: <a href="https://kar.kent.ac.uk/61588/" target="_blank" rel="noopener noreferrer nofollow">https://kar.kent.ac.uk/61588/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Thus, they should be attractive...Read more...</p></details>
+   Link:<a href="https://kar.kent.ac.uk/61588/" target="_blank" rel="noopener noreferrer nofollow">https://kar.kent.ac.uk/61588/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Thus, they should be attractive...Read more...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: kruglanskiarie.com  
-   Link: <a href="https://www.kruglanskiarie.com/the-need-for-closure-and-conservati" target="_blank" rel="noopener noreferrer nofollow">https://www.kruglanskiarie.com/the-need-for-closure-and-conservati</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>the need for closure and conservatism | Arie KruglanskiPapers in this section address the motivation for certainty and closure, its antec...</p></details>
+   Link:<a href="https://www.kruglanskiarie.com/the-need-for-closure-and-conservati" target="_blank" rel="noopener noreferrer nofollow">https://www.kruglanskiarie.com/the-need-for-closure-and-conservati</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>the need for closure and conservatism | Arie KruglanskiPapers in this section address the motivation for certainty and closure, its antec...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: journals.sagepub.com  
    Title: Sage Journals Can Conspiracy Beliefs Be Beneficial?  
-   Link: <a href="https://journals.sagepub.com/doi/10.1177/01461672211060965" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/01461672211060965</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>L Liekefett · 2023 · Cited by 200 — Research suggests that conspiracy beliefs are adopted because they promise to redu...</p></details>
+   Link:<a href="https://journals.sagepub.com/doi/10.1177/01461672211060965" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/01461672211060965</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>L Liekefett · 2023 · Cited by 200 — Research suggests that conspiracy beliefs are adopted because they promise to redu...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: frontiersin.org  
-   Link: <a href="https://www.frontiersin.org/journals/social-psychology/articles/10.3389/frsps.2024.1447313/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/social-psychology/articles/10.3389/frsps.2024.1447313/full</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>FrontiersNeed for cognitive closure, political trust, and belief in...by A Jedinger · 2025 · Cited by 5 — We find that individuals with...</p></details>
+   Link:<a href="https://www.frontiersin.org/journals/social-psychology/articles/10.3389/frsps.2024.1447313/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/social-psychology/articles/10.3389/frsps.2024.1447313/full</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FrontiersNeed for cognitive closure, political trust, and belief in...by A Jedinger · 2025 · Cited by 5 — We find that individuals with...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: rosa.uniroma1.it  
-   Link: <a href="https://rosa.uniroma1.it/rosa04/psychology_hub/article/view/18804" target="_blank" rel="noopener noreferrer nofollow">https://rosa.uniroma1.it/rosa04/psychology_hub/article/view/18804</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>role of Need for Cognitive Closure in the relation between...by M Loverre · 2025 — Need for Cognitive Closure can be defined as a person...</p></details>
+   Link:<a href="https://rosa.uniroma1.it/rosa04/psychology_hub/article/view/18804" target="_blank" rel="noopener noreferrer nofollow">https://rosa.uniroma1.it/rosa04/psychology_hub/article/view/18804</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>role of Need for Cognitive Closure in the relation between...by M Loverre · 2025 — Need for Cognitive Closure can be defined as a person...</p></details>
 
 ### Additional References
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/398689589_A_moderated_mediation_model_the_role_of_Need_for_Cognitive_Closure_in_the_relation_between_System_Justification_and_Conspiracy_Beliefs" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/398689589_A_moderated_mediation_model_the_role_of_Need_for_Cognitive_Closure_in_the_relation_between_System_Justification_and_Conspiracy_Beliefs</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) A moderated mediation model: the role of Need for...Feb 19, 2026 — Need for Cognitive Closure can be defined as a personal prefere...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/398689589_A_moderated_mediation_model_the_role_of_Need_for_Cognitive_Closure_in_the_relation_between_System_Justification_and_Conspiracy_Beliefs" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/398689589_A_moderated_mediation_model_the_role_of_Need_for_Cognitive_Closure_in_the_relation_between_System_Justification_and_Conspiracy_Beliefs</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) A moderated mediation model: the role of Need for...Feb 19, 2026 — Need for Cognitive Closure can be defined as a personal prefere...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: hsaj.org  
-   Link: <a href="https://www.hsaj.org/articles/23856" target="_blank" rel="noopener noreferrer nofollow">https://www.hsaj.org/articles/23856</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Need for Cognitive Closure and Uncertainty-Identity TheoryThis thesis investigates the psychological mechanisms underlying ideological ex...</p></details>
+   Link:<a href="https://www.hsaj.org/articles/23856" target="_blank" rel="noopener noreferrer nofollow">https://www.hsaj.org/articles/23856</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Need for Cognitive Closure and Uncertainty-Identity TheoryThis thesis investigates the psychological mechanisms underlying ideological ex...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: taylorfrancis.com  
-   Link: <a href="https://www.taylorfrancis.com/chapters/oa-edit/10.1201/9781315225302-79/need-cognitive-closure-belief-conspiracy-theories-exploration-role-religious-fundamentalism-cognition-umam-muluk-milla" target="_blank" rel="noopener noreferrer nofollow">https://www.taylorfrancis.com/chapters/oa-edit/10.1201/9781315225302-79/need-cognitive-closure-belief-conspiracy-theories-exploration-role-religious-fundamentalism-cognition-umam-muluk-milla</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The need for cognitive closure and belief in conspiracy theoriesby AN Umam · 2017 · Cited by 15 — Latest research shows that belief in co...</p></details>
+   Link:<a href="https://www.taylorfrancis.com/chapters/oa-edit/10.1201/9781315225302-79/need-cognitive-closure-belief-conspiracy-theories-exploration-role-religious-fundamentalism-cognition-umam-muluk-milla" target="_blank" rel="noopener noreferrer nofollow">https://www.taylorfrancis.com/chapters/oa-edit/10.1201/9781315225302-79/need-cognitive-closure-belief-conspiracy-theories-exploration-role-religious-fundamentalism-cognition-umam-muluk-milla</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The need for cognitive closure and belief in conspiracy theoriesby AN Umam · 2017 · Cited by 15 — Latest research shows that belief in co...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: ssoar.info  
    Title: ssoar frontierssp 2025 Jedinger et al Need for cognitive closure  
-   Link: <a href="https://www.ssoar.info/ssoar/bitstream/handle/document/99896/ssoar-frontierssp-2025-Jedinger_et_al-Need_for_cognitive_closure.pdf?sequence=3" target="_blank" rel="noopener noreferrer nofollow">https://www.ssoar.info/ssoar/bitstream/handle/document/99896/ssoar-frontierssp-2025-Jedinger_et_al-Need_for_cognitive_closure.pdf?sequence=3</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Need for cognitive closure, political trust, and belief in...by A Jedinger · 2025 · Cited by 5 — Psychological motives related to height...</p></details>
+   Link:<a href="https://www.ssoar.info/ssoar/bitstream/handle/document/99896/ssoar-frontierssp-2025-Jedinger_et_al-Need_for_cognitive_closure.pdf?sequence=3" target="_blank" rel="noopener noreferrer nofollow">https://www.ssoar.info/ssoar/bitstream/handle/document/99896/ssoar-frontierssp-2025-Jedinger_et_al-Need_for_cognitive_closure.pdf?sequence=3</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Need for cognitive closure, political trust, and belief in...by A Jedinger · 2025 · Cited by 5 — Psychological motives related to height...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: scholar.ui.ac.id  
    Title: the need for cognitive closure and belief in conspiracy theories  
-   Link: <a href="https://scholar.ui.ac.id/en/publications/the-need-for-cognitive-closure-and-belief-in-conspiracy-theories-/" target="_blank" rel="noopener noreferrer nofollow">https://scholar.ui.ac.id/en/publications/the-need-for-cognitive-closure-and-belief-in-conspiracy-theories-/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>need for cognitive closure and belief in conspiracy...by AN Umam · 2017 · Cited by 15 — Latest research shows that belief in conspiracy...</p></details>
+   Link:<a href="https://scholar.ui.ac.id/en/publications/the-need-for-cognitive-closure-and-belief-in-conspiracy-theories-/" target="_blank" rel="noopener noreferrer nofollow">https://scholar.ui.ac.id/en/publications/the-need-for-cognitive-closure-and-belief-in-conspiracy-theories-/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>need for cognitive closure and belief in conspiracy...by AN Umam · 2017 · Cited by 15 — Latest research shows that belief in conspiracy...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: kar.kent.ac.uk  
    Title: Marchlewska et al. Addicted to Answers FINAL  
-   Link: <a href="https://kar.kent.ac.uk/61588/1/Marchlewska%20et%20al.%20Addicted%20to%20Answers%20FINAL.pdf" target="_blank" rel="noopener noreferrer nofollow">https://kar.kent.ac.uk/61588/1/Marchlewska%20et%20al.%20Addicted%20to%20Answers%20FINAL.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>low) in NFCC seize on conspiratorial explanations for uncertain events when such explanations are situationally accessible.Read...</p></details>
+   Link:<a href="https://kar.kent.ac.uk/61588/1/Marchlewska%20et%20al.%20Addicted%20to%20Answers%20FINAL.pdf" target="_blank" rel="noopener noreferrer nofollow">https://kar.kent.ac.uk/61588/1/Marchlewska%20et%20al.%20Addicted%20to%20Answers%20FINAL.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>low) in NFCC seize on conspiratorial explanations for uncertain events when such explanations are situationally accessible.Read...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: drannetteermshar.com  
-   Link: <a href="https://www.drannetteermshar.com/the-psychology-of-conspiracy-theories-understanding-the-cognitive-and-social-factors-behind-widespread-beliefs/" target="_blank" rel="noopener noreferrer nofollow">https://www.drannetteermshar.com/the-psychology-of-conspiracy-theories-understanding-the-cognitive-and-social-factors-behind-widespread-beliefs/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Conspiracy theories provide a sense...Read more...</p></details>
+   Link:<a href="https://www.drannetteermshar.com/the-psychology-of-conspiracy-theories-understanding-the-cognitive-and-social-factors-behind-widespread-beliefs/" target="_blank" rel="noopener noreferrer nofollow">https://www.drannetteermshar.com/the-psychology-of-conspiracy-theories-understanding-the-cognitive-and-social-factors-behind-widespread-beliefs/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Conspiracy theories provide a sense...Read more...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: oxford-review.com  
    Title: conspiracy theories research  
-   Link: <a href="https://oxford-review.com/conspiracy-theories-research/" target="_blank" rel="noopener noreferrer nofollow">https://oxford-review.com/conspiracy-theories-research/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Conspiracy theories: New research about why people...Jan 13, 2022 — A number of studies found that people who engage with conspiracy the...</p></details>
+   Link:<a href="https://oxford-review.com/conspiracy-theories-research/" target="_blank" rel="noopener noreferrer nofollow">https://oxford-review.com/conspiracy-theories-research/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Conspiracy theories: New research about why people...Jan 13, 2022 — A number of studies found that people who engage with conspiracy the...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: tandfonline.com  
-   Link: <a href="https://www.tandfonline.com/doi/full/10.1080/00224545.2024.2397491" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/full/10.1080/00224545.2024.2397491</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A meta-analysis confirms no correlation between conspiracy beliefs and susceptibility to majority influence.Read...</p></details>
+   Link:<a href="https://www.tandfonline.com/doi/full/10.1080/00224545.2024.2397491" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/full/10.1080/00224545.2024.2397491</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A meta-analysis confirms no correlation between conspiracy beliefs and susceptibility to majority influence.Read...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: youtube.com  
    Title: Need for Closure: Why Uncertainty Makes Us Believe Myths  
-   Link: <a href="https://www.youtube.com/watch?v=aG6t0q33f08" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=aG6t0q33f08</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Epistemic Motives: How Conspiracy Theories Reduce Uncertainty...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=aG6t0q33f08" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=aG6t0q33f08</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Epistemic Motives: How Conspiracy Theories Reduce Uncertainty...</p></details>

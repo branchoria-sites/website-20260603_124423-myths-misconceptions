@@ -274,20 +274,20 @@ image: /assets/images/Myths_and_misconcept_0d48d7_education_myth_corre_425e93_be
 
 ## Introduction
 
-Correcting a teachers belief is not the same as changing what happens in a classroom. Research on educational myths repeatedly finds that teachers can become less likely to endorse a misconception on a survey while continuing to use materials, routines or labels that were built around that misconception. In other words, belief change and practice change are related but separate processes. A successful [debunking]({{ 'debunking/' | relative_url }}) intervention may show that a myth has lost credibility in a teachers mind, yet the daily structures of schooling can keep the old idea alive. This practice gap is one of the most important limitations of myth-[correction]({{ 'correction/' | relative_url }}) efforts in education. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2021.719692/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-snippet">terventions to Dispel Neuromyths in Educational Settings...by L Rousseau  2021  Cited by 74  Potential adverse effects of...</span></span></span>
+Correcting a teachers belief is not the same as changing what happens in a classroom. Research on educational myths repeatedly finds that teachers can become less likely to endorse a misconception on a survey while continuing to use materials, routines or labels that were built around that misconception. In other words, belief change and practice change are related but separate processes. A successful [debunking]({{ 'debunking/' | relative_url }}) intervention may show that a myth has lost credibility in a teachers mind, yet the daily structures of schooling can keep the old idea alive. This practice gap is one of the most important limitations of myth-[correction]({{ 'correction/' | relative_url }}) efforts in education.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2021.719692/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-snippet">terventions to Dispel Neuromyths in Educational Settings...by L Rousseau  2021  Cited by 74  Potential adverse effects of...</span></span></span>
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_education_myth_corre_425e93_belief_practice_gap_0ea64e-Illustration-1-dark.svg" | relative_url }}" alt="Practice gap illustration 1" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_education_myth_corre_425e93_belief_practice_gap_0ea64e-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_education_myth_corre_425e93_belief_practice_gap_0ea64e-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-The issue matters because educational myths often become embedded in worksheets, intervention programmes, assessment forms, staff training materials and school language. Once this happens, removing the belief is only the first step. Changing the surrounding system is usually harder. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.oecd.org/content/dam/oecd/en/publications/reports/2024/07/bridging-the-research-practice-gap-in-education_2b6c087b/c0d3f781-en.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oecd.org">[OECD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oecd.org</span><span class="citation-popover-title">Bridging the research-practice gap in education (EN</span><span class="citation-popover-snippet">Bridging the research-practice gap in education (EN)May 11, 2025  by U Hartmann  2024  Cited by 30  RPPs can equip educators with...</span><span class="citation-popover-meta">Published: May 11, 2025</span></span></span>
+The issue matters because educational myths often become embedded in worksheets, intervention programmes, assessment forms, staff training materials and school language. Once this happens, removing the belief is only the first step. Changing the surrounding system is usually harder.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.oecd.org/content/dam/oecd/en/publications/reports/2024/07/bridging-the-research-practice-gap-in-education_2b6c087b/c0d3f781-en.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oecd.org">[OECD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oecd.org</span><span class="citation-popover-title">Bridging the research-practice gap in education (EN</span><span class="citation-popover-snippet">Bridging the research-practice gap in education (EN)May 11, 2025  by U Hartmann  2024  Cited by 30  RPPs can equip educators with...</span><span class="citation-popover-meta">Published: May 11, 2025</span></span></span>
 
 ## What Correction Studies Measure
 
-Most studies on educational myths focus on beliefs. Researchers typically ask teachers whether they agree with claims such as students learn best when taught in their preferred learning style before and after an intervention. [Refutation texts]({{ 'refutation-texts/' | relative_url }}), science-of-learning courses and similar approaches often reduce endorsement of these claims. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11508907/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">by MPG Lithander  2024  Cited by 3  Previous findings demonstrate that textual refutations are effective for correcting neuromyths...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/abs/pii/S0361476X24000146" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">. Prompting students to be open to belief...</span></span></span>
+Most studies on educational myths focus on beliefs. Researchers typically ask teachers whether they agree with claims such as students learn best when taught in their preferred learning style before and after an intervention. [Refutation texts]({{ 'refutation-texts/' | relative_url }}), science-of-learning courses and similar approaches often reduce endorsement of these claims.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11508907/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">by MPG Lithander  2024  Cited by 3  Previous findings demonstrate that textual refutations are effective for correcting neuromyths...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/abs/pii/S0361476X24000146" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">. Prompting students to be open to belief...</span></span></span>
 
-However, a survey response is not a classroom observation. A teacher who now rejects learning styles may still inherit lesson plans organised by visual, auditory and kinaesthetic categories. A school may continue to collect learning style profiles because they are part of existing procedures. The teachers answer on a questionnaire can change much faster than the routines of an institution. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.oecd.org/content/dam/oecd/en/publications/reports/2024/07/bridging-the-research-practice-gap-in-education_2b6c087b/c0d3f781-en.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oecd.org">[OECD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oecd.org</span><span class="citation-popover-title">Bridging the research-practice gap in education (EN</span><span class="citation-popover-snippet">Bridging the research-practice gap in education (EN)May 11, 2025  by U Hartmann  2024  Cited by 30  RPPs can equip educators with...</span><span class="citation-popover-meta">Published: May 11, 2025</span></span></span>
+However, a survey response is not a classroom observation. A teacher who now rejects learning styles may still inherit lesson plans organised by visual, auditory and kinaesthetic categories. A school may continue to collect learning style profiles because they are part of existing procedures. The teachers answer on a questionnaire can change much faster than the routines of an institution.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.oecd.org/content/dam/oecd/en/publications/reports/2024/07/bridging-the-research-practice-gap-in-education_2b6c087b/c0d3f781-en.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oecd.org">[OECD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oecd.org</span><span class="citation-popover-title">Bridging the research-practice gap in education (EN</span><span class="citation-popover-snippet">Bridging the research-practice gap in education (EN)May 11, 2025  by U Hartmann  2024  Cited by 30  RPPs can equip educators with...</span><span class="citation-popover-meta">Published: May 11, 2025</span></span></span>
 
-This distinction appears in neuromyth research itself. Reviews of interventions report that belief reductions are possible, but they also note uncertainty about whether those changes reliably translate into altered instructional behaviour. Some studies have found improvements in knowledge and decreases in myth endorsement while leaving open the question of classroom implementation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2021.719692/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-snippet">terventions to Dispel Neuromyths in Educational Settings...by L Rousseau  2021  Cited by 74  Potential adverse effects of...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9312647/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">by RA Ferreira  2022  Cited by 51  Overall, these results suggest that the SoL course significantly improved overall neuroscience l...</span></span></span>
+This distinction appears in neuromyth research itself. Reviews of interventions report that belief reductions are possible, but they also note uncertainty about whether those changes reliably translate into altered instructional behaviour. Some studies have found improvements in knowledge and decreases in myth endorsement while leaving open the question of classroom implementation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2021.719692/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-snippet">terventions to Dispel Neuromyths in Educational Settings...by L Rousseau  2021  Cited by 74  Potential adverse effects of...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9312647/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">by RA Ferreira  2022  Cited by 51  Overall, these results suggest that the SoL course significantly improved overall neuroscience l...</span></span></span>
 
-A further complication is that corrected information does not always fully replace prior thinking. Research on myth correction shows that erroneous ideas can continue to influence reasoning even after participants have accepted a correction. Someone may know that a claim is false while still falling back on it when making decisions under time pressure. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3475349/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">by S Dekker  2012  Cited by 1291  Results showed that on average, teachers believed 49% of the neuromyths, particularly myths relat...</span></span></span>
+A further complication is that corrected information does not always fully replace prior thinking. Research on myth correction shows that erroneous ideas can continue to influence reasoning even after participants have accepted a correction. Someone may know that a claim is false while still falling back on it when making decisions under time pressure.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3475349/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">by S Dekker  2012  Cited by 1291  Results showed that on average, teachers believed 49% of the neuromyths, particularly myths relat...</span></span></span>
 
 ## Why Routines Can Preserve Myth-Based Practice
 
@@ -297,32 +297,32 @@ The main mechanism behind the practice gap is that teaching is not rebuilt from 
 
 ### Existing materials create inertia
 
-Many educational myths survive because they have generated a large ecosystem of resources. Learning-style questionnaires, differentiated worksheets, commercial programmes and training slides may already exist within a school. Replacing them requires effort, time and often money. Even when teachers stop believing the underlying claim, the materials remain available and familiar. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12630716/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">by AEJ Bowen  2025  Cited by 5  The purpose of integrating educational methods informed by research evidence into classroom setting...</span></span></span>
+Many educational myths survive because they have generated a large ecosystem of resources. Learning-style questionnaires, differentiated worksheets, commercial programmes and training slides may already exist within a school. Replacing them requires effort, time and often money. Even when teachers stop believing the underlying claim, the materials remain available and familiar.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12630716/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">by AEJ Bowen  2025  Cited by 5  The purpose of integrating educational methods informed by research evidence into classroom setting...</span></span></span>
 
-This is especially relevant for [neuromyths]({{ 'neuromyths/' | relative_url }}) connected to commercial products. Research has long noted that myths frequently become attached to marketable educational programmes, increasing their visibility and durability. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11508907/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">by MPG Lithander  2024  Cited by 3  Previous findings demonstrate that textual refutations are effective for correcting neuromyths...</span></span></span>
+This is especially relevant for [neuromyths]({{ 'neuromyths/' | relative_url }}) connected to commercial products. Research has long noted that myths frequently become attached to marketable educational programmes, increasing their visibility and durability.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11508907/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">by MPG Lithander  2024  Cited by 3  Previous findings demonstrate that textual refutations are effective for correcting neuromyths...</span></span></span>
 
 ### Habits are easier to repeat than redesign
 
-Teaching involves hundreds of decisions each day. In practice, educators often rely on established routines rather than continually revisiting the evidence behind every action. A teacher who has organised lessons around a myth for years may continue using familiar structures because they fit existing planning systems, not because the teacher still strongly believes the myth. <span class="citation-chip-wrap"><a class="citation-chip" href="https://oecdedutoday.com/bridging-gap-between-policy-practice-education/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oecdedutoday.com">[OECD Education and Skills Today]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oecdedutoday.com</span><span class="citation-popover-title">bridging gap between policy practice education</span><span class="citation-popover-snippet">OECD Education and Skills TodayBridging the gap between policy and practice in education10 Sept 2021  A teacher and an OECD education ex...</span></span></span>
+Teaching involves hundreds of decisions each day. In practice, educators often rely on established routines rather than continually revisiting the evidence behind every action. A teacher who has organised lessons around a myth for years may continue using familiar structures because they fit existing planning systems, not because the teacher still strongly believes the myth.<span class="citation-chip-wrap"><a class="citation-chip" href="https://oecdedutoday.com/bridging-gap-between-policy-practice-education/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oecdedutoday.com">[OECD Education and Skills Today]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oecdedutoday.com</span><span class="citation-popover-title">bridging gap between policy practice education</span><span class="citation-popover-snippet">OECD Education and Skills TodayBridging the gap between policy and practice in education10 Sept 2021  A teacher and an OECD education ex...</span></span></span>
 
 This helps explain why belief surveys can show improvement while classroom behaviour changes more slowly. The correction alters what teachers think, but habits continue to shape what teachers do.
 
 ### School culture can outlast individual belief
 
-Educational myths are often social rather than purely individual. A teacher may reject a misconception personally but work within a department that still uses the associated language. Labels such as visual learner, left-brain learner or other unsupported categories can persist because colleagues, school documents or leadership practices continue to employ them. <span class="citation-chip-wrap"><a class="citation-chip" href="https://oecdedutoday.com/bridging-gap-between-policy-practice-education/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oecdedutoday.com">[OECD Education and Skills Today]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oecdedutoday.com</span><span class="citation-popover-title">bridging gap between policy practice education</span><span class="citation-popover-snippet">OECD Education and Skills TodayBridging the gap between policy and practice in education10 Sept 2021  A teacher and an OECD education ex...</span></span></span>
+Educational myths are often social rather than purely individual. A teacher may reject a misconception personally but work within a department that still uses the associated language. Labels such as visual learner, left-brain learner or other unsupported categories can persist because colleagues, school documents or leadership practices continue to employ them.<span class="citation-chip-wrap"><a class="citation-chip" href="https://oecdedutoday.com/bridging-gap-between-policy-practice-education/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oecdedutoday.com">[OECD Education and Skills Today]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oecdedutoday.com</span><span class="citation-popover-title">bridging gap between policy practice education</span><span class="citation-popover-snippet">OECD Education and Skills TodayBridging the gap between policy and practice in education10 Sept 2021  A teacher and an OECD education ex...</span></span></span>
 
 In these cases, changing one teacher's belief does little unless the wider environment changes as well. The problem shifts from individual cognition to organisational implementation.
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_education_myth_corre_425e93_belief_practice_gap_0ea64e-Illustration-2-dark.svg" | relative_url }}" alt="Practice gap illustration 2" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_education_myth_corre_425e93_belief_practice_gap_0ea64e-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_education_myth_corre_425e93_belief_practice_gap_0ea64e-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Alternative practices may be unclear
 
-Debunking removes an answer, but teachers still need a replacement. If educators are told not to use a myth-based approach but are not given practical alternatives, the old routine may remain attractive simply because it is actionable. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2021.719692/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-snippet">terventions to Dispel Neuromyths in Educational Settings...by L Rousseau  2021  Cited by 74  Potential adverse effects of...</span></span></span>
+Debunking removes an answer, but teachers still need a replacement. If educators are told not to use a myth-based approach but are not given practical alternatives, the old routine may remain attractive simply because it is actionable.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2021.719692/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-snippet">terventions to Dispel Neuromyths in Educational Settings...by L Rousseau  2021  Cited by 74  Potential adverse effects of...</span></span></span>
 
-For example, abandoning learning-[style matching]({{ 'style-matching/' | relative_url }}) does not automatically tell a teacher how to plan lessons differently. Effective [replacements]({{ 'replacements/' | relative_url }})such as retrieval practice, spacing, explicit instruction or content-appropriate representationsmust be translated into usable classroom procedures. Without that translation, correction can remain theoretical. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.education.gov.au/download/17488/aero-evidence-based-teaching-practices/35503/document/pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: education.gov.au">[Department of Education]</a><span class="citation-popover" role="note"><span class="citation-popover-source">education.gov.au</span><span class="citation-popover-title">The.Read more</span><span class="citation-popover-snippet">Department of EducationEvidence-based teaching practices - Department of EducationDecember 4, 2023  This report provides a summary of th...</span><span class="citation-popover-meta">Published: December 4, 2023</span></span></span>
+For example, abandoning learning-[style matching]({{ 'style-matching/' | relative_url }}) does not automatically tell a teacher how to plan lessons differently. Effective [replacements]({{ 'replacements/' | relative_url }})such as retrieval practice, spacing, explicit instruction or content-appropriate representationsmust be translated into usable classroom procedures. Without that translation, correction can remain theoretical.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.education.gov.au/download/17488/aero-evidence-based-teaching-practices/35503/document/pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: education.gov.au">[Department of Education]</a><span class="citation-popover" role="note"><span class="citation-popover-source">education.gov.au</span><span class="citation-popover-title">The.Read more</span><span class="citation-popover-snippet">Department of EducationEvidence-based teaching practices - Department of EducationDecember 4, 2023  This report provides a summary of th...</span><span class="citation-popover-meta">Published: December 4, 2023</span></span></span>
 
 ## A Concrete Example: Learning Styles After Debunking
 
-Learning styles provide a useful illustration because they are among the most studied educational myths. Numerous reviews have found little evidence that matching instruction to a student's preferred sensory modality improves learning outcomes. Yet the idea remains widespread in education. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/education/2017/mar/13/teachers-neuromyth-learning-styles-scientists-neuroscience-education" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">teachers neuromyth learning styles scientists neuroscience education</span><span class="citation-popover-snippet">The GuardianTeachers must ditch &#x27;neuromyth&#x27; of learning styles, say...12 Mar 2017  Teaching children according to their individual lea...</span></span></span>
+Learning styles provide a useful illustration because they are among the most studied educational myths. Numerous reviews have found little evidence that matching instruction to a student's preferred sensory modality improves learning outcomes. Yet the idea remains widespread in education.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/education/2017/mar/13/teachers-neuromyth-learning-styles-scientists-neuroscience-education" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">teachers neuromyth learning styles scientists neuroscience education</span><span class="citation-popover-snippet">The GuardianTeachers must ditch &#x27;neuromyth&#x27; of learning styles, say...12 Mar 2017  Teaching children according to their individual lea...</span></span></span>
 
 Imagine a teacher who attends a science-of-learning course and accepts that learning styles lack evidential support. The belief has changed. Yet several features of the school may remain untouched:
 
@@ -335,222 +335,222 @@ Imagine a teacher who attends a science-of-learning course and accepts that lear
 
 </div>
 
-The teacher may stop endorsing the myth intellectually while continuing to interact with systems built around it. The classroom therefore changes only partially, or not at all. This is precisely why reductions in belief should not be assumed to indicate reductions in myth-based practice. PMC <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2021.719692/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-snippet">terventions to Dispel Neuromyths in Educational Settings...by L Rousseau  2021  Cited by 74  Potential adverse effects of...</span></span></span>
+The teacher may stop endorsing the myth intellectually while continuing to interact with systems built around it. The classroom therefore changes only partially, or not at all. This is precisely why reductions in belief should not be assumed to indicate reductions in myth-based practice. PMC<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2021.719692/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-snippet">terventions to Dispel Neuromyths in Educational Settings...by L Rousseau  2021  Cited by 74  Potential adverse effects of...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/xKyayQUPDdI" title="Education Talks: Bridging the research-practice gap" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=xKyayQUPDdI" target="_blank" rel="noopener noreferrer">Education Talks: Bridging the research-practice gap</a></p><p class="youtube-embed-meta">Channel: European School Education Platform &middot; Views: 714 &middot; Uploaded: March 2022 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=xKyayQUPDdI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=xKyayQUPDdI">Open on YouTube</a></p></div></div></div>
 
 ## How Implementation Support Closes the Gap
 
-Evidence from professional development and implementation research suggests that lasting classroom change requires more than information transfer. Training is most likely to influence practice when it is accompanied by structures that help teachers apply, refine and sustain new approaches. <span class="citation-chip-wrap"><a class="citation-chip" href="https://academic.oup.com/wbro/article/37/1/107/6292021" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academic.oup.com">[OUP Academic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academic.oup.com</span><span class="citation-popover-snippet">OUP AcademicTeacher Professional Development around the World: The...by A Popova  2022  Cited by 662  This paper proposes a set of in...</span></span></span>
+Evidence from professional development and implementation research suggests that lasting classroom change requires more than information transfer. Training is most likely to influence practice when it is accompanied by structures that help teachers apply, refine and sustain new approaches.<span class="citation-chip-wrap"><a class="citation-chip" href="https://academic.oup.com/wbro/article/37/1/107/6292021" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academic.oup.com">[OUP Academic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academic.oup.com</span><span class="citation-popover-snippet">OUP AcademicTeacher Professional Development around the World: The...by A Popova  2022  Cited by 662  This paper proposes a set of in...</span></span></span>
 
 Several supports are particularly relevant:
 
-**Replacing materials, not just beliefs.** Schools need to audit worksheets, intervention programmes, assessment tools and training resources that still embed myth-based assumptions. If the artefacts remain unchanged, old practices are likely to persist. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.oecd.org/content/dam/oecd/en/publications/reports/2024/07/bridging-the-research-practice-gap-in-education_2b6c087b/c0d3f781-en.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oecd.org">[OECD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oecd.org</span><span class="citation-popover-title">Bridging the research-practice gap in education (EN</span><span class="citation-popover-snippet">Bridging the research-practice gap in education (EN)May 11, 2025  by U Hartmann  2024  Cited by 30  RPPs can equip educators with...</span><span class="citation-popover-meta">Published: May 11, 2025</span></span></span>
+**Replacing materials, not just beliefs.** Schools need to audit worksheets, intervention programmes, assessment tools and training resources that still embed myth-based assumptions. If the artefacts remain unchanged, old practices are likely to persist.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.oecd.org/content/dam/oecd/en/publications/reports/2024/07/bridging-the-research-practice-gap-in-education_2b6c087b/c0d3f781-en.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oecd.org">[OECD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oecd.org</span><span class="citation-popover-title">Bridging the research-practice gap in education (EN</span><span class="citation-popover-snippet">Bridging the research-practice gap in education (EN)May 11, 2025  by U Hartmann  2024  Cited by 30  RPPs can equip educators with...</span><span class="citation-popover-meta">Published: May 11, 2025</span></span></span>
 
-**Providing practical alternatives.** Teachers are more likely to abandon a myth when they receive a credible replacement strategy that can be used immediately in planning and instruction. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2021.719692/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-snippet">terventions to Dispel Neuromyths in Educational Settings...by L Rousseau  2021  Cited by 74  Potential adverse effects of...</span></span></span>
+**Providing practical alternatives.** Teachers are more likely to abandon a myth when they receive a credible replacement strategy that can be used immediately in planning and instruction.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2021.719692/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-snippet">terventions to Dispel Neuromyths in Educational Settings...by L Rousseau  2021  Cited by 74  Potential adverse effects of...</span></span></span>
 
-**Using coaching and follow-up support.** Professional development literature consistently finds that one-off workshops are weaker than approaches that include continued support, feedback and opportunities to refine implementation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://academic.oup.com/wbro/article/37/1/107/6292021" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academic.oup.com">[OUP Academic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academic.oup.com</span><span class="citation-popover-snippet">OUP AcademicTeacher Professional Development around the World: The...by A Popova  2022  Cited by 662  This paper proposes a set of in...</span></span></span>
+**Using coaching and follow-up support.** Professional development literature consistently finds that one-off workshops are weaker than approaches that include continued support, feedback and opportunities to refine implementation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://academic.oup.com/wbro/article/37/1/107/6292021" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academic.oup.com">[OUP Academic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academic.oup.com</span><span class="citation-popover-snippet">OUP AcademicTeacher Professional Development around the World: The...by A Popova  2022  Cited by 662  This paper proposes a set of in...</span></span></span>
 
-**Changing collective routines.** School-wide language, templates and expectations often need revision. A myth embedded in organisational practice cannot be removed solely through individual persuasion. <span class="citation-chip-wrap"><a class="citation-chip" href="https://oecdedutoday.com/bridging-gap-between-policy-practice-education/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oecdedutoday.com">[OECD Education and Skills Today]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oecdedutoday.com</span><span class="citation-popover-title">bridging gap between policy practice education</span><span class="citation-popover-snippet">OECD Education and Skills TodayBridging the gap between policy and practice in education10 Sept 2021  A teacher and an OECD education ex...</span></span></span>
+**Changing collective routines.** School-wide language, templates and expectations often need revision. A myth embedded in organisational practice cannot be removed solely through individual persuasion.<span class="citation-chip-wrap"><a class="citation-chip" href="https://oecdedutoday.com/bridging-gap-between-policy-practice-education/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oecdedutoday.com">[OECD Education and Skills Today]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oecdedutoday.com</span><span class="citation-popover-title">bridging gap between policy practice education</span><span class="citation-popover-snippet">OECD Education and Skills TodayBridging the gap between policy and practice in education10 Sept 2021  A teacher and an OECD education ex...</span></span></span>
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_education_myth_corre_425e93_belief_practice_gap_0ea64e-Illustration-3-dark.svg" | relative_url }}" alt="Practice gap illustration 3" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_education_myth_corre_425e93_belief_practice_gap_0ea64e-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_education_myth_corre_425e93_belief_practice_gap_0ea64e-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The Key Critique of Debunking Success Claims
 
-A common mistake is to treat reduced agreement with a myth as evidence that the educational problem has been solved. Belief measures are valuable because they reveal whether teachers have accepted a correction. But they are only one indicator of success. Classroom routines, resource use, planning habits and student experiences may tell a different story. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2021.719692/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-snippet">terventions to Dispel Neuromyths in Educational Settings...by L Rousseau  2021  Cited by 74  Potential adverse effects of...</span></span></span>
+A common mistake is to treat reduced agreement with a myth as evidence that the educational problem has been solved. Belief measures are valuable because they reveal whether teachers have accepted a correction. But they are only one indicator of success. Classroom routines, resource use, planning habits and student experiences may tell a different story.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2021.719692/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-snippet">terventions to Dispel Neuromyths in Educational Settings...by L Rousseau  2021  Cited by 74  Potential adverse effects of...</span></span></span>
 
-For that reason, the strongest evaluation of myth-correction efforts should ask two questions rather than one. First, did teachers stop believing the myth? Second, did teaching practices, materials and school routines change accordingly? The gap between those questions is where many educational misconceptions continue to survive, even after they have been successfully debunked. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.oecd.org/content/dam/oecd/en/publications/reports/2024/07/bridging-the-research-practice-gap-in-education_2b6c087b/c0d3f781-en.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oecd.org">[OECD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oecd.org</span><span class="citation-popover-title">Bridging the research-practice gap in education (EN</span><span class="citation-popover-snippet">Bridging the research-practice gap in education (EN)May 11, 2025  by U Hartmann  2024  Cited by 30  RPPs can equip educators with...</span><span class="citation-popover-meta">Published: May 11, 2025</span></span></span>
+For that reason, the strongest evaluation of myth-correction efforts should ask two questions rather than one. First, did teachers stop believing the myth? Second, did teaching practices, materials and school routines change accordingly? The gap between those questions is where many educational misconceptions continue to survive, even after they have been successfully debunked.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.oecd.org/content/dam/oecd/en/publications/reports/2024/07/bridging-the-research-practice-gap-in-education_2b6c087b/c0d3f781-en.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oecd.org">[OECD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oecd.org</span><span class="citation-popover-title">Bridging the research-practice gap in education (EN</span><span class="citation-popover-snippet">Bridging the research-practice gap in education (EN)May 11, 2025  by U Hartmann  2024  Cited by 30  RPPs can equip educators with...</span><span class="citation-popover-meta">Published: May 11, 2025</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/WGODHPmaY8M" title="SPLIS Webinar: Bridging the gap between pronunciation research and teaching practice" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=WGODHPmaY8M" target="_blank" rel="noopener noreferrer">SPLIS Webinar: Bridging the gap between pronunciation research and teaching practice</a></p><p class="youtube-embed-meta">Channel: TESOL International Association &middot; Views: 466 &middot; Uploaded: April 2021 &middot; Length: 57 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=WGODHPmaY8M" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=WGODHPmaY8M">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When Debunking Does Not Change Teaching. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When Debunking Does Not Change Teaching. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Why+Don%27t+Students+Like+School%3F+by+Daniel+T.+Willingham&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Why Don&#x27;t Students Like School? on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=kuEmEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Why Don&#x27;t Students Like School?" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Why+Don%27t+Students+Like+School%3F+by+Daniel+T.+Willingham&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Why Don&#x27;t Students Like School?">Why Don&#x27;t Students Like School?</a>
-        </h4>
-        <p class="fr-book-author">By Daniel T. Willingham</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Why+Don%27t+Students+Like+School%3F+by+Daniel+T.+Willingham&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Why Don&#x27;t Students Like School? on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=kuEmEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Why Don&#x27;t Students Like School?" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Why+Don%27t+Students+Like+School%3F+by+Daniel+T.+Willingham&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Why Don&#x27;t Students Like School?">Why Don&#x27;t Students Like School?</a>
+</h4>
+<p class="fr-book-author">By Daniel T. Willingham</p>
         
-        <p class="fr-book-desc">Connects cognitive science to actual classroom practice, matching the belief-versus-practice theme.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Why+Don%27t+Students+Like+School%3F+by+Daniel+T.+Willingham&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Connects cognitive science to actual classroom practice, matching the belief-versus-practice theme.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Why+Don%27t+Students+Like+School%3F+by+Daniel+T.+Willingham&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Make It Stick on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fpAXEQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Make It Stick" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Make It Stick">Make It Stick</a>
-        </h4>
-        <p class="fr-book-author">By Peter C. Brown, Henry L. Roediger III et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Make It Stick on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fpAXEQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Make It Stick" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Make It Stick">Make It Stick</a>
+</h4>
+<p class="fr-book-author">By Peter C. Brown, Henry L. Roediger III et al.</p>
         
-        <p class="fr-book-desc">Shows how evidence-based learning principles can replace ineffective habits.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows how evidence-based learning principles can replace ineffective habits.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Embedded+Formative+Assessment+by+Dylan+Wiliam&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Embedded Formative Assessment on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=c3YXBwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Embedded Formative Assessment" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Embedded+Formative+Assessment+by+Dylan+Wiliam&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Embedded Formative Assessment">Embedded Formative Assessment</a>
-        </h4>
-        <p class="fr-book-author">By Dylan Wiliam</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Embedded+Formative+Assessment+by+Dylan+Wiliam&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Embedded Formative Assessment on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=c3YXBwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Embedded Formative Assessment" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Embedded+Formative+Assessment+by+Dylan+Wiliam&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Embedded Formative Assessment">Embedded Formative Assessment</a>
+</h4>
+<p class="fr-book-author">By Dylan Wiliam</p>
         
-        <p class="fr-book-desc">Addresses how instructional routines change through sustained implementation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Embedded+Formative+Assessment+by+Dylan+Wiliam&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Addresses how instructional routines change through sustained implementation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Embedded+Formative+Assessment+by+Dylan+Wiliam&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Social+program+implementation+Richard+F.+Elmore&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Social program implementation on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/4955471-M.jpg" alt="Cover for Social program implementation" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Social+program+implementation+Richard+F.+Elmore&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Social program implementation">Social program implementation</a>
-        </h4>
-        <p class="fr-book-author">By Richard F. Elmore, Walter Williams</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Social+program+implementation+Richard+F.+Elmore&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Social program implementation on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/4955471-M.jpg" alt="Cover for Social program implementation" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Social+program+implementation+Richard+F.+Elmore&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Social program implementation">Social program implementation</a>
+</h4>
+<p class="fr-book-author">By Richard F. Elmore, Walter Williams</p>
         
-        <p class="fr-book-desc">First published 1976. Subjects: Social action, Social policy, Education and state, Evaluation research (Social action programs), Éducation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Social+program+implementation+Richard+F.+Elmore&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1976. Subjects: Social action, Social policy, Education and state, Evaluation research (Social action programs), Éducation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Social+program+implementation+Richard+F.+Elmore&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Why+Don%27t+Students+Like+School%3F&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Why Don&#x27;t Students Like School?</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Make+It+Stick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Make It Stick</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Embedded+Formative+Assessment&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Embedded Formative Assessment</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Why+Don%27t+Students+Like+School%3F&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Why Don&#x27;t Students Like School?</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Make+It+Stick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Make It Stick</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Embedded+Formative+Assessment&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Embedded Formative Assessment</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=education+classroom+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=practice-gap-when-debunking-does-not-change-teaching-myths-and-misconcept-education-classroom-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="education classroom poster" data-ebay-reference="practice-gap-when-debunking-does-not-change-teaching-myths-and-misconcept-education-classroom-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Teacher Educational Poster Set Of 6 Classroom English Fun LAMINATED 30cm X 42cm"><img src="{{ '/assets/images/marketplace-covers/fd818066b7b03cbe56f7.jpg' | relative_url }}" alt="Listing image for Teacher Educational Poster Set Of 6 Classroom English Fun LAMINATED 30cm X 42cm" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=education+classroom+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=practice-gap-when-debunking-does-not-change-teaching-myths-and-misconcept-education-classroom-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="education classroom poster" data-ebay-reference="practice-gap-when-debunking-does-not-change-teaching-myths-and-misconcept-education-classroom-poster" target="_blank" rel="sponsored noopener noreferrer">Teacher Educational Poster Set Of 6 Classroom English Fun LAMINATED 30cm X 42cm</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=education+classroom+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=practice-gap-when-debunking-does-not-change-teaching-myths-and-misconcept-education-classroom-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="education classroom poster" data-ebay-reference="practice-gap-when-debunking-does-not-change-teaching-myths-and-misconcept-education-classroom-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for education classroom poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: education classroom poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=education+classroom+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=practice-gap-when-debunking-does-not-change-teaching-myths-and-misconcept-education-classroom-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="education classroom poster" data-ebay-reference="practice-gap-when-debunking-does-not-change-teaching-myths-and-misconcept-education-classroom-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=education+classroom+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=practice-gap-when-debunking-does-not-change-teaching-myths-and-misconcept-education-classroom-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="education classroom poster" data-ebay-reference="practice-gap-when-debunking-does-not-change-teaching-myths-and-misconcept-education-classroom-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Teacher Educational Poster Set Of 6 Classroom English Fun LAMINATED 30cm X 42cm"><img src="{{ '/assets/images/marketplace-covers/fd818066b7b03cbe56f7.jpg' | relative_url }}" alt="Listing image for Teacher Educational Poster Set Of 6 Classroom English Fun LAMINATED 30cm X 42cm" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=education+classroom+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=practice-gap-when-debunking-does-not-change-teaching-myths-and-misconcept-education-classroom-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="education classroom poster" data-ebay-reference="practice-gap-when-debunking-does-not-change-teaching-myths-and-misconcept-education-classroom-poster" target="_blank" rel="sponsored noopener noreferrer">Teacher Educational Poster Set Of 6 Classroom English Fun LAMINATED 30cm X 42cm</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=education+classroom+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=practice-gap-when-debunking-does-not-change-teaching-myths-and-misconcept-education-classroom-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="education classroom poster" data-ebay-reference="practice-gap-when-debunking-does-not-change-teaching-myths-and-misconcept-education-classroom-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for education classroom poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: education classroom poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=education+classroom+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=practice-gap-when-debunking-does-not-change-teaching-myths-and-misconcept-education-classroom-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="education classroom poster" data-ebay-reference="practice-gap-when-debunking-does-not-change-teaching-myths-and-misconcept-education-classroom-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=education+classroom+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=practice-gap-when-debunking-does-not-change-teaching-myths-and-misconcept-education-classroom-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="education classroom poster" data-ebay-reference="practice-gap-when-debunking-does-not-change-teaching-myths-and-misconcept-education-classroom-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Math Posters 4 Pieces Chart Educational Arithmetic Table Math Classroom"><img src="{{ '/assets/images/marketplace-covers/644464d39ed53256f71c.jpg' | relative_url }}" alt="Listing image for Math Posters 4 Pieces Chart Educational Arithmetic Table Math Classroom" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=education+classroom+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=practice-gap-when-debunking-does-not-change-teaching-myths-and-misconcept-education-classroom-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="education classroom poster" data-ebay-reference="practice-gap-when-debunking-does-not-change-teaching-myths-and-misconcept-education-classroom-poster" target="_blank" rel="sponsored noopener noreferrer">Math Posters 4 Pieces Chart Educational Arithmetic Table Math Classroom</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=education+classroom+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=practice-gap-when-debunking-does-not-change-teaching-myths-and-misconcept-education-classroom-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="education classroom poster" data-ebay-reference="practice-gap-when-debunking-does-not-change-teaching-myths-and-misconcept-education-classroom-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for education classroom poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: education classroom poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=education+classroom+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=practice-gap-when-debunking-does-not-change-teaching-myths-and-misconcept-education-classroom-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="education classroom poster" data-ebay-reference="practice-gap-when-debunking-does-not-change-teaching-myths-and-misconcept-education-classroom-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=education+classroom+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=practice-gap-when-debunking-does-not-change-teaching-myths-and-misconcept-education-classroom-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="education classroom poster" data-ebay-reference="practice-gap-when-debunking-does-not-change-teaching-myths-and-misconcept-education-classroom-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Math Posters 4 Pieces Chart Educational Arithmetic Table Math Classroom"><img src="{{ '/assets/images/marketplace-covers/644464d39ed53256f71c.jpg' | relative_url }}" alt="Listing image for Math Posters 4 Pieces Chart Educational Arithmetic Table Math Classroom" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=education+classroom+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=practice-gap-when-debunking-does-not-change-teaching-myths-and-misconcept-education-classroom-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="education classroom poster" data-ebay-reference="practice-gap-when-debunking-does-not-change-teaching-myths-and-misconcept-education-classroom-poster" target="_blank" rel="sponsored noopener noreferrer">Math Posters 4 Pieces Chart Educational Arithmetic Table Math Classroom</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=education+classroom+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=practice-gap-when-debunking-does-not-change-teaching-myths-and-misconcept-education-classroom-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="education classroom poster" data-ebay-reference="practice-gap-when-debunking-does-not-change-teaching-myths-and-misconcept-education-classroom-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for education classroom poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: education classroom poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=education+classroom+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=practice-gap-when-debunking-does-not-change-teaching-myths-and-misconcept-education-classroom-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="education classroom poster" data-ebay-reference="practice-gap-when-debunking-does-not-change-teaching-myths-and-misconcept-education-classroom-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=education+classroom+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=practice-gap-when-debunking-does-not-change-teaching-myths-and-misconcept-education-classroom-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="education classroom poster" data-ebay-reference="practice-gap-when-debunking-does-not-change-teaching-myths-and-misconcept-education-classroom-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Classroom Educational Posters - 20pcs 16 x 11 - Teacher Classroom Must Have..."><img src="{{ '/assets/images/marketplace-covers/e92cf70e662e4f29850a.jpg' | relative_url }}" alt="Listing image for Classroom Educational Posters - 20pcs 16 x 11 - Teacher Classroom Must Have..." loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=education+classroom+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=practice-gap-when-debunking-does-not-change-teaching-myths-and-misconcept-education-classroom-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="education classroom poster" data-ebay-reference="practice-gap-when-debunking-does-not-change-teaching-myths-and-misconcept-education-classroom-poster" target="_blank" rel="sponsored noopener noreferrer">Classroom Educational Posters - 20pcs 16 x 11 - Teacher Classroom Must Have...</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=education+classroom+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=practice-gap-when-debunking-does-not-change-teaching-myths-and-misconcept-education-classroom-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="education classroom poster" data-ebay-reference="practice-gap-when-debunking-does-not-change-teaching-myths-and-misconcept-education-classroom-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for education classroom poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: education classroom poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=education+classroom+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=practice-gap-when-debunking-does-not-change-teaching-myths-and-misconcept-education-classroom-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="education classroom poster" data-ebay-reference="practice-gap-when-debunking-does-not-change-teaching-myths-and-misconcept-education-classroom-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=education+classroom+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=practice-gap-when-debunking-does-not-change-teaching-myths-and-misconcept-education-classroom-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="education classroom poster" data-ebay-reference="practice-gap-when-debunking-does-not-change-teaching-myths-and-misconcept-education-classroom-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Classroom Educational Posters - 20pcs 16 x 11 - Teacher Classroom Must Have..."><img src="{{ '/assets/images/marketplace-covers/e92cf70e662e4f29850a.jpg' | relative_url }}" alt="Listing image for Classroom Educational Posters - 20pcs 16 x 11 - Teacher Classroom Must Have..." loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=education+classroom+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=practice-gap-when-debunking-does-not-change-teaching-myths-and-misconcept-education-classroom-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="education classroom poster" data-ebay-reference="practice-gap-when-debunking-does-not-change-teaching-myths-and-misconcept-education-classroom-poster" target="_blank" rel="sponsored noopener noreferrer">Classroom Educational Posters - 20pcs 16 x 11 - Teacher Classroom Must Have...</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=education+classroom+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=practice-gap-when-debunking-does-not-change-teaching-myths-and-misconcept-education-classroom-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="education classroom poster" data-ebay-reference="practice-gap-when-debunking-does-not-change-teaching-myths-and-misconcept-education-classroom-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for education classroom poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: education classroom poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=education+classroom+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=practice-gap-when-debunking-does-not-change-teaching-myths-and-misconcept-education-classroom-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="education classroom poster" data-ebay-reference="practice-gap-when-debunking-does-not-change-teaching-myths-and-misconcept-education-classroom-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=education+classroom+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=practice-gap-when-debunking-does-not-change-teaching-myths-and-misconcept-education-classroom-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="education classroom poster" data-ebay-reference="practice-gap-when-debunking-does-not-change-teaching-myths-and-misconcept-education-classroom-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Educational Posters 15 Pack A3 Size Early Years Classroom Learning Wall Charts"><img src="{{ '/assets/images/marketplace-covers/a8e510a645162d8c080e.jpg' | relative_url }}" alt="Listing image for Educational Posters 15 Pack A3 Size Early Years Classroom Learning Wall Charts" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=education+classroom+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=practice-gap-when-debunking-does-not-change-teaching-myths-and-misconcept-education-classroom-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="education classroom poster" data-ebay-reference="practice-gap-when-debunking-does-not-change-teaching-myths-and-misconcept-education-classroom-poster" target="_blank" rel="sponsored noopener noreferrer">Educational Posters 15 Pack A3 Size Early Years Classroom Learning Wall Charts</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=education+classroom+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=practice-gap-when-debunking-does-not-change-teaching-myths-and-misconcept-education-classroom-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="education classroom poster" data-ebay-reference="practice-gap-when-debunking-does-not-change-teaching-myths-and-misconcept-education-classroom-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for education classroom poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: education classroom poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=education+classroom+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=practice-gap-when-debunking-does-not-change-teaching-myths-and-misconcept-education-classroom-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="education classroom poster" data-ebay-reference="practice-gap-when-debunking-does-not-change-teaching-myths-and-misconcept-education-classroom-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=education+classroom+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=practice-gap-when-debunking-does-not-change-teaching-myths-and-misconcept-education-classroom-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="education classroom poster" data-ebay-reference="practice-gap-when-debunking-does-not-change-teaching-myths-and-misconcept-education-classroom-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=education+classroom+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=practice-gap-when-debunking-does-not-change-teaching-myths-and-misconcept-education-classroom-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="education classroom poster" data-ebay-reference="practice-gap-when-debunking-does-not-change-teaching-myths-and-misconcept-education-classroom-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Educational Posters 15 Pack A3 Size Early Years Classroom Learning Wall Charts"><img src="{{ '/assets/images/marketplace-covers/a8e510a645162d8c080e.jpg' | relative_url }}" alt="Listing image for Educational Posters 15 Pack A3 Size Early Years Classroom Learning Wall Charts" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=education+classroom+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=practice-gap-when-debunking-does-not-change-teaching-myths-and-misconcept-education-classroom-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="education classroom poster" data-ebay-reference="practice-gap-when-debunking-does-not-change-teaching-myths-and-misconcept-education-classroom-poster" target="_blank" rel="sponsored noopener noreferrer">Educational Posters 15 Pack A3 Size Early Years Classroom Learning Wall Charts</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=education+classroom+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=practice-gap-when-debunking-does-not-change-teaching-myths-and-misconcept-education-classroom-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="education classroom poster" data-ebay-reference="practice-gap-when-debunking-does-not-change-teaching-myths-and-misconcept-education-classroom-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for education classroom poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: education classroom poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=education+classroom+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=practice-gap-when-debunking-does-not-change-teaching-myths-and-misconcept-education-classroom-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="education classroom poster" data-ebay-reference="practice-gap-when-debunking-does-not-change-teaching-myths-and-misconcept-education-classroom-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=education+classroom+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=practice-gap-when-debunking-does-not-change-teaching-myths-and-misconcept-education-classroom-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="education classroom poster" data-ebay-reference="practice-gap-when-debunking-does-not-change-teaching-myths-and-misconcept-education-classroom-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -566,7 +566,7 @@ For that reason, the strongest evaluation of myth-correction efforts should ask 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -586,7 +586,7 @@ For that reason, the strongest evaluation of myth-correction efforts should ask 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -618,7 +618,7 @@ For that reason, the strongest evaluation of myth-correction efforts should ask 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -670,7 +670,7 @@ For that reason, the strongest evaluation of myth-correction efforts should ask 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -715,7 +715,7 @@ For that reason, the strongest evaluation of myth-correction efforts should ask 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -756,143 +756,143 @@ For that reason, the strongest evaluation of myth-correction efforts should ask 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11508907/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11508907/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>by MPG Lithander  2024  Cited by 3  Previous findings demonstrate that textual refutations are effective for correcting neuromyths...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11508907/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11508907/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by MPG Lithander  2024  Cited by 3  Previous findings demonstrate that textual refutations are effective for correcting neuromyths...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: oecd.org  
    Title: Bridging the research-practice gap in education (EN)  
-   Link: <a href="https://www.oecd.org/content/dam/oecd/en/publications/reports/2024/07/bridging-the-research-practice-gap-in-education_2b6c087b/c0d3f781-en.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/content/dam/oecd/en/publications/reports/2024/07/bridging-the-research-practice-gap-in-education_2b6c087b/c0d3f781-en.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Bridging the research-practice gap in education (EN)May 11, 2025  by U Hartmann  2024  Cited by 30  RPPs can equip educators with...</p></details>
+   Link:<a href="https://www.oecd.org/content/dam/oecd/en/publications/reports/2024/07/bridging-the-research-practice-gap-in-education_2b6c087b/c0d3f781-en.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/content/dam/oecd/en/publications/reports/2024/07/bridging-the-research-practice-gap-in-education_2b6c087b/c0d3f781-en.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Bridging the research-practice gap in education (EN)May 11, 2025  by U Hartmann  2024  Cited by 30  RPPs can equip educators with...</p></details>
    Published: May 11, 2025  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9312647/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9312647/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>by RA Ferreira  2022  Cited by 51  Overall, these results suggest that the SoL course significantly improved overall neuroscience l...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9312647/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9312647/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by RA Ferreira  2022  Cited by 51  Overall, these results suggest that the SoL course significantly improved overall neuroscience l...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0361476X24000146" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0361476X24000146</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>. Prompting students to be open to belief...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/abs/pii/S0361476X24000146" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0361476X24000146</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>. Prompting students to be open to belief...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3475349/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3475349/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>by S Dekker  2012  Cited by 1291  Results showed that on average, teachers believed 49% of the neuromyths, particularly myths relat...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3475349/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3475349/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by S Dekker  2012  Cited by 1291  Results showed that on average, teachers believed 49% of the neuromyths, particularly myths relat...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: academic.oup.com  
-   Link: <a href="https://academic.oup.com/wbro/article/37/1/107/6292021" target="_blank" rel="noopener noreferrer nofollow">https://academic.oup.com/wbro/article/37/1/107/6292021</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>OUP AcademicTeacher Professional Development around the World: The...by A Popova  2022  Cited by 662  This paper proposes a set of in...</p></details>
+   Link:<a href="https://academic.oup.com/wbro/article/37/1/107/6292021" target="_blank" rel="noopener noreferrer nofollow">https://academic.oup.com/wbro/article/37/1/107/6292021</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>OUP AcademicTeacher Professional Development around the World: The...by A Popova  2022  Cited by 662  This paper proposes a set of in...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12630716/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12630716/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>by AEJ Bowen  2025  Cited by 5  The purpose of integrating educational methods informed by research evidence into classroom setting...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12630716/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12630716/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by AEJ Bowen  2025  Cited by 5  The purpose of integrating educational methods informed by research evidence into classroom setting...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/pii/S2211949324000024" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S2211949324000024</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Educational neuromyths and instructional practicesby P Tsang  2024  Cited by 14  Educational neuromyths are known to exist amongst tea...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/pii/S2211949324000024" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S2211949324000024</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Educational neuromyths and instructional practicesby P Tsang  2024  Cited by 14  Educational neuromyths are known to exist amongst tea...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S2211949325000183" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S2211949325000183</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>One of the most prevalent neuromyths is the belief...Read more...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/abs/pii/S2211949325000183" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S2211949325000183</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>One of the most prevalent neuromyths is the belief...Read more...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: frontiersin.org  
-   Link: <a href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2021.719692/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2021.719692/full</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>terventions to Dispel Neuromyths in Educational Settings...by L Rousseau  2021  Cited by 74  Potential adverse effects of...</p></details>
+   Link:<a href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2021.719692/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2021.719692/full</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>terventions to Dispel Neuromyths in Educational Settings...by L Rousseau  2021  Cited by 74  Potential adverse effects of...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: oecdedutoday.com  
    Title: bridging gap between policy practice education  
-   Link: <a href="https://oecdedutoday.com/bridging-gap-between-policy-practice-education/" target="_blank" rel="noopener noreferrer nofollow">https://oecdedutoday.com/bridging-gap-between-policy-practice-education/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>OECD Education and Skills TodayBridging the gap between policy and practice in education10 Sept 2021  A teacher and an OECD education ex...</p></details>
+   Link:<a href="https://oecdedutoday.com/bridging-gap-between-policy-practice-education/" target="_blank" rel="noopener noreferrer nofollow">https://oecdedutoday.com/bridging-gap-between-policy-practice-education/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>OECD Education and Skills TodayBridging the gap between policy and practice in education10 Sept 2021  A teacher and an OECD education ex...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: frontiersin.org  
-   Link: <a href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2020.591923/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2020.591923/full</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Persistence of Neuromyths in the Educational Settingsby M Torrijos-Muelas  2021  Cited by 273  After two decades of publications o...</p></details>
+   Link:<a href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2020.591923/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2020.591923/full</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Persistence of Neuromyths in the Educational Settingsby M Torrijos-Muelas  2021  Cited by 273  After two decades of publications o...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: education.gov.au  
    Title: The.Read more  
-   Link: <a href="https://www.education.gov.au/download/17488/aero-evidence-based-teaching-practices/35503/document/pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.education.gov.au/download/17488/aero-evidence-based-teaching-practices/35503/document/pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of EducationEvidence-based teaching practices - Department of EducationDecember 4, 2023  This report provides a summary of th...</p></details>
+   Link:<a href="https://www.education.gov.au/download/17488/aero-evidence-based-teaching-practices/35503/document/pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.education.gov.au/download/17488/aero-evidence-based-teaching-practices/35503/document/pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Department of EducationEvidence-based teaching practices - Department of EducationDecember 4, 2023  This report provides a summary of th...</p></details>
    Published: December 4, 2023  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: theguardian.com  
    Title: teachers neuromyth learning styles scientists neuroscience education  
-   Link: <a href="https://www.theguardian.com/education/2017/mar/13/teachers-neuromyth-learning-styles-scientists-neuroscience-education" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/education/2017/mar/13/teachers-neuromyth-learning-styles-scientists-neuroscience-education</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The GuardianTeachers must ditch &#x27;neuromyth&#x27; of learning styles, say...12 Mar 2017  Teaching children according to their individual lea...</p></details>
+   Link:<a href="https://www.theguardian.com/education/2017/mar/13/teachers-neuromyth-learning-styles-scientists-neuroscience-education" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/education/2017/mar/13/teachers-neuromyth-learning-styles-scientists-neuroscience-education</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The GuardianTeachers must ditch &#x27;neuromyth&#x27; of learning styles, say...12 Mar 2017  Teaching children according to their individual lea...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: frontiersin.org  
-   Link: <a href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2024.1407518/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2024.1407518/full</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Why educators endorse a neuromyth: relationships among...by C Bresnahan  2024  Cited by 8  This study investigated how belief in the...</p></details>
+   Link:<a href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2024.1407518/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2024.1407518/full</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Why educators endorse a neuromyth: relationships among...by C Bresnahan  2024  Cited by 8  This study investigated how belief in the...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/384533127_The_Effect_of_Correcting_Neuromyths_on_Students%27_and_Teachers%27_Later_Reasoning" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/384533127_The_Effect_of_Correcting_Neuromyths_on_Students%27_and_Teachers%27_Later_Reasoning</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Effect of Correcting Neuromyths on Students&#x27; and...1 Oct 2024  Dispelling the myth: Training in education or neuroscience decreases...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/384533127_The_Effect_of_Correcting_Neuromyths_on_Students%27_and_Teachers%27_Later_Reasoning" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/384533127_The_Effect_of_Correcting_Neuromyths_on_Students%27_and_Teachers%27_Later_Reasoning</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Effect of Correcting Neuromyths on Students&#x27; and...1 Oct 2024  Dispelling the myth: Training in education or neuroscience decreases...</p></details>
 
 ### Additional References
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: unicef.org  
-   Link: <a href="https://www.unicef.org/innocenti/media/10286/file/UNICEF-Innocenti-Bridging-Policy-Practice-Gaps-Education-in-Africa-December-2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.unicef.org/innocenti/media/10286/file/UNICEF-Innocenti-Bridging-Policy-Practice-Gaps-Education-in-Africa-December-2024.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Implement: Bridging the gap between policy and practiceTo support African education policymakers and partnerships, this paper is the fina...</p></details>
+   Link:<a href="https://www.unicef.org/innocenti/media/10286/file/UNICEF-Innocenti-Bridging-Policy-Practice-Gaps-Education-in-Africa-December-2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.unicef.org/innocenti/media/10286/file/UNICEF-Innocenti-Bridging-Policy-Practice-Gaps-Education-in-Africa-December-2024.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Implement: Bridging the gap between policy and practiceTo support African education policymakers and partnerships, this paper is the fina...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: papers.ssrn.com  
-   Link: <a href="https://papers.ssrn.com/sol3/Delivery.cfm/2f1bc73e-d86a-46f1-b30a-c86eca93438b-MECA.pdf?abstractid=4975128&amp;mirid=1" target="_blank" rel="noopener noreferrer nofollow">https://papers.ssrn.com/sol3/Delivery.cfm/2f1bc73e-d86a-46f1-b30a-c86eca93438b-MECA.pdf?abstractid=4975128&amp;mirid=1</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Neuromyths and their Application in Malaysian ClassroomsTherefore, the present study aims to determine the knowledge and belief in mi...</p></details>
+   Link:<a href="https://papers.ssrn.com/sol3/Delivery.cfm/2f1bc73e-d86a-46f1-b30a-c86eca93438b-MECA.pdf?abstractid=4975128&amp;mirid=1" target="_blank" rel="noopener noreferrer nofollow">https://papers.ssrn.com/sol3/Delivery.cfm/2f1bc73e-d86a-46f1-b30a-c86eca93438b-MECA.pdf?abstractid=4975128&amp;mirid=1</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Neuromyths and their Application in Malaysian ClassroomsTherefore, the present study aims to determine the knowledge and belief in mi...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: my.chartered.college  
-   Link: <a href="https://my.chartered.college/impact_article/teachers-understanding-of-neuromyths-a-role-for-educational-neuroscience-in-teacher-training/" target="_blank" rel="noopener noreferrer nofollow">https://my.chartered.college/impact_article/teachers-understanding-of-neuromyths-a-role-for-educational-neuroscience-in-teacher-training/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>chartered.collegeTeachers&#x27; understanding of neuromyths: A role for...20 Sept 2022  The current study aimed to understand the degree to...</p></details>
+   Link:<a href="https://my.chartered.college/impact_article/teachers-understanding-of-neuromyths-a-role-for-educational-neuroscience-in-teacher-training/" target="_blank" rel="noopener noreferrer nofollow">https://my.chartered.college/impact_article/teachers-understanding-of-neuromyths-a-role-for-educational-neuroscience-in-teacher-training/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>chartered.collegeTeachers&#x27; understanding of neuromyths: A role for...20 Sept 2022  The current study aimed to understand the degree to...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: wtgrantfoundation.org  
-   Link: <a href="https://wtgrantfoundation.org/wp-content/uploads/2023/02/Ming_WTG-Digest-8.pdf" target="_blank" rel="noopener noreferrer nofollow">https://wtgrantfoundation.org/wp-content/uploads/2023/02/Ming_WTG-Digest-8.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(2023). Building evidence systems to integrate implementation research and practice in education. William T. Grant Foundation.Read more...</p></details>
+   Link:<a href="https://wtgrantfoundation.org/wp-content/uploads/2023/02/Ming_WTG-Digest-8.pdf" target="_blank" rel="noopener noreferrer nofollow">https://wtgrantfoundation.org/wp-content/uploads/2023/02/Ming_WTG-Digest-8.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(2023). Building evidence systems to integrate implementation research and practice in education. William T. Grant Foundation.Read more...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: my.chartered.college  
    Title: neuromyths about special educational needs what should teachers know  
-   Link: <a href="https://my.chartered.college/impact_article/neuromyths-about-special-educational-needs-what-should-teachers-know/" target="_blank" rel="noopener noreferrer nofollow">https://my.chartered.college/impact_article/neuromyths-about-special-educational-needs-what-should-teachers-know/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>about Special Educational Needs20 Sept 2022  Neuromyths are often the result of miscommunication, and thus a greater dialogue is require...</p></details>
+   Link:<a href="https://my.chartered.college/impact_article/neuromyths-about-special-educational-needs-what-should-teachers-know/" target="_blank" rel="noopener noreferrer nofollow">https://my.chartered.college/impact_article/neuromyths-about-special-educational-needs-what-should-teachers-know/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>about Special Educational Needs20 Sept 2022  Neuromyths are often the result of miscommunication, and thus a greater dialogue is require...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: niot.org.uk  
    Title: neuromyths in the classroom and the role of critical thinking  
-   Link: <a href="https://niot.org.uk/insights/neuromyths-in-the-classroom-and-the-role-of-critical-thinking" target="_blank" rel="noopener noreferrer nofollow">https://niot.org.uk/insights/neuromyths-in-the-classroom-and-the-role-of-critical-thinking</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>3 Dec 2025  Believing in neuromyths can lead teachers to adopt ineffective strategies, wasting time and resources that could be spent on...</p></details>
+   Link:<a href="https://niot.org.uk/insights/neuromyths-in-the-classroom-and-the-role-of-critical-thinking" target="_blank" rel="noopener noreferrer nofollow">https://niot.org.uk/insights/neuromyths-in-the-classroom-and-the-role-of-critical-thinking</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>3 Dec 2025  Believing in neuromyths can lead teachers to adopt ineffective strategies, wasting time and resources that could be spent on...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: cis.org.au  
    Title: knowledge is power what do teachers believe about learning  
-   Link: <a href="https://www.cis.org.au/publication/knowledge-is-power-what-do-teachers-believe-about-learning/" target="_blank" rel="noopener noreferrer nofollow">https://www.cis.org.au/publication/knowledge-is-power-what-do-teachers-believe-about-learning/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Knowledge is power: What do teachers believe about...30 Oct 2025  Specific studies on certain neuromyths such as learning styles and he...</p></details>
+   Link:<a href="https://www.cis.org.au/publication/knowledge-is-power-what-do-teachers-believe-about-learning/" target="_blank" rel="noopener noreferrer nofollow">https://www.cis.org.au/publication/knowledge-is-power-what-do-teachers-believe-about-learning/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Knowledge is power: What do teachers believe about...30 Oct 2025  Specific studies on certain neuromyths such as learning styles and he...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: d2tic4wvo1iusb.cloudfront.net  
-   Link: <a href="https://d2tic4wvo1iusb.cloudfront.net/eef-guidance-reports/implementation/Professional-Development-Summary_2021-12-07-103959_aibu.pdf" target="_blank" rel="noopener noreferrer nofollow">https://d2tic4wvo1iusb.cloudfront.net/eef-guidance-reports/implementation/Professional-Development-Summary_2021-12-07-103959_aibu.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PUTTING EVIDENCE TO WORK: A SCHOOL&#x27;S GUIDE TO...The emphasis here is on how PD can help implement programmes and practices in schools...</p></details>
+   Link:<a href="https://d2tic4wvo1iusb.cloudfront.net/eef-guidance-reports/implementation/Professional-Development-Summary_2021-12-07-103959_aibu.pdf" target="_blank" rel="noopener noreferrer nofollow">https://d2tic4wvo1iusb.cloudfront.net/eef-guidance-reports/implementation/Professional-Development-Summary_2021-12-07-103959_aibu.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>PUTTING EVIDENCE TO WORK: A SCHOOL&#x27;S GUIDE TO...The emphasis here is on how PD can help implement programmes and practices in schools...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: research.vu.nl  
-   Link: <a href="https://research.vu.nl/en/publications/neuromyths-in-education-prevalence-and-predictors-of-misconceptio/" target="_blank" rel="noopener noreferrer nofollow">https://research.vu.nl/en/publications/neuromyths-in-education-prevalence-and-predictors-of-misconceptio/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Vrije Universiteit AmsterdamPrevalence and predictors of misconceptions among teachersby SJ Dekker  2012  Cited by 1291  Neuromyths in...</p></details>
+   Link:<a href="https://research.vu.nl/en/publications/neuromyths-in-education-prevalence-and-predictors-of-misconceptio/" target="_blank" rel="noopener noreferrer nofollow">https://research.vu.nl/en/publications/neuromyths-in-education-prevalence-and-predictors-of-misconceptio/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Vrije Universiteit AmsterdamPrevalence and predictors of misconceptions among teachersby SJ Dekker  2012  Cited by 1291  Neuromyths in...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: lthechat.com  
-   Link: <a href="https://lthechat.com/2020/10/11/lthechat186-debunking-neuromyths-in-education-what-psychology-really-tells-us/" target="_blank" rel="noopener noreferrer nofollow">https://lthechat.com/2020/10/11/lthechat186-debunking-neuromyths-in-education-what-psychology-really-tells-us/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>#LTHEchat185: Debunking Neuromyths in Education:...11 Oct 2020  Unfortunately, not all these strategies are supported by valid evidence...</p></details>
+   Link:<a href="https://lthechat.com/2020/10/11/lthechat186-debunking-neuromyths-in-education-what-psychology-really-tells-us/" target="_blank" rel="noopener noreferrer nofollow">https://lthechat.com/2020/10/11/lthechat186-debunking-neuromyths-in-education-what-psychology-really-tells-us/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>#LTHEchat185: Debunking Neuromyths in Education:...11 Oct 2020  Unfortunately, not all these strategies are supported by valid evidence...</p></details>

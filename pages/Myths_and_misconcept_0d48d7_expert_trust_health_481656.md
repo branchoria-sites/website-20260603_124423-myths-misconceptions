@@ -510,7 +510,7 @@ The problem is not that people should distrust doctors. The opposite is usually 
 
 Health is one of the areas where ordinary scepticism often has to coexist with dependence. A patient deciding whether to take a medicine, vaccinate a child, follow a cancer screening recommendation or ignore a viral “natural cure” cannot personally reproduce the evidence base. They need a way to decide whom to trust. Doctors, nurses, pharmacists, public health bodies and medical researchers are therefore not just information sources; they are interpreters of risk.
 
-That is why trusted messengers are central to public health communication. The World Health Organization has described health and care workers as trusted influencers during crises, noting that people are more likely to adopt protective measures when health workers serve as messengers or role models. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.who.int/europe/news/item/09-12-2024-trusted-messengers--community-anchors-and-agents-of-change--engaging-health-and-care-workers-in-times-of-crisis" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: who.int">[World Health Organization]</a><span class="citation-popover" role="note"><span class="citation-popover-source">who.int</span><span class="citation-popover-snippet">World Health OrganizationTrusted messengers, community anchors and agents of...9 Dec 2024 — As trusted influencers, they significantly i...</span></span></span> CDC vaccination guidance has similarly treated local doctors and other credible community figures as “trusted messengers” who can address mistrust, low health literacy and misinformation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.cdc.gov/www_cdc_gov/vaccines/covid-19/vaccinate-with-[confidence" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.cdc.gov">[CDC Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.cdc.gov</span><span class="citation-popover-title">Archive12 COVID-19 Vaccination Strategies for Your Community</span><span class="citation-popover-snippet">Archive12 COVID-19 Vaccination Strategies for Your Community</span></span></span>
+That is why trusted messengers are central to public health communication. The World Health Organization has described health and care workers as trusted influencers during crises, noting that people are more likely to adopt protective measures when health workers serve as messengers or role models.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.who.int/europe/news/item/09-12-2024-trusted-messengers--community-anchors-and-agents-of-change--engaging-health-and-care-workers-in-times-of-crisis" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: who.int">[World Health Organization]</a><span class="citation-popover" role="note"><span class="citation-popover-source">who.int</span><span class="citation-popover-snippet">World Health OrganizationTrusted messengers, community anchors and agents of...9 Dec 2024 — As trusted influencers, they significantly i...</span></span></span> CDC vaccination guidance has similarly treated local doctors and other credible community figures as “trusted messengers” who can address mistrust, low health literacy and misinformation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.cdc.gov/www_cdc_gov/vaccines/covid-19/vaccinate-with-[confidence" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.cdc.gov">[CDC Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.cdc.gov</span><span class="citation-popover-title">Archive12 COVID-19 Vaccination Strategies for Your Community</span><span class="citation-popover-snippet">Archive12 COVID-19 Vaccination Strategies for Your Community</span></span></span>
 
 This trust is not blind obedience. In clinical life, trust works best as a relationship: the professional listens, explains trade-offs, acknowledges uncertainty and helps the patient apply evidence to their own circumstances. In myth formation, however, the same trust can be flattened into a badge. A claim becomes persuasive because it is attached to “a doctor says”, “a Harvard scientist says”, “a former public health official says” or “a study in a leading journal says”, even when the actual evidence is narrow, disputed, outdated or misrepresented.
 
@@ -520,9 +520,9 @@ That makes expert trust a double-edged force. It is one of the strongest tools f
 
 The most familiar pattern is the “credential laundering” of a claim. A person with a real qualification, an institutional affiliation or a professional title makes a statement outside the strength of the evidence. The claim then travels through news reports, social media posts, podcasts, private messages and clinic conversations with the credential still attached, while the caveats fall away.
 
-The MMR-autism myth shows how damaging this can be. In 1998, *The Lancet* published a paper by Andrew Wakefield and colleagues that suggested a possible link involving the measles, mumps and rubella vaccine, bowel disease and developmental disorders. The paper was based on a very small case series and did not establish causation, but its publication in a prestigious medical journal and Wakefield’s status as a doctor helped give the claim public authority. The paper was fully retracted in 2010, and the British General Medical Council found Wakefield had acted dishonestly and irresponsibly; later BMJ reporting described the work as fraudulent. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10542734/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10542734/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> The case matters because it was not merely a false rumour circulating outside medicine. It was a health myth that gained force through medical symbols: a doctor, a hospital setting, a journal article, press attention and the language of scientific concern. Once the claim entered public imagination, later [correction]({{ 'correction/' | relative_url }}) had to compete not only with fear of [vaccines]({{ 'vaccines/' | relative_url }}) but with the memory that “a doctor raised questions”.
+The MMR-autism myth shows how damaging this can be. In 1998, *The Lancet* published a paper by Andrew Wakefield and colleagues that suggested a possible link involving the measles, mumps and rubella vaccine, bowel disease and developmental disorders. The paper was based on a very small case series and did not establish causation, but its publication in a prestigious medical journal and Wakefield’s status as a doctor helped give the claim public authority. The paper was fully retracted in 2010, and the British General Medical Council found Wakefield had acted dishonestly and irresponsibly; later BMJ reporting described the work as fraudulent.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10542734/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10542734/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> The case matters because it was not merely a false rumour circulating outside medicine. It was a health myth that gained force through medical symbols: a doctor, a hospital setting, a journal article, press attention and the language of scientific concern. Once the claim entered public imagination, later [correction]({{ 'correction/' | relative_url }}) had to compete not only with fear of [vaccines]({{ 'vaccines/' | relative_url }}) but with the memory that “a doctor raised questions”.
 
-COVID-19 produced newer versions of the same pattern. Some clinicians promoted unsupported or non-evidence-based treatments, while some online communities treated those clinicians as proof that “real doctors disagree” with mainstream guidance. A survey study on ivermectin and hydroxychloroquine found that use of these non-evidence-based COVID-19 treatments was associated with endorsement of misinformation and patterns of institutional trust and distrust. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10542734/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> The authority signal did not have to represent the medical mainstream; it only had to provide enough professional cover for people already inclined to doubt official advice.
+COVID-19 produced newer versions of the same pattern. Some clinicians promoted unsupported or non-evidence-based treatments, while some online communities treated those clinicians as proof that “real doctors disagree” with mainstream guidance. A survey study on ivermectin and hydroxychloroquine found that use of these non-evidence-based COVID-19 treatments was associated with endorsement of misinformation and patterns of institutional trust and distrust.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10542734/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> The authority signal did not have to represent the medical mainstream; it only had to provide enough professional cover for people already inclined to doubt official advice.
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_expert_trust_health_481656-Illustration-1-dark.svg" | relative_url }}" alt="Expert Trust illustration 1" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_expert_trust_health_481656-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_expert_trust_health_481656-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Expertise is not the same as consensus
@@ -531,9 +531,9 @@ One of the easiest ways health myths misuse expert trust is by blurring the diff
 
 Consensus does not mean every professional agrees. It means that, after weighing the available evidence, the broad expert community has reached a position strong enough to guide practice. In health myths, outliers are often presented as if they are suppressed truth-tellers or as if their existence proves the field is evenly divided. This can create “false balance”: the public sees [one doctor]({{ 'one-doctor/' | relative_url }}) on each side and assumes the evidence is fifty-fifty.
 
-Research on public perceptions of health recommendations shows why this matters. A 2024 analysis of the US Health Information National Trends Survey found high trust in doctors for health information, but also found that perceptions of changing or conflicting expert recommendations were associated with lower trust in health entities, especially government health agencies. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/medicine/articles/10.3389/fmed.2024.1430263/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> In other words, apparent expert conflict can become a myth-making resource even when the underlying evidence is not evenly split.
+Research on public perceptions of health recommendations shows why this matters. A 2024 analysis of the US Health Information National Trends Survey found high trust in doctors for health information, but also found that perceptions of changing or conflicting expert recommendations were associated with lower trust in health entities, especially government health agencies.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/medicine/articles/10.3389/fmed.2024.1430263/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> In other words, apparent expert conflict can become a myth-making resource even when the underlying evidence is not evenly split.
 
-There is also evidence that communicating consensus can help. A study on COVID-19 vaccines found that misperceptions about doctors’ views were widespread and that communicating doctors’ consensus persistently increased vaccine uptake. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10542734/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> This suggests that people are not simply anti-expert. Many are trying to infer what most relevant professionals believe, and myths can exploit that process by amplifying a small number of dissenting voices.
+There is also evidence that communicating consensus can help. A study on COVID-19 vaccines found that misperceptions about doctors’ views were widespread and that communicating doctors’ consensus persistently increased vaccine uptake.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10542734/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> This suggests that people are not simply anti-expert. Many are trying to infer what most relevant professionals believe, and myths can exploit that process by amplifying a small number of dissenting voices.
 
 A practical test is therefore not “Can I find a doctor who says this?” but “Is this what the relevant professional community concludes after considering the full evidence?” That shift protects trust without turning it into automatic deference.
 
@@ -541,7 +541,7 @@ A practical test is therefore not “Can I find a doctor who says this?” but �
 
 Health myths do not always come from fringe sources. Sometimes they pass through respected institutions before being corrected. That does not mean science is broken; it means the credibility of journals, universities and hospitals can temporarily magnify claims that later fail.
 
-The [Surgisphere]({{ 'surgisphere/' | relative_url }}) episode during COVID-19 illustrates the speed and consequences of institutional authority. In 2020, major journals including *The Lancet* and the *New England Journal of Medicine* retracted studies based on data supplied by the company Surgisphere after serious concerns emerged about the data’s reliability and accessibility. One retracted *Lancet* paper had influenced concern around hydroxychloroquine and contributed to the temporary halt of some trials before scrutiny intensified. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.tropmedres.ac/news/major-medical-journals-retract-covid-19-studies" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tropmedres.ac">[tropmedres.ac]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tropmedres.ac</span><span class="citation-popover-title">major medical journals retract covid 19 studies</span><span class="citation-popover-snippet">major medical journals retract covid 19 studies</span></span></span>
+The [Surgisphere]({{ 'surgisphere/' | relative_url }}) episode during COVID-19 illustrates the speed and consequences of institutional authority. In 2020, major journals including *The Lancet* and the *New England Journal of Medicine* retracted studies based on data supplied by the company Surgisphere after serious concerns emerged about the data’s reliability and accessibility. One retracted *Lancet* paper had influenced concern around hydroxychloroquine and contributed to the temporary halt of some trials before scrutiny intensified.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.tropmedres.ac/news/major-medical-journals-retract-covid-19-studies" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tropmedres.ac">[tropmedres.ac]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tropmedres.ac</span><span class="citation-popover-title">major medical journals retract covid 19 studies</span><span class="citation-popover-snippet">major medical journals retract covid 19 studies</span></span></span>
 
 This kind of case is different from a deliberate social media hoax. The initial authority came from peer review, prominent authors, journal reputation and the urgent need for answers. The correction came through scientific scrutiny, public questioning and retraction. For readers, the lesson is not to dismiss journals, but to understand that publication is not the final word. Stronger claims need replication, transparent data, biological plausibility and alignment with the wider evidence base.
 
@@ -553,9 +553,9 @@ Institutional trust is strongest when institutions correct themselves visibly. R
 
 Expert trust is now being imitated at scale. Health misinformation no longer needs a real doctor to speak on camera; it can use a deepfake, a clipped interview, a fabricated quote, a fake hospital note or an artificial intelligence answer that sounds clinically polished.
 
-Recent reporting has documented AI-manipulated videos using the likenesses of real doctors and public health figures to promote unproven health supplements. The risk is not only that viewers see a false claim, but that they see it attached to a recognisable expert face and voice. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/society/2010/jan/28/andrew-wakefield-mmr-vaccine" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">andrew wakefield mmr vaccine</span><span class="citation-popover-snippet">The GMC concluded that Wakefield acted dishonestly and irresponsibly, conducting unethical and invasive tests such as colonoscopies and s...</span></span></span> This is a direct attack on one of the public’s most useful credibility signals: “Does this seem to come from a qualified professional?”
+Recent reporting has documented AI-manipulated videos using the likenesses of real doctors and public health figures to promote unproven health supplements. The risk is not only that viewers see a false claim, but that they see it attached to a recognisable expert face and voice.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/society/2010/jan/28/andrew-wakefield-mmr-vaccine" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">andrew wakefield mmr vaccine</span><span class="citation-popover-snippet">The GMC concluded that Wakefield acted dishonestly and irresponsibly, conducting unethical and invasive tests such as colonoscopies and s...</span></span></span> This is a direct attack on one of the public’s most useful credibility signals: “Does this seem to come from a qualified professional?”
 
-Large language models add a different problem. Reuters reported on a 2026 *Lancet Digital Health* study in which medical misinformation was more likely to be accepted by AI systems when it appeared to come from an authoritative source, such as fabricated hospital discharge notes, than when it came from Reddit-style content. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reuters.com/business/healthcare-pharmaceuticals/medical-misinformation-more-likely-fool-ai-if-source-appears-legitimate-study-2026-02-09/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-snippet">The tone of prompts also influenced AI responses—those written in an authoritative voice increased the likelihood of false information be...</span></span></span> Mount Sinai researchers have also warned that chatbots can elaborate confidently on false medical premises when misinformation is slipped into a question. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.mountsinai.org/about/newsroom/2025/ai-chatbots-can-run-with-medical-misinformation-study-finds-highlighting-the-need-for-stronger-safeguards" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mountsinai.org">[Mount Sinai Health System]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mountsinai.org</span><span class="citation-popover-title">Mount Sinai Health System AI Chatbots Can Run With Medical Misinformation, Study</span><span class="citation-popover-snippet">Mount Sinai Health System AI Chatbots Can Run With Medical Misinformation, Study</span></span></span>
+Large language models add a different problem. Reuters reported on a 2026 *Lancet Digital Health* study in which medical misinformation was more likely to be accepted by AI systems when it appeared to come from an authoritative source, such as fabricated hospital discharge notes, than when it came from Reddit-style content.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reuters.com/business/healthcare-pharmaceuticals/medical-misinformation-more-likely-fool-ai-if-source-appears-legitimate-study-2026-02-09/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-snippet">The tone of prompts also influenced AI responses—those written in an authoritative voice increased the likelihood of false information be...</span></span></span> Mount Sinai researchers have also warned that chatbots can elaborate confidently on false medical premises when misinformation is slipped into a question.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.mountsinai.org/about/newsroom/2025/ai-chatbots-can-run-with-medical-misinformation-study-finds-highlighting-the-need-for-stronger-safeguards" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mountsinai.org">[Mount Sinai Health System]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mountsinai.org</span><span class="citation-popover-title">Mount Sinai Health System AI Chatbots Can Run With Medical Misinformation, Study</span><span class="citation-popover-snippet">Mount Sinai Health System AI Chatbots Can Run With Medical Misinformation, Study</span></span></span>
 
 For health myths, this creates a new credibility loop. A false claim can be written in clinical style, accepted or repeated by a tool, screenshotted as “AI-confirmed”, and then shared back into social networks. The expert signal becomes less about accountable expertise and more about the appearance of medical language.
 
@@ -565,9 +565,9 @@ The safer question is not “Does this sound professional?” but “Can this be
 
 Some health myths gain authority by borrowing expert status; others gain traction by attacking it. These two strategies often work together. A post may say mainstream doctors are captured by industry, then present a lone doctor, influencer or supplement seller as the brave exception. The reader is asked to reject expertise in general while trusting a specially selected expert completely.
 
-Mayo Clinic’s consumer guidance treats blanket claims that doctors and experts cannot be trusted as a red flag for fake health information, while still encouraging people to ask questions and stay curious. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.mayoclinic.org/healthy-lifestyle/consumer-health/in-depth/spot-fake-health-articles-misinformation/art-20587692" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mayoclinic.org">[Mayo Clinic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mayoclinic.org</span><span class="citation-popover-title">art 20587692</span><span class="citation-popover-snippet">art 20587692</span></span></span> That distinction is important. Healthy scepticism asks for evidence, conflicts of interest, alternatives and uncertainty. Myth-driven distrust asks the reader to treat an entire medical community as corrupt, while lowering scrutiny of the source making that accusation.
+Mayo Clinic’s consumer guidance treats blanket claims that doctors and experts cannot be trusted as a red flag for fake health information, while still encouraging people to ask questions and stay curious.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.mayoclinic.org/healthy-lifestyle/consumer-health/in-depth/spot-fake-health-articles-misinformation/art-20587692" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mayoclinic.org">[Mayo Clinic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mayoclinic.org</span><span class="citation-popover-title">art 20587692</span><span class="citation-popover-snippet">art 20587692</span></span></span> That distinction is important. Healthy scepticism asks for evidence, conflicts of interest, alternatives and uncertainty. Myth-driven distrust asks the reader to treat an entire medical community as corrupt, while lowering scrutiny of the source making that accusation.
 
-There are real reasons some people distrust health institutions. The American Medical Association’s education on medical misinformation stresses that efforts to counter false claims must acknowledge breaches of trust, including unethical experimentation and substandard care for racial and ethnic minority groups. <span class="citation-chip-wrap"><a class="citation-chip" href="https://edhub.ama-assn.org/pages/what-every-doctor-should-know-about-medical-misinformation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: edhub.ama-assn.org">[AMA Ed Hub]</a><span class="citation-popover" role="note"><span class="citation-popover-source">edhub.ama-assn.org</span><span class="citation-popover-title">what every doctor should know about medical misinformation</span><span class="citation-popover-snippet">what every doctor should know about medical misinformation</span></span></span> Ignoring those histories can make correction sound patronising or evasive.
+There are real reasons some people distrust health institutions. The American Medical Association’s education on medical misinformation stresses that efforts to counter false claims must acknowledge breaches of trust, including unethical experimentation and substandard care for racial and ethnic minority groups.<span class="citation-chip-wrap"><a class="citation-chip" href="https://edhub.ama-assn.org/pages/what-every-doctor-should-know-about-medical-misinformation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: edhub.ama-assn.org">[AMA Ed Hub]</a><span class="citation-popover" role="note"><span class="citation-popover-source">edhub.ama-assn.org</span><span class="citation-popover-title">what every doctor should know about medical misinformation</span><span class="citation-popover-snippet">what every doctor should know about medical misinformation</span></span></span> Ignoring those histories can make correction sound patronising or evasive.
 
 The challenge is to separate justified mistrust from totalising suspicion. A patient may have had a poor experience, faced discrimination, been dismissed, or seen guidance change. Those experiences deserve respect. But they do not make every anti-establishment claim true, and they do not make a credentialed outlier more reliable than a transparent body of evidence.
 
@@ -578,7 +578,7 @@ The clinic is one of the most important places where health myths are either rei
 
 Better correction starts by identifying what the myth is doing for the patient. Is it offering control after a frightening diagnosis? Explaining symptoms that have been dismissed? Reducing fear of side effects? Protecting a child? Avoiding shame? Once that function is understood, the clinician can replace the myth with a safer explanation rather than simply removing it.
 
-The AMA’s vaccine-hesitancy guidance advises physicians to correct misinformation, tailor their message and address the patient’s specific concern rather than delivering a generic lecture. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ama-assn.org/public-health/prevention-wellness/covid-19-vaccine-hesitancy-10-tips-talking-patients" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ama-assn.org">[American Medical Association]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ama-assn.org</span><span class="citation-popover-title">covid 19 vaccine hesitancy 10 tips talking patients</span><span class="citation-popover-snippet">covid 19 vaccine hesitancy 10 tips talking patients</span></span></span> WHO and CDC materials likewise emphasise trusted messengers, community fit and clear communication rather than assuming that facts alone will travel effectively. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.who.int/europe/news/item/09-12-2024-trusted-messengers--community-anchors-and-agents-of-change--engaging-health-and-care-workers-in-times-of-crisis" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: who.int">[World Health Organization]</a><span class="citation-popover" role="note"><span class="citation-popover-source">who.int</span><span class="citation-popover-snippet">World Health OrganizationTrusted messengers, community anchors and agents of...9 Dec 2024 — As trusted influencers, they significantly i...</span></span></span>
+The AMA’s vaccine-hesitancy guidance advises physicians to correct misinformation, tailor their message and address the patient’s specific concern rather than delivering a generic lecture.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ama-assn.org/public-health/prevention-wellness/covid-19-vaccine-hesitancy-10-tips-talking-patients" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ama-assn.org">[American Medical Association]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ama-assn.org</span><span class="citation-popover-title">covid 19 vaccine hesitancy 10 tips talking patients</span><span class="citation-popover-snippet">covid 19 vaccine hesitancy 10 tips talking patients</span></span></span> WHO and CDC materials likewise emphasise trusted messengers, community fit and clear communication rather than assuming that facts alone will travel effectively.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.who.int/europe/news/item/09-12-2024-trusted-messengers--community-anchors-and-agents-of-change--engaging-health-and-care-workers-in-times-of-crisis" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: who.int">[World Health Organization]</a><span class="citation-popover" role="note"><span class="citation-popover-source">who.int</span><span class="citation-popover-snippet">World Health OrganizationTrusted messengers, community anchors and agents of...9 Dec 2024 — As trusted influencers, they significantly i...</span></span></span>
 
 [Respectful correction]({{ 'respectful-correction/' | relative_url }}) often follows a recognisable rhythm:
 
@@ -621,194 +621,194 @@ In the wider landscape of myths and misconceptions, doctor and expert trust is t
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_expert_trust_health_481656-Illustration-3-dark.svg" | relative_url }}" alt="Expert Trust illustration 3" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_expert_trust_health_481656-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_expert_trust_health_481656-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When Expert Trust Carries Bad Claims. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When Expert Trust Carries Bad Claims. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+death+of+expertise&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The death of expertise on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/14628281-M.jpg" alt="Cover for The death of expertise" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+death+of+expertise&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The death of expertise">The death of expertise</a>
-        </h4>
-        <p class="fr-book-author">By Unknown author</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+death+of+expertise&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The death of expertise on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/14628281-M.jpg" alt="Cover for The death of expertise" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+death+of+expertise&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The death of expertise">The death of expertise</a>
+</h4>
+<p class="fr-book-author">By Unknown author</p>
         
-        <p class="fr-book-desc">Explains why expert authority matters and how it can be misunderstood or rejected.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+death+of+expertise&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains why expert authority matters and how it can be misunderstood or rejected.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+death+of+expertise&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Bad+Science+by+Ben+Goldacre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Bad Science on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=wICuv0ePMYoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Bad Science" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Bad+Science+by+Ben+Goldacre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Bad Science">Bad Science</a>
-        </h4>
-        <p class="fr-book-author">By Ben Goldacre</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Bad+Science+by+Ben+Goldacre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Bad Science on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=wICuv0ePMYoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Bad Science" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Bad+Science+by+Ben+Goldacre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Bad Science">Bad Science</a>
+</h4>
+<p class="fr-book-author">By Ben Goldacre</p>
         
-        <p class="fr-book-desc">Helps readers evaluate health claims, evidence quality and expert-sounding misinformation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Bad+Science+by+Ben+Goldacre&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps readers evaluate health claims, evidence quality and expert-sounding misinformation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Bad+Science+by+Ben+Goldacre&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Doctor+Who+Fooled+the+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Doctor Who Fooled the World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/14609654-M.jpg" alt="Cover for Doctor Who Fooled the World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Doctor+Who+Fooled+the+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Doctor Who Fooled the World">Doctor Who Fooled the World</a>
-        </h4>
-        <p class="fr-book-author">By Unknown author</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Doctor+Who+Fooled+the+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Doctor Who Fooled the World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/14609654-M.jpg" alt="Cover for Doctor Who Fooled the World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Doctor+Who+Fooled+the+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Doctor Who Fooled the World">Doctor Who Fooled the World</a>
+</h4>
+<p class="fr-book-author">By Unknown author</p>
         
-        <p class="fr-book-desc">Shows how medical credentials and institutions can carry damaging false claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Doctor+Who+Fooled+the+World&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows how medical credentials and institutions can carry damaging false claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Doctor+Who+Fooled+the+World&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Calling Bullshit on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Plu9DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Calling Bullshit" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Calling Bullshit">Calling Bullshit</a>
-        </h4>
-        <p class="fr-book-author">By Carl T. Bergstrom, Jevin D. West</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Calling Bullshit on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Plu9DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Calling Bullshit" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Calling Bullshit">Calling Bullshit</a>
+</h4>
+<p class="fr-book-author">By Carl T. Bergstrom, Jevin D. West</p>
         
-        <p class="fr-book-desc">Equips readers to assess evidence, charts, studies and expert-sounding claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Equips readers to assess evidence, charts, studies and expert-sounding claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+death+of+expertise&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The death of expertise</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Bad+Science&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Bad Science</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Doctor+Who+Fooled+the+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Doctor Who Fooled the World</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+death+of+expertise&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The death of expertise</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Bad+Science&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Bad Science</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Doctor+Who+Fooled+the+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Doctor Who Fooled the World</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=expert-trust-when-expert-trust-carries-bad-claims-myths-and-misconcept-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster" data-ebay-reference="expert-trust-when-expert-trust-carries-bad-claims-myths-and-misconcept-science-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Snellen Eye Chart Optician Glasses Test Science Poster | A5-A1 | Wall Poster"><img src="{{ '/assets/images/marketplace-covers/44585abe482a25573224.jpg' | relative_url }}" alt="Listing image for Snellen Eye Chart Optician Glasses Test Science Poster | A5-A1 | Wall Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=expert-trust-when-expert-trust-carries-bad-claims-myths-and-misconcept-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster" data-ebay-reference="expert-trust-when-expert-trust-carries-bad-claims-myths-and-misconcept-science-poster" target="_blank" rel="sponsored noopener noreferrer">Snellen Eye Chart Optician Glasses Test Science Poster | A5-A1 | Wall Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=expert-trust-when-expert-trust-carries-bad-claims-myths-and-misconcept-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster" data-ebay-reference="expert-trust-when-expert-trust-carries-bad-claims-myths-and-misconcept-science-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: science poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=expert-trust-when-expert-trust-carries-bad-claims-myths-and-misconcept-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster" data-ebay-reference="expert-trust-when-expert-trust-carries-bad-claims-myths-and-misconcept-science-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=expert-trust-when-expert-trust-carries-bad-claims-myths-and-misconcept-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster" data-ebay-reference="expert-trust-when-expert-trust-carries-bad-claims-myths-and-misconcept-science-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Snellen Eye Chart Optician Glasses Test Science Poster | A5-A1 | Wall Poster"><img src="{{ '/assets/images/marketplace-covers/44585abe482a25573224.jpg' | relative_url }}" alt="Listing image for Snellen Eye Chart Optician Glasses Test Science Poster | A5-A1 | Wall Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=expert-trust-when-expert-trust-carries-bad-claims-myths-and-misconcept-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster" data-ebay-reference="expert-trust-when-expert-trust-carries-bad-claims-myths-and-misconcept-science-poster" target="_blank" rel="sponsored noopener noreferrer">Snellen Eye Chart Optician Glasses Test Science Poster | A5-A1 | Wall Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=expert-trust-when-expert-trust-carries-bad-claims-myths-and-misconcept-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster" data-ebay-reference="expert-trust-when-expert-trust-carries-bad-claims-myths-and-misconcept-science-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: science poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=expert-trust-when-expert-trust-carries-bad-claims-myths-and-misconcept-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster" data-ebay-reference="expert-trust-when-expert-trust-carries-bad-claims-myths-and-misconcept-science-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=expert-trust-when-expert-trust-carries-bad-claims-myths-and-misconcept-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster" data-ebay-reference="expert-trust-when-expert-trust-carries-bad-claims-myths-and-misconcept-science-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Periodic table with elements poster Science Wall Chart UPDATED Education Poster"><img src="{{ '/assets/images/marketplace-covers/4353dda57fefeae45a72.jpg' | relative_url }}" alt="Listing image for Periodic table with elements poster Science Wall Chart UPDATED Education Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=expert-trust-when-expert-trust-carries-bad-claims-myths-and-misconcept-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster" data-ebay-reference="expert-trust-when-expert-trust-carries-bad-claims-myths-and-misconcept-science-poster" target="_blank" rel="sponsored noopener noreferrer">Periodic table with elements poster Science Wall Chart UPDATED Education Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=expert-trust-when-expert-trust-carries-bad-claims-myths-and-misconcept-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster" data-ebay-reference="expert-trust-when-expert-trust-carries-bad-claims-myths-and-misconcept-science-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: science poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=expert-trust-when-expert-trust-carries-bad-claims-myths-and-misconcept-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster" data-ebay-reference="expert-trust-when-expert-trust-carries-bad-claims-myths-and-misconcept-science-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=expert-trust-when-expert-trust-carries-bad-claims-myths-and-misconcept-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster" data-ebay-reference="expert-trust-when-expert-trust-carries-bad-claims-myths-and-misconcept-science-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Periodic table with elements poster Science Wall Chart UPDATED Education Poster"><img src="{{ '/assets/images/marketplace-covers/4353dda57fefeae45a72.jpg' | relative_url }}" alt="Listing image for Periodic table with elements poster Science Wall Chart UPDATED Education Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=expert-trust-when-expert-trust-carries-bad-claims-myths-and-misconcept-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster" data-ebay-reference="expert-trust-when-expert-trust-carries-bad-claims-myths-and-misconcept-science-poster" target="_blank" rel="sponsored noopener noreferrer">Periodic table with elements poster Science Wall Chart UPDATED Education Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=expert-trust-when-expert-trust-carries-bad-claims-myths-and-misconcept-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster" data-ebay-reference="expert-trust-when-expert-trust-carries-bad-claims-myths-and-misconcept-science-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: science poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=expert-trust-when-expert-trust-carries-bad-claims-myths-and-misconcept-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster" data-ebay-reference="expert-trust-when-expert-trust-carries-bad-claims-myths-and-misconcept-science-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=expert-trust-when-expert-trust-carries-bad-claims-myths-and-misconcept-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster" data-ebay-reference="expert-trust-when-expert-trust-carries-bad-claims-myths-and-misconcept-science-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Periodic Table of Elements Poster For Kids, LAMINATED, Science &amp; Chemistry Chart"><img src="{{ '/assets/images/marketplace-covers/2d540458477f76b2be20.jpg' | relative_url }}" alt="Listing image for Periodic Table of Elements Poster For Kids, LAMINATED, Science &amp; Chemistry Chart" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=expert-trust-when-expert-trust-carries-bad-claims-myths-and-misconcept-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster" data-ebay-reference="expert-trust-when-expert-trust-carries-bad-claims-myths-and-misconcept-science-poster" target="_blank" rel="sponsored noopener noreferrer">Periodic Table of Elements Poster For Kids, LAMINATED, Science &amp; Chemistry Chart</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=expert-trust-when-expert-trust-carries-bad-claims-myths-and-misconcept-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster" data-ebay-reference="expert-trust-when-expert-trust-carries-bad-claims-myths-and-misconcept-science-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: science poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=expert-trust-when-expert-trust-carries-bad-claims-myths-and-misconcept-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster" data-ebay-reference="expert-trust-when-expert-trust-carries-bad-claims-myths-and-misconcept-science-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=expert-trust-when-expert-trust-carries-bad-claims-myths-and-misconcept-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster" data-ebay-reference="expert-trust-when-expert-trust-carries-bad-claims-myths-and-misconcept-science-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Periodic Table of Elements Poster For Kids, LAMINATED, Science &amp; Chemistry Chart"><img src="{{ '/assets/images/marketplace-covers/2d540458477f76b2be20.jpg' | relative_url }}" alt="Listing image for Periodic Table of Elements Poster For Kids, LAMINATED, Science &amp; Chemistry Chart" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=expert-trust-when-expert-trust-carries-bad-claims-myths-and-misconcept-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster" data-ebay-reference="expert-trust-when-expert-trust-carries-bad-claims-myths-and-misconcept-science-poster" target="_blank" rel="sponsored noopener noreferrer">Periodic Table of Elements Poster For Kids, LAMINATED, Science &amp; Chemistry Chart</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=expert-trust-when-expert-trust-carries-bad-claims-myths-and-misconcept-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster" data-ebay-reference="expert-trust-when-expert-trust-carries-bad-claims-myths-and-misconcept-science-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: science poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=expert-trust-when-expert-trust-carries-bad-claims-myths-and-misconcept-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster" data-ebay-reference="expert-trust-when-expert-trust-carries-bad-claims-myths-and-misconcept-science-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=expert-trust-when-expert-trust-carries-bad-claims-myths-and-misconcept-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster" data-ebay-reference="expert-trust-when-expert-trust-carries-bad-claims-myths-and-misconcept-science-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PERIODIC TABLE Real Elements A3 Laminated Chemistry Science Educational Poster"><img src="{{ '/assets/images/marketplace-covers/fe6eac85e0cbd3115c4c.jpg' | relative_url }}" alt="Listing image for PERIODIC TABLE Real Elements A3 Laminated Chemistry Science Educational Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=expert-trust-when-expert-trust-carries-bad-claims-myths-and-misconcept-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster" data-ebay-reference="expert-trust-when-expert-trust-carries-bad-claims-myths-and-misconcept-science-poster" target="_blank" rel="sponsored noopener noreferrer">PERIODIC TABLE Real Elements A3 Laminated Chemistry Science Educational Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=expert-trust-when-expert-trust-carries-bad-claims-myths-and-misconcept-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster" data-ebay-reference="expert-trust-when-expert-trust-carries-bad-claims-myths-and-misconcept-science-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: science poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=expert-trust-when-expert-trust-carries-bad-claims-myths-and-misconcept-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster" data-ebay-reference="expert-trust-when-expert-trust-carries-bad-claims-myths-and-misconcept-science-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=expert-trust-when-expert-trust-carries-bad-claims-myths-and-misconcept-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster" data-ebay-reference="expert-trust-when-expert-trust-carries-bad-claims-myths-and-misconcept-science-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=expert-trust-when-expert-trust-carries-bad-claims-myths-and-misconcept-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster" data-ebay-reference="expert-trust-when-expert-trust-carries-bad-claims-myths-and-misconcept-science-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PERIODIC TABLE Real Elements A3 Laminated Chemistry Science Educational Poster"><img src="{{ '/assets/images/marketplace-covers/fe6eac85e0cbd3115c4c.jpg' | relative_url }}" alt="Listing image for PERIODIC TABLE Real Elements A3 Laminated Chemistry Science Educational Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=expert-trust-when-expert-trust-carries-bad-claims-myths-and-misconcept-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster" data-ebay-reference="expert-trust-when-expert-trust-carries-bad-claims-myths-and-misconcept-science-poster" target="_blank" rel="sponsored noopener noreferrer">PERIODIC TABLE Real Elements A3 Laminated Chemistry Science Educational Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=expert-trust-when-expert-trust-carries-bad-claims-myths-and-misconcept-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster" data-ebay-reference="expert-trust-when-expert-trust-carries-bad-claims-myths-and-misconcept-science-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: science poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=expert-trust-when-expert-trust-carries-bad-claims-myths-and-misconcept-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster" data-ebay-reference="expert-trust-when-expert-trust-carries-bad-claims-myths-and-misconcept-science-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=expert-trust-when-expert-trust-carries-bad-claims-myths-and-misconcept-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster" data-ebay-reference="expert-trust-when-expert-trust-carries-bad-claims-myths-and-misconcept-science-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -824,7 +824,7 @@ In the wider landscape of myths and misconceptions, doctor and expert trust is t
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -844,7 +844,7 @@ In the wider landscape of myths and misconceptions, doctor and expert trust is t
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -876,7 +876,7 @@ In the wider landscape of myths and misconceptions, doctor and expert trust is t
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -928,7 +928,7 @@ In the wider landscape of myths and misconceptions, doctor and expert trust is t
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -973,7 +973,7 @@ In the wider landscape of myths and misconceptions, doctor and expert trust is t
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -1014,230 +1014,230 @@ In the wider landscape of myths and misconceptions, doctor and expert trust is t
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: who.int  
-   Link: <a href="https://www.who.int/europe/news/item/09-12-2024-trusted-messengers--community-anchors-and-agents-of-change--engaging-health-and-care-workers-in-times-of-crisis" target="_blank" rel="noopener noreferrer nofollow">https://www.who.int/europe/news/item/09-12-2024-trusted-messengers--community-anchors-and-agents-of-change--engaging-health-and-care-workers-in-times-of-crisis</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>World Health OrganizationTrusted messengers, community anchors and agents of...9 Dec 2024 — As trusted influencers, they significantly i...</p></details>
+   Link:<a href="https://www.who.int/europe/news/item/09-12-2024-trusted-messengers--community-anchors-and-agents-of-change--engaging-health-and-care-workers-in-times-of-crisis" target="_blank" rel="noopener noreferrer nofollow">https://www.who.int/europe/news/item/09-12-2024-trusted-messengers--community-anchors-and-agents-of-change--engaging-health-and-care-workers-in-times-of-crisis</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>World Health OrganizationTrusted messengers, community anchors and agents of...9 Dec 2024 — As trusted influencers, they significantly i...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: archive.cdc.gov  
    Title: Archive12 COVID-19 Vaccination Strategies for Your Community  
-   Link: <a href="https://archive.cdc.gov/www_cdc_gov/vaccines/covid-19/vaccinate-with-[confidence" target="_blank" rel="noopener noreferrer nofollow">https://archive.cdc.gov/www_cdc_gov/vaccines/covid-19/vaccinate-with-[confidence</a>  
+   Link:<a href="https://archive.cdc.gov/www_cdc_gov/vaccines/covid-19/vaccinate-with-[confidence" target="_blank" rel="noopener noreferrer nofollow">https://archive.cdc.gov/www_cdc_gov/vaccines/covid-19/vaccinate-with-[confidence</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3136032/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3136032/</a>  
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3136032/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3136032/</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC2831678/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC2831678/</a>  
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC2831678/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC2831678/</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10542734/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10542734/</a>  
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10542734/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10542734/</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: tropmedres.ac  
    Title: major medical journals retract covid 19 studies  
-   Link: <a href="https://www.tropmedres.ac/news/major-medical-journals-retract-covid-19-studies" target="_blank" rel="noopener noreferrer nofollow">https://www.tropmedres.ac/news/major-medical-journals-retract-covid-19-studies</a>  
+   Link:<a href="https://www.tropmedres.ac/news/major-medical-journals-retract-covid-19-studies" target="_blank" rel="noopener noreferrer nofollow">https://www.tropmedres.ac/news/major-medical-journals-retract-covid-19-studies</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: reuters.com  
-   Link: <a href="https://www.reuters.com/business/healthcare-pharmaceuticals/medical-misinformation-more-likely-fool-ai-if-source-appears-legitimate-study-2026-02-09/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/business/healthcare-pharmaceuticals/medical-misinformation-more-likely-fool-ai-if-source-appears-legitimate-study-2026-02-09/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The tone of prompts also influenced AI responses—those written in an authoritative voice increased the likelihood of false information be...</p></details>
+   Link:<a href="https://www.reuters.com/business/healthcare-pharmaceuticals/medical-misinformation-more-likely-fool-ai-if-source-appears-legitimate-study-2026-02-09/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/business/healthcare-pharmaceuticals/medical-misinformation-more-likely-fool-ai-if-source-appears-legitimate-study-2026-02-09/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The tone of prompts also influenced AI responses—those written in an authoritative voice increased the likelihood of false information be...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: who.int  
-   Link: <a href="https://www.who.int/europe/news/item/01-09-2022-infodemics-and-misinformation-negatively-affect-people-s-health-behaviours--new-who-review-finds" target="_blank" rel="noopener noreferrer nofollow">https://www.who.int/europe/news/item/01-09-2022-infodemics-and-misinformation-negatively-affect-people-s-health-behaviours--new-who-review-finds</a>  
+   Link:<a href="https://www.who.int/europe/news/item/01-09-2022-infodemics-and-misinformation-negatively-affect-people-s-health-behaviours--new-who-review-finds" target="_blank" rel="noopener noreferrer nofollow">https://www.who.int/europe/news/item/01-09-2022-infodemics-and-misinformation-negatively-affect-people-s-health-behaviours--new-who-review-finds</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: iris.who.int  
    Title: int Impact of the COVID-19 infodemic on frontline workers  
-   Link: <a href="https://iris.who.int/server/api/core/bitstreams/6b8e4614-4298-4374-9e95-ae562cd27e0f/content" target="_blank" rel="noopener noreferrer nofollow">https://iris.who.int/server/api/core/bitstreams/6b8e4614-4298-4374-9e95-ae562cd27e0f/content</a>  
+   Link:<a href="https://iris.who.int/server/api/core/bitstreams/6b8e4614-4298-4374-9e95-ae562cd27e0f/content" target="_blank" rel="noopener noreferrer nofollow">https://iris.who.int/server/api/core/bitstreams/6b8e4614-4298-4374-9e95-ae562cd27e0f/content</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: who.int  
    Title: donors making a difference fighting myths and misinformation  
-   Link: <a href="https://www.who.int/news-room/feature-stories/detail/donors-making-a-difference--fighting-myths-and-misinformation" target="_blank" rel="noopener noreferrer nofollow">https://www.who.int/news-room/feature-stories/detail/donors-making-a-difference--fighting-myths-and-misinformation</a>  
+   Link:<a href="https://www.who.int/news-room/feature-stories/detail/donors-making-a-difference--fighting-myths-and-misinformation" target="_blank" rel="noopener noreferrer nofollow">https://www.who.int/news-room/feature-stories/detail/donors-making-a-difference--fighting-myths-and-misinformation</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: who.int  
-   Link: <a href="https://www.who.int/teams/digital-health-and-innovation/digital-channels/fides" target="_blank" rel="noopener noreferrer nofollow">https://www.who.int/teams/digital-health-and-innovation/digital-channels/fides</a>  
+   Link:<a href="https://www.who.int/teams/digital-health-and-innovation/digital-channels/fides" target="_blank" rel="noopener noreferrer nofollow">https://www.who.int/teams/digital-health-and-innovation/digital-channels/fides</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: emro.who.int  
    Title: strategies to combat infodemics in public health  
-   Link: <a href="https://www.emro.who.int/emhj-volume-31-2025/volume-31-issue-5/strategies-to-combat-infodemics-in-public-health.html" target="_blank" rel="noopener noreferrer nofollow">https://www.emro.who.int/emhj-volume-31-2025/volume-31-issue-5/strategies-to-combat-infodemics-in-public-health.html</a>  
+   Link:<a href="https://www.emro.who.int/emhj-volume-31-2025/volume-31-issue-5/strategies-to-combat-infodemics-in-public-health.html" target="_blank" rel="noopener noreferrer nofollow">https://www.emro.who.int/emhj-volume-31-2025/volume-31-issue-5/strategies-to-combat-infodemics-in-public-health.html</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: hlh.who.int  
-   Link: <a href="https://hlh.who.int/briefs/how-has-covid-19-affected-delivery-of-ehs-hifa-2nd-discussion" target="_blank" rel="noopener noreferrer nofollow">https://hlh.who.int/briefs/how-has-covid-19-affected-delivery-of-ehs-hifa-2nd-discussion</a>  
+   Link:<a href="https://hlh.who.int/briefs/how-has-covid-19-affected-delivery-of-ehs-hifa-2nd-discussion" target="_blank" rel="noopener noreferrer nofollow">https://hlh.who.int/briefs/how-has-covid-19-affected-delivery-of-ehs-hifa-2nd-discussion</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: who.int  
-   Link: <a href="https://www.who.int/docs/default-source/coronaviruse/vaccine-misinformation-toolkit_desktop1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.who.int/docs/default-source/coronaviruse/vaccine-misinformation-toolkit_desktop1.pdf</a>  
+   Link:<a href="https://www.who.int/docs/default-source/coronaviruse/vaccine-misinformation-toolkit_desktop1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.who.int/docs/default-source/coronaviruse/vaccine-misinformation-toolkit_desktop1.pdf</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: iris.who.int  
    Title: int Systematic reviews  
-   Link: <a href="https://iris.who.int/server/api/core/bitstreams/19e2cf79-a3e0-443e-b88e-99668c1979ab/content" target="_blank" rel="noopener noreferrer nofollow">https://iris.who.int/server/api/core/bitstreams/19e2cf79-a3e0-443e-b88e-99668c1979ab/content</a>  
+   Link:<a href="https://iris.who.int/server/api/core/bitstreams/19e2cf79-a3e0-443e-b88e-99668c1979ab/content" target="_blank" rel="noopener noreferrer nofollow">https://iris.who.int/server/api/core/bitstreams/19e2cf79-a3e0-443e-b88e-99668c1979ab/content</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: who.int  
-   Link: <a href="https://www.who.int/news/item/26-09-2024-who-and-tiktok-to-collaborate-on-more-science-based-information-on-health-and-well-being" target="_blank" rel="noopener noreferrer nofollow">https://www.who.int/news/item/26-09-2024-who-and-tiktok-to-collaborate-on-more-science-based-information-on-health-and-well-being</a>  
+   Link:<a href="https://www.who.int/news/item/26-09-2024-who-and-tiktok-to-collaborate-on-more-science-based-information-on-health-and-well-being" target="_blank" rel="noopener noreferrer nofollow">https://www.who.int/news/item/26-09-2024-who-and-tiktok-to-collaborate-on-more-science-based-information-on-health-and-well-being</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: stacks.cdc.gov  
    Title: cdc 160722 DS1  
-   Link: <a href="https://stacks.cdc.gov/view/cdc/160722/cdc_160722_DS1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://stacks.cdc.gov/view/cdc/160722/cdc_160722_DS1.pdf</a>  
+   Link:<a href="https://stacks.cdc.gov/view/cdc/160722/cdc_160722_DS1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://stacks.cdc.gov/view/cdc/160722/cdc_160722_DS1.pdf</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: wwwnc.cdc.gov  
    Title: 20 3139 article  
-   Link: <a href="https://wwwnc.cdc.gov/eid/article/27/2/20-3139_article" target="_blank" rel="noopener noreferrer nofollow">https://wwwnc.cdc.gov/eid/article/27/2/20-3139_article</a>  
+   Link:<a href="https://wwwnc.cdc.gov/eid/article/27/2/20-3139_article" target="_blank" rel="noopener noreferrer nofollow">https://wwwnc.cdc.gov/eid/article/27/2/20-3139_article</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: stacks.cdc.gov  
    Title: cdc 160722 DS5  
-   Link: <a href="https://stacks.cdc.gov/view/cdc/160722/cdc_160722_DS5.pdf" target="_blank" rel="noopener noreferrer nofollow">https://stacks.cdc.gov/view/cdc/160722/cdc_160722_DS5.pdf</a>  
+   Link:<a href="https://stacks.cdc.gov/view/cdc/160722/cdc_160722_DS5.pdf" target="_blank" rel="noopener noreferrer nofollow">https://stacks.cdc.gov/view/cdc/160722/cdc_160722_DS5.pdf</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: cdc.gov  
-   Link: <a href="https://www.cdc.gov/vaccines/hcp/index.html" target="_blank" rel="noopener noreferrer nofollow">https://www.cdc.gov/vaccines/hcp/index.html</a>  
+   Link:<a href="https://www.cdc.gov/vaccines/hcp/index.html" target="_blank" rel="noopener noreferrer nofollow">https://www.cdc.gov/vaccines/hcp/index.html</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: archive.cdc.gov  
    Title: vaccination strategies  
-   Link: <a href="https://archive.cdc.gov/www_cdc_gov/vaccines/covid-19/downloads/vaccination-strategies.pdf" target="_blank" rel="noopener noreferrer nofollow">https://archive.cdc.gov/www_cdc_gov/vaccines/covid-19/downloads/vaccination-strategies.pdf</a>  
+   Link:<a href="https://archive.cdc.gov/www_cdc_gov/vaccines/covid-19/downloads/vaccination-strategies.pdf" target="_blank" rel="noopener noreferrer nofollow">https://archive.cdc.gov/www_cdc_gov/vaccines/covid-19/downloads/vaccination-strategies.pdf</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: stacks.cdc.gov  
    Title: cdc 106450 DS1  
-   Link: <a href="https://stacks.cdc.gov/view/cdc/106450/cdc_106450_DS1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://stacks.cdc.gov/view/cdc/106450/cdc_106450_DS1.pdf</a>  
+   Link:<a href="https://stacks.cdc.gov/view/cdc/106450/cdc_106450_DS1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://stacks.cdc.gov/view/cdc/106450/cdc_106450_DS1.pdf</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: stacks.cdc.gov  
    Title: cdc 104372 DS1  
-   Link: <a href="https://stacks.cdc.gov/view/cdc/104372/cdc_104372_DS1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://stacks.cdc.gov/view/cdc/104372/cdc_104372_DS1.pdf</a>  
+   Link:<a href="https://stacks.cdc.gov/view/cdc/104372/cdc_104372_DS1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://stacks.cdc.gov/view/cdc/104372/cdc_104372_DS1.pdf</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: archive.cdc.gov  
    Title: generate vaccinations  
-   Link: <a href="https://archive.cdc.gov/www_cdc_gov/vaccines/covid-19/health-departments/generate-vaccinations.html" target="_blank" rel="noopener noreferrer nofollow">https://archive.cdc.gov/www_cdc_gov/vaccines/covid-19/health-departments/generate-vaccinations.html</a>  
+   Link:<a href="https://archive.cdc.gov/www_cdc_gov/vaccines/covid-19/health-departments/generate-vaccinations.html" target="_blank" rel="noopener noreferrer nofollow">https://archive.cdc.gov/www_cdc_gov/vaccines/covid-19/health-departments/generate-vaccinations.html</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: stacks.cdc.gov  
    Title: cdc 105560 DS1  
-   Link: <a href="https://stacks.cdc.gov/view/cdc/105560/cdc_105560_DS1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://stacks.cdc.gov/view/cdc/105560/cdc_105560_DS1.pdf</a>  
+   Link:<a href="https://stacks.cdc.gov/view/cdc/105560/cdc_105560_DS1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://stacks.cdc.gov/view/cdc/105560/cdc_105560_DS1.pdf</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: magazine.hms.harvard.edu  
    Title: there crisis trust science and medicine  
-   Link: <a href="https://magazine.hms.harvard.edu/articles/there-crisis-trust-science-and-medicine" target="_blank" rel="noopener noreferrer nofollow">https://magazine.hms.harvard.edu/articles/there-crisis-trust-science-and-medicine</a>  
+   Link:<a href="https://magazine.hms.harvard.edu/articles/there-crisis-trust-science-and-medicine" target="_blank" rel="noopener noreferrer nofollow">https://magazine.hms.harvard.edu/articles/there-crisis-trust-science-and-medicine</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: theguardian.com  
    Title: andrew wakefield mmr vaccine  
-   Link: <a href="https://www.theguardian.com/society/2010/jan/28/andrew-wakefield-mmr-vaccine" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/society/2010/jan/28/andrew-wakefield-mmr-vaccine</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The GMC concluded that Wakefield acted dishonestly and irresponsibly, conducting unethical and invasive tests such as colonoscopies and s...</p></details>
+   Link:<a href="https://www.theguardian.com/society/2010/jan/28/andrew-wakefield-mmr-vaccine" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/society/2010/jan/28/andrew-wakefield-mmr-vaccine</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The GMC concluded that Wakefield acted dishonestly and irresponsibly, conducting unethical and invasive tests such as colonoscopies and s...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: frontiersin.org  
-   Link: <a href="https://www.frontiersin.org/journals/medicine/articles/10.3389/fmed.2024.1430263/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/medicine/articles/10.3389/fmed.2024.1430263/full</a>  
+   Link:<a href="https://www.frontiersin.org/journals/medicine/articles/10.3389/fmed.2024.1430263/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/medicine/articles/10.3389/fmed.2024.1430263/full</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: theguardian.com  
    Title: covid 19 lancet retracts paper that halted hydroxychloroquine trials  
-   Link: <a href="https://www.theguardian.com/world/2020/jun/04/covid-19-lancet-retracts-paper-that-halted-hydroxychloroquine-trials" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2020/jun/04/covid-19-lancet-retracts-paper-that-halted-hydroxychloroquine-trials</a>  
+   Link:<a href="https://www.theguardian.com/world/2020/jun/04/covid-19-lancet-retracts-paper-that-halted-hydroxychloroquine-trials" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2020/jun/04/covid-19-lancet-retracts-paper-that-halted-hydroxychloroquine-trials</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/society/2025/dec/05/ai-deepfakes-of-real-doctors-spreading-health-misinformation-on-social-media" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/society/2025/dec/05/ai-deepfakes-of-real-doctors-spreading-health-misinformation-on-social-media</a>  
+   Link:<a href="https://www.theguardian.com/society/2025/dec/05/ai-deepfakes-of-real-doctors-spreading-health-misinformation-on-social-media" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/society/2025/dec/05/ai-deepfakes-of-real-doctors-spreading-health-misinformation-on-social-media</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: mountsinai.org  
    Title: Mount Sinai Health System AI Chatbots Can Run With Medical Misinformation, Study  
-   Link: <a href="https://www.mountsinai.org/about/newsroom/2025/ai-chatbots-can-run-with-medical-misinformation-study-finds-highlighting-the-need-for-stronger-safeguards" target="_blank" rel="noopener noreferrer nofollow">https://www.mountsinai.org/about/newsroom/2025/ai-chatbots-can-run-with-medical-misinformation-study-finds-highlighting-the-need-for-stronger-safeguards</a>  
+   Link:<a href="https://www.mountsinai.org/about/newsroom/2025/ai-chatbots-can-run-with-medical-misinformation-study-finds-highlighting-the-need-for-stronger-safeguards" target="_blank" rel="noopener noreferrer nofollow">https://www.mountsinai.org/about/newsroom/2025/ai-chatbots-can-run-with-medical-misinformation-study-finds-highlighting-the-need-for-stronger-safeguards</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: mayoclinic.org  
    Title: art 20587692  
-   Link: <a href="https://www.mayoclinic.org/healthy-lifestyle/consumer-health/in-depth/spot-fake-health-articles-misinformation/art-20587692" target="_blank" rel="noopener noreferrer nofollow">https://www.mayoclinic.org/healthy-lifestyle/consumer-health/in-depth/spot-fake-health-articles-misinformation/art-20587692</a>  
+   Link:<a href="https://www.mayoclinic.org/healthy-lifestyle/consumer-health/in-depth/spot-fake-health-articles-misinformation/art-20587692" target="_blank" rel="noopener noreferrer nofollow">https://www.mayoclinic.org/healthy-lifestyle/consumer-health/in-depth/spot-fake-health-articles-misinformation/art-20587692</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: edhub.ama-assn.org  
    Title: what every doctor should know about medical misinformation  
-   Link: <a href="https://edhub.ama-assn.org/pages/what-every-doctor-should-know-about-medical-misinformation" target="_blank" rel="noopener noreferrer nofollow">https://edhub.ama-assn.org/pages/what-every-doctor-should-know-about-medical-misinformation</a>  
+   Link:<a href="https://edhub.ama-assn.org/pages/what-every-doctor-should-know-about-medical-misinformation" target="_blank" rel="noopener noreferrer nofollow">https://edhub.ama-assn.org/pages/what-every-doctor-should-know-about-medical-misinformation</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: ama-assn.org  
    Title: covid 19 vaccine hesitancy 10 tips talking patients  
-   Link: <a href="https://www.ama-assn.org/public-health/prevention-wellness/covid-19-vaccine-hesitancy-10-tips-talking-patients" target="_blank" rel="noopener noreferrer nofollow">https://www.ama-assn.org/public-health/prevention-wellness/covid-19-vaccine-hesitancy-10-tips-talking-patients</a>  
+   Link:<a href="https://www.ama-assn.org/public-health/prevention-wellness/covid-19-vaccine-hesitancy-10-tips-talking-patients" target="_blank" rel="noopener noreferrer nofollow">https://www.ama-assn.org/public-health/prevention-wellness/covid-19-vaccine-hesitancy-10-tips-talking-patients</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: Wikipedia  
    Title: Andrew Wakefield  
-   Link: <a href="https://en.wikipedia.org/wiki/Andrew_Wakefield" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Andrew_Wakefield</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Andrew_Wakefield" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Andrew_Wakefield</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: theguardian.com  
    Title: andrew wakefield sues bmj mmr  
-   Link: <a href="https://www.theguardian.com/society/2012/jan/05/andrew-wakefield-sues-bmj-mmr" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/society/2012/jan/05/andrew-wakefield-sues-bmj-mmr</a>  
+   Link:<a href="https://www.theguardian.com/society/2012/jan/05/andrew-wakefield-sues-bmj-mmr" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/society/2012/jan/05/andrew-wakefield-sues-bmj-mmr</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: guides.library.ubc.ca  
-   Link: <a href="https://guides.library.ubc.ca/healthmisinformation/communication" target="_blank" rel="noopener noreferrer nofollow">https://guides.library.ubc.ca/healthmisinformation/communication</a>  
+   Link:<a href="https://guides.library.ubc.ca/healthmisinformation/communication" target="_blank" rel="noopener noreferrer nofollow">https://guides.library.ubc.ca/healthmisinformation/communication</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: dadun.unav.edu  
-   Link: <a href="https://dadun.unav.edu/server/api/core/bitstreams/b2562cd7-cf30-4095-910e-3b3f86bb1bcd/content" target="_blank" rel="noopener noreferrer nofollow">https://dadun.unav.edu/server/api/core/bitstreams/b2562cd7-cf30-4095-910e-3b3f86bb1bcd/content</a>  
+   Link:<a href="https://dadun.unav.edu/server/api/core/bitstreams/b2562cd7-cf30-4095-910e-3b3f86bb1bcd/content" target="_blank" rel="noopener noreferrer nofollow">https://dadun.unav.edu/server/api/core/bitstreams/b2562cd7-cf30-4095-910e-3b3f86bb1bcd/content</a>  
 
 ### Additional References
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: youtube.com  
    Title: How to tell if doctors and health influencers on social media are AI-generated  
-   Link: <a href="https://www.youtube.com/watch?v=W8beAqbStHY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=W8beAqbStHY</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Quackery, Celebrity Doctors and TikTok Energy - Medical Misinformation Isn&#x27;t New...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=W8beAqbStHY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=W8beAqbStHY</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Quackery, Celebrity Doctors and TikTok Energy - Medical Misinformation Isn&#x27;t New...</p></details>
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: youtube.com  
    Title: Quackery, Celebrity Doctors and Tik Tok Energy  
-   Link: <a href="https://www.youtube.com/watch?v=UtkDlbLeetI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=UtkDlbLeetI</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Who is Creating Medical Misinformation? | Truth Talks | Big [If True]...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=UtkDlbLeetI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=UtkDlbLeetI</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Who is Creating Medical Misinformation? | Truth Talks | Big [If True]...</p></details>
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: youtube.com  
    Title: Who is Creating Medical Misinformation? | Truth Talks | Big [If True]  
-   Link: <a href="https://www.youtube.com/watch?v=twjVQmXD76I" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=twjVQmXD76I</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Doctor Mike: The Health Lies That Are Keeping You Sick (and What to Do Instead)...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=twjVQmXD76I" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=twjVQmXD76I</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Doctor Mike: The Health Lies That Are Keeping You Sick (and What to Do Instead)...</p></details>
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: youtube.com  
    Title: Doctor Mike: The Health Lies That Are Keeping You Sick (and What to Do Instead)  
-   Link: <a href="https://www.youtube.com/watch?v=hNWa7zJIsko" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=hNWa7zJIsko</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Debunked Medical Myths - Between Two White Coats...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=hNWa7zJIsko" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=hNWa7zJIsko</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Debunked Medical Myths - Between Two White Coats...</p></details>
 
-43. <a id="endnote-43"></a>
+43.<a id="endnote-43"></a>
    Source: ama-assn.org  
-   Link: <a href="https://www.ama-assn.org/about/publications-newsletters/dr-mike-using-social-media-combat-medical-misinformation" target="_blank" rel="noopener noreferrer nofollow">https://www.ama-assn.org/about/publications-newsletters/dr-mike-using-social-media-combat-medical-misinformation</a>  
+   Link:<a href="https://www.ama-assn.org/about/publications-newsletters/dr-mike-using-social-media-combat-medical-misinformation" target="_blank" rel="noopener noreferrer nofollow">https://www.ama-assn.org/about/publications-newsletters/dr-mike-using-social-media-combat-medical-misinformation</a>  
 
-44. <a id="endnote-44"></a>
+44.<a id="endnote-44"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/SuffolkCountyHealth/posts/false-health-claims-abound-but-physicians-are-still-the-most-trusted-source-for-/854379136722742/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/SuffolkCountyHealth/posts/false-health-claims-abound-but-physicians-are-still-the-most-trusted-source-for-/854379136722742/</a>  
+   Link:<a href="https://www.facebook.com/SuffolkCountyHealth/posts/false-health-claims-abound-but-physicians-are-still-the-most-trusted-source-for-/854379136722742/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/SuffolkCountyHealth/posts/false-health-claims-abound-but-physicians-are-still-the-most-trusted-source-for-/854379136722742/</a>  
 
-45. <a id="endnote-45"></a>
+45.<a id="endnote-45"></a>
    Source: springermedizin.de  
-   Link: <a href="https://www.springermedizin.de/highlighting-consensus-among-medical-scientists-increases-public/9750922" target="_blank" rel="noopener noreferrer nofollow">https://www.springermedizin.de/highlighting-consensus-among-medical-scientists-increases-public/9750922</a>  
+   Link:<a href="https://www.springermedizin.de/highlighting-consensus-among-medical-scientists-increases-public/9750922" target="_blank" rel="noopener noreferrer nofollow">https://www.springermedizin.de/highlighting-consensus-among-medical-scientists-increases-public/9750922</a>  
 
-46. <a id="endnote-46"></a>
+46.<a id="endnote-46"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/medscape/posts/how-do-you-build-trust-when-patients-believe-misinformation-experts-say-it-start/1883758655595554/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/medscape/posts/how-do-you-build-trust-when-patients-believe-misinformation-experts-say-it-start/1883758655595554/</a>  
+   Link:<a href="https://www.facebook.com/medscape/posts/how-do-you-build-trust-when-patients-believe-misinformation-experts-say-it-start/1883758655595554/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/medscape/posts/how-do-you-build-trust-when-patients-believe-misinformation-experts-say-it-start/1883758655595554/</a>  
 
-47. <a id="endnote-47"></a>
+47.<a id="endnote-47"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/p/DEnhPAWsRIM/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DEnhPAWsRIM/</a>  
+   Link:<a href="https://www.instagram.com/p/DEnhPAWsRIM/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DEnhPAWsRIM/</a>  
 
-48. <a id="endnote-48"></a>
+48.<a id="endnote-48"></a>
    Source: rcp.ac.uk  
-   Link: <a href="https://www.rcp.ac.uk/news-and-media/news-and-opinion/michelle-gavin-misinformation-in-healthcare/" target="_blank" rel="noopener noreferrer nofollow">https://www.rcp.ac.uk/news-and-media/news-and-opinion/michelle-gavin-misinformation-in-healthcare/</a>
+   Link:<a href="https://www.rcp.ac.uk/news-and-media/news-and-opinion/michelle-gavin-misinformation-in-healthcare/" target="_blank" rel="noopener noreferrer nofollow">https://www.rcp.ac.uk/news-and-media/news-and-opinion/michelle-gavin-misinformation-in-healthcare/</a>

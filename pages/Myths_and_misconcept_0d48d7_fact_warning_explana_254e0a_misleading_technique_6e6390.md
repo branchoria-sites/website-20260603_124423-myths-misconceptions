@@ -271,7 +271,7 @@ image: /assets/images/Myths_and_misconcept_0d48d7_fact_warning_explana_254e0a_mi
 A strong debunk does more than replace a false claim with a correct fact. It also shows the reader why the claim looked convincing in the first place. Many myths survive because they use a recognisable persuasive trick: a chart that hides part of the data, a genuine photo paired with the wrong caption, a quote stripped of context, or a single expert presented as if they outweigh an entire field. When a [correction]({{ 'correction/' | relative_url }}) exposes that mechanism, readers gain something more durable than a fact-check. They learn how the deception worked.
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_fact_warning_explana_254e0a_misleading_technique_6e6390-Illustration-1-dark.svg" | relative_url }}" alt="The trick illustration 1" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_fact_warning_explana_254e0a_misleading_technique_6e6390-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_fact_warning_explana_254e0a_misleading_technique_6e6390-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-Research on misinformation correction increasingly emphasises that explaining misleading techniques can make people more resistant to similar claims in the future. Rather than treating every rumour as a unique problem, effective debunks reveal recurring patterns such as cherry-picking, false context, conspiracy framing, and fake expertise. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.climatechangecommunication.org/wp-content/uploads/2023/09/DebunkingHandbook2020.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: climatechangecommunication.org">[Center for Climate Change Communication]</a><span class="citation-popover" role="note"><span class="citation-popover-source">climatechangecommunication.org</span><span class="citation-popover-snippet">Fake news: False information, often of a sensational nature, that mimics news media...Read more...</span></span></span>
+Research on misinformation correction increasingly emphasises that explaining misleading techniques can make people more resistant to similar claims in the future. Rather than treating every rumour as a unique problem, effective debunks reveal recurring patterns such as cherry-picking, false context, conspiracy framing, and fake expertise.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.climatechangecommunication.org/wp-content/uploads/2023/09/DebunkingHandbook2020.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: climatechangecommunication.org">[Center for Climate Change Communication]</a><span class="citation-popover" role="note"><span class="citation-popover-source">climatechangecommunication.org</span><span class="citation-popover-snippet">Fake news: False information, often of a sensational nature, that mimics news media...Read more...</span></span></span>
 ## SDM Lab
 
 Within the fact-warning-explanation correction structure, this is the stage where the debunk answers a crucial question: “What made this myth seem believable?” The answer should be specific enough to reveal the trick, but simple enough that readers can remember it later.
@@ -288,7 +288,7 @@ A correction often fails when it assumes the audience was persuaded only because
 
 The second explanation gives readers a mechanism. It tells them what happened to the evidence.
 
-This matters because misinformation frequently relies on predictable rhetorical techniques rather than entirely invented facts. The [Debunking]({{ 'debunking/' | relative_url }}) Handbook and related misinformation research argue that exposing those techniques helps replace the false narrative with a more accurate mental model. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.climatechangecommunication.org/wp-content/uploads/2023/09/DebunkingHandbook2020.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: climatechangecommunication.org">[Center for Climate Change Communication]</a><span class="citation-popover" role="note"><span class="citation-popover-source">climatechangecommunication.org</span><span class="citation-popover-snippet">Fake news: False information, often of a sensational nature, that mimics news media...Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ltrr.arizona.edu/~katie/kt/natsgc/Debunking_Handbook.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ltrr.arizona.edu">[Laboratory of Tree-Ring Research]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ltrr.arizona.edu</span><span class="citation-popover-title">Laboratory of Tree-Ring Research The Debunking Handbookby S Lewandowsky — 20</span><span class="citation-popover-snippet">Debunking Handbookby S Lewandowsky — 20. The techniques include cherry picking, conspiracy theories and fake experts. Another alternative...</span></span></span>
+This matters because misinformation frequently relies on predictable rhetorical techniques rather than entirely invented facts. The [Debunking]({{ 'debunking/' | relative_url }}) Handbook and related misinformation research argue that exposing those techniques helps replace the false narrative with a more accurate mental model.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.climatechangecommunication.org/wp-content/uploads/2023/09/DebunkingHandbook2020.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: climatechangecommunication.org">[Center for Climate Change Communication]</a><span class="citation-popover" role="note"><span class="citation-popover-source">climatechangecommunication.org</span><span class="citation-popover-snippet">Fake news: False information, often of a sensational nature, that mimics news media...Read more...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ltrr.arizona.edu/~katie/kt/natsgc/Debunking_Handbook.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ltrr.arizona.edu">[Laboratory of Tree-Ring Research]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ltrr.arizona.edu</span><span class="citation-popover-title">Laboratory of Tree-Ring Research The Debunking Handbookby S Lewandowsky — 20</span><span class="citation-popover-snippet">Debunking Handbookby S Lewandowsky — 20. The techniques include cherry picking, conspiracy theories and fake experts. Another alternative...</span></span></span>
 
 A useful explanation usually answers three questions:
 
@@ -315,7 +315,7 @@ A strong debunk does not merely provide the full dataset. It explains the select
 The graph begins in an unusually warm year, making later temperatures appear flat. When the complete record is shown, the long-term warming trend remains visible.
 
 Research on science denial and misinformation repeatedly identifies selectivity or cherry-picking as one of the most common misleading tactics.
-## Cranky Uncle <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aft.org/ae/winter2021-2022/cook" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aft.org">[American Federation of Teachers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aft.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+## Cranky Uncle<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aft.org/ae/winter2021-2022/cook" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aft.org">[American Federation of Teachers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aft.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 ## False context
 
@@ -362,7 +362,7 @@ An organisation with an official-sounding name is presented as an independent re
 The misleading element is not necessarily the person's existence. It is the impression of authority.
 
 Debunks are stronger when they explain the gap between appearance and expertise rather than simply attacking the individual. Research on misinformation and science denial identifies fake experts as a recurring persuasive technique across many subjects.
-## Cranky Uncle <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aft.org/ae/winter2021-2022/cook" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aft.org">[American Federation of Teachers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aft.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+## Cranky Uncle<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aft.org/ae/winter2021-2022/cook" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aft.org">[American Federation of Teachers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aft.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 ## Misleading framing and captions
 
@@ -398,7 +398,7 @@ The statistic compares incompatible categories.
 
 The goal is not to turn every correction into a university seminar. It is to provide a memorable explanation that can compete with the simplicity of the myth itself.
 
-Research on debunking consistently shows the importance of supplying an alternative explanation rather than leaving a gap. Exposing the misleading technique works best when it becomes part of that replacement explanation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.climatechangecommunication.org/wp-content/uploads/2023/09/DebunkingHandbook2020.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: climatechangecommunication.org">[Center for Climate Change Communication]</a><span class="citation-popover" role="note"><span class="citation-popover-source">climatechangecommunication.org</span><span class="citation-popover-snippet">Fake news: False information, often of a sensational nature, that mimics news media...Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://skepticalscience.com/Debunking-Handbook-Part-5-Filling-gap-with-alternative-explanation.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalscience.com">[Skeptical Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalscience.com</span><span class="citation-popover-title">Debunking Handbook Part 5 Filling gap with alternative explanation</span><span class="citation-popover-snippet">misinformation. The Handbook will be available as a free... The techniques include cherry picking, conspiracy theories and fake experts...</span></span></span>
+Research on debunking consistently shows the importance of supplying an alternative explanation rather than leaving a gap. Exposing the misleading technique works best when it becomes part of that replacement explanation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.climatechangecommunication.org/wp-content/uploads/2023/09/DebunkingHandbook2020.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: climatechangecommunication.org">[Center for Climate Change Communication]</a><span class="citation-popover" role="note"><span class="citation-popover-source">climatechangecommunication.org</span><span class="citation-popover-snippet">Fake news: False information, often of a sensational nature, that mimics news media...Read more...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://skepticalscience.com/Debunking-Handbook-Part-5-Filling-gap-with-alternative-explanation.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalscience.com">[Skeptical Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalscience.com</span><span class="citation-popover-title">Debunking Handbook Part 5 Filling gap with alternative explanation</span><span class="citation-popover-snippet">misinformation. The Handbook will be available as a free... The techniques include cherry picking, conspiracy theories and fake experts...</span></span></span>
 
 A useful rule is proportionality:
 
@@ -458,7 +458,7 @@ The original location.
 
 The original subject.
 
-Research on visual misinformation increasingly highlights out-of-context imagery as one of the most common forms of deceptive content online. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2112.00061" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Open-Domain, Content-based, Multi-modal Fact-checking of Out-of-Context Images via Online ResourcesNovember 30, 2021...</span><span class="citation-popover-meta">Published: November 30, 2021</span></span></span>
+Research on visual misinformation increasingly highlights out-of-context imagery as one of the most common forms of deceptive content online.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2112.00061" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Open-Domain, Content-based, Multi-modal Fact-checking of Out-of-Context Images via Online ResourcesNovember 30, 2021...</span><span class="citation-popover-meta">Published: November 30, 2021</span></span></span>
 
 ## Cropping
 
@@ -490,7 +490,7 @@ What the speaker was discussing in the complete passage.
 
 The same principle applies to [headlines]({{ 'headlines/' | relative_url }}).
 
-Information-disorder research has identified "false connection" as a recurring problem in which headlines, captions, or visuals do not accurately represent the underlying content. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.rcmediafreedom.eu/Resources/Manuals/Understanding-Information-Disorder" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rcmediafreedom.eu">[Media Freedom Resource Centre OBCT]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rcmediafreedom.eu</span><span class="citation-popover-snippet">Media Freedom Resource Centre OBCTUnderstanding Information DisorderAn essential guide by Claire Draft, First Draft US director and co-fo...</span></span></span>
+Information-disorder research has identified "false connection" as a recurring problem in which headlines, captions, or visuals do not accurately represent the underlying content.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.rcmediafreedom.eu/Resources/Manuals/Understanding-Information-Disorder" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rcmediafreedom.eu">[Media Freedom Resource Centre OBCT]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rcmediafreedom.eu</span><span class="citation-popover-snippet">Media Freedom Resource Centre OBCTUnderstanding Information DisorderAn essential guide by Claire Draft, First Draft US director and co-fo...</span></span></span>
 
 Instead of merely stating that the headline is wrong, a stronger debunk identifies the disconnect:
 
@@ -507,197 +507,197 @@ This does not require turning every fact-check into a catalogue of logical falla
 A reader who learns that a viral image used false context can recognise the same tactic in another post. A reader who understands cherry-picking can look more carefully at future graphs. A reader who sees how a quote was truncated becomes more cautious about isolated excerpts.
 
 This is why the explanation stage of a debunk matters so much. Facts answer the question of what is true. Exposing the misleading technique answers the equally important question of why the falsehood seemed convincing at all. By showing the trick, the correction becomes easier to remember, easier to trust, and harder to mislead again.
-SDM Lab <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.science.org/doi/10.1126/sciadv.abo6254" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.org">[Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.org</span><span class="citation-popover-snippet">Psychological inoculation improves resilience against...by J Roozenbeek · 2022 · Cited by 632 — We show that psychological inoculation c...</span></span></span>
+SDM Lab<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.science.org/doi/10.1126/sciadv.abo6254" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.org">[Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.org</span><span class="citation-popover-snippet">Psychological inoculation improves resilience against...by J Roozenbeek · 2022 · Cited by 632 — We show that psychological inoculation c...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Show the trick that made the myth plausible. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Show the trick that made the myth plausible. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Calling Bullshit on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Plu9DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Calling Bullshit" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Calling Bullshit">Calling Bullshit</a>
-        </h4>
-        <p class="fr-book-author">By Carl T. Bergstrom, Jevin D. West</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Calling Bullshit on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Plu9DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Calling Bullshit" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Calling Bullshit">Calling Bullshit</a>
+</h4>
+<p class="fr-book-author">By Carl T. Bergstrom, Jevin D. West</p>
         
-        <p class="fr-book-desc">Teaches readers to identify manipulation techniques.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Teaches readers to identify manipulation techniques.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Bad+Science+by+Ben+Goldacre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Bad Science on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=wICuv0ePMYoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Bad Science" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Bad+Science+by+Ben+Goldacre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Bad Science">Bad Science</a>
-        </h4>
-        <p class="fr-book-author">By Ben Goldacre</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Bad+Science+by+Ben+Goldacre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Bad Science on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=wICuv0ePMYoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Bad Science" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Bad+Science+by+Ben+Goldacre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Bad Science">Bad Science</a>
+</h4>
+<p class="fr-book-author">By Ben Goldacre</p>
         
-        <p class="fr-book-desc">Exposes common misleading methods in media and science.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Bad+Science+by+Ben+Goldacre&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Exposes common misleading methods in media and science.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Bad+Science+by+Ben+Goldacre&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Lie+with+Statistics+by+Darrell+Huff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Lie with Statistics on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=2oZGEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How to Lie with Statistics" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+to+Lie+with+Statistics+by+Darrell+Huff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Lie with Statistics">How to Lie with Statistics</a>
-        </h4>
-        <p class="fr-book-author">By Darrell Huff</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Lie+with+Statistics+by+Darrell+Huff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Lie with Statistics on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=2oZGEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How to Lie with Statistics" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=How+to+Lie+with+Statistics+by+Darrell+Huff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Lie with Statistics">How to Lie with Statistics</a>
+</h4>
+<p class="fr-book-author">By Darrell Huff</p>
         
-        <p class="fr-book-desc">Directly explains deceptive charts and numerical tricks.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+to+Lie+with+Statistics+by+Darrell+Huff&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly explains deceptive charts and numerical tricks.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=How+to+Lie+with+Statistics+by+Darrell+Huff&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Weapons+of+Math+Destruction+by+Cathy+O%27Neil&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Weapons of Math Destruction on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=NgEwCwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Weapons of Math Destruction" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Weapons+of+Math+Destruction+by+Cathy+O%27Neil&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Weapons of Math Destruction">Weapons of Math Destruction</a>
-        </h4>
-        <p class="fr-book-author">By Cathy O&#x27;Neil</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Weapons+of+Math+Destruction+by+Cathy+O%27Neil&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Weapons of Math Destruction on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=NgEwCwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Weapons of Math Destruction" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Weapons+of+Math+Destruction+by+Cathy+O%27Neil&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Weapons of Math Destruction">Weapons of Math Destruction</a>
+</h4>
+<p class="fr-book-author">By Cathy O&#x27;Neil</p>
         
-        <p class="fr-book-desc">Illustrates hidden mechanisms behind misleading systems.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Weapons+of+Math+Destruction+by+Cathy+O%27Neil&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Illustrates hidden mechanisms behind misleading systems.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Weapons+of+Math+Destruction+by+Cathy+O%27Neil&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Calling+Bullshit&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Calling Bullshit</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Bad+Science&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Bad Science</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Lie+with+Statistics&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Lie with Statistics</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Calling+Bullshit&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Calling Bullshit</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Bad+Science&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Bad Science</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Lie+with+Statistics&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Lie with Statistics</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=tech+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-trick-show-the-trick-that-made-the-myth-plausible-myths-and-misconcept-tech-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="tech wall art" data-ebay-reference="the-trick-show-the-trick-that-made-the-myth-plausible-myths-and-misconcept-tech-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Tech Support definition Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/c752ebf8998b832b09e5.jpg' | relative_url }}" alt="Listing image for Tech Support definition Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=tech+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-trick-show-the-trick-that-made-the-myth-plausible-myths-and-misconcept-tech-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="tech wall art" data-ebay-reference="the-trick-show-the-trick-that-made-the-myth-plausible-myths-and-misconcept-tech-wall-art" target="_blank" rel="sponsored noopener noreferrer">Tech Support definition Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=tech+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-trick-show-the-trick-that-made-the-myth-plausible-myths-and-misconcept-tech-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="tech wall art" data-ebay-reference="the-trick-show-the-trick-that-made-the-myth-plausible-myths-and-misconcept-tech-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for tech wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: tech wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=tech+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-trick-show-the-trick-that-made-the-myth-plausible-myths-and-misconcept-tech-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="tech wall art" data-ebay-reference="the-trick-show-the-trick-that-made-the-myth-plausible-myths-and-misconcept-tech-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=tech+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-trick-show-the-trick-that-made-the-myth-plausible-myths-and-misconcept-tech-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="tech wall art" data-ebay-reference="the-trick-show-the-trick-that-made-the-myth-plausible-myths-and-misconcept-tech-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Tech Support definition Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/c752ebf8998b832b09e5.jpg' | relative_url }}" alt="Listing image for Tech Support definition Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=tech+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-trick-show-the-trick-that-made-the-myth-plausible-myths-and-misconcept-tech-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="tech wall art" data-ebay-reference="the-trick-show-the-trick-that-made-the-myth-plausible-myths-and-misconcept-tech-wall-art" target="_blank" rel="sponsored noopener noreferrer">Tech Support definition Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=tech+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-trick-show-the-trick-that-made-the-myth-plausible-myths-and-misconcept-tech-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="tech wall art" data-ebay-reference="the-trick-show-the-trick-that-made-the-myth-plausible-myths-and-misconcept-tech-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for tech wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: tech wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=tech+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-trick-show-the-trick-that-made-the-myth-plausible-myths-and-misconcept-tech-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="tech wall art" data-ebay-reference="the-trick-show-the-trick-that-made-the-myth-plausible-myths-and-misconcept-tech-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=tech+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-trick-show-the-trick-that-made-the-myth-plausible-myths-and-misconcept-tech-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="tech wall art" data-ebay-reference="the-trick-show-the-trick-that-made-the-myth-plausible-myths-and-misconcept-tech-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Tech Graphic T Framed Art Print Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/af26f74ddb828f8bf47e.jpg' | relative_url }}" alt="Listing image for Tech Graphic T Framed Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=tech+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-trick-show-the-trick-that-made-the-myth-plausible-myths-and-misconcept-tech-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="tech wall art" data-ebay-reference="the-trick-show-the-trick-that-made-the-myth-plausible-myths-and-misconcept-tech-wall-art" target="_blank" rel="sponsored noopener noreferrer">Tech Graphic T Framed Art Print Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=tech+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-trick-show-the-trick-that-made-the-myth-plausible-myths-and-misconcept-tech-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="tech wall art" data-ebay-reference="the-trick-show-the-trick-that-made-the-myth-plausible-myths-and-misconcept-tech-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for tech wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: tech wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=tech+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-trick-show-the-trick-that-made-the-myth-plausible-myths-and-misconcept-tech-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="tech wall art" data-ebay-reference="the-trick-show-the-trick-that-made-the-myth-plausible-myths-and-misconcept-tech-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=tech+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-trick-show-the-trick-that-made-the-myth-plausible-myths-and-misconcept-tech-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="tech wall art" data-ebay-reference="the-trick-show-the-trick-that-made-the-myth-plausible-myths-and-misconcept-tech-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Tech Graphic T Framed Art Print Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/af26f74ddb828f8bf47e.jpg' | relative_url }}" alt="Listing image for Tech Graphic T Framed Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=tech+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-trick-show-the-trick-that-made-the-myth-plausible-myths-and-misconcept-tech-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="tech wall art" data-ebay-reference="the-trick-show-the-trick-that-made-the-myth-plausible-myths-and-misconcept-tech-wall-art" target="_blank" rel="sponsored noopener noreferrer">Tech Graphic T Framed Art Print Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=tech+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-trick-show-the-trick-that-made-the-myth-plausible-myths-and-misconcept-tech-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="tech wall art" data-ebay-reference="the-trick-show-the-trick-that-made-the-myth-plausible-myths-and-misconcept-tech-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for tech wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: tech wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=tech+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-trick-show-the-trick-that-made-the-myth-plausible-myths-and-misconcept-tech-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="tech wall art" data-ebay-reference="the-trick-show-the-trick-that-made-the-myth-plausible-myths-and-misconcept-tech-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=tech+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-trick-show-the-trick-that-made-the-myth-plausible-myths-and-misconcept-tech-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="tech wall art" data-ebay-reference="the-trick-show-the-trick-that-made-the-myth-plausible-myths-and-misconcept-tech-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Cool Gadget Boy Tech Framed Art Pri Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/42736e933384445b101f.jpg' | relative_url }}" alt="Listing image for Cool Gadget Boy Tech Framed Art Pri Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=tech+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-trick-show-the-trick-that-made-the-myth-plausible-myths-and-misconcept-tech-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="tech wall art" data-ebay-reference="the-trick-show-the-trick-that-made-the-myth-plausible-myths-and-misconcept-tech-wall-art" target="_blank" rel="sponsored noopener noreferrer">Cool Gadget Boy Tech Framed Art Pri Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=tech+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-trick-show-the-trick-that-made-the-myth-plausible-myths-and-misconcept-tech-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="tech wall art" data-ebay-reference="the-trick-show-the-trick-that-made-the-myth-plausible-myths-and-misconcept-tech-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for tech wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: tech wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=tech+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-trick-show-the-trick-that-made-the-myth-plausible-myths-and-misconcept-tech-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="tech wall art" data-ebay-reference="the-trick-show-the-trick-that-made-the-myth-plausible-myths-and-misconcept-tech-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=tech+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-trick-show-the-trick-that-made-the-myth-plausible-myths-and-misconcept-tech-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="tech wall art" data-ebay-reference="the-trick-show-the-trick-that-made-the-myth-plausible-myths-and-misconcept-tech-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Cool Gadget Boy Tech Framed Art Pri Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/42736e933384445b101f.jpg' | relative_url }}" alt="Listing image for Cool Gadget Boy Tech Framed Art Pri Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=tech+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-trick-show-the-trick-that-made-the-myth-plausible-myths-and-misconcept-tech-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="tech wall art" data-ebay-reference="the-trick-show-the-trick-that-made-the-myth-plausible-myths-and-misconcept-tech-wall-art" target="_blank" rel="sponsored noopener noreferrer">Cool Gadget Boy Tech Framed Art Pri Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=tech+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-trick-show-the-trick-that-made-the-myth-plausible-myths-and-misconcept-tech-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="tech wall art" data-ebay-reference="the-trick-show-the-trick-that-made-the-myth-plausible-myths-and-misconcept-tech-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for tech wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: tech wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=tech+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-trick-show-the-trick-that-made-the-myth-plausible-myths-and-misconcept-tech-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="tech wall art" data-ebay-reference="the-trick-show-the-trick-that-made-the-myth-plausible-myths-and-misconcept-tech-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=tech+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-trick-show-the-trick-that-made-the-myth-plausible-myths-and-misconcept-tech-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="tech wall art" data-ebay-reference="the-trick-show-the-trick-that-made-the-myth-plausible-myths-and-misconcept-tech-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Tech Support I&#x27;m Here To Delete You Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/57d0b4b7fa73e9b6bd00.jpg' | relative_url }}" alt="Listing image for Tech Support I&#x27;m Here To Delete You Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=tech+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-trick-show-the-trick-that-made-the-myth-plausible-myths-and-misconcept-tech-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="tech wall art" data-ebay-reference="the-trick-show-the-trick-that-made-the-myth-plausible-myths-and-misconcept-tech-wall-art" target="_blank" rel="sponsored noopener noreferrer">Tech Support I&#x27;m Here To Delete You Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=tech+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-trick-show-the-trick-that-made-the-myth-plausible-myths-and-misconcept-tech-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="tech wall art" data-ebay-reference="the-trick-show-the-trick-that-made-the-myth-plausible-myths-and-misconcept-tech-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for tech wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: tech wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=tech+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-trick-show-the-trick-that-made-the-myth-plausible-myths-and-misconcept-tech-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="tech wall art" data-ebay-reference="the-trick-show-the-trick-that-made-the-myth-plausible-myths-and-misconcept-tech-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=tech+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-trick-show-the-trick-that-made-the-myth-plausible-myths-and-misconcept-tech-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="tech wall art" data-ebay-reference="the-trick-show-the-trick-that-made-the-myth-plausible-myths-and-misconcept-tech-wall-art" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=tech+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-trick-show-the-trick-that-made-the-myth-plausible-myths-and-misconcept-tech-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="tech wall art" data-ebay-reference="the-trick-show-the-trick-that-made-the-myth-plausible-myths-and-misconcept-tech-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Tech Support I&#x27;m Here To Delete You Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/57d0b4b7fa73e9b6bd00.jpg' | relative_url }}" alt="Listing image for Tech Support I&#x27;m Here To Delete You Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=tech+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-trick-show-the-trick-that-made-the-myth-plausible-myths-and-misconcept-tech-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="tech wall art" data-ebay-reference="the-trick-show-the-trick-that-made-the-myth-plausible-myths-and-misconcept-tech-wall-art" target="_blank" rel="sponsored noopener noreferrer">Tech Support I&#x27;m Here To Delete You Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=tech+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-trick-show-the-trick-that-made-the-myth-plausible-myths-and-misconcept-tech-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="tech wall art" data-ebay-reference="the-trick-show-the-trick-that-made-the-myth-plausible-myths-and-misconcept-tech-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for tech wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: tech wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=tech+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-trick-show-the-trick-that-made-the-myth-plausible-myths-and-misconcept-tech-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="tech wall art" data-ebay-reference="the-trick-show-the-trick-that-made-the-myth-plausible-myths-and-misconcept-tech-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=tech+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-trick-show-the-trick-that-made-the-myth-plausible-myths-and-misconcept-tech-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="tech wall art" data-ebay-reference="the-trick-show-the-trick-that-made-the-myth-plausible-myths-and-misconcept-tech-wall-art" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -713,7 +713,7 @@ SDM Lab <span class="citation-chip-wrap"><a class="citation-chip" href="https://
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -733,7 +733,7 @@ SDM Lab <span class="citation-chip-wrap"><a class="citation-chip" href="https://
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -765,7 +765,7 @@ SDM Lab <span class="citation-chip-wrap"><a class="citation-chip" href="https://
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -817,7 +817,7 @@ SDM Lab <span class="citation-chip-wrap"><a class="citation-chip" href="https://
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -862,7 +862,7 @@ SDM Lab <span class="citation-chip-wrap"><a class="citation-chip" href="https://
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -903,106 +903,106 @@ SDM Lab <span class="citation-chip-wrap"><a class="citation-chip" href="https://
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: rcmediafreedom.eu  
-   Link: <a href="https://www.rcmediafreedom.eu/Resources/Manuals/Understanding-Information-Disorder" target="_blank" rel="noopener noreferrer nofollow">https://www.rcmediafreedom.eu/Resources/Manuals/Understanding-Information-Disorder</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Media Freedom Resource Centre OBCTUnderstanding Information DisorderAn essential guide by Claire Draft, First Draft US director and co-fo...</p></details>
+   Link:<a href="https://www.rcmediafreedom.eu/Resources/Manuals/Understanding-Information-Disorder" target="_blank" rel="noopener noreferrer nofollow">https://www.rcmediafreedom.eu/Resources/Manuals/Understanding-Information-Disorder</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Media Freedom Resource Centre OBCTUnderstanding Information DisorderAn essential guide by Claire Draft, First Draft US director and co-fo...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2112.00061" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2112.00061</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Open-Domain, Content-based, Multi-modal Fact-checking of Out-of-Context Images via Online ResourcesNovember 30, 2021...</p></details>
+   Link:<a href="https://arxiv.org/abs/2112.00061" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2112.00061</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Open-Domain, Content-based, Multi-modal Fact-checking of Out-of-Context Images via Online ResourcesNovember 30, 2021...</p></details>
    Published: November 30, 2021  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2408.09939" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2408.09939</a>  
+   Link:<a href="https://arxiv.org/abs/2408.09939" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2408.09939</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: climatechangecommunication.org  
-   Link: <a href="https://www.climatechangecommunication.org/wp-content/uploads/2023/09/DebunkingHandbook2020.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.climatechangecommunication.org/wp-content/uploads/2023/09/DebunkingHandbook2020.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>[Fake news](&amp;#123;&amp;#123; &#x27;fake-news/&#x27; | relative_url &amp;#125;&amp;#125;): False information, often of a sensational nature, that mimics news media...Read more...</p></details>
+   Link:<a href="https://www.climatechangecommunication.org/wp-content/uploads/2023/09/DebunkingHandbook2020.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.climatechangecommunication.org/wp-content/uploads/2023/09/DebunkingHandbook2020.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>[Fake news](&amp;#123;&amp;#123; &#x27;fake-news/&#x27; | relative_url &amp;#125;&amp;#125;): False information, often of a sensational nature, that mimics news media...Read more...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: ltrr.arizona.edu  
    Title: Laboratory of Tree-Ring Research The Debunking Handbookby S Lewandowsky — 20  
-   Link: <a href="https://www.ltrr.arizona.edu/~katie/kt/natsgc/Debunking_Handbook.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ltrr.arizona.edu/~katie/kt/natsgc/Debunking_Handbook.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Debunking Handbookby S Lewandowsky — 20. The techniques include cherry picking, conspiracy theories and fake experts. Another alternative...</p></details>
+   Link:<a href="https://www.ltrr.arizona.edu/~katie/kt/natsgc/Debunking_Handbook.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ltrr.arizona.edu/~katie/kt/natsgc/Debunking_Handbook.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Debunking Handbookby S Lewandowsky — 20. The techniques include cherry picking, conspiracy theories and fake experts. Another alternative...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: skepticalscience.com  
    Title: Debunking Handbook Part 5 Filling gap with alternative explanation  
-   Link: <a href="https://skepticalscience.com/Debunking-Handbook-Part-5-Filling-gap-with-alternative-explanation.html" target="_blank" rel="noopener noreferrer nofollow">https://skepticalscience.com/Debunking-Handbook-Part-5-Filling-gap-with-alternative-explanation.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>misinformation. The Handbook will be available as a free... The techniques include cherry picking, conspiracy theories and fake experts...</p></details>
+   Link:<a href="https://skepticalscience.com/Debunking-Handbook-Part-5-Filling-gap-with-alternative-explanation.html" target="_blank" rel="noopener noreferrer nofollow">https://skepticalscience.com/Debunking-Handbook-Part-5-Filling-gap-with-alternative-explanation.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>misinformation. The Handbook will be available as a free... The techniques include cherry picking, conspiracy theories and fake experts...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: aft.org  
-   Link: <a href="https://www.aft.org/ae/winter2021-2022/cook" target="_blank" rel="noopener noreferrer nofollow">https://www.aft.org/ae/winter2021-2022/cook</a>  
+   Link:<a href="https://www.aft.org/ae/winter2021-2022/cook" target="_blank" rel="noopener noreferrer nofollow">https://www.aft.org/ae/winter2021-2022/cook</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: science.org  
-   Link: <a href="https://www.science.org/doi/10.1126/sciadv.abo6254" target="_blank" rel="noopener noreferrer nofollow">https://www.science.org/doi/10.1126/sciadv.abo6254</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Psychological inoculation improves resilience against...by J Roozenbeek · 2022 · Cited by 632 — We show that psychological inoculation c...</p></details>
+   Link:<a href="https://www.science.org/doi/10.1126/sciadv.abo6254" target="_blank" rel="noopener noreferrer nofollow">https://www.science.org/doi/10.1126/sciadv.abo6254</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Psychological inoculation improves resilience against...by J Roozenbeek · 2022 · Cited by 632 — We show that psychological inoculation c...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: nature.com  
-   Link: <a href="https://www.nature.com/articles/d41586-023-00899-0" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/d41586-023-00899-0</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>How to battle misinformation with Sander van der Linden14 Apr 2023 — Psychologist Sander van der Linden talks to Nature about the science...</p></details>
+   Link:<a href="https://www.nature.com/articles/d41586-023-00899-0" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/d41586-023-00899-0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How to battle misinformation with Sander van der Linden14 Apr 2023 — Psychologist Sander van der Linden talks to Nature about the science...</p></details>
 
 ### Additional References
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: inoculation.science  
-   Link: <a href="https://inoculation.science/the-debunking-handbook/" target="_blank" rel="noopener noreferrer nofollow">https://inoculation.science/the-debunking-handbook/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Debunking HandbookMisinformation is false information that is spread either by mistake or with [intent](&amp;#123;&amp;#123; &#x27;intent/&#x27; | relative_url &amp;#125;&amp;#125;) to mislead. When there is inten...</p></details>
+   Link:<a href="https://inoculation.science/the-debunking-handbook/" target="_blank" rel="noopener noreferrer nofollow">https://inoculation.science/the-debunking-handbook/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Debunking HandbookMisinformation is false information that is spread either by mistake or with [intent](&amp;#123;&amp;#123; &#x27;intent/&#x27; | relative_url &amp;#125;&amp;#125;) to mislead. When there is inten...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: reteclima.it  
-   Link: <a href="https://www.reteclima.it/wp-content/uploads/Cook_2019_climate_misinformation-1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.reteclima.it/wp-content/uploads/Cook_2019_climate_misinformation-1.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>In Chiluwa, I. &amp; Samoilenko, S. (Eds.). Handbook of Research on Deception, Fake News, and...Read more...</p></details>
+   Link:<a href="https://www.reteclima.it/wp-content/uploads/Cook_2019_climate_misinformation-1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.reteclima.it/wp-content/uploads/Cook_2019_climate_misinformation-1.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>In Chiluwa, I. &amp; Samoilenko, S. (Eds.). Handbook of Research on Deception, Fake News, and...Read more...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: geoethics.org  
    Title: resources to give facts a fighting chance against misinformation  
-   Link: <a href="https://www.geoethics.org/post/resources-to-give-facts-a-fighting-chance-against-misinformation" target="_blank" rel="noopener noreferrer nofollow">https://www.geoethics.org/post/resources-to-give-facts-a-fighting-chance-against-misinformation</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>expert advice about debunking misinformation. It contains... The five general tactics were conspiracy, selectivity (cherry-picking), fak...</p></details>
+   Link:<a href="https://www.geoethics.org/post/resources-to-give-facts-a-fighting-chance-against-misinformation" target="_blank" rel="noopener noreferrer nofollow">https://www.geoethics.org/post/resources-to-give-facts-a-fighting-chance-against-misinformation</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>expert advice about debunking misinformation. It contains... The five general tactics were conspiracy, selectivity (cherry-picking), fak...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: thegreatsimplification.com  
-   Link: <a href="https://www.thegreatsimplification.com/episode/212-john-cook" target="_blank" rel="noopener noreferrer nofollow">https://www.thegreatsimplification.com/episode/212-john-cook</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Fake Experts · Logical Fallacies · Impossible Expectations · Cherry-Picking · Conspiracy Theories...</p></details>
+   Link:<a href="https://www.thegreatsimplification.com/episode/212-john-cook" target="_blank" rel="noopener noreferrer nofollow">https://www.thegreatsimplification.com/episode/212-john-cook</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Fake Experts · Logical Fallacies · Impossible Expectations · Cherry-Picking · Conspiracy Theories...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: research-information.bris.ac.uk  
    Title: University of Bristol Lewandowsky, S., & Van Der Linden, S  
-   Link: <a href="https://research-information.bris.ac.uk/files/263813879/FINAL_Revision_ERSP_inoc_paper_4SvdL.pdf" target="_blank" rel="noopener noreferrer nofollow">https://research-information.bris.ac.uk/files/263813879/FINAL_Revision_ERSP_inoc_paper_4SvdL.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(2021). Counteringby S Lewandowsky · 2021 · Cited by 1108 — We review a number of techniques that can boost people&#x27;s resilience to misinf...</p></details>
+   Link:<a href="https://research-information.bris.ac.uk/files/263813879/FINAL_Revision_ERSP_inoc_paper_4SvdL.pdf" target="_blank" rel="noopener noreferrer nofollow">https://research-information.bris.ac.uk/files/263813879/FINAL_Revision_ERSP_inoc_paper_4SvdL.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(2021). Counteringby S Lewandowsky · 2021 · Cited by 1108 — We review a number of techniques that can boost people&#x27;s resilience to misinf...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: education.umd.edu  
    Title: 10 14 20 debunking handbook 2020 countering misinformation  
-   Link: <a href="https://education.umd.edu/news/10-14-20-debunking-handbook-2020-countering-misinformation" target="_blank" rel="noopener noreferrer nofollow">https://education.umd.edu/news/10-14-20-debunking-handbook-2020-countering-misinformation</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Handbook 2020: Countering MisinformationOct 14, 2020 — The Debunking Handbook 2020 aims to do just that by summarizing the current state...</p></details>
+   Link:<a href="https://education.umd.edu/news/10-14-20-debunking-handbook-2020-countering-misinformation" target="_blank" rel="noopener noreferrer nofollow">https://education.umd.edu/news/10-14-20-debunking-handbook-2020-countering-misinformation</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Handbook 2020: Countering MisinformationOct 14, 2020 — The Debunking Handbook 2020 aims to do just that by summarizing the current state...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: crankyuncle.com  
    Title: a history of flicc the 5 techniques of science denial  
-   Link: <a href="https://crankyuncle.com/a-history-of-flicc-the-5-techniques-of-science-denial/" target="_blank" rel="noopener noreferrer nofollow">https://crankyuncle.com/a-history-of-flicc-the-5-techniques-of-science-denial/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Cranky UncleA history of FLICC: the 5 techniques of science denialMar 24, 2020 — The five general tactics were conspiracy, selectivity (c...</p></details>
+   Link:<a href="https://crankyuncle.com/a-history-of-flicc-the-5-techniques-of-science-denial/" target="_blank" rel="noopener noreferrer nofollow">https://crankyuncle.com/a-history-of-flicc-the-5-techniques-of-science-denial/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Cranky UncleA history of FLICC: the 5 techniques of science denialMar 24, 2020 — The five general tactics were conspiracy, selectivity (c...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: commonslibrary.org  
    Title: disinformation and 7 common forms of information disorder  
-   Link: <a href="https://commonslibrary.org/disinformation-and-7-common-forms-of-information-disorder/" target="_blank" rel="noopener noreferrer nofollow">https://commonslibrary.org/disinformation-and-7-common-forms-of-information-disorder/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>16 Jul 2024 — Disinformation is false or misleading piece of information spread with the intention to deceive or cause harm.Read more...</p></details>
+   Link:<a href="https://commonslibrary.org/disinformation-and-7-common-forms-of-information-disorder/" target="_blank" rel="noopener noreferrer nofollow">https://commonslibrary.org/disinformation-and-7-common-forms-of-information-disorder/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>16 Jul 2024 — Disinformation is false or misleading piece of information spread with the intention to deceive or cause harm.Read more...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/AmericanPsychologicalAssociation/posts/some-of-the-same-tricks-keep-showing-up-in-misinformation-no-matter-the-topic-dr/1230824229079246/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/AmericanPsychologicalAssociation/posts/some-of-the-same-tricks-keep-showing-up-in-misinformation-no-matter-the-topic-dr/1230824229079246/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>defined as information that&#x27;s either false or misleading, and...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/AmericanPsychologicalAssociation/posts/some-of-the-same-tricks-keep-showing-up-in-misinformation-no-matter-the-topic-dr/1230824229079246/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/AmericanPsychologicalAssociation/posts/some-of-the-same-tricks-keep-showing-up-in-misinformation-no-matter-the-topic-dr/1230824229079246/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>defined as information that&#x27;s either false or misleading, and...Read more...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: firstdraftnews.org  
    Title: First Draft Understanding Information disorder  
-   Link: <a href="https://firstdraftnews.org/long-form-article/understanding-information-disorder/" target="_blank" rel="noopener noreferrer nofollow">https://firstdraftnews.org/long-form-article/understanding-information-disorder/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>First DraftUnderstanding Information disorder - First Draft NewsThe challenge in this age of information disorder is that satire is used...</p></details>
+   Link:<a href="https://firstdraftnews.org/long-form-article/understanding-information-disorder/" target="_blank" rel="noopener noreferrer nofollow">https://firstdraftnews.org/long-form-article/understanding-information-disorder/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>First DraftUnderstanding Information disorder - First Draft NewsThe challenge in this age of information disorder is that satire is used...</p></details>

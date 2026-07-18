@@ -274,16 +274,16 @@ image: /assets/images/Myths_and_misconcept_0d48d7_uncertainty_and_myth_ca758b_un
 
 ## Introduction
 
-Public acceptance of myths and misinformation is often rooted in emotional discomfort with uncertainty and a craving for clear, oversimplified narratives. Addressing these emotional drivers requires not just correcting false statements but **communicating honestly about what is known and what remains uncertain**. Growing research in science and risk communication suggests that transparent uncertainty communication does not typically erode trust or fuel myths; in fact, when done well it can **reduce acceptance of simplistic myths by fostering epistemic resilience and credibility**. This page reviews key evidence and practical implications for communicators seeking to lower myth acceptance through honest uncertainty dialogue. <span class="citation-chip-wrap"><a class="citation-chip" href="https://royalsocietypublishing.org/rsos/article/6/5/181870/95102/Communicating-uncertainty-about-facts-numbers-and" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: royalsocietypublishing.org">[Royal Society Publishing]</a><span class="citation-popover" role="note"><span class="citation-popover-source">royalsocietypublishing.org</span><span class="citation-popover-snippet">Royal Society PublishingCommunicating uncertainty about facts, numbers and scienceby AM van der Bles · 2019 · Cited by 560 — Our aim is t...</span></span></span>
+Public acceptance of myths and misinformation is often rooted in emotional discomfort with uncertainty and a craving for clear, oversimplified narratives. Addressing these emotional drivers requires not just correcting false statements but **communicating honestly about what is known and what remains uncertain**. Growing research in science and risk communication suggests that transparent uncertainty communication does not typically erode trust or fuel myths; in fact, when done well it can **reduce acceptance of simplistic myths by fostering epistemic resilience and credibility**. This page reviews key evidence and practical implications for communicators seeking to lower myth acceptance through honest uncertainty dialogue.<span class="citation-chip-wrap"><a class="citation-chip" href="https://royalsocietypublishing.org/rsos/article/6/5/181870/95102/Communicating-uncertainty-about-facts-numbers-and" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: royalsocietypublishing.org">[Royal Society Publishing]</a><span class="citation-popover" role="note"><span class="citation-popover-source">royalsocietypublishing.org</span><span class="citation-popover-snippet">Royal Society PublishingCommunicating uncertainty about facts, numbers and scienceby AM van der Bles · 2019 · Cited by 560 — Our aim is t...</span></span></span>
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_uncertainty_and_myth_ca758b_uncertainty_communic_c5cd47-Illustration-1-dark.svg" | relative_url }}" alt="Communicating illustration 1" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_uncertainty_and_myth_ca758b_uncertainty_communic_c5cd47-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_uncertainty_and_myth_ca758b_uncertainty_communic_c5cd47-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Why Vague Reassurance Can Fail
 
-One of the persistent assumptions in public communication — especially around science, health, and risk — is that **uncertainty should be hidden** because audiences dislike ambiguity. Communicators have often simplified complex findings to maintain clarity or to avoid confusion. However, empirical work challenges that assumption. In systematic experiments, openly communicating uncertainty — for example, numerical ranges around estimates — only slightly affected trust and *did not substantially undermine it*, even on contested topics such as climate change or immigration statistics. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/42014938/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Communication of Scientific Uncertainty Affects Trust in Science-A Systematic Review - PubMedFULL TEXT LINKS Wiley Full text links ACTION...</span></span></span>
+One of the persistent assumptions in public communication — especially around science, health, and risk — is that **uncertainty should be hidden** because audiences dislike ambiguity. Communicators have often simplified complex findings to maintain clarity or to avoid confusion. However, empirical work challenges that assumption. In systematic experiments, openly communicating uncertainty — for example, numerical ranges around estimates — only slightly affected trust and *did not substantially undermine it*, even on contested topics such as climate change or immigration statistics.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/42014938/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Communication of Scientific Uncertainty Affects Trust in Science-A Systematic Review - PubMedFULL TEXT LINKS Wiley Full text links ACTION...</span></span></span>
 
-Over‑simplified assurances can paradoxically [backfire]({{ 'backfire/' | relative_url }}) when facts change: audiences later feel misled if previously unstated uncertainties emerge. Early transparency about limitations and unknowns can protect trust when evidence evolves. In health communication, studies suggest that uncertainty communication **can mitigate long‑term distrust that arises when prior overconfidence is revealed as unwarranted**. <span class="citation-chip-wrap"><a class="citation-chip" href="https://undark.org/2024/05/10/interview-uncertainty-science-communication/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: undark.org">[Undark Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">undark.org</span><span class="citation-popover-title">Magazine Interview: Uncertainty, Science, and Public Health</span><span class="citation-popover-snippet">Undark MagazineInterview: Uncertainty, Science, and Public Health...May 10, 2024 — 10 May 2024 — A new study suggests that scientists sh...</span><span class="citation-popover-meta">Published: May 10, 2024</span></span></span>
+Over‑simplified assurances can paradoxically [backfire]({{ 'backfire/' | relative_url }}) when facts change: audiences later feel misled if previously unstated uncertainties emerge. Early transparency about limitations and unknowns can protect trust when evidence evolves. In health communication, studies suggest that uncertainty communication **can mitigate long‑term distrust that arises when prior overconfidence is revealed as unwarranted**.<span class="citation-chip-wrap"><a class="citation-chip" href="https://undark.org/2024/05/10/interview-uncertainty-science-communication/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: undark.org">[Undark Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">undark.org</span><span class="citation-popover-title">Magazine Interview: Uncertainty, Science, and Public Health</span><span class="citation-popover-snippet">Undark MagazineInterview: Uncertainty, Science, and Public Health...May 10, 2024 — 10 May 2024 — A new study suggests that scientists sh...</span><span class="citation-popover-meta">Published: May 10, 2024</span></span></span>
 
-Moreover, not all forms of uncertainty communication produce the same effects. Research reviews find that communicating **technical uncertainty** (quantified ranges or probabilities) tends to have neutral or positive effects on perceived credibility, while conveying **consensus uncertainty** (highlighting expert disagreement) can reduce [confidence]({{ 'confidence/' | relative_url }}) in the message. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/42014938/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Communication of Scientific Uncertainty Affects Trust in Science-A Systematic Review - PubMedFULL TEXT LINKS Wiley Full text links ACTION...</span></span></span>
+Moreover, not all forms of uncertainty communication produce the same effects. Research reviews find that communicating **technical uncertainty** (quantified ranges or probabilities) tends to have neutral or positive effects on perceived credibility, while conveying **consensus uncertainty** (highlighting expert disagreement) can reduce [confidence]({{ 'confidence/' | relative_url }}) in the message.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/42014938/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Communication of Scientific Uncertainty Affects Trust in Science-A Systematic Review - PubMedFULL TEXT LINKS Wiley Full text links ACTION...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/JhfMkmzaNdU" title="Professor David Spiegelhalter: Communicating risk and uncertainty" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=JhfMkmzaNdU" target="_blank" rel="noopener noreferrer">Professor David Spiegelhalter: Communicating risk and uncertainty</a></p><p class="youtube-embed-meta">Channel: Cambridge University &middot; Views: 24.3K &middot; Uploaded: August 2011 &middot; Length: 1 hour 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=JhfMkmzaNdU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=JhfMkmzaNdU">Open on YouTube</a></p></div></div></div>
 
@@ -291,22 +291,22 @@ Moreover, not all forms of uncertainty communication produce the same effects. R
 
 Being explicit about what is not known — and why — helps audiences form more accurate [mental models]({{ 'mental-models/' | relative_url }}) of a topic. Psychological research on misinformation shows that false beliefs persist not merely because of lack of facts, but because people fill gaps with comforting, high‑[emotion]({{ 'emotion/' | relative_url }}) narratives when they perceive experts are uncertain or hiding uncertainty. Transparent uncertainty communication counters this by:
 
-* **Signalling honesty and trustworthiness:** Communicating ranges, caveats, and limitations can signal that the communicator is not overselling certainty and respects the audience’s agency. Many studies show this does not systematically erode trust and can enhance credibility over the long term. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/42014938/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Communication of Scientific Uncertainty Affects Trust in Science-A Systematic Review - PubMedFULL TEXT LINKS Wiley Full text links ACTION...</span></span></span>
-* **Generating realistic expectations:** Audiences understand that science and knowledge are iterative. When uncertainty is disclosed early, changes to advice or estimates seem less like flip‑flops and more like the natural evolution of evidence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://undark.org/2024/05/10/interview-uncertainty-science-communication/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: undark.org">[Undark Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">undark.org</span><span class="citation-popover-title">Magazine Interview: Uncertainty, Science, and Public Health</span><span class="citation-popover-snippet">Undark MagazineInterview: Uncertainty, Science, and Public Health...May 10, 2024 — 10 May 2024 — A new study suggests that scientists sh...</span><span class="citation-popover-meta">Published: May 10, 2024</span></span></span>
-* **Reducing affective closure pressure:** Knowing the bounds of knowledge can reduce emotional pressure to latch onto simplistic myths that *claim* certainty, because people feel less compelled to resolve ambiguity prematurely. While explicit tests on myth acceptance are still emerging, frameworks for reducing belief in misinformation — such as fostering accurate perceptions of evidence strength — align with this dynamic. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.psycharchives.org/en/item/46ac5c8b-da8e-4489-8417-8d2bacb84202" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: psycharchives.org">[psycharchives.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">psycharchives.org</span><span class="citation-popover-title">How does uncertainty communication affect people&#x27;s trust?</span><span class="citation-popover-snippet">March 11, 2025 — by C Dries · 2025 — In this talk, I will present several experimental studies that we have conducted to determine under...</span><span class="citation-popover-meta">Published: March 11, 2025</span></span></span>
+* **Signalling honesty and trustworthiness:** Communicating ranges, caveats, and limitations can signal that the communicator is not overselling certainty and respects the audience’s agency. Many studies show this does not systematically erode trust and can enhance credibility over the long term.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/42014938/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Communication of Scientific Uncertainty Affects Trust in Science-A Systematic Review - PubMedFULL TEXT LINKS Wiley Full text links ACTION...</span></span></span>
+* **Generating realistic expectations:** Audiences understand that science and knowledge are iterative. When uncertainty is disclosed early, changes to advice or estimates seem less like flip‑flops and more like the natural evolution of evidence.<span class="citation-chip-wrap"><a class="citation-chip" href="https://undark.org/2024/05/10/interview-uncertainty-science-communication/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: undark.org">[Undark Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">undark.org</span><span class="citation-popover-title">Magazine Interview: Uncertainty, Science, and Public Health</span><span class="citation-popover-snippet">Undark MagazineInterview: Uncertainty, Science, and Public Health...May 10, 2024 — 10 May 2024 — A new study suggests that scientists sh...</span><span class="citation-popover-meta">Published: May 10, 2024</span></span></span>
+* **Reducing affective closure pressure:** Knowing the bounds of knowledge can reduce emotional pressure to latch onto simplistic myths that *claim* certainty, because people feel less compelled to resolve ambiguity prematurely. While explicit tests on myth acceptance are still emerging, frameworks for reducing belief in misinformation — such as fostering accurate perceptions of evidence strength — align with this dynamic.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.psycharchives.org/en/item/46ac5c8b-da8e-4489-8417-8d2bacb84202" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: psycharchives.org">[psycharchives.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">psycharchives.org</span><span class="citation-popover-title">How does uncertainty communication affect people&#x27;s trust?</span><span class="citation-popover-snippet">March 11, 2025 — by C Dries · 2025 — In this talk, I will present several experimental studies that we have conducted to determine under...</span><span class="citation-popover-meta">Published: March 11, 2025</span></span></span>
 
-Importantly, uncertainty communication should be **context‑sensitive**. Transparent but inaccessible explanations may confuse rather than inform; effective messages clarify both what is uncertain and *why* that uncertainty matters (or doesn’t) for decisions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://undark.org/2024/05/10/interview-uncertainty-science-communication/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: undark.org">[Undark Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">undark.org</span><span class="citation-popover-title">Magazine Interview: Uncertainty, Science, and Public Health</span><span class="citation-popover-snippet">Undark MagazineInterview: Uncertainty, Science, and Public Health...May 10, 2024 — 10 May 2024 — A new study suggests that scientists sh...</span><span class="citation-popover-meta">Published: May 10, 2024</span></span></span>
+Importantly, uncertainty communication should be **context‑sensitive**. Transparent but inaccessible explanations may confuse rather than inform; effective messages clarify both what is uncertain and *why* that uncertainty matters (or doesn’t) for decisions.<span class="citation-chip-wrap"><a class="citation-chip" href="https://undark.org/2024/05/10/interview-uncertainty-science-communication/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: undark.org">[Undark Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">undark.org</span><span class="citation-popover-title">Magazine Interview: Uncertainty, Science, and Public Health</span><span class="citation-popover-snippet">Undark MagazineInterview: Uncertainty, Science, and Public Health...May 10, 2024 — 10 May 2024 — A new study suggests that scientists sh...</span><span class="citation-popover-meta">Published: May 10, 2024</span></span></span>
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_uncertainty_and_myth_ca758b_uncertainty_communic_c5cd47-Illustration-2-dark.svg" | relative_url }}" alt="Communicating illustration 2" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_uncertainty_and_myth_ca758b_uncertainty_communic_c5cd47-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_uncertainty_and_myth_ca758b_uncertainty_communic_c5cd47-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Actionable Guidance During Uncertainty
 
 For communicators aiming to reduce myth acceptance through honest uncertainty communication, evidence supports several practical approaches:
 
-* **Use quantified uncertainty when possible:** Numerical ranges or probabilities (e.g., confidence intervals) are generally perceived as more credible and less likely to erode trust than vague verbal qualifiers like “might” or “possibly”. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/42014938/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Communication of Scientific Uncertainty Affects Trust in Science-A Systematic Review - PubMedFULL TEXT LINKS Wiley Full text links ACTION...</span></span></span>
-* **Explicitly differentiate uncertainty types:** Clarify whether uncertainty arises from measurement error, incomplete data, or evolving theory, and whether experts agree on a general direction even if the precise magnitude is unknown. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/42014938/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Communication of Scientific Uncertainty Affects Trust in Science-A Systematic Review - PubMedFULL TEXT LINKS Wiley Full text links ACTION...</span></span></span>
-* **Frame uncertainty as part of rigorous inquiry:** Position uncertainty not as ignorance, but as an integral quality control in the knowledge‑generation process. This aligns public expectations with how evidence evolves and diminishes room for myths that exploit perceived gaps. <span class="citation-chip-wrap"><a class="citation-chip" href="https://royalsocietypublishing.org/rsos/article/6/5/181870/95102/Communicating-uncertainty-about-facts-numbers-and" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: royalsocietypublishing.org">[Royal Society Publishing]</a><span class="citation-popover" role="note"><span class="citation-popover-source">royalsocietypublishing.org</span><span class="citation-popover-snippet">Royal Society PublishingCommunicating uncertainty about facts, numbers and scienceby AM van der Bles · 2019 · Cited by 560 — Our aim is t...</span></span></span>
-* **Pair uncertainty transparency with clear actionable information:** When people understand what is unknown, offering guidance on what the evidence *does* support helps anchor decisions without needing oversimplified assurances. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nuffieldfoundation.org/project/communicating-uncertainty-in-data-without-undermining-trust" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuffieldfoundation.org">[Nuffield Foundation]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuffieldfoundation.org</span><span class="citation-popover-snippet">Nuffield FoundationCommunicating uncertainty in data without undermining trustThis project aims to identify a range of methods to communi...</span></span></span>
-* **Tailor messages to audience beliefs:** Some research indicates that people’s prior beliefs affect how they interpret communicated uncertainty; messages may be more effective when they acknowledge and engage with these beliefs rather than ignoring them. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11925018/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCThe effect of uncertainty communication on public trust</span><span class="citation-popover-snippet">by C Dries · 2025 · Cited by 10 — Our results show that people&#x27;s trust response to the communication of uncertainty depends on how con...</span></span></span>
+* **Use quantified uncertainty when possible:** Numerical ranges or probabilities (e.g., confidence intervals) are generally perceived as more credible and less likely to erode trust than vague verbal qualifiers like “might” or “possibly”.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/42014938/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Communication of Scientific Uncertainty Affects Trust in Science-A Systematic Review - PubMedFULL TEXT LINKS Wiley Full text links ACTION...</span></span></span>
+* **Explicitly differentiate uncertainty types:** Clarify whether uncertainty arises from measurement error, incomplete data, or evolving theory, and whether experts agree on a general direction even if the precise magnitude is unknown.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/42014938/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Communication of Scientific Uncertainty Affects Trust in Science-A Systematic Review - PubMedFULL TEXT LINKS Wiley Full text links ACTION...</span></span></span>
+* **Frame uncertainty as part of rigorous inquiry:** Position uncertainty not as ignorance, but as an integral quality control in the knowledge‑generation process. This aligns public expectations with how evidence evolves and diminishes room for myths that exploit perceived gaps.<span class="citation-chip-wrap"><a class="citation-chip" href="https://royalsocietypublishing.org/rsos/article/6/5/181870/95102/Communicating-uncertainty-about-facts-numbers-and" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: royalsocietypublishing.org">[Royal Society Publishing]</a><span class="citation-popover" role="note"><span class="citation-popover-source">royalsocietypublishing.org</span><span class="citation-popover-snippet">Royal Society PublishingCommunicating uncertainty about facts, numbers and scienceby AM van der Bles · 2019 · Cited by 560 — Our aim is t...</span></span></span>
+* **Pair uncertainty transparency with clear actionable information:** When people understand what is unknown, offering guidance on what the evidence *does* support helps anchor decisions without needing oversimplified assurances.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nuffieldfoundation.org/project/communicating-uncertainty-in-data-without-undermining-trust" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuffieldfoundation.org">[Nuffield Foundation]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuffieldfoundation.org</span><span class="citation-popover-snippet">Nuffield FoundationCommunicating uncertainty in data without undermining trustThis project aims to identify a range of methods to communi...</span></span></span>
+* **Tailor messages to audience beliefs:** Some research indicates that people’s prior beliefs affect how they interpret communicated uncertainty; messages may be more effective when they acknowledge and engage with these beliefs rather than ignoring them.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11925018/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCThe effect of uncertainty communication on public trust</span><span class="citation-popover-snippet">by C Dries · 2025 · Cited by 10 — Our results show that people&#x27;s trust response to the communication of uncertainty depends on how con...</span></span></span>
 
 These strategies aim to build **epistemic trustworthiness** — the kind of trust rooted in consistent and honest communication — rather than short‑term credibility contingent on avoiding difficult questions.
 
@@ -316,199 +316,199 @@ These strategies aim to build **epistemic trustworthiness** — the kind of trus
 
 ## Summary
 
-Honest uncertainty communication — when carefully crafted — can help reduce the emotional drivers that make myths appealing. Rather than undermining trust, openness about evidence limits often sustains long‑term credibility and helps audiences build nuanced, resilient understanding. Clear explanations of *what is known and what is not* reduce the need for simple but misleading narratives by giving people a realistic framework to interpret new information and guard against emotionally charged myths. <span class="citation-chip-wrap"><a class="citation-chip" href="https://royalsocietypublishing.org/rsos/article/6/5/181870/95102/Communicating-uncertainty-about-facts-numbers-and" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: royalsocietypublishing.org">[Royal Society Publishing]</a><span class="citation-popover" role="note"><span class="citation-popover-source">royalsocietypublishing.org</span><span class="citation-popover-snippet">Royal Society PublishingCommunicating uncertainty about facts, numbers and scienceby AM van der Bles · 2019 · Cited by 560 — Our aim is t...</span></span></span>
+Honest uncertainty communication — when carefully crafted — can help reduce the emotional drivers that make myths appealing. Rather than undermining trust, openness about evidence limits often sustains long‑term credibility and helps audiences build nuanced, resilient understanding. Clear explanations of *what is known and what is not* reduce the need for simple but misleading narratives by giving people a realistic framework to interpret new information and guard against emotionally charged myths.<span class="citation-chip-wrap"><a class="citation-chip" href="https://royalsocietypublishing.org/rsos/article/6/5/181870/95102/Communicating-uncertainty-about-facts-numbers-and" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: royalsocietypublishing.org">[Royal Society Publishing]</a><span class="citation-popover" role="note"><span class="citation-popover-source">royalsocietypublishing.org</span><span class="citation-popover-snippet">Royal Society PublishingCommunicating uncertainty about facts, numbers and scienceby AM van der Bles · 2019 · Cited by 560 — Our aim is t...</span></span></span>
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_uncertainty_and_myth_ca758b_uncertainty_communic_c5cd47-Illustration-3-dark.svg" | relative_url }}" alt="Communicating illustration 3" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_uncertainty_and_myth_ca758b_uncertainty_communic_c5cd47-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_uncertainty_and_myth_ca758b_uncertainty_communic_c5cd47-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Can Honest Uncertainty Build More Public Trust?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Can Honest Uncertainty Build More Public Trust?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Talk+to+a+Science+Denier+by+Lee+McIntyre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Talk to a Science Denier on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=txhgEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How to Talk to a Science Denier" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+to+Talk+to+a+Science+Denier+by+Lee+McIntyre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Talk to a Science Denier">How to Talk to a Science Denier</a>
-        </h4>
-        <p class="fr-book-author">By Lee McIntyre</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Talk+to+a+Science+Denier+by+Lee+McIntyre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Talk to a Science Denier on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=txhgEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How to Talk to a Science Denier" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=How+to+Talk+to+a+Science+Denier+by+Lee+McIntyre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Talk to a Science Denier">How to Talk to a Science Denier</a>
+</h4>
+<p class="fr-book-author">By Lee McIntyre</p>
         
-        <p class="fr-book-desc">Directly addresses trust, uncertainty, and communicating evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+to+Talk+to+a+Science+Denier+by+Lee+McIntyre&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly addresses trust, uncertainty, and communicating evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=How+to+Talk+to+a+Science+Denier+by+Lee+McIntyre&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Factfulness on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=rxg0tgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Factfulness" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Factfulness">Factfulness</a>
-        </h4>
-        <p class="fr-book-author">By Hans Rosling, Ola Rosling et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Factfulness on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=rxg0tgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Factfulness" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Factfulness">Factfulness</a>
+</h4>
+<p class="fr-book-author">By Hans Rosling, Ola Rosling et al.</p>
         
-        <p class="fr-book-desc">Builds evidence-based thinking under uncertainty.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Builds evidence-based thinking under uncertainty.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Honest+Broker+Roger+A.+Pielke%2C+Jr.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Honest Broker on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/1268106-M.jpg" alt="Cover for The Honest Broker" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Honest+Broker+Roger+A.+Pielke%2C+Jr.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Honest Broker">The Honest Broker</a>
-        </h4>
-        <p class="fr-book-author">By Roger A. Pielke, Jr.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Honest+Broker+Roger+A.+Pielke%2C+Jr.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Honest Broker on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/1268106-M.jpg" alt="Cover for The Honest Broker" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Honest+Broker+Roger+A.+Pielke%2C+Jr.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Honest Broker">The Honest Broker</a>
+</h4>
+<p class="fr-book-author">By Roger A. Pielke, Jr.</p>
         
-        <p class="fr-book-desc">First published 2003. Subjects: Moral and ethical aspects, Science, Recherche, Aspect politique, Research.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Honest+Broker+Roger+A.+Pielke%2C+Jr.&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2003. Subjects: Moral and ethical aspects, Science, Recherche, Aspect politique, Research.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Honest+Broker+Roger+A.+Pielke%2C+Jr.&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Science+V.+Story+Emma+Frances+Bloomfield&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Science V. Story on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Science+V.+Story+Emma+Frances+Bloomfield&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Science V. Story">Science V. Story</a>
-        </h4>
-        <p class="fr-book-author">By Emma Frances Bloomfield</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Science+V.+Story+Emma+Frances+Bloomfield&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Science V. Story on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Science+V.+Story+Emma+Frances+Bloomfield&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Science V. Story">Science V. Story</a>
+</h4>
+<p class="fr-book-author">By Emma Frances Bloomfield</p>
         
-        <p class="fr-book-desc">First published 2024. Subjects: Science.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Science+V.+Story+Emma+Frances+Bloomfield&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2024. Subjects: Science.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Science+V.+Story+Emma+Frances+Bloomfield&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Talk+to+a+Science+Denier&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Talk to a Science Denier</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Factfulness&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Factfulness</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Honest+Broker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Honest Broker</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Talk+to+a+Science+Denier&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Talk to a Science Denier</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Factfulness&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Factfulness</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Honest+Broker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Honest Broker</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=public+health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=communicating-can-honest-uncertainty-build-more-public-trust-myths-and-misconcept-public-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="public health poster" data-ebay-reference="communicating-can-honest-uncertainty-build-more-public-trust-myths-and-misconcept-public-health-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage 1950s public health awareness advert poster"><img src="{{ '/assets/images/marketplace-covers/89316df3874ca53ba5a6.jpg' | relative_url }}" alt="Listing image for Vintage 1950s public health awareness advert poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=public+health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=communicating-can-honest-uncertainty-build-more-public-trust-myths-and-misconcept-public-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="public health poster" data-ebay-reference="communicating-can-honest-uncertainty-build-more-public-trust-myths-and-misconcept-public-health-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage 1950s public health awareness advert poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=public+health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=communicating-can-honest-uncertainty-build-more-public-trust-myths-and-misconcept-public-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="public health poster" data-ebay-reference="communicating-can-honest-uncertainty-build-more-public-trust-myths-and-misconcept-public-health-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for public health poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: public health poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=public+health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=communicating-can-honest-uncertainty-build-more-public-trust-myths-and-misconcept-public-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="public health poster" data-ebay-reference="communicating-can-honest-uncertainty-build-more-public-trust-myths-and-misconcept-public-health-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=public+health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=communicating-can-honest-uncertainty-build-more-public-trust-myths-and-misconcept-public-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="public health poster" data-ebay-reference="communicating-can-honest-uncertainty-build-more-public-trust-myths-and-misconcept-public-health-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage 1950s public health awareness advert poster"><img src="{{ '/assets/images/marketplace-covers/89316df3874ca53ba5a6.jpg' | relative_url }}" alt="Listing image for Vintage 1950s public health awareness advert poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=public+health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=communicating-can-honest-uncertainty-build-more-public-trust-myths-and-misconcept-public-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="public health poster" data-ebay-reference="communicating-can-honest-uncertainty-build-more-public-trust-myths-and-misconcept-public-health-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage 1950s public health awareness advert poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=public+health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=communicating-can-honest-uncertainty-build-more-public-trust-myths-and-misconcept-public-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="public health poster" data-ebay-reference="communicating-can-honest-uncertainty-build-more-public-trust-myths-and-misconcept-public-health-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for public health poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: public health poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=public+health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=communicating-can-honest-uncertainty-build-more-public-trust-myths-and-misconcept-public-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="public health poster" data-ebay-reference="communicating-can-honest-uncertainty-build-more-public-trust-myths-and-misconcept-public-health-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=public+health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=communicating-can-honest-uncertainty-build-more-public-trust-myths-and-misconcept-public-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="public health poster" data-ebay-reference="communicating-can-honest-uncertainty-build-more-public-trust-myths-and-misconcept-public-health-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage 1950s public health awareness advert poster"><img src="{{ '/assets/images/marketplace-covers/26b25d9d44b21db71d19.jpg' | relative_url }}" alt="Listing image for Vintage 1950s public health awareness advert poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=public+health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=communicating-can-honest-uncertainty-build-more-public-trust-myths-and-misconcept-public-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="public health poster" data-ebay-reference="communicating-can-honest-uncertainty-build-more-public-trust-myths-and-misconcept-public-health-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage 1950s public health awareness advert poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=public+health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=communicating-can-honest-uncertainty-build-more-public-trust-myths-and-misconcept-public-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="public health poster" data-ebay-reference="communicating-can-honest-uncertainty-build-more-public-trust-myths-and-misconcept-public-health-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for public health poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: public health poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=public+health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=communicating-can-honest-uncertainty-build-more-public-trust-myths-and-misconcept-public-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="public health poster" data-ebay-reference="communicating-can-honest-uncertainty-build-more-public-trust-myths-and-misconcept-public-health-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=public+health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=communicating-can-honest-uncertainty-build-more-public-trust-myths-and-misconcept-public-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="public health poster" data-ebay-reference="communicating-can-honest-uncertainty-build-more-public-trust-myths-and-misconcept-public-health-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage 1950s public health awareness advert poster"><img src="{{ '/assets/images/marketplace-covers/26b25d9d44b21db71d19.jpg' | relative_url }}" alt="Listing image for Vintage 1950s public health awareness advert poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=public+health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=communicating-can-honest-uncertainty-build-more-public-trust-myths-and-misconcept-public-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="public health poster" data-ebay-reference="communicating-can-honest-uncertainty-build-more-public-trust-myths-and-misconcept-public-health-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage 1950s public health awareness advert poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=public+health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=communicating-can-honest-uncertainty-build-more-public-trust-myths-and-misconcept-public-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="public health poster" data-ebay-reference="communicating-can-honest-uncertainty-build-more-public-trust-myths-and-misconcept-public-health-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for public health poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: public health poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=public+health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=communicating-can-honest-uncertainty-build-more-public-trust-myths-and-misconcept-public-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="public health poster" data-ebay-reference="communicating-can-honest-uncertainty-build-more-public-trust-myths-and-misconcept-public-health-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=public+health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=communicating-can-honest-uncertainty-build-more-public-trust-myths-and-misconcept-public-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="public health poster" data-ebay-reference="communicating-can-honest-uncertainty-build-more-public-trust-myths-and-misconcept-public-health-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Aihrgdesign A Vintage Public Health Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/9a4f85f5088309b5fa73.jpg' | relative_url }}" alt="Listing image for Aihrgdesign A Vintage Public Health Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=public+health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=communicating-can-honest-uncertainty-build-more-public-trust-myths-and-misconcept-public-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="public health poster" data-ebay-reference="communicating-can-honest-uncertainty-build-more-public-trust-myths-and-misconcept-public-health-poster" target="_blank" rel="sponsored noopener noreferrer">Aihrgdesign A Vintage Public Health Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=public+health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=communicating-can-honest-uncertainty-build-more-public-trust-myths-and-misconcept-public-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="public health poster" data-ebay-reference="communicating-can-honest-uncertainty-build-more-public-trust-myths-and-misconcept-public-health-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for public health poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: public health poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=public+health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=communicating-can-honest-uncertainty-build-more-public-trust-myths-and-misconcept-public-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="public health poster" data-ebay-reference="communicating-can-honest-uncertainty-build-more-public-trust-myths-and-misconcept-public-health-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=public+health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=communicating-can-honest-uncertainty-build-more-public-trust-myths-and-misconcept-public-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="public health poster" data-ebay-reference="communicating-can-honest-uncertainty-build-more-public-trust-myths-and-misconcept-public-health-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Aihrgdesign A Vintage Public Health Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/9a4f85f5088309b5fa73.jpg' | relative_url }}" alt="Listing image for Aihrgdesign A Vintage Public Health Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=public+health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=communicating-can-honest-uncertainty-build-more-public-trust-myths-and-misconcept-public-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="public health poster" data-ebay-reference="communicating-can-honest-uncertainty-build-more-public-trust-myths-and-misconcept-public-health-poster" target="_blank" rel="sponsored noopener noreferrer">Aihrgdesign A Vintage Public Health Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=public+health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=communicating-can-honest-uncertainty-build-more-public-trust-myths-and-misconcept-public-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="public health poster" data-ebay-reference="communicating-can-honest-uncertainty-build-more-public-trust-myths-and-misconcept-public-health-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for public health poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: public health poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=public+health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=communicating-can-honest-uncertainty-build-more-public-trust-myths-and-misconcept-public-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="public health poster" data-ebay-reference="communicating-can-honest-uncertainty-build-more-public-trust-myths-and-misconcept-public-health-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=public+health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=communicating-can-honest-uncertainty-build-more-public-trust-myths-and-misconcept-public-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="public health poster" data-ebay-reference="communicating-can-honest-uncertainty-build-more-public-trust-myths-and-misconcept-public-health-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage 1950s public health awareness advert poster"><img src="{{ '/assets/images/marketplace-covers/3ca1e11aa514c707039f.jpg' | relative_url }}" alt="Listing image for Vintage 1950s public health awareness advert poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=public+health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=communicating-can-honest-uncertainty-build-more-public-trust-myths-and-misconcept-public-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="public health poster" data-ebay-reference="communicating-can-honest-uncertainty-build-more-public-trust-myths-and-misconcept-public-health-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage 1950s public health awareness advert poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=public+health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=communicating-can-honest-uncertainty-build-more-public-trust-myths-and-misconcept-public-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="public health poster" data-ebay-reference="communicating-can-honest-uncertainty-build-more-public-trust-myths-and-misconcept-public-health-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for public health poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: public health poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=public+health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=communicating-can-honest-uncertainty-build-more-public-trust-myths-and-misconcept-public-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="public health poster" data-ebay-reference="communicating-can-honest-uncertainty-build-more-public-trust-myths-and-misconcept-public-health-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=public+health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=communicating-can-honest-uncertainty-build-more-public-trust-myths-and-misconcept-public-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="public health poster" data-ebay-reference="communicating-can-honest-uncertainty-build-more-public-trust-myths-and-misconcept-public-health-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=public+health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=communicating-can-honest-uncertainty-build-more-public-trust-myths-and-misconcept-public-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="public health poster" data-ebay-reference="communicating-can-honest-uncertainty-build-more-public-trust-myths-and-misconcept-public-health-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage 1950s public health awareness advert poster"><img src="{{ '/assets/images/marketplace-covers/3ca1e11aa514c707039f.jpg' | relative_url }}" alt="Listing image for Vintage 1950s public health awareness advert poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=public+health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=communicating-can-honest-uncertainty-build-more-public-trust-myths-and-misconcept-public-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="public health poster" data-ebay-reference="communicating-can-honest-uncertainty-build-more-public-trust-myths-and-misconcept-public-health-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage 1950s public health awareness advert poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=public+health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=communicating-can-honest-uncertainty-build-more-public-trust-myths-and-misconcept-public-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="public health poster" data-ebay-reference="communicating-can-honest-uncertainty-build-more-public-trust-myths-and-misconcept-public-health-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for public health poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: public health poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=public+health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=communicating-can-honest-uncertainty-build-more-public-trust-myths-and-misconcept-public-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="public health poster" data-ebay-reference="communicating-can-honest-uncertainty-build-more-public-trust-myths-and-misconcept-public-health-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=public+health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=communicating-can-honest-uncertainty-build-more-public-trust-myths-and-misconcept-public-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="public health poster" data-ebay-reference="communicating-can-honest-uncertainty-build-more-public-trust-myths-and-misconcept-public-health-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -524,7 +524,7 @@ Honest uncertainty communication — when carefully crafted — can help reduce 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -544,7 +544,7 @@ Honest uncertainty communication — when carefully crafted — can help reduce 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -576,7 +576,7 @@ Honest uncertainty communication — when carefully crafted — can help reduce 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -628,7 +628,7 @@ Honest uncertainty communication — when carefully crafted — can help reduce 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -673,7 +673,7 @@ Honest uncertainty communication — when carefully crafted — can help reduce 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -714,112 +714,112 @@ Honest uncertainty communication — when carefully crafted — can help reduce 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: undark.org  
    Title: Magazine Interview: Uncertainty, Science, and Public Health  
-   Link: <a href="https://undark.org/2024/05/10/interview-uncertainty-science-communication/" target="_blank" rel="noopener noreferrer nofollow">https://undark.org/2024/05/10/interview-uncertainty-science-communication/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Undark MagazineInterview: Uncertainty, Science, and Public Health...May 10, 2024 — 10 May 2024 — A new study suggests that scientists sh...</p></details>
+   Link:<a href="https://undark.org/2024/05/10/interview-uncertainty-science-communication/" target="_blank" rel="noopener noreferrer nofollow">https://undark.org/2024/05/10/interview-uncertainty-science-communication/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Undark MagazineInterview: Uncertainty, Science, and Public Health...May 10, 2024 — 10 May 2024 — A new study suggests that scientists sh...</p></details>
    Published: May 10, 2024  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: psycharchives.org  
    Title: How does uncertainty communication affect people's trust?  
-   Link: <a href="https://www.psycharchives.org/en/item/46ac5c8b-da8e-4489-8417-8d2bacb84202" target="_blank" rel="noopener noreferrer nofollow">https://www.psycharchives.org/en/item/46ac5c8b-da8e-4489-8417-8d2bacb84202</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>March 11, 2025 — by C Dries · 2025 — In this talk, I will present several experimental studies that we have conducted to determine under...</p></details>
+   Link:<a href="https://www.psycharchives.org/en/item/46ac5c8b-da8e-4489-8417-8d2bacb84202" target="_blank" rel="noopener noreferrer nofollow">https://www.psycharchives.org/en/item/46ac5c8b-da8e-4489-8417-8d2bacb84202</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>March 11, 2025 — by C Dries · 2025 — In this talk, I will present several experimental studies that we have conducted to determine under...</p></details>
    Published: March 11, 2025  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCThe effect of uncertainty communication on public trust  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11925018/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11925018/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>by C Dries · 2025 · Cited by 10 — Our results show that people&#x27;s trust response to the communication of uncertainty depends on how con...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11925018/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11925018/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by C Dries · 2025 · Cited by 10 — Our results show that people&#x27;s trust response to the communication of uncertainty depends on how con...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: royalsocietypublishing.org  
-   Link: <a href="https://royalsocietypublishing.org/rsos/article/6/5/181870/95102/Communicating-uncertainty-about-facts-numbers-and" target="_blank" rel="noopener noreferrer nofollow">https://royalsocietypublishing.org/rsos/article/6/5/181870/95102/Communicating-uncertainty-about-facts-numbers-and</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Royal Society PublishingCommunicating uncertainty about facts, numbers and scienceby AM van der Bles · 2019 · Cited by 560 — Our aim is t...</p></details>
+   Link:<a href="https://royalsocietypublishing.org/rsos/article/6/5/181870/95102/Communicating-uncertainty-about-facts-numbers-and" target="_blank" rel="noopener noreferrer nofollow">https://royalsocietypublishing.org/rsos/article/6/5/181870/95102/Communicating-uncertainty-about-facts-numbers-and</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Royal Society PublishingCommunicating uncertainty about facts, numbers and scienceby AM van der Bles · 2019 · Cited by 560 — Our aim is t...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/42014938/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/42014938/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Communication of Scientific Uncertainty Affects Trust in Science-A Systematic Review - PubMedFULL TEXT LINKS Wiley Full text links ACTION...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/42014938/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/42014938/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Communication of Scientific Uncertainty Affects Trust in Science-A Systematic Review - PubMedFULL TEXT LINKS Wiley Full text links ACTION...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/32205438/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/32205438/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The effects of communicating uncertainty on public trust in facts and numbers - PubMedApril 7, 2020...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/32205438/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/32205438/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The effects of communicating uncertainty on public trust in facts and numbers - PubMedApril 7, 2020...</p></details>
    Published: April 7, 2020  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
    Title: Pub Med A review of the effects of uncertainty in public science communication  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/32677865/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/32677865/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>A review of the effects of uncertainty in public science communication - PubMedJuly 17, 2020...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/32677865/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/32677865/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A review of the effects of uncertainty in public science communication - PubMedJuly 17, 2020...</p></details>
    Published: July 17, 2020  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: nuffieldfoundation.org  
-   Link: <a href="https://www.nuffieldfoundation.org/project/communicating-uncertainty-in-data-without-undermining-trust" target="_blank" rel="noopener noreferrer nofollow">https://www.nuffieldfoundation.org/project/communicating-uncertainty-in-data-without-undermining-trust</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Nuffield FoundationCommunicating uncertainty in data without undermining trustThis project aims to identify a range of methods to communi...</p></details>
+   Link:<a href="https://www.nuffieldfoundation.org/project/communicating-uncertainty-in-data-without-undermining-trust" target="_blank" rel="noopener noreferrer nofollow">https://www.nuffieldfoundation.org/project/communicating-uncertainty-in-data-without-undermining-trust</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Nuffield FoundationCommunicating uncertainty in data without undermining trustThis project aims to identify a range of methods to communi...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/31218028/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/31218028/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>uncertainty about facts, numbers and science - PubMedMay 8, 2019 — ABSTRACT Uncertainty is an inherent part of knowledge, and yet in an e...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/31218028/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/31218028/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>uncertainty about facts, numbers and science - PubMedMay 8, 2019 — ABSTRACT Uncertainty is an inherent part of knowledge, and yet in an e...</p></details>
    Published: May 8, 2019  
 
 ### Additional References
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: nationalacademies.org  
-   Link: <a href="https://www.nationalacademies.org/read/27894/chapter/8" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalacademies.org/read/27894/chapter/8</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Chapter: 6 Impacts of Misinformation About ScienceThese findings are particularly relevant to understanding misinformation&#x27;s effects in t...</p></details>
+   Link:<a href="https://www.nationalacademies.org/read/27894/chapter/8" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalacademies.org/read/27894/chapter/8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Chapter: 6 Impacts of Misinformation About ScienceThese findings are particularly relevant to understanding misinformation&#x27;s effects in t...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/top-content/science/science-and-society-dialogues/misinformation-in-science-communication/" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/top-content/science/science-and-society-dialogues/misinformation-in-science-communication/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Misinformation in Science CommunicationMisinformation in science communication refers to the spread of false or misleading scientific inf...</p></details>
+   Link:<a href="https://www.linkedin.com/top-content/science/science-and-society-dialogues/misinformation-in-science-communication/" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/top-content/science/science-and-society-dialogues/misinformation-in-science-communication/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Misinformation in Science CommunicationMisinformation in science communication refers to the spread of false or misleading scientific inf...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: academic.oup.com  
-   Link: <a href="https://academic.oup.com/pnasnexus/article/4/3/pgaf071/8052021" target="_blank" rel="noopener noreferrer nofollow">https://academic.oup.com/pnasnexus/article/4/3/pgaf071/8052021</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>of uncertainty communication on public trust depends on belief–evidence consistency | PNAS Nexus | Oxford AcademicMarch 5, 2025 — Journal...</p></details>
+   Link:<a href="https://academic.oup.com/pnasnexus/article/4/3/pgaf071/8052021" target="_blank" rel="noopener noreferrer nofollow">https://academic.oup.com/pnasnexus/article/4/3/pgaf071/8052021</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>of uncertainty communication on public trust depends on belief–evidence consistency | PNAS Nexus | Oxford AcademicMarch 5, 2025 — Journal...</p></details>
    Published: March 5, 2025  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: carnegieendowment.org  
-   Link: <a href="https://carnegieendowment.org/russia-eurasia/research/2024/01/countering-disinformation-effectively-an-evidence-based-policy-guide" target="_blank" rel="noopener noreferrer nofollow">https://carnegieendowment.org/russia-eurasia/research/2024/01/countering-disinformation-effectively-an-evidence-based-policy-guide</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Countering Disinformation Effectively: An Evidence-Based...31 Jan 2024 — Democracies should adopt a portfolio approach to manage uncerta...</p></details>
+   Link:<a href="https://carnegieendowment.org/russia-eurasia/research/2024/01/countering-disinformation-effectively-an-evidence-based-policy-guide" target="_blank" rel="noopener noreferrer nofollow">https://carnegieendowment.org/russia-eurasia/research/2024/01/countering-disinformation-effectively-an-evidence-based-policy-guide</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Countering Disinformation Effectively: An Evidence-Based...31 Jan 2024 — Democracies should adopt a portfolio approach to manage uncerta...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: repository.cam.ac.uk  
-   Link: <a href="https://www.repository.cam.ac.uk/handle/1810/304699" target="_blank" rel="noopener noreferrer nofollow">https://www.repository.cam.ac.uk/handle/1810/304699</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PUBLISHED VERSION PEER-REVIEWED REPOSITORY URI [https://www.repository.cam.ac.uk/handle/1810/304699](https://www.repository.cam.ac.uk/handle/1810/304699) REPOSITORY DOI...</p></details>
+   Link:<a href="https://www.repository.cam.ac.uk/handle/1810/304699" target="_blank" rel="noopener noreferrer nofollow">https://www.repository.cam.ac.uk/handle/1810/304699</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>PUBLISHED VERSION PEER-REVIEWED REPOSITORY URI [https://www.repository.cam.ac.uk/handle/1810/304699](https://www.repository.cam.ac.uk/handle/1810/304699) REPOSITORY DOI...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: repository.ubn.ru.nl  
    Title: The main effect of uncertainty communication on trust is strong (ηG  
-   Link: <a href="https://repository.ubn.ru.nl/bitstream/handle/2066/226715/226715.pdf" target="_blank" rel="noopener noreferrer nofollow">https://repository.ubn.ru.nl/bitstream/handle/2066/226715/226715.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ru.nlTwo-sided science: Communicating scientific uncertainty...by MJ Steijaert · 2021 · Cited by 47 — This research shows that trust in...</p></details>
+   Link:<a href="https://repository.ubn.ru.nl/bitstream/handle/2066/226715/226715.pdf" target="_blank" rel="noopener noreferrer nofollow">https://repository.ubn.ru.nl/bitstream/handle/2066/226715/226715.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ru.nlTwo-sided science: Communicating scientific uncertainty...by MJ Steijaert · 2021 · Cited by 47 — This research shows that trust in...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: research.rug.nl  
    Title: J. Freeman *, James Mitchell *, Ana B. Galvao *, Lisa Zaval *  
-   Link: <a href="https://research.rug.nl/en/publications/communicating-uncertainty-about-facts-numbers-and-science" target="_blank" rel="noopener noreferrer nofollow">https://research.rug.nl/en/publications/communicating-uncertainty-about-facts-numbers-and-science</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>uncertainty about facts, numbers and science - the University of Groningen research portalCOMMUNICATING UNCERTAINTY ABOUT FACTS, NUMBERS...</p></details>
+   Link:<a href="https://research.rug.nl/en/publications/communicating-uncertainty-about-facts-numbers-and-science" target="_blank" rel="noopener noreferrer nofollow">https://research.rug.nl/en/publications/communicating-uncertainty-about-facts-numbers-and-science</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>uncertainty about facts, numbers and science - the University of Groningen research portalCOMMUNICATING UNCERTAINTY ABOUT FACTS, NUMBERS...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: jcom.sissa.it  
    Title: it Does science communication have its goals wrong?  
-   Link: <a href="https://jcom.sissa.it/article/pubid/JCOM_2501_2026_C07/" target="_blank" rel="noopener noreferrer nofollow">https://jcom.sissa.it/article/pubid/JCOM_2501_2026_C07/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A Toomey · 2026 · Cited by 2 — Similarly, as uncertainty is inherent to science, values are involved when researchers weigh th...</p></details>
+   Link:<a href="https://jcom.sissa.it/article/pubid/JCOM_2501_2026_C07/" target="_blank" rel="noopener noreferrer nofollow">https://jcom.sissa.it/article/pubid/JCOM_2501_2026_C07/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A Toomey · 2026 · Cited by 2 — Similarly, as uncertainty is inherent to science, values are involved when researchers weigh th...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: scispace.com  
-   Link: <a href="https://scispace.com/pdf/the-effects-of-uncertainty-frames-in-three-science-kxyeyuin9q.pdf" target="_blank" rel="noopener noreferrer nofollow">https://scispace.com/pdf/the-effects-of-uncertainty-frames-in-three-science-kxyeyuin9q.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>While uncertainty is central to the nature of science, many fear negative effects of communicating uncertain science to the public...Re...</p></details>
+   Link:<a href="https://scispace.com/pdf/the-effects-of-uncertainty-frames-in-three-science-kxyeyuin9q.pdf" target="_blank" rel="noopener noreferrer nofollow">https://scispace.com/pdf/the-effects-of-uncertainty-frames-in-three-science-kxyeyuin9q.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>While uncertainty is central to the nature of science, many fear negative effects of communicating uncertain science to the public...Re...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: canada.ca  
-   Link: <a href="https://www.canada.ca/content/dam/phac-aspc/documents/services/reports-publications/health-promotion-chronic-disease-prevention-canada-research-policy-practice/vol-45-no-10-2025/uncertainty-communication-trust-health-promotion.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.canada.ca/content/dam/phac-aspc/documents/services/reports-publications/health-promotion-chronic-disease-prevention-canada-research-policy-practice/vol-45-no-10-2025/uncertainty-communication-trust-health-promotion.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>by JD Gretton · Cited by 1 — By leveraging research on uncer- tainty communication, health pro- moters can communicate in a manner that h...</p></details>
+   Link:<a href="https://www.canada.ca/content/dam/phac-aspc/documents/services/reports-publications/health-promotion-chronic-disease-prevention-canada-research-policy-practice/vol-45-no-10-2025/uncertainty-communication-trust-health-promotion.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.canada.ca/content/dam/phac-aspc/documents/services/reports-publications/health-promotion-chronic-disease-prevention-canada-research-policy-practice/vol-45-no-10-2025/uncertainty-communication-trust-health-promotion.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by JD Gretton · Cited by 1 — By leveraging research on uncer- tainty communication, health pro- moters can communicate in a manner that h...</p></details>

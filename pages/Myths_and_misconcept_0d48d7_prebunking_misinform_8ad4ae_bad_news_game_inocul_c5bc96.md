@@ -268,14 +268,14 @@ image: /assets/images/Myths_and_misconcept_0d48d7_prebunking_misinform_8ad4ae_ba
 
 ## Introduction
 
-One of the most unusual approaches to prebunking misinformation asks people to do the opposite of what [media literacy]({{ 'media-literacy/' | relative_url }}) programmes traditionally encourage: instead of spotting deceptive content from the outside, participants briefly learn how to create it. The online game *Bad News* places players in the role of a fictional misinformation producer whose goal is to attract followers and influence opinion using common manipulation techniques. The underlying idea is that a controlled encounter with these tactics can make them easier to recognise later in real life. Rather than teaching facts about a single rumour or myth, the game focuses on the methods used to make misleading claims persuasive. Research on *Bad News* has become one of the best-known tests of game-based misinformation inoculation and has helped shape broader prebunking strategies. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nature.com/articles/s41599-019-0279-9" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Jon Roozenbeek &amp;; Sander van der Linden. Palgrave Communications...Read more...</span></span></span>
+One of the most unusual approaches to prebunking misinformation asks people to do the opposite of what [media literacy]({{ 'media-literacy/' | relative_url }}) programmes traditionally encourage: instead of spotting deceptive content from the outside, participants briefly learn how to create it. The online game *Bad News* places players in the role of a fictional misinformation producer whose goal is to attract followers and influence opinion using common manipulation techniques. The underlying idea is that a controlled encounter with these tactics can make them easier to recognise later in real life. Rather than teaching facts about a single rumour or myth, the game focuses on the methods used to make misleading claims persuasive. Research on *Bad News* has become one of the best-known tests of game-based misinformation inoculation and has helped shape broader prebunking strategies.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nature.com/articles/s41599" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Jon Roozenbeek &amp;; Sander van der Linden. Palgrave Communications...Read more...</span></span></span>
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_prebunking_misinform_8ad4ae_bad_news_game_inocul_c5bc96-Illustration-1-dark.svg" | relative_url }}" alt="Bad News game illustration 1" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_prebunking_misinform_8ad4ae_bad_news_game_inocul_c5bc96-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_prebunking_misinform_8ad4ae_bad_news_game_inocul_c5bc96-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Why pretending to mislead can teach resistance
 
-The *Bad News* game was developed by researchers at the University of Cambridge together with the Dutch media collective DROG. Players are encouraged to build a fictional disinformation empire by gaining followers while maintaining enough credibility to keep their audience engaged. The design deliberately exposes players to a weakened version of the techniques used by real misinformation [campaigns]({{ 'campaigns/' | relative_url }}). <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sdmlab.psychol.cam.ac.uk/research/bad-news-game" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sdmlab.psychol.cam.ac.uk">[sdmlab.psychol.cam.ac.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sdmlab.psychol.cam.ac.uk</span><span class="citation-popover-snippet">Bad News Game &#124; Cambridge Social Decision-Making LabThe Bad News Game is a multiple award-winning fake news intervention aimed at buildin...</span></span></span>
+The *Bad News* game was developed by researchers at the University of Cambridge together with the Dutch media collective DROG. Players are encouraged to build a fictional disinformation empire by gaining followers while maintaining enough credibility to keep their audience engaged. The design deliberately exposes players to a weakened version of the techniques used by real misinformation [campaigns]({{ 'campaigns/' | relative_url }}).<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sdmlab.psychol.cam.ac.uk/research/bad-news-game" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sdmlab.psychol.cam.ac.uk">[sdmlab.psychol.cam.ac.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sdmlab.psychol.cam.ac.uk</span><span class="citation-popover-snippet">Bad News Game &#124; Cambridge Social Decision-Making LabThe Bad News Game is a multiple award-winning fake news intervention aimed at buildin...</span></span></span>
 
-This approach comes from psychological inoculation theory. Instead of warning people about a particular false claim, the game introduces them to the structure of manipulation itself. By experiencing how misleading content is crafted and amplified, players are expected to develop what researchers describe as psychological resistance or “mental antibodies” against similar tactics encountered later. Misinformation Review <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nature.com/articles/s41599-019-0279-9" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Jon Roozenbeek &amp;; Sander van der Linden. Palgrave Communications...Read more...</span></span></span> The key distinction is that the game teaches transferable patterns. A player does not learn that one specific story is false; they learn how emotional triggers, fake identities, conspiratorial framing, and other techniques can be used across many different topics. This makes the intervention particularly relevant to myths and misconceptions that constantly change their subject matter while relying on familiar persuasive tricks. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6952868/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Good News about Bad News: Gamified Inoculation Boosts...by M Basol · 2020 · Cited by 570 — A recent example is the Bad News game, an...</span></span></span>
+This approach comes from psychological inoculation theory. Instead of warning people about a particular false claim, the game introduces them to the structure of manipulation itself. By experiencing how misleading content is crafted and amplified, players are expected to develop what researchers describe as psychological resistance or “mental antibodies” against similar tactics encountered later. Misinformation Review<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nature.com/articles/s41599" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Jon Roozenbeek &amp;; Sander van der Linden. Palgrave Communications...Read more...</span></span></span> The key distinction is that the game teaches transferable patterns. A player does not learn that one specific story is false; they learn how emotional triggers, fake identities, conspiratorial framing, and other techniques can be used across many different topics. This makes the intervention particularly relevant to myths and misconceptions that constantly change their subject matter while relying on familiar persuasive tricks.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6952868/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Good News about Bad News: Gamified Inoculation Boosts...by M Basol · 2020 · Cited by 570 — A recent example is the Bad News game, an...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/jbgK8Ei-Rp0" title="Psychological Inoculation Against Misinformation - Vaccinating Against Fake News" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=jbgK8Ei-Rp0" target="_blank" rel="noopener noreferrer">Psychological Inoculation Against Misinformation - Vaccinating Against Fake News</a></p><p class="youtube-embed-meta">Channel: Cambridge Society for the Application of Research &middot; Views: 339 &middot; Uploaded: February 2025 &middot; Length: 1 hour 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=jbgK8Ei-Rp0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=jbgK8Ei-Rp0">Open on YouTube</a></p></div></div></div>
 
@@ -283,15 +283,15 @@ This approach comes from psychological inoculation theory. Instead of warning pe
 
 The game's central mechanism is role-play. Instead of passively reading advice about misinformation, players actively practise the kinds of choices that a manipulator might make. The fictional setting allows participants to experiment with deceptive tactics without endorsing them.
 
-Early versions of the game guided players through scenarios involving highly polarised public issues and asked them to increase their influence using tactics commonly observed in online disinformation campaigns. Researchers described this as exposing people to a weakened form of manipulation rather than to a specific false narrative. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.tandfonline.com/doi/abs/10.1080/13669877.2018.1443491" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tandfonline.com">[tandfonline.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tandfonline.com</span><span class="citation-popover-snippet">In Related News, That Was Wrong: The Correction of Misinformation Through Related Stories Functionality in Social Media.Read more...</span></span></span>
+Early versions of the game guided players through scenarios involving highly polarised public issues and asked them to increase their influence using tactics commonly observed in online disinformation campaigns. Researchers described this as exposing people to a weakened form of manipulation rather than to a specific false narrative.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.tandfonline.com/doi/abs/10.1080/13669877.2018.1443491" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tandfonline.com">[tandfonline.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tandfonline.com</span><span class="citation-popover-snippet">In Related News, That Was Wrong: The Correction of Misinformation Through Related Stories Functionality in Social Media.Read more...</span></span></span>
 
-Evidence from initial studies was encouraging. A pilot field experiment in a secondary-school setting found that participants who played the game rated [fake news]({{ 'fake-news/' | relative_url }}) items as less reliable and less persuasive afterwards. Larger-scale studies involving thousands of online players later reported similar patterns, with participants becoming better at recognising manipulation techniques embedded in sample content. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nature.com/articles/s41599-019-0279-9" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Jon Roozenbeek &amp;; Sander van der Linden. Palgrave Communications...Read more...</span></span></span> An important feature of the intervention is that it does not depend on predicting future myths. A conspiracy theory about public health, a fabricated election claim, and a misleading viral image may all differ in content, yet they can share the same underlying methods. The game therefore aims to build resistance at the level of technique rather than topic. <span class="citation-chip-wrap"><a class="citation-chip" href="https://royalsocietypublishing.org/doi/abs/10.1098/rsos.211719" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: royalsocietypublishing.org">[Royal Society Publishing]</a><span class="citation-popover" role="note"><span class="citation-popover-source">royalsocietypublishing.org</span><span class="citation-popover-snippet">Royal Society PublishingTechnique-based inoculation against real-world misinformationby J Roozenbeek · 2022 · Cited by 109 — 2020Good new...</span></span></span>
+Evidence from initial studies was encouraging. A pilot field experiment in a secondary-school setting found that participants who played the game rated [fake news]({{ 'fake-news/' | relative_url }}) items as less reliable and less persuasive afterwards. Larger-scale studies involving thousands of online players later reported similar patterns, with participants becoming better at recognising manipulation techniques embedded in sample content.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nature.com/articles/s41599" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Jon Roozenbeek &amp;; Sander van der Linden. Palgrave Communications...Read more...</span></span></span> An important feature of the intervention is that it does not depend on predicting future myths. A conspiracy theory about public health, a fabricated election claim, and a misleading viral image may all differ in content, yet they can share the same underlying methods. The game therefore aims to build resistance at the level of technique rather than topic.<span class="citation-chip-wrap"><a class="citation-chip" href="https://royalsocietypublishing.org/doi/abs/10.1098/rsos.211719" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: royalsocietypublishing.org">[Royal Society Publishing]</a><span class="citation-popover" role="note"><span class="citation-popover-source">royalsocietypublishing.org</span><span class="citation-popover-snippet">Royal Society PublishingTechnique-based inoculation against real-world misinformationby J Roozenbeek · 2022 · Cited by 109 — 2020Good new...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/0Wx0PUEWTgI" title="WATCH ME PLAY THE BAD NEWS GAME | I became a media tycoon by spreading disinformation---YIKES!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=0Wx0PUEWTgI" target="_blank" rel="noopener noreferrer">WATCH ME PLAY THE BAD NEWS GAME | I became a media tycoon by spreading disinformation---YIKES!</a></p><p class="youtube-embed-meta">Channel: Adriana Norris &middot; Views: 643 &middot; Uploaded: May 2022 &middot; Length: 30 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=0Wx0PUEWTgI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=0Wx0PUEWTgI">Open on YouTube</a></p></div></div></div>
 
 ## Which tactics players learn to recognise
 
-The game's curriculum is built around recurring forms of online manipulation. Different descriptions of the project use slightly different labels, but the core set remains broadly consistent. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.medialiteracyireland.ie/training-development/the-bad-news-game/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: medialiteracyireland.ie">[Media Literacy Ireland]</a><span class="citation-popover" role="note"><span class="citation-popover-source">medialiteracyireland.ie</span><span class="citation-popover-snippet">Media Literacy IrelandThe Bad News Game... conspiracy, discredit, trolling) that are used to mislead people and build up a following. Bad...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://horizons.service.canada.ca/en/2021/05/07/bad-news-a-game-against-disinformation/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: horizons.service.canada.ca">[2horizons.service.canada.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">horizons.service.canada.ca</span><span class="citation-popover-title">Bad News: a game against disinformation</span><span class="citation-popover-snippet">News: a game against disinformationMay 7, 2021 —... game called “Bad News” with the goal of countering misinformation.... conspiracy th...</span><span class="citation-popover-meta">Published: May 7, 2021</span></span></span>
+The game's curriculum is built around recurring forms of online manipulation. Different descriptions of the project use slightly different labels, but the core set remains broadly consistent.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.medialiteracyireland.ie/training-development/the-bad-news-game/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: medialiteracyireland.ie">[Media Literacy Ireland]</a><span class="citation-popover" role="note"><span class="citation-popover-source">medialiteracyireland.ie</span><span class="citation-popover-snippet">Media Literacy IrelandThe Bad News Game... conspiracy, discredit, trolling) that are used to mislead people and build up a following. Bad...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://horizons.service.canada.ca/en/2021/05/07/bad-news-a-game-against-disinformation/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: horizons.service.canada.ca">[2horizons.service.canada.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">horizons.service.canada.ca</span><span class="citation-popover-title">Bad News: a game against disinformation</span><span class="citation-popover-snippet">News: a game against disinformationMay 7, 2021 —... game called “Bad News” with the goal of countering misinformation.... conspiracy th...</span><span class="citation-popover-meta">Published: May 7, 2021</span></span></span>
 
 The tactics include:
 
@@ -300,222 +300,222 @@ The tactics include:
 * **Conspiracy narratives** – presenting hidden plots and secret coordination as explanations for complex events.
 * **Trolling and provocation** – generating attention through inflammatory or disruptive behaviour.
 * **Discrediting opponents** – attacking critics, experts, journalists, or institutions rather than engaging with evidence.
-* **Impersonation or fake identities** – creating false accounts or misleading signals of credibility. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.medialiteracyireland.ie/training-development/the-bad-news-game/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: medialiteracyireland.ie">[Media Literacy Ireland]</a><span class="citation-popover" role="note"><span class="citation-popover-source">medialiteracyireland.ie</span><span class="citation-popover-snippet">Media Literacy IrelandThe Bad News Game... conspiracy, discredit, trolling) that are used to mislead people and build up a following. Bad...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://horizons.service.canada.ca/en/2021/05/07/bad-news-a-game-against-disinformation/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: horizons.service.canada.ca">[2horizons.service.canada.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">horizons.service.canada.ca</span><span class="citation-popover-title">Bad News: a game against disinformation</span><span class="citation-popover-snippet">News: a game against disinformationMay 7, 2021 —... game called “Bad News” with the goal of countering misinformation.... conspiracy th...</span><span class="citation-popover-meta">Published: May 7, 2021</span></span></span>
+* **Impersonation or fake identities** – creating false accounts or misleading signals of credibility.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.medialiteracyireland.ie/training-development/the-bad-news-game/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: medialiteracyireland.ie">[Media Literacy Ireland]</a><span class="citation-popover" role="note"><span class="citation-popover-source">medialiteracyireland.ie</span><span class="citation-popover-snippet">Media Literacy IrelandThe Bad News Game... conspiracy, discredit, trolling) that are used to mislead people and build up a following. Bad...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://horizons.service.canada.ca/en/2021/05/07/bad-news-a-game-against-disinformation/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: horizons.service.canada.ca">[2horizons.service.canada.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">horizons.service.canada.ca</span><span class="citation-popover-title">Bad News: a game against disinformation</span><span class="citation-popover-snippet">News: a game against disinformationMay 7, 2021 —... game called “Bad News” with the goal of countering misinformation.... conspiracy th...</span><span class="citation-popover-meta">Published: May 7, 2021</span></span></span>
 
-Research suggests that after gameplay, participants become more sceptical of examples using these techniques, even when the specific stories are unfamiliar. The goal is not blanket distrust of information but improved recognition of manipulative signals. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nature.com/articles/s41599-019-0279-9" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Jon Roozenbeek &amp;; Sander van der Linden. Palgrave Communications...Read more...</span></span></span>
+Research suggests that after gameplay, participants become more sceptical of examples using these techniques, even when the specific stories are unfamiliar. The goal is not blanket distrust of information but improved recognition of manipulative signals.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nature.com/articles/s41599" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Jon Roozenbeek &amp;; Sander van der Linden. Palgrave Communications...Read more...</span></span></span>
 
-One reason this matters for myths and misconceptions is that misinformation producers often recycle tactics more reliably than they recycle claims. A conspiracy theory may disappear, but conspiratorial framing as a persuasive device can quickly reappear in a different context. Technique-focused training attempts to exploit that stability. <span class="citation-chip-wrap"><a class="citation-chip" href="https://royalsocietypublishing.org/doi/abs/10.1098/rsos.211719" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: royalsocietypublishing.org">[Royal Society Publishing]</a><span class="citation-popover" role="note"><span class="citation-popover-source">royalsocietypublishing.org</span><span class="citation-popover-snippet">Royal Society PublishingTechnique-based inoculation against real-world misinformationby J Roozenbeek · 2022 · Cited by 109 — 2020Good new...</span></span></span>
+One reason this matters for myths and misconceptions is that misinformation producers often recycle tactics more reliably than they recycle claims. A conspiracy theory may disappear, but conspiratorial framing as a persuasive device can quickly reappear in a different context. Technique-focused training attempts to exploit that stability.<span class="citation-chip-wrap"><a class="citation-chip" href="https://royalsocietypublishing.org/doi/abs/10.1098/rsos.211719" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: royalsocietypublishing.org">[Royal Society Publishing]</a><span class="citation-popover" role="note"><span class="citation-popover-source">royalsocietypublishing.org</span><span class="citation-popover-snippet">Royal Society PublishingTechnique-based inoculation against real-world misinformationby J Roozenbeek · 2022 · Cited by 109 — 2020Good new...</span></span></span>
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_prebunking_misinform_8ad4ae_bad_news_game_inocul_c5bc96-Illustration-2-dark.svg" | relative_url }}" alt="Bad News game illustration 2" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_prebunking_misinform_8ad4ae_bad_news_game_inocul_c5bc96-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_prebunking_misinform_8ad4ae_bad_news_game_inocul_c5bc96-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What cross-cultural studies can and cannot prove
 
-One question raised early in the research was whether a game developed in a Western European context would work elsewhere. A cross-cultural study involving players from multiple countries examined whether the intervention's effects generalised beyond a single national audience. The results suggested that *Bad News* increased resistance to common misinformation techniques across diverse cultural settings, supporting the idea that many manipulation strategies have broad psychological similarities. <span class="citation-chip-wrap"><a class="citation-chip" href="https://misinforeview.hks.harvard.edu/article/global-vaccination-badnews/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: misinforeview.hks.harvard.edu">[Misinformation Review]</a><span class="citation-popover" role="note"><span class="citation-popover-source">misinforeview.hks.harvard.edu</span><span class="citation-popover-title">global vaccination badnews</span><span class="citation-popover-snippet">Misinformation ReviewPrebunking interventions based on “inoculation” theory can...by J Roozenbeek · 2020 · Cited by 366 — This study fin...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://inoculation.science/cross-cultural-validity-of-inoculations/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: inoculation.science">[Inoculation Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">inoculation.science</span><span class="citation-popover-snippet">Cross-cultural validity of inoculationsThis study finds that the online “fake news” game, Bad News, can confer psychological resistance a...</span></span></span>
+One question raised early in the research was whether a game developed in a Western European context would work elsewhere. A cross-cultural study involving players from multiple countries examined whether the intervention's effects generalised beyond a single national audience. The results suggested that *Bad News* increased resistance to common misinformation techniques across diverse cultural settings, supporting the idea that many manipulation strategies have broad psychological similarities.<span class="citation-chip-wrap"><a class="citation-chip" href="https://misinforeview.hks.harvard.edu/article/global-vaccination-badnews/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: misinforeview.hks.harvard.edu">[Misinformation Review]</a><span class="citation-popover" role="note"><span class="citation-popover-source">misinforeview.hks.harvard.edu</span><span class="citation-popover-title">global vaccination badnews</span><span class="citation-popover-snippet">Misinformation ReviewPrebunking interventions based on “inoculation” theory can...by J Roozenbeek · 2020 · Cited by 366 — This study fin...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://inoculation.science/cross-cultural-validity-of-inoculations/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: inoculation.science">[Inoculation Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">inoculation.science</span><span class="citation-popover-snippet">Cross-cultural validity of inoculationsThis study finds that the online “fake news” game, Bad News, can confer psychological resistance a...</span></span></span>
 
-Researchers also reported that effects appeared across different political orientations, an important finding because misinformation interventions are often criticised for favouring one ideological group over another. In these studies, the benefits were not confined to a particular political [identity]({{ 'identity/' | relative_url }}). <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gatescambridge.org/about/news/online-game-helps-players-to-spot-fake-news/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gatescambridge.org">[Gates Cambridge]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gatescambridge.org</span><span class="citation-popover-title">online game helps players to spot fake news</span><span class="citation-popover-snippet">Gates CambridgeOnline game helps players to spot fake news10 Jan 2020 — Bad News is part of an approach to fake news that builds attitudi...</span></span></span>
+Researchers also reported that effects appeared across different political orientations, an important finding because misinformation interventions are often criticised for favouring one ideological group over another. In these studies, the benefits were not confined to a particular political [identity]({{ 'identity/' | relative_url }}).<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gatescambridge.org/about/news/online-game-helps-players-to-spot-fake-news/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gatescambridge.org">[Gates Cambridge]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gatescambridge.org</span><span class="citation-popover-title">online game helps players to spot fake news</span><span class="citation-popover-snippet">Gates CambridgeOnline game helps players to spot fake news10 Jan 2020 — Bad News is part of an approach to fake news that builds attitudi...</span></span></span>
 
-However, cross-cultural success should not be overstated. These studies generally show that participants become better at identifying examples of manipulation shortly after playing the game. They do not prove permanent immunity to misinformation, nor do they demonstrate that every cultural context will respond identically. Measuring long-term changes in behaviour remains much harder than measuring immediate changes in ratings of credibility or reliability. <span class="citation-chip-wrap"><a class="citation-chip" href="https://misinforeview.hks.harvard.edu/article/global-vaccination-badnews/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: misinforeview.hks.harvard.edu">[Misinformation Review]</a><span class="citation-popover" role="note"><span class="citation-popover-source">misinforeview.hks.harvard.edu</span><span class="citation-popover-title">global vaccination badnews</span><span class="citation-popover-snippet">Misinformation ReviewPrebunking interventions based on “inoculation” theory can...by J Roozenbeek · 2020 · Cited by 366 — This study fin...</span></span></span>
+However, cross-cultural success should not be overstated. These studies generally show that participants become better at identifying examples of manipulation shortly after playing the game. They do not prove permanent immunity to misinformation, nor do they demonstrate that every cultural context will respond identically. Measuring long-term changes in behaviour remains much harder than measuring immediate changes in ratings of credibility or reliability.<span class="citation-chip-wrap"><a class="citation-chip" href="https://misinforeview.hks.harvard.edu/article/global-vaccination-badnews/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: misinforeview.hks.harvard.edu">[Misinformation Review]</a><span class="citation-popover" role="note"><span class="citation-popover-source">misinforeview.hks.harvard.edu</span><span class="citation-popover-title">global vaccination badnews</span><span class="citation-popover-snippet">Misinformation ReviewPrebunking interventions based on “inoculation” theory can...by J Roozenbeek · 2020 · Cited by 366 — This study fin...</span></span></span>
 
-The evidence also does not show that all misinformation can be reduced to a handful of tactics. Real-world information environments contain satire, partisan argument, genuine disagreement, and legitimate emotional communication. Recognising a technique is helpful, but it is not a substitute for evaluating evidence and sources. <span class="citation-chip-wrap"><a class="citation-chip" href="https://royalsocietypublishing.org/doi/abs/10.1098/rsos.211719" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: royalsocietypublishing.org">[Royal Society Publishing]</a><span class="citation-popover" role="note"><span class="citation-popover-source">royalsocietypublishing.org</span><span class="citation-popover-snippet">Royal Society PublishingTechnique-based inoculation against real-world misinformationby J Roozenbeek · 2022 · Cited by 109 — 2020Good new...</span></span></span>
+The evidence also does not show that all misinformation can be reduced to a handful of tactics. Real-world information environments contain satire, partisan argument, genuine disagreement, and legitimate emotional communication. Recognising a technique is helpful, but it is not a substitute for evaluating evidence and sources.<span class="citation-chip-wrap"><a class="citation-chip" href="https://royalsocietypublishing.org/doi/abs/10.1098/rsos.211719" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: royalsocietypublishing.org">[Royal Society Publishing]</a><span class="citation-popover" role="note"><span class="citation-popover-source">royalsocietypublishing.org</span><span class="citation-popover-snippet">Royal Society PublishingTechnique-based inoculation against real-world misinformationby J Roozenbeek · 2022 · Cited by 109 — 2020Good new...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/1RmxeZHPeHg" title="How &quot;prebunking&quot; misinformation works" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=1RmxeZHPeHg" target="_blank" rel="noopener noreferrer">How &quot;prebunking&quot; misinformation works</a></p><p class="youtube-embed-meta">Channel: 60 Minutes &middot; Views: 31.2K &middot; Uploaded: March 2024 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=1RmxeZHPeHg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=1RmxeZHPeHg">Open on YouTube</a></p></div></div></div>
 
 ## What the evidence says overall
 
-Among game-based prebunking interventions, *Bad News* remains one of the most extensively studied examples. Multiple studies and replications have found that participants become more resistant to common misinformation techniques after gameplay and more confident in identifying manipulative content. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nature.com/articles/s41599-019-0279-9" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Jon Roozenbeek &amp;; Sander van der Linden. Palgrave Communications...Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6952868/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Good News about Bad News: Gamified Inoculation Boosts...by M Basol · 2020 · Cited by 570 — A recent example is the Bad News game, an...</span></span></span>
+Among game-based prebunking interventions, *Bad News* remains one of the most extensively studied examples. Multiple studies and replications have found that participants become more resistant to common misinformation techniques after gameplay and more confident in identifying manipulative content.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nature.com/articles/s41599" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Jon Roozenbeek &amp;; Sander van der Linden. Palgrave Communications...Read more...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6952868/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Good News about Bad News: Gamified Inoculation Boosts...by M Basol · 2020 · Cited by 570 — A recent example is the Bad News game, an...</span></span></span>
 
-The game's significance lies less in its entertainment value than in what it demonstrated about misinformation education. It provided evidence that active participation—briefly stepping into the role of a misinformation producer—can be an effective way to teach recognition of manipulation tactics before people encounter them in everyday information environments. Within the broader family of prebunking strategies, *Bad News* became a prominent example of how interactive experiences can complement simple warnings and factual corrections. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sdmlab.psychol.cam.ac.uk/research/bad-news-game" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sdmlab.psychol.cam.ac.uk">[sdmlab.psychol.cam.ac.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sdmlab.psychol.cam.ac.uk</span><span class="citation-popover-snippet">Bad News Game &#124; Cambridge Social Decision-Making LabThe Bad News Game is a multiple award-winning fake news intervention aimed at buildin...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://inoculation.science/inoculation-games/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: inoculation.science">[Inoculation Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">inoculation.science</span><span class="citation-popover-title">Science Inoculation Science</span><span class="citation-popover-snippet">Interactive GamesSo far, we&#x27;ve launched three different games, each of which covers a different domain of misinform...</span></span></span>
+The game's significance lies less in its entertainment value than in what it demonstrated about misinformation education. It provided evidence that active participation—briefly stepping into the role of a misinformation producer—can be an effective way to teach recognition of manipulation tactics before people encounter them in everyday information environments. Within the broader family of prebunking strategies, *Bad News* became a prominent example of how interactive experiences can complement simple warnings and factual corrections.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sdmlab.psychol.cam.ac.uk/research/bad-news-game" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sdmlab.psychol.cam.ac.uk">[sdmlab.psychol.cam.ac.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sdmlab.psychol.cam.ac.uk</span><span class="citation-popover-snippet">Bad News Game &#124; Cambridge Social Decision-Making LabThe Bad News Game is a multiple award-winning fake news intervention aimed at buildin...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://inoculation.science/inoculation-games/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: inoculation.science">[Inoculation Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">inoculation.science</span><span class="citation-popover-title">Science Inoculation Science</span><span class="citation-popover-snippet">Interactive GamesSo far, we&#x27;ve launched three different games, each of which covers a different domain of misinform...</span></span></span>
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_prebunking_misinform_8ad4ae_bad_news_game_inocul_c5bc96-Illustration-3-dark.svg" | relative_url }}" alt="Bad News game illustration 3" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_prebunking_misinform_8ad4ae_bad_news_game_inocul_c5bc96-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_prebunking_misinform_8ad4ae_bad_news_game_inocul_c5bc96-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why pretending to mislead can teach resistance. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why pretending to mislead can teach resistance. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Psychology+of+Fake+News+by+Rainer+Greifeneder&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Psychology of Fake News on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=-Q72DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Psychology of Fake News" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Psychology+of+Fake+News+by+Rainer+Greifeneder&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Psychology of Fake News">The Psychology of Fake News</a>
-        </h4>
-        <p class="fr-book-author">By Rainer Greifeneder, Mariela Jaffe et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Psychology+of+Fake+News+by+Rainer+Greifeneder&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Psychology of Fake News on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=-Q72DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Psychology of Fake News" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Psychology+of+Fake+News+by+Rainer+Greifeneder&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Psychology of Fake News">The Psychology of Fake News</a>
+</h4>
+<p class="fr-book-author">By Rainer Greifeneder, Mariela Jaffe et al.</p>
         
-        <p class="fr-book-desc">Covers the mechanisms targeted by inoculation games.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Psychology+of+Fake+News+by+Rainer+Greifeneder&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers the mechanisms targeted by inoculation games.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Psychology+of+Fake+News+by+Rainer+Greifeneder&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YGPzXWanppcC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
-        </h4>
-        <p class="fr-book-author">By Daniel Kahneman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YGPzXWanppcC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
+</h4>
+<p class="fr-book-author">By Daniel Kahneman</p>
         
-        <p class="fr-book-desc">Explains cognitive vulnerabilities targeted by manipulative content.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains cognitive vulnerabilities targeted by manipulative content.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Foolproof+Sander+Van+Der+Linden&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Foolproof on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/13300557-M.jpg" alt="Cover for Foolproof" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Foolproof+Sander+Van+Der+Linden&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Foolproof">Foolproof</a>
-        </h4>
-        <p class="fr-book-author">By Sander Van Der Linden</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Foolproof+Sander+Van+Der+Linden&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Foolproof on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/13300557-M.jpg" alt="Cover for Foolproof" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Foolproof+Sander+Van+Der+Linden&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Foolproof">Foolproof</a>
+</h4>
+<p class="fr-book-author">By Sander Van Der Linden</p>
         
-        <p class="fr-book-desc">First published 2023.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Foolproof+Sander+Van+Der+Linden&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2023.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Foolproof+Sander+Van+Der+Linden&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Influence+by+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Influence on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Influence+by+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Influence">Influence</a>
-        </h4>
-        <p class="fr-book-author">By Robert B. Cialdini</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Influence+by+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Influence on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Influence+by+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Influence">Influence</a>
+</h4>
+<p class="fr-book-author">By Robert B. Cialdini</p>
         
-        <p class="fr-book-desc">Helps readers recognise persuasive tactics used in misinformation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Influence+by+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps readers recognise persuasive tactics used in misinformation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Influence+by+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Psychology+of+Fake+News&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Psychology of Fake News</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Foolproof&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Foolproof</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Psychology+of+Fake+News&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Psychology of Fake News</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Foolproof&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Foolproof</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bad-news-game-why-pretending-to-mislead-can-teach-resistance-myths-and-misconcept-science-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science wall art" data-ebay-reference="bad-news-game-why-pretending-to-mislead-can-teach-resistance-myths-and-misconcept-science-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Science science Framed Art Print Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/84e3114d732933008429.jpg' | relative_url }}" alt="Listing image for Science science Framed Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bad-news-game-why-pretending-to-mislead-can-teach-resistance-myths-and-misconcept-science-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science wall art" data-ebay-reference="bad-news-game-why-pretending-to-mislead-can-teach-resistance-myths-and-misconcept-science-wall-art" target="_blank" rel="sponsored noopener noreferrer">Science science Framed Art Print Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bad-news-game-why-pretending-to-mislead-can-teach-resistance-myths-and-misconcept-science-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science wall art" data-ebay-reference="bad-news-game-why-pretending-to-mislead-can-teach-resistance-myths-and-misconcept-science-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: science wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bad-news-game-why-pretending-to-mislead-can-teach-resistance-myths-and-misconcept-science-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science wall art" data-ebay-reference="bad-news-game-why-pretending-to-mislead-can-teach-resistance-myths-and-misconcept-science-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bad-news-game-why-pretending-to-mislead-can-teach-resistance-myths-and-misconcept-science-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science wall art" data-ebay-reference="bad-news-game-why-pretending-to-mislead-can-teach-resistance-myths-and-misconcept-science-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Science science Framed Art Print Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/84e3114d732933008429.jpg' | relative_url }}" alt="Listing image for Science science Framed Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bad-news-game-why-pretending-to-mislead-can-teach-resistance-myths-and-misconcept-science-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science wall art" data-ebay-reference="bad-news-game-why-pretending-to-mislead-can-teach-resistance-myths-and-misconcept-science-wall-art" target="_blank" rel="sponsored noopener noreferrer">Science science Framed Art Print Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bad-news-game-why-pretending-to-mislead-can-teach-resistance-myths-and-misconcept-science-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science wall art" data-ebay-reference="bad-news-game-why-pretending-to-mislead-can-teach-resistance-myths-and-misconcept-science-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: science wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bad-news-game-why-pretending-to-mislead-can-teach-resistance-myths-and-misconcept-science-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science wall art" data-ebay-reference="bad-news-game-why-pretending-to-mislead-can-teach-resistance-myths-and-misconcept-science-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bad-news-game-why-pretending-to-mislead-can-teach-resistance-myths-and-misconcept-science-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science wall art" data-ebay-reference="bad-news-game-why-pretending-to-mislead-can-teach-resistance-myths-and-misconcept-science-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Science - Science Boy - Science Gir Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/cacc5712f12b7f185696.jpg' | relative_url }}" alt="Listing image for Science - Science Boy - Science Gir Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bad-news-game-why-pretending-to-mislead-can-teach-resistance-myths-and-misconcept-science-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science wall art" data-ebay-reference="bad-news-game-why-pretending-to-mislead-can-teach-resistance-myths-and-misconcept-science-wall-art" target="_blank" rel="sponsored noopener noreferrer">Science - Science Boy - Science Gir Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bad-news-game-why-pretending-to-mislead-can-teach-resistance-myths-and-misconcept-science-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science wall art" data-ebay-reference="bad-news-game-why-pretending-to-mislead-can-teach-resistance-myths-and-misconcept-science-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: science wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bad-news-game-why-pretending-to-mislead-can-teach-resistance-myths-and-misconcept-science-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science wall art" data-ebay-reference="bad-news-game-why-pretending-to-mislead-can-teach-resistance-myths-and-misconcept-science-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bad-news-game-why-pretending-to-mislead-can-teach-resistance-myths-and-misconcept-science-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science wall art" data-ebay-reference="bad-news-game-why-pretending-to-mislead-can-teach-resistance-myths-and-misconcept-science-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Science - Science Boy - Science Gir Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/cacc5712f12b7f185696.jpg' | relative_url }}" alt="Listing image for Science - Science Boy - Science Gir Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bad-news-game-why-pretending-to-mislead-can-teach-resistance-myths-and-misconcept-science-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science wall art" data-ebay-reference="bad-news-game-why-pretending-to-mislead-can-teach-resistance-myths-and-misconcept-science-wall-art" target="_blank" rel="sponsored noopener noreferrer">Science - Science Boy - Science Gir Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bad-news-game-why-pretending-to-mislead-can-teach-resistance-myths-and-misconcept-science-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science wall art" data-ebay-reference="bad-news-game-why-pretending-to-mislead-can-teach-resistance-myths-and-misconcept-science-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: science wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bad-news-game-why-pretending-to-mislead-can-teach-resistance-myths-and-misconcept-science-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science wall art" data-ebay-reference="bad-news-game-why-pretending-to-mislead-can-teach-resistance-myths-and-misconcept-science-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bad-news-game-why-pretending-to-mislead-can-teach-resistance-myths-and-misconcept-science-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science wall art" data-ebay-reference="bad-news-game-why-pretending-to-mislead-can-teach-resistance-myths-and-misconcept-science-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Science Rules Cute Scientist Fun Sc Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/1ac60d56254d6b01364f.jpg' | relative_url }}" alt="Listing image for Science Rules Cute Scientist Fun Sc Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bad-news-game-why-pretending-to-mislead-can-teach-resistance-myths-and-misconcept-science-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science wall art" data-ebay-reference="bad-news-game-why-pretending-to-mislead-can-teach-resistance-myths-and-misconcept-science-wall-art" target="_blank" rel="sponsored noopener noreferrer">Science Rules Cute Scientist Fun Sc Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bad-news-game-why-pretending-to-mislead-can-teach-resistance-myths-and-misconcept-science-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science wall art" data-ebay-reference="bad-news-game-why-pretending-to-mislead-can-teach-resistance-myths-and-misconcept-science-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: science wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bad-news-game-why-pretending-to-mislead-can-teach-resistance-myths-and-misconcept-science-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science wall art" data-ebay-reference="bad-news-game-why-pretending-to-mislead-can-teach-resistance-myths-and-misconcept-science-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bad-news-game-why-pretending-to-mislead-can-teach-resistance-myths-and-misconcept-science-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science wall art" data-ebay-reference="bad-news-game-why-pretending-to-mislead-can-teach-resistance-myths-and-misconcept-science-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Science Rules Cute Scientist Fun Sc Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/1ac60d56254d6b01364f.jpg' | relative_url }}" alt="Listing image for Science Rules Cute Scientist Fun Sc Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bad-news-game-why-pretending-to-mislead-can-teach-resistance-myths-and-misconcept-science-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science wall art" data-ebay-reference="bad-news-game-why-pretending-to-mislead-can-teach-resistance-myths-and-misconcept-science-wall-art" target="_blank" rel="sponsored noopener noreferrer">Science Rules Cute Scientist Fun Sc Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bad-news-game-why-pretending-to-mislead-can-teach-resistance-myths-and-misconcept-science-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science wall art" data-ebay-reference="bad-news-game-why-pretending-to-mislead-can-teach-resistance-myths-and-misconcept-science-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: science wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bad-news-game-why-pretending-to-mislead-can-teach-resistance-myths-and-misconcept-science-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science wall art" data-ebay-reference="bad-news-game-why-pretending-to-mislead-can-teach-resistance-myths-and-misconcept-science-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bad-news-game-why-pretending-to-mislead-can-teach-resistance-myths-and-misconcept-science-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science wall art" data-ebay-reference="bad-news-game-why-pretending-to-mislead-can-teach-resistance-myths-and-misconcept-science-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Science Is Like Magic But Real Unic Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/3cdfff053ac0a1a8635b.jpg' | relative_url }}" alt="Listing image for Science Is Like Magic But Real Unic Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bad-news-game-why-pretending-to-mislead-can-teach-resistance-myths-and-misconcept-science-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science wall art" data-ebay-reference="bad-news-game-why-pretending-to-mislead-can-teach-resistance-myths-and-misconcept-science-wall-art" target="_blank" rel="sponsored noopener noreferrer">Science Is Like Magic But Real Unic Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bad-news-game-why-pretending-to-mislead-can-teach-resistance-myths-and-misconcept-science-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science wall art" data-ebay-reference="bad-news-game-why-pretending-to-mislead-can-teach-resistance-myths-and-misconcept-science-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: science wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bad-news-game-why-pretending-to-mislead-can-teach-resistance-myths-and-misconcept-science-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science wall art" data-ebay-reference="bad-news-game-why-pretending-to-mislead-can-teach-resistance-myths-and-misconcept-science-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bad-news-game-why-pretending-to-mislead-can-teach-resistance-myths-and-misconcept-science-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science wall art" data-ebay-reference="bad-news-game-why-pretending-to-mislead-can-teach-resistance-myths-and-misconcept-science-wall-art" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bad-news-game-why-pretending-to-mislead-can-teach-resistance-myths-and-misconcept-science-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science wall art" data-ebay-reference="bad-news-game-why-pretending-to-mislead-can-teach-resistance-myths-and-misconcept-science-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Science Is Like Magic But Real Unic Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/3cdfff053ac0a1a8635b.jpg' | relative_url }}" alt="Listing image for Science Is Like Magic But Real Unic Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bad-news-game-why-pretending-to-mislead-can-teach-resistance-myths-and-misconcept-science-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science wall art" data-ebay-reference="bad-news-game-why-pretending-to-mislead-can-teach-resistance-myths-and-misconcept-science-wall-art" target="_blank" rel="sponsored noopener noreferrer">Science Is Like Magic But Real Unic Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bad-news-game-why-pretending-to-mislead-can-teach-resistance-myths-and-misconcept-science-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science wall art" data-ebay-reference="bad-news-game-why-pretending-to-mislead-can-teach-resistance-myths-and-misconcept-science-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: science wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bad-news-game-why-pretending-to-mislead-can-teach-resistance-myths-and-misconcept-science-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science wall art" data-ebay-reference="bad-news-game-why-pretending-to-mislead-can-teach-resistance-myths-and-misconcept-science-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bad-news-game-why-pretending-to-mislead-can-teach-resistance-myths-and-misconcept-science-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science wall art" data-ebay-reference="bad-news-game-why-pretending-to-mislead-can-teach-resistance-myths-and-misconcept-science-wall-art" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -531,7 +531,7 @@ The game's significance lies less in its entertainment value than in what it dem
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -551,7 +551,7 @@ The game's significance lies less in its entertainment value than in what it dem
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -583,7 +583,7 @@ The game's significance lies less in its entertainment value than in what it dem
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -635,7 +635,7 @@ The game's significance lies less in its entertainment value than in what it dem
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -680,7 +680,7 @@ The game's significance lies less in its entertainment value than in what it dem
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -721,160 +721,160 @@ The game's significance lies less in its entertainment value than in what it dem
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: nature.com  
-   Link: <a href="https://www.nature.com/articles/s41599-019-0279-9" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41599-019-0279-9</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Jon Roozenbeek &amp;; Sander van der Linden. Palgrave Communications...Read more...</p></details>
+   Link:<a href="https://www.nature.com/articles/s41599" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41599</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Jon Roozenbeek &amp;; Sander van der Linden. Palgrave Communications...Read more...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: sdmlab.psychol.cam.ac.uk  
-   Link: <a href="https://www.sdmlab.psychol.cam.ac.uk/research/bad-news-game" target="_blank" rel="noopener noreferrer nofollow">https://www.sdmlab.psychol.cam.ac.uk/research/bad-news-game</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Bad News Game | Cambridge Social Decision-Making LabThe Bad News Game is a multiple award-winning fake news intervention aimed at buildin...</p></details>
+   Link:<a href="https://www.sdmlab.psychol.cam.ac.uk/research/bad-news-game" target="_blank" rel="noopener noreferrer nofollow">https://www.sdmlab.psychol.cam.ac.uk/research/bad-news-game</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Bad News Game | Cambridge Social Decision-Making LabThe Bad News Game is a multiple award-winning fake news intervention aimed at buildin...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6952868/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC6952868/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Good News about Bad News: Gamified Inoculation Boosts...by M Basol · 2020 · Cited by 570 — A recent example is the Bad News game, an...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6952868/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC6952868/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Good News about Bad News: Gamified Inoculation Boosts...by M Basol · 2020 · Cited by 570 — A recent example is the Bad News game, an...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: tandfonline.com  
-   Link: <a href="https://www.tandfonline.com/doi/abs/10.1080/13669877.2018.1443491" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/abs/10.1080/13669877.2018.1443491</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>In Related News, That Was Wrong: The [Correction](&amp;#123;&amp;#123; &#x27;correction/&#x27; | relative_url &amp;#125;&amp;#125;) of Misinformation Through Related Stories Functionality in Social Media.Read more...</p></details>
+   Link:<a href="https://www.tandfonline.com/doi/abs/10.1080/13669877.2018.1443491" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/abs/10.1080/13669877.2018.1443491</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>In Related News, That Was Wrong: The [Correction](&amp;#123;&amp;#123; &#x27;correction/&#x27; | relative_url &amp;#125;&amp;#125;) of Misinformation Through Related Stories Functionality in Social Media.Read more...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: cam.ac.uk  
    Title: Screenshot from the fake news 'vaccine' game Bad News.Read more  
-   Link: <a href="https://www.cam.ac.uk/research/news/fake-news-vaccine-works-pre-bunk-game-reduces-susceptibility-to-disinformation" target="_blank" rel="noopener noreferrer nofollow">https://www.cam.ac.uk/research/news/fake-news-vaccine-works-pre-bunk-game-reduces-susceptibility-to-disinformation</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>University of CambridgeFake news &#x27;vaccine&#x27; works: &#x27;pre-bunk&#x27; game reduces...25 Jun 2019 — Fake news &#x27;vaccine&#x27; works: &#x27;pre-bunk&#x27; game red...</p></details>
+   Link:<a href="https://www.cam.ac.uk/research/news/fake-news-vaccine-works-pre-bunk-game-reduces-susceptibility-to-disinformation" target="_blank" rel="noopener noreferrer nofollow">https://www.cam.ac.uk/research/news/fake-news-vaccine-works-pre-bunk-game-reduces-susceptibility-to-disinformation</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>University of CambridgeFake news &#x27;vaccine&#x27; works: &#x27;pre-bunk&#x27; game reduces...25 Jun 2019 — Fake news &#x27;vaccine&#x27; works: &#x27;pre-bunk&#x27; game red...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: horizons.service.canada.ca  
    Title: Bad News: a game against disinformation  
-   Link: <a href="https://horizons.service.canada.ca/en/2021/05/07/bad-news-a-game-against-disinformation/" target="_blank" rel="noopener noreferrer nofollow">https://horizons.service.canada.ca/en/2021/05/07/bad-news-a-game-against-disinformation/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>News: a game against disinformationMay 7, 2021 —... game called “Bad News” with the goal of countering misinformation.... conspiracy th...</p></details>
+   Link:<a href="https://horizons.service.canada.ca/en/2021/05/07/bad-news-a-game-against-disinformation/" target="_blank" rel="noopener noreferrer nofollow">https://horizons.service.canada.ca/en/2021/05/07/bad-news-a-game-against-disinformation/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>News: a game against disinformationMay 7, 2021 —... game called “Bad News” with the goal of countering misinformation.... conspiracy th...</p></details>
    Published: May 7, 2021  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: inoculation.science  
-   Link: <a href="https://inoculation.science/cross-cultural-validity-of-inoculations/" target="_blank" rel="noopener noreferrer nofollow">https://inoculation.science/cross-cultural-validity-of-inoculations/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Cross-cultural validity of inoculationsThis study finds that the online “fake news” game, Bad News, can confer psychological resistance a...</p></details>
+   Link:<a href="https://inoculation.science/cross-cultural-validity-of-inoculations/" target="_blank" rel="noopener noreferrer nofollow">https://inoculation.science/cross-cultural-validity-of-inoculations/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Cross-cultural validity of inoculationsThis study finds that the online “fake news” game, Bad News, can confer psychological resistance a...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: inoculation.science  
    Title: Science Inoculation Science  
-   Link: <a href="https://inoculation.science/inoculation-games/" target="_blank" rel="noopener noreferrer nofollow">https://inoculation.science/inoculation-games/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Interactive GamesSo far, we&#x27;ve launched three different games, each of which covers a different domain of misinform...</p></details>
+   Link:<a href="https://inoculation.science/inoculation-games/" target="_blank" rel="noopener noreferrer nofollow">https://inoculation.science/inoculation-games/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Interactive GamesSo far, we&#x27;ve launched three different games, each of which covers a different domain of misinform...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: inoculation.science  
-   Link: <a href="https://inoculation.science/inoculation-games/bad-vaxx/" target="_blank" rel="noopener noreferrer nofollow">https://inoculation.science/inoculation-games/bad-vaxx/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>tion: Bad News (about online “fake news”), Harmony Square (...Read more...</p></details>
+   Link:<a href="https://inoculation.science/inoculation-games/bad-vaxx/" target="_blank" rel="noopener noreferrer nofollow">https://inoculation.science/inoculation-games/bad-vaxx/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>tion: Bad News (about online “fake news”), Harmony Square (...Read more...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: tandfonline.com  
-   Link: <a href="https://www.tandfonline.com/doi/full/10.1080/15391523.2024.2338451" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/full/10.1080/15391523.2024.2338451</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>bad news: Gamified inoculation boosts [confidence](&amp;#123;&amp;#123; &#x27;confidence/&#x27; | relative_url &amp;#125;&amp;#125;) and cognitive immunity against fake news.... inoculation research on online misinformat...</p></details>
+   Link:<a href="https://www.tandfonline.com/doi/full/10.1080/15391523.2024.2338451" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/full/10.1080/15391523.2024.2338451</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>bad news: Gamified inoculation boosts [confidence](&amp;#123;&amp;#123; &#x27;confidence/&#x27; | relative_url &amp;#125;&amp;#125;) and cognitive immunity against fake news.... inoculation research on online misinformat...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: getbadnews.com  
-   Link: <a href="https://www.getbadnews.com/en" target="_blank" rel="noopener noreferrer nofollow">https://www.getbadnews.com/en</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Bad News - Play the fake news game!Play the fake news game! How bad are you? Become a fake news tycoon and get as many followers as you can...</p></details>
+   Link:<a href="https://www.getbadnews.com/en" target="_blank" rel="noopener noreferrer nofollow">https://www.getbadnews.com/en</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Bad News - Play the fake news game!Play the fake news game! How bad are you? Become a fake news tycoon and get as many followers as you can...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: misinforeview.hks.harvard.edu  
    Title: global vaccination badnews  
-   Link: <a href="https://misinforeview.hks.harvard.edu/article/global-vaccination-badnews/" target="_blank" rel="noopener noreferrer nofollow">https://misinforeview.hks.harvard.edu/article/global-vaccination-badnews/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Misinformation ReviewPrebunking interventions based on “inoculation” theory can...by J Roozenbeek · 2020 · Cited by 366 — This study fin...</p></details>
+   Link:<a href="https://misinforeview.hks.harvard.edu/article/global-vaccination-badnews/" target="_blank" rel="noopener noreferrer nofollow">https://misinforeview.hks.harvard.edu/article/global-vaccination-badnews/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Misinformation ReviewPrebunking interventions based on “inoculation” theory can...by J Roozenbeek · 2020 · Cited by 366 — This study fin...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: royalsocietypublishing.org  
-   Link: <a href="https://royalsocietypublishing.org/doi/abs/10.1098/rsos.211719" target="_blank" rel="noopener noreferrer nofollow">https://royalsocietypublishing.org/doi/abs/10.1098/rsos.211719</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Royal Society PublishingTechnique-based inoculation against real-world misinformationby J Roozenbeek · 2022 · Cited by 109 — 2020Good new...</p></details>
+   Link:<a href="https://royalsocietypublishing.org/doi/abs/10.1098/rsos.211719" target="_blank" rel="noopener noreferrer nofollow">https://royalsocietypublishing.org/doi/abs/10.1098/rsos.211719</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Royal Society PublishingTechnique-based inoculation against real-world misinformationby J Roozenbeek · 2022 · Cited by 109 — 2020Good new...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: royalsocietypublishing.org  
    Title: Technique based inoculation against real world  
-   Link: <a href="https://royalsocietypublishing.org/rsos/article/9/5/211719/96738/Technique-based-inoculation-against-real-world" target="_blank" rel="noopener noreferrer nofollow">https://royalsocietypublishing.org/rsos/article/9/5/211719/96738/Technique-based-inoculation-against-real-world</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Technique-based inoculation against real-world misinformationby J Roozenbeek · 2022 · Cited by 115 — Across two large-scale experiments...</p></details>
+   Link:<a href="https://royalsocietypublishing.org/rsos/article/9/5/211719/96738/Technique-based-inoculation-against-real-world" target="_blank" rel="noopener noreferrer nofollow">https://royalsocietypublishing.org/rsos/article/9/5/211719/96738/Technique-based-inoculation-against-real-world</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Technique-based inoculation against real-world misinformationby J Roozenbeek · 2022 · Cited by 115 — Across two large-scale experiments...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: medialiteracyireland.ie  
-   Link: <a href="https://www.medialiteracyireland.ie/training-development/the-bad-news-game/" target="_blank" rel="noopener noreferrer nofollow">https://www.medialiteracyireland.ie/training-development/the-bad-news-game/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Media Literacy IrelandThe Bad News Game... conspiracy, discredit, trolling) that are used to mislead people and build up a following. Bad...</p></details>
+   Link:<a href="https://www.medialiteracyireland.ie/training-development/the-bad-news-game/" target="_blank" rel="noopener noreferrer nofollow">https://www.medialiteracyireland.ie/training-development/the-bad-news-game/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Media Literacy IrelandThe Bad News Game... conspiracy, discredit, trolling) that are used to mislead people and build up a following. Bad...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: medialiteracynow.org  
    Title: bad news game  
-   Link: <a href="https://medialiteracynow.org/document/bad-news-game/" target="_blank" rel="noopener noreferrer nofollow">https://medialiteracynow.org/document/bad-news-game/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Amanda2024-04-11T11:55:... conspiracy thinking, polarization, and trolling to magnify fake news and gain (fictional) social media followers...</p></details>
+   Link:<a href="https://medialiteracynow.org/document/bad-news-game/" target="_blank" rel="noopener noreferrer nofollow">https://medialiteracynow.org/document/bad-news-game/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Amanda2024-04-11T11:55:... conspiracy thinking, polarization, and trolling to magnify fake news and gain (fictional) social media followers...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: misinforeview.hks.harvard.edu  
    Title: FORMATTED globalvaccination Jan30  
-   Link: <a href="https://misinforeview.hks.harvard.edu/wp-content/uploads/2020/02/FORMATTED_globalvaccination_Jan30.pdf" target="_blank" rel="noopener noreferrer nofollow">https://misinforeview.hks.harvard.edu/wp-content/uploads/2020/02/FORMATTED_globalvaccination_Jan30.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Misinformation ReviewPrebunking interventions based on “inoculation” theory can...by J Roozenbeek · 2020 · Cited by 378 — This study fin...</p></details>
+   Link:<a href="https://misinforeview.hks.harvard.edu/wp-content/uploads/2020/02/FORMATTED_globalvaccination_Jan30.pdf" target="_blank" rel="noopener noreferrer nofollow">https://misinforeview.hks.harvard.edu/wp-content/uploads/2020/02/FORMATTED_globalvaccination_Jan30.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Misinformation ReviewPrebunking interventions based on “inoculation” theory can...by J Roozenbeek · 2020 · Cited by 378 — This study fin...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: gatescambridge.org  
    Title: online game helps players to spot fake news  
-   Link: <a href="https://www.gatescambridge.org/about/news/online-game-helps-players-to-spot-fake-news/" target="_blank" rel="noopener noreferrer nofollow">https://www.gatescambridge.org/about/news/online-game-helps-players-to-spot-fake-news/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Gates CambridgeOnline game helps players to spot fake news10 Jan 2020 — Bad News is part of an approach to fake news that builds attitudi...</p></details>
+   Link:<a href="https://www.gatescambridge.org/about/news/online-game-helps-players-to-spot-fake-news/" target="_blank" rel="noopener noreferrer nofollow">https://www.gatescambridge.org/about/news/online-game-helps-players-to-spot-fake-news/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Gates CambridgeOnline game helps players to spot fake news10 Jan 2020 — Bad News is part of an approach to fake news that builds attitudi...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: tiltstudio.co  
    Title: Bad News Game  
-   Link: <a href="https://www.tiltstudio.co/solutions/cases/bad-news-game/" target="_blank" rel="noopener noreferrer nofollow">https://www.tiltstudio.co/solutions/cases/bad-news-game/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>TiltMaking [headlines](&amp;#123;&amp;#123; &#x27;headlines/&#x27; | relative_url &amp;#125;&amp;#125;) with a serious game about disinformation. Bad news, serious game about online misinformation...Read more...</p></details>
+   Link:<a href="https://www.tiltstudio.co/solutions/cases/bad-news-game/" target="_blank" rel="noopener noreferrer nofollow">https://www.tiltstudio.co/solutions/cases/bad-news-game/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>TiltMaking [headlines](&amp;#123;&amp;#123; &#x27;headlines/&#x27; | relative_url &amp;#125;&amp;#125;) with a serious game about disinformation. Bad news, serious game about online misinformation...Read more...</p></details>
 
 ### Additional References
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: understanding-europe.org  
-   Link: <a href="https://understanding-europe.org/en/news/bad-news-from-fake-news-to-chaos/" target="_blank" rel="noopener noreferrer nofollow">https://understanding-europe.org/en/news/bad-news-from-fake-news-to-chaos/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Bad News – from fake news to chaosIt is designed to help students recognize misinformation, fake news and conspiracy theories and to reac...</p></details>
+   Link:<a href="https://understanding-europe.org/en/news/bad-news-from-fake-news-to-chaos/" target="_blank" rel="noopener noreferrer nofollow">https://understanding-europe.org/en/news/bad-news-from-fake-news-to-chaos/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Bad News – from fake news to chaosIt is designed to help students recognize misinformation, fake news and conspiracy theories and to reac...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: stratcomcoe.org  
-   Link: <a href="https://stratcomcoe.org/publications/download/Inoculation-theory-and-Misinformation-FINAL-digital-ISBN-ebbe8.pdf" target="_blank" rel="noopener noreferrer nofollow">https://stratcomcoe.org/publications/download/Inoculation-theory-and-Misinformation-FINAL-digital-ISBN-ebbe8.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>INOCULATION THEORY AND MISINFORMATIONTo do so, we first discuss how to define “misinformation”, and how it relates to various other commo...</p></details>
+   Link:<a href="https://stratcomcoe.org/publications/download/Inoculation-theory-and-Misinformation-FINAL-digital-ISBN-ebbe8.pdf" target="_blank" rel="noopener noreferrer nofollow">https://stratcomcoe.org/publications/download/Inoculation-theory-and-Misinformation-FINAL-digital-ISBN-ebbe8.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>INOCULATION THEORY AND MISINFORMATIONTo do so, we first discuss how to define “misinformation”, and how it relates to various other commo...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: digitalyouthwork.net  
-   Link: <a href="https://www.digitalyouthwork.net/et/activities/20990" target="_blank" rel="noopener noreferrer nofollow">https://www.digitalyouthwork.net/et/activities/20990</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Inside the Fake News Machine: Learning Through Bad NewsInside the Fake News Machine: Learning Through Bad News · Inside the Fake News Mac...</p></details>
+   Link:<a href="https://www.digitalyouthwork.net/et/activities/20990" target="_blank" rel="noopener noreferrer nofollow">https://www.digitalyouthwork.net/et/activities/20990</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Inside the Fake News Machine: Learning Through Bad NewsInside the Fake News Machine: Learning Through Bad News · Inside the Fake News Mac...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: wired.com  
-   Link: <a href="https://www.wired.com/story/this-psychologist-wants-to-vaccinate-you-against-fake-news" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/this-psychologist-wants-to-vaccinate-you-against-fake-news</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>This idea, inspired by 1960s research by William McGuire, aims to pre-expose individuals to weak forms of misinformation to build resista...</p></details>
+   Link:<a href="https://www.wired.com/story/this-psychologist-wants-to-vaccinate-you-against-fake-news" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/this-psychologist-wants-to-vaccinate-you-against-fake-news</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>This idea, inspired by 1960s research by William McGuire, aims to pre-expose individuals to weak forms of misinformation to build resista...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: weforum.org  
-   Link: <a href="https://www.weforum.org/videos/computer-game-fake-news/" target="_blank" rel="noopener noreferrer nofollow">https://www.weforum.org/videos/computer-game-fake-news/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>This computer game makes students better at spotting fake newsA new computer game called Bad News is helping students spot fake news by h...</p></details>
+   Link:<a href="https://www.weforum.org/videos/computer-game-fake-news/" target="_blank" rel="noopener noreferrer nofollow">https://www.weforum.org/videos/computer-game-fake-news/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>This computer game makes students better at spotting fake newsA new computer game called Bad News is helping students spot fake news by h...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: repository.cam.ac.uk  
    Title: negative impact of misinformation can reduce their communicative effectiveness.R  
-   Link: <a href="https://www.repository.cam.ac.uk/items/a86cd1c0-a966-49cd-87c2-d0e64e700021" target="_blank" rel="noopener noreferrer nofollow">https://www.repository.cam.ac.uk/items/a86cd1c0-a966-49cd-87c2-d0e64e700021</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>fake news game: actively inoculating against the risk of...by J Roozenbeek · 2019 · Cited by 728 — The fake news game: actively inoculat...</p></details>
+   Link:<a href="https://www.repository.cam.ac.uk/items/a86cd1c0-a966-49cd-87c2-d0e64e700021" target="_blank" rel="noopener noreferrer nofollow">https://www.repository.cam.ac.uk/items/a86cd1c0-a966-49cd-87c2-d0e64e700021</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>fake news game: actively inoculating against the risk of...by J Roozenbeek · 2019 · Cited by 728 — The fake news game: actively inoculat...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=0Wx0PUEWTgI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=0Wx0PUEWTgI</a>  
+   Link:<a href="https://www.youtube.com/watch?v=0Wx0PUEWTgI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=0Wx0PUEWTgI</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: journals.sagepub.com  
-   Link: <a href="https://journals.sagepub.com/doi/10.1177/20539517211013868" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/20539517211013868</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>sagepub.comCross-cultural evidence for two prebunking interventions...by M Basol · 2021 · Cited by 396 — ] the award-winning &#x27;fake news&#x27;...</p></details>
+   Link:<a href="https://journals.sagepub.com/doi/10.1177/20539517211013868" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/20539517211013868</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>sagepub.comCross-cultural evidence for two prebunking interventions...by M Basol · 2021 · Cited by 396 — ] the award-winning &#x27;fake news&#x27;...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: disinfo.eu  
    Title: Fight disinformation through gaming and education  
-   Link: <a href="https://www.disinfo.eu/outreach/our-webinars/fight-disinformation-through-gaming-and-education-the-drog-media-literacy-initiative/" target="_blank" rel="noopener noreferrer nofollow">https://www.disinfo.eu/outreach/our-webinars/fight-disinformation-through-gaming-and-education-the-drog-media-literacy-initiative/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>impersonation, [emotion](&amp;#123;&amp;#123; &#x27;emotion/&#x27; | relative_url &amp;#125;&amp;#125;), polarization, trolling, discredit and conspiracy.... Won&#x27;t teaching disinformation strategy give bad ideas to ba...</p></details>
+   Link:<a href="https://www.disinfo.eu/outreach/our-webinars/fight-disinformation-through-gaming-and-education-the-drog-media-literacy-initiative/" target="_blank" rel="noopener noreferrer nofollow">https://www.disinfo.eu/outreach/our-webinars/fight-disinformation-through-gaming-and-education-the-drog-media-literacy-initiative/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>impersonation, [emotion](&amp;#123;&amp;#123; &#x27;emotion/&#x27; | relative_url &amp;#125;&amp;#125;), polarization, trolling, discredit and conspiracy.... Won&#x27;t teaching disinformation strategy give bad ideas to ba...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/37146384/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/37146384/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>the COVID-19 bad news game good...by AM Rędzio · 2023 · Cited by 14 — Previous research (Roozenbeek &amp; van der Linden, 2019a, 2019b) has...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/37146384/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/37146384/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>the COVID-19 bad news game good...by AM Rędzio · 2023 · Cited by 14 — Previous research (Roozenbeek &amp; van der Linden, 2019a, 2019b) has...</p></details>

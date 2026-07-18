@@ -268,16 +268,16 @@ image: /assets/images/Myths_and_misconcept_0d48d7_ten_percent_brain_my_db46b9_wi
 
 ## Introduction
 
-William James did not invent the claim that people use only 10 per cent of their brains. What he actually argued was both broader and more reasonable: most people fail to reach their full mental and physical potential. Over time, however, that idea was simplified, misquoted and merged with popular claims about hidden brain power. The result was one of the most persistent myths in modern psychology. Understanding how James became attached to the story helps explain why the myth sounded credible for so long. A respected psychologist had discussed unrealised human potential, and later writers gradually transformed that message into a false numerical statement about brain use. <span class="citation-chip-wrap"><a class="citation-chip" href="https://mcgovern.mit.edu/2024/01/26/do-we-use-only-10-percent-of-our-brain/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mcgovern.mit.edu">[MIT McGovern Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mcgovern.mit.edu</span><span class="citation-popover-title">do we use only 10 percent of our brain</span><span class="citation-popover-snippet">MIT McGovern InstituteDo we only use 10 percent of our brain?Jan 26, 2024 — The idea that we use 10 percent of our brain is 100 percent a...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.psychologicalscience.org/uncategorized/myth-we-only-use-10-of-our-brains.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: psychologicalscience.org">[Association for Psychological Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">psychologicalscience.org</span><span class="citation-popover-title">myth we only use 10 of our brains</span><span class="citation-popover-snippet">Association for Psychological ScienceMyth: We Only Use 10% of Our BrainsAug 29, 2018 — The origin of the 10% Myth is unclear, but some pe...</span></span></span>
+William James did not invent the claim that people use only 10 per cent of their brains. What he actually argued was both broader and more reasonable: most people fail to reach their full mental and physical potential. Over time, however, that idea was simplified, misquoted and merged with popular claims about hidden brain power. The result was one of the most persistent myths in modern psychology. Understanding how James became attached to the story helps explain why the myth sounded credible for so long. A respected psychologist had discussed unrealised human potential, and later writers gradually transformed that message into a false numerical statement about brain use.<span class="citation-chip-wrap"><a class="citation-chip" href="https://mcgovern.mit.edu/2024/01/26/do-we-use-only-10-percent-of-our-brain/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mcgovern.mit.edu">[MIT McGovern Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mcgovern.mit.edu</span><span class="citation-popover-title">do we use only 10 percent of our brain</span><span class="citation-popover-snippet">MIT McGovern InstituteDo we only use 10 percent of our brain?Jan 26, 2024 — The idea that we use 10 percent of our brain is 100 percent a...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.psychologicalscience.org/uncategorized/myth-we-only-use-10-of-our-brains.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: psychologicalscience.org">[Association for Psychological Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">psychologicalscience.org</span><span class="citation-popover-title">myth we only use 10 of our brains</span><span class="citation-popover-snippet">Association for Psychological ScienceMyth: We Only Use 10% of Our BrainsAug 29, 2018 — The origin of the 10% Myth is unclear, but some pe...</span></span></span>
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_ten_percent_brain_my_db46b9_william_james_brain_576740-Illustration-1-dark.svg" | relative_url }}" alt="William James illustration 1" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_ten_percent_brain_my_db46b9_william_james_brain_576740-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_ten_percent_brain_my_db46b9_william_james_brain_576740-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## What James Actually Argued About Potential
 
-William James, one of the founders of modern psychology, was interested in the gap between what people achieve and what they might be capable of achieving under different conditions. In lectures later collected as *The Energies of Men* (1907), he argued that people often operate below their possible level of performance. He wrote that humans make use of only a small part of their possible mental and physical resources. MIT McGovern Institute <span class="citation-chip-wrap"><a class="citation-chip" href="https://faculty.washington.edu/chudler/tenper.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faculty.washington.edu">[UW Faculty]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faculty.washington.edu</span><span class="citation-popover-title">UW Faculty Neuroscience For Kids</span><span class="citation-popover-snippet">For Kids - 10% of the Brain MythIt may have been William James who wrote in 1908: &quot;We are making use of only a small part of our possible...</span></span></span>
+William James, one of the founders of modern psychology, was interested in the gap between what people achieve and what they might be capable of achieving under different conditions. In lectures later collected as *The Energies of Men* (1907), he argued that people often operate below their possible level of performance. He wrote that humans make use of only a small part of their possible mental and physical resources. MIT McGovern Institute<span class="citation-chip-wrap"><a class="citation-chip" href="https://faculty.washington.edu/chudler/tenper.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faculty.washington.edu">[UW Faculty]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faculty.washington.edu</span><span class="citation-popover-title">UW Faculty Neuroscience For Kids</span><span class="citation-popover-snippet">For Kids - 10% of the Brain MythIt may have been William James who wrote in 1908: &quot;We are making use of only a small part of our possible...</span></span></span>
 
-Importantly, James was not discussing unused brain tissue. He was not claiming that most of the brain sits dormant or inactive. His argument concerned motivation, effort, habit, endurance and the possibility that people possess reserves of energy and capability that they do not normally access. The idea belonged to psychology and human behaviour, not to brain anatomy. BPS <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.educationalneuroscience.org.uk/resources/neuromyth-or-neurofact/we-only-use-10-of-our-brains/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: educationalneuroscience.org.uk">[Educational Neuroscience]</a><span class="citation-popover" role="note"><span class="citation-popover-source">educationalneuroscience.org.uk</span><span class="citation-popover-snippet">We only use 10% of our brainsOne possibility is that it originated from William James, arguably the first experimental psychologist, in t...</span></span></span>
+Importantly, James was not discussing unused brain tissue. He was not claiming that most of the brain sits dormant or inactive. His argument concerned motivation, effort, habit, endurance and the possibility that people possess reserves of energy and capability that they do not normally access. The idea belonged to psychology and human behaviour, not to brain anatomy. BPS<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.educationalneuroscience.org.uk/resources/neuromyth-or-neurofact/we-only-use-10-of-our-brains/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: educationalneuroscience.org.uk">[Educational Neuroscience]</a><span class="citation-popover" role="note"><span class="citation-popover-source">educationalneuroscience.org.uk</span><span class="citation-popover-snippet">We only use 10% of our brainsOne possibility is that it originated from William James, arguably the first experimental psychologist, in t...</span></span></span>
 
-James's concept was also intentionally qualitative. He did not attach a precise percentage to human potential, nor did he suggest that a measurable portion of the brain remained switched off. Later retellings often blur this distinction, turning a philosophical observation about human development into a supposed neuroscientific fact. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.britannica.com/story/do-we-really-use-only-10-percent-of-our-brain" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-title">do we really use only 10 percent of our brain</span><span class="citation-popover-snippet">Encyclopedia BritannicaDo We Really Use Only 10 Percent of Our Brain?Feb 27, 2026 — The myth is often incorrectly attributed to 19th-cent...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.psychologicalscience.org/uncategorized/myth-we-only-use-10-of-our-brains.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: psychologicalscience.org">[Association for Psychological Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">psychologicalscience.org</span><span class="citation-popover-title">myth we only use 10 of our brains</span><span class="citation-popover-snippet">Association for Psychological ScienceMyth: We Only Use 10% of Our BrainsAug 29, 2018 — The origin of the 10% Myth is unclear, but some pe...</span></span></span>
+James's concept was also intentionally qualitative. He did not attach a precise percentage to human potential, nor did he suggest that a measurable portion of the brain remained switched off. Later retellings often blur this distinction, turning a philosophical observation about human development into a supposed neuroscientific fact.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.britannica.com/story/do-we-really-use-only-10-percent-of-our-brain" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-title">do we really use only 10 percent of our brain</span><span class="citation-popover-snippet">Encyclopedia BritannicaDo We Really Use Only 10 Percent of Our Brain?Feb 27, 2026 — The myth is often incorrectly attributed to 19th-cent...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.psychologicalscience.org/uncategorized/myth-we-only-use-10-of-our-brains.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: psychologicalscience.org">[Association for Psychological Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">psychologicalscience.org</span><span class="citation-popover-title">myth we only use 10 of our brains</span><span class="citation-popover-snippet">Association for Psychological ScienceMyth: We Only Use 10% of Our BrainsAug 29, 2018 — The origin of the 10% Myth is unclear, but some pe...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/h3E1hFOKR_Q" title="The 10% Brain Myth — Finally Explained by a Top Neurologist" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=h3E1hFOKR_Q" target="_blank" rel="noopener noreferrer">The 10% Brain Myth — Finally Explained by a Top Neurologist</a></p><p class="youtube-embed-meta">Channel: Ask The Brain Doctor &middot; Views: 129 &middot; Uploaded: February 2026 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=h3E1hFOKR_Q" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=h3E1hFOKR_Q">Open on YouTube</a></p></div></div></div>
 
@@ -294,19 +294,19 @@ The misunderstanding becomes clearer when the two claims are placed side by side
 
 </div>
 
-Those are fundamentally different ideas. One concerns human potential; the other concerns neuroscience. The historical confusion arose when later writers treated them as if they meant the same thing. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.psychologicalscience.org/uncategorized/myth-we-only-use-10-of-our-brains.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: psychologicalscience.org">[Association for Psychological Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">psychologicalscience.org</span><span class="citation-popover-title">myth we only use 10 of our brains</span><span class="citation-popover-snippet">Association for Psychological ScienceMyth: We Only Use 10% of Our BrainsAug 29, 2018 — The origin of the 10% Myth is unclear, but some pe...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.bps.org.uk/psychologist/great-myths-brain-we-only-use-10-cent" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bps.org.uk">[BPS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bps.org.uk</span><span class="citation-popover-title">great myths brain we only use 10 cent</span><span class="citation-popover-snippet">Great myths of the brain: We only use 10 per centDec 1, 2014 — Early in the twentieth century, pioneering psychologist William James w...</span></span></span>
+Those are fundamentally different ideas. One concerns human potential; the other concerns neuroscience. The historical confusion arose when later writers treated them as if they meant the same thing.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.psychologicalscience.org/uncategorized/myth-we-only-use-10-of-our-brains.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: psychologicalscience.org">[Association for Psychological Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">psychologicalscience.org</span><span class="citation-popover-title">myth we only use 10 of our brains</span><span class="citation-popover-snippet">Association for Psychological ScienceMyth: We Only Use 10% of Our BrainsAug 29, 2018 — The origin of the 10% Myth is unclear, but some pe...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.bps.org.uk/psychologist/great-myths-brain-we-only-use-10-cent" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bps.org.uk">[BPS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bps.org.uk</span><span class="citation-popover-title">great myths brain we only use 10 cent</span><span class="citation-popover-snippet">Great myths of the brain: We only use 10 per centDec 1, 2014 — Early in the twentieth century, pioneering psychologist William James w...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/5NubJ2ThK_U" title="What percentage of your brain do you use? - Richard E. Cytowic" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=5NubJ2ThK_U" target="_blank" rel="noopener noreferrer">What percentage of your brain do you use? - Richard E. Cytowic</a></p><p class="youtube-embed-meta">Channel: TED-Ed &middot; Views: 4.3M &middot; Uploaded: January 2014 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=5NubJ2ThK_U" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=5NubJ2ThK_U">Open on YouTube</a></p></div></div></div>
 
 ## How Motivational Language Became a Percentage
 
-The path from James's writings to the famous "10 per cent" slogan was gradual rather than deliberate. Historians of the myth generally describe its origin as a mixture of misinterpretation, popularisation and [repetition]({{ 'repetition/' | relative_url }}) rather than a single moment of invention. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Ten-percent-of-the-brain_myth" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Ten-percent-of-the-brain mythApril 28, 2026 — A likely origin for the &quot;10% myth&quot; is the reserve energy theories of Harvard psychologists...</span><span class="citation-popover-meta">Published: April 28, 2026</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.educationalneuroscience.org.uk/resources/neuromyth-or-neurofact/we-only-use-10-of-our-brains/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: educationalneuroscience.org.uk">[Educational Neuroscience]</a><span class="citation-popover" role="note"><span class="citation-popover-source">educationalneuroscience.org.uk</span><span class="citation-popover-snippet">We only use 10% of our brainsOne possibility is that it originated from William James, arguably the first experimental psychologist, in t...</span></span></span>
+The path from James's writings to the famous "10 per cent" slogan was gradual rather than deliberate. Historians of the myth generally describe its origin as a mixture of misinterpretation, popularisation and [repetition]({{ 'repetition/' | relative_url }}) rather than a single moment of invention.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Ten-percent-of-the-brain_myth" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Ten-percent-of-the-brain mythApril 28, 2026 — A likely origin for the &quot;10% myth&quot; is the reserve energy theories of Harvard psychologists...</span><span class="citation-popover-meta">Published: April 28, 2026</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.educationalneuroscience.org.uk/resources/neuromyth-or-neurofact/we-only-use-10-of-our-brains/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: educationalneuroscience.org.uk">[Educational Neuroscience]</a><span class="citation-popover" role="note"><span class="citation-popover-source">educationalneuroscience.org.uk</span><span class="citation-popover-snippet">We only use 10% of our brainsOne possibility is that it originated from William James, arguably the first experimental psychologist, in t...</span></span></span>
 
-One key step occurred when James's statements about latent abilities were rephrased in increasingly numerical terms. By the early twentieth century, discussions of "unused potential" could easily be converted into claims about fractions of mental capacity. Later self-improvement literature amplified the process because numbers are memorable and persuasive. Saying that people possess untapped potential is vague; saying they use only 10 per cent of their abilities sounds precise. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sociostudies.org/journal/articles/3776772/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sociostudies.org">[Sociological Studies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sociostudies.org</span><span class="citation-popover-snippet">Sociological StudiesEvolution of the Human Brain and the Myth of its Ten-Percent...by SR Anum · Cited by 3 — His statement about &#x27;tiny f...</span></span></span>
+One key step occurred when James's statements about latent abilities were rephrased in increasingly numerical terms. By the early twentieth century, discussions of "unused potential" could easily be converted into claims about fractions of mental capacity. Later self-improvement literature amplified the process because numbers are memorable and persuasive. Saying that people possess untapped potential is vague; saying they use only 10 per cent of their abilities sounds precise.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sociostudies.org/journal/articles/3776772/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sociostudies.org">[Sociological Studies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sociostudies.org</span><span class="citation-popover-snippet">Sociological StudiesEvolution of the Human Brain and the Myth of its Ten-Percent...by SR Anum · Cited by 3 — His statement about &#x27;tiny f...</span></span></span>
 
-A particularly influential example appeared in the foreword to Dale Carnegie's 1936 bestseller *How to Win Friends and Influence People*. Broadcaster Lowell Thomas wrote that "Professor William James of Harvard" had said the average person develops only 10 per cent of their latent mental ability. That wording moved the idea closer to the modern myth. It still referred to ability rather than brain function, but it attached a specific percentage to James's reputation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.psychologytoday.com/ca/blog/brain-babble/201407/we-use-way-more-10-percent-our-brains" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: psychologytoday.com">[Psychology Today]</a><span class="citation-popover" role="note"><span class="citation-popover-source">psychologytoday.com</span><span class="citation-popover-title">we use way more 10 percent our brains</span><span class="citation-popover-snippet">Psychology TodayWe Use Way More Than 10 Percent of Our BrainsJul 17, 2014 — &quot;Professor William James of Harvard,&quot; Thomas wrote, &quot;used to...</span></span></span>
+A particularly influential example appeared in the foreword to Dale Carnegie's 1936 bestseller *How to Win Friends and Influence People*. Broadcaster Lowell Thomas wrote that "Professor William James of Harvard" had said the average person develops only 10 per cent of their latent mental ability. That wording moved the idea closer to the modern myth. It still referred to ability rather than brain function, but it attached a specific percentage to James's reputation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.psychologytoday.com/ca/blog/brain-babble/201407/we-use-way-more-10-percent-our-brains" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: psychologytoday.com">[Psychology Today]</a><span class="citation-popover" role="note"><span class="citation-popover-source">psychologytoday.com</span><span class="citation-popover-title">we use way more 10 percent our brains</span><span class="citation-popover-snippet">Psychology TodayWe Use Way More Than 10 Percent of Our BrainsJul 17, 2014 — &quot;Professor William James of Harvard,&quot; Thomas wrote, &quot;used to...</span></span></span>
 
-From there, the shift became easier. A claim about developing only a fraction of one's mental ability gradually became a claim about using only a fraction of one's brain. The distinction disappeared in popular retellings, especially in motivational culture, advertising and later science-fiction stories. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://medium.com/mind-cafe/is-it-true-we-only-use-10-of-our-brains-67180a1f4d1d" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: medium.com">[Medium]</a><span class="citation-popover" role="note"><span class="citation-popover-source">medium.com</span><span class="citation-popover-snippet">Is It True We Only Use 10% of Our Brains?But enter the “positive thinking” movement and self-help gurus eventually turned “10% of o...</span></span></span>
+From there, the shift became easier. A claim about developing only a fraction of one's mental ability gradually became a claim about using only a fraction of one's brain. The distinction disappeared in popular retellings, especially in motivational culture, advertising and later science-fiction stories.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://medium.com/mind-cafe/is-it-true-we-only-use-10-of-our-brains-67180a1f4d1d" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: medium.com">[Medium]</a><span class="citation-popover" role="note"><span class="citation-popover-source">medium.com</span><span class="citation-popover-snippet">Is It True We Only Use 10% of Our Brains?But enter the “positive thinking” movement and self-help gurus eventually turned “10% of o...</span></span></span>
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_ten_percent_brain_my_db46b9_william_james_brain_576740-Illustration-2-dark.svg" | relative_url }}" alt="William James illustration 2" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_ten_percent_brain_my_db46b9_william_james_brain_576740-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_ten_percent_brain_my_db46b9_william_james_brain_576740-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Why the Number Stuck
@@ -322,216 +322,216 @@ The exact figure of 10 per cent had advantages that James's original language la
 
 </div>
 
-Once the number became established, most people no longer checked whether it matched James's original writings. The percentage itself became the story. Psychology Today <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scientificamerican.com/article/do-people-only-use-10-percent-of-their-brains/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scientificamerican.com">[Scientific American]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scientificamerican.com</span><span class="citation-popover-title">do people only use 10 percent of their brains</span><span class="citation-popover-snippet">?7 Feb 2008 — The &quot;10 percent myth&quot; is so wrong it is almost laughable, says neurologist Barry Gordon at Johns Hopkins School of Medicine...</span></span></span>
+Once the number became established, most people no longer checked whether it matched James's original writings. The percentage itself became the story. Psychology Today<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scientificamerican.com/article/do-people-only-use-10-percent-of-their-brains/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scientificamerican.com">[Scientific American]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scientificamerican.com</span><span class="citation-popover-title">do people only use 10 percent of their brains</span><span class="citation-popover-snippet">?7 Feb 2008 — The &quot;10 percent myth&quot; is so wrong it is almost laughable, says neurologist Barry Gordon at Johns Hopkins School of Medicine...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/YxIS3XxfFS0" title="Do I Only Use 10% of My Brain?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=YxIS3XxfFS0" target="_blank" rel="noopener noreferrer">Do I Only Use 10% of My Brain?</a></p><p class="youtube-embed-meta">Channel: SciShow &middot; Views: 1.3M &middot; Uploaded: September 2014 &middot; Length: 4 minutes 4 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=YxIS3XxfFS0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=YxIS3XxfFS0">Open on YouTube</a></p></div></div></div>
 
 ## Why Famous Origins Make Myths Easier to Repeat
 
-The connection to William James illustrates a common pattern in the history of misconceptions. Attaching a claim to a respected authority can make it seem more trustworthy, even when the authority never made the claim in its final form. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.britannica.com/story/do-we-really-use-only-10-percent-of-our-brain" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-title">do we really use only 10 percent of our brain</span><span class="citation-popover-snippet">Encyclopedia BritannicaDo We Really Use Only 10 Percent of Our Brain?Feb 27, 2026 — The myth is often incorrectly attributed to 19th-cent...</span></span></span>
+The connection to William James illustrates a common pattern in the history of misconceptions. Attaching a claim to a respected authority can make it seem more trustworthy, even when the authority never made the claim in its final form.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.britannica.com/story/do-we-really-use-only-10-percent-of-our-brain" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-title">do we really use only 10 percent of our brain</span><span class="citation-popover-snippet">Encyclopedia BritannicaDo We Really Use Only 10 Percent of Our Brain?Feb 27, 2026 — The myth is often incorrectly attributed to 19th-cent...</span></span></span>
 
-James was particularly useful for this purpose because he genuinely did discuss unrealised human potential. Unlike many false attributions, the connection was not completely invented. There was a real statement, a real psychologist and a real intellectual tradition behind it. What changed was the meaning. Later audiences inherited the conclusion without preserving the original context. MIT McGovern Institute <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.educationalneuroscience.org.uk/resources/neuromyth-or-neurofact/we-only-use-10-of-our-brains/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: educationalneuroscience.org.uk">[Educational Neuroscience]</a><span class="citation-popover" role="note"><span class="citation-popover-source">educationalneuroscience.org.uk</span><span class="citation-popover-snippet">We only use 10% of our brainsOne possibility is that it originated from William James, arguably the first experimental psychologist, in t...</span></span></span>
+James was particularly useful for this purpose because he genuinely did discuss unrealised human potential. Unlike many false attributions, the connection was not completely invented. There was a real statement, a real psychologist and a real intellectual tradition behind it. What changed was the meaning. Later audiences inherited the conclusion without preserving the original context. MIT McGovern Institute<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.educationalneuroscience.org.uk/resources/neuromyth-or-neurofact/we-only-use-10-of-our-brains/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: educationalneuroscience.org.uk">[Educational Neuroscience]</a><span class="citation-popover" role="note"><span class="citation-popover-source">educationalneuroscience.org.uk</span><span class="citation-popover-snippet">We only use 10% of our brainsOne possibility is that it originated from William James, arguably the first experimental psychologist, in t...</span></span></span>
 
-This partial truth helped the myth survive criticism. When sceptics pointed out that humans obviously use far more than 10 per cent of their brains, believers could still point to James as evidence that respected thinkers had recognised hidden reserves of human ability. The authority was genuine, even if the interpretation was not. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.bps.org.uk/psychologist/great-myths-brain-we-only-use-10-cent" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bps.org.uk">[BPS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bps.org.uk</span><span class="citation-popover-title">great myths brain we only use 10 cent</span><span class="citation-popover-snippet">Great myths of the brain: We only use 10 per centDec 1, 2014 — Early in the twentieth century, pioneering psychologist William James w...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.psychologicalscience.org/uncategorized/myth-we-only-use-10-of-our-brains.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: psychologicalscience.org">[Association for Psychological Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">psychologicalscience.org</span><span class="citation-popover-title">myth we only use 10 of our brains</span><span class="citation-popover-snippet">Association for Psychological ScienceMyth: We Only Use 10% of Our BrainsAug 29, 2018 — The origin of the 10% Myth is unclear, but some pe...</span></span></span>
+This partial truth helped the myth survive criticism. When sceptics pointed out that humans obviously use far more than 10 per cent of their brains, believers could still point to James as evidence that respected thinkers had recognised hidden reserves of human ability. The authority was genuine, even if the interpretation was not.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.bps.org.uk/psychologist/great-myths-brain-we-only-use-10-cent" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bps.org.uk">[BPS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bps.org.uk</span><span class="citation-popover-title">great myths brain we only use 10 cent</span><span class="citation-popover-snippet">Great myths of the brain: We only use 10 per centDec 1, 2014 — Early in the twentieth century, pioneering psychologist William James w...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.psychologicalscience.org/uncategorized/myth-we-only-use-10-of-our-brains.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: psychologicalscience.org">[Association for Psychological Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">psychologicalscience.org</span><span class="citation-popover-title">myth we only use 10 of our brains</span><span class="citation-popover-snippet">Association for Psychological ScienceMyth: We Only Use 10% of Our BrainsAug 29, 2018 — The origin of the 10% Myth is unclear, but some pe...</span></span></span>
 
-The story also shows how scientific and psychological ideas can change as they move into popular culture. James's discussion of latent capacities became detached from its original meaning, compressed into a slogan and eventually treated as a biological fact. By the time modern neuroscience decisively disproved the notion of unused brain regions, the myth had already gained the prestige of a famous origin story. MIT McGovern Institute <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scientificamerican.com/article/do-people-only-use-10-percent-of-their-brains/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scientificamerican.com">[Scientific American]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scientificamerican.com</span><span class="citation-popover-title">do people only use 10 percent of their brains</span><span class="citation-popover-snippet">?7 Feb 2008 — The &quot;10 percent myth&quot; is so wrong it is almost laughable, says neurologist Barry Gordon at Johns Hopkins School of Medicine...</span></span></span>
+The story also shows how scientific and psychological ideas can change as they move into popular culture. James's discussion of latent capacities became detached from its original meaning, compressed into a slogan and eventually treated as a biological fact. By the time modern neuroscience decisively disproved the notion of unused brain regions, the myth had already gained the prestige of a famous origin story. MIT McGovern Institute<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scientificamerican.com/article/do-people-only-use-10-percent-of-their-brains/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scientificamerican.com">[Scientific American]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scientificamerican.com</span><span class="citation-popover-title">do people only use 10 percent of their brains</span><span class="citation-popover-snippet">?7 Feb 2008 — The &quot;10 percent myth&quot; is so wrong it is almost laughable, says neurologist Barry Gordon at Johns Hopkins School of Medicine...</span></span></span>
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_ten_percent_brain_my_db46b9_william_james_brain_576740-Illustration-3-dark.svg" | relative_url }}" alt="William James illustration 3" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_ten_percent_brain_my_db46b9_william_james_brain_576740-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_ten_percent_brain_my_db46b9_william_james_brain_576740-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Did William James Start the Brain Myth?
 
-The most accurate answer is no. William James did not claim that people use only 10 per cent of their brains, and he never presented such a figure as a scientific finding. However, his writings about unrealised human potential provided one of the intellectual foundations from which the myth later grew. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.britannica.com/story/do-we-really-use-only-10-percent-of-our-brain" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-title">do we really use only 10 percent of our brain</span><span class="citation-popover-snippet">Encyclopedia BritannicaDo We Really Use Only 10 Percent of Our Brain?Feb 27, 2026 — The myth is often incorrectly attributed to 19th-cent...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.psychologicalscience.org/uncategorized/myth-we-only-use-10-of-our-brains.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: psychologicalscience.org">[Association for Psychological Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">psychologicalscience.org</span><span class="citation-popover-title">myth we only use 10 of our brains</span><span class="citation-popover-snippet">Association for Psychological ScienceMyth: We Only Use 10% of Our BrainsAug 29, 2018 — The origin of the 10% Myth is unclear, but some pe...</span></span></span>
+The most accurate answer is no. William James did not claim that people use only 10 per cent of their brains, and he never presented such a figure as a scientific finding. However, his writings about unrealised human potential provided one of the intellectual foundations from which the myth later grew.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.britannica.com/story/do-we-really-use-only-10-percent-of-our-brain" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-title">do we really use only 10 percent of our brain</span><span class="citation-popover-snippet">Encyclopedia BritannicaDo We Really Use Only 10 Percent of Our Brain?Feb 27, 2026 — The myth is often incorrectly attributed to 19th-cent...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.psychologicalscience.org/uncategorized/myth-we-only-use-10-of-our-brains.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: psychologicalscience.org">[Association for Psychological Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">psychologicalscience.org</span><span class="citation-popover-title">myth we only use 10 of our brains</span><span class="citation-popover-snippet">Association for Psychological ScienceMyth: We Only Use 10% of Our BrainsAug 29, 2018 — The origin of the 10% Myth is unclear, but some pe...</span></span></span>
 
-James's role in the story is therefore indirect. He supplied the language of hidden capacity and reserve potential. Later writers, speakers and self-help promoters transformed that language into a numerical claim about brain usage. The myth survived because the transformation was gradual enough that many people never noticed the shift. What began as a psychological observation about human possibilities eventually became a neuroscientific claim that James himself would not have recognised. <span class="citation-chip-wrap"><a class="citation-chip" href="https://mcgovern.mit.edu/2024/01/26/do-we-use-only-10-percent-of-our-brain/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mcgovern.mit.edu">[MIT McGovern Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mcgovern.mit.edu</span><span class="citation-popover-title">do we use only 10 percent of our brain</span><span class="citation-popover-snippet">MIT McGovern InstituteDo we only use 10 percent of our brain?Jan 26, 2024 — The idea that we use 10 percent of our brain is 100 percent a...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.psychologytoday.com/ca/blog/brain-babble/201407/we-use-way-more-10-percent-our-brains" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: psychologytoday.com">[Psychology]</a><span class="citation-popover" role="note"><span class="citation-popover-source">psychologytoday.com</span><span class="citation-popover-title">we use way more 10 percent our brains</span><span class="citation-popover-snippet">Psychology TodayWe Use Way More Than 10 Percent of Our BrainsJul 17, 2014 — &quot;Professor William James of Harvard,&quot; Thomas wrote, &quot;used to...</span></span></span>
+James's role in the story is therefore indirect. He supplied the language of hidden capacity and reserve potential. Later writers, speakers and self-help promoters transformed that language into a numerical claim about brain usage. The myth survived because the transformation was gradual enough that many people never noticed the shift. What began as a psychological observation about human possibilities eventually became a neuroscientific claim that James himself would not have recognised.<span class="citation-chip-wrap"><a class="citation-chip" href="https://mcgovern.mit.edu/2024/01/26/do-we-use-only-10-percent-of-our-brain/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mcgovern.mit.edu">[MIT McGovern Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mcgovern.mit.edu</span><span class="citation-popover-title">do we use only 10 percent of our brain</span><span class="citation-popover-snippet">MIT McGovern InstituteDo we only use 10 percent of our brain?Jan 26, 2024 — The idea that we use 10 percent of our brain is 100 percent a...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.psychologytoday.com/ca/blog/brain-babble/201407/we-use-way-more-10-percent-our-brains" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: psychologytoday.com">[Psychology]</a><span class="citation-popover" role="note"><span class="citation-popover-source">psychologytoday.com</span><span class="citation-popover-title">we use way more 10 percent our brains</span><span class="citation-popover-snippet">Psychology TodayWe Use Way More Than 10 Percent of Our BrainsJul 17, 2014 — &quot;Professor William James of Harvard,&quot; Thomas wrote, &quot;used to...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Did William James Start the Brain Myth?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Did William James Start the Brain Myth?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Tell-Tale+Brain+V.+S.+Ramachandran&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Tell-Tale Brain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/6681442-M.jpg" alt="Cover for The Tell-Tale Brain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Tell-Tale+Brain+V.+S.+Ramachandran&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Tell-Tale Brain">The Tell-Tale Brain</a>
-        </h4>
-        <p class="fr-book-author">By V. S. Ramachandran</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Tell-Tale+Brain+V.+S.+Ramachandran&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Tell-Tale Brain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/6681442-M.jpg" alt="Cover for The Tell-Tale Brain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Tell-Tale+Brain+V.+S.+Ramachandran&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Tell-Tale Brain">The Tell-Tale Brain</a>
+</h4>
+<p class="fr-book-author">By V. S. Ramachandran</p>
         
-        <p class="fr-book-desc">Provides modern contrast to myth-based interpretations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Tell-Tale+Brain+V.+S.+Ramachandran&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides modern contrast to myth-based interpretations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Tell-Tale+Brain+V.+S.+Ramachandran&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YGPzXWanppcC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
-        </h4>
-        <p class="fr-book-author">By Daniel Kahneman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YGPzXWanppcC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
+</h4>
+<p class="fr-book-author">By Daniel Kahneman</p>
         
-        <p class="fr-book-desc">Shows how appealing but incorrect ideas persist.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows how appealing but incorrect ideas persist.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Varieties+of+Religious+Experience+William+James&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Varieties of Religious Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/2415434-M.jpg" alt="Cover for The Varieties of Religious Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Varieties+of+Religious+Experience+William+James&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Varieties of Religious Experience">The Varieties of Religious Experience</a>
-        </h4>
-        <p class="fr-book-author">By William James, Dr. William James et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Varieties+of+Religious+Experience+William+James&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Varieties of Religious Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/2415434-M.jpg" alt="Cover for The Varieties of Religious Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Varieties+of+Religious+Experience+William+James&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Varieties of Religious Experience">The Varieties of Religious Experience</a>
+</h4>
+<p class="fr-book-author">By William James, Dr. William James et al.</p>
         
-        <p class="fr-book-desc">First published 1817. Subjects: Religious Psychology, Religion, Conversion, Experience (Religion), Philosophy and religion.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Varieties+of+Religious+Experience+William+James&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1817. Subjects: Religious Psychology, Religion, Conversion, Experience (Religion), Philosophy and religion.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Varieties+of+Religious+Experience+William+James&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+principles+of+psychology+William+James&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The principles of psychology on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/5815742-M.jpg" alt="Cover for The principles of psychology" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+principles+of+psychology+William+James&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The principles of psychology">The principles of psychology</a>
-        </h4>
-        <p class="fr-book-author">By William James</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+principles+of+psychology+William+James&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The principles of psychology on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/5815742-M.jpg" alt="Cover for The principles of psychology" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+principles+of+psychology+William+James&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The principles of psychology">The principles of psychology</a>
+</h4>
+<p class="fr-book-author">By William James</p>
         
-        <p class="fr-book-desc">First published 1890. Subjects: Psychology.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+principles+of+psychology+William+James&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1890. Subjects: Psychology.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+principles+of+psychology+William+James&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Tell+Tale+Brain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Tell Tale Brain</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Varieties+of+Religious+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Varieties of Religious Experience</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Tell+Tale+Brain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Tell Tale Brain</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Varieties+of+Religious+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Varieties of Religious Experience</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=brain+anatomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=william-james-did-william-james-start-the-brain-myth-myths-and-misconcept-brain-anatomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="brain anatomy poster" data-ebay-reference="william-james-did-william-james-start-the-brain-myth-myths-and-misconcept-brain-anatomy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Human Brain Anatomy With Inspiratio Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/8c32e586d37fa28e39d6.jpg' | relative_url }}" alt="Listing image for Human Brain Anatomy With Inspiratio Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=brain+anatomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=william-james-did-william-james-start-the-brain-myth-myths-and-misconcept-brain-anatomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="brain anatomy poster" data-ebay-reference="william-james-did-william-james-start-the-brain-myth-myths-and-misconcept-brain-anatomy-poster" target="_blank" rel="sponsored noopener noreferrer">Human Brain Anatomy With Inspiratio Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=brain+anatomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=william-james-did-william-james-start-the-brain-myth-myths-and-misconcept-brain-anatomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="brain anatomy poster" data-ebay-reference="william-james-did-william-james-start-the-brain-myth-myths-and-misconcept-brain-anatomy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for brain anatomy poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: brain anatomy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=brain+anatomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=william-james-did-william-james-start-the-brain-myth-myths-and-misconcept-brain-anatomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="brain anatomy poster" data-ebay-reference="william-james-did-william-james-start-the-brain-myth-myths-and-misconcept-brain-anatomy-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=brain+anatomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=william-james-did-william-james-start-the-brain-myth-myths-and-misconcept-brain-anatomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="brain anatomy poster" data-ebay-reference="william-james-did-william-james-start-the-brain-myth-myths-and-misconcept-brain-anatomy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Human Brain Anatomy With Inspiratio Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/8c32e586d37fa28e39d6.jpg' | relative_url }}" alt="Listing image for Human Brain Anatomy With Inspiratio Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=brain+anatomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=william-james-did-william-james-start-the-brain-myth-myths-and-misconcept-brain-anatomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="brain anatomy poster" data-ebay-reference="william-james-did-william-james-start-the-brain-myth-myths-and-misconcept-brain-anatomy-poster" target="_blank" rel="sponsored noopener noreferrer">Human Brain Anatomy With Inspiratio Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=brain+anatomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=william-james-did-william-james-start-the-brain-myth-myths-and-misconcept-brain-anatomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="brain anatomy poster" data-ebay-reference="william-james-did-william-james-start-the-brain-myth-myths-and-misconcept-brain-anatomy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for brain anatomy poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: brain anatomy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=brain+anatomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=william-james-did-william-james-start-the-brain-myth-myths-and-misconcept-brain-anatomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="brain anatomy poster" data-ebay-reference="william-james-did-william-james-start-the-brain-myth-myths-and-misconcept-brain-anatomy-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=brain+anatomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=william-james-did-william-james-start-the-brain-myth-myths-and-misconcept-brain-anatomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="brain anatomy poster" data-ebay-reference="william-james-did-william-james-start-the-brain-myth-myths-and-misconcept-brain-anatomy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Human Brain Anatomy Poster Medical Educational Anatomical Print A5 A4 A3 A2 A1"><img src="{{ '/assets/images/marketplace-covers/58984feb98080787958f.jpg' | relative_url }}" alt="Listing image for Human Brain Anatomy Poster Medical Educational Anatomical Print A5 A4 A3 A2 A1" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=brain+anatomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=william-james-did-william-james-start-the-brain-myth-myths-and-misconcept-brain-anatomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="brain anatomy poster" data-ebay-reference="william-james-did-william-james-start-the-brain-myth-myths-and-misconcept-brain-anatomy-poster" target="_blank" rel="sponsored noopener noreferrer">Human Brain Anatomy Poster Medical Educational Anatomical Print A5 A4 A3 A2 A1</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=brain+anatomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=william-james-did-william-james-start-the-brain-myth-myths-and-misconcept-brain-anatomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="brain anatomy poster" data-ebay-reference="william-james-did-william-james-start-the-brain-myth-myths-and-misconcept-brain-anatomy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for brain anatomy poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: brain anatomy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=brain+anatomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=william-james-did-william-james-start-the-brain-myth-myths-and-misconcept-brain-anatomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="brain anatomy poster" data-ebay-reference="william-james-did-william-james-start-the-brain-myth-myths-and-misconcept-brain-anatomy-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=brain+anatomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=william-james-did-william-james-start-the-brain-myth-myths-and-misconcept-brain-anatomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="brain anatomy poster" data-ebay-reference="william-james-did-william-james-start-the-brain-myth-myths-and-misconcept-brain-anatomy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Human Brain Anatomy Poster Medical Educational Anatomical Print A5 A4 A3 A2 A1"><img src="{{ '/assets/images/marketplace-covers/58984feb98080787958f.jpg' | relative_url }}" alt="Listing image for Human Brain Anatomy Poster Medical Educational Anatomical Print A5 A4 A3 A2 A1" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=brain+anatomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=william-james-did-william-james-start-the-brain-myth-myths-and-misconcept-brain-anatomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="brain anatomy poster" data-ebay-reference="william-james-did-william-james-start-the-brain-myth-myths-and-misconcept-brain-anatomy-poster" target="_blank" rel="sponsored noopener noreferrer">Human Brain Anatomy Poster Medical Educational Anatomical Print A5 A4 A3 A2 A1</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=brain+anatomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=william-james-did-william-james-start-the-brain-myth-myths-and-misconcept-brain-anatomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="brain anatomy poster" data-ebay-reference="william-james-did-william-james-start-the-brain-myth-myths-and-misconcept-brain-anatomy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for brain anatomy poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: brain anatomy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=brain+anatomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=william-james-did-william-james-start-the-brain-myth-myths-and-misconcept-brain-anatomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="brain anatomy poster" data-ebay-reference="william-james-did-william-james-start-the-brain-myth-myths-and-misconcept-brain-anatomy-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=brain+anatomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=william-james-did-william-james-start-the-brain-myth-myths-and-misconcept-brain-anatomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="brain anatomy poster" data-ebay-reference="william-james-did-william-james-start-the-brain-myth-myths-and-misconcept-brain-anatomy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Great Canvas Poster &#x27;Anatomy and Functions of the Brain&#x27;s. (12 to 18 Inch) UK s4"><img src="{{ '/assets/images/marketplace-covers/969115a6cc2ca0c58361.jpg' | relative_url }}" alt="Listing image for Great Canvas Poster &#x27;Anatomy and Functions of the Brain&#x27;s. (12 to 18 Inch) UK s4" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=brain+anatomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=william-james-did-william-james-start-the-brain-myth-myths-and-misconcept-brain-anatomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="brain anatomy poster" data-ebay-reference="william-james-did-william-james-start-the-brain-myth-myths-and-misconcept-brain-anatomy-poster" target="_blank" rel="sponsored noopener noreferrer">Great Canvas Poster &#x27;Anatomy and Functions of the Brain&#x27;s. (12 to 18 Inch) UK s4</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=brain+anatomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=william-james-did-william-james-start-the-brain-myth-myths-and-misconcept-brain-anatomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="brain anatomy poster" data-ebay-reference="william-james-did-william-james-start-the-brain-myth-myths-and-misconcept-brain-anatomy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for brain anatomy poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: brain anatomy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=brain+anatomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=william-james-did-william-james-start-the-brain-myth-myths-and-misconcept-brain-anatomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="brain anatomy poster" data-ebay-reference="william-james-did-william-james-start-the-brain-myth-myths-and-misconcept-brain-anatomy-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=brain+anatomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=william-james-did-william-james-start-the-brain-myth-myths-and-misconcept-brain-anatomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="brain anatomy poster" data-ebay-reference="william-james-did-william-james-start-the-brain-myth-myths-and-misconcept-brain-anatomy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Great Canvas Poster &#x27;Anatomy and Functions of the Brain&#x27;s. (12 to 18 Inch) UK s4"><img src="{{ '/assets/images/marketplace-covers/969115a6cc2ca0c58361.jpg' | relative_url }}" alt="Listing image for Great Canvas Poster &#x27;Anatomy and Functions of the Brain&#x27;s. (12 to 18 Inch) UK s4" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=brain+anatomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=william-james-did-william-james-start-the-brain-myth-myths-and-misconcept-brain-anatomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="brain anatomy poster" data-ebay-reference="william-james-did-william-james-start-the-brain-myth-myths-and-misconcept-brain-anatomy-poster" target="_blank" rel="sponsored noopener noreferrer">Great Canvas Poster &#x27;Anatomy and Functions of the Brain&#x27;s. (12 to 18 Inch) UK s4</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=brain+anatomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=william-james-did-william-james-start-the-brain-myth-myths-and-misconcept-brain-anatomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="brain anatomy poster" data-ebay-reference="william-james-did-william-james-start-the-brain-myth-myths-and-misconcept-brain-anatomy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for brain anatomy poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: brain anatomy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=brain+anatomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=william-james-did-william-james-start-the-brain-myth-myths-and-misconcept-brain-anatomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="brain anatomy poster" data-ebay-reference="william-james-did-william-james-start-the-brain-myth-myths-and-misconcept-brain-anatomy-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=brain+anatomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=william-james-did-william-james-start-the-brain-myth-myths-and-misconcept-brain-anatomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="brain anatomy poster" data-ebay-reference="william-james-did-william-james-start-the-brain-myth-myths-and-misconcept-brain-anatomy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for HUMAN ANATOMY CHIROPRACTIC EDUCATIONAL STUDENT MEDICAL POSTER PRINTS A4 A3 A2"><img src="{{ '/assets/images/marketplace-covers/a0a9999a1c91b938ba61.jpg' | relative_url }}" alt="Listing image for HUMAN ANATOMY CHIROPRACTIC EDUCATIONAL STUDENT MEDICAL POSTER PRINTS A4 A3 A2" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=brain+anatomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=william-james-did-william-james-start-the-brain-myth-myths-and-misconcept-brain-anatomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="brain anatomy poster" data-ebay-reference="william-james-did-william-james-start-the-brain-myth-myths-and-misconcept-brain-anatomy-poster" target="_blank" rel="sponsored noopener noreferrer">HUMAN ANATOMY CHIROPRACTIC EDUCATIONAL STUDENT MEDICAL POSTER PRINTS A4 A3 A2</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=brain+anatomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=william-james-did-william-james-start-the-brain-myth-myths-and-misconcept-brain-anatomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="brain anatomy poster" data-ebay-reference="william-james-did-william-james-start-the-brain-myth-myths-and-misconcept-brain-anatomy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for brain anatomy poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: brain anatomy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=brain+anatomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=william-james-did-william-james-start-the-brain-myth-myths-and-misconcept-brain-anatomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="brain anatomy poster" data-ebay-reference="william-james-did-william-james-start-the-brain-myth-myths-and-misconcept-brain-anatomy-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=brain+anatomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=william-james-did-william-james-start-the-brain-myth-myths-and-misconcept-brain-anatomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="brain anatomy poster" data-ebay-reference="william-james-did-william-james-start-the-brain-myth-myths-and-misconcept-brain-anatomy-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=brain+anatomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=william-james-did-william-james-start-the-brain-myth-myths-and-misconcept-brain-anatomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="brain anatomy poster" data-ebay-reference="william-james-did-william-james-start-the-brain-myth-myths-and-misconcept-brain-anatomy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for HUMAN ANATOMY CHIROPRACTIC EDUCATIONAL STUDENT MEDICAL POSTER PRINTS A4 A3 A2"><img src="{{ '/assets/images/marketplace-covers/a0a9999a1c91b938ba61.jpg' | relative_url }}" alt="Listing image for HUMAN ANATOMY CHIROPRACTIC EDUCATIONAL STUDENT MEDICAL POSTER PRINTS A4 A3 A2" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=brain+anatomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=william-james-did-william-james-start-the-brain-myth-myths-and-misconcept-brain-anatomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="brain anatomy poster" data-ebay-reference="william-james-did-william-james-start-the-brain-myth-myths-and-misconcept-brain-anatomy-poster" target="_blank" rel="sponsored noopener noreferrer">HUMAN ANATOMY CHIROPRACTIC EDUCATIONAL STUDENT MEDICAL POSTER PRINTS A4 A3 A2</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=brain+anatomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=william-james-did-william-james-start-the-brain-myth-myths-and-misconcept-brain-anatomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="brain anatomy poster" data-ebay-reference="william-james-did-william-james-start-the-brain-myth-myths-and-misconcept-brain-anatomy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for brain anatomy poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: brain anatomy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=brain+anatomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=william-james-did-william-james-start-the-brain-myth-myths-and-misconcept-brain-anatomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="brain anatomy poster" data-ebay-reference="william-james-did-william-james-start-the-brain-myth-myths-and-misconcept-brain-anatomy-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=brain+anatomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=william-james-did-william-james-start-the-brain-myth-myths-and-misconcept-brain-anatomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="brain anatomy poster" data-ebay-reference="william-james-did-william-james-start-the-brain-myth-myths-and-misconcept-brain-anatomy-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -547,7 +547,7 @@ James's role in the story is therefore indirect. He supplied the language of hid
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -567,7 +567,7 @@ James's role in the story is therefore indirect. He supplied the language of hid
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -599,7 +599,7 @@ James's role in the story is therefore indirect. He supplied the language of hid
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -651,7 +651,7 @@ James's role in the story is therefore indirect. He supplied the language of hid
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -696,7 +696,7 @@ James's role in the story is therefore indirect. He supplied the language of hid
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -737,152 +737,152 @@ James's role in the story is therefore indirect. He supplied the language of hid
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: mcgovern.mit.edu  
    Title: do we use only 10 percent of our brain  
-   Link: <a href="https://mcgovern.mit.edu/2024/01/26/do-we-use-only-10-percent-of-our-brain/" target="_blank" rel="noopener noreferrer nofollow">https://mcgovern.mit.edu/2024/01/26/do-we-use-only-10-percent-of-our-brain/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>MIT McGovern InstituteDo we only use 10 percent of our brain?Jan 26, 2024 — The idea that we use 10 percent of our brain is 100 percent a...</p></details>
+   Link:<a href="https://mcgovern.mit.edu/2024/01/26/do-we-use-only-10-percent-of-our-brain/" target="_blank" rel="noopener noreferrer nofollow">https://mcgovern.mit.edu/2024/01/26/do-we-use-only-10-percent-of-our-brain/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>MIT McGovern InstituteDo we only use 10 percent of our brain?Jan 26, 2024 — The idea that we use 10 percent of our brain is 100 percent a...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: britannica.com  
    Title: do we really use only 10 percent of our brain  
-   Link: <a href="https://www.britannica.com/story/do-we-really-use-only-10-percent-of-our-brain" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/story/do-we-really-use-only-10-percent-of-our-brain</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Encyclopedia BritannicaDo We Really Use Only 10 Percent of Our Brain?Feb 27, 2026 — The myth is often incorrectly attributed to 19th-cent...</p></details>
+   Link:<a href="https://www.britannica.com/story/do-we-really-use-only-10-percent-of-our-brain" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/story/do-we-really-use-only-10-percent-of-our-brain</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Encyclopedia BritannicaDo We Really Use Only 10 Percent of Our Brain?Feb 27, 2026 — The myth is often incorrectly attributed to 19th-cent...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: bps.org.uk  
    Title: great myths brain we only use 10 cent  
-   Link: <a href="https://www.bps.org.uk/psychologist/great-myths-brain-we-only-use-10-cent" target="_blank" rel="noopener noreferrer nofollow">https://www.bps.org.uk/psychologist/great-myths-brain-we-only-use-10-cent</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Great myths of the brain: We only use 10 per centDec 1, 2014 — Early in the twentieth century, pioneering psychologist William James w...</p></details>
+   Link:<a href="https://www.bps.org.uk/psychologist/great-myths-brain-we-only-use-10-cent" target="_blank" rel="noopener noreferrer nofollow">https://www.bps.org.uk/psychologist/great-myths-brain-we-only-use-10-cent</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Great myths of the brain: We only use 10 per centDec 1, 2014 — Early in the twentieth century, pioneering psychologist William James w...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Ten-percent-of-the-brain_myth" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Ten-percent-of-the-brain_myth</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Ten-percent-of-the-brain mythApril 28, 2026 — A likely origin for the &quot;10% myth&quot; is the reserve energy theories of Harvard psychologists...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Ten-percent-of-the-brain_myth" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Ten-percent-of-the-brain_myth</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ten-percent-of-the-brain mythApril 28, 2026 — A likely origin for the &quot;10% myth&quot; is the reserve energy theories of Harvard psychologists...</p></details>
    Published: April 28, 2026  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/mind-cafe/is-it-true-we-only-use-10-of-our-brains-67180a1f4d1d" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/mind-cafe/is-it-true-we-only-use-10-of-our-brains-67180a1f4d1d</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Is It True We Only Use 10% of Our Brains?But enter the “positive thinking” movement and self-help gurus eventually turned “10% of o...</p></details>
+   Link:<a href="https://medium.com/mind-cafe/is-it-true-we-only-use-10-of-our-brains-67180a1f4d1d" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/mind-cafe/is-it-true-we-only-use-10-of-our-brains-67180a1f4d1d</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Is It True We Only Use 10% of Our Brains?But enter the “positive thinking” movement and self-help gurus eventually turned “10% of o...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: medium.com  
    Title: history rewinded origins of the 10 myth 23202a97866b  
-   Link: <a href="https://medium.com/%40neuro_nuggets/history-rewinded-origins-of-the-10-myth-23202a97866b" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40neuro_nuggets/history-rewinded-origins-of-the-10-myth-23202a97866b</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>History Rewinded: Origins of the 10% Myth“[Debunking](&amp;#123;&amp;#123; &#x27;debunking/&#x27; | relative_url &amp;#125;&amp;#125;) the 10% Brain Myth.” YouTube, 2013,([https://www.youtube.com/watch?v=4VqbzWGiW-k](https://www.youtube.com/watch?v=4VqbzWGiW-k))...</p></details>
+   Link:<a href="https://medium.com/%40neuro_nuggets/history-rewinded-origins-of-the-10-myth-23202a97866b" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40neuro_nuggets/history-rewinded-origins-of-the-10-myth-23202a97866b</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>History Rewinded: Origins of the 10% Myth“[Debunking](&amp;#123;&amp;#123; &#x27;debunking/&#x27; | relative_url &amp;#125;&amp;#125;) the 10% Brain Myth.” YouTube, 2013,([https://www.youtube.com/watch?v=4VqbzWGiW-k](https://www.youtube.com/watch?v=4VqbzWGiW-k))...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: psychologicalscience.org  
    Title: myth we only use 10 of our brains  
-   Link: <a href="https://www.psychologicalscience.org/uncategorized/myth-we-only-use-10-of-our-brains.html" target="_blank" rel="noopener noreferrer nofollow">https://www.psychologicalscience.org/uncategorized/myth-we-only-use-10-of-our-brains.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Association for Psychological ScienceMyth: We Only Use 10% of Our BrainsAug 29, 2018 — The origin of the 10% Myth is unclear, but some pe...</p></details>
+   Link:<a href="https://www.psychologicalscience.org/uncategorized/myth-we-only-use-10-of-our-brains.html" target="_blank" rel="noopener noreferrer nofollow">https://www.psychologicalscience.org/uncategorized/myth-we-only-use-10-of-our-brains.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Association for Psychological ScienceMyth: We Only Use 10% of Our BrainsAug 29, 2018 — The origin of the 10% Myth is unclear, but some pe...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: faculty.washington.edu  
    Title: UW Faculty Neuroscience For Kids  
-   Link: <a href="https://faculty.washington.edu/chudler/tenper.html" target="_blank" rel="noopener noreferrer nofollow">https://faculty.washington.edu/chudler/tenper.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>For Kids - 10% of the Brain MythIt may have been William James who wrote in 1908: &quot;We are making use of only a small part of our possible...</p></details>
+   Link:<a href="https://faculty.washington.edu/chudler/tenper.html" target="_blank" rel="noopener noreferrer nofollow">https://faculty.washington.edu/chudler/tenper.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>For Kids - 10% of the Brain MythIt may have been William James who wrote in 1908: &quot;We are making use of only a small part of our possible...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: educationalneuroscience.org.uk  
-   Link: <a href="https://www.educationalneuroscience.org.uk/resources/neuromyth-or-neurofact/we-only-use-10-of-our-brains/" target="_blank" rel="noopener noreferrer nofollow">https://www.educationalneuroscience.org.uk/resources/neuromyth-or-neurofact/we-only-use-10-of-our-brains/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>We only use 10% of our brainsOne possibility is that it originated from William James, arguably the first experimental psychologist, in t...</p></details>
+   Link:<a href="https://www.educationalneuroscience.org.uk/resources/neuromyth-or-neurofact/we-only-use-10-of-our-brains/" target="_blank" rel="noopener noreferrer nofollow">https://www.educationalneuroscience.org.uk/resources/neuromyth-or-neurofact/we-only-use-10-of-our-brains/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>We only use 10% of our brainsOne possibility is that it originated from William James, arguably the first experimental psychologist, in t...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: sociostudies.org  
-   Link: <a href="https://www.sociostudies.org/journal/articles/3776772/" target="_blank" rel="noopener noreferrer nofollow">https://www.sociostudies.org/journal/articles/3776772/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sociological StudiesEvolution of the Human Brain and the Myth of its Ten-Percent...by SR Anum · Cited by 3 — His statement about &#x27;tiny f...</p></details>
+   Link:<a href="https://www.sociostudies.org/journal/articles/3776772/" target="_blank" rel="noopener noreferrer nofollow">https://www.sociostudies.org/journal/articles/3776772/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sociological StudiesEvolution of the Human Brain and the Myth of its Ten-Percent...by SR Anum · Cited by 3 — His statement about &#x27;tiny f...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: psychologytoday.com  
    Title: we use way more 10 percent our brains  
-   Link: <a href="https://www.psychologytoday.com/ca/blog/brain-babble/201407/we-use-way-more-10-percent-our-brains" target="_blank" rel="noopener noreferrer nofollow">https://www.psychologytoday.com/ca/blog/brain-babble/201407/we-use-way-more-10-percent-our-brains</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Psychology TodayWe Use Way More Than 10 Percent of Our BrainsJul 17, 2014 — &quot;Professor William James of Harvard,&quot; Thomas wrote, &quot;used to...</p></details>
+   Link:<a href="https://www.psychologytoday.com/ca/blog/brain-babble/201407/we-use-way-more-10-percent-our-brains" target="_blank" rel="noopener noreferrer nofollow">https://www.psychologytoday.com/ca/blog/brain-babble/201407/we-use-way-more-10-percent-our-brains</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Psychology TodayWe Use Way More Than 10 Percent of Our BrainsJul 17, 2014 — &quot;Professor William James of Harvard,&quot; Thomas wrote, &quot;used to...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: scientificamerican.com  
    Title: do people only use 10 percent of their brains  
-   Link: <a href="https://www.scientificamerican.com/article/do-people-only-use-10-percent-of-their-brains/" target="_blank" rel="noopener noreferrer nofollow">https://www.scientificamerican.com/article/do-people-only-use-10-percent-of-their-brains/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>?7 Feb 2008 — The &quot;10 percent myth&quot; is so wrong it is almost laughable, says neurologist Barry Gordon at Johns Hopkins School of Medicine...</p></details>
+   Link:<a href="https://www.scientificamerican.com/article/do-people-only-use-10-percent-of-their-brains/" target="_blank" rel="noopener noreferrer nofollow">https://www.scientificamerican.com/article/do-people-only-use-10-percent-of-their-brains/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>?7 Feb 2008 — The &quot;10 percent myth&quot; is so wrong it is almost laughable, says neurologist Barry Gordon at Johns Hopkins School of Medicine...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: educationalneuroscience.org.uk  
-   Link: <a href="https://educationalneuroscience.org.uk/wordpress/resources/neuromyth-or-neurofact/we-only-use-10-of-our-brains/" target="_blank" rel="noopener noreferrer nofollow">https://educationalneuroscience.org.uk/wordpress/resources/neuromyth-or-neurofact/we-only-use-10-of-our-brains/</a>  
+   Link:<a href="https://educationalneuroscience.org.uk/wordpress/resources/neuromyth-or-neurofact/we-only-use-10-of-our-brains/" target="_blank" rel="noopener noreferrer nofollow">https://educationalneuroscience.org.uk/wordpress/resources/neuromyth-or-neurofact/we-only-use-10-of-our-brains/</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: psychologytoday.com  
    Title: we use way more 10 percent our brains  
-   Link: <a href="https://www.psychologytoday.com/gb/blog/brain-babble/201407/we-use-way-more-10-percent-our-brains" target="_blank" rel="noopener noreferrer nofollow">https://www.psychologytoday.com/gb/blog/brain-babble/201407/we-use-way-more-10-percent-our-brains</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>We Use Way More Than 10 Percent of Our Brains17 Jul 2014 — &quot;Professor William James of Harvard,&quot; Thomas wrote, &quot;used to say that the aver...</p></details>
+   Link:<a href="https://www.psychologytoday.com/gb/blog/brain-babble/201407/we-use-way-more-10-percent-our-brains" target="_blank" rel="noopener noreferrer nofollow">https://www.psychologytoday.com/gb/blog/brain-babble/201407/we-use-way-more-10-percent-our-brains</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>We Use Way More Than 10 Percent of Our Brains17 Jul 2014 — &quot;Professor William James of Harvard,&quot; Thomas wrote, &quot;used to say that the aver...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: psychologytoday.com  
    Title: beyond the myth that we use only 10 percent of our brains  
-   Link: <a href="https://www.psychologytoday.com/au/blog/common-sense-science/202505/beyond-the-myth-that-we-use-only-10-percent-of-our-brains" target="_blank" rel="noopener noreferrer nofollow">https://www.psychologytoday.com/au/blog/common-sense-science/202505/beyond-the-myth-that-we-use-only-10-percent-of-our-brains</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>We use our entire brain. Neuroscience points to several actual methods of enhancing brain efficiency...</p></details>
+   Link:<a href="https://www.psychologytoday.com/au/blog/common-sense-science/202505/beyond-the-myth-that-we-use-only-10-percent-of-our-brains" target="_blank" rel="noopener noreferrer nofollow">https://www.psychologytoday.com/au/blog/common-sense-science/202505/beyond-the-myth-that-we-use-only-10-percent-of-our-brains</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>We use our entire brain. Neuroscience points to several actual methods of enhancing brain efficiency...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: psychologytoday.com  
    Title: beyond the myth that we use only 10 percent of our brains  
-   Link: <a href="https://www.psychologytoday.com/gb/blog/common-sense-science/202505/beyond-the-myth-that-we-use-only-10-percent-of-our-brains" target="_blank" rel="noopener noreferrer nofollow">https://www.psychologytoday.com/gb/blog/common-sense-science/202505/beyond-the-myth-that-we-use-only-10-percent-of-our-brains</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>We use our entire brain. Neuroscience points to several actual methods of enhancing brain efficiency...</p></details>
+   Link:<a href="https://www.psychologytoday.com/gb/blog/common-sense-science/202505/beyond-the-myth-that-we-use-only-10-percent-of-our-brains" target="_blank" rel="noopener noreferrer nofollow">https://www.psychologytoday.com/gb/blog/common-sense-science/202505/beyond-the-myth-that-we-use-only-10-percent-of-our-brains</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>We use our entire brain. Neuroscience points to several actual methods of enhancing brain efficiency...</p></details>
 
 ### Additional References
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: wired.com  
    Title: everything you need to know about the [10 brain](&#123;&#123; '10-brain/' | relative_url &#125;&#125;) myth explained in 60 seconds  
-   Link: <a href="https://www.wired.com/2014/07/everything-you-need-to-know-about-the-10-brain-myth-explained-in-60-seconds/" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/2014/07/everything-you-need-to-know-about-the-10-brain-myth-explained-in-60-seconds/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>All You Need To Know About the 10 Percent Brain Myth, in...Jul 24, 2014 — It&#x27;s based on the premise that we use only 10 percent of our b...</p></details>
+   Link:<a href="https://www.wired.com/2014/07/everything-you-need-to-know-about-the-10-brain-myth-explained-in-60-seconds/" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/2014/07/everything-you-need-to-know-about-the-10-brain-myth-explained-in-60-seconds/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>All You Need To Know About the 10 Percent Brain Myth, in...Jul 24, 2014 — It&#x27;s based on the premise that we use only 10 percent of our b...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: gizmodo.com  
    Title: where the 10 percent of our brains myth comes from a 1598507369  
-   Link: <a href="https://gizmodo.com/where-the-10-percent-of-our-brains-myth-comes-from-a-1598507369" target="_blank" rel="noopener noreferrer nofollow">https://gizmodo.com/where-the-10-percent-of-our-brains-myth-comes-from-a-1598507369</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How the &quot;10 Percent of Our Brains&quot; Myth Started (And Why...Jul 29, 2014 — The earliest potential source comes from the work of Jean Pier...</p></details>
+   Link:<a href="https://gizmodo.com/where-the-10-percent-of-our-brains-myth-comes-from-a-1598507369" target="_blank" rel="noopener noreferrer nofollow">https://gizmodo.com/where-the-10-percent-of-our-brains-myth-comes-from-a-1598507369</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How the &quot;10 Percent of Our Brains&quot; Myth Started (And Why...Jul 29, 2014 — The earliest potential source comes from the work of Jean Pier...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: medicalnewstoday.com  
-   Link: <a href="https://www.medicalnewstoday.com/articles/321060" target="_blank" rel="noopener noreferrer nofollow">https://www.medicalnewstoday.com/articles/321060</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>According to an older survey from 2013, around 65 percent of Americans believe...Read more...</p></details>
+   Link:<a href="https://www.medicalnewstoday.com/articles/321060" target="_blank" rel="noopener noreferrer nofollow">https://www.medicalnewstoday.com/articles/321060</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>According to an older survey from 2013, around 65 percent of Americans believe...Read more...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: bakadesuyo.com  
-   Link: <a href="https://bakadesuyo.com/2012/06/is-it-true-you-only-use-10-of-your-brainpower/" target="_blank" rel="noopener noreferrer nofollow">https://bakadesuyo.com/2012/06/is-it-true-you-only-use-10-of-your-brainpower/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>as laughably false, adding, “we use virtually every part of the brain.Read more...</p></details>
+   Link:<a href="https://bakadesuyo.com/2012/06/is-it-true-you-only-use-10-of-your-brainpower/" target="_blank" rel="noopener noreferrer nofollow">https://bakadesuyo.com/2012/06/is-it-true-you-only-use-10-of-your-brainpower/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>as laughably false, adding, “we use virtually every part of the brain.Read more...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: science.howstuffworks.com  
    Title: How Stuff Works How Much of Our Brain Do We Use?  
-   Link: <a href="https://science.howstuffworks.com/life/inside-the-mind/human-brain/ten-percent-of-brain.htm" target="_blank" rel="noopener noreferrer nofollow">https://science.howstuffworks.com/life/inside-the-mind/human-brain/ten-percent-of-brain.htm</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Debunking the MythAug 25, 2023 — The Origins of the 10 Percent Myth; The Reality: Brain Function... brain in action and debunk the myth...</p></details>
+   Link:<a href="https://science.howstuffworks.com/life/inside-the-mind/human-brain/ten-percent-of-brain.htm" target="_blank" rel="noopener noreferrer nofollow">https://science.howstuffworks.com/life/inside-the-mind/human-brain/ten-percent-of-brain.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Debunking the MythAug 25, 2023 — The Origins of the 10 Percent Myth; The Reality: Brain Function... brain in action and debunk the myth...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: nature.com  
    Title: lucy is wrong we use  
-   Link: <a href="https://www.nature.com/scitable/blog/mind-read/lucy_is_wrong_we_use/" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/scitable/blog/mind-read/lucy_is_wrong_we_use/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Lucy&quot; is Wrong; We Use Way More Than 10% of Our Brains17 Jul 2014 — &quot;Professor William James of Harvard,&quot; Thomas wrote, used to say that...</p></details>
+   Link:<a href="https://www.nature.com/scitable/blog/mind-read/lucy_is_wrong_we_use/" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/scitable/blog/mind-read/lucy_is_wrong_we_use/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Lucy&quot; is Wrong; We Use Way More Than 10% of Our Brains17 Jul 2014 — &quot;Professor William James of Harvard,&quot; Thomas wrote, used to say that...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: brainfacts.org  
    Title: debunked the 10 percent brain myth 061719  
-   Link: <a href="https://www.brainfacts.org/thinking-sensing-and-behaving/thinking-and-awareness/2019/debunked-the-10-percent-brain-myth-061719" target="_blank" rel="noopener noreferrer nofollow">https://www.brainfacts.org/thinking-sensing-and-behaving/thinking-and-awareness/2019/debunked-the-10-percent-brain-myth-061719</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Debunked: The 10 Percent Brain MythJun 19, 2019 — Don&#x27;t let the movies fool you. Neuroscientist Nick Spitzer debunks the myth that people...</p></details>
+   Link:<a href="https://www.brainfacts.org/thinking-sensing-and-behaving/thinking-and-awareness/2019/debunked-the-10-percent-brain-myth-061719" target="_blank" rel="noopener noreferrer nofollow">https://www.brainfacts.org/thinking-sensing-and-behaving/thinking-and-awareness/2019/debunked-the-10-percent-brain-myth-061719</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Debunked: The 10 Percent Brain MythJun 19, 2019 — Don&#x27;t let the movies fool you. Neuroscientist Nick Spitzer debunks the myth that people...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: uamshealth.com  
-   Link: <a href="https://uamshealth.com/medical-myths/do-people-only-use-10-percent-of-our-brains/" target="_blank" rel="noopener noreferrer nofollow">https://uamshealth.com/medical-myths/do-people-only-use-10-percent-of-our-brains/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Do People Only Use 10 Percent of our Brains?8 Mar 2019 — Unfortunately, the idea that people only use 10% of our brains and could use mor...</p></details>
+   Link:<a href="https://uamshealth.com/medical-myths/do-people-only-use-10-percent-of-our-brains/" target="_blank" rel="noopener noreferrer nofollow">https://uamshealth.com/medical-myths/do-people-only-use-10-percent-of-our-brains/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Do People Only Use 10 Percent of our Brains?8 Mar 2019 — Unfortunately, the idea that people only use 10% of our brains and could use mor...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: northcoastjournal.com  
    Title: the 10 percent brain myth 2132603  
-   Link: <a href="https://www.northcoastjournal.com/life-outdoors/the-10-percent-brain-myth-2132603/" target="_blank" rel="noopener noreferrer nofollow">https://www.northcoastjournal.com/life-outdoors/the-10-percent-brain-myth-2132603/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The 10 Percent Brain MythOct 20, 2011 — Pioneering psychologist William James (1842-1910), brother of novelist Henry, was known to provok...</p></details>
+   Link:<a href="https://www.northcoastjournal.com/life-outdoors/the-10-percent-brain-myth-2132603/" target="_blank" rel="noopener noreferrer nofollow">https://www.northcoastjournal.com/life-outdoors/the-10-percent-brain-myth-2132603/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The 10 Percent Brain MythOct 20, 2011 — Pioneering psychologist William James (1842-1910), brother of novelist Henry, was known to provok...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: youtube.com  
    Title: What percentage of your brain do you use?  
-   Link: <a href="https://www.youtube.com/watch?v=5NubJ2ThK_U" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=5NubJ2ThK_U</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Richard E. Cytowic... myth that has been propagated for over a century: that we use only 10% of our brains. Hardly! Our neuron-dense brai...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=5NubJ2ThK_U" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=5NubJ2ThK_U</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Richard E. Cytowic... myth that has been propagated for over a century: that we use only 10% of our brains. Hardly! Our neuron-dense brai...</p></details>

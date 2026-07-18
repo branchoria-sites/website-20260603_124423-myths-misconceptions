@@ -504,15 +504,15 @@ image: /assets/images/Myths_and_misconcept_0d48d7_personal_experience_bd112b-ove
 Overgeneralising from personal experience is one of the most common ways a misconception begins. A person has a real experience, remembers it vividly, and then stretches it into a rule: “that treatment worked for me, so it works”, “I had a bad encounter with one person from that group, so they are all like that”, or “I ignored the warning once and nothing happened, so the warning is exaggerated”. The problem is not that the experience is fake. Often it is perfectly sincere. The mistake is treating one case, or a small cluster of cases, as if it can carry the weight of broader evidence.
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_personal_experience_bd112b-overview.webp" | relative_url }}" alt="Overview image for Anecdotes" loading="eager" decoding="sync" fetchpriority="high">
-This matters because myths often grow from true fragments. Personal stories are memorable, emotionally persuasive and easy to share, while population-level evidence is slower, less vivid and harder to interpret. Research on judgement under uncertainty has long shown that people often lean on what comes easily to mind, what feels representative, or what fits an existing belief, even when the relevant evidence should include sample size, comparison groups and base rates. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/17835457/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Judgment under Uncertainty: Heuristics and Biasesby A Tversky · 1974 · Cited by 58830 — This article described three heuristics tha...</span></span></span>
+This matters because myths often grow from true fragments. Personal stories are memorable, emotionally persuasive and easy to share, while population-level evidence is slower, less vivid and harder to interpret. Research on judgement under uncertainty has long shown that people often lean on what comes easily to mind, what feels representative, or what fits an existing belief, even when the relevant evidence should include sample size, comparison groups and base rates.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/17835457/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Judgment under Uncertainty: Heuristics and Biasesby A Tversky · 1974 · Cited by 58830 — This article described three heuristics tha...</span></span></span>
 
 ## Why anecdotes feel powerful
 
 Anecdotes feel powerful because they arrive as stories, not spreadsheets. They usually contain a person, a sequence of events, a clear outcome and an implied lesson. That structure makes them easier to remember than abstract evidence. “My neighbour took this supplement and felt better” is more mentally available than a systematic review comparing many people under controlled conditions. The story has a face; the statistic has a denominator.
 
-This is why personal experience can outrank better evidence in everyday reasoning. A 2020 meta-analysis of 61 papers on anecdotal versus statistical evidence found that anecdotal evidence can be especially persuasive when emotional engagement is high, such as in health issues, severe threats or personally relevant situations. In those contexts, statistics may be less influential than a vivid case, even when the statistics are more reliable for judging what usually happens. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ideas.repec.org/a/eee/jobhdp/v160y2020icp51-67.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ideas.repec.org">[IDEAS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ideas.repec.org</span><span class="citation-popover-title">IDEAS/Re PEc When poignant stories outweigh cold hard facts: A meta</span><span class="citation-popover-snippet">IDEAS/RePEcWhen poignant stories outweigh cold hard facts: A meta...February 2, 2020 — by TH Freling · 2020 · Cited by 113 — The objecti...</span><span class="citation-popover-meta">Published: February 2, 2020</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://ideas.repec.org/a/eee/jobhdp/v160y2020icp51-67.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ideas.repec.org">[RePEc]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ideas.repec.org</span><span class="citation-popover-title">IDEAS/Re PEc When poignant stories outweigh cold hard facts: A meta</span><span class="citation-popover-snippet">IDEAS/RePEcWhen poignant stories outweigh cold hard facts: A meta...February 2, 2020 — by TH Freling · 2020 · Cited by 113 — The objecti...</span><span class="citation-popover-meta">Published: February 2, 2020</span></span></span>
+This is why personal experience can outrank better evidence in everyday reasoning. A 2020 meta-analysis of 61 papers on anecdotal versus statistical evidence found that anecdotal evidence can be especially persuasive when emotional engagement is high, such as in health issues, severe threats or personally relevant situations. In those contexts, statistics may be less influential than a vivid case, even when the statistics are more reliable for judging what usually happens.<span class="citation-chip-wrap"><a class="citation-chip" href="https://ideas.repec.org/a/eee/jobhdp/v160y2020icp51-67.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ideas.repec.org">[IDEAS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ideas.repec.org</span><span class="citation-popover-title">IDEAS/Re PEc When poignant stories outweigh cold hard facts: A meta</span><span class="citation-popover-snippet">IDEAS/RePEcWhen poignant stories outweigh cold hard facts: A meta...February 2, 2020 — by TH Freling · 2020 · Cited by 113 — The objecti...</span><span class="citation-popover-meta">Published: February 2, 2020</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://ideas.repec.org/a/eee/jobhdp/v160y2020icp51-67.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ideas.repec.org">[RePEc]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ideas.repec.org</span><span class="citation-popover-title">IDEAS/Re PEc When poignant stories outweigh cold hard facts: A meta</span><span class="citation-popover-snippet">IDEAS/RePEcWhen poignant stories outweigh cold hard facts: A meta...February 2, 2020 — by TH Freling · 2020 · Cited by 113 — The objecti...</span><span class="citation-popover-meta">Published: February 2, 2020</span></span></span>
 
-The same pattern appears in studies of flawed science and medical choices. Research on science-related decision-making found that anecdotal evidence can become a strong barrier to evidence-based reasoning. A 2024 study also found that reading anecdotes about medical treatments shifted participants’ beliefs about treatment efficacy, including when the anecdotes concerned artificial or real treatments. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8023527/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCWhen and why do people act on flawed science?</span><span class="citation-popover-snippet">Effects of...by AL Michal · 2021 · Cited by 39 — In particular, the presence of anecdotal evidence can serve as a powerful barrier for s...</span></span></span>
+The same pattern appears in studies of flawed science and medical choices. Research on science-related decision-making found that anecdotal evidence can become a strong barrier to evidence-based reasoning. A 2024 study also found that reading anecdotes about medical treatments shifted participants’ beliefs about treatment efficacy, including when the anecdotes concerned artificial or real treatments.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8023527/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCWhen and why do people act on flawed science?</span><span class="citation-popover-snippet">Effects of...by AL Michal · 2021 · Cited by 39 — In particular, the presence of anecdotal evidence can serve as a powerful barrier for s...</span></span></span>
 
 The mechanism is simple but potent: a story supplies meaning before evidence has been weighed. Once a story feels like an explanation, later information is judged against it. If the story also fits someone’s existing worldview, group [identity]({{ 'identity/' | relative_url }}) or fears, it becomes even harder to treat it as merely one data point.
 
@@ -523,9 +523,9 @@ A single case can show that something happened. It usually cannot show how often
 
 The central weakness is the missing comparison. Suppose someone drinks a herbal tea and their cold improves the next day. The improvement may be real, but colds often improve on their own. Without a comparison group, it is hard to separate the effect of the tea from time, placebo effects, regression to the mean, other treatments, changes in behaviour or ordinary variation. The personal story is evidence that the person got better after drinking the tea; it is not yet strong evidence that the tea caused the recovery.
 
-This is why official safety-monitoring systems repeatedly warn against reading raw reports as proof of cause. The US Vaccine Adverse Event Reporting System, for example, accepts reports of adverse events after vaccination, but the CDC states that VAERS data alone cannot determine whether a vaccine caused the reported event. The system is designed to detect possible safety signals that need further investigation, not to turn every reported sequence into a confirmed causal claim. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cdc.gov/vaccine-safety-systems/vaers/index.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdc.gov">[CDC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdc.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+This is why official safety-monitoring systems repeatedly warn against reading raw reports as proof of cause. The US Vaccine Adverse Event Reporting System, for example, accepts reports of adverse events after vaccination, but the CDC states that VAERS data alone cannot determine whether a vaccine caused the reported event. The system is designed to detect possible safety signals that need further investigation, not to turn every reported sequence into a confirmed causal claim.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cdc.gov/vaccine-safety-systems/vaers/index.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdc.gov">[CDC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdc.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-The same caution applies to drug adverse-event reports. The US Food and Drug Administration explains that the existence of a report does not establish causation, that report information may not be medically verified, and that such reports cannot be used to estimate occurrence rates. A report may reflect an observation worth investigating, but it is not the same as controlled evidence about risk. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.fda.gov/drugs/fda-adverse-event-monitoring-system-aems/fda-adverse-event-monitoring-system-aems-public-dashboard" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fda.gov">[U.S. Food and Drug Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fda.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The same caution applies to drug adverse-event reports. The US Food and Drug Administration explains that the existence of a report does not establish causation, that report information may not be medically verified, and that such reports cannot be used to estimate occurrence rates. A report may reflect an observation worth investigating, but it is not the same as controlled evidence about risk.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.fda.gov/drugs/fda-adverse-event-monitoring-system-aems/fda-adverse-event-monitoring-system-aems-public-dashboard" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fda.gov">[U.S. Food and Drug Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fda.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 That distinction is where many misconceptions begin. A real event is converted into a general rule before the basic evidential questions have been asked: How many cases are there? Compared with what? How were they selected? What else could explain the outcome? What happens when the claim is tested systematically?
 
@@ -535,11 +535,11 @@ That distinction is where many misconceptions begin. A real event is converted i
 
 Personal experience usually becomes a myth through a chain of small reasoning shortcuts rather than one dramatic error. The experience is noticed, remembered, repeated and simplified until it becomes a portable rule.
 
-One common shortcut is the availability heuristic: people estimate frequency or likelihood partly by how easily examples come to mind. Tversky and Kahneman’s classic 1974 paper described availability as one of the heuristics people use when judging frequency and plausibility under uncertainty. This shortcut is useful in many ordinary situations, but it can mislead when memorable examples are not representative. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/17835457/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Judgment under Uncertainty: Heuristics and Biasesby A Tversky · 1974 · Cited by 58830 — This article described three heuristics tha...</span></span></span>
+One common shortcut is the availability heuristic: people estimate frequency or likelihood partly by how easily examples come to mind. Tversky and Kahneman’s classic 1974 paper described availability as one of the heuristics people use when judging frequency and plausibility under uncertainty. This shortcut is useful in many ordinary situations, but it can mislead when memorable examples are not representative.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/17835457/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Judgment under Uncertainty: Heuristics and Biasesby A Tversky · 1974 · Cited by 58830 — This article described three heuristics tha...</span></span></span>
 
-Another shortcut is the “law of small numbers”: the tendency to expect [small samples]({{ 'small-samples/' | relative_url }}) to resemble the wider population more closely than they really do. Kahneman and Tversky argued that people often overestimate the stability and representativeness of small samples. In myth-making, this means a handful of striking cases can feel like a pattern even when they may be ordinary noise, coincidence or selection bias. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.stats.org.uk/statistical-inference/TverskyKahneman1971.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stats.org.uk">[stats.org.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stats.org.uk</span><span class="citation-popover-title">BELIE F IN THE LAW OF SMALL NUMBERS</span><span class="citation-popover-snippet">BELIEF IN THE LAW OF SMALL NUMBERS - Statisticsby A TVERSKY · 1971 · Cited by 5219 — We pro- posed a representation hypothesis according...</span></span></span>
+Another shortcut is the “law of small numbers”: the tendency to expect [small samples]({{ 'small-samples/' | relative_url }}) to resemble the wider population more closely than they really do. Kahneman and Tversky argued that people often overestimate the stability and representativeness of small samples. In myth-making, this means a handful of striking cases can feel like a pattern even when they may be ordinary noise, coincidence or selection bias.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.stats.org.uk/statistical-inference/TverskyKahneman1971.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stats.org.uk">[stats.org.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stats.org.uk</span><span class="citation-popover-title">BELIE F IN THE LAW OF SMALL NUMBERS</span><span class="citation-popover-snippet">BELIEF IN THE LAW OF SMALL NUMBERS - Statisticsby A TVERSKY · 1971 · Cited by 5219 — We pro- posed a representation hypothesis according...</span></span></span>
 
-A third shortcut is base-rate neglect. People may focus on the vivid detail of a case and underweight the background frequency of events. For example, if a health problem is common in a population, some people will develop it after eating a certain food, taking a medicine or receiving a vaccine purely by coincidence. Without the base rate, the [timing]({{ 'timing/' | relative_url }}) can look more meaningful than it is. Research describes base-rate neglect as underweighting prior statistical information, with real-world consequences for judgement. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11345347/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Open source on nih.gov.</span></span></span>
+A third shortcut is base-rate neglect. People may focus on the vivid detail of a case and underweight the background frequency of events. For example, if a health problem is common in a population, some people will develop it after eating a certain food, taking a medicine or receiving a vaccine purely by coincidence. Without the base rate, the [timing]({{ 'timing/' | relative_url }}) can look more meaningful than it is. Research describes base-rate neglect as underweighting prior statistical information, with real-world consequences for judgement.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11345347/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Open source on nih.gov.</span></span></span>
 
 The myth forms when these shortcuts combine:
 
@@ -556,9 +556,9 @@ This is why correcting anecdote-based myths can be delicate. The experience may 
 
 The opposite misconception is that anecdotes have no value at all. Personal experience can be an important starting point. It can flag overlooked harms, reveal lived consequences, generate research questions, expose blind spots in expert assumptions and make abstract problems humanly intelligible.
 
-Medicine offers a useful distinction. Case reports and spontaneous [safety reports]({{ 'safety-reports/' | relative_url }}) are not usually enough to prove cause, but they can help detect signals. VAERS, for instance, is valuable because patterns in reports can prompt further investigation in stronger systems, even though individual reports do not establish causation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://publichealth.jhu.edu/2022/what-vaers-is-and-isnt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: publichealth.jhu.edu">[Bloomberg School of Public Health]</a><span class="citation-popover" role="note"><span class="citation-popover-source">publichealth.jhu.edu</span><span class="citation-popover-title">what vaers is and isnt</span><span class="citation-popover-snippet">what vaers is and isnt</span></span></span>
+Medicine offers a useful distinction. Case reports and spontaneous [safety reports]({{ 'safety-reports/' | relative_url }}) are not usually enough to prove cause, but they can help detect signals. VAERS, for instance, is valuable because patterns in reports can prompt further investigation in stronger systems, even though individual reports do not establish causation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://publichealth.jhu.edu/2022/what-vaers-is-and-isnt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: publichealth.jhu.edu">[Bloomberg School of Public Health]</a><span class="citation-popover" role="note"><span class="citation-popover-source">publichealth.jhu.edu</span><span class="citation-popover-title">what vaers is and isnt</span><span class="citation-popover-snippet">what vaers is and isnt</span></span></span>
 
-Personal experience also matters in communication. Research on science and lived experience argues that weaving personal anecdotes into scientific research can make it more compelling and digestible, while dismissing lived experience too quickly can alienate people whose realities are being discussed. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8889191/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCCan we shift belief in the &#x27;Law of Small Numbers&#x27;?</span><span class="citation-popover-snippet">PMCCan we shift belief in the &#x27;Law of Small Numbers&#x27;?</span></span></span>
+Personal experience also matters in communication. Research on science and lived experience argues that weaving personal anecdotes into scientific research can make it more compelling and digestible, while dismissing lived experience too quickly can alienate people whose realities are being discussed.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8889191/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCCan we shift belief in the &#x27;Law of Small Numbers&#x27;?</span><span class="citation-popover-snippet">PMCCan we shift belief in the &#x27;Law of Small Numbers&#x27;?</span></span></span>
 
 The better rule is not “ignore anecdotes”. It is “put anecdotes in the right evidential role”. A story can suggest a possibility, illustrate a mechanism, identify a harm, or motivate a question. It becomes unreliable when it is asked to settle a claim about what is generally true.
 
@@ -580,7 +580,7 @@ A useful evidence shift looks like this:
 
 </div>
 
-This is why systematic evidence is so important for questions that affect health, safety, policy or public understanding. Cochrane describes its role as examining evidence behind questions that affect people’s lives so that decisions can be better informed. The point of evidence synthesis is not to erase individual stories, but to protect people from mistaking a selective set of stories for the whole picture. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cochrane.org/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cochrane.org">[Cochrane]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cochrane.org</span><span class="citation-popover-snippet">Open source on cochrane.org.</span></span></span>
+This is why systematic evidence is so important for questions that affect health, safety, policy or public understanding. Cochrane describes its role as examining evidence behind questions that affect people’s lives so that decisions can be better informed. The point of evidence synthesis is not to erase individual stories, but to protect people from mistaking a selective set of stories for the whole picture.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cochrane.org/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cochrane.org">[Cochrane]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cochrane.org</span><span class="citation-popover-snippet">Open source on cochrane.org.</span></span></span>
 
 In everyday life, the same logic applies outside medicine. A teacher may remember one student who thrived under a harsh method, but that does not prove the method helps most students. A manager may trust an interview “gut feeling” because one past hire worked out, but that does not show the judgement method is reliable. A traveller may visit a city once, encounter rude service, and form a sweeping view of the place. Each case may be real; the myth begins when the case is promoted into a rule.
 
@@ -598,194 +598,194 @@ The most reliable habit is to treat anecdotes as signals, not verdicts. A person
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/wqtcTog8KZA" title="Base Rate Bias" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=wqtcTog8KZA" target="_blank" rel="noopener noreferrer">Base Rate Bias</a></p><p class="youtube-embed-meta">Channel: Ashley Hodgson &middot; Views: 6.5K &middot; Uploaded: October 2021 &middot; Length: 2 minutes 23 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=wqtcTog8KZA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=wqtcTog8KZA">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When Personal Experience Becomes a Myth. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When Personal Experience Becomes a Myth. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YGPzXWanppcC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
-        </h4>
-        <p class="fr-book-author">By Daniel Kahneman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YGPzXWanppcC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
+</h4>
+<p class="fr-book-author">By Daniel Kahneman</p>
         
-        <p class="fr-book-desc">Explains cognitive biases behind overgeneralizing from experience.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains cognitive biases behind overgeneralizing from experience.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Factfulness on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=rxg0tgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Factfulness" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Factfulness">Factfulness</a>
-        </h4>
-        <p class="fr-book-author">By Hans Rosling, Ola Rosling et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Factfulness on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=rxg0tgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Factfulness" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Factfulness">Factfulness</a>
+</h4>
+<p class="fr-book-author">By Hans Rosling, Ola Rosling et al.</p>
         
-        <p class="fr-book-desc">Demonstrates how intuition can mislead about reality.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Demonstrates how intuition can mislead about reality.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Bad+Science+by+Ben+Goldacre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Bad Science on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=wICuv0ePMYoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Bad Science" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Bad+Science+by+Ben+Goldacre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Bad Science">Bad Science</a>
-        </h4>
-        <p class="fr-book-author">By Ben Goldacre</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Bad+Science+by+Ben+Goldacre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Bad Science on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=wICuv0ePMYoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Bad Science" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Bad+Science+by+Ben+Goldacre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Bad Science">Bad Science</a>
+</h4>
+<p class="fr-book-author">By Ben Goldacre</p>
         
-        <p class="fr-book-desc">Highlights dangers of relying on anecdotes instead of evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Bad+Science+by+Ben+Goldacre&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Highlights dangers of relying on anecdotes instead of evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Bad+Science+by+Ben+Goldacre&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Scout+Mindset+Julia+Galef&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Scout Mindset on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10690900-M.jpg" alt="Cover for Scout Mindset" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Scout+Mindset+Julia+Galef&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scout Mindset">Scout Mindset</a>
-        </h4>
-        <p class="fr-book-author">By Julia Galef</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Scout+Mindset+Julia+Galef&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Scout Mindset on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10690900-M.jpg" alt="Cover for Scout Mindset" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Scout+Mindset+Julia+Galef&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scout Mindset">Scout Mindset</a>
+</h4>
+<p class="fr-book-author">By Julia Galef</p>
         
-        <p class="fr-book-desc">First published 2021. Subjects: Economics, Psychology, Cognition, Skepticism, Critical thinking.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Scout+Mindset+Julia+Galef&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2021. Subjects: Economics, Psychology, Cognition, Skepticism, Critical thinking.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Scout+Mindset+Julia+Galef&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Factfulness&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Factfulness</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Bad+Science&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Bad Science</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Factfulness&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Factfulness</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Bad+Science&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Bad Science</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+training+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=anecdotes-when-personal-experience-becomes-a-myth-myths-and-misconcept-teacher-training-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher training poster" data-ebay-reference="anecdotes-when-personal-experience-becomes-a-myth-myths-and-misconcept-teacher-training-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Special Education Teacher, SPED Fra Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/ce5caa89a0d0230e589d.jpg' | relative_url }}" alt="Listing image for Special Education Teacher, SPED Fra Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+training+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=anecdotes-when-personal-experience-becomes-a-myth-myths-and-misconcept-teacher-training-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher training poster" data-ebay-reference="anecdotes-when-personal-experience-becomes-a-myth-myths-and-misconcept-teacher-training-poster" target="_blank" rel="sponsored noopener noreferrer">Special Education Teacher, SPED Fra Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+training+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=anecdotes-when-personal-experience-becomes-a-myth-myths-and-misconcept-teacher-training-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher training poster" data-ebay-reference="anecdotes-when-personal-experience-becomes-a-myth-myths-and-misconcept-teacher-training-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for teacher training poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: teacher training poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+training+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=anecdotes-when-personal-experience-becomes-a-myth-myths-and-misconcept-teacher-training-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher training poster" data-ebay-reference="anecdotes-when-personal-experience-becomes-a-myth-myths-and-misconcept-teacher-training-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+training+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=anecdotes-when-personal-experience-becomes-a-myth-myths-and-misconcept-teacher-training-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher training poster" data-ebay-reference="anecdotes-when-personal-experience-becomes-a-myth-myths-and-misconcept-teacher-training-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Special Education Teacher, SPED Fra Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/ce5caa89a0d0230e589d.jpg' | relative_url }}" alt="Listing image for Special Education Teacher, SPED Fra Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+training+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=anecdotes-when-personal-experience-becomes-a-myth-myths-and-misconcept-teacher-training-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher training poster" data-ebay-reference="anecdotes-when-personal-experience-becomes-a-myth-myths-and-misconcept-teacher-training-poster" target="_blank" rel="sponsored noopener noreferrer">Special Education Teacher, SPED Fra Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+training+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=anecdotes-when-personal-experience-becomes-a-myth-myths-and-misconcept-teacher-training-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher training poster" data-ebay-reference="anecdotes-when-personal-experience-becomes-a-myth-myths-and-misconcept-teacher-training-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for teacher training poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: teacher training poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+training+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=anecdotes-when-personal-experience-becomes-a-myth-myths-and-misconcept-teacher-training-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher training poster" data-ebay-reference="anecdotes-when-personal-experience-becomes-a-myth-myths-and-misconcept-teacher-training-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+training+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=anecdotes-when-personal-experience-becomes-a-myth-myths-and-misconcept-teacher-training-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher training poster" data-ebay-reference="anecdotes-when-personal-experience-becomes-a-myth-myths-and-misconcept-teacher-training-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Special Education Teacher, Special Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/c97c09dfaffcefee2438.jpg' | relative_url }}" alt="Listing image for Special Education Teacher, Special Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+training+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=anecdotes-when-personal-experience-becomes-a-myth-myths-and-misconcept-teacher-training-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher training poster" data-ebay-reference="anecdotes-when-personal-experience-becomes-a-myth-myths-and-misconcept-teacher-training-poster" target="_blank" rel="sponsored noopener noreferrer">Special Education Teacher, Special Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+training+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=anecdotes-when-personal-experience-becomes-a-myth-myths-and-misconcept-teacher-training-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher training poster" data-ebay-reference="anecdotes-when-personal-experience-becomes-a-myth-myths-and-misconcept-teacher-training-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for teacher training poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: teacher training poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+training+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=anecdotes-when-personal-experience-becomes-a-myth-myths-and-misconcept-teacher-training-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher training poster" data-ebay-reference="anecdotes-when-personal-experience-becomes-a-myth-myths-and-misconcept-teacher-training-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+training+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=anecdotes-when-personal-experience-becomes-a-myth-myths-and-misconcept-teacher-training-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher training poster" data-ebay-reference="anecdotes-when-personal-experience-becomes-a-myth-myths-and-misconcept-teacher-training-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Special Education Teacher, Special Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/c97c09dfaffcefee2438.jpg' | relative_url }}" alt="Listing image for Special Education Teacher, Special Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+training+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=anecdotes-when-personal-experience-becomes-a-myth-myths-and-misconcept-teacher-training-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher training poster" data-ebay-reference="anecdotes-when-personal-experience-becomes-a-myth-myths-and-misconcept-teacher-training-poster" target="_blank" rel="sponsored noopener noreferrer">Special Education Teacher, Special Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+training+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=anecdotes-when-personal-experience-becomes-a-myth-myths-and-misconcept-teacher-training-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher training poster" data-ebay-reference="anecdotes-when-personal-experience-becomes-a-myth-myths-and-misconcept-teacher-training-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for teacher training poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: teacher training poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+training+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=anecdotes-when-personal-experience-becomes-a-myth-myths-and-misconcept-teacher-training-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher training poster" data-ebay-reference="anecdotes-when-personal-experience-becomes-a-myth-myths-and-misconcept-teacher-training-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+training+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=anecdotes-when-personal-experience-becomes-a-myth-myths-and-misconcept-teacher-training-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher training poster" data-ebay-reference="anecdotes-when-personal-experience-becomes-a-myth-myths-and-misconcept-teacher-training-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Special Education Teacher, SPED Fra Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/32c819eca7a07f0a7cdc.jpg' | relative_url }}" alt="Listing image for Special Education Teacher, SPED Fra Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+training+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=anecdotes-when-personal-experience-becomes-a-myth-myths-and-misconcept-teacher-training-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher training poster" data-ebay-reference="anecdotes-when-personal-experience-becomes-a-myth-myths-and-misconcept-teacher-training-poster" target="_blank" rel="sponsored noopener noreferrer">Special Education Teacher, SPED Fra Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+training+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=anecdotes-when-personal-experience-becomes-a-myth-myths-and-misconcept-teacher-training-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher training poster" data-ebay-reference="anecdotes-when-personal-experience-becomes-a-myth-myths-and-misconcept-teacher-training-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for teacher training poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: teacher training poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+training+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=anecdotes-when-personal-experience-becomes-a-myth-myths-and-misconcept-teacher-training-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher training poster" data-ebay-reference="anecdotes-when-personal-experience-becomes-a-myth-myths-and-misconcept-teacher-training-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+training+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=anecdotes-when-personal-experience-becomes-a-myth-myths-and-misconcept-teacher-training-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher training poster" data-ebay-reference="anecdotes-when-personal-experience-becomes-a-myth-myths-and-misconcept-teacher-training-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Special Education Teacher, SPED Fra Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/32c819eca7a07f0a7cdc.jpg' | relative_url }}" alt="Listing image for Special Education Teacher, SPED Fra Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+training+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=anecdotes-when-personal-experience-becomes-a-myth-myths-and-misconcept-teacher-training-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher training poster" data-ebay-reference="anecdotes-when-personal-experience-becomes-a-myth-myths-and-misconcept-teacher-training-poster" target="_blank" rel="sponsored noopener noreferrer">Special Education Teacher, SPED Fra Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+training+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=anecdotes-when-personal-experience-becomes-a-myth-myths-and-misconcept-teacher-training-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher training poster" data-ebay-reference="anecdotes-when-personal-experience-becomes-a-myth-myths-and-misconcept-teacher-training-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for teacher training poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: teacher training poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+training+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=anecdotes-when-personal-experience-becomes-a-myth-myths-and-misconcept-teacher-training-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher training poster" data-ebay-reference="anecdotes-when-personal-experience-becomes-a-myth-myths-and-misconcept-teacher-training-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+training+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=anecdotes-when-personal-experience-becomes-a-myth-myths-and-misconcept-teacher-training-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher training poster" data-ebay-reference="anecdotes-when-personal-experience-becomes-a-myth-myths-and-misconcept-teacher-training-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Special Education Teacher, SPED Fra Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/09be870a7811a268cac2.jpg' | relative_url }}" alt="Listing image for Special Education Teacher, SPED Fra Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+training+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=anecdotes-when-personal-experience-becomes-a-myth-myths-and-misconcept-teacher-training-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher training poster" data-ebay-reference="anecdotes-when-personal-experience-becomes-a-myth-myths-and-misconcept-teacher-training-poster" target="_blank" rel="sponsored noopener noreferrer">Special Education Teacher, SPED Fra Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+training+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=anecdotes-when-personal-experience-becomes-a-myth-myths-and-misconcept-teacher-training-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher training poster" data-ebay-reference="anecdotes-when-personal-experience-becomes-a-myth-myths-and-misconcept-teacher-training-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for teacher training poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: teacher training poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+training+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=anecdotes-when-personal-experience-becomes-a-myth-myths-and-misconcept-teacher-training-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher training poster" data-ebay-reference="anecdotes-when-personal-experience-becomes-a-myth-myths-and-misconcept-teacher-training-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+training+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=anecdotes-when-personal-experience-becomes-a-myth-myths-and-misconcept-teacher-training-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher training poster" data-ebay-reference="anecdotes-when-personal-experience-becomes-a-myth-myths-and-misconcept-teacher-training-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+training+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=anecdotes-when-personal-experience-becomes-a-myth-myths-and-misconcept-teacher-training-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher training poster" data-ebay-reference="anecdotes-when-personal-experience-becomes-a-myth-myths-and-misconcept-teacher-training-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Special Education Teacher, SPED Fra Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/09be870a7811a268cac2.jpg' | relative_url }}" alt="Listing image for Special Education Teacher, SPED Fra Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+training+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=anecdotes-when-personal-experience-becomes-a-myth-myths-and-misconcept-teacher-training-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher training poster" data-ebay-reference="anecdotes-when-personal-experience-becomes-a-myth-myths-and-misconcept-teacher-training-poster" target="_blank" rel="sponsored noopener noreferrer">Special Education Teacher, SPED Fra Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+training+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=anecdotes-when-personal-experience-becomes-a-myth-myths-and-misconcept-teacher-training-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher training poster" data-ebay-reference="anecdotes-when-personal-experience-becomes-a-myth-myths-and-misconcept-teacher-training-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for teacher training poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: teacher training poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+training+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=anecdotes-when-personal-experience-becomes-a-myth-myths-and-misconcept-teacher-training-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher training poster" data-ebay-reference="anecdotes-when-personal-experience-becomes-a-myth-myths-and-misconcept-teacher-training-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+training+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=anecdotes-when-personal-experience-becomes-a-myth-myths-and-misconcept-teacher-training-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher training poster" data-ebay-reference="anecdotes-when-personal-experience-becomes-a-myth-myths-and-misconcept-teacher-training-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -801,7 +801,7 @@ The most reliable habit is to treat anecdotes as signals, not verdicts. A person
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -821,7 +821,7 @@ The most reliable habit is to treat anecdotes as signals, not verdicts. A person
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -853,7 +853,7 @@ The most reliable habit is to treat anecdotes as signals, not verdicts. A person
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -905,7 +905,7 @@ The most reliable habit is to treat anecdotes as signals, not verdicts. A person
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -950,7 +950,7 @@ The most reliable habit is to treat anecdotes as signals, not verdicts. A person
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -991,166 +991,166 @@ The most reliable habit is to treat anecdotes as signals, not verdicts. A person
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: stats.org.uk  
    Title: BELIE F IN THE LAW OF SMALL NUMBERS  
-   Link: <a href="https://www.stats.org.uk/statistical-inference/TverskyKahneman1971.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.stats.org.uk/statistical-inference/TverskyKahneman1971.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>BELIEF IN THE LAW OF SMALL NUMBERS - Statisticsby A TVERSKY · 1971 · Cited by 5219 — We pro- posed a representation hypothesis according...</p></details>
+   Link:<a href="https://www.stats.org.uk/statistical-inference/TverskyKahneman1971.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.stats.org.uk/statistical-inference/TverskyKahneman1971.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>BELIEF IN THE LAW OF SMALL NUMBERS - Statisticsby A TVERSKY · 1971 · Cited by 5219 — We pro- posed a representation hypothesis according...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: ideas.repec.org  
    Title: IDEAS/Re PEc When poignant stories outweigh cold hard facts: A meta  
-   Link: <a href="https://ideas.repec.org/a/eee/jobhdp/v160y2020icp51-67.html" target="_blank" rel="noopener noreferrer nofollow">https://ideas.repec.org/a/eee/jobhdp/v160y2020icp51-67.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>IDEAS/RePEcWhen poignant stories outweigh cold hard facts: A meta...February 2, 2020 — by TH Freling · 2020 · Cited by 113 — The objecti...</p></details>
+   Link:<a href="https://ideas.repec.org/a/eee/jobhdp/v160y2020icp51-67.html" target="_blank" rel="noopener noreferrer nofollow">https://ideas.repec.org/a/eee/jobhdp/v160y2020icp51-67.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>IDEAS/RePEcWhen poignant stories outweigh cold hard facts: A meta...February 2, 2020 — by TH Freling · 2020 · Cited by 113 — The objecti...</p></details>
    Published: February 2, 2020  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCWhen and why do people act on flawed science?  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8023527/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8023527/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Effects of...by AL Michal · 2021 · Cited by 39 — In particular, the presence of anecdotal evidence can serve as a powerful barrier for s...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8023527/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8023527/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Effects of...by AL Michal · 2021 · Cited by 39 — In particular, the presence of anecdotal evidence can serve as a powerful barrier for s...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11345347/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11345347/</a>  
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11345347/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11345347/</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: cdc.gov  
-   Link: <a href="https://www.cdc.gov/vaccine-safety-systems/vaers/index.html" target="_blank" rel="noopener noreferrer nofollow">https://www.cdc.gov/vaccine-safety-systems/vaers/index.html</a>  
+   Link:<a href="https://www.cdc.gov/vaccine-safety-systems/vaers/index.html" target="_blank" rel="noopener noreferrer nofollow">https://www.cdc.gov/vaccine-safety-systems/vaers/index.html</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCCan we shift belief in the 'Law of Small Numbers'?  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8889191/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8889191/</a>  
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8889191/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8889191/</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9831339/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9831339/</a>  
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9831339/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9831339/</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7923648/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC7923648/</a>  
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7923648/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC7923648/</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: cochrane.org  
-   Link: <a href="https://www.cochrane.org/" target="_blank" rel="noopener noreferrer nofollow">https://www.cochrane.org/</a>  
+   Link:<a href="https://www.cochrane.org/" target="_blank" rel="noopener noreferrer nofollow">https://www.cochrane.org/</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: cochrane.org  
-   Link: <a href="https://www.cochrane.org/about-us" target="_blank" rel="noopener noreferrer nofollow">https://www.cochrane.org/about-us</a>  
+   Link:<a href="https://www.cochrane.org/about-us" target="_blank" rel="noopener noreferrer nofollow">https://www.cochrane.org/about-us</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: cochrane.org  
-   Link: <a href="https://www.cochrane.org/products-and-services/cochrane-library" target="_blank" rel="noopener noreferrer nofollow">https://www.cochrane.org/products-and-services/cochrane-library</a>  
+   Link:<a href="https://www.cochrane.org/products-and-services/cochrane-library" target="_blank" rel="noopener noreferrer nofollow">https://www.cochrane.org/products-and-services/cochrane-library</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: cochrane.org  
-   Link: <a href="https://www.cochrane.org/about-us/who-we-are/our-groups" target="_blank" rel="noopener noreferrer nofollow">https://www.cochrane.org/about-us/who-we-are/our-groups</a>  
+   Link:<a href="https://www.cochrane.org/about-us/who-we-are/our-groups" target="_blank" rel="noopener noreferrer nofollow">https://www.cochrane.org/about-us/who-we-are/our-groups</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/17835457/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/17835457/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Judgment under Uncertainty: Heuristics and Biasesby A Tversky · 1974 · Cited by 58830 — This article described three heuristics tha...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/17835457/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/17835457/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Judgment under Uncertainty: Heuristics and Biasesby A Tversky · 1974 · Cited by 58830 — This article described three heuristics tha...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/26209838/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/26209838/</a>  
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/26209838/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/26209838/</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: fda.gov  
-   Link: <a href="https://www.fda.gov/drugs/fda-adverse-event-monitoring-system-aems/fda-adverse-event-monitoring-system-aems-public-dashboard" target="_blank" rel="noopener noreferrer nofollow">https://www.fda.gov/drugs/fda-adverse-event-monitoring-system-aems/fda-adverse-event-monitoring-system-aems-public-dashboard</a>  
+   Link:<a href="https://www.fda.gov/drugs/fda-adverse-event-monitoring-system-aems/fda-adverse-event-monitoring-system-aems-public-dashboard" target="_blank" rel="noopener noreferrer nofollow">https://www.fda.gov/drugs/fda-adverse-event-monitoring-system-aems/fda-adverse-event-monitoring-system-aems-public-dashboard</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: publichealth.jhu.edu  
    Title: what vaers is and isnt  
-   Link: <a href="https://publichealth.jhu.edu/2022/what-vaers-is-and-isnt" target="_blank" rel="noopener noreferrer nofollow">https://publichealth.jhu.edu/2022/what-vaers-is-and-isnt</a>  
+   Link:<a href="https://publichealth.jhu.edu/2022/what-vaers-is-and-isnt" target="_blank" rel="noopener noreferrer nofollow">https://publichealth.jhu.edu/2022/what-vaers-is-and-isnt</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: fda.gov  
    Title: vaccine adverse event reporting system vaers questions and answers  
-   Link: <a href="https://www.fda.gov/[vaccines" target="_blank" rel="noopener noreferrer nofollow">https://www.fda.gov/[vaccines</a>  
+   Link:<a href="https://www.fda.gov/[vaccines" target="_blank" rel="noopener noreferrer nofollow">https://www.fda.gov/[vaccines</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: thedecisionlab.com  
    Title: Availability Heuristic  
-   Link: <a href="https://thedecisionlab.com/biases/availability-heuristic" target="_blank" rel="noopener noreferrer nofollow">https://thedecisionlab.com/biases/availability-heuristic</a>  
+   Link:<a href="https://thedecisionlab.com/biases/availability-heuristic" target="_blank" rel="noopener noreferrer nofollow">https://thedecisionlab.com/biases/availability-heuristic</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: cochranelibrary.com  
-   Link: <a href="https://www.cochranelibrary.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.cochranelibrary.com/</a>  
+   Link:<a href="https://www.cochranelibrary.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.cochranelibrary.com/</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: cochranelibrary.com  
-   Link: <a href="https://www.cochranelibrary.com/advanced-search" target="_blank" rel="noopener noreferrer nofollow">https://www.cochranelibrary.com/advanced-search</a>  
+   Link:<a href="https://www.cochranelibrary.com/advanced-search" target="_blank" rel="noopener noreferrer nofollow">https://www.cochranelibrary.com/advanced-search</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: Wikipedia  
    Title: Anecdotal evidence  
-   Link: <a href="https://en.wikipedia.org/wiki/Anecdotal_evidence" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Anecdotal_evidence</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Anecdotal_evidence" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Anecdotal_evidence</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: Wikipedia  
    Title: Availability heuristic  
-   Link: <a href="https://en.wikipedia.org/wiki/Availability_heuristic" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Availability_heuristic</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Availability_heuristic" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Availability_heuristic</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: Wikipedia  
    Title: Cochrane (organisation)  
-   Link: <a href="https://en.wikipedia.org/wiki/Cochrane_%28organisation%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Cochrane_%28organisation%29</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Cochrane_%28organisation%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Cochrane_%28organisation%29</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/user/CochraneCollab" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/user/CochraneCollab</a>  
+   Link:<a href="https://www.youtube.com/user/CochraneCollab" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/user/CochraneCollab</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: vaers.hhs.gov  
-   Link: <a href="https://vaers.hhs.gov/data.html" target="_blank" rel="noopener noreferrer nofollow">https://vaers.hhs.gov/data.html</a>  
+   Link:<a href="https://vaers.hhs.gov/data.html" target="_blank" rel="noopener noreferrer nofollow">https://vaers.hhs.gov/data.html</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: uk.linkedin.com  
-   Link: <a href="https://uk.linkedin.com/company/cochrane" target="_blank" rel="noopener noreferrer nofollow">https://uk.linkedin.com/company/cochrane</a>  
+   Link:<a href="https://uk.linkedin.com/company/cochrane" target="_blank" rel="noopener noreferrer nofollow">https://uk.linkedin.com/company/cochrane</a>  
 
 ### Additional References
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: science.org  
    Title: antivaccine activists use government database side effects scare public  
-   Link: <a href="https://www.science.org/content/article/antivaccine-activists-use-government-database-side-effects-scare-public" target="_blank" rel="noopener noreferrer nofollow">https://www.science.org/content/article/antivaccine-activists-use-government-database-side-effects-scare-public</a>  
+   Link:<a href="https://www.science.org/content/article/antivaccine-activists-use-government-database-side-effects-scare-public" target="_blank" rel="noopener noreferrer nofollow">https://www.science.org/content/article/antivaccine-activists-use-government-database-side-effects-scare-public</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: youtube.com  
    Title: The Danger of Small Sample Sizes and Personal Experience  
-   Link: <a href="https://www.youtube.com/watch?v=gT-824_v1Xg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=gT-824_v1Xg</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How Cognitive Biases Distort Our Reality...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=gT-824_v1Xg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=gT-824_v1Xg</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How Cognitive Biases Distort Our Reality...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/226764072_Anecdotal_Statistical_and_Causal_Evidence_Their_Perceived_and_Actual_Persuasiveness" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/226764072_Anecdotal_Statistical_and_Causal_Evidence_Their_Perceived_and_Actual_Persuasiveness</a>  
+   Link:<a href="https://www.researchgate.net/publication/226764072_Anecdotal_Statistical_and_Causal_Evidence_Their_Perceived_and_Actual_Persuasiveness" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/226764072_Anecdotal_Statistical_and_Causal_Evidence_Their_Perceived_and_Actual_Persuasiveness</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/380077387_Base_Rate_Neglect_Bias_Can_it_be_Observed_in_HRM_Decisions_and_Can_it_be_Decreased_by_Visually_Presenting_the_Base_Rates_in_HRM_Decisions" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/380077387_Base_Rate_Neglect_Bias_Can_it_be_Observed_in_HRM_Decisions_and_Can_it_be_Decreased_by_Visually_Presenting_the_Base_Rates_in_HRM_Decisions</a>  
+   Link:<a href="https://www.researchgate.net/publication/380077387_Base_Rate_Neglect_Bias_Can_it_be_Observed_in_HRM_Decisions_and_Can_it_be_Decreased_by_Visually_Presenting_the_Base_Rates_in_HRM_Decisions" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/380077387_Base_Rate_Neglect_Bias_Can_it_be_Observed_in_HRM_Decisions_and_Can_it_be_Decreased_by_Visually_Presenting_the_Base_Rates_in_HRM_Decisions</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/353730747_The_influence_of_design_on_flower_personality_the_moderating_role_of_human_personality" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/353730747_The_influence_of_design_on_flower_personality_the_moderating_role_of_human_personality</a>  
+   Link:<a href="https://www.researchgate.net/publication/353730747_The_influence_of_design_on_flower_personality_the_moderating_role_of_human_personality" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/353730747_The_influence_of_design_on_flower_personality_the_moderating_role_of_human_personality</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/369977297_Revisiting_the_Belief_in_the_law_of_small_numbers_Conceptual_replication_and_extensions_Registered_Report_of_problems_reviewed_in_Tversky_and_Kahneman_1971" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/369977297_Revisiting_the_Belief_in_the_law_of_small_numbers_Conceptual_replication_and_extensions_Registered_Report_of_problems_reviewed_in_Tversky_and_Kahneman_1971</a>  
+   Link:<a href="https://www.researchgate.net/publication/369977297_Revisiting_the_Belief_in_the_law_of_small_numbers_Conceptual_replication_and_extensions_Registered_Report_of_problems_reviewed_in_Tversky_and_Kahneman_1971" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/369977297_Revisiting_the_Belief_in_the_law_of_small_numbers_Conceptual_replication_and_extensions_Registered_Report_of_problems_reviewed_in_Tversky_and_Kahneman_1971</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: apa.org  
-   Link: <a href="https://www.apa.org/pubs/databases/psycbooks/psycbooks-sample-counseling-titles-toc.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.apa.org/pubs/databases/psycbooks/psycbooks-sample-counseling-titles-toc.pdf</a>  
+   Link:<a href="https://www.apa.org/pubs/databases/psycbooks/psycbooks-sample-counseling-titles-toc.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.apa.org/pubs/databases/psycbooks/psycbooks-sample-counseling-titles-toc.pdf</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/unbiasedscipod/posts/anecdotal-evidence-is-data-collected-in-a-non-scientific-manner-to-assert-specif/403464464775223/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/unbiasedscipod/posts/anecdotal-evidence-is-data-collected-in-a-non-scientific-manner-to-assert-specif/403464464775223/</a>  
+   Link:<a href="https://www.facebook.com/unbiasedscipod/posts/anecdotal-evidence-is-data-collected-in-a-non-scientific-manner-to-assert-specif/403464464775223/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/unbiasedscipod/posts/anecdotal-evidence-is-data-collected-in-a-non-scientific-manner-to-assert-specif/403464464775223/</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: simplypsychology.org  
-   Link: <a href="https://www.simplypsychology.org/base-rate-fallacy.html" target="_blank" rel="noopener noreferrer nofollow">https://www.simplypsychology.org/base-rate-fallacy.html</a>  
+   Link:<a href="https://www.simplypsychology.org/base-rate-fallacy.html" target="_blank" rel="noopener noreferrer nofollow">https://www.simplypsychology.org/base-rate-fallacy.html</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/321222805_The_business_of_blogging_Effective_approaches_of_women_food_bloggers" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/321222805_The_business_of_blogging_Effective_approaches_of_women_food_bloggers</a>
+   Link:<a href="https://www.researchgate.net/publication/321222805_The_business_of_blogging_Effective_approaches_of_women_food_bloggers" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/321222805_The_business_of_blogging_Effective_approaches_of_women_food_bloggers</a>

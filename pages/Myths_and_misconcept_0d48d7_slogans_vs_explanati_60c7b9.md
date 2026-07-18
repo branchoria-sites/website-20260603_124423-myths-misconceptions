@@ -501,7 +501,7 @@ image: /assets/images/Myths_and_misconcept_0d48d7_slogans_vs_explanati_60c7b9-ov
 
 ## Introduction
 
-Myths often beat accurate explanations because they are easier to carry. A slogan compresses a cause, villain, cure or rule into a sentence that feels complete; an accurate explanation often has to include conditions, uncertainty and missing context. That does not mean people prefer lies to truth. Research on misinformation suggests a more specific problem: [repetition]({{ 'repetition/' | relative_url }}), fluency, emotional payoff and social sharing can make a short false claim feel familiar and useful before a slower [correction]({{ 'correction/' | relative_url }}) has a chance to work. Repeated statements are often judged as more truthful than new ones, partly because they are easier to process, a pattern known as the illusory truth effect. <span class="citation-chip-wrap"><a class="citation-chip" href="https://journalofcognition.org/articles/10.5334/joc.161" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journalofcognition.org">[Journal of Cognition]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journalofcognition.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Myths often beat accurate explanations because they are easier to carry. A slogan compresses a cause, villain, cure or rule into a sentence that feels complete; an accurate explanation often has to include conditions, uncertainty and missing context. That does not mean people prefer lies to truth. Research on misinformation suggests a more specific problem: [repetition]({{ 'repetition/' | relative_url }}), fluency, emotional payoff and social sharing can make a short false claim feel familiar and useful before a slower [correction]({{ 'correction/' | relative_url }}) has a chance to work. Repeated statements are often judged as more truthful than new ones, partly because they are easier to process, a pattern known as the illusory truth effect.<span class="citation-chip-wrap"><a class="citation-chip" href="https://journalofcognition.org/articles/10.5334/joc.161" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journalofcognition.org">[Journal of Cognition]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journalofcognition.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_slogans_vs_explanati_60c7b9-overview.webp" | relative_url }}" alt="Overview image for Slogans" loading="eager" decoding="sync" fetchpriority="high">
 The practical lesson is not that accuracy must become simplistic. It is that truthful communication has to compete at the level where myths are strong: [memory]({{ 'memory/' | relative_url }}), usability and social transmission. A correction that merely says “that is false” leaves the myth’s compact story intact. A stronger explanation gives people a replacement sentence they can remember, plus enough reasoning to use it when the myth reappears in a new form. The goal is not to make truth as crude as the slogan, but to make the accurate account easier to retrieve than the misleading one.
@@ -510,17 +510,17 @@ The practical lesson is not that accuracy must become simplistic. It is that tru
 
 A good myth is rarely just a factual error. It is a tiny explanation. “You only use 10 per cent of your brain” is not just wrong; it promises hidden potential. “Natural means safe” is not just incomplete; it offers a simple shopping rule. “They do not want you to know” is not evidence; it turns confusion into a story about suppression. These lines survive because they reduce effort. They tell the listener what happened, who benefits, what to feel and what to repeat next.
 
-Cognitive [fluency]({{ 'fluency/' | relative_url }}) helps explain why this matters. In the standard illusory truth effect, people rate repeated statements as more true than new statements, even when some statements are false. One influential explanation is that repetition makes a statement easier to process, and people can misread that ease as a sign of truth. The Journal of Cognition review describes fluency, familiarity and source dissociation as related mechanisms: people may remember the claim more readily than where it came from, or may feel that it “rings true” without knowing why. <span class="citation-chip-wrap"><a class="citation-chip" href="https://journalofcognition.org/articles/10.5334/joc.161" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journalofcognition.org">[Journal of Cognition]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journalofcognition.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Cognitive [fluency]({{ 'fluency/' | relative_url }}) helps explain why this matters. In the standard illusory truth effect, people rate repeated statements as more true than new statements, even when some statements are false. One influential explanation is that repetition makes a statement easier to process, and people can misread that ease as a sign of truth. The Journal of Cognition review describes fluency, familiarity and source dissociation as related mechanisms: people may remember the claim more readily than where it came from, or may feel that it “rings true” without knowing why.<span class="citation-chip-wrap"><a class="citation-chip" href="https://journalofcognition.org/articles/10.5334/joc.161" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journalofcognition.org">[Journal of Cognition]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journalofcognition.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 This gives slogans a structural advantage. They are brief enough to be repeated in [headlines]({{ 'headlines/' | relative_url }}), captions, speeches, thumbnails, comments and casual conversation. The accurate explanation is often longer because reality contains exceptions: a risk may depend on dose, age, exposure, baseline health, measurement quality or trade-offs. The myth can say “X causes Y”. The explanation may need to say “X is associated with Y in this context, but the evidence is weaker in that one”. That extra care is what makes the explanation responsible, but it also makes it harder to quote.
 
-There is a second advantage: slogans often fit the speed of everyday judgement. People are not always reading misinformation in a quiet, analytical state. They are scrolling, reacting, multitasking or deciding whether something is worth sharing. Research on social media sharing finds that people may share false or misleading news partly because their attention is focused on something other than accuracy at the moment of sharing. In experiments, subtle prompts that redirected attention to accuracy improved the quality of what people said they would share. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41586-021-03344-2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-title">Shifting attention to accuracy can reduce misinformation online &#124; Nature</span><span class="citation-popover-snippet">Shifting attention to accuracy can reduce misinformation online &#124; Nature...</span></span></span>
+There is a second advantage: slogans often fit the speed of everyday judgement. People are not always reading misinformation in a quiet, analytical state. They are scrolling, reacting, multitasking or deciding whether something is worth sharing. Research on social media sharing finds that people may share false or misleading news partly because their attention is focused on something other than accuracy at the moment of sharing. In experiments, subtle prompts that redirected attention to accuracy improved the quality of what people said they would share.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41586-021-03344-2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-title">Shifting attention to accuracy can reduce misinformation online &#124; Nature</span><span class="citation-popover-snippet">Shifting attention to accuracy can reduce misinformation online &#124; Nature...</span></span></span>
 
 ## Brevity is powerful, but not the same as clarity
 
 A short message can be clear, or it can be dangerously incomplete. The difference is whether it preserves the causal shape of the truth. “Antibiotics do not treat viruses” is short, accurate and useful. “Chemicals are bad” is short, inaccurate and misleading because it turns a category that includes everything from oxygen to caffeine into a fear cue. The problem is not brevity itself; the problem is compression that removes the part of the explanation that prevents misunderstanding.
 
-Public communication tools recognise this tension. The CDC Clear Communication Index was designed to help writers make public messages easier to understand and use, while still attending to the state of the science, behaviour, numbers and risk. It is not a call to strip away substance; it is a framework for identifying the main message, making it legible and checking whether the reader can act on it. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cdc.gov/ccindex/pdf/clear-communication-user-guide.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdc.gov">[CDC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdc.gov</span><span class="citation-popover-snippet">CDC Clear Communication Index: A Tool for Developing and Assessing CDC Public Communication Products—User Guide...</span></span></span>
+Public communication tools recognise this tension. The CDC Clear Communication Index was designed to help writers make public messages easier to understand and use, while still attending to the state of the science, behaviour, numbers and risk. It is not a call to strip away substance; it is a framework for identifying the main message, making it legible and checking whether the reader can act on it.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cdc.gov/ccindex/pdf/clear-communication-user-guide.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdc.gov">[CDC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdc.gov</span><span class="citation-popover-snippet">CDC Clear Communication Index: A Tool for Developing and Assessing CDC Public Communication Products—User Guide...</span></span></span>
 
 For myths and misconceptions, the useful test is not “Can this be said in fewer words?” but “What must stay in the sentence for the reader not to walk away with the wrong model?” A message about vaccine side effects, for example, may need to preserve the difference between common mild reactions, rare serious events and the risks of the disease itself. A message about climate change may need to preserve the difference between weather variability and long-term warming. A message about nutrition may need to preserve dose, substitution and overall diet rather than isolating one ingredient as magic or poison.
 
@@ -541,11 +541,11 @@ The compact version is still memorable, but it does not smuggle in the false rul
 
 Many myths offer an emotional reward before they offer evidence. They can make the reader feel clever, wronged, protected, morally superior or newly awakened. That emotional payoff is one reason slogans spread so readily: a claim that gives people something to feel is easier to pass on than a claim that merely asks them to update a probability.
 
-Large-scale research on online diffusion supports the importance of novelty and [emotion]({{ 'emotion/' | relative_url }}). A major Science study of Twitter rumours from 2006 to 2017 found that false news diffused farther, faster, deeper and more broadly than true news across categories. The researchers reported that false news was more novel and that users responded to it with emotions such as surprise and disgust, while true news was more likely to evoke sadness, anticipation, joy and trust. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.science.org/doi/10.1126/science.aap9559" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.org">[Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> MIT’s summary of the study emphasised that falsehoods spread rapidly not only because of bots, but because humans were more likely to share them. <span class="citation-chip-wrap"><a class="citation-chip" href="https://news.mit.edu/2018/study-twitter-false-news-travels-faster-true-stories-0308" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.mit.edu">[MIT News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.mit.edu</span><span class="citation-popover-title">study twitter false news travels faster true stories 0308</span><span class="citation-popover-snippet">study twitter false news travels faster true stories 0308</span></span></span>
+Large-scale research on online diffusion supports the importance of novelty and [emotion]({{ 'emotion/' | relative_url }}). A major Science study of Twitter rumours from 2006 to 2017 found that false news diffused farther, faster, deeper and more broadly than true news across categories. The researchers reported that false news was more novel and that users responded to it with emotions such as surprise and disgust, while true news was more likely to evoke sadness, anticipation, joy and trust.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.science.org/doi/10.1126/science.aap9559" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.org">[Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> MIT’s summary of the study emphasised that falsehoods spread rapidly not only because of bots, but because humans were more likely to share them.<span class="citation-chip-wrap"><a class="citation-chip" href="https://news.mit.edu/2018/study-twitter-false-news-travels-faster-true-stories-0308" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.mit.edu">[MIT News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.mit.edu</span><span class="citation-popover-title">study twitter false news travels faster true stories 0308</span><span class="citation-popover-snippet">study twitter false news travels faster true stories 0308</span></span></span>
 
 This matters for slogans because novelty and emotional charge can make a short line feel worth repeating. “Everything you know is wrong” is more exciting than “the evidence is mixed”. “This one trick changes everything” is more shareable than “the effect is small and depends on context”. Myths exploit the gap between what is interesting and what is warranted.
 
-The emotional mechanism is especially visible in moralised claims. Research on moral-emotional language in online networks found that moral and emotional wording was associated with greater diffusion of political messages, with one study reporting increased spread for each additional moral-emotional word in messages about polarising issues. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.pnas.org/doi/10.1073/pnas.1618923114" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pnas.org">[PNAS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pnas.org</span><span class="citation-popover-snippet">Open source on pnas.org.</span></span></span> This does not mean emotional language is always false, or that calm language is always true. It means communicators cannot ignore the social energy of a claim. A correction that is accurate but emotionally inert may fail to compete with a myth that gives people a clear feeling and a clear social role.
+The emotional mechanism is especially visible in moralised claims. Research on moral-emotional language in online networks found that moral and emotional wording was associated with greater diffusion of political messages, with one study reporting increased spread for each additional moral-emotional word in messages about polarising issues.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.pnas.org/doi/10.1073/pnas.1618923114" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pnas.org">[PNAS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pnas.org</span><span class="citation-popover-snippet">Open source on pnas.org.</span></span></span> This does not mean emotional language is always false, or that calm language is always true. It means communicators cannot ignore the social energy of a claim. A correction that is accurate but emotionally inert may fail to compete with a myth that gives people a clear feeling and a clear social role.
 
 The ethical challenge is to give truth a legitimate emotional shape without copying manipulation. Accurate explanations can appeal to curiosity, care, fairness, safety or intellectual humility. They do not have to be bloodless. A good correction can say, in effect: “Here is why the claim feels satisfying, here is why it fails, and here is the better way to protect what you care about.”
 
@@ -553,9 +553,9 @@ The ethical challenge is to give truth a legitimate emotional shape without copy
 
 Many correction pages put the myth in the largest, clearest words and the explanation underneath. That format feels tidy, but it can strengthen the wrong sentence if the reader remembers the myth more easily than the correction. This is not a reason to hide every false claim; sometimes people need to know exactly what is being corrected. The risk is that the correction becomes a distribution channel for the slogan.
 
-The Debunking Handbook 2020 recommends that corrections should be prominent, should not rely on a bare retraction, and should provide a factual alternative that fills the gap left by the misinformation. It also advises leading with the fact when it is clear and sticky, warning that a myth is coming, explaining how the myth misleads, and finishing by reinforcing the fact. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.climatechangecommunication.org/wp-content/uploads/2023/09/DebunkingHandbook2020.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: climatechangecommunication.org">[Center for Climate Change Communication]</a><span class="citation-popover" role="note"><span class="citation-popover-source">climatechangecommunication.org</span><span class="citation-popover-snippet">Center for Climate Change Communication</span></span></span>
+The Debunking Handbook 2020 recommends that corrections should be prominent, should not rely on a bare retraction, and should provide a factual alternative that fills the gap left by the misinformation. It also advises leading with the fact when it is clear and sticky, warning that a myth is coming, explaining how the myth misleads, and finishing by reinforcing the fact.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.climatechangecommunication.org/wp-content/uploads/2023/09/DebunkingHandbook2020.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: climatechangecommunication.org">[Center for Climate Change Communication]</a><span class="citation-popover" role="note"><span class="citation-popover-source">climatechangecommunication.org</span><span class="citation-popover-snippet">Center for Climate Change Communication</span></span></span>
 
-That sequence matters because memory is not a filing cabinet in which “false” labels stay attached forever. People can remember the claim and forget the correction, remember the correction but still use the old story, or remember that something was disputed without remembering what replaced it. In continued influence research, misinformation can keep shaping reasoning after it has been retracted because it once helped explain the situation. The false claim may remain useful unless the correction supplies an alternative explanation that does the same explanatory work. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.climatechangecommunication.org/wp-content/uploads/2023/09/DebunkingHandbook2020.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: climatechangecommunication.org">[Center for Climate Change Communication]</a><span class="citation-popover" role="note"><span class="citation-popover-source">climatechangecommunication.org</span><span class="citation-popover-snippet">Center for Climate Change Communication</span></span></span>
+That sequence matters because memory is not a filing cabinet in which “false” labels stay attached forever. People can remember the claim and forget the correction, remember the correction but still use the old story, or remember that something was disputed without remembering what replaced it. In continued influence research, misinformation can keep shaping reasoning after it has been retracted because it once helped explain the situation. The false claim may remain useful unless the correction supplies an alternative explanation that does the same explanatory work.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.climatechangecommunication.org/wp-content/uploads/2023/09/DebunkingHandbook2020.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: climatechangecommunication.org">[Center for Climate Change Communication]</a><span class="citation-popover" role="note"><span class="citation-popover-source">climatechangecommunication.org</span><span class="citation-popover-snippet">Center for Climate Change Communication</span></span></span>
 
 A weak correction says:
 
@@ -575,7 +575,7 @@ Truth does not need to become a slogan in the shallow sense. It needs a memorabl
 
 The compact takeaway should be short enough to repeat without becoming misleading. It should name the correct principle, not merely negate the myth. “Flu is caused by influenza viruses, not cold weather” is more useful than “cold weather does not cause flu”, because it gives the real causal agent. “Correlation is not causation” is memorable, but often too vague on its own; adding “look for mechanism, [timing]({{ 'timing/' | relative_url }}) and alternative explanations” makes it more usable.
 
-The causal explanation should answer the question the myth was answering. If the myth explains why someone got ill, why prices rose, why a group behaved badly or why a policy failed, the correction has to offer a better explanation of that same event. The Debunking Handbook’s guidance is explicit that a factual alternative should not be more complex than necessary and should have similar explanatory relevance to the misinformation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.climatechangecommunication.org/wp-content/uploads/2023/09/DebunkingHandbook2020.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: climatechangecommunication.org">[Center for Climate Change Communication]</a><span class="citation-popover" role="note"><span class="citation-popover-source">climatechangecommunication.org</span><span class="citation-popover-snippet">Center for Climate Change Communication</span></span></span>
+The causal explanation should answer the question the myth was answering. If the myth explains why someone got ill, why prices rose, why a group behaved badly or why a policy failed, the correction has to offer a better explanation of that same event. The Debunking Handbook’s guidance is explicit that a factual alternative should not be more complex than necessary and should have similar explanatory relevance to the misinformation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.climatechangecommunication.org/wp-content/uploads/2023/09/DebunkingHandbook2020.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: climatechangecommunication.org">[Center for Climate Change Communication]</a><span class="citation-popover" role="note"><span class="citation-popover-source">climatechangecommunication.org</span><span class="citation-popover-snippet">Center for Climate Change Communication</span></span></span>
 
 The retrieval cue should help the reader recognise the pattern when the wording changes. A myth about a “miracle cure”, a “suppressed study” and a “secret detox” may look different on the surface, but all may rely on the same pattern: a simple cure, a hidden enemy and no reliable evidence. A good explanation gives readers that pattern, not just the answer to one example.
 
@@ -594,11 +594,11 @@ This works because it respects both accuracy and memory. It does not assume that
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_slogans_vs_explanati_60c7b9-Illustration-2-dark.svg" | relative_url }}" alt="Slogans illustration 2" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_slogans_vs_explanati_60c7b9-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_slogans_vs_explanati_60c7b9-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The social problem: truth must be easy to share before the myth wins
 
-Misinformation is not only a belief problem; it is a circulation problem. During a crisis, people face an overload of claims, warnings, rumours and advice. The World Health Organization describes an infodemic as too much information, including false or misleading information, in digital and physical environments during a disease outbreak; it can cause confusion, encourage risky behaviour and undermine trust in health authorities. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.who.int/health-topics/infodemic" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: who.int">[World Health Organization]</a><span class="citation-popover" role="note"><span class="citation-popover-source">who.int</span><span class="citation-popover-snippet">Infodemic...</span></span></span>
+Misinformation is not only a belief problem; it is a circulation problem. During a crisis, people face an overload of claims, warnings, rumours and advice. The World Health Organization describes an infodemic as too much information, including false or misleading information, in digital and physical environments during a disease outbreak; it can cause confusion, encourage risky behaviour and undermine trust in health authorities.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.who.int/health-topics/infodemic" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: who.int">[World Health Organization]</a><span class="citation-popover" role="note"><span class="citation-popover-source">who.int</span><span class="citation-popover-snippet">Infodemic...</span></span></span>
 
 In that environment, accurate explanations lose if they are available only after the myth has become the default sentence. A public health agency, teacher, journalist or fact-checker may be correct, but late and hard to quote. The myth may already have become the line people use in group chats, comments and headlines.
 
-Research on [accuracy prompts]({{ 'accuracy-prompts/' | relative_url }}) suggests one reason to intervene before people share. Across experiments, prompts that made accuracy salient improved sharing discernment, largely by reducing intentions to share false headlines, with one Nature Communications analysis reporting about a 10 per cent reduction in false-news sharing intentions relative to control. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41467-022-30073-5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Open source on nature.com.</span></span></span> The important point for slogans is that many people do care about accuracy, but the design of the moment may not make accuracy the active concern. A catchy myth asks, “Will this get a reaction?” A better information environment asks, “Is this true enough to pass on?”
+Research on [accuracy prompts]({{ 'accuracy-prompts/' | relative_url }}) suggests one reason to intervene before people share. Across experiments, prompts that made accuracy salient improved sharing discernment, largely by reducing intentions to share false headlines, with one Nature Communications analysis reporting about a 10 per cent reduction in false-news sharing intentions relative to control.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41467-022-30073-5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Open source on nature.com.</span></span></span> The important point for slogans is that many people do care about accuracy, but the design of the moment may not make accuracy the active concern. A catchy myth asks, “Will this get a reaction?” A better information environment asks, “Is this true enough to pass on?”
 
 That is why accurate explanations need social packaging as well as scientific care. They need headlines that lead with the true claim, summaries that can be quoted without distortion, visuals that reinforce the correct model, and repeated exposure to the accurate sentence. Repetition is not only a tool of misinformation. Repeating the truth can make the correct account more familiar too, provided the repetition does not keep re-advertising the myth.
 
@@ -615,194 +615,194 @@ The deeper aim is to stop giving myths a monopoly on simplicity. People need acc
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_slogans_vs_explanati_60c7b9-Illustration-3-dark.svg" | relative_url }}" alt="Slogans illustration 3" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_slogans_vs_explanati_60c7b9-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_slogans_vs_explanati_60c7b9-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Myths Beat Nuance in a Sentence. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Myths Beat Nuance in a Sentence. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Factfulness on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=rxg0tgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Factfulness" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Factfulness">Factfulness</a>
-        </h4>
-        <p class="fr-book-author">By Hans Rosling, Ola Rosling et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Factfulness on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=rxg0tgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Factfulness" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Factfulness">Factfulness</a>
+</h4>
+<p class="fr-book-author">By Hans Rosling, Ola Rosling et al.</p>
         
-        <p class="fr-book-desc">Shows how simple narratives distort understanding and how to think more accurately.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows how simple narratives distort understanding and how to think more accurately.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=A+field+guide+to+lies+Daniel+J.+Levitin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open A field guide to lies on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10538773-M.jpg" alt="Cover for A field guide to lies" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=A+field+guide+to+lies+Daniel+J.+Levitin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A field guide to lies">A field guide to lies</a>
-        </h4>
-        <p class="fr-book-author">By Daniel J. Levitin</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=A+field+guide+to+lies+Daniel+J.+Levitin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open A field guide to lies on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10538773-M.jpg" alt="Cover for A field guide to lies" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=A+field+guide+to+lies+Daniel+J.+Levitin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A field guide to lies">A field guide to lies</a>
+</h4>
+<p class="fr-book-author">By Daniel J. Levitin</p>
         
-        <p class="fr-book-desc">First published 2016. Subjects: Critical thinking, Fallacies (Logic), Reasoning, Statistics, Social aspects.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=A+field+guide+to+lies+Daniel+J.+Levitin&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2016. Subjects: Critical thinking, Fallacies (Logic), Reasoning, Statistics, Social aspects.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=A+field+guide+to+lies+Daniel+J.+Levitin&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Post-truth+Lee+C.+McIntyre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Post-truth on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8750473-M.jpg" alt="Cover for Post-truth" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Post-truth+Lee+C.+McIntyre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Post-truth">Post-truth</a>
-        </h4>
-        <p class="fr-book-author">By Lee C. McIntyre</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Post-truth+Lee+C.+McIntyre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Post-truth on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8750473-M.jpg" alt="Cover for Post-truth" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Post-truth+Lee+C.+McIntyre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Post-truth">Post-truth</a>
+</h4>
+<p class="fr-book-author">By Lee C. McIntyre</p>
         
-        <p class="fr-book-desc">First published 2018. Subjects: Politics and government, In mass media, Public opinion, Mass media, Truth.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Post-truth+Lee+C.+McIntyre&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2018. Subjects: Politics and government, In mass media, Public opinion, Mass media, Truth.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Post-truth+Lee+C.+McIntyre&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Foolproof+Sander+Van+Der+Linden&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Foolproof on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/13300557-M.jpg" alt="Cover for Foolproof" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Foolproof+Sander+Van+Der+Linden&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Foolproof">Foolproof</a>
-        </h4>
-        <p class="fr-book-author">By Sander Van Der Linden</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Foolproof+Sander+Van+Der+Linden&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Foolproof on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/13300557-M.jpg" alt="Cover for Foolproof" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Foolproof+Sander+Van+Der+Linden&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Foolproof">Foolproof</a>
+</h4>
+<p class="fr-book-author">By Sander Van Der Linden</p>
         
-        <p class="fr-book-desc">First published 2023.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Foolproof+Sander+Van+Der+Linden&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2023.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Foolproof+Sander+Van+Der+Linden&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Factfulness&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Factfulness</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=A+field+to+lies+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">A field to lies books</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Post+truth&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Post truth</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Factfulness&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Factfulness</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=A+field+to+lies+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">A field to lies books</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Post+truth&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Post truth</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=neuroscience+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=slogans-why-myths-beat-nuance-in-a-sentence-myths-and-misconcept-neuroscience-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="neuroscience poster" data-ebay-reference="slogans-why-myths-beat-nuance-in-a-sentence-myths-and-misconcept-neuroscience-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Neuroscience I Think Neuron To Some Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/6654b3d87aacdfaa077c.jpg' | relative_url }}" alt="Listing image for Neuroscience I Think Neuron To Some Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=neuroscience+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=slogans-why-myths-beat-nuance-in-a-sentence-myths-and-misconcept-neuroscience-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="neuroscience poster" data-ebay-reference="slogans-why-myths-beat-nuance-in-a-sentence-myths-and-misconcept-neuroscience-poster" target="_blank" rel="sponsored noopener noreferrer">Neuroscience I Think Neuron To Some Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=neuroscience+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=slogans-why-myths-beat-nuance-in-a-sentence-myths-and-misconcept-neuroscience-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="neuroscience poster" data-ebay-reference="slogans-why-myths-beat-nuance-in-a-sentence-myths-and-misconcept-neuroscience-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for neuroscience poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: neuroscience poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=neuroscience+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=slogans-why-myths-beat-nuance-in-a-sentence-myths-and-misconcept-neuroscience-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="neuroscience poster" data-ebay-reference="slogans-why-myths-beat-nuance-in-a-sentence-myths-and-misconcept-neuroscience-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=neuroscience+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=slogans-why-myths-beat-nuance-in-a-sentence-myths-and-misconcept-neuroscience-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="neuroscience poster" data-ebay-reference="slogans-why-myths-beat-nuance-in-a-sentence-myths-and-misconcept-neuroscience-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Neuroscience I Think Neuron To Some Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/6654b3d87aacdfaa077c.jpg' | relative_url }}" alt="Listing image for Neuroscience I Think Neuron To Some Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=neuroscience+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=slogans-why-myths-beat-nuance-in-a-sentence-myths-and-misconcept-neuroscience-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="neuroscience poster" data-ebay-reference="slogans-why-myths-beat-nuance-in-a-sentence-myths-and-misconcept-neuroscience-poster" target="_blank" rel="sponsored noopener noreferrer">Neuroscience I Think Neuron To Some Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=neuroscience+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=slogans-why-myths-beat-nuance-in-a-sentence-myths-and-misconcept-neuroscience-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="neuroscience poster" data-ebay-reference="slogans-why-myths-beat-nuance-in-a-sentence-myths-and-misconcept-neuroscience-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for neuroscience poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: neuroscience poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=neuroscience+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=slogans-why-myths-beat-nuance-in-a-sentence-myths-and-misconcept-neuroscience-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="neuroscience poster" data-ebay-reference="slogans-why-myths-beat-nuance-in-a-sentence-myths-and-misconcept-neuroscience-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=neuroscience+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=slogans-why-myths-beat-nuance-in-a-sentence-myths-and-misconcept-neuroscience-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="neuroscience poster" data-ebay-reference="slogans-why-myths-beat-nuance-in-a-sentence-myths-and-misconcept-neuroscience-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Neuroscience I Think Neuron To Some Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/fb2a2c7e512831f3921d.jpg' | relative_url }}" alt="Listing image for Neuroscience I Think Neuron To Some Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=neuroscience+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=slogans-why-myths-beat-nuance-in-a-sentence-myths-and-misconcept-neuroscience-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="neuroscience poster" data-ebay-reference="slogans-why-myths-beat-nuance-in-a-sentence-myths-and-misconcept-neuroscience-poster" target="_blank" rel="sponsored noopener noreferrer">Neuroscience I Think Neuron To Some Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=neuroscience+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=slogans-why-myths-beat-nuance-in-a-sentence-myths-and-misconcept-neuroscience-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="neuroscience poster" data-ebay-reference="slogans-why-myths-beat-nuance-in-a-sentence-myths-and-misconcept-neuroscience-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for neuroscience poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: neuroscience poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=neuroscience+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=slogans-why-myths-beat-nuance-in-a-sentence-myths-and-misconcept-neuroscience-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="neuroscience poster" data-ebay-reference="slogans-why-myths-beat-nuance-in-a-sentence-myths-and-misconcept-neuroscience-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=neuroscience+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=slogans-why-myths-beat-nuance-in-a-sentence-myths-and-misconcept-neuroscience-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="neuroscience poster" data-ebay-reference="slogans-why-myths-beat-nuance-in-a-sentence-myths-and-misconcept-neuroscience-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Neuroscience I Think Neuron To Some Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/fb2a2c7e512831f3921d.jpg' | relative_url }}" alt="Listing image for Neuroscience I Think Neuron To Some Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=neuroscience+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=slogans-why-myths-beat-nuance-in-a-sentence-myths-and-misconcept-neuroscience-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="neuroscience poster" data-ebay-reference="slogans-why-myths-beat-nuance-in-a-sentence-myths-and-misconcept-neuroscience-poster" target="_blank" rel="sponsored noopener noreferrer">Neuroscience I Think Neuron To Some Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=neuroscience+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=slogans-why-myths-beat-nuance-in-a-sentence-myths-and-misconcept-neuroscience-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="neuroscience poster" data-ebay-reference="slogans-why-myths-beat-nuance-in-a-sentence-myths-and-misconcept-neuroscience-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for neuroscience poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: neuroscience poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=neuroscience+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=slogans-why-myths-beat-nuance-in-a-sentence-myths-and-misconcept-neuroscience-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="neuroscience poster" data-ebay-reference="slogans-why-myths-beat-nuance-in-a-sentence-myths-and-misconcept-neuroscience-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=neuroscience+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=slogans-why-myths-beat-nuance-in-a-sentence-myths-and-misconcept-neuroscience-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="neuroscience poster" data-ebay-reference="slogans-why-myths-beat-nuance-in-a-sentence-myths-and-misconcept-neuroscience-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Neuroscience Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/492845a2e0e8f021d8e6.jpg' | relative_url }}" alt="Listing image for Neuroscience Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=neuroscience+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=slogans-why-myths-beat-nuance-in-a-sentence-myths-and-misconcept-neuroscience-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="neuroscience poster" data-ebay-reference="slogans-why-myths-beat-nuance-in-a-sentence-myths-and-misconcept-neuroscience-poster" target="_blank" rel="sponsored noopener noreferrer">Neuroscience Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=neuroscience+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=slogans-why-myths-beat-nuance-in-a-sentence-myths-and-misconcept-neuroscience-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="neuroscience poster" data-ebay-reference="slogans-why-myths-beat-nuance-in-a-sentence-myths-and-misconcept-neuroscience-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for neuroscience poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: neuroscience poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=neuroscience+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=slogans-why-myths-beat-nuance-in-a-sentence-myths-and-misconcept-neuroscience-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="neuroscience poster" data-ebay-reference="slogans-why-myths-beat-nuance-in-a-sentence-myths-and-misconcept-neuroscience-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=neuroscience+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=slogans-why-myths-beat-nuance-in-a-sentence-myths-and-misconcept-neuroscience-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="neuroscience poster" data-ebay-reference="slogans-why-myths-beat-nuance-in-a-sentence-myths-and-misconcept-neuroscience-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Neuroscience Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/492845a2e0e8f021d8e6.jpg' | relative_url }}" alt="Listing image for Neuroscience Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=neuroscience+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=slogans-why-myths-beat-nuance-in-a-sentence-myths-and-misconcept-neuroscience-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="neuroscience poster" data-ebay-reference="slogans-why-myths-beat-nuance-in-a-sentence-myths-and-misconcept-neuroscience-poster" target="_blank" rel="sponsored noopener noreferrer">Neuroscience Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=neuroscience+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=slogans-why-myths-beat-nuance-in-a-sentence-myths-and-misconcept-neuroscience-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="neuroscience poster" data-ebay-reference="slogans-why-myths-beat-nuance-in-a-sentence-myths-and-misconcept-neuroscience-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for neuroscience poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: neuroscience poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=neuroscience+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=slogans-why-myths-beat-nuance-in-a-sentence-myths-and-misconcept-neuroscience-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="neuroscience poster" data-ebay-reference="slogans-why-myths-beat-nuance-in-a-sentence-myths-and-misconcept-neuroscience-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=neuroscience+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=slogans-why-myths-beat-nuance-in-a-sentence-myths-and-misconcept-neuroscience-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="neuroscience poster" data-ebay-reference="slogans-why-myths-beat-nuance-in-a-sentence-myths-and-misconcept-neuroscience-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Neuroscience! Framed Art Print Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/5462e076edafa9364fac.jpg' | relative_url }}" alt="Listing image for Neuroscience! Framed Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=neuroscience+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=slogans-why-myths-beat-nuance-in-a-sentence-myths-and-misconcept-neuroscience-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="neuroscience poster" data-ebay-reference="slogans-why-myths-beat-nuance-in-a-sentence-myths-and-misconcept-neuroscience-poster" target="_blank" rel="sponsored noopener noreferrer">Neuroscience! Framed Art Print Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=neuroscience+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=slogans-why-myths-beat-nuance-in-a-sentence-myths-and-misconcept-neuroscience-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="neuroscience poster" data-ebay-reference="slogans-why-myths-beat-nuance-in-a-sentence-myths-and-misconcept-neuroscience-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for neuroscience poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: neuroscience poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=neuroscience+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=slogans-why-myths-beat-nuance-in-a-sentence-myths-and-misconcept-neuroscience-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="neuroscience poster" data-ebay-reference="slogans-why-myths-beat-nuance-in-a-sentence-myths-and-misconcept-neuroscience-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=neuroscience+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=slogans-why-myths-beat-nuance-in-a-sentence-myths-and-misconcept-neuroscience-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="neuroscience poster" data-ebay-reference="slogans-why-myths-beat-nuance-in-a-sentence-myths-and-misconcept-neuroscience-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=neuroscience+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=slogans-why-myths-beat-nuance-in-a-sentence-myths-and-misconcept-neuroscience-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="neuroscience poster" data-ebay-reference="slogans-why-myths-beat-nuance-in-a-sentence-myths-and-misconcept-neuroscience-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Neuroscience! Framed Art Print Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/5462e076edafa9364fac.jpg' | relative_url }}" alt="Listing image for Neuroscience! Framed Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=neuroscience+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=slogans-why-myths-beat-nuance-in-a-sentence-myths-and-misconcept-neuroscience-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="neuroscience poster" data-ebay-reference="slogans-why-myths-beat-nuance-in-a-sentence-myths-and-misconcept-neuroscience-poster" target="_blank" rel="sponsored noopener noreferrer">Neuroscience! Framed Art Print Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=neuroscience+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=slogans-why-myths-beat-nuance-in-a-sentence-myths-and-misconcept-neuroscience-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="neuroscience poster" data-ebay-reference="slogans-why-myths-beat-nuance-in-a-sentence-myths-and-misconcept-neuroscience-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for neuroscience poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: neuroscience poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=neuroscience+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=slogans-why-myths-beat-nuance-in-a-sentence-myths-and-misconcept-neuroscience-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="neuroscience poster" data-ebay-reference="slogans-why-myths-beat-nuance-in-a-sentence-myths-and-misconcept-neuroscience-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=neuroscience+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=slogans-why-myths-beat-nuance-in-a-sentence-myths-and-misconcept-neuroscience-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="neuroscience poster" data-ebay-reference="slogans-why-myths-beat-nuance-in-a-sentence-myths-and-misconcept-neuroscience-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -818,7 +818,7 @@ The deeper aim is to stop giving myths a monopoly on simplicity. People need acc
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -838,7 +838,7 @@ The deeper aim is to stop giving myths a monopoly on simplicity. People need acc
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -870,7 +870,7 @@ The deeper aim is to stop giving myths a monopoly on simplicity. People need acc
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -922,7 +922,7 @@ The deeper aim is to stop giving myths a monopoly on simplicity. People need acc
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -967,7 +967,7 @@ The deeper aim is to stop giving myths a monopoly on simplicity. People need acc
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -1008,160 +1008,160 @@ The deeper aim is to stop giving myths a monopoly on simplicity. People need acc
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: nature.com  
    Title: Shifting attention to accuracy can reduce misinformation online | Nature  
-   Link: <a href="https://www.nature.com/articles/s41586-021-03344-2" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41586-021-03344-2</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Shifting attention to accuracy can reduce misinformation online | Nature...</p></details>
+   Link:<a href="https://www.nature.com/articles/s41586-021-03344-2" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41586-021-03344-2</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Shifting attention to accuracy can reduce misinformation online | Nature...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: cdc.gov  
-   Link: <a href="https://www.cdc.gov/ccindex/pdf/clear-communication-user-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cdc.gov/ccindex/pdf/clear-communication-user-guide.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>CDC Clear Communication Index: A Tool for Developing and Assessing CDC Public Communication Products—User Guide...</p></details>
+   Link:<a href="https://www.cdc.gov/ccindex/pdf/clear-communication-user-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cdc.gov/ccindex/pdf/clear-communication-user-guide.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>CDC Clear Communication Index: A Tool for Developing and Assessing CDC Public Communication Products—User Guide...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: news.mit.edu  
    Title: study twitter false news travels faster true stories 0308  
-   Link: <a href="https://news.mit.edu/2018/study-twitter-false-news-travels-faster-true-stories-0308" target="_blank" rel="noopener noreferrer nofollow">https://news.mit.edu/2018/study-twitter-false-news-travels-faster-true-stories-0308</a>  
+   Link:<a href="https://news.mit.edu/2018/study-twitter-false-news-travels-faster-true-stories-0308" target="_blank" rel="noopener noreferrer nofollow">https://news.mit.edu/2018/study-twitter-false-news-travels-faster-true-stories-0308</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: pnas.org  
-   Link: <a href="https://www.pnas.org/doi/10.1073/pnas.1618923114" target="_blank" rel="noopener noreferrer nofollow">https://www.pnas.org/doi/10.1073/pnas.1618923114</a>  
+   Link:<a href="https://www.pnas.org/doi/10.1073/pnas.1618923114" target="_blank" rel="noopener noreferrer nofollow">https://www.pnas.org/doi/10.1073/pnas.1618923114</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: climatechangecommunication.org  
    Title: Center for Climate Change Communication  
-   Link: <a href="https://www.climatechangecommunication.org/wp-content/uploads/2023/09/DebunkingHandbook2020.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.climatechangecommunication.org/wp-content/uploads/2023/09/DebunkingHandbook2020.pdf</a>  
+   Link:<a href="https://www.climatechangecommunication.org/wp-content/uploads/2023/09/DebunkingHandbook2020.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.climatechangecommunication.org/wp-content/uploads/2023/09/DebunkingHandbook2020.pdf</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: who.int  
    Title: World Health Organization  
-   Link: <a href="https://www.who.int/health-topics/infodemic" target="_blank" rel="noopener noreferrer nofollow">https://www.who.int/health-topics/infodemic</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Infodemic...</p></details>
+   Link:<a href="https://www.who.int/health-topics/infodemic" target="_blank" rel="noopener noreferrer nofollow">https://www.who.int/health-topics/infodemic</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Infodemic...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: nature.com  
-   Link: <a href="https://www.nature.com/articles/s41467-022-30073-5" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41467-022-30073-5</a>  
+   Link:<a href="https://www.nature.com/articles/s41467-022-30073-5" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41467-022-30073-5</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: nature.com  
-   Link: <a href="https://www.nature.com/articles/s44159-021-00006-y" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s44159-021-00006-y</a>  
+   Link:<a href="https://www.nature.com/articles/s44159-021-00006-y" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s44159-021-00006-y</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: ide.mit.edu  
    Title: Pennycook et al Shifting attention to accuracy  
-   Link: <a href="https://ide.mit.edu/sites/default/files/publications/Pennycook%20et%20al%20-%20Shifting%20attention%20to%20accuracy.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ide.mit.edu/sites/default/files/publications/Pennycook%20et%20al%20-%20Shifting%20attention%20to%20accuracy.pdf</a>  
+   Link:<a href="https://ide.mit.edu/sites/default/files/publications/Pennycook%20et%20al%20-%20Shifting%20attention%20to%20accuracy.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ide.mit.edu/sites/default/files/publications/Pennycook%20et%20al%20-%20Shifting%20attention%20to%20accuracy.pdf</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: ide.mit.edu  
    Title: 2017 IDE Research Brief False News  
-   Link: <a href="https://ide.mit.edu/wp-content/uploads/2018/12/2017-IDE-Research-Brief-False-News.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ide.mit.edu/wp-content/uploads/2018/12/2017-IDE-Research-Brief-False-News.pdf</a>  
+   Link:<a href="https://ide.mit.edu/wp-content/uploads/2018/12/2017-IDE-Research-Brief-False-News.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ide.mit.edu/wp-content/uploads/2018/12/2017-IDE-Research-Brief-False-News.pdf</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: pnas.org  
-   Link: <a href="https://www.pnas.org/doi/10.1073/pnas.2216614120" target="_blank" rel="noopener noreferrer nofollow">https://www.pnas.org/doi/10.1073/pnas.2216614120</a>  
+   Link:<a href="https://www.pnas.org/doi/10.1073/pnas.2216614120" target="_blank" rel="noopener noreferrer nofollow">https://www.pnas.org/doi/10.1073/pnas.2216614120</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: pnas.org  
-   Link: <a href="https://www.pnas.org/doi/abs/10.1073/pnas.1618923114?utm=" target="_blank" rel="noopener noreferrer nofollow">https://www.pnas.org/doi/abs/10.1073/pnas.1618923114?utm=</a>  
+   Link:<a href="https://www.pnas.org/doi/abs/10.1073/pnas.1618923114?utm=" target="_blank" rel="noopener noreferrer nofollow">https://www.pnas.org/doi/abs/10.1073/pnas.1618923114?utm=</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: journalofcognition.org  
-   Link: <a href="https://journalofcognition.org/articles/10.5334/joc.161" target="_blank" rel="noopener noreferrer nofollow">https://journalofcognition.org/articles/10.5334/joc.161</a>  
+   Link:<a href="https://journalofcognition.org/articles/10.5334/joc.161" target="_blank" rel="noopener noreferrer nofollow">https://journalofcognition.org/articles/10.5334/joc.161</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: science.org  
-   Link: <a href="https://www.science.org/doi/10.1126/science.aap9559" target="_blank" rel="noopener noreferrer nofollow">https://www.science.org/doi/10.1126/science.aap9559</a>  
+   Link:<a href="https://www.science.org/doi/10.1126/science.aap9559" target="_blank" rel="noopener noreferrer nofollow">https://www.science.org/doi/10.1126/science.aap9559</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/am/pii/S2352250X23002282" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/am/pii/S2352250X23002282</a>  
+   Link:<a href="https://www.sciencedirect.com/science/article/am/pii/S2352250X23002282" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/am/pii/S2352250X23002282</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S2352250X23001811" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S2352250X23001811</a>  
+   Link:<a href="https://www.sciencedirect.com/science/article/abs/pii/S2352250X23001811" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S2352250X23001811</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/pii/S1364661321000516" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S1364661321000516</a>  
+   Link:<a href="https://www.sciencedirect.com/science/article/pii/S1364661321000516" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S1364661321000516</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/pii/S004727272500043X" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S004727272500043X</a>  
+   Link:<a href="https://www.sciencedirect.com/science/article/pii/S004727272500043X" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S004727272500043X</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/pii/S1566253524000782" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S1566253524000782</a>  
+   Link:<a href="https://www.sciencedirect.com/science/article/pii/S1566253524000782" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S1566253524000782</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: digitalcommons.unl.edu  
-   Link: <a href="https://digitalcommons.unl.edu/context/scholcom/article/1247/viewcontent/DebunkingHandbook2020.pdf" target="_blank" rel="noopener noreferrer nofollow">https://digitalcommons.unl.edu/context/scholcom/article/1247/viewcontent/DebunkingHandbook2020.pdf</a>  
+   Link:<a href="https://digitalcommons.unl.edu/context/scholcom/article/1247/viewcontent/DebunkingHandbook2020.pdf" target="_blank" rel="noopener noreferrer nofollow">https://digitalcommons.unl.edu/context/scholcom/article/1247/viewcontent/DebunkingHandbook2020.pdf</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/WHOThailand/posts/what-is-an-infodemicinfodemic-information-epidemic-is-an-overabundance-of-inform/3831016243585903/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/WHOThailand/posts/what-is-an-infodemicinfodemic-information-epidemic-is-an-overabundance-of-inform/3831016243585903/</a>  
+   Link:<a href="https://www.facebook.com/WHOThailand/posts/what-is-an-infodemicinfodemic-information-epidemic-is-an-overabundance-of-inform/3831016243585903/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/WHOThailand/posts/what-is-an-infodemicinfodemic-information-epidemic-is-an-overabundance-of-inform/3831016243585903/</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: training.safestates.org  
    Title: cdc clear communication index  
-   Link: <a href="https://training.safestates.org/ivpt-item/cdc-clear-communication-index/" target="_blank" rel="noopener noreferrer nofollow">https://training.safestates.org/ivpt-item/cdc-clear-communication-index/</a>  
+   Link:<a href="https://training.safestates.org/ivpt-item/cdc-clear-communication-index/" target="_blank" rel="noopener noreferrer nofollow">https://training.safestates.org/ivpt-item/cdc-clear-communication-index/</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: ltrr.arizona.edu  
    Title: Debunking Handbook  
-   Link: <a href="https://www.ltrr.arizona.edu/~katie/kt/natsgc/Debunking_Handbook.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ltrr.arizona.edu/~katie/kt/natsgc/Debunking_Handbook.pdf</a>  
+   Link:<a href="https://www.ltrr.arizona.edu/~katie/kt/natsgc/Debunking_Handbook.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ltrr.arizona.edu/~katie/kt/natsgc/Debunking_Handbook.pdf</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: bristol.ac.uk  
    Title: debunking handbook  
-   Link: <a href="https://www.bristol.ac.uk/news/2020/october/debunking-handbook-.html" target="_blank" rel="noopener noreferrer nofollow">https://www.bristol.ac.uk/news/2020/october/debunking-handbook-.html</a>  
+   Link:<a href="https://www.bristol.ac.uk/news/2020/october/debunking-handbook-.html" target="_blank" rel="noopener noreferrer nofollow">https://www.bristol.ac.uk/news/2020/october/debunking-handbook-.html</a>  
 
 ### Additional References
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: youtube.com  
    Title: The Illusory Truth Effect: Why Repetition Makes Myths Feel Real  
-   Link: <a href="https://www.youtube.com/watch?v=F3wY2iY05qA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=F3wY2iY05qA</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Why Simple Slogans Are More Persuasive Than Complex Facts...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=F3wY2iY05qA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=F3wY2iY05qA</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Why Simple Slogans Are More Persuasive Than Complex Facts...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: youtube.com  
    Title: Why Simple Slogans Are More Persuasive Than Complex Facts  
-   Link: <a href="https://www.youtube.com/watch?v=m4G1d2J8GgM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=m4G1d2J8GgM</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Cognitive Fluency and the Power of Memorable Messaging...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=m4G1d2J8GgM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=m4G1d2J8GgM</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Cognitive Fluency and the Power of Memorable Messaging...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: youtube.com  
    Title: How to Communicate Truth in an Era of Misinformation  
-   Link: <a href="https://www.youtube.com/watch?v=N61Yw-6jS-Y" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=N61Yw-6jS-Y</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Psychology of Why We Prefer Simple Stories Over Evidence...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=N61Yw-6jS-Y" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=N61Yw-6jS-Y</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Psychology of Why We Prefer Simple Stories Over Evidence...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: youtube.com  
    Title: Cognitive Fluency and the Power of Memorable Messaging  
-   Link: <a href="https://www.youtube.com/watch?v=vV7-D3Wd4x8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=vV7-D3Wd4x8</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How to Communicate Truth in an Era of Misinformation...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=vV7-D3Wd4x8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=vV7-D3Wd4x8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How to Communicate Truth in an Era of Misinformation...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/362841654_I_Think_This_News_Is_Accurate_Endorsing_Accuracy_Decreases_the_Sharing_of_Fake_News_and_Increases_the_Sharing_of_Real_News" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/362841654_I_Think_This_News_Is_Accurate_Endorsing_Accuracy_Decreases_the_Sharing_of_Fake_News_and_Increases_the_Sharing_of_Real_News</a>  
+   Link:<a href="https://www.researchgate.net/publication/362841654_I_Think_This_News_Is_Accurate_Endorsing_Accuracy_Decreases_the_Sharing_of_Fake_News_and_Increases_the_Sharing_of_Real_News" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/362841654_I_Think_This_News_Is_Accurate_Endorsing_Accuracy_Decreases_the_Sharing_of_Fake_News_and_Increases_the_Sharing_of_Real_News</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/391015007_To_be_continued_misinformation%27s_bizarre_adventure_beyond_memory_failures_-_exploring_non-memory-based_mechanisms_driving_the_continued_influence_effect_CIE" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/391015007_To_be_continued_misinformation%27s_bizarre_adventure_beyond_memory_failures_-_exploring_non-memory-based_mechanisms_driving_the_continued_influence_effect_CIE</a>  
+   Link:<a href="https://www.researchgate.net/publication/391015007_To_be_continued_misinformation%27s_bizarre_adventure_beyond_memory_failures_-_exploring_non-memory-based_mechanisms_driving_the_continued_influence_effect_CIE" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/391015007_To_be_continued_misinformation%27s_bizarre_adventure_beyond_memory_failures_-_exploring_non-memory-based_mechanisms_driving_the_continued_influence_effect_CIE</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/AmericanPsychologicalAssociation/posts/you-keep-seeing-the-same-claim-made-over-and-over-onlineso-it-must-be-true-right/1290086699819665/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/AmericanPsychologicalAssociation/posts/you-keep-seeing-the-same-claim-made-over-and-over-onlineso-it-must-be-true-right/1290086699819665/</a>  
+   Link:<a href="https://www.facebook.com/AmericanPsychologicalAssociation/posts/you-keep-seeing-the-same-claim-made-over-and-over-onlineso-it-must-be-true-right/1290086699819665/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/AmericanPsychologicalAssociation/posts/you-keep-seeing-the-same-claim-made-over-and-over-onlineso-it-must-be-true-right/1290086699819665/</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: scribd.com  
-   Link: <a href="https://www.scribd.com/document/906176348/Emotion-Shapes-the-Diffusion-of-Moralized-Content-in-Social-Networks" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/906176348/Emotion-Shapes-the-Diffusion-of-Moralized-Content-in-Social-Networks</a>  
+   Link:<a href="https://www.scribd.com/document/906176348/Emotion-Shapes-the-Diffusion-of-Moralized-Content-in-Social-Networks" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/906176348/Emotion-Shapes-the-Diffusion-of-Moralized-Content-in-Social-Networks</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: zotero.org  
-   Link: <a href="https://www.zotero.org/groups/2243448/library/items/NZ8K64E2" target="_blank" rel="noopener noreferrer nofollow">https://www.zotero.org/groups/2243448/library/items/NZ8K64E2</a>  
+   Link:<a href="https://www.zotero.org/groups/2243448/library/items/NZ8K64E2" target="_blank" rel="noopener noreferrer nofollow">https://www.zotero.org/groups/2243448/library/items/NZ8K64E2</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/317947723_Emotion_shapes_the_diffusion_of_moralized_content_in_social_networks" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/317947723_Emotion_shapes_the_diffusion_of_moralized_content_in_social_networks</a>
+   Link:<a href="https://www.researchgate.net/publication/317947723_Emotion_shapes_the_diffusion_of_moralized_content_in_social_networks" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/317947723_Emotion_shapes_the_diffusion_of_moralized_content_in_social_networks</a>

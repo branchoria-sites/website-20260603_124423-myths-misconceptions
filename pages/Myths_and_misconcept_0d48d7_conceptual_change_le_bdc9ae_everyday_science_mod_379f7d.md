@@ -277,7 +277,7 @@ image: /assets/images/Myths_and_misconcept_0d48d7_conceptual_change_le_bdc9ae_ev
 Students often keep scientifically incorrect ideas because those ideas genuinely help them make sense of everyday experience. A child who believes that heavier objects fall faster, that moving things need a constant push, or that summer happens because Earth is closer to the Sun is not usually guessing at random. They are applying patterns that seem to work in ordinary life. The misconception survives because it explains enough visible events to feel useful.
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_conceptual_change_le_bdc9ae_everyday_science_mod_379f7d-Illustration-1-dark.svg" | relative_url }}" alt="Everyday Models illustration 1" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_conceptual_change_le_bdc9ae_everyday_science_mod_379f7d-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_conceptual_change_le_bdc9ae_everyday_science_mod_379f7d-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-This is one of the central problems in conceptual change in science learning. Scientific explanations do not arrive in an empty mind. Learners already have working models built from observation, language, analogy and common experience. When school science presents a different explanation, students may memorise the new answer while continuing to reason with the older model underneath. Research on conceptual change repeatedly shows that prior ideas are not simply replaced by facts; they compete with, reshape and sometimes resist new learning. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/topics/psychology/conceptual-change-theory" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-title">ScienceDirect Conceptual Change Theory</span><span class="citation-popover-snippet">Conceptual Change Theory - an overviewDue to robust misconceptions developed by students during their earlier learning histo...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.csun.edu/~SB4310/How%20People%20Learn.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: csun.edu">[California State University, Northridge]</a><span class="citation-popover" role="note"><span class="citation-popover-source">csun.edu</span><span class="citation-popover-title">How People Learn</span><span class="citation-popover-snippet">pdfby JD Bransford · 2004 · Cited by 33022 — How people learn: brain, mind, experience, and school / John D.... science of learning to...</span></span></span>
+This is one of the central problems in conceptual change in science learning. Scientific explanations do not arrive in an empty mind. Learners already have working models built from observation, language, analogy and common experience. When school science presents a different explanation, students may memorise the new answer while continuing to reason with the older model underneath. Research on conceptual change repeatedly shows that prior ideas are not simply replaced by facts; they compete with, reshape and sometimes resist new learning.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/topics/psychology/conceptual-change-theory" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-title">ScienceDirect Conceptual Change Theory</span><span class="citation-popover-snippet">Conceptual Change Theory - an overviewDue to robust misconceptions developed by students during their earlier learning histo...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.csun.edu/~SB4310/How%20People%20Learn.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: csun.edu">[California State University, Northridge]</a><span class="citation-popover" role="note"><span class="citation-popover-source">csun.edu</span><span class="citation-popover-title">How People Learn</span><span class="citation-popover-snippet">pdfby JD Bransford · 2004 · Cited by 33022 — How people learn: brain, mind, experience, and school / John D.... science of learning to...</span></span></span>
 
 ## Everyday Rules That Work Until They Do Not
 
@@ -296,9 +296,9 @@ Consider a few common examples:
 
 </div>
 
-In each case, the learner is using a rule that works in many ordinary situations. The misconception is not irrational. It is an overextension of a pattern that has been useful before. Researchers have long argued that students construct explanations from their experiences rather than merely collecting facts, which is why misconceptions can be coherent and persistent. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.roehampton.ac.uk/globalassets/documents/education/pgce-welcome-subject-specific-reading/science-essential-reading-1-driver.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: roehampton.ac.uk">[Roehampton University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">roehampton.ac.uk</span><span class="citation-popover-snippet">Roehampton UniversityStudents&#x27; conceptions and the learning of science23 Feb 2007 — 1987, The process of conceptual change in science: A...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://oxfordre.com/education/display/10.1093/acrefore/9780190264093.001.0001/acrefore-9780190264093-e-965?d=%2F10.1093%2Facrefore%2F9780190264093.001.0001%2Facrefore-9780190264093-e-965&amp;p=emailAon3Ef8P3hGVA" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oxfordre.com">[OUP Academic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oxfordre.com</span><span class="citation-popover-snippet">OUP AcademicStudents&#x27; Misconceptions and Science Education30 Jul 2020 — Influenced by Piagetian and Vygotskian research, science educator...</span></span></span>
+In each case, the learner is using a rule that works in many ordinary situations. The misconception is not irrational. It is an overextension of a pattern that has been useful before. Researchers have long argued that students construct explanations from their experiences rather than merely collecting facts, which is why misconceptions can be coherent and persistent.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.roehampton.ac.uk/globalassets/documents/education/pgce-welcome-subject-specific-reading/science-essential-reading-1-driver.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: roehampton.ac.uk">[Roehampton University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">roehampton.ac.uk</span><span class="citation-popover-snippet">Roehampton UniversityStudents&#x27; conceptions and the learning of science23 Feb 2007 — 1987, The process of conceptual change in science: A...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://oxfordre.com/education/display/10.1093/acrefore/9780190264093.001.0001/acrefore-9780190264093-e-965?d=%2F10.1093%2Facrefore%2F9780190264093.001.0001%2Facrefore-9780190264093-e-965&amp;p=emailAon3Ef8P3hGVA" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oxfordre.com">[OUP Academic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oxfordre.com</span><span class="citation-popover-snippet">OUP AcademicStudents&#x27; Misconceptions and Science Education30 Jul 2020 — Influenced by Piagetian and Vygotskian research, science educator...</span></span></span>
 
-Astronomy provides especially clear examples. Studies of student understanding of seasons, gravity and lunar phases have repeatedly found that learners build explanations from everyday observations and intuitive reasoning. Even after formal instruction, many continue to rely on those experience-based interpretations because they remain psychologically convincing. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ejmste.com/download/alternative-conceptions-of-astronomy-how-irish-secondary-students-understand-gravity-seasons-and-the-10780.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ejmste.com">[Eurasia Journal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ejmste.com</span><span class="citation-popover-title">Eurasia Journalalternative-conceptions-of-astronomy-how-irish-secondary</span><span class="citation-popover-snippet">March 18, 2021 — by A Cardinot · 2021 · Cited by 20 — Furthermore, learners attempt to create a scientific argument by using daily experi...</span><span class="citation-popover-meta">Published: March 18, 2021</span></span></span>
+Astronomy provides especially clear examples. Studies of student understanding of seasons, gravity and lunar phases have repeatedly found that learners build explanations from everyday observations and intuitive reasoning. Even after formal instruction, many continue to rely on those experience-based interpretations because they remain psychologically convincing.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ejmste.com/download/alternative-conceptions-of-astronomy-how-irish-secondary-students-understand-gravity-seasons-and-the-10780.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ejmste.com">[Eurasia Journal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ejmste.com</span><span class="citation-popover-title">Eurasia Journalalternative-conceptions-of-astronomy-how-irish-secondary</span><span class="citation-popover-snippet">March 18, 2021 — by A Cardinot · 2021 · Cited by 20 — Furthermore, learners attempt to create a scientific argument by using daily experi...</span><span class="citation-popover-meta">Published: March 18, 2021</span></span></span>
 
 ## Why the Old Model Feels More Useful
 
@@ -306,11 +306,11 @@ A scientific explanation is not automatically attractive simply because it is co
 
 For a learner, an explanation has to do practical cognitive work. It needs to help predict events, organise observations and answer questions. If an everyday model already performs those functions reasonably well, there is little pressure to abandon it.
 
-Conceptual change researchers have argued that learners compare new explanations against existing ones. The older model survives when it still feels understandable, reliable and useful in familiar situations. A new scientific explanation must seem not only correct but also more satisfying than the previous account. <span class="citation-chip-wrap"><a class="citation-chip" href="https://onlinelibrary.wiley.com/doi/full/10.1002/tea.21887" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: onlinelibrary.wiley.com">[Wiley Online Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">onlinelibrary.wiley.com</span><span class="citation-popover-snippet">1982) introduced the conceptual change model (CCM) into science education literature...Read more...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/topics/psychology/conceptual-change-theory" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-title">ScienceDirect Conceptual Change Theory</span><span class="citation-popover-snippet">Conceptual Change Theory - an overviewDue to robust misconceptions developed by students during their earlier learning histo...</span></span></span>
+Conceptual change researchers have argued that learners compare new explanations against existing ones. The older model survives when it still feels understandable, reliable and useful in familiar situations. A new scientific explanation must seem not only correct but also more satisfying than the previous account.<span class="citation-chip-wrap"><a class="citation-chip" href="https://onlinelibrary.wiley.com/doi/full/10.1002/tea.21887" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: onlinelibrary.wiley.com">[Wiley Online Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">onlinelibrary.wiley.com</span><span class="citation-popover-snippet">1982) introduced the conceptual change model (CCM) into science education literature...Read more...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/topics/psychology/conceptual-change-theory" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-title">ScienceDirect Conceptual Change Theory</span><span class="citation-popover-snippet">Conceptual Change Theory - an overviewDue to robust misconceptions developed by students during their earlier learning histo...</span></span></span>
 
 This creates an important classroom problem. A student may learn the scientific definition of force yet continue to think about motion using the everyday push-keeps-it-going model. The scientific idea becomes a school answer, while the everyday idea remains the reasoning tool used outside tests.
 
-The National Research Council's work on learning highlighted this pattern directly: students can learn information for assessment purposes yet return to their original explanations when interpreting real-world situations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sdcoe.net/ngss/evidence-based-practices/key-findings-from-how-people-learn" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sdcoe.net">[San Diego County Office of Education]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sdcoe.net</span><span class="citation-popover-snippet">San Diego County Office of EducationKey Findings from How People LearnA fundamental insight about learning is that new understandings are...</span></span></span>
+The National Research Council's work on learning highlighted this pattern directly: students can learn information for assessment purposes yet return to their original explanations when interpreting real-world situations.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sdcoe.net/ngss/evidence-based-practices/key-findings-from-how-people-learn" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sdcoe.net">[San Diego County Office of Education]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sdcoe.net</span><span class="citation-popover-snippet">San Diego County Office of EducationKey Findings from How People LearnA fundamental insight about learning is that new understandings are...</span></span></span>
 
 ## Why Correct Answers Do Not Automatically Replace Old Ideas
 
@@ -320,7 +320,7 @@ In practice, learners often keep both.
 
 A student may correctly state that Earth's axial tilt causes the seasons while simultaneously imagining Earth moving much closer to the Sun in summer. The scientific statement exists alongside the older intuitive explanation rather than replacing it.
 
-The famous educational documentary *A [Private Universe]({{ 'private-universe/' | relative_url }})* made this problem visible. Interviews with high-achieving students and graduates revealed that many could recall scientific vocabulary yet still relied on private explanatory systems when asked to reason through astronomical phenomena. The striking finding was not ignorance but the durability of intuitive models after years of instruction. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.learner.org/series/a-private-universe/1-a-private-universe/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: learner.org">[Annenberg Learner]</a><span class="citation-popover" role="note"><span class="citation-popover-source">learner.org</span><span class="citation-popover-snippet">Annenberg LearnerA Private UniverseThis video brings into sharp focus the dilemma facing all educators: Why don&#x27;t even the brightest stud...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.siumed.edu/academy/private-universe.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: siumed.edu">[SIU School of Medicine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">siumed.edu</span><span class="citation-popover-snippet">SIU School of MedicineA Private UniverseEven the brightest students in the class have false ideas based on enduring misconceptions that t...</span></span></span>
+The famous educational documentary *A [Private Universe]({{ 'private-universe/' | relative_url }})* made this problem visible. Interviews with high-achieving students and graduates revealed that many could recall scientific vocabulary yet still relied on private explanatory systems when asked to reason through astronomical phenomena. The striking finding was not ignorance but the durability of intuitive models after years of instruction.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.learner.org/series/a-private-universe/1-a-private-universe/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: learner.org">[Annenberg Learner]</a><span class="citation-popover" role="note"><span class="citation-popover-source">learner.org</span><span class="citation-popover-snippet">Annenberg LearnerA Private UniverseThis video brings into sharp focus the dilemma facing all educators: Why don&#x27;t even the brightest stud...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.siumed.edu/academy/private-universe.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: siumed.edu">[SIU School of Medicine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">siumed.edu</span><span class="citation-popover-snippet">SIU School of MedicineA Private UniverseEven the brightest students in the class have false ideas based on enduring misconceptions that t...</span></span></span>
 
 Several mechanisms help old models survive:
 
@@ -334,7 +334,7 @@ Many scientific explanations involve invisible processes such as forces, particl
 
 **They connect to existing beliefs.**
 
-Prior knowledge forms networks. A misconception is often linked to other assumptions, meanings and experiences. Replacing it may require changing several connected ideas at once. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8593386/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCLong-Lasting Conceptual Change in Science Education</span><span class="citation-popover-snippet">by X Li · 2021 · Cited by 50 — Misconceptions have been considered as “theory-like naïve assumptions held by medieval scientists” (Chi...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/pii/S1041608025001207" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-title">ScienceDirect How does prior knowledge affect learning?</span><span class="citation-popover-snippet">A review of 16...by M Schneider · 2025 · Cited by 29 — We give an integrative review of 16 learning processes mediating the effects of p...</span></span></span>
+Prior knowledge forms networks. A misconception is often linked to other assumptions, meanings and experiences. Replacing it may require changing several connected ideas at once.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8593386/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCLong-Lasting Conceptual Change in Science Education</span><span class="citation-popover-snippet">by X Li · 2021 · Cited by 50 — Misconceptions have been considered as “theory-like naïve assumptions held by medieval scientists” (Chi...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/pii/S1041608025001207" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-title">ScienceDirect How does prior knowledge affect learning?</span><span class="citation-popover-snippet">A review of 16...by M Schneider · 2025 · Cited by 29 — We give an integrative review of 16 learning processes mediating the effects of p...</span></span></span>
 
 **Language keeps reviving it.**
 
@@ -345,7 +345,7 @@ Ordinary speech frequently reinforces intuitive models. People say batteries "st
 
 A major insight from conceptual change research is that science learning is not mainly about adding information. It often requires reorganising how information is interpreted.
 
-When students first encounter a scientific idea, they commonly assimilate it into their existing framework. Instead of changing the framework itself, they adjust the new information to fit what they already believe. This can create hybrid explanations that combine scientific terms with everyday reasoning. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Conceptual_change" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Conceptual change</span><span class="citation-popover-snippet">Conceptual change</span></span></span>
+When students first encounter a scientific idea, they commonly assimilate it into their existing framework. Instead of changing the framework itself, they adjust the new information to fit what they already believe. This can create hybrid explanations that combine scientific terms with everyday reasoning.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Conceptual_change" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Conceptual change</span><span class="citation-popover-snippet">Conceptual change</span></span></span>
 
 For example, a learner might say:
 
@@ -355,7 +355,7 @@ The student has incorporated the scientific idea of tilt but has interpreted it 
 
 This is why conceptual change is often slow. The challenge is not remembering a fact. The challenge is learning when an old explanatory rule no longer works and adopting a new way of organising experience.
 
-Research reviews describe misconceptions as robust because they emerge from earlier learning histories and continue shaping how new information is interpreted. New knowledge is filtered through existing knowledge rather than simply replacing it. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/topics/psychology/conceptual-change-theory" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-title">ScienceDirect Conceptual Change Theory</span><span class="citation-popover-snippet">Conceptual Change Theory - an overviewDue to robust misconceptions developed by students during their earlier learning histo...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/topics/psychology/conceptual-change-theory" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-title">ScienceDirect Conceptual Change Theory</span><span class="citation-popover-snippet">Conceptual Change Theory - an overviewDue to robust misconceptions developed by students during their earlier learning histo...</span></span></span>
+Research reviews describe misconceptions as robust because they emerge from earlier learning histories and continue shaping how new information is interpreted. New knowledge is filtered through existing knowledge rather than simply replacing it.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/topics/psychology/conceptual-change-theory" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-title">ScienceDirect Conceptual Change Theory</span><span class="citation-popover-snippet">Conceptual Change Theory - an overviewDue to robust misconceptions developed by students during their earlier learning histo...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/topics/psychology/conceptual-change-theory" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-title">ScienceDirect Conceptual Change Theory</span><span class="citation-popover-snippet">Conceptual Change Theory - an overviewDue to robust misconceptions developed by students during their earlier learning histo...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/1iFMp2NUJVs" title="Outreach Webinar: &quot;A Private Universe&quot; Revealed [Part 1]" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=1iFMp2NUJVs" target="_blank" rel="noopener noreferrer">Outreach Webinar: &quot;A Private Universe&quot; Revealed [Part 1]</a></p><p class="youtube-embed-meta">Channel: Astronomical Society of the Pacific &middot; Views: 905 &middot; Uploaded: August 2016 &middot; Length: 51 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=1iFMp2NUJVs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=1iFMp2NUJVs">Open on YouTube</a></p></div></div></div>
 
@@ -385,7 +385,7 @@ Students solve textbook problems but struggle when the same concept appears in a
 
 Scientific and everyday ideas appear together in the same account.
 
-Educational researchers have often found that misconceptions remain hidden when assessment focuses only on recall. Interviews, prediction tasks and requests for explanations reveal much more about the model students are actually using. *A Private Universe* became influential largely because it exposed these hidden reasoning patterns rather than simply measuring right and wrong answers. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.learner.org/series/a-private-universe/1-a-private-universe/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: learner.org">[Annenberg Learner]</a><span class="citation-popover" role="note"><span class="citation-popover-source">learner.org</span><span class="citation-popover-snippet">Annenberg LearnerA Private UniverseThis video brings into sharp focus the dilemma facing all educators: Why don&#x27;t even the brightest stud...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://scienceinschool.org/article/2010/privateuniverse/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scienceinschool.org">[2scienceinschool.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scienceinschool.org</span><span class="citation-popover-snippet">A Private Universe online resources, By Matthew H...7 Dec 2010 — The A Private Universe project in science is a collection of nine works...</span></span></span>
+Educational researchers have often found that misconceptions remain hidden when assessment focuses only on recall. Interviews, prediction tasks and requests for explanations reveal much more about the model students are actually using. *A Private Universe* became influential largely because it exposed these hidden reasoning patterns rather than simply measuring right and wrong answers.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.learner.org/series/a-private-universe/1-a-private-universe/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: learner.org">[Annenberg Learner]</a><span class="citation-popover" role="note"><span class="citation-popover-source">learner.org</span><span class="citation-popover-snippet">Annenberg LearnerA Private UniverseThis video brings into sharp focus the dilemma facing all educators: Why don&#x27;t even the brightest stud...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://scienceinschool.org/article/2010/privateuniverse/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scienceinschool.org">[2scienceinschool.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scienceinschool.org</span><span class="citation-popover-snippet">A Private Universe online resources, By Matthew H...7 Dec 2010 — The A Private Universe project in science is a collection of nine works...</span></span></span>
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_conceptual_change_le_bdc9ae_everyday_science_mod_379f7d-Illustration-3-dark.svg" | relative_url }}" alt="Everyday Models illustration 3" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_conceptual_change_le_bdc9ae_everyday_science_mod_379f7d-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_conceptual_change_le_bdc9ae_everyday_science_mod_379f7d-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why These Models Matter for Learning
@@ -394,197 +394,197 @@ Treating misconceptions as simple mistakes misses their most important feature: 
 
 Students keep everyday science models because those models have explanatory power within ordinary experience. They help organise observations, support predictions and provide coherent stories about how things work. Their strength is precisely what makes them difficult to replace.
 
-For science education, this means that conceptual change is not a battle against ignorance. It is a process of helping learners recognise where an intuitive model succeeds, where it fails, and why a scientific model can explain a wider range of phenomena. Until students experience those limits for themselves, the everyday model often remains the explanation that feels most sensible. OUP Academic 3Wiley Online Library <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sdcoe.net/ngss/evidence-based-practices/key-findings-from-how-people-learn" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sdcoe.net">[San Diego County Office of Education]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sdcoe.net</span><span class="citation-popover-snippet">San Diego County Office of EducationKey Findings from How People LearnA fundamental insight about learning is that new understandings are...</span></span></span>
+For science education, this means that conceptual change is not a battle against ignorance. It is a process of helping learners recognise where an intuitive model succeeds, where it fails, and why a scientific model can explain a wider range of phenomena. Until students experience those limits for themselves, the everyday model often remains the explanation that feels most sensible. OUP Academic 3Wiley Online Library<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sdcoe.net/ngss/evidence-based-practices/key-findings-from-how-people-learn" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sdcoe.net">[San Diego County Office of Education]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sdcoe.net</span><span class="citation-popover-snippet">San Diego County Office of EducationKey Findings from How People LearnA fundamental insight about learning is that new understandings are...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Wrong Science Ideas Feel Sensible. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Wrong Science Ideas Feel Sensible. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Why+Don%27t+Students+Like+School%3F+by+Daniel+T.+Willingham&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Why Don&#x27;t Students Like School? on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=kuEmEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Why Don&#x27;t Students Like School?" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Why+Don%27t+Students+Like+School%3F+by+Daniel+T.+Willingham&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Why Don&#x27;t Students Like School?">Why Don&#x27;t Students Like School?</a>
-        </h4>
-        <p class="fr-book-author">By Daniel T. Willingham</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Why+Don%27t+Students+Like+School%3F+by+Daniel+T.+Willingham&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Why Don&#x27;t Students Like School? on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=kuEmEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Why Don&#x27;t Students Like School?" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Why+Don%27t+Students+Like+School%3F+by+Daniel+T.+Willingham&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Why Don&#x27;t Students Like School?">Why Don&#x27;t Students Like School?</a>
+</h4>
+<p class="fr-book-author">By Daniel T. Willingham</p>
         
-        <p class="fr-book-desc">Links cognition and classroom misconceptions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Why+Don%27t+Students+Like+School%3F+by+Daniel+T.+Willingham&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Links cognition and classroom misconceptions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Why+Don%27t+Students+Like+School%3F+by+Daniel+T.+Willingham&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+Learning+Happens+by+Paul+A.+Kirschner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How Learning Happens on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=PdnzEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How Learning Happens" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+Learning+Happens+by+Paul+A.+Kirschner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How Learning Happens">How Learning Happens</a>
-        </h4>
-        <p class="fr-book-author">By Paul A. Kirschner, Carl Hendrick</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+Learning+Happens+by+Paul+A.+Kirschner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How Learning Happens on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=PdnzEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How Learning Happens" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=How+Learning+Happens+by+Paul+A.+Kirschner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How Learning Happens">How Learning Happens</a>
+</h4>
+<p class="fr-book-author">By Paul A. Kirschner, Carl Hendrick</p>
         
-        <p class="fr-book-desc">Examines how prior ideas shape learning.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+Learning+Happens+by+Paul+A.+Kirschner&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines how prior ideas shape learning.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=How+Learning+Happens+by+Paul+A.+Kirschner&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YGPzXWanppcC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
-        </h4>
-        <p class="fr-book-author">By Daniel Kahneman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YGPzXWanppcC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
+</h4>
+<p class="fr-book-author">By Daniel Kahneman</p>
         
-        <p class="fr-book-desc">Shows how intuitive thinking drives misconceptions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows how intuitive thinking drives misconceptions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Invisible+Gorilla+by+Christopher+Chabris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Invisible Gorilla on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=VecEbBYC_sEC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Invisible Gorilla" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Invisible+Gorilla+by+Christopher+Chabris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Invisible Gorilla">The Invisible Gorilla</a>
-        </h4>
-        <p class="fr-book-author">By Christopher Chabris, Daniel Simons</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Invisible+Gorilla+by+Christopher+Chabris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Invisible Gorilla on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=VecEbBYC_sEC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Invisible Gorilla" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Invisible+Gorilla+by+Christopher+Chabris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Invisible Gorilla">The Invisible Gorilla</a>
+</h4>
+<p class="fr-book-author">By Christopher Chabris, Daniel Simons</p>
         
-        <p class="fr-book-desc">Illustrates systematic errors in perception and reasoning.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Invisible+Gorilla+by+Christopher+Chabris&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Illustrates systematic errors in perception and reasoning.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Invisible+Gorilla+by+Christopher+Chabris&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Why+Don%27t+Students+Like+School%3F&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Why Don&#x27;t Students Like School?</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+Learning+Happens&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How Learning Happens</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Why+Don%27t+Students+Like+School%3F&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Why Don&#x27;t Students Like School?</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=How+Learning+Happens&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How Learning Happens</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=everyday-models-why-wrong-science-ideas-feel-sensible-myths-and-misconcept-science-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science art print" data-ebay-reference="everyday-models-why-wrong-science-ideas-feel-sensible-myths-and-misconcept-science-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Science Lover Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/c14f5b37d36f323b014a.jpg' | relative_url }}" alt="Listing image for Science Lover Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=everyday-models-why-wrong-science-ideas-feel-sensible-myths-and-misconcept-science-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science art print" data-ebay-reference="everyday-models-why-wrong-science-ideas-feel-sensible-myths-and-misconcept-science-art-print" target="_blank" rel="sponsored noopener noreferrer">Science Lover Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=everyday-models-why-wrong-science-ideas-feel-sensible-myths-and-misconcept-science-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science art print" data-ebay-reference="everyday-models-why-wrong-science-ideas-feel-sensible-myths-and-misconcept-science-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: science art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=everyday-models-why-wrong-science-ideas-feel-sensible-myths-and-misconcept-science-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science art print" data-ebay-reference="everyday-models-why-wrong-science-ideas-feel-sensible-myths-and-misconcept-science-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=everyday-models-why-wrong-science-ideas-feel-sensible-myths-and-misconcept-science-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science art print" data-ebay-reference="everyday-models-why-wrong-science-ideas-feel-sensible-myths-and-misconcept-science-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Science Lover Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/c14f5b37d36f323b014a.jpg' | relative_url }}" alt="Listing image for Science Lover Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=everyday-models-why-wrong-science-ideas-feel-sensible-myths-and-misconcept-science-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science art print" data-ebay-reference="everyday-models-why-wrong-science-ideas-feel-sensible-myths-and-misconcept-science-art-print" target="_blank" rel="sponsored noopener noreferrer">Science Lover Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=everyday-models-why-wrong-science-ideas-feel-sensible-myths-and-misconcept-science-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science art print" data-ebay-reference="everyday-models-why-wrong-science-ideas-feel-sensible-myths-and-misconcept-science-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: science art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=everyday-models-why-wrong-science-ideas-feel-sensible-myths-and-misconcept-science-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science art print" data-ebay-reference="everyday-models-why-wrong-science-ideas-feel-sensible-myths-and-misconcept-science-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=everyday-models-why-wrong-science-ideas-feel-sensible-myths-and-misconcept-science-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science art print" data-ebay-reference="everyday-models-why-wrong-science-ideas-feel-sensible-myths-and-misconcept-science-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Science Framed Art Print Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/76f2382783f3bed69e2a.jpg' | relative_url }}" alt="Listing image for Science Framed Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=everyday-models-why-wrong-science-ideas-feel-sensible-myths-and-misconcept-science-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science art print" data-ebay-reference="everyday-models-why-wrong-science-ideas-feel-sensible-myths-and-misconcept-science-art-print" target="_blank" rel="sponsored noopener noreferrer">Science Framed Art Print Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=everyday-models-why-wrong-science-ideas-feel-sensible-myths-and-misconcept-science-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science art print" data-ebay-reference="everyday-models-why-wrong-science-ideas-feel-sensible-myths-and-misconcept-science-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: science art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=everyday-models-why-wrong-science-ideas-feel-sensible-myths-and-misconcept-science-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science art print" data-ebay-reference="everyday-models-why-wrong-science-ideas-feel-sensible-myths-and-misconcept-science-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=everyday-models-why-wrong-science-ideas-feel-sensible-myths-and-misconcept-science-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science art print" data-ebay-reference="everyday-models-why-wrong-science-ideas-feel-sensible-myths-and-misconcept-science-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Science Framed Art Print Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/76f2382783f3bed69e2a.jpg' | relative_url }}" alt="Listing image for Science Framed Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=everyday-models-why-wrong-science-ideas-feel-sensible-myths-and-misconcept-science-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science art print" data-ebay-reference="everyday-models-why-wrong-science-ideas-feel-sensible-myths-and-misconcept-science-art-print" target="_blank" rel="sponsored noopener noreferrer">Science Framed Art Print Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=everyday-models-why-wrong-science-ideas-feel-sensible-myths-and-misconcept-science-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science art print" data-ebay-reference="everyday-models-why-wrong-science-ideas-feel-sensible-myths-and-misconcept-science-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: science art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=everyday-models-why-wrong-science-ideas-feel-sensible-myths-and-misconcept-science-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science art print" data-ebay-reference="everyday-models-why-wrong-science-ideas-feel-sensible-myths-and-misconcept-science-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=everyday-models-why-wrong-science-ideas-feel-sensible-myths-and-misconcept-science-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science art print" data-ebay-reference="everyday-models-why-wrong-science-ideas-feel-sensible-myths-and-misconcept-science-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Science science Framed Art Print Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/f2929b3429341624ae55.jpg' | relative_url }}" alt="Listing image for Science science Framed Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=everyday-models-why-wrong-science-ideas-feel-sensible-myths-and-misconcept-science-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science art print" data-ebay-reference="everyday-models-why-wrong-science-ideas-feel-sensible-myths-and-misconcept-science-art-print" target="_blank" rel="sponsored noopener noreferrer">Science science Framed Art Print Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=everyday-models-why-wrong-science-ideas-feel-sensible-myths-and-misconcept-science-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science art print" data-ebay-reference="everyday-models-why-wrong-science-ideas-feel-sensible-myths-and-misconcept-science-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: science art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=everyday-models-why-wrong-science-ideas-feel-sensible-myths-and-misconcept-science-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science art print" data-ebay-reference="everyday-models-why-wrong-science-ideas-feel-sensible-myths-and-misconcept-science-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=everyday-models-why-wrong-science-ideas-feel-sensible-myths-and-misconcept-science-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science art print" data-ebay-reference="everyday-models-why-wrong-science-ideas-feel-sensible-myths-and-misconcept-science-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Science science Framed Art Print Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/f2929b3429341624ae55.jpg' | relative_url }}" alt="Listing image for Science science Framed Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=everyday-models-why-wrong-science-ideas-feel-sensible-myths-and-misconcept-science-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science art print" data-ebay-reference="everyday-models-why-wrong-science-ideas-feel-sensible-myths-and-misconcept-science-art-print" target="_blank" rel="sponsored noopener noreferrer">Science science Framed Art Print Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=everyday-models-why-wrong-science-ideas-feel-sensible-myths-and-misconcept-science-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science art print" data-ebay-reference="everyday-models-why-wrong-science-ideas-feel-sensible-myths-and-misconcept-science-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: science art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=everyday-models-why-wrong-science-ideas-feel-sensible-myths-and-misconcept-science-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science art print" data-ebay-reference="everyday-models-why-wrong-science-ideas-feel-sensible-myths-and-misconcept-science-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=everyday-models-why-wrong-science-ideas-feel-sensible-myths-and-misconcept-science-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science art print" data-ebay-reference="everyday-models-why-wrong-science-ideas-feel-sensible-myths-and-misconcept-science-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Educational vintage A3 A4 Mushroom Chart Biology Science Fungi art print poster"><img src="{{ '/assets/images/marketplace-covers/17e2f79b1a99ca589e72.jpg' | relative_url }}" alt="Listing image for Educational vintage A3 A4 Mushroom Chart Biology Science Fungi art print poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=everyday-models-why-wrong-science-ideas-feel-sensible-myths-and-misconcept-science-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science art print" data-ebay-reference="everyday-models-why-wrong-science-ideas-feel-sensible-myths-and-misconcept-science-art-print" target="_blank" rel="sponsored noopener noreferrer">Educational vintage A3 A4 Mushroom Chart Biology Science Fungi art print poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=everyday-models-why-wrong-science-ideas-feel-sensible-myths-and-misconcept-science-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science art print" data-ebay-reference="everyday-models-why-wrong-science-ideas-feel-sensible-myths-and-misconcept-science-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: science art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=everyday-models-why-wrong-science-ideas-feel-sensible-myths-and-misconcept-science-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science art print" data-ebay-reference="everyday-models-why-wrong-science-ideas-feel-sensible-myths-and-misconcept-science-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=everyday-models-why-wrong-science-ideas-feel-sensible-myths-and-misconcept-science-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science art print" data-ebay-reference="everyday-models-why-wrong-science-ideas-feel-sensible-myths-and-misconcept-science-art-print" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=everyday-models-why-wrong-science-ideas-feel-sensible-myths-and-misconcept-science-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science art print" data-ebay-reference="everyday-models-why-wrong-science-ideas-feel-sensible-myths-and-misconcept-science-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Educational vintage A3 A4 Mushroom Chart Biology Science Fungi art print poster"><img src="{{ '/assets/images/marketplace-covers/17e2f79b1a99ca589e72.jpg' | relative_url }}" alt="Listing image for Educational vintage A3 A4 Mushroom Chart Biology Science Fungi art print poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=everyday-models-why-wrong-science-ideas-feel-sensible-myths-and-misconcept-science-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science art print" data-ebay-reference="everyday-models-why-wrong-science-ideas-feel-sensible-myths-and-misconcept-science-art-print" target="_blank" rel="sponsored noopener noreferrer">Educational vintage A3 A4 Mushroom Chart Biology Science Fungi art print poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=everyday-models-why-wrong-science-ideas-feel-sensible-myths-and-misconcept-science-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science art print" data-ebay-reference="everyday-models-why-wrong-science-ideas-feel-sensible-myths-and-misconcept-science-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: science art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=everyday-models-why-wrong-science-ideas-feel-sensible-myths-and-misconcept-science-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science art print" data-ebay-reference="everyday-models-why-wrong-science-ideas-feel-sensible-myths-and-misconcept-science-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=everyday-models-why-wrong-science-ideas-feel-sensible-myths-and-misconcept-science-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science art print" data-ebay-reference="everyday-models-why-wrong-science-ideas-feel-sensible-myths-and-misconcept-science-art-print" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -600,7 +600,7 @@ For science education, this means that conceptual change is not a battle against
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -620,7 +620,7 @@ For science education, this means that conceptual change is not a battle against
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -652,7 +652,7 @@ For science education, this means that conceptual change is not a battle against
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -704,7 +704,7 @@ For science education, this means that conceptual change is not a battle against
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -749,7 +749,7 @@ For science education, this means that conceptual change is not a battle against
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -790,133 +790,133 @@ For science education, this means that conceptual change is not a battle against
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: sciencedirect.com  
    Title: ScienceDirect Conceptual Change Theory  
-   Link: <a href="https://www.sciencedirect.com/topics/psychology/conceptual-change-theory" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/topics/psychology/conceptual-change-theory</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Conceptual Change Theory - an overviewDue to robust misconceptions developed by students during their earlier learning histo...</p></details>
+   Link:<a href="https://www.sciencedirect.com/topics/psychology/conceptual-change-theory" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/topics/psychology/conceptual-change-theory</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Conceptual Change Theory - an overviewDue to robust misconceptions developed by students during their earlier learning histo...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: onlinelibrary.wiley.com  
-   Link: <a href="https://onlinelibrary.wiley.com/doi/full/10.1002/tea.21887" target="_blank" rel="noopener noreferrer nofollow">https://onlinelibrary.wiley.com/doi/full/10.1002/tea.21887</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>(1982) introduced the conceptual change model (CCM) into science education literature...Read more...</p></details>
+   Link:<a href="https://onlinelibrary.wiley.com/doi/full/10.1002/tea.21887" target="_blank" rel="noopener noreferrer nofollow">https://onlinelibrary.wiley.com/doi/full/10.1002/tea.21887</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(1982) introduced the conceptual change model (CCM) into science education literature...Read more...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: learner.org  
-   Link: <a href="https://www.learner.org/series/a-private-universe/1-a-private-universe/" target="_blank" rel="noopener noreferrer nofollow">https://www.learner.org/series/a-private-universe/1-a-private-universe/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Annenberg LearnerA Private UniverseThis video brings into sharp focus the dilemma facing all educators: Why don&#x27;t even the brightest stud...</p></details>
+   Link:<a href="https://www.learner.org/series/a-private-universe/1-a-private-universe/" target="_blank" rel="noopener noreferrer nofollow">https://www.learner.org/series/a-private-universe/1-a-private-universe/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Annenberg LearnerA Private UniverseThis video brings into sharp focus the dilemma facing all educators: Why don&#x27;t even the brightest stud...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCLong-Lasting Conceptual Change in Science Education  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8593386/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8593386/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>by X Li · 2021 · Cited by 50 — Misconceptions have been considered as “theory-like naïve assumptions held by medieval scientists” (Chi...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8593386/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8593386/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by X Li · 2021 · Cited by 50 — Misconceptions have been considered as “theory-like naïve assumptions held by medieval scientists” (Chi...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: Wikipedia  
    Title: Conceptual change  
-   Link: <a href="https://en.wikipedia.org/wiki/Conceptual_change" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Conceptual_change</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Conceptual_change" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Conceptual_change</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: sciencedirect.com  
    Title: ScienceDirect How does prior knowledge affect learning?  
-   Link: <a href="https://www.sciencedirect.com/science/article/pii/S1041608025001207" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S1041608025001207</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>A review of 16...by M Schneider · 2025 · Cited by 29 — We give an integrative review of 16 learning processes mediating the effects of p...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/pii/S1041608025001207" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S1041608025001207</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A review of 16...by M Schneider · 2025 · Cited by 29 — We give an integrative review of 16 learning processes mediating the effects of p...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: scienceinschool.org  
-   Link: <a href="https://scienceinschool.org/article/2010/privateuniverse/" target="_blank" rel="noopener noreferrer nofollow">https://scienceinschool.org/article/2010/privateuniverse/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>A Private Universe online resources, By Matthew H...7 Dec 2010 — The A Private Universe project in science is a collection of nine works...</p></details>
+   Link:<a href="https://scienceinschool.org/article/2010/privateuniverse/" target="_blank" rel="noopener noreferrer nofollow">https://scienceinschool.org/article/2010/privateuniverse/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A Private Universe online resources, By Matthew H...7 Dec 2010 — The A Private Universe project in science is a collection of nine works...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: csun.edu  
    Title: How People Learn  
-   Link: <a href="https://www.csun.edu/~SB4310/How%20People%20Learn.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.csun.edu/~SB4310/How%20People%20Learn.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>pdfby JD Bransford · 2004 · Cited by 33022 — How people learn: brain, mind, experience, and school / John D.... science of learning to...</p></details>
+   Link:<a href="https://www.csun.edu/~SB4310/How%20People%20Learn.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.csun.edu/~SB4310/How%20People%20Learn.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>pdfby JD Bransford · 2004 · Cited by 33022 — How people learn: brain, mind, experience, and school / John D.... science of learning to...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: sdcoe.net  
-   Link: <a href="https://www.sdcoe.net/ngss/evidence-based-practices/key-findings-from-how-people-learn" target="_blank" rel="noopener noreferrer nofollow">https://www.sdcoe.net/ngss/evidence-based-practices/key-findings-from-how-people-learn</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>San Diego County Office of EducationKey Findings from How People LearnA fundamental insight about learning is that new understandings are...</p></details>
+   Link:<a href="https://www.sdcoe.net/ngss/evidence-based-practices/key-findings-from-how-people-learn" target="_blank" rel="noopener noreferrer nofollow">https://www.sdcoe.net/ngss/evidence-based-practices/key-findings-from-how-people-learn</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>San Diego County Office of EducationKey Findings from How People LearnA fundamental insight about learning is that new understandings are...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: roehampton.ac.uk  
-   Link: <a href="https://www.roehampton.ac.uk/globalassets/documents/education/pgce-welcome-subject-specific-reading/science-essential-reading-1-driver.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.roehampton.ac.uk/globalassets/documents/education/pgce-welcome-subject-specific-reading/science-essential-reading-1-driver.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Roehampton UniversityStudents&#x27; conceptions and the learning of science23 Feb 2007 — 1987, The process of conceptual change in science: A...</p></details>
+   Link:<a href="https://www.roehampton.ac.uk/globalassets/documents/education/pgce-welcome-subject-specific-reading/science-essential-reading-1-driver.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.roehampton.ac.uk/globalassets/documents/education/pgce-welcome-subject-specific-reading/science-essential-reading-1-driver.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Roehampton UniversityStudents&#x27; conceptions and the learning of science23 Feb 2007 — 1987, The process of conceptual change in science: A...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: oxfordre.com  
-   Link: <a href="https://oxfordre.com/education/display/10.1093/acrefore/9780190264093.001.0001/acrefore-9780190264093-e-965?d=%2F10.1093%2Facrefore%2F9780190264093.001.0001%2Facrefore-9780190264093-e-965&amp;p=emailAon3Ef8P3hGVA" target="_blank" rel="noopener noreferrer nofollow">https://oxfordre.com/education/display/10.1093/acrefore/9780190264093.001.0001/acrefore-9780190264093-e-965?d=%2F10.1093%2Facrefore%2F9780190264093.001.0001%2Facrefore-9780190264093-e-965&amp;p=emailAon3Ef8P3hGVA</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>OUP AcademicStudents&#x27; Misconceptions and Science Education30 Jul 2020 — Influenced by Piagetian and Vygotskian research, science educator...</p></details>
+   Link:<a href="https://oxfordre.com/education/display/10.1093/acrefore/9780190264093.001.0001/acrefore-9780190264093-e-965?d=%2F10.1093%2Facrefore%2F9780190264093.001.0001%2Facrefore-9780190264093-e-965&amp;p=emailAon3Ef8P3hGVA" target="_blank" rel="noopener noreferrer nofollow">https://oxfordre.com/education/display/10.1093/acrefore/9780190264093.001.0001/acrefore-9780190264093-e-965?d=%2F10.1093%2Facrefore%2F9780190264093.001.0001%2Facrefore-9780190264093-e-965&amp;p=emailAon3Ef8P3hGVA</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>OUP AcademicStudents&#x27; Misconceptions and Science Education30 Jul 2020 — Influenced by Piagetian and Vygotskian research, science educator...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: ejmste.com  
    Title: Eurasia Journalalternative-conceptions-of-astronomy-how-irish-secondary  
-   Link: <a href="https://www.ejmste.com/download/alternative-conceptions-of-astronomy-how-irish-secondary-students-understand-gravity-seasons-and-the-10780.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ejmste.com/download/alternative-conceptions-of-astronomy-how-irish-secondary-students-understand-gravity-seasons-and-the-10780.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>March 18, 2021 — by A Cardinot · 2021 · Cited by 20 — Furthermore, learners attempt to create a scientific argument by using daily experi...</p></details>
+   Link:<a href="https://www.ejmste.com/download/alternative-conceptions-of-astronomy-how-irish-secondary-students-understand-gravity-seasons-and-the-10780.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ejmste.com/download/alternative-conceptions-of-astronomy-how-irish-secondary-students-understand-gravity-seasons-and-the-10780.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>March 18, 2021 — by A Cardinot · 2021 · Cited by 20 — Furthermore, learners attempt to create a scientific argument by using daily experi...</p></details>
    Published: March 18, 2021  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: ejmste.com  
    Title: In other.Read more  
-   Link: <a href="https://www.ejmste.com/download/an-overview-of-conceptual-changetheories-4082.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ejmste.com/download/an-overview-of-conceptual-changetheories-4082.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Eurasia JournalAn Overview of Conceptual Change Theoriesby G Özdemir · 2007 · Cited by 549 — Misconceptions are therefore not only inaccu...</p></details>
+   Link:<a href="https://www.ejmste.com/download/an-overview-of-conceptual-changetheories-4082.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ejmste.com/download/an-overview-of-conceptual-changetheories-4082.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Eurasia JournalAn Overview of Conceptual Change Theoriesby G Özdemir · 2007 · Cited by 549 — Misconceptions are therefore not only inaccu...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: siumed.edu  
-   Link: <a href="https://www.siumed.edu/academy/private-universe.html" target="_blank" rel="noopener noreferrer nofollow">https://www.siumed.edu/academy/private-universe.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>SIU School of MedicineA Private UniverseEven the brightest students in the class have false ideas based on enduring misconceptions that t...</p></details>
+   Link:<a href="https://www.siumed.edu/academy/private-universe.html" target="_blank" rel="noopener noreferrer nofollow">https://www.siumed.edu/academy/private-universe.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>SIU School of MedicineA Private UniverseEven the brightest students in the class have false ideas based on enduring misconceptions that t...</p></details>
 
 ### Additional References
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: lweb.cfa.harvard.edu  
-   Link: <a href="https://lweb.cfa.harvard.edu/education/k12.html" target="_blank" rel="noopener noreferrer nofollow">https://lweb.cfa.harvard.edu/education/k12.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>student misconceptions to physics, chemistry, and life science. Built around longer clips of science classroom activities and student...</p></details>
+   Link:<a href="https://lweb.cfa.harvard.edu/education/k12.html" target="_blank" rel="noopener noreferrer nofollow">https://lweb.cfa.harvard.edu/education/k12.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>student misconceptions to physics, chemistry, and life science. Built around longer clips of science classroom activities and student...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/234662855_Why_We_Have_Seasons_and_Other_Common_Misconceptions" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/234662855_Why_We_Have_Seasons_and_Other_Common_Misconceptions</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Why We Have Seasons and Other Common MisconceptionsThere is a substantial body of discipline-based education research demonstrating the d...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/234662855_Why_We_Have_Seasons_and_Other_Common_Misconceptions" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/234662855_Why_We_Have_Seasons_and_Other_Common_Misconceptions</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Why We Have Seasons and Other Common MisconceptionsThere is a substantial body of discipline-based education research demonstrating the d...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: nationalacademies.org  
-   Link: <a href="https://www.nationalacademies.org/read/5287/chapter/5" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalacademies.org/read/5287/chapter/5</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Descriptions and examples of some common misconceptions in science. Methods to identify misconceptions.Read more...</p></details>
+   Link:<a href="https://www.nationalacademies.org/read/5287/chapter/5" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalacademies.org/read/5287/chapter/5</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Descriptions and examples of some common misconceptions in science. Methods to identify misconceptions.Read more...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/314134259_Introduction_Misconceptions_in_Science_Education_An_Overview" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/314134259_Introduction_Misconceptions_in_Science_Education_An_Overview</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Misconceptions in Science Education: An OverviewStudent misconceptions must be addressed in a way that does not discredit a student&#x27;s ini...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/314134259_Introduction_Misconceptions_in_Science_Education_An_Overview" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/314134259_Introduction_Misconceptions_in_Science_Education_An_Overview</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Misconceptions in Science Education: An OverviewStudent misconceptions must be addressed in a way that does not discredit a student&#x27;s ini...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: openlearning.mit.edu  
    Title: cognitive science teaching and learning how people learn  
-   Link: <a href="https://openlearning.mit.edu/news/cognitive-science-teaching-and-learning-how-people-learn" target="_blank" rel="noopener noreferrer nofollow">https://openlearning.mit.edu/news/cognitive-science-teaching-and-learning-how-people-learn</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Cognitive Science of Teaching and Learning15 Oct 2018 — Apparently, a controlled study suggests that while learning a new method or infor...</p></details>
+   Link:<a href="https://openlearning.mit.edu/news/cognitive-science-teaching-and-learning-how-people-learn" target="_blank" rel="noopener noreferrer nofollow">https://openlearning.mit.edu/news/cognitive-science-teaching-and-learning-how-people-learn</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Cognitive Science of Teaching and Learning15 Oct 2018 — Apparently, a controlled study suggests that while learning a new method or infor...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: cambridge.org  
-   Link: <a href="https://www.cambridge.org/core/books/cambridge-handbook-of-the-learning-sciences/history-of-conceptual-change-research/D3902E2ACAA0764A9F3C92342B0E1499" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/books/cambridge-handbook-of-the-learning-sciences/history-of-conceptual-change-research/D3902E2ACAA0764A9F3C92342B0E1499</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ng as “critical barriers.” Others used different terms for the same idea...Read more...</p></details>
+   Link:<a href="https://www.cambridge.org/core/books/cambridge-handbook-of-the-learning-sciences/history-of-conceptual-change-research/D3902E2ACAA0764A9F3C92342B0E1499" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/books/cambridge-handbook-of-the-learning-sciences/history-of-conceptual-change-research/D3902E2ACAA0764A9F3C92342B0E1499</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ng as “critical barriers.” Others used different terms for the same idea...Read more...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: blogs.ubc.ca  
    Title: student misconceptions as their private universe  
-   Link: <a href="https://blogs.ubc.ca/etec533brendathomas/2023/01/17/student-misconceptions-as-their-private-universe/" target="_blank" rel="noopener noreferrer nofollow">https://blogs.ubc.ca/etec533brendathomas/2023/01/17/student-misconceptions-as-their-private-universe/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UBC BlogsStudent Misconceptions as Their Private Universe17 Jan 2023 — In A Private Universe, Heather, a 9 th grade student, is formulati...</p></details>
+   Link:<a href="https://blogs.ubc.ca/etec533brendathomas/2023/01/17/student-misconceptions-as-their-private-universe/" target="_blank" rel="noopener noreferrer nofollow">https://blogs.ubc.ca/etec533brendathomas/2023/01/17/student-misconceptions-as-their-private-universe/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UBC BlogsStudent Misconceptions as Their Private Universe17 Jan 2023 — In A Private Universe, Heather, a 9 th grade student, is formulati...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: nsta.org  
-   Link: <a href="https://www.nsta.org/science-scope/science-scope-january-2003/science-sampler-why-we-have-seasons-and-other-common?srsltid=AfmBOoqiKIk5DgxDR9tLlPnRaFLA4-fa3JY6gRYEobxuN7NHFwXM7q-b" target="_blank" rel="noopener noreferrer nofollow">https://www.nsta.org/science-scope/science-scope-january-2003/science-sampler-why-we-have-seasons-and-other-common?srsltid=AfmBOoqiKIk5DgxDR9tLlPnRaFLA4-fa3JY6gRYEobxuN7NHFwXM7q-b</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>eptions. This video is effective in capturing preservice teachers&#x27;...</p></details>
+   Link:<a href="https://www.nsta.org/science-scope/science-scope-january-2003/science-sampler-why-we-have-seasons-and-other-common?srsltid=AfmBOoqiKIk5DgxDR9tLlPnRaFLA4-fa3JY6gRYEobxuN7NHFwXM7q-b" target="_blank" rel="noopener noreferrer nofollow">https://www.nsta.org/science-scope/science-scope-january-2003/science-sampler-why-we-have-seasons-and-other-common?srsltid=AfmBOoqiKIk5DgxDR9tLlPnRaFLA4-fa3JY6gRYEobxuN7NHFwXM7q-b</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>eptions. This video is effective in capturing preservice teachers&#x27;...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: edutopia.org  
-   Link: <a href="https://www.edutopia.org/blog/how-people-learn-evidence-based-paul-bruno" target="_blank" rel="noopener noreferrer nofollow">https://www.edutopia.org/blog/how-people-learn-evidence-based-paul-bruno</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>them into their long-term [memory](&amp;#123;&amp;#123; &#x27;memory/&#x27; | relative_url &amp;#125;&amp;#125;). Read more...</p></details>
+   Link:<a href="https://www.edutopia.org/blog/how-people-learn-evidence-based-paul-bruno" target="_blank" rel="noopener noreferrer nofollow">https://www.edutopia.org/blog/how-people-learn-evidence-based-paul-bruno</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>them into their long-term [memory](&amp;#123;&amp;#123; &#x27;memory/&#x27; | relative_url &amp;#125;&amp;#125;). Read more...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: learningscientists.org  
-   Link: <a href="https://www.learningscientists.org/blog/2022/9/13-1" target="_blank" rel="noopener noreferrer nofollow">https://www.learningscientists.org/blog/2022/9/13-1</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Prior Knowledge and Learning New Information: The Rich...15 Sept 2022 — Every student comes into class with some type of prior knowledge...</p></details>
+   Link:<a href="https://www.learningscientists.org/blog/2022/9/13-1" target="_blank" rel="noopener noreferrer nofollow">https://www.learningscientists.org/blog/2022/9/13-1</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Prior Knowledge and Learning New Information: The Rich...15 Sept 2022 — Every student comes into class with some type of prior knowledge...</p></details>

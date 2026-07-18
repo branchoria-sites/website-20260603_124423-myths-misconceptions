@@ -504,15 +504,15 @@ image: /assets/images/Myths_and_misconcept_0d48d7_conceptual_change_le_bdc9ae-ov
 Conceptual change in science learning is the process by which learners replace or reorganise a mistaken explanation, rather than simply memorising a correct fact beside it. This matters because many science misconceptions are not random slips. They are often coherent, experience-based models: heavy things fall faster, seasons happen because Earth is nearer the Sun, plants “eat” soil, electric current is “used up” as it travels round a circuit. These ideas can feel sensible because they explain everyday observations, even when they [conflict]({{ 'conflict/' | relative_url }}) with scientific accounts.
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_conceptual_change_le_bdc9ae-overview.webp" | relative_url }}" alt="Overview image for Concept Change" loading="eager" decoding="sync" fetchpriority="high">
-The practical lesson for schools is clear: telling students the right answer is rarely enough. Effective conceptual change usually requires three moves. First, teachers need to make the learner’s existing model visible. Second, students need a reason to see the limits of that model. Third, the class needs a better explanation that is intelligible, useful and revisited in enough contexts to become the learner’s new way of thinking. The classic conceptual change account by Posner, Strike, Hewson and Gertzog described learning as an interaction between new teaching and the learner’s current ideas, not as a simple transfer of information. <span class="citation-chip-wrap"><a class="citation-chip" href="https://eclass.uoa.gr/modules/document/file.php/PHS122/%CE%91%CF%81%CE%B8%CF%81%CE%B1/Posner_Strike_Hewson_Gertzog.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eclass.uoa.gr">[eClass UOA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eclass.uoa.gr</span><span class="citation-popover-title">e Class UOAAccommodation of a scientific conception: Toward a theory</span><span class="citation-popover-snippet">Accommodation of a scientific conception: Toward a theory...August 22, 2006 — by GJ POSNER · Cited by 10835 — It has become a...</span><span class="citation-popover-meta">Published: August 22, 2006</span></span></span>
+The practical lesson for schools is clear: telling students the right answer is rarely enough. Effective conceptual change usually requires three moves. First, teachers need to make the learner’s existing model visible. Second, students need a reason to see the limits of that model. Third, the class needs a better explanation that is intelligible, useful and revisited in enough contexts to become the learner’s new way of thinking. The classic conceptual change account by Posner, Strike, Hewson and Gertzog described learning as an interaction between new teaching and the learner’s current ideas, not as a simple transfer of information.<span class="citation-chip-wrap"><a class="citation-chip" href="https://eclass.uoa.gr/modules/document/file.php/PHS122/%CE%91%CF%81%CE%B8%CF%81%CE%B1/Posner_Strike_Hewson_Gertzog.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eclass.uoa.gr">[eClass UOA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eclass.uoa.gr</span><span class="citation-popover-title">e Class UOAAccommodation of a scientific conception: Toward a theory</span><span class="citation-popover-snippet">Accommodation of a scientific conception: Toward a theory...August 22, 2006 — by GJ POSNER · Cited by 10835 — It has become a...</span><span class="citation-popover-meta">Published: August 22, 2006</span></span></span>
 
 ## Why wrong science ideas can be coherent
 
 A misconception in science can look like a single wrong answer, but it often rests on a deeper explanatory structure. A student who says summer is warmer because Earth is closer to the Sun is not merely misremembering a sentence from class. They are using a plausible everyday rule: closer heat sources feel warmer. The difficulty is that the rule is being applied to a system where axial tilt, sunlight angle and day length matter more than distance.
 
-This is why conceptual change is harder than [correction]({{ 'correction/' | relative_url }}). The National Research Council’s *How People Learn* stressed that students come to classrooms with prior knowledge, and that this prior knowledge shapes how they notice, interpret and remember new teaching. If those initial understandings are not engaged, learners may fail to grasp new concepts, may learn them only for tests, or may interpret new information through the old model. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalacademies.org/publications/9853" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalacademies.org">[National Academies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalacademies.org</span><span class="citation-popover-snippet">National AcademiesHow People Learn: Brain, Mind, Experience, and Schoolby National Research Council · 1999 · Cited by 6127 — This edition...</span></span></span>
+This is why conceptual change is harder than [correction]({{ 'correction/' | relative_url }}). The National Research Council’s *How People Learn* stressed that students come to classrooms with prior knowledge, and that this prior knowledge shapes how they notice, interpret and remember new teaching. If those initial understandings are not engaged, learners may fail to grasp new concepts, may learn them only for tests, or may interpret new information through the old model.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalacademies.org/publications/9853" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalacademies.org">[National Academies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalacademies.org</span><span class="citation-popover-snippet">National AcademiesHow People Learn: Brain, Mind, Experience, and Schoolby National Research Council · 1999 · Cited by 6127 — This edition...</span></span></span>
 
-A well-known illustration comes from *A [Private Universe]({{ 'private-universe/' | relative_url }})*, the science education documentary built around interviews about seasons and moon phases. Its educational value is not that some high-achieving students got astronomy questions wrong; it is that their answers revealed stable private explanations which had survived years of schooling. The Annenberg Learner description frames the problem directly: even bright students may retain false ideas about basic science when traditional instruction does not surface and reconstruct those ideas. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.learner.org/series/a-private-universe/1-a-private-universe/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: learner.org">[Annenberg Learner]</a><span class="citation-popover" role="note"><span class="citation-popover-source">learner.org</span><span class="citation-popover-snippet">Annenberg LearnerA Private UniverseThis video brings into sharp focus the dilemma facing all educators: Why don&#x27;t even the brightest stud...</span></span></span>
+A well-known illustration comes from *A [Private Universe]({{ 'private-universe/' | relative_url }})*, the science education documentary built around interviews about seasons and moon phases. Its educational value is not that some high-achieving students got astronomy questions wrong; it is that their answers revealed stable private explanations which had survived years of schooling. The Annenberg Learner description frames the problem directly: even bright students may retain false ideas about basic science when traditional instruction does not surface and reconstruct those ideas.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.learner.org/series/a-private-universe/1-a-private-universe/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: learner.org">[Annenberg Learner]</a><span class="citation-popover" role="note"><span class="citation-popover-source">learner.org</span><span class="citation-popover-snippet">Annenberg LearnerA Private UniverseThis video brings into sharp focus the dilemma facing all educators: Why don&#x27;t even the brightest stud...</span></span></span>
 
 For teachers, this changes the diagnosis. The issue is not “students did not listen” or “students lack facts”. Often, students are trying to make sense of science using models that work well enough in everyday life. Conceptual change begins by treating those models as serious objects for instruction.
 
@@ -522,7 +522,7 @@ The most important implementation shift is to stop treating misconceptions as is
 
 In physics, a learner may think a moving object needs a continuing force to keep it going, because everyday objects slow down when pushes stop. In biology, students may imagine evolution as individual organisms deliberately adapting because everyday language says animals “develop traits to survive”. In chemistry, students may treat particles as tiny versions of visible substances, so that particles of a coloured substance are imagined as themselves coloured. These ideas are wrong in scientific terms, but they are not foolish. They are built from perception, language, analogy and prior teaching.
 
-Research overviews of conceptual change theories describe this as a “conceptual ecology”: ideas are connected to other ideas, categories and beliefs about what counts as an explanation. That means replacing one misconception may require adjusting a wider network. A learner cannot fully replace “current is used up” in circuits without also building a better model of current, energy transfer, potential difference and conservation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ejmste.com/download/an-overview-of-conceptual-changetheories-4082.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ejmste.com">[Eurasia Journal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ejmste.com</span><span class="citation-popover-title">In other.Read more</span><span class="citation-popover-snippet">Eurasia JournalAn Overview of Conceptual Change TheoriesOctober 17, 2007 — by G Özdemir · 2007 · Cited by 567 — Misconceptions are theref...</span><span class="citation-popover-meta">Published: October 17, 2007</span></span></span>
+Research overviews of conceptual change theories describe this as a “conceptual ecology”: ideas are connected to other ideas, categories and beliefs about what counts as an explanation. That means replacing one misconception may require adjusting a wider network. A learner cannot fully replace “current is used up” in circuits without also building a better model of current, energy transfer, potential difference and conservation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ejmste.com/download/an-overview-of-conceptual-changetheories-4082.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ejmste.com">[Eurasia Journal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ejmste.com</span><span class="citation-popover-title">In other.Read more</span><span class="citation-popover-snippet">Eurasia JournalAn Overview of Conceptual Change TheoriesOctober 17, 2007 — by G Özdemir · 2007 · Cited by 567 — Misconceptions are theref...</span><span class="citation-popover-meta">Published: October 17, 2007</span></span></span>
 
 This is also why some students appear to “know” the right answer while still reasoning with the old model. They may repeat that seasons are caused by Earth’s tilt, but when asked to explain a diagram or predict conditions in another hemisphere, the distance-from-the-Sun model returns. Conceptual change is not secure until the new explanation works across examples, diagrams, predictions and unfamiliar cases.
 
@@ -533,7 +533,7 @@ A useful classroom question is therefore not only “Can the student state the c
 
 Conceptual change usually starts with evidence of thinking, not with a lecture. Teachers need ways to find out what students currently believe before selecting an intervention. Diagnostic questions are especially useful because they can be designed so that each wrong option corresponds to a known misconception.
 
-The Best Evidence Science Teaching project, developed through the University of York Science Education Group and hosted by STEM Learning, is a practical example of this approach. Its resources are built from research on common misunderstandings, diagnostic questioning, formative assessment and sequenced progression in key secondary science concepts. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.york.ac.uk/education/research/uyseg/research-projects/bestevidencescienceteaching/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: york.ac.uk">[University of York]</a><span class="citation-popover" role="note"><span class="citation-popover-source">york.ac.uk</span><span class="citation-popover-title">University of York Best Evidence Science Teaching</span><span class="citation-popover-snippet">University of York Best Evidence Science Teaching</span></span></span>
+The Best Evidence Science Teaching project, developed through the University of York Science Education Group and hosted by STEM Learning, is a practical example of this approach. Its resources are built from research on common misunderstandings, diagnostic questioning, formative assessment and sequenced progression in key secondary science concepts.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.york.ac.uk/education/research/uyseg/research-projects/bestevidencescienceteaching/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: york.ac.uk">[University of York]</a><span class="citation-popover" role="note"><span class="citation-popover-source">york.ac.uk</span><span class="citation-popover-title">University of York Best Evidence Science Teaching</span><span class="citation-popover-snippet">University of York Best Evidence Science Teaching</span></span></span>
 
 A good diagnostic question does more than check recall. It gives the teacher information about the model behind the answer. For example, a question about why a metal spoon feels colder than a wooden spoon at the same room temperature can reveal whether students understand thermal conductivity or believe that metals are inherently “colder”. The response then needs to be planned around the misconception exposed, not around a generic reteaching of the whole topic.
 
@@ -556,7 +556,7 @@ Several practical routines support this:
 
 One common strategy for conceptual change is cognitive conflict: students make a prediction, observe a result that does not fit their model, and then reconsider the explanation. This can be powerful. A student who thinks heavier objects always fall faster may be unsettled by a demonstration in which objects behave differently from their prediction. A student who thinks plants get most of their mass from soil may need evidence about gases, water and photosynthesis to see why that model is incomplete.
 
-But cognitive conflict is not magic. Students can ignore anomalous evidence, reinterpret it, blame the equipment, treat it as a special case, or memorise the teacher’s explanation without changing their own. Research summaries of conceptual change have repeatedly warned against seeing it as a sudden dramatic replacement of one idea by another. Later accounts stress that change can be slow, partial and context-dependent. <span class="citation-chip-wrap"><a class="citation-chip" href="https://api.pageplace.de/preview/DT0400.9781136578212_A24435677/preview-9781136578212_A24435677.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: api.pageplace.de">[PagePlace]</a><span class="citation-popover" role="note"><span class="citation-popover-source">api.pageplace.de</span><span class="citation-popover-title">Page Place International Handbook of Research on Conceptual Change</span><span class="citation-popover-snippet">Page Place International Handbook of Research on Conceptual Change</span></span></span>
+But cognitive conflict is not magic. Students can ignore anomalous evidence, reinterpret it, blame the equipment, treat it as a special case, or memorise the teacher’s explanation without changing their own. Research summaries of conceptual change have repeatedly warned against seeing it as a sudden dramatic replacement of one idea by another. Later accounts stress that change can be slow, partial and context-dependent.<span class="citation-chip-wrap"><a class="citation-chip" href="https://api.pageplace.de/preview/DT0400.9781136578212_A24435677/preview-9781136578212_A24435677.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: api.pageplace.de">[PagePlace]</a><span class="citation-popover" role="note"><span class="citation-popover-source">api.pageplace.de</span><span class="citation-popover-title">Page Place International Handbook of Research on Conceptual Change</span><span class="citation-popover-snippet">Page Place International Handbook of Research on Conceptual Change</span></span></span>
 
 That matters for implementation. A discrepant event should not be a classroom trick where the teacher simply reveals that students were wrong. It needs careful framing:
 
@@ -577,9 +577,9 @@ Without the final steps, cognitive conflict can create confusion rather than und
 
 A misconception leaves a gap when it is removed. If instruction only says “that is wrong”, learners may keep using the old idea because it still explains something for them. Conceptual change therefore depends on replacement explanations that students can understand and use.
 
-The classic Posner model argued that a new conception is more likely to be accepted when the learner becomes dissatisfied with the old one and finds the new one intelligible, plausible and fruitful. “Fruitful” is especially important: the new idea must help the learner solve problems, make predictions and connect cases better than the old idea did. <span class="citation-chip-wrap"><a class="citation-chip" href="https://eclass.uoa.gr/modules/document/file.php/PHS122/%CE%91%CF%81%CE%B8%CF%81%CE%B1/Posner_Strike_Hewson_Gertzog.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eclass.uoa.gr">[eClass UOA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eclass.uoa.gr</span><span class="citation-popover-title">e Class UOAAccommodation of a scientific conception: Toward a theory</span><span class="citation-popover-snippet">Accommodation of a scientific conception: Toward a theory...August 22, 2006 — by GJ POSNER · Cited by 10835 — It has become a...</span><span class="citation-popover-meta">Published: August 22, 2006</span></span></span>
+The classic Posner model argued that a new conception is more likely to be accepted when the learner becomes dissatisfied with the old one and finds the new one intelligible, plausible and fruitful. “Fruitful” is especially important: the new idea must help the learner solve problems, make predictions and connect cases better than the old idea did.<span class="citation-chip-wrap"><a class="citation-chip" href="https://eclass.uoa.gr/modules/document/file.php/PHS122/%CE%91%CF%81%CE%B8%CF%81%CE%B1/Posner_Strike_Hewson_Gertzog.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eclass.uoa.gr">[eClass UOA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eclass.uoa.gr</span><span class="citation-popover-title">e Class UOAAccommodation of a scientific conception: Toward a theory</span><span class="citation-popover-snippet">Accommodation of a scientific conception: Toward a theory...August 22, 2006 — by GJ POSNER · Cited by 10835 — It has become a...</span><span class="citation-popover-meta">Published: August 22, 2006</span></span></span>
 
-Refutation text is one evidence-supported way to do this. A refutation text explicitly names a common misconception, explains why it is tempting or wrong, and then presents the scientific explanation. A 2022 meta-analysis found that [refutation texts]({{ 'refutation-texts/' | relative_url }}) facilitate learning, with the structure working by confronting false beliefs rather than merely presenting correct information beside them. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8784251/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Refutation text is one evidence-supported way to do this. A refutation text explicitly names a common misconception, explains why it is tempting or wrong, and then presents the scientific explanation. A 2022 meta-analysis found that [refutation texts]({{ 'refutation-texts/' | relative_url }}) facilitate learning, with the structure working by confronting false beliefs rather than merely presenting correct information beside them.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8784251/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 For example, a weak textbook paragraph might say: “The seasons are caused by the tilt of Earth’s axis.” A stronger refutation version would add: “Many people think summer happens because Earth is closer to the Sun. That cannot explain why it is summer in the northern hemisphere while it is winter in the southern hemisphere. The better explanation is that Earth’s tilted axis changes the angle and duration of sunlight reaching each hemisphere during the year.”
 
@@ -600,13 +600,13 @@ Good replacement explanations often have these features:
 
 The research base does not support one universal conceptual change technique. Instead, it points towards a family of approaches: diagnostic assessment, refutation, analogy, model comparison, cognitive conflict, discussion, prediction, explanation and carefully sequenced practice.
 
-A recent meta-analysis in the *Journal of Research in Science Teaching* concluded that conceptual change strategies significantly improve science learning, while also distinguishing between approaches such as cognitive conflict, cognitive bridging and ontological category shift. That distinction matters because different misconceptions have different roots. Some require students to revise a belief; others require them to reclassify a concept, such as understanding heat not as a material substance but as energy transfer. <span class="citation-chip-wrap"><a class="citation-chip" href="https://open.metu.edu.tr/bitstream/handle/11511/104711/J%20Res%20Sci%20Teach%20-%202023%20-%20Pacaci%20-%20Effectiveness%20of%20conceptual%20change%20strategies%20in%20science%20education%20A%20meta%E2%80%90analysis.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: open.metu.edu.tr">[OpenMETU]</a><span class="citation-popover" role="note"><span class="citation-popover-source">open.metu.edu.tr</span><span class="citation-popover-title">Open METUEffectiveness of conceptual change strategies in science</span><span class="citation-popover-snippet">Open METUEffectiveness of conceptual change strategies in science</span></span></span>
+A recent meta-analysis in the *Journal of Research in Science Teaching* concluded that conceptual change strategies significantly improve science learning, while also distinguishing between approaches such as cognitive conflict, cognitive bridging and ontological category shift. That distinction matters because different misconceptions have different roots. Some require students to revise a belief; others require them to reclassify a concept, such as understanding heat not as a material substance but as energy transfer.<span class="citation-chip-wrap"><a class="citation-chip" href="https://open.metu.edu.tr/bitstream/handle/11511/104711/J%20Res%20Sci%20Teach%20-%202023%20-%20Pacaci%20-%20Effectiveness%20of%20conceptual%20change%20strategies%20in%20science%20education%20A%20meta%E2%80%90analysis.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: open.metu.edu.tr">[OpenMETU]</a><span class="citation-popover" role="note"><span class="citation-popover-source">open.metu.edu.tr</span><span class="citation-popover-title">Open METUEffectiveness of conceptual change strategies in science</span><span class="citation-popover-snippet">Open METUEffectiveness of conceptual change strategies in science</span></span></span>
 
-Biology shows the range of the problem. A 2023 systematic review and meta-analysis of conceptual change research in biology found that evolution and photosynthesis were among the most commonly studied topics. That is unsurprising: both topics are rich in everyday misconceptions, from purposeful adaptation in evolution to simplified ideas about plants “feeding” from soil. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S1747938X23000490" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Biology shows the range of the problem. A 2023 systematic review and meta-analysis of conceptual change research in biology found that evolution and photosynthesis were among the most commonly studied topics. That is unsurprising: both topics are rich in everyday misconceptions, from purposeful adaptation in evolution to simplified ideas about plants “feeding” from soil.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S1747938X23000490" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 The implication for teachers and curriculum leaders is that conceptual change should be planned at topic level. A generic instruction to “address misconceptions” is too weak. Departments need to know which misconceptions are common in each unit, how those misconceptions appear in student explanations, which diagnostic questions expose them, and which activities help students build the replacement model.
 
-This is where open-access, research-informed resources can reduce workload. BEST, for instance, organises resources around learning progression, diagnostic questions and response activities, making conceptual change less dependent on each teacher individually rediscovering the research literature. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ase.org.uk/system/files/SSR_December_2020_055-063_Atkinson.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ase.org.uk">[www.ase.org.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ase.org.uk</span><span class="citation-popover-title">www.ase.org.uk Best Evidence Science Teaching: research</span><span class="citation-popover-snippet">www.ase.org.uk Best Evidence Science Teaching: research</span></span></span>
+This is where open-access, research-informed resources can reduce workload. BEST, for instance, organises resources around learning progression, diagnostic questions and response activities, making conceptual change less dependent on each teacher individually rediscovering the research literature.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ase.org.uk/system/files/SSR_December_2020_055-063_Atkinson.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ase.org.uk">[www.ase.org.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ase.org.uk</span><span class="citation-popover-title">www.ase.org.uk Best Evidence Science Teaching: research</span><span class="citation-popover-snippet">www.ase.org.uk Best Evidence Science Teaching: research</span></span></span>
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_conceptual_change_le_bdc9ae-Illustration-3-dark.svg" | relative_url }}" alt="Concept Change illustration 3" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_conceptual_change_le_bdc9ae-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_conceptual_change_le_bdc9ae-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Common implementation mistakes
@@ -631,7 +631,7 @@ The deeper point is that misconceptions are often adaptive. They helped the lear
 
 Conceptual change has practical consequences for how science education is organised. It argues against curriculum models that treat learning as a straight line through content coverage. If misconceptions are durable models, then science programmes need planned opportunities to elicit, challenge, rebuild and revisit ideas.
 
-For curriculum design, that means key concepts should be sequenced with known misconceptions in mind. For assessment, it means diagnostic and formative tasks need status alongside summative tests. For teacher development, it means subject knowledge must include knowledge of how students commonly misunderstand the subject. The National Academies’ work on learning emphasises that prior knowledge affects new learning; science policy that ignores this leaves teachers trying to build new understanding on unstable foundations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalacademies.org/publications/9853" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalacademies.org">[National Academies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalacademies.org</span><span class="citation-popover-snippet">National AcademiesHow People Learn: Brain, Mind, Experience, and Schoolby National Research Council · 1999 · Cited by 6127 — This edition...</span></span></span>
+For curriculum design, that means key concepts should be sequenced with known misconceptions in mind. For assessment, it means diagnostic and formative tasks need status alongside summative tests. For teacher development, it means subject knowledge must include knowledge of how students commonly misunderstand the subject. The National Academies’ work on learning emphasises that prior knowledge affects new learning; science policy that ignores this leaves teachers trying to build new understanding on unstable foundations.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalacademies.org/publications/9853" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalacademies.org">[National Academies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalacademies.org</span><span class="citation-popover-snippet">National AcademiesHow People Learn: Brain, Mind, Experience, and Schoolby National Research Council · 1999 · Cited by 6127 — This edition...</span></span></span>
 
 The intervention logic is not expensive or exotic. It is disciplined:
 
@@ -649,194 +649,194 @@ The intervention logic is not expensive or exotic. It is disciplined:
 This is why conceptual change belongs at the centre of myths and misconceptions in science learning. A myth can be debunked with a correction; a misconception often has to be rebuilt from the inside.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How Learners Replace Wrong Ideas. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How Learners Replace Wrong Ideas. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+Learning+Happens+by+Paul+A.+Kirschner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How Learning Happens on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=PdnzEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How Learning Happens" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+Learning+Happens+by+Paul+A.+Kirschner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How Learning Happens">How Learning Happens</a>
-        </h4>
-        <p class="fr-book-author">By Paul A. Kirschner, Carl Hendrick</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+Learning+Happens+by+Paul+A.+Kirschner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How Learning Happens on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=PdnzEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How Learning Happens" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=How+Learning+Happens+by+Paul+A.+Kirschner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How Learning Happens">How Learning Happens</a>
+</h4>
+<p class="fr-book-author">By Paul A. Kirschner, Carl Hendrick</p>
         
-        <p class="fr-book-desc">Covers misconceptions and conceptual change through research.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+Learning+Happens+by+Paul+A.+Kirschner&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers misconceptions and conceptual change through research.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=How+Learning+Happens+by+Paul+A.+Kirschner&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Factfulness+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Factfulness on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=rxg0tgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Factfulness" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Factfulness+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Factfulness">Factfulness</a>
-        </h4>
-        <p class="fr-book-author">By Hans Rosling, Ola Rosling et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Factfulness+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Factfulness on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=rxg0tgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Factfulness" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Factfulness+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Factfulness">Factfulness</a>
+</h4>
+<p class="fr-book-author">By Hans Rosling, Ola Rosling et al.</p>
         
-        <p class="fr-book-desc">Challenges common misconceptions with evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Factfulness+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Challenges common misconceptions with evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Factfulness+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Why+Don%27t+Students+Like+School%3F+by+Daniel+T.+Willingham&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Why Don&#x27;t Students Like School? on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=kuEmEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Why Don&#x27;t Students Like School?" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Why+Don%27t+Students+Like+School%3F+by+Daniel+T.+Willingham&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Why Don&#x27;t Students Like School?">Why Don&#x27;t Students Like School?</a>
-        </h4>
-        <p class="fr-book-author">By Daniel T. Willingham</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Why+Don%27t+Students+Like+School%3F+by+Daniel+T.+Willingham&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Why Don&#x27;t Students Like School? on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=kuEmEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Why Don&#x27;t Students Like School?" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Why+Don%27t+Students+Like+School%3F+by+Daniel+T.+Willingham&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Why Don&#x27;t Students Like School?">Why Don&#x27;t Students Like School?</a>
+</h4>
+<p class="fr-book-author">By Daniel T. Willingham</p>
         
-        <p class="fr-book-desc">Explains how prior thinking shapes learning.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Why+Don%27t+Students+Like+School%3F+by+Daniel+T.+Willingham&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains how prior thinking shapes learning.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Why+Don%27t+Students+Like+School%3F+by+Daniel+T.+Willingham&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+people+learn+National+Research+Council+%28U.S.%29.+Committee+on+Learning+Research+and+Educational+Practice.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How people learn on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/168978-M.jpg" alt="Cover for How people learn" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+people+learn+National+Research+Council+%28U.S.%29.+Committee+on+Learning+Research+and+Educational+Practice.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How people learn">How people learn</a>
-        </h4>
-        <p class="fr-book-author">By National Research Council (U.S.). Committee on Learning Research and Educational Practice.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+people+learn+National+Research+Council+%28U.S.%29.+Committee+on+Learning+Research+and+Educational+Practice.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How people learn on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/168978-M.jpg" alt="Cover for How people learn" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=How+people+learn+National+Research+Council+%28U.S.%29.+Committee+on+Learning+Research+and+Educational+Practice.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How people learn">How people learn</a>
+</h4>
+<p class="fr-book-author">By National Research Council (U.S.). Committee on Learning Research and Educational Practice.</p>
         
-        <p class="fr-book-desc">First published 1999. Subjects: Learning, Psychology of Learning, Research, Social aspects, Social aspects of Learning.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+people+learn+National+Research+Council+%28U.S.%29.+Committee+on+Learning+Research+and+Educational+Practice.&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1999. Subjects: Learning, Psychology of Learning, Research, Social aspects, Social aspects of Learning.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=How+people+learn+National+Research+Council+%28U.S.%29.+Committee+on+Learning+Research+and+Educational+Practice.&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+Learning+Happens&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How Learning Happens</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Factfulness&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Factfulness</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Why+Don%27t+Students+Like+School%3F&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Why Don&#x27;t Students Like School?</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=How+Learning+Happens&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How Learning Happens</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Factfulness&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Factfulness</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Why+Don%27t+Students+Like+School%3F&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Why Don&#x27;t Students Like School?</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=brain+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=concept-change-how-learners-replace-wrong-ideas-myths-and-misconcept-brain-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="brain poster" data-ebay-reference="concept-change-how-learners-replace-wrong-ideas-myths-and-misconcept-brain-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Brain Rot Characters Poster Viral Meme Neon Print Kids Teens Wall Art"><img src="{{ '/assets/images/marketplace-covers/b033c98d5eaf10c1e4b2.jpg' | relative_url }}" alt="Listing image for Brain Rot Characters Poster Viral Meme Neon Print Kids Teens Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=brain+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=concept-change-how-learners-replace-wrong-ideas-myths-and-misconcept-brain-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="brain poster" data-ebay-reference="concept-change-how-learners-replace-wrong-ideas-myths-and-misconcept-brain-poster" target="_blank" rel="sponsored noopener noreferrer">Brain Rot Characters Poster Viral Meme Neon Print Kids Teens Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=brain+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=concept-change-how-learners-replace-wrong-ideas-myths-and-misconcept-brain-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="brain poster" data-ebay-reference="concept-change-how-learners-replace-wrong-ideas-myths-and-misconcept-brain-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for brain poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: brain poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=brain+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=concept-change-how-learners-replace-wrong-ideas-myths-and-misconcept-brain-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="brain poster" data-ebay-reference="concept-change-how-learners-replace-wrong-ideas-myths-and-misconcept-brain-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=brain+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=concept-change-how-learners-replace-wrong-ideas-myths-and-misconcept-brain-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="brain poster" data-ebay-reference="concept-change-how-learners-replace-wrong-ideas-myths-and-misconcept-brain-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Brain Rot Characters Poster Viral Meme Neon Print Kids Teens Wall Art"><img src="{{ '/assets/images/marketplace-covers/b033c98d5eaf10c1e4b2.jpg' | relative_url }}" alt="Listing image for Brain Rot Characters Poster Viral Meme Neon Print Kids Teens Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=brain+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=concept-change-how-learners-replace-wrong-ideas-myths-and-misconcept-brain-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="brain poster" data-ebay-reference="concept-change-how-learners-replace-wrong-ideas-myths-and-misconcept-brain-poster" target="_blank" rel="sponsored noopener noreferrer">Brain Rot Characters Poster Viral Meme Neon Print Kids Teens Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=brain+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=concept-change-how-learners-replace-wrong-ideas-myths-and-misconcept-brain-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="brain poster" data-ebay-reference="concept-change-how-learners-replace-wrong-ideas-myths-and-misconcept-brain-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for brain poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: brain poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=brain+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=concept-change-how-learners-replace-wrong-ideas-myths-and-misconcept-brain-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="brain poster" data-ebay-reference="concept-change-how-learners-replace-wrong-ideas-myths-and-misconcept-brain-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=brain+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=concept-change-how-learners-replace-wrong-ideas-myths-and-misconcept-brain-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="brain poster" data-ebay-reference="concept-change-how-learners-replace-wrong-ideas-myths-and-misconcept-brain-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Brain Rot Poster Funny Characters Neon Bedroom Art Viral Meme Decor"><img src="{{ '/assets/images/marketplace-covers/d6c22b8c7eef61a6537b.jpg' | relative_url }}" alt="Listing image for Brain Rot Poster Funny Characters Neon Bedroom Art Viral Meme Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=brain+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=concept-change-how-learners-replace-wrong-ideas-myths-and-misconcept-brain-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="brain poster" data-ebay-reference="concept-change-how-learners-replace-wrong-ideas-myths-and-misconcept-brain-poster" target="_blank" rel="sponsored noopener noreferrer">Brain Rot Poster Funny Characters Neon Bedroom Art Viral Meme Decor</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=brain+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=concept-change-how-learners-replace-wrong-ideas-myths-and-misconcept-brain-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="brain poster" data-ebay-reference="concept-change-how-learners-replace-wrong-ideas-myths-and-misconcept-brain-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for brain poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: brain poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=brain+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=concept-change-how-learners-replace-wrong-ideas-myths-and-misconcept-brain-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="brain poster" data-ebay-reference="concept-change-how-learners-replace-wrong-ideas-myths-and-misconcept-brain-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=brain+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=concept-change-how-learners-replace-wrong-ideas-myths-and-misconcept-brain-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="brain poster" data-ebay-reference="concept-change-how-learners-replace-wrong-ideas-myths-and-misconcept-brain-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Brain Rot Poster Funny Characters Neon Bedroom Art Viral Meme Decor"><img src="{{ '/assets/images/marketplace-covers/d6c22b8c7eef61a6537b.jpg' | relative_url }}" alt="Listing image for Brain Rot Poster Funny Characters Neon Bedroom Art Viral Meme Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=brain+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=concept-change-how-learners-replace-wrong-ideas-myths-and-misconcept-brain-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="brain poster" data-ebay-reference="concept-change-how-learners-replace-wrong-ideas-myths-and-misconcept-brain-poster" target="_blank" rel="sponsored noopener noreferrer">Brain Rot Poster Funny Characters Neon Bedroom Art Viral Meme Decor</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=brain+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=concept-change-how-learners-replace-wrong-ideas-myths-and-misconcept-brain-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="brain poster" data-ebay-reference="concept-change-how-learners-replace-wrong-ideas-myths-and-misconcept-brain-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for brain poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: brain poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=brain+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=concept-change-how-learners-replace-wrong-ideas-myths-and-misconcept-brain-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="brain poster" data-ebay-reference="concept-change-how-learners-replace-wrong-ideas-myths-and-misconcept-brain-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=brain+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=concept-change-how-learners-replace-wrong-ideas-myths-and-misconcept-brain-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="brain poster" data-ebay-reference="concept-change-how-learners-replace-wrong-ideas-myths-and-misconcept-brain-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage Ciba-Geigy 3D Anatomical Poster Set - Brain, Heart &amp; Lung - Medical Reli"><img src="{{ '/assets/images/marketplace-covers/ce5aa72deba65537477a.jpg' | relative_url }}" alt="Listing image for Vintage Ciba-Geigy 3D Anatomical Poster Set - Brain, Heart &amp; Lung - Medical Reli" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=brain+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=concept-change-how-learners-replace-wrong-ideas-myths-and-misconcept-brain-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="brain poster" data-ebay-reference="concept-change-how-learners-replace-wrong-ideas-myths-and-misconcept-brain-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage Ciba-Geigy 3D Anatomical Poster Set - Brain, Heart &amp; Lung - Medical Reli</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=brain+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=concept-change-how-learners-replace-wrong-ideas-myths-and-misconcept-brain-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="brain poster" data-ebay-reference="concept-change-how-learners-replace-wrong-ideas-myths-and-misconcept-brain-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for brain poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: brain poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=brain+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=concept-change-how-learners-replace-wrong-ideas-myths-and-misconcept-brain-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="brain poster" data-ebay-reference="concept-change-how-learners-replace-wrong-ideas-myths-and-misconcept-brain-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=brain+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=concept-change-how-learners-replace-wrong-ideas-myths-and-misconcept-brain-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="brain poster" data-ebay-reference="concept-change-how-learners-replace-wrong-ideas-myths-and-misconcept-brain-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage Ciba-Geigy 3D Anatomical Poster Set - Brain, Heart &amp; Lung - Medical Reli"><img src="{{ '/assets/images/marketplace-covers/ce5aa72deba65537477a.jpg' | relative_url }}" alt="Listing image for Vintage Ciba-Geigy 3D Anatomical Poster Set - Brain, Heart &amp; Lung - Medical Reli" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=brain+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=concept-change-how-learners-replace-wrong-ideas-myths-and-misconcept-brain-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="brain poster" data-ebay-reference="concept-change-how-learners-replace-wrong-ideas-myths-and-misconcept-brain-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage Ciba-Geigy 3D Anatomical Poster Set - Brain, Heart &amp; Lung - Medical Reli</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=brain+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=concept-change-how-learners-replace-wrong-ideas-myths-and-misconcept-brain-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="brain poster" data-ebay-reference="concept-change-how-learners-replace-wrong-ideas-myths-and-misconcept-brain-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for brain poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: brain poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=brain+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=concept-change-how-learners-replace-wrong-ideas-myths-and-misconcept-brain-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="brain poster" data-ebay-reference="concept-change-how-learners-replace-wrong-ideas-myths-and-misconcept-brain-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=brain+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=concept-change-how-learners-replace-wrong-ideas-myths-and-misconcept-brain-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="brain poster" data-ebay-reference="concept-change-how-learners-replace-wrong-ideas-myths-and-misconcept-brain-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Brain medic Framed Art Print Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/ea37225ba47daaddc67e.jpg' | relative_url }}" alt="Listing image for Brain medic Framed Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=brain+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=concept-change-how-learners-replace-wrong-ideas-myths-and-misconcept-brain-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="brain poster" data-ebay-reference="concept-change-how-learners-replace-wrong-ideas-myths-and-misconcept-brain-poster" target="_blank" rel="sponsored noopener noreferrer">Brain medic Framed Art Print Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=brain+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=concept-change-how-learners-replace-wrong-ideas-myths-and-misconcept-brain-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="brain poster" data-ebay-reference="concept-change-how-learners-replace-wrong-ideas-myths-and-misconcept-brain-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for brain poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: brain poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=brain+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=concept-change-how-learners-replace-wrong-ideas-myths-and-misconcept-brain-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="brain poster" data-ebay-reference="concept-change-how-learners-replace-wrong-ideas-myths-and-misconcept-brain-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=brain+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=concept-change-how-learners-replace-wrong-ideas-myths-and-misconcept-brain-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="brain poster" data-ebay-reference="concept-change-how-learners-replace-wrong-ideas-myths-and-misconcept-brain-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=brain+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=concept-change-how-learners-replace-wrong-ideas-myths-and-misconcept-brain-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="brain poster" data-ebay-reference="concept-change-how-learners-replace-wrong-ideas-myths-and-misconcept-brain-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Brain medic Framed Art Print Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/ea37225ba47daaddc67e.jpg' | relative_url }}" alt="Listing image for Brain medic Framed Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=brain+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=concept-change-how-learners-replace-wrong-ideas-myths-and-misconcept-brain-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="brain poster" data-ebay-reference="concept-change-how-learners-replace-wrong-ideas-myths-and-misconcept-brain-poster" target="_blank" rel="sponsored noopener noreferrer">Brain medic Framed Art Print Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=brain+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=concept-change-how-learners-replace-wrong-ideas-myths-and-misconcept-brain-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="brain poster" data-ebay-reference="concept-change-how-learners-replace-wrong-ideas-myths-and-misconcept-brain-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for brain poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: brain poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=brain+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=concept-change-how-learners-replace-wrong-ideas-myths-and-misconcept-brain-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="brain poster" data-ebay-reference="concept-change-how-learners-replace-wrong-ideas-myths-and-misconcept-brain-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=brain+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=concept-change-how-learners-replace-wrong-ideas-myths-and-misconcept-brain-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="brain poster" data-ebay-reference="concept-change-how-learners-replace-wrong-ideas-myths-and-misconcept-brain-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -852,7 +852,7 @@ This is why conceptual change belongs at the centre of myths and misconceptions 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -872,7 +872,7 @@ This is why conceptual change belongs at the centre of myths and misconceptions 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -904,7 +904,7 @@ This is why conceptual change belongs at the centre of myths and misconceptions 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -956,7 +956,7 @@ This is why conceptual change belongs at the centre of myths and misconceptions 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -1001,7 +1001,7 @@ This is why conceptual change belongs at the centre of myths and misconceptions 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -1042,142 +1042,142 @@ This is why conceptual change belongs at the centre of myths and misconceptions 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: eclass.uoa.gr  
    Title: e Class UOAAccommodation of a scientific conception: Toward a theory  
-   Link: <a href="https://eclass.uoa.gr/modules/document/file.php/PHS122/%CE%91%CF%81%CE%B8%CF%81%CE%B1/Posner_Strike_Hewson_Gertzog.pdf" target="_blank" rel="noopener noreferrer nofollow">https://eclass.uoa.gr/modules/document/file.php/PHS122/%CE%91%CF%81%CE%B8%CF%81%CE%B1/Posner_Strike_Hewson_Gertzog.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Accommodation of a scientific conception: Toward a theory...August 22, 2006 — by GJ POSNER · Cited by 10835 — It has become a...</p></details>
+   Link:<a href="https://eclass.uoa.gr/modules/document/file.php/PHS122/%CE%91%CF%81%CE%B8%CF%81%CE%B1/Posner_Strike_Hewson_Gertzog.pdf" target="_blank" rel="noopener noreferrer nofollow">https://eclass.uoa.gr/modules/document/file.php/PHS122/%CE%91%CF%81%CE%B8%CF%81%CE%B1/Posner_Strike_Hewson_Gertzog.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Accommodation of a scientific conception: Toward a theory...August 22, 2006 — by GJ POSNER · Cited by 10835 — It has become a...</p></details>
    Published: August 22, 2006  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: learner.org  
-   Link: <a href="https://www.learner.org/series/a-private-universe/1-a-private-universe/" target="_blank" rel="noopener noreferrer nofollow">https://www.learner.org/series/a-private-universe/1-a-private-universe/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Annenberg LearnerA Private UniverseThis video brings into sharp focus the dilemma facing all educators: Why don&#x27;t even the brightest stud...</p></details>
+   Link:<a href="https://www.learner.org/series/a-private-universe/1-a-private-universe/" target="_blank" rel="noopener noreferrer nofollow">https://www.learner.org/series/a-private-universe/1-a-private-universe/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Annenberg LearnerA Private UniverseThis video brings into sharp focus the dilemma facing all educators: Why don&#x27;t even the brightest stud...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: api.pageplace.de  
    Title: Page Place International Handbook of Research on Conceptual Change  
-   Link: <a href="https://api.pageplace.de/preview/DT0400.9781136578212_A24435677/preview-9781136578212_A24435677.pdf" target="_blank" rel="noopener noreferrer nofollow">https://api.pageplace.de/preview/DT0400.9781136578212_A24435677/preview-9781136578212_A24435677.pdf</a>  
+   Link:<a href="https://api.pageplace.de/preview/DT0400.9781136578212_A24435677/preview-9781136578212_A24435677.pdf" target="_blank" rel="noopener noreferrer nofollow">https://api.pageplace.de/preview/DT0400.9781136578212_A24435677/preview-9781136578212_A24435677.pdf</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8784251/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8784251/</a>  
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8784251/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8784251/</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/pii/S1747938X23000490" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S1747938X23000490</a>  
+   Link:<a href="https://www.sciencedirect.com/science/article/pii/S1747938X23000490" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S1747938X23000490</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: ase.org.uk  
    Title: www.ase.org.uk Best Evidence Science Teaching: research  
-   Link: <a href="https://www.ase.org.uk/system/files/SSR_December_2020_055-063_Atkinson.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ase.org.uk/system/files/SSR_December_2020_055-063_Atkinson.pdf</a>  
+   Link:<a href="https://www.ase.org.uk/system/files/SSR_December_2020_055-063_Atkinson.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ase.org.uk/system/files/SSR_December_2020_055-063_Atkinson.pdf</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: sciencedirect.com  
    Title: Conceptual Change Theory  
-   Link: <a href="https://www.sciencedirect.com/topics/psychology/conceptual-change-theory" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/topics/psychology/conceptual-change-theory</a>  
+   Link:<a href="https://www.sciencedirect.com/topics/psychology/conceptual-change-theory" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/topics/psychology/conceptual-change-theory</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S095947521830817X" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S095947521830817X</a>  
+   Link:<a href="https://www.sciencedirect.com/science/article/abs/pii/S095947521830817X" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S095947521830817X</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: ase.org.uk  
-   Link: <a href="https://www.ase.org.uk/system/files/JES29%20Harden%20%26%20Waller.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ase.org.uk/system/files/JES29%20Harden%20%26%20Waller.pdf</a>  
+   Link:<a href="https://www.ase.org.uk/system/files/JES29%20Harden%20%26%20Waller.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ase.org.uk/system/files/JES29%20Harden%20%26%20Waller.pdf</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: eclass.uoa.gr  
    Title: Commentary Mayer  
-   Link: <a href="https://eclass.uoa.gr/modules/document/file.php/PSYCH139/04.%20%CE%95%CE%B9%CF%83%CE%B1%CE%B3%CF%89%CE%B3%CE%AE%20%CF%83%CF%84%CE%BF%20%CF%80%CF%81%CF%8C%CE%B2%CE%BB%CE%B7%CE%BC%CE%B1%20%CF%84%CE%B7%CF%82%20%CE%B5%CE%BD%CE%BD%CE%BF%CE%B9%CE%BF%CE%BB%CE%BF%CE%B3%CE%B9%CE%BA%CE%AE%CF%82%20%CE%B1%CE%BB%CE%BB%CE%B1%CE%B3%CE%AE%CF%82/Commentary-Mayer.pdf" target="_blank" rel="noopener noreferrer nofollow">https://eclass.uoa.gr/modules/document/file.php/PSYCH139/04.%20%CE%95%CE%B9%CF%83%CE%B1%CE%B3%CF%89%CE%B3%CE%AE%20%CF%83%CF%84%CE%BF%20%CF%80%CF%81%CF%8C%CE%B2%CE%BB%CE%B7%CE%BC%CE%B1%20%CF%84%CE%B7%CF%82%20%CE%B5%CE%BD%CE%BD%CE%BF%CE%B9%CE%BF%CE%BB%CE%BF%CE%B3%CE%B9%CE%BA%CE%AE%CF%82%20%CE%B1%CE%BB%CE%BB%CE%B1%CE%B3%CE%AE%CF%82/Commentary-Mayer.pdf</a>  
+   Link:<a href="https://eclass.uoa.gr/modules/document/file.php/PSYCH139/04.%20%CE%95%CE%B9%CF%83%CE%B1%CE%B3%CF%89%CE%B3%CE%AE%20%CF%83%CF%84%CE%BF%20%CF%80%CF%81%CF%8C%CE%B2%CE%BB%CE%B7%CE%BC%CE%B1%20%CF%84%CE%B7%CF%82%20%CE%B5%CE%BD%CE%BD%CE%BF%CE%B9%CE%BF%CE%BB%CE%BF%CE%B3%CE%B9%CE%BA%CE%AE%CF%82%20%CE%B1%CE%BB%CE%BB%CE%B1%CE%B3%CE%AE%CF%82/Commentary-Mayer.pdf" target="_blank" rel="noopener noreferrer nofollow">https://eclass.uoa.gr/modules/document/file.php/PSYCH139/04.%20%CE%95%CE%B9%CF%83%CE%B1%CE%B3%CF%89%CE%B3%CE%AE%20%CF%83%CF%84%CE%BF%20%CF%80%CF%81%CF%8C%CE%B2%CE%BB%CE%B7%CE%BC%CE%B1%20%CF%84%CE%B7%CF%82%20%CE%B5%CE%BD%CE%BD%CE%BF%CE%B9%CE%BF%CE%BB%CE%BF%CE%B3%CE%B9%CE%BA%CE%AE%CF%82%20%CE%B1%CE%BB%CE%BB%CE%B1%CE%B3%CE%AE%CF%82/Commentary-Mayer.pdf</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: youtube.com  
    Title: Conceptual Change in Science Learning  
-   Link: <a href="https://www.youtube.com/watch?v=S7bM-p4kR_s" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=S7bM-p4kR_s</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How Students Build Scientific Understanding...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=S7bM-p4kR_s" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=S7bM-p4kR_s</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How Students Build Scientific Understanding...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: nationalacademies.org  
-   Link: <a href="https://www.nationalacademies.org/publications/9853" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalacademies.org/publications/9853</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>National AcademiesHow People Learn: Brain, Mind, Experience, and Schoolby National Research Council · 1999 · Cited by 6127 — This edition...</p></details>
+   Link:<a href="https://www.nationalacademies.org/publications/9853" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalacademies.org/publications/9853</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National AcademiesHow People Learn: Brain, Mind, Experience, and Schoolby National Research Council · 1999 · Cited by 6127 — This edition...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: ejmste.com  
    Title: In other.Read more  
-   Link: <a href="https://www.ejmste.com/download/an-overview-of-conceptual-changetheories-4082.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ejmste.com/download/an-overview-of-conceptual-changetheories-4082.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Eurasia JournalAn Overview of Conceptual Change TheoriesOctober 17, 2007 — by G Özdemir · 2007 · Cited by 567 — Misconceptions are theref...</p></details>
+   Link:<a href="https://www.ejmste.com/download/an-overview-of-conceptual-changetheories-4082.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ejmste.com/download/an-overview-of-conceptual-changetheories-4082.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Eurasia JournalAn Overview of Conceptual Change TheoriesOctober 17, 2007 — by G Özdemir · 2007 · Cited by 567 — Misconceptions are theref...</p></details>
    Published: October 17, 2007  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: york.ac.uk  
    Title: University of York Best Evidence Science Teaching  
-   Link: <a href="https://www.york.ac.uk/education/research/uyseg/research-projects/bestevidencescienceteaching/" target="_blank" rel="noopener noreferrer nofollow">https://www.york.ac.uk/education/research/uyseg/research-projects/bestevidencescienceteaching/</a>  
+   Link:<a href="https://www.york.ac.uk/education/research/uyseg/research-projects/bestevidencescienceteaching/" target="_blank" rel="noopener noreferrer nofollow">https://www.york.ac.uk/education/research/uyseg/research-projects/bestevidencescienceteaching/</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: open.metu.edu.tr  
    Title: Open METUEffectiveness of conceptual change strategies in science  
-   Link: <a href="https://open.metu.edu.tr/bitstream/handle/11511/104711/J%20Res%20Sci%20Teach%20-%202023%20-%20Pacaci%20-%20Effectiveness%20of%20conceptual%20change%20strategies%20in%20science%20education%20A%20meta%E2%80%90analysis.pdf" target="_blank" rel="noopener noreferrer nofollow">https://open.metu.edu.tr/bitstream/handle/11511/104711/J%20Res%20Sci%20Teach%20-%202023%20-%20Pacaci%20-%20Effectiveness%20of%20conceptual%20change%20strategies%20in%20science%20education%20A%20meta%E2%80%90analysis.pdf</a>  
+   Link:<a href="https://open.metu.edu.tr/bitstream/handle/11511/104711/J%20Res%20Sci%20Teach%20-%202023%20-%20Pacaci%20-%20Effectiveness%20of%20conceptual%20change%20strategies%20in%20science%20education%20A%20meta%E2%80%90analysis.pdf" target="_blank" rel="noopener noreferrer nofollow">https://open.metu.edu.tr/bitstream/handle/11511/104711/J%20Res%20Sci%20Teach%20-%202023%20-%20Pacaci%20-%20Effectiveness%20of%20conceptual%20change%20strategies%20in%20science%20education%20A%20meta%E2%80%90analysis.pdf</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: nationalacademies.org  
-   Link: <a href="https://www.nationalacademies.org/projects/DBASSE-BBCSS-13-06/publication/24783" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalacademies.org/projects/DBASSE-BBCSS-13-06/publication/24783</a>  
+   Link:<a href="https://www.nationalacademies.org/projects/DBASSE-BBCSS-13-06/publication/24783" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalacademies.org/projects/DBASSE-BBCSS-13-06/publication/24783</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: nationalacademies.org  
-   Link: <a href="https://www.nationalacademies.org/read/5287/chapter/5" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalacademies.org/read/5287/chapter/5</a>  
+   Link:<a href="https://www.nationalacademies.org/read/5287/chapter/5" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalacademies.org/read/5287/chapter/5</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: sk.sagepub.com  
    Title: conceptual change  
-   Link: <a href="https://sk.sagepub.com/ency/edvol/download/encyclopedia-of-education-theory-and-philosophy/chpt/conceptual-change.pdf" target="_blank" rel="noopener noreferrer nofollow">https://sk.sagepub.com/ency/edvol/download/encyclopedia-of-education-theory-and-philosophy/chpt/conceptual-change.pdf</a>  
+   Link:<a href="https://sk.sagepub.com/ency/edvol/download/encyclopedia-of-education-theory-and-philosophy/chpt/conceptual-change.pdf" target="_blank" rel="noopener noreferrer nofollow">https://sk.sagepub.com/ency/edvol/download/encyclopedia-of-education-theory-and-philosophy/chpt/conceptual-change.pdf</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: ihomschool.org  
    Title: How People Learn  
-   Link: <a href="https://www.ihomschool.org/ourpages/auto/2014/3/6/53101783/HowPeopleLearn.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ihomschool.org/ourpages/auto/2014/3/6/53101783/HowPeopleLearn.pdf</a>  
+   Link:<a href="https://www.ihomschool.org/ourpages/auto/2014/3/6/53101783/HowPeopleLearn.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ihomschool.org/ourpages/auto/2014/3/6/53101783/HowPeopleLearn.pdf</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: jstor.org  
-   Link: <a href="https://www.jstor.org/stable/40032156" target="_blank" rel="noopener noreferrer nofollow">https://www.jstor.org/stable/40032156</a>  
+   Link:<a href="https://www.jstor.org/stable/40032156" target="_blank" rel="noopener noreferrer nofollow">https://www.jstor.org/stable/40032156</a>  
 
 ### Additional References
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/358587663_CONCEPTUAL_CHANGE_THEORY_AS_A_TEACHING_STRATEGY_IN_ENVIRONMENTAL_EDUCATION" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/358587663_CONCEPTUAL_CHANGE_THEORY_AS_A_TEACHING_STRATEGY_IN_ENVIRONMENTAL_EDUCATION</a>  
+   Link:<a href="https://www.researchgate.net/publication/358587663_CONCEPTUAL_CHANGE_THEORY_AS_A_TEACHING_STRATEGY_IN_ENVIRONMENTAL_EDUCATION" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/358587663_CONCEPTUAL_CHANGE_THEORY_AS_A_TEACHING_STRATEGY_IN_ENVIRONMENTAL_EDUCATION</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/253300170_Conceptual_change_in_science_teaching_and_teacher_education" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/253300170_Conceptual_change_in_science_teaching_and_teacher_education</a>  
+   Link:<a href="https://www.researchgate.net/publication/253300170_Conceptual_change_in_science_teaching_and_teacher_education" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/253300170_Conceptual_change_in_science_teaching_and_teacher_education</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: brill.com  
-   Link: <a href="https://brill.com/display/book/edcoll/9789087904227/BP000005.pdf?srsltid=AfmBOooQQKWpQn-bWNlUiwHK-TcMF-TnGrjRLDlsnPgUDyrTB1nP1Xt8" target="_blank" rel="noopener noreferrer nofollow">https://brill.com/display/book/edcoll/9789087904227/BP000005.pdf?srsltid=AfmBOooQQKWpQn-bWNlUiwHK-TcMF-TnGrjRLDlsnPgUDyrTB1nP1Xt8</a>  
+   Link:<a href="https://brill.com/display/book/edcoll/9789087904227/BP000005.pdf?srsltid=AfmBOooQQKWpQn-bWNlUiwHK-TcMF-TnGrjRLDlsnPgUDyrTB1nP1Xt8" target="_blank" rel="noopener noreferrer nofollow">https://brill.com/display/book/edcoll/9789087904227/BP000005.pdf?srsltid=AfmBOooQQKWpQn-bWNlUiwHK-TcMF-TnGrjRLDlsnPgUDyrTB1nP1Xt8</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: stem.org.uk  
-   Link: <a href="https://www.stem.org.uk/sites/default/files/pages/downloads/BEST_Approaches_Diagnostic%20questions.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.stem.org.uk/sites/default/files/pages/downloads/BEST_Approaches_Diagnostic%20questions.pdf</a>  
+   Link:<a href="https://www.stem.org.uk/sites/default/files/pages/downloads/BEST_Approaches_Diagnostic%20questions.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.stem.org.uk/sites/default/files/pages/downloads/BEST_Approaches_Diagnostic%20questions.pdf</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: nfer.ac.uk  
-   Link: <a href="https://www.nfer.ac.uk/media/n3enzjph/assessment_for_learning_in_primary_science_practices_and_benefits.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nfer.ac.uk/media/n3enzjph/assessment_for_learning_in_primary_science_practices_and_benefits.pdf</a>  
+   Link:<a href="https://www.nfer.ac.uk/media/n3enzjph/assessment_for_learning_in_primary_science_practices_and_benefits.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nfer.ac.uk/media/n3enzjph/assessment_for_learning_in_primary_science_practices_and_benefits.pdf</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: stem.org.uk  
-   Link: <a href="https://www.stem.org.uk/resources/library/collection/440721/best-evidence-science-teaching" target="_blank" rel="noopener noreferrer nofollow">https://www.stem.org.uk/resources/library/collection/440721/best-evidence-science-teaching</a>  
+   Link:<a href="https://www.stem.org.uk/resources/library/collection/440721/best-evidence-science-teaching" target="_blank" rel="noopener noreferrer nofollow">https://www.stem.org.uk/resources/library/collection/440721/best-evidence-science-teaching</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: openeducat.org  
-   Link: <a href="https://openeducat.org/ai/tools/common-misconceptions-identifier/for-science/" target="_blank" rel="noopener noreferrer nofollow">https://openeducat.org/ai/tools/common-misconceptions-identifier/for-science/</a>  
+   Link:<a href="https://openeducat.org/ai/tools/common-misconceptions-identifier/for-science/" target="_blank" rel="noopener noreferrer nofollow">https://openeducat.org/ai/tools/common-misconceptions-identifier/for-science/</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: researchoutreach.org  
-   Link: <a href="https://researchoutreach.org/wp-content/uploads/2022/04/Patrice-Potvin-1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://researchoutreach.org/wp-content/uploads/2022/04/Patrice-Potvin-1.pdf</a>  
+   Link:<a href="https://researchoutreach.org/wp-content/uploads/2022/04/Patrice-Potvin-1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://researchoutreach.org/wp-content/uploads/2022/04/Patrice-Potvin-1.pdf</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: smu.edu  
-   Link: <a href="https://www.smu.edu/provost/cte/resources/-/media/site/provost/cte/teachingresources/how-people-learn.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.smu.edu/provost/cte/resources/-/media/site/provost/cte/teachingresources/how-people-learn.pdf</a>  
+   Link:<a href="https://www.smu.edu/provost/cte/resources/-/media/site/provost/cte/teachingresources/how-people-learn.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.smu.edu/provost/cte/resources/-/media/site/provost/cte/teachingresources/how-people-learn.pdf</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/225757755_Stella_Vosniadou_Ed_International_Handbook_of_Research_on_Conceptual_Change" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/225757755_Stella_Vosniadou_Ed_International_Handbook_of_Research_on_Conceptual_Change</a>
+   Link:<a href="https://www.researchgate.net/publication/225757755_Stella_Vosniadou_Ed_International_Handbook_of_Research_on_Conceptual_Change" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/225757755_Stella_Vosniadou_Ed_International_Handbook_of_Research_on_Conceptual_Change</a>

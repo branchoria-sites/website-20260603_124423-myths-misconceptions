@@ -504,39 +504,39 @@ image: /assets/images/Myths_and_misconcept_0d48d7_backfire_effect_myth_0599c9-ov
 The fear behind the “backfire effect” is simple: if a communicator repeats a myth in order to correct it, the [repetition]({{ 'repetition/' | relative_url }}) may make the myth feel more familiar, more memorable, and ultimately more believable. That fear has influenced journalists, health communicators, educators and fact-checkers, sometimes making them reluctant to name the false claim they are trying to fix.
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_backfire_effect_myth_0599c9-overview.webp" | relative_url }}" alt="Overview image for Backfire" loading="eager" decoding="sync" fetchpriority="high">
-The best current evidence is more reassuring. Backfire can happen in limited or poorly understood circumstances, especially where people distrust the [correction]({{ 'correction/' | relative_url }}) itself, but it is not the normal result of clear debunking. Reviews, replications and large experiments generally find that factual [corrections]({{ 'corrections/' | relative_url }}) improve belief accuracy rather than making false beliefs stronger. The practical lesson is not “never correct myths”. It is: correct them carefully, make the truth more prominent than the falsehood, and give readers a usable replacement explanation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S2211368120300516" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/pii/S2211368120300516" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Open source on sciencedirect.com.</span></span></span>
+The best current evidence is more reassuring. Backfire can happen in limited or poorly understood circumstances, especially where people distrust the [correction]({{ 'correction/' | relative_url }}) itself, but it is not the normal result of clear debunking. Reviews, replications and large experiments generally find that factual [corrections]({{ 'corrections/' | relative_url }}) improve belief accuracy rather than making false beliefs stronger. The practical lesson is not “never correct myths”. It is: correct them carefully, make the truth more prominent than the falsehood, and give readers a usable replacement explanation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S2211368120300516" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/pii/S2211368120300516" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Open source on sciencedirect.com.</span></span></span>
 
 ## Where the Fear Came From
 
-The backfire effect became widely discussed after political misinformation studies suggested that some people, when shown corrections that challenged their worldview, became more committed to the false belief. A particularly influential case was Brendan Nyhan and Jason Reifler’s work on political misperceptions, including claims about weapons of mass destruction in Iraq and US tax cuts. Their 2010 paper reported several instances where corrections failed, and some where corrected participants appeared to move further in the wrong direction. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/225336846_When_Corrections_Fail_The_Persistence_of_Political_Misperceptions" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate(PDF) When Corrections Fail: The Persistence of Political</span><span class="citation-popover-snippet">Research Gate(PDF) When Corrections Fail: The Persistence of Political</span></span></span>
+The backfire effect became widely discussed after political misinformation studies suggested that some people, when shown corrections that challenged their worldview, became more committed to the false belief. A particularly influential case was Brendan Nyhan and Jason Reifler’s work on political misperceptions, including claims about weapons of mass destruction in Iraq and US tax cuts. Their 2010 paper reported several instances where corrections failed, and some where corrected participants appeared to move further in the wrong direction.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/225336846_When_Corrections_Fail_The_Persistence_of_Political_Misperceptions" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate(PDF) When Corrections Fail: The Persistence of Political</span><span class="citation-popover-snippet">Research Gate(PDF) When Corrections Fail: The Persistence of Political</span></span></span>
 
-That finding landed at the perfect moment for a memorable communication warning. It seemed to explain a familiar experience: correcting someone online can feel futile, especially when the topic is political, moralised or [identity]({{ 'identity/' | relative_url }})-laden. The idea also fitted with a real psychological mechanism, the “illusory truth effect”, in which repeated information can feel more believable simply because it is familiar. From there, the concern grew into a broader rule of thumb: avoid repeating myths because [debunking]({{ 'debunking/' | relative_url }}) may accidentally strengthen them. <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0281140" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.plos.org">[PLOS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.plos.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+That finding landed at the perfect moment for a memorable communication warning. It seemed to explain a familiar experience: correcting someone online can feel futile, especially when the topic is political, moralised or [identity]({{ 'identity/' | relative_url }})-laden. The idea also fitted with a real psychological mechanism, the “illusory truth effect”, in which repeated information can feel more believable simply because it is familiar. From there, the concern grew into a broader rule of thumb: avoid repeating myths because [debunking]({{ 'debunking/' | relative_url }}) may accidentally strengthen them.<span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0281140" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.plos.org">[PLOS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.plos.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-The problem is that this rule compressed several different worries into one slogan. There is a difference between a correction that **fails to persuade**, a correction whose effect **fades over time**, a correction that changes factual belief but not behaviour, and a correction that truly **increases belief in the myth above where it would otherwise have been**. Only the last of these is a genuine backfire effect. Later research suggests that many correction fears are really about limited impact, [memory]({{ 'memory/' | relative_url }}) decay, distrust or poor design, not about debunking routinely making misinformation stronger. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S2211368120300516" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The problem is that this rule compressed several different worries into one slogan. There is a difference between a correction that **fails to persuade**, a correction whose effect **fades over time**, a correction that changes factual belief but not behaviour, and a correction that truly **increases belief in the myth above where it would otherwise have been**. Only the last of these is a genuine backfire effect. Later research suggests that many correction fears are really about limited impact, [memory]({{ 'memory/' | relative_url }}) decay, distrust or poor design, not about debunking routinely making misinformation stronger.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S2211368120300516" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_backfire_effect_myth_0599c9-Illustration-1-dark.svg" | relative_url }}" alt="Backfire illustration 1" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_backfire_effect_myth_0599c9-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_backfire_effect_myth_0599c9-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What Later Evidence Suggests
 
-The strongest correction to the backfire story is empirical: researchers have repeatedly tried to find robust backfire effects and have usually failed. In a large study of [political corrections]({{ 'political-corrections/' | relative_url }}), Thomas Wood and Ethan Porter ran five experiments with more than 10,100 participants and tested 52 issues where backfire might have been expected. They reported no corrections capable of producing backfire, concluding that citizens generally heed factual information even when it challenges their ideological commitments. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2819073" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: papers.ssrn.com">[SSRN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">papers.ssrn.com</span><span class="citation-popover-snippet">Open source on ssrn.com.</span></span></span>
+The strongest correction to the backfire story is empirical: researchers have repeatedly tried to find robust backfire effects and have usually failed. In a large study of [political corrections]({{ 'political-corrections/' | relative_url }}), Thomas Wood and Ethan Porter ran five experiments with more than 10,100 participants and tested 52 issues where backfire might have been expected. They reported no corrections capable of producing backfire, concluding that citizens generally heed factual information even when it challenges their ideological commitments.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2819073" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: papers.ssrn.com">[SSRN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">papers.ssrn.com</span><span class="citation-popover-snippet">Open source on ssrn.com.</span></span></span>
 
-More recent reviews reach a similar conclusion. Swire-Thompson, DeGutis and Lazer describe the backfire effect as a major concern for science communicators and fact-checkers, but conclude that backfire effects are not a robust empirical phenomenon. Porter and Wood’s later review of factual corrections likewise finds that corrections improve belief accuracy across countries, political beliefs and demographic groups, while instances of backfire are “exceedingly rare” and may sometimes be artefacts of research design. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S2211368120300516" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+More recent reviews reach a similar conclusion. Swire-Thompson, DeGutis and Lazer describe the backfire effect as a major concern for science communicators and fact-checkers, but conclude that backfire effects are not a robust empirical phenomenon. Porter and Wood’s later review of factual corrections likewise finds that corrections improve belief accuracy across countries, political beliefs and demographic groups, while instances of backfire are “exceedingly rare” and may sometimes be artefacts of research design.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S2211368120300516" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-This does not mean corrections are magic. Nyhan’s later assessment in *PNAS* argues that the durability of political misperceptions is better explained by other forces: correction effects may be partial, may decay, and may be overwhelmed by repeated elite cues or media environments that keep the false claim alive. In other words, myths often persist not because correction makes them stronger, but because correction is brief while the misleading story is socially reinforced, emotionally useful or repeatedly supplied by trusted sources. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.pnas.org/doi/10.1073/pnas.1912440117" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pnas.org">[PNAS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pnas.org</span><span class="citation-popover-snippet">Open source on pnas.org.</span></span></span>
+This does not mean corrections are magic. Nyhan’s later assessment in *PNAS* argues that the durability of political misperceptions is better explained by other forces: correction effects may be partial, may decay, and may be overwhelmed by repeated elite cues or media environments that keep the false claim alive. In other words, myths often persist not because correction makes them stronger, but because correction is brief while the misleading story is socially reinforced, emotionally useful or repeatedly supplied by trusted sources.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.pnas.org/doi/10.1073/pnas.1912440117" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pnas.org">[PNAS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pnas.org</span><span class="citation-popover-snippet">Open source on pnas.org.</span></span></span>
 
-The evidence is also clearer when researchers separate different forms of “backfire”. The familiarity version says that merely repeating a myth during correction makes it more believable. Vaccine-misinformation research published in *PLOS One* notes why this concern seemed plausible, but also reports a failure to replicate familiarity- or fear-driven backfire effects. A separate series of three experiments on standalone corrections found no backfire immediately or after a one-week delay, though it did find mixed evidence that scepticism toward the correction itself may be a risk factor worth studying further. <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0281140" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.plos.org">[PLOS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.plos.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The evidence is also clearer when researchers separate different forms of “backfire”. The familiarity version says that merely repeating a myth during correction makes it more believable. Vaccine-misinformation research published in *PLOS One* notes why this concern seemed plausible, but also reports a failure to replicate familiarity- or fear-driven backfire effects. A separate series of three experiments on standalone corrections found no backfire immediately or after a one-week delay, though it did find mixed evidence that scepticism toward the correction itself may be a risk factor worth studying further.<span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0281140" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.plos.org">[PLOS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.plos.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-The overall picture is therefore nuanced but practical. Clear corrections usually help. They may not fully erase a misconception, and they may not automatically change attitudes or behaviour. But the old fear that fact-checking normally “feeds the myth” is too strong. The bigger danger is often the opposite: leaving a false claim unnamed, uncorrected and unchallenged because communicators overestimate the risk of backfire. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S2211368120300516" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The overall picture is therefore nuanced but practical. Clear corrections usually help. They may not fully erase a misconception, and they may not automatically change attitudes or behaviour. But the old fear that fact-checking normally “feeds the myth” is too strong. The bigger danger is often the opposite: leaving a false claim unnamed, uncorrected and unchallenged because communicators overestimate the risk of backfire.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S2211368120300516" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_backfire_effect_myth_0599c9-Illustration-2-dark.svg" | relative_url }}" alt="Backfire illustration 2" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_backfire_effect_myth_0599c9-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_backfire_effect_myth_0599c9-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Bad Debunking Can Still Fail
 
 The backfire myth should not be replaced with a new myth that any correction will work. Poorly designed debunking can still disappoint, confuse or miss the audience. A correction may fail if it is too vague, arrives too late, comes from a source the audience already rejects, or only says “that is false” without explaining what actually happened.
 
-One important distinction is between belief accuracy and broader persuasion. Corrections often make people more accurate about a specific claim, but related attitudes and behaviours can be more resistant. Someone may accept that a particular viral image was miscaptioned while still distrusting the institution mentioned in the correction. Someone may learn that a health claim is false but continue to feel anxious because the correction did not address the underlying fear. Porter and Wood’s review notes that correction effects are real but not permanent, and that they often affect belief accuracy more than downstream attitudes or behaviours. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S2211368120300516" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+One important distinction is between belief accuracy and broader persuasion. Corrections often make people more accurate about a specific claim, but related attitudes and behaviours can be more resistant. Someone may accept that a particular viral image was miscaptioned while still distrusting the institution mentioned in the correction. Someone may learn that a health claim is false but continue to feel anxious because the correction did not address the underlying fear. Porter and Wood’s review notes that correction effects are real but not permanent, and that they often affect belief accuracy more than downstream attitudes or behaviours.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S2211368120300516" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-Another failure mode is leaving a mental gap. Many myths do explanatory work: they tell people who caused an event, why something happened, or what they should avoid. Removing the myth without giving a replacement explanation can leave the original story available in memory. This is why many correction guides recommend explaining not only that a claim is wrong, but why it is wrong and what better account should replace it. The American Psychological Association advises that corrections should be prominent alongside the misinformation so accurate information is stored and retrieved with it. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.apa.org/topics/journalism-facts/misinformation-recommendations" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apa.org">[American Psychological Association]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apa.org</span><span class="citation-popover-title">misinformation recommendations</span><span class="citation-popover-snippet">misinformation recommendations</span></span></span>
+Another failure mode is leaving a mental gap. Many myths do explanatory work: they tell people who caused an event, why something happened, or what they should avoid. Removing the myth without giving a replacement explanation can leave the original story available in memory. This is why many correction guides recommend explaining not only that a claim is wrong, but why it is wrong and what better account should replace it. The American Psychological Association advises that corrections should be prominent alongside the misinformation so accurate information is stored and retrieved with it.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.apa.org/topics/journalism-facts/misinformation-recommendations" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apa.org">[American Psychological Association]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apa.org</span><span class="citation-popover-title">misinformation recommendations</span><span class="citation-popover-snippet">misinformation recommendations</span></span></span>
 
-Trust also matters. The 2023 standalone-corrections study found low risk of backfire where people were not sceptical of the correction, but mixed evidence of possible backfire under deliberately scepticism-inducing conditions. That does not revive the broad backfire panic; it narrows the concern. The risky situation is not simply “a myth was repeated”. It is more likely to be a correction that the audience interprets as suspicious, manipulative, hostile or poorly justified. <span class="citation-chip-wrap"><a class="citation-chip" href="https://link.springer.com/article/10.1186/s41235-023-00492-z" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer Link]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Trust also matters. The 2023 standalone-corrections study found low risk of backfire where people were not sceptical of the correction, but mixed evidence of possible backfire under deliberately scepticism-inducing conditions. That does not revive the broad backfire panic; it narrows the concern. The risky situation is not simply “a myth was repeated”. It is more likely to be a correction that the audience interprets as suspicious, manipulative, hostile or poorly justified.<span class="citation-chip-wrap"><a class="citation-chip" href="https://link.springer.com/article/10.1186/s41235-023-00492-z" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer Link]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/WyTVzZM2xPQ" title="The Backfire Effect: Why Facts Don’t Change People’s Minds" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=WyTVzZM2xPQ" target="_blank" rel="noopener noreferrer">The Backfire Effect: Why Facts Don’t Change People’s Minds</a></p><p class="youtube-embed-meta">Channel: Rafi Chowdhury &middot; Views: 60 &middot; Uploaded: October 2024 &middot; Length: 2 minutes 43 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=WyTVzZM2xPQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=WyTVzZM2xPQ">Open on YouTube</a></p></div></div></div>
 
@@ -546,13 +546,13 @@ Good correction design treats the myth as the problem to be replaced, not the st
 
 **Lead with the truth.** A useful correction should give readers the accurate claim early, not make them wade through the myth first. For example, instead of opening with “Does the flu vaccine give you flu?”, a clearer correction starts with “The flu vaccine cannot give you flu because it does not contain a live flu virus capable of causing infection.” The myth can still be named, but the true claim should frame the message.
 
-**Name the myth only as much as needed.** Avoid evasive corrections that never say what is being corrected, because readers may not know which claim is false. But also avoid turning the myth into a catchy headline, repeated slogan or shareable image. The evidence does not support panic about any repetition, but unnecessary repetition still gives the false claim more space than it deserves. <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0281140" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.plos.org">[PLOS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.plos.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+**Name the myth only as much as needed.** Avoid evasive corrections that never say what is being corrected, because readers may not know which claim is false. But also avoid turning the myth into a catchy headline, repeated slogan or shareable image. The evidence does not support panic about any repetition, but unnecessary repetition still gives the false claim more space than it deserves.<span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0281140" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.plos.org">[PLOS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.plos.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 **Explain the mistake, not just the verdict.** “False” is less useful than “false because…”. A strong debunk might explain that a viral graph used the wrong denominator, that an old video was presented as new, or that a quote was cut off before the sentence that changed its meaning. This gives the audience a reason to abandon the myth and a method for spotting similar errors later.
 
 **Offer a replacement story.** If a myth explains why an event happened, the correction should provide the better explanation. For instance, if a false rumour blames a public-health symptom on a vaccine ingredient, a stronger correction explains the ordinary cause, the [timing]({{ 'timing/' | relative_url }}) confusion and the safety evidence. Without a replacement, people may remember that something was disputed but still rely on the original explanation when reasoning later.
 
-**Keep the correction easy to process.** One reason myths spread is that they are simple. Corrections should not become so overloaded that the reader remembers only the original claim. Research comparing correction formats suggests that format alone is not the decisive factor when key correction ingredients are present, which is useful news: communicators do not need one rigid template, but they do need clarity, relevance and enough explanation to replace the error. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8715407/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCCorrection format has a limited role when debunking</span><span class="citation-popover-snippet">PMCCorrection format has a limited role when debunking</span></span></span>
+**Keep the correction easy to process.** One reason myths spread is that they are simple. Corrections should not become so overloaded that the reader remembers only the original claim. Research comparing correction formats suggests that format alone is not the decisive factor when key correction ingredients are present, which is useful news: communicators do not need one rigid template, but they do need clarity, relevance and enough explanation to replace the error.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8715407/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCCorrection format has a limited role when debunking</span><span class="citation-popover-snippet">PMCCorrection format has a limited role when debunking</span></span></span>
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_backfire_effect_myth_0599c9-Illustration-3-dark.svg" | relative_url }}" alt="Backfire illustration 3" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_backfire_effect_myth_0599c9-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_backfire_effect_myth_0599c9-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The Better Rule of Thumb
@@ -562,194 +562,194 @@ The most useful replacement for the backfire myth is not “debunk everything in
 A good correction does three things at once: it identifies the false claim, reduces its appeal, and gives the reader a better account to use instead. The fear of amplification is worth respecting as a design constraint, but not as a reason for paralysis. The evidence points away from blanket avoidance and towards better correction craft: truth first, myth handled carefully, explanation supplied, and trust treated as part of the message rather than an afterthought.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Does Debunking Really Make Myths Stronger?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Does Debunking Really Make Myths Stronger?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Talk+to+a+Science+Denier+by+Lee+McIntyre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Talk to a Science Denier on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=txhgEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How to Talk to a Science Denier" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+to+Talk+to+a+Science+Denier+by+Lee+McIntyre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Talk to a Science Denier">How to Talk to a Science Denier</a>
-        </h4>
-        <p class="fr-book-author">By Lee McIntyre</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Talk+to+a+Science+Denier+by+Lee+McIntyre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Talk to a Science Denier on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=txhgEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How to Talk to a Science Denier" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=How+to+Talk+to+a+Science+Denier+by+Lee+McIntyre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Talk to a Science Denier">How to Talk to a Science Denier</a>
+</h4>
+<p class="fr-book-author">By Lee McIntyre</p>
         
-        <p class="fr-book-desc">Explains effective correction strategies.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+to+Talk+to+a+Science+Denier+by+Lee+McIntyre&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains effective correction strategies.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=How+to+Talk+to+a+Science+Denier+by+Lee+McIntyre&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Calling Bullshit on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Plu9DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Calling Bullshit" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Calling Bullshit">Calling Bullshit</a>
-        </h4>
-        <p class="fr-book-author">By Carl T. Bergstrom, Jevin D. West</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Calling Bullshit on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Plu9DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Calling Bullshit" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Calling Bullshit">Calling Bullshit</a>
+</h4>
+<p class="fr-book-author">By Carl T. Bergstrom, Jevin D. West</p>
         
-        <p class="fr-book-desc">Teaches how to challenge false claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Teaches how to challenge false claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mistakes Were Made (but Not by Me) Third Edition on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jmmVxgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Mistakes Were Made (but Not by Me) Third Edition" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mistakes Were Made (but Not by Me) Third Edition">Mistakes Were Made (but Not by Me) Third Edition</a>
-        </h4>
-        <p class="fr-book-author">By Carol Tavris, Elliot Aronson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mistakes Were Made (but Not by Me) Third Edition on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jmmVxgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Mistakes Were Made (but Not by Me) Third Edition" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mistakes Were Made (but Not by Me) Third Edition">Mistakes Were Made (but Not by Me) Third Edition</a>
+</h4>
+<p class="fr-book-author">By Carol Tavris, Elliot Aronson</p>
         
-        <p class="fr-book-desc">Explains resistance to correction and self-justification.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains resistance to correction and self-justification.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Scout+Mindset+Julia+Galef&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Scout Mindset on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10690900-M.jpg" alt="Cover for Scout Mindset" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Scout+Mindset+Julia+Galef&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scout Mindset">Scout Mindset</a>
-        </h4>
-        <p class="fr-book-author">By Julia Galef</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Scout+Mindset+Julia+Galef&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Scout Mindset on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10690900-M.jpg" alt="Cover for Scout Mindset" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Scout+Mindset+Julia+Galef&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scout Mindset">Scout Mindset</a>
+</h4>
+<p class="fr-book-author">By Julia Galef</p>
         
-        <p class="fr-book-desc">First published 2021. Subjects: Economics, Psychology, Cognition, Skepticism, Critical thinking.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Scout+Mindset+Julia+Galef&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2021. Subjects: Economics, Psychology, Cognition, Skepticism, Critical thinking.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Scout+Mindset+Julia+Galef&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Talk+to+a+Science+Denier&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Talk to a Science Denier</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Calling+Bullshit&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Calling Bullshit</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mistakes Were Made (but Not by Me) Third Edition</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Talk+to+a+Science+Denier&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Talk to a Science Denier</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Calling+Bullshit&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Calling Bullshit</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mistakes Were Made (but Not by Me) Third Edition</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=backfire-does-debunking-really-make-myths-stronger-myths-and-misconcept-educational-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational poster" data-ebay-reference="backfire-does-debunking-really-make-myths-stronger-myths-and-misconcept-educational-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for GEOMETRY A2 Laminated educational poster maths numeracy teaching wall resource"><img src="{{ '/assets/images/marketplace-covers/50566bea86d5107b3451.jpg' | relative_url }}" alt="Listing image for GEOMETRY A2 Laminated educational poster maths numeracy teaching wall resource" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=backfire-does-debunking-really-make-myths-stronger-myths-and-misconcept-educational-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational poster" data-ebay-reference="backfire-does-debunking-really-make-myths-stronger-myths-and-misconcept-educational-poster" target="_blank" rel="sponsored noopener noreferrer">GEOMETRY A2 Laminated educational poster maths numeracy teaching wall resource</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=backfire-does-debunking-really-make-myths-stronger-myths-and-misconcept-educational-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational poster" data-ebay-reference="backfire-does-debunking-really-make-myths-stronger-myths-and-misconcept-educational-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for educational poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: educational poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=backfire-does-debunking-really-make-myths-stronger-myths-and-misconcept-educational-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational poster" data-ebay-reference="backfire-does-debunking-really-make-myths-stronger-myths-and-misconcept-educational-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=backfire-does-debunking-really-make-myths-stronger-myths-and-misconcept-educational-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational poster" data-ebay-reference="backfire-does-debunking-really-make-myths-stronger-myths-and-misconcept-educational-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for GEOMETRY A2 Laminated educational poster maths numeracy teaching wall resource"><img src="{{ '/assets/images/marketplace-covers/50566bea86d5107b3451.jpg' | relative_url }}" alt="Listing image for GEOMETRY A2 Laminated educational poster maths numeracy teaching wall resource" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=backfire-does-debunking-really-make-myths-stronger-myths-and-misconcept-educational-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational poster" data-ebay-reference="backfire-does-debunking-really-make-myths-stronger-myths-and-misconcept-educational-poster" target="_blank" rel="sponsored noopener noreferrer">GEOMETRY A2 Laminated educational poster maths numeracy teaching wall resource</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=backfire-does-debunking-really-make-myths-stronger-myths-and-misconcept-educational-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational poster" data-ebay-reference="backfire-does-debunking-really-make-myths-stronger-myths-and-misconcept-educational-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for educational poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: educational poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=backfire-does-debunking-really-make-myths-stronger-myths-and-misconcept-educational-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational poster" data-ebay-reference="backfire-does-debunking-really-make-myths-stronger-myths-and-misconcept-educational-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=backfire-does-debunking-really-make-myths-stronger-myths-and-misconcept-educational-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational poster" data-ebay-reference="backfire-does-debunking-really-make-myths-stronger-myths-and-misconcept-educational-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Electronic ABC Learning Wall Chart Talking Alphabet 123 Educational Poster Large"><img src="{{ '/assets/images/marketplace-covers/8d54b8a1e09ac57a8c0b.jpg' | relative_url }}" alt="Listing image for Electronic ABC Learning Wall Chart Talking Alphabet 123 Educational Poster Large" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=backfire-does-debunking-really-make-myths-stronger-myths-and-misconcept-educational-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational poster" data-ebay-reference="backfire-does-debunking-really-make-myths-stronger-myths-and-misconcept-educational-poster" target="_blank" rel="sponsored noopener noreferrer">Electronic ABC Learning Wall Chart Talking Alphabet 123 Educational Poster Large</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=backfire-does-debunking-really-make-myths-stronger-myths-and-misconcept-educational-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational poster" data-ebay-reference="backfire-does-debunking-really-make-myths-stronger-myths-and-misconcept-educational-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for educational poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: educational poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=backfire-does-debunking-really-make-myths-stronger-myths-and-misconcept-educational-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational poster" data-ebay-reference="backfire-does-debunking-really-make-myths-stronger-myths-and-misconcept-educational-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=backfire-does-debunking-really-make-myths-stronger-myths-and-misconcept-educational-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational poster" data-ebay-reference="backfire-does-debunking-really-make-myths-stronger-myths-and-misconcept-educational-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Electronic ABC Learning Wall Chart Talking Alphabet 123 Educational Poster Large"><img src="{{ '/assets/images/marketplace-covers/8d54b8a1e09ac57a8c0b.jpg' | relative_url }}" alt="Listing image for Electronic ABC Learning Wall Chart Talking Alphabet 123 Educational Poster Large" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=backfire-does-debunking-really-make-myths-stronger-myths-and-misconcept-educational-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational poster" data-ebay-reference="backfire-does-debunking-really-make-myths-stronger-myths-and-misconcept-educational-poster" target="_blank" rel="sponsored noopener noreferrer">Electronic ABC Learning Wall Chart Talking Alphabet 123 Educational Poster Large</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=backfire-does-debunking-really-make-myths-stronger-myths-and-misconcept-educational-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational poster" data-ebay-reference="backfire-does-debunking-really-make-myths-stronger-myths-and-misconcept-educational-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for educational poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: educational poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=backfire-does-debunking-really-make-myths-stronger-myths-and-misconcept-educational-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational poster" data-ebay-reference="backfire-does-debunking-really-make-myths-stronger-myths-and-misconcept-educational-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=backfire-does-debunking-really-make-myths-stronger-myths-and-misconcept-educational-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational poster" data-ebay-reference="backfire-does-debunking-really-make-myths-stronger-myths-and-misconcept-educational-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Educational Posters Laminated. Times Table, Phonics, Alphabet, High Quality 6/20"><img src="{{ '/assets/images/marketplace-covers/efaa5dc1a65eef3cbfd0.jpg' | relative_url }}" alt="Listing image for Educational Posters Laminated. Times Table, Phonics, Alphabet, High Quality 6/20" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=backfire-does-debunking-really-make-myths-stronger-myths-and-misconcept-educational-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational poster" data-ebay-reference="backfire-does-debunking-really-make-myths-stronger-myths-and-misconcept-educational-poster" target="_blank" rel="sponsored noopener noreferrer">Educational Posters Laminated. Times Table, Phonics, Alphabet, High Quality 6/20</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=backfire-does-debunking-really-make-myths-stronger-myths-and-misconcept-educational-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational poster" data-ebay-reference="backfire-does-debunking-really-make-myths-stronger-myths-and-misconcept-educational-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for educational poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: educational poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=backfire-does-debunking-really-make-myths-stronger-myths-and-misconcept-educational-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational poster" data-ebay-reference="backfire-does-debunking-really-make-myths-stronger-myths-and-misconcept-educational-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=backfire-does-debunking-really-make-myths-stronger-myths-and-misconcept-educational-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational poster" data-ebay-reference="backfire-does-debunking-really-make-myths-stronger-myths-and-misconcept-educational-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Educational Posters Laminated. Times Table, Phonics, Alphabet, High Quality 6/20"><img src="{{ '/assets/images/marketplace-covers/efaa5dc1a65eef3cbfd0.jpg' | relative_url }}" alt="Listing image for Educational Posters Laminated. Times Table, Phonics, Alphabet, High Quality 6/20" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=backfire-does-debunking-really-make-myths-stronger-myths-and-misconcept-educational-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational poster" data-ebay-reference="backfire-does-debunking-really-make-myths-stronger-myths-and-misconcept-educational-poster" target="_blank" rel="sponsored noopener noreferrer">Educational Posters Laminated. Times Table, Phonics, Alphabet, High Quality 6/20</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=backfire-does-debunking-really-make-myths-stronger-myths-and-misconcept-educational-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational poster" data-ebay-reference="backfire-does-debunking-really-make-myths-stronger-myths-and-misconcept-educational-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for educational poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: educational poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=backfire-does-debunking-really-make-myths-stronger-myths-and-misconcept-educational-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational poster" data-ebay-reference="backfire-does-debunking-really-make-myths-stronger-myths-and-misconcept-educational-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=backfire-does-debunking-really-make-myths-stronger-myths-and-misconcept-educational-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational poster" data-ebay-reference="backfire-does-debunking-really-make-myths-stronger-myths-and-misconcept-educational-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for World Map Maps Educational Maxi Poster Print 61x91.5cm | 24x36 inches"><img src="{{ '/assets/images/marketplace-covers/841a3e8963cc1d168d2d.jpg' | relative_url }}" alt="Listing image for World Map Maps Educational Maxi Poster Print 61x91.5cm | 24x36 inches" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=backfire-does-debunking-really-make-myths-stronger-myths-and-misconcept-educational-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational poster" data-ebay-reference="backfire-does-debunking-really-make-myths-stronger-myths-and-misconcept-educational-poster" target="_blank" rel="sponsored noopener noreferrer">World Map Maps Educational Maxi Poster Print 61x91.5cm | 24x36 inches</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=backfire-does-debunking-really-make-myths-stronger-myths-and-misconcept-educational-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational poster" data-ebay-reference="backfire-does-debunking-really-make-myths-stronger-myths-and-misconcept-educational-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for educational poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: educational poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=backfire-does-debunking-really-make-myths-stronger-myths-and-misconcept-educational-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational poster" data-ebay-reference="backfire-does-debunking-really-make-myths-stronger-myths-and-misconcept-educational-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=backfire-does-debunking-really-make-myths-stronger-myths-and-misconcept-educational-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational poster" data-ebay-reference="backfire-does-debunking-really-make-myths-stronger-myths-and-misconcept-educational-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=backfire-does-debunking-really-make-myths-stronger-myths-and-misconcept-educational-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational poster" data-ebay-reference="backfire-does-debunking-really-make-myths-stronger-myths-and-misconcept-educational-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for World Map Maps Educational Maxi Poster Print 61x91.5cm | 24x36 inches"><img src="{{ '/assets/images/marketplace-covers/841a3e8963cc1d168d2d.jpg' | relative_url }}" alt="Listing image for World Map Maps Educational Maxi Poster Print 61x91.5cm | 24x36 inches" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=backfire-does-debunking-really-make-myths-stronger-myths-and-misconcept-educational-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational poster" data-ebay-reference="backfire-does-debunking-really-make-myths-stronger-myths-and-misconcept-educational-poster" target="_blank" rel="sponsored noopener noreferrer">World Map Maps Educational Maxi Poster Print 61x91.5cm | 24x36 inches</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=backfire-does-debunking-really-make-myths-stronger-myths-and-misconcept-educational-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational poster" data-ebay-reference="backfire-does-debunking-really-make-myths-stronger-myths-and-misconcept-educational-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for educational poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: educational poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=backfire-does-debunking-really-make-myths-stronger-myths-and-misconcept-educational-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational poster" data-ebay-reference="backfire-does-debunking-really-make-myths-stronger-myths-and-misconcept-educational-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=backfire-does-debunking-really-make-myths-stronger-myths-and-misconcept-educational-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational poster" data-ebay-reference="backfire-does-debunking-really-make-myths-stronger-myths-and-misconcept-educational-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -765,7 +765,7 @@ A good correction does three things at once: it identifies the false claim, redu
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -785,7 +785,7 @@ A good correction does three things at once: it identifies the false claim, redu
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -817,7 +817,7 @@ A good correction does three things at once: it identifies the false claim, redu
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -869,7 +869,7 @@ A good correction does three things at once: it identifies the false claim, redu
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -914,7 +914,7 @@ A good correction does three things at once: it identifies the false claim, redu
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -955,144 +955,144 @@ A good correction does three things at once: it identifies the false claim, redu
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/pii/S2211368120300516" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S2211368120300516</a>  
+   Link:<a href="https://www.sciencedirect.com/science/article/pii/S2211368120300516" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S2211368120300516</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S2352250X23001604" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S2352250X23001604</a>  
+   Link:<a href="https://www.sciencedirect.com/science/article/abs/pii/S2352250X23001604" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S2352250X23001604</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: link.springer.com  
-   Link: <a href="https://link.springer.com/article/10.1186/s41235-023-00492-z" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1186/s41235-023-00492-z</a>  
+   Link:<a href="https://link.springer.com/article/10.1186/s41235-023-00492-z" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1186/s41235-023-00492-z</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: researchgate.net  
    Title: Research Gate(PDF) When Corrections Fail: The Persistence of Political  
-   Link: <a href="https://www.researchgate.net/publication/225336846_When_Corrections_Fail_The_Persistence_of_Political_Misperceptions" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/225336846_When_Corrections_Fail_The_Persistence_of_Political_Misperceptions</a>  
+   Link:<a href="https://www.researchgate.net/publication/225336846_When_Corrections_Fail_The_Persistence_of_Political_Misperceptions" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/225336846_When_Corrections_Fail_The_Persistence_of_Political_Misperceptions</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: journals.plos.org  
-   Link: <a href="https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0281140" target="_blank" rel="noopener noreferrer nofollow">https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0281140</a>  
+   Link:<a href="https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0281140" target="_blank" rel="noopener noreferrer nofollow">https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0281140</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: papers.ssrn.com  
-   Link: <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2819073" target="_blank" rel="noopener noreferrer nofollow">https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2819073</a>  
+   Link:<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2819073" target="_blank" rel="noopener noreferrer nofollow">https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2819073</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: pnas.org  
-   Link: <a href="https://www.pnas.org/doi/10.1073/pnas.1912440117" target="_blank" rel="noopener noreferrer nofollow">https://www.pnas.org/doi/10.1073/pnas.1912440117</a>  
+   Link:<a href="https://www.pnas.org/doi/10.1073/pnas.1912440117" target="_blank" rel="noopener noreferrer nofollow">https://www.pnas.org/doi/10.1073/pnas.1912440117</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: link.springer.com  
-   Link: <a href="https://link.springer.com/chapter/10.1007/978-3-031-27789-4_7" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/chapter/10.1007/978-3-031-27789-4_7</a>  
+   Link:<a href="https://link.springer.com/chapter/10.1007/978-3-031-27789" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/chapter/10.1007/978-3-031-27789</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCCorrection format has a limited role when debunking  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8715407/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8715407/</a>  
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8715407/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8715407/</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: papers.ssrn.com  
    Title: SSRN ID3095103 code1700852  
-   Link: <a href="https://papers.ssrn.com/sol3/Delivery.cfm/SSRN_ID3095103_code1700852.pdf?abstractid=2819073&amp;mirid=1" target="_blank" rel="noopener noreferrer nofollow">https://papers.ssrn.com/sol3/Delivery.cfm/SSRN_ID3095103_code1700852.pdf?abstractid=2819073&amp;mirid=1</a>  
+   Link:<a href="https://papers.ssrn.com/sol3/Delivery.cfm/SSRN_ID3095103_code1700852.pdf?abstractid=2819073&amp;mirid=1" target="_blank" rel="noopener noreferrer nofollow">https://papers.ssrn.com/sol3/Delivery.cfm/SSRN_ID3095103_code1700852.pdf?abstractid=2819073&amp;mirid=1</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: pnas.org  
-   Link: <a href="https://www.pnas.org/doi/10.1073/pnas.2104235118" target="_blank" rel="noopener noreferrer nofollow">https://www.pnas.org/doi/10.1073/pnas.2104235118</a>  
+   Link:<a href="https://www.pnas.org/doi/10.1073/pnas.2104235118" target="_blank" rel="noopener noreferrer nofollow">https://www.pnas.org/doi/10.1073/pnas.2104235118</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/pii/S2352250X23001574" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S2352250X23001574</a>  
+   Link:<a href="https://www.sciencedirect.com/science/article/pii/S2352250X23001574" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S2352250X23001574</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0167811626000261" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0167811626000261</a>  
+   Link:<a href="https://www.sciencedirect.com/science/article/pii/S0167811626000261" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0167811626000261</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0010027725000307" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0010027725000307</a>  
+   Link:<a href="https://www.sciencedirect.com/science/article/pii/S0010027725000307" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0010027725000307</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/358440351_The_backfire_effect_after_correcting_misinformation_is_strongly_associated_with_reliability" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/358440351_The_backfire_effect_after_correcting_misinformation_is_strongly_associated_with_reliability</a>  
+   Link:<a href="https://www.researchgate.net/publication/358440351_The_backfire_effect_after_correcting_misinformation_is_strongly_associated_with_reliability" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/358440351_The_backfire_effect_after_correcting_misinformation_is_strongly_associated_with_reliability</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: researchgate.net  
    Title: 318458573 The limitations of the backfire effect  
-   Link: <a href="https://www.researchgate.net/publication/318458573_The_limitations_of_the_backfire_effect" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/318458573_The_limitations_of_the_backfire_effect</a>  
+   Link:<a href="https://www.researchgate.net/publication/318458573_The_limitations_of_the_backfire_effect" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/318458573_The_limitations_of_the_backfire_effect</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/350778736_Why_the_backfire_effect_does_not_explain_the_durability_of_political_misperceptions" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/350778736_Why_the_backfire_effect_does_not_explain_the_durability_of_political_misperceptions</a>  
+   Link:<a href="https://www.researchgate.net/publication/350778736_Why_the_backfire_effect_does_not_explain_the_durability_of_political_misperceptions" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/350778736_Why_the_backfire_effect_does_not_explain_the_durability_of_political_misperceptions</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: researchgate.net  
    Title: 398530790 Factual Corrections Concerns and Current Evidence  
-   Link: <a href="https://www.researchgate.net/publication/398530790_Factual_Corrections_Concerns_and_Current_Evidence" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/398530790_Factual_Corrections_Concerns_and_Current_Evidence</a>  
+   Link:<a href="https://www.researchgate.net/publication/398530790_Factual_Corrections_Concerns_and_Current_Evidence" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/398530790_Factual_Corrections_Concerns_and_Current_Evidence</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/scientific-contributions/Thomas-J-Wood-2095272898" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/scientific-contributions/Thomas-J-Wood-2095272898</a>  
+   Link:<a href="https://www.researchgate.net/scientific-contributions/Thomas-J-Wood-2095272898" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/scientific-contributions/Thomas-J-Wood-2095272898</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/370712520_To_Debunk_or_Not_to_Debunk_Correcting_MisInformation" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/370712520_To_Debunk_or_Not_to_Debunk_Correcting_MisInformation</a>  
+   Link:<a href="https://www.researchgate.net/publication/370712520_To_Debunk_or_Not_to_Debunk_Correcting_MisInformation" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/370712520_To_Debunk_or_Not_to_Debunk_Correcting_MisInformation</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: apa.org  
    Title: misinformation recommendations  
-   Link: <a href="https://www.apa.org/topics/journalism-facts/misinformation-recommendations" target="_blank" rel="noopener noreferrer nofollow">https://www.apa.org/topics/journalism-facts/misinformation-recommendations</a>  
+   Link:<a href="https://www.apa.org/topics/journalism-facts/misinformation-recommendations" target="_blank" rel="noopener noreferrer nofollow">https://www.apa.org/topics/journalism-facts/misinformation-recommendations</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: cssh.northeastern.edu  
    Title: backfire effects  
-   Link: <a href="https://cssh.northeastern.edu/nulab/backfire-effects/" target="_blank" rel="noopener noreferrer nofollow">https://cssh.northeastern.edu/nulab/backfire-effects/</a>  
+   Link:<a href="https://cssh.northeastern.edu/nulab/backfire-effects/" target="_blank" rel="noopener noreferrer nofollow">https://cssh.northeastern.edu/nulab/backfire-effects/</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: cjr.org  
    Title: the backfire effect  
-   Link: <a href="https://www.cjr.org/behind_the_news/the_backfire_effect.php" target="_blank" rel="noopener noreferrer nofollow">https://www.cjr.org/behind_the_news/the_backfire_effect.php</a>  
+   Link:<a href="https://www.cjr.org/behind_the_news/the_backfire_effect.php" target="_blank" rel="noopener noreferrer nofollow">https://www.cjr.org/behind_the_news/the_backfire_effect.php</a>  
 
 ### Additional References
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: fullfact.org  
-   Link: <a href="https://fullfact.org/media/uploads/backfire_report_fullfact.pdf" target="_blank" rel="noopener noreferrer nofollow">https://fullfact.org/media/uploads/backfire_report_fullfact.pdf</a>  
+   Link:<a href="https://fullfact.org/media/uploads/backfire_report_fullfact.pdf" target="_blank" rel="noopener noreferrer nofollow">https://fullfact.org/media/uploads/backfire_report_fullfact.pdf</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: osf.io  
-   Link: <a href="https://osf.io/preprints/psyarxiv/qrm69" target="_blank" rel="noopener noreferrer nofollow">https://osf.io/preprints/psyarxiv/qrm69</a>  
+   Link:<a href="https://osf.io/preprints/psyarxiv/qrm69" target="_blank" rel="noopener noreferrer nofollow">https://osf.io/preprints/psyarxiv/qrm69</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: climatechangecommunication.org  
-   Link: <a href="https://www.climatechangecommunication.org/wp-content/uploads/2023/09/DebunkingHandbook2020.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.climatechangecommunication.org/wp-content/uploads/2023/09/DebunkingHandbook2020.pdf</a>  
+   Link:<a href="https://www.climatechangecommunication.org/wp-content/uploads/2023/09/DebunkingHandbook2020.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.climatechangecommunication.org/wp-content/uploads/2023/09/DebunkingHandbook2020.pdf</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: edmo.eu  
-   Link: <a href="https://edmo.eu/" target="_blank" rel="noopener noreferrer nofollow">https://edmo.eu/</a>  
+   Link:<a href="https://edmo.eu/" target="_blank" rel="noopener noreferrer nofollow">https://edmo.eu/</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/uni.lu/posts/have-you-ever-tried-to-correct-someone-who-shared-fake-news-online-it-rarely-goe/1447453670755961/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/uni.lu/posts/have-you-ever-tried-to-correct-someone-who-shared-fake-news-online-it-rarely-goe/1447453670755961/</a>  
+   Link:<a href="https://www.facebook.com/uni.lu/posts/have-you-ever-tried-to-correct-someone-who-shared-fake-news-online-it-rarely-goe/1447453670755961/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/uni.lu/posts/have-you-ever-tried-to-correct-someone-who-shared-fake-news-online-it-rarely-goe/1447453670755961/</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: benedmo.eu  
-   Link: <a href="https://benedmo.eu/wp-content/uploads/2022/12/D16_-Recommendations-on-effectiveness-of-fact-checkers_website-version-1-1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://benedmo.eu/wp-content/uploads/2022/12/D16_-Recommendations-on-effectiveness-of-fact-checkers_website-version-1-1.pdf</a>  
+   Link:<a href="https://benedmo.eu/wp-content/uploads/2022/12/D16_-Recommendations-on-effectiveness-of-fact-checkers_website-version-1-1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://benedmo.eu/wp-content/uploads/2022/12/D16_-Recommendations-on-effectiveness-of-fact-checkers_website-version-1-1.pdf</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: cambridge.org  
-   Link: <a href="https://www.cambridge.org/core/journals/italian-political-science-review-rivista-italiana-di-scienza-politica/article/politicians-misinformation-its-correction-and-partisanship-in-italy/F36A37F90B2C83A4D18DEE818369547B" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/journals/italian-political-science-review-rivista-italiana-di-scienza-politica/article/politicians-misinformation-its-correction-and-partisanship-in-italy/F36A37F90B2C83A4D18DEE818369547B</a>  
+   Link:<a href="https://www.cambridge.org/core/journals/italian-political-science-review-rivista-italiana-di-scienza-politica/article/politicians-misinformation-its-correction-and-partisanship-in-italy/F36A37F90B2C83A4D18DEE818369547B" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/journals/italian-political-science-review-rivista-italiana-di-scienza-politica/article/politicians-misinformation-its-correction-and-partisanship-in-italy/F36A37F90B2C83A4D18DEE818369547B</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/AmericanPsychologicalAssociation/posts/psychologists-are-working-to-understand-the-effects-of-misinformation-and-how-it/1080266017468402/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/AmericanPsychologicalAssociation/posts/psychologists-are-working-to-understand-the-effects-of-misinformation-and-how-it/1080266017468402/</a>  
+   Link:<a href="https://www.facebook.com/AmericanPsychologicalAssociation/posts/psychologists-are-working-to-understand-the-effects-of-misinformation-and-how-it/1080266017468402/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/AmericanPsychologicalAssociation/posts/psychologists-are-working-to-understand-the-effects-of-misinformation-and-how-it/1080266017468402/</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/AmericanPsychologicalAssociation/videos/fact-checking-what-is-the-backfire-effect/2382988448569590/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/AmericanPsychologicalAssociation/videos/fact-checking-what-is-the-backfire-effect/2382988448569590/</a>  
+   Link:<a href="https://www.facebook.com/AmericanPsychologicalAssociation/videos/fact-checking-what-is-the-backfire-effect/2382988448569590/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/AmericanPsychologicalAssociation/videos/fact-checking-what-is-the-backfire-effect/2382988448569590/</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: iweps.be  
-   Link: <a href="https://www.iweps.be/wp-content/uploads/2024/03/KS-GQ-22-003-EN-N.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.iweps.be/wp-content/uploads/2024/03/KS-GQ-22-003-EN-N.pdf</a>
+   Link:<a href="https://www.iweps.be/wp-content/uploads/2024/03/KS-GQ-22-003-EN-N.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.iweps.be/wp-content/uploads/2024/03/KS-GQ-22-003-EN-N.pdf</a>

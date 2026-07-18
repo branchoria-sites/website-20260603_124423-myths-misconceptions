@@ -268,7 +268,7 @@ image: /assets/images/Myths_and_misconcept_0d48d7_condescending_correc_7062df_fa
 
 ## Introduction
 
-When people abandon a myth or misconception, they are not only updating a belief; they are often managing a [social risk]({{ 'social-risk/' | relative_url }}). Admitting “I was wrong” can feel like a loss of competence, status or credibility, especially in front of friends, colleagues or an online audience. Face-saving wording reduces that social cost without weakening the correction itself. The goal is not to avoid disagreement or soften facts beyond recognition. It is to make accepting better information feel compatible with being a reasonable person. Research on misinformation correction, autonomy-supportive communication and psychological reactance suggests that people are generally more receptive when [corrections]({{ 'corrections/' | relative_url }}) preserve their sense of agency and competence rather than threatening it. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.climatechangecommunication.org/wp-content/uploads/2023/09/DebunkingHandbook2020.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: climatechangecommunication.org">[Center for Climate Change Communication]</a><span class="citation-popover" role="note"><span class="citation-popover-source">climatechangecommunication.org</span><span class="citation-popover-snippet">Center for Climate Change CommunicationDebunking HandbookOctober 11, 2020 — Corrections have to point to the misinformation so they neces...</span><span class="citation-popover-meta">Published: October 11, 2020</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://positivepsychology.com/self-determination-theory/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: positivepsychology.com">[Self Determination Theory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">positivepsychology.com</span><span class="citation-popover-snippet">and How It Explains Motivation21 Jun 2018 — Self-Determination Theory posits that autonomy, competence &amp; relatedness are fundamental psyc...</span></span></span>
+When people abandon a myth or misconception, they are not only updating a belief; they are often managing a [social risk]({{ 'social-risk/' | relative_url }}). Admitting “I was wrong” can feel like a loss of competence, status or credibility, especially in front of friends, colleagues or an online audience. Face-saving wording reduces that social cost without weakening the correction itself. The goal is not to avoid disagreement or soften facts beyond recognition. It is to make accepting better information feel compatible with being a reasonable person. Research on misinformation correction, autonomy-supportive communication and psychological reactance suggests that people are generally more receptive when [corrections]({{ 'corrections/' | relative_url }}) preserve their sense of agency and competence rather than threatening it.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.climatechangecommunication.org/wp-content/uploads/2023/09/DebunkingHandbook2020.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: climatechangecommunication.org">[Center for Climate Change Communication]</a><span class="citation-popover" role="note"><span class="citation-popover-source">climatechangecommunication.org</span><span class="citation-popover-snippet">Center for Climate Change CommunicationDebunking HandbookOctober 11, 2020 — Corrections have to point to the misinformation so they neces...</span><span class="citation-popover-meta">Published: October 11, 2020</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://positivepsychology.com/self-determination-theory/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: positivepsychology.com">[Self Determination Theory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">positivepsychology.com</span><span class="citation-popover-snippet">and How It Explains Motivation21 Jun 2018 — Self-Determination Theory posits that autonomy, competence &amp; relatedness are fundamental psyc...</span></span></span>
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_condescending_correc_7062df_face_saving_correcti_678035-Illustration-1-dark.svg" | relative_url }}" alt="Face saving illustration 1" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_condescending_correc_7062df_face_saving_correcti_678035-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_condescending_correc_7062df_face_saving_correcti_678035-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Why changing your mind can feel socially costly
@@ -282,7 +282,7 @@ This helps explain why the same factual correction can produce very different re
 
 Both reject the claim. Only the second attacks the person's competence.
 
-Research associated with Self-Determination Theory finds that people respond more positively when communication supports autonomy and competence rather than creating pressure, shame or control. Environments that support these psychological needs tend to reduce defensiveness and improve openness to learning and change. <span class="citation-chip-wrap"><a class="citation-chip" href="https://positivepsychology.com/self-determination-theory/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: positivepsychology.com">[Self Determination Theory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">positivepsychology.com</span><span class="citation-popover-snippet">and How It Explains Motivation21 Jun 2018 — Self-Determination Theory posits that autonomy, competence &amp; relatedness are fundamental psyc...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6393822/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCShould or could?</span><span class="citation-popover-snippet">Testing the use of autonomy-supportive...by MB Altendorf · 2019 · Cited by 31 — Theories of human motivation and reactance. Self-determi...</span></span></span>
+Research associated with Self-Determination Theory finds that people respond more positively when communication supports autonomy and competence rather than creating pressure, shame or control. Environments that support these psychological needs tend to reduce defensiveness and improve openness to learning and change.<span class="citation-chip-wrap"><a class="citation-chip" href="https://positivepsychology.com/self-determination-theory/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: positivepsychology.com">[Self Determination Theory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">positivepsychology.com</span><span class="citation-popover-snippet">and How It Explains Motivation21 Jun 2018 — Self-Determination Theory posits that autonomy, competence &amp; relatedness are fundamental psyc...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6393822/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCShould or could?</span><span class="citation-popover-snippet">Testing the use of autonomy-supportive...by MB Altendorf · 2019 · Cited by 31 — Theories of human motivation and reactance. Self-determi...</span></span></span>
 
 In practical terms, a correction becomes easier to accept when it allows the listener to preserve a reasonable self-image. Instead of forcing a choice between “keep my dignity” and “accept the facts”, face-saving language allows both.
 
@@ -326,7 +326,7 @@ Use:
 
 This preserves respect while maintaining a clear correction.
 
-These approaches align with broader findings that autonomy-supportive communication—communication that respects a person's ability to evaluate information—tends to reduce resistance and encourage engagement. PMC <span class="citation-chip-wrap"><a class="citation-chip" href="https://sk.sagepub.com/ency/edvol/socialpsychology/chpt/selfdetermination-theory" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sk.sagepub.com">[SAGE Knowledge]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sk.sagepub.com</span><span class="citation-popover-title">SAGE Knowledge Encyclopedia of Social Psychology</span><span class="citation-popover-snippet">SAGE KnowledgeEncyclopedia of Social Psychology - Self-Determination TheoryStudies also show that when authority figures are autonomy sup...</span></span></span>
+These approaches align with broader findings that autonomy-supportive communication—communication that respects a person's ability to evaluate information—tends to reduce resistance and encourage engagement. PMC<span class="citation-chip-wrap"><a class="citation-chip" href="https://sk.sagepub.com/ency/edvol/socialpsychology/chpt/selfdetermination-theory" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sk.sagepub.com">[SAGE Knowledge]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sk.sagepub.com</span><span class="citation-popover-title">SAGE Knowledge Encyclopedia of Social Psychology</span><span class="citation-popover-snippet">SAGE KnowledgeEncyclopedia of Social Psychology - Self-Determination TheoryStudies also show that when authority figures are autonomy sup...</span></span></span>
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_condescending_correc_7062df_face_saving_correcti_678035-Illustration-2-dark.svg" | relative_url }}" alt="Face saving illustration 2" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_condescending_correc_7062df_face_saving_correcti_678035-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_condescending_correc_7062df_face_saving_correcti_678035-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The most useful face-saving phrases
@@ -379,7 +379,7 @@ The correction becomes a shared learning process rather than a judgement.
 
 </div>
 
-Such wording preserves autonomy instead of demanding submission. Research on motivation and [reactance]({{ 'reactance/' | relative_url }}) consistently finds that people are less resistant when they feel they are choosing to reconsider rather than being forced to concede. PMC <span class="citation-chip-wrap"><a class="citation-chip" href="https://positivepsychology.com/self-determination-theory/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: positivepsychology.com">[Self Determination Theory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">positivepsychology.com</span><span class="citation-popover-snippet">and How It Explains Motivation21 Jun 2018 — Self-Determination Theory posits that autonomy, competence &amp; relatedness are fundamental psyc...</span></span></span>
+Such wording preserves autonomy instead of demanding submission. Research on motivation and [reactance]({{ 'reactance/' | relative_url }}) consistently finds that people are less resistant when they feel they are choosing to reconsider rather than being forced to concede. PMC<span class="citation-chip-wrap"><a class="citation-chip" href="https://positivepsychology.com/self-determination-theory/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: positivepsychology.com">[Self Determination Theory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">positivepsychology.com</span><span class="citation-popover-snippet">and How It Explains Motivation21 Jun 2018 — Self-Determination Theory posits that autonomy, competence &amp; relatedness are fundamental psyc...</span></span></span>
 
 ## Examples that keep the correction clear and usable
 
@@ -432,203 +432,203 @@ A face-saving correction can still be unequivocal:
 
 The difference lies in whether the wording turns the factual disagreement into a personal indictment.
 
-Likewise, face-saving is not appropriate in every circumstance. Deliberate deception, repeated bad-faith behaviour or situations involving immediate harm may require more direct confrontation. However, many myths and misconceptions are shared by people acting in good faith. In those cases, reducing unnecessary status threats can make factual updates more likely, not less. [Debunking]({{ 'debunking/' | relative_url }}) research consistently finds that effective corrections work best when they provide a clear alternative explanation rather than simply attacking the mistaken belief or the person holding it. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.climatechangecommunication.org/wp-content/uploads/2023/09/DebunkingHandbook2020.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: climatechangecommunication.org">[Center for Climate Change Communication]</a><span class="citation-popover" role="note"><span class="citation-popover-source">climatechangecommunication.org</span><span class="citation-popover-snippet">Center for Climate Change CommunicationDebunking HandbookOctober 11, 2020 — Corrections have to point to the misinformation so they neces...</span><span class="citation-popover-meta">Published: October 11, 2020</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://cssn.org/wp-content/uploads/2020/10/DB2020paper-1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cssn.org">[Brown Climate Social Science Network]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cssn.org</span><span class="citation-popover-title">DB2020paper 1</span><span class="citation-popover-snippet">Misinformation often continues to influence reasoning post-correction, and outdated information is not simply erased (the “continued infl...</span></span></span>
+Likewise, face-saving is not appropriate in every circumstance. Deliberate deception, repeated bad-faith behaviour or situations involving immediate harm may require more direct confrontation. However, many myths and misconceptions are shared by people acting in good faith. In those cases, reducing unnecessary status threats can make factual updates more likely, not less. [Debunking]({{ 'debunking/' | relative_url }}) research consistently finds that effective corrections work best when they provide a clear alternative explanation rather than simply attacking the mistaken belief or the person holding it.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.climatechangecommunication.org/wp-content/uploads/2023/09/DebunkingHandbook2020.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: climatechangecommunication.org">[Center for Climate Change Communication]</a><span class="citation-popover" role="note"><span class="citation-popover-source">climatechangecommunication.org</span><span class="citation-popover-snippet">Center for Climate Change CommunicationDebunking HandbookOctober 11, 2020 — Corrections have to point to the misinformation so they neces...</span><span class="citation-popover-meta">Published: October 11, 2020</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://cssn.org/wp-content/uploads/2020/10/DB2020paper-1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cssn.org">[Brown Climate Social Science Network]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cssn.org</span><span class="citation-popover-title">DB2020paper 1</span><span class="citation-popover-snippet">Misinformation often continues to influence reasoning post-correction, and outdated information is not simply erased (the “continued infl...</span></span></span>
 
 ## The practical mechanism
 
 Face-saving wording works because it changes the social meaning of being corrected. Instead of [communicating]({{ 'communicating/' | relative_url }}), “You are the problem,” it communicates, “This information needs updating.” That distinction gives people a way to align themselves with better evidence without treating the original mistake as a personal failure.
 
-For myths and misconceptions, that small shift can matter. People often update more readily when they can retain dignity while doing so. The correction remains clear, but accepting it no longer requires public self-demotion. In many everyday conversations, that difference is what turns a correction from a confrontation into a revision. PMC <span class="citation-chip-wrap"><a class="citation-chip" href="https://positivepsychology.com/self-determination-theory/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: positivepsychology.com">[Self Determination Theory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">positivepsychology.com</span><span class="citation-popover-snippet">and How It Explains Motivation21 Jun 2018 — Self-Determination Theory posits that autonomy, competence &amp; relatedness are fundamental psyc...</span></span></span>
+For myths and misconceptions, that small shift can matter. People often update more readily when they can retain dignity while doing so. The correction remains clear, but accepting it no longer requires public self-demotion. In many everyday conversations, that difference is what turns a correction from a confrontation into a revision. PMC<span class="citation-chip-wrap"><a class="citation-chip" href="https://positivepsychology.com/self-determination-theory/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: positivepsychology.com">[Self Determination Theory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">positivepsychology.com</span><span class="citation-popover-snippet">and How It Explains Motivation21 Jun 2018 — Self-Determination Theory posits that autonomy, competence &amp; relatedness are fundamental psyc...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How to Correct Without Cornering Someone. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How to Correct Without Cornering Someone. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Think+Again+by+Adam+Grant&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Think Again on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=-5SezQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Think Again" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Think+Again+by+Adam+Grant&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Think Again">Think Again</a>
-        </h4>
-        <p class="fr-book-author">By Adam Grant</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Think+Again+by+Adam+Grant&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Think Again on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=-5SezQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Think Again" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Think+Again+by+Adam+Grant&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Think Again">Think Again</a>
+</h4>
+<p class="fr-book-author">By Adam Grant</p>
         
-        <p class="fr-book-desc">Encourages belief revision without ego threat.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Think+Again+by+Adam+Grant&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Encourages belief revision without ego threat.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Think+Again+by+Adam+Grant&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Never+Split+the+Difference+Chris+Voss&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Never Split the Difference on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8365942-M.jpg" alt="Cover for Never Split the Difference" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Never+Split+the+Difference+Chris+Voss&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Never Split the Difference">Never Split the Difference</a>
-        </h4>
-        <p class="fr-book-author">By Chris Voss, Tahl Raz</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Never+Split+the+Difference+Chris+Voss&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Never Split the Difference on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8365942-M.jpg" alt="Cover for Never Split the Difference" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Never+Split+the+Difference+Chris+Voss&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Never Split the Difference">Never Split the Difference</a>
+</h4>
+<p class="fr-book-author">By Chris Voss, Tahl Raz</p>
         
-        <p class="fr-book-desc">First published 2016. Subjects: Negotiation, Negotiation in business, Business communication, Business, Communication.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Never+Split+the+Difference+Chris+Voss&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2016. Subjects: Negotiation, Negotiation in business, Business communication, Business, Communication.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Never+Split+the+Difference+Chris+Voss&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Have+Impossible+Conversations+Peter+Boghossian&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Have Impossible Conversations on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9352170-M.jpg" alt="Cover for How to Have Impossible Conversations" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+to+Have+Impossible+Conversations+Peter+Boghossian&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Have Impossible Conversations">How to Have Impossible Conversations</a>
-        </h4>
-        <p class="fr-book-author">By Peter Boghossian, James Lindsay</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Have+Impossible+Conversations+Peter+Boghossian&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Have Impossible Conversations on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9352170-M.jpg" alt="Cover for How to Have Impossible Conversations" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=How+to+Have+Impossible+Conversations+Peter+Boghossian&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Have Impossible Conversations">How to Have Impossible Conversations</a>
+</h4>
+<p class="fr-book-author">By Peter Boghossian, James Lindsay</p>
         
-        <p class="fr-book-desc">First published 2019. Subjects: Interpersonal communication, Conversation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+to+Have+Impossible+Conversations+Peter+Boghossian&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2019. Subjects: Interpersonal communication, Conversation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=How+to+Have+Impossible+Conversations+Peter+Boghossian&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Influence+by+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Influence on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Influence+by+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Influence">Influence</a>
-        </h4>
-        <p class="fr-book-author">By Robert B. Cialdini</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Influence+by+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Influence on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Influence+by+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Influence">Influence</a>
+</h4>
+<p class="fr-book-author">By Robert B. Cialdini</p>
         
-        <p class="fr-book-desc">Provides foundations for effective, non-threatening persuasion.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Influence+by+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides foundations for effective, non-threatening persuasion.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Influence+by+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Think+Again&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Think Again</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Never+Split+the+Difference&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Never Split the Difference</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Have+Impossible+Conversations&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Have Impossible Conversations</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Think+Again&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Think Again</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Never+Split+the+Difference&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Never Split the Difference</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Have+Impossible+Conversations&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Have Impossible Conversations</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=face-saving-how-to-correct-without-cornering-someone-myths-and-misconcept-medical-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical wall art" data-ebay-reference="face-saving-how-to-correct-without-cornering-someone-myths-and-misconcept-medical-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Medic! Framed Art Print Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/d62c5c942e2d9f310296.jpg' | relative_url }}" alt="Listing image for Medic! Framed Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=face-saving-how-to-correct-without-cornering-someone-myths-and-misconcept-medical-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical wall art" data-ebay-reference="face-saving-how-to-correct-without-cornering-someone-myths-and-misconcept-medical-wall-art" target="_blank" rel="sponsored noopener noreferrer">Medic! Framed Art Print Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=face-saving-how-to-correct-without-cornering-someone-myths-and-misconcept-medical-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical wall art" data-ebay-reference="face-saving-how-to-correct-without-cornering-someone-myths-and-misconcept-medical-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for medical wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: medical wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=face-saving-how-to-correct-without-cornering-someone-myths-and-misconcept-medical-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical wall art" data-ebay-reference="face-saving-how-to-correct-without-cornering-someone-myths-and-misconcept-medical-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=face-saving-how-to-correct-without-cornering-someone-myths-and-misconcept-medical-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical wall art" data-ebay-reference="face-saving-how-to-correct-without-cornering-someone-myths-and-misconcept-medical-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Medic! Framed Art Print Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/d62c5c942e2d9f310296.jpg' | relative_url }}" alt="Listing image for Medic! Framed Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=face-saving-how-to-correct-without-cornering-someone-myths-and-misconcept-medical-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical wall art" data-ebay-reference="face-saving-how-to-correct-without-cornering-someone-myths-and-misconcept-medical-wall-art" target="_blank" rel="sponsored noopener noreferrer">Medic! Framed Art Print Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=face-saving-how-to-correct-without-cornering-someone-myths-and-misconcept-medical-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical wall art" data-ebay-reference="face-saving-how-to-correct-without-cornering-someone-myths-and-misconcept-medical-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for medical wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: medical wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=face-saving-how-to-correct-without-cornering-someone-myths-and-misconcept-medical-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical wall art" data-ebay-reference="face-saving-how-to-correct-without-cornering-someone-myths-and-misconcept-medical-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=face-saving-how-to-correct-without-cornering-someone-myths-and-misconcept-medical-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical wall art" data-ebay-reference="face-saving-how-to-correct-without-cornering-someone-myths-and-misconcept-medical-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Medical Human Skeleton Anatomy Biology Learning Canvas Wall Art Picture Print"><img src="{{ '/assets/images/marketplace-covers/087aa6c2440625ed4209.jpg' | relative_url }}" alt="Listing image for Medical Human Skeleton Anatomy Biology Learning Canvas Wall Art Picture Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=face-saving-how-to-correct-without-cornering-someone-myths-and-misconcept-medical-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical wall art" data-ebay-reference="face-saving-how-to-correct-without-cornering-someone-myths-and-misconcept-medical-wall-art" target="_blank" rel="sponsored noopener noreferrer">Medical Human Skeleton Anatomy Biology Learning Canvas Wall Art Picture Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=face-saving-how-to-correct-without-cornering-someone-myths-and-misconcept-medical-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical wall art" data-ebay-reference="face-saving-how-to-correct-without-cornering-someone-myths-and-misconcept-medical-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for medical wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: medical wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=face-saving-how-to-correct-without-cornering-someone-myths-and-misconcept-medical-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical wall art" data-ebay-reference="face-saving-how-to-correct-without-cornering-someone-myths-and-misconcept-medical-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=face-saving-how-to-correct-without-cornering-someone-myths-and-misconcept-medical-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical wall art" data-ebay-reference="face-saving-how-to-correct-without-cornering-someone-myths-and-misconcept-medical-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Medical Human Skeleton Anatomy Biology Learning Canvas Wall Art Picture Print"><img src="{{ '/assets/images/marketplace-covers/087aa6c2440625ed4209.jpg' | relative_url }}" alt="Listing image for Medical Human Skeleton Anatomy Biology Learning Canvas Wall Art Picture Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=face-saving-how-to-correct-without-cornering-someone-myths-and-misconcept-medical-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical wall art" data-ebay-reference="face-saving-how-to-correct-without-cornering-someone-myths-and-misconcept-medical-wall-art" target="_blank" rel="sponsored noopener noreferrer">Medical Human Skeleton Anatomy Biology Learning Canvas Wall Art Picture Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=face-saving-how-to-correct-without-cornering-someone-myths-and-misconcept-medical-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical wall art" data-ebay-reference="face-saving-how-to-correct-without-cornering-someone-myths-and-misconcept-medical-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for medical wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: medical wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=face-saving-how-to-correct-without-cornering-someone-myths-and-misconcept-medical-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical wall art" data-ebay-reference="face-saving-how-to-correct-without-cornering-someone-myths-and-misconcept-medical-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=face-saving-how-to-correct-without-cornering-someone-myths-and-misconcept-medical-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical wall art" data-ebay-reference="face-saving-how-to-correct-without-cornering-someone-myths-and-misconcept-medical-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UK â˜‘â˜‘ - Reflexology of the Foot Wall Art Poster Human Anatomy Medical Print"><img src="{{ '/assets/images/marketplace-covers/d14b7c8b7e9b82c1d487.jpg' | relative_url }}" alt="Listing image for UK â˜‘â˜‘ - Reflexology of the Foot Wall Art Poster Human Anatomy Medical Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=face-saving-how-to-correct-without-cornering-someone-myths-and-misconcept-medical-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical wall art" data-ebay-reference="face-saving-how-to-correct-without-cornering-someone-myths-and-misconcept-medical-wall-art" target="_blank" rel="sponsored noopener noreferrer">UK â˜‘â˜‘ - Reflexology of the Foot Wall Art Poster Human Anatomy Medical Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=face-saving-how-to-correct-without-cornering-someone-myths-and-misconcept-medical-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical wall art" data-ebay-reference="face-saving-how-to-correct-without-cornering-someone-myths-and-misconcept-medical-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for medical wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: medical wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=face-saving-how-to-correct-without-cornering-someone-myths-and-misconcept-medical-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical wall art" data-ebay-reference="face-saving-how-to-correct-without-cornering-someone-myths-and-misconcept-medical-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=face-saving-how-to-correct-without-cornering-someone-myths-and-misconcept-medical-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical wall art" data-ebay-reference="face-saving-how-to-correct-without-cornering-someone-myths-and-misconcept-medical-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UK â˜‘â˜‘ - Reflexology of the Foot Wall Art Poster Human Anatomy Medical Print"><img src="{{ '/assets/images/marketplace-covers/d14b7c8b7e9b82c1d487.jpg' | relative_url }}" alt="Listing image for UK â˜‘â˜‘ - Reflexology of the Foot Wall Art Poster Human Anatomy Medical Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=face-saving-how-to-correct-without-cornering-someone-myths-and-misconcept-medical-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical wall art" data-ebay-reference="face-saving-how-to-correct-without-cornering-someone-myths-and-misconcept-medical-wall-art" target="_blank" rel="sponsored noopener noreferrer">UK â˜‘â˜‘ - Reflexology of the Foot Wall Art Poster Human Anatomy Medical Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=face-saving-how-to-correct-without-cornering-someone-myths-and-misconcept-medical-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical wall art" data-ebay-reference="face-saving-how-to-correct-without-cornering-someone-myths-and-misconcept-medical-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for medical wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: medical wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=face-saving-how-to-correct-without-cornering-someone-myths-and-misconcept-medical-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical wall art" data-ebay-reference="face-saving-how-to-correct-without-cornering-someone-myths-and-misconcept-medical-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=face-saving-how-to-correct-without-cornering-someone-myths-and-misconcept-medical-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical wall art" data-ebay-reference="face-saving-how-to-correct-without-cornering-someone-myths-and-misconcept-medical-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bristol Stool Chart Medical Diagram Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/debd529c6420c95645da.jpg' | relative_url }}" alt="Listing image for Bristol Stool Chart Medical Diagram Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=face-saving-how-to-correct-without-cornering-someone-myths-and-misconcept-medical-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical wall art" data-ebay-reference="face-saving-how-to-correct-without-cornering-someone-myths-and-misconcept-medical-wall-art" target="_blank" rel="sponsored noopener noreferrer">Bristol Stool Chart Medical Diagram Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=face-saving-how-to-correct-without-cornering-someone-myths-and-misconcept-medical-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical wall art" data-ebay-reference="face-saving-how-to-correct-without-cornering-someone-myths-and-misconcept-medical-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for medical wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: medical wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=face-saving-how-to-correct-without-cornering-someone-myths-and-misconcept-medical-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical wall art" data-ebay-reference="face-saving-how-to-correct-without-cornering-someone-myths-and-misconcept-medical-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=face-saving-how-to-correct-without-cornering-someone-myths-and-misconcept-medical-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical wall art" data-ebay-reference="face-saving-how-to-correct-without-cornering-someone-myths-and-misconcept-medical-wall-art" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=face-saving-how-to-correct-without-cornering-someone-myths-and-misconcept-medical-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical wall art" data-ebay-reference="face-saving-how-to-correct-without-cornering-someone-myths-and-misconcept-medical-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bristol Stool Chart Medical Diagram Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/debd529c6420c95645da.jpg' | relative_url }}" alt="Listing image for Bristol Stool Chart Medical Diagram Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=face-saving-how-to-correct-without-cornering-someone-myths-and-misconcept-medical-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical wall art" data-ebay-reference="face-saving-how-to-correct-without-cornering-someone-myths-and-misconcept-medical-wall-art" target="_blank" rel="sponsored noopener noreferrer">Bristol Stool Chart Medical Diagram Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=face-saving-how-to-correct-without-cornering-someone-myths-and-misconcept-medical-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical wall art" data-ebay-reference="face-saving-how-to-correct-without-cornering-someone-myths-and-misconcept-medical-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for medical wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: medical wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=face-saving-how-to-correct-without-cornering-someone-myths-and-misconcept-medical-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical wall art" data-ebay-reference="face-saving-how-to-correct-without-cornering-someone-myths-and-misconcept-medical-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=face-saving-how-to-correct-without-cornering-someone-myths-and-misconcept-medical-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical wall art" data-ebay-reference="face-saving-how-to-correct-without-cornering-someone-myths-and-misconcept-medical-wall-art" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -644,7 +644,7 @@ For myths and misconceptions, that small shift can matter. People often update m
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -664,7 +664,7 @@ For myths and misconceptions, that small shift can matter. People often update m
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -696,7 +696,7 @@ For myths and misconceptions, that small shift can matter. People often update m
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -748,7 +748,7 @@ For myths and misconceptions, that small shift can matter. People often update m
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -793,7 +793,7 @@ For myths and misconceptions, that small shift can matter. People often update m
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -834,166 +834,166 @@ For myths and misconceptions, that small shift can matter. People often update m
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCShould or could?  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6393822/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC6393822/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Testing the use of autonomy-supportive...by MB Altendorf · 2019 · Cited by 31 — Theories of human motivation and reactance. Self-determi...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6393822/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC6393822/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Testing the use of autonomy-supportive...by MB Altendorf · 2019 · Cited by 31 — Theories of human motivation and reactance. Self-determi...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCPutting Self‐Determination Theory Into Practice  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12263349/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12263349/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NIHby A Neufeld · 2025 · Cited by 10 — Supporting basic psychological needs in a deliberate and integrated way promotes engagement...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12263349/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12263349/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NIHby A Neufeld · 2025 · Cited by 10 — Supporting basic psychological needs in a deliberate and integrated way promotes engagement...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3323356/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3323356/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>nih.govSelf-determination theory: its application to health behavior...by H Patrick · 2012 · Cited by 839 — As the science of behavior c...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3323356/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3323356/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>nih.govSelf-determination theory: its application to health behavior...by H Patrick · 2012 · Cited by 839 — As the science of behavior c...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: face.com  
-   Link: <a href="https://face.com/" target="_blank" rel="noopener noreferrer nofollow">https://face.com/</a>  
+   Link:<a href="https://face.com/" target="_blank" rel="noopener noreferrer nofollow">https://face.com/</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: climatechangecommunication.org  
-   Link: <a href="https://www.climatechangecommunication.org/wp-content/uploads/2023/09/DebunkingHandbook2020.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.climatechangecommunication.org/wp-content/uploads/2023/09/DebunkingHandbook2020.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Center for Climate Change CommunicationDebunking HandbookOctober 11, 2020 — Corrections have to point to the misinformation so they neces...</p></details>
+   Link:<a href="https://www.climatechangecommunication.org/wp-content/uploads/2023/09/DebunkingHandbook2020.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.climatechangecommunication.org/wp-content/uploads/2023/09/DebunkingHandbook2020.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Center for Climate Change CommunicationDebunking HandbookOctober 11, 2020 — Corrections have to point to the misinformation so they neces...</p></details>
    Published: October 11, 2020  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: selfdeterminationtheory.org  
    Title: 1987 DeciRyan JPSP  
-   Link: <a href="https://selfdeterminationtheory.org/SDT/documents/1987_DeciRyan_JPSP.pdf" target="_blank" rel="noopener noreferrer nofollow">https://selfdeterminationtheory.org/SDT/documents/1987_DeciRyan_JPSP.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Self Determination TheoryThe Support of Autonomy and the Control of Behaviorby EL Deci · 1987 · Cited by 6672 — Furthermore, it shows tha...</p></details>
+   Link:<a href="https://selfdeterminationtheory.org/SDT/documents/1987_DeciRyan_JPSP.pdf" target="_blank" rel="noopener noreferrer nofollow">https://selfdeterminationtheory.org/SDT/documents/1987_DeciRyan_JPSP.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Self Determination TheoryThe Support of Autonomy and the Control of Behaviorby EL Deci · 1987 · Cited by 6672 — Furthermore, it shows tha...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: open.ncl.ac.uk  
-   Link: <a href="https://open.ncl.ac.uk/theories/20/self-determination-theory/" target="_blank" rel="noopener noreferrer nofollow">https://open.ncl.ac.uk/theories/20/self-determination-theory/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Self-Determination Theory: A reviewSpecifically, they include autonomy, which refers to the ability to regulate one&#x27;s actions in a self-d...</p></details>
+   Link:<a href="https://open.ncl.ac.uk/theories/20/self-determination-theory/" target="_blank" rel="noopener noreferrer nofollow">https://open.ncl.ac.uk/theories/20/self-determination-theory/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Self-Determination Theory: A reviewSpecifically, they include autonomy, which refers to the ability to regulate one&#x27;s actions in a self-d...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: sk.sagepub.com  
    Title: SAGE Knowledge Encyclopedia of Social Psychology  
-   Link: <a href="https://sk.sagepub.com/ency/edvol/socialpsychology/chpt/selfdetermination-theory" target="_blank" rel="noopener noreferrer nofollow">https://sk.sagepub.com/ency/edvol/socialpsychology/chpt/selfdetermination-theory</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>SAGE KnowledgeEncyclopedia of Social Psychology - Self-Determination TheoryStudies also show that when authority figures are autonomy sup...</p></details>
+   Link:<a href="https://sk.sagepub.com/ency/edvol/socialpsychology/chpt/selfdetermination-theory" target="_blank" rel="noopener noreferrer nofollow">https://sk.sagepub.com/ency/edvol/socialpsychology/chpt/selfdetermination-theory</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>SAGE KnowledgeEncyclopedia of Social Psychology - Self-Determination TheoryStudies also show that when authority figures are autonomy sup...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: ukcoaching.org  
-   Link: <a href="https://www.ukcoaching.org/ukc-club/resources/self-determination-theory/" target="_blank" rel="noopener noreferrer nofollow">https://www.ukcoaching.org/ukc-club/resources/self-determination-theory/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Self-Determination TheorySelf-Determination Theory emphasises that people are most motivated and fulfilled when their basic needs for aut...</p></details>
+   Link:<a href="https://www.ukcoaching.org/ukc-club/resources/self-determination-theory/" target="_blank" rel="noopener noreferrer nofollow">https://www.ukcoaching.org/ukc-club/resources/self-determination-theory/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Self-Determination TheorySelf-Determination Theory emphasises that people are most motivated and fulfilled when their basic needs for aut...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: cssn.org  
    Title: DB2020paper 1  
-   Link: <a href="https://cssn.org/wp-content/uploads/2020/10/DB2020paper-1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cssn.org/wp-content/uploads/2020/10/DB2020paper-1.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Misinformation often continues to influence reasoning post-correction, and outdated information is not simply erased (the “continued infl...</p></details>
+   Link:<a href="https://cssn.org/wp-content/uploads/2020/10/DB2020paper-1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cssn.org/wp-content/uploads/2020/10/DB2020paper-1.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Misinformation often continues to influence reasoning post-correction, and outdated information is not simply erased (the “continued infl...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: selfdeterminationtheory.org  
-   Link: <a href="https://selfdeterminationtheory.org/theory/" target="_blank" rel="noopener noreferrer nofollow">https://selfdeterminationtheory.org/theory/</a>  
+   Link:<a href="https://selfdeterminationtheory.org/theory/" target="_blank" rel="noopener noreferrer nofollow">https://selfdeterminationtheory.org/theory/</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: selfdeterminationtheory.org  
-   Link: <a href="https://selfdeterminationtheory.org/research/autonomy-supportive-practices/" target="_blank" rel="noopener noreferrer nofollow">https://selfdeterminationtheory.org/research/autonomy-supportive-practices/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Autonomy-Supportive PracticesExploring the pathways through which teacher support predicts changes in students&#x27; academic coping across th...</p></details>
+   Link:<a href="https://selfdeterminationtheory.org/research/autonomy-supportive-practices/" target="_blank" rel="noopener noreferrer nofollow">https://selfdeterminationtheory.org/research/autonomy-supportive-practices/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Autonomy-Supportive PracticesExploring the pathways through which teacher support predicts changes in students&#x27; academic coping across th...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: simplypsychology.org  
-   Link: <a href="https://www.simplypsychology.org/self-determination-theory.html" target="_blank" rel="noopener noreferrer nofollow">https://www.simplypsychology.org/self-determination-theory.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>It is a theory that deals with two huge factors: people&#x27;s inherent growth tendencies.Read m...</p></details>
+   Link:<a href="https://www.simplypsychology.org/self-determination-theory.html" target="_blank" rel="noopener noreferrer nofollow">https://www.simplypsychology.org/self-determination-theory.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>It is a theory that deals with two huge factors: people&#x27;s inherent growth tendencies.Read m...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Face" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Face</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>FaceThe face is the front of the head in humans and many other animals that features most of the sense organs including the eyes, nose...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Face" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Face</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FaceThe face is the front of the head in humans and many other animals that features most of the sense organs including the eyes, nose...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: rccs.org.uk  
    Title: Self Determination Theory Explained  
-   Link: <a href="https://www.rccs.org.uk/post/self-determination-theory" target="_blank" rel="noopener noreferrer nofollow">https://www.rccs.org.uk/post/self-determination-theory</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>9 Jan 2026 — SDT highlights that intrinsic motivation thrives when autonomy, competence and relatedness are supported. Extrinsic Moti...</p></details>
+   Link:<a href="https://www.rccs.org.uk/post/self-determination-theory" target="_blank" rel="noopener noreferrer nofollow">https://www.rccs.org.uk/post/self-determination-theory</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>9 Jan 2026 — SDT highlights that intrinsic motivation thrives when autonomy, competence and relatedness are supported. Extrinsic Moti...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: dictionary.cambridge.org  
-   Link: <a href="https://dictionary.cambridge.org/dictionary/english/face" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/dictionary/english/face</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>English meaning - Cambridge Dictionary7 days ago — FACE definition: 1. the front of the head, where the eyes, nose, and mouth are: 2. a...</p></details>
+   Link:<a href="https://dictionary.cambridge.org/dictionary/english/face" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/dictionary/english/face</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>English meaning - Cambridge Dictionary7 days ago — FACE definition: 1. the front of the head, where the eyes, nose, and mouth are: 2. a...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/51245607_Self-Determination_Theory_and_Diminished_Functioning_The_Role_of_Interpersonal_Control_and_Psychological_Need_Thwarting" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/51245607_Self-Determination_Theory_and_Diminished_Functioning_The_Role_of_Interpersonal_Control_and_Psychological_Need_Thwarting</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Self-Determination Theory and Diminished Functioning...23 Jun 2011 — PDF | Drawing from self-determination theory, three studies explore...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/51245607_Self-Determination_Theory_and_Diminished_Functioning_The_Role_of_Interpersonal_Control_and_Psychological_Need_Thwarting" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/51245607_Self-Determination_Theory_and_Diminished_Functioning_The_Role_of_Interpersonal_Control_and_Psychological_Need_Thwarting</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Self-Determination Theory and Diminished Functioning...23 Jun 2011 — PDF | Drawing from self-determination theory, three studies explore...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: book.all-means-all.education  
    Title: self determination  
-   Link: <a href="https://book.all-means-all.education/ama-2025-en/chapter/self-determination/" target="_blank" rel="noopener noreferrer nofollow">https://book.all-means-all.education/ama-2025-en/chapter/self-determination/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>It recognises the learner as an active participant in their own...Read more...</p></details>
+   Link:<a href="https://book.all-means-all.education/ama-2025-en/chapter/self-determination/" target="_blank" rel="noopener noreferrer nofollow">https://book.all-means-all.education/ama-2025-en/chapter/self-determination/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>It recognises the learner as an active participant in their own...Read more...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: positivepsychology.com  
    Title: self determination theory  
-   Link: <a href="https://positivepsychology.com/self-determination-theory/" target="_blank" rel="noopener noreferrer nofollow">https://positivepsychology.com/self-determination-theory/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>and How It Explains Motivation21 Jun 2018 — Self-Determination Theory posits that autonomy, competence &amp; relatedness are fundamental psyc...</p></details>
+   Link:<a href="https://positivepsychology.com/self-determination-theory/" target="_blank" rel="noopener noreferrer nofollow">https://positivepsychology.com/self-determination-theory/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>and How It Explains Motivation21 Jun 2018 — Self-Determination Theory posits that autonomy, competence &amp; relatedness are fundamental psyc...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: structural-learning.com  
    Title: Learners need autonomy, competence, and relatedness to do well.Read more  
-   Link: <a href="https://www.structural-learning.com/post/self-determination-theory" target="_blank" rel="noopener noreferrer nofollow">https://www.structural-learning.com/post/self-determination-theory</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Self-Determination Theory: Autonomy, Competence, andNov 23, 2023 — Deci and Ryan (1985) showed that self-determination theory (SDT) matters...</p></details>
+   Link:<a href="https://www.structural-learning.com/post/self-determination-theory" target="_blank" rel="noopener noreferrer nofollow">https://www.structural-learning.com/post/self-determination-theory</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Self-Determination Theory: Autonomy, Competence, andNov 23, 2023 — Deci and Ryan (1985) showed that self-determination theory (SDT) matters...</p></details>
 
 ### Additional References
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: communityengagementhub.org  
-   Link: <a href="https://communityengagementhub.org/resource/the-debunking-handbook/" target="_blank" rel="noopener noreferrer nofollow">https://communityengagementhub.org/resource/the-debunking-handbook/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The debunking handbookA handbook on how to prevent and debunk misinformation. Available in multiple languages. Related Resources. Managin...</p></details>
+   Link:<a href="https://communityengagementhub.org/resource/the-debunking-handbook/" target="_blank" rel="noopener noreferrer nofollow">https://communityengagementhub.org/resource/the-debunking-handbook/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The debunking handbookA handbook on how to prevent and debunk misinformation. Available in multiple languages. Related Resources. Managin...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/?locale=en_GB" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/?locale=en_GB</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>log in or sign upCreate an account or log in to Facebook. Connect with friends, family and other people you know. Share photos...</p></details>
+   Link:<a href="https://www.facebook.com/?locale=en_GB" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/?locale=en_GB</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>log in or sign upCreate an account or log in to Facebook. Connect with friends, family and other people you know. Share photos...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: ltrr.arizona.edu  
-   Link: <a href="https://www.ltrr.arizona.edu/~katie/kt/natsgc/Debunking_Handbook.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ltrr.arizona.edu/~katie/kt/natsgc/Debunking_Handbook.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Unless great care is taken, any effort to debunk misinformation can inadvertently reinforce the very myths one seeks to correct.Read more...</p></details>
+   Link:<a href="https://www.ltrr.arizona.edu/~katie/kt/natsgc/Debunking_Handbook.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ltrr.arizona.edu/~katie/kt/natsgc/Debunking_Handbook.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Unless great care is taken, any effort to debunk misinformation can inadvertently reinforce the very myths one seeks to correct.Read more...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: verywellmind.com  
    Title: what is self determination theory 2795387  
-   Link: <a href="https://www.verywellmind.com/what-is-self-determination-theory-2795387" target="_blank" rel="noopener noreferrer nofollow">https://www.verywellmind.com/what-is-self-determination-theory-2795387</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How Self-Determination Theory Explains Motivation29 Oct 2025 — Self-determination theory suggests that fulfilling the core needs for auto...</p></details>
+   Link:<a href="https://www.verywellmind.com/what-is-self-determination-theory-2795387" target="_blank" rel="noopener noreferrer nofollow">https://www.verywellmind.com/what-is-self-determination-theory-2795387</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How Self-Determination Theory Explains Motivation29 Oct 2025 — Self-determination theory suggests that fulfilling the core needs for auto...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: skepticalscience.com  
    Title: debunking handbook 2020 references  
-   Link: <a href="https://skepticalscience.com/debunking-handbook-2020-references.html" target="_blank" rel="noopener noreferrer nofollow">https://skepticalscience.com/debunking-handbook-2020-references.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Debunking Handbook 2020: References26 Oct 2020 — A meta-analytic examination of the continued influence of misinformation in the face...</p></details>
+   Link:<a href="https://skepticalscience.com/debunking-handbook-2020-references.html" target="_blank" rel="noopener noreferrer nofollow">https://skepticalscience.com/debunking-handbook-2020-references.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Debunking Handbook 2020: References26 Oct 2020 — A meta-analytic examination of the continued influence of misinformation in the face...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: research-information.bris.ac.uk  
    Title: debunking handbook 2020  
-   Link: <a href="https://research-information.bris.ac.uk/en/datasets/debunking-handbook-2020/" target="_blank" rel="noopener noreferrer nofollow">https://research-information.bris.ac.uk/en/datasets/debunking-handbook-2020/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Handbook 2020This handbook compiles expert data about debunking misinformation. You may download a PDF of the handbook in the &quot;Highlights...</p></details>
+   Link:<a href="https://research-information.bris.ac.uk/en/datasets/debunking-handbook-2020/" target="_blank" rel="noopener noreferrer nofollow">https://research-information.bris.ac.uk/en/datasets/debunking-handbook-2020/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Handbook 2020This handbook compiles expert data about debunking misinformation. You may download a PDF of the handbook in the &quot;Highlights...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: tandfonline.com  
-   Link: <a href="https://www.tandfonline.com/doi/full/10.1080/15534510.2021.1908910" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/full/10.1080/15534510.2021.1908910</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Full article: Autonomy supportive and reactance...by D Wilbur · 2021 · Cited by 9 — Self-determination theory holds that people who live...</p></details>
+   Link:<a href="https://www.tandfonline.com/doi/full/10.1080/15534510.2021.1908910" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/full/10.1080/15534510.2021.1908910</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Full article: Autonomy supportive and reactance...by D Wilbur · 2021 · Cited by 9 — Self-determination theory holds that people who live...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: bristol.ac.uk  
    Title: debunking handbook  
-   Link: <a href="https://www.bristol.ac.uk/news/2020/october/debunking-handbook-.html" target="_blank" rel="noopener noreferrer nofollow">https://www.bristol.ac.uk/news/2020/october/debunking-handbook-.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>October: Debunking Handbook | News and features14 Oct 2020 — &quot;This handbook helps explain how best to combat misinformation, namely throu...</p></details>
+   Link:<a href="https://www.bristol.ac.uk/news/2020/october/debunking-handbook-.html" target="_blank" rel="noopener noreferrer nofollow">https://www.bristol.ac.uk/news/2020/october/debunking-handbook-.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>October: Debunking Handbook | News and features14 Oct 2020 — &quot;This handbook helps explain how best to combat misinformation, namely throu...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12256544/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12256544/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>emotional and motivational costs of poorly delivered...by DR Akolgo · 2025 · Cited by 5 — This study uses psychological reactance theory...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12256544/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12256544/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>emotional and motivational costs of poorly delivered...by DR Akolgo · 2025 · Cited by 5 — This study uses psychological reactance theory...</p></details>
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12121785/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12121785/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>by L Ye · 2025 · Cited by 14 — This study examines how autonomy-supportive organizational environments contribute to the satisfaction...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12121785/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12121785/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by L Ye · 2025 · Cited by 14 — This study examines how autonomy-supportive organizational environments contribute to the satisfaction...</p></details>

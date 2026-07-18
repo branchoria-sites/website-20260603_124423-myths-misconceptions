@@ -274,16 +274,16 @@ image: /assets/images/Myths_and_misconcept_0d48d7_expert_trust_health_481656_wak
 
 ## Introduction
 
-The 1998 Wakefield MMR paper is one of the clearest examples of how a health myth can borrow authority from respected institutions and then outlive the evidence that originally supported it. Although the paper did not prove that the measles, mumps and rubella (MMR) vaccine caused autism, its publication in a leading medical journal, its association with a practising doctor, and the intense media attention it received gave the claim an appearance of scientific legitimacy. Over the following years, the paper was discredited, its findings were challenged by larger studies, the article was retracted, and its lead author faced professional sanctions. Yet the underlying myth persisted. The case shows that once a false claim acquires the symbols of medical authority, correcting the scientific record may not be enough to erase its public influence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC2831678/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Lancet retracts 12-year-old article linking autism to MMR...by L Eggertson · 2010 · Cited by 423 — The authors reported that the pare...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3136032/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">The MMR vaccine and autism: Sensation, refutation, retraction...by TSS Rao · 2011 · Cited by 521 — In 1998, Andrew Wakefield and 12 o...</span></span></span>
+The 1998 Wakefield MMR paper is one of the clearest examples of how a health myth can borrow authority from respected institutions and then outlive the evidence that originally supported it. Although the paper did not prove that the measles, mumps and rubella (MMR) vaccine caused autism, its publication in a leading medical journal, its association with a practising doctor, and the intense media attention it received gave the claim an appearance of scientific legitimacy. Over the following years, the paper was discredited, its findings were challenged by larger studies, the article was retracted, and its lead author faced professional sanctions. Yet the underlying myth persisted. The case shows that once a false claim acquires the symbols of medical authority, correcting the scientific record may not be enough to erase its public influence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC2831678/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Lancet retracts 12-year-old article linking autism to MMR...by L Eggertson · 2010 · Cited by 423 — The authors reported that the pare...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3136032/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">The MMR vaccine and autism: Sensation, refutation, retraction...by TSS Rao · 2011 · Cited by 521 — In 1998, Andrew Wakefield and 12 o...</span></span></span>
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_expert_trust_health_481656_wakefield_mmr_author_eb5570-Illustration-1-dark.svg" | relative_url }}" alt="MMR Case illustration 1" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_expert_trust_health_481656_wakefield_mmr_author_eb5570-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_expert_trust_health_481656_wakefield_mmr_author_eb5570-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## What the Original Paper Appeared to Claim
 
-The paper, published in *The Lancet* in February 1998, described twelve children with developmental and gastrointestinal problems. Several parents reported that their children's symptoms appeared after receiving the MMR vaccine. Although the study was a small case series rather than a controlled experiment, the publication suggested a possible connection between vaccination, bowel disease and developmental disorders. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/The_Lancet" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[The Lancet]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">The LancetThe Lancet is a weekly peer-reviewed general medical journal, founded in England in 1823. [1] It is one of the world&#x27;s highe...</span></span></span>
+The paper, published in *The Lancet* in February 1998, described twelve children with developmental and gastrointestinal problems. Several parents reported that their children's symptoms appeared after receiving the MMR vaccine. Although the study was a small case series rather than a controlled experiment, the publication suggested a possible connection between vaccination, bowel disease and developmental disorders.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/The_Lancet" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[The Lancet]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">The LancetThe Lancet is a weekly peer-reviewed general medical journal, founded in England in 1823. [1] It is one of the world&#x27;s highe...</span></span></span>
 
-A crucial point often lost in public discussion was that the paper did not demonstrate causation. The sample was tiny, lacked an appropriate comparison group and could not establish whether vaccination actually caused the observed conditions. Nevertheless, many readers encountered the study not through the technical paper itself but through simplified news coverage and public statements surrounding it. What reached the public was often a much stronger message than the evidence justified. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6768751/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCThe MMR Vaccine and Autism</span><span class="citation-popover-snippet">vaccination coverage and a dramatic increase in measles cases (56–58). Public... misconceptions that could erode their confidence in vac...</span></span></span>
+A crucial point often lost in public discussion was that the paper did not demonstrate causation. The sample was tiny, lacked an appropriate comparison group and could not establish whether vaccination actually caused the observed conditions. Nevertheless, many readers encountered the study not through the technical paper itself but through simplified news coverage and public statements surrounding it. What reached the public was often a much stronger message than the evidence justified.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6768751/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCThe MMR Vaccine and Autism</span><span class="citation-popover-snippet">vaccination coverage and a dramatic increase in measles cases (56–58). Public... misconceptions that could erode their confidence in vac...</span></span></span>
 
-The distinction mattered because scientific authority often depends less on what a paper literally proves than on what people believe it proves. In public [memory]({{ 'memory/' | relative_url }}), the study became "the paper that linked MMR and autism", even though its evidential basis was weak from the outset. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10096191/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCCorrecting vaccine misinformation: A failure to replicate</span><span class="citation-popover-snippet">by UKH Ecker · 2023 · Cited by 47 — The authors found that repeating vaccine “myths” and contrasting them with corresponding facts bac...</span></span></span>
+The distinction mattered because scientific authority often depends less on what a paper literally proves than on what people believe it proves. In public [memory]({{ 'memory/' | relative_url }}), the study became "the paper that linked MMR and autism", even though its evidential basis was weak from the outset.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10096191/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCCorrecting vaccine misinformation: A failure to replicate</span><span class="citation-popover-snippet">by UKH Ecker · 2023 · Cited by 47 — The authors found that repeating vaccine “myths” and contrasting them with corresponding facts bac...</span></span></span>
 
 ## How Journal Prestige and Doctor Status Amplified the Story
 
@@ -293,229 +293,229 @@ Three forms of authority reinforced one another:
 
 * **Medical credentials:** Andrew Wakefield was a physician and researcher, giving the public a reason to treat the claim as expert knowledge rather than speculation.
 * **Journal prestige:** *The Lancet* was and remains one of the world's most influential medical journals. Publication there suggested that the work had passed serious scientific scrutiny.
-* **Media [amplification]({{ 'amplification/' | relative_url }}):** News coverage frequently focused on the possibility of a vaccine-autism link, a narrative that attracted public attention and parental concern. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC2831678/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Lancet retracts 12-year-old article linking autism to MMR...by L Eggertson · 2010 · Cited by 423 — The authors reported that the pare...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3136032/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">The MMR vaccine and autism: Sensation, refutation, retraction...by TSS Rao · 2011 · Cited by 521 — In 1998, Andrew Wakefield and 12 o...</span></span></span>
+* **Media [amplification]({{ 'amplification/' | relative_url }}):** News coverage frequently focused on the possibility of a vaccine-autism link, a narrative that attracted public attention and parental concern.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC2831678/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Lancet retracts 12-year-old article linking autism to MMR...by L Eggertson · 2010 · Cited by 423 — The authors reported that the pare...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3136032/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">The MMR vaccine and autism: Sensation, refutation, retraction...by TSS Rao · 2011 · Cited by 521 — In 1998, Andrew Wakefield and 12 o...</span></span></span>
 
-This combination created a powerful authority effect. Many members of the public were not evaluating statistical methods or study design. Instead, they relied on familiar trust cues: a doctor, a hospital setting and a respected journal. Those cues normally help people navigate complex medical information. In this case, they helped a weak claim travel far beyond what the evidence warranted. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6768751/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCThe MMR Vaccine and Autism</span><span class="citation-popover-snippet">vaccination coverage and a dramatic increase in measles cases (56–58). Public... misconceptions that could erode their confidence in vac...</span></span></span>
+This combination created a powerful authority effect. Many members of the public were not evaluating statistical methods or study design. Instead, they relied on familiar trust cues: a doctor, a hospital setting and a respected journal. Those cues normally help people navigate complex medical information. In this case, they helped a weak claim travel far beyond what the evidence warranted.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6768751/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCThe MMR Vaccine and Autism</span><span class="citation-popover-snippet">vaccination coverage and a dramatic increase in measles cases (56–58). Public... misconceptions that could erode their confidence in vac...</span></span></span>
 
-The case is particularly important because it was not a fringe rumour attacking medicine from the outside. The claim initially appeared to emerge from within mainstream medicine itself. That distinction gave it unusual durability and made later [corrections]({{ 'corrections/' | relative_url }}) more difficult. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.bmj.com/content/340/bmj.c696" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bmj.com">[BMJ]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bmj.com</span><span class="citation-popover-snippet">Lancet retracts Wakefield&#x27;s MMR paperby C Dyer · 2010 · Cited by 118 — The Lancet has retracted the 12 year old paper that sparked an...</span></span></span>
+The case is particularly important because it was not a fringe rumour attacking medicine from the outside. The claim initially appeared to emerge from within mainstream medicine itself. That distinction gave it unusual durability and made later [corrections]({{ 'corrections/' | relative_url }}) more difficult.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.bmj.com/content/340/bmj.c696" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bmj.com">[BMJ]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bmj.com</span><span class="citation-popover-snippet">Lancet retracts Wakefield&#x27;s MMR paperby C Dyer · 2010 · Cited by 118 — The Lancet has retracted the 12 year old paper that sparked an...</span></span></span>
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_expert_trust_health_481656_wakefield_mmr_author_eb5570-Illustration-2-dark.svg" | relative_url }}" alt="MMR Case illustration 2" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_expert_trust_health_481656_wakefield_mmr_author_eb5570-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_expert_trust_health_481656_wakefield_mmr_author_eb5570-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the Scientific and Professional Response Became So Severe
 
 As scrutiny increased, investigators identified serious problems with the research and with how it had been conducted and presented.
 
-In 2010, the UK's General Medical Council concluded that Wakefield had acted dishonestly and irresponsibly in relation to the research. Following those findings, *The Lancet* fully retracted the paper. The journal's editor later stated that the publication had been misled about important aspects of the work. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.bmj.com/content/340/bmj.c593" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bmj.com">[BMJ]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bmj.com</span><span class="citation-popover-snippet">Wakefield was dishonest and irresponsible over MMR...by C Dyer · 2010 · Cited by 23 — Andrew Wakefield, the gastroenterologist whose...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.bmj.com/content/342/bmj.c7452/rapid-responses" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bmj.com">[BMJ]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bmj.com</span><span class="citation-popover-title">rapid responses</span><span class="citation-popover-snippet">At that time in the late...Read more...</span></span></span>
+In 2010, the UK's General Medical Council concluded that Wakefield had acted dishonestly and irresponsibly in relation to the research. Following those findings, *The Lancet* fully retracted the paper. The journal's editor later stated that the publication had been misled about important aspects of the work.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.bmj.com/content/340/bmj.c593" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bmj.com">[BMJ]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bmj.com</span><span class="citation-popover-snippet">Wakefield was dishonest and irresponsible over MMR...by C Dyer · 2010 · Cited by 23 — Andrew Wakefield, the gastroenterologist whose...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.bmj.com/content/342/bmj.c7452/rapid-responses" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bmj.com">[BMJ]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bmj.com</span><span class="citation-popover-title">rapid responses</span><span class="citation-popover-snippet">At that time in the late...Read more...</span></span></span>
 
-The controversy deepened further when investigations and subsequent reporting raised questions about undisclosed conflicts of interest, ethical conduct and the accuracy of elements of the published account. BMJ later described the work as fraudulent and argued that the appearance of a vaccine-autism connection had been constructed through misrepresented evidence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.immunize.org/clinical/vaccine-confidence/topic/mmr-vaccine/bmj-deer-mmr-wakefield/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: immunize.org">[Immunize.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">immunize.org</span><span class="citation-popover-title">bmj deer mmr wakefield</span><span class="citation-popover-snippet">Fraud Behind the MMR ScareOct 9, 2023 — Fraud Behind the MMR Scare · BMJ Calls Wakefield&#x27;s Study Linking MMR Vaccine to Autism &#x27;Fraudulen...</span></span></span> CIDRAP These developments transformed the case from a scientific dispute into a cautionary tale about research integrity. The issue was no longer me <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cidrap.umn.edu/public-health/report-says-1998-vaccine-autism-study-was-fraud" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cidrap.umn.edu">[cidrap.umn.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cidrap.umn.edu</span><span class="citation-popover-title">report says 1998 vaccine autism study was fraud</span><span class="citation-popover-snippet">says 1998 vaccine-autism study was fraud6 Jan 2011 — A long investigative article in BMJ says that the retracted 1998 Lancet report linki...</span></span></span> rely whether a hypothesis was correct. It became a question of whether the research process itself had been conducted honestly and ethically. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.bmj.com/content/bmj/340/7741/News.full.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bmj.com">[BMJ]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bmj.com</span><span class="citation-popover-snippet">lancet retracts MMr paper after GMC finds andrew...by C Dyer · 2010 · Cited by 9 — One of the biggest public health scares in UK history...</span></span></span>
+The controversy deepened further when investigations and subsequent reporting raised questions about undisclosed conflicts of interest, ethical conduct and the accuracy of elements of the published account. BMJ later described the work as fraudulent and argued that the appearance of a vaccine-autism connection had been constructed through misrepresented evidence.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.immunize.org/clinical/vaccine-confidence/topic/mmr-vaccine/bmj-deer-mmr-wakefield/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: immunize.org">[Immunize.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">immunize.org</span><span class="citation-popover-title">bmj deer mmr wakefield</span><span class="citation-popover-snippet">Fraud Behind the MMR ScareOct 9, 2023 — Fraud Behind the MMR Scare · BMJ Calls Wakefield&#x27;s Study Linking MMR Vaccine to Autism &#x27;Fraudulen...</span></span></span> CIDRAP These developments transformed the case from a scientific dispute into a cautionary tale about research integrity. The issue was no longer me<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cidrap.umn.edu/public-health/report-says-1998-vaccine-autism-study-was-fraud" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cidrap.umn.edu">[cidrap.umn.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cidrap.umn.edu</span><span class="citation-popover-title">report says 1998 vaccine autism study was fraud</span><span class="citation-popover-snippet">says 1998 vaccine-autism study was fraud6 Jan 2011 — A long investigative article in BMJ says that the retracted 1998 Lancet report linki...</span></span></span> rely whether a hypothesis was correct. It became a question of whether the research process itself had been conducted honestly and ethically.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.bmj.com/content/bmj/340/7741/News.full.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bmj.com">[BMJ]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bmj.com</span><span class="citation-popover-snippet">lancet retracts MMr paper after GMC finds andrew...by C Dyer · 2010 · Cited by 9 — One of the biggest public health scares in UK history...</span></span></span>
 
 ## Why Retraction Did Not Erase the Myth
 
 One might expect that a full retraction, professional sanctions and decades of follow-up research would end the controversy. Instead, the myth proved remarkably resilient.
 
-Part of the reason is psychological. First impressions often have a stronger effect than later corrections. Many people heard the original claim but never encountered the retraction. Others viewed the retraction itself as evidence of a supposed establishment cover-up rather than a [correction]({{ 'correction/' | relative_url }}) of flawed research. Once distrust enters the picture, institutional actions can be reinterpreted through that distrust. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10096191/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCCorrecting vaccine misinformation: A failure to replicate</span><span class="citation-popover-snippet">by UKH Ecker · 2023 · Cited by 47 — The authors found that repeating vaccine “myths” and contrasting them with corresponding facts bac...</span></span></span>
+Part of the reason is psychological. First impressions often have a stronger effect than later corrections. Many people heard the original claim but never encountered the retraction. Others viewed the retraction itself as evidence of a supposed establishment cover-up rather than a [correction]({{ 'correction/' | relative_url }}) of flawed research. Once distrust enters the picture, institutional actions can be reinterpreted through that distrust.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10096191/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCCorrecting vaccine misinformation: A failure to replicate</span><span class="citation-popover-snippet">by UKH Ecker · 2023 · Cited by 47 — The authors found that repeating vaccine “myths” and contrasting them with corresponding facts bac...</span></span></span>
 
-The structure of media attention also played a role. The original claim was dramatic and newsworthy. The slow accumulation of studies finding no connection between MMR vaccination and autism was less sensational. As a result, the corrective evidence never achieved the same cultural impact as the original allegation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10096191/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCCorrecting vaccine misinformation: A failure to replicate</span><span class="citation-popover-snippet">by UKH Ecker · 2023 · Cited by 47 — The authors found that repeating vaccine “myths” and contrasting them with corresponding facts bac...</span></span></span>
+The structure of media attention also played a role. The original claim was dramatic and newsworthy. The slow accumulation of studies finding no connection between MMR vaccination and autism was less sensational. As a result, the corrective evidence never achieved the same cultural impact as the original allegation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10096191/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCCorrecting vaccine misinformation: A failure to replicate</span><span class="citation-popover-snippet">by UKH Ecker · 2023 · Cited by 47 — The authors found that repeating vaccine “myths” and contrasting them with corresponding facts bac...</span></span></span>
 
-Research on the paper's afterlife illustrates another problem. Even after retraction, the article continued to be cited and discussed. Many later references acknowledged that it had been retracted, but the paper remained a symbolic reference point in debates about [vaccines]({{ 'vaccines/' | relative_url }}) and autism. Its influence therefore persisted beyond its scientific credibility. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2012.11475" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">A qualitative and quantitative analysis of open citations to retracted articles: the Wakefield et al.&#x27;s caseDecember 21, 2020...</span><span class="citation-popover-meta">Published: December 21, 2020</span></span></span>
+Research on the paper's afterlife illustrates another problem. Even after retraction, the article continued to be cited and discussed. Many later references acknowledged that it had been retracted, but the paper remained a symbolic reference point in debates about [vaccines]({{ 'vaccines/' | relative_url }}) and autism. Its influence therefore persisted beyond its scientific credibility.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2012.11475" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">A qualitative and quantitative analysis of open citations to retracted articles: the Wakefield et al.&#x27;s caseDecember 21, 2020...</span><span class="citation-popover-meta">Published: December 21, 2020</span></span></span>
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_expert_trust_health_481656_wakefield_mmr_author_eb5570-Illustration-3-dark.svg" | relative_url }}" alt="MMR Case illustration 3" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_expert_trust_health_481656_wakefield_mmr_author_eb5570-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_expert_trust_health_481656_wakefield_mmr_author_eb5570-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The Lasting Lesson About Medical Authority
 
 The Wakefield case demonstrates that authority is often socially transmitted rather than carefully evaluated. Most people cannot personally assess complex biomedical evidence, so they reasonably depend on trusted intermediaries. Problems arise when a claim acquires the appearance of consensus before genuine consensus exists.
 
-The lesson is not that medical journals or doctors are untrustworthy. In fact, the eventual exposure of the paper's flaws, the professional investigation and the retraction all came from within scientific and medical institutions themselves. The more important lesson is that individual experts and prestigious publications are not substitutes for a broader body of evidence. Scientific reliability emerges from replication, independent verification and accumulated research, not from a single high-profile paper. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10096191/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCCorrecting vaccine misinformation: A failure to replicate</span><span class="citation-popover-snippet">by UKH Ecker · 2023 · Cited by 47 — The authors found that repeating vaccine “myths” and contrasting them with corresponding facts bac...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www-bmj-com.bibliotheek.ehb.be/content/342/bmj.c7452" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: www-bmj-com.bibliotheek.ehb.be">[BMJ]</a><span class="citation-popover" role="note"><span class="citation-popover-source">www-bmj-com.bibliotheek.ehb.be</span><span class="citation-popover-title">be Wakefield&#x27;s article linking MMR vaccine and autism</span><span class="citation-popover-snippet">The BMJ6 Jan 2011 —... fraud.”1 Never has this been truer than of the 1998 Lancet paper that implied a link between the measles, mumps...</span></span></span>
+The lesson is not that medical journals or doctors are untrustworthy. In fact, the eventual exposure of the paper's flaws, the professional investigation and the retraction all came from within scientific and medical institutions themselves. The more important lesson is that individual experts and prestigious publications are not substitutes for a broader body of evidence. Scientific reliability emerges from replication, independent verification and accumulated research, not from a single high-profile paper.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10096191/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCCorrecting vaccine misinformation: A failure to replicate</span><span class="citation-popover-snippet">by UKH Ecker · 2023 · Cited by 47 — The authors found that repeating vaccine “myths” and contrasting them with corresponding facts bac...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www-bmj-com.bibliotheek.ehb.be/content/342/bmj.c7452" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: www-bmj-com.bibliotheek.ehb.be">[BMJ]</a><span class="citation-popover" role="note"><span class="citation-popover-source">www-bmj-com.bibliotheek.ehb.be</span><span class="citation-popover-title">be Wakefield&#x27;s article linking MMR vaccine and autism</span><span class="citation-popover-snippet">The BMJ6 Jan 2011 —... fraud.”1 Never has this been truer than of the 1998 Lancet paper that implied a link between the measles, mumps...</span></span></span>
 
-The durability of the MMR-autism myth shows how difficult it can be to reverse a false belief once it has been endorsed by symbols of expertise. Even today, the claim remains widely recognised despite decades of evidence finding no causal link between MMR vaccination and autism. The authority that helped launch the myth proved far easier to acquire than to remove. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.washingtonpost.com/health/2025/04/23/measles-vaccine-misinformation-poll/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: washingtonpost.com">[washingtonpost.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">washingtonpost.com</span><span class="citation-popover-snippet">The poll reveals that more than half of U.S. adults have encountered false claims, including that the MMR vaccine is linked to autism, is...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://publichealth.jhu.edu/2025/vaccines-do-not-cause-autism" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: publichealth.jhu.edu">[Bloomberg School of Public Health 3PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">publichealth.jhu.edu</span><span class="citation-popover-title">vaccines do not cause autism</span><span class="citation-popover-snippet">Bloomberg School of Public HealthVaccines Do Not Cause Autism &#124; Johns Hopkins19 Mar 2025 — But in 1998, a paper describing 12 children wh...</span></span></span>
+The durability of the MMR-autism myth shows how difficult it can be to reverse a false belief once it has been endorsed by symbols of expertise. Even today, the claim remains widely recognised despite decades of evidence finding no causal link between MMR vaccination and autism. The authority that helped launch the myth proved far easier to acquire than to remove.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.washingtonpost.com/health/2025/04/23/measles-vaccine-misinformation-poll/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: washingtonpost.com">[washingtonpost.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">washingtonpost.com</span><span class="citation-popover-snippet">The poll reveals that more than half of U.S. adults have encountered false claims, including that the MMR vaccine is linked to autism, is...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://publichealth.jhu.edu/2025/vaccines-do-not-cause-autism" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: publichealth.jhu.edu">[Bloomberg School of Public Health 3PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">publichealth.jhu.edu</span><span class="citation-popover-title">vaccines do not cause autism</span><span class="citation-popover-snippet">Bloomberg School of Public HealthVaccines Do Not Cause Autism &#124; Johns Hopkins19 Mar 2025 — But in 1998, a paper describing 12 children wh...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How the MMR Myth Borrowed Medical Authority. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How the MMR Myth Borrowed Medical Authority. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Bad+Science+by+Ben+Goldacre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Bad Science on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=wICuv0ePMYoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Bad Science" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Bad+Science+by+Ben+Goldacre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Bad Science">Bad Science</a>
-        </h4>
-        <p class="fr-book-author">By Ben Goldacre</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Bad+Science+by+Ben+Goldacre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Bad Science on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=wICuv0ePMYoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Bad Science" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Bad+Science+by+Ben+Goldacre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Bad Science">Bad Science</a>
+</h4>
+<p class="fr-book-author">By Ben Goldacre</p>
         
-        <p class="fr-book-desc">Frequently cited in discussions of vaccine myths and poor evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Bad+Science+by+Ben+Goldacre&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Frequently cited in discussions of vaccine myths and poor evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Bad+Science+by+Ben+Goldacre&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Calling Bullshit on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Plu9DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Calling Bullshit" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Calling Bullshit">Calling Bullshit</a>
-        </h4>
-        <p class="fr-book-author">By Carl T. Bergstrom, Jevin D. West</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Calling Bullshit on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Plu9DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Calling Bullshit" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Calling Bullshit">Calling Bullshit</a>
+</h4>
+<p class="fr-book-author">By Carl T. Bergstrom, Jevin D. West</p>
         
-        <p class="fr-book-desc">Provides tools for spotting misleading evidence claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides tools for spotting misleading evidence claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Skeptics&#x27; Guide to the Universe on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CuVKDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Skeptics&#x27; Guide to the Universe" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Skeptics&#x27; Guide to the Universe">The Skeptics&#x27; Guide to the Universe</a>
-        </h4>
-        <p class="fr-book-author">By Dr. Steven Novella</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Skeptics&#x27; Guide to the Universe on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CuVKDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Skeptics&#x27; Guide to the Universe" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Skeptics&#x27; Guide to the Universe">The Skeptics&#x27; Guide to the Universe</a>
+</h4>
+<p class="fr-book-author">By Dr. Steven Novella</p>
         
-        <p class="fr-book-desc">Explains why myths can survive despite correction.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains why myths can survive despite correction.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Promotes scientific reasoning against enduring misinformation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Promotes scientific reasoning against enduring misinformation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Bad+Science&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Bad Science</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Calling+Bullshit&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Calling Bullshit</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Skeptics%27+to+the+Universe+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Skeptics&#x27; to the Universe books</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Bad+Science&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Bad Science</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Calling+Bullshit&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Calling Bullshit</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Skeptics%27+to+the+Universe+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Skeptics&#x27; to the Universe books</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mmr-case-how-the-mmr-myth-borrowed-medical-authority-myths-and-misconcept-medical-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical poster" data-ebay-reference="mmr-case-how-the-mmr-myth-borrowed-medical-authority-myths-and-misconcept-medical-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Human Anatomy model body MAJOR ORGANS A2 laminated medical doctor biology poster"><img src="{{ '/assets/images/marketplace-covers/a22ae66f5fa7967cd507.jpg' | relative_url }}" alt="Listing image for Human Anatomy model body MAJOR ORGANS A2 laminated medical doctor biology poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mmr-case-how-the-mmr-myth-borrowed-medical-authority-myths-and-misconcept-medical-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical poster" data-ebay-reference="mmr-case-how-the-mmr-myth-borrowed-medical-authority-myths-and-misconcept-medical-poster" target="_blank" rel="sponsored noopener noreferrer">Human Anatomy model body MAJOR ORGANS A2 laminated medical doctor biology poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mmr-case-how-the-mmr-myth-borrowed-medical-authority-myths-and-misconcept-medical-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical poster" data-ebay-reference="mmr-case-how-the-mmr-myth-borrowed-medical-authority-myths-and-misconcept-medical-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for medical poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: medical poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mmr-case-how-the-mmr-myth-borrowed-medical-authority-myths-and-misconcept-medical-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical poster" data-ebay-reference="mmr-case-how-the-mmr-myth-borrowed-medical-authority-myths-and-misconcept-medical-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mmr-case-how-the-mmr-myth-borrowed-medical-authority-myths-and-misconcept-medical-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical poster" data-ebay-reference="mmr-case-how-the-mmr-myth-borrowed-medical-authority-myths-and-misconcept-medical-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Human Anatomy model body MAJOR ORGANS A2 laminated medical doctor biology poster"><img src="{{ '/assets/images/marketplace-covers/a22ae66f5fa7967cd507.jpg' | relative_url }}" alt="Listing image for Human Anatomy model body MAJOR ORGANS A2 laminated medical doctor biology poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mmr-case-how-the-mmr-myth-borrowed-medical-authority-myths-and-misconcept-medical-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical poster" data-ebay-reference="mmr-case-how-the-mmr-myth-borrowed-medical-authority-myths-and-misconcept-medical-poster" target="_blank" rel="sponsored noopener noreferrer">Human Anatomy model body MAJOR ORGANS A2 laminated medical doctor biology poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mmr-case-how-the-mmr-myth-borrowed-medical-authority-myths-and-misconcept-medical-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical poster" data-ebay-reference="mmr-case-how-the-mmr-myth-borrowed-medical-authority-myths-and-misconcept-medical-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for medical poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: medical poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mmr-case-how-the-mmr-myth-borrowed-medical-authority-myths-and-misconcept-medical-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical poster" data-ebay-reference="mmr-case-how-the-mmr-myth-borrowed-medical-authority-myths-and-misconcept-medical-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mmr-case-how-the-mmr-myth-borrowed-medical-authority-myths-and-misconcept-medical-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical poster" data-ebay-reference="mmr-case-how-the-mmr-myth-borrowed-medical-authority-myths-and-misconcept-medical-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Foot Reflexology Poster Human Anatomy Educational Student Medical Poster A5 - A3"><img src="{{ '/assets/images/marketplace-covers/a7985f22cf7ddbd5dd27.jpg' | relative_url }}" alt="Listing image for Foot Reflexology Poster Human Anatomy Educational Student Medical Poster A5 - A3" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mmr-case-how-the-mmr-myth-borrowed-medical-authority-myths-and-misconcept-medical-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical poster" data-ebay-reference="mmr-case-how-the-mmr-myth-borrowed-medical-authority-myths-and-misconcept-medical-poster" target="_blank" rel="sponsored noopener noreferrer">Foot Reflexology Poster Human Anatomy Educational Student Medical Poster A5 - A3</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mmr-case-how-the-mmr-myth-borrowed-medical-authority-myths-and-misconcept-medical-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical poster" data-ebay-reference="mmr-case-how-the-mmr-myth-borrowed-medical-authority-myths-and-misconcept-medical-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for medical poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: medical poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mmr-case-how-the-mmr-myth-borrowed-medical-authority-myths-and-misconcept-medical-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical poster" data-ebay-reference="mmr-case-how-the-mmr-myth-borrowed-medical-authority-myths-and-misconcept-medical-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mmr-case-how-the-mmr-myth-borrowed-medical-authority-myths-and-misconcept-medical-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical poster" data-ebay-reference="mmr-case-how-the-mmr-myth-borrowed-medical-authority-myths-and-misconcept-medical-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Foot Reflexology Poster Human Anatomy Educational Student Medical Poster A5 - A3"><img src="{{ '/assets/images/marketplace-covers/a7985f22cf7ddbd5dd27.jpg' | relative_url }}" alt="Listing image for Foot Reflexology Poster Human Anatomy Educational Student Medical Poster A5 - A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mmr-case-how-the-mmr-myth-borrowed-medical-authority-myths-and-misconcept-medical-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical poster" data-ebay-reference="mmr-case-how-the-mmr-myth-borrowed-medical-authority-myths-and-misconcept-medical-poster" target="_blank" rel="sponsored noopener noreferrer">Foot Reflexology Poster Human Anatomy Educational Student Medical Poster A5 - A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mmr-case-how-the-mmr-myth-borrowed-medical-authority-myths-and-misconcept-medical-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical poster" data-ebay-reference="mmr-case-how-the-mmr-myth-borrowed-medical-authority-myths-and-misconcept-medical-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for medical poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: medical poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mmr-case-how-the-mmr-myth-borrowed-medical-authority-myths-and-misconcept-medical-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical poster" data-ebay-reference="mmr-case-how-the-mmr-myth-borrowed-medical-authority-myths-and-misconcept-medical-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mmr-case-how-the-mmr-myth-borrowed-medical-authority-myths-and-misconcept-medical-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical poster" data-ebay-reference="mmr-case-how-the-mmr-myth-borrowed-medical-authority-myths-and-misconcept-medical-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage St John Ambulance Medical Anatomical Wall Chart Large Poster Paper/Cloth"><img src="{{ '/assets/images/marketplace-covers/c5ddf8724b31ccb6afd1.jpg' | relative_url }}" alt="Listing image for Vintage St John Ambulance Medical Anatomical Wall Chart Large Poster Paper/Cloth" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mmr-case-how-the-mmr-myth-borrowed-medical-authority-myths-and-misconcept-medical-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical poster" data-ebay-reference="mmr-case-how-the-mmr-myth-borrowed-medical-authority-myths-and-misconcept-medical-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage St John Ambulance Medical Anatomical Wall Chart Large Poster Paper/Cloth</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mmr-case-how-the-mmr-myth-borrowed-medical-authority-myths-and-misconcept-medical-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical poster" data-ebay-reference="mmr-case-how-the-mmr-myth-borrowed-medical-authority-myths-and-misconcept-medical-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for medical poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: medical poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mmr-case-how-the-mmr-myth-borrowed-medical-authority-myths-and-misconcept-medical-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical poster" data-ebay-reference="mmr-case-how-the-mmr-myth-borrowed-medical-authority-myths-and-misconcept-medical-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mmr-case-how-the-mmr-myth-borrowed-medical-authority-myths-and-misconcept-medical-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical poster" data-ebay-reference="mmr-case-how-the-mmr-myth-borrowed-medical-authority-myths-and-misconcept-medical-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage St John Ambulance Medical Anatomical Wall Chart Large Poster Paper/Cloth"><img src="{{ '/assets/images/marketplace-covers/c5ddf8724b31ccb6afd1.jpg' | relative_url }}" alt="Listing image for Vintage St John Ambulance Medical Anatomical Wall Chart Large Poster Paper/Cloth" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mmr-case-how-the-mmr-myth-borrowed-medical-authority-myths-and-misconcept-medical-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical poster" data-ebay-reference="mmr-case-how-the-mmr-myth-borrowed-medical-authority-myths-and-misconcept-medical-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage St John Ambulance Medical Anatomical Wall Chart Large Poster Paper/Cloth</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mmr-case-how-the-mmr-myth-borrowed-medical-authority-myths-and-misconcept-medical-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical poster" data-ebay-reference="mmr-case-how-the-mmr-myth-borrowed-medical-authority-myths-and-misconcept-medical-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for medical poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: medical poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mmr-case-how-the-mmr-myth-borrowed-medical-authority-myths-and-misconcept-medical-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical poster" data-ebay-reference="mmr-case-how-the-mmr-myth-borrowed-medical-authority-myths-and-misconcept-medical-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mmr-case-how-the-mmr-myth-borrowed-medical-authority-myths-and-misconcept-medical-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical poster" data-ebay-reference="mmr-case-how-the-mmr-myth-borrowed-medical-authority-myths-and-misconcept-medical-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage Ciba-Geigy 3D Anatomical Poster Set - Brain, Heart &amp; Lung - Medical Reli"><img src="{{ '/assets/images/marketplace-covers/ce5aa72deba65537477a.jpg' | relative_url }}" alt="Listing image for Vintage Ciba-Geigy 3D Anatomical Poster Set - Brain, Heart &amp; Lung - Medical Reli" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mmr-case-how-the-mmr-myth-borrowed-medical-authority-myths-and-misconcept-medical-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical poster" data-ebay-reference="mmr-case-how-the-mmr-myth-borrowed-medical-authority-myths-and-misconcept-medical-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage Ciba-Geigy 3D Anatomical Poster Set - Brain, Heart &amp; Lung - Medical Reli</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mmr-case-how-the-mmr-myth-borrowed-medical-authority-myths-and-misconcept-medical-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical poster" data-ebay-reference="mmr-case-how-the-mmr-myth-borrowed-medical-authority-myths-and-misconcept-medical-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for medical poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: medical poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mmr-case-how-the-mmr-myth-borrowed-medical-authority-myths-and-misconcept-medical-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical poster" data-ebay-reference="mmr-case-how-the-mmr-myth-borrowed-medical-authority-myths-and-misconcept-medical-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mmr-case-how-the-mmr-myth-borrowed-medical-authority-myths-and-misconcept-medical-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical poster" data-ebay-reference="mmr-case-how-the-mmr-myth-borrowed-medical-authority-myths-and-misconcept-medical-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mmr-case-how-the-mmr-myth-borrowed-medical-authority-myths-and-misconcept-medical-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical poster" data-ebay-reference="mmr-case-how-the-mmr-myth-borrowed-medical-authority-myths-and-misconcept-medical-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage Ciba-Geigy 3D Anatomical Poster Set - Brain, Heart &amp; Lung - Medical Reli"><img src="{{ '/assets/images/marketplace-covers/ce5aa72deba65537477a.jpg' | relative_url }}" alt="Listing image for Vintage Ciba-Geigy 3D Anatomical Poster Set - Brain, Heart &amp; Lung - Medical Reli" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mmr-case-how-the-mmr-myth-borrowed-medical-authority-myths-and-misconcept-medical-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical poster" data-ebay-reference="mmr-case-how-the-mmr-myth-borrowed-medical-authority-myths-and-misconcept-medical-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage Ciba-Geigy 3D Anatomical Poster Set - Brain, Heart &amp; Lung - Medical Reli</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mmr-case-how-the-mmr-myth-borrowed-medical-authority-myths-and-misconcept-medical-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical poster" data-ebay-reference="mmr-case-how-the-mmr-myth-borrowed-medical-authority-myths-and-misconcept-medical-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for medical poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: medical poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mmr-case-how-the-mmr-myth-borrowed-medical-authority-myths-and-misconcept-medical-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical poster" data-ebay-reference="mmr-case-how-the-mmr-myth-borrowed-medical-authority-myths-and-misconcept-medical-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mmr-case-how-the-mmr-myth-borrowed-medical-authority-myths-and-misconcept-medical-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical poster" data-ebay-reference="mmr-case-how-the-mmr-myth-borrowed-medical-authority-myths-and-misconcept-medical-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -531,7 +531,7 @@ The durability of the MMR-autism myth shows how difficult it can be to reverse a
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -551,7 +551,7 @@ The durability of the MMR-autism myth shows how difficult it can be to reverse a
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -583,7 +583,7 @@ The durability of the MMR-autism myth shows how difficult it can be to reverse a
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -635,7 +635,7 @@ The durability of the MMR-autism myth shows how difficult it can be to reverse a
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -680,7 +680,7 @@ The durability of the MMR-autism myth shows how difficult it can be to reverse a
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -721,173 +721,173 @@ The durability of the MMR-autism myth shows how difficult it can be to reverse a
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC2831678/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC2831678/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Lancet retracts 12-year-old article linking autism to MMR...by L Eggertson · 2010 · Cited by 423 — The authors reported that the pare...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC2831678/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC2831678/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Lancet retracts 12-year-old article linking autism to MMR...by L Eggertson · 2010 · Cited by 423 — The authors reported that the pare...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3136032/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3136032/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The MMR vaccine and autism: Sensation, refutation, retraction...by TSS Rao · 2011 · Cited by 521 — In 1998, Andrew Wakefield and 12 o...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3136032/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3136032/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The MMR vaccine and autism: Sensation, refutation, retraction...by TSS Rao · 2011 · Cited by 521 — In 1998, Andrew Wakefield and 12 o...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: bmj.com  
-   Link: <a href="https://www.bmj.com/content/340/bmj.c696" target="_blank" rel="noopener noreferrer nofollow">https://www.bmj.com/content/340/bmj.c696</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Lancet retracts Wakefield&#x27;s MMR paperby C Dyer · 2010 · Cited by 118 — The Lancet has retracted the 12 year old paper that sparked an...</p></details>
+   Link:<a href="https://www.bmj.com/content/340/bmj.c696" target="_blank" rel="noopener noreferrer nofollow">https://www.bmj.com/content/340/bmj.c696</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Lancet retracts Wakefield&#x27;s MMR paperby C Dyer · 2010 · Cited by 118 — The Lancet has retracted the 12 year old paper that sparked an...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCThe MMR Vaccine and Autism  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6768751/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC6768751/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>vaccination coverage and a dramatic increase in measles cases (56–58). Public... misconceptions that could erode their [confidence](&amp;#123;&amp;#123; &#x27;confidence/&#x27; | relative_url &amp;#125;&amp;#125;) in vac...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6768751/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC6768751/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>vaccination coverage and a dramatic increase in measles cases (56–58). Public... misconceptions that could erode their [confidence](&amp;#123;&amp;#123; &#x27;confidence/&#x27; | relative_url &amp;#125;&amp;#125;) in vac...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: immunize.org  
    Title: bmj deer mmr wakefield  
-   Link: <a href="https://www.immunize.org/clinical/vaccine-confidence/topic/mmr-vaccine/bmj-deer-mmr-wakefield/" target="_blank" rel="noopener noreferrer nofollow">https://www.immunize.org/clinical/vaccine-confidence/topic/mmr-vaccine/bmj-deer-mmr-wakefield/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Fraud Behind the MMR ScareOct 9, 2023 — Fraud Behind the MMR Scare · BMJ Calls Wakefield&#x27;s Study Linking MMR Vaccine to Autism &#x27;Fraudulen...</p></details>
+   Link:<a href="https://www.immunize.org/clinical/vaccine-confidence/topic/mmr-vaccine/bmj-deer-mmr-wakefield/" target="_blank" rel="noopener noreferrer nofollow">https://www.immunize.org/clinical/vaccine-confidence/topic/mmr-vaccine/bmj-deer-mmr-wakefield/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Fraud Behind the MMR ScareOct 9, 2023 — Fraud Behind the MMR Scare · BMJ Calls Wakefield&#x27;s Study Linking MMR Vaccine to Autism &#x27;Fraudulen...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: bmj.com  
-   Link: <a href="https://www.bmj.com/content/340/bmj.c593" target="_blank" rel="noopener noreferrer nofollow">https://www.bmj.com/content/340/bmj.c593</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Wakefield was dishonest and irresponsible over MMR...by C Dyer · 2010 · Cited by 23 — Andrew Wakefield, the gastroenterologist whose...</p></details>
+   Link:<a href="https://www.bmj.com/content/340/bmj.c593" target="_blank" rel="noopener noreferrer nofollow">https://www.bmj.com/content/340/bmj.c593</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Wakefield was dishonest and irresponsible over MMR...by C Dyer · 2010 · Cited by 23 — Andrew Wakefield, the gastroenterologist whose...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: cidrap.umn.edu  
    Title: report says 1998 vaccine autism study was fraud  
-   Link: <a href="https://www.cidrap.umn.edu/public-health/report-says-1998-vaccine-autism-study-was-fraud" target="_blank" rel="noopener noreferrer nofollow">https://www.cidrap.umn.edu/public-health/report-says-1998-vaccine-autism-study-was-fraud</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>says 1998 vaccine-autism study was fraud6 Jan 2011 — A long investigative article in BMJ says that the retracted 1998 Lancet report linki...</p></details>
+   Link:<a href="https://www.cidrap.umn.edu/public-health/report-says-1998-vaccine-autism-study-was-fraud" target="_blank" rel="noopener noreferrer nofollow">https://www.cidrap.umn.edu/public-health/report-says-1998-vaccine-autism-study-was-fraud</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>says 1998 vaccine-autism study was fraud6 Jan 2011 — A long investigative article in BMJ says that the retracted 1998 Lancet report linki...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCCorrecting vaccine misinformation: A failure to replicate  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10096191/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10096191/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>by UKH Ecker · 2023 · Cited by 47 — The authors found that repeating vaccine “myths” and contrasting them with corresponding facts bac...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10096191/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10096191/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by UKH Ecker · 2023 · Cited by 47 — The authors found that repeating vaccine “myths” and contrasting them with corresponding facts bac...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2012.11475" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2012.11475</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>A qualitative and quantitative analysis of open citations to retracted articles: the Wakefield et al.&#x27;s caseDecember 21, 2020...</p></details>
+   Link:<a href="https://arxiv.org/abs/2012.11475" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2012.11475</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A qualitative and quantitative analysis of open citations to retracted articles: the Wakefield et al.&#x27;s caseDecember 21, 2020...</p></details>
    Published: December 21, 2020  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: washingtonpost.com  
-   Link: <a href="https://www.washingtonpost.com/health/2025/04/23/measles-vaccine-misinformation-poll/" target="_blank" rel="noopener noreferrer nofollow">https://www.washingtonpost.com/health/2025/04/23/measles-vaccine-misinformation-poll/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The poll reveals that more than half of U.S. adults have encountered false claims, including that the MMR vaccine is linked to autism, is...</p></details>
+   Link:<a href="https://www.washingtonpost.com/health/2025/04/23/measles-vaccine-misinformation-poll/" target="_blank" rel="noopener noreferrer nofollow">https://www.washingtonpost.com/health/2025/04/23/measles-vaccine-misinformation-poll/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The poll reveals that more than half of U.S. adults have encountered false claims, including that the MMR vaccine is linked to autism, is...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: bmj.com  
    Title: rapid responses  
-   Link: <a href="https://www.bmj.com/content/342/bmj.c7452/rapid-responses" target="_blank" rel="noopener noreferrer nofollow">https://www.bmj.com/content/342/bmj.c7452/rapid-responses</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>At that time in the late...Read more...</p></details>
+   Link:<a href="https://www.bmj.com/content/342/bmj.c7452/rapid-responses" target="_blank" rel="noopener noreferrer nofollow">https://www.bmj.com/content/342/bmj.c7452/rapid-responses</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>At that time in the late...Read more...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: bmj.com  
-   Link: <a href="https://www.bmj.com/content/bmj/340/7741/News.full.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.bmj.com/content/bmj/340/7741/News.full.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>lancet retracts MMr paper after GMC finds andrew...by C Dyer · 2010 · Cited by 9 — One of the biggest public health scares in UK history...</p></details>
+   Link:<a href="https://www.bmj.com/content/bmj/340/7741/News.full.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.bmj.com/content/bmj/340/7741/News.full.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>lancet retracts MMr paper after GMC finds andrew...by C Dyer · 2010 · Cited by 9 — One of the biggest public health scares in UK history...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: thelancet.com  
-   Link: <a href="https://www.thelancet.com/journals/lancet/article/PIIS0140-6736%2897%2911096-0/abstract" target="_blank" rel="noopener noreferrer nofollow">https://www.thelancet.com/journals/lancet/article/PIIS0140-6736%2897%2911096-0/abstract</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The LancetRETRACTED: Ileal-lymphoid-nodular hyperplasia, non...by AJ Wakefield · 1998 · Cited by 4863 — All 12 children had intestinal a...</p></details>
+   Link:<a href="https://www.thelancet.com/journals/lancet/article/PIIS0140-6736%2897%2911096-0/abstract" target="_blank" rel="noopener noreferrer nofollow">https://www.thelancet.com/journals/lancet/article/PIIS0140-6736%2897%2911096-0/abstract</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The LancetRETRACTED: Ileal-lymphoid-nodular hyperplasia, non...by AJ Wakefield · 1998 · Cited by 4863 — All 12 children had intestinal a...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: publichealth.jhu.edu  
    Title: vaccines do not cause autism  
-   Link: <a href="https://publichealth.jhu.edu/2025/vaccines-do-not-cause-autism" target="_blank" rel="noopener noreferrer nofollow">https://publichealth.jhu.edu/2025/vaccines-do-not-cause-autism</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Bloomberg School of Public HealthVaccines Do Not Cause Autism | Johns Hopkins19 Mar 2025 — But in 1998, a paper describing 12 children wh...</p></details>
+   Link:<a href="https://publichealth.jhu.edu/2025/vaccines-do-not-cause-autism" target="_blank" rel="noopener noreferrer nofollow">https://publichealth.jhu.edu/2025/vaccines-do-not-cause-autism</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Bloomberg School of Public HealthVaccines Do Not Cause Autism | Johns Hopkins19 Mar 2025 — But in 1998, a paper describing 12 children wh...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: thelancet.com  
-   Link: <a href="https://www.thelancet.com/journals/lancet/article/PIIS0140-6736%2804%2916017-0/fulltext" target="_blank" rel="noopener noreferrer nofollow">https://www.thelancet.com/journals/lancet/article/PIIS0140-6736%2804%2916017-0/fulltext</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Wakefield, AJ. Autism, inflammatory bowel disease, and MMR...Read more...</p></details>
+   Link:<a href="https://www.thelancet.com/journals/lancet/article/PIIS0140-6736%2804%2916017-0/fulltext" target="_blank" rel="noopener noreferrer nofollow">https://www.thelancet.com/journals/lancet/article/PIIS0140-6736%2804%2916017-0/fulltext</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Wakefield, AJ. Autism, inflammatory bowel disease, and MMR...Read more...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: Wikipedia  
    Title: Andrew Wakefield  
-   Link: <a href="https://en.wikipedia.org/wiki/Andrew_Wakefield" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Andrew_Wakefield</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Andrew WakefieldAndrew Jeremy Wakefield is an English fraudster, anti-vaccine activist, and former senior surgeon. He was struck off t...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Andrew_Wakefield" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Andrew_Wakefield</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Andrew WakefieldAndrew Jeremy Wakefield is an English fraudster, anti-vaccine activist, and former senior surgeon. He was struck off t...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: Wikipedia  
    Title: The Lancet  
-   Link: <a href="https://en.wikipedia.org/wiki/The_Lancet" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/The_Lancet</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The LancetThe Lancet is a weekly peer-reviewed general medical journal, founded in England in 1823. [1] It is one of the world&#x27;s highe...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/The_Lancet" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/The_Lancet</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The LancetThe Lancet is a weekly peer-reviewed general medical journal, founded in England in 1823. [1] It is one of the world&#x27;s highe...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: sciencedirect.com  
    Title: Since its first weekly issue (  
-   Link: <a href="https://www.sciencedirect.com/journal/the-lancet" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/journal/the-lancet</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Lancet | Journal | ScienceDirect.com by ElsevierThe Lancet is an independent, international general medical journal founded in 1823 b...</p></details>
+   Link:<a href="https://www.sciencedirect.com/journal/the-lancet" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/journal/the-lancet</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Lancet | Journal | ScienceDirect.com by ElsevierThe Lancet is an independent, international general medical journal founded in 1823 b...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: cidrap.umn.edu  
    Title: cidrap op ed vaccine myths won t die and how counter them part 2  
-   Link: <a href="https://www.cidrap.umn.edu/childhood-vaccines/cidrap-op-ed-vaccine-myths-won-t-die-and-how-counter-them-part-2" target="_blank" rel="noopener noreferrer nofollow">https://www.cidrap.umn.edu/childhood-vaccines/cidrap-op-ed-vaccine-myths-won-t-die-and-how-counter-them-part-2</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Myth #6: &#x27;Vaccines cause SIDS, autoimmune disease, allergies, and cancer&#x27;. Each of these claims...Read more...</p></details>
+   Link:<a href="https://www.cidrap.umn.edu/childhood-vaccines/cidrap-op-ed-vaccine-myths-won-t-die-and-how-counter-them-part-2" target="_blank" rel="noopener noreferrer nofollow">https://www.cidrap.umn.edu/childhood-vaccines/cidrap-op-ed-vaccine-myths-won-t-die-and-how-counter-them-part-2</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Myth #6: &#x27;Vaccines cause SIDS, autoimmune disease, allergies, and cancer&#x27;. Each of these claims...Read more...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: chop.edu  
-   Link: <a href="https://www.chop.edu/vaccine-education-center/vaccine-safety/vaccines-and-other-conditions/autism" target="_blank" rel="noopener noreferrer nofollow">https://www.chop.edu/vaccine-education-center/vaccine-safety/vaccines-and-other-conditions/autism</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Vaccines and autism27 Sept 2025 — Wakefield described 12 children with developmental delay — eight had autism. All of these children had...</p></details>
+   Link:<a href="https://www.chop.edu/vaccine-education-center/vaccine-safety/vaccines-and-other-conditions/autism" target="_blank" rel="noopener noreferrer nofollow">https://www.chop.edu/vaccine-education-center/vaccine-safety/vaccines-and-other-conditions/autism</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Vaccines and autism27 Sept 2025 — Wakefield described 12 children with developmental delay — eight had autism. All of these children had...</p></details>
 
 ### Additional References
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: nationalacademies.org  
-   Link: <a href="https://www.nationalacademies.org/read/21896/chapter/21" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalacademies.org/read/21896/chapter/21</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Chapter: Appendix D: Detailed Case HistoriesWakefield denies ever having committed research misconduct; in a press complaint, Wakefield i...</p></details>
+   Link:<a href="https://www.nationalacademies.org/read/21896/chapter/21" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalacademies.org/read/21896/chapter/21</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Chapter: Appendix D: Detailed Case HistoriesWakefield denies ever having committed research misconduct; in a press complaint, Wakefield i...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: axios.com  
-   Link: <a href="https://www.axios.com/2025/04/23/measles-misinformation-amid-outbreak-rfk-jr-poll" target="_blank" rel="noopener noreferrer nofollow">https://www.axios.com/2025/04/23/measles-misinformation-amid-outbreak-rfk-jr-poll</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>About 60% of American adults report having encountered the false claim linking the MMR vaccine to autism. However, substantial uncertaint...</p></details>
+   Link:<a href="https://www.axios.com/2025/04/23/measles-misinformation-amid-outbreak-rfk-jr-poll" target="_blank" rel="noopener noreferrer nofollow">https://www.axios.com/2025/04/23/measles-misinformation-amid-outbreak-rfk-jr-poll</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>About 60% of American adults report having encountered the false claim linking the MMR vaccine to autism. However, substantial uncertaint...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: science.org  
    Title: british medical journal charges fraud autism vaccine paper  
-   Link: <a href="https://www.science.org/content/article/british-medical-journal-charges-fraud-autism-vaccine-paper" target="_blank" rel="noopener noreferrer nofollow">https://www.science.org/content/article/british-medical-journal-charges-fraud-autism-vaccine-paper</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>British Medical Journal Charges Fraud in Autism-Vaccine...His report is another strike against the already-retracted research, which was...</p></details>
+   Link:<a href="https://www.science.org/content/article/british-medical-journal-charges-fraud-autism-vaccine-paper" target="_blank" rel="noopener noreferrer nofollow">https://www.science.org/content/article/british-medical-journal-charges-fraud-autism-vaccine-paper</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>British Medical Journal Charges Fraud in Autism-Vaccine...His report is another strike against the already-retracted research, which was...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: news.lehigh.edu  
    Title: confirmatory bias in health decisions the mmr vaccine and autism controversy  
-   Link: <a href="https://news.lehigh.edu/confirmatory-bias-in-health-decisions-the-mmr-vaccine-and-autism-controversy" target="_blank" rel="noopener noreferrer nofollow">https://news.lehigh.edu/confirmatory-bias-in-health-decisions-the-mmr-vaccine-and-autism-controversy</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Bias in Health Decisions: The MMR Vaccine...May 18, 2020 — In 1998, British researcher Andrew Wakefield and his co-authors published a f...</p></details>
+   Link:<a href="https://news.lehigh.edu/confirmatory-bias-in-health-decisions-the-mmr-vaccine-and-autism-controversy" target="_blank" rel="noopener noreferrer nofollow">https://news.lehigh.edu/confirmatory-bias-in-health-decisions-the-mmr-vaccine-and-autism-controversy</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Bias in Health Decisions: The MMR Vaccine...May 18, 2020 — In 1998, British researcher Andrew Wakefield and his co-authors published a f...</p></details>
    Published: May 18, 2020  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: pharmacytimes.com  
    Title: cdc s autism statement sparks new concerns over vaccine safety messaging  
-   Link: <a href="https://www.pharmacytimes.com/view/cdc-s-autism-statement-sparks-new-concerns-over-vaccine-safety-messaging" target="_blank" rel="noopener noreferrer nofollow">https://www.pharmacytimes.com/view/cdc-s-autism-statement-sparks-new-concerns-over-vaccine-safety-messaging</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>CDC&#x27;s Autism Statement Sparks New Concerns Over...20 Nov 2025 — CDC&#x27;s recent statement raises concerns about vaccine safety and autism l...</p></details>
+   Link:<a href="https://www.pharmacytimes.com/view/cdc-s-autism-statement-sparks-new-concerns-over-vaccine-safety-messaging" target="_blank" rel="noopener noreferrer nofollow">https://www.pharmacytimes.com/view/cdc-s-autism-statement-sparks-new-concerns-over-vaccine-safety-messaging</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>CDC&#x27;s Autism Statement Sparks New Concerns Over...20 Nov 2025 — CDC&#x27;s recent statement raises concerns about vaccine safety and autism l...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: contagionlive.com  
    Title: the modern day foundation of how medical disinformation began  
-   Link: <a href="https://www.contagionlive.com/view/the-modern-day-foundation-of-how-medical-disinformation-began" target="_blank" rel="noopener noreferrer nofollow">https://www.contagionlive.com/view/the-modern-day-foundation-of-how-medical-disinformation-began</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Modern-Day Foundation of How Medical...26 Jun 2024 — In 1998, former British physician Andrew Wakefield and colleagues published a p...</p></details>
+   Link:<a href="https://www.contagionlive.com/view/the-modern-day-foundation-of-how-medical-disinformation-began" target="_blank" rel="noopener noreferrer nofollow">https://www.contagionlive.com/view/the-modern-day-foundation-of-how-medical-disinformation-began</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Modern-Day Foundation of How Medical...26 Jun 2024 — In 1998, former British physician Andrew Wakefield and colleagues published a p...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: healthjournalism.org  
-   Link: <a href="https://healthjournalism.org/blog/2011/01/bmj-wakefields-vaccine-autism-study-fraudulent/" target="_blank" rel="noopener noreferrer nofollow">https://healthjournalism.org/blog/2011/01/bmj-wakefields-vaccine-autism-study-fraudulent/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Association of Health Care JournalistsBMJ: Wakefield&#x27;s vaccine-autism study fraudulent6 Jan 2011 — Andrew Wakefield linking autism to the...</p></details>
+   Link:<a href="https://healthjournalism.org/blog/2011/01/bmj-wakefields-vaccine-autism-study-fraudulent/" target="_blank" rel="noopener noreferrer nofollow">https://healthjournalism.org/blog/2011/01/bmj-wakefields-vaccine-autism-study-fraudulent/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Association of Health Care JournalistsBMJ: Wakefield&#x27;s vaccine-autism study fraudulent6 Jan 2011 — Andrew Wakefield linking autism to the...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: navigator.health.org.uk  
    Title: health.org.uk Ruling on Dr Andrew Wakefield in MMR scare  
-   Link: <a href="https://navigator.health.org.uk/theme/ruling-dr-andrew-wakefield-mmr-scare" target="_blank" rel="noopener noreferrer nofollow">https://navigator.health.org.uk/theme/ruling-dr-andrew-wakefield-mmr-scare</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>on Dr Andrew Wakefield in MMR scare - Policy Navigator28 Jan 2010 — The General Medical Council ruled that Dr Wakefield had acted dishone...</p></details>
+   Link:<a href="https://navigator.health.org.uk/theme/ruling-dr-andrew-wakefield-mmr-scare" target="_blank" rel="noopener noreferrer nofollow">https://navigator.health.org.uk/theme/ruling-dr-andrew-wakefield-mmr-scare</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>on Dr Andrew Wakefield in MMR scare - Policy Navigator28 Jan 2010 — The General Medical Council ruled that Dr Wakefield had acted dishone...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: www-bmj-com.bibliotheek.ehb.be  
    Title: be Wakefield's article linking MMR vaccine and autism  
-   Link: <a href="https://www-bmj-com.bibliotheek.ehb.be/content/342/bmj.c7452" target="_blank" rel="noopener noreferrer nofollow">https://www-bmj-com.bibliotheek.ehb.be/content/342/bmj.c7452</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The BMJ6 Jan 2011 —... fraud.”1 Never has this been truer than of the 1998 Lancet paper that implied a link between the measles, mumps...</p></details>
+   Link:<a href="https://www-bmj-com.bibliotheek.ehb.be/content/342/bmj.c7452" target="_blank" rel="noopener noreferrer nofollow">https://www-bmj-com.bibliotheek.ehb.be/content/342/bmj.c7452</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The BMJ6 Jan 2011 —... fraud.”1 Never has this been truer than of the 1998 Lancet paper that implied a link between the measles, mumps...</p></details>
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: hsj.co.uk  
    Title: Lancet retracts MMR and autism research paper  
-   Link: <a href="https://www.hsj.co.uk/news/lancet-retracts-mmr-and-autism-research-paper/5011106.article" target="_blank" rel="noopener noreferrer nofollow">https://www.hsj.co.uk/news/lancet-retracts-mmr-and-autism-research-paper/5011106.article</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Lancet has retracted from the public record a research paper which triggered concerns over a possible link between the MMR vaccine...</p></details>
+   Link:<a href="https://www.hsj.co.uk/news/lancet-retracts-mmr-and-autism-research-paper/5011106.article" target="_blank" rel="noopener noreferrer nofollow">https://www.hsj.co.uk/news/lancet-retracts-mmr-and-autism-research-paper/5011106.article</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Lancet has retracted from the public record a research paper which triggered concerns over a possible link between the MMR vaccine...</p></details>

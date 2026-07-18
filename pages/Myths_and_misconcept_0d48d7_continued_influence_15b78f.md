@@ -501,30 +501,30 @@ image: /assets/images/Myths_and_misconcept_0d48d7_continued_influence_15b78f-ove
 
 ## Introduction
 
-Corrected myths can linger because a [correction]({{ 'correction/' | relative_url }}) often removes a claim without repairing the story that claim helped people build. This is the continued influence effect: discredited information keeps shaping [memory]({{ 'memory/' | relative_url }}), judgement or explanation even when people remember that it was corrected. It matters because many myths are not stored as isolated facts. They become part of a causal account — why a fire spread, why a person acted, why a policy failed, why a health scare sounded plausible. When the false piece is pulled out, the mind still needs a workable account of what happened. If no better account is supplied, the old story can quietly return as the easiest explanation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.climatechangecommunication.org/wp-content/uploads/2023/09/DebunkingHandbook2020.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: climatechangecommunication.org">[Center for Climate Change Communication]</a><span class="citation-popover" role="note"><span class="citation-popover-source">climatechangecommunication.org</span><span class="citation-popover-title">Center for Climate Change Communication Debunking Handbook</span><span class="citation-popover-snippet">Center for Climate Change CommunicationDebunking HandbookOctober 11, 2020 — Continued influence effect: The continued reliance on inaccur...</span><span class="citation-popover-meta">Published: October 11, 2020</span></span></span>
+Corrected myths can linger because a [correction]({{ 'correction/' | relative_url }}) often removes a claim without repairing the story that claim helped people build. This is the continued influence effect: discredited information keeps shaping [memory]({{ 'memory/' | relative_url }}), judgement or explanation even when people remember that it was corrected. It matters because many myths are not stored as isolated facts. They become part of a causal account — why a fire spread, why a person acted, why a policy failed, why a health scare sounded plausible. When the false piece is pulled out, the mind still needs a workable account of what happened. If no better account is supplied, the old story can quietly return as the easiest explanation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.climatechangecommunication.org/wp-content/uploads/2023/09/DebunkingHandbook2020.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: climatechangecommunication.org">[Center for Climate Change Communication]</a><span class="citation-popover" role="note"><span class="citation-popover-source">climatechangecommunication.org</span><span class="citation-popover-title">Center for Climate Change Communication Debunking Handbook</span><span class="citation-popover-snippet">Center for Climate Change CommunicationDebunking HandbookOctober 11, 2020 — Continued influence effect: The continued reliance on inaccur...</span><span class="citation-popover-meta">Published: October 11, 2020</span></span></span>
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_continued_influence_15b78f-overview.webp" | relative_url }}" alt="Overview image for Old Stories" loading="eager" decoding="sync" fetchpriority="high">
-The central lesson is not that [corrections]({{ 'corrections/' | relative_url }}) are useless. The evidence is more precise: corrections usually help, but they often do not fully erase the influence of the original misinformation. The most useful corrections therefore do two jobs at once. They clearly mark the myth as false, and they give people a simple, credible replacement explanation to use instead. <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/abs/10.1177/0093650219854600" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsA Meta-Analytic Examination of the Continued Influence...by N Walter · 2020 · Cited by 649 — A meta-analysis was conducted...</span></span></span>
+The central lesson is not that [corrections]({{ 'corrections/' | relative_url }}) are useless. The evidence is more precise: corrections usually help, but they often do not fully erase the influence of the original misinformation. The most useful corrections therefore do two jobs at once. They clearly mark the myth as false, and they give people a simple, credible replacement explanation to use instead.<span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/abs/10.1177/0093650219854600" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsA Meta-Analytic Examination of the Continued Influence...by N Walter · 2020 · Cited by 649 — A meta-analysis was conducted...</span></span></span>
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_continued_influence_15b78f-Illustration-3-dark.svg" | relative_url }}" alt="Old Stories illustration 3" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_continued_influence_15b78f-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_continued_influence_15b78f-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What the effect means
 
-The continued influence effect is the tendency for retracted or corrected information to keep affecting later reasoning. A person may say, sincerely, “I know that claim was wrong,” yet still answer later questions as though the claim explained the event. The effect is especially visible when misinformation supplies a cause. If a false report says a warehouse fire was intensified by paint and gas canisters, and a later report says the cupboard was actually empty, people may still refer to the canisters when explaining the severity of the fire. The correction is remembered, but the earlier cause remains useful. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S2352250X23001574" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Review Effective correction of misinformationby T Prike · 2023 · Cited by 79 — However, recent studies from our lab have fou...</span></span></span>
+The continued influence effect is the tendency for retracted or corrected information to keep affecting later reasoning. A person may say, sincerely, “I know that claim was wrong,” yet still answer later questions as though the claim explained the event. The effect is especially visible when misinformation supplies a cause. If a false report says a warehouse fire was intensified by paint and gas canisters, and a later report says the cupboard was actually empty, people may still refer to the canisters when explaining the severity of the fire. The correction is remembered, but the earlier cause remains useful.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S2352250X23001574" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Review Effective correction of misinformationby T Prike · 2023 · Cited by 79 — However, recent studies from our lab have fou...</span></span></span>
 
-This is different from simple ignorance. In many experiments, participants do not merely fail to notice the correction. They can often identify that a retraction occurred, yet still draw inferences from the retracted information. That makes the effect awkward for communicators: the problem is not always that the audience never heard the correction, distrusted it, or forgot it entirely. Sometimes the correction is available in memory but loses the contest against a more complete story. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://link.springer.com/article/10.3758/MC.38.8.1087" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">Explicit warnings reduce but do not eliminate the continued...by UKH Ecker · 2010 · Cited by 741 — The present study investigate...</span></span></span>
+This is different from simple ignorance. In many experiments, participants do not merely fail to notice the correction. They can often identify that a retraction occurred, yet still draw inferences from the retracted information. That makes the effect awkward for communicators: the problem is not always that the audience never heard the correction, distrusted it, or forgot it entirely. Sometimes the correction is available in memory but loses the contest against a more complete story.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://link.springer.com/article/10.3758/MC.38.8.1087" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">Explicit warnings reduce but do not eliminate the continued...by UKH Ecker · 2010 · Cited by 741 — The present study investigate...</span></span></span>
 
-A meta-analysis by Nathan Walter and Riva Tukachinsky found that corrections reduce misinformation’s impact, but do not entirely eliminate it across the studies reviewed. This is the practical middle ground often missed in public discussion. [Debunking]({{ 'debunking/' | relative_url }}) is neither magically cleansing nor usually self-defeating. It is partial repair. The myth’s influence weakens, but traces can remain in the way people explain, judge and remember. <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/abs/10.1177/0093650219854600" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsA Meta-Analytic Examination of the Continued Influence...by N Walter · 2020 · Cited by 649 — A meta-analysis was conducted...</span></span></span>
+A meta-analysis by Nathan Walter and Riva Tukachinsky found that corrections reduce misinformation’s impact, but do not entirely eliminate it across the studies reviewed. This is the practical middle ground often missed in public discussion. [Debunking]({{ 'debunking/' | relative_url }}) is neither magically cleansing nor usually self-defeating. It is partial repair. The myth’s influence weakens, but traces can remain in the way people explain, judge and remember.<span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/abs/10.1177/0093650219854600" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsA Meta-Analytic Examination of the Continued Influence...by N Walter · 2020 · Cited by 649 — A meta-analysis was conducted...</span></span></span>
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_continued_influence_15b78f-Illustration-1-dark.svg" | relative_url }}" alt="Old Stories illustration 1" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_continued_influence_15b78f-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_continued_influence_15b78f-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why gaps invite the old story back
 
 Myths often persist because they do explanatory work. They link events together, assign blame, identify motives or make uncertainty feel manageable. A correction that says only “that did not happen” may be factually accurate but cognitively incomplete. It creates a gap where the myth used to sit.
 
-A useful way to think about this is the “mental model” account. People build a rough internal model of an event as they learn about it. If early information supplies a cause, that cause becomes part of the model. A later correction may tag the information as false, but unless the model is rebuilt, the original cause can still be retrieved when the person needs to explain the event. The old story survives not because it is believed in full, but because it remains the most accessible tool for reasoning. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nature.com/articles/s44159-021-00006-y" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+A useful way to think about this is the “mental model” account. People build a rough internal model of an event as they learn about it. If early information supplies a cause, that cause becomes part of the model. A later correction may tag the information as false, but unless the model is rebuilt, the original cause can still be retrieved when the person needs to explain the event. The old story survives not because it is believed in full, but because it remains the most accessible tool for reasoning.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nature.com/articles/s44159-021-00006-y" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-The classic warehouse-fire example shows the mechanism clearly. If people hear that volatile materials were present at a fire, those materials explain explosions, toxic fumes and unusual intensity. Removing that detail leaves several questions unanswered. Why did the fire spread? Why were there explosions? Why were investigators concerned? Without an alternative cause, the discredited detail remains tempting because it still fits the rest of the story. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.shapingtomorrowsworld.org/debunking-handbook-part-5-filling-gap-with-alternative-explanation.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: shapingtomorrowsworld.org">[Shaping Tomorrows World]</a><span class="citation-popover" role="note"><span class="citation-popover-source">shapingtomorrowsworld.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The classic warehouse-fire example shows the mechanism clearly. If people hear that volatile materials were present at a fire, those materials explain explosions, toxic fumes and unusual intensity. Removing that detail leaves several questions unanswered. Why did the fire spread? Why were there explosions? Why were investigators concerned? Without an alternative cause, the discredited detail remains tempting because it still fits the rest of the story.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.shapingtomorrowsworld.org/debunking-handbook-part-5-filling-gap-with-alternative-explanation.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: shapingtomorrowsworld.org">[Shaping Tomorrows World]</a><span class="citation-popover" role="note"><span class="citation-popover-source">shapingtomorrowsworld.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-This is why “myth versus fact” formats can underperform when they stop at negation. A correction that says “No, the passengers were not elderly people” is weaker than one that says “No, they were not elderly people; they were college hockey players returning from a victory party.” The second version does more than deny the false claim. It supplies a replacement that can explain later inferences about noise, behaviour, injuries or alcohol. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.classes.cs.uchicago.edu/archive/2020/spring/33231-1/readings/Ecker2010_Article_ExplicitWarningsReduceButDoNot.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: classes.cs.uchicago.edu">[classes.cs.uchicago.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">classes.cs.uchicago.edu</span><span class="citation-popover-title">Ecker2010 Article ExplicitWarningsReduceButDoNot</span><span class="citation-popover-snippet">Ecker2010 Article ExplicitWarningsReduceButDoNot</span></span></span>
+This is why “myth versus fact” formats can underperform when they stop at negation. A correction that says “No, the passengers were not elderly people” is weaker than one that says “No, they were not elderly people; they were college hockey players returning from a victory party.” The second version does more than deny the false claim. It supplies a replacement that can explain later inferences about noise, behaviour, injuries or alcohol.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.classes.cs.uchicago.edu/archive/2020/spring/33231-1/readings/Ecker2010_Article_ExplicitWarningsReduceButDoNot.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: classes.cs.uchicago.edu">[classes.cs.uchicago.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">classes.cs.uchicago.edu</span><span class="citation-popover-title">Ecker2010 Article ExplicitWarningsReduceButDoNot</span><span class="citation-popover-snippet">Ecker2010 Article ExplicitWarningsReduceButDoNot</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/eZ_hcf01EFw" title="The Continued Influence Effect - Why do memories of misinformation persist in our minds?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=eZ_hcf01EFw" target="_blank" rel="noopener noreferrer">The Continued Influence Effect - Why do memories of misinformation persist in our minds?</a></p><p class="youtube-embed-meta">Channel: The Science Lens &middot; Views: 567 &middot; Uploaded: March 2023 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=eZ_hcf01EFw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=eZ_hcf01EFw">Open on YouTube</a></p></div></div></div>
 
@@ -537,11 +537,11 @@ A good replacement explanation usually has four features:
 * **It names the false claim clearly.** People need to know which idea is being corrected, especially when several similar claims are circulating.
 * **It states the correction directly.** Hedged or vague wording can leave the myth more fluent than the correction.
 * **It explains the source of the mistake when useful.** A correction can become more satisfying when it tells the reader why the false claim arose: a misread document, an early report, a misleading image, a rumour, a statistical confusion or a deliberate fabrication.
-* **It offers a usable alternative account.** The replacement should answer the same “why” or “what happened” question that made the myth attractive in the first place. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S2352250X23001574" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Review Effective correction of misinformationby T Prike · 2023 · Cited by 79 — However, recent studies from our lab have fou...</span></span></span>
+* **It offers a usable alternative account.** The replacement should answer the same “why” or “what happened” question that made the myth attractive in the first place.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S2352250X23001574" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Review Effective correction of misinformationby T Prike · 2023 · Cited by 79 — However, recent studies from our lab have fou...</span></span></span>
 
 The alternative does not have to be elaborate. In fact, it often works best when it is simple enough to remember. If a health myth claims that a symptom is caused by one frightening ingredient, a correction that only says “there is no evidence for that” may leave the fear structure intact. A better correction explains the more likely causes, the actual risk level and why the misleading claim sounded plausible. The goal is not to bury the reader in detail, but to give them a new mental shortcut that is more accurate than the old one.
 
-This also explains why corrections from credible sources matter, but are not always enough. Warnings can reduce continued reliance on misinformation, yet research has found that explicit warnings do not necessarily eliminate the effect. Source credibility, prior beliefs and the coherence of the replacement story all influence whether the correction becomes the new default explanation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://research-information.bris.ac.uk/en/publications/explicit-warnings-reduce-but-do-not-eliminate-the-continued-influ/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: research-information.bris.ac.uk">[University of Bristol]</a><span class="citation-popover" role="note"><span class="citation-popover-source">research-information.bris.ac.uk</span><span class="citation-popover-title">explicit warnings reduce but do not eliminate the continued influ</span><span class="citation-popover-snippet">explicit warnings reduce but do not eliminate the continued influ</span></span></span>
+This also explains why corrections from credible sources matter, but are not always enough. Warnings can reduce continued reliance on misinformation, yet research has found that explicit warnings do not necessarily eliminate the effect. Source credibility, prior beliefs and the coherence of the replacement story all influence whether the correction becomes the new default explanation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://research-information.bris.ac.uk/en/publications/explicit-warnings-reduce-but-do-not-eliminate-the-continued-influ/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: research-information.bris.ac.uk">[University of Bristol]</a><span class="citation-popover" role="note"><span class="citation-popover-source">research-information.bris.ac.uk</span><span class="citation-popover-title">explicit warnings reduce but do not eliminate the continued influ</span><span class="citation-popover-snippet">explicit warnings reduce but do not eliminate the continued influ</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/H_dHJVH5hPU" title="The Continued Influence of Misinformation — Ullrich Ecker (CHDH Seminar Series 2020 )" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=H_dHJVH5hPU" target="_blank" rel="noopener noreferrer">The Continued Influence of Misinformation — Ullrich Ecker (CHDH Seminar Series 2020 )</a></p><p class="youtube-embed-meta">Channel: Complex Human Data Hub &middot; Views: 214 &middot; Uploaded: September 2020 &middot; Length: 1 hour 4 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=H_dHJVH5hPU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=H_dHJVH5hPU">Open on YouTube</a></p></div></div></div>
 
@@ -552,201 +552,201 @@ The continued influence effect changes what “successful debunking” means. A 
 
 This is why the best corrections often read less like a courtroom objection and more like a better account of events. They say, in effect: “Here is the claim you may have heard; here is why it is wrong; here is how the mistake arose; here is the explanation that better fits the evidence.” That structure gives the reader somewhere to put the correction. It replaces a broken story with a sturdier one.
 
-For myths and misconceptions, the stakes are practical. In education, a student may abandon a false rule in a quiz but still use it when solving a problem. In public health, a person may accept that a viral claim was debunked but still feel its causal story when making a risk decision. In [politics]({{ 'politics/' | relative_url }}) or social [conflict]({{ 'conflict/' | relative_url }}), a corrected allegation can continue to colour impressions of a person or group even after the allegation is withdrawn. The mechanism is the same: once a myth has organised judgement, correction must reorganise judgement too. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8447889/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCThe role of discomfort in the continued influence effect</span><span class="citation-popover-snippet">PMCThe role of discomfort in the continued influence effect</span></span></span>
+For myths and misconceptions, the stakes are practical. In education, a student may abandon a false rule in a quiz but still use it when solving a problem. In public health, a person may accept that a viral claim was debunked but still feel its causal story when making a risk decision. In [politics]({{ 'politics/' | relative_url }}) or social [conflict]({{ 'conflict/' | relative_url }}), a corrected allegation can continue to colour impressions of a person or group even after the allegation is withdrawn. The mechanism is the same: once a myth has organised judgement, correction must reorganise judgement too.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8447889/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCThe role of discomfort in the continued influence effect</span><span class="citation-popover-snippet">PMCThe role of discomfort in the continued influence effect</span></span></span>
 
 The useful takeaway is therefore modest but powerful. Do not treat a myth as a stain that can be wiped off with “false”. Treat it as a piece of scaffolding inside someone’s explanation. If the scaffolding is removed and nothing replaces it, the mind may reach for the old support again. A correction that supplies a clear alternative gives the reader a better structure to stand on.
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/LkCxRCpkyBs" title="Continued Influence Effect" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=LkCxRCpkyBs" target="_blank" rel="noopener noreferrer">Continued Influence Effect</a></p><p class="youtube-embed-meta">Channel: Bo Bennett &middot; Views: 1.2K &middot; Uploaded: June 2017 &middot; Length: 2 minutes 16 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=LkCxRCpkyBs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=LkCxRCpkyBs">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Corrected Myths Still Linger. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Corrected Myths Still Linger. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Calling Bullshit on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Plu9DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Calling Bullshit" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Calling Bullshit">Calling Bullshit</a>
-        </h4>
-        <p class="fr-book-author">By Carl T. Bergstrom, Jevin D. West</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Calling Bullshit on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Plu9DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Calling Bullshit" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Calling Bullshit">Calling Bullshit</a>
+</h4>
+<p class="fr-book-author">By Carl T. Bergstrom, Jevin D. West</p>
         
-        <p class="fr-book-desc">Focuses on evaluating misinformation and faulty claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on evaluating misinformation and faulty claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YGPzXWanppcC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
-        </h4>
-        <p class="fr-book-author">By Daniel Kahneman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YGPzXWanppcC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
+</h4>
+<p class="fr-book-author">By Daniel Kahneman</p>
         
-        <p class="fr-book-desc">Provides cognitive foundations for continued influence effects.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides cognitive foundations for continued influence effects.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mistakes Were Made (but Not by Me) Third Edition on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jmmVxgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Mistakes Were Made (but Not by Me) Third Edition" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mistakes Were Made (but Not by Me) Third Edition">Mistakes Were Made (but Not by Me) Third Edition</a>
-        </h4>
-        <p class="fr-book-author">By Carol Tavris, Elliot Aronson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mistakes Were Made (but Not by Me) Third Edition on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jmmVxgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Mistakes Were Made (but Not by Me) Third Edition" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mistakes Were Made (but Not by Me) Third Edition">Mistakes Were Made (but Not by Me) Third Edition</a>
+</h4>
+<p class="fr-book-author">By Carol Tavris, Elliot Aronson</p>
         
-        <p class="fr-book-desc">Explains belief persistence and self-justification.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains belief persistence and self-justification.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28But+Not+by+Me%29+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mistakes Were Made (But Not by Me) on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/1119860-M.jpg" alt="Cover for Mistakes Were Made (But Not by Me)" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28But+Not+by+Me%29+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mistakes Were Made (But Not by Me)">Mistakes Were Made (But Not by Me)</a>
-        </h4>
-        <p class="fr-book-author">By Carol Tavris, Elliot Aronson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28But+Not+by+Me%29+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mistakes Were Made (But Not by Me) on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/1119860-M.jpg" alt="Cover for Mistakes Were Made (But Not by Me)" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28But+Not+by+Me%29+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mistakes Were Made (But Not by Me)">Mistakes Were Made (But Not by Me)</a>
+</h4>
+<p class="fr-book-author">By Carol Tavris, Elliot Aronson</p>
         
-        <p class="fr-book-desc">First published 2007. Subjects: Fouten, Vergissingen, Cognitive dissonance, Self-deception, Rechtvaardiging.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28But+Not+by+Me%29+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2007. Subjects: Fouten, Vergissingen, Cognitive dissonance, Self-deception, Rechtvaardiging.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28But+Not+by+Me%29+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Calling+Bullshit&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Calling Bullshit</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mistakes Were Made (but Not by Me) Third Edition</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Calling+Bullshit&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Calling Bullshit</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mistakes Were Made (but Not by Me) Third Edition</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=brain+anatomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=old-stories-why-corrected-myths-still-linger-myths-and-misconcept-brain-anatomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="brain anatomy poster" data-ebay-reference="old-stories-why-corrected-myths-still-linger-myths-and-misconcept-brain-anatomy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Human Brain Anatomy Poster Medical Doctor Anatomical Educational Poster A5-A1"><img src="{{ '/assets/images/marketplace-covers/d252c9d704756e344b96.jpg' | relative_url }}" alt="Listing image for Human Brain Anatomy Poster Medical Doctor Anatomical Educational Poster A5-A1" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=brain+anatomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=old-stories-why-corrected-myths-still-linger-myths-and-misconcept-brain-anatomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="brain anatomy poster" data-ebay-reference="old-stories-why-corrected-myths-still-linger-myths-and-misconcept-brain-anatomy-poster" target="_blank" rel="sponsored noopener noreferrer">Human Brain Anatomy Poster Medical Doctor Anatomical Educational Poster A5-A1</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=brain+anatomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=old-stories-why-corrected-myths-still-linger-myths-and-misconcept-brain-anatomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="brain anatomy poster" data-ebay-reference="old-stories-why-corrected-myths-still-linger-myths-and-misconcept-brain-anatomy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for brain anatomy poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: brain anatomy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=brain+anatomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=old-stories-why-corrected-myths-still-linger-myths-and-misconcept-brain-anatomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="brain anatomy poster" data-ebay-reference="old-stories-why-corrected-myths-still-linger-myths-and-misconcept-brain-anatomy-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=brain+anatomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=old-stories-why-corrected-myths-still-linger-myths-and-misconcept-brain-anatomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="brain anatomy poster" data-ebay-reference="old-stories-why-corrected-myths-still-linger-myths-and-misconcept-brain-anatomy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Human Brain Anatomy Poster Medical Doctor Anatomical Educational Poster A5-A1"><img src="{{ '/assets/images/marketplace-covers/d252c9d704756e344b96.jpg' | relative_url }}" alt="Listing image for Human Brain Anatomy Poster Medical Doctor Anatomical Educational Poster A5-A1" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=brain+anatomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=old-stories-why-corrected-myths-still-linger-myths-and-misconcept-brain-anatomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="brain anatomy poster" data-ebay-reference="old-stories-why-corrected-myths-still-linger-myths-and-misconcept-brain-anatomy-poster" target="_blank" rel="sponsored noopener noreferrer">Human Brain Anatomy Poster Medical Doctor Anatomical Educational Poster A5-A1</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=brain+anatomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=old-stories-why-corrected-myths-still-linger-myths-and-misconcept-brain-anatomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="brain anatomy poster" data-ebay-reference="old-stories-why-corrected-myths-still-linger-myths-and-misconcept-brain-anatomy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for brain anatomy poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: brain anatomy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=brain+anatomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=old-stories-why-corrected-myths-still-linger-myths-and-misconcept-brain-anatomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="brain anatomy poster" data-ebay-reference="old-stories-why-corrected-myths-still-linger-myths-and-misconcept-brain-anatomy-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=brain+anatomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=old-stories-why-corrected-myths-still-linger-myths-and-misconcept-brain-anatomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="brain anatomy poster" data-ebay-reference="old-stories-why-corrected-myths-still-linger-myths-and-misconcept-brain-anatomy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Human Brain Anatomy With Inspiratio Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/8c32e586d37fa28e39d6.jpg' | relative_url }}" alt="Listing image for Human Brain Anatomy With Inspiratio Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=brain+anatomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=old-stories-why-corrected-myths-still-linger-myths-and-misconcept-brain-anatomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="brain anatomy poster" data-ebay-reference="old-stories-why-corrected-myths-still-linger-myths-and-misconcept-brain-anatomy-poster" target="_blank" rel="sponsored noopener noreferrer">Human Brain Anatomy With Inspiratio Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=brain+anatomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=old-stories-why-corrected-myths-still-linger-myths-and-misconcept-brain-anatomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="brain anatomy poster" data-ebay-reference="old-stories-why-corrected-myths-still-linger-myths-and-misconcept-brain-anatomy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for brain anatomy poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: brain anatomy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=brain+anatomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=old-stories-why-corrected-myths-still-linger-myths-and-misconcept-brain-anatomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="brain anatomy poster" data-ebay-reference="old-stories-why-corrected-myths-still-linger-myths-and-misconcept-brain-anatomy-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=brain+anatomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=old-stories-why-corrected-myths-still-linger-myths-and-misconcept-brain-anatomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="brain anatomy poster" data-ebay-reference="old-stories-why-corrected-myths-still-linger-myths-and-misconcept-brain-anatomy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Human Brain Anatomy With Inspiratio Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/8c32e586d37fa28e39d6.jpg' | relative_url }}" alt="Listing image for Human Brain Anatomy With Inspiratio Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=brain+anatomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=old-stories-why-corrected-myths-still-linger-myths-and-misconcept-brain-anatomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="brain anatomy poster" data-ebay-reference="old-stories-why-corrected-myths-still-linger-myths-and-misconcept-brain-anatomy-poster" target="_blank" rel="sponsored noopener noreferrer">Human Brain Anatomy With Inspiratio Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=brain+anatomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=old-stories-why-corrected-myths-still-linger-myths-and-misconcept-brain-anatomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="brain anatomy poster" data-ebay-reference="old-stories-why-corrected-myths-still-linger-myths-and-misconcept-brain-anatomy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for brain anatomy poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: brain anatomy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=brain+anatomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=old-stories-why-corrected-myths-still-linger-myths-and-misconcept-brain-anatomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="brain anatomy poster" data-ebay-reference="old-stories-why-corrected-myths-still-linger-myths-and-misconcept-brain-anatomy-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=brain+anatomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=old-stories-why-corrected-myths-still-linger-myths-and-misconcept-brain-anatomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="brain anatomy poster" data-ebay-reference="old-stories-why-corrected-myths-still-linger-myths-and-misconcept-brain-anatomy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for HUMAN ANATOMY CHIROPRACTIC EDUCATIONAL STUDENT MEDICAL POSTER PRINTS A4 A3 A2"><img src="{{ '/assets/images/marketplace-covers/a0a9999a1c91b938ba61.jpg' | relative_url }}" alt="Listing image for HUMAN ANATOMY CHIROPRACTIC EDUCATIONAL STUDENT MEDICAL POSTER PRINTS A4 A3 A2" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=brain+anatomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=old-stories-why-corrected-myths-still-linger-myths-and-misconcept-brain-anatomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="brain anatomy poster" data-ebay-reference="old-stories-why-corrected-myths-still-linger-myths-and-misconcept-brain-anatomy-poster" target="_blank" rel="sponsored noopener noreferrer">HUMAN ANATOMY CHIROPRACTIC EDUCATIONAL STUDENT MEDICAL POSTER PRINTS A4 A3 A2</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=brain+anatomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=old-stories-why-corrected-myths-still-linger-myths-and-misconcept-brain-anatomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="brain anatomy poster" data-ebay-reference="old-stories-why-corrected-myths-still-linger-myths-and-misconcept-brain-anatomy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for brain anatomy poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: brain anatomy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=brain+anatomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=old-stories-why-corrected-myths-still-linger-myths-and-misconcept-brain-anatomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="brain anatomy poster" data-ebay-reference="old-stories-why-corrected-myths-still-linger-myths-and-misconcept-brain-anatomy-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=brain+anatomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=old-stories-why-corrected-myths-still-linger-myths-and-misconcept-brain-anatomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="brain anatomy poster" data-ebay-reference="old-stories-why-corrected-myths-still-linger-myths-and-misconcept-brain-anatomy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for HUMAN ANATOMY CHIROPRACTIC EDUCATIONAL STUDENT MEDICAL POSTER PRINTS A4 A3 A2"><img src="{{ '/assets/images/marketplace-covers/a0a9999a1c91b938ba61.jpg' | relative_url }}" alt="Listing image for HUMAN ANATOMY CHIROPRACTIC EDUCATIONAL STUDENT MEDICAL POSTER PRINTS A4 A3 A2" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=brain+anatomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=old-stories-why-corrected-myths-still-linger-myths-and-misconcept-brain-anatomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="brain anatomy poster" data-ebay-reference="old-stories-why-corrected-myths-still-linger-myths-and-misconcept-brain-anatomy-poster" target="_blank" rel="sponsored noopener noreferrer">HUMAN ANATOMY CHIROPRACTIC EDUCATIONAL STUDENT MEDICAL POSTER PRINTS A4 A3 A2</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=brain+anatomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=old-stories-why-corrected-myths-still-linger-myths-and-misconcept-brain-anatomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="brain anatomy poster" data-ebay-reference="old-stories-why-corrected-myths-still-linger-myths-and-misconcept-brain-anatomy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for brain anatomy poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: brain anatomy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=brain+anatomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=old-stories-why-corrected-myths-still-linger-myths-and-misconcept-brain-anatomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="brain anatomy poster" data-ebay-reference="old-stories-why-corrected-myths-still-linger-myths-and-misconcept-brain-anatomy-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=brain+anatomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=old-stories-why-corrected-myths-still-linger-myths-and-misconcept-brain-anatomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="brain anatomy poster" data-ebay-reference="old-stories-why-corrected-myths-still-linger-myths-and-misconcept-brain-anatomy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Human Brain Anatomy Poster Medical Educational Anatomical Print A5 A4 A3 A2 A1"><img src="{{ '/assets/images/marketplace-covers/58984feb98080787958f.jpg' | relative_url }}" alt="Listing image for Human Brain Anatomy Poster Medical Educational Anatomical Print A5 A4 A3 A2 A1" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=brain+anatomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=old-stories-why-corrected-myths-still-linger-myths-and-misconcept-brain-anatomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="brain anatomy poster" data-ebay-reference="old-stories-why-corrected-myths-still-linger-myths-and-misconcept-brain-anatomy-poster" target="_blank" rel="sponsored noopener noreferrer">Human Brain Anatomy Poster Medical Educational Anatomical Print A5 A4 A3 A2 A1</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=brain+anatomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=old-stories-why-corrected-myths-still-linger-myths-and-misconcept-brain-anatomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="brain anatomy poster" data-ebay-reference="old-stories-why-corrected-myths-still-linger-myths-and-misconcept-brain-anatomy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for brain anatomy poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: brain anatomy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=brain+anatomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=old-stories-why-corrected-myths-still-linger-myths-and-misconcept-brain-anatomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="brain anatomy poster" data-ebay-reference="old-stories-why-corrected-myths-still-linger-myths-and-misconcept-brain-anatomy-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=brain+anatomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=old-stories-why-corrected-myths-still-linger-myths-and-misconcept-brain-anatomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="brain anatomy poster" data-ebay-reference="old-stories-why-corrected-myths-still-linger-myths-and-misconcept-brain-anatomy-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=brain+anatomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=old-stories-why-corrected-myths-still-linger-myths-and-misconcept-brain-anatomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="brain anatomy poster" data-ebay-reference="old-stories-why-corrected-myths-still-linger-myths-and-misconcept-brain-anatomy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Human Brain Anatomy Poster Medical Educational Anatomical Print A5 A4 A3 A2 A1"><img src="{{ '/assets/images/marketplace-covers/58984feb98080787958f.jpg' | relative_url }}" alt="Listing image for Human Brain Anatomy Poster Medical Educational Anatomical Print A5 A4 A3 A2 A1" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=brain+anatomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=old-stories-why-corrected-myths-still-linger-myths-and-misconcept-brain-anatomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="brain anatomy poster" data-ebay-reference="old-stories-why-corrected-myths-still-linger-myths-and-misconcept-brain-anatomy-poster" target="_blank" rel="sponsored noopener noreferrer">Human Brain Anatomy Poster Medical Educational Anatomical Print A5 A4 A3 A2 A1</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=brain+anatomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=old-stories-why-corrected-myths-still-linger-myths-and-misconcept-brain-anatomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="brain anatomy poster" data-ebay-reference="old-stories-why-corrected-myths-still-linger-myths-and-misconcept-brain-anatomy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for brain anatomy poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: brain anatomy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=brain+anatomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=old-stories-why-corrected-myths-still-linger-myths-and-misconcept-brain-anatomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="brain anatomy poster" data-ebay-reference="old-stories-why-corrected-myths-still-linger-myths-and-misconcept-brain-anatomy-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=brain+anatomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=old-stories-why-corrected-myths-still-linger-myths-and-misconcept-brain-anatomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="brain anatomy poster" data-ebay-reference="old-stories-why-corrected-myths-still-linger-myths-and-misconcept-brain-anatomy-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -762,7 +762,7 @@ The useful takeaway is therefore modest but powerful. Do not treat a myth as a s
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -782,7 +782,7 @@ The useful takeaway is therefore modest but powerful. Do not treat a myth as a s
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -814,7 +814,7 @@ The useful takeaway is therefore modest but powerful. Do not treat a myth as a s
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -866,7 +866,7 @@ The useful takeaway is therefore modest but powerful. Do not treat a myth as a s
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -911,7 +911,7 @@ The useful takeaway is therefore modest but powerful. Do not treat a myth as a s
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -952,143 +952,143 @@ The useful takeaway is therefore modest but powerful. Do not treat a myth as a s
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: link.springer.com  
-   Link: <a href="https://link.springer.com/article/10.3758/MC.38.8.1087" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.3758/MC.38.8.1087</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Explicit warnings reduce but do not eliminate the continued...by UKH Ecker · 2010 · Cited by 741 — The present study investigate...</p></details>
+   Link:<a href="https://link.springer.com/article/10.3758/MC.38.8.1087" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.3758/MC.38.8.1087</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Explicit warnings reduce but do not eliminate the continued...by UKH Ecker · 2010 · Cited by 741 — The present study investigate...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/pii/S2352250X23001574" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S2352250X23001574</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Review Effective correction of misinformationby T Prike · 2023 · Cited by 79 — However, recent studies from our lab have fou...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/pii/S2352250X23001574" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S2352250X23001574</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Review Effective correction of misinformationby T Prike · 2023 · Cited by 79 — However, recent studies from our lab have fou...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0001691823002706" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0001691823002706</a>  
+   Link:<a href="https://www.sciencedirect.com/science/article/pii/S0001691823002706" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0001691823002706</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: classes.cs.uchicago.edu  
    Title: Ecker2010 Article ExplicitWarningsReduceButDoNot  
-   Link: <a href="https://www.classes.cs.uchicago.edu/archive/2020/spring/33231-1/readings/Ecker2010_Article_ExplicitWarningsReduceButDoNot.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.classes.cs.uchicago.edu/archive/2020/spring/33231-1/readings/Ecker2010_Article_ExplicitWarningsReduceButDoNot.pdf</a>  
+   Link:<a href="https://www.classes.cs.uchicago.edu/archive/2020/spring/33231-1/readings/Ecker2010_Article_ExplicitWarningsReduceButDoNot.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.classes.cs.uchicago.edu/archive/2020/spring/33231-1/readings/Ecker2010_Article_ExplicitWarningsReduceButDoNot.pdf</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: nature.com  
-   Link: <a href="https://www.nature.com/articles/s44159-021-00006-y" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s44159-021-00006-y</a>  
+   Link:<a href="https://www.nature.com/articles/s44159-021-00006-y" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s44159-021-00006-y</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0010027724002865" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0010027724002865</a>  
+   Link:<a href="https://www.sciencedirect.com/science/article/pii/S0010027724002865" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0010027724002865</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCThe role of discomfort in the continued influence effect  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8447889/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8447889/</a>  
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8447889/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8447889/</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: link.springer.com  
-   Link: <a href="https://link.springer.com/article/10.3758/s13421-023-01402-w" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.3758/s13421-023-01402-w</a>  
+   Link:<a href="https://link.springer.com/article/10.3758/s13421-023-01402-w" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.3758/s13421-023-01402-w</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: link.springer.com  
-   Link: <a href="https://link.springer.com/article/10.1186/s41235-021-00335-9" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1186/s41235-021-00335-9</a>  
+   Link:<a href="https://link.springer.com/article/10.1186/s41235-021-00335-9" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1186/s41235-021-00335-9</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: link.springer.com  
-   Link: <a href="https://link.springer.com/article/10.1186/s41235-021-00346-6" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1186/s41235-021-00346-6</a>  
+   Link:<a href="https://link.springer.com/article/10.1186/s41235-021-00346-6" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1186/s41235-021-00346-6</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: research-repository.uwa.edu.au  
    Title: explicit warnings reduce but do not eliminate the continued influ  
-   Link: <a href="https://research-repository.uwa.edu.au/en/publications/explicit-warnings-reduce-but-do-not-eliminate-the-continued-influ/" target="_blank" rel="noopener noreferrer nofollow">https://research-repository.uwa.edu.au/en/publications/explicit-warnings-reduce-but-do-not-eliminate-the-continued-influ/</a>  
+   Link:<a href="https://research-repository.uwa.edu.au/en/publications/explicit-warnings-reduce-but-do-not-eliminate-the-continued-influ/" target="_blank" rel="noopener noreferrer nofollow">https://research-repository.uwa.edu.au/en/publications/explicit-warnings-reduce-but-do-not-eliminate-the-continued-influ/</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0010027720302729" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0010027720302729</a>  
+   Link:<a href="https://www.sciencedirect.com/science/article/abs/pii/S0010027720302729" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0010027720302729</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: youtube.com  
    Title: The Continued Influence Effect  
-   Link: <a href="https://www.youtube.com/watch?v=eZ_hcf01EFw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=eZ_hcf01EFw</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Continued Influence of Misinformation — Ullrich Ecker (CHDH Seminar Series 2020)...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=eZ_hcf01EFw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=eZ_hcf01EFw</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Continued Influence of Misinformation — Ullrich Ecker (CHDH Seminar Series 2020)...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=H_dHJVH5hPU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=H_dHJVH5hPU</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Continued Influence Effect...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=H_dHJVH5hPU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=H_dHJVH5hPU</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Continued Influence Effect...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: youtube.com  
    Title: Continued Influence Effect  
-   Link: <a href="https://www.youtube.com/watch?v=LkCxRCpkyBs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=LkCxRCpkyBs</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>What is Continued influence effect? [Definition and Example] - Understanding Cognitive Biases...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=LkCxRCpkyBs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=LkCxRCpkyBs</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>What is Continued influence effect? [Definition and Example] - Understanding Cognitive Biases...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: climatechangecommunication.org  
    Title: Center for Climate Change Communication Debunking Handbook  
-   Link: <a href="https://www.climatechangecommunication.org/wp-content/uploads/2023/09/DebunkingHandbook2020.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.climatechangecommunication.org/wp-content/uploads/2023/09/DebunkingHandbook2020.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Center for Climate Change CommunicationDebunking HandbookOctober 11, 2020 — Continued influence effect: The continued reliance on inaccur...</p></details>
+   Link:<a href="https://www.climatechangecommunication.org/wp-content/uploads/2023/09/DebunkingHandbook2020.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.climatechangecommunication.org/wp-content/uploads/2023/09/DebunkingHandbook2020.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Center for Climate Change CommunicationDebunking HandbookOctober 11, 2020 — Continued influence effect: The continued reliance on inaccur...</p></details>
    Published: October 11, 2020  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: journals.sagepub.com  
-   Link: <a href="https://journals.sagepub.com/doi/abs/10.1177/0093650219854600" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/abs/10.1177/0093650219854600</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sage JournalsA Meta-Analytic Examination of the Continued Influence...by N Walter · 2020 · Cited by 649 — A meta-analysis was conducted...</p></details>
+   Link:<a href="https://journals.sagepub.com/doi/abs/10.1177/0093650219854600" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/abs/10.1177/0093650219854600</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sage JournalsA Meta-Analytic Examination of the Continued Influence...by N Walter · 2020 · Cited by 649 — A meta-analysis was conducted...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: shapingtomorrowsworld.org  
-   Link: <a href="https://www.shapingtomorrowsworld.org/debunking-handbook-part-5-filling-gap-with-alternative-explanation.html" target="_blank" rel="noopener noreferrer nofollow">https://www.shapingtomorrowsworld.org/debunking-handbook-part-5-filling-gap-with-alternative-explanation.html</a>  
+   Link:<a href="https://www.shapingtomorrowsworld.org/debunking-handbook-part-5-filling-gap-with-alternative-explanation.html" target="_blank" rel="noopener noreferrer nofollow">https://www.shapingtomorrowsworld.org/debunking-handbook-part-5-filling-gap-with-alternative-explanation.html</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: research-information.bris.ac.uk  
    Title: explicit warnings reduce but do not eliminate the continued influ  
-   Link: <a href="https://research-information.bris.ac.uk/en/publications/explicit-warnings-reduce-but-do-not-eliminate-the-continued-influ/" target="_blank" rel="noopener noreferrer nofollow">https://research-information.bris.ac.uk/en/publications/explicit-warnings-reduce-but-do-not-eliminate-the-continued-influ/</a>  
+   Link:<a href="https://research-information.bris.ac.uk/en/publications/explicit-warnings-reduce-but-do-not-eliminate-the-continued-influ/" target="_blank" rel="noopener noreferrer nofollow">https://research-information.bris.ac.uk/en/publications/explicit-warnings-reduce-but-do-not-eliminate-the-continued-influ/</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: frontiersin.org  
-   Link: <a href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2024.1487146/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2024.1487146/full</a>  
+   Link:<a href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2024.1487146/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2024.1487146/full</a>  
 
 ### Additional References
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: youtube.com  
    Title: Misinformation Effect: How to Alter Memories  
-   Link: <a href="https://www.youtube.com/watch?v=hrBesZu0k3o" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=hrBesZu0k3o</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Continued influence effect of misinformation The Continued Influence Effect - Why do memories of misinformation persist in our minds?...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=hrBesZu0k3o" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=hrBesZu0k3o</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Continued influence effect of misinformation The Continued Influence Effect - Why do memories of misinformation persist in our minds?...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: youtube.com  
    Title: What is Continued influence effect? [Definition and Example]  
-   Link: <a href="https://www.youtube.com/watch?v=EaEDkrYnKuI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=EaEDkrYnKuI</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Misinformation Effect: How to Alter Memories...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=EaEDkrYnKuI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=EaEDkrYnKuI</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Misinformation Effect: How to Alter Memories...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/258180567_Misinformation_and_Its_Correction_Continued_Influence_and_Successful_Debiasing" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/258180567_Misinformation_and_Its_Correction_Continued_Influence_and_Successful_Debiasing</a>  
+   Link:<a href="https://www.researchgate.net/publication/258180567_Misinformation_and_Its_Correction_Continued_Influence_and_Successful_Debiasing" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/258180567_Misinformation_and_Its_Correction_Continued_Influence_and_Successful_Debiasing</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: emc-lab.org  
-   Link: <a href="https://www.emc-lab.org/uploads/1/1/3/6/113627673/butler.2025.nhb.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.emc-lab.org/uploads/1/1/3/6/113627673/butler.2025.nhb.pdf</a>  
+   Link:<a href="https://www.emc-lab.org/uploads/1/1/3/6/113627673/butler.2025.nhb.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.emc-lab.org/uploads/1/1/3/6/113627673/butler.2025.nhb.pdf</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/375867267_I_know_It%27s_false_but_I_keep_thinking_as_if_it_were_true_A_replication_study_of_Johnson_and_Seifert%27s_1994_continued_influence_effect" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/375867267_I_know_It%27s_false_but_I_keep_thinking_as_if_it_were_true_A_replication_study_of_Johnson_and_Seifert%27s_1994_continued_influence_effect</a>  
+   Link:<a href="https://www.researchgate.net/publication/375867267_I_know_It%27s_false_but_I_keep_thinking_as_if_it_were_true_A_replication_study_of_Johnson_and_Seifert%27s_1994_continued_influence_effect" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/375867267_I_know_It%27s_false_but_I_keep_thinking_as_if_it_were_true_A_replication_study_of_Johnson_and_Seifert%27s_1994_continued_influence_effect</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/391015007_To_be_continued_misinformation%27s_bizarre_adventure_beyond_memory_failures_-_exploring_non-memory-based_mechanisms_driving_the_continued_influence_effect_CIE" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/391015007_To_be_continued_misinformation%27s_bizarre_adventure_beyond_memory_failures_-_exploring_non-memory-based_mechanisms_driving_the_continued_influence_effect_CIE</a>  
+   Link:<a href="https://www.researchgate.net/publication/391015007_To_be_continued_misinformation%27s_bizarre_adventure_beyond_memory_failures_-_exploring_non-memory-based_mechanisms_driving_the_continued_influence_effect_CIE" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/391015007_To_be_continued_misinformation%27s_bizarre_adventure_beyond_memory_failures_-_exploring_non-memory-based_mechanisms_driving_the_continued_influence_effect_CIE</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/333950695_A_Meta-Analytic_Examination_of_the_Continued_Influence_of_Misinformation_in_the_Face_of_Correction_How_Powerful_Is_It_Why_Does_It_Happen_and_How_to_Stop_It" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/333950695_A_Meta-Analytic_Examination_of_the_Continued_Influence_of_Misinformation_in_the_Face_of_Correction_How_Powerful_Is_It_Why_Does_It_Happen_and_How_to_Stop_It</a>  
+   Link:<a href="https://www.researchgate.net/publication/333950695_A_Meta-Analytic_Examination_of_the_Continued_Influence_of_Misinformation_in_the_Face_of_Correction_How_Powerful_Is_It_Why_Does_It_Happen_and_How_to_Stop_It" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/333950695_A_Meta-Analytic_Examination_of_the_Continued_Influence_of_Misinformation_in_the_Face_of_Correction_How_Powerful_Is_It_Why_Does_It_Happen_and_How_to_Stop_It</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: semanticscholar.org  
-   Link: <a href="https://www.semanticscholar.org/paper/A-Meta-Analytic-Examination-of-the-Continued-of-in-Walter-Tukachinsky/ef4e5a4009814a03adb47947ba57b559c2b8383a" target="_blank" rel="noopener noreferrer nofollow">https://www.semanticscholar.org/paper/A-Meta-Analytic-Examination-of-the-Continued-of-in-Walter-Tukachinsky/ef4e5a4009814a03adb47947ba57b559c2b8383a</a>  
+   Link:<a href="https://www.semanticscholar.org/paper/A-Meta-Analytic-Examination-of-the-Continued-of-in-Walter-Tukachinsky/ef4e5a4009814a03adb47947ba57b559c2b8383a" target="_blank" rel="noopener noreferrer nofollow">https://www.semanticscholar.org/paper/A-Meta-Analytic-Examination-of-the-Continued-of-in-Walter-Tukachinsky/ef4e5a4009814a03adb47947ba57b559c2b8383a</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: socialactionlab.org  
-   Link: <a href="https://socialactionlab.org/wp-content/uploads/2024/01/Chan_A-meta-analysis-of-correction-effects-in-science-relevant-misinformation_2023.pdf" target="_blank" rel="noopener noreferrer nofollow">https://socialactionlab.org/wp-content/uploads/2024/01/Chan_A-meta-analysis-of-correction-effects-in-science-relevant-misinformation_2023.pdf</a>  
+   Link:<a href="https://socialactionlab.org/wp-content/uploads/2024/01/Chan_A-meta-analysis-of-correction-effects-in-science-relevant-misinformation_2023.pdf" target="_blank" rel="noopener noreferrer nofollow">https://socialactionlab.org/wp-content/uploads/2024/01/Chan_A-meta-analysis-of-correction-effects-in-science-relevant-misinformation_2023.pdf</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: emc-lab.org  
-   Link: <a href="https://www.emc-lab.org/uploads/1/1/3/6/113627673/chapter_swireecker_revised.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.emc-lab.org/uploads/1/1/3/6/113627673/chapter_swireecker_revised.pdf</a>
+   Link:<a href="https://www.emc-lab.org/uploads/1/1/3/6/113627673/chapter_swireecker_revised.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.emc-lab.org/uploads/1/1/3/6/113627673/chapter_swireecker_revised.pdf</a>

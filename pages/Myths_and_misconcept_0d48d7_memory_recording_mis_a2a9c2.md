@@ -501,29 +501,29 @@ image: /assets/images/Myths_and_misconcept_0d48d7_memory_recording_mis_a2a9c2-ov
 
 ## Introduction
 
-Many people think memory works like a video recording: experiences are stored, preserved and later replayed when needed. That idea feels intuitive because some memories seem vivid, detailed and emotionally powerful. Yet decades of cognitive psychology research show that memory is not a literal recording system. It is reconstructive. Each act of remembering involves rebuilding an event from stored fragments, expectations, later information and current interpretation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.simplypsychology.org/eyewitness-testimony.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: simplypsychology.org">[Simply Psychology]</a><span class="citation-popover" role="note"><span class="citation-popover-source">simplypsychology.org</span><span class="citation-popover-snippet">Bartlett&#x27;s theory of reconstructive memory is crucial to an understanding of the reliability of eyewitness testimony...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.simplypsychology.org/eyewitness-testimony.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: simplypsychology.org">[Simply]</a><span class="citation-popover" role="note"><span class="citation-popover-source">simplypsychology.org</span><span class="citation-popover-snippet">Bartlett&#x27;s theory of reconstructive memory is crucial to an understanding of the reliability of eyewitness testimony...</span></span></span>
+Many people think memory works like a video recording: experiences are stored, preserved and later replayed when needed. That idea feels intuitive because some memories seem vivid, detailed and emotionally powerful. Yet decades of cognitive psychology research show that memory is not a literal recording system. It is reconstructive. Each act of remembering involves rebuilding an event from stored fragments, expectations, later information and current interpretation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.simplypsychology.org/eyewitness-testimony.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: simplypsychology.org">[Simply Psychology]</a><span class="citation-popover" role="note"><span class="citation-popover-source">simplypsychology.org</span><span class="citation-popover-snippet">Bartlett&#x27;s theory of reconstructive memory is crucial to an understanding of the reliability of eyewitness testimony...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.simplypsychology.org/eyewitness-testimony.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: simplypsychology.org">[Simply]</a><span class="citation-popover" role="note"><span class="citation-popover-source">simplypsychology.org</span><span class="citation-popover-snippet">Bartlett&#x27;s theory of reconstructive memory is crucial to an understanding of the reliability of eyewitness testimony...</span></span></span>
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_memory_recording_mis_a2a9c2-overview.webp" | relative_url }}" alt="Overview image for Memory" loading="eager" decoding="sync" fetchpriority="high">
-This misconception matters most when memory is treated as evidence. Courts, juries, police investigators and ordinary people often assume that a confident witness is recalling events exactly as they happened. In reality, [confidence]({{ 'confidence/' | relative_url }}) and accuracy are related in more complicated ways. A person can express great certainty while recalling details incorrectly, and memories can change over time without the witness realising that anything has changed. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4131297/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">An Examination of the Causes and Solutions to Eyewitness Errorby RA Wise · 2014 · Cited by 67 — Furthermore, in assessing accuracy, ju...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalacademies.org/read/18891/chapter/8" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalacademies.org">[National]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalacademies.org</span><span class="citation-popover-snippet">National AcademiesIdentifying the Culprit: Assessing Eyewitness Identification...Evidence indicates that self-reported confidence at the...</span></span></span>
+This misconception matters most when memory is treated as evidence. Courts, juries, police investigators and ordinary people often assume that a confident witness is recalling events exactly as they happened. In reality, [confidence]({{ 'confidence/' | relative_url }}) and accuracy are related in more complicated ways. A person can express great certainty while recalling details incorrectly, and memories can change over time without the witness realising that anything has changed.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4131297/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">An Examination of the Causes and Solutions to Eyewitness Errorby RA Wise · 2014 · Cited by 67 — Furthermore, in assessing accuracy, ju...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalacademies.org/read/18891/chapter/8" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalacademies.org">[National]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalacademies.org</span><span class="citation-popover-snippet">National AcademiesIdentifying the Culprit: Assessing Eyewitness Identification...Evidence indicates that self-reported confidence at the...</span></span></span>
 
 ## The recording metaphor
 
 The idea of memory as a recording device has deep cultural roots. People commonly describe memories as being “stored”, “replayed” or “retrieved” as though they were files sitting unchanged in a mental archive. Cognitive research paints a different picture.
 
-When an event occurs, the brain does not preserve a perfect copy of everything that happened. Attention is limited. People notice some details and miss others. Stress, distraction, lighting conditions, distance and prior expectations all influence what becomes encoded in memory in the first place. Later recall involves reconstructing the event from what was originally encoded, together with information acquired afterwards. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pressbooks.bccampus.ca/psyc268/chapter/chapter-8/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pressbooks.bccampus.ca">[BCcampus Pressbooks]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pressbooks.bccampus.ca</span><span class="citation-popover-snippet">BCcampus PressbooksCHAPTER 8: EYEWITNESS TESTIMONY: MEMORY AND...In this chapter, we discuss two related aspects of eyewitness testimony...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4131297/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">An Examination of the Causes and Solutions to Eyewitness Errorby RA Wise · 2014 · Cited by 67 — Furthermore, in assessing accuracy, ju...</span></span></span>
+When an event occurs, the brain does not preserve a perfect copy of everything that happened. Attention is limited. People notice some details and miss others. Stress, distraction, lighting conditions, distance and prior expectations all influence what becomes encoded in memory in the first place. Later recall involves reconstructing the event from what was originally encoded, together with information acquired afterwards.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pressbooks.bccampus.ca/psyc268/chapter/chapter-8/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pressbooks.bccampus.ca">[BCcampus Pressbooks]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pressbooks.bccampus.ca</span><span class="citation-popover-snippet">BCcampus PressbooksCHAPTER 8: EYEWITNESS TESTIMONY: MEMORY AND...In this chapter, we discuss two related aspects of eyewitness testimony...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4131297/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">An Examination of the Causes and Solutions to Eyewitness Errorby RA Wise · 2014 · Cited by 67 — Furthermore, in assessing accuracy, ju...</span></span></span>
 
-The psychologist Frederic Bartlett demonstrated this reconstructive process as early as the 1930s. Participants recalling stories often reshaped them into forms that better matched their existing knowledge and expectations. Modern research on eyewitness testimony has repeatedly shown similar effects. Witnesses do not simply replay experiences. They actively reconstruct them. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.simplypsychology.org/eyewitness-testimony.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: simplypsychology.org">[Simply Psychology]</a><span class="citation-popover" role="note"><span class="citation-popover-source">simplypsychology.org</span><span class="citation-popover-snippet">Bartlett&#x27;s theory of reconstructive memory is crucial to an understanding of the reliability of eyewitness testimony...</span></span></span>
+The psychologist Frederic Bartlett demonstrated this reconstructive process as early as the 1930s. Participants recalling stories often reshaped them into forms that better matched their existing knowledge and expectations. Modern research on eyewitness testimony has repeatedly shown similar effects. Witnesses do not simply replay experiences. They actively reconstruct them.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.simplypsychology.org/eyewitness-testimony.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: simplypsychology.org">[Simply Psychology]</a><span class="citation-popover" role="note"><span class="citation-popover-source">simplypsychology.org</span><span class="citation-popover-snippet">Bartlett&#x27;s theory of reconstructive memory is crucial to an understanding of the reliability of eyewitness testimony...</span></span></span>
 
-This does not mean memory is useless or completely unreliable. Most everyday memories are broadly accurate enough for ordinary life. The misconception lies in treating memory as a flawless recording rather than a reconstruction that can contain omissions, distortions and later additions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/topics/agricultural-and-biological-sciences/misinformation-effect" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-title">ScienceDirect Misinformation Effect</span><span class="citation-popover-snippet">Misinformation Effect - an overviewIn a typical misinformation effect study, participants witness an event, usually visually via slides (...</span></span></span>
+This does not mean memory is useless or completely unreliable. Most everyday memories are broadly accurate enough for ordinary life. The misconception lies in treating memory as a flawless recording rather than a reconstruction that can contain omissions, distortions and later additions.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/topics/agricultural-and-biological-sciences/misinformation-effect" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-title">ScienceDirect Misinformation Effect</span><span class="citation-popover-snippet">Misinformation Effect - an overviewIn a typical misinformation effect study, participants witness an event, usually visually via slides (...</span></span></span>
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_memory_recording_mis_a2a9c2-Illustration-1-dark.svg" | relative_url }}" alt="Memory illustration 1" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_memory_recording_mis_a2a9c2-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_memory_recording_mis_a2a9c2-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### How later information becomes part of a memory
 
 One reason the recording metaphor fails is that memory remains open to influence after an event has occurred.
 
-Research by Elizabeth Loftus and colleagues showed that subtle changes in questioning can alter what people later remember. In the famous car-crash experiments, participants who were asked how fast cars were going when they “smashed” into each other tended to report higher speeds and were more likely to remember broken glass that never existed compared with participants who heard less dramatic wording. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.simplypsychology.org/eyewitness-testimony.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: simplypsychology.org">[Simply Psychology]</a><span class="citation-popover" role="note"><span class="citation-popover-source">simplypsychology.org</span><span class="citation-popover-snippet">Bartlett&#x27;s theory of reconstructive memory is crucial to an understanding of the reliability of eyewitness testimony...</span></span></span>
+Research by Elizabeth Loftus and colleagues showed that subtle changes in questioning can alter what people later remember. In the famous car-crash experiments, participants who were asked how fast cars were going when they “smashed” into each other tended to report higher speeds and were more likely to remember broken glass that never existed compared with participants who heard less dramatic wording.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.simplypsychology.org/eyewitness-testimony.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: simplypsychology.org">[Simply Psychology]</a><span class="citation-popover" role="note"><span class="citation-popover-source">simplypsychology.org</span><span class="citation-popover-snippet">Bartlett&#x27;s theory of reconstructive memory is crucial to an understanding of the reliability of eyewitness testimony...</span></span></span>
 
-This phenomenon became known as the misinformation effect. Information encountered after an event can become incorporated into a person's recollection, making the altered memory feel as real as the original experience. The result is not necessarily deliberate lying. Witnesses often believe sincerely that they are reporting exactly what they saw. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4131297/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">An Examination of the Causes and Solutions to Eyewitness Errorby RA Wise · 2014 · Cited by 67 — Furthermore, in assessing accuracy, ju...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/topics/agricultural-and-biological-sciences/misinformation-effect" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-title">ScienceDirect Misinformation Effect</span><span class="citation-popover-snippet">Misinformation Effect - an overviewIn a typical misinformation effect study, participants witness an event, usually visually via slides (...</span></span></span>
+This phenomenon became known as the misinformation effect. Information encountered after an event can become incorporated into a person's recollection, making the altered memory feel as real as the original experience. The result is not necessarily deliberate lying. Witnesses often believe sincerely that they are reporting exactly what they saw.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4131297/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">An Examination of the Causes and Solutions to Eyewitness Errorby RA Wise · 2014 · Cited by 67 — Furthermore, in assessing accuracy, ju...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/topics/agricultural-and-biological-sciences/misinformation-effect" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-title">ScienceDirect Misinformation Effect</span><span class="citation-popover-snippet">Misinformation Effect - an overviewIn a typical misinformation effect study, participants witness an event, usually visually via slides (...</span></span></span>
 
 The key lesson is that memory errors often arise from normal cognitive processes rather than dishonesty or incompetence.
 
@@ -533,31 +533,31 @@ The key lesson is that memory errors often arise from normal cognitive processes
 
 One of the most persistent misconceptions about eyewitness testimony is that confidence reliably signals accuracy. Jurors, investigators and the public frequently treat certainty as evidence that a memory must be correct.
 
-Research has repeatedly found that this assumption is too simple. Studies show that people often rely on witness confidence when judging credibility even though confidence measured much later, especially at trial, is not a dependable indicator of accuracy. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4131297/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">An Examination of the Causes and Solutions to Eyewitness Errorby RA Wise · 2014 · Cited by 67 — Furthermore, in assessing accuracy, ju...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalacademies.org/read/18891/chapter/8" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalacademies.org">[National]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalacademies.org</span><span class="citation-popover-snippet">National AcademiesIdentifying the Culprit: Assessing Eyewitness Identification...Evidence indicates that self-reported confidence at the...</span></span></span>
+Research has repeatedly found that this assumption is too simple. Studies show that people often rely on witness confidence when judging credibility even though confidence measured much later, especially at trial, is not a dependable indicator of accuracy.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4131297/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">An Examination of the Causes and Solutions to Eyewitness Errorby RA Wise · 2014 · Cited by 67 — Furthermore, in assessing accuracy, ju...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalacademies.org/read/18891/chapter/8" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalacademies.org">[National]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalacademies.org</span><span class="citation-popover-snippet">National AcademiesIdentifying the Culprit: Assessing Eyewitness Identification...Evidence indicates that self-reported confidence at the...</span></span></span>
 
 A witness may become more confident for reasons unrelated to the original memory:
 
 * Repeated [retelling]({{ 'retelling/' | relative_url }}) can make a story feel more familiar and coherent.
 * Feedback from investigators or other witnesses can reinforce certainty.
 * Exposure to [media coverage]({{ 'media-coverage/' | relative_url }}), photographs or discussions can strengthen belief in a memory.
-* Confidence may grow as details are reconstructed into a more complete narrative. Noba DigitalCommons Because people often experience confidence as a feeling of truth <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/28395650/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[pubmed.ncbi.nlm.nih.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">The Relationship Between Eyewitness Confidence and...by JT Wixted · 2017 · Cited by 809 — The US legal system increasingly accepts...</span></span></span>, these changes can be difficult to detect. The witness may honestly report increased certainty while remaining unaware that the memory itself has evolved.
+* Confidence may grow as details are reconstructed into a more complete narrative. Noba DigitalCommons Because people often experience confidence as a feeling of truth<span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/28395650/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[pubmed.ncbi.nlm.nih.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">The Relationship Between Eyewitness Confidence and...by JT Wixted · 2017 · Cited by 809 — The US legal system increasingly accepts...</span></span></span>, these changes can be difficult to detect. The witness may honestly report increased certainty while remaining unaware that the memory itself has evolved.
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_memory_recording_mis_a2a9c2-Illustration-2-dark.svg" | relative_url }}" alt="Memory illustration 2" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_memory_recording_mis_a2a9c2-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_memory_recording_mis_a2a9c2-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### The important qualification
 
-Modern eyewitness research has added an important nuance. Some earlier discussions suggested that confidence tells us almost nothing about accuracy. More recent work argues that under carefully controlled conditions, a witness's confidence at the moment of an initial identification can sometimes provide useful information about accuracy. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/28395650/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">The Relationship Between Eyewitness Confidence and...by JT Wixted · 2017 · Cited by 809 — The US legal system increasingly accepts...</span></span></span>
+Modern eyewitness research has added an important nuance. Some earlier discussions suggested that confidence tells us almost nothing about accuracy. More recent work argues that under carefully controlled conditions, a witness's confidence at the moment of an initial identification can sometimes provide useful information about accuracy.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/28395650/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">The Relationship Between Eyewitness Confidence and...by JT Wixted · 2017 · Cited by 809 — The US legal system increasingly accepts...</span></span></span>
 
-Researchers such as John Wixted and Gary Wells have argued that high-confidence identifications made immediately under fair lineup procedures can be more reliable than many people assume. However, this finding comes with significant conditions. The identification must be collected early, before contamination, using proper procedures that avoid suggestion and bias. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/28395650/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">The Relationship Between Eyewitness Confidence and...by JT Wixted · 2017 · Cited by 809 — The US legal system increasingly accepts...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/abs/10.1177/23727322241268384" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsEyewitness Confidence Does Not Necessarily Indicate...by KN Moore · 2024 · Cited by 13 — Scholars agree on a strong but imp...</span></span></span>
+Researchers such as John Wixted and Gary Wells have argued that high-confidence identifications made immediately under fair lineup procedures can be more reliable than many people assume. However, this finding comes with significant conditions. The identification must be collected early, before contamination, using proper procedures that avoid suggestion and bias.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/28395650/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">The Relationship Between Eyewitness Confidence and...by JT Wixted · 2017 · Cited by 809 — The US legal system increasingly accepts...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/abs/10.1177/23727322241268384" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsEyewitness Confidence Does Not Necessarily Indicate...by KN Moore · 2024 · Cited by 13 — Scholars agree on a strong but imp...</span></span></span>
 
-This does not restore the recording metaphor. Instead, it highlights a more precise point: confidence can sometimes be informative when measured at the right time and under the right circumstances, but confidence expressed after repeated questioning, discussion or courtroom preparation may tell a very different story. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalacademies.org/read/18891/chapter/8" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalacademies.org">[National Academies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalacademies.org</span><span class="citation-popover-snippet">National AcademiesIdentifying the Culprit: Assessing Eyewitness Identification...Evidence indicates that self-reported confidence at the...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/abs/10.1177/23727322241268384" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsEyewitness Confidence Does Not Necessarily Indicate...by KN Moore · 2024 · Cited by 13 — Scholars agree on a strong but imp...</span></span></span>
+This does not restore the recording metaphor. Instead, it highlights a more precise point: confidence can sometimes be informative when measured at the right time and under the right circumstances, but confidence expressed after repeated questioning, discussion or courtroom preparation may tell a very different story.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalacademies.org/read/18891/chapter/8" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalacademies.org">[National Academies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalacademies.org</span><span class="citation-popover-snippet">National AcademiesIdentifying the Culprit: Assessing Eyewitness Identification...Evidence indicates that self-reported confidence at the...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/abs/10.1177/23727322241268384" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsEyewitness Confidence Does Not Necessarily Indicate...by KN Moore · 2024 · Cited by 13 — Scholars agree on a strong but imp...</span></span></span>
 
 ## How memory changes over time
 
 The common image of memory assumes that a stored experience remains unchanged until it is retrieved. Research suggests something closer to the opposite.
 
-Remembering is not merely accessing a memory. Each act of recall can alter the memory itself. When people revisit an event, they may strengthen certain details, forget others or integrate new information. Over time, the remembered version can drift away from the original experience while still feeling authentic. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pressbooks.bccampus.ca/psyc268/chapter/chapter-8/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pressbooks.bccampus.ca">[BCcampus Pressbooks]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pressbooks.bccampus.ca</span><span class="citation-popover-snippet">BCcampus PressbooksCHAPTER 8: EYEWITNESS TESTIMONY: MEMORY AND...In this chapter, we discuss two related aspects of eyewitness testimony...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Eyewitness_testimony" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Eyewitness testimony</span><span class="citation-popover-snippet">Eyewitness testimony</span></span></span>
+Remembering is not merely accessing a memory. Each act of recall can alter the memory itself. When people revisit an event, they may strengthen certain details, forget others or integrate new information. Over time, the remembered version can drift away from the original experience while still feeling authentic.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pressbooks.bccampus.ca/psyc268/chapter/chapter-8/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pressbooks.bccampus.ca">[BCcampus Pressbooks]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pressbooks.bccampus.ca</span><span class="citation-popover-snippet">BCcampus PressbooksCHAPTER 8: EYEWITNESS TESTIMONY: MEMORY AND...In this chapter, we discuss two related aspects of eyewitness testimony...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Eyewitness_testimony" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Eyewitness testimony</span><span class="citation-popover-snippet">Eyewitness testimony</span></span></span>
 
-This process helps explain why eyewitness accounts sometimes change across interviews. Changes do not automatically mean a witness is lying. Nor does consistency automatically prove accuracy. A witness can consistently repeat an inaccurate memory that has become firmly established through [repetition]({{ 'repetition/' | relative_url }}) and reconstruction. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4131297/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">An Examination of the Causes and Solutions to Eyewitness Errorby RA Wise · 2014 · Cited by 67 — Furthermore, in assessing accuracy, ju...</span></span></span>
+This process helps explain why eyewitness accounts sometimes change across interviews. Changes do not automatically mean a witness is lying. Nor does consistency automatically prove accuracy. A witness can consistently repeat an inaccurate memory that has become firmly established through [repetition]({{ 'repetition/' | relative_url }}) and reconstruction.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4131297/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">An Examination of the Causes and Solutions to Eyewitness Errorby RA Wise · 2014 · Cited by 67 — Furthermore, in assessing accuracy, ju...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Yq6u_4xtVh0" title="Common Law S4 E8: The Psychology of Eyewitness Memory" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Yq6u_4xtVh0" target="_blank" rel="noopener noreferrer">Common Law S4 E8: The Psychology of Eyewitness Memory</a></p><p class="youtube-embed-meta">Channel: University of Virginia School of Law &middot; Views: 2.1K &middot; Uploaded: May 2022 &middot; Length: 29 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Yq6u_4xtVh0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Yq6u_4xtVh0">Open on YouTube</a></p></div></div></div>
 
@@ -565,7 +565,7 @@ This process helps explain why eyewitness accounts sometimes change across inter
 
 People often point to vivid memories of dramatic events as evidence that memory can function like a recording. Many individuals can recall where they were during major disasters, terrorist attacks or other shocking events.
 
-Psychologists call these highly vivid recollections flashbulb memories. They often feel exceptionally clear and emotionally compelling. Yet research has found that such memories can contain substantial inaccuracies despite the person's strong confidence in them. Emotional intensity tends to increase the feeling of certainty more reliably than it increases factual accuracy. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Memory" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">MemoryMemory is the faculty of the mind by which data or information is encoded, stored, and retrieved when needed.Read more...</span></span></span>
+Psychologists call these highly vivid recollections flashbulb memories. They often feel exceptionally clear and emotionally compelling. Yet research has found that such memories can contain substantial inaccuracies despite the person's strong confidence in them. Emotional intensity tends to increase the feeling of certainty more reliably than it increases factual accuracy.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Memory" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">MemoryMemory is the faculty of the mind by which data or information is encoded, stored, and retrieved when needed.Read more...</span></span></span>
 
 The result is a powerful illusion. A memory can feel detailed, stable and unquestionably real while still containing distortions that accumulated over years of retelling and reconstruction.
 
@@ -575,210 +575,210 @@ The result is a powerful illusion. A memory can feel detailed, stable and unques
 
 Even when people know memory is imperfect, they often continue to trust confident witnesses. Part of the reason is that confidence is easy to observe whereas accuracy usually is not.
 
-Jurors cannot travel back in time to verify what happened. They therefore rely on cues such as confidence, consistency, emotional expression and detail. Research suggests that many of these cues are weaker indicators of accuracy than people assume. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4131297/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">An Examination of the Causes and Solutions to Eyewitness Errorby RA Wise · 2014 · Cited by 67 — Furthermore, in assessing accuracy, ju...</span></span></span>
+Jurors cannot travel back in time to verify what happened. They therefore rely on cues such as confidence, consistency, emotional expression and detail. Research suggests that many of these cues are weaker indicators of accuracy than people assume.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4131297/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">An Examination of the Causes and Solutions to Eyewitness Errorby RA Wise · 2014 · Cited by 67 — Furthermore, in assessing accuracy, ju...</span></span></span>
 
-This creates a practical challenge for legal systems. A sincere witness may be entirely convinced of a memory that has been altered by suggestion, stress, repeated recall or post-event information. The confidence displayed in court can be genuine while the memory itself remains partly inaccurate. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.apa.org/news/press/releases/2020/02/eyewitness-identification" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apa.org">[American Psychological Association]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apa.org</span><span class="citation-popover-title">eyewitness identification</span><span class="citation-popover-snippet">American Psychological AssociationImproving eyewitness identification key to protecting...Feb 10, 2020 — “Over the past few decades, ser...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://dpa.ky.gov/kentucky-department-of-public-advocacy/about-dpa/kip/causes/misid/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dpa.ky.gov">[Department of Public Advocacy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dpa.ky.gov</span><span class="citation-popover-snippet">Department of Public AdvocacyEyewitness MisidentificationAn eyewitness&#x27; false identification of an innocent suspect as the perpetrator of...</span></span></span>
+This creates a practical challenge for legal systems. A sincere witness may be entirely convinced of a memory that has been altered by suggestion, stress, repeated recall or post-event information. The confidence displayed in court can be genuine while the memory itself remains partly inaccurate.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.apa.org/news/press/releases/2020/02/eyewitness-identification" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apa.org">[American Psychological Association]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apa.org</span><span class="citation-popover-title">eyewitness identification</span><span class="citation-popover-snippet">American Psychological AssociationImproving eyewitness identification key to protecting...Feb 10, 2020 — “Over the past few decades, ser...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://dpa.ky.gov/kentucky-department-of-public-advocacy/about-dpa/kip/causes/misid/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dpa.ky.gov">[Department of Public Advocacy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dpa.ky.gov</span><span class="citation-popover-snippet">Department of Public AdvocacyEyewitness MisidentificationAn eyewitness&#x27; false identification of an innocent suspect as the perpetrator of...</span></span></span>
 
-Wrongful-conviction research has helped make this issue visible. Reviews of DNA exoneration cases have repeatedly identified eyewitness misidentification as a major contributing factor. These cases do not show that eyewitness memory is worthless. They show that confidence alone cannot be treated as proof that memory functions like a recording. <span class="citation-chip-wrap"><a class="citation-chip" href="https://dpa.ky.gov/kentucky-department-of-public-advocacy/about-dpa/kip/causes/misid/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dpa.ky.gov">[Department of Public Advocacy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dpa.ky.gov</span><span class="citation-popover-snippet">Department of Public AdvocacyEyewitness MisidentificationAn eyewitness&#x27; false identification of an innocent suspect as the perpetrator of...</span></span></span>
+Wrongful-conviction research has helped make this issue visible. Reviews of DNA exoneration cases have repeatedly identified eyewitness misidentification as a major contributing factor. These cases do not show that eyewitness memory is worthless. They show that confidence alone cannot be treated as proof that memory functions like a recording.<span class="citation-chip-wrap"><a class="citation-chip" href="https://dpa.ky.gov/kentucky-department-of-public-advocacy/about-dpa/kip/causes/misid/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dpa.ky.gov">[Department of Public Advocacy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dpa.ky.gov</span><span class="citation-popover-snippet">Department of Public AdvocacyEyewitness MisidentificationAn eyewitness&#x27; false identification of an innocent suspect as the perpetrator of...</span></span></span>
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_memory_recording_mis_a2a9c2-Illustration-3-dark.svg" | relative_url }}" alt="Memory illustration 3" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_memory_recording_mis_a2a9c2-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_memory_recording_mis_a2a9c2-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## A better way to think about memory
 
 The most accurate replacement for the recording metaphor is not that memory is broken, but that memory is constructive.
 
-Memory evolved to help people interpret experiences, make predictions and guide future behaviour. It was not designed to act as a perfect archive. Most of the time, reconstructive memory works remarkably well. It allows people to retain the meaning of events without preserving every detail. Problems arise when reconstruction is mistaken for exact playback. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.simplypsychology.org/eyewitness-testimony.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: simplypsychology.org">[Simply Psychology]</a><span class="citation-popover" role="note"><span class="citation-popover-source">simplypsychology.org</span><span class="citation-popover-snippet">Bartlett&#x27;s theory of reconstructive memory is crucial to an understanding of the reliability of eyewitness testimony...</span></span></span>
+Memory evolved to help people interpret experiences, make predictions and guide future behaviour. It was not designed to act as a perfect archive. Most of the time, reconstructive memory works remarkably well. It allows people to retain the meaning of events without preserving every detail. Problems arise when reconstruction is mistaken for exact playback.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.simplypsychology.org/eyewitness-testimony.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: simplypsychology.org">[Simply Psychology]</a><span class="citation-popover" role="note"><span class="citation-popover-source">simplypsychology.org</span><span class="citation-popover-snippet">Bartlett&#x27;s theory of reconstructive memory is crucial to an understanding of the reliability of eyewitness testimony...</span></span></span>
 
-Understanding this distinction changes how eyewitness testimony should be interpreted. A confident witness is not necessarily accurate, and an inaccurate witness is not necessarily dishonest. Memory is neither a video recording nor a random invention. It is a reconstruction of the past, shaped by what was originally experienced, what happened afterwards and how the event has been remembered over time. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/topics/agricultural-and-biological-sciences/misinformation-effect" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-title">ScienceDirect Misinformation Effect</span><span class="citation-popover-snippet">Misinformation Effect - an overviewIn a typical misinformation effect study, participants witness an event, usually visually via slides (...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalacademies.org/read/18891/chapter/8" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalacademies.org">[National]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalacademies.org</span><span class="citation-popover-snippet">National AcademiesIdentifying the Culprit: Assessing Eyewitness Identification...Evidence indicates that self-reported confidence at the...</span></span></span>
+Understanding this distinction changes how eyewitness testimony should be interpreted. A confident witness is not necessarily accurate, and an inaccurate witness is not necessarily dishonest. Memory is neither a video recording nor a random invention. It is a reconstruction of the past, shaped by what was originally experienced, what happened afterwards and how the event has been remembered over time.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/topics/agricultural-and-biological-sciences/misinformation-effect" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-title">ScienceDirect Misinformation Effect</span><span class="citation-popover-snippet">Misinformation Effect - an overviewIn a typical misinformation effect study, participants witness an event, usually visually via slides (...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalacademies.org/read/18891/chapter/8" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalacademies.org">[National]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalacademies.org</span><span class="citation-popover-snippet">National AcademiesIdentifying the Culprit: Assessing Eyewitness Identification...Evidence indicates that self-reported confidence at the...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Memory Is Not a Video Recording. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Memory Is Not a Video Recording. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Seven+Sins+of+Memory+by+Daniel+L.+Schacter&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Seven Sins of Memory on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=m8qMjPF1NYAC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Seven Sins of Memory" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Seven+Sins+of+Memory+by+Daniel+L.+Schacter&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Seven Sins of Memory">The Seven Sins of Memory</a>
-        </h4>
-        <p class="fr-book-author">By Daniel L. Schacter</p>
-        <p class="fr-book-popularity">Rating: 3.5/5 from 5 Google Books ratings</p>
-        <p class="fr-book-desc">Explains why memory is reconstructive rather than a recording.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Seven+Sins+of+Memory+by+Daniel+L.+Schacter&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Seven+Sins+of+Memory+by+Daniel+L.+Schacter&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Seven Sins of Memory on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=m8qMjPF1NYAC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Seven Sins of Memory" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Seven+Sins+of+Memory+by+Daniel+L.+Schacter&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Seven Sins of Memory">The Seven Sins of Memory</a>
+</h4>
+<p class="fr-book-author">By Daniel L. Schacter</p>
+<p class="fr-book-popularity">Rating: 3.5/5 from 5 Google Books ratings</p>
+<p class="fr-book-desc">Explains why memory is reconstructive rather than a recording.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Seven+Sins+of+Memory+by+Daniel+L.+Schacter&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Moonwalking+with+Einstein+by+Joshua+Foer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Moonwalking with Einstein on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=bFTl2b80zyQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Moonwalking with Einstein" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Moonwalking+with+Einstein+by+Joshua+Foer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Moonwalking with Einstein">Moonwalking with Einstein</a>
-        </h4>
-        <p class="fr-book-author">By Joshua Foer</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Moonwalking+with+Einstein+by+Joshua+Foer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Moonwalking with Einstein on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=bFTl2b80zyQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Moonwalking with Einstein" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Moonwalking+with+Einstein+by+Joshua+Foer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Moonwalking with Einstein">Moonwalking with Einstein</a>
+</h4>
+<p class="fr-book-author">By Joshua Foer</p>
         
-        <p class="fr-book-desc">Provides insight into how memory is built and trained.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Moonwalking+with+Einstein+by+Joshua+Foer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides insight into how memory is built and trained.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Moonwalking+with+Einstein+by+Joshua+Foer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mistakes Were Made (but Not by Me) Third Edition on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jmmVxgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Mistakes Were Made (but Not by Me) Third Edition" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mistakes Were Made (but Not by Me) Third Edition">Mistakes Were Made (but Not by Me) Third Edition</a>
-        </h4>
-        <p class="fr-book-author">By Carol Tavris, Elliot Aronson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mistakes Were Made (but Not by Me) Third Edition on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jmmVxgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Mistakes Were Made (but Not by Me) Third Edition" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mistakes Were Made (but Not by Me) Third Edition">Mistakes Were Made (but Not by Me) Third Edition</a>
+</h4>
+<p class="fr-book-author">By Carol Tavris, Elliot Aronson</p>
         
-        <p class="fr-book-desc">Explores self-justification and distorted recollection.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores self-justification and distorted recollection.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Remember+Lisa+Genova&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Remember on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10529135-M.jpg" alt="Cover for Remember" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Remember+Lisa+Genova&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Remember">Remember</a>
-        </h4>
-        <p class="fr-book-author">By Lisa Genova</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Remember+Lisa+Genova&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Remember on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10529135-M.jpg" alt="Cover for Remember" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Remember+Lisa+Genova&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Remember">Remember</a>
+</h4>
+<p class="fr-book-author">By Lisa Genova</p>
         
-        <p class="fr-book-desc">First published 2021. Subjects: nyt:combined-print-and-e-book-nonfiction=2021-04-11, New York Times bestseller, Memory, Cognition, Human...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Remember+Lisa+Genova&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2021. Subjects: nyt:combined-print-and-e-book-nonfiction=2021-04-11, New York Times bestseller, Memory, Cognition, Human...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Remember+Lisa+Genova&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Seven+Sins+of+Memory&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Seven Sins of Memory</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Moonwalking+with+Einstein&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Moonwalking with Einstein</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mistakes Were Made (but Not by Me) Third Edition</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Seven+Sins+of+Memory&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Seven Sins of Memory</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Moonwalking+with+Einstein&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Moonwalking with Einstein</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mistakes Were Made (but Not by Me) Third Edition</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-why-memory-is-not-a-video-recording-myths-and-misconcept-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="memory-why-memory-is-not-a-video-recording-myths-and-misconcept-social-media-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Social Media Killed Romance Love Fr Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/54b06f239c22fcb1714c.jpg' | relative_url }}" alt="Listing image for Social Media Killed Romance Love Fr Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-why-memory-is-not-a-video-recording-myths-and-misconcept-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="memory-why-memory-is-not-a-video-recording-myths-and-misconcept-social-media-poster" target="_blank" rel="sponsored noopener noreferrer">Social Media Killed Romance Love Fr Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-why-memory-is-not-a-video-recording-myths-and-misconcept-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="memory-why-memory-is-not-a-video-recording-myths-and-misconcept-social-media-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for social media poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: social media poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-why-memory-is-not-a-video-recording-myths-and-misconcept-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="memory-why-memory-is-not-a-video-recording-myths-and-misconcept-social-media-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-why-memory-is-not-a-video-recording-myths-and-misconcept-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="memory-why-memory-is-not-a-video-recording-myths-and-misconcept-social-media-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Social Media Killed Romance Love Fr Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/54b06f239c22fcb1714c.jpg' | relative_url }}" alt="Listing image for Social Media Killed Romance Love Fr Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-why-memory-is-not-a-video-recording-myths-and-misconcept-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="memory-why-memory-is-not-a-video-recording-myths-and-misconcept-social-media-poster" target="_blank" rel="sponsored noopener noreferrer">Social Media Killed Romance Love Fr Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-why-memory-is-not-a-video-recording-myths-and-misconcept-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="memory-why-memory-is-not-a-video-recording-myths-and-misconcept-social-media-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for social media poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: social media poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-why-memory-is-not-a-video-recording-myths-and-misconcept-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="memory-why-memory-is-not-a-video-recording-myths-and-misconcept-social-media-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-why-memory-is-not-a-video-recording-myths-and-misconcept-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="memory-why-memory-is-not-a-video-recording-myths-and-misconcept-social-media-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Social Media Can Wait It&#x27;s Time For Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/80037e76408505ad70cd.jpg' | relative_url }}" alt="Listing image for Social Media Can Wait It&#x27;s Time For Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-why-memory-is-not-a-video-recording-myths-and-misconcept-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="memory-why-memory-is-not-a-video-recording-myths-and-misconcept-social-media-poster" target="_blank" rel="sponsored noopener noreferrer">Social Media Can Wait It&#x27;s Time For Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-why-memory-is-not-a-video-recording-myths-and-misconcept-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="memory-why-memory-is-not-a-video-recording-myths-and-misconcept-social-media-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for social media poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: social media poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-why-memory-is-not-a-video-recording-myths-and-misconcept-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="memory-why-memory-is-not-a-video-recording-myths-and-misconcept-social-media-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-why-memory-is-not-a-video-recording-myths-and-misconcept-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="memory-why-memory-is-not-a-video-recording-myths-and-misconcept-social-media-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Social Media Can Wait It&#x27;s Time For Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/80037e76408505ad70cd.jpg' | relative_url }}" alt="Listing image for Social Media Can Wait It&#x27;s Time For Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-why-memory-is-not-a-video-recording-myths-and-misconcept-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="memory-why-memory-is-not-a-video-recording-myths-and-misconcept-social-media-poster" target="_blank" rel="sponsored noopener noreferrer">Social Media Can Wait It&#x27;s Time For Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-why-memory-is-not-a-video-recording-myths-and-misconcept-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="memory-why-memory-is-not-a-video-recording-myths-and-misconcept-social-media-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for social media poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: social media poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-why-memory-is-not-a-video-recording-myths-and-misconcept-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="memory-why-memory-is-not-a-video-recording-myths-and-misconcept-social-media-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-why-memory-is-not-a-video-recording-myths-and-misconcept-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="memory-why-memory-is-not-a-video-recording-myths-and-misconcept-social-media-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Mercedes F1 Social Media Poster Signed Lewis Hamilton George Russell Saudi 2023"><img src="{{ '/assets/images/marketplace-covers/01ba4e2fc742e3e6c9cd.jpg' | relative_url }}" alt="Listing image for Mercedes F1 Social Media Poster Signed Lewis Hamilton George Russell Saudi 2023" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-why-memory-is-not-a-video-recording-myths-and-misconcept-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="memory-why-memory-is-not-a-video-recording-myths-and-misconcept-social-media-poster" target="_blank" rel="sponsored noopener noreferrer">Mercedes F1 Social Media Poster Signed Lewis Hamilton George Russell Saudi 2023</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-why-memory-is-not-a-video-recording-myths-and-misconcept-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="memory-why-memory-is-not-a-video-recording-myths-and-misconcept-social-media-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for social media poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: social media poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-why-memory-is-not-a-video-recording-myths-and-misconcept-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="memory-why-memory-is-not-a-video-recording-myths-and-misconcept-social-media-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-why-memory-is-not-a-video-recording-myths-and-misconcept-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="memory-why-memory-is-not-a-video-recording-myths-and-misconcept-social-media-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Mercedes F1 Social Media Poster Signed Lewis Hamilton George Russell Saudi 2023"><img src="{{ '/assets/images/marketplace-covers/01ba4e2fc742e3e6c9cd.jpg' | relative_url }}" alt="Listing image for Mercedes F1 Social Media Poster Signed Lewis Hamilton George Russell Saudi 2023" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-why-memory-is-not-a-video-recording-myths-and-misconcept-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="memory-why-memory-is-not-a-video-recording-myths-and-misconcept-social-media-poster" target="_blank" rel="sponsored noopener noreferrer">Mercedes F1 Social Media Poster Signed Lewis Hamilton George Russell Saudi 2023</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-why-memory-is-not-a-video-recording-myths-and-misconcept-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="memory-why-memory-is-not-a-video-recording-myths-and-misconcept-social-media-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for social media poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: social media poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-why-memory-is-not-a-video-recording-myths-and-misconcept-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="memory-why-memory-is-not-a-video-recording-myths-and-misconcept-social-media-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-why-memory-is-not-a-video-recording-myths-and-misconcept-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="memory-why-memory-is-not-a-video-recording-myths-and-misconcept-social-media-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for BUSINESS SIGN WORK OFFICE SOCIAL MEDIA DISPLAY EVENT PRINT POSTER FOAM BOARD"><img src="{{ '/assets/images/marketplace-covers/50306ff4952fa0df35a9.jpg' | relative_url }}" alt="Listing image for BUSINESS SIGN WORK OFFICE SOCIAL MEDIA DISPLAY EVENT PRINT POSTER FOAM BOARD" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-why-memory-is-not-a-video-recording-myths-and-misconcept-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="memory-why-memory-is-not-a-video-recording-myths-and-misconcept-social-media-poster" target="_blank" rel="sponsored noopener noreferrer">BUSINESS SIGN WORK OFFICE SOCIAL MEDIA DISPLAY EVENT PRINT POSTER FOAM BOARD</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-why-memory-is-not-a-video-recording-myths-and-misconcept-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="memory-why-memory-is-not-a-video-recording-myths-and-misconcept-social-media-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for social media poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: social media poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-why-memory-is-not-a-video-recording-myths-and-misconcept-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="memory-why-memory-is-not-a-video-recording-myths-and-misconcept-social-media-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-why-memory-is-not-a-video-recording-myths-and-misconcept-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="memory-why-memory-is-not-a-video-recording-myths-and-misconcept-social-media-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-why-memory-is-not-a-video-recording-myths-and-misconcept-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="memory-why-memory-is-not-a-video-recording-myths-and-misconcept-social-media-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for BUSINESS SIGN WORK OFFICE SOCIAL MEDIA DISPLAY EVENT PRINT POSTER FOAM BOARD"><img src="{{ '/assets/images/marketplace-covers/50306ff4952fa0df35a9.jpg' | relative_url }}" alt="Listing image for BUSINESS SIGN WORK OFFICE SOCIAL MEDIA DISPLAY EVENT PRINT POSTER FOAM BOARD" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-why-memory-is-not-a-video-recording-myths-and-misconcept-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="memory-why-memory-is-not-a-video-recording-myths-and-misconcept-social-media-poster" target="_blank" rel="sponsored noopener noreferrer">BUSINESS SIGN WORK OFFICE SOCIAL MEDIA DISPLAY EVENT PRINT POSTER FOAM BOARD</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-why-memory-is-not-a-video-recording-myths-and-misconcept-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="memory-why-memory-is-not-a-video-recording-myths-and-misconcept-social-media-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for social media poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: social media poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-why-memory-is-not-a-video-recording-myths-and-misconcept-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="memory-why-memory-is-not-a-video-recording-myths-and-misconcept-social-media-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=social+media+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-why-memory-is-not-a-video-recording-myths-and-misconcept-social-media-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="social media poster" data-ebay-reference="memory-why-memory-is-not-a-video-recording-myths-and-misconcept-social-media-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -794,7 +794,7 @@ Understanding this distinction changes how eyewitness testimony should be interp
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -814,7 +814,7 @@ Understanding this distinction changes how eyewitness testimony should be interp
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -846,7 +846,7 @@ Understanding this distinction changes how eyewitness testimony should be interp
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -898,7 +898,7 @@ Understanding this distinction changes how eyewitness testimony should be interp
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -943,7 +943,7 @@ Understanding this distinction changes how eyewitness testimony should be interp
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -984,191 +984,191 @@ Understanding this distinction changes how eyewitness testimony should be interp
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: sciencedirect.com  
    Title: ScienceDirect Misinformation Effect  
-   Link: <a href="https://www.sciencedirect.com/topics/agricultural-and-biological-sciences/misinformation-effect" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/topics/agricultural-and-biological-sciences/misinformation-effect</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Misinformation Effect - an overviewIn a typical misinformation effect study, participants witness an event, usually visually via slides (...</p></details>
+   Link:<a href="https://www.sciencedirect.com/topics/agricultural-and-biological-sciences/misinformation-effect" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/topics/agricultural-and-biological-sciences/misinformation-effect</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Misinformation Effect - an overviewIn a typical misinformation effect study, participants witness an event, usually visually via slides (...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4131297/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4131297/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>An Examination of the Causes and Solutions to Eyewitness Errorby RA Wise · 2014 · Cited by 67 — Furthermore, in assessing accuracy, ju...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4131297/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4131297/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>An Examination of the Causes and Solutions to Eyewitness Errorby RA Wise · 2014 · Cited by 67 — Furthermore, in assessing accuracy, ju...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: pressbooks.bccampus.ca  
-   Link: <a href="https://pressbooks.bccampus.ca/psyc268/chapter/chapter-8/" target="_blank" rel="noopener noreferrer nofollow">https://pressbooks.bccampus.ca/psyc268/chapter/chapter-8/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>BCcampus PressbooksCHAPTER 8: EYEWITNESS TESTIMONY: MEMORY AND...In this chapter, we discuss two related aspects of eyewitness testimony...</p></details>
+   Link:<a href="https://pressbooks.bccampus.ca/psyc268/chapter/chapter-8/" target="_blank" rel="noopener noreferrer nofollow">https://pressbooks.bccampus.ca/psyc268/chapter/chapter-8/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>BCcampus PressbooksCHAPTER 8: EYEWITNESS TESTIMONY: MEMORY AND...In this chapter, we discuss two related aspects of eyewitness testimony...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/pii/S1364661325000270" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S1364661325000270</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Many believe that eyewitness memory is...Read more...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/pii/S1364661325000270" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S1364661325000270</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Many believe that eyewitness memory is...Read more...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: Wikipedia  
    Title: Eyewitness testimony  
-   Link: <a href="https://en.wikipedia.org/wiki/Eyewitness_testimony" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Eyewitness_testimony</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Eyewitness_testimony" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Eyewitness_testimony</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: sciencedirect.com  
    Title: ScienceDirect Misinformation Effect  
-   Link: <a href="https://www.sciencedirect.com/topics/neuroscience/misinformation-effect" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/topics/neuroscience/misinformation-effect</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Misinformation Effect - an overviewThe misinformation effect, discussed by Levine and Loftus in their article on eyewitness testimony, is...</p></details>
+   Link:<a href="https://www.sciencedirect.com/topics/neuroscience/misinformation-effect" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/topics/neuroscience/misinformation-effect</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Misinformation Effect - an overviewThe misinformation effect, discussed by Levine and Loftus in their article on eyewitness testimony, is...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: pressbooks.bccampus.ca  
    Title: 10 6 when memory is wrong  
-   Link: <a href="https://pressbooks.bccampus.ca/psychcapilano/chapter/10-6-when-memory-is-wrong/" target="_blank" rel="noopener noreferrer nofollow">https://pressbooks.bccampus.ca/psychcapilano/chapter/10-6-when-memory-is-wrong/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>People are more confident in the accuracy of their memories than they should be. Memory is reconstructive.Read more...</p></details>
+   Link:<a href="https://pressbooks.bccampus.ca/psychcapilano/chapter/10-6-when-memory-is-wrong/" target="_blank" rel="noopener noreferrer nofollow">https://pressbooks.bccampus.ca/psychcapilano/chapter/10-6-when-memory-is-wrong/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>People are more confident in the accuracy of their memories than they should be. Memory is reconstructive.Read more...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Memory" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Memory</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>MemoryMemory is the faculty of the mind by which data or information is encoded, stored, and retrieved when needed.Read more...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Memory" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Memory</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>MemoryMemory is the faculty of the mind by which data or information is encoded, stored, and retrieved when needed.Read more...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: youtube.com  
    Title: Elizabeth F. Loftus  
-   Link: <a href="http://www.youtube.com/watch?v=CSo_esEgIjc" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=CSo_esEgIjc</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Elizabeth Loftus - Eyewitness Testimony...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=CSo_esEgIjc" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=CSo_esEgIjc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Elizabeth Loftus - Eyewitness Testimony...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: youtube.com  
    Title: Elizabeth Loftus  
-   Link: <a href="http://www.youtube.com/watch?v=syo1tOH0rfw" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=syo1tOH0rfw</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>eyewitness memory false memory reconstruction False Memories and the Misinformation Effect Bite-Sized Psychology...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=syo1tOH0rfw" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=syo1tOH0rfw</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>eyewitness memory false memory reconstruction False Memories and the Misinformation Effect Bite-Sized Psychology...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: simplypsychology.org  
-   Link: <a href="https://www.simplypsychology.org/eyewitness-testimony.html" target="_blank" rel="noopener noreferrer nofollow">https://www.simplypsychology.org/eyewitness-testimony.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Bartlett&#x27;s theory of reconstructive memory is crucial to an understanding of the reliability of eyewitness testimony...</p></details>
+   Link:<a href="https://www.simplypsychology.org/eyewitness-testimony.html" target="_blank" rel="noopener noreferrer nofollow">https://www.simplypsychology.org/eyewitness-testimony.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Bartlett&#x27;s theory of reconstructive memory is crucial to an understanding of the reliability of eyewitness testimony...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: simplypsychology.org  
    Title: loftus palmer  
-   Link: <a href="https://www.simplypsychology.org/loftus-palmer.html" target="_blank" rel="noopener noreferrer nofollow">https://www.simplypsychology.org/loftus-palmer.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Simply PsychologyLoftus and Palmer 1974 | Car Crash Experimentby S McLeod · Cited by 3 — Psychologist Elizabeth Loftus has been particula...</p></details>
+   Link:<a href="https://www.simplypsychology.org/loftus-palmer.html" target="_blank" rel="noopener noreferrer nofollow">https://www.simplypsychology.org/loftus-palmer.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Simply PsychologyLoftus and Palmer 1974 | Car Crash Experimentby S McLeod · Cited by 3 — Psychologist Elizabeth Loftus has been particula...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: nationalacademies.org  
-   Link: <a href="https://www.nationalacademies.org/read/18891/chapter/8" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalacademies.org/read/18891/chapter/8</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>National AcademiesIdentifying the Culprit: Assessing Eyewitness Identification...Evidence indicates that self-reported confidence at the...</p></details>
+   Link:<a href="https://www.nationalacademies.org/read/18891/chapter/8" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalacademies.org/read/18891/chapter/8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National AcademiesIdentifying the Culprit: Assessing Eyewitness Identification...Evidence indicates that self-reported confidence at the...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/28395650/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/28395650/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Relationship Between Eyewitness Confidence and...by JT Wixted · 2017 · Cited by 809 — The US legal system increasingly accepts...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/28395650/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/28395650/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Relationship Between Eyewitness Confidence and...by JT Wixted · 2017 · Cited by 809 — The US legal system increasingly accepts...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: journals.sagepub.com  
-   Link: <a href="https://journals.sagepub.com/doi/abs/10.1177/23727322241268384" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/abs/10.1177/23727322241268384</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sage JournalsEyewitness Confidence Does Not Necessarily Indicate...by KN Moore · 2024 · Cited by 13 — Scholars agree on a strong but imp...</p></details>
+   Link:<a href="https://journals.sagepub.com/doi/abs/10.1177/23727322241268384" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/abs/10.1177/23727322241268384</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sage JournalsEyewitness Confidence Does Not Necessarily Indicate...by KN Moore · 2024 · Cited by 13 — Scholars agree on a strong but imp...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: apa.org  
    Title: eyewitness identification  
-   Link: <a href="https://www.apa.org/news/press/releases/2020/02/eyewitness-identification" target="_blank" rel="noopener noreferrer nofollow">https://www.apa.org/news/press/releases/2020/02/eyewitness-identification</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>American Psychological AssociationImproving eyewitness identification key to protecting...Feb 10, 2020 — “Over the past few decades, ser...</p></details>
+   Link:<a href="https://www.apa.org/news/press/releases/2020/02/eyewitness-identification" target="_blank" rel="noopener noreferrer nofollow">https://www.apa.org/news/press/releases/2020/02/eyewitness-identification</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>American Psychological AssociationImproving eyewitness identification key to protecting...Feb 10, 2020 — “Over the past few decades, ser...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: dpa.ky.gov  
-   Link: <a href="https://dpa.ky.gov/kentucky-department-of-public-advocacy/about-dpa/kip/causes/misid/" target="_blank" rel="noopener noreferrer nofollow">https://dpa.ky.gov/kentucky-department-of-public-advocacy/about-dpa/kip/causes/misid/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of Public AdvocacyEyewitness MisidentificationAn eyewitness&#x27; false identification of an innocent suspect as the perpetrator of...</p></details>
+   Link:<a href="https://dpa.ky.gov/kentucky-department-of-public-advocacy/about-dpa/kip/causes/misid/" target="_blank" rel="noopener noreferrer nofollow">https://dpa.ky.gov/kentucky-department-of-public-advocacy/about-dpa/kip/causes/misid/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Department of Public AdvocacyEyewitness MisidentificationAn eyewitness&#x27; false identification of an innocent suspect as the perpetrator of...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: apa.org  
-   Link: <a href="https://www.apa.org/monitor/apr06/eyewitness" target="_blank" rel="noopener noreferrer nofollow">https://www.apa.org/monitor/apr06/eyewitness</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How reliable is eyewitness testimony?Apr 1, 2006 — The formula, Loftus says, allows expert witnesses-like himself-to use a specific mathe...</p></details>
+   Link:<a href="https://www.apa.org/monitor/apr06/eyewitness" target="_blank" rel="noopener noreferrer nofollow">https://www.apa.org/monitor/apr06/eyewitness</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How reliable is eyewitness testimony?Apr 1, 2006 — The formula, Loftus says, allows expert witnesses-like himself-to use a specific mathe...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: nij.ojp.gov  
    Title: eyewitness testimony  
-   Link: <a href="https://nij.ojp.gov/taxonomy/term/eyewitness-testimony" target="_blank" rel="noopener noreferrer nofollow">https://nij.ojp.gov/taxonomy/term/eyewitness-testimony</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>testimony | National Institute of JusticePotential jurors evaluate eyewitness confidence and decision time statements across identificati...</p></details>
+   Link:<a href="https://nij.ojp.gov/taxonomy/term/eyewitness-testimony" target="_blank" rel="noopener noreferrer nofollow">https://nij.ojp.gov/taxonomy/term/eyewitness-testimony</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>testimony | National Institute of JusticePotential jurors evaluate eyewitness confidence and decision time statements across identificati...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: nij.ojp.gov  
    Title: eyewitness memory  
-   Link: <a href="https://nij.ojp.gov/taxonomy/term/eyewitness-memory" target="_blank" rel="noopener noreferrer nofollow">https://nij.ojp.gov/taxonomy/term/eyewitness-memory</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Memory | National Institute of JusticePsychological Counseling and Accuracy of Memory for Child Sexual Abuse... Confidence, Latency, and...</p></details>
+   Link:<a href="https://nij.ojp.gov/taxonomy/term/eyewitness-memory" target="_blank" rel="noopener noreferrer nofollow">https://nij.ojp.gov/taxonomy/term/eyewitness-memory</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Memory | National Institute of JusticePsychological Counseling and Accuracy of Memory for Child Sexual Abuse... Confidence, Latency, and...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: nationalacademies.org  
-   Link: <a href="https://www.nationalacademies.org/projects/PGA-STL-13-02" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalacademies.org/projects/PGA-STL-13-02</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ty of Eyewitness Identification in Law Enforcement and the Courts...Read more...</p></details>
+   Link:<a href="https://www.nationalacademies.org/projects/PGA-STL" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalacademies.org/projects/PGA-STL</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ty of Eyewitness Identification in Law Enforcement and the Courts...Read more...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: nationalacademies.org  
-   Link: <a href="https://www.nationalacademies.org/read/18891/chapter/3" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalacademies.org/read/18891/chapter/3</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Assessing Eyewitness Identification (2014)The accuracy and reliability of eyewitness identification are critically modulated by variables...</p></details>
+   Link:<a href="https://www.nationalacademies.org/read/18891/chapter/3" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalacademies.org/read/18891/chapter/3</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Assessing Eyewitness Identification (2014)The accuracy and reliability of eyewitness identification are critically modulated by variables...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: support.gorilla.sc  
    Title: sc The Misinformation Effect  
-   Link: <a href="https://support.gorilla.sc/support/educational-resources/classic-psychology-tasks/misinformation-effect" target="_blank" rel="noopener noreferrer nofollow">https://support.gorilla.sc/support/educational-resources/classic-psychology-tasks/misinformation-effect</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Misinformation Effect - Gorilla Support DocumentationMisinformation refers to the fact that language in post-event questions can influenc...</p></details>
+   Link:<a href="https://support.gorilla.sc/support/educational-resources/classic-psychology-tasks/misinformation-effect" target="_blank" rel="noopener noreferrer nofollow">https://support.gorilla.sc/support/educational-resources/classic-psychology-tasks/misinformation-effect</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Misinformation Effect - Gorilla Support DocumentationMisinformation refers to the fact that language in post-event questions can influenc...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: jstor.org  
-   Link: <a href="https://www.jstor.org/stable/48568428" target="_blank" rel="noopener noreferrer nofollow">https://www.jstor.org/stable/48568428</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Rethinking the Reliability of Eyewitness Memoryby JT Wixted · 2018 · Cited by 235 — Eyewitnesses typically provide reliable evidence on a...</p></details>
+   Link:<a href="https://www.jstor.org/stable/48568428" target="_blank" rel="noopener noreferrer nofollow">https://www.jstor.org/stable/48568428</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Rethinking the Reliability of Eyewitness Memoryby JT Wixted · 2018 · Cited by 235 — Eyewitnesses typically provide reliable evidence on a...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: ebsco.com  
-   Link: <a href="https://www.ebsco.com/research-starters/social-sciences-and-humanities/misinformation-effect" target="_blank" rel="noopener noreferrer nofollow">https://www.ebsco.com/research-starters/social-sciences-and-humanities/misinformation-effect</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Misinformation effect | Social Sciences and HumanitiesThe misinformation effect refers to the phenomenon where post-event information can...</p></details>
+   Link:<a href="https://www.ebsco.com/research-starters/social-sciences-and-humanities/misinformation-effect" target="_blank" rel="noopener noreferrer nofollow">https://www.ebsco.com/research-starters/social-sciences-and-humanities/misinformation-effect</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Misinformation effect | Social Sciences and HumanitiesThe misinformation effect refers to the phenomenon where post-event information can...</p></details>
 
 ### Additional References
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: nij.ojp.gov  
    Title: effect viewing distance empirical discriminability and confidence accuracy 0  
-   Link: <a href="https://nij.ojp.gov/library/publications/effect-viewing-distance-empirical-discriminability-and-confidence-accuracy-0" target="_blank" rel="noopener noreferrer nofollow">https://nij.ojp.gov/library/publications/effect-viewing-distance-empirical-discriminability-and-confidence-accuracy-0</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>effect of viewing distance on empirical discriminability and...1 Jan 2022 — The effect of viewing distance on empirical discriminability...</p></details>
+   Link:<a href="https://nij.ojp.gov/library/publications/effect-viewing-distance-empirical-discriminability-and-confidence-accuracy-0" target="_blank" rel="noopener noreferrer nofollow">https://nij.ojp.gov/library/publications/effect-viewing-distance-empirical-discriminability-and-confidence-accuracy-0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>effect of viewing distance on empirical discriminability and...1 Jan 2022 — The effect of viewing distance on empirical discriminability...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: judicature.duke.edu  
-   Link: <a href="https://judicature.duke.edu/articles/distinguishing-between-reliable-and-unreliable-eyewitnesses/" target="_blank" rel="noopener noreferrer nofollow">https://judicature.duke.edu/articles/distinguishing-between-reliable-and-unreliable-eyewitnesses/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Distinguishing Between Reliable and Unreliable EyewitnessesIncreasing research shows that eyewitness confidence at the time of the initia...</p></details>
+   Link:<a href="https://judicature.duke.edu/articles/distinguishing-between-reliable-and-unreliable-eyewitnesses/" target="_blank" rel="noopener noreferrer nofollow">https://judicature.duke.edu/articles/distinguishing-between-reliable-and-unreliable-eyewitnesses/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Distinguishing Between Reliable and Unreliable EyewitnessesIncreasing research shows that eyewitness confidence at the time of the initia...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: nobaproject.com  
-   Link: <a href="https://nobaproject.com/modules/eyewitness-testimony-and-memory-biases" target="_blank" rel="noopener noreferrer nofollow">https://nobaproject.com/modules/eyewitness-testimony-and-memory-biases</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NobaEyewitness Testimony and Memory BiasesTheir accuracy for items they had not previously discussed with their co-witness was 79%. But f...</p></details>
+   Link:<a href="https://nobaproject.com/modules/eyewitness-testimony-and-memory-biases" target="_blank" rel="noopener noreferrer nofollow">https://nobaproject.com/modules/eyewitness-testimony-and-memory-biases</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NobaEyewitness Testimony and Memory BiasesTheir accuracy for items they had not previously discussed with their co-witness was 79%. But f...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/PsychEducJournal/posts/elizabeth-loftus-is-an-american-psychologist-known-for-her-groundbreaking-resear/836336505557356/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/PsychEducJournal/posts/elizabeth-loftus-is-an-american-psychologist-known-for-her-groundbreaking-resear/836336505557356/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Psychology and Education: A Multidisciplinary JournalEyewitness testimony – Elizabeth Loftus is one of the earliest psychology researcher...</p></details>
+   Link:<a href="https://www.facebook.com/PsychEducJournal/posts/elizabeth-loftus-is-an-american-psychologist-known-for-her-groundbreaking-resear/836336505557356/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/PsychEducJournal/posts/elizabeth-loftus-is-an-american-psychologist-known-for-her-groundbreaking-resear/836336505557356/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Psychology and Education: A Multidisciplinary JournalEyewitness testimony – Elizabeth Loftus is one of the earliest psychology researcher...</p></details>
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: policinginstitute.org  
-   Link: <a href="https://www.policinginstitute.org/onpolicing/eyewitness-identification-in-law-enforcement-bridging-the-gap-between-science-policy-and-practice/" target="_blank" rel="noopener noreferrer nofollow">https://www.policinginstitute.org/onpolicing/eyewitness-identification-in-law-enforcement-bridging-the-gap-between-science-policy-and-practice/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Eyewitness Identification in Law Enforcement: Bridging the...18 Mar 2026 — New findings from the Eyewitness Identification Research Proj...</p></details>
+   Link:<a href="https://www.policinginstitute.org/onpolicing/eyewitness-identification-in-law-enforcement-bridging-the-gap-between-science-policy-and-practice/" target="_blank" rel="noopener noreferrer nofollow">https://www.policinginstitute.org/onpolicing/eyewitness-identification-in-law-enforcement-bridging-the-gap-between-science-policy-and-practice/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Eyewitness Identification in Law Enforcement: Bridging the...18 Mar 2026 — New findings from the Eyewitness Identification Research Proj...</p></details>
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: criminallegalnews.org  
-   Link: <a href="https://www.criminallegalnews.org/news/2025/oct/15/malleable-mind-courtroom-why-confident-eyewitnesses-often-provide-least-reliable-evidence/" target="_blank" rel="noopener noreferrer nofollow">https://www.criminallegalnews.org/news/2025/oct/15/malleable-mind-courtroom-why-confident-eyewitnesses-often-provide-least-reliable-evidence/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Why Confident Eyewitnesses Often Provide the Least...15 Oct 2025 — Meanwhile, judges admit eyewitness testimony under standards that ass...</p></details>
+   Link:<a href="https://www.criminallegalnews.org/news/2025/oct/15/malleable-mind-courtroom-why-confident-eyewitnesses-often-provide-least-reliable-evidence/" target="_blank" rel="noopener noreferrer nofollow">https://www.criminallegalnews.org/news/2025/oct/15/malleable-mind-courtroom-why-confident-eyewitnesses-often-provide-least-reliable-evidence/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Why Confident Eyewitnesses Often Provide the Least...15 Oct 2025 — Meanwhile, judges admit eyewitness testimony under standards that ass...</p></details>
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: ojp.gov  
    Title: how potential jurors evaluate eyewitness confidence and decision time  
-   Link: <a href="https://www.ojp.gov/library/publications/how-potential-jurors-evaluate-eyewitness-confidence-and-decision-time" target="_blank" rel="noopener noreferrer nofollow">https://www.ojp.gov/library/publications/how-potential-jurors-evaluate-eyewitness-confidence-and-decision-time</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Office of Justice ProgramsHow potential jurors evaluate eyewitness confidence and...by CA Carlson · 2022 · Cited by 14 — How potential j...</p></details>
+   Link:<a href="https://www.ojp.gov/library/publications/how-potential-jurors-evaluate-eyewitness-confidence-and-decision-time" target="_blank" rel="noopener noreferrer nofollow">https://www.ojp.gov/library/publications/how-potential-jurors-evaluate-eyewitness-confidence-and-decision-time</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Office of Justice ProgramsHow potential jurors evaluate eyewitness confidence and...by CA Carlson · 2022 · Cited by 14 — How potential j...</p></details>
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: psych.utah.edu  
-   Link: <a href="https://psych.utah.edu/_resources/documents/people/committee-docs/fall-2025/2024%20-%20Moore%20et%20al%202024%20Eyewitness%20Confidence%20Does%20Not%20Necessarily%20Indicate%20Accuracy.pdf" target="_blank" rel="noopener noreferrer nofollow">https://psych.utah.edu/_resources/documents/people/committee-docs/fall-2025/2024%20-%20Moore%20et%20al%202024%20Eyewitness%20Confidence%20Does%20Not%20Necessarily%20Indicate%20Accuracy.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Confidence Does Not Necessarily Indicate...by KN Moore · 2024 · Cited by 11 — Generally, laboratory studies find adult eyewitnesses have...</p></details>
+   Link:<a href="https://psych.utah.edu/_resources/documents/people/committee-docs/fall-2025/2024%20-%20Moore%20et%20al%202024%20Eyewitness%20Confidence%20Does%20Not%20Necessarily%20Indicate%20Accuracy.pdf" target="_blank" rel="noopener noreferrer nofollow">https://psych.utah.edu/_resources/documents/people/committee-docs/fall-2025/2024%20-%20Moore%20et%20al%202024%20Eyewitness%20Confidence%20Does%20Not%20Necessarily%20Indicate%20Accuracy.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Confidence Does Not Necessarily Indicate...by KN Moore · 2024 · Cited by 11 — Generally, laboratory studies find adult eyewitnesses have...</p></details>
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=wPvGadHulSE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=wPvGadHulSE</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;This Is Psychology&quot; Episode 5: Eyewitness testimonyIn this episode, Dr. Anderson discusses research that has identified a number of reas...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=wPvGadHulSE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=wPvGadHulSE</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;This Is Psychology&quot; Episode 5: Eyewitness testimonyIn this episode, Dr. Anderson discusses research that has identified a number of reas...</p></details>
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=Yq6u_4xtVh0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Yq6u_4xtVh0</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Common Law S4 E8: The Psychology of Eyewitness MemoryEyewitness testimony is you experience something or you see something and that&#x27;s how...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Yq6u_4xtVh0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Yq6u_4xtVh0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Common Law S4 E8: The Psychology of Eyewitness MemoryEyewitness testimony is you experience something or you see something and that&#x27;s how...</p></details>

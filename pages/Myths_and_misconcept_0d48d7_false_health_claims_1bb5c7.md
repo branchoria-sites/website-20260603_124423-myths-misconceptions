@@ -504,17 +504,17 @@ image: /assets/images/Myths_and_misconcept_0d48d7_false_health_claims_1bb5c7-ove
 False health claims are often shared by people who are trying to help. A parent forwards a vaccine rumour because they want to protect a child; a friend sends a “natural cure” post because they are frightened for someone with cancer; a colleague shares an urgent warning because it feels safer to pass it on than to stay silent. That good [intent]({{ 'intent/' | relative_url }}) matters, because it changes how the claim should be corrected. But it does not make the claim harmless.
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_false_health_claims_1bb5c7-overview.webp" | relative_url }}" alt="Overview image for Health Claims" loading="eager" decoding="sync" fetchpriority="high">
-[Health myths]({{ 'health-myths/' | relative_url }}) are especially sticky because they combine fear, care, personal experience and urgency. They promise control at the exact moment when people feel vulnerable. During outbreaks, cancer diagnoses, fertility worries, mental health struggles or vaccine decisions, the wrong advice can delay treatment, increase anxiety, push people towards ineffective remedies or undermine trust in professionals. Health misinformation is therefore not just a problem of “bad information online”; it is also a social problem that travels through relationships people value. WHO describes an infodemic as too much information, including false or misleading information, in both digital and physical settings during disease outbreaks. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.who.int/health-topics/infodemic" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: who.int">[World Health Organization]</a><span class="citation-popover" role="note"><span class="citation-popover-source">who.int</span><span class="citation-popover-snippet">World Health OrganizationInfodemicAn infodemic is too much information including false or misleading information in digital and physical...</span></span></span>
+[Health myths]({{ 'health-myths/' | relative_url }}) are especially sticky because they combine fear, care, personal experience and urgency. They promise control at the exact moment when people feel vulnerable. During outbreaks, cancer diagnoses, fertility worries, mental health struggles or vaccine decisions, the wrong advice can delay treatment, increase anxiety, push people towards ineffective remedies or undermine trust in professionals. Health misinformation is therefore not just a problem of “bad information online”; it is also a social problem that travels through relationships people value. WHO describes an infodemic as too much information, including false or misleading information, in both digital and physical settings during disease outbreaks.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.who.int/health-topics/infodemic" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: who.int">[World Health Organization]</a><span class="citation-popover" role="note"><span class="citation-popover-source">who.int</span><span class="citation-popover-snippet">World Health OrganizationInfodemicAn infodemic is too much information including false or misleading information in digital and physical...</span></span></span>
 
 ## Good Intent and Bad Evidence
 
 The most difficult false health claims are not always the most obviously malicious ones. Many arrive wrapped in care: “Just in case this helps”, “My cousin tried this”, “Doctors will not tell you this”, or “Please share before it is deleted”. The sender may not be trying to deceive anyone. They may be trying to reduce uncertainty, act quickly, show concern or offer hope.
 
-This is why health misinformation differs from ordinary trivia myths. The stakes are bodily, emotional and immediate. A mistaken belief about a celebrity photo or a historical anecdote may waste attention; a mistaken claim about chemotherapy, [vaccines]({{ 'vaccines/' | relative_url }}), sepsis symptoms or medication interactions can change what someone does next. The U.S. Surgeon General’s advisory defines health misinformation as information that is false, inaccurate or misleading according to the best available evidence at the time, and frames it as a public health problem because it can affect individual choices and the wider information environment. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.hhs.gov/sites/default/files/surgeon-general-misinformation-advisory.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hhs.gov">[HHS.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hhs.gov</span><span class="citation-popover-title">Confronting Health Misinformation</span><span class="citation-popover-snippet">July 2, 2021 — 14 Jul 2021 — A Surgeon General&#x27;s Advisory is a public statement that calls the American people&#x27;s attention to a public he...</span><span class="citation-popover-meta">Published: July 2, 2021</span></span></span>
+This is why health misinformation differs from ordinary trivia myths. The stakes are bodily, emotional and immediate. A mistaken belief about a celebrity photo or a historical anecdote may waste attention; a mistaken claim about chemotherapy, [vaccines]({{ 'vaccines/' | relative_url }}), sepsis symptoms or medication interactions can change what someone does next. The U.S. Surgeon General’s advisory defines health misinformation as information that is false, inaccurate or misleading according to the best available evidence at the time, and frames it as a public health problem because it can affect individual choices and the wider information environment.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.hhs.gov/sites/default/files/surgeon-general-misinformation-advisory.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hhs.gov">[HHS.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hhs.gov</span><span class="citation-popover-title">Confronting Health Misinformation</span><span class="citation-popover-snippet">July 2, 2021 — 14 Jul 2021 — A Surgeon General&#x27;s Advisory is a public statement that calls the American people&#x27;s attention to a public he...</span><span class="citation-popover-meta">Published: July 2, 2021</span></span></span>
 
 Good intentions can also make false claims harder to challenge. Correcting a stranger’s post is one thing; correcting a worried aunt, parent, patient or friend is more delicate. The false claim may be tied to a relationship, a frightening experience or a memory of not being listened to by a health system. If the [correction]({{ 'correction/' | relative_url }}) sounds like “you are foolish”, the person may defend the claim because they feel their care, judgement or [identity]({{ 'identity/' | relative_url }}) is being attacked.
 
-Research on misinformation sharing also shows that people do not always share falsehoods because they fully believe them. Some share because content is emotionally powerful, socially rewarded, novel or identity-confirming. The American Psychological Association notes that misinformation is more likely to be shared when it fits social norms or identity, feels new, or provokes strong emotion. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.apa.org/topics/journalism-facts/how-why-misinformation-spreads" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apa.org">[American Psychological Association]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apa.org</span><span class="citation-popover-title">how why misinformation spreads</span><span class="citation-popover-snippet">American Psychological AssociationHow and why does misinformation spread?29 Nov 2023 — People are more likely to share misinformation whe...</span></span></span> Social media systems can amplify this by rewarding attention-grabbing posts, including inaccurate ones, with visibility, comments and social feedback. <span class="citation-chip-wrap"><a class="citation-chip" href="https://insights.som.yale.edu/insights/how-social-media-rewards-misinformation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: insights.som.yale.edu">[Yale Insights]</a><span class="citation-popover" role="note"><span class="citation-popover-source">insights.som.yale.edu</span><span class="citation-popover-title">how social media rewards misinformation</span><span class="citation-popover-snippet">Yale InsightsHow Social Media Rewards Misinformation &#124; Yale Insights31 Mar 2023 — Some scholars suggest that people share falsehoods out...</span></span></span>
+Research on misinformation sharing also shows that people do not always share falsehoods because they fully believe them. Some share because content is emotionally powerful, socially rewarded, novel or identity-confirming. The American Psychological Association notes that misinformation is more likely to be shared when it fits social norms or identity, feels new, or provokes strong emotion.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.apa.org/topics/journalism-facts/how-why-misinformation-spreads" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apa.org">[American Psychological Association]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apa.org</span><span class="citation-popover-title">how why misinformation spreads</span><span class="citation-popover-snippet">American Psychological AssociationHow and why does misinformation spread?29 Nov 2023 — People are more likely to share misinformation whe...</span></span></span> Social media systems can amplify this by rewarding attention-grabbing posts, including inaccurate ones, with visibility, comments and social feedback.<span class="citation-chip-wrap"><a class="citation-chip" href="https://insights.som.yale.edu/insights/how-social-media-rewards-misinformation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: insights.som.yale.edu">[Yale Insights]</a><span class="citation-popover" role="note"><span class="citation-popover-source">insights.som.yale.edu</span><span class="citation-popover-title">how social media rewards misinformation</span><span class="citation-popover-snippet">Yale InsightsHow Social Media Rewards Misinformation &#124; Yale Insights31 Mar 2023 — Some scholars suggest that people share falsehoods out...</span></span></span>
 
 ## Why Health Myths Feel Like Protection
 
@@ -525,23 +525,23 @@ That protective feeling can be strongest when the claim contains three ingredien
 <div class="content-enhancement content-enhancement--caution" markdown="1">
 
 * **A frightening risk:** cancer, infertility, infection, brain injury, sudden death or harm to children.
-* **A simple action:** avoid, take, share, cleanse, boost, refuse, test or switch. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ncbi.nlm.nih.gov/books/NBK572168/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ncbi.nlm.nih.gov">[ncbi.nlm.nih.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ncbi.nlm.nih.gov</span><span class="citation-popover-title">NCBIWE CAN TAKE ACTION</span><span class="citation-popover-snippet">Confronting Health MisinformationBecause it pollutes our information environment, misinformation is harmful to individual and public heal...</span></span></span>
+* **A simple action:** avoid, take, share, cleanse, boost, refuse, test or switch.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ncbi.nlm.nih.gov/books/NBK572168/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ncbi.nlm.nih.gov">[ncbi.nlm.nih.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ncbi.nlm.nih.gov</span><span class="citation-popover-title">NCBIWE CAN TAKE ACTION</span><span class="citation-popover-snippet">Confronting Health MisinformationBecause it pollutes our information environment, misinformation is harmful to individual and public heal...</span></span></span>
 * **A moral pressure:** “If you care, you will warn people.”
 
 </div>
 
-This is one reason vaccine myths spread so effectively among some parents. The decision is framed not as a population-level public health choice but as an immediate act of parental protection. Reviews of parental vaccine hesitancy repeatedly identify fear of adverse effects, distrust, misinformation and social context as major drivers; one qualitative systematic review of MMR vaccine hesitancy found fear of autism to be the most cited reason, despite the claim being scientifically discredited. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.mdpi.com/2076-393X/11/5/926" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-title">2076 393X</span><span class="citation-popover-snippet">2076 393X</span></span></span>
+This is one reason vaccine myths spread so effectively among some parents. The decision is framed not as a population-level public health choice but as an immediate act of parental protection. Reviews of parental vaccine hesitancy repeatedly identify fear of adverse effects, distrust, misinformation and social context as major drivers; one qualitative systematic review of MMR vaccine hesitancy found fear of autism to be the most cited reason, despite the claim being scientifically discredited.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.mdpi.com/2076-393X/11/5/926" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-title">2076 393X</span><span class="citation-popover-snippet">2076 393X</span></span></span>
 
-The same pattern appears in cancer misinformation. A loved one facing cancer may be overwhelmed by treatment side effects, medical uncertainty and fear of death. A post promising a natural cure can feel compassionate because it offers hope and agency. But cancer misinformation is especially dangerous when it encourages people to delay, refuse or replace evidence-based treatment. The U.S. National Cancer Institute has warned that promotion of unproven cancer treatments can be harmful, citing evidence that people who used alternative or complementary treatments instead of conventional cancer care had a higher risk of dying than those receiving conventional therapy. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cancer.gov/news-events/cancer-currents-blog/2021/cancer-misinformation-social-media" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cancer.gov">[Cancer.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cancer.gov</span><span class="citation-popover-title">misinformation social media</span><span class="citation-popover-snippet">misinformation social media</span></span></span>
+The same pattern appears in cancer misinformation. A loved one facing cancer may be overwhelmed by treatment side effects, medical uncertainty and fear of death. A post promising a natural cure can feel compassionate because it offers hope and agency. But cancer misinformation is especially dangerous when it encourages people to delay, refuse or replace evidence-based treatment. The U.S. National Cancer Institute has warned that promotion of unproven cancer treatments can be harmful, citing evidence that people who used alternative or complementary treatments instead of conventional cancer care had a higher risk of dying than those receiving conventional therapy.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cancer.gov/news-events/cancer-currents-blog/2021/cancer-misinformation-social-media" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cancer.gov">[Cancer.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cancer.gov</span><span class="citation-popover-title">misinformation social media</span><span class="citation-popover-snippet">misinformation social media</span></span></span>
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_false_health_claims_1bb5c7-Illustration-1-dark.svg" | relative_url }}" alt="Health Claims illustration 1" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_false_health_claims_1bb5c7-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_false_health_claims_1bb5c7-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Risk, Fear and Urgency
 
 False health claims often travel fastest when they feel urgent. A slow, cautious correction may struggle against a message that says “share this now”. Urgency reduces the time people spend checking whether a claim is current, properly sourced or relevant to their situation.
 
-During COVID-19, this pattern was visible in everyday myths about prevention and treatment. Claims about garlic, vitamins, hot drinks and supplements often spread as low-cost, apparently harmless advice. WHO’s COVID-19 myth-busting guidance had to state clearly that vitamin and mineral supplements cannot cure COVID-19 and that there was no guidance supporting micronutrients as a treatment for the disease. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.who.int/health-topics/infodemic" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: who.int">[World Health Organization]</a><span class="citation-popover" role="note"><span class="citation-popover-source">who.int</span><span class="citation-popover-snippet">World Health OrganizationInfodemicAn infodemic is too much information including false or misleading information in digital and physical...</span></span></span> The problem was not that every person who ate garlic or took vitamins was harmed directly. The risk was that folk remedies could be mistaken for protection, distract from effective measures, or create false [confidence]({{ 'confidence/' | relative_url }}).
+During COVID-19, this pattern was visible in everyday myths about prevention and treatment. Claims about garlic, vitamins, hot drinks and supplements often spread as low-cost, apparently harmless advice. WHO’s COVID-19 myth-busting guidance had to state clearly that vitamin and mineral supplements cannot cure COVID-19 and that there was no guidance supporting micronutrients as a treatment for the disease.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.who.int/health-topics/infodemic" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: who.int">[World Health Organization]</a><span class="citation-popover" role="note"><span class="citation-popover-source">who.int</span><span class="citation-popover-snippet">World Health OrganizationInfodemicAn infodemic is too much information including false or misleading information in digital and physical...</span></span></span> The problem was not that every person who ate garlic or took vitamins was harmed directly. The risk was that folk remedies could be mistaken for protection, distract from effective measures, or create false [confidence]({{ 'confidence/' | relative_url }}).
 
-Health misinformation can also produce distress rather than comfort. WHO Europe’s review of infodemics and misinformation found that misleading health-related content on social media during pandemics, health emergencies and humanitarian crises was associated with mental, social, political and economic distress, and could affect health behaviours. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.who.int/health-topics/infodemic" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: who.int">[World Health Organization]</a><span class="citation-popover" role="note"><span class="citation-popover-source">who.int</span><span class="citation-popover-snippet">World Health OrganizationInfodemicAn infodemic is too much information including false or misleading information in digital and physical...</span></span></span> This matters because fear-based sharing is often self-reinforcing: the more alarming the claim, the more morally necessary it can feel to forward it.
+Health misinformation can also produce distress rather than comfort. WHO Europe’s review of infodemics and misinformation found that misleading health-related content on social media during pandemics, health emergencies and humanitarian crises was associated with mental, social, political and economic distress, and could affect health behaviours.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.who.int/health-topics/infodemic" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: who.int">[World Health Organization]</a><span class="citation-popover" role="note"><span class="citation-popover-source">who.int</span><span class="citation-popover-snippet">World Health OrganizationInfodemicAn infodemic is too much information including false or misleading information in digital and physical...</span></span></span> This matters because fear-based sharing is often self-reinforcing: the more alarming the claim, the more morally necessary it can feel to forward it.
 
 Fear is not always irrational. People may have real reasons to be cautious: previous medical harm, poor communication, unequal access to care, side effects that were dismissed, or changing public health advice during an evolving crisis. The mistake is not concern itself. The mistake is treating any alarming claim as useful simply because the subject is serious.
 
@@ -551,7 +551,7 @@ A common form of well-meant health misinformation begins with a true personal ex
 
 The trouble starts when a personal story becomes a general medical claim. Someone may feel better after a supplement, diet, prayer, detox, breathing exercise or alternative therapy for many reasons: natural recovery, placebo effects, reduced stress, simultaneous medical treatment, changed sleep, regression to the mean, or a condition that fluctuates over time. A sincere story can still lead to a false conclusion.
 
-Cancer misinformation shows this clearly. A social media post may present a survivor’s diet or supplement routine as the reason for recovery while ignoring surgery, radiotherapy, chemotherapy, immunotherapy, early diagnosis or the type and stage of cancer. Research on cancer information shared on Facebook found that much cancer information was inconsistent with expert opinion, leaving patients in a confusing and uncomfortable position when deciding what to trust. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9275772/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Cancer misinformation shows this clearly. A social media post may present a survivor’s diet or supplement routine as the reason for recovery while ignoring surgery, radiotherapy, chemotherapy, immunotherapy, early diagnosis or the type and stage of cancer. Research on cancer information shared on Facebook found that much cancer information was inconsistent with expert opinion, leaving patients in a confusing and uncomfortable position when deciding what to trust.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9275772/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 This does not mean personal experience should be dismissed. It means it should be kept in its proper lane. “This helped me manage nausea” is different from “this cures cancer”. “This made me feel calmer” is different from “this treats depression”. “I had a side effect” is different from “nobody should take this medicine”. Good correction often depends on preserving the dignity of the story while challenging the unsupported leap.
 
@@ -563,7 +563,7 @@ Many false health claims gain trust by contrasting “natural” with “chemica
 
 The word “natural” also helps false claims feel kind. Recommending a herbal remedy, juice cleanse or supplement may seem gentler than recommending a hospital appointment or a difficult treatment. But the gentler-sounding option can become harmful if it delays diagnosis, replaces treatment or creates shame when someone does not improve.
 
-Macmillan Cancer Support warns that wrong cancer information can increase worry and delay people seeing their doctor or getting treatment, and notes that misleading claims spread quickly on social media. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.macmillan.org.uk/cancer-information-and-support/worried-about-cancer/cancer-myths-and-misinformation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: macmillan.org.uk">[Macmillan Cancer Support]</a><span class="citation-popover" role="note"><span class="citation-popover-source">macmillan.org.uk</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> More recent research on unproven cancer treatments has also highlighted that patients who believe misinformation may delay or reject evidence-based care and pursue unproven, sometimes toxic therapies. <span class="citation-chip-wrap"><a class="citation-chip" href="https://infodemiology.jmir.org/2025/1/e62703" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: infodemiology.jmir.org">[JMIR Infodemiology]</a><span class="citation-popover" role="note"><span class="citation-popover-source">infodemiology.jmir.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Macmillan Cancer Support warns that wrong cancer information can increase worry and delay people seeing their doctor or getting treatment, and notes that misleading claims spread quickly on social media.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.macmillan.org.uk/cancer-information-and-support/worried-about-cancer/cancer-myths-and-misinformation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: macmillan.org.uk">[Macmillan Cancer Support]</a><span class="citation-popover" role="note"><span class="citation-popover-source">macmillan.org.uk</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> More recent research on unproven cancer treatments has also highlighted that patients who believe misinformation may delay or reject evidence-based care and pursue unproven, sometimes toxic therapies.<span class="citation-chip-wrap"><a class="citation-chip" href="https://infodemiology.jmir.org/2025/1/e62703" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: infodemiology.jmir.org">[JMIR Infodemiology]</a><span class="citation-popover" role="note"><span class="citation-popover-source">infodemiology.jmir.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 A useful rule is to separate comfort from cure. Some low-risk practices may help someone feel supported alongside proper care: a preferred meal, relaxation, gentle movement approved by a clinician, or social support. But claims about treating, preventing or curing disease need stronger evidence than sincerity, tradition or anecdote.
 
@@ -571,9 +571,9 @@ A useful rule is to separate comfort from cure. Some low-risk practices may help
 
 Correcting a false health claim can feel socially risky because the message is rarely just factual. It may carry an emotional subtext: “I love you”, “I am scared”, “I do not want this to happen to you”, “I found something the doctors missed”. A blunt correction can accidentally reject the care behind the message.
 
-That does not mean [corrections]({{ 'corrections/' | relative_url }}) should be avoided. Evidence suggests clear corrections can work, especially when they provide a better explanation rather than merely repeating “false”. A CDC-linked study on COVID-19 misinformation found that corrective graphics on social media reduced misperceptions about the science of a false COVID-19 prevention strategy, with effects persisting more than a week later. <span class="citation-chip-wrap"><a class="citation-chip" href="https://wwwnc.cdc.gov/eid/article/27/2/20-3139_article" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wwwnc.cdc.gov">[CDC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wwwnc.cdc.gov</span><span class="citation-popover-title">20 3139 article</span><span class="citation-popover-snippet">20 3139 article</span></span></span>
+That does not mean [corrections]({{ 'corrections/' | relative_url }}) should be avoided. Evidence suggests clear corrections can work, especially when they provide a better explanation rather than merely repeating “false”. A CDC-linked study on COVID-19 misinformation found that corrective graphics on social media reduced misperceptions about the science of a false COVID-19 prevention strategy, with effects persisting more than a week later.<span class="citation-chip-wrap"><a class="citation-chip" href="https://wwwnc.cdc.gov/eid/article/27/2/20-3139_article" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wwwnc.cdc.gov">[CDC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wwwnc.cdc.gov</span><span class="citation-popover-title">20 3139 article</span><span class="citation-popover-snippet">20 3139 article</span></span></span>
 
-The challenge is tone and timing. Public shaming may harden the social problem even when the factual correction is right. The American Society for Microbiology recommends empathy and inclusive language when talking with family and friends about misinformation, such as acknowledging that it can be hard to judge sources before sharing what you have learned. <span class="citation-chip-wrap"><a class="citation-chip" href="https://asm.org/articles/2022/september/how-to-spot-and-combat-health-misinformation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: asm.org">[ASM.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">asm.org</span><span class="citation-popover-title">How to Spot and Combat Health Misinformation</span><span class="citation-popover-snippet">How to Spot and Combat Health Misinformation</span></span></span> PEN America similarly advises recognising that friends and family who spread misinformation may believe it is true and may feel they are sharing something important. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pen.org/disinformation/how-to-talk-to-friends-and-family-who-share-misinformation/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pen.org">[PEN America]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pen.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The challenge is tone and timing. Public shaming may harden the social problem even when the factual correction is right. The American Society for Microbiology recommends empathy and inclusive language when talking with family and friends about misinformation, such as acknowledging that it can be hard to judge sources before sharing what you have learned.<span class="citation-chip-wrap"><a class="citation-chip" href="https://asm.org/articles/2022/september/how-to-spot-and-combat-health-misinformation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: asm.org">[ASM.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">asm.org</span><span class="citation-popover-title">How to Spot and Combat Health Misinformation</span><span class="citation-popover-snippet">How to Spot and Combat Health Misinformation</span></span></span> PEN America similarly advises recognising that friends and family who spread misinformation may believe it is true and may feel they are sharing something important.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pen.org/disinformation/how-to-talk-to-friends-and-family-who-share-misinformation/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pen.org">[PEN America]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pen.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_false_health_claims_1bb5c7-Illustration-2-dark.svg" | relative_url }}" alt="Health Claims illustration 2" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_false_health_claims_1bb5c7-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_false_health_claims_1bb5c7-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Gentle Ways to Correct
@@ -613,7 +613,7 @@ Before forwarding a health claim, check:
 
 </div>
 
-The U.S. Surgeon General’s public guidance encourages people to verify health information before sharing, check sources, avoid sharing if they are not sure, and talk to trusted health professionals when making health decisions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.hhs.gov/surgeongeneral/reports-and-publications/health-misinformation/index.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hhs.gov">[HHS.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hhs.gov</span><span class="citation-popover-snippet">Open source on hhs.gov.</span></span></span> That advice is simple, but it is not trivial. In health contexts, not sharing an uncertain claim can be an act of care.
+The U.S. Surgeon General’s public guidance encourages people to verify health information before sharing, check sources, avoid sharing if they are not sure, and talk to trusted health professionals when making health decisions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.hhs.gov/surgeongeneral/reports-and-publications/health-misinformation/index.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hhs.gov">[HHS.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hhs.gov</span><span class="citation-popover-snippet">Open source on hhs.gov.</span></span></span> That advice is simple, but it is not trivial. In health contexts, not sharing an uncertain claim can be an act of care.
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_false_health_claims_1bb5c7-Illustration-3-dark.svg" | relative_url }}" alt="Health Claims illustration 3" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_false_health_claims_1bb5c7-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_false_health_claims_1bb5c7-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The Better Version of Helping
@@ -627,194 +627,194 @@ False health claims shared with good intentions are dangerous precisely because 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/_bJn2BgSiCg" title="Strategies for Talking With Parents About Vaccines" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=_bJn2BgSiCg" target="_blank" rel="noopener noreferrer">Strategies for Talking With Parents About Vaccines</a></p><p class="youtube-embed-meta">Channel: JAMA Network &middot; Views: 659 &middot; Uploaded: May 2025 &middot; Length: 13 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=_bJn2BgSiCg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=_bJn2BgSiCg">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Helpful Health Advice Can Be Wrong. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Helpful Health Advice Can Be Wrong. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Bad+Science+by+Ben+Goldacre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Bad Science on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=wICuv0ePMYoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Bad Science" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Bad+Science+by+Ben+Goldacre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Bad Science">Bad Science</a>
-        </h4>
-        <p class="fr-book-author">By Ben Goldacre</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Bad+Science+by+Ben+Goldacre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Bad Science on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=wICuv0ePMYoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Bad Science" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Bad+Science+by+Ben+Goldacre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Bad Science">Bad Science</a>
+</h4>
+<p class="fr-book-author">By Ben Goldacre</p>
         
-        <p class="fr-book-desc">Directly tackles health myths, bad evidence and media claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Bad+Science+by+Ben+Goldacre&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly tackles health myths, bad evidence and media claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Bad+Science+by+Ben+Goldacre&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Foolproof%3A+Why+We+Fall+for+Misinformation+and+How+to+Build+Immunity+by+Sander+van+der+Linden&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Foolproof: Why We Fall for Misinformation and How to Build Immunity on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Y517EAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Foolproof: Why We Fall for Misinformation and How to Build Immunity" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Foolproof%3A+Why+We+Fall+for+Misinformation+and+How+to+Build+Immunity+by+Sander+van+der+Linden&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Foolproof: Why We Fall for Misinformation and How to Build Immunity">Foolproof: Why We Fall for Misinformation and How to Build Im...</a>
-        </h4>
-        <p class="fr-book-author">By Sander van der Linden</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Foolproof%3A+Why+We+Fall+for+Misinformation+and+How+to+Build+Immunity+by+Sander+van+der+Linden&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Foolproof: Why We Fall for Misinformation and How to Build Immunity on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Y517EAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Foolproof: Why We Fall for Misinformation and How to Build Immunity" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Foolproof%3A+Why+We+Fall+for+Misinformation+and+How+to+Build+Immunity+by+Sander+van+der+Linden&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Foolproof: Why We Fall for Misinformation and How to Build Immunity">Foolproof: Why We Fall for Misinformation and How to Build Im...</a>
+</h4>
+<p class="fr-book-author">By Sander van der Linden</p>
         
-        <p class="fr-book-desc">Explains why health misinformation spreads so effectively.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Foolproof%3A+Why+We+Fall+for+Misinformation+and+How+to+Build+Immunity+by+Sander+van+der+Linden&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains why health misinformation spreads so effectively.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Foolproof%3A+Why+We+Fall+for+Misinformation+and+How+to+Build+Immunity+by+Sander+van+der+Linden&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Calling Bullshit on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Plu9DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Calling Bullshit" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Calling Bullshit">Calling Bullshit</a>
-        </h4>
-        <p class="fr-book-author">By Carl T. Bergstrom, Jevin D. West</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Calling Bullshit on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Plu9DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Calling Bullshit" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Calling Bullshit">Calling Bullshit</a>
+</h4>
+<p class="fr-book-author">By Carl T. Bergstrom, Jevin D. West</p>
         
-        <p class="fr-book-desc">Teaches readers to assess evidence behind claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Teaches readers to assess evidence behind claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Trick+or+Treatment%3F+Simon+Singh&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Trick or Treatment? on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/2524911-M.jpg" alt="Cover for Trick or Treatment?" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Trick+or+Treatment%3F+Simon+Singh&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Trick or Treatment?">Trick or Treatment?</a>
-        </h4>
-        <p class="fr-book-author">By Simon Singh, Edzard Ernst</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Trick+or+Treatment%3F+Simon+Singh&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Trick or Treatment? on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/2524911-M.jpg" alt="Cover for Trick or Treatment?" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Trick+or+Treatment%3F+Simon+Singh&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Trick or Treatment?">Trick or Treatment?</a>
+</h4>
+<p class="fr-book-author">By Simon Singh, Edzard Ernst</p>
         
-        <p class="fr-book-desc">First published 2008. Subjects: Placebo Effect, Evidence-Based Medicine, Complementary Therapies, Alternative medicine, Quackery.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Trick+or+Treatment%3F+Simon+Singh&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2008. Subjects: Placebo Effect, Evidence-Based Medicine, Complementary Therapies, Alternative medicine, Quackery.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Trick+or+Treatment%3F+Simon+Singh&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Bad+Science&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Bad Science</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Foolproof%3A+Why+We+Fall+for+Misinformation+and+How+to+Build+Immunity&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Foolproof: Why We Fall for Misinformation and How to Build Immunity</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Calling+Bullshit&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Calling Bullshit</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Bad+Science&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Bad Science</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Foolproof%3A+Why+We+Fall+for+Misinformation+and+How+to+Build+Immunity&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Foolproof: Why We Fall for Misinformation and How to Build Immunity</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Calling+Bullshit&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Calling Bullshit</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=public+health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=health-claims-why-helpful-health-advice-can-be-wrong-myths-and-misconcept-public-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="public health poster" data-ebay-reference="health-claims-why-helpful-health-advice-can-be-wrong-myths-and-misconcept-public-health-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage 1950s public health awareness advert poster"><img src="{{ '/assets/images/marketplace-covers/69cc58475db8cafc34b2.jpg' | relative_url }}" alt="Listing image for Vintage 1950s public health awareness advert poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=public+health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=health-claims-why-helpful-health-advice-can-be-wrong-myths-and-misconcept-public-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="public health poster" data-ebay-reference="health-claims-why-helpful-health-advice-can-be-wrong-myths-and-misconcept-public-health-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage 1950s public health awareness advert poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=public+health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=health-claims-why-helpful-health-advice-can-be-wrong-myths-and-misconcept-public-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="public health poster" data-ebay-reference="health-claims-why-helpful-health-advice-can-be-wrong-myths-and-misconcept-public-health-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for public health poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: public health poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=public+health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=health-claims-why-helpful-health-advice-can-be-wrong-myths-and-misconcept-public-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="public health poster" data-ebay-reference="health-claims-why-helpful-health-advice-can-be-wrong-myths-and-misconcept-public-health-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=public+health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=health-claims-why-helpful-health-advice-can-be-wrong-myths-and-misconcept-public-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="public health poster" data-ebay-reference="health-claims-why-helpful-health-advice-can-be-wrong-myths-and-misconcept-public-health-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage 1950s public health awareness advert poster"><img src="{{ '/assets/images/marketplace-covers/69cc58475db8cafc34b2.jpg' | relative_url }}" alt="Listing image for Vintage 1950s public health awareness advert poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=public+health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=health-claims-why-helpful-health-advice-can-be-wrong-myths-and-misconcept-public-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="public health poster" data-ebay-reference="health-claims-why-helpful-health-advice-can-be-wrong-myths-and-misconcept-public-health-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage 1950s public health awareness advert poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=public+health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=health-claims-why-helpful-health-advice-can-be-wrong-myths-and-misconcept-public-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="public health poster" data-ebay-reference="health-claims-why-helpful-health-advice-can-be-wrong-myths-and-misconcept-public-health-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for public health poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: public health poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=public+health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=health-claims-why-helpful-health-advice-can-be-wrong-myths-and-misconcept-public-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="public health poster" data-ebay-reference="health-claims-why-helpful-health-advice-can-be-wrong-myths-and-misconcept-public-health-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=public+health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=health-claims-why-helpful-health-advice-can-be-wrong-myths-and-misconcept-public-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="public health poster" data-ebay-reference="health-claims-why-helpful-health-advice-can-be-wrong-myths-and-misconcept-public-health-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Aihrgdesign A Vintage Public Health Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/9a4f85f5088309b5fa73.jpg' | relative_url }}" alt="Listing image for Aihrgdesign A Vintage Public Health Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=public+health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=health-claims-why-helpful-health-advice-can-be-wrong-myths-and-misconcept-public-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="public health poster" data-ebay-reference="health-claims-why-helpful-health-advice-can-be-wrong-myths-and-misconcept-public-health-poster" target="_blank" rel="sponsored noopener noreferrer">Aihrgdesign A Vintage Public Health Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=public+health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=health-claims-why-helpful-health-advice-can-be-wrong-myths-and-misconcept-public-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="public health poster" data-ebay-reference="health-claims-why-helpful-health-advice-can-be-wrong-myths-and-misconcept-public-health-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for public health poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: public health poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=public+health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=health-claims-why-helpful-health-advice-can-be-wrong-myths-and-misconcept-public-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="public health poster" data-ebay-reference="health-claims-why-helpful-health-advice-can-be-wrong-myths-and-misconcept-public-health-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=public+health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=health-claims-why-helpful-health-advice-can-be-wrong-myths-and-misconcept-public-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="public health poster" data-ebay-reference="health-claims-why-helpful-health-advice-can-be-wrong-myths-and-misconcept-public-health-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Aihrgdesign A Vintage Public Health Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/9a4f85f5088309b5fa73.jpg' | relative_url }}" alt="Listing image for Aihrgdesign A Vintage Public Health Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=public+health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=health-claims-why-helpful-health-advice-can-be-wrong-myths-and-misconcept-public-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="public health poster" data-ebay-reference="health-claims-why-helpful-health-advice-can-be-wrong-myths-and-misconcept-public-health-poster" target="_blank" rel="sponsored noopener noreferrer">Aihrgdesign A Vintage Public Health Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=public+health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=health-claims-why-helpful-health-advice-can-be-wrong-myths-and-misconcept-public-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="public health poster" data-ebay-reference="health-claims-why-helpful-health-advice-can-be-wrong-myths-and-misconcept-public-health-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for public health poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: public health poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=public+health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=health-claims-why-helpful-health-advice-can-be-wrong-myths-and-misconcept-public-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="public health poster" data-ebay-reference="health-claims-why-helpful-health-advice-can-be-wrong-myths-and-misconcept-public-health-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=public+health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=health-claims-why-helpful-health-advice-can-be-wrong-myths-and-misconcept-public-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="public health poster" data-ebay-reference="health-claims-why-helpful-health-advice-can-be-wrong-myths-and-misconcept-public-health-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage 1950s public health awareness advert poster"><img src="{{ '/assets/images/marketplace-covers/89316df3874ca53ba5a6.jpg' | relative_url }}" alt="Listing image for Vintage 1950s public health awareness advert poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=public+health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=health-claims-why-helpful-health-advice-can-be-wrong-myths-and-misconcept-public-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="public health poster" data-ebay-reference="health-claims-why-helpful-health-advice-can-be-wrong-myths-and-misconcept-public-health-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage 1950s public health awareness advert poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=public+health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=health-claims-why-helpful-health-advice-can-be-wrong-myths-and-misconcept-public-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="public health poster" data-ebay-reference="health-claims-why-helpful-health-advice-can-be-wrong-myths-and-misconcept-public-health-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for public health poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: public health poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=public+health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=health-claims-why-helpful-health-advice-can-be-wrong-myths-and-misconcept-public-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="public health poster" data-ebay-reference="health-claims-why-helpful-health-advice-can-be-wrong-myths-and-misconcept-public-health-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=public+health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=health-claims-why-helpful-health-advice-can-be-wrong-myths-and-misconcept-public-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="public health poster" data-ebay-reference="health-claims-why-helpful-health-advice-can-be-wrong-myths-and-misconcept-public-health-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage 1950s public health awareness advert poster"><img src="{{ '/assets/images/marketplace-covers/89316df3874ca53ba5a6.jpg' | relative_url }}" alt="Listing image for Vintage 1950s public health awareness advert poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=public+health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=health-claims-why-helpful-health-advice-can-be-wrong-myths-and-misconcept-public-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="public health poster" data-ebay-reference="health-claims-why-helpful-health-advice-can-be-wrong-myths-and-misconcept-public-health-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage 1950s public health awareness advert poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=public+health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=health-claims-why-helpful-health-advice-can-be-wrong-myths-and-misconcept-public-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="public health poster" data-ebay-reference="health-claims-why-helpful-health-advice-can-be-wrong-myths-and-misconcept-public-health-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for public health poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: public health poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=public+health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=health-claims-why-helpful-health-advice-can-be-wrong-myths-and-misconcept-public-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="public health poster" data-ebay-reference="health-claims-why-helpful-health-advice-can-be-wrong-myths-and-misconcept-public-health-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=public+health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=health-claims-why-helpful-health-advice-can-be-wrong-myths-and-misconcept-public-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="public health poster" data-ebay-reference="health-claims-why-helpful-health-advice-can-be-wrong-myths-and-misconcept-public-health-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage 1950s public health awareness advert poster"><img src="{{ '/assets/images/marketplace-covers/3ca1e11aa514c707039f.jpg' | relative_url }}" alt="Listing image for Vintage 1950s public health awareness advert poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=public+health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=health-claims-why-helpful-health-advice-can-be-wrong-myths-and-misconcept-public-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="public health poster" data-ebay-reference="health-claims-why-helpful-health-advice-can-be-wrong-myths-and-misconcept-public-health-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage 1950s public health awareness advert poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=public+health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=health-claims-why-helpful-health-advice-can-be-wrong-myths-and-misconcept-public-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="public health poster" data-ebay-reference="health-claims-why-helpful-health-advice-can-be-wrong-myths-and-misconcept-public-health-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for public health poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: public health poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=public+health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=health-claims-why-helpful-health-advice-can-be-wrong-myths-and-misconcept-public-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="public health poster" data-ebay-reference="health-claims-why-helpful-health-advice-can-be-wrong-myths-and-misconcept-public-health-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=public+health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=health-claims-why-helpful-health-advice-can-be-wrong-myths-and-misconcept-public-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="public health poster" data-ebay-reference="health-claims-why-helpful-health-advice-can-be-wrong-myths-and-misconcept-public-health-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=public+health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=health-claims-why-helpful-health-advice-can-be-wrong-myths-and-misconcept-public-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="public health poster" data-ebay-reference="health-claims-why-helpful-health-advice-can-be-wrong-myths-and-misconcept-public-health-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage 1950s public health awareness advert poster"><img src="{{ '/assets/images/marketplace-covers/3ca1e11aa514c707039f.jpg' | relative_url }}" alt="Listing image for Vintage 1950s public health awareness advert poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=public+health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=health-claims-why-helpful-health-advice-can-be-wrong-myths-and-misconcept-public-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="public health poster" data-ebay-reference="health-claims-why-helpful-health-advice-can-be-wrong-myths-and-misconcept-public-health-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage 1950s public health awareness advert poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=public+health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=health-claims-why-helpful-health-advice-can-be-wrong-myths-and-misconcept-public-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="public health poster" data-ebay-reference="health-claims-why-helpful-health-advice-can-be-wrong-myths-and-misconcept-public-health-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for public health poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: public health poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=public+health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=health-claims-why-helpful-health-advice-can-be-wrong-myths-and-misconcept-public-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="public health poster" data-ebay-reference="health-claims-why-helpful-health-advice-can-be-wrong-myths-and-misconcept-public-health-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=public+health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=health-claims-why-helpful-health-advice-can-be-wrong-myths-and-misconcept-public-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="public health poster" data-ebay-reference="health-claims-why-helpful-health-advice-can-be-wrong-myths-and-misconcept-public-health-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -830,7 +830,7 @@ False health claims shared with good intentions are dangerous precisely because 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -850,7 +850,7 @@ False health claims shared with good intentions are dangerous precisely because 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -882,7 +882,7 @@ False health claims shared with good intentions are dangerous precisely because 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -934,7 +934,7 @@ False health claims shared with good intentions are dangerous precisely because 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -979,7 +979,7 @@ False health claims shared with good intentions are dangerous precisely because 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -1020,163 +1020,163 @@ False health claims shared with good intentions are dangerous precisely because 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: who.int  
-   Link: <a href="https://www.who.int/health-topics/infodemic" target="_blank" rel="noopener noreferrer nofollow">https://www.who.int/health-topics/infodemic</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>World Health OrganizationInfodemicAn infodemic is too much information including false or misleading information in digital and physical...</p></details>
+   Link:<a href="https://www.who.int/health-topics/infodemic" target="_blank" rel="noopener noreferrer nofollow">https://www.who.int/health-topics/infodemic</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>World Health OrganizationInfodemicAn infodemic is too much information including false or misleading information in digital and physical...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: hhs.gov  
    Title: Confronting Health Misinformation  
-   Link: <a href="https://www.hhs.gov/sites/default/files/surgeon-general-misinformation-advisory.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.hhs.gov/sites/default/files/surgeon-general-misinformation-advisory.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>July 2, 2021 — 14 Jul 2021 — A Surgeon General&#x27;s Advisory is a public statement that calls the American people&#x27;s attention to a public he...</p></details>
+   Link:<a href="https://www.hhs.gov/sites/default/files/surgeon-general-misinformation-advisory.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.hhs.gov/sites/default/files/surgeon-general-misinformation-advisory.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>July 2, 2021 — 14 Jul 2021 — A Surgeon General&#x27;s Advisory is a public statement that calls the American people&#x27;s attention to a public he...</p></details>
    Published: July 2, 2021  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: insights.som.yale.edu  
    Title: how social media rewards misinformation  
-   Link: <a href="https://insights.som.yale.edu/insights/how-social-media-rewards-misinformation" target="_blank" rel="noopener noreferrer nofollow">https://insights.som.yale.edu/insights/how-social-media-rewards-misinformation</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Yale InsightsHow Social Media Rewards Misinformation | Yale Insights31 Mar 2023 — Some scholars suggest that people share falsehoods out...</p></details>
+   Link:<a href="https://insights.som.yale.edu/insights/how-social-media-rewards-misinformation" target="_blank" rel="noopener noreferrer nofollow">https://insights.som.yale.edu/insights/how-social-media-rewards-misinformation</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Yale InsightsHow Social Media Rewards Misinformation | Yale Insights31 Mar 2023 — Some scholars suggest that people share falsehoods out...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: mdpi.com  
    Title: 2076 393X  
-   Link: <a href="https://www.mdpi.com/2076-393X/11/5/926" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/2076-393X/11/5/926</a>  
+   Link:<a href="https://www.mdpi.com/2076-393X/11/5/926" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/2076-393X/11/5/926</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: cancer.gov  
    Title: misinformation social media  
-   Link: <a href="https://www.cancer.gov/news-events/cancer-currents-blog/2021/cancer-misinformation-social-media" target="_blank" rel="noopener noreferrer nofollow">https://www.cancer.gov/news-events/cancer-currents-blog/2021/cancer-misinformation-social-media</a>  
+   Link:<a href="https://www.cancer.gov/news-events/cancer-currents-blog/2021/cancer-misinformation-social-media" target="_blank" rel="noopener noreferrer nofollow">https://www.cancer.gov/news-events/cancer-currents-blog/2021/cancer-misinformation-social-media</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: who.int  
-   Link: <a href="https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public/myth-busters" target="_blank" rel="noopener noreferrer nofollow">https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public/myth-busters</a>  
+   Link:<a href="https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public/myth-busters" target="_blank" rel="noopener noreferrer nofollow">https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public/myth-busters</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: who.int  
-   Link: <a href="https://www.who.int/europe/news/item/01-09-2022-infodemics-and-misinformation-negatively-affect-people-s-health-behaviours--new-who-review-finds" target="_blank" rel="noopener noreferrer nofollow">https://www.who.int/europe/news/item/01-09-2022-infodemics-and-misinformation-negatively-affect-people-s-health-behaviours--new-who-review-finds</a>  
+   Link:<a href="https://www.who.int/europe/news/item/01-09-2022-infodemics-and-misinformation-negatively-affect-people-s-health-behaviours--new-who-review-finds" target="_blank" rel="noopener noreferrer nofollow">https://www.who.int/europe/news/item/01-09-2022-infodemics-and-misinformation-negatively-affect-people-s-health-behaviours--new-who-review-finds</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9275772/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9275772/</a>  
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9275772/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9275772/</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: infodemiology.jmir.org  
-   Link: <a href="https://infodemiology.jmir.org/2025/1/e62703" target="_blank" rel="noopener noreferrer nofollow">https://infodemiology.jmir.org/2025/1/e62703</a>  
+   Link:<a href="https://infodemiology.jmir.org/2025/1/e62703" target="_blank" rel="noopener noreferrer nofollow">https://infodemiology.jmir.org/2025/1/e62703</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: wwwnc.cdc.gov  
    Title: 20 3139 article  
-   Link: <a href="https://wwwnc.cdc.gov/eid/article/27/2/20-3139_article" target="_blank" rel="noopener noreferrer nofollow">https://wwwnc.cdc.gov/eid/article/27/2/20-3139_article</a>  
+   Link:<a href="https://wwwnc.cdc.gov/eid/article/27/2/20-3139_article" target="_blank" rel="noopener noreferrer nofollow">https://wwwnc.cdc.gov/eid/article/27/2/20-3139_article</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: asm.org  
    Title: How to Spot and Combat Health Misinformation  
-   Link: <a href="https://asm.org/articles/2022/september/how-to-spot-and-combat-health-misinformation" target="_blank" rel="noopener noreferrer nofollow">https://asm.org/articles/2022/september/how-to-spot-and-combat-health-misinformation</a>  
+   Link:<a href="https://asm.org/articles/2022/september/how-to-spot-and-combat-health-misinformation" target="_blank" rel="noopener noreferrer nofollow">https://asm.org/articles/2022/september/how-to-spot-and-combat-health-misinformation</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: pen.org  
-   Link: <a href="https://pen.org/disinformation/how-to-talk-to-friends-and-family-who-share-misinformation/" target="_blank" rel="noopener noreferrer nofollow">https://pen.org/disinformation/how-to-talk-to-friends-and-family-who-share-misinformation/</a>  
+   Link:<a href="https://pen.org/disinformation/how-to-talk-to-friends-and-family-who-share-misinformation/" target="_blank" rel="noopener noreferrer nofollow">https://pen.org/disinformation/how-to-talk-to-friends-and-family-who-share-misinformation/</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: hhs.gov  
-   Link: <a href="https://www.hhs.gov/surgeongeneral/reports-and-publications/health-misinformation/index.html" target="_blank" rel="noopener noreferrer nofollow">https://www.hhs.gov/surgeongeneral/reports-and-publications/health-misinformation/index.html</a>  
+   Link:<a href="https://www.hhs.gov/surgeongeneral/reports-and-publications/health-misinformation/index.html" target="_blank" rel="noopener noreferrer nofollow">https://www.hhs.gov/surgeongeneral/reports-and-publications/health-misinformation/index.html</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: infodemiology.jmir.org  
-   Link: <a href="https://infodemiology.jmir.org/2025/1/e67464" target="_blank" rel="noopener noreferrer nofollow">https://infodemiology.jmir.org/2025/1/e67464</a>  
+   Link:<a href="https://infodemiology.jmir.org/2025/1/e67464" target="_blank" rel="noopener noreferrer nofollow">https://infodemiology.jmir.org/2025/1/e67464</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: infodemiology.jmir.org  
-   Link: <a href="https://infodemiology.jmir.org/2024/1/e51127" target="_blank" rel="noopener noreferrer nofollow">https://infodemiology.jmir.org/2024/1/e51127</a>  
+   Link:<a href="https://infodemiology.jmir.org/2024/1/e51127" target="_blank" rel="noopener noreferrer nofollow">https://infodemiology.jmir.org/2024/1/e51127</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: jmir.org  
-   Link: <a href="https://www.jmir.org/2024/1/e38786/" target="_blank" rel="noopener noreferrer nofollow">https://www.jmir.org/2024/1/e38786/</a>  
+   Link:<a href="https://www.jmir.org/2024/1/e38786/" target="_blank" rel="noopener noreferrer nofollow">https://www.jmir.org/2024/1/e38786/</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/WHO/posts/not-all-information-you-find-on-social-media-is-true-some-use-it-to-spread-misle/1082224637270259/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/WHO/posts/not-all-information-you-find-on-social-media-is-true-some-use-it-to-spread-misle/1082224637270259/</a>  
+   Link:<a href="https://www.facebook.com/WHO/posts/not-all-information-you-find-on-social-media-is-true-some-use-it-to-spread-misle/1082224637270259/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/WHO/posts/not-all-information-you-find-on-social-media-is-true-some-use-it-to-spread-misle/1082224637270259/</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: facebook.com  
    Title: a new resource from the public health communication collaborative explains how t  
-   Link: <a href="https://www.facebook.com/CDCFoundation/posts/a-new-resource-from-the-public-health-communication-collaborative-explains-how-t/10158370853193053/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/CDCFoundation/posts/a-new-resource-from-the-public-health-communication-collaborative-explains-how-t/10158370853193053/</a>  
+   Link:<a href="https://www.facebook.com/CDCFoundation/posts/a-new-resource-from-the-public-health-communication-collaborative-explains-how-t/10158370853193053/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/CDCFoundation/posts/a-new-resource-from-the-public-health-communication-collaborative-explains-how-t/10158370853193053/</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: facebook.com  
    Title: most of us have been in a situation where someone shares misinformation about he  
-   Link: <a href="https://www.facebook.com/UtahDHHS/posts/most-of-us-have-been-in-a-situation-where-someone-shares-misinformation-about-he/520086100305123/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/UtahDHHS/posts/most-of-us-have-been-in-a-situation-where-someone-shares-misinformation-about-he/520086100305123/</a>  
+   Link:<a href="https://www.facebook.com/UtahDHHS/posts/most-of-us-have-been-in-a-situation-where-someone-shares-misinformation-about-he/520086100305123/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/UtahDHHS/posts/most-of-us-have-been-in-a-situation-where-someone-shares-misinformation-about-he/520086100305123/</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/USSurgeonGeneral/posts/today-i-issued-a-surgeon-generals-advisory-to-call-our-countrys-attention-to-hea/2138391522967968/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/USSurgeonGeneral/posts/today-i-issued-a-surgeon-generals-advisory-to-call-our-countrys-attention-to-hea/2138391522967968/</a>  
+   Link:<a href="https://www.facebook.com/USSurgeonGeneral/posts/today-i-issued-a-surgeon-generals-advisory-to-call-our-countrys-attention-to-hea/2138391522967968/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/USSurgeonGeneral/posts/today-i-issued-a-surgeon-generals-advisory-to-call-our-countrys-attention-to-hea/2138391522967968/</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: facebook.com  
    Title: why do people share health misinformation research shows its often out of genuin  
-   Link: <a href="https://www.facebook.com/GAVI/posts/why-do-people-share-health-misinformation-research-shows-its-often-out-of-genuin/1058178486338495/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/GAVI/posts/why-do-people-share-health-misinformation-research-shows-its-often-out-of-genuin/1058178486338495/</a>  
+   Link:<a href="https://www.facebook.com/GAVI/posts/why-do-people-share-health-misinformation-research-shows-its-often-out-of-genuin/1058178486338495/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/GAVI/posts/why-do-people-share-health-misinformation-research-shows-its-often-out-of-genuin/1058178486338495/</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/deutschewellenews/posts/no-eating-garlic-and-drinking-warm-water-cannot-cure-the-coronavirus-but-how-do-/10157614715894440/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/deutschewellenews/posts/no-eating-garlic-and-drinking-warm-water-cannot-cure-the-coronavirus-but-how-do-/10157614715894440/</a>  
+   Link:<a href="https://www.facebook.com/deutschewellenews/posts/no-eating-garlic-and-drinking-warm-water-cannot-cure-the-coronavirus-but-how-do-/10157614715894440/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/deutschewellenews/posts/no-eating-garlic-and-drinking-warm-water-cannot-cure-the-coronavirus-but-how-do-/10157614715894440/</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/WHOAFRO/posts/-garlic-does-not-prevent-covid19-keep-safe-by-staying-up-to-date-with-accurate-i/1417928378412074/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/WHOAFRO/posts/-garlic-does-not-prevent-covid19-keep-safe-by-staying-up-to-date-with-accurate-i/1417928378412074/</a>  
+   Link:<a href="https://www.facebook.com/WHOAFRO/posts/-garlic-does-not-prevent-covid19-keep-safe-by-staying-up-to-date-with-accurate-i/1417928378412074/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/WHOAFRO/posts/-garlic-does-not-prevent-covid19-keep-safe-by-staying-up-to-date-with-accurate-i/1417928378412074/</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: apa.org  
    Title: how why misinformation spreads  
-   Link: <a href="https://www.apa.org/topics/journalism-facts/how-why-misinformation-spreads" target="_blank" rel="noopener noreferrer nofollow">https://www.apa.org/topics/journalism-facts/how-why-misinformation-spreads</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>American Psychological AssociationHow and why does misinformation spread?29 Nov 2023 — People are more likely to share misinformation whe...</p></details>
+   Link:<a href="https://www.apa.org/topics/journalism-facts/how-why-misinformation-spreads" target="_blank" rel="noopener noreferrer nofollow">https://www.apa.org/topics/journalism-facts/how-why-misinformation-spreads</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>American Psychological AssociationHow and why does misinformation spread?29 Nov 2023 — People are more likely to share misinformation whe...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: macmillan.org.uk  
-   Link: <a href="https://www.macmillan.org.uk/cancer-information-and-support/worried-about-cancer/cancer-myths-and-misinformation" target="_blank" rel="noopener noreferrer nofollow">https://www.macmillan.org.uk/cancer-information-and-support/worried-about-cancer/cancer-myths-and-misinformation</a>  
+   Link:<a href="https://www.macmillan.org.uk/cancer-information-and-support/worried-about-cancer/cancer-myths-and-misinformation" target="_blank" rel="noopener noreferrer nofollow">https://www.macmillan.org.uk/cancer-information-and-support/worried-about-cancer/cancer-myths-and-misinformation</a>  
 
 ### Additional References
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: ncbi.nlm.nih.gov  
    Title: NCBIWE CAN TAKE ACTION  
-   Link: <a href="https://www.ncbi.nlm.nih.gov/books/NBK572168/" target="_blank" rel="noopener noreferrer nofollow">https://www.ncbi.nlm.nih.gov/books/NBK572168/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Confronting Health MisinformationBecause it pollutes our information environment, misinformation is harmful to individual and public heal...</p></details>
+   Link:<a href="https://www.ncbi.nlm.nih.gov/books/NBK572168/" target="_blank" rel="noopener noreferrer nofollow">https://www.ncbi.nlm.nih.gov/books/NBK572168/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Confronting Health MisinformationBecause it pollutes our information environment, misinformation is harmful to individual and public heal...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: youtube.com  
    Title: Understanding the impact of health misinformation  
-   Link: <a href="https://www.youtube.com/watch?v=84VbIqR2VqY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=84VbIqR2VqY</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Strategies for talking to family about misinformation...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=84VbIqR2VqY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=84VbIqR2VqY</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Strategies for talking to family about misinformation...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/371745935_Health_misinformation_what_it_is_why_people_believe_it_how_to_counter_it" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/371745935_Health_misinformation_what_it_is_why_people_believe_it_how_to_counter_it</a>  
+   Link:<a href="https://www.researchgate.net/publication/371745935_Health_misinformation_what_it_is_why_people_believe_it_how_to_counter_it" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/371745935_Health_misinformation_what_it_is_why_people_believe_it_how_to_counter_it</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: hbs.edu  
-   Link: <a href="https://www.hbs.edu/ris/Publication%20Files/whr_prosociality_revision.final.1.15.2019%20%281%29_79b480d2-2ed6-4e42-b9e5-94905b2fed4c.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.hbs.edu/ris/Publication%20Files/whr_prosociality_revision.final.1.15.2019%20%281%29_79b480d2-2ed6-4e42-b9e5-94905b2fed4c.pdf</a>  
+   Link:<a href="https://www.hbs.edu/ris/Publication%20Files/whr_prosociality_revision.final.1.15.2019%20%281%29_79b480d2-2ed6-4e42-b9e5-94905b2fed4c.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.hbs.edu/ris/Publication%20Files/whr_prosociality_revision.final.1.15.2019%20%281%29_79b480d2-2ed6-4e42-b9e5-94905b2fed4c.pdf</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: ecancer.org  
-   Link: <a href="https://ecancer.org/en/news/27083-study-finds-most-cancer-patients-exposed-to-misinformation-researchers-pilot-information-prescription" target="_blank" rel="noopener noreferrer nofollow">https://ecancer.org/en/news/27083-study-finds-most-cancer-patients-exposed-to-misinformation-researchers-pilot-information-prescription</a>  
+   Link:<a href="https://ecancer.org/en/news/27083-study-finds-most-cancer-patients-exposed-to-misinformation-researchers-pilot-information-prescription" target="_blank" rel="noopener noreferrer nofollow">https://ecancer.org/en/news/27083-study-finds-most-cancer-patients-exposed-to-misinformation-researchers-pilot-information-prescription</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/381922940_Motives_of_Sharing_Fake_News_and_Effects_on_Mental_Health_of_Social_Media_Users_A_Meta-analysis" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/381922940_Motives_of_Sharing_Fake_News_and_Effects_on_Mental_Health_of_Social_Media_Users_A_Meta-analysis</a>  
+   Link:<a href="https://www.researchgate.net/publication/381922940_Motives_of_Sharing_Fake_News_and_Effects_on_Mental_Health_of_Social_Media_Users_A_Meta-analysis" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/381922940_Motives_of_Sharing_Fake_News_and_Effects_on_Mental_Health_of_Social_Media_Users_A_Meta-analysis</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: spokanetribe.com  
-   Link: <a href="https://spokanetribe.com/wp-content/uploads/2021/11/HealthMisinformationToolkitNon508.pdf" target="_blank" rel="noopener noreferrer nofollow">https://spokanetribe.com/wp-content/uploads/2021/11/HealthMisinformationToolkitNon508.pdf</a>  
+   Link:<a href="https://spokanetribe.com/wp-content/uploads/2021/11/HealthMisinformationToolkitNon508.pdf" target="_blank" rel="noopener noreferrer nofollow">https://spokanetribe.com/wp-content/uploads/2021/11/HealthMisinformationToolkitNon508.pdf</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: ilcn.org  
-   Link: <a href="https://www.ilcn.org/cancer-misinformation-its-impact-on-patients-and-mitigation-strategies/" target="_blank" rel="noopener noreferrer nofollow">https://www.ilcn.org/cancer-misinformation-its-impact-on-patients-and-mitigation-strategies/</a>  
+   Link:<a href="https://www.ilcn.org/cancer-misinformation-its-impact-on-patients-and-mitigation-strategies/" target="_blank" rel="noopener noreferrer nofollow">https://www.ilcn.org/cancer-misinformation-its-impact-on-patients-and-mitigation-strategies/</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: bmjgroup.com  
-   Link: <a href="https://bmjgroup.com/combatting-misinformation-and-empowering-patient-decisions/" target="_blank" rel="noopener noreferrer nofollow">https://bmjgroup.com/combatting-misinformation-and-empowering-patient-decisions/</a>  
+   Link:<a href="https://bmjgroup.com/combatting-misinformation-and-empowering-patient-decisions/" target="_blank" rel="noopener noreferrer nofollow">https://bmjgroup.com/combatting-misinformation-and-empowering-patient-decisions/</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: swgfl.org.uk  
-   Link: <a href="https://swgfl.org.uk/topics/social-media/misinformation-on-social-media-guidance-impact-and-support/" target="_blank" rel="noopener noreferrer nofollow">https://swgfl.org.uk/topics/social-media/misinformation-on-social-media-guidance-impact-and-support/</a>
+   Link:<a href="https://swgfl.org.uk/topics/social-media/misinformation-on-social-media-guidance-impact-and-support/" target="_blank" rel="noopener noreferrer nofollow">https://swgfl.org.uk/topics/social-media/misinformation-on-social-media-guidance-impact-and-support/</a>

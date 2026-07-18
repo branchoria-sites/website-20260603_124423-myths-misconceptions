@@ -277,7 +277,7 @@ image: /assets/images/Myths_and_misconcept_0d48d7_vaccine_autism_corre_58e816_sh
 One reason the vaccine-autism myth has proved unusually durable is that it rarely disappears when a specific claim is disproved. Instead, the focus often shifts. After the original MMR-autism narrative lost credibility, public discussion frequently moved toward vaccine ingredients such as thimerosal, mercury or aluminium. The wording changed, but the emotional conclusion often stayed the same: autism must have been caused by something hidden inside [vaccines]({{ 'vaccines/' | relative_url }}).
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_vaccine_autism_corre_58e816_shifting_vaccine_cla_faec63-Illustration-1-dark.svg" | relative_url }}" alt="Shifting claims illustration 1" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_vaccine_autism_corre_58e816_shifting_vaccine_cla_faec63-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_vaccine_autism_corre_58e816_shifting_vaccine_cla_faec63-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-This shift matters because it shows how myths can survive [correction]({{ 'correction/' | relative_url }}). Rather than defending the original claim, supporters may adopt a new mechanism that seems more scientifically plausible to non-specialists. Yet large reviews examining both vaccines themselves and specific ingredients have repeatedly failed to find evidence that these substances cause autism. The pattern is less about a single ingredient than about how a belief adapts when earlier versions become difficult to defend. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cdn.who.int/media/docs/default-source/medicines/pharmacovigilance/rev1_vaccines-autism-and-asd-evidence-review-2010-2025_12-dec7ab84d63-5110-4b2c-9882-19651446b8cd.pdf?download=true&amp;sfvrsn=daab5374_1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.who.int">[WHO Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.who.int</span><span class="citation-popover-snippet">WHO CenterVaccines, thimerosal and autism spectrum disorderThe Global Advisory Committee on Vaccine Safety has reviewed the evidence rega...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ncbi.nlm.nih.gov/books/NBK25344/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ncbi.nlm.nih.gov">[NCBI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ncbi.nlm.nih.gov</span><span class="citation-popover-title">NCBIImmunization Safety Review: Vaccines and Autism</span><span class="citation-popover-snippet">NIHThis eighth and final report of the Immunization Safety Review Committee examines the hypothesis that vaccines, specifically th...</span></span></span>
+This shift matters because it shows how myths can survive [correction]({{ 'correction/' | relative_url }}). Rather than defending the original claim, supporters may adopt a new mechanism that seems more scientifically plausible to non-specialists. Yet large reviews examining both vaccines themselves and specific ingredients have repeatedly failed to find evidence that these substances cause autism. The pattern is less about a single ingredient than about how a belief adapts when earlier versions become difficult to defend.<span class="citation-chip-wrap"><a class="citation-chip" href="https://cdn.who.int/media/docs/default-source/medicines/pharmacovigilance/rev1_vaccines-autism-and-asd-evidence-review-2010-2025_12-dec7ab84d63-5110-4b2c-9882-19651446b8cd.pdf?download=true&amp;sfvrsn=daab5374_1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.who.int">[WHO Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.who.int</span><span class="citation-popover-snippet">WHO CenterVaccines, thimerosal and autism spectrum disorderThe Global Advisory Committee on Vaccine Safety has reviewed the evidence rega...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ncbi.nlm.nih.gov/books/NBK25344/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ncbi.nlm.nih.gov">[NCBI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ncbi.nlm.nih.gov</span><span class="citation-popover-title">NCBIImmunization Safety Review: Vaccines and Autism</span><span class="citation-popover-snippet">NIHThis eighth and final report of the Immunization Safety Review Committee examines the hypothesis that vaccines, specifically th...</span></span></span>
 
 ## Why myths shift after a correction
 
@@ -293,19 +293,19 @@ This is one reason simple [debunking]({{ 'debunking/' | relative_url }}) can fai
 
 ### How thimerosal became the next focus
 
-Thimerosal is a preservative that was used in some vaccines to prevent bacterial contamination, particularly in multi-dose vials. It contains ethylmercury, a form of mercury that is processed differently by the body from methylmercury, the type associated with environmental poisoning concerns. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nejm.org/doi/full/10.1056/NEJMp078187" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nejm.org">[New England Journal of Medicine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nejm.org</span><span class="citation-popover-snippet">New England Journal of MedicineThimerosal and Vaccines  A Cautionary Taleby PA Offit  2007  Cited by 121  The use of mercury in vacci...</span></span></span>
+Thimerosal is a preservative that was used in some vaccines to prevent bacterial contamination, particularly in multi-dose vials. It contains ethylmercury, a form of mercury that is processed differently by the body from methylmercury, the type associated with environmental poisoning concerns.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nejm.org/doi/full/10.1056/NEJMp078187" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nejm.org">[New England Journal of Medicine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nejm.org</span><span class="citation-popover-snippet">New England Journal of MedicineThimerosal and Vaccines  A Cautionary Taleby PA Offit  2007  Cited by 121  The use of mercury in vacci...</span></span></span>
 
 As public concern about MMR intensified in the late 1990s and early 2000s, attention increasingly shifted toward thimerosal. The word "mercury" carried strong emotional weight because many people already associated mercury with neurological damage. For critics of vaccination, this created a new explanatory narrative that seemed more biologically plausible than the original MMR claim.
 
-A key complication is that MMR never contained thimerosal. The ingredient-focused claim therefore represented a partial shift away from the original theory. Even if concerns about MMR were addressed, suspicion could continue through a separate argument about mercury exposure. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ncbi.nlm.nih.gov/books/NBK25338/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ncbi.nlm.nih.gov">[NCBI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Summary - Immunization Safety Review - NCBI - NIHThe committee concludes that the evidence favors rejection of a causal relationship betw...</span></span></span>
+A key complication is that MMR never contained thimerosal. The ingredient-focused claim therefore represented a partial shift away from the original theory. Even if concerns about MMR were addressed, suspicion could continue through a separate argument about mercury exposure.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ncbi.nlm.nih.gov/books/NBK25338/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ncbi.nlm.nih.gov">[NCBI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Summary - Immunization Safety Review - NCBI - NIHThe committee concludes that the evidence favors rejection of a causal relationship betw...</span></span></span>
 
 ### Why the mercury argument persisted
 
-The thimerosal controversy was strengthened by a precautionary policy decision that was often misunderstood. In the United States and several other countries, thimerosal was removed or reduced in most childhood vaccines beginning around 19992001. Public-health agencies described this as a precautionary measure intended to reduce overall mercury exposure, not as evidence that harm had been demonstrated. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nejm.org/doi/full/10.1056/NEJMp078187" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nejm.org">[New England Journal of Medicine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nejm.org</span><span class="citation-popover-snippet">New England Journal of MedicineThimerosal and Vaccines  A Cautionary Taleby PA Offit  2007  Cited by 121  The use of mercury in vacci...</span></span></span>
+The thimerosal controversy was strengthened by a precautionary policy decision that was often misunderstood. In the United States and several other countries, thimerosal was removed or reduced in most childhood vaccines beginning around 19992001. Public-health agencies described this as a precautionary measure intended to reduce overall mercury exposure, not as evidence that harm had been demonstrated.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nejm.org/doi/full/10.1056/NEJMp078187" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nejm.org">[New England Journal of Medicine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nejm.org</span><span class="citation-popover-snippet">New England Journal of MedicineThimerosal and Vaccines  A Cautionary Taleby PA Offit  2007  Cited by 121  The use of mercury in vacci...</span></span></span>
 
 However, many people interpreted the removal differently. If an ingredient was taken out, they reasoned, it must have been dangerous. That interpretation became part of the myth's survival strategy.
 
-The difficulty for the ingredient hypothesis is that autism diagnoses continued to rise after thimerosal exposure in childhood vaccines declined sharply. If thimerosal had been a major cause, a corresponding reduction in autism rates would have been expected. Large epidemiological studies did not show that pattern. Reviews by the Institute of Medicine, later renamed the National Academy of Medicine, concluded that the evidence favoured rejection of a causal relationship between thimerosal-containing vaccines and autism. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ncbi.nlm.nih.gov/books/NBK25344/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ncbi.nlm.nih.gov">[NCBI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ncbi.nlm.nih.gov</span><span class="citation-popover-title">NCBIImmunization Safety Review: Vaccines and Autism</span><span class="citation-popover-snippet">NIHThis eighth and final report of the Immunization Safety Review Committee examines the hypothesis that vaccines, specifically th...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalacademies.org/publications/10997" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalacademies.org">[National Academies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalacademies.org</span><span class="citation-popover-snippet">Immunization Safety Review: Vaccines and Autism 2004Immunization Safety Review: Vaccines and Autism finds that the body of epidemiologica...</span></span></span>
+The difficulty for the ingredient hypothesis is that autism diagnoses continued to rise after thimerosal exposure in childhood vaccines declined sharply. If thimerosal had been a major cause, a corresponding reduction in autism rates would have been expected. Large epidemiological studies did not show that pattern. Reviews by the Institute of Medicine, later renamed the National Academy of Medicine, concluded that the evidence favoured rejection of a causal relationship between thimerosal-containing vaccines and autism.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ncbi.nlm.nih.gov/books/NBK25344/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ncbi.nlm.nih.gov">[NCBI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ncbi.nlm.nih.gov</span><span class="citation-popover-title">NCBIImmunization Safety Review: Vaccines and Autism</span><span class="citation-popover-snippet">NIHThis eighth and final report of the Immunization Safety Review Committee examines the hypothesis that vaccines, specifically th...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalacademies.org/publications/10997" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalacademies.org">[National Academies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalacademies.org</span><span class="citation-popover-snippet">Immunization Safety Review: Vaccines and Autism 2004Immunization Safety Review: Vaccines and Autism finds that the body of epidemiologica...</span></span></span>
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_vaccine_autism_corre_58e816_shifting_vaccine_cla_faec63-Illustration-2-dark.svg" | relative_url }}" alt="Shifting claims illustration 2" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_vaccine_autism_corre_58e816_shifting_vaccine_cla_faec63-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_vaccine_autism_corre_58e816_shifting_vaccine_cla_faec63-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How reviews test broader ingredient claims
@@ -316,17 +316,17 @@ Researchers eventually examined a broader question than the original MMR controv
 
 This matters because myths often expand after a correction. If one vaccine appears cleared, suspicion can move to another vaccine or another ingredient. A broader review strategy tests whether the proposed problem survives when examined across different populations, products and exposure levels.
 
-A major meta-analysis published in 2014 combined evidence from multiple cohort and case-control studies involving more than a million children. It found no relationship between autism and vaccination, MMR vaccination or thimerosal exposure. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/24814559/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Vaccines are not associated with autism: an evidence...by LE Taylor  2014  Cited by 1055  There has been enormous debate regard...</span></span></span>
+A major meta-analysis published in 2014 combined evidence from multiple cohort and case-control studies involving more than a million children. It found no relationship between autism and vaccination, MMR vaccination or thimerosal exposure.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/24814559/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Vaccines are not associated with autism: an evidence...by LE Taylor  2014  Cited by 1055  There has been enormous debate regard...</span></span></span>
 
-The Institute of Medicine's vaccine safety review reached similar conclusions after examining both epidemiological evidence and proposed biological mechanisms. The committee found that available evidence favoured rejecting a causal relationship between autism and either MMR vaccine or thimerosal-containing vaccines. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ncbi.nlm.nih.gov/books/NBK25338/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ncbi.nlm.nih.gov">[NCBI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Summary - Immunization Safety Review - NCBI - NIHThe committee concludes that the evidence favors rejection of a causal relationship betw...</span></span></span>
+The Institute of Medicine's vaccine safety review reached similar conclusions after examining both epidemiological evidence and proposed biological mechanisms. The committee found that available evidence favoured rejecting a causal relationship between autism and either MMR vaccine or thimerosal-containing vaccines.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ncbi.nlm.nih.gov/books/NBK25338/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ncbi.nlm.nih.gov">[NCBI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Summary - Immunization Safety Review - NCBI - NIHThe committee concludes that the evidence favors rejection of a causal relationship betw...</span></span></span>
 
 ### The recurring aluminium claim
 
 As concerns about thimerosal became harder to sustain scientifically, attention increasingly shifted again, this time toward aluminium-containing adjuvants. Adjuvants are substances added to some vaccines to improve the immune response.
 
-The argument follows a familiar pattern. Because aluminium can be toxic at sufficiently high exposures in certain contexts, critics suggest that aluminium adjuvants might contribute to autism or other neurological disorders. Some papers have proposed such links, and these studies are frequently cited in vaccine-sceptical communities. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/24814559/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Vaccines are not associated with autism: an evidence...by LE Taylor  2014  Cited by 1055  There has been enormous debate regard...</span></span></span>
+The argument follows a familiar pattern. Because aluminium can be toxic at sufficiently high exposures in certain contexts, critics suggest that aluminium adjuvants might contribute to autism or other neurological disorders. Some papers have proposed such links, and these studies are frequently cited in vaccine-sceptical communities.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/24814559/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Vaccines are not associated with autism: an evidence...by LE Taylor  2014  Cited by 1055  There has been enormous debate regard...</span></span></span>
 
-However, large-scale reviews and population studies have not supported that conclusion. The World Health Organization's Global Advisory Committee on Vaccine Safety reviewed claims linking aluminium-containing vaccines to autism and found that available evidence did not support a causal relationship. More recent large cohort studies examining childhood exposure to aluminium-adjuvanted vaccines have likewise not found increased risks of autism or other neurodevelopmental disorders. CIDRAP <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.who.int/groups/global-advisory-committee-on-vaccine-safety/topics/adjuvants" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: who.int">[World Health Organization]</a><span class="citation-popover" role="note"><span class="citation-popover-source">who.int</span><span class="citation-popover-snippet">World Health OrganizationAdjuvantsThe GACVS reviewed 2 published papers alleging that aluminium in vaccines is associated with autism spe...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.who.int/groups/global-advisory-committee-on-vaccine-safety/topics/adjuvants" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: who.int">[World Health Organization]</a><span class="citation-popover" role="note"><span class="citation-popover-source">who.int</span><span class="citation-popover-snippet">World Health OrganizationAdjuvantsThe GACVS reviewed 2 published papers alleging that aluminium in vaccines is associated with autism spe...</span></span></span>
+However, large-scale reviews and population studies have not supported that conclusion. The World Health Organization's Global Advisory Committee on Vaccine Safety reviewed claims linking aluminium-containing vaccines to autism and found that available evidence did not support a causal relationship. More recent large cohort studies examining childhood exposure to aluminium-adjuvanted vaccines have likewise not found increased risks of autism or other neurodevelopmental disorders. CIDRAP<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.who.int/groups/global-advisory-committee-on-vaccine-safety/topics/adjuvants" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: who.int">[World Health Organization]</a><span class="citation-popover" role="note"><span class="citation-popover-source">who.int</span><span class="citation-popover-snippet">World Health OrganizationAdjuvantsThe GACVS reviewed 2 published papers alleging that aluminium in vaccines is associated with autism spe...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.who.int/groups/global-advisory-committee-on-vaccine-safety/topics/adjuvants" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: who.int">[World Health Organization]</a><span class="citation-popover" role="note"><span class="citation-popover-source">who.int</span><span class="citation-popover-snippet">World Health OrganizationAdjuvantsThe GACVS reviewed 2 published papers alleging that aluminium in vaccines is associated with autism spe...</span></span></span>
 
 The important point is not that aluminium concerns emerged from nowhere. Rather, they illustrate how the vaccine-autism claim repeatedly relocates to a different ingredient once earlier versions fail to gain support from larger and better-designed studies.
 
@@ -337,7 +337,7 @@ Ingredient-focused claims often sound more convincing than broad claims about va
 
 This can create a rhetorical shortcut. If a substance is harmful in one situation, people may assume it must be harmful in every situation. But toxicology depends heavily on form, dose, route of exposure and biological processing. Reviews of vaccine ingredients therefore do not simply ask whether a substance can ever be harmful; they ask whether the specific exposures involved in vaccination are associated with measurable increases in autism risk.
 
-That distinction explains why scientific reviews focus heavily on population evidence. If an ingredient were contributing substantially to autism rates, researchers would expect to detect consistent patterns across countries, vaccine schedules and exposure levels. Repeated reviews have not found such patterns for thimerosal or aluminium-containing vaccine ingredients. PubMed 3WHO Center <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3018252/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCThimerosal-Containing Vaccines and Autism: A Review</span><span class="citation-popover-snippet">by AM Hurley  2010  Cited by 77  Epidemiologic studies continue to provide evidence that there is no association between thimerosal...</span></span></span>
+That distinction explains why scientific reviews focus heavily on population evidence. If an ingredient were contributing substantially to autism rates, researchers would expect to detect consistent patterns across countries, vaccine schedules and exposure levels. Repeated reviews have not found such patterns for thimerosal or aluminium-containing vaccine ingredients. PubMed 3WHO Center<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3018252/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCThimerosal-Containing Vaccines and Autism: A Review</span><span class="citation-popover-snippet">by AM Hurley  2010  Cited by 77  Epidemiologic studies continue to provide evidence that there is no association between thimerosal...</span></span></span>
 
 ## What the shifting claims reveal about misinformation
 
@@ -345,197 +345,197 @@ The transition from MMR to thimerosal, mercury and aluminium illustrates a broad
 
 In this case, the debate often evolved from a specific vaccine claim into a moving search for a hidden cause. Each new ingredient claim appeared to offer a fresh explanation while preserving the same conclusion. Scientific reviews therefore expanded from testing MMR alone to evaluating preservatives, adjuvants and wider vaccine exposure patterns.
 
-Across those broader investigations, major reviews by the Institute of Medicine, the World Health Organization and large epidemiological research groups have repeatedly reached the same general finding: the evidence does not support a causal link between autism and vaccines, including the ingredient claims that emerged after the original MMR narrative lost credibility. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/24814559/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Vaccines are not associated with autism: an evidence...by LE Taylor  2014  Cited by 1055  There has been enormous debate regard...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://cdn.who.int/media/docs/default-source/medicines/pharmacovigilance/rev1_vaccines-autism-and-asd-evidence-review-2010-2025_12-dec7ab84d63-5110-4b2c-9882-19651446b8cd.pdf?download=true&amp;sfvrsn=daab5374_1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.who.int">[WHO Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.who.int</span><span class="citation-popover-snippet">WHO CenterVaccines, thimerosal and autism spectrum disorderThe Global Advisory Committee on Vaccine Safety has reviewed the evidence rega...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ncbi.nlm.nih.gov/books/NBK25349/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nih.gov">[NCBI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nih.gov</span><span class="citation-popover-title">NBK25349</span><span class="citation-popover-snippet">Safety Review: Vaccines and Autism - NCBI - NIH2004  Cited by 190  In that report, the committee concluded that the evidence was inadeq...</span></span></span>
+Across those broader investigations, major reviews by the Institute of Medicine, the World Health Organization and large epidemiological research groups have repeatedly reached the same general finding: the evidence does not support a causal link between autism and vaccines, including the ingredient claims that emerged after the original MMR narrative lost credibility.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/24814559/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Vaccines are not associated with autism: an evidence...by LE Taylor  2014  Cited by 1055  There has been enormous debate regard...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://cdn.who.int/media/docs/default-source/medicines/pharmacovigilance/rev1_vaccines-autism-and-asd-evidence-review-2010-2025_12-dec7ab84d63-5110-4b2c-9882-19651446b8cd.pdf?download=true&amp;sfvrsn=daab5374_1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.who.int">[WHO Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.who.int</span><span class="citation-popover-snippet">WHO CenterVaccines, thimerosal and autism spectrum disorderThe Global Advisory Committee on Vaccine Safety has reviewed the evidence rega...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ncbi.nlm.nih.gov/books/NBK25349/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nih.gov">[NCBI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nih.gov</span><span class="citation-popover-title">NBK25349</span><span class="citation-popover-snippet">Safety Review: Vaccines and Autism - NCBI - NIH2004  Cited by 190  In that report, the committee concluded that the evidence was inadeq...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When The Claim Changes Its Target. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When The Claim Changes Its Target. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Autism%27s+false+prophets&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Autism&#x27;s false prophets on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/7141684-M.jpg" alt="Cover for Autism&#x27;s false prophets" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Autism%27s+false+prophets&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Autism&#x27;s false prophets">Autism&#x27;s false prophets</a>
-        </h4>
-        <p class="fr-book-author">By Unknown author</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Autism%27s+false+prophets&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Autism&#x27;s false prophets on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/7141684-M.jpg" alt="Cover for Autism&#x27;s false prophets" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Autism%27s+false+prophets&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Autism&#x27;s false prophets">Autism&#x27;s false prophets</a>
+</h4>
+<p class="fr-book-author">By Unknown author</p>
         
-        <p class="fr-book-desc">Covers both MMR and ingredient-related autism claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Autism%27s+false+prophets&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers both MMR and ingredient-related autism claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Autism%27s+false+prophets&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+panic+virus+Seth+Mnookin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The panic virus on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9547196-M.jpg" alt="Cover for The panic virus" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+panic+virus+Seth+Mnookin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The panic virus">The panic virus</a>
-        </h4>
-        <p class="fr-book-author">By Seth Mnookin</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+panic+virus+Seth+Mnookin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The panic virus on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9547196-M.jpg" alt="Cover for The panic virus" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+panic+virus+Seth+Mnookin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The panic virus">The panic virus</a>
+</h4>
+<p class="fr-book-author">By Seth Mnookin</p>
         
-        <p class="fr-book-desc">First published 2011. Subjects: Vaccination, Mass media and culture, Health behavior, History, Psychological aspects.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+panic+virus+Seth+Mnookin&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2011. Subjects: Vaccination, Mass media and culture, Health behavior, History, Psychological aspects.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+panic+virus+Seth+Mnookin&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Deadly+Choices+Paul+A.+Offit&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Deadly Choices on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8973460-M.jpg" alt="Cover for Deadly Choices" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Deadly+Choices+Paul+A.+Offit&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Deadly Choices">Deadly Choices</a>
-        </h4>
-        <p class="fr-book-author">By Paul A. Offit</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Deadly+Choices+Paul+A.+Offit&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Deadly Choices on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8973460-M.jpg" alt="Cover for Deadly Choices" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Deadly+Choices+Paul+A.+Offit&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Deadly Choices">Deadly Choices</a>
+</h4>
+<p class="fr-book-author">By Paul A. Offit</p>
         
-        <p class="fr-book-desc">First published 2010. Subjects: Vaccination of children, Vaccines, History, Complications, Health aspects.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Deadly+Choices+Paul+A.+Offit&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2010. Subjects: Vaccination of children, Vaccines, History, Complications, Health aspects.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Deadly+Choices+Paul+A.+Offit&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Vaccines+and+Your+Family+-+Separating+Fact+from+Fiction+Paul+Offit&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Vaccines and Your Family - Separating Fact from Fiction on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Vaccines+and+Your+Family+-+Separating+Fact+from+Fiction+Paul+Offit&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Vaccines and Your Family - Separating Fact from Fiction">Vaccines and Your Family - Separating Fact from Fiction</a>
-        </h4>
-        <p class="fr-book-author">By Paul Offit, Charlotte Moser</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Vaccines+and+Your+Family+-+Separating+Fact+from+Fiction+Paul+Offit&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Vaccines and Your Family - Separating Fact from Fiction on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Vaccines+and+Your+Family+-+Separating+Fact+from+Fiction+Paul+Offit&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Vaccines and Your Family - Separating Fact from Fiction">Vaccines and Your Family - Separating Fact from Fiction</a>
+</h4>
+<p class="fr-book-author">By Paul Offit, Charlotte Moser</p>
         
-        <p class="fr-book-desc">First published 2024. Subjects: Public health.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Vaccines+and+Your+Family+-+Separating+Fact+from+Fiction+Paul+Offit&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2024. Subjects: Public health.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Vaccines+and+Your+Family+-+Separating+Fact+from+Fiction+Paul+Offit&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Autism%27s+false+prophets&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Autism&#x27;s false prophets</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+panic+virus&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The panic virus</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Deadly+Choices&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Deadly Choices</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Autism%27s+false+prophets&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Autism&#x27;s false prophets</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+panic+virus&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The panic virus</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Deadly+Choices&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Deadly Choices</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=technology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=shifting-claims-when-the-claim-changes-its-target-myths-and-misconcept-technology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="technology wall art" data-ebay-reference="shifting-claims-when-the-claim-changes-its-target-myths-and-misconcept-technology-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Framed iPhone 7 Wall Art – Deconstructed Tech Frame | Unique Gift | UK Made"><img src="{{ '/assets/images/marketplace-covers/5bc2986344f968932a31.jpg' | relative_url }}" alt="Listing image for Framed iPhone 7 Wall Art – Deconstructed Tech Frame | Unique Gift | UK Made" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=technology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=shifting-claims-when-the-claim-changes-its-target-myths-and-misconcept-technology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="technology wall art" data-ebay-reference="shifting-claims-when-the-claim-changes-its-target-myths-and-misconcept-technology-wall-art" target="_blank" rel="sponsored noopener noreferrer">Framed iPhone 7 Wall Art – Deconstructed Tech Frame | Unique Gift | UK Made</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=technology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=shifting-claims-when-the-claim-changes-its-target-myths-and-misconcept-technology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="technology wall art" data-ebay-reference="shifting-claims-when-the-claim-changes-its-target-myths-and-misconcept-technology-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for technology wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: technology wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=technology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=shifting-claims-when-the-claim-changes-its-target-myths-and-misconcept-technology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="technology wall art" data-ebay-reference="shifting-claims-when-the-claim-changes-its-target-myths-and-misconcept-technology-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=technology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=shifting-claims-when-the-claim-changes-its-target-myths-and-misconcept-technology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="technology wall art" data-ebay-reference="shifting-claims-when-the-claim-changes-its-target-myths-and-misconcept-technology-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Framed iPhone 7 Wall Art – Deconstructed Tech Frame | Unique Gift | UK Made"><img src="{{ '/assets/images/marketplace-covers/5bc2986344f968932a31.jpg' | relative_url }}" alt="Listing image for Framed iPhone 7 Wall Art – Deconstructed Tech Frame | Unique Gift | UK Made" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=technology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=shifting-claims-when-the-claim-changes-its-target-myths-and-misconcept-technology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="technology wall art" data-ebay-reference="shifting-claims-when-the-claim-changes-its-target-myths-and-misconcept-technology-wall-art" target="_blank" rel="sponsored noopener noreferrer">Framed iPhone 7 Wall Art – Deconstructed Tech Frame | Unique Gift | UK Made</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=technology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=shifting-claims-when-the-claim-changes-its-target-myths-and-misconcept-technology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="technology wall art" data-ebay-reference="shifting-claims-when-the-claim-changes-its-target-myths-and-misconcept-technology-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for technology wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: technology wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=technology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=shifting-claims-when-the-claim-changes-its-target-myths-and-misconcept-technology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="technology wall art" data-ebay-reference="shifting-claims-when-the-claim-changes-its-target-myths-and-misconcept-technology-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=technology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=shifting-claims-when-the-claim-changes-its-target-myths-and-misconcept-technology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="technology wall art" data-ebay-reference="shifting-claims-when-the-claim-changes-its-target-myths-and-misconcept-technology-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Technology Framed Art Print Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/9e5e14d28187b4342672.jpg' | relative_url }}" alt="Listing image for Technology Framed Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=technology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=shifting-claims-when-the-claim-changes-its-target-myths-and-misconcept-technology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="technology wall art" data-ebay-reference="shifting-claims-when-the-claim-changes-its-target-myths-and-misconcept-technology-wall-art" target="_blank" rel="sponsored noopener noreferrer">Technology Framed Art Print Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=technology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=shifting-claims-when-the-claim-changes-its-target-myths-and-misconcept-technology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="technology wall art" data-ebay-reference="shifting-claims-when-the-claim-changes-its-target-myths-and-misconcept-technology-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for technology wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: technology wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=technology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=shifting-claims-when-the-claim-changes-its-target-myths-and-misconcept-technology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="technology wall art" data-ebay-reference="shifting-claims-when-the-claim-changes-its-target-myths-and-misconcept-technology-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=technology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=shifting-claims-when-the-claim-changes-its-target-myths-and-misconcept-technology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="technology wall art" data-ebay-reference="shifting-claims-when-the-claim-changes-its-target-myths-and-misconcept-technology-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Technology Framed Art Print Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/9e5e14d28187b4342672.jpg' | relative_url }}" alt="Listing image for Technology Framed Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=technology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=shifting-claims-when-the-claim-changes-its-target-myths-and-misconcept-technology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="technology wall art" data-ebay-reference="shifting-claims-when-the-claim-changes-its-target-myths-and-misconcept-technology-wall-art" target="_blank" rel="sponsored noopener noreferrer">Technology Framed Art Print Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=technology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=shifting-claims-when-the-claim-changes-its-target-myths-and-misconcept-technology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="technology wall art" data-ebay-reference="shifting-claims-when-the-claim-changes-its-target-myths-and-misconcept-technology-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for technology wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: technology wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=technology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=shifting-claims-when-the-claim-changes-its-target-myths-and-misconcept-technology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="technology wall art" data-ebay-reference="shifting-claims-when-the-claim-changes-its-target-myths-and-misconcept-technology-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=technology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=shifting-claims-when-the-claim-changes-its-target-myths-and-misconcept-technology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="technology wall art" data-ebay-reference="shifting-claims-when-the-claim-changes-its-target-myths-and-misconcept-technology-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for yellow technology tree Framed Art P Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/6e1f60225a82588553d0.jpg' | relative_url }}" alt="Listing image for yellow technology tree Framed Art P Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=technology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=shifting-claims-when-the-claim-changes-its-target-myths-and-misconcept-technology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="technology wall art" data-ebay-reference="shifting-claims-when-the-claim-changes-its-target-myths-and-misconcept-technology-wall-art" target="_blank" rel="sponsored noopener noreferrer">yellow technology tree Framed Art P Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=technology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=shifting-claims-when-the-claim-changes-its-target-myths-and-misconcept-technology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="technology wall art" data-ebay-reference="shifting-claims-when-the-claim-changes-its-target-myths-and-misconcept-technology-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for technology wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: technology wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=technology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=shifting-claims-when-the-claim-changes-its-target-myths-and-misconcept-technology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="technology wall art" data-ebay-reference="shifting-claims-when-the-claim-changes-its-target-myths-and-misconcept-technology-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=technology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=shifting-claims-when-the-claim-changes-its-target-myths-and-misconcept-technology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="technology wall art" data-ebay-reference="shifting-claims-when-the-claim-changes-its-target-myths-and-misconcept-technology-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for yellow technology tree Framed Art P Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/6e1f60225a82588553d0.jpg' | relative_url }}" alt="Listing image for yellow technology tree Framed Art P Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=technology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=shifting-claims-when-the-claim-changes-its-target-myths-and-misconcept-technology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="technology wall art" data-ebay-reference="shifting-claims-when-the-claim-changes-its-target-myths-and-misconcept-technology-wall-art" target="_blank" rel="sponsored noopener noreferrer">yellow technology tree Framed Art P Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=technology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=shifting-claims-when-the-claim-changes-its-target-myths-and-misconcept-technology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="technology wall art" data-ebay-reference="shifting-claims-when-the-claim-changes-its-target-myths-and-misconcept-technology-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for technology wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: technology wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=technology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=shifting-claims-when-the-claim-changes-its-target-myths-and-misconcept-technology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="technology wall art" data-ebay-reference="shifting-claims-when-the-claim-changes-its-target-myths-and-misconcept-technology-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=technology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=shifting-claims-when-the-claim-changes-its-target-myths-and-misconcept-technology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="technology wall art" data-ebay-reference="shifting-claims-when-the-claim-changes-its-target-myths-and-misconcept-technology-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Technology Definition Meaning 1 Art Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/9d141a9d1f8146ef1ea9.jpg' | relative_url }}" alt="Listing image for Technology Definition Meaning 1 Art Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=technology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=shifting-claims-when-the-claim-changes-its-target-myths-and-misconcept-technology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="technology wall art" data-ebay-reference="shifting-claims-when-the-claim-changes-its-target-myths-and-misconcept-technology-wall-art" target="_blank" rel="sponsored noopener noreferrer">Technology Definition Meaning 1 Art Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=technology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=shifting-claims-when-the-claim-changes-its-target-myths-and-misconcept-technology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="technology wall art" data-ebay-reference="shifting-claims-when-the-claim-changes-its-target-myths-and-misconcept-technology-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for technology wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: technology wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=technology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=shifting-claims-when-the-claim-changes-its-target-myths-and-misconcept-technology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="technology wall art" data-ebay-reference="shifting-claims-when-the-claim-changes-its-target-myths-and-misconcept-technology-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=technology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=shifting-claims-when-the-claim-changes-its-target-myths-and-misconcept-technology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="technology wall art" data-ebay-reference="shifting-claims-when-the-claim-changes-its-target-myths-and-misconcept-technology-wall-art" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=technology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=shifting-claims-when-the-claim-changes-its-target-myths-and-misconcept-technology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="technology wall art" data-ebay-reference="shifting-claims-when-the-claim-changes-its-target-myths-and-misconcept-technology-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Technology Definition Meaning 1 Art Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/9d141a9d1f8146ef1ea9.jpg' | relative_url }}" alt="Listing image for Technology Definition Meaning 1 Art Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=technology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=shifting-claims-when-the-claim-changes-its-target-myths-and-misconcept-technology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="technology wall art" data-ebay-reference="shifting-claims-when-the-claim-changes-its-target-myths-and-misconcept-technology-wall-art" target="_blank" rel="sponsored noopener noreferrer">Technology Definition Meaning 1 Art Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=technology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=shifting-claims-when-the-claim-changes-its-target-myths-and-misconcept-technology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="technology wall art" data-ebay-reference="shifting-claims-when-the-claim-changes-its-target-myths-and-misconcept-technology-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for technology wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: technology wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=technology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=shifting-claims-when-the-claim-changes-its-target-myths-and-misconcept-technology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="technology wall art" data-ebay-reference="shifting-claims-when-the-claim-changes-its-target-myths-and-misconcept-technology-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=technology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=shifting-claims-when-the-claim-changes-its-target-myths-and-misconcept-technology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="technology wall art" data-ebay-reference="shifting-claims-when-the-claim-changes-its-target-myths-and-misconcept-technology-wall-art" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -551,7 +551,7 @@ Across those broader investigations, major reviews by the Institute of Medicine,
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -571,7 +571,7 @@ Across those broader investigations, major reviews by the Institute of Medicine,
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -603,7 +603,7 @@ Across those broader investigations, major reviews by the Institute of Medicine,
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -655,7 +655,7 @@ Across those broader investigations, major reviews by the Institute of Medicine,
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -700,7 +700,7 @@ Across those broader investigations, major reviews by the Institute of Medicine,
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -741,168 +741,168 @@ Across those broader investigations, major reviews by the Institute of Medicine,
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: cdn.who.int  
-   Link: <a href="https://cdn.who.int/media/docs/default-source/medicines/pharmacovigilance/rev1_vaccines-autism-and-asd-evidence-review-2010-2025_12-dec7ab84d63-5110-4b2c-9882-19651446b8cd.pdf?download=true&amp;sfvrsn=daab5374_1" target="_blank" rel="noopener noreferrer nofollow">https://cdn.who.int/media/docs/default-source/medicines/pharmacovigilance/rev1_vaccines-autism-and-asd-evidence-review-2010-2025_12-dec7ab84d63-5110-4b2c-9882-19651446b8cd.pdf?download=true&amp;sfvrsn=daab5374_1</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>WHO CenterVaccines, thimerosal and autism spectrum disorderThe Global Advisory Committee on Vaccine Safety has reviewed the evidence rega...</p></details>
+   Link:<a href="https://cdn.who.int/media/docs/default-source/medicines/pharmacovigilance/rev1_vaccines-autism-and-asd-evidence-review-2010-2025_12-dec7ab84d63-5110-4b2c-9882-19651446b8cd.pdf?download=true&amp;sfvrsn=daab5374_1" target="_blank" rel="noopener noreferrer nofollow">https://cdn.who.int/media/docs/default-source/medicines/pharmacovigilance/rev1_vaccines-autism-and-asd-evidence-review-2010-2025_12-dec7ab84d63-5110-4b2c-9882-19651446b8cd.pdf?download=true&amp;sfvrsn=daab5374_1</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>WHO CenterVaccines, thimerosal and autism spectrum disorderThe Global Advisory Committee on Vaccine Safety has reviewed the evidence rega...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: ncbi.nlm.nih.gov  
    Title: NCBIImmunization Safety Review: Vaccines and Autism  
-   Link: <a href="https://www.ncbi.nlm.nih.gov/books/NBK25344/" target="_blank" rel="noopener noreferrer nofollow">https://www.ncbi.nlm.nih.gov/books/NBK25344/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NIHThis eighth and final report of the Immunization Safety Review Committee examines the hypothesis that vaccines, specifically th...</p></details>
+   Link:<a href="https://www.ncbi.nlm.nih.gov/books/NBK25344/" target="_blank" rel="noopener noreferrer nofollow">https://www.ncbi.nlm.nih.gov/books/NBK25344/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NIHThis eighth and final report of the Immunization Safety Review Committee examines the hypothesis that vaccines, specifically th...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: ncbi.nlm.nih.gov  
-   Link: <a href="https://www.ncbi.nlm.nih.gov/books/NBK25338/" target="_blank" rel="noopener noreferrer nofollow">https://www.ncbi.nlm.nih.gov/books/NBK25338/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Summary - Immunization Safety Review - NCBI - NIHThe committee concludes that the evidence favors rejection of a causal relationship betw...</p></details>
+   Link:<a href="https://www.ncbi.nlm.nih.gov/books/NBK25338/" target="_blank" rel="noopener noreferrer nofollow">https://www.ncbi.nlm.nih.gov/books/NBK25338/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Summary - Immunization Safety Review - NCBI - NIHThe committee concludes that the evidence favors rejection of a causal relationship betw...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: who.int  
-   Link: <a href="https://www.who.int/groups/global-advisory-committee-on-vaccine-safety/topics/adjuvants" target="_blank" rel="noopener noreferrer nofollow">https://www.who.int/groups/global-advisory-committee-on-vaccine-safety/topics/adjuvants</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>World Health OrganizationAdjuvantsThe GACVS reviewed 2 published papers alleging that aluminium in vaccines is associated with autism spe...</p></details>
+   Link:<a href="https://www.who.int/groups/global-advisory-committee-on-vaccine-safety/topics/adjuvants" target="_blank" rel="noopener noreferrer nofollow">https://www.who.int/groups/global-advisory-committee-on-vaccine-safety/topics/adjuvants</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>World Health OrganizationAdjuvantsThe GACVS reviewed 2 published papers alleging that aluminium in vaccines is associated with autism spe...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: who.int  
-   Link: <a href="https://www.who.int/news/item/11-12-2025-who-expert-group-s-new-analysis-reaffirms-there-is-no-link-between-vaccines-and-autism" target="_blank" rel="noopener noreferrer nofollow">https://www.who.int/news/item/11-12-2025-who-expert-group-s-new-analysis-reaffirms-there-is-no-link-between-vaccines-and-autism</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>World Health OrganizationWHO expert group&#x27;s new analysis reaffirms there is no link...11 Dec 2025  In summary, the available high-quali...</p></details>
+   Link:<a href="https://www.who.int/news/item/11-12-2025-who-expert-group-s-new-analysis-reaffirms-there-is-no-link-between-vaccines-and-autism" target="_blank" rel="noopener noreferrer nofollow">https://www.who.int/news/item/11-12-2025-who-expert-group-s-new-analysis-reaffirms-there-is-no-link-between-vaccines-and-autism</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>World Health OrganizationWHO expert group&#x27;s new analysis reaffirms there is no link...11 Dec 2025  In summary, the available high-quali...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: cidrap.umn.edu  
    Title: report no link between aluminum adjuvanted childhood vaccines conditions such  
-   Link: <a href="https://www.cidrap.umn.edu/childhood-vaccines/report-no-link-between-aluminum-adjuvanted-childhood-vaccines-conditions-such" target="_blank" rel="noopener noreferrer nofollow">https://www.cidrap.umn.edu/childhood-vaccines/report-no-link-between-aluminum-adjuvanted-childhood-vaccines-conditions-such</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>link between aluminum-adjuvanted childhood vaccines...Jul 14, 2025  Report: No link between aluminum-adjuvanted childhood vaccines, co...</p></details>
+   Link:<a href="https://www.cidrap.umn.edu/childhood-vaccines/report-no-link-between-aluminum-adjuvanted-childhood-vaccines-conditions-such" target="_blank" rel="noopener noreferrer nofollow">https://www.cidrap.umn.edu/childhood-vaccines/report-no-link-between-aluminum-adjuvanted-childhood-vaccines-conditions-such</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>link between aluminum-adjuvanted childhood vaccines...Jul 14, 2025  Report: No link between aluminum-adjuvanted childhood vaccines, co...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCThimerosal-Containing Vaccines and Autism: A Review  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3018252/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3018252/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>by AM Hurley  2010  Cited by 77  Epidemiologic studies continue to provide evidence that there is no association between thimerosal...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3018252/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3018252/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by AM Hurley  2010  Cited by 77  Epidemiologic studies continue to provide evidence that there is no association between thimerosal...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: who.int  
    Title: update vaccines thimerosal autism  
-   Link: <a href="https://www.who.int/publications/m/item/update-vaccines-thimerosal-autism" target="_blank" rel="noopener noreferrer nofollow">https://www.who.int/publications/m/item/update-vaccines-thimerosal-autism</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Vaccines, Thimerosal and Autism Spectrum Disorder...12 Dec 2025  The Global Advisory Committee on Vaccine Safety (GACVS) reviewed the e...</p></details>
+   Link:<a href="https://www.who.int/publications/m/item/update-vaccines-thimerosal-autism" target="_blank" rel="noopener noreferrer nofollow">https://www.who.int/publications/m/item/update-vaccines-thimerosal-autism</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Vaccines, Thimerosal and Autism Spectrum Disorder...12 Dec 2025  The Global Advisory Committee on Vaccine Safety (GACVS) reviewed the e...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/24814559/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/24814559/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Vaccines are not associated with autism: an evidence...by LE Taylor  2014  Cited by 1055  There has been enormous debate regard...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/24814559/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/24814559/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Vaccines are not associated with autism: an evidence...by LE Taylor  2014  Cited by 1055  There has been enormous debate regard...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: nejm.org  
-   Link: <a href="https://www.nejm.org/doi/full/10.1056/NEJMp078187" target="_blank" rel="noopener noreferrer nofollow">https://www.nejm.org/doi/full/10.1056/NEJMp078187</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>New England Journal of MedicineThimerosal and Vaccines  A Cautionary Taleby PA Offit  2007  Cited by 121  The use of mercury in vacci...</p></details>
+   Link:<a href="https://www.nejm.org/doi/full/10.1056/NEJMp078187" target="_blank" rel="noopener noreferrer nofollow">https://www.nejm.org/doi/full/10.1056/NEJMp078187</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>New England Journal of MedicineThimerosal and Vaccines  A Cautionary Taleby PA Offit  2007  Cited by 121  The use of mercury in vacci...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: nationalacademies.org  
-   Link: <a href="https://www.nationalacademies.org/publications/10997" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalacademies.org/publications/10997</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Immunization Safety Review: Vaccines and Autism 2004Immunization Safety Review: Vaccines and Autism finds that the body of epidemiologica...</p></details>
+   Link:<a href="https://www.nationalacademies.org/publications/10997" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalacademies.org/publications/10997</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Immunization Safety Review: Vaccines and Autism 2004Immunization Safety Review: Vaccines and Autism finds that the body of epidemiologica...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/22099159/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/22099159/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Do aluminum vaccine adjuvants contribute to the rising...by L Tomljenovic  2011  Cited by 205  Aluminum (Al), the most commonly...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/22099159/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/22099159/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Do aluminum vaccine adjuvants contribute to the rising...by L Tomljenovic  2011  Cited by 205  Aluminum (Al), the most commonly...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/33930617/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/33930617/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The behavior of mice changes with Al injection. Patients suffering from ASD have higher...Read more...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/33930617/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/33930617/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The behavior of mice changes with Al injection. Patients suffering from ASD have higher...Read more...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/40658954/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/40658954/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>nih.govAluminum-Adsorbed Vaccines and Chronic Diseases in...by NW Andersson  2025  Cited by 34  Concerns persist about potential asso...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/40658954/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/40658954/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>nih.govAluminum-Adsorbed Vaccines and Chronic Diseases in...by NW Andersson  2025  Cited by 34  Concerns persist about potential asso...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/41334965/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/41334965/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Role and Safety of Aluminum Adjuvants in Childhood...by E Nirenberg  Cited by 2  Large-scale clinical and epidemiologic studies consis...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/41334965/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/41334965/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Role and Safety of Aluminum Adjuvants in Childhood...by E Nirenberg  Cited by 2  Large-scale clinical and epidemiologic studies consis...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: cdc.gov  
-   Link: <a href="https://www.cdc.gov/vaccine-safety/about/autism.html" target="_blank" rel="noopener noreferrer nofollow">https://www.cdc.gov/vaccine-safety/about/autism.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>and Vaccines19 Nov 2025  The claim &quot;vaccines do not cause autism&quot; is not an evidence-based claim because studies have not ruled out the...</p></details>
+   Link:<a href="https://www.cdc.gov/vaccine-safety/about/autism.html" target="_blank" rel="noopener noreferrer nofollow">https://www.cdc.gov/vaccine-safety/about/autism.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>and Vaccines19 Nov 2025  The claim &quot;vaccines do not cause autism&quot; is not an evidence-based claim because studies have not ruled out the...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: cdc.gov  
-   Link: <a href="https://www.cdc.gov/vaccine-safety/about/adjuvants.html" target="_blank" rel="noopener noreferrer nofollow">https://www.cdc.gov/vaccine-safety/about/adjuvants.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>and Vaccines | Vaccine SafetyDec 20, 2024  Adjuvants have been used safely in vaccines for decades. Aluminum salts, such as aluminum hyd...</p></details>
+   Link:<a href="https://www.cdc.gov/vaccine-safety/about/adjuvants.html" target="_blank" rel="noopener noreferrer nofollow">https://www.cdc.gov/vaccine-safety/about/adjuvants.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>and Vaccines | Vaccine SafetyDec 20, 2024  Adjuvants have been used safely in vaccines for decades. Aluminum salts, such as aluminum hyd...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/20669467/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/20669467/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Safety Review: Vaccines and Autism2004  Cited by 187  This eighth and final report of the Immunization Safety Review Committee examines...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/20669467/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/20669467/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Safety Review: Vaccines and Autism2004  Cited by 187  This eighth and final report of the Immunization Safety Review Committee examines...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: restoredcdc.org  
-   Link: <a href="https://www.restoredcdc.org/www.cdc.gov/vaccine-safety/about/autism.html" target="_blank" rel="noopener noreferrer nofollow">https://www.restoredcdc.org/www.cdc.gov/vaccine-safety/about/autism.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>and Vaccines30 Dec 2024  Studies have shown that there is no link between receiving vaccines and developing autism spectrum disorder (AS...</p></details>
+   Link:<a href="https://www.restoredcdc.org/www.cdc.gov/vaccine-safety/about/autism.html" target="_blank" rel="noopener noreferrer nofollow">https://www.restoredcdc.org/www.cdc.gov/vaccine-safety/about/autism.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>and Vaccines30 Dec 2024  Studies have shown that there is no link between receiving vaccines and developing autism spectrum disorder (AS...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: nationalacademies.org  
-   Link: <a href="https://www.nationalacademies.org/read/10997/chapter/2" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalacademies.org/read/10997/chapter/2</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Immunization Safety Review: Vaccines and Autism (2004)The committee concludes that the body of epidemiological evidence favors rejection...</p></details>
+   Link:<a href="https://www.nationalacademies.org/read/10997/chapter/2" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalacademies.org/read/10997/chapter/2</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Immunization Safety Review: Vaccines and Autism (2004)The committee concludes that the body of epidemiological evidence favors rejection...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: autismdelaware.org  
-   Link: <a href="https://www.autismdelaware.org/wp-content/uploads/2025/09/Autism-and-Vaccines-_-Vaccine-Safety-_-CDC-Published-12.30.2024-printed-9.23.2025.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.autismdelaware.org/wp-content/uploads/2025/09/Autism-and-Vaccines-_-Vaccine-Safety-_-CDC-Published-12.30.2024-printed-9.23.2025.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>links have been found between any vaccine...</p></details>
+   Link:<a href="https://www.autismdelaware.org/wp-content/uploads/2025/09/Autism-and-Vaccines-_-Vaccine-Safety-_-CDC-Published-12.30.2024-printed-9.23.2025.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.autismdelaware.org/wp-content/uploads/2025/09/Autism-and-Vaccines-_-Vaccine-Safety-_-CDC-Published-12.30.2024-printed-9.23.2025.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>links have been found between any vaccine...</p></details>
 
 ### Additional References
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: cdc.gov  
-   Link: <a href="https://www.cdc.gov/vaccine-safety/about/thimerosal.html" target="_blank" rel="noopener noreferrer nofollow">https://www.cdc.gov/vaccine-safety/about/thimerosal.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Thimerosal and VaccinesTwo types of mercury to which people may be exposed  methylmercury and ethylmercury  are very different. In the...</p></details>
+   Link:<a href="https://www.cdc.gov/vaccine-safety/about/thimerosal.html" target="_blank" rel="noopener noreferrer nofollow">https://www.cdc.gov/vaccine-safety/about/thimerosal.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Thimerosal and VaccinesTwo types of mercury to which people may be exposed  methylmercury and ethylmercury  are very different. In the...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: autismsciencefoundation.org  
-   Link: <a href="https://autismsciencefoundation.org/autism-and-vaccines-read-the-science/" target="_blank" rel="noopener noreferrer nofollow">https://autismsciencefoundation.org/autism-and-vaccines-read-the-science/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Autism and Vaccines: Read the ScienceNumerous scientific studies have disproven any link between autism and vaccines. Read the research s...</p></details>
+   Link:<a href="https://autismsciencefoundation.org/autism-and-vaccines-read-the-science/" target="_blank" rel="noopener noreferrer nofollow">https://autismsciencefoundation.org/autism-and-vaccines-read-the-science/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Autism and Vaccines: Read the ScienceNumerous scientific studies have disproven any link between autism and vaccines. Read the research s...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: aap.org  
-   Link: <a href="https://www.aap.org/en/news-room/fact-checked/fact-checked-aluminum-in-vaccines-strengthen-immune-responses-do-not-cause-autism-serious-health-issues/?srsltid=AfmBOoqUdBwCc1vjMQEuhNj59iRVM4XRXhMYE0mh3LuBnQlbvDmiUKTs" target="_blank" rel="noopener noreferrer nofollow">https://www.aap.org/en/news-room/fact-checked/fact-checked-aluminum-in-vaccines-strengthen-immune-responses-do-not-cause-autism-serious-health-issues/?srsltid=AfmBOoqUdBwCc1vjMQEuhNj59iRVM4XRXhMYE0mh3LuBnQlbvDmiUKTs</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Fact Checked: Aluminum in Vaccines Strengthen Immune...4 Dec 2025  Fact Checked: Aluminum in Vaccines Strengthen Immune Responses, Do N...</p></details>
+   Link:<a href="https://www.aap.org/en/news-room/fact-checked/fact-checked-aluminum-in-vaccines-strengthen-immune-responses-do-not-cause-autism-serious-health-issues/?srsltid=AfmBOoqUdBwCc1vjMQEuhNj59iRVM4XRXhMYE0mh3LuBnQlbvDmiUKTs" target="_blank" rel="noopener noreferrer nofollow">https://www.aap.org/en/news-room/fact-checked/fact-checked-aluminum-in-vaccines-strengthen-immune-responses-do-not-cause-autism-serious-health-issues/?srsltid=AfmBOoqUdBwCc1vjMQEuhNj59iRVM4XRXhMYE0mh3LuBnQlbvDmiUKTs</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Fact Checked: Aluminum in Vaccines Strengthen Immune...4 Dec 2025  Fact Checked: Aluminum in Vaccines Strengthen Immune Responses, Do N...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: autismsciencefoundation.org  
-   Link: <a href="https://autismsciencefoundation.org/autism-and-vaccines/" target="_blank" rel="noopener noreferrer nofollow">https://autismsciencefoundation.org/autism-and-vaccines/</a>  
+   Link:<a href="https://autismsciencefoundation.org/autism-and-vaccines/" target="_blank" rel="noopener noreferrer nofollow">https://autismsciencefoundation.org/autism-and-vaccines/</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: archive.cdc.gov  
    Title: This study assessed whether prenatal thimerosal exposure or thimerosal  
-   Link: <a href="https://archive.cdc.gov/www_cdc_gov/vaccinesafety/pdf/cdcstudiesonvaccinesandautism.pdf" target="_blank" rel="noopener noreferrer nofollow">https://archive.cdc.gov/www_cdc_gov/vaccinesafety/pdf/cdcstudiesonvaccinesandautism.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Summary: CDC Studies on Thimerosal in Vaccinesby B JP  2009  Thimerosal exposure in early life and neuropsychological outcomes 7-10 ye...</p></details>
+   Link:<a href="https://archive.cdc.gov/www_cdc_gov/vaccinesafety/pdf/cdcstudiesonvaccinesandautism.pdf" target="_blank" rel="noopener noreferrer nofollow">https://archive.cdc.gov/www_cdc_gov/vaccinesafety/pdf/cdcstudiesonvaccinesandautism.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Summary: CDC Studies on Thimerosal in Vaccinesby B JP  2009  Thimerosal exposure in early life and neuropsychological outcomes 7-10 ye...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: reuters.com  
-   Link: <a href="https://www.reuters.com/business/finance/us-cdc-report-shows-no-evidence-linking-thimerosal-containing-vaccines-autism-2025-06-24/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/business/finance/us-cdc-report-shows-no-evidence-linking-thimerosal-containing-vaccines-autism-2025-06-24/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>evidence does not support a link between thimerosal-containing vaccines and autism or other neurodevelopmental disorders. Kennedy has lon...</p></details>
+   Link:<a href="https://www.reuters.com/business/finance/us-cdc-report-shows-no-evidence-linking-thimerosal-containing-vaccines-autism-2025-06-24/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/business/finance/us-cdc-report-shows-no-evidence-linking-thimerosal-containing-vaccines-autism-2025-06-24/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>evidence does not support a link between thimerosal-containing vaccines and autism or other neurodevelopmental disorders. Kennedy has lon...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: chop.edu  
    Title: largest study date aluminum adjuvanted vaccines finds no associated health risks  
-   Link: <a href="https://www.chop.edu/vaccine-update-healthcare-professionals/newsletter/largest-study-date-aluminum-adjuvanted-vaccines-finds-no-associated-health-risks" target="_blank" rel="noopener noreferrer nofollow">https://www.chop.edu/vaccine-update-healthcare-professionals/newsletter/largest-study-date-aluminum-adjuvanted-vaccines-finds-no-associated-health-risks</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Largest Study to Date of Aluminum-Adjuvanted Vaccines...29 Jul 2025  Read about a study that found no increased health risks associated...</p></details>
+   Link:<a href="https://www.chop.edu/vaccine-update-healthcare-professionals/newsletter/largest-study-date-aluminum-adjuvanted-vaccines-finds-no-associated-health-risks" target="_blank" rel="noopener noreferrer nofollow">https://www.chop.edu/vaccine-update-healthcare-professionals/newsletter/largest-study-date-aluminum-adjuvanted-vaccines-finds-no-associated-health-risks</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Largest Study to Date of Aluminum-Adjuvanted Vaccines...29 Jul 2025  Read about a study that found no increased health risks associated...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: cidrap.umn.edu  
    Title: aluminum vaccines not linked autism other health problems study finds  
-   Link: <a href="https://www.cidrap.umn.edu/anti-science/aluminum-vaccines-not-linked-autism-other-health-problems-study-finds" target="_blank" rel="noopener noreferrer nofollow">https://www.cidrap.umn.edu/anti-science/aluminum-vaccines-not-linked-autism-other-health-problems-study-finds</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>in vaccines not linked to autism, other health...May 7, 2026  Aluminum additives used in vaccines are not linked to serious medical pro...</p></details>
+   Link:<a href="https://www.cidrap.umn.edu/anti-science/aluminum-vaccines-not-linked-autism-other-health-problems-study-finds" target="_blank" rel="noopener noreferrer nofollow">https://www.cidrap.umn.edu/anti-science/aluminum-vaccines-not-linked-autism-other-health-problems-study-finds</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>in vaccines not linked to autism, other health...May 7, 2026  Aluminum additives used in vaccines are not linked to serious medical pro...</p></details>
    Published: May 7, 2026  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: gavi.org  
    Title: major new study finds no health risks aluminium childhood vaccines  
-   Link: <a href="https://www.gavi.org/vaccineswork/major-new-study-finds-no-health-risks-aluminium-childhood-vaccines" target="_blank" rel="noopener noreferrer nofollow">https://www.gavi.org/vaccineswork/major-new-study-finds-no-health-risks-aluminium-childhood-vaccines</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Major new study finds no health risks from aluminium in...24 Jul 2025  A study of over one million children over 24 years found no incr...</p></details>
+   Link:<a href="https://www.gavi.org/vaccineswork/major-new-study-finds-no-health-risks-aluminium-childhood-vaccines" target="_blank" rel="noopener noreferrer nofollow">https://www.gavi.org/vaccineswork/major-new-study-finds-no-health-risks-aluminium-childhood-vaccines</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Major new study finds no health risks from aluminium in...24 Jul 2025  A study of over one million children over 24 years found no incr...</p></details>
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: contemporarypediatrics.com  
    Title: review finds no systemic risks from aluminum in childhood vaccines  
-   Link: <a href="https://www.contemporarypediatrics.com/view/review-finds-no-systemic-risks-from-aluminum-in-childhood-vaccines" target="_blank" rel="noopener noreferrer nofollow">https://www.contemporarypediatrics.com/view/review-finds-no-systemic-risks-from-aluminum-in-childhood-vaccines</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Review finds no systemic risks from aluminum in childhood...9 Dec 2025  A comprehensive Pediatrics review reports no credible evidence...</p></details>
+   Link:<a href="https://www.contemporarypediatrics.com/view/review-finds-no-systemic-risks-from-aluminum-in-childhood-vaccines" target="_blank" rel="noopener noreferrer nofollow">https://www.contemporarypediatrics.com/view/review-finds-no-systemic-risks-from-aluminum-in-childhood-vaccines</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Review finds no systemic risks from aluminum in childhood...9 Dec 2025  A comprehensive Pediatrics review reports no credible evidence...</p></details>

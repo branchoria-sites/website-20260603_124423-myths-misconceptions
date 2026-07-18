@@ -274,7 +274,7 @@ image: /assets/images/Myths_and_misconcept_0d48d7_condescending_correc_7062df_mi
 
 ## Introduction
 
-Correcting myths and misconceptions becomes harder when every false claim is treated as evidence of bad character. A common failure in misinformation responses is to assume that anyone repeating a falsehood must be deliberately deceptive. In reality, research and policy organisations consistently distinguish between misinformation—false information shared without intent to mislead—and disinformation, which is spread with the intention of deceiving or causing harm. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.unesco.org/en/query-list/m/misinformation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unesco.org">[UNESCO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unesco.org</span><span class="citation-popover-snippet">What is Misinformation? Meaning, Definition.Misinformation is false information that is shared inadvertently, without meaning to ca...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.unesco.org/en/tags/disinformation-0" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unesco.org">[UNESCO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unesco.org</span><span class="citation-popover-snippet">having intention to deceive. Explore further with...Read more...</span></span></span>
+Correcting myths and misconceptions becomes harder when every false claim is treated as evidence of bad character. A common failure in misinformation responses is to assume that anyone repeating a falsehood must be deliberately deceptive. In reality, research and policy organisations consistently distinguish between misinformation—false information shared without intent to mislead—and disinformation, which is spread with the intention of deceiving or causing harm.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.unesco.org/en/query-list/m/misinformation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unesco.org">[UNESCO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unesco.org</span><span class="citation-popover-snippet">What is Misinformation? Meaning, Definition.Misinformation is false information that is shared inadvertently, without meaning to ca...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.unesco.org/en/tags/disinformation-0" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unesco.org">[UNESCO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unesco.org</span><span class="citation-popover-snippet">having intention to deceive. Explore further with...Read more...</span></span></span>
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_condescending_correc_7062df_misinformation_inten_c56913-Illustration-1-dark.svg" | relative_url }}" alt="Intent illustration 1" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_condescending_correc_7062df_misinformation_inten_c56913-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_condescending_correc_7062df_misinformation_inten_c56913-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 This distinction matters for governance, public trust and effective [correction]({{ 'correction/' | relative_url }}). If sincere mistakes are treated as malicious acts, people become less willing to admit error, communities become more defensive, and resources meant for combating organised deception can be misdirected toward ordinary citizens who were simply mistaken. At the same time, assuming good faith in every case can leave harmful [campaigns]({{ 'campaigns/' | relative_url }}) unchallenged. The challenge is not choosing between trust and scepticism; it is learning how to assess intent carefully enough to correct false claims without misidentifying the people involved.
@@ -283,7 +283,7 @@ This distinction matters for governance, public trust and effective [correction]
 
 The distinction between misinformation and disinformation is not merely academic. It shapes how institutions, [platforms]({{ 'platforms/' | relative_url }}), journalists and citizens decide to respond.
 
-UNESCO, parliamentary bodies, academic reviews and professional media-literacy frameworks all identify intent as the central dividing line. Misinformation refers to false information shared inadvertently or without an intention to mislead. Disinformation refers to false information deliberately created or spread to deceive. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9910783/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Misinformation, False information that is shared without the intention to mislead or to cause harm, Not to mislead...Read more...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.unesco.org/mil4teachers/en/module4/unit2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unesco.org">[UNESCO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unesco.org</span><span class="citation-popover-snippet">Unit 2: The Misinformation and Disinformation Ecosystem11 Apr 2024 — Distinguish the different types of false and misleading conten...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://unesdoc.unesco.org/ark%3A/48223/pf0000265552" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unesdoc.unesco.org">[UNESCO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unesdoc.unesco.org</span><span class="citation-popover-snippet">disinformation and misinformation. The spread of disinformation and misinformation is made possible largely through social networks and s...</span></span></span>
+UNESCO, parliamentary bodies, academic reviews and professional media-literacy frameworks all identify intent as the central dividing line. Misinformation refers to false information shared inadvertently or without an intention to mislead. Disinformation refers to false information deliberately created or spread to deceive.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9910783/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Misinformation, False information that is shared without the intention to mislead or to cause harm, Not to mislead...Read more...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.unesco.org/mil4teachers/en/module4/unit2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unesco.org">[UNESCO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unesco.org</span><span class="citation-popover-snippet">Unit 2: The Misinformation and Disinformation Ecosystem11 Apr 2024 — Distinguish the different types of false and misleading conten...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://unesdoc.unesco.org/ark%3A/48223/pf0000265552" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unesdoc.unesco.org">[UNESCO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unesdoc.unesco.org</span><span class="citation-popover-snippet">disinformation and misinformation. The spread of disinformation and misinformation is made possible largely through social networks and s...</span></span></span>
 
 This distinction is important because the same false claim may appear in very different contexts:
 
@@ -295,9 +295,9 @@ This distinction is important because the same false claim may appear in very di
 
 </div>
 
-The factual error may be identical, but the intent behind its spread differs substantially. Treating all three cases as equally malicious collapses a useful analytical distinction and can lead to ineffective responses. UNESCO <span class="citation-chip-wrap"><a class="citation-chip" href="https://carnegieendowment.org/russia-eurasia/research/2024/01/countering-disinformation-effectively-an-evidence-based-policy-guide" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: carnegieendowment.org">[Carnegie Endowment]</a><span class="citation-popover" role="note"><span class="citation-popover-source">carnegieendowment.org</span><span class="citation-popover-title">countering disinformation effectively an evidence based policy guide</span><span class="citation-popover-snippet">Carnegie EndowmentCountering Disinformation Effectively: An Evidence-Based...31 Jan 2024 — A high-level, evidence-informed guide to some...</span></span></span>
+The factual error may be identical, but the intent behind its spread differs substantially. Treating all three cases as equally malicious collapses a useful analytical distinction and can lead to ineffective responses. UNESCO<span class="citation-chip-wrap"><a class="citation-chip" href="https://carnegieendowment.org/russia-eurasia/research/2024/01/countering-disinformation-effectively-an-evidence-based-policy-guide" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: carnegieendowment.org">[Carnegie Endowment]</a><span class="citation-popover" role="note"><span class="citation-popover-source">carnegieendowment.org</span><span class="citation-popover-title">countering disinformation effectively an evidence based policy guide</span><span class="citation-popover-snippet">Carnegie EndowmentCountering Disinformation Effectively: An Evidence-Based...31 Jan 2024 — A high-level, evidence-informed guide to some...</span></span></span>
 
-Research on misinformation repeatedly finds that belief in false information is often connected to limited information, cognitive shortcuts, source trust or lack of attention rather than deliberate dishonesty. Studies by Gordon Pennycook and colleagues, for example, challenge the assumption that people primarily share false content because of ideological commitment or conscious deception. Instead, many users simply fail to assess accuracy carefully before sharing. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S1364661321000516" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Poor truth...Read more...</span></span></span>
+Research on misinformation repeatedly finds that belief in false information is often connected to limited information, cognitive shortcuts, source trust or lack of attention rather than deliberate dishonesty. Studies by Gordon Pennycook and colleagues, for example, challenge the assumption that people primarily share false content because of ideological commitment or conscious deception. Instead, many users simply fail to assess accuracy carefully before sharing.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S1364661321000516" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Poor truth...Read more...</span></span></span>
 
 ## Why Ordinary Trust Networks Spread Sincere Falsehoods
 
@@ -307,13 +307,13 @@ One reason intent is frequently misread is that people often imagine false infor
 
 People rarely investigate every claim they encounter. Daily life depends on trust in family members, friends, colleagues, community leaders and familiar media sources. When information arrives through a trusted relationship, it often receives less scrutiny than information from a stranger.
 
-Research on misinformation highlights the importance of source heuristics, familiarity effects and social cues in shaping belief. People frequently rely on signals such as who shared the information or whether they have encountered it before, rather than conducting a detailed evaluation of the evidence. ScienceDirect <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nature.com/articles/s44159-021-00006-y" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature As a result]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">The psychological drivers of misinformation belief and its...by UKH Ecker · 2022 · Cited by 1919 — In this Review, we describe the cogni...</span></span></span>, a person can become an enthusiastic promoter of a false claim while genuinely believing they are helping others. The behaviour may be harmful, but the motivation is often sincere.
+Research on misinformation highlights the importance of source heuristics, familiarity effects and social cues in shaping belief. People frequently rely on signals such as who shared the information or whether they have encountered it before, rather than conducting a detailed evaluation of the evidence. ScienceDirect<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nature.com/articles/s44159-021-00006-y" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature As a result]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">The psychological drivers of misinformation belief and its...by UKH Ecker · 2022 · Cited by 1919 — In this Review, we describe the cogni...</span></span></span>, a person can become an enthusiastic promoter of a false claim while genuinely believing they are helping others. The behaviour may be harmful, but the motivation is often sincere.
 
 ### Communities Can Amplify Errors Without Malice
 
 False information does not require a central organiser to spread widely. Communities sometimes reinforce incorrect claims because members trust one another, share similar experiences or draw on the same information sources.
 
-International and governmental reviews note that misinformation often spreads unintentionally and that trusted sources play a major role in determining whether information is accepted and shared. [Repetition]({{ 'repetition/' | relative_url }}), emotional resonance and social validation can all increase circulation even when no participant intends deception. <span class="citation-chip-wrap"><a class="citation-chip" href="https://researchbriefings.files.parliament.uk/documents/POST-PN-0719/POST-PN-0719.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchbriefings.files.parliament.uk">[Research Briefings]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchbriefings.files.parliament.uk</span><span class="citation-popover-title">Research Briefings Disinformation: sources, spread and impact</span><span class="citation-popover-snippet">Research BriefingsDisinformation: sources, spread and impactApril 26, 2024 — 25 Apr 2024 — People may intentionally share disinformation...</span><span class="citation-popover-meta">Published: April 26, 2024</span></span></span> ScienceDirect This creates a common correction mistake: interpreting confidence as evidence of bad faith. People may defend a false belief strongly because <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/pii/S1364661321000516" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[sciencedirect.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Poor truth...Read more...</span></span></span> it comes from someone they trust, not because they know it is false.
+International and governmental reviews note that misinformation often spreads unintentionally and that trusted sources play a major role in determining whether information is accepted and shared. [Repetition]({{ 'repetition/' | relative_url }}), emotional resonance and social validation can all increase circulation even when no participant intends deception.<span class="citation-chip-wrap"><a class="citation-chip" href="https://researchbriefings.files.parliament.uk/documents/POST-PN-0719/POST-PN-0719.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchbriefings.files.parliament.uk">[Research Briefings]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchbriefings.files.parliament.uk</span><span class="citation-popover-title">Research Briefings Disinformation: sources, spread and impact</span><span class="citation-popover-snippet">Research BriefingsDisinformation: sources, spread and impactApril 26, 2024 — 25 Apr 2024 — People may intentionally share disinformation...</span><span class="citation-popover-meta">Published: April 26, 2024</span></span></span> ScienceDirect This creates a common correction mistake: interpreting confidence as evidence of bad faith. People may defend a false belief strongly because<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/pii/S1364661321000516" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[sciencedirect.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Poor truth...Read more...</span></span></span> it comes from someone they trust, not because they know it is false.
 
 ## What Happens When Corrections Misread Intent
 
@@ -323,7 +323,7 @@ First, it changes the social meaning of the correction. Instead of [communicatin
 
 Second, it makes updating beliefs more costly. A person who made an honest mistake can often acknowledge new evidence. A person accused of spreading lies may feel pressure to defend their reputation before they can evaluate the facts.
 
-Third, it can reduce trust in institutions that conduct fact-checking or moderation. If people perceive corrective efforts as unfairly attributing malicious motives, they may reject the correction itself regardless of its accuracy. Research on misinformation correction consistently emphasises that social and psychological factors influence whether corrections are accepted. PMC <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nature.com/articles/s44159-021-00006-y" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">The psychological drivers of misinformation belief and its...by UKH Ecker · 2022 · Cited by 1919 — In this Review, we describe the cogni...</span></span></span> There is also a governance cost. Over-attributing bad intent can blur the distinction between ordinary misinformation and coordinated disinformation campaigns. Analysts and policymakers may then spend less effort identifying genuinely organised actors because everyone spreading false information is treated as part of the same problem. Scholars studying disinformation have argued that understanding organised deception requires attention to strategy, coordination and intent rather than focusing solely on whether content is false. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2206.12915" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Disambiguating Disinformation: Extending Beyond the Veracity of Online ContentJune 26, 2022...</span><span class="citation-popover-meta">Published: June 26, 2022</span></span></span>
+Third, it can reduce trust in institutions that conduct fact-checking or moderation. If people perceive corrective efforts as unfairly attributing malicious motives, they may reject the correction itself regardless of its accuracy. Research on misinformation correction consistently emphasises that social and psychological factors influence whether corrections are accepted. PMC<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nature.com/articles/s44159-021-00006-y" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">The psychological drivers of misinformation belief and its...by UKH Ecker · 2022 · Cited by 1919 — In this Review, we describe the cogni...</span></span></span> There is also a governance cost. Over-attributing bad intent can blur the distinction between ordinary misinformation and coordinated disinformation campaigns. Analysts and policymakers may then spend less effort identifying genuinely organised actors because everyone spreading false information is treated as part of the same problem. Scholars studying disinformation have argued that understanding organised deception requires attention to strategy, coordination and intent rather than focusing solely on whether content is false.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2206.12915" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Disambiguating Disinformation: Extending Beyond the Veracity of Online ContentJune 26, 2022...</span><span class="citation-popover-meta">Published: June 26, 2022</span></span></span>
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_condescending_correc_7062df_misinformation_inten_c56913-Illustration-2-dark.svg" | relative_url }}" alt="Intent illustration 2" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_condescending_correc_7062df_misinformation_inten_c56913-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_condescending_correc_7062df_misinformation_inten_c56913-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Intent Is Difficult to Judge
@@ -344,9 +344,9 @@ A person may continue sharing a false claim because:
 
 The outward behaviour can appear similar in each case.
 
-Recent research has explored ways of distinguishing intentional from unintentional spreaders, precisely because intent cannot simply be assumed from a single post or statement. Behaviour over time—especially how individuals react when confronted with reliable corrections—often provides stronger evidence than the original act of sharing alone. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2206.12915" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Disambiguating Disinformation: Extending Beyond the Veracity of Online ContentJune 26, 2022...</span><span class="citation-popover-meta">Published: June 26, 2022</span></span></span>
+Recent research has explored ways of distinguishing intentional from unintentional spreaders, precisely because intent cannot simply be assumed from a single post or statement. Behaviour over time—especially how individuals react when confronted with reliable corrections—often provides stronger evidence than the original act of sharing alone.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2206.12915" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Disambiguating Disinformation: Extending Beyond the Veracity of Online ContentJune 26, 2022...</span><span class="citation-popover-meta">Published: June 26, 2022</span></span></span>
 
-This uncertainty is why many institutions use cautious terminology. The UK Parliament, for example, has stated that it prefers the term “misinformation” when purposeful intent cannot be clearly established and reserves “disinformation” for cases where intent to mislead is evident. <span class="citation-chip-wrap"><a class="citation-chip" href="https://publications.parliament.uk/pa/ld5801/ldselect/lddemdigi/77/7706.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: publications.parliament.uk">[UK Parliament]</a><span class="citation-popover" role="note"><span class="citation-popover-source">publications.parliament.uk</span><span class="citation-popover-title">UK Parliament Chapter 2: Informed Citizens</span><span class="citation-popover-snippet">UK ParliamentChapter 2: Informed Citizens - Parliament UKIn our Report we use &#x27;misinformation&#x27; where it is unclear if there was purposefu...</span></span></span>
+This uncertainty is why many institutions use cautious terminology. The UK Parliament, for example, has stated that it prefers the term “misinformation” when purposeful intent cannot be clearly established and reserves “disinformation” for cases where intent to mislead is evident.<span class="citation-chip-wrap"><a class="citation-chip" href="https://publications.parliament.uk/pa/ld5801/ldselect/lddemdigi/77/7706.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: publications.parliament.uk">[UK Parliament]</a><span class="citation-popover" role="note"><span class="citation-popover-source">publications.parliament.uk</span><span class="citation-popover-title">UK Parliament Chapter 2: Informed Citizens</span><span class="citation-popover-snippet">UK ParliamentChapter 2: Informed Citizens - Parliament UKIn our Report we use &#x27;misinformation&#x27; where it is unclear if there was purposefu...</span></span></span>
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_condescending_correc_7062df_misinformation_inten_c56913-Illustration-3-dark.svg" | relative_url }}" alt="Intent illustration 3" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_condescending_correc_7062df_misinformation_inten_c56913-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_condescending_correc_7062df_misinformation_inten_c56913-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## When Firmer Correction Is Justified by Harm or Bad Faith
@@ -357,15 +357,15 @@ There are situations where stronger responses become justified.
 
 ### Repeated Refusal After Reliable Corrections
 
-When an individual or organisation repeatedly receives accurate corrective information yet continues to promote the same falsehood, the evidence for innocent error becomes weaker. Persistence alone does not prove malicious intent, but repeated behaviour [after correction]({{ 'after-correction/' | relative_url }}) can provide a stronger basis for concern. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2206.12915" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Disambiguating Disinformation: Extending Beyond the Veracity of Online ContentJune 26, 2022...</span><span class="citation-popover-meta">Published: June 26, 2022</span></span></span>
+When an individual or organisation repeatedly receives accurate corrective information yet continues to promote the same falsehood, the evidence for innocent error becomes weaker. Persistence alone does not prove malicious intent, but repeated behaviour [after correction]({{ 'after-correction/' | relative_url }}) can provide a stronger basis for concern.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2206.12915" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Disambiguating Disinformation: Extending Beyond the Veracity of Online ContentJune 26, 2022...</span><span class="citation-popover-meta">Published: June 26, 2022</span></span></span>
 
 ### Evidence of Coordination or Strategic Deception
 
-Disinformation campaigns often involve indicators that go beyond a single false claim. These can include coordinated messaging, fabricated evidence, networks of accounts acting together, or deliberate attempts to disguise the source of information. Researchers increasingly emphasise that organised deception is best identified through patterns of behaviour rather than isolated inaccuracies. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2206.12915" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Disambiguating Disinformation: Extending Beyond the Veracity of Online ContentJune 26, 2022...</span><span class="citation-popover-meta">Published: June 26, 2022</span></span></span>
+Disinformation campaigns often involve indicators that go beyond a single false claim. These can include coordinated messaging, fabricated evidence, networks of accounts acting together, or deliberate attempts to disguise the source of information. Researchers increasingly emphasise that organised deception is best identified through patterns of behaviour rather than isolated inaccuracies.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2206.12915" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Disambiguating Disinformation: Extending Beyond the Veracity of Online ContentJune 26, 2022...</span><span class="citation-popover-meta">Published: June 26, 2022</span></span></span>
 
 ### Significant Public Harm
 
-In some circumstances, the potential consequences are severe enough that institutions must act even when intent remains uncertain. Public-health emergencies, election administration, disaster response and security incidents often require rapid intervention because delays can increase harm. In such cases, governance decisions frequently focus on the risk posed by the information rather than waiting for definitive proof of motive. <span class="citation-chip-wrap"><a class="citation-chip" href="https://carnegieendowment.org/russia-eurasia/research/2024/01/countering-disinformation-effectively-an-evidence-based-policy-guide" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: carnegieendowment.org">[Carnegie Endowment]</a><span class="citation-popover" role="note"><span class="citation-popover-source">carnegieendowment.org</span><span class="citation-popover-title">countering disinformation effectively an evidence based policy guide</span><span class="citation-popover-snippet">Carnegie EndowmentCountering Disinformation Effectively: An Evidence-Based...31 Jan 2024 — A high-level, evidence-informed guide to some...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.communications.gov.uk/wp-content/uploads/2021/11/RESIST-2-counter-disinformation-toolkit.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: communications.gov.uk">[2communications.gov.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">communications.gov.uk</span><span class="citation-popover-snippet">RESIST 2 Counter-disinformation toolkitIt explains the differences between misinformation, disinformation and malinformation and why thes...</span></span></span>
+In some circumstances, the potential consequences are severe enough that institutions must act even when intent remains uncertain. Public-health emergencies, election administration, disaster response and security incidents often require rapid intervention because delays can increase harm. In such cases, governance decisions frequently focus on the risk posed by the information rather than waiting for definitive proof of motive.<span class="citation-chip-wrap"><a class="citation-chip" href="https://carnegieendowment.org/russia-eurasia/research/2024/01/countering-disinformation-effectively-an-evidence-based-policy-guide" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: carnegieendowment.org">[Carnegie Endowment]</a><span class="citation-popover" role="note"><span class="citation-popover-source">carnegieendowment.org</span><span class="citation-popover-title">countering disinformation effectively an evidence based policy guide</span><span class="citation-popover-snippet">Carnegie EndowmentCountering Disinformation Effectively: An Evidence-Based...31 Jan 2024 — A high-level, evidence-informed guide to some...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.communications.gov.uk/wp-content/uploads/2021/11/RESIST-2-counter-disinformation-toolkit.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: communications.gov.uk">[2communications.gov.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">communications.gov.uk</span><span class="citation-popover-snippet">RESIST 2 Counter-disinformation toolkitIt explains the differences between misinformation, disinformation and malinformation and why thes...</span></span></span>
 
 Even then, separating the false claim from assumptions about the speaker's motives remains valuable. A harmful statement can be corrected forcefully without claiming certainty about why it was made.
 
@@ -378,194 +378,194 @@ A correction that distinguishes between misinformation and disinformation can ac
 For myths and misconceptions, that distinction is more than a matter of politeness. It is a practical tool for understanding how false beliefs spread, why corrections succeed or fail, and how institutions can respond proportionately. When intent is misread, both the mistaken individual and the deliberate deceiver may end up treated the same way. Effective correction depends on recognising that they are not.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Mistaken Is Not Always Malicious. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Mistaken Is Not Always Malicious. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Calling Bullshit on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Plu9DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Calling Bullshit" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Calling Bullshit">Calling Bullshit</a>
-        </h4>
-        <p class="fr-book-author">By Carl T. Bergstrom, Jevin D. West</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Calling Bullshit on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Plu9DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Calling Bullshit" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Calling Bullshit">Calling Bullshit</a>
+</h4>
+<p class="fr-book-author">By Carl T. Bergstrom, Jevin D. West</p>
         
-        <p class="fr-book-desc">Helps assess claims without assuming malicious intent.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps assess claims without assuming malicious intent.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Think+Again+by+Adam+Grant&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Think Again on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=-5SezQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Think Again" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Think+Again+by+Adam+Grant&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Think Again">Think Again</a>
-        </h4>
-        <p class="fr-book-author">By Adam Grant</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Think+Again+by+Adam+Grant&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Think Again on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=-5SezQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Think Again" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Think+Again+by+Adam+Grant&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Think Again">Think Again</a>
+</h4>
+<p class="fr-book-author">By Adam Grant</p>
         
-        <p class="fr-book-desc">Promotes intellectual humility and updating beliefs.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Think+Again+by+Adam+Grant&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Promotes intellectual humility and updating beliefs.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Think+Again+by+Adam+Grant&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mistakes Were Made (but Not by Me) Third Edition on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jmmVxgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Mistakes Were Made (but Not by Me) Third Edition" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mistakes Were Made (but Not by Me) Third Edition">Mistakes Were Made (but Not by Me) Third Edition</a>
-        </h4>
-        <p class="fr-book-author">By Carol Tavris, Elliot Aronson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mistakes Were Made (but Not by Me) Third Edition on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jmmVxgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Mistakes Were Made (but Not by Me) Third Edition" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mistakes Were Made (but Not by Me) Third Edition">Mistakes Were Made (but Not by Me) Third Edition</a>
+</h4>
+<p class="fr-book-author">By Carol Tavris, Elliot Aronson</p>
         
-        <p class="fr-book-desc">Explains why people defend errors without bad intent.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains why people defend errors without bad intent.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Foolproof+Sander+Van+Der+Linden&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Foolproof on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/13300557-M.jpg" alt="Cover for Foolproof" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Foolproof+Sander+Van+Der+Linden&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Foolproof">Foolproof</a>
-        </h4>
-        <p class="fr-book-author">By Sander Van Der Linden</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Foolproof+Sander+Van+Der+Linden&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Foolproof on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/13300557-M.jpg" alt="Cover for Foolproof" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Foolproof+Sander+Van+Der+Linden&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Foolproof">Foolproof</a>
+</h4>
+<p class="fr-book-author">By Sander Van Der Linden</p>
         
-        <p class="fr-book-desc">First published 2023.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Foolproof+Sander+Van+Der+Linden&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2023.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Foolproof+Sander+Van+Der+Linden&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Calling+Bullshit&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Calling Bullshit</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Think+Again&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Think Again</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mistakes Were Made (but Not by Me) Third Edition</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Calling+Bullshit&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Calling Bullshit</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Think+Again&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Think Again</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mistakes Were Made (but Not by Me) Third Edition</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=education+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=intent-mistaken-is-not-always-malicious-myths-and-misconcept-education-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="education poster" data-ebay-reference="intent-mistaken-is-not-always-malicious-myths-and-misconcept-education-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Roman Numerals A4 poster, Year 4, KS2, Numeracy, Teaching Resource, Educational"><img src="{{ '/assets/images/marketplace-covers/d68ce4bacc8af5c19b8a.jpg' | relative_url }}" alt="Listing image for Roman Numerals A4 poster, Year 4, KS2, Numeracy, Teaching Resource, Educational" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=education+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=intent-mistaken-is-not-always-malicious-myths-and-misconcept-education-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="education poster" data-ebay-reference="intent-mistaken-is-not-always-malicious-myths-and-misconcept-education-poster" target="_blank" rel="sponsored noopener noreferrer">Roman Numerals A4 poster, Year 4, KS2, Numeracy, Teaching Resource, Educational</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=education+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=intent-mistaken-is-not-always-malicious-myths-and-misconcept-education-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="education poster" data-ebay-reference="intent-mistaken-is-not-always-malicious-myths-and-misconcept-education-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for education poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: education poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=education+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=intent-mistaken-is-not-always-malicious-myths-and-misconcept-education-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="education poster" data-ebay-reference="intent-mistaken-is-not-always-malicious-myths-and-misconcept-education-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=education+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=intent-mistaken-is-not-always-malicious-myths-and-misconcept-education-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="education poster" data-ebay-reference="intent-mistaken-is-not-always-malicious-myths-and-misconcept-education-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Roman Numerals A4 poster, Year 4, KS2, Numeracy, Teaching Resource, Educational"><img src="{{ '/assets/images/marketplace-covers/d68ce4bacc8af5c19b8a.jpg' | relative_url }}" alt="Listing image for Roman Numerals A4 poster, Year 4, KS2, Numeracy, Teaching Resource, Educational" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=education+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=intent-mistaken-is-not-always-malicious-myths-and-misconcept-education-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="education poster" data-ebay-reference="intent-mistaken-is-not-always-malicious-myths-and-misconcept-education-poster" target="_blank" rel="sponsored noopener noreferrer">Roman Numerals A4 poster, Year 4, KS2, Numeracy, Teaching Resource, Educational</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=education+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=intent-mistaken-is-not-always-malicious-myths-and-misconcept-education-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="education poster" data-ebay-reference="intent-mistaken-is-not-always-malicious-myths-and-misconcept-education-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for education poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: education poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=education+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=intent-mistaken-is-not-always-malicious-myths-and-misconcept-education-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="education poster" data-ebay-reference="intent-mistaken-is-not-always-malicious-myths-and-misconcept-education-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=education+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=intent-mistaken-is-not-always-malicious-myths-and-misconcept-education-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="education poster" data-ebay-reference="intent-mistaken-is-not-always-malicious-myths-and-misconcept-education-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Educational Posters Laminated. Times Table, Phonics, Alphabet, High Quality 6/20"><img src="{{ '/assets/images/marketplace-covers/efaa5dc1a65eef3cbfd0.jpg' | relative_url }}" alt="Listing image for Educational Posters Laminated. Times Table, Phonics, Alphabet, High Quality 6/20" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=education+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=intent-mistaken-is-not-always-malicious-myths-and-misconcept-education-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="education poster" data-ebay-reference="intent-mistaken-is-not-always-malicious-myths-and-misconcept-education-poster" target="_blank" rel="sponsored noopener noreferrer">Educational Posters Laminated. Times Table, Phonics, Alphabet, High Quality 6/20</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=education+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=intent-mistaken-is-not-always-malicious-myths-and-misconcept-education-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="education poster" data-ebay-reference="intent-mistaken-is-not-always-malicious-myths-and-misconcept-education-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for education poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: education poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=education+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=intent-mistaken-is-not-always-malicious-myths-and-misconcept-education-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="education poster" data-ebay-reference="intent-mistaken-is-not-always-malicious-myths-and-misconcept-education-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=education+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=intent-mistaken-is-not-always-malicious-myths-and-misconcept-education-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="education poster" data-ebay-reference="intent-mistaken-is-not-always-malicious-myths-and-misconcept-education-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Educational Posters Laminated. Times Table, Phonics, Alphabet, High Quality 6/20"><img src="{{ '/assets/images/marketplace-covers/efaa5dc1a65eef3cbfd0.jpg' | relative_url }}" alt="Listing image for Educational Posters Laminated. Times Table, Phonics, Alphabet, High Quality 6/20" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=education+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=intent-mistaken-is-not-always-malicious-myths-and-misconcept-education-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="education poster" data-ebay-reference="intent-mistaken-is-not-always-malicious-myths-and-misconcept-education-poster" target="_blank" rel="sponsored noopener noreferrer">Educational Posters Laminated. Times Table, Phonics, Alphabet, High Quality 6/20</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=education+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=intent-mistaken-is-not-always-malicious-myths-and-misconcept-education-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="education poster" data-ebay-reference="intent-mistaken-is-not-always-malicious-myths-and-misconcept-education-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for education poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: education poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=education+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=intent-mistaken-is-not-always-malicious-myths-and-misconcept-education-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="education poster" data-ebay-reference="intent-mistaken-is-not-always-malicious-myths-and-misconcept-education-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=education+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=intent-mistaken-is-not-always-malicious-myths-and-misconcept-education-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="education poster" data-ebay-reference="intent-mistaken-is-not-always-malicious-myths-and-misconcept-education-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Human Muscular System Body Educational Poster Skeletal Nervous Anatomy Chart"><img src="{{ '/assets/images/marketplace-covers/f3de2a2889d152054816.jpg' | relative_url }}" alt="Listing image for Human Muscular System Body Educational Poster Skeletal Nervous Anatomy Chart" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=education+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=intent-mistaken-is-not-always-malicious-myths-and-misconcept-education-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="education poster" data-ebay-reference="intent-mistaken-is-not-always-malicious-myths-and-misconcept-education-poster" target="_blank" rel="sponsored noopener noreferrer">Human Muscular System Body Educational Poster Skeletal Nervous Anatomy Chart</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=education+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=intent-mistaken-is-not-always-malicious-myths-and-misconcept-education-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="education poster" data-ebay-reference="intent-mistaken-is-not-always-malicious-myths-and-misconcept-education-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for education poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: education poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=education+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=intent-mistaken-is-not-always-malicious-myths-and-misconcept-education-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="education poster" data-ebay-reference="intent-mistaken-is-not-always-malicious-myths-and-misconcept-education-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=education+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=intent-mistaken-is-not-always-malicious-myths-and-misconcept-education-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="education poster" data-ebay-reference="intent-mistaken-is-not-always-malicious-myths-and-misconcept-education-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Human Muscular System Body Educational Poster Skeletal Nervous Anatomy Chart"><img src="{{ '/assets/images/marketplace-covers/f3de2a2889d152054816.jpg' | relative_url }}" alt="Listing image for Human Muscular System Body Educational Poster Skeletal Nervous Anatomy Chart" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=education+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=intent-mistaken-is-not-always-malicious-myths-and-misconcept-education-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="education poster" data-ebay-reference="intent-mistaken-is-not-always-malicious-myths-and-misconcept-education-poster" target="_blank" rel="sponsored noopener noreferrer">Human Muscular System Body Educational Poster Skeletal Nervous Anatomy Chart</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=education+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=intent-mistaken-is-not-always-malicious-myths-and-misconcept-education-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="education poster" data-ebay-reference="intent-mistaken-is-not-always-malicious-myths-and-misconcept-education-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for education poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: education poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=education+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=intent-mistaken-is-not-always-malicious-myths-and-misconcept-education-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="education poster" data-ebay-reference="intent-mistaken-is-not-always-malicious-myths-and-misconcept-education-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=education+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=intent-mistaken-is-not-always-malicious-myths-and-misconcept-education-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="education poster" data-ebay-reference="intent-mistaken-is-not-always-malicious-myths-and-misconcept-education-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for GEOMETRY A2 Laminated educational poster maths numeracy teaching wall resource"><img src="{{ '/assets/images/marketplace-covers/50566bea86d5107b3451.jpg' | relative_url }}" alt="Listing image for GEOMETRY A2 Laminated educational poster maths numeracy teaching wall resource" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=education+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=intent-mistaken-is-not-always-malicious-myths-and-misconcept-education-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="education poster" data-ebay-reference="intent-mistaken-is-not-always-malicious-myths-and-misconcept-education-poster" target="_blank" rel="sponsored noopener noreferrer">GEOMETRY A2 Laminated educational poster maths numeracy teaching wall resource</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=education+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=intent-mistaken-is-not-always-malicious-myths-and-misconcept-education-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="education poster" data-ebay-reference="intent-mistaken-is-not-always-malicious-myths-and-misconcept-education-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for education poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: education poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=education+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=intent-mistaken-is-not-always-malicious-myths-and-misconcept-education-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="education poster" data-ebay-reference="intent-mistaken-is-not-always-malicious-myths-and-misconcept-education-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=education+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=intent-mistaken-is-not-always-malicious-myths-and-misconcept-education-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="education poster" data-ebay-reference="intent-mistaken-is-not-always-malicious-myths-and-misconcept-education-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=education+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=intent-mistaken-is-not-always-malicious-myths-and-misconcept-education-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="education poster" data-ebay-reference="intent-mistaken-is-not-always-malicious-myths-and-misconcept-education-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for GEOMETRY A2 Laminated educational poster maths numeracy teaching wall resource"><img src="{{ '/assets/images/marketplace-covers/50566bea86d5107b3451.jpg' | relative_url }}" alt="Listing image for GEOMETRY A2 Laminated educational poster maths numeracy teaching wall resource" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=education+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=intent-mistaken-is-not-always-malicious-myths-and-misconcept-education-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="education poster" data-ebay-reference="intent-mistaken-is-not-always-malicious-myths-and-misconcept-education-poster" target="_blank" rel="sponsored noopener noreferrer">GEOMETRY A2 Laminated educational poster maths numeracy teaching wall resource</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=education+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=intent-mistaken-is-not-always-malicious-myths-and-misconcept-education-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="education poster" data-ebay-reference="intent-mistaken-is-not-always-malicious-myths-and-misconcept-education-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for education poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: education poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=education+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=intent-mistaken-is-not-always-malicious-myths-and-misconcept-education-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="education poster" data-ebay-reference="intent-mistaken-is-not-always-malicious-myths-and-misconcept-education-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=education+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=intent-mistaken-is-not-always-malicious-myths-and-misconcept-education-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="education poster" data-ebay-reference="intent-mistaken-is-not-always-malicious-myths-and-misconcept-education-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -581,7 +581,7 @@ For myths and misconceptions, that distinction is more than a matter of politene
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -601,7 +601,7 @@ For myths and misconceptions, that distinction is more than a matter of politene
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -633,7 +633,7 @@ For myths and misconceptions, that distinction is more than a matter of politene
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -685,7 +685,7 @@ For myths and misconceptions, that distinction is more than a matter of politene
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -730,7 +730,7 @@ For myths and misconceptions, that distinction is more than a matter of politene
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -771,188 +771,188 @@ For myths and misconceptions, that distinction is more than a matter of politene
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: unesco.org  
-   Link: <a href="https://www.unesco.org/en/query-list/m/misinformation" target="_blank" rel="noopener noreferrer nofollow">https://www.unesco.org/en/query-list/m/misinformation</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>What is Misinformation? Meaning, Definition.Misinformation is false information that is shared inadvertently, without meaning to ca...</p></details>
+   Link:<a href="https://www.unesco.org/en/query-list/m/misinformation" target="_blank" rel="noopener noreferrer nofollow">https://www.unesco.org/en/query-list/m/misinformation</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>What is Misinformation? Meaning, Definition.Misinformation is false information that is shared inadvertently, without meaning to ca...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: unesco.org  
-   Link: <a href="https://www.unesco.org/en/tags/disinformation-0" target="_blank" rel="noopener noreferrer nofollow">https://www.unesco.org/en/tags/disinformation-0</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>having intention to deceive. Explore further with...Read more...</p></details>
+   Link:<a href="https://www.unesco.org/en/tags/disinformation-0" target="_blank" rel="noopener noreferrer nofollow">https://www.unesco.org/en/tags/disinformation-0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>having intention to deceive. Explore further with...Read more...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: publications.parliament.uk  
    Title: UK Parliament Chapter 2: Informed Citizens  
-   Link: <a href="https://publications.parliament.uk/pa/ld5801/ldselect/lddemdigi/77/7706.htm" target="_blank" rel="noopener noreferrer nofollow">https://publications.parliament.uk/pa/ld5801/ldselect/lddemdigi/77/7706.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UK ParliamentChapter 2: Informed Citizens - Parliament UKIn our Report we use &#x27;misinformation&#x27; where it is unclear if there was purposefu...</p></details>
+   Link:<a href="https://publications.parliament.uk/pa/ld5801/ldselect/lddemdigi/77/7706.htm" target="_blank" rel="noopener noreferrer nofollow">https://publications.parliament.uk/pa/ld5801/ldselect/lddemdigi/77/7706.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UK ParliamentChapter 2: Informed Citizens - Parliament UKIn our Report we use &#x27;misinformation&#x27; where it is unclear if there was purposefu...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9910783/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9910783/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Misinformation, False information that is shared without the intention to mislead or to cause harm, Not to mislead...Read more...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9910783/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9910783/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Misinformation, False information that is shared without the intention to mislead or to cause harm, Not to mislead...Read more...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: unesco.org  
-   Link: <a href="https://www.unesco.org/mil4teachers/en/module4/unit2" target="_blank" rel="noopener noreferrer nofollow">https://www.unesco.org/mil4teachers/en/module4/unit2</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Unit 2: The Misinformation and Disinformation Ecosystem11 Apr 2024 — Distinguish the different types of false and misleading conten...</p></details>
+   Link:<a href="https://www.unesco.org/mil4teachers/en/module4/unit2" target="_blank" rel="noopener noreferrer nofollow">https://www.unesco.org/mil4teachers/en/module4/unit2</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Unit 2: The Misinformation and Disinformation Ecosystem11 Apr 2024 — Distinguish the different types of false and misleading conten...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: unesdoc.unesco.org  
-   Link: <a href="https://unesdoc.unesco.org/ark%3A/48223/pf0000265552" target="_blank" rel="noopener noreferrer nofollow">https://unesdoc.unesco.org/ark%3A/48223/pf0000265552</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>disinformation and misinformation. The spread of disinformation and misinformation is made possible largely through social networks and s...</p></details>
+   Link:<a href="https://unesdoc.unesco.org/ark%3A/48223/pf0000265552" target="_blank" rel="noopener noreferrer nofollow">https://unesdoc.unesco.org/ark%3A/48223/pf0000265552</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>disinformation and misinformation. The spread of disinformation and misinformation is made possible largely through social networks and s...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/pii/S1364661321000516" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S1364661321000516</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Poor truth...Read more...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/pii/S1364661321000516" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S1364661321000516</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Poor truth...Read more...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: nature.com  
-   Link: <a href="https://www.nature.com/articles/s44159-021-00006-y" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s44159-021-00006-y</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The psychological drivers of misinformation belief and its...by UKH Ecker · 2022 · Cited by 1919 — In this Review, we describe the cogni...</p></details>
+   Link:<a href="https://www.nature.com/articles/s44159-021-00006-y" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s44159-021-00006-y</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The psychological drivers of misinformation belief and its...by UKH Ecker · 2022 · Cited by 1919 — In this Review, we describe the cogni...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/pii/S2352250X23001847" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S2352250X23001847</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The four stages are source selection, information selection, evaluation...Read more...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/pii/S2352250X23001847" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S2352250X23001847</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The four stages are source selection, information selection, evaluation...Read more...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: researchbriefings.files.parliament.uk  
    Title: Research Briefings Disinformation: sources, spread and impact  
-   Link: <a href="https://researchbriefings.files.parliament.uk/documents/POST-PN-0719/POST-PN-0719.pdf" target="_blank" rel="noopener noreferrer nofollow">https://researchbriefings.files.parliament.uk/documents/POST-PN-0719/POST-PN-0719.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Research BriefingsDisinformation: sources, spread and impactApril 26, 2024 — 25 Apr 2024 — People may intentionally share disinformation...</p></details>
+   Link:<a href="https://researchbriefings.files.parliament.uk/documents/POST-PN-0719/POST-PN-0719.pdf" target="_blank" rel="noopener noreferrer nofollow">https://researchbriefings.files.parliament.uk/documents/POST-PN-0719/POST-PN-0719.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Research BriefingsDisinformation: sources, spread and impactApril 26, 2024 — 25 Apr 2024 — People may intentionally share disinformation...</p></details>
    Published: April 26, 2024  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/org/science/article/pii/S2564189124000331" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/org/science/article/pii/S2564189124000331</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>It is often spread by individuals who believe the information to be true...Read more...</p></details>
+   Link:<a href="https://www.sciencedirect.com/org/science/article/pii/S2564189124000331" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/org/science/article/pii/S2564189124000331</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>It is often spread by individuals who believe the information to be true...Read more...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8979789/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8979789/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Investigation of the determinants for misinformation correction...by Y Zhang · 2022 · Cited by 71 — This study explores determinants...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8979789/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8979789/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Investigation of the determinants for misinformation correction...by Y Zhang · 2022 · Cited by 71 — This study explores determinants...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2206.12915" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2206.12915</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Disambiguating Disinformation: Extending Beyond the Veracity of Online ContentJune 26, 2022...</p></details>
+   Link:<a href="https://arxiv.org/abs/2206.12915" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2206.12915</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Disambiguating Disinformation: Extending Beyond the Veracity of Online ContentJune 26, 2022...</p></details>
    Published: June 26, 2022  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2202.04752" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2202.04752</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>February 9, 2022...</p></details>
+   Link:<a href="https://arxiv.org/abs/2202.04752" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2202.04752</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>February 9, 2022...</p></details>
    Published: February 9, 2022  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2305.00957" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2305.00957</a>  
+   Link:<a href="https://arxiv.org/abs/2305.00957" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2305.00957</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: communications.gov.uk  
-   Link: <a href="https://www.communications.gov.uk/wp-content/uploads/2021/11/RESIST-2-counter-disinformation-toolkit.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.communications.gov.uk/wp-content/uploads/2021/11/RESIST-2-counter-disinformation-toolkit.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>RESIST 2 Counter-disinformation toolkitIt explains the differences between misinformation, disinformation and malinformation and why thes...</p></details>
+   Link:<a href="https://www.communications.gov.uk/wp-content/uploads/2021/11/RESIST-2-counter-disinformation-toolkit.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.communications.gov.uk/wp-content/uploads/2021/11/RESIST-2-counter-disinformation-toolkit.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>RESIST 2 Counter-disinformation toolkitIt explains the differences between misinformation, disinformation and malinformation and why thes...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: unesco.org  
-   Link: <a href="https://www.unesco.org/en/query-list/d/disinformation" target="_blank" rel="noopener noreferrer nofollow">https://www.unesco.org/en/query-list/d/disinformation</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>having intention to deceive. Explore further with...Read more...</p></details>
+   Link:<a href="https://www.unesco.org/en/query-list/d/disinformation" target="_blank" rel="noopener noreferrer nofollow">https://www.unesco.org/en/query-list/d/disinformation</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>having intention to deceive. Explore further with...Read more...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: unesco.org  
    Title: deepfakes and crisis knowing  
-   Link: <a href="https://www.unesco.org/en/articles/deepfakes-and-crisis-knowing" target="_blank" rel="noopener noreferrer nofollow">https://www.unesco.org/en/articles/deepfakes-and-crisis-knowing</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Deepfakes and the crisis of knowing27 Oct 2025 — The rise of AI-augmented disinformation and misinformation demands a fundamental shift i...</p></details>
+   Link:<a href="https://www.unesco.org/en/articles/deepfakes-and-crisis-knowing" target="_blank" rel="noopener noreferrer nofollow">https://www.unesco.org/en/articles/deepfakes-and-crisis-knowing</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Deepfakes and the crisis of knowing27 Oct 2025 — The rise of AI-augmented disinformation and misinformation demands a fundamental shift i...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: unesco.org  
    Title: What is Misinformation?  
-   Link: <a href="https://www.unesco.org/en/tags/misinformation-0" target="_blank" rel="noopener noreferrer nofollow">https://www.unesco.org/en/tags/misinformation-0</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Meaning, Definition.Misinformation is false information that is shared inadvertently, without meaning to cause harm. The terms misinforma...</p></details>
+   Link:<a href="https://www.unesco.org/en/tags/misinformation-0" target="_blank" rel="noopener noreferrer nofollow">https://www.unesco.org/en/tags/misinformation-0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Meaning, Definition.Misinformation is false information that is shared inadvertently, without meaning to cause harm. The terms misinforma...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: moadoph.gov.au  
-   Link: <a href="https://moadoph.gov.au/explore/democracy/what-is-the-difference-between-misinformation-and-disinformation" target="_blank" rel="noopener noreferrer nofollow">https://moadoph.gov.au/explore/democracy/what-is-the-difference-between-misinformation-and-disinformation</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>What is the difference between misinformation and...This glossary will help you navigate the lingo associated with misinformation, fake...</p></details>
+   Link:<a href="https://moadoph.gov.au/explore/democracy/what-is-the-difference-between-misinformation-and-disinformation" target="_blank" rel="noopener noreferrer nofollow">https://moadoph.gov.au/explore/democracy/what-is-the-difference-between-misinformation-and-disinformation</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>What is the difference between misinformation and...This glossary will help you navigate the lingo associated with misinformation, fake...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: carnegieendowment.org  
    Title: countering disinformation effectively an evidence based policy guide  
-   Link: <a href="https://carnegieendowment.org/russia-eurasia/research/2024/01/countering-disinformation-effectively-an-evidence-based-policy-guide" target="_blank" rel="noopener noreferrer nofollow">https://carnegieendowment.org/russia-eurasia/research/2024/01/countering-disinformation-effectively-an-evidence-based-policy-guide</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Carnegie EndowmentCountering Disinformation Effectively: An Evidence-Based...31 Jan 2024 — A high-level, evidence-informed guide to some...</p></details>
+   Link:<a href="https://carnegieendowment.org/russia-eurasia/research/2024/01/countering-disinformation-effectively-an-evidence-based-policy-guide" target="_blank" rel="noopener noreferrer nofollow">https://carnegieendowment.org/russia-eurasia/research/2024/01/countering-disinformation-effectively-an-evidence-based-policy-guide</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Carnegie EndowmentCountering Disinformation Effectively: An Evidence-Based...31 Jan 2024 — A high-level, evidence-informed guide to some...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/mgiep/posts/false-information-created-deliberately-to-misinform-and-mislead-others-with-the-/1140017351493368/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/mgiep/posts/false-information-created-deliberately-to-misinform-and-mislead-others-with-the-/1140017351493368/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>unesco mgiepThe key difference between misinformation and disinformation lies in the intent behind the spread of false information: Misin...</p></details>
+   Link:<a href="https://www.facebook.com/mgiep/posts/false-information-created-deliberately-to-misinform-and-mislead-others-with-the-/1140017351493368/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/mgiep/posts/false-information-created-deliberately-to-misinform-and-mislead-others-with-the-/1140017351493368/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>unesco mgiepThe key difference between misinformation and disinformation lies in the intent behind the spread of false information: Misin...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: mediadefence.org  
-   Link: <a href="https://www.mediadefence.org/resource-hub/false-news-misinformation-and-propaganda-europe/" target="_blank" rel="noopener noreferrer nofollow">https://www.mediadefence.org/resource-hub/false-news-misinformation-and-propaganda-europe/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;False News&#x27;, Misinformation &amp; Propaganda - EuropeWhile misinformation and disinformation are premised on the dissemination of [false info](&amp;#123;&amp;#123; &#x27;false-info/&#x27; | relative_url &amp;#125;&amp;#125;)...</p></details>
+   Link:<a href="https://www.mediadefence.org/resource-hub/false-news-misinformation-and-propaganda-europe/" target="_blank" rel="noopener noreferrer nofollow">https://www.mediadefence.org/resource-hub/false-news-misinformation-and-propaganda-europe/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;False News&#x27;, Misinformation &amp; Propaganda - EuropeWhile misinformation and disinformation are premised on the dissemination of [false info](&amp;#123;&amp;#123; &#x27;false-info/&#x27; | relative_url &amp;#125;&amp;#125;)...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Misinformation" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Misinformation</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>MisinformationWhereas misinformation can exist with or without specific malicious intent, disinformation is deliberately deceptive and...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Misinformation" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Misinformation</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>MisinformationWhereas misinformation can exist with or without specific malicious intent, disinformation is deliberately deceptive and...</p></details>
 
 ### Additional References
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: apa.org  
-   Link: <a href="https://www.apa.org/topics/journalism-facts/misinformation-disinformation" target="_blank" rel="noopener noreferrer nofollow">https://www.apa.org/topics/journalism-facts/misinformation-disinformation</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Misinformation and disinformationMisinformation is false or inaccurate information—getting the facts wrong. Disinformation is false infor...</p></details>
+   Link:<a href="https://www.apa.org/topics/journalism-facts/misinformation-disinformation" target="_blank" rel="noopener noreferrer nofollow">https://www.apa.org/topics/journalism-facts/misinformation-disinformation</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Misinformation and disinformationMisinformation is false or inaccurate information—getting the facts wrong. Disinformation is false infor...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: mediadefence.org  
-   Link: <a href="https://www.mediadefence.org/ereader/publications/modules-on-litigating-freedom-of-expression-and-digital-rights-in-south-and-southeast-asia/module-8-false-news-misinformation-and-propaganda/misinformation-disinformation-and-mal-information/" target="_blank" rel="noopener noreferrer nofollow">https://www.mediadefence.org/ereader/publications/modules-on-litigating-freedom-of-expression-and-digital-rights-in-south-and-southeast-asia/module-8-false-news-misinformation-and-propaganda/misinformation-disinformation-and-mal-information/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Misinformation, Disinformation and Mal-informationMisinformation, Disinformation and Mal-information · Module 8: &#x27;False news&#x27;, misinforma...</p></details>
+   Link:<a href="https://www.mediadefence.org/ereader/publications/modules-on-litigating-freedom-of-expression-and-digital-rights-in-south-and-southeast-asia/module-8-false-news-misinformation-and-propaganda/misinformation-disinformation-and-mal-information/" target="_blank" rel="noopener noreferrer nofollow">https://www.mediadefence.org/ereader/publications/modules-on-litigating-freedom-of-expression-and-digital-rights-in-south-and-southeast-asia/module-8-false-news-misinformation-and-propaganda/misinformation-disinformation-and-mal-information/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Misinformation, Disinformation and Mal-informationMisinformation, Disinformation and Mal-information · Module 8: &#x27;False news&#x27;, misinforma...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: mediadefence.org  
-   Link: <a href="https://www.mediadefence.org/ereader/publications/modules-digital-rights-europe/module-5-disinformation-misinformation/false-news/" target="_blank" rel="noopener noreferrer nofollow">https://www.mediadefence.org/ereader/publications/modules-digital-rights-europe/module-5-disinformation-misinformation/false-news/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>What is &#x27;False News&#x27;? | eReaderLastly, misinformation entails false or misleading content shared inadvertently, lacking the malicious int...</p></details>
+   Link:<a href="https://www.mediadefence.org/ereader/publications/modules-digital-rights-europe/module-5-disinformation-misinformation/false-news/" target="_blank" rel="noopener noreferrer nofollow">https://www.mediadefence.org/ereader/publications/modules-digital-rights-europe/module-5-disinformation-misinformation/false-news/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>What is &#x27;False News&#x27;? | eReaderLastly, misinformation entails false or misleading content shared inadvertently, lacking the malicious int...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMC(Why) Is Misinformation a Problem?  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10623619/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10623619/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>by Z Adams · 2023 · Cited by 146 — The overarching negative effect of misinformation comes from the argument that without an accuratel...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10623619/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10623619/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by Z Adams · 2023 · Cited by 146 — The overarching negative effect of misinformation comes from the argument that without an accuratel...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: ofcom.org.uk  
    Title: misinformation and disinformation literature review  
-   Link: <a href="https://www.ofcom.org.uk/siteassets/resources/documents/research-and-data/media-literacy-research/mis-and-disinformation/misinformation-and-disinformation-literature-review.pdf?v=397787" target="_blank" rel="noopener noreferrer nofollow">https://www.ofcom.org.uk/siteassets/resources/documents/research-and-data/media-literacy-research/mis-and-disinformation/misinformation-and-disinformation-literature-review.pdf?v=397787</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>and Disinformation: Literature Review27 May 2025 — This briefing provides an overview of the available academic and grey literature on mi...</p></details>
+   Link:<a href="https://www.ofcom.org.uk/siteassets/resources/documents/research-and-data/media-literacy-research/mis-and-disinformation/misinformation-and-disinformation-literature-review.pdf?v=397787" target="_blank" rel="noopener noreferrer nofollow">https://www.ofcom.org.uk/siteassets/resources/documents/research-and-data/media-literacy-research/mis-and-disinformation/misinformation-and-disinformation-literature-review.pdf?v=397787</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>and Disinformation: Literature Review27 May 2025 — This briefing provides an overview of the available academic and grey literature on mi...</p></details>
    Published: May 2025  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: researchportal.port.ac.uk  
    Title: The review identified five themes. The theme of fabricated.Read more  
-   Link: <a href="https://researchportal.port.ac.uk/files/63065979/Thesis.pdf" target="_blank" rel="noopener noreferrer nofollow">https://researchportal.port.ac.uk/files/63065979/Thesis.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>media misinformation and [fake news](&amp;#123;&amp;#123; &#x27;fake-news/&#x27; | relative_url &amp;#125;&amp;#125;): a consumer...by G Di Domenico · Cited by 4 — This paper represents the first systematic literature r...</p></details>
+   Link:<a href="https://researchportal.port.ac.uk/files/63065979/Thesis.pdf" target="_blank" rel="noopener noreferrer nofollow">https://researchportal.port.ac.uk/files/63065979/Thesis.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>media misinformation and [fake news](&amp;#123;&amp;#123; &#x27;fake-news/&#x27; | relative_url &amp;#125;&amp;#125;): a consumer...by G Di Domenico · Cited by 4 — This paper represents the first systematic literature r...</p></details>
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: unicef.org  
    Title: Misinformation and disinformation have  
-   Link: <a href="https://www.unicef.org/innocenti/media/856/file/UNICEF-Global-Insight-Digital-Mis-Disinformation-and-Children-2021.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.unicef.org/innocenti/media/856/file/UNICEF-Global-Insight-Digital-Mis-Disinformation-and-Children-2021.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Digital misinformation / disinformation and childrenby PN Howard · 2021 · Cited by 119 — Charges of &#x27;fake news&#x27; to discredit legitimate b...</p></details>
+   Link:<a href="https://www.unicef.org/innocenti/media/856/file/UNICEF-Global-Insight-Digital-Mis-Disinformation-and-Children-2021.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.unicef.org/innocenti/media/856/file/UNICEF-Global-Insight-Digital-Mis-Disinformation-and-Children-2021.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Digital misinformation / disinformation and childrenby PN Howard · 2021 · Cited by 119 — Charges of &#x27;fake news&#x27; to discredit legitimate b...</p></details>
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: humanrights.ca  
-   Link: <a href="https://humanrights.ca/resource-guide/misinformation-disinformation-and-malinformation" target="_blank" rel="noopener noreferrer nofollow">https://humanrights.ca/resource-guide/misinformation-disinformation-and-malinformation</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Misinformation, Disinformation and MalinformationMisinformation is false information that is shared, often inadvertently and without the...</p></details>
+   Link:<a href="https://humanrights.ca/resource-guide/misinformation-disinformation-and-malinformation" target="_blank" rel="noopener noreferrer nofollow">https://humanrights.ca/resource-guide/misinformation-disinformation-and-malinformation</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Misinformation, Disinformation and MalinformationMisinformation is false information that is shared, often inadvertently and without the...</p></details>
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: digitallibrary.un.org  
    Title: ^EOSG 2023 8^ EOSG 2023 8 EN  
-   Link: <a href="https://digitallibrary.un.org/record/4012857/files/%5EEOSG_2023_8%5E--EOSG_2023_8-EN.pdf" target="_blank" rel="noopener noreferrer nofollow">https://digitallibrary.un.org/record/4012857/files/%5EEOSG_2023_8%5E--EOSG_2023_8-EN.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Integrity on Digital PlatformsMisinformation can be rooted in disinformation as delib- erate lies and misleading narratives are weaponize...</p></details>
+   Link:<a href="https://digitallibrary.un.org/record/4012857/files/%5EEOSG_2023_8%5E--EOSG_2023_8-EN.pdf" target="_blank" rel="noopener noreferrer nofollow">https://digitallibrary.un.org/record/4012857/files/%5EEOSG_2023_8%5E--EOSG_2023_8-EN.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Integrity on Digital PlatformsMisinformation can be rooted in disinformation as delib- erate lies and misleading narratives are weaponize...</p></details>
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: tandfonline.com  
    Title: Results show the field is mostly data-driven.Read more  
-   Link: <a href="https://www.tandfonline.com/doi/full/10.1080/23808985.2024.2323736" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/full/10.1080/23808985.2024.2323736</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Full article: Misinformation, disinformation, and fake newsby E Broda · 2024 · Cited by 348 — We have performed a systematic research rev...</p></details>
+   Link:<a href="https://www.tandfonline.com/doi/full/10.1080/23808985.2024.2323736" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/full/10.1080/23808985.2024.2323736</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Full article: Misinformation, disinformation, and fake newsby E Broda · 2024 · Cited by 348 — We have performed a systematic research rev...</p></details>

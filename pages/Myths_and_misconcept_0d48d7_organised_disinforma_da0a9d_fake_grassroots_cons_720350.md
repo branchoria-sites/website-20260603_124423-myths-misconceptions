@@ -268,16 +268,16 @@ image: /assets/images/Myths_and_misconcept_0d48d7_organised_disinforma_da0a9d_fa
 
 ## Introduction
 
-Astroturfing is the practice of making an organised campaign look like a spontaneous grassroots movement. Instead of persuading people through openly sponsored advocacy, the organisers conceal their role and create the appearance that ordinary citizens have independently reached the same conclusion. In the context of myths and misconceptions, this matters because people often judge a claim not only by its evidence but also by how many other people seem to support it. Astroturfing exploits that shortcut by manufacturing the appearance of consensus. Researchers describe digital astroturfing as strategically directed, deceptive activity designed to mimic authentic public participation rather than genuine bottom-up mobilisation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://osf.io/preprints/socarxiv/7ucsh" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: osf.io">[OSF]</a><span class="citation-popover" role="note"><span class="citation-popover-source">osf.io</span><span class="citation-popover-snippet">Digital astroturfing in politics: Definition, typology, and...by M Kovic · Cited by 195 — We propose to call such fake online grassro...</span></span></span>
+Astroturfing is the practice of making an organised campaign look like a spontaneous grassroots movement. Instead of persuading people through openly sponsored advocacy, the organisers conceal their role and create the appearance that ordinary citizens have independently reached the same conclusion. In the context of myths and misconceptions, this matters because people often judge a claim not only by its evidence but also by how many other people seem to support it. Astroturfing exploits that shortcut by manufacturing the appearance of consensus. Researchers describe digital astroturfing as strategically directed, deceptive activity designed to mimic authentic public participation rather than genuine bottom-up mobilisation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://osf.io/preprints/socarxiv/7ucsh" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: osf.io">[OSF]</a><span class="citation-popover" role="note"><span class="citation-popover-source">osf.io</span><span class="citation-popover-snippet">Digital astroturfing in politics: Definition, typology, and...by M Kovic · Cited by 195 — We propose to call such fake online grassro...</span></span></span>
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_organised_disinforma_da0a9d_fake_grassroots_cons_720350-Illustration-1-dark.svg" | relative_url }}" alt="Astroturfing illustration 1" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_organised_disinforma_da0a9d_fake_grassroots_cons_720350-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_organised_disinforma_da0a9d_fake_grassroots_cons_720350-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-The result is a distortion of public perception. A rumour, policy proposal, protest movement or political narrative can appear far more popular than it really is. People may then treat that apparent popularity as evidence that the claim is credible, widely accepted or socially normal. <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/14614448251350100" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsAttributing coordinated social media manipulationJul 29, 2025 — &#x27; In CSMM, false beliefs are fostered about the identity and...</span></span></span>
+The result is a distortion of public perception. A rumour, policy proposal, protest movement or political narrative can appear far more popular than it really is. People may then treat that apparent popularity as evidence that the claim is credible, widely accepted or socially normal.<span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/14614448251350100" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsAttributing coordinated social media manipulationJul 29, 2025 — &#x27; In CSMM, false beliefs are fostered about the identity and...</span></span></span>
 
 ## How astroturfing disguises coordination
 
 The central mechanism of astroturfing is not necessarily the creation of false information. It is the concealment of coordination.
 
-A genuine grassroots movement emerges when many people independently organise around a shared concern. An astroturf campaign reverses that process. A central actor—such as a political organisation, commercial interest, lobbying group or influence operation—creates the appearance of independent support while directing activity from above. Researchers describe this as a top-down campaign masquerading as bottom-up participation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theindiaforum.in/law/digital-deceit-how-astroturfing-produces-democratic-deficits" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theindiaforum.in">[The India Forum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theindiaforum.in</span><span class="citation-popover-snippet">The India ForumDigital Deceit: How Astroturfing Produces Democratic Deficits12 Aug 2025 — Digital astroturfing uses the phenomenon of soc...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://osf.io/preprints/socarxiv/7ucsh" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: osf.io">[OSF]</a><span class="citation-popover" role="note"><span class="citation-popover-source">osf.io</span><span class="citation-popover-snippet">Digital astroturfing in politics: Definition, typology, and...by M Kovic · Cited by 195 — We propose to call such fake online grassro...</span></span></span>
+A genuine grassroots movement emerges when many people independently organise around a shared concern. An astroturf campaign reverses that process. A central actor—such as a political organisation, commercial interest, lobbying group or influence operation—creates the appearance of independent support while directing activity from above. Researchers describe this as a top-down campaign masquerading as bottom-up participation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theindiaforum.in/law/digital-deceit-how-astroturfing-produces-democratic-deficits" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theindiaforum.in">[The India Forum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theindiaforum.in</span><span class="citation-popover-snippet">The India ForumDigital Deceit: How Astroturfing Produces Democratic Deficits12 Aug 2025 — Digital astroturfing uses the phenomenon of soc...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://osf.io/preprints/socarxiv/7ucsh" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: osf.io">[OSF]</a><span class="citation-popover" role="note"><span class="citation-popover-source">osf.io</span><span class="citation-popover-snippet">Digital astroturfing in politics: Definition, typology, and...by M Kovic · Cited by 195 — We propose to call such fake online grassro...</span></span></span>
 
 Common methods include:
 
@@ -287,19 +287,19 @@ Common methods include:
 * Operating multiple online identities, often called sockpuppets.
 * Paying or incentivising people to post coordinated content without disclosing the arrangement.
 * Establishing front groups that appear independent while being funded or directed elsewhere.
-* Coordinating comments, petitions, letters or social-media activity so that a campaign appears larger than it really is. PsychoScales Database <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/14614448251350100" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsAttributing coordinated social media manipulationJul 29, 2025 — &#x27; In CSMM, false beliefs are fostered about the identity and...</span></span></span>
+* Coordinating comments, petitions, letters or social-media activity so that a campaign appears larger than it really is. PsychoScales Database<span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/14614448251350100" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsAttributing coordinated social media manipulationJul 29, 2025 — &#x27; In CSMM, false beliefs are fostered about the identity and...</span></span></span>
 
 </div>
 
-Importantly, astroturfing often mixes authentic and inauthentic participation. Some supporters may be real people who genuinely agree with the message. The deception lies in hiding the campaign's organisational structure and sponsorship while exaggerating the appearance of widespread public enthusiasm. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/361389437_Online_astroturfing_A_problem_beyond_disinformation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate Online astroturfing: A problem beyond disinformation</span><span class="citation-popover-snippet">Online astroturfing: A problem beyond disinformationJune 16, 2022 — 5 May 2026 — Astroturfing is the practice of creating a f...</span><span class="citation-popover-meta">Published: June 16, 2022</span></span></span>
+Importantly, astroturfing often mixes authentic and inauthentic participation. Some supporters may be real people who genuinely agree with the message. The deception lies in hiding the campaign's organisational structure and sponsorship while exaggerating the appearance of widespread public enthusiasm.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/361389437_Online_astroturfing_A_problem_beyond_disinformation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate Online astroturfing: A problem beyond disinformation</span><span class="citation-popover-snippet">Online astroturfing: A problem beyond disinformationJune 16, 2022 — 5 May 2026 — Astroturfing is the practice of creating a f...</span><span class="citation-popover-meta">Published: June 16, 2022</span></span></span>
 
 ### Why apparent popularity changes minds
 
 Humans rely heavily on social proof—the tendency to view an idea as more credible when many others appear to endorse it.
 
-Astroturfing manufactures exactly those signals. A reader encountering hundreds of apparently independent comments, posts or endorsements may assume a broad consensus exists. Even when people do not fully accept the message, the perceived popularity can make them think the issue is more contested, more urgent or more widely accepted than it actually is. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S2352250X24000575" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Review Clicks and tricks: The dark art of online persuasionby P Fagan · 2024 · Cited by 18 — On the one hand, astroturfing i...</span></span></span>
+Astroturfing manufactures exactly those signals. A reader encountering hundreds of apparently independent comments, posts or endorsements may assume a broad consensus exists. Even when people do not fully accept the message, the perceived popularity can make them think the issue is more contested, more urgent or more widely accepted than it actually is.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S2352250X24000575" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Review Clicks and tricks: The dark art of online persuasionby P Fagan · 2024 · Cited by 18 — On the one hand, astroturfing i...</span></span></span>
 
-Research on coordinated social-media manipulation notes that these [campaigns]({{ 'campaigns/' | relative_url }}) create false beliefs not only about the content being shared but also about the popularity of that content and the identities of those promoting it. The deception therefore targets perceptions of public opinion itself. <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/14614448251350100" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsAttributing coordinated social media manipulationJul 29, 2025 — &#x27; In CSMM, false beliefs are fostered about the identity and...</span></span></span>
+Research on coordinated social-media manipulation notes that these [campaigns]({{ 'campaigns/' | relative_url }}) create false beliefs not only about the content being shared but also about the popularity of that content and the identities of those promoting it. The deception therefore targets perceptions of public opinion itself.<span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/14614448251350100" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsAttributing coordinated social media manipulationJul 29, 2025 — &#x27; In CSMM, false beliefs are fostered about the identity and...</span></span></span>
 
 ## Signals that make fake support feel real
 
@@ -307,30 +307,30 @@ Astroturf campaigns succeed when they reproduce the cues people normally associa
 
 ### Repetition from seemingly independent sources
 
-People often treat agreement across multiple sources as evidence. Astroturf networks exploit this by ensuring the same talking points appear across many accounts, groups or websites. Even when individual messages are not identical, the cumulative effect creates an impression of spontaneous convergence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8930979/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCCoordination patterns reveal online political astroturfing</span><span class="citation-popover-snippet">by D Schoch · 2022 · Cited by 94 — Online political astroturfing—hidden information campaigns in which a political actor mimics genuin...</span></span></span>
+People often treat agreement across multiple sources as evidence. Astroturf networks exploit this by ensuring the same talking points appear across many accounts, groups or websites. Even when individual messages are not identical, the cumulative effect creates an impression of spontaneous convergence.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8930979/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCCoordination patterns reveal online political astroturfing</span><span class="citation-popover-snippet">by D Schoch · 2022 · Cited by 94 — Online political astroturfing—hidden information campaigns in which a political actor mimics genuin...</span></span></span>
 
 ### Visible engagement metrics
 
-Likes, shares, reposts, comments and follower counts function as social signals. Artificially inflating these numbers can make a position appear mainstream before genuine users have assessed it. Research on coordinated online campaigns has shown that users can be highly vulnerable to manipulation through amplified visibility and inauthentic account networks. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8930979/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCCoordination patterns reveal online political astroturfing</span><span class="citation-popover-snippet">by D Schoch · 2022 · Cited by 94 — Online political astroturfing—hidden information campaigns in which a political actor mimics genuin...</span></span></span>
+Likes, shares, reposts, comments and follower counts function as social signals. Artificially inflating these numbers can make a position appear mainstream before genuine users have assessed it. Research on coordinated online campaigns has shown that users can be highly vulnerable to manipulation through amplified visibility and inauthentic account networks.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8930979/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCCoordination patterns reveal online political astroturfing</span><span class="citation-popover-snippet">by D Schoch · 2022 · Cited by 94 — Online political astroturfing—hidden information campaigns in which a political actor mimics genuin...</span></span></span>
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_organised_disinforma_da0a9d_fake_grassroots_cons_720350-Illustration-2-dark.svg" | relative_url }}" alt="Astroturfing illustration 2" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_organised_disinforma_da0a9d_fake_grassroots_cons_720350-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_organised_disinforma_da0a9d_fake_grassroots_cons_720350-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Local identity and community language
 
-Astroturf campaigns frequently adopt local identities, community concerns or cultural references. Messages appear more trustworthy when they seem to come from neighbours, fellow citizens or members of a familiar group. The persuasive effect often comes from perceived authenticity rather than factual strength. <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/14614448251350100" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsAttributing coordinated social media manipulationJul 29, 2025 — &#x27; In CSMM, false beliefs are fostered about the identity and...</span></span></span>
+Astroturf campaigns frequently adopt local identities, community concerns or cultural references. Messages appear more trustworthy when they seem to come from neighbours, fellow citizens or members of a familiar group. The persuasive effect often comes from perceived authenticity rather than factual strength.<span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/14614448251350100" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsAttributing coordinated social media manipulationJul 29, 2025 — &#x27; In CSMM, false beliefs are fostered about the identity and...</span></span></span>
 
 ### Artificial trends and popularity rankings
 
-Some operations target the mechanisms [platforms]({{ 'platforms/' | relative_url }}) use to identify what is popular. Researchers studying "ephemeral astroturfing" found coordinated campaigns capable of pushing topics into trending systems through concentrated bursts of activity, after which much of the evidence could be deleted. The trend itself then becomes a persuasive signal because users interpret it as evidence of widespread interest. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/1910.07783" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Ephemeral Astroturfing Attacks: The Case of Fake Twitter Trends</span><span class="citation-popover-snippet">Ephemeral Astroturfing Attacks: The Case of Fake Twitter TrendsOctober 17, 2019...</span><span class="citation-popover-meta">Published: October 17, 2019</span></span></span>
+Some operations target the mechanisms [platforms]({{ 'platforms/' | relative_url }}) use to identify what is popular. Researchers studying "ephemeral astroturfing" found coordinated campaigns capable of pushing topics into trending systems through concentrated bursts of activity, after which much of the evidence could be deleted. The trend itself then becomes a persuasive signal because users interpret it as evidence of widespread interest.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/1910.07783" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Ephemeral Astroturfing Attacks: The Case of Fake Twitter Trends</span><span class="citation-popover-snippet">Ephemeral Astroturfing Attacks: The Case of Fake Twitter TrendsOctober 17, 2019...</span><span class="citation-popover-meta">Published: October 17, 2019</span></span></span>
 
 ## When a crowd is not a crowd
 
 One of the most common misconceptions about public opinion is that visible participation automatically reflects genuine public sentiment.
 
-Astroturfing demonstrates why this assumption can be unreliable. A large volume of posts does not necessarily indicate a large number of participants. A popular hashtag does not necessarily represent a broad movement. A coordinated campaign can make a relatively small group appear much larger than it is. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nature.com/articles/s41598-022-08404-9" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Coordination patterns reveal online political astroturfing...by D Schoch · 2022 · Cited by 94 — After all, political astroturfing...</span></span></span>
+Astroturfing demonstrates why this assumption can be unreliable. A large volume of posts does not necessarily indicate a large number of participants. A popular hashtag does not necessarily represent a broad movement. A coordinated campaign can make a relatively small group appear much larger than it is.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nature.com/articles/s41598-022-08404-9" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Coordination patterns reveal online political astroturfing...by D Schoch · 2022 · Cited by 94 — After all, political astroturfing...</span></span></span>
 
-This does not mean every online campaign is fake. Most public advocacy remains genuine. The problem is that observers often lack visibility into who is coordinating activity, funding promotion or managing [amplification]({{ 'amplification/' | relative_url }}). As a result, apparent consensus may be partly manufactured rather than organically formed. <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/14614448251350100" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsAttributing coordinated social media manipulationJul 29, 2025 — &#x27; In CSMM, false beliefs are fostered about the identity and...</span></span></span>
+This does not mean every online campaign is fake. Most public advocacy remains genuine. The problem is that observers often lack visibility into who is coordinating activity, funding promotion or managing [amplification]({{ 'amplification/' | relative_url }}). As a result, apparent consensus may be partly manufactured rather than organically formed.<span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/14614448251350100" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsAttributing coordinated social media manipulationJul 29, 2025 — &#x27; In CSMM, false beliefs are fostered about the identity and...</span></span></span>
 
-The distinction matters because journalists, policymakers and ordinary citizens frequently use visible public reaction as a signal when deciding which issues deserve attention. If those signals are manipulated, public debate can become distorted even when individual messages contain no outright falsehoods. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theindiaforum.in/law/digital-deceit-how-astroturfing-produces-democratic-deficits" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theindiaforum.in">[The India Forum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theindiaforum.in</span><span class="citation-popover-snippet">The India ForumDigital Deceit: How Astroturfing Produces Democratic Deficits12 Aug 2025 — Digital astroturfing uses the phenomenon of soc...</span></span></span>
+The distinction matters because journalists, policymakers and ordinary citizens frequently use visible public reaction as a signal when deciding which issues deserve attention. If those signals are manipulated, public debate can become distorted even when individual messages contain no outright falsehoods.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theindiaforum.in/law/digital-deceit-how-astroturfing-produces-democratic-deficits" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theindiaforum.in">[The India Forum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theindiaforum.in</span><span class="citation-popover-snippet">The India ForumDigital Deceit: How Astroturfing Produces Democratic Deficits12 Aug 2025 — Digital astroturfing uses the phenomenon of soc...</span></span></span>
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_organised_disinforma_da0a9d_fake_grassroots_cons_720350-Illustration-3-dark.svg" | relative_url }}" alt="Astroturfing illustration 3" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_organised_disinforma_da0a9d_fake_grassroots_cons_720350-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_organised_disinforma_da0a9d_fake_grassroots_cons_720350-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How platforms and journalists can avoid rewarding it
@@ -339,215 +339,215 @@ Astroturfing is difficult to eliminate completely because organisers continually
 
 ### Focus on networks, not individual posts
 
-Researchers increasingly argue that coordinated campaigns are best identified through patterns of behaviour rather than isolated content. Individual accounts may appear normal when viewed alone. Coordination often becomes visible only when analysing [timing]({{ 'timing/' | relative_url }}), connections and repeated activity across many accounts. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nature.com/articles/s41598-022-08404-9" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Coordination patterns reveal online political astroturfing...by D Schoch · 2022 · Cited by 94 — After all, political astroturfing...</span></span></span>
+Researchers increasingly argue that coordinated campaigns are best identified through patterns of behaviour rather than isolated content. Individual accounts may appear normal when viewed alone. Coordination often becomes visible only when analysing [timing]({{ 'timing/' | relative_url }}), connections and repeated activity across many accounts.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nature.com/articles/s41598-022-08404-9" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Coordination patterns reveal online political astroturfing...by D Schoch · 2022 · Cited by 94 — After all, political astroturfing...</span></span></span>
 
 ### Verify claims of widespread support
 
-Journalists and researchers can avoid treating social-media visibility as proof of public opinion. Questions such as who organised the campaign, who funds it, how participation was mobilised and whether engagement appears authentic are often as important as the content itself. <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/14614448251350100" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsAttributing coordinated social media manipulationJul 29, 2025 — &#x27; In CSMM, false beliefs are fostered about the identity and...</span></span></span>
+Journalists and researchers can avoid treating social-media visibility as proof of public opinion. Questions such as who organised the campaign, who funds it, how participation was mobilised and whether engagement appears authentic are often as important as the content itself.<span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/14614448251350100" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsAttributing coordinated social media manipulationJul 29, 2025 — &#x27; In CSMM, false beliefs are fostered about the identity and...</span></span></span>
 
 ### Look for transparency
 
-Authentic advocacy can disclose its organisers, sponsors and goals. Astroturfing depends on obscuring those relationships. Front groups, undisclosed sponsorship and hidden coordination are warning signs because they prevent audiences from evaluating motivations and interests. <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/14614448251350100" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsAttributing coordinated social media manipulationJul 29, 2025 — &#x27; In CSMM, false beliefs are fostered about the identity and...</span></span></span>
+Authentic advocacy can disclose its organisers, sponsors and goals. Astroturfing depends on obscuring those relationships. Front groups, undisclosed sponsorship and hidden coordination are warning signs because they prevent audiences from evaluating motivations and interests.<span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/14614448251350100" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsAttributing coordinated social media manipulationJul 29, 2025 — &#x27; In CSMM, false beliefs are fostered about the identity and...</span></span></span>
 
 ### Reduce incentives for artificial amplification
 
-Many digital systems reward visibility, engagement and trend formation. Researchers have proposed technical and governance approaches that make large-scale manipulation more expensive and easier to detect, reducing the ability of coordinated actors to dominate public attention through sheer volume. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/1910.07783" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Ephemeral Astroturfing Attacks: The Case of Fake Twitter Trends</span><span class="citation-popover-snippet">Ephemeral Astroturfing Attacks: The Case of Fake Twitter TrendsOctober 17, 2019...</span><span class="citation-popover-meta">Published: October 17, 2019</span></span></span>
+Many digital systems reward visibility, engagement and trend formation. Researchers have proposed technical and governance approaches that make large-scale manipulation more expensive and easier to detect, reducing the ability of coordinated actors to dominate public attention through sheer volume.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/1910.07783" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Ephemeral Astroturfing Attacks: The Case of Fake Twitter Trends</span><span class="citation-popover-snippet">Ephemeral Astroturfing Attacks: The Case of Fake Twitter TrendsOctober 17, 2019...</span><span class="citation-popover-meta">Published: October 17, 2019</span></span></span>
 
 ## The key misconception
 
 A common myth is that public consensus is always easy to recognise because large numbers of people will naturally reveal what most people think. Astroturfing shows that visible agreement and genuine agreement are not the same thing.
 
-The power of fake grassroots campaigns comes from their ability to manufacture the social cues people use to judge credibility. By making coordinated persuasion appear spontaneous, local and widely supported, astroturfing can reshape how rumours, controversies and policy debates are interpreted. The crucial question is therefore not simply whether many people appear to support a claim, but whether that appearance of support emerged independently or was carefully engineered. <span class="citation-chip-wrap"><a class="citation-chip" href="https://osf.io/preprints/socarxiv/7ucsh" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: osf.io">[OSF]</a><span class="citation-popover" role="note"><span class="citation-popover-source">osf.io</span><span class="citation-popover-snippet">Digital astroturfing in politics: Definition, typology, and...by M Kovic · Cited by 195 — We propose to call such fake online grassro...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/14614448251350100" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsAttributing coordinated social media manipulationJul 29, 2025 — &#x27; In CSMM, false beliefs are fostered about the identity and...</span></span></span>
+The power of fake grassroots campaigns comes from their ability to manufacture the social cues people use to judge credibility. By making coordinated persuasion appear spontaneous, local and widely supported, astroturfing can reshape how rumours, controversies and policy debates are interpreted. The crucial question is therefore not simply whether many people appear to support a claim, but whether that appearance of support emerged independently or was carefully engineered.<span class="citation-chip-wrap"><a class="citation-chip" href="https://osf.io/preprints/socarxiv/7ucsh" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: osf.io">[OSF]</a><span class="citation-popover" role="note"><span class="citation-popover-source">osf.io</span><span class="citation-popover-snippet">Digital astroturfing in politics: Definition, typology, and...by M Kovic · Cited by 195 — We propose to call such fake online grassro...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/14614448251350100" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsAttributing coordinated social media manipulationJul 29, 2025 — &#x27; In CSMM, false beliefs are fostered about the identity and...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When a Crowd Is Not a Crowd. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When a Crowd Is Not a Crowd. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Trust+Me+I%27m+Lying+by+Ryan+Holiday&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Trust Me I&#x27;m Lying on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nHU7DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Trust Me I&#x27;m Lying" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Trust+Me+I%27m+Lying+by+Ryan+Holiday&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Trust Me I&#x27;m Lying">Trust Me I&#x27;m Lying</a>
-        </h4>
-        <p class="fr-book-author">By Ryan Holiday</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Trust+Me+I%27m+Lying+by+Ryan+Holiday&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Trust Me I&#x27;m Lying on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nHU7DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Trust Me I&#x27;m Lying" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Trust+Me+I%27m+Lying+by+Ryan+Holiday&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Trust Me I&#x27;m Lying">Trust Me I&#x27;m Lying</a>
+</h4>
+<p class="fr-book-author">By Ryan Holiday</p>
         
-        <p class="fr-book-desc">Explains manufactured attention, influence campaigns, and perceived consensus.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Trust+Me+I%27m+Lying+by+Ryan+Holiday&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains manufactured attention, influence campaigns, and perceived consensus.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Trust+Me+I%27m+Lying+by+Ryan+Holiday&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Likewar+by+Peter+Warren+Singer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Likewar on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=URFxDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Likewar" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Likewar+by+Peter+Warren+Singer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Likewar">Likewar</a>
-        </h4>
-        <p class="fr-book-author">By Peter Warren Singer, Emerson T. Brooking</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Likewar+by+Peter+Warren+Singer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Likewar on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=URFxDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Likewar" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Likewar+by+Peter+Warren+Singer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Likewar">Likewar</a>
+</h4>
+<p class="fr-book-author">By Peter Warren Singer, Emerson T. Brooking</p>
         
-        <p class="fr-book-desc">Covers coordinated online influence and public opinion shaping.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Likewar+by+Peter+Warren+Singer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers coordinated online influence and public opinion shaping.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Likewar+by+Peter+Warren+Singer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Chaos+Machine+by+Max+Fisher&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Chaos Machine on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Fz5JEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Chaos Machine" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Chaos+Machine+by+Max+Fisher&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Chaos Machine">The Chaos Machine</a>
-        </h4>
-        <p class="fr-book-author">By Max Fisher</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Chaos+Machine+by+Max+Fisher&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Chaos Machine on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Fz5JEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Chaos Machine" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Chaos+Machine+by+Max+Fisher&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Chaos Machine">The Chaos Machine</a>
+</h4>
+<p class="fr-book-author">By Max Fisher</p>
         
-        <p class="fr-book-desc">Shows how platform dynamics can magnify coordinated campaigns.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Chaos+Machine+by+Max+Fisher&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows how platform dynamics can magnify coordinated campaigns.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Chaos+Machine+by+Max+Fisher&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Trust+Me%2C+I%27m+Lying+Ryan+Holiday&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Trust Me, I&#x27;m Lying on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/7888907-M.jpg" alt="Cover for Trust Me, I&#x27;m Lying" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Trust+Me%2C+I%27m+Lying+Ryan+Holiday&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Trust Me, I&#x27;m Lying">Trust Me, I&#x27;m Lying</a>
-        </h4>
-        <p class="fr-book-author">By Ryan Holiday</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Trust+Me%2C+I%27m+Lying+Ryan+Holiday&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Trust Me, I&#x27;m Lying on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/7888907-M.jpg" alt="Cover for Trust Me, I&#x27;m Lying" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Trust+Me%2C+I%27m+Lying+Ryan+Holiday&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Trust Me, I&#x27;m Lying">Trust Me, I&#x27;m Lying</a>
+</h4>
+<p class="fr-book-author">By Ryan Holiday</p>
         
-        <p class="fr-book-desc">First published 2012. Subjects: Public relations, Marketing, Blogs, Economic aspects, Social media.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Trust+Me%2C+I%27m+Lying+Ryan+Holiday&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2012. Subjects: Public relations, Marketing, Blogs, Economic aspects, Social media.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Trust+Me%2C+I%27m+Lying+Ryan+Holiday&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Trust+Me+I%27m+Lying&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Trust Me I&#x27;m Lying</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Likewar&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Likewar</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Chaos+Machine&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Chaos Machine</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Trust+Me+I%27m+Lying&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Trust Me I&#x27;m Lying</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Likewar&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Likewar</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Chaos+Machine&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Chaos Machine</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=classroom+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=astroturfing-when-a-crowd-is-not-a-crowd-myths-and-misconcept-classroom-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classroom wall art" data-ebay-reference="astroturfing-when-a-crowd-is-not-a-crowd-myths-and-misconcept-classroom-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for classroom rules Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/517fa39dd5354f7795b7.jpg' | relative_url }}" alt="Listing image for classroom rules Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=classroom+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=astroturfing-when-a-crowd-is-not-a-crowd-myths-and-misconcept-classroom-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classroom wall art" data-ebay-reference="astroturfing-when-a-crowd-is-not-a-crowd-myths-and-misconcept-classroom-wall-art" target="_blank" rel="sponsored noopener noreferrer">classroom rules Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=classroom+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=astroturfing-when-a-crowd-is-not-a-crowd-myths-and-misconcept-classroom-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classroom wall art" data-ebay-reference="astroturfing-when-a-crowd-is-not-a-crowd-myths-and-misconcept-classroom-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for classroom wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: classroom wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=classroom+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=astroturfing-when-a-crowd-is-not-a-crowd-myths-and-misconcept-classroom-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classroom wall art" data-ebay-reference="astroturfing-when-a-crowd-is-not-a-crowd-myths-and-misconcept-classroom-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=classroom+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=astroturfing-when-a-crowd-is-not-a-crowd-myths-and-misconcept-classroom-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classroom wall art" data-ebay-reference="astroturfing-when-a-crowd-is-not-a-crowd-myths-and-misconcept-classroom-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for classroom rules Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/517fa39dd5354f7795b7.jpg' | relative_url }}" alt="Listing image for classroom rules Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=classroom+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=astroturfing-when-a-crowd-is-not-a-crowd-myths-and-misconcept-classroom-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classroom wall art" data-ebay-reference="astroturfing-when-a-crowd-is-not-a-crowd-myths-and-misconcept-classroom-wall-art" target="_blank" rel="sponsored noopener noreferrer">classroom rules Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=classroom+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=astroturfing-when-a-crowd-is-not-a-crowd-myths-and-misconcept-classroom-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classroom wall art" data-ebay-reference="astroturfing-when-a-crowd-is-not-a-crowd-myths-and-misconcept-classroom-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for classroom wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: classroom wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=classroom+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=astroturfing-when-a-crowd-is-not-a-crowd-myths-and-misconcept-classroom-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classroom wall art" data-ebay-reference="astroturfing-when-a-crowd-is-not-a-crowd-myths-and-misconcept-classroom-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=classroom+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=astroturfing-when-a-crowd-is-not-a-crowd-myths-and-misconcept-classroom-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classroom wall art" data-ebay-reference="astroturfing-when-a-crowd-is-not-a-crowd-myths-and-misconcept-classroom-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Classroom wall decor Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/7b1b7f2cba3517344056.jpg' | relative_url }}" alt="Listing image for Classroom wall decor Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=classroom+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=astroturfing-when-a-crowd-is-not-a-crowd-myths-and-misconcept-classroom-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classroom wall art" data-ebay-reference="astroturfing-when-a-crowd-is-not-a-crowd-myths-and-misconcept-classroom-wall-art" target="_blank" rel="sponsored noopener noreferrer">Classroom wall decor Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=classroom+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=astroturfing-when-a-crowd-is-not-a-crowd-myths-and-misconcept-classroom-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classroom wall art" data-ebay-reference="astroturfing-when-a-crowd-is-not-a-crowd-myths-and-misconcept-classroom-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for classroom wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: classroom wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=classroom+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=astroturfing-when-a-crowd-is-not-a-crowd-myths-and-misconcept-classroom-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classroom wall art" data-ebay-reference="astroturfing-when-a-crowd-is-not-a-crowd-myths-and-misconcept-classroom-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=classroom+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=astroturfing-when-a-crowd-is-not-a-crowd-myths-and-misconcept-classroom-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classroom wall art" data-ebay-reference="astroturfing-when-a-crowd-is-not-a-crowd-myths-and-misconcept-classroom-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Classroom wall decor Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/7b1b7f2cba3517344056.jpg' | relative_url }}" alt="Listing image for Classroom wall decor Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=classroom+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=astroturfing-when-a-crowd-is-not-a-crowd-myths-and-misconcept-classroom-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classroom wall art" data-ebay-reference="astroturfing-when-a-crowd-is-not-a-crowd-myths-and-misconcept-classroom-wall-art" target="_blank" rel="sponsored noopener noreferrer">Classroom wall decor Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=classroom+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=astroturfing-when-a-crowd-is-not-a-crowd-myths-and-misconcept-classroom-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classroom wall art" data-ebay-reference="astroturfing-when-a-crowd-is-not-a-crowd-myths-and-misconcept-classroom-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for classroom wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: classroom wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=classroom+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=astroturfing-when-a-crowd-is-not-a-crowd-myths-and-misconcept-classroom-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classroom wall art" data-ebay-reference="astroturfing-when-a-crowd-is-not-a-crowd-myths-and-misconcept-classroom-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=classroom+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=astroturfing-when-a-crowd-is-not-a-crowd-myths-and-misconcept-classroom-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classroom wall art" data-ebay-reference="astroturfing-when-a-crowd-is-not-a-crowd-myths-and-misconcept-classroom-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Respect Circle Motivational Wall Art Poster for Home or Classroom"><img src="{{ '/assets/images/marketplace-covers/3a71f29aa38e8d4d7984.jpg' | relative_url }}" alt="Listing image for Respect Circle Motivational Wall Art Poster for Home or Classroom" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=classroom+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=astroturfing-when-a-crowd-is-not-a-crowd-myths-and-misconcept-classroom-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classroom wall art" data-ebay-reference="astroturfing-when-a-crowd-is-not-a-crowd-myths-and-misconcept-classroom-wall-art" target="_blank" rel="sponsored noopener noreferrer">Respect Circle Motivational Wall Art Poster for Home or Classroom</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=classroom+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=astroturfing-when-a-crowd-is-not-a-crowd-myths-and-misconcept-classroom-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classroom wall art" data-ebay-reference="astroturfing-when-a-crowd-is-not-a-crowd-myths-and-misconcept-classroom-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for classroom wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: classroom wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=classroom+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=astroturfing-when-a-crowd-is-not-a-crowd-myths-and-misconcept-classroom-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classroom wall art" data-ebay-reference="astroturfing-when-a-crowd-is-not-a-crowd-myths-and-misconcept-classroom-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=classroom+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=astroturfing-when-a-crowd-is-not-a-crowd-myths-and-misconcept-classroom-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classroom wall art" data-ebay-reference="astroturfing-when-a-crowd-is-not-a-crowd-myths-and-misconcept-classroom-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Respect Circle Motivational Wall Art Poster for Home or Classroom"><img src="{{ '/assets/images/marketplace-covers/3a71f29aa38e8d4d7984.jpg' | relative_url }}" alt="Listing image for Respect Circle Motivational Wall Art Poster for Home or Classroom" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=classroom+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=astroturfing-when-a-crowd-is-not-a-crowd-myths-and-misconcept-classroom-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classroom wall art" data-ebay-reference="astroturfing-when-a-crowd-is-not-a-crowd-myths-and-misconcept-classroom-wall-art" target="_blank" rel="sponsored noopener noreferrer">Respect Circle Motivational Wall Art Poster for Home or Classroom</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=classroom+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=astroturfing-when-a-crowd-is-not-a-crowd-myths-and-misconcept-classroom-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classroom wall art" data-ebay-reference="astroturfing-when-a-crowd-is-not-a-crowd-myths-and-misconcept-classroom-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for classroom wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: classroom wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=classroom+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=astroturfing-when-a-crowd-is-not-a-crowd-myths-and-misconcept-classroom-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classroom wall art" data-ebay-reference="astroturfing-when-a-crowd-is-not-a-crowd-myths-and-misconcept-classroom-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=classroom+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=astroturfing-when-a-crowd-is-not-a-crowd-myths-and-misconcept-classroom-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classroom wall art" data-ebay-reference="astroturfing-when-a-crowd-is-not-a-crowd-myths-and-misconcept-classroom-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Inspirational quote wall art, &quot;No one can stop you&quot; classroom wall stickers"><img src="{{ '/assets/images/marketplace-covers/445fdeffd97b5d9825ac.jpg' | relative_url }}" alt="Listing image for Inspirational quote wall art, &quot;No one can stop you&quot; classroom wall stickers" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=classroom+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=astroturfing-when-a-crowd-is-not-a-crowd-myths-and-misconcept-classroom-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classroom wall art" data-ebay-reference="astroturfing-when-a-crowd-is-not-a-crowd-myths-and-misconcept-classroom-wall-art" target="_blank" rel="sponsored noopener noreferrer">Inspirational quote wall art, &quot;No one can stop you&quot; classroom wall stickers</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=classroom+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=astroturfing-when-a-crowd-is-not-a-crowd-myths-and-misconcept-classroom-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classroom wall art" data-ebay-reference="astroturfing-when-a-crowd-is-not-a-crowd-myths-and-misconcept-classroom-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for classroom wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: classroom wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=classroom+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=astroturfing-when-a-crowd-is-not-a-crowd-myths-and-misconcept-classroom-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classroom wall art" data-ebay-reference="astroturfing-when-a-crowd-is-not-a-crowd-myths-and-misconcept-classroom-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=classroom+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=astroturfing-when-a-crowd-is-not-a-crowd-myths-and-misconcept-classroom-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classroom wall art" data-ebay-reference="astroturfing-when-a-crowd-is-not-a-crowd-myths-and-misconcept-classroom-wall-art" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=classroom+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=astroturfing-when-a-crowd-is-not-a-crowd-myths-and-misconcept-classroom-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classroom wall art" data-ebay-reference="astroturfing-when-a-crowd-is-not-a-crowd-myths-and-misconcept-classroom-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Inspirational quote wall art, &quot;No one can stop you&quot; classroom wall stickers"><img src="{{ '/assets/images/marketplace-covers/445fdeffd97b5d9825ac.jpg' | relative_url }}" alt="Listing image for Inspirational quote wall art, &quot;No one can stop you&quot; classroom wall stickers" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=classroom+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=astroturfing-when-a-crowd-is-not-a-crowd-myths-and-misconcept-classroom-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classroom wall art" data-ebay-reference="astroturfing-when-a-crowd-is-not-a-crowd-myths-and-misconcept-classroom-wall-art" target="_blank" rel="sponsored noopener noreferrer">Inspirational quote wall art, &quot;No one can stop you&quot; classroom wall stickers</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=classroom+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=astroturfing-when-a-crowd-is-not-a-crowd-myths-and-misconcept-classroom-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classroom wall art" data-ebay-reference="astroturfing-when-a-crowd-is-not-a-crowd-myths-and-misconcept-classroom-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for classroom wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: classroom wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=classroom+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=astroturfing-when-a-crowd-is-not-a-crowd-myths-and-misconcept-classroom-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classroom wall art" data-ebay-reference="astroturfing-when-a-crowd-is-not-a-crowd-myths-and-misconcept-classroom-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=classroom+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=astroturfing-when-a-crowd-is-not-a-crowd-myths-and-misconcept-classroom-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classroom wall art" data-ebay-reference="astroturfing-when-a-crowd-is-not-a-crowd-myths-and-misconcept-classroom-wall-art" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -563,7 +563,7 @@ The power of fake grassroots campaigns comes from their ability to manufacture t
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -583,7 +583,7 @@ The power of fake grassroots campaigns comes from their ability to manufacture t
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -615,7 +615,7 @@ The power of fake grassroots campaigns comes from their ability to manufacture t
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -667,7 +667,7 @@ The power of fake grassroots campaigns comes from their ability to manufacture t
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -712,7 +712,7 @@ The power of fake grassroots campaigns comes from their ability to manufacture t
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -753,171 +753,171 @@ The power of fake grassroots campaigns comes from their ability to manufacture t
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: osf.io  
-   Link: <a href="https://osf.io/preprints/socarxiv/7ucsh" target="_blank" rel="noopener noreferrer nofollow">https://osf.io/preprints/socarxiv/7ucsh</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Digital astroturfing in [politics](&amp;#123;&amp;#123; &#x27;politics/&#x27; | relative_url &amp;#125;&amp;#125;): Definition, typology, and...by M Kovic · Cited by 195 — We propose to call such fake online grassro...</p></details>
+   Link:<a href="https://osf.io/preprints/socarxiv/7ucsh" target="_blank" rel="noopener noreferrer nofollow">https://osf.io/preprints/socarxiv/7ucsh</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Digital astroturfing in [politics](&amp;#123;&amp;#123; &#x27;politics/&#x27; | relative_url &amp;#125;&amp;#125;): Definition, typology, and...by M Kovic · Cited by 195 — We propose to call such fake online grassro...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: researchgate.net  
    Title: Research Gate Online astroturfing: A problem beyond disinformation  
-   Link: <a href="https://www.researchgate.net/publication/361389437_Online_astroturfing_A_problem_beyond_disinformation" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/361389437_Online_astroturfing_A_problem_beyond_disinformation</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Online astroturfing: A problem beyond disinformationJune 16, 2022 — 5 May 2026 — Astroturfing is the practice of creating a f...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/361389437_Online_astroturfing_A_problem_beyond_disinformation" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/361389437_Online_astroturfing_A_problem_beyond_disinformation</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Online astroturfing: A problem beyond disinformationJune 16, 2022 — 5 May 2026 — Astroturfing is the practice of creating a f...</p></details>
    Published: June 16, 2022  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/pii/S2352250X24000575" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S2352250X24000575</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Review Clicks and tricks: The dark art of online persuasionby P Fagan · 2024 · Cited by 18 — On the one hand, astroturfing i...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/pii/S2352250X24000575" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S2352250X24000575</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Review Clicks and tricks: The dark art of online persuasionby P Fagan · 2024 · Cited by 18 — On the one hand, astroturfing i...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCCoordination patterns reveal online political astroturfing  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8930979/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8930979/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>by D Schoch · 2022 · Cited by 94 — Online political astroturfing—hidden information campaigns in which a political actor mimics genuin...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8930979/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8930979/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by D Schoch · 2022 · Cited by 94 — Online political astroturfing—hidden information campaigns in which a political actor mimics genuin...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: nature.com  
-   Link: <a href="https://www.nature.com/articles/s41598-022-08404-9" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41598-022-08404-9</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Coordination patterns reveal online political astroturfing...by D Schoch · 2022 · Cited by 94 — After all, political astroturfing...</p></details>
+   Link:<a href="https://www.nature.com/articles/s41598-022-08404-9" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41598-022-08404-9</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Coordination patterns reveal online political astroturfing...by D Schoch · 2022 · Cited by 94 — After all, political astroturfing...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11238850/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11238850/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Quantifying the vulnerabilities of the online public square to...by BT Truong · 2024 · Cited by 17 — We show that social media users...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11238850/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11238850/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Quantifying the vulnerabilities of the online public square to...by BT Truong · 2024 · Cited by 17 — We show that social media users...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: arxiv.org  
    Title: arXiv Ephemeral Astroturfing Attacks: The Case of Fake Twitter Trends  
-   Link: <a href="https://arxiv.org/abs/1910.07783" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1910.07783</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Ephemeral Astroturfing Attacks: The Case of Fake Twitter TrendsOctober 17, 2019...</p></details>
+   Link:<a href="https://arxiv.org/abs/1910.07783" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1910.07783</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ephemeral Astroturfing Attacks: The Case of Fake Twitter TrendsOctober 17, 2019...</p></details>
    Published: October 17, 2019  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2503.00599" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2503.00599</a>  
+   Link:<a href="https://arxiv.org/abs/2503.00599" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2503.00599</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: arxiv.org  
    Title: arXiv Trollthrottle -- Raising the Cost of Astroturfing  
-   Link: <a href="https://arxiv.org/abs/2004.08836" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2004.08836</a>  
+   Link:<a href="https://arxiv.org/abs/2004.08836" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2004.08836</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: arxiv.org  
    Title: arXiv FLOCK: Combating Astroturfing on Livestreaming Platforms  
-   Link: <a href="https://arxiv.org/abs/1610.01096" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1610.01096</a>  
+   Link:<a href="https://arxiv.org/abs/1610.01096" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1610.01096</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/355714693_Disinformation_social_media_bots_and_astroturfing_the_fourth_wave_of_digital_democracy" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/355714693_Disinformation_social_media_bots_and_astroturfing_the_fourth_wave_of_digital_democracy</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Disinformation, social media, bots, and astroturfingThis paper explores the creation of an astroturf group, which is a fake grassro...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/355714693_Disinformation_social_media_bots_and_astroturfing_the_fourth_wave_of_digital_democracy" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/355714693_Disinformation_social_media_bots_and_astroturfing_the_fourth_wave_of_digital_democracy</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Disinformation, social media, bots, and astroturfingThis paper explores the creation of an astroturf group, which is a fake grassro...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/332867727_Digital_astroturfing_in_politics_Definition_typology_and_countermeasures" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/332867727_Digital_astroturfing_in_politics_Definition_typology_and_countermeasures</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Digital astroturfing in politics: Definition, typology, and...23 Mar 2026 — In contemporary academic literature, digital astroturfing is...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/332867727_Digital_astroturfing_in_politics_Definition_typology_and_countermeasures" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/332867727_Digital_astroturfing_in_politics_Definition_typology_and_countermeasures</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Digital astroturfing in politics: Definition, typology, and...23 Mar 2026 — In contemporary academic literature, digital astroturfing is...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/pii/S2468227624002151" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S2468227624002151</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Political social media bot detection: Unveiling cutting-edge...by Z Ellaky · 2024 · Cited by 15 — Astroturf: creates fake widespread sup...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/pii/S2468227624002151" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S2468227624002151</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Political social media bot detection: Unveiling cutting-edge...by Z Ellaky · 2024 · Cited by 15 — Astroturf: creates fake widespread sup...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/html/2303.17251v2" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2303.17251v2</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Demystifying Misconceptions in Social Bots Research27 Mar 2024 — The present study concerns one of the many forms of online disinformatio...</p></details>
+   Link:<a href="https://arxiv.org/html/2303.17251v2" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2303.17251v2</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Demystifying Misconceptions in Social Bots Research27 Mar 2024 — The present study concerns one of the many forms of online disinformatio...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: journals.sagepub.com  
-   Link: <a href="https://journals.sagepub.com/doi/10.1177/14614448251350100" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/14614448251350100</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sage JournalsAttributing coordinated social media manipulationJul 29, 2025 — &#x27; In CSMM, false beliefs are fostered about the [identity](&amp;#123;&amp;#123; &#x27;identity/&#x27; | relative_url &amp;#125;&amp;#125;) and...</p></details>
+   Link:<a href="https://journals.sagepub.com/doi/10.1177/14614448251350100" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/14614448251350100</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sage JournalsAttributing coordinated social media manipulationJul 29, 2025 — &#x27; In CSMM, false beliefs are fostered about the [identity](&amp;#123;&amp;#123; &#x27;identity/&#x27; | relative_url &amp;#125;&amp;#125;) and...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: theindiaforum.in  
-   Link: <a href="https://www.theindiaforum.in/law/digital-deceit-how-astroturfing-produces-democratic-deficits" target="_blank" rel="noopener noreferrer nofollow">https://www.theindiaforum.in/law/digital-deceit-how-astroturfing-produces-democratic-deficits</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The India ForumDigital Deceit: How Astroturfing Produces Democratic Deficits12 Aug 2025 — Digital astroturfing uses the phenomenon of soc...</p></details>
+   Link:<a href="https://www.theindiaforum.in/law/digital-deceit-how-astroturfing-produces-democratic-deficits" target="_blank" rel="noopener noreferrer nofollow">https://www.theindiaforum.in/law/digital-deceit-how-astroturfing-produces-democratic-deficits</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The India ForumDigital Deceit: How Astroturfing Produces Democratic Deficits12 Aug 2025 — Digital astroturfing uses the phenomenon of soc...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: journals.sagepub.com  
-   Link: <a href="https://journals.sagepub.com/doi/10.1177/2057047320969435" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/2057047320969435</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sage JournalsDetecting astroturf lobbying movements - Brieuc Lits, 2020by B Lits · 2020 · Cited by 38 — Astroturf lobbying refers to the...</p></details>
+   Link:<a href="https://journals.sagepub.com/doi/10.1177/2057047320969435" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/2057047320969435</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sage JournalsDetecting astroturf lobbying movements - Brieuc Lits, 2020by B Lits · 2020 · Cited by 38 — Astroturf lobbying refers to the...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: journals.sagepub.com  
-   Link: <a href="https://journals.sagepub.com/doi/10.1177/01914537221108467" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/01914537221108467</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sage JournalsOnline astroturfing: A problem beyond disinformationby J Chan · 2024 · Cited by 90 — Classic astroturfing, as the name sugge...</p></details>
+   Link:<a href="https://journals.sagepub.com/doi/10.1177/01914537221108467" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/01914537221108467</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sage JournalsOnline astroturfing: A problem beyond disinformationby J Chan · 2024 · Cited by 90 — Classic astroturfing, as the name sugge...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: tobaccotactics.org  
-   Link: <a href="https://www.tobaccotactics.org/article/astroturfing/" target="_blank" rel="noopener noreferrer nofollow">https://www.tobaccotactics.org/article/astroturfing/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>11 Mar 2022 — To create an impression of spontaneous, grassroots public support.... Fake Grassroots in the 1990s. One of the world&#x27;s lea...</p></details>
+   Link:<a href="https://www.tobaccotactics.org/article/astroturfing/" target="_blank" rel="noopener noreferrer nofollow">https://www.tobaccotactics.org/article/astroturfing/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>11 Mar 2022 — To create an impression of spontaneous, grassroots public support.... Fake Grassroots in the 1990s. One of the world&#x27;s lea...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Astroturfing" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Astroturfing</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AstroturfingAstroturfing is the use of fake grassroots efforts that primarily focus on influencing public opinion and typically are fu...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Astroturfing" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Astroturfing</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AstroturfingAstroturfing is the use of fake grassroots efforts that primarily focus on influencing public opinion and typically are fu...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: cdmrn.ca  
-   Link: <a href="https://www.cdmrn.ca/learning-content/astroturfing" target="_blank" rel="noopener noreferrer nofollow">https://www.cdmrn.ca/learning-content/astroturfing</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>3 Apr 2025 —... grassroots movements and public opinion.... If you suspect the campaign may be using bots, you can report the fake acco...</p></details>
+   Link:<a href="https://www.cdmrn.ca/learning-content/astroturfing" target="_blank" rel="noopener noreferrer nofollow">https://www.cdmrn.ca/learning-content/astroturfing</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>3 Apr 2025 —... grassroots movements and public opinion.... If you suspect the campaign may be using bots, you can report the fake acco...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: firstmonday.org  
-   Link: <a href="https://firstmonday.org/ojs/index.php/fm/article/view/10801/9723" target="_blank" rel="noopener noreferrer nofollow">https://firstmonday.org/ojs/index.php/fm/article/view/10801/9723</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>of Manufacturing rage: The Russian Internet...by A Al-Rawi · 2020 · Cited by 42 — This paper analyzes the social media ads from the view...</p></details>
+   Link:<a href="https://firstmonday.org/ojs/index.php/fm/article/view/10801/9723" target="_blank" rel="noopener noreferrer nofollow">https://firstmonday.org/ojs/index.php/fm/article/view/10801/9723</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>of Manufacturing rage: The Russian Internet...by A Al-Rawi · 2020 · Cited by 42 — This paper analyzes the social media ads from the view...</p></details>
 
 ### Additional References
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: suttonsmart.com  
-   Link: <a href="https://suttonsmart.com/political-consulting/astroturfing-in-politics/" target="_blank" rel="noopener noreferrer nofollow">https://suttonsmart.com/political-consulting/astroturfing-in-politics/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Astroturfing in Politics: The Fake Grassroots Tactic ExposedAstroturfing is the practice of creating the illusion of grassroots support f...</p></details>
+   Link:<a href="https://suttonsmart.com/political-consulting/astroturfing-in-politics/" target="_blank" rel="noopener noreferrer nofollow">https://suttonsmart.com/political-consulting/astroturfing-in-politics/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Astroturfing in Politics: The Fake Grassroots Tactic ExposedAstroturfing is the practice of creating the illusion of grassroots support f...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/TheoryOfReddit/comments/rqmc5k/astroturfing_on_reddit/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/TheoryOfReddit/comments/rqmc5k/astroturfing_on_reddit/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Astroturfing on Reddit: r/TheoryOfRedditAstroturfing is essentially “fake grassroots” movements. It is organized activity made to stimul...</p></details>
+   Link:<a href="https://www.reddit.com/r/TheoryOfReddit/comments/rqmc5k/astroturfing_on_reddit/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/TheoryOfReddit/comments/rqmc5k/astroturfing_on_reddit/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Astroturfing on Reddit: r/TheoryOfRedditAstroturfing is essentially “fake grassroots” movements. It is organized activity made to stimul...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: orionpolicy.org  
-   Link: <a href="https://orionpolicy.org/political-astroturfing-in-twitterscape-the-role-of-troll-armies-in-turkeys-democratic-backsliding/" target="_blank" rel="noopener noreferrer nofollow">https://orionpolicy.org/political-astroturfing-in-twitterscape-the-role-of-troll-armies-in-turkeys-democratic-backsliding/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Political Astroturfing in Turkey: Troll Armies and DemocracyBuilding on the Stanford University&#x27;s report, this study explores the politic...</p></details>
+   Link:<a href="https://orionpolicy.org/political-astroturfing-in-twitterscape-the-role-of-troll-armies-in-turkeys-democratic-backsliding/" target="_blank" rel="noopener noreferrer nofollow">https://orionpolicy.org/political-astroturfing-in-twitterscape-the-role-of-troll-armies-in-turkeys-democratic-backsliding/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Political Astroturfing in Turkey: Troll Armies and DemocracyBuilding on the Stanford University&#x27;s report, this study explores the politic...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: scholars.lib.ntu.edu.tw  
-   Link: <a href="https://scholars.lib.ntu.edu.tw/handle/123456789/425114" target="_blank" rel="noopener noreferrer nofollow">https://scholars.lib.ntu.edu.tw/handle/123456789/425114</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>astroturfing in politics: Definition, typology, and...We propose to call such fake online grassroots activity digital astroturfing, and...</p></details>
+   Link:<a href="https://scholars.lib.ntu.edu.tw/handle/123456789/425114" target="_blank" rel="noopener noreferrer nofollow">https://scholars.lib.ntu.edu.tw/handle/123456789/425114</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>astroturfing in politics: Definition, typology, and...We propose to call such fake online grassroots activity digital astroturfing, and...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: bi.team  
-   Link: <a href="https://www.bi.team/press-releases/social-media-algorithms-amplify-right-wing-content-against-young-users-preference-study-finds/" target="_blank" rel="noopener noreferrer nofollow">https://www.bi.team/press-releases/social-media-algorithms-amplify-right-wing-content-against-young-users-preference-study-finds/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Social media algorithms amplify right-wing content against...10 Mar 2026 — London, UK – A study into young European adults&#x27; experiences...</p></details>
+   Link:<a href="https://www.bi.team/press-releases/social-media-algorithms-amplify-right-wing-content-against-young-users-preference-study-finds/" target="_blank" rel="noopener noreferrer nofollow">https://www.bi.team/press-releases/social-media-algorithms-amplify-right-wing-content-against-young-users-preference-study-finds/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Social media algorithms amplify right-wing content against...10 Mar 2026 — London, UK – A study into young European adults&#x27; experiences...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: manchester.ac.uk  
    Title: how to rig an election twitters problem with political saboteurs  
-   Link: <a href="https://www.manchester.ac.uk/about/news/how-to-rig-an-election-twitters-problem-with-political-saboteurs/" target="_blank" rel="noopener noreferrer nofollow">https://www.manchester.ac.uk/about/news/how-to-rig-an-election-twitters-problem-with-political-saboteurs/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How to rig an election: Twitter&#x27;s problem with political...28 Oct 2019 — &#x27;Astroturfing&#x27; comes from the way in which agents appear to be...</p></details>
+   Link:<a href="https://www.manchester.ac.uk/about/news/how-to-rig-an-election-twitters-problem-with-political-saboteurs/" target="_blank" rel="noopener noreferrer nofollow">https://www.manchester.ac.uk/about/news/how-to-rig-an-election-twitters-problem-with-political-saboteurs/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How to rig an election: Twitter&#x27;s problem with political...28 Oct 2019 — &#x27;Astroturfing&#x27; comes from the way in which agents appear to be...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: turnto23.com  
    Title: astroturfing and the rise of misinformation campaigns  
-   Link: <a href="https://www.turnto23.com/news/news-literacy-project/astroturfing-and-the-rise-of-misinformation-campaigns" target="_blank" rel="noopener noreferrer nofollow">https://www.turnto23.com/news/news-literacy-project/astroturfing-and-the-rise-of-misinformation-campaigns</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;Astroturfing&#x27; and the rise of misinformation campaigns27 Jan 2021 — Astroturfing is an effort to mobilize the mass public in a way that...</p></details>
+   Link:<a href="https://www.turnto23.com/news/news-literacy-project/astroturfing-and-the-rise-of-misinformation-campaigns" target="_blank" rel="noopener noreferrer nofollow">https://www.turnto23.com/news/news-literacy-project/astroturfing-and-the-rise-of-misinformation-campaigns</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;Astroturfing&#x27; and the rise of misinformation campaigns27 Jan 2021 — Astroturfing is an effort to mobilize the mass public in a way that...</p></details>
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: icono14.net  
    Title: Inside the Invisible Machinery of Astroturfing  
-   Link: <a href="https://icono14.net/ojs/index.php/icono14/article/view/2278/2524" target="_blank" rel="noopener noreferrer nofollow">https://icono14.net/ojs/index.php/icono14/article/view/2278/2524</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A serial...While detection methods have advanced - including network analysis, linguistic patterning, and bot detection - many campaigns...</p></details>
+   Link:<a href="https://icono14.net/ojs/index.php/icono14/article/view/2278/2524" target="_blank" rel="noopener noreferrer nofollow">https://icono14.net/ojs/index.php/icono14/article/view/2278/2524</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A serial...While detection methods have advanced - including network analysis, linguistic patterning, and bot detection - many campaigns...</p></details>
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: springerprofessional.de  
-   Link: <a href="https://www.springerprofessional.de/en/astroturfing-understanding-and-addressing-the-influence-of-fake-/51283520" target="_blank" rel="noopener noreferrer nofollow">https://www.springerprofessional.de/en/astroturfing-understanding-and-addressing-the-influence-of-fake-/51283520</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>of fake support or opposition to a certain cause, product, or campaign...</p></details>
+   Link:<a href="https://www.springerprofessional.de/en/astroturfing-understanding-and-addressing-the-influence-of-fake-/51283520" target="_blank" rel="noopener noreferrer nofollow">https://www.springerprofessional.de/en/astroturfing-understanding-and-addressing-the-influence-of-fake-/51283520</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>of fake support or opposition to a certain cause, product, or campaign...</p></details>
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: Lawfare  
-   Link: <a href="https://www.lawfaremedia.org/article/fake-news-fake-views-new-challenges-posed-chatgpt-ai" target="_blank" rel="noopener noreferrer nofollow">https://www.lawfaremedia.org/article/fake-news-fake-views-new-challenges-posed-chatgpt-ai</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Challenges Posed by ChatGPT-Like AIJan 20, 2023 — Astroturfing circa 2016, however, was often either ineffective or expensive...</p></details>
+   Link:<a href="https://www.lawfaremedia.org/article/fake-news-fake-views-new-challenges-posed-chatgpt-ai" target="_blank" rel="noopener noreferrer nofollow">https://www.lawfaremedia.org/article/fake-news-fake-views-new-challenges-posed-chatgpt-ai</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Challenges Posed by ChatGPT-Like AIJan 20, 2023 — Astroturfing circa 2016, however, was often either ineffective or expensive...</p></details>

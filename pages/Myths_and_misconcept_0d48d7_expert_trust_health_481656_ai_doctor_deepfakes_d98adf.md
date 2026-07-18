@@ -268,14 +268,14 @@ image: /assets/images/Myths_and_misconcept_0d48d7_expert_trust_health_481656_ai_
 
 ## Introduction
 
-AI deepfakes have created a new version of an old health myth problem: false claims gain credibility by appearing to come from a trusted medical professional. Today, inexpensive artificial intelligence tools can imitate a doctor’s face, voice, mannerisms and [confidence]({{ 'confidence/' | relative_url }}) with enough realism to persuade viewers scrolling quickly through social media feeds. A fabricated video may appear to show a physician endorsing a supplement, revealing a “hidden cure”, criticising established treatments or promoting a dramatic health claim that has little or no scientific support. The result is a powerful shortcut around normal trust checks. Instead of asking whether evidence supports a claim, viewers may unconsciously ask whether the doctor on screen seems believable. Investigations, consumer warnings and fact-checking organisations have documented a growing number of cases in which real doctors, academics and health communicators have been impersonated to spread misinformation or sell questionable products. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/society/2025/dec/05/ai-deepfakes-of-real-doctors-spreading-health-misinformation-on-social-media" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">He added that the creators of deepfake health videos deploy AI</span><span class="citation-popover-snippet">The GuardianAI deepfakes of real doctors spreading health...December 5, 2025 — Dec 6, 2025 — AI deepfakes of real doctors spreading heal...</span><span class="citation-popover-meta">Published: December 5, 2025</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://fullfact.org/health/academics-deepfaked-tiktok-wellness-nest/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fullfact.org">[Full Fact]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fullfact.org</span><span class="citation-popover-title">academics deepfaked tiktok wellness nest</span><span class="citation-popover-snippet">Full FactRevealed: how academics are being deepfaked on TikTok...5 Dec 2025 — A Full Fact investigation has found that a series of socia...</span></span></span>
+AI deepfakes have created a new version of an old health myth problem: false claims gain credibility by appearing to come from a trusted medical professional. Today, inexpensive artificial intelligence tools can imitate a doctor’s face, voice, mannerisms and [confidence]({{ 'confidence/' | relative_url }}) with enough realism to persuade viewers scrolling quickly through social media feeds. A fabricated video may appear to show a physician endorsing a supplement, revealing a “hidden cure”, criticising established treatments or promoting a dramatic health claim that has little or no scientific support. The result is a powerful shortcut around normal trust checks. Instead of asking whether evidence supports a claim, viewers may unconsciously ask whether the doctor on screen seems believable. Investigations, consumer warnings and fact-checking organisations have documented a growing number of cases in which real doctors, academics and health communicators have been impersonated to spread misinformation or sell questionable products.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/society/2025/dec/05/ai-deepfakes-of-real-doctors-spreading-health-misinformation-on-social-media" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">He added that the creators of deepfake health videos deploy AI</span><span class="citation-popover-snippet">The GuardianAI deepfakes of real doctors spreading health...December 5, 2025 — Dec 6, 2025 — AI deepfakes of real doctors spreading heal...</span><span class="citation-popover-meta">Published: December 5, 2025</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://fullfact.org/health/academics-deepfaked-tiktok-wellness-nest/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fullfact.org">[Full Fact]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fullfact.org</span><span class="citation-popover-title">academics deepfaked tiktok wellness nest</span><span class="citation-popover-snippet">Full FactRevealed: how academics are being deepfaked on TikTok...5 Dec 2025 — A Full Fact investigation has found that a series of socia...</span></span></span>
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_expert_trust_health_481656_ai_doctor_deepfakes_d98adf-Illustration-1-dark.svg" | relative_url }}" alt="AI Doctors illustration 1" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_expert_trust_health_481656_ai_doctor_deepfakes_d98adf-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_expert_trust_health_481656_ai_doctor_deepfakes_d98adf-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## How Fake Expert Faces Hijack Credibility
 
 Health misinformation often succeeds when it borrows authority. Deepfakes make that process faster and more convincing by attaching a false message to a recognisable medical [identity]({{ 'identity/' | relative_url }}).
 
-Unlike traditional scams that simply invent an expert, modern deepfakes can imitate real doctors. AI systems can analyse publicly available interviews, lectures, television appearances and social media clips to recreate a person's voice and facial movements. A fabricated video may therefore appear to show a respected clinician enthusiastically recommending a supplement or treatment they have never endorsed. Investigations by Full Fact found AI-generated videos using the likenesses of real doctors and academics to promote health products with false endorsements, while separate reporting documented deepfakes of recognised medical figures being used to market unproven remedies. <span class="citation-chip-wrap"><a class="citation-chip" href="https://fullfact.org/health/academics-deepfaked-tiktok-wellness-nest/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fullfact.org">[Full Fact]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fullfact.org</span><span class="citation-popover-title">academics deepfaked tiktok wellness nest</span><span class="citation-popover-snippet">Full FactRevealed: how academics are being deepfaked on TikTok...5 Dec 2025 — A Full Fact investigation has found that a series of socia...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.abc.net.au/news/2025-05-22/deepfake-norman-swan-videos-spruiking-unproven-medicines/105038482" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc.net.au">[ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc.net.au</span><span class="citation-popover-title">deepfake norman swan videos spruiking unproven medicines</span><span class="citation-popover-snippet">Another pernicious scam involving me is...Read more...</span></span></span>
+Unlike traditional scams that simply invent an expert, modern deepfakes can imitate real doctors. AI systems can analyse publicly available interviews, lectures, television appearances and social media clips to recreate a person's voice and facial movements. A fabricated video may therefore appear to show a respected clinician enthusiastically recommending a supplement or treatment they have never endorsed. Investigations by Full Fact found AI-generated videos using the likenesses of real doctors and academics to promote health products with false endorsements, while separate reporting documented deepfakes of recognised medical figures being used to market unproven remedies.<span class="citation-chip-wrap"><a class="citation-chip" href="https://fullfact.org/health/academics-deepfaked-tiktok-wellness-nest/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fullfact.org">[Full Fact]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fullfact.org</span><span class="citation-popover-title">academics deepfaked tiktok wellness nest</span><span class="citation-popover-snippet">Full FactRevealed: how academics are being deepfaked on TikTok...5 Dec 2025 — A Full Fact investigation has found that a series of socia...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.abc.net.au/news/2025-05-22/deepfake-norman-swan-videos-spruiking-unproven-medicines/105038482" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc.net.au">[ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc.net.au</span><span class="citation-popover-title">deepfake norman swan videos spruiking unproven medicines</span><span class="citation-popover-snippet">Another pernicious scam involving me is...Read more...</span></span></span>
 
 The tactic works because viewers often treat visual evidence as inherently trustworthy. Seeing a doctor speak creates a stronger impression than reading anonymous text. The white coat, clinical language and apparent professional confidence act as credibility signals even when the underlying content is fabricated.
 
@@ -291,7 +291,7 @@ Common targets include:
 
 </div>
 
-Consumer and regulatory agencies have repeatedly warned that advertisements for health products frequently rely on unsupported claims and misleading endorsements. Deepfake technology allows those endorsements to be manufactured at scale. <span class="citation-chip-wrap"><a class="citation-chip" href="https://consumer.ftc.gov/node/76330" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: consumer.ftc.gov">[Consumer Advice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">consumer.ftc.gov</span><span class="citation-popover-snippet">Consumer AdviceFTC &amp; FDA issue warning letters to supplement sellersAds abound for products that claim to treat or prevent serious health...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ftc.gov/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ftc.gov">[Federal Trade Commission]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ftc.gov</span><span class="citation-popover-snippet">Federal Trade CommissionFederal Trade Commission &#124; Protecting America&#x27;s ConsumersThe official website of the Federal Trade Commission, pr...</span></span></span>
+Consumer and regulatory agencies have repeatedly warned that advertisements for health products frequently rely on unsupported claims and misleading endorsements. Deepfake technology allows those endorsements to be manufactured at scale.<span class="citation-chip-wrap"><a class="citation-chip" href="https://consumer.ftc.gov/node/76330" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: consumer.ftc.gov">[Consumer Advice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">consumer.ftc.gov</span><span class="citation-popover-snippet">Consumer AdviceFTC &amp; FDA issue warning letters to supplement sellersAds abound for products that claim to treat or prevent serious health...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ftc.gov/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ftc.gov">[Federal Trade Commission]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ftc.gov</span><span class="citation-popover-snippet">Federal Trade CommissionFederal Trade Commission &#124; Protecting America&#x27;s ConsumersThe official website of the Federal Trade Commission, pr...</span></span></span>
 
 ## Why Polished Medical Tone Can Mislead Viewers
 
@@ -299,7 +299,7 @@ Deepfakes are persuasive not only because they look authentic but also because t
 
 Medical professionals often speak calmly, use technical terminology and explain complex topics with confidence. AI systems can mimic these patterns. A fabricated doctor can sound measured, evidence-based and reassuring while delivering completely false information.
 
-Research on public perceptions of AI-generated medical responses highlights an important vulnerability: many people struggle to distinguish between genuine expert guidance and AI-generated content. In one study, participants often viewed AI-generated medical answers as trustworthy and were willing to follow advice even when its accuracy was low. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2408.15266" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">People over trust AI-generated medical responses and view them to be as valid as doctors, despite low accuracyAugust 12, 2024...</span><span class="citation-popover-meta">Published: August 12, 2024</span></span></span>
+Research on public perceptions of AI-generated medical responses highlights an important vulnerability: many people struggle to distinguish between genuine expert guidance and AI-generated content. In one study, participants often viewed AI-generated medical answers as trustworthy and were willing to follow advice even when its accuracy was low.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2408.15266" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">People over trust AI-generated medical responses and view them to be as valid as doctors, despite low accuracyAugust 12, 2024...</span><span class="citation-popover-meta">Published: August 12, 2024</span></span></span>
 
 This tendency becomes more dangerous when AI-generated content is wrapped inside a realistic video of a doctor. The viewer receives several reinforcing signals at once:
 
@@ -315,7 +315,7 @@ This tendency becomes more dangerous when AI-generated content is wrapped inside
 
 [Health myths]({{ 'health-myths/' | relative_url }}) frequently exploit emotional needs such as hope, fear or frustration. Deepfake doctors can amplify these emotions by appearing to offer certainty where real medicine often discusses probabilities, limitations and risks. A fake physician claiming that a supplement “reverses diabetes naturally” may sound more appealing than a genuine clinician explaining the complexities of disease management.
 
-Investigations into misinformation targeting older adults have shown how persuasive health-related video content can become when it appears authoritative and easy to understand. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.mcgill.ca/oss/article/medical-health-and-nutrition-pseudoscience-technology/deceitful-ai-videos-mislead-seniors-important-health-issues" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mcgill.ca">[McGill University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mcgill.ca</span><span class="citation-popover-title">As their body ages, they want to know</span><span class="citation-popover-snippet">McGill UniversityDeceitful AI Videos Mislead Seniors on Important Health...Dec 11, 2025 — There is a rapidly spreading plague of videos...</span></span></span>
+Investigations into misinformation targeting older adults have shown how persuasive health-related video content can become when it appears authoritative and easy to understand.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.mcgill.ca/oss/article/medical-health-and-nutrition-pseudoscience-technology/deceitful-ai-videos-mislead-seniors-important-health-issues" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mcgill.ca">[McGill University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mcgill.ca</span><span class="citation-popover-title">As their body ages, they want to know</span><span class="citation-popover-snippet">McGill UniversityDeceitful AI Videos Mislead Seniors on Important Health...Dec 11, 2025 — There is a rapidly spreading plague of videos...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/XEpMNOFWcg0" title="Norman Swan deepfakes push unproven supplements | ABC NEWS" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=XEpMNOFWcg0" target="_blank" rel="noopener noreferrer">Norman Swan deepfakes push unproven supplements | ABC NEWS</a></p><p class="youtube-embed-meta">Channel: ABC News (Australia) &middot; Views: 6.2K &middot; Uploaded: May 2025 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=XEpMNOFWcg0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=XEpMNOFWcg0">Open on YouTube</a></p></div></div></div>
 
@@ -323,13 +323,13 @@ Investigations into misinformation targeting older adults have shown how persuas
 
 The threat is no longer theoretical. Multiple documented cases show deepfakes being used to spread health myths and market questionable products.
 
-Australian broadcaster and physician Norman Swan publicly warned about AI-generated videos that falsely portrayed him promoting unproven weight-loss and blood-sugar products. The videos linked viewers to commercial websites selling products he had never endorsed. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.abc.net.au/news/2025-05-22/deepfake-norman-swan-videos-spruiking-unproven-medicines/105038482" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc.net.au">[ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc.net.au</span><span class="citation-popover-title">deepfake norman swan videos spruiking unproven medicines</span><span class="citation-popover-snippet">Another pernicious scam involving me is...Read more...</span></span></span>
+Australian broadcaster and physician Norman Swan publicly warned about AI-generated videos that falsely portrayed him promoting unproven weight-loss and blood-sugar products. The videos linked viewers to commercial websites selling products he had never endorsed.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.abc.net.au/news/2025-05-22/deepfake-norman-swan-videos-spruiking-unproven-medicines/105038482" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc.net.au">[ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc.net.au</span><span class="citation-popover-title">deepfake norman swan videos spruiking unproven medicines</span><span class="citation-popover-snippet">Another pernicious scam involving me is...Read more...</span></span></span>
 
-A Full Fact investigation identified networks of social media accounts using AI-generated versions of real academics and doctors to advertise supplements and health products. The impersonated experts reported that they had never made the statements attributed to them. <span class="citation-chip-wrap"><a class="citation-chip" href="https://fullfact.org/health/academics-deepfaked-tiktok-wellness-nest/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fullfact.org">[Full Fact]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fullfact.org</span><span class="citation-popover-title">academics deepfaked tiktok wellness nest</span><span class="citation-popover-snippet">Full FactRevealed: how academics are being deepfaked on TikTok...5 Dec 2025 — A Full Fact investigation has found that a series of socia...</span></span></span>
+A Full Fact investigation identified networks of social media accounts using AI-generated versions of real academics and doctors to advertise supplements and health products. The impersonated experts reported that they had never made the statements attributed to them.<span class="citation-chip-wrap"><a class="citation-chip" href="https://fullfact.org/health/academics-deepfaked-tiktok-wellness-nest/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fullfact.org">[Full Fact]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fullfact.org</span><span class="citation-popover-title">academics deepfaked tiktok wellness nest</span><span class="citation-popover-snippet">Full FactRevealed: how academics are being deepfaked on TikTok...5 Dec 2025 — A Full Fact investigation has found that a series of socia...</span></span></span>
 
-Consumer investigations in the United Kingdom also uncovered advertisements impersonating legitimate doctors to promote products ranging from skin treatments to purported glucose-monitoring devices. Some adverts falsely suggested approval from medical organisations or regulatory authorities. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thetimes.co.uk/article/warning-scammers-impersonating-doctors-ljn2splvv" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thetimes.co.uk">[The Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thetimes.co.uk</span><span class="citation-popover-title">The Times Warning over scammers impersonating doctors on social media</span><span class="citation-popover-snippet">has uncovered a rise in social media scams involving fraudsters impersonating doctors to promote fake health products. These scams includ...</span></span></span>
+Consumer investigations in the United Kingdom also uncovered advertisements impersonating legitimate doctors to promote products ranging from skin treatments to purported glucose-monitoring devices. Some adverts falsely suggested approval from medical organisations or regulatory authorities.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thetimes.co.uk/article/warning-scammers-impersonating-doctors-ljn2splvv" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thetimes.co.uk">[The Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thetimes.co.uk</span><span class="citation-popover-title">The Times Warning over scammers impersonating doctors on social media</span><span class="citation-popover-snippet">has uncovered a rise in social media scams involving fraudsters impersonating doctors to promote fake health products. These scams includ...</span></span></span>
 
-Reports from international monitoring organisations have documented similar incidents involving fake doctors promoting unproven supplements across TikTok and other [platforms]({{ 'platforms/' | relative_url }}). <span class="citation-link-wrap"><a class="citation-inline-link" href="https://oecd.ai/en/incidents/2025-12-07-171c" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oecd.ai">[OECD.AI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oecd.ai</span><span class="citation-popover-snippet">AI-Generated Deepfake Doctors Spread Health...Dec 7, 2025 — AI-generated deepfake videos featuring fake doctors have... AI-Generated De...</span></span></span>
+Reports from international monitoring organisations have documented similar incidents involving fake doctors promoting unproven supplements across TikTok and other [platforms]({{ 'platforms/' | relative_url }}).<span class="citation-link-wrap"><a class="citation-inline-link" href="https://oecd.ai/en/incidents/2025-12-07-171c" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oecd.ai">[OECD.AI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oecd.ai</span><span class="citation-popover-snippet">AI-Generated Deepfake Doctors Spread Health...Dec 7, 2025 — AI-generated deepfake videos featuring fake doctors have... AI-Generated De...</span></span></span>
 
 These cases illustrate a shift from simple misinformation toward synthetic authority: the message is not merely false, but is presented through an artificial version of someone who appears qualified to speak.
 
@@ -352,7 +352,7 @@ Several factors help these videos spread:
 
 </div>
 
-Researchers and industry analysts have warned that the barriers to creating convincing deepfakes have become dramatically lower, making impersonation scams easier to produce at scale. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/society/2025/dec/05/ai-deepfakes-of-real-doctors-spreading-health-misinformation-on-social-media" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">He added that the creators of deepfake health videos deploy AI</span><span class="citation-popover-snippet">The GuardianAI deepfakes of real doctors spreading health...December 5, 2025 — Dec 6, 2025 — AI deepfakes of real doctors spreading heal...</span><span class="citation-popover-meta">Published: December 5, 2025</span></span></span>
+Researchers and industry analysts have warned that the barriers to creating convincing deepfakes have become dramatically lower, making impersonation scams easier to produce at scale.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/society/2025/dec/05/ai-deepfakes-of-real-doctors-spreading-health-misinformation-on-social-media" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">He added that the creators of deepfake health videos deploy AI</span><span class="citation-popover-snippet">The GuardianAI deepfakes of real doctors spreading health...December 5, 2025 — Dec 6, 2025 — AI deepfakes of real doctors spreading heal...</span><span class="citation-popover-meta">Published: December 5, 2025</span></span></span>
 
 The result is a volume problem. Even if platforms remove some deceptive videos, new versions can often be generated rapidly and redistributed through different accounts.
 
@@ -366,7 +366,7 @@ No single warning sign identifies every deepfake, but several practical checks c
 
 Look for evidence outside the clip itself.
 
-Search for the doctor's official website, hospital profile, university page or verified social media account. If a physician is genuinely endorsing a major treatment or product, there will usually be evidence beyond a single viral video. Many doctors who have been impersonated publicly post warnings once deepfakes begin circulating. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.abc.net.au/news/2025-05-22/deepfake-norman-swan-videos-spruiking-unproven-medicines/105038482" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc.net.au">[ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc.net.au</span><span class="citation-popover-title">deepfake norman swan videos spruiking unproven medicines</span><span class="citation-popover-snippet">Another pernicious scam involving me is...Read more...</span></span></span>
+Search for the doctor's official website, hospital profile, university page or verified social media account. If a physician is genuinely endorsing a major treatment or product, there will usually be evidence beyond a single viral video. Many doctors who have been impersonated publicly post warnings once deepfakes begin circulating.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.abc.net.au/news/2025-05-22/deepfake-norman-swan-videos-spruiking-unproven-medicines/105038482" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc.net.au">[ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc.net.au</span><span class="citation-popover-title">deepfake norman swan videos spruiking unproven medicines</span><span class="citation-popover-snippet">Another pernicious scam involving me is...Read more...</span></span></span>
 
 ### Examine the Claim, Not Just the Speaker
 
@@ -402,7 +402,7 @@ While deepfakes continue to improve, many still contain clues:
 
 </div>
 
-Experts studying AI-generated medical misinformation note that suspicious videos often focus on persuasion rather than verifiable information. <span class="citation-chip-wrap"><a class="citation-chip" href="https://nypost.com/2025/03/07/tech/ai-generated-doctors-are-duping-tiktok-users-with-fake-medical-advice-heres-how-to-spot-a-horrifying-fraud/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nypost.com">[New York Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nypost.com</span><span class="citation-popover-snippet">These avatars, often claiming expertise in fields like gynecology or plastic surgery, are completely computer-generated. Users are alerte...</span></span></span>
+Experts studying AI-generated medical misinformation note that suspicious videos often focus on persuasion rather than verifiable information.<span class="citation-chip-wrap"><a class="citation-chip" href="https://nypost.com/2025/03/07/tech/ai-generated-doctors-are-duping-tiktok-users-with-fake-medical-advice-heres-how-to-spot-a-horrifying-fraud/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nypost.com">[New York Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nypost.com</span><span class="citation-popover-snippet">These avatars, often claiming expertise in fields like gynecology or plastic surgery, are completely computer-generated. Users are alerte...</span></span></span>
 
 ### Cross-Check With Trusted Health Sources
 
@@ -414,181 +414,181 @@ Before acting on a medical recommendation, compare it with guidance from recogni
 
 Deepfake doctors create harm beyond any individual false claim. They also weaken the public's ability to recognise genuine expertise.
 
-When viewers repeatedly encounter fabricated physicians, confidence in authentic medical communication can erode. Real doctors may find themselves forced to deny endorsements they never made, while patients become less certain about what information is genuine. Medical organisations, fact-checkers and public health advocates increasingly describe deepfake health content as a threat not only to consumer protection but also to trust in healthcare itself. STAT <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmnch.who.int/news-and-events/news/item/23-01-2026-when-health-misinformation-meets-artificial-intelligence-%28ai%29-why-parliamentary-leadership-matters" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmnch.who.int">[PMNCH]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmnch.who.int</span><span class="citation-popover-snippet">health misinformation meets artificial intelligence (AI)23 Jan 2026 — Health misinformation—now accelerated by AI—is reshaping how adoles...</span></span></span> In the context of health myths, that may be the most significant consequence. Deepfakes do not merely spread false information. They manufacture the appearance of expert agreement, turning medical authority itself into a tool for misinformation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/society/2025/dec/05/ai-deepfakes-of-real-doctors-spreading-health-misinformation-on-social-media" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">He added that the creators of deepfake health videos deploy AI</span><span class="citation-popover-snippet">The GuardianAI deepfakes of real doctors spreading health...December 5, 2025 — Dec 6, 2025 — AI deepfakes of real doctors spreading heal...</span><span class="citation-popover-meta">Published: December 5, 2025</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://fullfact.org/health/academics-deepfaked-tiktok-wellness-nest/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fullfact.org">[Full Fact]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fullfact.org</span><span class="citation-popover-title">academics deepfaked tiktok wellness nest</span><span class="citation-popover-snippet">Full FactRevealed: how academics are being deepfaked on TikTok...5 Dec 2025 — A Full Fact investigation has found that a series of socia...</span></span></span>
+When viewers repeatedly encounter fabricated physicians, confidence in authentic medical communication can erode. Real doctors may find themselves forced to deny endorsements they never made, while patients become less certain about what information is genuine. Medical organisations, fact-checkers and public health advocates increasingly describe deepfake health content as a threat not only to consumer protection but also to trust in healthcare itself. STAT<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmnch.who.int/news-and-events/news/item/23-01-2026-when-health-misinformation-meets-artificial-intelligence-%28ai%29-why-parliamentary-leadership-matters" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmnch.who.int">[PMNCH]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmnch.who.int</span><span class="citation-popover-snippet">health misinformation meets artificial intelligence (AI)23 Jan 2026 — Health misinformation—now accelerated by AI—is reshaping how adoles...</span></span></span> In the context of health myths, that may be the most significant consequence. Deepfakes do not merely spread false information. They manufacture the appearance of expert agreement, turning medical authority itself into a tool for misinformation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/society/2025/dec/05/ai-deepfakes-of-real-doctors-spreading-health-misinformation-on-social-media" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">He added that the creators of deepfake health videos deploy AI</span><span class="citation-popover-snippet">The GuardianAI deepfakes of real doctors spreading health...December 5, 2025 — Dec 6, 2025 — AI deepfakes of real doctors spreading heal...</span><span class="citation-popover-meta">Published: December 5, 2025</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://fullfact.org/health/academics-deepfaked-tiktok-wellness-nest/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fullfact.org">[Full Fact]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fullfact.org</span><span class="citation-popover-title">academics deepfaked tiktok wellness nest</span><span class="citation-popover-snippet">Full FactRevealed: how academics are being deepfaked on TikTok...5 Dec 2025 — A Full Fact investigation has found that a series of socia...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Can You Trust the Doctor on Screen?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Can You Trust the Doctor on Screen?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Calling Bullshit on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Plu9DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Calling Bullshit" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Calling Bullshit">Calling Bullshit</a>
-        </h4>
-        <p class="fr-book-author">By Carl T. Bergstrom, Jevin D. West</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Calling Bullshit on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Plu9DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Calling Bullshit" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Calling Bullshit">Calling Bullshit</a>
+</h4>
+<p class="fr-book-author">By Carl T. Bergstrom, Jevin D. West</p>
         
-        <p class="fr-book-desc">Teaches skepticism toward authoritative-looking claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Teaches skepticism toward authoritative-looking claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Skeptics&#x27; Guide to the Universe on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CuVKDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Skeptics&#x27; Guide to the Universe" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Skeptics&#x27; Guide to the Universe">The Skeptics&#x27; Guide to the Universe</a>
-        </h4>
-        <p class="fr-book-author">By Dr. Steven Novella</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Skeptics&#x27; Guide to the Universe on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CuVKDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Skeptics&#x27; Guide to the Universe" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Skeptics&#x27; Guide to the Universe">The Skeptics&#x27; Guide to the Universe</a>
+</h4>
+<p class="fr-book-author">By Dr. Steven Novella</p>
         
-        <p class="fr-book-desc">Covers evaluating expertise and evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers evaluating expertise and evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Weapons+of+Math+Destruction+by+Cathy+O%27Neil&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Weapons of Math Destruction on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=NgEwCwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Weapons of Math Destruction" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Weapons+of+Math+Destruction+by+Cathy+O%27Neil&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Weapons of Math Destruction">Weapons of Math Destruction</a>
-        </h4>
-        <p class="fr-book-author">By Cathy O&#x27;Neil</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Weapons+of+Math+Destruction+by+Cathy+O%27Neil&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Weapons of Math Destruction on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=NgEwCwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Weapons of Math Destruction" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Weapons+of+Math+Destruction+by+Cathy+O%27Neil&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Weapons of Math Destruction">Weapons of Math Destruction</a>
+</h4>
+<p class="fr-book-author">By Cathy O&#x27;Neil</p>
         
-        <p class="fr-book-desc">Encourages critical evaluation of algorithmic authority.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Weapons+of+Math+Destruction+by+Cathy+O%27Neil&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Encourages critical evaluation of algorithmic authority.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Weapons+of+Math+Destruction+by+Cathy+O%27Neil&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=You+Look+Like+a+Thing+and+I+Love+You+by+Janelle+Shane&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open You Look Like a Thing and I Love You on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=a3qaDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for You Look Like a Thing and I Love You" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=You+Look+Like+a+Thing+and+I+Love+You+by+Janelle+Shane&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="You Look Like a Thing and I Love You">You Look Like a Thing and I Love You</a>
-        </h4>
-        <p class="fr-book-author">By Janelle Shane</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=You+Look+Like+a+Thing+and+I+Love+You+by+Janelle+Shane&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open You Look Like a Thing and I Love You on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=a3qaDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for You Look Like a Thing and I Love You" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=You+Look+Like+a+Thing+and+I+Love+You+by+Janelle+Shane&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="You Look Like a Thing and I Love You">You Look Like a Thing and I Love You</a>
+</h4>
+<p class="fr-book-author">By Janelle Shane</p>
         
-        <p class="fr-book-desc">Helps readers understand AI limitations and deceptive appearances.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=You+Look+Like+a+Thing+and+I+Love+You+by+Janelle+Shane&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps readers understand AI limitations and deceptive appearances.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=You+Look+Like+a+Thing+and+I+Love+You+by+Janelle+Shane&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Calling+Bullshit&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Calling Bullshit</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Skeptics%27+to+the+Universe+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Skeptics&#x27; to the Universe books</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Weapons+of+Math+Destruction&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Weapons of Math Destruction</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Calling+Bullshit&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Calling Bullshit</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Skeptics%27+to+the+Universe+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Skeptics&#x27; to the Universe books</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Weapons+of+Math+Destruction&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Weapons of Math Destruction</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=education+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ai-doctors-can-you-trust-the-doctor-on-screen-myths-and-misconcept-education-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="education poster" data-ebay-reference="ai-doctors-can-you-trust-the-doctor-on-screen-myths-and-misconcept-education-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PERIODIC TABLE Real Elements A3 Laminated Chemistry Science Educational Poster"><img src="{{ '/assets/images/marketplace-covers/fe6eac85e0cbd3115c4c.jpg' | relative_url }}" alt="Listing image for PERIODIC TABLE Real Elements A3 Laminated Chemistry Science Educational Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=education+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ai-doctors-can-you-trust-the-doctor-on-screen-myths-and-misconcept-education-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="education poster" data-ebay-reference="ai-doctors-can-you-trust-the-doctor-on-screen-myths-and-misconcept-education-poster" target="_blank" rel="sponsored noopener noreferrer">PERIODIC TABLE Real Elements A3 Laminated Chemistry Science Educational Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=education+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ai-doctors-can-you-trust-the-doctor-on-screen-myths-and-misconcept-education-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="education poster" data-ebay-reference="ai-doctors-can-you-trust-the-doctor-on-screen-myths-and-misconcept-education-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for education poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: education poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=education+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ai-doctors-can-you-trust-the-doctor-on-screen-myths-and-misconcept-education-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="education poster" data-ebay-reference="ai-doctors-can-you-trust-the-doctor-on-screen-myths-and-misconcept-education-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=education+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ai-doctors-can-you-trust-the-doctor-on-screen-myths-and-misconcept-education-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="education poster" data-ebay-reference="ai-doctors-can-you-trust-the-doctor-on-screen-myths-and-misconcept-education-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PERIODIC TABLE Real Elements A3 Laminated Chemistry Science Educational Poster"><img src="{{ '/assets/images/marketplace-covers/fe6eac85e0cbd3115c4c.jpg' | relative_url }}" alt="Listing image for PERIODIC TABLE Real Elements A3 Laminated Chemistry Science Educational Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=education+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ai-doctors-can-you-trust-the-doctor-on-screen-myths-and-misconcept-education-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="education poster" data-ebay-reference="ai-doctors-can-you-trust-the-doctor-on-screen-myths-and-misconcept-education-poster" target="_blank" rel="sponsored noopener noreferrer">PERIODIC TABLE Real Elements A3 Laminated Chemistry Science Educational Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=education+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ai-doctors-can-you-trust-the-doctor-on-screen-myths-and-misconcept-education-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="education poster" data-ebay-reference="ai-doctors-can-you-trust-the-doctor-on-screen-myths-and-misconcept-education-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for education poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: education poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=education+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ai-doctors-can-you-trust-the-doctor-on-screen-myths-and-misconcept-education-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="education poster" data-ebay-reference="ai-doctors-can-you-trust-the-doctor-on-screen-myths-and-misconcept-education-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=education+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ai-doctors-can-you-trust-the-doctor-on-screen-myths-and-misconcept-education-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="education poster" data-ebay-reference="ai-doctors-can-you-trust-the-doctor-on-screen-myths-and-misconcept-education-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Periodic table with elements poster Science Wall Chart UPDATED Education Poster"><img src="{{ '/assets/images/marketplace-covers/4353dda57fefeae45a72.jpg' | relative_url }}" alt="Listing image for Periodic table with elements poster Science Wall Chart UPDATED Education Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=education+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ai-doctors-can-you-trust-the-doctor-on-screen-myths-and-misconcept-education-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="education poster" data-ebay-reference="ai-doctors-can-you-trust-the-doctor-on-screen-myths-and-misconcept-education-poster" target="_blank" rel="sponsored noopener noreferrer">Periodic table with elements poster Science Wall Chart UPDATED Education Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=education+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ai-doctors-can-you-trust-the-doctor-on-screen-myths-and-misconcept-education-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="education poster" data-ebay-reference="ai-doctors-can-you-trust-the-doctor-on-screen-myths-and-misconcept-education-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for education poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: education poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=education+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ai-doctors-can-you-trust-the-doctor-on-screen-myths-and-misconcept-education-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="education poster" data-ebay-reference="ai-doctors-can-you-trust-the-doctor-on-screen-myths-and-misconcept-education-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=education+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ai-doctors-can-you-trust-the-doctor-on-screen-myths-and-misconcept-education-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="education poster" data-ebay-reference="ai-doctors-can-you-trust-the-doctor-on-screen-myths-and-misconcept-education-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Periodic table with elements poster Science Wall Chart UPDATED Education Poster"><img src="{{ '/assets/images/marketplace-covers/4353dda57fefeae45a72.jpg' | relative_url }}" alt="Listing image for Periodic table with elements poster Science Wall Chart UPDATED Education Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=education+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ai-doctors-can-you-trust-the-doctor-on-screen-myths-and-misconcept-education-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="education poster" data-ebay-reference="ai-doctors-can-you-trust-the-doctor-on-screen-myths-and-misconcept-education-poster" target="_blank" rel="sponsored noopener noreferrer">Periodic table with elements poster Science Wall Chart UPDATED Education Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=education+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ai-doctors-can-you-trust-the-doctor-on-screen-myths-and-misconcept-education-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="education poster" data-ebay-reference="ai-doctors-can-you-trust-the-doctor-on-screen-myths-and-misconcept-education-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for education poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: education poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=education+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ai-doctors-can-you-trust-the-doctor-on-screen-myths-and-misconcept-education-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="education poster" data-ebay-reference="ai-doctors-can-you-trust-the-doctor-on-screen-myths-and-misconcept-education-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=education+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ai-doctors-can-you-trust-the-doctor-on-screen-myths-and-misconcept-education-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="education poster" data-ebay-reference="ai-doctors-can-you-trust-the-doctor-on-screen-myths-and-misconcept-education-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for GEOMETRY A2 Laminated educational poster maths numeracy teaching wall resource"><img src="{{ '/assets/images/marketplace-covers/50566bea86d5107b3451.jpg' | relative_url }}" alt="Listing image for GEOMETRY A2 Laminated educational poster maths numeracy teaching wall resource" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=education+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ai-doctors-can-you-trust-the-doctor-on-screen-myths-and-misconcept-education-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="education poster" data-ebay-reference="ai-doctors-can-you-trust-the-doctor-on-screen-myths-and-misconcept-education-poster" target="_blank" rel="sponsored noopener noreferrer">GEOMETRY A2 Laminated educational poster maths numeracy teaching wall resource</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=education+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ai-doctors-can-you-trust-the-doctor-on-screen-myths-and-misconcept-education-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="education poster" data-ebay-reference="ai-doctors-can-you-trust-the-doctor-on-screen-myths-and-misconcept-education-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for education poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: education poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=education+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ai-doctors-can-you-trust-the-doctor-on-screen-myths-and-misconcept-education-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="education poster" data-ebay-reference="ai-doctors-can-you-trust-the-doctor-on-screen-myths-and-misconcept-education-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=education+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ai-doctors-can-you-trust-the-doctor-on-screen-myths-and-misconcept-education-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="education poster" data-ebay-reference="ai-doctors-can-you-trust-the-doctor-on-screen-myths-and-misconcept-education-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=education+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ai-doctors-can-you-trust-the-doctor-on-screen-myths-and-misconcept-education-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="education poster" data-ebay-reference="ai-doctors-can-you-trust-the-doctor-on-screen-myths-and-misconcept-education-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for GEOMETRY A2 Laminated educational poster maths numeracy teaching wall resource"><img src="{{ '/assets/images/marketplace-covers/50566bea86d5107b3451.jpg' | relative_url }}" alt="Listing image for GEOMETRY A2 Laminated educational poster maths numeracy teaching wall resource" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=education+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ai-doctors-can-you-trust-the-doctor-on-screen-myths-and-misconcept-education-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="education poster" data-ebay-reference="ai-doctors-can-you-trust-the-doctor-on-screen-myths-and-misconcept-education-poster" target="_blank" rel="sponsored noopener noreferrer">GEOMETRY A2 Laminated educational poster maths numeracy teaching wall resource</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=education+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ai-doctors-can-you-trust-the-doctor-on-screen-myths-and-misconcept-education-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="education poster" data-ebay-reference="ai-doctors-can-you-trust-the-doctor-on-screen-myths-and-misconcept-education-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for education poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: education poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=education+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ai-doctors-can-you-trust-the-doctor-on-screen-myths-and-misconcept-education-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="education poster" data-ebay-reference="ai-doctors-can-you-trust-the-doctor-on-screen-myths-and-misconcept-education-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=education+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ai-doctors-can-you-trust-the-doctor-on-screen-myths-and-misconcept-education-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="education poster" data-ebay-reference="ai-doctors-can-you-trust-the-doctor-on-screen-myths-and-misconcept-education-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -604,7 +604,7 @@ When viewers repeatedly encounter fabricated physicians, confidence in authentic
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -624,7 +624,7 @@ When viewers repeatedly encounter fabricated physicians, confidence in authentic
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -656,7 +656,7 @@ When viewers repeatedly encounter fabricated physicians, confidence in authentic
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -708,7 +708,7 @@ When viewers repeatedly encounter fabricated physicians, confidence in authentic
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -753,7 +753,7 @@ When viewers repeatedly encounter fabricated physicians, confidence in authentic
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -794,148 +794,148 @@ When viewers repeatedly encounter fabricated physicians, confidence in authentic
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2408.15266" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2408.15266</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>People over trust AI-generated medical responses and view them to be as valid as doctors, despite low accuracyAugust 12, 2024...</p></details>
+   Link:<a href="https://arxiv.org/abs/2408.15266" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2408.15266</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>People over trust AI-generated medical responses and view them to be as valid as doctors, despite low accuracyAugust 12, 2024...</p></details>
    Published: August 12, 2024  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: mcgill.ca  
    Title: As their body ages, they want to know  
-   Link: <a href="https://www.mcgill.ca/oss/article/medical-health-and-nutrition-pseudoscience-technology/deceitful-ai-videos-mislead-seniors-important-health-issues" target="_blank" rel="noopener noreferrer nofollow">https://www.mcgill.ca/oss/article/medical-health-and-nutrition-pseudoscience-technology/deceitful-ai-videos-mislead-seniors-important-health-issues</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>McGill UniversityDeceitful AI Videos Mislead Seniors on Important Health...Dec 11, 2025 — There is a rapidly spreading plague of videos...</p></details>
+   Link:<a href="https://www.mcgill.ca/oss/article/medical-health-and-nutrition-pseudoscience-technology/deceitful-ai-videos-mislead-seniors-important-health-issues" target="_blank" rel="noopener noreferrer nofollow">https://www.mcgill.ca/oss/article/medical-health-and-nutrition-pseudoscience-technology/deceitful-ai-videos-mislead-seniors-important-health-issues</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>McGill UniversityDeceitful AI Videos Mislead Seniors on Important Health...Dec 11, 2025 — There is a rapidly spreading plague of videos...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: oecd.ai  
-   Link: <a href="https://oecd.ai/en/incidents/2025-12-07-171c" target="_blank" rel="noopener noreferrer nofollow">https://oecd.ai/en/incidents/2025-12-07-171c</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AI-Generated Deepfake Doctors Spread Health...Dec 7, 2025 — AI-generated deepfake videos featuring fake doctors have... AI-Generated De...</p></details>
+   Link:<a href="https://oecd.ai/en/incidents/2025-12-07-171c" target="_blank" rel="noopener noreferrer nofollow">https://oecd.ai/en/incidents/2025-12-07-171c</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AI-Generated Deepfake Doctors Spread Health...Dec 7, 2025 — AI-generated deepfake videos featuring fake doctors have... AI-Generated De...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: oecd.ai  
-   Link: <a href="https://oecd.ai/en/incidents/2026-03-26-e1fc" target="_blank" rel="noopener noreferrer nofollow">https://oecd.ai/en/incidents/2026-03-26-e1fc</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AI Deepfake Videos Impersonate Doctor, Spread Harmful...Mar 26, 2026 — AI Deepfake Videos Impersonate Doctor, Spread Harmful Medical Mis...</p></details>
+   Link:<a href="https://oecd.ai/en/incidents/2026-03-26-e1fc" target="_blank" rel="noopener noreferrer nofollow">https://oecd.ai/en/incidents/2026-03-26-e1fc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AI Deepfake Videos Impersonate Doctor, Spread Harmful...Mar 26, 2026 — AI Deepfake Videos Impersonate Doctor, Spread Harmful Medical Mis...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2512.11815" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2512.11815</a>  
+   Link:<a href="https://arxiv.org/abs/2512.11815" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2512.11815</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: pmnch.who.int  
-   Link: <a href="https://pmnch.who.int/news-and-events/news/item/23-01-2026-when-health-misinformation-meets-artificial-intelligence-%28ai%29-why-parliamentary-leadership-matters" target="_blank" rel="noopener noreferrer nofollow">https://pmnch.who.int/news-and-events/news/item/23-01-2026-when-health-misinformation-meets-artificial-intelligence-%28ai%29-why-parliamentary-leadership-matters</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>health misinformation meets artificial intelligence (AI)23 Jan 2026 — Health misinformation—now accelerated by AI—is reshaping how adoles...</p></details>
+   Link:<a href="https://pmnch.who.int/news-and-events/news/item/23-01-2026-when-health-misinformation-meets-artificial-intelligence-%28ai%29-why-parliamentary-leadership-matters" target="_blank" rel="noopener noreferrer nofollow">https://pmnch.who.int/news-and-events/news/item/23-01-2026-when-health-misinformation-meets-artificial-intelligence-%28ai%29-why-parliamentary-leadership-matters</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>health misinformation meets artificial intelligence (AI)23 Jan 2026 — Health misinformation—now accelerated by AI—is reshaping how adoles...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: theguardian.com  
    Title: He added that the creators of deepfake health videos deploy AI  
-   Link: <a href="https://www.theguardian.com/society/2025/dec/05/ai-deepfakes-of-real-doctors-spreading-health-misinformation-on-social-media" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/society/2025/dec/05/ai-deepfakes-of-real-doctors-spreading-health-misinformation-on-social-media</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The GuardianAI deepfakes of real doctors spreading health...December 5, 2025 — Dec 6, 2025 — AI deepfakes of real doctors spreading heal...</p></details>
+   Link:<a href="https://www.theguardian.com/society/2025/dec/05/ai-deepfakes-of-real-doctors-spreading-health-misinformation-on-social-media" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/society/2025/dec/05/ai-deepfakes-of-real-doctors-spreading-health-misinformation-on-social-media</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The GuardianAI deepfakes of real doctors spreading health...December 5, 2025 — Dec 6, 2025 — AI deepfakes of real doctors spreading heal...</p></details>
    Published: December 5, 2025  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: fullfact.org  
    Title: academics deepfaked tiktok wellness nest  
-   Link: <a href="https://fullfact.org/health/academics-deepfaked-tiktok-wellness-nest/" target="_blank" rel="noopener noreferrer nofollow">https://fullfact.org/health/academics-deepfaked-tiktok-wellness-nest/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Full FactRevealed: how academics are being deepfaked on TikTok...5 Dec 2025 — A Full Fact investigation has found that a series of socia...</p></details>
+   Link:<a href="https://fullfact.org/health/academics-deepfaked-tiktok-wellness-nest/" target="_blank" rel="noopener noreferrer nofollow">https://fullfact.org/health/academics-deepfaked-tiktok-wellness-nest/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Full FactRevealed: how academics are being deepfaked on TikTok...5 Dec 2025 — A Full Fact investigation has found that a series of socia...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: abc.net.au  
    Title: deepfake norman swan videos spruiking unproven medicines  
-   Link: <a href="https://www.abc.net.au/news/2025-05-22/deepfake-norman-swan-videos-spruiking-unproven-medicines/105038482" target="_blank" rel="noopener noreferrer nofollow">https://www.abc.net.au/news/2025-05-22/deepfake-norman-swan-videos-spruiking-unproven-medicines/105038482</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Another pernicious scam involving me is...Read more...</p></details>
+   Link:<a href="https://www.abc.net.au/news/2025-05-22/deepfake-norman-swan-videos-spruiking-unproven-medicines/105038482" target="_blank" rel="noopener noreferrer nofollow">https://www.abc.net.au/news/2025-05-22/deepfake-norman-swan-videos-spruiking-unproven-medicines/105038482</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Another pernicious scam involving me is...Read more...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: consumer.ftc.gov  
-   Link: <a href="https://consumer.ftc.gov/node/76330" target="_blank" rel="noopener noreferrer nofollow">https://consumer.ftc.gov/node/76330</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Consumer AdviceFTC &amp; FDA issue warning letters to supplement sellersAds abound for products that claim to treat or prevent serious health...</p></details>
+   Link:<a href="https://consumer.ftc.gov/node/76330" target="_blank" rel="noopener noreferrer nofollow">https://consumer.ftc.gov/node/76330</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Consumer AdviceFTC &amp; FDA issue warning letters to supplement sellersAds abound for products that claim to treat or prevent serious health...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: ftc.gov  
-   Link: <a href="https://www.ftc.gov/" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Trade CommissionFederal Trade Commission | Protecting America&#x27;s ConsumersThe official website of the Federal Trade Commission, pr...</p></details>
+   Link:<a href="https://www.ftc.gov/" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Trade CommissionFederal Trade Commission | Protecting America&#x27;s ConsumersThe official website of the Federal Trade Commission, pr...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: thetimes.co.uk  
    Title: The Times Warning over scammers impersonating doctors on social media  
-   Link: <a href="https://www.thetimes.co.uk/article/warning-scammers-impersonating-doctors-ljn2splvv" target="_blank" rel="noopener noreferrer nofollow">https://www.thetimes.co.uk/article/warning-scammers-impersonating-doctors-ljn2splvv</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>has uncovered a rise in social media scams involving fraudsters impersonating doctors to promote fake health products. These scams includ...</p></details>
+   Link:<a href="https://www.thetimes.co.uk/article/warning-scammers-impersonating-doctors-ljn2splvv" target="_blank" rel="noopener noreferrer nofollow">https://www.thetimes.co.uk/article/warning-scammers-impersonating-doctors-ljn2splvv</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>has uncovered a rise in social media scams involving fraudsters impersonating doctors to promote fake health products. These scams includ...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: theguardian.com  
    Title: The Guardian Deepfake fraud taking place on an industrial scale, study finds  
-   Link: <a href="https://www.theguardian.com/technology/2026/feb/06/deepfake-taking-place-on-an-industrial-scale-study-finds" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/technology/2026/feb/06/deepfake-taking-place-on-an-industrial-scale-study-finds</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The AI Incident Database has catalogued numerous recent cases of deepfake-enabled scams, such as impersonations of public figures—includi...</p></details>
+   Link:<a href="https://www.theguardian.com/technology/2026/feb/06/deepfake-taking-place-on-an-industrial-scale-study-finds" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/technology/2026/feb/06/deepfake-taking-place-on-an-industrial-scale-study-finds</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The AI Incident Database has catalogued numerous recent cases of deepfake-enabled scams, such as impersonations of public figures—includi...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: nypost.com  
-   Link: <a href="https://nypost.com/2025/03/07/tech/ai-generated-doctors-are-duping-tiktok-users-with-fake-medical-advice-heres-how-to-spot-a-horrifying-fraud/" target="_blank" rel="noopener noreferrer nofollow">https://nypost.com/2025/03/07/tech/ai-generated-doctors-are-duping-tiktok-users-with-fake-medical-advice-heres-how-to-spot-a-horrifying-fraud/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>These avatars, often claiming expertise in fields like gynecology or plastic surgery, are completely computer-generated. Users are alerte...</p></details>
+   Link:<a href="https://nypost.com/2025/03/07/tech/ai-generated-doctors-are-duping-tiktok-users-with-fake-medical-advice-heres-how-to-spot-a-horrifying-fraud/" target="_blank" rel="noopener noreferrer nofollow">https://nypost.com/2025/03/07/tech/ai-generated-doctors-are-duping-tiktok-users-with-fake-medical-advice-heres-how-to-spot-a-horrifying-fraud/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>These avatars, often claiming expertise in fields like gynecology or plastic surgery, are completely computer-generated. Users are alerte...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/posts/chrismorris3_ai-deepfakes-of-real-doctors-spreading-health-activity-7403381647926054912-EeVP" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/chrismorris3_ai-deepfakes-of-real-doctors-spreading-health-activity-7403381647926054912-EeVP</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Full Fact Exposes Fake AI-Generated Health MisinformationGreat investigation by Full Fact&#x27;s Leo Benedictus on fake AI-generated videos of...</p></details>
+   Link:<a href="https://www.linkedin.com/posts/chrismorris3_ai-deepfakes-of-real-doctors-spreading-health-activity-7403381647926054912-EeVP" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/chrismorris3_ai-deepfakes-of-real-doctors-spreading-health-activity-7403381647926054912-EeVP</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Full Fact Exposes Fake AI-Generated Health MisinformationGreat investigation by Full Fact&#x27;s Leo Benedictus on fake AI-generated videos of...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: fda.gov  
    Title: warns 30 telehealth companies against illegal marketing compounded glp 1s  
-   Link: <a href="https://www.fda.gov/news-events/press-announcements/fda-warns-30-telehealth-companies-against-illegal-marketing-compounded-glp-1s" target="_blank" rel="noopener noreferrer nofollow">https://www.fda.gov/news-events/press-announcements/fda-warns-30-telehealth-companies-against-illegal-marketing-compounded-glp-1s</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>FDA Warns 30 Telehealth Companies Against Illegal...Mar 3, 2026 — Over the past six months, the agency has sent thousands of letters war...</p></details>
+   Link:<a href="https://www.fda.gov/news-events/press-announcements/fda-warns-30-telehealth-companies-against-illegal-marketing-compounded-glp-1s" target="_blank" rel="noopener noreferrer nofollow">https://www.fda.gov/news-events/press-announcements/fda-warns-30-telehealth-companies-against-illegal-marketing-compounded-glp-1s</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FDA Warns 30 Telehealth Companies Against Illegal...Mar 3, 2026 — Over the past six months, the agency has sent thousands of letters war...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: thetimes.com  
    Title: michael mosley deep fake video 73nt0lvkh  
-   Link: <a href="https://www.thetimes.com/uk/healthcare/article/michael-mosley-deep-fake-video-73nt0lvkh" target="_blank" rel="noopener noreferrer nofollow">https://www.thetimes.com/uk/healthcare/article/michael-mosley-deep-fake-video-73nt0lvkh</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Tim Spector, the founder of Zoe, has also been used to create a deepfake video... scam ads...Read more...</p></details>
+   Link:<a href="https://www.thetimes.com/uk/healthcare/article/michael-mosley-deep-fake-video-73nt0lvkh" target="_blank" rel="noopener noreferrer nofollow">https://www.thetimes.com/uk/healthcare/article/michael-mosley-deep-fake-video-73nt0lvkh</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Tim Spector, the founder of Zoe, has also been used to create a deepfake video... scam ads...Read more...</p></details>
 
 ### Additional References
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/posts/dr-rachael-kent-88aa9451_digitalhealth-deepfakes-aimisinformation-activity-7381601544015745024-LH8V" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/dr-rachael-kent-88aa9451_digitalhealth-deepfakes-aimisinformation-activity-7381601544015745024-LH8V</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AI health scams on social media | Dr. Rachael Kent posted...We&#x27;ve entered a new phase where misinformation is weaponised as marketing. H...</p></details>
+   Link:<a href="https://www.linkedin.com/posts/dr-rachael-kent-88aa9451_digitalhealth-deepfakes-aimisinformation-activity-7381601544015745024-LH8V" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/dr-rachael-kent-88aa9451_digitalhealth-deepfakes-aimisinformation-activity-7381601544015745024-LH8V</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AI health scams on social media | Dr. Rachael Kent posted...We&#x27;ve entered a new phase where misinformation is weaponised as marketing. H...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/BakerResearchAu/posts/a-different-kind-of-post-from-us-today-with-a-warning-to-please-be-aware-of-deep/940455218219735/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/BakerResearchAu/posts/a-different-kind-of-post-from-us-today-with-a-warning-to-please-be-aware-of-deep/940455218219735/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Baker Heart and Diabetes InstituteThis is an AI-generated deep fake and is not actually Dr. Oz. Please... false and dangerous misinforma...</p></details>
+   Link:<a href="https://www.facebook.com/BakerResearchAu/posts/a-different-kind-of-post-from-us-today-with-a-warning-to-please-be-aware-of-deep/940455218219735/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/BakerResearchAu/posts/a-different-kind-of-post-from-us-today-with-a-warning-to-please-be-aware-of-deep/940455218219735/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Baker Heart and Diabetes InstituteThis is an AI-generated deep fake and is not actually Dr. Oz. Please... false and dangerous misinforma...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: aarp.org  
-   Link: <a href="https://www.aarp.org/podcasts/the-perfect-scam/ai-deepfake-doctors-scam.html" target="_blank" rel="noopener noreferrer nofollow">https://www.aarp.org/podcasts/the-perfect-scam/ai-deepfake-doctors-scam.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Deepfake Doctors: AI-Generated Medical Ad Scams3 days ago —... doctors and celebrities can undermine trust and speed up the spread o...</p></details>
+   Link:<a href="https://www.aarp.org/podcasts/the-perfect-scam/ai-deepfake-doctors-scam.html" target="_blank" rel="noopener noreferrer nofollow">https://www.aarp.org/podcasts/the-perfect-scam/ai-deepfake-doctors-scam.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Deepfake Doctors: AI-Generated Medical Ad Scams3 days ago —... doctors and celebrities can undermine trust and speed up the spread o...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/posts/drjohnwhyte_ama-ceo-deepfake-doctors-are-a-threat-to-activity-7429628713039994880-_fC3" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/drjohnwhyte_ama-ceo-deepfake-doctors-are-a-threat-to-activity-7429628713039994880-_fC3</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Deepfake doctors are a threat to public health | John WhyteDeepfake physicians don&#x27;t just spread misinformation—they undermine the very t...</p></details>
+   Link:<a href="https://www.linkedin.com/posts/drjohnwhyte_ama-ceo-deepfake-doctors-are-a-threat-to-activity-7429628713039994880-_fC3" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/drjohnwhyte_ama-ceo-deepfake-doctors-are-a-threat-to-activity-7429628713039994880-_fC3</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Deepfake doctors are a threat to public health | John WhyteDeepfake physicians don&#x27;t just spread misinformation—they undermine the very t...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/videos/dr-rachael-kent-88aa9451_digitalhealth-deepfakes-aimisinformation-activity-7381601544015745024-LH8V" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/videos/dr-rachael-kent-88aa9451_digitalhealth-deepfakes-aimisinformation-activity-7381601544015745024-LH8V</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Deepfake doctors: AI health scams on social mediaOct 8, 2025 — Deepfake doctors are here. AI isn&#x27;t just writing health advice — it&#x27;s perf...</p></details>
+   Link:<a href="https://www.linkedin.com/videos/dr-rachael-kent-88aa9451_digitalhealth-deepfakes-aimisinformation-activity-7381601544015745024-LH8V" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/videos/dr-rachael-kent-88aa9451_digitalhealth-deepfakes-aimisinformation-activity-7381601544015745024-LH8V</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Deepfake doctors: AI health scams on social mediaOct 8, 2025 — Deepfake doctors are here. AI isn&#x27;t just writing health advice — it&#x27;s perf...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/pulse/ai-fraud-online-deepfake-ads-fake-doctors-legal-vinnie-fisher-rrhee" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/pulse/ai-fraud-online-deepfake-ads-fake-doctors-legal-vinnie-fisher-rrhee</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AI Fraud Online: MEDVi DeepfakeMEDVi sold $401M using deepfake doctors and fake ads. Here&#x27;s what it means for consumers, businesses, and...</p></details>
+   Link:<a href="https://www.linkedin.com/pulse/ai-fraud-online-deepfake-ads-fake-doctors-legal-vinnie-fisher-rrhee" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/pulse/ai-fraud-online-deepfake-ads-fake-doctors-legal-vinnie-fisher-rrhee</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AI Fraud Online: MEDVi DeepfakeMEDVi sold $401M using deepfake doctors and fake ads. Here&#x27;s what it means for consumers, businesses, and...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: intuitionlabs.ai  
-   Link: <a href="https://intuitionlabs.ai/articles/fda-ai-drug-advertising-enforcement-compliance" target="_blank" rel="noopener noreferrer nofollow">https://intuitionlabs.ai/articles/fda-ai-drug-advertising-enforcement-compliance</a>  
+   Link:<a href="https://intuitionlabs.ai/articles/fda-ai-drug-advertising-enforcement-compliance" target="_blank" rel="noopener noreferrer nofollow">https://intuitionlabs.ai/articles/fda-ai-drug-advertising-enforcement-compliance</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: cbsnews.com  
    Title: deepfake videos impersonating real doctors push false medical advice treatments  
-   Link: <a href="https://www.cbsnews.com/news/deepfake-videos-impersonating-real-doctors-push-false-medical-advice-treatments/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/news/deepfake-videos-impersonating-real-doctors-push-false-medical-advice-treatments/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AI, misinformation and their real-world impact. Previously, he... Scammers are using readily available AI tools to significantly...Read...</p></details>
+   Link:<a href="https://www.cbsnews.com/news/deepfake-videos-impersonating-real-doctors-push-false-medical-advice-treatments/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/news/deepfake-videos-impersonating-real-doctors-push-false-medical-advice-treatments/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AI, misinformation and their real-world impact. Previously, he... Scammers are using readily available AI tools to significantly...Read...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: nphic.org  
-   Link: <a href="https://www.nphic.org/news/news-highlights/2554-ai-deepfakes-of-real-doctors-spreading-health-misinformation-on-social-media" target="_blank" rel="noopener noreferrer nofollow">https://www.nphic.org/news/news-highlights/2554-ai-deepfakes-of-real-doctors-spreading-health-misinformation-on-social-media</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A new investigation highlights a growing public health threat: AI-generated deepfake videos impersonating real doctors to...Read more...</p></details>
+   Link:<a href="https://www.nphic.org/news/news-highlights/2554-ai-deepfakes-of-real-doctors-spreading-health-misinformation-on-social-media" target="_blank" rel="noopener noreferrer nofollow">https://www.nphic.org/news/news-highlights/2554-ai-deepfakes-of-real-doctors-spreading-health-misinformation-on-social-media</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A new investigation highlights a growing public health threat: AI-generated deepfake videos impersonating real doctors to...Read more...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: incidentdatabase.ai  
-   Link: <a href="https://incidentdatabase.ai/cite/1397/" target="_blank" rel="noopener noreferrer nofollow">https://incidentdatabase.ai/cite/1397/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Incident 1397: Deepfakes Reportedly Impersonated David...AI deepfakes of real doctors spreading health misinformation on social media...</p></details>
+   Link:<a href="https://incidentdatabase.ai/cite/1397/" target="_blank" rel="noopener noreferrer nofollow">https://incidentdatabase.ai/cite/1397/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Incident 1397: Deepfakes Reportedly Impersonated David...AI deepfakes of real doctors spreading health misinformation on social media...</p></details>

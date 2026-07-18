@@ -274,26 +274,26 @@ image: /assets/images/Myths_and_misconcept_0d48d7_false_health_claims_1bb5c7_nat
 
 ## Introduction
 
-Natural remedies often sound safer than medical treatments because they are associated with plants, traditional practices, home care and the idea of working “with nature” rather than against it. In health misinformation, that emotional appeal can become powerful. A social media post may present a herbal supplement, detox drink, essential oil or restrictive diet as gentle and protective while describing medicines as harsh, toxic or unnatural. The result is not always immediate harm. More often, it is false [confidence]({{ 'confidence/' | relative_url }}): the feeling that a remedy is solving a problem when there is little evidence that it can. In some situations, that confidence can delay diagnosis, postpone effective treatment or create dangerous interactions with prescribed medicines. [Health myths]({{ 'health-myths/' | relative_url }}) built around “natural” solutions are especially persuasive because they often begin with a genuine desire to help. Yet the word natural is not evidence, and it does not reliably predict safety or effectiveness. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nccih.nih.gov/health/know-science/natural-doesnt-mean-better" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nccih.nih.gov">[NCCIH]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nccih.nih.gov</span><span class="citation-popover-snippet">Natural Doesn&#x27;t Necessarily Mean Safer, or Better &#124; NCCIHAnd “natural” medicines, contrary to what many may think, are not without s...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nccih.nih.gov/health/are-you-considering-a-complementary-health-approach" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nccih.nih.gov">[NCCIH]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nccih.nih.gov</span><span class="citation-popover-snippet">Keep in mind that “natural” does not necessarily mean “safe.” (Think of...Read more...</span></span></span>
+Natural remedies often sound safer than medical treatments because they are associated with plants, traditional practices, home care and the idea of working “with nature” rather than against it. In health misinformation, that emotional appeal can become powerful. A social media post may present a herbal supplement, detox drink, essential oil or restrictive diet as gentle and protective while describing medicines as harsh, toxic or unnatural. The result is not always immediate harm. More often, it is false [confidence]({{ 'confidence/' | relative_url }}): the feeling that a remedy is solving a problem when there is little evidence that it can. In some situations, that confidence can delay diagnosis, postpone effective treatment or create dangerous interactions with prescribed medicines. [Health myths]({{ 'health-myths/' | relative_url }}) built around “natural” solutions are especially persuasive because they often begin with a genuine desire to help. Yet the word natural is not evidence, and it does not reliably predict safety or effectiveness.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nccih.nih.gov/health/know-science/natural-doesnt-mean-better" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nccih.nih.gov">[NCCIH]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nccih.nih.gov</span><span class="citation-popover-snippet">Natural Doesn&#x27;t Necessarily Mean Safer, or Better &#124; NCCIHAnd “natural” medicines, contrary to what many may think, are not without s...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nccih.nih.gov/health/are-you-considering-a-complementary-health-approach" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nccih.nih.gov">[NCCIH]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nccih.nih.gov</span><span class="citation-popover-snippet">Keep in mind that “natural” does not necessarily mean “safe.” (Think of...Read more...</span></span></span>
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_false_health_claims_1bb5c7_natural_remedies_evi_8be102-Illustration-1-dark.svg" | relative_url }}" alt="Natural Remedies illustration 1" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_false_health_claims_1bb5c7_natural_remedies_evi_8be102-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_false_health_claims_1bb5c7_natural_remedies_evi_8be102-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Why Natural Claims Feel Reassuring
 
 The appeal of natural remedies is not simply about science. It is also about emotion, [identity]({{ 'identity/' | relative_url }}) and trust.
 
-Many people instinctively associate natural things with purity, simplicity and lower risk. A herbal tea seems gentler than a pharmaceutical tablet. A plant extract sounds less threatening than a chemical name. Marketing frequently reinforces this reaction by using words such as “clean”, “traditional”, “holistic” or “ancient”. Yet many natural substances are biologically active chemicals, and some are powerful enough to cause serious side effects. The U.S. National Center for Complementary and Integrative Health (NCCIH) notes that natural products can produce adverse effects and should not automatically be assumed to be safer than conventional medicines. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nccih.nih.gov/health/dietary-and-herbal-supplements" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nccih.nih.gov">[NCCIH]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nccih.nih.gov</span><span class="citation-popover-title">NCCIHDietary and Herbal Supplements &#124; NCCIH</span><span class="citation-popover-snippet">Many dietary supplements...Read more...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nccih.nih.gov/health/providers/digest/herb-drug-interactions" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nccih.nih.gov">[NCCIH]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nccih.nih.gov</span><span class="citation-popover-title">NCCIHHerb-Drug Interactions &#124; NCCIH</span><span class="citation-popover-snippet">nih.govHerb-Drug Interactions &#124; NCCIH - NIHInteractions may occur between prescription drugs, over-the-counter drugs, dietary supplements...</span></span></span>
+Many people instinctively associate natural things with purity, simplicity and lower risk. A herbal tea seems gentler than a pharmaceutical tablet. A plant extract sounds less threatening than a chemical name. Marketing frequently reinforces this reaction by using words such as “clean”, “traditional”, “holistic” or “ancient”. Yet many natural substances are biologically active chemicals, and some are powerful enough to cause serious side effects. The U.S. National Center for Complementary and Integrative Health (NCCIH) notes that natural products can produce adverse effects and should not automatically be assumed to be safer than conventional medicines.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nccih.nih.gov/health/dietary-and-herbal-supplements" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nccih.nih.gov">[NCCIH]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nccih.nih.gov</span><span class="citation-popover-title">NCCIHDietary and Herbal Supplements &#124; NCCIH</span><span class="citation-popover-snippet">Many dietary supplements...Read more...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nccih.nih.gov/health/providers/digest/herb-drug-interactions" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nccih.nih.gov">[NCCIH]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nccih.nih.gov</span><span class="citation-popover-title">NCCIHHerb-Drug Interactions &#124; NCCIH</span><span class="citation-popover-snippet">nih.govHerb-Drug Interactions &#124; NCCIH - NIHInteractions may occur between prescription drugs, over-the-counter drugs, dietary supplements...</span></span></span>
 
-Natural-remedy stories also feel more personal than scientific evidence. A post saying “this herb helped my anxiety” or “this diet cured my symptoms” gives readers a human narrative with a clear emotional arc. Clinical evidence often sounds less satisfying because it speaks in probabilities, averages and uncertainty. The contrast can make personal testimony seem more trustworthy than studies, even when the testimony cannot show what actually caused the improvement. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9958238/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCExamining the evidence for health-related claims made</span><span class="citation-popover-snippet">by V Nguyen · 2022 · Cited by 13 — With few legal regulations governing the distribution of poor-quality information, social media pro...</span></span></span>
+Natural-remedy stories also feel more personal than scientific evidence. A post saying “this herb helped my anxiety” or “this diet cured my symptoms” gives readers a human narrative with a clear emotional arc. Clinical evidence often sounds less satisfying because it speaks in probabilities, averages and uncertainty. The contrast can make personal testimony seem more trustworthy than studies, even when the testimony cannot show what actually caused the improvement.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9958238/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCExamining the evidence for health-related claims made</span><span class="citation-popover-snippet">by V Nguyen · 2022 · Cited by 13 — With few legal regulations governing the distribution of poor-quality information, social media pro...</span></span></span>
 
-Another reason natural remedies feel attractive is that they offer control. Someone facing a chronic illness, unexplained symptoms or frightening diagnosis may feel powerless. A supplement, cleanse or alternative treatment creates the feeling of taking action immediately. That sense of agency is emotionally real, even when the claimed medical benefits are weak or unsupported. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC2586853/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCHow the public is being misled about complementary</span><span class="citation-popover-snippet">by E Ernst · 2008 · Cited by 38 — Patients are frequently desperate and therefore vulnerable to such misinformation. Wrong therapeutic...</span></span></span>
+Another reason natural remedies feel attractive is that they offer control. Someone facing a chronic illness, unexplained symptoms or frightening diagnosis may feel powerless. A supplement, cleanse or alternative treatment creates the feeling of taking action immediately. That sense of agency is emotionally real, even when the claimed medical benefits are weak or unsupported.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC2586853/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCHow the public is being misled about complementary</span><span class="citation-popover-snippet">by E Ernst · 2008 · Cited by 38 — Patients are frequently desperate and therefore vulnerable to such misinformation. Wrong therapeutic...</span></span></span>
 
 ### The Misleading Contrast Between “Natural” and “Chemical”
 
 A common myth presents medicine as artificial and nature as inherently safe. In reality, this distinction is often misleading.
 
-Many medicines originated from natural compounds. At the same time, many natural substances can be toxic. Poisonous mushrooms, arsenic-containing compounds and toxic plant extracts are all natural. Safety depends on evidence, dosage, purity, interactions and individual health circumstances, not on whether something came from a plant or a laboratory. NCCIH <span class="citation-chip-wrap"><a class="citation-chip" href="https://poisoncontrol.utah.edu/news/2023/02/natural-does-not-always-mean-safe" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: poisoncontrol.utah.edu">[Utah Poison Control]</a><span class="citation-popover" role="note"><span class="citation-popover-source">poisoncontrol.utah.edu</span><span class="citation-popover-title">natural does not always mean safe</span><span class="citation-popover-snippet">Utah Poison Control“Natural” Does Not Always Mean Safe28 Feb 2023 — A common myth is that because these products are “natural”, they are...</span></span></span>
+Many medicines originated from natural compounds. At the same time, many natural substances can be toxic. Poisonous mushrooms, arsenic-containing compounds and toxic plant extracts are all natural. Safety depends on evidence, dosage, purity, interactions and individual health circumstances, not on whether something came from a plant or a laboratory. NCCIH<span class="citation-chip-wrap"><a class="citation-chip" href="https://poisoncontrol.utah.edu/news/2023/02/natural-does-not-always-mean-safe" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: poisoncontrol.utah.edu">[Utah Poison Control]</a><span class="citation-popover" role="note"><span class="citation-popover-source">poisoncontrol.utah.edu</span><span class="citation-popover-title">natural does not always mean safe</span><span class="citation-popover-snippet">Utah Poison Control“Natural” Does Not Always Mean Safe28 Feb 2023 — A common myth is that because these products are “natural”, they are...</span></span></span>
 
-The phrase “natural remedy” can also hide important differences between products. Two supplements sold under the same name may contain different concentrations, contaminants or additional ingredients. Unlike prescription medicines, many supplements have historically faced less rigorous testing before reaching consumers. That does not mean all supplements are ineffective, but it does mean that “natural” alone tells consumers very little about quality or clinical benefit. <span class="citation-chip-wrap"><a class="citation-chip" href="https://publications.jrc.ec.europa.eu/repository/handle/JRC73507" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: publications.jrc.ec.europa.eu">[JRC Publications]</a><span class="citation-popover" role="note"><span class="citation-popover-source">publications.jrc.ec.europa.eu</span><span class="citation-popover-snippet">JRC PublicationsAssessing herbal products with health claims - JRC Publicationsby S LAPENNA · Cited by 24 — However, there are cases of h...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nccih.nih.gov/training/videolectures/14/1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nccih.nih.gov">[NCCIH]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nccih.nih.gov</span><span class="citation-popover-snippet">to Clinically Relevant Herb-Drug InteractionsDr Gurley will provide an historic overview of herb drug interactions discuss their mechanis...</span></span></span>
+The phrase “natural remedy” can also hide important differences between products. Two supplements sold under the same name may contain different concentrations, contaminants or additional ingredients. Unlike prescription medicines, many supplements have historically faced less rigorous testing before reaching consumers. That does not mean all supplements are ineffective, but it does mean that “natural” alone tells consumers very little about quality or clinical benefit.<span class="citation-chip-wrap"><a class="citation-chip" href="https://publications.jrc.ec.europa.eu/repository/handle/JRC73507" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: publications.jrc.ec.europa.eu">[JRC Publications]</a><span class="citation-popover" role="note"><span class="citation-popover-source">publications.jrc.ec.europa.eu</span><span class="citation-popover-snippet">JRC PublicationsAssessing herbal products with health claims - JRC Publicationsby S LAPENNA · Cited by 24 — However, there are cases of h...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nccih.nih.gov/training/videolectures/14/1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nccih.nih.gov">[NCCIH]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nccih.nih.gov</span><span class="citation-popover-snippet">to Clinically Relevant Herb-Drug InteractionsDr Gurley will provide an historic overview of herb drug interactions discuss their mechanis...</span></span></span>
 
 ## Comfort Is Not the Same as Treatment
 
@@ -306,17 +306,17 @@ One reason natural-remedy misinformation spreads so easily is that it often mixe
 
 Those questions are not always answered in the same way.
 
-A warm drink may soothe a sore throat. Rest, mindfulness practices or gentle exercise may improve comfort during illness. Massage may reduce stress. Some complementary approaches can improve quality of life, help with symptom management or make treatment experiences easier to tolerate. Evidence supports certain non-drug interventions for specific symptoms and situations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://bmjopen.bmj.com/content/7/11/e015860" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bmjopen.bmj.com">[BMJ Open]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bmjopen.bmj.com</span><span class="citation-popover-snippet">BMJ OpenReview of systematic reviews of non-pharmacological...by M Duncan · 2017 · Cited by 244 — A review of published systematic revie...</span></span></span>
+A warm drink may soothe a sore throat. Rest, mindfulness practices or gentle exercise may improve comfort during illness. Massage may reduce stress. Some complementary approaches can improve quality of life, help with symptom management or make treatment experiences easier to tolerate. Evidence supports certain non-drug interventions for specific symptoms and situations.<span class="citation-chip-wrap"><a class="citation-chip" href="https://bmjopen.bmj.com/content/7/11/e015860" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bmjopen.bmj.com">[BMJ Open]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bmjopen.bmj.com</span><span class="citation-popover-snippet">BMJ OpenReview of systematic reviews of non-pharmacological...by M Duncan · 2017 · Cited by 244 — A review of published systematic revie...</span></span></span>
 
-Problems arise when symptom relief is presented as proof that a disease has been treated. Feeling calmer after taking a supplement does not prove that the supplement cured depression. Having less nausea does not mean a cancer has disappeared. Temporary improvement can result from natural recovery, placebo effects, fluctuating symptoms or unrelated factors. Personal experience can be meaningful without being reliable evidence that a remedy caused the outcome. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9375827/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Implications of Herbal Supplements in Conventional...by G Hassen · 2022 · Cited by 135 — Though perceived as safe due to their natural s...</span></span></span>
+Problems arise when symptom relief is presented as proof that a disease has been treated. Feeling calmer after taking a supplement does not prove that the supplement cured depression. Having less nausea does not mean a cancer has disappeared. Temporary improvement can result from natural recovery, placebo effects, fluctuating symptoms or unrelated factors. Personal experience can be meaningful without being reliable evidence that a remedy caused the outcome.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9375827/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Implications of Herbal Supplements in Conventional...by G Hassen · 2022 · Cited by 135 — Though perceived as safe due to their natural s...</span></span></span>
 
-This distinction is especially important in serious illnesses. A person may use supportive therapies alongside evidence-based treatment and find them genuinely helpful. The risk appears when alternative remedies are presented as [replacements]({{ 'replacements/' | relative_url }}) rather than complements. NCCIH specifically warns against using unproven alternative approaches instead of conventional medical treatment or delaying professional care because of them. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nccih.nih.gov/health/know-science/natural-doesnt-mean-better" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nccih.nih.gov">[NCCIH]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nccih.nih.gov</span><span class="citation-popover-snippet">Natural Doesn&#x27;t Necessarily Mean Safer, or Better &#124; NCCIHAnd “natural” medicines, contrary to what many may think, are not without s...</span></span></span>
+This distinction is especially important in serious illnesses. A person may use supportive therapies alongside evidence-based treatment and find them genuinely helpful. The risk appears when alternative remedies are presented as [replacements]({{ 'replacements/' | relative_url }}) rather than complements. NCCIH specifically warns against using unproven alternative approaches instead of conventional medical treatment or delaying professional care because of them.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nccih.nih.gov/health/know-science/natural-doesnt-mean-better" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nccih.nih.gov">[NCCIH]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nccih.nih.gov</span><span class="citation-popover-snippet">Natural Doesn&#x27;t Necessarily Mean Safer, or Better &#124; NCCIHAnd “natural” medicines, contrary to what many may think, are not without s...</span></span></span>
 
 ### When “Harmless” Remedies Are Not Harmless
 
 Even products marketed as gentle or natural can create risks.
 
-Some herbal supplements interact with prescription medicines, changing how those medicines work in the body. Researchers have documented interactions involving herbal products and treatments for heart disease, cancer, epilepsy and other conditions. St. John's wort, for example, can affect the effectiveness of certain medications by altering how the body processes them. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cancer.gov/about-cancer/treatment/cam" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cancer.gov">[Cancer.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cancer.gov</span><span class="citation-popover-snippet">Complementary and Alternative Medicine (CAM) - NCI31 Oct 2024 — Natural does not mean safe · Herbal supplements may be harmful when taken...</span></span></span> NCCIH Other products may carry risks because of dosage <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nccih.nih.gov/health/know-science/natural-doesnt-mean-better" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nccih.nih.gov">[nccih.nih.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nccih.nih.gov</span><span class="citation-popover-snippet">Natural Doesn&#x27;t Necessarily Mean Safer, or Better &#124; NCCIHAnd “natural” medicines, contrary to what many may think, are not without s...</span></span></span>, contamination or underlying health conditions. Organisations including the National Kidney Foundation and Mayo Clinic warn that supplements can cause side effects or create complications, particularly for people with chronic illnesses or those taking multiple medications. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.kidney.org/kidney-topics/herbal-supplements-and-kidney-disease" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kidney.org">[National Kidney Foundation]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kidney.org</span><span class="citation-popover-snippet">National Kidney FoundationHerbal Supplements and Kidney Diseaseby NKFP Journey — While many products are generally safe for most people...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mayoclinic.org/tests-procedures/complementary-alternative-medicine/in-depth/natural-vs-safe-health-remedies/art-20587690" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mayoclinic.org">[Mayo Clinic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mayoclinic.org</span><span class="citation-popover-title">art 20587690</span><span class="citation-popover-snippet">Mayo ClinicNatural vs. safe: Why the two aren&#x27;t the same16 Aug 2025 — Natural doesn&#x27;t always mean safe. Supplements can have side effects...</span></span></span>
+Some herbal supplements interact with prescription medicines, changing how those medicines work in the body. Researchers have documented interactions involving herbal products and treatments for heart disease, cancer, epilepsy and other conditions. St. John's wort, for example, can affect the effectiveness of certain medications by altering how the body processes them.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cancer.gov/about-cancer/treatment/cam" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cancer.gov">[Cancer.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cancer.gov</span><span class="citation-popover-snippet">Complementary and Alternative Medicine (CAM) - NCI31 Oct 2024 — Natural does not mean safe · Herbal supplements may be harmful when taken...</span></span></span> NCCIH Other products may carry risks because of dosage<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nccih.nih.gov/health/know-science/natural-doesnt-mean-better" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nccih.nih.gov">[nccih.nih.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nccih.nih.gov</span><span class="citation-popover-snippet">Natural Doesn&#x27;t Necessarily Mean Safer, or Better &#124; NCCIHAnd “natural” medicines, contrary to what many may think, are not without s...</span></span></span>, contamination or underlying health conditions. Organisations including the National Kidney Foundation and Mayo Clinic warn that supplements can cause side effects or create complications, particularly for people with chronic illnesses or those taking multiple medications.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.kidney.org/kidney-topics/herbal-supplements-and-kidney-disease" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kidney.org">[National Kidney Foundation]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kidney.org</span><span class="citation-popover-snippet">National Kidney FoundationHerbal Supplements and Kidney Diseaseby NKFP Journey — While many products are generally safe for most people...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mayoclinic.org/tests-procedures/complementary-alternative-medicine/in-depth/natural-vs-safe-health-remedies/art-20587690" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mayoclinic.org">[Mayo Clinic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mayoclinic.org</span><span class="citation-popover-title">art 20587690</span><span class="citation-popover-snippet">Mayo ClinicNatural vs. safe: Why the two aren&#x27;t the same16 Aug 2025 — Natural doesn&#x27;t always mean safe. Supplements can have side effects...</span></span></span>
 
 The danger is often not dramatic poisoning but the accumulation of assumptions: assuming a product is safe because it is natural, assuming it does not need medical discussion, and assuming it cannot interfere with treatment.
 
@@ -331,11 +331,11 @@ Common patterns include:
 * **Selective information.** Positive outcomes are highlighted while failed cases, side effects or conventional treatments are ignored.
 * **Distrust framing.** The post suggests doctors, regulators or researchers are hiding information.
 * **Natural-versus-toxic language.** Medicines are described as dangerous chemicals while remedies are framed as pure and safe.
-* **Urgent sharing pressure.** Readers are encouraged to spread the claim before checking whether it is accurate. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3413169/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">following the use of complementary and alternative...by J Saquib · 2012 · Cited by 44 — The purpose of this study was to assess whether...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9958238/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCExamining the evidence for health-related claims made</span><span class="citation-popover-snippet">by V Nguyen · 2022 · Cited by 13 — With few legal regulations governing the distribution of poor-quality information, social media pro...</span></span></span>
+* **Urgent sharing pressure.** Readers are encouraged to spread the claim before checking whether it is accurate.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3413169/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">following the use of complementary and alternative...by J Saquib · 2012 · Cited by 44 — The purpose of this study was to assess whether...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9958238/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCExamining the evidence for health-related claims made</span><span class="citation-popover-snippet">by V Nguyen · 2022 · Cited by 13 — With few legal regulations governing the distribution of poor-quality information, social media pro...</span></span></span>
 
 These techniques are persuasive because they appeal to emotion before evidence. They make readers feel protective, informed or empowered. The problem is that confidence generated by a compelling story is not the same thing as confidence justified by research.
 
-Research into health misinformation has found that social media environments can amplify emotionally engaging content, allowing weakly supported claims to travel quickly through trusted personal networks. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC2586853/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCHow the public is being misled about complementary</span><span class="citation-popover-snippet">by E Ernst · 2008 · Cited by 38 — Patients are frequently desperate and therefore vulnerable to such misinformation. Wrong therapeutic...</span></span></span>
+Research into health misinformation has found that social media environments can amplify emotionally engaging content, allowing weakly supported claims to travel quickly through trusted personal networks.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC2586853/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCHow the public is being misled about complementary</span><span class="citation-popover-snippet">by E Ernst · 2008 · Cited by 38 — Patients are frequently desperate and therefore vulnerable to such misinformation. Wrong therapeutic...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/5ul7t1yHN94" title="Herbal medicine: Helpful or harmful?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=5ul7t1yHN94" target="_blank" rel="noopener noreferrer">Herbal medicine: Helpful or harmful?</a></p><p class="youtube-embed-meta">Channel: The Star &middot; Views: 10.1K &middot; Uploaded: December 2018 &middot; Length: 4 minutes 9 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=5ul7t1yHN94" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=5ul7t1yHN94">Open on YouTube</a></p></div></div></div>
 
@@ -343,13 +343,13 @@ Research into health misinformation has found that social media environments can
 
 The most serious consequences appear when belief in a natural remedy changes what someone does next.
 
-Cancer provides a clear example because [timing]({{ 'timing/' | relative_url }}) can matter. Studies have found poorer outcomes among patients who chose alternative medicine in place of conventional cancer treatment. Research discussed in the BMJ reported substantially worse survival rates among patients who relied on alternative therapies as their primary treatment rather than evidence-based care. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://bmjopen.bmj.com/content/7/11/e015860" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bmjopen.bmj.com">[BMJ]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bmjopen.bmj.com</span><span class="citation-popover-snippet">BMJ OpenReview of systematic reviews of non-pharmacological...by M Duncan · 2017 · Cited by 244 — A review of published systematic revie...</span></span></span>
+Cancer provides a clear example because [timing]({{ 'timing/' | relative_url }}) can matter. Studies have found poorer outcomes among patients who chose alternative medicine in place of conventional cancer treatment. Research discussed in the BMJ reported substantially worse survival rates among patients who relied on alternative therapies as their primary treatment rather than evidence-based care.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://bmjopen.bmj.com/content/7/11/e015860" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bmjopen.bmj.com">[BMJ]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bmjopen.bmj.com</span><span class="citation-popover-snippet">BMJ OpenReview of systematic reviews of non-pharmacological...by M Duncan · 2017 · Cited by 244 — A review of published systematic revie...</span></span></span>
 
-Separately, research on treatment delays has shown that even relatively short delays in cancer treatment can increase mortality risk for some cancers. This does not mean every delay has the same effect, but it demonstrates why postponing effective care can have real consequences. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/33148535/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Mortality due to cancer treatment delay: systematic review...by TP Hanna · 2020 · Cited by 1691 — A four week delay of cancer trea...</span></span></span>
+Separately, research on treatment delays has shown that even relatively short delays in cancer treatment can increase mortality risk for some cancers. This does not mean every delay has the same effect, but it demonstrates why postponing effective care can have real consequences.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/33148535/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Mortality due to cancer treatment delay: systematic review...by TP Hanna · 2020 · Cited by 1691 — A four week delay of cancer trea...</span></span></span>
 
 Importantly, the problem is often not that people reject medicine entirely. More commonly, they try a supposedly safer natural option first, expecting to seek medical help later if necessary. When symptoms temporarily improve, or when the underlying disease progresses silently, that decision can become harder to reverse.
 
-The emotional logic is understandable. People facing frightening diagnoses often want hope, control and options. That vulnerability is one reason health misinformation can spread through caring communities rather than only through deliberate deception. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9375827/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Implications of Herbal Supplements in Conventional...by G Hassen · 2022 · Cited by 135 — Though perceived as safe due to their natural s...</span></span></span>
+The emotional logic is understandable. People facing frightening diagnoses often want hope, control and options. That vulnerability is one reason health misinformation can spread through caring communities rather than only through deliberate deception.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9375827/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Implications of Herbal Supplements in Conventional...by G Hassen · 2022 · Cited by 135 — Though perceived as safe due to their natural s...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/hPgqVLFiBWs" title="The risks of alternative medicine 🔎" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=hPgqVLFiBWs" target="_blank" rel="noopener noreferrer">The risks of alternative medicine 🔎</a></p><p class="youtube-embed-meta">Channel: Cancer Research UK &middot; Views: 1.5K &middot; Uploaded: April 2026 &middot; Length: 26 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=hPgqVLFiBWs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=hPgqVLFiBWs">Open on YouTube</a></p></div></div></div>
 
@@ -364,7 +364,7 @@ Warning signs include:
 * Suggestions that mainstream medicine is hiding a simple cure.
 * Statements that side effects are impossible because the product is natural.
 * Advice to stop prescribed treatments without medical supervision.
-* Claims that critics are part of a conspiracy rather than engaging with evidence. U.S. Food and Drug Administration <span class="citation-chip-wrap"><a class="citation-chip" href="https://publications.jrc.ec.europa.eu/repository/handle/JRC73507" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: publications.jrc.ec.europa.eu">[JRC Publications]</a><span class="citation-popover" role="note"><span class="citation-popover-source">publications.jrc.ec.europa.eu</span><span class="citation-popover-snippet">JRC PublicationsAssessing herbal products with health claims - JRC Publicationsby S LAPENNA · Cited by 24 — However, there are cases of h...</span></span></span>
+* Claims that critics are part of a conspiracy rather than engaging with evidence. U.S. Food and Drug Administration<span class="citation-chip-wrap"><a class="citation-chip" href="https://publications.jrc.ec.europa.eu/repository/handle/JRC73507" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: publications.jrc.ec.europa.eu">[JRC Publications]</a><span class="citation-popover" role="note"><span class="citation-popover-source">publications.jrc.ec.europa.eu</span><span class="citation-popover-snippet">JRC PublicationsAssessing herbal products with health claims - JRC Publicationsby S LAPENNA · Cited by 24 — However, there are cases of h...</span></span></span>
 
 More reliable health information usually looks less dramatic. It acknowledges uncertainty, discusses risks as well as benefits, explains who a treatment has been tested on and avoids promising guaranteed results.
 
@@ -385,199 +385,199 @@ Those answers may not always be the same.
 
 The choice is not always between natural remedies and medicine. In many situations, the more useful distinction is between approaches supported by evidence and approaches supported mainly by hope, [anecdotes]({{ 'anecdotes/' | relative_url }}) or marketing.
 
-Some natural products and complementary practices have evidence for specific uses. Others do not. Some may be helpful alongside medical treatment. Others may interfere with it. The key issue is not whether something is natural but whether it has been shown to be safe and effective for the purpose being claimed. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cancer.gov/about-cancer/treatment/cam" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cancer.gov">[Cancer.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cancer.gov</span><span class="citation-popover-snippet">Complementary and Alternative Medicine (CAM) - NCI31 Oct 2024 — Natural does not mean safe · Herbal supplements may be harmful when taken...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://bmjopen.bmj.com/content/7/11/e015860" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bmjopen.bmj.com">[BMJ Open]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bmjopen.bmj.com</span><span class="citation-popover-snippet">BMJ OpenReview of systematic reviews of non-pharmacological...by M Duncan · 2017 · Cited by 244 — A review of published systematic revie...</span></span></span>
+Some natural products and complementary practices have evidence for specific uses. Others do not. Some may be helpful alongside medical treatment. Others may interfere with it. The key issue is not whether something is natural but whether it has been shown to be safe and effective for the purpose being claimed.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cancer.gov/about-cancer/treatment/cam" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cancer.gov">[Cancer.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cancer.gov</span><span class="citation-popover-snippet">Complementary and Alternative Medicine (CAM) - NCI31 Oct 2024 — Natural does not mean safe · Herbal supplements may be harmful when taken...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://bmjopen.bmj.com/content/7/11/e015860" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bmjopen.bmj.com">[BMJ Open]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bmjopen.bmj.com</span><span class="citation-popover-snippet">BMJ OpenReview of systematic reviews of non-pharmacological...by M Duncan · 2017 · Cited by 244 — A review of published systematic revie...</span></span></span>
 
-Health misinformation often succeeds by turning the word natural into a shortcut for trust. But evidence does not come from a product's image, origin story or marketing language. It comes from careful testing, transparent data and a willingness to ask whether a claim remains true when personal stories, fears and assumptions are stripped away. NCCIH <span class="citation-chip-wrap"><a class="citation-chip" href="https://publications.jrc.ec.europa.eu/repository/handle/JRC73507" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: publications.jrc.ec.europa.eu">[JRC Publications]</a><span class="citation-popover" role="note"><span class="citation-popover-source">publications.jrc.ec.europa.eu</span><span class="citation-popover-snippet">JRC PublicationsAssessing herbal products with health claims - JRC Publicationsby S LAPENNA · Cited by 24 — However, there are cases of h...</span></span></span>
+Health misinformation often succeeds by turning the word natural into a shortcut for trust. But evidence does not come from a product's image, origin story or marketing language. It comes from careful testing, transparent data and a willingness to ask whether a claim remains true when personal stories, fears and assumptions are stripped away. NCCIH<span class="citation-chip-wrap"><a class="citation-chip" href="https://publications.jrc.ec.europa.eu/repository/handle/JRC73507" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: publications.jrc.ec.europa.eu">[JRC Publications]</a><span class="citation-popover" role="note"><span class="citation-popover-source">publications.jrc.ec.europa.eu</span><span class="citation-popover-snippet">JRC PublicationsAssessing herbal products with health claims - JRC Publicationsby S LAPENNA · Cited by 24 — However, there are cases of h...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When Natural Sounds Safer Than Evidence. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When Natural Sounds Safer Than Evidence. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Bad+Science+by+Ben+Goldacre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Bad Science on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=wICuv0ePMYoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Bad Science" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Bad+Science+by+Ben+Goldacre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Bad Science">Bad Science</a>
-        </h4>
-        <p class="fr-book-author">By Ben Goldacre</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Bad+Science+by+Ben+Goldacre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Bad Science on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=wICuv0ePMYoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Bad Science" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Bad+Science+by+Ben+Goldacre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Bad Science">Bad Science</a>
+</h4>
+<p class="fr-book-author">By Ben Goldacre</p>
         
-        <p class="fr-book-desc">Explains how weak evidence and misleading claims become accepted.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Bad+Science+by+Ben+Goldacre&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains how weak evidence and misleading claims become accepted.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Bad+Science+by+Ben+Goldacre&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Foolproof%3A+Why+We+Fall+for+Misinformation+and+How+to+Build+Immunity+by+Sander+van+der+Linden&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Foolproof: Why We Fall for Misinformation and How to Build Immunity on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Y517EAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Foolproof: Why We Fall for Misinformation and How to Build Immunity" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Foolproof%3A+Why+We+Fall+for+Misinformation+and+How+to+Build+Immunity+by+Sander+van+der+Linden&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Foolproof: Why We Fall for Misinformation and How to Build Immunity">Foolproof: Why We Fall for Misinformation and How to Build Im...</a>
-        </h4>
-        <p class="fr-book-author">By Sander van der Linden</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Foolproof%3A+Why+We+Fall+for+Misinformation+and+How+to+Build+Immunity+by+Sander+van+der+Linden&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Foolproof: Why We Fall for Misinformation and How to Build Immunity on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Y517EAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Foolproof: Why We Fall for Misinformation and How to Build Immunity" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Foolproof%3A+Why+We+Fall+for+Misinformation+and+How+to+Build+Immunity+by+Sander+van+der+Linden&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Foolproof: Why We Fall for Misinformation and How to Build Immunity">Foolproof: Why We Fall for Misinformation and How to Build Im...</a>
+</h4>
+<p class="fr-book-author">By Sander van der Linden</p>
         
-        <p class="fr-book-desc">Helps readers understand why reassuring claims can feel true without evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Foolproof%3A+Why+We+Fall+for+Misinformation+and+How+to+Build+Immunity+by+Sander+van+der+Linden&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps readers understand why reassuring claims can feel true without evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Foolproof%3A+Why+We+Fall+for+Misinformation+and+How+to+Build+Immunity+by+Sander+van+der+Linden&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Trick+or+Treatment%3F+Simon+Singh&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Trick or Treatment? on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/2524911-M.jpg" alt="Cover for Trick or Treatment?" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Trick+or+Treatment%3F+Simon+Singh&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Trick or Treatment?">Trick or Treatment?</a>
-        </h4>
-        <p class="fr-book-author">By Simon Singh, Edzard Ernst</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Trick+or+Treatment%3F+Simon+Singh&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Trick or Treatment? on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/2524911-M.jpg" alt="Cover for Trick or Treatment?" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Trick+or+Treatment%3F+Simon+Singh&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Trick or Treatment?">Trick or Treatment?</a>
+</h4>
+<p class="fr-book-author">By Simon Singh, Edzard Ernst</p>
         
-        <p class="fr-book-desc">First published 2008. Subjects: Placebo Effect, Evidence-Based Medicine, Complementary Therapies, Alternative medicine, Quackery.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Trick+or+Treatment%3F+Simon+Singh&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2008. Subjects: Placebo Effect, Evidence-Based Medicine, Complementary Therapies, Alternative medicine, Quackery.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Trick+or+Treatment%3F+Simon+Singh&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Do+You+Believe+in+Magic%3F+Paul+A.+Offit&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Do You Believe in Magic? on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/11402121-M.jpg" alt="Cover for Do You Believe in Magic?" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Do+You+Believe+in+Magic%3F+Paul+A.+Offit&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Do You Believe in Magic?">Do You Believe in Magic?</a>
-        </h4>
-        <p class="fr-book-author">By Paul A. Offit</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Do+You+Believe+in+Magic%3F+Paul+A.+Offit&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Do You Believe in Magic? on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/11402121-M.jpg" alt="Cover for Do You Believe in Magic?" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Do+You+Believe+in+Magic%3F+Paul+A.+Offit&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Do You Believe in Magic?">Do You Believe in Magic?</a>
+</h4>
+<p class="fr-book-author">By Paul A. Offit</p>
         
-        <p class="fr-book-desc">First published 2013. Subjects: Corrupt practices, Alternative medicine, Complementary Therapies, Deception, Quackery.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Do+You+Believe+in+Magic%3F+Paul+A.+Offit&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2013. Subjects: Corrupt practices, Alternative medicine, Complementary Therapies, Deception, Quackery.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Do+You+Believe+in+Magic%3F+Paul+A.+Offit&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Bad+Science&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Bad Science</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Foolproof%3A+Why+We+Fall+for+Misinformation+and+How+to+Build+Immunity&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Foolproof: Why We Fall for Misinformation and How to Build Immunity</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Trick+or+Treatment%3F&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Trick or Treatment?</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Bad+Science&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Bad Science</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Foolproof%3A+Why+We+Fall+for+Misinformation+and+How+to+Build+Immunity&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Foolproof: Why We Fall for Misinformation and How to Build Immunity</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Trick+or+Treatment%3F&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Trick or Treatment?</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=public+health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=natural-remedies-when-natural-sounds-safer-than-evidence-myths-and-misconcept-public-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="public health poster" data-ebay-reference="natural-remedies-when-natural-sounds-safer-than-evidence-myths-and-misconcept-public-health-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage 1950s public health awareness advert poster"><img src="{{ '/assets/images/marketplace-covers/26b25d9d44b21db71d19.jpg' | relative_url }}" alt="Listing image for Vintage 1950s public health awareness advert poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=public+health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=natural-remedies-when-natural-sounds-safer-than-evidence-myths-and-misconcept-public-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="public health poster" data-ebay-reference="natural-remedies-when-natural-sounds-safer-than-evidence-myths-and-misconcept-public-health-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage 1950s public health awareness advert poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=public+health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=natural-remedies-when-natural-sounds-safer-than-evidence-myths-and-misconcept-public-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="public health poster" data-ebay-reference="natural-remedies-when-natural-sounds-safer-than-evidence-myths-and-misconcept-public-health-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for public health poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: public health poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=public+health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=natural-remedies-when-natural-sounds-safer-than-evidence-myths-and-misconcept-public-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="public health poster" data-ebay-reference="natural-remedies-when-natural-sounds-safer-than-evidence-myths-and-misconcept-public-health-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=public+health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=natural-remedies-when-natural-sounds-safer-than-evidence-myths-and-misconcept-public-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="public health poster" data-ebay-reference="natural-remedies-when-natural-sounds-safer-than-evidence-myths-and-misconcept-public-health-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage 1950s public health awareness advert poster"><img src="{{ '/assets/images/marketplace-covers/26b25d9d44b21db71d19.jpg' | relative_url }}" alt="Listing image for Vintage 1950s public health awareness advert poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=public+health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=natural-remedies-when-natural-sounds-safer-than-evidence-myths-and-misconcept-public-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="public health poster" data-ebay-reference="natural-remedies-when-natural-sounds-safer-than-evidence-myths-and-misconcept-public-health-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage 1950s public health awareness advert poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=public+health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=natural-remedies-when-natural-sounds-safer-than-evidence-myths-and-misconcept-public-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="public health poster" data-ebay-reference="natural-remedies-when-natural-sounds-safer-than-evidence-myths-and-misconcept-public-health-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for public health poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: public health poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=public+health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=natural-remedies-when-natural-sounds-safer-than-evidence-myths-and-misconcept-public-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="public health poster" data-ebay-reference="natural-remedies-when-natural-sounds-safer-than-evidence-myths-and-misconcept-public-health-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=public+health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=natural-remedies-when-natural-sounds-safer-than-evidence-myths-and-misconcept-public-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="public health poster" data-ebay-reference="natural-remedies-when-natural-sounds-safer-than-evidence-myths-and-misconcept-public-health-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Aihrgdesign A Hopeful Public Health Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/2533f13b6b0ba14fe5f5.jpg' | relative_url }}" alt="Listing image for Aihrgdesign A Hopeful Public Health Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=public+health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=natural-remedies-when-natural-sounds-safer-than-evidence-myths-and-misconcept-public-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="public health poster" data-ebay-reference="natural-remedies-when-natural-sounds-safer-than-evidence-myths-and-misconcept-public-health-poster" target="_blank" rel="sponsored noopener noreferrer">Aihrgdesign A Hopeful Public Health Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=public+health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=natural-remedies-when-natural-sounds-safer-than-evidence-myths-and-misconcept-public-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="public health poster" data-ebay-reference="natural-remedies-when-natural-sounds-safer-than-evidence-myths-and-misconcept-public-health-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for public health poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: public health poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=public+health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=natural-remedies-when-natural-sounds-safer-than-evidence-myths-and-misconcept-public-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="public health poster" data-ebay-reference="natural-remedies-when-natural-sounds-safer-than-evidence-myths-and-misconcept-public-health-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=public+health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=natural-remedies-when-natural-sounds-safer-than-evidence-myths-and-misconcept-public-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="public health poster" data-ebay-reference="natural-remedies-when-natural-sounds-safer-than-evidence-myths-and-misconcept-public-health-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Aihrgdesign A Hopeful Public Health Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/2533f13b6b0ba14fe5f5.jpg' | relative_url }}" alt="Listing image for Aihrgdesign A Hopeful Public Health Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=public+health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=natural-remedies-when-natural-sounds-safer-than-evidence-myths-and-misconcept-public-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="public health poster" data-ebay-reference="natural-remedies-when-natural-sounds-safer-than-evidence-myths-and-misconcept-public-health-poster" target="_blank" rel="sponsored noopener noreferrer">Aihrgdesign A Hopeful Public Health Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=public+health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=natural-remedies-when-natural-sounds-safer-than-evidence-myths-and-misconcept-public-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="public health poster" data-ebay-reference="natural-remedies-when-natural-sounds-safer-than-evidence-myths-and-misconcept-public-health-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for public health poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: public health poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=public+health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=natural-remedies-when-natural-sounds-safer-than-evidence-myths-and-misconcept-public-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="public health poster" data-ebay-reference="natural-remedies-when-natural-sounds-safer-than-evidence-myths-and-misconcept-public-health-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=public+health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=natural-remedies-when-natural-sounds-safer-than-evidence-myths-and-misconcept-public-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="public health poster" data-ebay-reference="natural-remedies-when-natural-sounds-safer-than-evidence-myths-and-misconcept-public-health-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage 1950s public health awareness advert poster"><img src="{{ '/assets/images/marketplace-covers/69cc58475db8cafc34b2.jpg' | relative_url }}" alt="Listing image for Vintage 1950s public health awareness advert poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=public+health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=natural-remedies-when-natural-sounds-safer-than-evidence-myths-and-misconcept-public-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="public health poster" data-ebay-reference="natural-remedies-when-natural-sounds-safer-than-evidence-myths-and-misconcept-public-health-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage 1950s public health awareness advert poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=public+health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=natural-remedies-when-natural-sounds-safer-than-evidence-myths-and-misconcept-public-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="public health poster" data-ebay-reference="natural-remedies-when-natural-sounds-safer-than-evidence-myths-and-misconcept-public-health-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for public health poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: public health poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=public+health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=natural-remedies-when-natural-sounds-safer-than-evidence-myths-and-misconcept-public-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="public health poster" data-ebay-reference="natural-remedies-when-natural-sounds-safer-than-evidence-myths-and-misconcept-public-health-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=public+health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=natural-remedies-when-natural-sounds-safer-than-evidence-myths-and-misconcept-public-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="public health poster" data-ebay-reference="natural-remedies-when-natural-sounds-safer-than-evidence-myths-and-misconcept-public-health-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage 1950s public health awareness advert poster"><img src="{{ '/assets/images/marketplace-covers/69cc58475db8cafc34b2.jpg' | relative_url }}" alt="Listing image for Vintage 1950s public health awareness advert poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=public+health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=natural-remedies-when-natural-sounds-safer-than-evidence-myths-and-misconcept-public-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="public health poster" data-ebay-reference="natural-remedies-when-natural-sounds-safer-than-evidence-myths-and-misconcept-public-health-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage 1950s public health awareness advert poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=public+health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=natural-remedies-when-natural-sounds-safer-than-evidence-myths-and-misconcept-public-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="public health poster" data-ebay-reference="natural-remedies-when-natural-sounds-safer-than-evidence-myths-and-misconcept-public-health-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for public health poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: public health poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=public+health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=natural-remedies-when-natural-sounds-safer-than-evidence-myths-and-misconcept-public-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="public health poster" data-ebay-reference="natural-remedies-when-natural-sounds-safer-than-evidence-myths-and-misconcept-public-health-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=public+health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=natural-remedies-when-natural-sounds-safer-than-evidence-myths-and-misconcept-public-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="public health poster" data-ebay-reference="natural-remedies-when-natural-sounds-safer-than-evidence-myths-and-misconcept-public-health-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Aihrgdesign A Vintage Public Health Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/9a4f85f5088309b5fa73.jpg' | relative_url }}" alt="Listing image for Aihrgdesign A Vintage Public Health Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=public+health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=natural-remedies-when-natural-sounds-safer-than-evidence-myths-and-misconcept-public-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="public health poster" data-ebay-reference="natural-remedies-when-natural-sounds-safer-than-evidence-myths-and-misconcept-public-health-poster" target="_blank" rel="sponsored noopener noreferrer">Aihrgdesign A Vintage Public Health Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=public+health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=natural-remedies-when-natural-sounds-safer-than-evidence-myths-and-misconcept-public-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="public health poster" data-ebay-reference="natural-remedies-when-natural-sounds-safer-than-evidence-myths-and-misconcept-public-health-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for public health poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: public health poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=public+health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=natural-remedies-when-natural-sounds-safer-than-evidence-myths-and-misconcept-public-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="public health poster" data-ebay-reference="natural-remedies-when-natural-sounds-safer-than-evidence-myths-and-misconcept-public-health-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=public+health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=natural-remedies-when-natural-sounds-safer-than-evidence-myths-and-misconcept-public-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="public health poster" data-ebay-reference="natural-remedies-when-natural-sounds-safer-than-evidence-myths-and-misconcept-public-health-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=public+health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=natural-remedies-when-natural-sounds-safer-than-evidence-myths-and-misconcept-public-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="public health poster" data-ebay-reference="natural-remedies-when-natural-sounds-safer-than-evidence-myths-and-misconcept-public-health-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Aihrgdesign A Vintage Public Health Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/9a4f85f5088309b5fa73.jpg' | relative_url }}" alt="Listing image for Aihrgdesign A Vintage Public Health Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=public+health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=natural-remedies-when-natural-sounds-safer-than-evidence-myths-and-misconcept-public-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="public health poster" data-ebay-reference="natural-remedies-when-natural-sounds-safer-than-evidence-myths-and-misconcept-public-health-poster" target="_blank" rel="sponsored noopener noreferrer">Aihrgdesign A Vintage Public Health Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=public+health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=natural-remedies-when-natural-sounds-safer-than-evidence-myths-and-misconcept-public-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="public health poster" data-ebay-reference="natural-remedies-when-natural-sounds-safer-than-evidence-myths-and-misconcept-public-health-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for public health poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: public health poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=public+health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=natural-remedies-when-natural-sounds-safer-than-evidence-myths-and-misconcept-public-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="public health poster" data-ebay-reference="natural-remedies-when-natural-sounds-safer-than-evidence-myths-and-misconcept-public-health-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=public+health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=natural-remedies-when-natural-sounds-safer-than-evidence-myths-and-misconcept-public-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="public health poster" data-ebay-reference="natural-remedies-when-natural-sounds-safer-than-evidence-myths-and-misconcept-public-health-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -593,7 +593,7 @@ Health misinformation often succeeds by turning the word natural into a shortcut
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -613,7 +613,7 @@ Health misinformation often succeeds by turning the word natural into a shortcut
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -645,7 +645,7 @@ Health misinformation often succeeds by turning the word natural into a shortcut
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -697,7 +697,7 @@ Health misinformation often succeeds by turning the word natural into a shortcut
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -742,7 +742,7 @@ Health misinformation often succeeds by turning the word natural into a shortcut
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -783,215 +783,215 @@ Health misinformation often succeeds by turning the word natural into a shortcut
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: nccih.nih.gov  
-   Link: <a href="https://www.nccih.nih.gov/health/know-science/natural-doesnt-mean-better" target="_blank" rel="noopener noreferrer nofollow">https://www.nccih.nih.gov/health/know-science/natural-doesnt-mean-better</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Natural Doesn&#x27;t Necessarily Mean Safer, or Better | NCCIHAnd “natural” medicines, contrary to what many may think, are not without s...</p></details>
+   Link:<a href="https://www.nccih.nih.gov/health/know-science/natural-doesnt-mean-better" target="_blank" rel="noopener noreferrer nofollow">https://www.nccih.nih.gov/health/know-science/natural-doesnt-mean-better</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Natural Doesn&#x27;t Necessarily Mean Safer, or Better | NCCIHAnd “natural” medicines, contrary to what many may think, are not without s...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: nccih.nih.gov  
-   Link: <a href="https://www.nccih.nih.gov/health/are-you-considering-a-complementary-health-approach" target="_blank" rel="noopener noreferrer nofollow">https://www.nccih.nih.gov/health/are-you-considering-a-complementary-health-approach</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Keep in mind that “natural” does not necessarily mean “safe.” (Think of...Read more...</p></details>
+   Link:<a href="https://www.nccih.nih.gov/health/are-you-considering-a-complementary-health-approach" target="_blank" rel="noopener noreferrer nofollow">https://www.nccih.nih.gov/health/are-you-considering-a-complementary-health-approach</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Keep in mind that “natural” does not necessarily mean “safe.” (Think of...Read more...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: poisoncontrol.utah.edu  
    Title: natural does not always mean safe  
-   Link: <a href="https://poisoncontrol.utah.edu/news/2023/02/natural-does-not-always-mean-safe" target="_blank" rel="noopener noreferrer nofollow">https://poisoncontrol.utah.edu/news/2023/02/natural-does-not-always-mean-safe</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Utah Poison Control“Natural” Does Not Always Mean Safe28 Feb 2023 — A common myth is that because these products are “natural”, they are...</p></details>
+   Link:<a href="https://poisoncontrol.utah.edu/news/2023/02/natural-does-not-always-mean-safe" target="_blank" rel="noopener noreferrer nofollow">https://poisoncontrol.utah.edu/news/2023/02/natural-does-not-always-mean-safe</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Utah Poison Control“Natural” Does Not Always Mean Safe28 Feb 2023 — A common myth is that because these products are “natural”, they are...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: nccih.nih.gov  
    Title: NCCIHDietary and Herbal Supplements | NCCIH  
-   Link: <a href="https://www.nccih.nih.gov/health/dietary-and-herbal-supplements" target="_blank" rel="noopener noreferrer nofollow">https://www.nccih.nih.gov/health/dietary-and-herbal-supplements</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Many dietary supplements...Read more...</p></details>
+   Link:<a href="https://www.nccih.nih.gov/health/dietary-and-herbal-supplements" target="_blank" rel="noopener noreferrer nofollow">https://www.nccih.nih.gov/health/dietary-and-herbal-supplements</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Many dietary supplements...Read more...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCExamining the evidence for health-related claims made  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9958238/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9958238/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>by V Nguyen · 2022 · Cited by 13 — With few legal regulations governing the distribution of poor-quality information, social media pro...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9958238/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9958238/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by V Nguyen · 2022 · Cited by 13 — With few legal regulations governing the distribution of poor-quality information, social media pro...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCHow the public is being misled about complementary  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC2586853/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC2586853/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>by E Ernst · 2008 · Cited by 38 — Patients are frequently desperate and therefore vulnerable to such misinformation. Wrong therapeutic...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC2586853/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC2586853/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by E Ernst · 2008 · Cited by 38 — Patients are frequently desperate and therefore vulnerable to such misinformation. Wrong therapeutic...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: bmjopen.bmj.com  
-   Link: <a href="https://bmjopen.bmj.com/content/7/11/e015860" target="_blank" rel="noopener noreferrer nofollow">https://bmjopen.bmj.com/content/7/11/e015860</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>BMJ OpenReview of systematic reviews of non-pharmacological...by M Duncan · 2017 · Cited by 244 — A review of published systematic revie...</p></details>
+   Link:<a href="https://bmjopen.bmj.com/content/7/11/e015860" target="_blank" rel="noopener noreferrer nofollow">https://bmjopen.bmj.com/content/7/11/e015860</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>BMJ OpenReview of systematic reviews of non-pharmacological...by M Duncan · 2017 · Cited by 244 — A review of published systematic revie...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: cancer.gov  
-   Link: <a href="https://www.cancer.gov/about-cancer/treatment/cam" target="_blank" rel="noopener noreferrer nofollow">https://www.cancer.gov/about-cancer/treatment/cam</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Complementary and Alternative Medicine (CAM) - NCI31 Oct 2024 — Natural does not mean safe · Herbal supplements may be harmful when taken...</p></details>
+   Link:<a href="https://www.cancer.gov/about-cancer/treatment/cam" target="_blank" rel="noopener noreferrer nofollow">https://www.cancer.gov/about-cancer/treatment/cam</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Complementary and Alternative Medicine (CAM) - NCI31 Oct 2024 — Natural does not mean safe · Herbal supplements may be harmful when taken...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: nccih.nih.gov  
    Title: NCCIHHerb-Drug Interactions | NCCIH  
-   Link: <a href="https://www.nccih.nih.gov/health/providers/digest/herb-drug-interactions" target="_blank" rel="noopener noreferrer nofollow">https://www.nccih.nih.gov/health/providers/digest/herb-drug-interactions</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>nih.govHerb-Drug Interactions | NCCIH - NIHInteractions may occur between prescription drugs, over-the-counter drugs, dietary supplements...</p></details>
+   Link:<a href="https://www.nccih.nih.gov/health/providers/digest/herb-drug-interactions" target="_blank" rel="noopener noreferrer nofollow">https://www.nccih.nih.gov/health/providers/digest/herb-drug-interactions</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>nih.govHerb-Drug Interactions | NCCIH - NIHInteractions may occur between prescription drugs, over-the-counter drugs, dietary supplements...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: kidney.org  
-   Link: <a href="https://www.kidney.org/kidney-topics/herbal-supplements-and-kidney-disease" target="_blank" rel="noopener noreferrer nofollow">https://www.kidney.org/kidney-topics/herbal-supplements-and-kidney-disease</a>  
+   Link:<a href="https://www.kidney.org/kidney-topics/herbal-supplements-and-kidney-disease" target="_blank" rel="noopener noreferrer nofollow">https://www.kidney.org/kidney-topics/herbal-supplements-and-kidney-disease</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: fda.gov  
    Title: 6 tip offs rip offs dont fall health fraud scams  
-   Link: <a href="https://www.fda.gov/consumers/consumer-updates/6-tip-offs-rip-offs-dont-fall-health-fraud-scams" target="_blank" rel="noopener noreferrer nofollow">https://www.fda.gov/consumers/consumer-updates/6-tip-offs-rip-offs-dont-fall-health-fraud-scams</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Food and Drug Administration6 Tip-offs to Rip-offs: Don&#x27;t Fall for Health Fraud Scams4 Mar 2021 — A health product is fraudulent if it is...</p></details>
+   Link:<a href="https://www.fda.gov/consumers/consumer-updates/6-tip-offs-rip-offs-dont-fall-health-fraud-scams" target="_blank" rel="noopener noreferrer nofollow">https://www.fda.gov/consumers/consumer-updates/6-tip-offs-rip-offs-dont-fall-health-fraud-scams</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Food and Drug Administration6 Tip-offs to Rip-offs: Don&#x27;t Fall for Health Fraud Scams4 Mar 2021 — A health product is fraudulent if it is...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: blogs.bmj.com  
    Title: Blogs When misinformation is framed as necessary, harm follows  
-   Link: <a href="https://blogs.bmj.com/bmjleader/2025/07/02/when-misinformation-is-framed-as-necessary-harm-follows-digital-misinformation-and-the-erosion-of-medical-ethics-by-alex-ruani/" target="_blank" rel="noopener noreferrer nofollow">https://blogs.bmj.com/bmjleader/2025/07/02/when-misinformation-is-framed-as-necessary-harm-follows-digital-misinformation-and-the-erosion-of-medical-ethics-by-alex-ruani/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>2 Jul 2025 — Research over the past decade has made one thing abundantly clear: exposure to misinformation can mislead health decisions...</p></details>
+   Link:<a href="https://blogs.bmj.com/bmjleader/2025/07/02/when-misinformation-is-framed-as-necessary-harm-follows-digital-misinformation-and-the-erosion-of-medical-ethics-by-alex-ruani/" target="_blank" rel="noopener noreferrer nofollow">https://blogs.bmj.com/bmjleader/2025/07/02/when-misinformation-is-framed-as-necessary-harm-follows-digital-misinformation-and-the-erosion-of-medical-ethics-by-alex-ruani/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>2 Jul 2025 — Research over the past decade has made one thing abundantly clear: exposure to misinformation can mislead health decisions...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: bmj.com  
-   Link: <a href="https://www.bmj.com/content/358/bmj.j4006" target="_blank" rel="noopener noreferrer nofollow">https://www.bmj.com/content/358/bmj.j4006</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Cancer patients who opt for alternative treatment at greater...by M McCarthy · 2017 — The researchers found that, overall, patients w...</p></details>
+   Link:<a href="https://www.bmj.com/content/358/bmj.j4006" target="_blank" rel="noopener noreferrer nofollow">https://www.bmj.com/content/358/bmj.j4006</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Cancer patients who opt for alternative treatment at greater...by M McCarthy · 2017 — The researchers found that, overall, patients w...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: bmj.com  
-   Link: <a href="https://www.bmj.com/content/370/bmj.m2862/rr" target="_blank" rel="noopener noreferrer nofollow">https://www.bmj.com/content/370/bmj.m2862/rr</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Risks and dangers associated with avoiding conventional...Jul 16, 2020 — We agree with the families featured in the documentary, that th...</p></details>
+   Link:<a href="https://www.bmj.com/content/370/bmj.m2862/rr" target="_blank" rel="noopener noreferrer nofollow">https://www.bmj.com/content/370/bmj.m2862/rr</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Risks and dangers associated with avoiding conventional...Jul 16, 2020 — We agree with the families featured in the documentary, that th...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: bmj.com  
    Title: rapid responses  
-   Link: <a href="https://www.bmj.com/content/371/bmj.m4087/rapid-responses" target="_blank" rel="noopener noreferrer nofollow">https://www.bmj.com/content/371/bmj.m4087/rapid-responses</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Mortality due to cancer treatment delay: systematic review...Nov 4, 2020 — A surgical delay of 12 weeks for all patients with breast can...</p></details>
+   Link:<a href="https://www.bmj.com/content/371/bmj.m4087/rapid-responses" target="_blank" rel="noopener noreferrer nofollow">https://www.bmj.com/content/371/bmj.m4087/rapid-responses</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Mortality due to cancer treatment delay: systematic review...Nov 4, 2020 — A surgical delay of 12 weeks for all patients with breast can...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: bmj.com  
-   Link: <a href="https://www.bmj.com/content/371/bmj.m4261/rr-0" target="_blank" rel="noopener noreferrer nofollow">https://www.bmj.com/content/371/bmj.m4261/rr-0</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Re: Prioritising research into cancer treatment delays4 Nov 2020 — On the pretext of choosing alternative or complementary medicines, pat...</p></details>
+   Link:<a href="https://www.bmj.com/content/371/bmj.m4261/rr-0" target="_blank" rel="noopener noreferrer nofollow">https://www.bmj.com/content/371/bmj.m4261/rr-0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Re: Prioritising research into cancer treatment delays4 Nov 2020 — On the pretext of choosing alternative or complementary medicines, pat...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: bmjopen.bmj.com  
-   Link: <a href="https://bmjopen.bmj.com/content/14/5/e080310" target="_blank" rel="noopener noreferrer nofollow">https://bmjopen.bmj.com/content/14/5/e080310</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>systematic reviewby SAM Sara · 2024 · Cited by 4 — The objective of this systematic review was to identify psychological and educational...</p></details>
+   Link:<a href="https://bmjopen.bmj.com/content/14/5/e080310" target="_blank" rel="noopener noreferrer nofollow">https://bmjopen.bmj.com/content/14/5/e080310</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>systematic reviewby SAM Sara · 2024 · Cited by 4 — The objective of this systematic review was to identify psychological and educational...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: bmj.com  
-   Link: <a href="https://www.bmj.com/content/371/bmj.m4087/rr-5" target="_blank" rel="noopener noreferrer nofollow">https://www.bmj.com/content/371/bmj.m4087/rr-5</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Mortality due to cancer treatment delay: systematic review...Nov 4, 2020 — For example, long term follow-up of “early” breast cancer dem...</p></details>
+   Link:<a href="https://www.bmj.com/content/371/bmj.m4087/rr-5" target="_blank" rel="noopener noreferrer nofollow">https://www.bmj.com/content/371/bmj.m4087/rr-5</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Mortality due to cancer treatment delay: systematic review...Nov 4, 2020 — For example, long term follow-up of “early” breast cancer dem...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: bmj.com  
-   Link: <a href="https://www.bmj.com/content/387/bmj.q2703/rr" target="_blank" rel="noopener noreferrer nofollow">https://www.bmj.com/content/387/bmj.q2703/rr</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>This includes evidence-based decision-making in oncology, robust palliative care education.Read more...</p></details>
+   Link:<a href="https://www.bmj.com/content/387/bmj.q2703/rr" target="_blank" rel="noopener noreferrer nofollow">https://www.bmj.com/content/387/bmj.q2703/rr</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>This includes evidence-based decision-making in oncology, robust palliative care education.Read more...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: bmjopen.bmj.com  
-   Link: <a href="https://bmjopen.bmj.com/content/12/4/e059960" target="_blank" rel="noopener noreferrer nofollow">https://bmjopen.bmj.com/content/12/4/e059960</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>for a randomised controlled trialby M Stie · 2022 · Cited by 4 — The aim of this study is to assess the efficacy of OD-CAM integrated ear...</p></details>
+   Link:<a href="https://bmjopen.bmj.com/content/12/4/e059960" target="_blank" rel="noopener noreferrer nofollow">https://bmjopen.bmj.com/content/12/4/e059960</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>for a randomised controlled trialby M Stie · 2022 · Cited by 4 — The aim of this study is to assess the efficacy of OD-CAM integrated ear...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: bmj.com  
-   Link: <a href="https://www.bmj.com/content/371/bmj.m4087/related" target="_blank" rel="noopener noreferrer nofollow">https://www.bmj.com/content/371/bmj.m4087/related</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Mortality due to cancer treatment delay: systematic review...Nov 4, 2020 — Mortality due to cancer treatment delay: systematic review an...</p></details>
+   Link:<a href="https://www.bmj.com/content/371/bmj.m4087/related" target="_blank" rel="noopener noreferrer nofollow">https://www.bmj.com/content/371/bmj.m4087/related</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Mortality due to cancer treatment delay: systematic review...Nov 4, 2020 — Mortality due to cancer treatment delay: systematic review an...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: who.int  
-   Link: <a href="https://www.who.int/health-topics/traditional-complementary-and-integrative-medicine" target="_blank" rel="noopener noreferrer nofollow">https://www.who.int/health-topics/traditional-complementary-and-integrative-medicine</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Traditional, Complementary and Integrative MedicineTraditional medicine emphasizes nature-based remedies and holistic, personalized appro...</p></details>
+   Link:<a href="https://www.who.int/health-topics/traditional-complementary-and-integrative-medicine" target="_blank" rel="noopener noreferrer nofollow">https://www.who.int/health-topics/traditional-complementary-and-integrative-medicine</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Traditional, Complementary and Integrative MedicineTraditional medicine emphasizes nature-based remedies and holistic, personalized appro...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: publications.jrc.ec.europa.eu  
-   Link: <a href="https://publications.jrc.ec.europa.eu/repository/handle/JRC73507" target="_blank" rel="noopener noreferrer nofollow">https://publications.jrc.ec.europa.eu/repository/handle/JRC73507</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>JRC PublicationsAssessing herbal products with [health claims](&amp;#123;&amp;#123; &#x27;health-claims/&#x27; | relative_url &amp;#125;&amp;#125;) - JRC Publicationsby S LAPENNA · Cited by 24 — However, there are cases of h...</p></details>
+   Link:<a href="https://publications.jrc.ec.europa.eu/repository/handle/JRC73507" target="_blank" rel="noopener noreferrer nofollow">https://publications.jrc.ec.europa.eu/repository/handle/JRC73507</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>JRC PublicationsAssessing herbal products with [health claims](&amp;#123;&amp;#123; &#x27;health-claims/&#x27; | relative_url &amp;#125;&amp;#125;) - JRC Publicationsby S LAPENNA · Cited by 24 — However, there are cases of h...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: mayoclinic.org  
    Title: art 20587690  
-   Link: <a href="https://www.mayoclinic.org/tests-procedures/complementary-alternative-medicine/in-depth/natural-vs-safe-health-remedies/art-20587690" target="_blank" rel="noopener noreferrer nofollow">https://www.mayoclinic.org/tests-procedures/complementary-alternative-medicine/in-depth/natural-vs-safe-health-remedies/art-20587690</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Mayo ClinicNatural vs. safe: Why the two aren&#x27;t the same16 Aug 2025 — Natural doesn&#x27;t always mean safe. Supplements can have side effects...</p></details>
+   Link:<a href="https://www.mayoclinic.org/tests-procedures/complementary-alternative-medicine/in-depth/natural-vs-safe-health-remedies/art-20587690" target="_blank" rel="noopener noreferrer nofollow">https://www.mayoclinic.org/tests-procedures/complementary-alternative-medicine/in-depth/natural-vs-safe-health-remedies/art-20587690</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Mayo ClinicNatural vs. safe: Why the two aren&#x27;t the same16 Aug 2025 — Natural doesn&#x27;t always mean safe. Supplements can have side effects...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: mayoclinic.org  
-   Link: <a href="https://www.mayoclinic.org/healthy-lifestyle/consumer-health/in-depth/herbal-supplements/art-20046488" target="_blank" rel="noopener noreferrer nofollow">https://www.mayoclinic.org/healthy-lifestyle/consumer-health/in-depth/herbal-supplements/art-20046488</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Herbal supplements and heart medicines may not mixHerbal supplements are natural, so they must be safe, right? No, that&#x27;s not true all th...</p></details>
+   Link:<a href="https://www.mayoclinic.org/healthy-lifestyle/consumer-health/in-depth/herbal-supplements/art-20046488" target="_blank" rel="noopener noreferrer nofollow">https://www.mayoclinic.org/healthy-lifestyle/consumer-health/in-depth/herbal-supplements/art-20046488</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Herbal supplements and heart medicines may not mixHerbal supplements are natural, so they must be safe, right? No, that&#x27;s not true all th...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/33148535/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/33148535/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Mortality due to cancer treatment delay: systematic review...by TP Hanna · 2020 · Cited by 1691 — A four week delay of cancer trea...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/33148535/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/33148535/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Mortality due to cancer treatment delay: systematic review...by TP Hanna · 2020 · Cited by 1691 — A four week delay of cancer trea...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9375827/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9375827/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Implications of Herbal Supplements in Conventional...by G Hassen · 2022 · Cited by 135 — Though perceived as safe due to their natural s...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9375827/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9375827/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Implications of Herbal Supplements in Conventional...by G Hassen · 2022 · Cited by 135 — Though perceived as safe due to their natural s...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3413169/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3413169/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>following the use of complementary and alternative...by J Saquib · 2012 · Cited by 44 — The purpose of this study was to assess whether...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3413169/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3413169/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>following the use of complementary and alternative...by J Saquib · 2012 · Cited by 44 — The purpose of this study was to assess whether...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: nccih.nih.gov  
-   Link: <a href="https://www.nccih.nih.gov/training/videolectures/14/1" target="_blank" rel="noopener noreferrer nofollow">https://www.nccih.nih.gov/training/videolectures/14/1</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>to Clinically Relevant Herb-Drug InteractionsDr Gurley will provide an historic overview of herb drug interactions discuss their mechanis...</p></details>
+   Link:<a href="https://www.nccih.nih.gov/training/videolectures/14/1" target="_blank" rel="noopener noreferrer nofollow">https://www.nccih.nih.gov/training/videolectures/14/1</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>to Clinically Relevant Herb-Drug InteractionsDr Gurley will provide an historic overview of herb drug interactions discuss their mechanis...</p></details>
 
 ### Additional References
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: magazine.medlineplus.gov  
    Title: did you know supplements and medications can interact in unexpected ways  
-   Link: <a href="https://magazine.medlineplus.gov/article/did-you-know-supplements-and-medications-can-interact-in-unexpected-ways" target="_blank" rel="noopener noreferrer nofollow">https://magazine.medlineplus.gov/article/did-you-know-supplements-and-medications-can-interact-in-unexpected-ways</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Supplements and medications can interact in...9 Jan 2025 — Dietary supplements can interact dangerously with medications, altering drug...</p></details>
+   Link:<a href="https://magazine.medlineplus.gov/article/did-you-know-supplements-and-medications-can-interact-in-unexpected-ways" target="_blank" rel="noopener noreferrer nofollow">https://magazine.medlineplus.gov/article/did-you-know-supplements-and-medications-can-interact-in-unexpected-ways</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Supplements and medications can interact in...9 Jan 2025 — Dietary supplements can interact dangerously with medications, altering drug...</p></details>
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: bmjgroup.com  
-   Link: <a href="https://bmjgroup.com/every-month-delayed-in-cancer-treatment-can-raise-risk-of-death-by-around-10/" target="_blank" rel="noopener noreferrer nofollow">https://bmjgroup.com/every-month-delayed-in-cancer-treatment-can-raise-risk-of-death-by-around-10/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>cases a 6 to 13% higher risk of dying – a risk that keeps rising the longer their...Read more...</p></details>
+   Link:<a href="https://bmjgroup.com/every-month-delayed-in-cancer-treatment-can-raise-risk-of-death-by-around-10/" target="_blank" rel="noopener noreferrer nofollow">https://bmjgroup.com/every-month-delayed-in-cancer-treatment-can-raise-risk-of-death-by-around-10/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>cases a 6 to 13% higher risk of dying – a risk that keeps rising the longer their...Read more...</p></details>
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: gulbenkian.pt  
    Title: natural fact checking natural remedies and herbal medicine  
-   Link: <a href="https://gulbenkian.pt/emifund/projects/natural-fact-checking-natural-remedies-and-herbal-medicine/" target="_blank" rel="noopener noreferrer nofollow">https://gulbenkian.pt/emifund/projects/natural-fact-checking-natural-remedies-and-herbal-medicine/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Fact-Checking Natural Remedies and Herbal Medicine28 Jul 2024 — NATURAL will look to tackle disinformation and misinformation, by improvi...</p></details>
+   Link:<a href="https://gulbenkian.pt/emifund/projects/natural-fact-checking-natural-remedies-and-herbal-medicine/" target="_blank" rel="noopener noreferrer nofollow">https://gulbenkian.pt/emifund/projects/natural-fact-checking-natural-remedies-and-herbal-medicine/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Fact-Checking Natural Remedies and Herbal Medicine28 Jul 2024 — NATURAL will look to tackle disinformation and misinformation, by improvi...</p></details>
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: sop.washington.edu  
    Title: intercollegiate team will study natural product drug interactions  
-   Link: <a href="https://sop.washington.edu/intercollegiate-team-will-study-natural-product-drug-interactions/" target="_blank" rel="noopener noreferrer nofollow">https://sop.washington.edu/intercollegiate-team-will-study-natural-product-drug-interactions/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>In fact, little is known about how natural products may alter the therapeutic effects and safety of prescription and...Read more...</p></details>
+   Link:<a href="https://sop.washington.edu/intercollegiate-team-will-study-natural-product-drug-interactions/" target="_blank" rel="noopener noreferrer nofollow">https://sop.washington.edu/intercollegiate-team-will-study-natural-product-drug-interactions/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>In fact, little is known about how natural products may alter the therapeutic effects and safety of prescription and...Read more...</p></details>
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: healthychildren.org  
    Title: Medicine in the Media: Reliable Health Information v  
-   Link: <a href="https://www.healthychildren.org/English/family-life/Media/Pages/Medicine-Ads.aspx" target="_blank" rel="noopener noreferrer nofollow">https://www.healthychildren.org/English/family-life/Media/Pages/Medicine-Ads.aspx</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Fake...1 Apr 2022 — [Fake News](&amp;#123;&amp;#123; &#x27;fake-news/&#x27; | relative_url &amp;#125;&amp;#125;). Family Life. Medicine in the Media: Reliable Health... A &quot;natural&quot; treatment doesn&#x27;t necessarily work an...</p></details>
+   Link:<a href="https://www.healthychildren.org/English/family-life/Media/Pages/Medicine-Ads.aspx" target="_blank" rel="noopener noreferrer nofollow">https://www.healthychildren.org/English/family-life/Media/Pages/Medicine-Ads.aspx</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Fake...1 Apr 2022 — [Fake News](&amp;#123;&amp;#123; &#x27;fake-news/&#x27; | relative_url &amp;#125;&amp;#125;). Family Life. Medicine in the Media: Reliable Health... A &quot;natural&quot; treatment doesn&#x27;t necessarily work an...</p></details>
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: facebook.com  
    Title: “Natural” doesn't necessarily mean safer or better  
-   Link: <a href="https://www.facebook.com/NIH.ODS/posts/natural-doesnt-necessarily-mean-safer-or-better-while-some-medicines-are-derived/675122224640520/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NIH.ODS/posts/natural-doesnt-necessarily-mean-safer-or-better-while-some-medicines-are-derived/675122224640520/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;natural&quot; supplements don&#x27;t always mean safe. Take kava, an herb used for menopause or relaxation. Studies show it can caus...</p></details>
+   Link:<a href="https://www.facebook.com/NIH.ODS/posts/natural-doesnt-necessarily-mean-safer-or-better-while-some-medicines-are-derived/675122224640520/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NIH.ODS/posts/natural-doesnt-necessarily-mean-safer-or-better-while-some-medicines-are-derived/675122224640520/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;natural&quot; supplements don&#x27;t always mean safe. Take kava, an herb used for menopause or relaxation. Studies show it can caus...</p></details>
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0273230020300684" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0273230020300684</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ScienceDirect“Natural” is not synonymous with “Safe”: Toxicity of...by TE Gaston · 2020 · Cited by 91 — Consumers equate “natural” with...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/abs/pii/S0273230020300684" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0273230020300684</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ScienceDirect“Natural” is not synonymous with “Safe”: Toxicity of...by TE Gaston · 2020 · Cited by 91 — Consumers equate “natural” with...</p></details>
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: researchgate.net  
    Title: A four-month delay will surely cause many preventable deaths [3].Read more  
-   Link: <a href="https://www.researchgate.net/publication/345632634_Mortality_due_to_cancer_treatment_delay_systematic_review_and_meta-analysis" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/345632634_Mortality_due_to_cancer_treatment_delay_systematic_review_and_meta-analysis</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Mortality due to cancer treatment delay: systematic review...Oncologists know that even a one-month delay in diagnosis of cancer increas...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/345632634_Mortality_due_to_cancer_treatment_delay_systematic_review_and_meta-analysis" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/345632634_Mortality_due_to_cancer_treatment_delay_systematic_review_and_meta-analysis</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Mortality due to cancer treatment delay: systematic review...Oncologists know that even a one-month delay in diagnosis of cancer increas...</p></details>
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: queensu.ca  
    Title: impact delayed cancer treatments  
-   Link: <a href="https://www.queensu.ca/gazette/stories/impact-delayed-cancer-treatments" target="_blank" rel="noopener noreferrer nofollow">https://www.queensu.ca/gazette/stories/impact-delayed-cancer-treatments</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The impact of delayed cancer treatments | Queen&#x27;s GazetteNov 9, 2020 — In addition, the researchers calculated that delays of up to eight...</p></details>
+   Link:<a href="https://www.queensu.ca/gazette/stories/impact-delayed-cancer-treatments" target="_blank" rel="noopener noreferrer nofollow">https://www.queensu.ca/gazette/stories/impact-delayed-cancer-treatments</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The impact of delayed cancer treatments | Queen&#x27;s GazetteNov 9, 2020 — In addition, the researchers calculated that delays of up to eight...</p></details>
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: researchsquare.com  
    Title: Self-Care or Misinformation?  
-   Link: <a href="https://www.researchsquare.com/article/rs-7786655/v1.pdf?c=1767882339000" target="_blank" rel="noopener noreferrer nofollow">https://www.researchsquare.com/article/rs-7786655/v1.pdf?c=1767882339000</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Investigating the Herbal...There have been studies on how health misinformation spreads on sites like YouTube and Twitter. (Waszak et al...</p></details>
+   Link:<a href="https://www.researchsquare.com/article/rs-7786655/v1.pdf?c=1767882339000" target="_blank" rel="noopener noreferrer nofollow">https://www.researchsquare.com/article/rs-7786655/v1.pdf?c=1767882339000</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Investigating the Herbal...There have been studies on how health misinformation spreads on sites like YouTube and Twitter. (Waszak et al...</p></details>

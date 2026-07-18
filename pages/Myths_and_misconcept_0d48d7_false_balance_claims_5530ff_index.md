@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /myths-and-misconcept-0d48d7-false/
 description: Focused pages that expand on False Balance.
-date: '2026-06-11'
+date: '2026'
 layout: default
 parent_basename: Myths_and_misconcept_0d48d7_false_balance_claims_5530ff
 parent_title: False Balance
@@ -16,7 +16,7 @@ parent_permalink: /false-balance/
 
 # Explore Topics in False Balance
 
-The following pages expand on the main **[False Balance]({{ '/false-balance/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[False Balance]({{ '/false-balance/' | relative_url }})** page and cover its key branches in.
 
 - [Climate Debate]({{ '/climate-debate/' | relative_url }})
 - [Due Impartiality]({{ '/due-impartiality/' | relative_url }})

@@ -274,24 +274,24 @@ image: /assets/images/Myths_and_misconcept_0d48d7_falling_objects_intu_7c231d_ap
 
 ## Introduction
 
-The Apollo 15 hammer-and-feather drop is the most famous public demonstration of a scientific idea that many people initially find counterintuitive: heavier objects do not fall faster simply because they are heavier. On 2 August 1971, astronaut David Scott stood on the Moon and released a geological hammer and a falcon feather at the same time. The two objects struck the lunar surface together, creating a visual result that millions of people could immediately understand. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/resource/the-apollo-15-hammer-feather-drop/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">the apollo 15 hammer feather drop</span><span class="citation-popover-snippet">NASA ScienceThe Apollo 15 Hammer-Feather Drop20 Jul 2015  A live demonstration for the television cameras. He held out a geologic hammer...</span></span></span>
+The Apollo 15 hammer-and-feather drop is the most famous public demonstration of a scientific idea that many people initially find counterintuitive: heavier objects do not fall faster simply because they are heavier. On 2 August 1971, astronaut David Scott stood on the Moon and released a geological hammer and a falcon feather at the same time. The two objects struck the lunar surface together, creating a visual result that millions of people could immediately understand.<span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/resource/the-apollo-15-hammer-feather-drop/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">the apollo 15 hammer feather drop</span><span class="citation-popover-snippet">NASA ScienceThe Apollo 15 Hammer-Feather Drop20 Jul 2015  A live demonstration for the television cameras. He held out a geologic hammer...</span></span></span>
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_falling_objects_intu_7c231d_apollo_hammer_feathe_4ddd88-Illustration-1-dark.svg" | relative_url }}" alt="Moon Drop illustration 1" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_falling_objects_intu_7c231d_apollo_hammer_feathe_4ddd88-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_falling_objects_intu_7c231d_apollo_hammer_feathe_4ddd88-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-The importance of the demonstration was not that it discovered a new law of physics. Scientists had already understood the principle for centuries. Its power came from making the missing condition visible. On Earth, air resistance usually hides the effect. On the Moon, where there is essentially no atmosphere, the feather could fall without being slowed by air. The result turned an abstract physics lesson into a memorable piece of evidence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/resource/the-apollo-15-hammer-feather-drop/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">the apollo 15 hammer feather drop</span><span class="citation-popover-snippet">NASA ScienceThe Apollo 15 Hammer-Feather Drop20 Jul 2015  A live demonstration for the television cameras. He held out a geologic hammer...</span></span></span>
+The importance of the demonstration was not that it discovered a new law of physics. Scientists had already understood the principle for centuries. Its power came from making the missing condition visible. On Earth, air resistance usually hides the effect. On the Moon, where there is essentially no atmosphere, the feather could fall without being slowed by air. The result turned an abstract physics lesson into a memorable piece of evidence.<span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/resource/the-apollo-15-hammer-feather-drop/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">the apollo 15 hammer feather drop</span><span class="citation-popover-snippet">NASA ScienceThe Apollo 15 Hammer-Feather Drop20 Jul 2015  A live demonstration for the television cameras. He held out a geologic hammer...</span></span></span>
 
 ## What David Scott dropped on the Moon
 
-Near the end of Apollo 15's final moonwalk, Scott paused for a short demonstration intended for the television cameras. Holding a geological hammer in one hand and a falcon feather in the other, he explained that [Galileo]({{ 'galileo/' | relative_url }}) had probably been correct in claiming that objects fall at the same rate regardless of their mass. He then released both items from roughly the same height. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.tvo.org/transcript/685111/apollo-15-in-the-mountains-of-the-moon" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tvo.org">[tvo.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tvo.org</span><span class="citation-popover-snippet">Transcript: Apollo 15: In the Mountains of the Moon &#124; Jun 05...EXPERIMENT. Dave Scott says WELL, IN MY LEFT. I HAVE A, A FEATHER, IN MY....</span></span></span>
+Near the end of Apollo 15's final moonwalk, Scott paused for a short demonstration intended for the television cameras. Holding a geological hammer in one hand and a falcon feather in the other, he explained that [Galileo]({{ 'galileo/' | relative_url }}) had probably been correct in claiming that objects fall at the same rate regardless of their mass. He then released both items from roughly the same height.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.tvo.org/transcript/685111/apollo-15-in-the-mountains-of-the-moon" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tvo.org">[tvo.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tvo.org</span><span class="citation-popover-snippet">Transcript: Apollo 15: In the Mountains of the Moon &#124; Jun 05...EXPERIMENT. Dave Scott says WELL, IN MY LEFT. I HAVE A, A FEATHER, IN MY....</span></span></span>
 
-The choice of objects was deliberate. The hammer was a dense scientific tool used during lunar fieldwork, while the feather was extremely light and broad. In ordinary conditions on Earth, a feather drifts and flutters while a hammer falls rapidly. The contrast made the demonstration easy to interpret. If two such different objects could land together, the reason could not be that they had identical masses or shapes. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.youtube.com/watch?v=KDp1tiUsZw8" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[YouTube]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-title">You Tube Hammer vs Feather</span><span class="citation-popover-snippet">Hammer vs Feather - Physics on the MoonThe feather happens to be appropriately a falcon feather for our Falcon and I&#x27;ll drop the t...</span></span></span>
+The choice of objects was deliberate. The hammer was a dense scientific tool used during lunar fieldwork, while the feather was extremely light and broad. In ordinary conditions on Earth, a feather drifts and flutters while a hammer falls rapidly. The contrast made the demonstration easy to interpret. If two such different objects could land together, the reason could not be that they had identical masses or shapes.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.youtube.com/watch?v=KDp1tiUsZw8" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[YouTube]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-title">You Tube Hammer vs Feather</span><span class="citation-popover-snippet">Hammer vs Feather - Physics on the MoonThe feather happens to be appropriately a falcon feather for our Falcon and I&#x27;ll drop the t...</span></span></span>
 
-NASA's description of the event notes that the hammer and feather reached the surface simultaneously because they were falling in an environment with essentially no air resistance. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/resource/the-apollo-15-hammer-feather-drop/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">the apollo 15 hammer feather drop</span><span class="citation-popover-snippet">NASA ScienceThe Apollo 15 Hammer-Feather Drop20 Jul 2015  A live demonstration for the television cameras. He held out a geologic hammer...</span></span></span>
+NASA's description of the event notes that the hammer and feather reached the surface simultaneously because they were falling in an environment with essentially no air resistance.<span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/resource/the-apollo-15-hammer-feather-drop/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">the apollo 15 hammer feather drop</span><span class="citation-popover-snippet">NASA ScienceThe Apollo 15 Hammer-Feather Drop20 Jul 2015  A live demonstration for the television cameras. He held out a geologic hammer...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Gucr_OfzQ6M" title="Analyzing the Apollo 15 Feather and Hammer Drop - A Basic, Introductory Free-Fall Problem" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Gucr_OfzQ6M" target="_blank" rel="noopener noreferrer">Analyzing the Apollo 15 Feather and Hammer Drop - A Basic, Introductory Free-Fall Problem</a></p><p class="youtube-embed-meta">Channel: Flipping Physics &middot; Views: 82.4K &middot; Uploaded: October 2013 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Gucr_OfzQ6M" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Gucr_OfzQ6M">Open on YouTube</a></p></div></div></div>
 
 ### Why a falcon feather was chosen
 
-The feather was not random. It represented the falcon symbol used by Apollo 15. Scott even referred to it during the demonstration. The feather therefore served both as a scientific prop and as a mission-related emblem. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.youtube.com/watch?v=KDp1tiUsZw8" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[YouTube]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-title">You Tube Hammer vs Feather</span><span class="citation-popover-snippet">Hammer vs Feather - Physics on the MoonThe feather happens to be appropriately a falcon feather for our Falcon and I&#x27;ll drop the t...</span></span></span>
+The feather was not random. It represented the falcon symbol used by Apollo 15. Scott even referred to it during the demonstration. The feather therefore served both as a scientific prop and as a mission-related emblem.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.youtube.com/watch?v=KDp1tiUsZw8" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[YouTube]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-title">You Tube Hammer vs Feather</span><span class="citation-popover-snippet">Hammer vs Feather - Physics on the MoonThe feather happens to be appropriately a falcon feather for our Falcon and I&#x27;ll drop the t...</span></span></span>
 
 That symbolic choice helped make the experiment memorable. Viewers were not watching laboratory equipment in a controlled chamber; they were watching an astronaut on another world using simple objects that everyone could recognise.
 
@@ -299,30 +299,30 @@ That symbolic choice helped make the experiment memorable. Viewers were not watc
 
 ## Why the Moon changed the result
 
-The Moon has gravity, so the demonstration was not performed in zero gravity. Objects still fall there because the Moon pulls them downward. The crucial difference is that the Moon lacks a substantial atmosphere. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/space/comments/yvtmy1/the_hammer_and_feather_experiment_on_the_moon/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">The Hammer and Feather Experiment on the moon</span><span class="citation-popover-snippet">It&#x27;s 1/6th the size of earth so the gravity is 1/6th earth&#x27;s gravity. It definitely affects the experiment...</span></span></span>
+The Moon has gravity, so the demonstration was not performed in zero gravity. Objects still fall there because the Moon pulls them downward. The crucial difference is that the Moon lacks a substantial atmosphere.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/space/comments/yvtmy1/the_hammer_and_feather_experiment_on_the_moon/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">The Hammer and Feather Experiment on the moon</span><span class="citation-popover-snippet">It&#x27;s 1/6th the size of earth so the gravity is 1/6th earth&#x27;s gravity. It definitely affects the experiment...</span></span></span>
 
-On Earth, a feather experiences a large amount of drag relative to its weight. Air pushes against it, slowing its descent. A hammer is also affected by air, but far less dramatically because of its shape and mass. As a result, everyday observation seems to support the mistaken belief that heavier objects naturally fall faster. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.askaboutireland.ie/learning-zone/secondary-students/science/physics/force-and-energy/force/gravity/gravity-beyond-the-earth-1/galileos-experiment-on-th/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: askaboutireland.ie">[Ask About Ireland]</a><span class="citation-popover" role="note"><span class="citation-popover-source">askaboutireland.ie</span><span class="citation-popover-snippet">Ask About IrelandGalileo&#x27;s Experiment on the MoonBecause there is no air on the Moon, there is no air resistance, and so Galileo&#x27;s experi...</span></span></span>
+On Earth, a feather experiences a large amount of drag relative to its weight. Air pushes against it, slowing its descent. A hammer is also affected by air, but far less dramatically because of its shape and mass. As a result, everyday observation seems to support the mistaken belief that heavier objects naturally fall faster.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.askaboutireland.ie/learning-zone/secondary-students/science/physics/force-and-energy/force/gravity/gravity-beyond-the-earth-1/galileos-experiment-on-th/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: askaboutireland.ie">[Ask About Ireland]</a><span class="citation-popover" role="note"><span class="citation-popover-source">askaboutireland.ie</span><span class="citation-popover-snippet">Ask About IrelandGalileo&#x27;s Experiment on the MoonBecause there is no air on the Moon, there is no air resistance, and so Galileo&#x27;s experi...</span></span></span>
 
-On the Moon, that interfering force is almost absent. Once the hammer and feather were released, gravity became the dominant influence on both objects. Without meaningful atmospheric drag, the difference that people normally see on Earth disappeared. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/resource/the-apollo-15-hammer-feather-drop/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">the apollo 15 hammer feather drop</span><span class="citation-popover-snippet">NASA ScienceThe Apollo 15 Hammer-Feather Drop20 Jul 2015  A live demonstration for the television cameras. He held out a geologic hammer...</span></span></span>
+On the Moon, that interfering force is almost absent. Once the hammer and feather were released, gravity became the dominant influence on both objects. Without meaningful atmospheric drag, the difference that people normally see on Earth disappeared.<span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/resource/the-apollo-15-hammer-feather-drop/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">the apollo 15 hammer feather drop</span><span class="citation-popover-snippet">NASA ScienceThe Apollo 15 Hammer-Feather Drop20 Jul 2015  A live demonstration for the television cameras. He held out a geologic hammer...</span></span></span>
 
 The demonstration therefore isolated the condition that matters. It did not change the laws of gravity. It removed the atmospheric effect that usually obscures them.
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_falling_objects_intu_7c231d_apollo_hammer_feathe_4ddd88-Illustration-2-dark.svg" | relative_url }}" alt="Moon Drop illustration 2" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_falling_objects_intu_7c231d_apollo_hammer_feathe_4ddd88-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_falling_objects_intu_7c231d_apollo_hammer_feathe_4ddd88-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What the demonstration proves and does not prove
 
-The Apollo 15 drop provides strong visual evidence that, when air resistance is negligible, objects of different masses can fall with the same acceleration. That is exactly why physics teachers, museums and science organisations continue to use the footage as an educational example. NASA Science <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.stem.org.uk/resources/library/resource/26368/the-hammer-and-the-feather-on-the-moon" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stem.org.uk">[STEM Learning]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stem.org.uk</span><span class="citation-popover-snippet">STEM LearningThe hammer and the feather on the MoonThis classic Apollo 15 clip, from Footagevault, demonstrates that the mass of an objec...</span></span></span>
+The Apollo 15 drop provides strong visual evidence that, when air resistance is negligible, objects of different masses can fall with the same acceleration. That is exactly why physics teachers, museums and science organisations continue to use the footage as an educational example. NASA Science<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.stem.org.uk/resources/library/resource/26368/the-hammer-and-the-feather-on-the-moon" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stem.org.uk">[STEM Learning]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stem.org.uk</span><span class="citation-popover-snippet">STEM LearningThe hammer and the feather on the MoonThis classic Apollo 15 clip, from Footagevault, demonstrates that the mass of an objec...</span></span></span>
 
 What it proves:
 
 * Mass alone does not make an object accelerate downward faster in free fall.
 * A feather and a hammer can fall together when air resistance is removed as a significant factor.
-* The common observation that feathers fall slowly on Earth is largely an atmospheric effect rather than a property of gravity itself. NASA Science <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.askaboutireland.ie/learning-zone/secondary-students/science/physics/force-and-energy/force/gravity/gravity-beyond-the-earth-1/galileos-experiment-on-th/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: askaboutireland.ie">[Ask About Ireland]</a><span class="citation-popover" role="note"><span class="citation-popover-source">askaboutireland.ie</span><span class="citation-popover-snippet">Ask About IrelandGalileo&#x27;s Experiment on the MoonBecause there is no air on the Moon, there is no air resistance, and so Galileo&#x27;s experi...</span></span></span>
+* The common observation that feathers fall slowly on Earth is largely an atmospheric effect rather than a property of gravity itself. NASA Science<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.askaboutireland.ie/learning-zone/secondary-students/science/physics/force-and-energy/force/gravity/gravity-beyond-the-earth-1/galileos-experiment-on-th/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: askaboutireland.ie">[Ask About Ireland]</a><span class="citation-popover" role="note"><span class="citation-popover-source">askaboutireland.ie</span><span class="citation-popover-snippet">Ask About IrelandGalileo&#x27;s Experiment on the MoonBecause there is no air on the Moon, there is no air resistance, and so Galileo&#x27;s experi...</span></span></span>
 
 What it does not prove:
 
 * It does not show that air resistance never matters. In ordinary Earth conditions it matters enormously for objects such as feathers, paper and leaves.
 * It does not mean every falling object behaves identically under all circumstances. Shape, orientation and atmosphere can still affect real-world falls.
-* It does not demonstrate that gravity exerts the same force on all objects. A heavier object experiences a larger gravitational force, but it also has greater inertia, leading to the same acceleration in free fall. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wired.com/story/the-greatest-physics-demo-of-all-time-happened-on-the-moon/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-snippet">The Greatest Physics Demo of All Time Happened on...Feb 11, 2022  First, it is indeed true that even on the moon there is a greate...</span></span></span>
+* It does not demonstrate that gravity exerts the same force on all objects. A heavier object experiences a larger gravitational force, but it also has greater inertia, leading to the same acceleration in free fall.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wired.com/story/the-greatest-physics-demo-of-all-time-happened-on-the-moon/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-snippet">The Greatest Physics Demo of All Time Happened on...Feb 11, 2022  First, it is indeed true that even on the moon there is a greate...</span></span></span>
 
 This distinction is why the experiment remains useful. It corrects a misconception without denying everyday experience. People really do see feathers fall more slowly than hammers on Earth. The Apollo 15 demonstration shows that the reason is not the feather's lower mass but the presence of air.
 
@@ -330,203 +330,203 @@ This distinction is why the experiment remains useful. It corrects a misconcepti
 
 ## Why the Moon drop became the iconic example
 
-Scientists had demonstrated the same principle in vacuum chambers long before Apollo 15. The underlying physics was not controversial in 1971. Yet the Moon experiment became far more famous than laboratory demonstrations because it was visually simple, dramatic and easy to trust. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/nextfuckinglevel/comments/wlcrjl/a_legendary_experiment_on_the_moon_a_hammer_and/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">A legendary experiment on the moon, a hammer and...August 11, 2022  TIL that on Apollo 15, a hammer and a feather were dropped on...</span><span class="citation-popover-meta">Published: August 11, 2022</span></span></span>
+Scientists had demonstrated the same principle in vacuum chambers long before Apollo 15. The underlying physics was not controversial in 1971. Yet the Moon experiment became far more famous than laboratory demonstrations because it was visually simple, dramatic and easy to trust.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/nextfuckinglevel/comments/wlcrjl/a_legendary_experiment_on_the_moon_a_hammer_and/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">A legendary experiment on the moon, a hammer and...August 11, 2022  TIL that on Apollo 15, a hammer and a feather were dropped on...</span><span class="citation-popover-meta">Published: August 11, 2022</span></span></span>
 
-A viewer did not need equations to understand what happened. The contrast between a hammer and a feather was obvious. The setting was extraordinary. The result appeared immediately before a live audience. In a few seconds, the demonstration answered a question that generations of students had struggled with: if air is taken out of the picture, the heavier object does not win the race to the ground. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/resource/the-apollo-15-hammer-feather-drop/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">the apollo 15 hammer feather drop</span><span class="citation-popover-snippet">NASA ScienceThe Apollo 15 Hammer-Feather Drop20 Jul 2015  A live demonstration for the television cameras. He held out a geologic hammer...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/resource/the-apollo-15-hammer-feather-drop/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">the apollo 15 hammer feather drop</span><span class="citation-popover-snippet">NASA ScienceThe Apollo 15 Hammer-Feather Drop20 Jul 2015  A live demonstration for the television cameras. He held out a geologic hammer...</span></span></span>
+A viewer did not need equations to understand what happened. The contrast between a hammer and a feather was obvious. The setting was extraordinary. The result appeared immediately before a live audience. In a few seconds, the demonstration answered a question that generations of students had struggled with: if air is taken out of the picture, the heavier object does not win the race to the ground.<span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/resource/the-apollo-15-hammer-feather-drop/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">the apollo 15 hammer feather drop</span><span class="citation-popover-snippet">NASA ScienceThe Apollo 15 Hammer-Feather Drop20 Jul 2015  A live demonstration for the television cameras. He held out a geologic hammer...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/resource/the-apollo-15-hammer-feather-drop/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">the apollo 15 hammer feather drop</span><span class="citation-popover-snippet">NASA ScienceThe Apollo 15 Hammer-Feather Drop20 Jul 2015  A live demonstration for the television cameras. He held out a geologic hammer...</span></span></span>
 
-That combination of simplicity and evidence explains why the Apollo 15 hammer-and-feather drop remains one of the most enduring demonstrations in the history of science communication. It transformed a [correction]({{ 'correction/' | relative_url }}) to a common misconception into a moment people could see for themselves. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/resource/the-apollo-15-hammer-feather-drop/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">the apollo 15 hammer feather drop</span><span class="citation-popover-snippet">NASA ScienceThe Apollo 15 Hammer-Feather Drop20 Jul 2015  A live demonstration for the television cameras. He held out a geologic hammer...</span></span></span>
+That combination of simplicity and evidence explains why the Apollo 15 hammer-and-feather drop remains one of the most enduring demonstrations in the history of science communication. It transformed a [correction]({{ 'correction/' | relative_url }}) to a common misconception into a moment people could see for themselves.<span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/resource/the-apollo-15-hammer-feather-drop/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">the apollo 15 hammer feather drop</span><span class="citation-popover-snippet">NASA ScienceThe Apollo 15 Hammer-Feather Drop20 Jul 2015  A live demonstration for the television cameras. He held out a geologic hammer...</span></span></span>
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_falling_objects_intu_7c231d_apollo_hammer_feathe_4ddd88-Illustration-3-dark.svg" | relative_url }}" alt="Moon Drop illustration 3" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_falling_objects_intu_7c231d_apollo_hammer_feathe_4ddd88-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_falling_objects_intu_7c231d_apollo_hammer_feathe_4ddd88-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why the hammer and feather landed together. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why the hammer and feather landed together. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Carrying+the+Fire+by+Michael+Collins&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Carrying the Fire on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=F86DDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Carrying the Fire" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Carrying+the+Fire+by+Michael+Collins&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Carrying the Fire">Carrying the Fire</a>
-        </h4>
-        <p class="fr-book-author">By Michael Collins</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Carrying+the+Fire+by+Michael+Collins&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Carrying the Fire on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=F86DDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Carrying the Fire" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Carrying+the+Fire+by+Michael+Collins&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Carrying the Fire">Carrying the Fire</a>
+</h4>
+<p class="fr-book-author">By Michael Collins</p>
         
-        <p class="fr-book-desc">Provides context for lunar exploration and physics demonstrations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Carrying+the+Fire+by+Michael+Collins&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context for lunar exploration and physics demonstrations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Carrying+the+Fire+by+Michael+Collins&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Right+Stuff+by+Tom+Wolfe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Right Stuff on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CiSXWxWkx_oC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Right Stuff" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Right+Stuff+by+Tom+Wolfe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Right Stuff">The Right Stuff</a>
-        </h4>
-        <p class="fr-book-author">By Tom Wolfe</p>
-        <p class="fr-book-popularity">Rating: 4.5/5 from 8 Google Books ratings</p>
-        <p class="fr-book-desc">Provides broader context for astronaut demonstrations and public science.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Right+Stuff+by+Tom+Wolfe&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Right+Stuff+by+Tom+Wolfe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Right Stuff on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CiSXWxWkx_oC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Right Stuff" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Right+Stuff+by+Tom+Wolfe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Right Stuff">The Right Stuff</a>
+</h4>
+<p class="fr-book-author">By Tom Wolfe</p>
+<p class="fr-book-popularity">Rating: 4.5/5 from 8 Google Books ratings</p>
+<p class="fr-book-desc">Provides broader context for astronaut demonstrations and public science.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Right+Stuff+by+Tom+Wolfe&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Six+Easy+Pieces+Richard+Phillips+Feynman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Six Easy Pieces on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/134755-M.jpg" alt="Cover for Six Easy Pieces" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Six+Easy+Pieces+Richard+Phillips+Feynman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Six Easy Pieces">Six Easy Pieces</a>
-        </h4>
-        <p class="fr-book-author">By Richard Phillips Feynman, Paul Davies</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Six+Easy+Pieces+Richard+Phillips+Feynman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Six Easy Pieces on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/134755-M.jpg" alt="Cover for Six Easy Pieces" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Six+Easy+Pieces+Richard+Phillips+Feynman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Six Easy Pieces">Six Easy Pieces</a>
+</h4>
+<p class="fr-book-author">By Richard Phillips Feynman, Paul Davies</p>
         
-        <p class="fr-book-desc">First published 1994. Subjects: Physics, Física, Obras de divulgación, Natuurkunde, Long Now Manual for Civilization.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Six+Easy+Pieces+Richard+Phillips+Feynman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1994. Subjects: Physics, Física, Obras de divulgación, Natuurkunde, Long Now Manual for Civilization.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Six+Easy+Pieces+Richard+Phillips+Feynman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Apollo+15+Robert+Godwin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Apollo 15 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/944678-M.jpg" alt="Cover for Apollo 15" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Apollo+15+Robert+Godwin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Apollo 15">Apollo 15</a>
-        </h4>
-        <p class="fr-book-author">By Robert Godwin</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Apollo+15+Robert+Godwin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Apollo 15 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/944678-M.jpg" alt="Cover for Apollo 15" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Apollo+15+Robert+Godwin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Apollo 15">Apollo 15</a>
+</h4>
+<p class="fr-book-author">By Robert Godwin</p>
         
-        <p class="fr-book-desc">First published 2001. Subjects: Project Apollo (U.S.), Space flight to the moon, Apollo 15 (Spacecraft), Exploration, Outer space, explor...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Apollo+15+Robert+Godwin&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2001. Subjects: Project Apollo (U.S.), Space flight to the moon, Apollo 15 (Spacecraft), Exploration, Outer space, explor...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Apollo+15+Robert+Godwin&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Carrying+the+Fire&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Carrying the Fire</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Right+Stuff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Right Stuff</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Six+Easy+Pieces&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Six Easy Pieces</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Carrying+the+Fire&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Carrying the Fire</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Right+Stuff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Right Stuff</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Six+Easy+Pieces&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Six Easy Pieces</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=moon-drop-why-the-hammer-and-feather-landed-together-myths-and-misconcept-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="moon-drop-why-the-hammer-and-feather-landed-together-myths-and-misconcept-critical-thinking-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Manic Street Preachers Signed Photo &amp; CD Framed &amp; COA Critical Thinking Poster"><img src="{{ '/assets/images/marketplace-covers/de840e360b6897338238.jpg' | relative_url }}" alt="Listing image for Manic Street Preachers Signed Photo &amp; CD Framed &amp; COA Critical Thinking Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=moon-drop-why-the-hammer-and-feather-landed-together-myths-and-misconcept-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="moon-drop-why-the-hammer-and-feather-landed-together-myths-and-misconcept-critical-thinking-poster" target="_blank" rel="sponsored noopener noreferrer">Manic Street Preachers Signed Photo &amp; CD Framed &amp; COA Critical Thinking Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=moon-drop-why-the-hammer-and-feather-landed-together-myths-and-misconcept-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="moon-drop-why-the-hammer-and-feather-landed-together-myths-and-misconcept-critical-thinking-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=moon-drop-why-the-hammer-and-feather-landed-together-myths-and-misconcept-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="moon-drop-why-the-hammer-and-feather-landed-together-myths-and-misconcept-critical-thinking-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=moon-drop-why-the-hammer-and-feather-landed-together-myths-and-misconcept-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="moon-drop-why-the-hammer-and-feather-landed-together-myths-and-misconcept-critical-thinking-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Manic Street Preachers Signed Photo &amp; CD Framed &amp; COA Critical Thinking Poster"><img src="{{ '/assets/images/marketplace-covers/de840e360b6897338238.jpg' | relative_url }}" alt="Listing image for Manic Street Preachers Signed Photo &amp; CD Framed &amp; COA Critical Thinking Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=moon-drop-why-the-hammer-and-feather-landed-together-myths-and-misconcept-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="moon-drop-why-the-hammer-and-feather-landed-together-myths-and-misconcept-critical-thinking-poster" target="_blank" rel="sponsored noopener noreferrer">Manic Street Preachers Signed Photo &amp; CD Framed &amp; COA Critical Thinking Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=moon-drop-why-the-hammer-and-feather-landed-together-myths-and-misconcept-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="moon-drop-why-the-hammer-and-feather-landed-together-myths-and-misconcept-critical-thinking-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=moon-drop-why-the-hammer-and-feather-landed-together-myths-and-misconcept-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="moon-drop-why-the-hammer-and-feather-landed-together-myths-and-misconcept-critical-thinking-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=moon-drop-why-the-hammer-and-feather-landed-together-myths-and-misconcept-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="moon-drop-why-the-hammer-and-feather-landed-together-myths-and-misconcept-critical-thinking-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking 2020 2 Movie Poster Art Print Display Famous Artwork StudioDec"><img src="{{ '/assets/images/marketplace-covers/2d0303c0f2d17049521c.jpg' | relative_url }}" alt="Listing image for Critical Thinking 2020 2 Movie Poster Art Print Display Famous Artwork StudioDec" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=moon-drop-why-the-hammer-and-feather-landed-together-myths-and-misconcept-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="moon-drop-why-the-hammer-and-feather-landed-together-myths-and-misconcept-critical-thinking-poster" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking 2020 2 Movie Poster Art Print Display Famous Artwork StudioDec</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=moon-drop-why-the-hammer-and-feather-landed-together-myths-and-misconcept-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="moon-drop-why-the-hammer-and-feather-landed-together-myths-and-misconcept-critical-thinking-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=moon-drop-why-the-hammer-and-feather-landed-together-myths-and-misconcept-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="moon-drop-why-the-hammer-and-feather-landed-together-myths-and-misconcept-critical-thinking-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=moon-drop-why-the-hammer-and-feather-landed-together-myths-and-misconcept-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="moon-drop-why-the-hammer-and-feather-landed-together-myths-and-misconcept-critical-thinking-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking 2020 2 Movie Poster Art Print Display Famous Artwork StudioDec"><img src="{{ '/assets/images/marketplace-covers/2d0303c0f2d17049521c.jpg' | relative_url }}" alt="Listing image for Critical Thinking 2020 2 Movie Poster Art Print Display Famous Artwork StudioDec" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=moon-drop-why-the-hammer-and-feather-landed-together-myths-and-misconcept-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="moon-drop-why-the-hammer-and-feather-landed-together-myths-and-misconcept-critical-thinking-poster" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking 2020 2 Movie Poster Art Print Display Famous Artwork StudioDec</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=moon-drop-why-the-hammer-and-feather-landed-together-myths-and-misconcept-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="moon-drop-why-the-hammer-and-feather-landed-together-myths-and-misconcept-critical-thinking-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=moon-drop-why-the-hammer-and-feather-landed-together-myths-and-misconcept-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="moon-drop-why-the-hammer-and-feather-landed-together-myths-and-misconcept-critical-thinking-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=moon-drop-why-the-hammer-and-feather-landed-together-myths-and-misconcept-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="moon-drop-why-the-hammer-and-feather-landed-together-myths-and-misconcept-critical-thinking-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking 2020 4 Movie Poster Art Print PopCulture Wall Memorable Exclus"><img src="{{ '/assets/images/marketplace-covers/d99b026298e0e1e60836.jpg' | relative_url }}" alt="Listing image for Critical Thinking 2020 4 Movie Poster Art Print PopCulture Wall Memorable Exclus" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=moon-drop-why-the-hammer-and-feather-landed-together-myths-and-misconcept-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="moon-drop-why-the-hammer-and-feather-landed-together-myths-and-misconcept-critical-thinking-poster" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking 2020 4 Movie Poster Art Print PopCulture Wall Memorable Exclus</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=moon-drop-why-the-hammer-and-feather-landed-together-myths-and-misconcept-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="moon-drop-why-the-hammer-and-feather-landed-together-myths-and-misconcept-critical-thinking-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=moon-drop-why-the-hammer-and-feather-landed-together-myths-and-misconcept-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="moon-drop-why-the-hammer-and-feather-landed-together-myths-and-misconcept-critical-thinking-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=moon-drop-why-the-hammer-and-feather-landed-together-myths-and-misconcept-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="moon-drop-why-the-hammer-and-feather-landed-together-myths-and-misconcept-critical-thinking-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking 2020 4 Movie Poster Art Print PopCulture Wall Memorable Exclus"><img src="{{ '/assets/images/marketplace-covers/d99b026298e0e1e60836.jpg' | relative_url }}" alt="Listing image for Critical Thinking 2020 4 Movie Poster Art Print PopCulture Wall Memorable Exclus" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=moon-drop-why-the-hammer-and-feather-landed-together-myths-and-misconcept-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="moon-drop-why-the-hammer-and-feather-landed-together-myths-and-misconcept-critical-thinking-poster" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking 2020 4 Movie Poster Art Print PopCulture Wall Memorable Exclus</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=moon-drop-why-the-hammer-and-feather-landed-together-myths-and-misconcept-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="moon-drop-why-the-hammer-and-feather-landed-together-myths-and-misconcept-critical-thinking-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=moon-drop-why-the-hammer-and-feather-landed-together-myths-and-misconcept-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="moon-drop-why-the-hammer-and-feather-landed-together-myths-and-misconcept-critical-thinking-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=moon-drop-why-the-hammer-and-feather-landed-together-myths-and-misconcept-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="moon-drop-why-the-hammer-and-feather-landed-together-myths-and-misconcept-critical-thinking-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Manic Street Preachers Signed Photo Framed &amp; COA Auto Critical Thinking Poster"><img src="{{ '/assets/images/marketplace-covers/f53b5ef9808c94d6a4f1.jpg' | relative_url }}" alt="Listing image for Manic Street Preachers Signed Photo Framed &amp; COA Auto Critical Thinking Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=moon-drop-why-the-hammer-and-feather-landed-together-myths-and-misconcept-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="moon-drop-why-the-hammer-and-feather-landed-together-myths-and-misconcept-critical-thinking-poster" target="_blank" rel="sponsored noopener noreferrer">Manic Street Preachers Signed Photo Framed &amp; COA Auto Critical Thinking Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=moon-drop-why-the-hammer-and-feather-landed-together-myths-and-misconcept-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="moon-drop-why-the-hammer-and-feather-landed-together-myths-and-misconcept-critical-thinking-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=moon-drop-why-the-hammer-and-feather-landed-together-myths-and-misconcept-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="moon-drop-why-the-hammer-and-feather-landed-together-myths-and-misconcept-critical-thinking-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=moon-drop-why-the-hammer-and-feather-landed-together-myths-and-misconcept-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="moon-drop-why-the-hammer-and-feather-landed-together-myths-and-misconcept-critical-thinking-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=moon-drop-why-the-hammer-and-feather-landed-together-myths-and-misconcept-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="moon-drop-why-the-hammer-and-feather-landed-together-myths-and-misconcept-critical-thinking-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Manic Street Preachers Signed Photo Framed &amp; COA Auto Critical Thinking Poster"><img src="{{ '/assets/images/marketplace-covers/f53b5ef9808c94d6a4f1.jpg' | relative_url }}" alt="Listing image for Manic Street Preachers Signed Photo Framed &amp; COA Auto Critical Thinking Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=moon-drop-why-the-hammer-and-feather-landed-together-myths-and-misconcept-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="moon-drop-why-the-hammer-and-feather-landed-together-myths-and-misconcept-critical-thinking-poster" target="_blank" rel="sponsored noopener noreferrer">Manic Street Preachers Signed Photo Framed &amp; COA Auto Critical Thinking Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=moon-drop-why-the-hammer-and-feather-landed-together-myths-and-misconcept-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="moon-drop-why-the-hammer-and-feather-landed-together-myths-and-misconcept-critical-thinking-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=moon-drop-why-the-hammer-and-feather-landed-together-myths-and-misconcept-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="moon-drop-why-the-hammer-and-feather-landed-together-myths-and-misconcept-critical-thinking-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=moon-drop-why-the-hammer-and-feather-landed-together-myths-and-misconcept-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="moon-drop-why-the-hammer-and-feather-landed-together-myths-and-misconcept-critical-thinking-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -542,7 +542,7 @@ That combination of simplicity and evidence explains why the Apollo 15 hammer-an
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -562,7 +562,7 @@ That combination of simplicity and evidence explains why the Apollo 15 hammer-an
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -594,7 +594,7 @@ That combination of simplicity and evidence explains why the Apollo 15 hammer-an
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -646,7 +646,7 @@ That combination of simplicity and evidence explains why the Apollo 15 hammer-an
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -691,7 +691,7 @@ That combination of simplicity and evidence explains why the Apollo 15 hammer-an
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -732,214 +732,214 @@ That combination of simplicity and evidence explains why the Apollo 15 hammer-an
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: science.nasa.gov  
    Title: the apollo 15 hammer feather drop  
-   Link: <a href="https://science.nasa.gov/resource/the-apollo-15-hammer-feather-drop/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/resource/the-apollo-15-hammer-feather-drop/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceThe Apollo 15 Hammer-Feather Drop20 Jul 2015  A live demonstration for the television cameras. He held out a geologic hammer...</p></details>
+   Link:<a href="https://science.nasa.gov/resource/the-apollo-15-hammer-feather-drop/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/resource/the-apollo-15-hammer-feather-drop/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceThe Apollo 15 Hammer-Feather Drop20 Jul 2015  A live demonstration for the television cameras. He held out a geologic hammer...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: nasa.gov  
    Title: 50 years ago apollo 15 on the moon at hadley apennine  
-   Link: <a href="https://www.nasa.gov/history/50-years-ago-apollo-15-on-the-moon-at-hadley-apennine/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/history/50-years-ago-apollo-15-on-the-moon-at-hadley-apennine/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>50 Years Ago: Apollo 15 on the Moon at Hadley-ApennineJul 29, 2021  Scott demonstrating Galileo&#x27;s law of gravity by dropping a hammer an...</p></details>
+   Link:<a href="https://www.nasa.gov/history/50-years-ago-apollo-15-on-the-moon-at-hadley-apennine/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/history/50-years-ago-apollo-15-on-the-moon-at-hadley-apennine/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>50 Years Ago: Apollo 15 on the Moon at Hadley-ApennineJul 29, 2021  Scott demonstrating Galileo&#x27;s law of gravity by dropping a hammer an...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: tvo.org  
-   Link: <a href="https://www.tvo.org/transcript/685111/apollo-15-in-the-mountains-of-the-moon" target="_blank" rel="noopener noreferrer nofollow">https://www.tvo.org/transcript/685111/apollo-15-in-the-mountains-of-the-moon</a>  
+   Link:<a href="https://www.tvo.org/transcript/685111/apollo-15-in-the-mountains-of-the-moon" target="_blank" rel="noopener noreferrer nofollow">https://www.tvo.org/transcript/685111/apollo-15-in-the-mountains-of-the-moon</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: youtube.com  
    Title: You Tube Hammer vs Feather  
-   Link: <a href="https://www.youtube.com/watch?v=KDp1tiUsZw8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=KDp1tiUsZw8</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Hammer vs Feather - Physics on the MoonThe feather happens to be appropriately a falcon feather for our Falcon and I&#x27;ll drop the t...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=KDp1tiUsZw8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=KDp1tiUsZw8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Hammer vs Feather - Physics on the MoonThe feather happens to be appropriately a falcon feather for our Falcon and I&#x27;ll drop the t...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: science.nasa.gov  
    Title: the apollo 15 hammer feather drop 2  
-   Link: <a href="https://science.nasa.gov/resource/the-apollo-15-hammer-feather-drop-2/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/resource/the-apollo-15-hammer-feather-drop-2/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceThe Apollo 15 Hammer-Feather Drop19 Jul 2015  At the end of the last Apollo 15 moon walk, Commander David Scott (pictured ab...</p></details>
+   Link:<a href="https://science.nasa.gov/resource/the-apollo-15-hammer-feather-drop-2/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/resource/the-apollo-15-hammer-feather-drop-2/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceThe Apollo 15 Hammer-Feather Drop19 Jul 2015  At the end of the last Apollo 15 moon walk, Commander David Scott (pictured ab...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: reddit.com  
    Title: The Hammer and Feather Experiment on the moon  
-   Link: <a href="https://www.reddit.com/r/space/comments/yvtmy1/the_hammer_and_feather_experiment_on_the_moon/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/space/comments/yvtmy1/the_hammer_and_feather_experiment_on_the_moon/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>It&#x27;s 1/6th the size of earth so the gravity is 1/6th earth&#x27;s gravity. It definitely affects the experiment...</p></details>
+   Link:<a href="https://www.reddit.com/r/space/comments/yvtmy1/the_hammer_and_feather_experiment_on_the_moon/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/space/comments/yvtmy1/the_hammer_and_feather_experiment_on_the_moon/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>It&#x27;s 1/6th the size of earth so the gravity is 1/6th earth&#x27;s gravity. It definitely affects the experiment...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: wired.com  
-   Link: <a href="https://www.wired.com/story/the-greatest-physics-demo-of-all-time-happened-on-the-moon/" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/the-greatest-physics-demo-of-all-time-happened-on-the-moon/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Greatest Physics Demo of All Time Happened on...Feb 11, 2022  First, it is indeed true that even on the moon there is a greate...</p></details>
+   Link:<a href="https://www.wired.com/story/the-greatest-physics-demo-of-all-time-happened-on-the-moon/" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/the-greatest-physics-demo-of-all-time-happened-on-the-moon/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Greatest Physics Demo of All Time Happened on...Feb 11, 2022  First, it is indeed true that even on the moon there is a greate...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/nextfuckinglevel/comments/wlcrjl/a_legendary_experiment_on_the_moon_a_hammer_and/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/nextfuckinglevel/comments/wlcrjl/a_legendary_experiment_on_the_moon_a_hammer_and/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>A legendary experiment on the moon, a hammer and...August 11, 2022  TIL that on Apollo 15, a hammer and a feather were dropped on...</p></details>
+   Link:<a href="https://www.reddit.com/r/nextfuckinglevel/comments/wlcrjl/a_legendary_experiment_on_the_moon_a_hammer_and/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/nextfuckinglevel/comments/wlcrjl/a_legendary_experiment_on_the_moon_a_hammer_and/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A legendary experiment on the moon, a hammer and...August 11, 2022  TIL that on Apollo 15, a hammer and a feather were dropped on...</p></details>
    Published: August 11, 2022  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=oYEgdZ3iEKA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=oYEgdZ3iEKA</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Apollo 15 Hammer-Feather DropAt the end of the last Apollo 15 moon walk, Commander David Scott (pictured above) performed a live demonstr...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=oYEgdZ3iEKA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=oYEgdZ3iEKA</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Apollo 15 Hammer-Feather DropAt the end of the last Apollo 15 moon walk, Commander David Scott (pictured above) performed a live demonstr...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=ZVfhztmK9zI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ZVfhztmK9zI</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Apollo 15 Proves Galileo CorrectAt the end of the last Apollo 15 moon walk, Commander David Scott held out a geologic hammer and a feathe...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=ZVfhztmK9zI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ZVfhztmK9zI</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Apollo 15 Proves Galileo CorrectAt the end of the last Apollo 15 moon walk, Commander David Scott held out a geologic hammer and a feathe...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/shorts/mYjSBRlJ_K8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/shorts/mYjSBRlJ_K8</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>conducted the famous hammer and feather drop experiment on...</p></details>
+   Link:<a href="https://www.youtube.com/shorts/mYjSBRlJ_K8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/shorts/mYjSBRlJ_K8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>conducted the famous hammer and feather drop experiment on...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: youtube.com  
    Title: Apollo 15 Feather and Hammer (Experiment)  
-   Link: <a href="https://www.youtube.com/watch?v=k4c6ywpYw7Q" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=k4c6ywpYw7Q</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Science Never...Apollo 15 Feather and Hammer (Experiment) - Science Never Stops. 1.2K views  6 years ago...more. U.S. Space &amp; Rocket C...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=k4c6ywpYw7Q" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=k4c6ywpYw7Q</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Science Never...Apollo 15 Feather and Hammer (Experiment) - Science Never Stops. 1.2K views  6 years ago...more. U.S. Space &amp; Rocket C...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=Oo8TaPVsn9Y" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Oo8TaPVsn9Y</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>) and a hammer (in his right) to show that objects, regardless of...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Oo8TaPVsn9Y" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Oo8TaPVsn9Y</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>) and a hammer (in his right) to show that objects, regardless of...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: youtube.com  
    Title: LZbU9hC nu8  
-   Link: <a href="https://www.youtube.com/shorts/LZbU9hC_nu8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/shorts/LZbU9hC_nu8</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Apollo 15 Hammer-Feather DropDuring Apollo 15 in 1971, astronaut David Scott dropped a hammer and a feather on the Moon to test Galileo&#x27;s...</p></details>
+   Link:<a href="https://www.youtube.com/shorts/LZbU9hC_nu8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/shorts/LZbU9hC_nu8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Apollo 15 Hammer-Feather DropDuring Apollo 15 in 1971, astronaut David Scott dropped a hammer and a feather on the Moon to test Galileo&#x27;s...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/nasa" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/nasa</a>  
+   Link:<a href="https://www.youtube.com/nasa" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/nasa</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: youtube.com  
    Title: Analyzing the Apollo 15 Feather and Hammer Drop  
-   Link: <a href="https://www.youtube.com/watch?v=Gucr_OfzQ6M" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Gucr_OfzQ6M</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A Basic...NASA filmed astronaut David Scott holding a feather and a hammer at the same height and dropping them at the same time...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Gucr_OfzQ6M" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Gucr_OfzQ6M</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A Basic...NASA filmed astronaut David Scott holding a feather and a hammer at the same height and dropping them at the same time...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: nasa.gov  
-   Link: <a href="https://www.nasa.gov/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>brings you the latest news, images and videos from America&#x27;s space agency, pioneering the future in space exploration, scientific discove...</p></details>
+   Link:<a href="https://www.nasa.gov/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>brings you the latest news, images and videos from America&#x27;s space agency, pioneering the future in space exploration, scientific discove...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: science.nasa.gov  
    Title: hubble sights galaxy in transition  
-   Link: <a href="https://science.nasa.gov/missions/hubble/hubble-sights-galaxy-in-transition/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/missions/hubble/hubble-sights-galaxy-in-transition/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sights Galaxy in Transition...</p></details>
+   Link:<a href="https://science.nasa.gov/missions/hubble/hubble-sights-galaxy-in-transition/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/missions/hubble/hubble-sights-galaxy-in-transition/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sights Galaxy in Transition...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/Astronomy/comments/22q2v0/i_found_a_transcript_of_more_or_less_the_whole/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Astronomy/comments/22q2v0/i_found_a_transcript_of_more_or_less_the_whole/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>o 15 mission to the moon. I had to save this part...</p></details>
+   Link:<a href="https://www.reddit.com/r/Astronomy/comments/22q2v0/i_found_a_transcript_of_more_or_less_the_whole/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Astronomy/comments/22q2v0/i_found_a_transcript_of_more_or_less_the_whole/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>o 15 mission to the moon. I had to save this part...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: youtube.com  
    Title: Apollo 15 Hammer and Feather Drop  
-   Link: <a href="https://www.youtube.com/watch?v=5C5_dOEyAfk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=5C5_dOEyAfk</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Hammer vs. Feather - Physics on the Moon...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=5C5_dOEyAfk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=5C5_dOEyAfk</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Hammer vs. Feather - Physics on the Moon...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: youtube.com  
    Title: Hammer vs. Feather  
-   Link: <a href="https://www.youtube.com/watch?v=o84n5aC1M3w" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=o84n5aC1M3w</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Galileo&#x27;s Experiment on the Moon...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=o84n5aC1M3w" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=o84n5aC1M3w</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Galileo&#x27;s Experiment on the Moon...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: youtube.com  
    Title: Galileo's Experiment on the Moon  
-   Link: <a href="https://www.youtube.com/watch?v=1s9D29aR45o" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=1s9D29aR45o</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Astronaut David Scott Drops a Hammer and Feather on the Moon...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=1s9D29aR45o" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=1s9D29aR45o</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Astronaut David Scott Drops a Hammer and Feather on the Moon...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: youtube.com  
    Title: The Apollo 15 Hammer-Feather Experiment Explained  
-   Link: <a href="https://www.youtube.com/watch?v=0h9Vp2d-G_A" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=0h9Vp2d-G_A</a>  
+   Link:<a href="https://www.youtube.com/watch?v=0h9Vp2d-G_A" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=0h9Vp2d-G_A</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: askaboutireland.ie  
-   Link: <a href="https://www.askaboutireland.ie/learning-zone/secondary-students/science/physics/force-and-energy/force/gravity/gravity-beyond-the-earth-1/galileos-experiment-on-th/" target="_blank" rel="noopener noreferrer nofollow">https://www.askaboutireland.ie/learning-zone/secondary-students/science/physics/force-and-energy/force/gravity/gravity-beyond-the-earth-1/galileos-experiment-on-th/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ask About IrelandGalileo&#x27;s Experiment on the MoonBecause there is no air on the Moon, there is no air resistance, and so Galileo&#x27;s experi...</p></details>
+   Link:<a href="https://www.askaboutireland.ie/learning-zone/secondary-students/science/physics/force-and-energy/force/gravity/gravity-beyond-the-earth-1/galileos-experiment-on-th/" target="_blank" rel="noopener noreferrer nofollow">https://www.askaboutireland.ie/learning-zone/secondary-students/science/physics/force-and-energy/force/gravity/gravity-beyond-the-earth-1/galileos-experiment-on-th/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ask About IrelandGalileo&#x27;s Experiment on the MoonBecause there is no air on the Moon, there is no air resistance, and so Galileo&#x27;s experi...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: stem.org.uk  
-   Link: <a href="https://www.stem.org.uk/resources/library/resource/26368/the-hammer-and-the-feather-on-the-moon" target="_blank" rel="noopener noreferrer nofollow">https://www.stem.org.uk/resources/library/resource/26368/the-hammer-and-the-feather-on-the-moon</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>STEM LearningThe hammer and the feather on the MoonThis classic Apollo 15 clip, from Footagevault, demonstrates that the mass of an objec...</p></details>
+   Link:<a href="https://www.stem.org.uk/resources/library/resource/26368/the-hammer-and-the-feather-on-the-moon" target="_blank" rel="noopener noreferrer nofollow">https://www.stem.org.uk/resources/library/resource/26368/the-hammer-and-the-feather-on-the-moon</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>STEM LearningThe hammer and the feather on the MoonThis classic Apollo 15 clip, from Footagevault, demonstrates that the mass of an objec...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Apollo" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Apollo</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ApolloIn ancient Greek religion and mythology, Apollo is one of the Olympian deities. His numerous functions include healing, prophecy...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Apollo" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Apollo</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ApolloIn ancient Greek religion and mythology, Apollo is one of the Olympian deities. His numerous functions include healing, prophecy...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/NASA" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/NASA</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASAThe National Aeronautics and Space Administration (NASA /ns/) is an independent agency of the U.S. federal government responsib...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/NASA" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/NASA</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASAThe National Aeronautics and Space Administration (NASA /ns/) is an independent agency of the U.S. federal government responsib...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: flixxy.com  
    Title: Hammer vs  
-   Link: <a href="https://www.flixxy.com/apollo-15-gravity-demonstration.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.flixxy.com/apollo-15-gravity-demonstration.htm</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Feather - Apollo 15 Gravity DemonstrationApollo 15 astronaut drops a hammer and a feather on the moon simultaneously to demonstrate that...</p></details>
+   Link:<a href="https://www.flixxy.com/apollo-15-gravity-demonstration.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.flixxy.com/apollo-15-gravity-demonstration.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Feather - Apollo 15 Gravity DemonstrationApollo 15 astronaut drops a hammer and a feather on the moon simultaneously to demonstrate that...</p></details>
 
 ### Additional References
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: pbslearningmedia.org  
-   Link: <a href="https://www.pbslearningmedia.org/resource/phy03.sci.ess.eiu.galmoon/galileo-on-the-moon/" target="_blank" rel="noopener noreferrer nofollow">https://www.pbslearningmedia.org/resource/phy03.sci.ess.eiu.galmoon/galileo-on-the-moon/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Galileo&#x27;s Experiment on the Moon | PBS LearningMediaExplain your reasoning. Why did the hammer and the falcon feather hit the ground at t...</p></details>
+   Link:<a href="https://www.pbslearningmedia.org/resource/phy03.sci.ess.eiu.galmoon/galileo-on-the-moon/" target="_blank" rel="noopener noreferrer nofollow">https://www.pbslearningmedia.org/resource/phy03.sci.ess.eiu.galmoon/galileo-on-the-moon/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Galileo&#x27;s Experiment on the Moon | PBS LearningMediaExplain your reasoning. Why did the hammer and the falcon feather hit the ground at t...</p></details>
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/SpaceEveOfficial/posts/during-apollo-15-in-1971-astronaut-david-scott-dropped-a-feather-and-a-hammer-on/1273546858085576/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/SpaceEveOfficial/posts/during-apollo-15-in-1971-astronaut-david-scott-dropped-a-feather-and-a-hammer-on/1273546858085576/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>During Apollo 15 in 1971, astronaut David Scott dropped a...What would this experiment look like if it was done on earth? The hammer wou...</p></details>
+   Link:<a href="https://www.facebook.com/SpaceEveOfficial/posts/during-apollo-15-in-1971-astronaut-david-scott-dropped-a-feather-and-a-hammer-on/1273546858085576/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/SpaceEveOfficial/posts/during-apollo-15-in-1971-astronaut-david-scott-dropped-a-feather-and-a-hammer-on/1273546858085576/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>During Apollo 15 in 1971, astronaut David Scott dropped a...What would this experiment look like if it was done on earth? The hammer wou...</p></details>
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: facebook.com  
    Title: otd 821971 astronaut david scott performed galileos famous hammer feather drop e  
-   Link: <a href="https://www.facebook.com/astrocady/posts/otd-821971-astronaut-david-scott-performed-galileos-famous-hammer-feather-drop-e/1151459636802470/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/astrocady/posts/otd-821971-astronaut-david-scott-performed-galileos-famous-hammer-feather-drop-e/1151459636802470/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>#OTD 8/2/1971: Astronaut David Scott performed Galileo&#x27;s...Scott, Apollo 15 commander, watched a geological hammer and a feather hit the...</p></details>
+   Link:<a href="https://www.facebook.com/astrocady/posts/otd-821971-astronaut-david-scott-performed-galileos-famous-hammer-feather-drop-e/1151459636802470/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/astrocady/posts/otd-821971-astronaut-david-scott-performed-galileos-famous-hammer-feather-drop-e/1151459636802470/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>#OTD 8/2/1971: Astronaut David Scott performed Galileo&#x27;s...Scott, Apollo 15 commander, watched a geological hammer and a feather hit the...</p></details>
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: facebook.com  
    Title: t417 101724 experiment 2 galileos fall experimentuntil galileo a 16th century as  
-   Link: <a href="https://www.facebook.com/JonnyKimUSA/posts/t417-101724-experiment-2-galileos-fall-experimentuntil-galileo-a-16th-century-as/1055861789687555/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/JonnyKimUSA/posts/t417-101724-experiment-2-galileos-fall-experimentuntil-galileo-a-16th-century-as/1055861789687555/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>T (10.17.24): Experiment (2)  Galileo&#x27;s Fall...Hammer and Feather Drop on the Moon: In 1971, astronaut David Scott conducted Galileo&#x27;s...</p></details>
+   Link:<a href="https://www.facebook.com/JonnyKimUSA/posts/t417-101724-experiment-2-galileos-fall-experimentuntil-galileo-a-16th-century-as/1055861789687555/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/JonnyKimUSA/posts/t417-101724-experiment-2-galileos-fall-experimentuntil-galileo-a-16th-century-as/1055861789687555/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>T (10.17.24): Experiment (2)  Galileo&#x27;s Fall...Hammer and Feather Drop on the Moon: In 1971, astronaut David Scott conducted Galileo&#x27;s...</p></details>
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: lan-portal.uob.edu.ly  
    Title: falling to earth an apollo 15 astronauts journey to the moon  
-   Link: <a href="https://lan-portal.uob.edu.ly/data/EPDF/T50713462I/falling_to__earth_an-apollo_15__astronauts-journey-to__the__moon.pdf" target="_blank" rel="noopener noreferrer nofollow">https://lan-portal.uob.edu.ly/data/EPDF/T50713462I/falling_to__earth_an-apollo_15__astronauts-journey-to__the__moon.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>To Earth An Apollo 15 Astronauts Journey To The...20 Jan 2026  Hammer and Feather dropped on the Moon - Hammer and Feather dropped on t...</p></details>
+   Link:<a href="https://lan-portal.uob.edu.ly/data/EPDF/T50713462I/falling_to__earth_an-apollo_15__astronauts-journey-to__the__moon.pdf" target="_blank" rel="noopener noreferrer nofollow">https://lan-portal.uob.edu.ly/data/EPDF/T50713462I/falling_to__earth_an-apollo_15__astronauts-journey-to__the__moon.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>To Earth An Apollo 15 Astronauts Journey To The...20 Jan 2026  Hammer and Feather dropped on the Moon - Hammer and Feather dropped on t...</p></details>
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: thekidshouldseethis.com  
    Title: the hammer feather drop in the worlds biggest vacuum chamber  
-   Link: <a href="https://thekidshouldseethis.com/post/the-hammer-feather-drop-in-the-worlds-biggest-vacuum-chamber" target="_blank" rel="noopener noreferrer nofollow">https://thekidshouldseethis.com/post/the-hammer-feather-drop-in-the-worlds-biggest-vacuum-chamber</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Kid Should See ThisThe Hammer-Feather Drop in the world&#x27;s biggest vacuum...Nov 2, 2014  This is the Hammer-Feather Drop in the worl...</p></details>
+   Link:<a href="https://thekidshouldseethis.com/post/the-hammer-feather-drop-in-the-worlds-biggest-vacuum-chamber" target="_blank" rel="noopener noreferrer nofollow">https://thekidshouldseethis.com/post/the-hammer-feather-drop-in-the-worlds-biggest-vacuum-chamber</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Kid Should See ThisThe Hammer-Feather Drop in the world&#x27;s biggest vacuum...Nov 2, 2014  This is the Hammer-Feather Drop in the worl...</p></details>
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: avi-loeb.medium.com  
    Title: A Breath of Fresh Air on the Moon | by Avi Loeb  
-   Link: <a href="https://avi-loeb.medium.com/a-breath-of-fresh-air-on-the-moon-8f82339870e1" target="_blank" rel="noopener noreferrer nofollow">https://avi-loeb.medium.com/a-breath-of-fresh-air-on-the-moon-8f82339870e1</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Breath of Fresh Air on the Moon | by Avi Loeb - MediumDuring the Apollo 15 lunar mission in 1971, Commander astronaut David Scott dropped...</p></details>
+   Link:<a href="https://avi-loeb.medium.com/a-breath-of-fresh-air-on-the-moon-8f82339870e1" target="_blank" rel="noopener noreferrer nofollow">https://avi-loeb.medium.com/a-breath-of-fresh-air-on-the-moon-8f82339870e1</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Breath of Fresh Air on the Moon | by Avi Loeb - MediumDuring the Apollo 15 lunar mission in 1971, Commander astronaut David Scott dropped...</p></details>
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: Wikipedia  
    Title: Fichier:Apollo 15 feather and hammer drop.ogv  
-   Link: <a href="https://fr.wikipedia.org/wiki/Fichier%3AApollo_15_feather_and_hammer_drop.ogv" target="_blank" rel="noopener noreferrer nofollow">https://fr.wikipedia.org/wiki/Fichier%3AApollo_15_feather_and_hammer_drop.ogv</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Fichier:Apollo 15 feather and hammer drop.ogvEnglish: Apollo 15 Commander Dave Scott demonstrates that the mass of an object does not...</p></details>
+   Link:<a href="https://fr.wikipedia.org/wiki/Fichier%3AApollo_15_feather_and_hammer_drop.ogv" target="_blank" rel="noopener noreferrer nofollow">https://fr.wikipedia.org/wiki/Fichier%3AApollo_15_feather_and_hammer_drop.ogv</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Fichier:Apollo 15 feather and hammer drop.ogvEnglish: Apollo 15 Commander Dave Scott demonstrates that the mass of an object does not...</p></details>
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: vaia.com  
    Title: Problem 56 Go to NASA's "Apollo 15 Hammer-F  
-   Link: <a href="https://www.vaia.com/en-us/textbooks/physics/21st-century-astronomy-4-edition/chapter-4/problem-56-go-to-nasas-apollo-15-hammer-feather-drop-web-pag/" target="_blank" rel="noopener noreferrer nofollow">https://www.vaia.com/en-us/textbooks/physics/21st-century-astronomy-4-edition/chapter-4/problem-56-go-to-nasas-apollo-15-hammer-feather-drop-web-pag/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The experiment showed that without air resistance, objects fall at the same rate. On Earth, air resistance causes a feather to fall s...</p></details>
+   Link:<a href="https://www.vaia.com/en-us/textbooks/physics/21st-century-astronomy-4-edition/chapter-4/problem-56-go-to-nasas-apollo-15-hammer-feather-drop-web-pag/" target="_blank" rel="noopener noreferrer nofollow">https://www.vaia.com/en-us/textbooks/physics/21st-century-astronomy-4-edition/chapter-4/problem-56-go-to-nasas-apollo-15-hammer-feather-drop-web-pag/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The experiment showed that without air resistance, objects fall at the same rate. On Earth, air resistance causes a feather to fall s...</p></details>
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: commons.wikimedia.org  
    Title: File:Apollo 15 feather and hammer drop.ogv  
-   Link: <a href="https://commons.wikimedia.org/wiki/File%3AApollo_15_feather_and_hammer_drop.ogv" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/File%3AApollo_15_feather_and_hammer_drop.ogv</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>wikimedia.orgFile:Apollo 15 feather and hammer drop.ogvEnglish: Apollo 15 Commander Dave Scott demonstrates that the mass of an object do...</p></details>
+   Link:<a href="https://commons.wikimedia.org/wiki/File%3AApollo_15_feather_and_hammer_drop.ogv" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/File%3AApollo_15_feather_and_hammer_drop.ogv</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>wikimedia.orgFile:Apollo 15 feather and hammer drop.ogvEnglish: Apollo 15 Commander Dave Scott demonstrates that the mass of an object do...</p></details>

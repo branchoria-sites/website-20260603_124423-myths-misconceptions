@@ -291,7 +291,7 @@ Because these analogical frameworks were deeply familiar and widely accepted wit
 
 Beyond the social sciences, metaphorical concepts also fed into **empirical methods and explanatory models** in the natural sciences. One longstanding example from physics and thermodynamics was the **caloric theory of heat**. In this theory  influential into the first half of the 19th century  heat was conceived as a **subtle fluid** that flowed from hotter to cooler bodies. This fluidlike metaphor made sense of observable phenomena such as heat transfer and thermal expansion within a familiar physical image: a substance that could be carried, stored and conserved.[Wikipedia]
 
-The caloric metaphor shaped the design and interpretation of experiments for decades, guiding researchers to use the fluid model as the substantive foundation of thermal science. Even when contradictory evidence emerged  for example, Count Rumfords experiments on cannonboring that generated seemingly unlimited heat incompatible with a conserved fluid  proponents of the caloric metaphor initially tried to absorb these results into the existing framework rather than revise the metaphor outright.NYAS - The New York Academy of Sciences <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nyas.org/ideas-insights/blog/exploring-the-science-and-history-of-thermodynamics/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nyas.org">[nyas.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nyas.org</span><span class="citation-popover-snippet">The New York Academy of SciencesExploring the Science and History of ThermodynamicsMay 1, 2006  1 May 2006  Eighteenth-century p...</span><span class="citation-popover-meta">Published: May 1, 2006</span></span></span>
+The caloric metaphor shaped the design and interpretation of experiments for decades, guiding researchers to use the fluid model as the substantive foundation of thermal science. Even when contradictory evidence emerged  for example, Count Rumfords experiments on cannonboring that generated seemingly unlimited heat incompatible with a conserved fluid  proponents of the caloric metaphor initially tried to absorb these results into the existing framework rather than revise the metaphor outright.NYAS - The New York Academy of Sciences<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nyas.org/ideas-insights/blog/exploring-the-science-and-history-of-thermodynamics/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nyas.org">[nyas.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nyas.org</span><span class="citation-popover-snippet">The New York Academy of SciencesExploring the Science and History of ThermodynamicsMay 1, 2006  1 May 2006  Eighteenth-century p...</span><span class="citation-popover-meta">Published: May 1, 2006</span></span></span>
 
 Similarly, biology and physiology in the 19th century repeatedly borrowed metaphors from **mechanics** and **machines**. Organisms were often analogised to machines whose parts worked like levers, pulleys or engines; tissues were conceived as materials subjected to mechanical forces; nerves were imagined as conductive wires. These metaphors carried implications for research methods: measurement strategies were chosen, instruments designed and hypotheses framed on the assumption that biological processes behaved like mechanical counterparts. This *machine metaphor* helped make nascent disciplines seem rigorous and systematic, but it also **constrained researchers attention to aspects of phenomena that conformed to mechanistic expectations** while downplaying emergent biological properties that did not fit neatly into this paradigm.<span class="citation-chip-wrap"><a class="citation-chip" href="https://fountainmagazine.com/all-issues/2002/issue-40-october-december-2002/metaphors-in-science/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fountainmagazine.com">[fountainmagazine.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fountainmagazine.com</span><span class="citation-popover-snippet">Metaphors in ScienceFrom the seventeenth to the nineteenth centuries, the dominant metaphor was the machine metaphor: The world is a mach...</span></span></span>
 
@@ -315,194 +315,194 @@ In 19thcentury science, metaphors were not peripheral flourishes but **central o
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_misleading_analogies_a297a0_historical_science_m_ed604c-Illustration-3-dark.svg" | relative_url }}" alt="Historical Metaphors illustration 3" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_misleading_analogies_a297a0_historical_science_m_ed604c-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_misleading_analogies_a297a0_historical_science_m_ed604c-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How 19th Century Analogies Skewed Scientific Thinking. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How 19th Century Analogies Skewed Scientific Thinking. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Promotes critical evaluation of inherited assumptions and claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Promotes critical evaluation of inherited assumptions and claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Mismeasure+of+Man+Stephen+Jay+Gould&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Mismeasure of Man on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/6539950-M.jpg" alt="Cover for The Mismeasure of Man" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Mismeasure+of+Man+Stephen+Jay+Gould&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Mismeasure of Man">The Mismeasure of Man</a>
-        </h4>
-        <p class="fr-book-author">By Stephen Jay Gould, Joandomènec Ros et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Mismeasure+of+Man+Stephen+Jay+Gould&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Mismeasure of Man on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/6539950-M.jpg" alt="Cover for The Mismeasure of Man" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Mismeasure+of+Man+Stephen+Jay+Gould&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Mismeasure of Man">The Mismeasure of Man</a>
+</h4>
+<p class="fr-book-author">By Stephen Jay Gould, Joandomènec Ros et al.</p>
         
-        <p class="fr-book-desc">First published 1981. Subjects: History, Craniometry, Ability, Testing, Intelligence tests.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Mismeasure+of+Man+Stephen+Jay+Gould&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1981. Subjects: History, Craniometry, Ability, Testing, Intelligence tests.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Mismeasure+of+Man+Stephen+Jay+Gould&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Wonderful+Life+the+Burgess+Stephen+Jay+Gould&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Wonderful Life the Burgess on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/1364687-M.jpg" alt="Cover for Wonderful Life the Burgess" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Wonderful+Life+the+Burgess+Stephen+Jay+Gould&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Wonderful Life the Burgess">Wonderful Life the Burgess</a>
-        </h4>
-        <p class="fr-book-author">By Stephen Jay Gould</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Wonderful+Life+the+Burgess+Stephen+Jay+Gould&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Wonderful Life the Burgess on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/1364687-M.jpg" alt="Cover for Wonderful Life the Burgess" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Wonderful+Life+the+Burgess+Stephen+Jay+Gould&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Wonderful Life the Burgess">Wonderful Life the Burgess</a>
+</h4>
+<p class="fr-book-author">By Stephen Jay Gould</p>
         
-        <p class="fr-book-desc">First published 1988. Subjects: Life, British Columbia, Invertebrate fossils, Paleontology, Burgess Shale.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Wonderful+Life+the+Burgess+Stephen+Jay+Gould&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1988. Subjects: Life, British Columbia, Invertebrate fossils, Paleontology, Burgess Shale.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Wonderful+Life+the+Burgess+Stephen+Jay+Gould&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Structure+of+Scientific+Revolutions+by+Thomas+S.+Kuhn&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Structure of Scientific Revolutions on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Structure+of+Scientific+Revolutions+by+Thomas+S.+Kuhn&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Structure of Scientific Revolutions">The Structure of Scientific Revolutions</a>
-        </h4>
-        <p class="fr-book-author">By Thomas S. Kuhn</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Structure+of+Scientific+Revolutions+by+Thomas+S.+Kuhn&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Structure of Scientific Revolutions on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Structure+of+Scientific+Revolutions+by+Thomas+S.+Kuhn&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Structure of Scientific Revolutions">The Structure of Scientific Revolutions</a>
+</h4>
+<p class="fr-book-author">By Thomas S. Kuhn</p>
         
-        <p class="fr-book-desc">Explains how conceptual frameworks can guide and constrain science.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Structure+of+Scientific+Revolutions+by+Thomas+S.+Kuhn&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains how conceptual frameworks can guide and constrain science.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Structure+of+Scientific+Revolutions+by+Thomas+S.+Kuhn&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Mismeasure+of+Man&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Mismeasure of Man</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Wonderful+Life+the+Burgess&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Wonderful Life the Burgess</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Mismeasure+of+Man&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Mismeasure of Man</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Wonderful+Life+the+Burgess&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Wonderful Life the Burgess</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=historical-metaphors-how-19th-century-analogies-skewed-scientific-thinking-myths-and-misconcept-critical-thinking-wall-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking wall art" data-ebay-reference="historical-metaphors-how-19th-century-analogies-skewed-scientific-thinking-myths-and-misconcept-critical-thinking-wall-a" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 18755 Critical Thinking Classroom Decor Wall Print Poster"><img src="{{ '/assets/images/marketplace-covers/f44a4838fd3b80d052fa.jpg' | relative_url }}" alt="Listing image for 18755 Critical Thinking Classroom Decor Wall Print Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=historical-metaphors-how-19th-century-analogies-skewed-scientific-thinking-myths-and-misconcept-critical-thinking-wall-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking wall art" data-ebay-reference="historical-metaphors-how-19th-century-analogies-skewed-scientific-thinking-myths-and-misconcept-critical-thinking-wall-a" target="_blank" rel="sponsored noopener noreferrer">18755 Critical Thinking Classroom Decor Wall Print Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=historical-metaphors-how-19th-century-analogies-skewed-scientific-thinking-myths-and-misconcept-critical-thinking-wall-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking wall art" data-ebay-reference="historical-metaphors-how-19th-century-analogies-skewed-scientific-thinking-myths-and-misconcept-critical-thinking-wall-a" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=historical-metaphors-how-19th-century-analogies-skewed-scientific-thinking-myths-and-misconcept-critical-thinking-wall-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking wall art" data-ebay-reference="historical-metaphors-how-19th-century-analogies-skewed-scientific-thinking-myths-and-misconcept-critical-thinking-wall-a" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=historical-metaphors-how-19th-century-analogies-skewed-scientific-thinking-myths-and-misconcept-critical-thinking-wall-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking wall art" data-ebay-reference="historical-metaphors-how-19th-century-analogies-skewed-scientific-thinking-myths-and-misconcept-critical-thinking-wall-a" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 18755 Critical Thinking Classroom Decor Wall Print Poster"><img src="{{ '/assets/images/marketplace-covers/f44a4838fd3b80d052fa.jpg' | relative_url }}" alt="Listing image for 18755 Critical Thinking Classroom Decor Wall Print Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=historical-metaphors-how-19th-century-analogies-skewed-scientific-thinking-myths-and-misconcept-critical-thinking-wall-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking wall art" data-ebay-reference="historical-metaphors-how-19th-century-analogies-skewed-scientific-thinking-myths-and-misconcept-critical-thinking-wall-a" target="_blank" rel="sponsored noopener noreferrer">18755 Critical Thinking Classroom Decor Wall Print Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=historical-metaphors-how-19th-century-analogies-skewed-scientific-thinking-myths-and-misconcept-critical-thinking-wall-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking wall art" data-ebay-reference="historical-metaphors-how-19th-century-analogies-skewed-scientific-thinking-myths-and-misconcept-critical-thinking-wall-a" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=historical-metaphors-how-19th-century-analogies-skewed-scientific-thinking-myths-and-misconcept-critical-thinking-wall-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking wall art" data-ebay-reference="historical-metaphors-how-19th-century-analogies-skewed-scientific-thinking-myths-and-misconcept-critical-thinking-wall-a" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=historical-metaphors-how-19th-century-analogies-skewed-scientific-thinking-myths-and-misconcept-critical-thinking-wall-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking wall art" data-ebay-reference="historical-metaphors-how-19th-century-analogies-skewed-scientific-thinking-myths-and-misconcept-critical-thinking-wall-a" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking Framed Art Print Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/1fdf431cb37fb2a99b7f.jpg' | relative_url }}" alt="Listing image for Critical Thinking Framed Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=historical-metaphors-how-19th-century-analogies-skewed-scientific-thinking-myths-and-misconcept-critical-thinking-wall-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking wall art" data-ebay-reference="historical-metaphors-how-19th-century-analogies-skewed-scientific-thinking-myths-and-misconcept-critical-thinking-wall-a" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking Framed Art Print Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=historical-metaphors-how-19th-century-analogies-skewed-scientific-thinking-myths-and-misconcept-critical-thinking-wall-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking wall art" data-ebay-reference="historical-metaphors-how-19th-century-analogies-skewed-scientific-thinking-myths-and-misconcept-critical-thinking-wall-a" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=historical-metaphors-how-19th-century-analogies-skewed-scientific-thinking-myths-and-misconcept-critical-thinking-wall-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking wall art" data-ebay-reference="historical-metaphors-how-19th-century-analogies-skewed-scientific-thinking-myths-and-misconcept-critical-thinking-wall-a" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=historical-metaphors-how-19th-century-analogies-skewed-scientific-thinking-myths-and-misconcept-critical-thinking-wall-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking wall art" data-ebay-reference="historical-metaphors-how-19th-century-analogies-skewed-scientific-thinking-myths-and-misconcept-critical-thinking-wall-a" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking Framed Art Print Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/1fdf431cb37fb2a99b7f.jpg' | relative_url }}" alt="Listing image for Critical Thinking Framed Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=historical-metaphors-how-19th-century-analogies-skewed-scientific-thinking-myths-and-misconcept-critical-thinking-wall-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking wall art" data-ebay-reference="historical-metaphors-how-19th-century-analogies-skewed-scientific-thinking-myths-and-misconcept-critical-thinking-wall-a" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking Framed Art Print Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=historical-metaphors-how-19th-century-analogies-skewed-scientific-thinking-myths-and-misconcept-critical-thinking-wall-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking wall art" data-ebay-reference="historical-metaphors-how-19th-century-analogies-skewed-scientific-thinking-myths-and-misconcept-critical-thinking-wall-a" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=historical-metaphors-how-19th-century-analogies-skewed-scientific-thinking-myths-and-misconcept-critical-thinking-wall-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking wall art" data-ebay-reference="historical-metaphors-how-19th-century-analogies-skewed-scientific-thinking-myths-and-misconcept-critical-thinking-wall-a" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=historical-metaphors-how-19th-century-analogies-skewed-scientific-thinking-myths-and-misconcept-critical-thinking-wall-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking wall art" data-ebay-reference="historical-metaphors-how-19th-century-analogies-skewed-scientific-thinking-myths-and-misconcept-critical-thinking-wall-a" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/4c8bc7042d38cd131035.jpg' | relative_url }}" alt="Listing image for Critical Thinking Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=historical-metaphors-how-19th-century-analogies-skewed-scientific-thinking-myths-and-misconcept-critical-thinking-wall-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking wall art" data-ebay-reference="historical-metaphors-how-19th-century-analogies-skewed-scientific-thinking-myths-and-misconcept-critical-thinking-wall-a" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=historical-metaphors-how-19th-century-analogies-skewed-scientific-thinking-myths-and-misconcept-critical-thinking-wall-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking wall art" data-ebay-reference="historical-metaphors-how-19th-century-analogies-skewed-scientific-thinking-myths-and-misconcept-critical-thinking-wall-a" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=historical-metaphors-how-19th-century-analogies-skewed-scientific-thinking-myths-and-misconcept-critical-thinking-wall-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking wall art" data-ebay-reference="historical-metaphors-how-19th-century-analogies-skewed-scientific-thinking-myths-and-misconcept-critical-thinking-wall-a" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=historical-metaphors-how-19th-century-analogies-skewed-scientific-thinking-myths-and-misconcept-critical-thinking-wall-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking wall art" data-ebay-reference="historical-metaphors-how-19th-century-analogies-skewed-scientific-thinking-myths-and-misconcept-critical-thinking-wall-a" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/4c8bc7042d38cd131035.jpg' | relative_url }}" alt="Listing image for Critical Thinking Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=historical-metaphors-how-19th-century-analogies-skewed-scientific-thinking-myths-and-misconcept-critical-thinking-wall-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking wall art" data-ebay-reference="historical-metaphors-how-19th-century-analogies-skewed-scientific-thinking-myths-and-misconcept-critical-thinking-wall-a" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=historical-metaphors-how-19th-century-analogies-skewed-scientific-thinking-myths-and-misconcept-critical-thinking-wall-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking wall art" data-ebay-reference="historical-metaphors-how-19th-century-analogies-skewed-scientific-thinking-myths-and-misconcept-critical-thinking-wall-a" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=historical-metaphors-how-19th-century-analogies-skewed-scientific-thinking-myths-and-misconcept-critical-thinking-wall-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking wall art" data-ebay-reference="historical-metaphors-how-19th-century-analogies-skewed-scientific-thinking-myths-and-misconcept-critical-thinking-wall-a" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=historical-metaphors-how-19th-century-analogies-skewed-scientific-thinking-myths-and-misconcept-critical-thinking-wall-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking wall art" data-ebay-reference="historical-metaphors-how-19th-century-analogies-skewed-scientific-thinking-myths-and-misconcept-critical-thinking-wall-a" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking 2020 4 Movie Poster Art Print PopCulture Wall Memorable Exclus"><img src="{{ '/assets/images/marketplace-covers/d99b026298e0e1e60836.jpg' | relative_url }}" alt="Listing image for Critical Thinking 2020 4 Movie Poster Art Print PopCulture Wall Memorable Exclus" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=historical-metaphors-how-19th-century-analogies-skewed-scientific-thinking-myths-and-misconcept-critical-thinking-wall-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking wall art" data-ebay-reference="historical-metaphors-how-19th-century-analogies-skewed-scientific-thinking-myths-and-misconcept-critical-thinking-wall-a" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking 2020 4 Movie Poster Art Print PopCulture Wall Memorable Exclus</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=historical-metaphors-how-19th-century-analogies-skewed-scientific-thinking-myths-and-misconcept-critical-thinking-wall-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking wall art" data-ebay-reference="historical-metaphors-how-19th-century-analogies-skewed-scientific-thinking-myths-and-misconcept-critical-thinking-wall-a" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=historical-metaphors-how-19th-century-analogies-skewed-scientific-thinking-myths-and-misconcept-critical-thinking-wall-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking wall art" data-ebay-reference="historical-metaphors-how-19th-century-analogies-skewed-scientific-thinking-myths-and-misconcept-critical-thinking-wall-a" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=historical-metaphors-how-19th-century-analogies-skewed-scientific-thinking-myths-and-misconcept-critical-thinking-wall-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking wall art" data-ebay-reference="historical-metaphors-how-19th-century-analogies-skewed-scientific-thinking-myths-and-misconcept-critical-thinking-wall-a" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=historical-metaphors-how-19th-century-analogies-skewed-scientific-thinking-myths-and-misconcept-critical-thinking-wall-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking wall art" data-ebay-reference="historical-metaphors-how-19th-century-analogies-skewed-scientific-thinking-myths-and-misconcept-critical-thinking-wall-a" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking 2020 4 Movie Poster Art Print PopCulture Wall Memorable Exclus"><img src="{{ '/assets/images/marketplace-covers/d99b026298e0e1e60836.jpg' | relative_url }}" alt="Listing image for Critical Thinking 2020 4 Movie Poster Art Print PopCulture Wall Memorable Exclus" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=historical-metaphors-how-19th-century-analogies-skewed-scientific-thinking-myths-and-misconcept-critical-thinking-wall-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking wall art" data-ebay-reference="historical-metaphors-how-19th-century-analogies-skewed-scientific-thinking-myths-and-misconcept-critical-thinking-wall-a" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking 2020 4 Movie Poster Art Print PopCulture Wall Memorable Exclus</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=historical-metaphors-how-19th-century-analogies-skewed-scientific-thinking-myths-and-misconcept-critical-thinking-wall-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking wall art" data-ebay-reference="historical-metaphors-how-19th-century-analogies-skewed-scientific-thinking-myths-and-misconcept-critical-thinking-wall-a" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=historical-metaphors-how-19th-century-analogies-skewed-scientific-thinking-myths-and-misconcept-critical-thinking-wall-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking wall art" data-ebay-reference="historical-metaphors-how-19th-century-analogies-skewed-scientific-thinking-myths-and-misconcept-critical-thinking-wall-a" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=historical-metaphors-how-19th-century-analogies-skewed-scientific-thinking-myths-and-misconcept-critical-thinking-wall-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking wall art" data-ebay-reference="historical-metaphors-how-19th-century-analogies-skewed-scientific-thinking-myths-and-misconcept-critical-thinking-wall-a" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -518,7 +518,7 @@ In 19thcentury science, metaphors were not peripheral flourishes but **central o
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -538,7 +538,7 @@ In 19thcentury science, metaphors were not peripheral flourishes but **central o
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -570,7 +570,7 @@ In 19thcentury science, metaphors were not peripheral flourishes but **central o
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -622,7 +622,7 @@ In 19thcentury science, metaphors were not peripheral flourishes but **central o
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -667,7 +667,7 @@ In 19thcentury science, metaphors were not peripheral flourishes but **central o
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -708,112 +708,112 @@ In 19thcentury science, metaphors were not peripheral flourishes but **central o
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: direct.mit.edu  
-   Link: <a href="https://direct.mit.edu/posc/article/27/2/153/15419/Misled-by-Metaphor-The-Problem-of-Ingrained" target="_blank" rel="noopener noreferrer nofollow">https://direct.mit.edu/posc/article/27/2/153/15419/Misled-by-Metaphor-The-Problem-of-Ingrained</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>MIT Press DirectMisled by Metaphor: The Problem of Ingrained Analogy | Perspectives on Science | MIT PressApril 1, 2019...</p></details>
+   Link:<a href="https://direct.mit.edu/posc/article/27/2/153/15419/Misled-by-Metaphor-The-Problem-of-Ingrained" target="_blank" rel="noopener noreferrer nofollow">https://direct.mit.edu/posc/article/27/2/153/15419/Misled-by-Metaphor-The-Problem-of-Ingrained</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>MIT Press DirectMisled by Metaphor: The Problem of Ingrained Analogy | Perspectives on Science | MIT PressApril 1, 2019...</p></details>
    Published: April 1, 2019  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Caloric theory  
-   Link: <a href="https://en.wikipedia.org/wiki/Caloric_theory" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Caloric_theory</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Caloric_theory" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Caloric_theory</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: jstor.org  
    Title: Race and Gender: The Role of Analogy in Science  
-   Link: <a href="https://www.jstor.org/stable/232652" target="_blank" rel="noopener noreferrer nofollow">https://www.jstor.org/stable/232652</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The question is, what part? I want to suggest that the metaphors functioned as the science itself-that.Read more...</p></details>
+   Link:<a href="https://www.jstor.org/stable/232652" target="_blank" rel="noopener noreferrer nofollow">https://www.jstor.org/stable/232652</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The question is, what part? I want to suggest that the metaphors functioned as the science itself-that.Read more...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: nyas.org  
-   Link: <a href="https://www.nyas.org/ideas-insights/blog/exploring-the-science-and-history-of-thermodynamics/" target="_blank" rel="noopener noreferrer nofollow">https://www.nyas.org/ideas-insights/blog/exploring-the-science-and-history-of-thermodynamics/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The New York Academy of SciencesExploring the Science and History of ThermodynamicsMay 1, 2006  1 May 2006  Eighteenth-century p...</p></details>
+   Link:<a href="https://www.nyas.org/ideas-insights/blog/exploring-the-science-and-history-of-thermodynamics/" target="_blank" rel="noopener noreferrer nofollow">https://www.nyas.org/ideas-insights/blog/exploring-the-science-and-history-of-thermodynamics/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The New York Academy of SciencesExploring the Science and History of ThermodynamicsMay 1, 2006  1 May 2006  Eighteenth-century p...</p></details>
    Published: May 1, 2006  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: fountainmagazine.com  
-   Link: <a href="https://fountainmagazine.com/all-issues/2002/issue-40-october-december-2002/metaphors-in-science/" target="_blank" rel="noopener noreferrer nofollow">https://fountainmagazine.com/all-issues/2002/issue-40-october-december-2002/metaphors-in-science/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Metaphors in ScienceFrom the seventeenth to the nineteenth centuries, the dominant metaphor was the machine metaphor: The world is a mach...</p></details>
+   Link:<a href="https://fountainmagazine.com/all-issues/2002/issue-40-october-december-2002/metaphors-in-science/" target="_blank" rel="noopener noreferrer nofollow">https://fountainmagazine.com/all-issues/2002/issue-40-october-december-2002/metaphors-in-science/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Metaphors in ScienceFrom the seventeenth to the nineteenth centuries, the dominant metaphor was the machine metaphor: The world is a mach...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: direct.mit.edu  
    Title: Scientific Inquiry From Metaphors to Abstraction  
-   Link: <a href="https://direct.mit.edu/posc/article/31/2/233/112754/Scientific-Inquiry-From-Metaphors-to-Abstraction" target="_blank" rel="noopener noreferrer nofollow">https://direct.mit.edu/posc/article/31/2/233/112754/Scientific-Inquiry-From-Metaphors-to-Abstraction</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>THE ANIMAL LEYDEN JAR At the end of the eighteenth century, Luigi Galvani discovered that a dissected frog leg contracts when the nerve a...</p></details>
+   Link:<a href="https://direct.mit.edu/posc/article/31/2/233/112754/Scientific-Inquiry-From-Metaphors-to-Abstraction" target="_blank" rel="noopener noreferrer nofollow">https://direct.mit.edu/posc/article/31/2/233/112754/Scientific-Inquiry-From-Metaphors-to-Abstraction</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>THE ANIMAL LEYDEN JAR At the end of the eighteenth century, Luigi Galvani discovered that a dissected frog leg contracts when the nerve a...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: direct.mit.edu  
    Title: posc a 00303  
-   Link: <a href="https://direct.mit.edu/posc/article-pdf/27/2/153/1790756/posc_a_00303.pdf" target="_blank" rel="noopener noreferrer nofollow">https://direct.mit.edu/posc/article-pdf/27/2/153/1790756/posc_a_00303.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>by Metaphor: The Problem of Ingrained Analogyby A Sullivan-Clarke  2019  Cited by 20  Nancy Leys Stepan&#x27;s historical analysis of the a...</p></details>
+   Link:<a href="https://direct.mit.edu/posc/article-pdf/27/2/153/1790756/posc_a_00303.pdf" target="_blank" rel="noopener noreferrer nofollow">https://direct.mit.edu/posc/article-pdf/27/2/153/1790756/posc_a_00303.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by Metaphor: The Problem of Ingrained Analogyby A Sullivan-Clarke  2019  Cited by 20  Nancy Leys Stepan&#x27;s historical analysis of the a...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: Wikipedia  
    Title: Nancy Stepan  
-   Link: <a href="https://en.wikipedia.org/wiki/Nancy_Stepan" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Nancy_Stepan</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Nancy StepanHer research focuses on the history of science in Latin America and the importance of scientific research in the tropics.R...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Nancy_Stepan" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Nancy_Stepan</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Nancy StepanHer research focuses on the history of science in Latin America and the importance of scientific research in the tropics.R...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: britannica.com  
-   Link: <a href="https://www.britannica.com/science/caloric-theory" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/science/caloric-theory</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Caloric theory | Heat, Energy, TemperatureThe idea of an imaginary fluid to represent heat helped explain many but not all aspects of hea...</p></details>
+   Link:<a href="https://www.britannica.com/science/caloric-theory" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/science/caloric-theory</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Caloric theory | Heat, Energy, TemperatureThe idea of an imaginary fluid to represent heat helped explain many but not all aspects of hea...</p></details>
 
 ### Additional References
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: journals.uchicago.edu  
-   Link: <a href="https://www.journals.uchicago.edu/doi/pdfplus/10.1086/354130" target="_blank" rel="noopener noreferrer nofollow">https://www.journals.uchicago.edu/doi/pdfplus/10.1086/354130</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Chicago JournalsRace and Gender: The Role of Analogy in ScienceWhen scientists in the nineteenth century, then, proposed an analogy betwe...</p></details>
+   Link:<a href="https://www.journals.uchicago.edu/doi/pdfplus/10.1086/354130" target="_blank" rel="noopener noreferrer nofollow">https://www.journals.uchicago.edu/doi/pdfplus/10.1086/354130</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Chicago JournalsRace and Gender: The Role of Analogy in ScienceWhen scientists in the nineteenth century, then, proposed an analogy betwe...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: science-education-research.com  
-   Link: <a href="https://science-education-research.com/public-science/examples-of-science-metaphors/" target="_blank" rel="noopener noreferrer nofollow">https://science-education-research.com/public-science/examples-of-science-metaphors/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Examples of science metaphorsMost of these examples are metaphors for scientific concepts  but sometimes referents from science and tech...</p></details>
+   Link:<a href="https://science-education-research.com/public-science/examples-of-science-metaphors/" target="_blank" rel="noopener noreferrer nofollow">https://science-education-research.com/public-science/examples-of-science-metaphors/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Examples of science metaphorsMost of these examples are metaphors for scientific concepts  but sometimes referents from science and tech...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0166223697011016" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0166223697011016</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>October 1, 1997  Trends in Neurosciences Volume 20, Issue 10, 1 October 1997, Pages 443-448 LUIGI GALVANI AND ANIMAL ELECTR...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/pii/S0166223697011016" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0166223697011016</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>October 1, 1997  Trends in Neurosciences Volume 20, Issue 10, 1 October 1997, Pages 443-448 LUIGI GALVANI AND ANIMAL ELECTR...</p></details>
    Published: October 1, 1997  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: cambridge.org  
-   Link: <a href="https://www.cambridge.org/core/journals/british-journal-for-the-history-of-science/article/physical-models-and-physiological-concepts-explanation-in-nineteenthcentury-biology/85DBFC0E77FA49792AB19FC59F694A45" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/journals/british-journal-for-the-history-of-science/article/physical-models-and-physiological-concepts-explanation-in-nineteenthcentury-biology/85DBFC0E77FA49792AB19FC59F694A45</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Cambridge CoreJanuary 5, 2009  PHYSICAL MODELS AND PHYSIOLOGICAL CONCEPTS: EXPLANATION IN NINETEENTH-CENTURY BIOLOGY* Published online b...</p></details>
+   Link:<a href="https://www.cambridge.org/core/journals/british-journal-for-the-history-of-science/article/physical-models-and-physiological-concepts-explanation-in-nineteenthcentury-biology/85DBFC0E77FA49792AB19FC59F694A45" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/journals/british-journal-for-the-history-of-science/article/physical-models-and-physiological-concepts-explanation-in-nineteenthcentury-biology/85DBFC0E77FA49792AB19FC59F694A45</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Cambridge CoreJanuary 5, 2009  PHYSICAL MODELS AND PHYSIOLOGICAL CONCEPTS: EXPLANATION IN NINETEENTH-CENTURY BIOLOGY* Published online b...</p></details>
    Published: January 5, 2009  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/229634261_Race_Gender_Science_and_Citizenship" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/229634261_Race_Gender_Science_and_Citizenship</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Race, Gender, Science and CitizenshipThis paper argues that the history of embodiment of human racial and gendered differences must be se...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/229634261_Race_Gender_Science_and_Citizenship" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/229634261_Race_Gender_Science_and_Citizenship</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Race, Gender, Science and CitizenshipThis paper argues that the history of embodiment of human racial and gendered differences must be se...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/pii/S1369848617301334" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S1369848617301334</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>STUDIES IN HISTORY AND PHILOSOPHY OF SCIENCE PART C: STUDIES IN HISTORY AND PHILOSOPHY OF BIOLOGICAL AND BIOMEDICAL SCIENCES...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/pii/S1369848617301334" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S1369848617301334</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>STUDIES IN HISTORY AND PHILOSOPHY OF SCIENCE PART C: STUDIES IN HISTORY AND PHILOSOPHY OF BIOLOGICAL AND BIOMEDICAL SCIENCES...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: cambridge.org  
-   Link: <a href="https://www.cambridge.org/core/journals/science-in-context/article/physiology-and-philhellenism-in-the-late-nineteenth-century-the-selffashioning-of-emil-du-boisreymond/41EDA6E1FC05565B0A2EEE01C0158BE5" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/journals/science-in-context/article/physiology-and-philhellenism-in-the-late-nineteenth-century-the-selffashioning-of-emil-du-boisreymond/41EDA6E1FC05565B0A2EEE01C0158BE5</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>CoreOctober 2, 2020  PHYSIOLOGY AND PHILHELLENISM IN THE LATE NINETEENTH CENTURY: THE SELF-FASHIONING OF EMIL DU BOIS-REYMOND Published...</p></details>
+   Link:<a href="https://www.cambridge.org/core/journals/science-in-context/article/physiology-and-philhellenism-in-the-late-nineteenth-century-the-selffashioning-of-emil-du-boisreymond/41EDA6E1FC05565B0A2EEE01C0158BE5" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/journals/science-in-context/article/physiology-and-philhellenism-in-the-late-nineteenth-century-the-selffashioning-of-emil-du-boisreymond/41EDA6E1FC05565B0A2EEE01C0158BE5</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>CoreOctober 2, 2020  PHYSIOLOGY AND PHILHELLENISM IN THE LATE NINETEENTH CENTURY: THE SELF-FASHIONING OF EMIL DU BOIS-REYMOND Published...</p></details>
    Published: October 2, 2020  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: sciencedirect.com  
    Title: On the Problem and Promise of Metaphor Use in Science and Science Communication  
-   Link: <a href="https://www.sciencedirect.com/org/science/article/pii/S1935787718000618" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/org/science/article/pii/S1935787718000618</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>February 16, 2018  METAPHORS AS SOCIOPOLITICAL MESSENGERS In the United States, many of the metaphors we use to talk about...</p></details>
+   Link:<a href="https://www.sciencedirect.com/org/science/article/pii/S1935787718000618" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/org/science/article/pii/S1935787718000618</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>February 16, 2018  METAPHORS AS SOCIOPOLITICAL MESSENGERS In the United States, many of the metaphors we use to talk about...</p></details>
    Published: February 16, 2018  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: koha.ihs.ac.at  
-   Link: <a href="https://koha.ihs.ac.at/cgi-bin/koha/opac-detail.pl?biblionumber=55930" target="_blank" rel="noopener noreferrer nofollow">https://koha.ihs.ac.at/cgi-bin/koha/opac-detail.pl?biblionumber=55930</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>stepan n. l..race and gender: the role of analogy in science.:.; Chicago. stepan nancy leys.race and...Read more...</p></details>
+   Link:<a href="https://koha.ihs.ac.at/cgi-bin/koha/opac-detail.pl?biblionumber=55930" target="_blank" rel="noopener noreferrer nofollow">https://koha.ihs.ac.at/cgi-bin/koha/opac-detail.pl?biblionumber=55930</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>stepan n. l..race and gender: the role of analogy in science.:.; Chicago. stepan nancy leys.race and...Read more...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: sciencedirect.com  
    Title: Disputed discovery: vivisection and experiment in the 19th century  
-   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0160932706000585" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0160932706000585</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ENDEAVOUR Volume 30, Issue 3, September 2006, Pages 98-102 Review Disputed discovery: vivisection and experiment in the 19^{...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/abs/pii/S0160932706000585" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0160932706000585</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ENDEAVOUR Volume 30, Issue 3, September 2006, Pages 98-102 Review Disputed discovery: vivisection and experiment in the 19^{...</p></details>
    Published: September 2006

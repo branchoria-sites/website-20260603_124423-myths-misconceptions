@@ -274,12 +274,12 @@ image: /assets/images/Myths_and_misconcept_0d48d7_ten_percent_brain_my_db46b9_br
 
 ## Introduction
 
-One of the strongest arguments against the idea that humans use only 10 per cent of their brains comes from clinical neurology. If large portions of the brain were genuinely inactive or unnecessary, damage to those regions should have little effect. Instead, doctors repeatedly observe the opposite. Small strokes, tiny tumours, localised injuries and early-stage neurodegenerative diseases can cause striking losses of language, [memory]({{ 'memory/' | relative_url }}), movement, vision, emotional regulation or personality. These effects reveal that brain tissue is not sitting idle waiting to be unlocked. Even areas whose functions are not fully understood often contribute to complex networks that support everyday behaviour. Clinical evidence does not suggest that 90 per cent of the brain is unused. It suggests that much of the brain is doing something important, even when that role is not immediately obvious. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Ten-percent-of-the-brain_myth" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Ten-percent-of-the-brain myth</span><span class="citation-popover-snippet">Ten-percent-of-the-brain myth</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5777219/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCMapping human brain lesions and their functional</span><span class="citation-popover-snippet">NIHby HO Karnath  2017  Cited by 229  Neuroscience has a long history of inferring brain function by examining the relationship...</span></span></span>
+One of the strongest arguments against the idea that humans use only 10 per cent of their brains comes from clinical neurology. If large portions of the brain were genuinely inactive or unnecessary, damage to those regions should have little effect. Instead, doctors repeatedly observe the opposite. Small strokes, tiny tumours, localised injuries and early-stage neurodegenerative diseases can cause striking losses of language, [memory]({{ 'memory/' | relative_url }}), movement, vision, emotional regulation or personality. These effects reveal that brain tissue is not sitting idle waiting to be unlocked. Even areas whose functions are not fully understood often contribute to complex networks that support everyday behaviour. Clinical evidence does not suggest that 90 per cent of the brain is unused. It suggests that much of the brain is doing something important, even when that role is not immediately obvious.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Ten-percent-of-the-brain_myth" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Ten-percent-of-the-brain myth</span><span class="citation-popover-snippet">Ten-percent-of-the-brain myth</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5777219/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCMapping human brain lesions and their functional</span><span class="citation-popover-snippet">NIHby HO Karnath  2017  Cited by 229  Neuroscience has a long history of inferring brain function by examining the relationship...</span></span></span>
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_ten_percent_brain_my_db46b9_brain_damage_unused_27f26e-Illustration-1-dark.svg" | relative_url }}" alt="Brain Damage illustration 1" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_ten_percent_brain_my_db46b9_brain_damage_unused_27f26e-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_ten_percent_brain_my_db46b9_brain_damage_unused_27f26e-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## What Clinical Neurology Reveals About Function
 
-For more than a century, neurologists have learned about brain function by studying what happens when specific areas are damaged. This approach, known as lesion analysis, remains one of the foundations of neuroscience. Researchers compare the location of an injury with the abilities that were lost, helping map the functions of different brain systems. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6712987/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCLesion studies in contemporary neuroscience</span><span class="citation-popover-snippet">NIHby AR Vaidya  2019  Cited by 260  Studies on the effects of permanent lesions provide vital data about brain function that ar...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10999251/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">functional localization of language regions in the brainby JJ Lee  2023  Cited by 8  The brain&#x27;s language network can be localized jus...</span></span></span>
+For more than a century, neurologists have learned about brain function by studying what happens when specific areas are damaged. This approach, known as lesion analysis, remains one of the foundations of neuroscience. Researchers compare the location of an injury with the abilities that were lost, helping map the functions of different brain systems.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6712987/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCLesion studies in contemporary neuroscience</span><span class="citation-popover-snippet">NIHby AR Vaidya  2019  Cited by 260  Studies on the effects of permanent lesions provide vital data about brain function that ar...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10999251/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">functional localization of language regions in the brainby JJ Lee  2023  Cited by 8  The brain&#x27;s language network can be localized jus...</span></span></span>
 
 The pattern is remarkably consistent. Damage to particular regions produces particular deficits:
 
@@ -287,11 +287,11 @@ The pattern is remarkably consistent. Damage to particular regions produces part
 * Damage to motor regions can impair movement on one side of the body.
 * Injury to memory-related structures can prevent the formation of new memories.
 * Damage affecting visual pathways can remove part of a person's visual field even when the eyes remain healthy.
-* Lesions involving emotional and social processing networks can alter judgement, impulse control or personality. <span class="citation-chip-wrap"><a class="citation-chip" href="https://oecs.mit.edu/pub/3bgjh908" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oecs.mit.edu">[Open Encyclopedia of Cognitive Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oecs.mit.edu</span><span class="citation-popover-snippet">Open Encyclopedia of Cognitive ScienceNeuroscience of Languageby G Hartwigsen  2024  Cited by 1  Brain lesions such as stroke can seve...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5777219/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCMapping human brain lesions and their functional</span><span class="citation-popover-snippet">NIHby HO Karnath  2017  Cited by 229  Neuroscience has a long history of inferring brain function by examining the relationship...</span></span></span>
+* Lesions involving emotional and social processing networks can alter judgement, impulse control or personality.<span class="citation-chip-wrap"><a class="citation-chip" href="https://oecs.mit.edu/pub/3bgjh908" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oecs.mit.edu">[Open Encyclopedia of Cognitive Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oecs.mit.edu</span><span class="citation-popover-snippet">Open Encyclopedia of Cognitive ScienceNeuroscience of Languageby G Hartwigsen  2024  Cited by 1  Brain lesions such as stroke can seve...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5777219/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCMapping human brain lesions and their functional</span><span class="citation-popover-snippet">NIHby HO Karnath  2017  Cited by 229  Neuroscience has a long history of inferring brain function by examining the relationship...</span></span></span>
 
-These observations are difficult to reconcile with the idea that most of the brain is unused. If large areas were functionless, neurologists would regularly encounter patients whose injuries produced no meaningful changes. Instead, clinical medicine shows that seemingly modest injuries can have life-altering consequences. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Ten-percent-of-the-brain_myth" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Ten-percent-of-the-brain myth</span><span class="citation-popover-snippet">Ten-percent-of-the-brain myth</span></span></span>
+These observations are difficult to reconcile with the idea that most of the brain is unused. If large areas were functionless, neurologists would regularly encounter patients whose injuries produced no meaningful changes. Instead, clinical medicine shows that seemingly modest injuries can have life-altering consequences.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Ten-percent-of-the-brain_myth" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Ten-percent-of-the-brain myth</span><span class="citation-popover-snippet">Ten-percent-of-the-brain myth</span></span></span>
 
-Modern lesion-mapping studies have strengthened this conclusion. Researchers can now compare thousands of [brain scans]({{ 'brain-scans/' | relative_url }}) and behavioural outcomes, linking specific patterns of damage to specific impairments with far greater precision than was possible in earlier decades. The continued success of this approach depends on a simple fact: different parts of the brain contribute to different functions, and damaging them changes behaviour. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6712987/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCLesion studies in contemporary neuroscience</span><span class="citation-popover-snippet">NIHby AR Vaidya  2019  Cited by 260  Studies on the effects of permanent lesions provide vital data about brain function that ar...</span></span></span>
+Modern lesion-mapping studies have strengthened this conclusion. Researchers can now compare thousands of [brain scans]({{ 'brain-scans/' | relative_url }}) and behavioural outcomes, linking specific patterns of damage to specific impairments with far greater precision than was possible in earlier decades. The continued success of this approach depends on a simple fact: different parts of the brain contribute to different functions, and damaging them changes behaviour.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6712987/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCLesion studies in contemporary neuroscience</span><span class="citation-popover-snippet">NIHby AR Vaidya  2019  Cited by 260  Studies on the effects of permanent lesions provide vital data about brain function that ar...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/VwrdPEdJv9g" title="The Ten Percent Brain Myth" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=VwrdPEdJv9g" target="_blank" rel="noopener noreferrer">The Ten Percent Brain Myth</a></p><p class="youtube-embed-meta">Channel: Dana Foundation &middot; Views: 19.5K &middot; Uploaded: November 2021 &middot; Length: 1 minute 34 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=VwrdPEdJv9g" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=VwrdPEdJv9g">Open on YouTube</a></p></div></div></div>
 
@@ -299,13 +299,13 @@ Modern lesion-mapping studies have strengthened this conclusion. Researchers can
 
 The 10 per cent myth often assumes that unused brain regions exist as dormant reserves. Clinical cases argue strongly against that assumption.
 
-Consider stroke medicine. A stroke may affect a relatively small region of brain tissue, yet the resulting impairments can be dramatic. A person may suddenly lose the ability to speak fluently, recognise faces, coordinate movements or form new memories. The deficit reflects the loss of a specialised system rather than the destruction of a redundant area. <span class="citation-chip-wrap"><a class="citation-chip" href="https://oecs.mit.edu/pub/3bgjh908" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oecs.mit.edu">[Open Encyclopedia of Cognitive Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oecs.mit.edu</span><span class="citation-popover-snippet">Open Encyclopedia of Cognitive ScienceNeuroscience of Languageby G Hartwigsen  2024  Cited by 1  Brain lesions such as stroke can seve...</span></span></span>
+Consider stroke medicine. A stroke may affect a relatively small region of brain tissue, yet the resulting impairments can be dramatic. A person may suddenly lose the ability to speak fluently, recognise faces, coordinate movements or form new memories. The deficit reflects the loss of a specialised system rather than the destruction of a redundant area.<span class="citation-chip-wrap"><a class="citation-chip" href="https://oecs.mit.edu/pub/3bgjh908" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oecs.mit.edu">[Open Encyclopedia of Cognitive Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oecs.mit.edu</span><span class="citation-popover-snippet">Open Encyclopedia of Cognitive ScienceNeuroscience of Languageby G Hartwigsen  2024  Cited by 1  Brain lesions such as stroke can seve...</span></span></span>
 
-Neuroscientist Barry Beyerstein highlighted this point in one of the best-known critiques of the 10 per cent myth. If only a small fraction of the brain were actually used, damage to the remaining tissue should produce little or no impairment. In reality, there is almost no brain region that can be injured without some measurable consequence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Ten-percent-of-the-brain_myth" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Ten-percent-of-the-brain myth</span><span class="citation-popover-snippet">Ten-percent-of-the-brain myth</span></span></span>
+Neuroscientist Barry Beyerstein highlighted this point in one of the best-known critiques of the 10 per cent myth. If only a small fraction of the brain were actually used, damage to the remaining tissue should produce little or no impairment. In reality, there is almost no brain region that can be injured without some measurable consequence.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Ten-percent-of-the-brain_myth" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Ten-percent-of-the-brain myth</span><span class="citation-popover-snippet">Ten-percent-of-the-brain myth</span></span></span>
 
-This argument becomes even stronger when considering subtle deficits. Not all brain damage produces obvious paralysis or loss of speech. Some injuries affect attention, emotional regulation, social judgement or sensory integration. These changes may be less visible but still reveal that the damaged tissue had an active role. Historically, some regions were incorrectly assumed to be unimportant simply because their functions were difficult to detect with older clinical methods. As assessment tools improved, previously overlooked deficits became easier to identify. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Ten-percent-of-the-brain_myth" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Ten-percent-of-the-brain myth</span><span class="citation-popover-snippet">Ten-percent-of-the-brain myth</span></span></span>
+This argument becomes even stronger when considering subtle deficits. Not all brain damage produces obvious paralysis or loss of speech. Some injuries affect attention, emotional regulation, social judgement or sensory integration. These changes may be less visible but still reveal that the damaged tissue had an active role. Historically, some regions were incorrectly assumed to be unimportant simply because their functions were difficult to detect with older clinical methods. As assessment tools improved, previously overlooked deficits became easier to identify.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Ten-percent-of-the-brain_myth" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Ten-percent-of-the-brain myth</span><span class="citation-popover-snippet">Ten-percent-of-the-brain myth</span></span></span>
 
-The lesson is that absence of obvious symptoms is not evidence of absence of function. The brain contains many systems whose contributions are distributed, specialised or difficult to measure. Discovering a function later is not the same as proving that the tissue was unused all along. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10999251/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">functional localization of language regions in the brainby JJ Lee  2023  Cited by 8  The brain&#x27;s language network can be localized jus...</span></span></span>
+The lesson is that absence of obvious symptoms is not evidence of absence of function. The brain contains many systems whose contributions are distributed, specialised or difficult to measure. Discovering a function later is not the same as proving that the tissue was unused all along.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10999251/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">functional localization of language regions in the brainby JJ Lee  2023  Cited by 8  The brain&#x27;s language network can be localized jus...</span></span></span>
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_ten_percent_brain_my_db46b9_brain_damage_unused_27f26e-Illustration-2-dark.svg" | relative_url }}" alt="Brain Damage illustration 2" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_ten_percent_brain_my_db46b9_brain_damage_unused_27f26e-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_ten_percent_brain_my_db46b9_brain_damage_unused_27f26e-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Small Injuries Often Have Outsized Effects
@@ -314,222 +314,222 @@ One reason the myth persists is that people imagine brain function as evenly dis
 
 Many brain functions depend on highly connected networks. Damage to a small but strategically important hub can disrupt communication across larger systems. This is similar to how the failure of a key railway junction can affect transport far beyond the immediate location of the problem.
 
-Language offers a useful example. Relatively small lesions in critical language regions can produce major communication difficulties. The amount of tissue damaged may be limited, but its position within the network makes it essential. Neuroscience research continues to use lesion studies precisely because these disruptions reveal how specialised systems are organised. <span class="citation-chip-wrap"><a class="citation-chip" href="https://oecs.mit.edu/pub/3bgjh908" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oecs.mit.edu">[Open Encyclopedia of Cognitive Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oecs.mit.edu</span><span class="citation-popover-snippet">Open Encyclopedia of Cognitive ScienceNeuroscience of Languageby G Hartwigsen  2024  Cited by 1  Brain lesions such as stroke can seve...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5834348/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nih.gov</span><span class="citation-popover-title">PMC5834348</span><span class="citation-popover-snippet">This includes claims of how many cells compose the human brain.Read more</span></span></span>
+Language offers a useful example. Relatively small lesions in critical language regions can produce major communication difficulties. The amount of tissue damaged may be limited, but its position within the network makes it essential. Neuroscience research continues to use lesion studies precisely because these disruptions reveal how specialised systems are organised.<span class="citation-chip-wrap"><a class="citation-chip" href="https://oecs.mit.edu/pub/3bgjh908" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oecs.mit.edu">[Open Encyclopedia of Cognitive Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oecs.mit.edu</span><span class="citation-popover-snippet">Open Encyclopedia of Cognitive ScienceNeuroscience of Languageby G Hartwigsen  2024  Cited by 1  Brain lesions such as stroke can seve...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5834348/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nih.gov</span><span class="citation-popover-title">PMC5834348</span><span class="citation-popover-snippet">This includes claims of how many cells compose the human brain.Read more</span></span></span>
 
-The same principle appears in movement disorders, memory disorders and sensory impairments. A lesion does not need to destroy a large percentage of the brain to produce a major effect. It only needs to affect the wrong place. <span class="citation-chip-wrap"><a class="citation-chip" href="https://academic.oup.com/brain/article/146/8/3146/7114971" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academic.oup.com">[OUP Academic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academic.oup.com</span><span class="citation-popover-snippet">OUP Academicreturn of the lesion for localization and therapy &#124; Brainby J Joutsa  2023  Cited by 35  Lesions have recently begun to ma...</span></span></span>
+The same principle appears in movement disorders, memory disorders and sensory impairments. A lesion does not need to destroy a large percentage of the brain to produce a major effect. It only needs to affect the wrong place.<span class="citation-chip-wrap"><a class="citation-chip" href="https://academic.oup.com/brain/article/146/8/3146/7114971" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academic.oup.com">[OUP Academic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academic.oup.com</span><span class="citation-popover-snippet">OUP Academicreturn of the lesion for localization and therapy &#124; Brainby J Joutsa  2023  Cited by 35  Lesions have recently begun to ma...</span></span></span>
 
-This is one reason neurosurgeons carefully map critical brain regions before operations. The goal is not simply to avoid removing large amounts of tissue. It is to avoid disrupting areas that support essential functions. If vast regions were genuinely unused, such detailed mapping would be far less important. <span class="citation-chip-wrap"><a class="citation-chip" href="https://academic.oup.com/brain/article/146/8/3146/7114971" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academic.oup.com">[OUP Academic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academic.oup.com</span><span class="citation-popover-snippet">OUP Academicreturn of the lesion for localization and therapy &#124; Brainby J Joutsa  2023  Cited by 35  Lesions have recently begun to ma...</span></span></span>
+This is one reason neurosurgeons carefully map critical brain regions before operations. The goal is not simply to avoid removing large amounts of tissue. It is to avoid disrupting areas that support essential functions. If vast regions were genuinely unused, such detailed mapping would be far less important.<span class="citation-chip-wrap"><a class="citation-chip" href="https://academic.oup.com/brain/article/146/8/3146/7114971" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academic.oup.com">[OUP Academic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academic.oup.com</span><span class="citation-popover-snippet">OUP Academicreturn of the lesion for localization and therapy &#124; Brainby J Joutsa  2023  Cited by 35  Lesions have recently begun to ma...</span></span></span>
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_ten_percent_brain_my_db46b9_brain_damage_unused_27f26e-Illustration-3-dark.svg" | relative_url }}" alt="Brain Damage illustration 3" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_ten_percent_brain_my_db46b9_brain_damage_unused_27f26e-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_ten_percent_brain_my_db46b9_brain_damage_unused_27f26e-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The Difference Between Unknown Function and No Function
 
 Confusion between "unknown" and "unused" has helped sustain the myth for decades.
 
-At various points in scientific history, researchers lacked clear explanations for what certain brain regions did. Early neurologists sometimes encountered areas whose functions were difficult to identify because the resulting impairments were subtle or because available methods were limited. Some people later interpreted these uncertainties as evidence that the regions had no purpose. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Ten-percent-of-the-brain_myth" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Ten-percent-of-the-brain myth</span><span class="citation-popover-snippet">Ten-percent-of-the-brain myth</span></span></span>
+At various points in scientific history, researchers lacked clear explanations for what certain brain regions did. Early neurologists sometimes encountered areas whose functions were difficult to identify because the resulting impairments were subtle or because available methods were limited. Some people later interpreted these uncertainties as evidence that the regions had no purpose.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Ten-percent-of-the-brain_myth" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Ten-percent-of-the-brain myth</span><span class="citation-popover-snippet">Ten-percent-of-the-brain myth</span></span></span>
 
-Modern neuroscience rejects that conclusion. The brain remains full of unanswered questions, but uncertainty about a mechanism is not evidence of inactivity. Researchers are still investigating how consciousness emerges, how memories are stored and how large networks coordinate complex behaviour. These open questions reflect the brain's complexity, not the existence of vast unused territories. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scientificamerican.com/article/do-people-only-use-10-percent-of-their-brains/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scientificamerican.com">[Scientific American]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scientificamerican.com</span><span class="citation-popover-title">do people only use 10 percent of their brains</span><span class="citation-popover-snippet">Scientific AmericanDo People Only Use 10 Percent of Their Brains?7 Feb 2008  Another mystery hidden within our crinkled cortices is that...</span></span></span>
+Modern neuroscience rejects that conclusion. The brain remains full of unanswered questions, but uncertainty about a mechanism is not evidence of inactivity. Researchers are still investigating how consciousness emerges, how memories are stored and how large networks coordinate complex behaviour. These open questions reflect the brain's complexity, not the existence of vast unused territories.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scientificamerican.com/article/do-people-only-use-10-percent-of-their-brains/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scientificamerican.com">[Scientific American]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scientificamerican.com</span><span class="citation-popover-title">do people only use 10 percent of their brains</span><span class="citation-popover-snippet">Scientific AmericanDo People Only Use 10 Percent of Their Brains?7 Feb 2008  Another mystery hidden within our crinkled cortices is that...</span></span></span>
 
-The distinction matters because scientific knowledge often develops in stages. A region may first be recognised as important because damage causes a deficit. Only later do researchers understand precisely how that region contributes to behaviour. Lesion studies frequently provide the first clue that a function exists. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5834348/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nih.gov</span><span class="citation-popover-title">PMC5834348</span><span class="citation-popover-snippet">This includes claims of how many cells compose the human brain.Read more</span></span></span>
+The distinction matters because scientific knowledge often develops in stages. A region may first be recognised as important because damage causes a deficit. Only later do researchers understand precisely how that region contributes to behaviour. Lesion studies frequently provide the first clue that a function exists.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5834348/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nih.gov</span><span class="citation-popover-title">PMC5834348</span><span class="citation-popover-snippet">This includes claims of how many cells compose the human brain.Read more</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/WZ5Wa-zyqKc" title="Is It True We Only Use 10% of Our Brains" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=WZ5Wa-zyqKc" target="_blank" rel="noopener noreferrer">Is It True We Only Use 10% of Our Brains</a></p><p class="youtube-embed-meta">Channel: Dr Ingky &middot; Views: 350 &middot; Uploaded: February 2026 &middot; Length: 7 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=WZ5Wa-zyqKc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=WZ5Wa-zyqKc">Open on YouTube</a></p></div></div></div>
 
 ## Why Brain Damage Remains One of the Clearest Tests
 
-Brain imaging shows that activity is distributed across the brain during both demanding tasks and ordinary rest. Yet lesion evidence offers something imaging alone cannot: a test of necessity. A brain scan can show that an area becomes active during a task, but damage can reveal whether that area is actually required for the function. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.britannica.com/story/do-we-really-use-only-10-percent-of-our-brain" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-snippet">Encyclopedia BritannicaDo We Really Use Only 10 Percent of Our Brain?The data clearly shows that large areas of the brainfar more than 1...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.scientificamerican.com/article/do-people-only-use-10-percent-of-their-brains/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scientificamerican.com">[Scientific American]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scientificamerican.com</span><span class="citation-popover-title">do people only use 10 percent of their brains</span><span class="citation-popover-snippet">Scientific AmericanDo People Only Use 10 Percent of Their Brains?7 Feb 2008  Another mystery hidden within our crinkled cortices is that...</span></span></span>
+Brain imaging shows that activity is distributed across the brain during both demanding tasks and ordinary rest. Yet lesion evidence offers something imaging alone cannot: a test of necessity. A brain scan can show that an area becomes active during a task, but damage can reveal whether that area is actually required for the function.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.britannica.com/story/do-we-really-use-only-10-percent-of-our-brain" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-snippet">Encyclopedia BritannicaDo We Really Use Only 10 Percent of Our Brain?The data clearly shows that large areas of the brainfar more than 1...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.scientificamerican.com/article/do-people-only-use-10-percent-of-their-brains/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scientificamerican.com">[Scientific American]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scientificamerican.com</span><span class="citation-popover-title">do people only use 10 percent of their brains</span><span class="citation-popover-snippet">Scientific AmericanDo People Only Use 10 Percent of Their Brains?7 Feb 2008  Another mystery hidden within our crinkled cortices is that...</span></span></span>
 
-This is why neurologists continue to regard lesion studies as so informative. When injury consistently removes a specific ability, it demonstrates that the affected tissue was contributing something meaningful. The accumulated record from stroke units, neurosurgery, traumatic brain injury treatment and neurodegenerative disease research points in the same direction. Brain tissue is not largely dormant. It is organised into specialised and interconnected systems whose importance becomes obvious when they fail. <span class="citation-chip-wrap"><a class="citation-chip" href="https://my.clevelandclinic.org/health/symptoms/17839-brain-lesions" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: my.clevelandclinic.org">[Cleveland Clinic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">my.clevelandclinic.org</span><span class="citation-popover-snippet">Cleveland ClinicBrain Lesions: What They Are, Causes, Symptoms &amp;...16 Nov 2022  Brain lesions are areas of brain tissue that show damag...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5834348/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nih.gov</span><span class="citation-popover-title">PMC5834348</span><span class="citation-popover-snippet">This includes claims of how many cells compose the human brain.Read more</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://academic.oup.com/brain/article/146/8/3146/7114971" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academic.oup.com">[OUP Academic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academic.oup.com</span><span class="citation-popover-snippet">OUP Academicreturn of the lesion for localization and therapy &#124; Brainby J Joutsa  2023  Cited by 35  Lesions have recently begun to ma...</span></span></span>
+This is why neurologists continue to regard lesion studies as so informative. When injury consistently removes a specific ability, it demonstrates that the affected tissue was contributing something meaningful. The accumulated record from stroke units, neurosurgery, traumatic brain injury treatment and neurodegenerative disease research points in the same direction. Brain tissue is not largely dormant. It is organised into specialised and interconnected systems whose importance becomes obvious when they fail.<span class="citation-chip-wrap"><a class="citation-chip" href="https://my.clevelandclinic.org/health/symptoms/17839-brain-lesions" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: my.clevelandclinic.org">[Cleveland Clinic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">my.clevelandclinic.org</span><span class="citation-popover-snippet">Cleveland ClinicBrain Lesions: What They Are, Causes, Symptoms &amp;...16 Nov 2022  Brain lesions are areas of brain tissue that show damag...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5834348/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nih.gov</span><span class="citation-popover-title">PMC5834348</span><span class="citation-popover-snippet">This includes claims of how many cells compose the human brain.Read more</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://academic.oup.com/brain/article/146/8/3146/7114971" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academic.oup.com">[OUP Academic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academic.oup.com</span><span class="citation-popover-snippet">OUP Academicreturn of the lesion for localization and therapy &#124; Brainby J Joutsa  2023  Cited by 35  Lesions have recently begun to ma...</span></span></span>
 
-In that sense, brain damage provides a real-world experiment that directly challenges the 10 per cent myth. If 90 per cent of the brain were truly unused, medicine would routinely encounter injuries with no consequences. Instead, clinical neurology repeatedly shows that even small areas can matter enormously. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Ten-percent-of-the-brain_myth" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Ten-percent-of-the-brain myth</span><span class="citation-popover-snippet">Ten-percent-of-the-brain myth</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://mcgovern.mit.edu/2024/01/26/do-we-use-only-10-percent-of-our-brain/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mcgovern.mit.edu">[2mcgovern.mit.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mcgovern.mit.edu</span><span class="citation-popover-title">do we use only 10 percent of our brain</span><span class="citation-popover-snippet">Do we only use 10 percent of our brain?26 Jan 2024  The idea that we use 10 percent of our brain is 100 percent a myth. In fact, scienti...</span></span></span>
+In that sense, brain damage provides a real-world experiment that directly challenges the 10 per cent myth. If 90 per cent of the brain were truly unused, medicine would routinely encounter injuries with no consequences. Instead, clinical neurology repeatedly shows that even small areas can matter enormously.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Ten-percent-of-the-brain_myth" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Ten-percent-of-the-brain myth</span><span class="citation-popover-snippet">Ten-percent-of-the-brain myth</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://mcgovern.mit.edu/2024/01/26/do-we-use-only-10-percent-of-our-brain/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mcgovern.mit.edu">[2mcgovern.mit.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mcgovern.mit.edu</span><span class="citation-popover-title">do we use only 10 percent of our brain</span><span class="citation-popover-snippet">Do we only use 10 percent of our brain?26 Jan 2024  The idea that we use 10 percent of our brain is 100 percent a myth. In fact, scienti...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Small Brain Injuries Can Matter. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Small Brain Injuries Can Matter. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Tell-Tale+Brain+V.+S.+Ramachandran&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Tell-Tale Brain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/6681442-M.jpg" alt="Cover for The Tell-Tale Brain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Tell-Tale+Brain+V.+S.+Ramachandran&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Tell-Tale Brain">The Tell-Tale Brain</a>
-        </h4>
-        <p class="fr-book-author">By V. S. Ramachandran</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Tell-Tale+Brain+V.+S.+Ramachandran&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Tell-Tale Brain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/6681442-M.jpg" alt="Cover for The Tell-Tale Brain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Tell-Tale+Brain+V.+S.+Ramachandran&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Tell-Tale Brain">The Tell-Tale Brain</a>
+</h4>
+<p class="fr-book-author">By V. S. Ramachandran</p>
         
-        <p class="fr-book-desc">Explains localisation and network function in the brain.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Tell-Tale+Brain+V.+S.+Ramachandran&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains localisation and network function in the brain.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Tell-Tale+Brain+V.+S.+Ramachandran&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Man+Who+Mistook+His+Wife+for+a+Hat+Oliver+Sacks&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Man Who Mistook His Wife for a Hat on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/6986188-M.jpg" alt="Cover for The Man Who Mistook His Wife for a Hat" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Man+Who+Mistook+His+Wife+for+a+Hat+Oliver+Sacks&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Man Who Mistook His Wife for a Hat">The Man Who Mistook His Wife for a Hat</a>
-        </h4>
-        <p class="fr-book-author">By Oliver Sacks</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Man+Who+Mistook+His+Wife+for+a+Hat+Oliver+Sacks&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Man Who Mistook His Wife for a Hat on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/6986188-M.jpg" alt="Cover for The Man Who Mistook His Wife for a Hat" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Man+Who+Mistook+His+Wife+for+a+Hat+Oliver+Sacks&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Man Who Mistook His Wife for a Hat">The Man Who Mistook His Wife for a Hat</a>
+</h4>
+<p class="fr-book-author">By Oliver Sacks</p>
         
-        <p class="fr-book-desc">First published 1980. Subjects: Neurology -, Anecdotes, Neurology, Nervous system, Mental Disorders.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Man+Who+Mistook+His+Wife+for+a+Hat+Oliver+Sacks&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1980. Subjects: Neurology -, Anecdotes, Neurology, Nervous system, Mental Disorders.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Man+Who+Mistook+His+Wife+for+a+Hat+Oliver+Sacks&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Oliver+Sacks+Omnibus+%28A+4-in-1+book%29+%28%3A+AWAKENINGS%2C+A+LEG+TO+STAND+ON%2C+THE+MAN+WHO+MISTOOK+HIS+WIFE+FOR+A+HAT%2C+SEEING+VOICES%29+%28%3A+AWAKENINGS%2C+A+LEG+TO+STAND+ON%2C+THE+MAN+WHO+MISTOOK+HIS+WIFE+FOR+A+HAT%2C+SEEING+VOICES%29+Oliver+Sacks&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Oliver Sacks Omnibus (A 4-in-1 book) (: AWAKENINGS, A LEG TO STAND ON, THE MAN WHO MISTOOK HIS WIFE FOR A HAT, SEEING VOICES) (: AWAKENINGS, A LEG TO STAND ON, THE MAN WHO MISTOOK HIS WIFE FOR A HAT, SEEING VOICES) on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/15029556-M.jpg" alt="Cover for Oliver Sacks Omnibus (A 4-in-1 book) (: AWAKENINGS, A LEG TO STAND ON, THE MAN WHO MISTOOK HIS WIFE FOR A HAT, SEEING VOICES) (: AWAKENINGS, A LEG TO STAND ON, THE MAN WHO MISTOOK HIS WIFE FOR A HAT, SEEING VOICES)" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Oliver+Sacks+Omnibus+%28A+4-in-1+book%29+%28%3A+AWAKENINGS%2C+A+LEG+TO+STAND+ON%2C+THE+MAN+WHO+MISTOOK+HIS+WIFE+FOR+A+HAT%2C+SEEING+VOICES%29+%28%3A+AWAKENINGS%2C+A+LEG+TO+STAND+ON%2C+THE+MAN+WHO+MISTOOK+HIS+WIFE+FOR+A+HAT%2C+SEEING+VOICES%29+Oliver+Sacks&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Oliver Sacks Omnibus (A 4-in-1 book) (: AWAKENINGS, A LEG TO STAND ON, THE MAN WHO MISTOOK HIS WIFE FOR A HAT, SEEING VOICES) (: AWAKENINGS, A LEG TO STAND ON, THE MAN WHO MISTOOK HIS WIFE FOR A HAT, SEEING VOICES)">Oliver Sacks Omnibus (A 4-in-1 book) (: AWAKENINGS, A LEG TO...</a>
-        </h4>
-        <p class="fr-book-author">By Oliver Sacks</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Oliver+Sacks+Omnibus+%28A+4-in-1+book%29+%28%3A+AWAKENINGS%2C+A+LEG+TO+STAND+ON%2C+THE+MAN+WHO+MISTOOK+HIS+WIFE+FOR+A+HAT%2C+SEEING+VOICES%29+%28%3A+AWAKENINGS%2C+A+LEG+TO+STAND+ON%2C+THE+MAN+WHO+MISTOOK+HIS+WIFE+FOR+A+HAT%2C+SEEING+VOICES%29+Oliver+Sacks&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Oliver Sacks Omnibus (A 4-in-1 book) (: AWAKENINGS, A LEG TO STAND ON, THE MAN WHO MISTOOK HIS WIFE FOR A HAT, SEEING VOICES) (: AWAKENINGS, A LEG TO STAND ON, THE MAN WHO MISTOOK HIS WIFE FOR A HAT, SEEING VOICES) on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/15029556-M.jpg" alt="Cover for Oliver Sacks Omnibus (A 4-in-1 book) (: AWAKENINGS, A LEG TO STAND ON, THE MAN WHO MISTOOK HIS WIFE FOR A HAT, SEEING VOICES) (: AWAKENINGS, A LEG TO STAND ON, THE MAN WHO MISTOOK HIS WIFE FOR A HAT, SEEING VOICES)" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Oliver+Sacks+Omnibus+%28A+4-in-1+book%29+%28%3A+AWAKENINGS%2C+A+LEG+TO+STAND+ON%2C+THE+MAN+WHO+MISTOOK+HIS+WIFE+FOR+A+HAT%2C+SEEING+VOICES%29+%28%3A+AWAKENINGS%2C+A+LEG+TO+STAND+ON%2C+THE+MAN+WHO+MISTOOK+HIS+WIFE+FOR+A+HAT%2C+SEEING+VOICES%29+Oliver+Sacks&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Oliver Sacks Omnibus (A 4-in-1 book) (: AWAKENINGS, A LEG TO STAND ON, THE MAN WHO MISTOOK HIS WIFE FOR A HAT, SEEING VOICES) (: AWAKENINGS, A LEG TO STAND ON, THE MAN WHO MISTOOK HIS WIFE FOR A HAT, SEEING VOICES)">Oliver Sacks Omnibus (A 4-in-1 book) (: AWAKENINGS, A LEG TO...</a>
+</h4>
+<p class="fr-book-author">By Oliver Sacks</p>
         
-        <p class="fr-book-desc">First published 1990.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Oliver+Sacks+Omnibus+%28A+4-in-1+book%29+%28%3A+AWAKENINGS%2C+A+LEG+TO+STAND+ON%2C+THE+MAN+WHO+MISTOOK+HIS+WIFE+FOR+A+HAT%2C+SEEING+VOICES%29+%28%3A+AWAKENINGS%2C+A+LEG+TO+STAND+ON%2C+THE+MAN+WHO+MISTOOK+HIS+WIFE+FOR+A+HAT%2C+SEEING+VOICES%29+Oliver+Sacks&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1990.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Oliver+Sacks+Omnibus+%28A+4-in-1+book%29+%28%3A+AWAKENINGS%2C+A+LEG+TO+STAND+ON%2C+THE+MAN+WHO+MISTOOK+HIS+WIFE+FOR+A+HAT%2C+SEEING+VOICES%29+%28%3A+AWAKENINGS%2C+A+LEG+TO+STAND+ON%2C+THE+MAN+WHO+MISTOOK+HIS+WIFE+FOR+A+HAT%2C+SEEING+VOICES%29+Oliver+Sacks&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Phantoms+in+the+brain+%3A+probing+the+mysteries+of+the+human+mind+V.+S.+Ramachandran+%28neurology%29&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Phantoms in the brain : probing the mysteries of the human mind on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/432813-M.jpg" alt="Cover for Phantoms in the brain : probing the mysteries of the human mind" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Phantoms+in+the+brain+%3A+probing+the+mysteries+of+the+human+mind+V.+S.+Ramachandran+%28neurology%29&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Phantoms in the brain : probing the mysteries of the human mind">Phantoms in the brain : probing the mysteries of the human mind</a>
-        </h4>
-        <p class="fr-book-author">By V. S. Ramachandran (neurology), Sandra Blakeslee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Phantoms+in+the+brain+%3A+probing+the+mysteries+of+the+human+mind+V.+S.+Ramachandran+%28neurology%29&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Phantoms in the brain : probing the mysteries of the human mind on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/432813-M.jpg" alt="Cover for Phantoms in the brain : probing the mysteries of the human mind" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Phantoms+in+the+brain+%3A+probing+the+mysteries+of+the+human+mind+V.+S.+Ramachandran+%28neurology%29&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Phantoms in the brain : probing the mysteries of the human mind">Phantoms in the brain : probing the mysteries of the human mind</a>
+</h4>
+<p class="fr-book-author">By V. S. Ramachandran (neurology), Sandra Blakeslee</p>
         
-        <p class="fr-book-desc">First published 1999. Subjects: Neurosciences, Brain, Neurology, Popular works, Mind and body.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Phantoms+in+the+brain+%3A+probing+the+mysteries+of+the+human+mind+V.+S.+Ramachandran+%28neurology%29&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1999. Subjects: Neurosciences, Brain, Neurology, Popular works, Mind and body.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Phantoms+in+the+brain+%3A+probing+the+mysteries+of+the+human+mind+V.+S.+Ramachandran+%28neurology%29&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Tell+Tale+Brain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Tell Tale Brain</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Man+Who+Mistook+His+Wife+for+a+Hat&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Man Who Mistook His Wife for a Hat</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Oliver+Sacks+Omnibus+%28A+4+in+1+book%29+%28%3A+AWAKENINGS%2C+A+LEG+TO+STAND+ON%2C+THE+MAN+WHO+MISTOOK+HIS+WIFE+FOR+A+HAT%2C+SEEING+VOICES%29+%28%3A+AWAKENINGS%2C+A+LEG+TO+STAND+ON%2C+THE+MAN+WHO+MISTOOK+HIS+WIFE+FOR+A+HAT%2C+SEEING+VOICES%29&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Oliver Sacks Omnibus (A 4 in 1 book) (: AWAKENINGS, A LEG TO STAND ON, THE MAN WHO MISTOOK HIS WIFE FOR A HAT, SEEING VOICES) (: AWAKENINGS, A LEG TO STAND ON, THE MAN WHO MISTOOK HIS WIFE FOR A HAT, SEEING VOICES)</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Tell+Tale+Brain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Tell Tale Brain</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Man+Who+Mistook+His+Wife+for+a+Hat&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Man Who Mistook His Wife for a Hat</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Oliver+Sacks+Omnibus+%28A+4+in+1+book%29+%28%3A+AWAKENINGS%2C+A+LEG+TO+STAND+ON%2C+THE+MAN+WHO+MISTOOK+HIS+WIFE+FOR+A+HAT%2C+SEEING+VOICES%29+%28%3A+AWAKENINGS%2C+A+LEG+TO+STAND+ON%2C+THE+MAN+WHO+MISTOOK+HIS+WIFE+FOR+A+HAT%2C+SEEING+VOICES%29&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Oliver Sacks Omnibus (A 4 in 1 book) (: AWAKENINGS, A LEG TO STAND ON, THE MAN WHO MISTOOK HIS WIFE FOR A HAT, SEEING VOICES) (: AWAKENINGS, A LEG TO STAND ON, THE MAN WHO MISTOOK HIS WIFE FOR A HAT, SEEING VOICES)</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=brain+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=brain-damage-why-small-brain-injuries-can-matter-myths-and-misconcept-brain-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="brain poster" data-ebay-reference="brain-damage-why-small-brain-injuries-can-matter-myths-and-misconcept-brain-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Human Anatomy Posters – Skeleton, Muscles, Organs – Framed or Unframed"><img src="{{ '/assets/images/marketplace-covers/9772fd9d8d1f64190d32.jpg' | relative_url }}" alt="Listing image for Human Anatomy Posters – Skeleton, Muscles, Organs – Framed or Unframed" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=brain+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=brain-damage-why-small-brain-injuries-can-matter-myths-and-misconcept-brain-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="brain poster" data-ebay-reference="brain-damage-why-small-brain-injuries-can-matter-myths-and-misconcept-brain-poster" target="_blank" rel="sponsored noopener noreferrer">Human Anatomy Posters – Skeleton, Muscles, Organs – Framed or Unframed</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=brain+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=brain-damage-why-small-brain-injuries-can-matter-myths-and-misconcept-brain-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="brain poster" data-ebay-reference="brain-damage-why-small-brain-injuries-can-matter-myths-and-misconcept-brain-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for brain poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: brain poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=brain+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=brain-damage-why-small-brain-injuries-can-matter-myths-and-misconcept-brain-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="brain poster" data-ebay-reference="brain-damage-why-small-brain-injuries-can-matter-myths-and-misconcept-brain-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=brain+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=brain-damage-why-small-brain-injuries-can-matter-myths-and-misconcept-brain-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="brain poster" data-ebay-reference="brain-damage-why-small-brain-injuries-can-matter-myths-and-misconcept-brain-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Human Anatomy Posters – Skeleton, Muscles, Organs – Framed or Unframed"><img src="{{ '/assets/images/marketplace-covers/9772fd9d8d1f64190d32.jpg' | relative_url }}" alt="Listing image for Human Anatomy Posters – Skeleton, Muscles, Organs – Framed or Unframed" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=brain+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=brain-damage-why-small-brain-injuries-can-matter-myths-and-misconcept-brain-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="brain poster" data-ebay-reference="brain-damage-why-small-brain-injuries-can-matter-myths-and-misconcept-brain-poster" target="_blank" rel="sponsored noopener noreferrer">Human Anatomy Posters – Skeleton, Muscles, Organs – Framed or Unframed</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=brain+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=brain-damage-why-small-brain-injuries-can-matter-myths-and-misconcept-brain-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="brain poster" data-ebay-reference="brain-damage-why-small-brain-injuries-can-matter-myths-and-misconcept-brain-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for brain poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: brain poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=brain+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=brain-damage-why-small-brain-injuries-can-matter-myths-and-misconcept-brain-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="brain poster" data-ebay-reference="brain-damage-why-small-brain-injuries-can-matter-myths-and-misconcept-brain-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=brain+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=brain-damage-why-small-brain-injuries-can-matter-myths-and-misconcept-brain-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="brain poster" data-ebay-reference="brain-damage-why-small-brain-injuries-can-matter-myths-and-misconcept-brain-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Brain Rot Characters Poster Viral Meme Neon Print Kids Teens Wall Art"><img src="{{ '/assets/images/marketplace-covers/b033c98d5eaf10c1e4b2.jpg' | relative_url }}" alt="Listing image for Brain Rot Characters Poster Viral Meme Neon Print Kids Teens Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=brain+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=brain-damage-why-small-brain-injuries-can-matter-myths-and-misconcept-brain-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="brain poster" data-ebay-reference="brain-damage-why-small-brain-injuries-can-matter-myths-and-misconcept-brain-poster" target="_blank" rel="sponsored noopener noreferrer">Brain Rot Characters Poster Viral Meme Neon Print Kids Teens Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=brain+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=brain-damage-why-small-brain-injuries-can-matter-myths-and-misconcept-brain-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="brain poster" data-ebay-reference="brain-damage-why-small-brain-injuries-can-matter-myths-and-misconcept-brain-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for brain poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: brain poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=brain+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=brain-damage-why-small-brain-injuries-can-matter-myths-and-misconcept-brain-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="brain poster" data-ebay-reference="brain-damage-why-small-brain-injuries-can-matter-myths-and-misconcept-brain-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=brain+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=brain-damage-why-small-brain-injuries-can-matter-myths-and-misconcept-brain-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="brain poster" data-ebay-reference="brain-damage-why-small-brain-injuries-can-matter-myths-and-misconcept-brain-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Brain Rot Characters Poster Viral Meme Neon Print Kids Teens Wall Art"><img src="{{ '/assets/images/marketplace-covers/b033c98d5eaf10c1e4b2.jpg' | relative_url }}" alt="Listing image for Brain Rot Characters Poster Viral Meme Neon Print Kids Teens Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=brain+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=brain-damage-why-small-brain-injuries-can-matter-myths-and-misconcept-brain-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="brain poster" data-ebay-reference="brain-damage-why-small-brain-injuries-can-matter-myths-and-misconcept-brain-poster" target="_blank" rel="sponsored noopener noreferrer">Brain Rot Characters Poster Viral Meme Neon Print Kids Teens Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=brain+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=brain-damage-why-small-brain-injuries-can-matter-myths-and-misconcept-brain-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="brain poster" data-ebay-reference="brain-damage-why-small-brain-injuries-can-matter-myths-and-misconcept-brain-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for brain poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: brain poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=brain+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=brain-damage-why-small-brain-injuries-can-matter-myths-and-misconcept-brain-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="brain poster" data-ebay-reference="brain-damage-why-small-brain-injuries-can-matter-myths-and-misconcept-brain-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=brain+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=brain-damage-why-small-brain-injuries-can-matter-myths-and-misconcept-brain-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="brain poster" data-ebay-reference="brain-damage-why-small-brain-injuries-can-matter-myths-and-misconcept-brain-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Brain Rot Poster Funny Characters Neon Bedroom Art Viral Meme Decor"><img src="{{ '/assets/images/marketplace-covers/d6c22b8c7eef61a6537b.jpg' | relative_url }}" alt="Listing image for Brain Rot Poster Funny Characters Neon Bedroom Art Viral Meme Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=brain+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=brain-damage-why-small-brain-injuries-can-matter-myths-and-misconcept-brain-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="brain poster" data-ebay-reference="brain-damage-why-small-brain-injuries-can-matter-myths-and-misconcept-brain-poster" target="_blank" rel="sponsored noopener noreferrer">Brain Rot Poster Funny Characters Neon Bedroom Art Viral Meme Decor</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=brain+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=brain-damage-why-small-brain-injuries-can-matter-myths-and-misconcept-brain-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="brain poster" data-ebay-reference="brain-damage-why-small-brain-injuries-can-matter-myths-and-misconcept-brain-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for brain poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: brain poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=brain+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=brain-damage-why-small-brain-injuries-can-matter-myths-and-misconcept-brain-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="brain poster" data-ebay-reference="brain-damage-why-small-brain-injuries-can-matter-myths-and-misconcept-brain-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=brain+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=brain-damage-why-small-brain-injuries-can-matter-myths-and-misconcept-brain-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="brain poster" data-ebay-reference="brain-damage-why-small-brain-injuries-can-matter-myths-and-misconcept-brain-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Brain Rot Poster Funny Characters Neon Bedroom Art Viral Meme Decor"><img src="{{ '/assets/images/marketplace-covers/d6c22b8c7eef61a6537b.jpg' | relative_url }}" alt="Listing image for Brain Rot Poster Funny Characters Neon Bedroom Art Viral Meme Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=brain+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=brain-damage-why-small-brain-injuries-can-matter-myths-and-misconcept-brain-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="brain poster" data-ebay-reference="brain-damage-why-small-brain-injuries-can-matter-myths-and-misconcept-brain-poster" target="_blank" rel="sponsored noopener noreferrer">Brain Rot Poster Funny Characters Neon Bedroom Art Viral Meme Decor</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=brain+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=brain-damage-why-small-brain-injuries-can-matter-myths-and-misconcept-brain-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="brain poster" data-ebay-reference="brain-damage-why-small-brain-injuries-can-matter-myths-and-misconcept-brain-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for brain poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: brain poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=brain+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=brain-damage-why-small-brain-injuries-can-matter-myths-and-misconcept-brain-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="brain poster" data-ebay-reference="brain-damage-why-small-brain-injuries-can-matter-myths-and-misconcept-brain-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=brain+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=brain-damage-why-small-brain-injuries-can-matter-myths-and-misconcept-brain-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="brain poster" data-ebay-reference="brain-damage-why-small-brain-injuries-can-matter-myths-and-misconcept-brain-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Human Brain Anatomy Poster Medical Doctor Anatomical Educational Poster A5-A1"><img src="{{ '/assets/images/marketplace-covers/d252c9d704756e344b96.jpg' | relative_url }}" alt="Listing image for Human Brain Anatomy Poster Medical Doctor Anatomical Educational Poster A5-A1" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=brain+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=brain-damage-why-small-brain-injuries-can-matter-myths-and-misconcept-brain-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="brain poster" data-ebay-reference="brain-damage-why-small-brain-injuries-can-matter-myths-and-misconcept-brain-poster" target="_blank" rel="sponsored noopener noreferrer">Human Brain Anatomy Poster Medical Doctor Anatomical Educational Poster A5-A1</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=brain+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=brain-damage-why-small-brain-injuries-can-matter-myths-and-misconcept-brain-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="brain poster" data-ebay-reference="brain-damage-why-small-brain-injuries-can-matter-myths-and-misconcept-brain-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for brain poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: brain poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=brain+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=brain-damage-why-small-brain-injuries-can-matter-myths-and-misconcept-brain-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="brain poster" data-ebay-reference="brain-damage-why-small-brain-injuries-can-matter-myths-and-misconcept-brain-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=brain+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=brain-damage-why-small-brain-injuries-can-matter-myths-and-misconcept-brain-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="brain poster" data-ebay-reference="brain-damage-why-small-brain-injuries-can-matter-myths-and-misconcept-brain-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=brain+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=brain-damage-why-small-brain-injuries-can-matter-myths-and-misconcept-brain-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="brain poster" data-ebay-reference="brain-damage-why-small-brain-injuries-can-matter-myths-and-misconcept-brain-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Human Brain Anatomy Poster Medical Doctor Anatomical Educational Poster A5-A1"><img src="{{ '/assets/images/marketplace-covers/d252c9d704756e344b96.jpg' | relative_url }}" alt="Listing image for Human Brain Anatomy Poster Medical Doctor Anatomical Educational Poster A5-A1" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=brain+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=brain-damage-why-small-brain-injuries-can-matter-myths-and-misconcept-brain-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="brain poster" data-ebay-reference="brain-damage-why-small-brain-injuries-can-matter-myths-and-misconcept-brain-poster" target="_blank" rel="sponsored noopener noreferrer">Human Brain Anatomy Poster Medical Doctor Anatomical Educational Poster A5-A1</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=brain+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=brain-damage-why-small-brain-injuries-can-matter-myths-and-misconcept-brain-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="brain poster" data-ebay-reference="brain-damage-why-small-brain-injuries-can-matter-myths-and-misconcept-brain-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for brain poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: brain poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=brain+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=brain-damage-why-small-brain-injuries-can-matter-myths-and-misconcept-brain-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="brain poster" data-ebay-reference="brain-damage-why-small-brain-injuries-can-matter-myths-and-misconcept-brain-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=brain+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=brain-damage-why-small-brain-injuries-can-matter-myths-and-misconcept-brain-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="brain poster" data-ebay-reference="brain-damage-why-small-brain-injuries-can-matter-myths-and-misconcept-brain-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -545,7 +545,7 @@ In that sense, brain damage provides a real-world experiment that directly chall
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -565,7 +565,7 @@ In that sense, brain damage provides a real-world experiment that directly chall
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -597,7 +597,7 @@ In that sense, brain damage provides a real-world experiment that directly chall
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -649,7 +649,7 @@ In that sense, brain damage provides a real-world experiment that directly chall
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -694,7 +694,7 @@ In that sense, brain damage provides a real-world experiment that directly chall
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -735,137 +735,137 @@ In that sense, brain damage provides a real-world experiment that directly chall
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Ten-percent-of-the-brain myth  
-   Link: <a href="https://en.wikipedia.org/wiki/Ten-percent-of-the-brain_myth" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Ten-percent-of-the-brain_myth</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Ten-percent-of-the-brain_myth" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Ten-percent-of-the-brain_myth</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCMapping human brain lesions and their functional  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5777219/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC5777219/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NIHby HO Karnath  2017  Cited by 229  Neuroscience has a long history of inferring brain function by examining the relationship...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5777219/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC5777219/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NIHby HO Karnath  2017  Cited by 229  Neuroscience has a long history of inferring brain function by examining the relationship...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCLesion studies in contemporary neuroscience  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6712987/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC6712987/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NIHby AR Vaidya  2019  Cited by 260  Studies on the effects of permanent lesions provide vital data about brain function that ar...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6712987/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC6712987/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NIHby AR Vaidya  2019  Cited by 260  Studies on the effects of permanent lesions provide vital data about brain function that ar...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: academic.oup.com  
-   Link: <a href="https://academic.oup.com/brain/article/146/8/3146/7114971" target="_blank" rel="noopener noreferrer nofollow">https://academic.oup.com/brain/article/146/8/3146/7114971</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>OUP Academicreturn of the lesion for localization and therapy | Brainby J Joutsa  2023  Cited by 35  Lesions have recently begun to ma...</p></details>
+   Link:<a href="https://academic.oup.com/brain/article/146/8/3146/7114971" target="_blank" rel="noopener noreferrer nofollow">https://academic.oup.com/brain/article/146/8/3146/7114971</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>OUP Academicreturn of the lesion for localization and therapy | Brainby J Joutsa  2023  Cited by 35  Lesions have recently begun to ma...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: oecs.mit.edu  
-   Link: <a href="https://oecs.mit.edu/pub/3bgjh908" target="_blank" rel="noopener noreferrer nofollow">https://oecs.mit.edu/pub/3bgjh908</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Open Encyclopedia of Cognitive ScienceNeuroscience of Languageby G Hartwigsen  2024  Cited by 1  Brain lesions such as stroke can seve...</p></details>
+   Link:<a href="https://oecs.mit.edu/pub/3bgjh908" target="_blank" rel="noopener noreferrer nofollow">https://oecs.mit.edu/pub/3bgjh908</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Open Encyclopedia of Cognitive ScienceNeuroscience of Languageby G Hartwigsen  2024  Cited by 1  Brain lesions such as stroke can seve...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10999251/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10999251/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>functional localization of language regions in the brainby JJ Lee  2023  Cited by 8  The brain&#x27;s language network can be localized jus...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10999251/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10999251/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>functional localization of language regions in the brainby JJ Lee  2023  Cited by 8  The brain&#x27;s language network can be localized jus...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: britannica.com  
-   Link: <a href="https://www.britannica.com/story/do-we-really-use-only-10-percent-of-our-brain" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/story/do-we-really-use-only-10-percent-of-our-brain</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Encyclopedia BritannicaDo We Really Use Only 10 Percent of Our Brain?The data clearly shows that large areas of the brainfar more than 1...</p></details>
+   Link:<a href="https://www.britannica.com/story/do-we-really-use-only-10-percent-of-our-brain" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/story/do-we-really-use-only-10-percent-of-our-brain</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Encyclopedia BritannicaDo We Really Use Only 10 Percent of Our Brain?The data clearly shows that large areas of the brainfar more than 1...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: mcgovern.mit.edu  
    Title: do we use only 10 percent of our brain  
-   Link: <a href="https://mcgovern.mit.edu/2024/01/26/do-we-use-only-10-percent-of-our-brain/" target="_blank" rel="noopener noreferrer nofollow">https://mcgovern.mit.edu/2024/01/26/do-we-use-only-10-percent-of-our-brain/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Do we only use 10 percent of our brain?26 Jan 2024  The idea that we use 10 percent of our brain is 100 percent a myth. In fact, scienti...</p></details>
+   Link:<a href="https://mcgovern.mit.edu/2024/01/26/do-we-use-only-10-percent-of-our-brain/" target="_blank" rel="noopener noreferrer nofollow">https://mcgovern.mit.edu/2024/01/26/do-we-use-only-10-percent-of-our-brain/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Do we only use 10 percent of our brain?26 Jan 2024  The idea that we use 10 percent of our brain is 100 percent a myth. In fact, scienti...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: frontiersin.org  
-   Link: <a href="https://www.frontiersin.org/journals/human-neuroscience/articles/10.3389/fnhum.2010.00174/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/human-neuroscience/articles/10.3389/fnhum.2010.00174/full</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Lesioned Brain: Still a Small-World?by L Douw  2010  Cited by 32  The intra-arterial amobarbital procedure (IAP or Wada test) is u...</p></details>
+   Link:<a href="https://www.frontiersin.org/journals/human-neuroscience/articles/10.3389/fnhum.2010.00174/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/human-neuroscience/articles/10.3389/fnhum.2010.00174/full</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Lesioned Brain: Still a Small-World?by L Douw  2010  Cited by 32  The intra-arterial amobarbital procedure (IAP or Wada test) is u...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: scientificamerican.com  
    Title: do people only use 10 percent of their brains  
-   Link: <a href="https://www.scientificamerican.com/article/do-people-only-use-10-percent-of-their-brains/" target="_blank" rel="noopener noreferrer nofollow">https://www.scientificamerican.com/article/do-people-only-use-10-percent-of-their-brains/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Scientific AmericanDo People Only Use 10 Percent of Their Brains?7 Feb 2008  Another mystery hidden within our crinkled cortices is that...</p></details>
+   Link:<a href="https://www.scientificamerican.com/article/do-people-only-use-10-percent-of-their-brains/" target="_blank" rel="noopener noreferrer nofollow">https://www.scientificamerican.com/article/do-people-only-use-10-percent-of-their-brains/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Scientific AmericanDo People Only Use 10 Percent of Their Brains?7 Feb 2008  Another mystery hidden within our crinkled cortices is that...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: scientificamerican.com  
-   Link: <a href="https://www.scientificamerican.com/article/you-use-only-10andpercnt-of-your-br/" target="_blank" rel="noopener noreferrer nofollow">https://www.scientificamerican.com/article/you-use-only-10andpercnt-of-your-br/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>You use only 10% of your brainBrain scans show that at times some areas are more active than others, but no region in a healthy brain is...</p></details>
+   Link:<a href="https://www.scientificamerican.com/article/you-use-only-10andpercnt-of-your-br/" target="_blank" rel="noopener noreferrer nofollow">https://www.scientificamerican.com/article/you-use-only-10andpercnt-of-your-br/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>You use only 10% of your brainBrain scans show that at times some areas are more active than others, but no region in a healthy brain is...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: my.clevelandclinic.org  
-   Link: <a href="https://my.clevelandclinic.org/health/symptoms/17839-brain-lesions" target="_blank" rel="noopener noreferrer nofollow">https://my.clevelandclinic.org/health/symptoms/17839-brain-lesions</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Cleveland ClinicBrain Lesions: What They Are, Causes, Symptoms &amp;...16 Nov 2022  Brain lesions are areas of brain tissue that show damag...</p></details>
+   Link:<a href="https://my.clevelandclinic.org/health/symptoms/17839-brain-lesions" target="_blank" rel="noopener noreferrer nofollow">https://my.clevelandclinic.org/health/symptoms/17839-brain-lesions</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Cleveland ClinicBrain Lesions: What They Are, Causes, Symptoms &amp;...16 Nov 2022  Brain lesions are areas of brain tissue that show damag...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: scientificamerican.com  
    Title: do we really use only 10  
-   Link: <a href="https://www.scientificamerican.com/article/do-we-really-use-only-10/" target="_blank" rel="noopener noreferrer nofollow">https://www.scientificamerican.com/article/do-we-really-use-only-10/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>percent of our brains?8 Mar 2004  The 10-percent myth has undoubtedly motivated many people to strive for greater creativity and product...</p></details>
+   Link:<a href="https://www.scientificamerican.com/article/do-we-really-use-only-10/" target="_blank" rel="noopener noreferrer nofollow">https://www.scientificamerican.com/article/do-we-really-use-only-10/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>percent of our brains?8 Mar 2004  The 10-percent myth has undoubtedly motivated many people to strive for greater creativity and product...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: scientificamerican.com  
    Title: 5 common myths about the brain  
-   Link: <a href="https://www.scientificamerican.com/article/5-common-myths-about-the-brain/" target="_blank" rel="noopener noreferrer nofollow">https://www.scientificamerican.com/article/5-common-myths-about-the-brain/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>1 Jan 2015  MYTH HUMANS USE ONLY 10 PERCENT OF THEIR BRAIN FACT The 10 percent... use both hemispheres of the brain for all cognitive f...</p></details>
+   Link:<a href="https://www.scientificamerican.com/article/5-common-myths-about-the-brain/" target="_blank" rel="noopener noreferrer nofollow">https://www.scientificamerican.com/article/5-common-myths-about-the-brain/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>1 Jan 2015  MYTH HUMANS USE ONLY 10 PERCENT OF THEIR BRAIN FACT The 10 percent... use both hemispheres of the brain for all cognitive f...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: facebook.com  
    Title: Do we only use 10 percent of our brain?  
-   Link: <a href="https://www.facebook.com/carletonuniversity/posts/do-we-only-use-10-percent-of-our-brain-neuroscience-expert-professor-kim-hellema/1042717867889471/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/carletonuniversity/posts/do-we-only-use-10-percent-of-our-brain-neuroscience-expert-professor-kim-hellema/1042717867889471/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>of Americans believe they&#x27;re only using 10% of their brain capacity based on a myth that neuroimaging disproved...</p></details>
+   Link:<a href="https://www.facebook.com/carletonuniversity/posts/do-we-only-use-10-percent-of-our-brain-neuroscience-expert-professor-kim-hellema/1042717867889471/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/carletonuniversity/posts/do-we-only-use-10-percent-of-our-brain-neuroscience-expert-professor-kim-hellema/1042717867889471/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>of Americans believe they&#x27;re only using 10% of their brain capacity based on a myth that neuroimaging disproved...</p></details>
 
 ### Additional References
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: nm.org  
-   Link: <a href="https://www.nm.org/healthbeat/healthy-tips/ten-surprising-facts-about-your-brain" target="_blank" rel="noopener noreferrer nofollow">https://www.nm.org/healthbeat/healthy-tips/ten-surprising-facts-about-your-brain</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>10 Surprising Facts About Your BrainMyth No. 1: You only use 10 percent of your brain. The truth is Neurologists agree that the brain is...</p></details>
+   Link:<a href="https://www.nm.org/healthbeat/healthy-tips/ten-surprising-facts-about-your-brain" target="_blank" rel="noopener noreferrer nofollow">https://www.nm.org/healthbeat/healthy-tips/ten-surprising-facts-about-your-brain</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>10 Surprising Facts About Your BrainMyth No. 1: You only use 10 percent of your brain. The truth is Neurologists agree that the brain is...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: fondazione-mariani.org  
-   Link: <a href="https://www.fondazione-mariani.org/pubblicazione/brain-lesion-localization-and-developmental-functions/" target="_blank" rel="noopener noreferrer nofollow">https://www.fondazione-mariani.org/pubblicazione/brain-lesion-localization-and-developmental-functions/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Brain lesion localization and developmental functionsThis volume discusses the consequences of early brain injury to many parts of the br...</p></details>
+   Link:<a href="https://www.fondazione-mariani.org/pubblicazione/brain-lesion-localization-and-developmental-functions/" target="_blank" rel="noopener noreferrer nofollow">https://www.fondazione-mariani.org/pubblicazione/brain-lesion-localization-and-developmental-functions/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Brain lesion localization and developmental functionsThis volume discusses the consequences of early brain injury to many parts of the br...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: news-medical.net  
-   Link: <a href="https://www.news-medical.net/news/20181029/Study-investigates-how-brain-lesion-affects-childs-language-localization-and-abilities.aspx" target="_blank" rel="noopener noreferrer nofollow">https://www.news-medical.net/news/20181029/Study-investigates-how-brain-lesion-affects-childs-language-localization-and-abilities.aspx</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Study investigates how brain lesion affects child&#x27;s...29 Oct 2018  Children with brain injuries are able to reorganize their language r...</p></details>
+   Link:<a href="https://www.news-medical.net/news/20181029/Study-investigates-how-brain-lesion-affects-childs-language-localization-and-abilities.aspx" target="_blank" rel="noopener noreferrer nofollow">https://www.news-medical.net/news/20181029/Study-investigates-how-brain-lesion-affects-childs-language-localization-and-abilities.aspx</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Study investigates how brain lesion affects child&#x27;s...29 Oct 2018  Children with brain injuries are able to reorganize their language r...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: apertureneuro.org  
-   Link: <a href="https://apertureneuro.org/article/128149-consensus-recommendations-for-clinical-functional-mri-applied-to-language-mapping" target="_blank" rel="noopener noreferrer nofollow">https://apertureneuro.org/article/128149-consensus-recommendations-for-clinical-functional-mri-applied-to-language-mapping</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Consensus recommendations for clinical functional MRI...by NL Voets  2025  Cited by 8  Ample reports highlight fMRI&#x27;s added value to...</p></details>
+   Link:<a href="https://apertureneuro.org/article/128149-consensus-recommendations-for-clinical-functional-mri-applied-to-language-mapping" target="_blank" rel="noopener noreferrer nofollow">https://apertureneuro.org/article/128149-consensus-recommendations-for-clinical-functional-mri-applied-to-language-mapping</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Consensus recommendations for clinical functional MRI...by NL Voets  2025  Cited by 8  Ample reports highlight fMRI&#x27;s added value to...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: educationalneuroscience.org.uk  
-   Link: <a href="https://www.educationalneuroscience.org.uk/resources/neuromyth-or-neurofact/we-only-use-10-of-our-brains/" target="_blank" rel="noopener noreferrer nofollow">https://www.educationalneuroscience.org.uk/resources/neuromyth-or-neurofact/we-only-use-10-of-our-brains/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>In a recent survey, 43-59% of teachers from around the world reported that they thought this...</p></details>
+   Link:<a href="https://www.educationalneuroscience.org.uk/resources/neuromyth-or-neurofact/we-only-use-10-of-our-brains/" target="_blank" rel="noopener noreferrer nofollow">https://www.educationalneuroscience.org.uk/resources/neuromyth-or-neurofact/we-only-use-10-of-our-brains/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>In a recent survey, 43-59% of teachers from around the world reported that they thought this...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=VwrdPEdJv9g" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=VwrdPEdJv9g</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Ten Percent Brain MythHave you heard that we only use 10% of our brains? It&#x27;s a myth! We use 100% of our brains, and they&#x27;re active e...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=VwrdPEdJv9g" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=VwrdPEdJv9g</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Ten Percent Brain MythHave you heard that we only use 10% of our brains? It&#x27;s a myth! We use 100% of our brains, and they&#x27;re active e...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: medicalnewstoday.com  
-   Link: <a href="https://www.medicalnewstoday.com/articles/321060" target="_blank" rel="noopener noreferrer nofollow">https://www.medicalnewstoday.com/articles/321060</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>fMRI scans show that even simple activities require almost all of the brain to be active...Read more...</p></details>
+   Link:<a href="https://www.medicalnewstoday.com/articles/321060" target="_blank" rel="noopener noreferrer nofollow">https://www.medicalnewstoday.com/articles/321060</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>fMRI scans show that even simple activities require almost all of the brain to be active...Read more...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: educationalneuroscience.org.uk  
-   Link: <a href="https://educationalneuroscience.org.uk/wordpress/resources/neuromyth-or-neurofact/we-only-use-10-of-our-brains/" target="_blank" rel="noopener noreferrer nofollow">https://educationalneuroscience.org.uk/wordpress/resources/neuromyth-or-neurofact/we-only-use-10-of-our-brains/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The advent of functional magnetic...Read more...</p></details>
+   Link:<a href="https://educationalneuroscience.org.uk/wordpress/resources/neuromyth-or-neurofact/we-only-use-10-of-our-brains/" target="_blank" rel="noopener noreferrer nofollow">https://educationalneuroscience.org.uk/wordpress/resources/neuromyth-or-neurofact/we-only-use-10-of-our-brains/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The advent of functional magnetic...Read more...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: quizlet.com  
-   Link: <a href="https://quizlet.com/gb/687959749/we-only-use-10-of-our-brains-myth-flash-cards/" target="_blank" rel="noopener noreferrer nofollow">https://quizlet.com/gb/687959749/we-only-use-10-of-our-brains-myth-flash-cards/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>this would kill us life expectancy with this is only 9 months.Read more...</p></details>
+   Link:<a href="https://quizlet.com/gb/687959749/we-only-use-10-of-our-brains-myth-flash-cards/" target="_blank" rel="noopener noreferrer nofollow">https://quizlet.com/gb/687959749/we-only-use-10-of-our-brains-myth-flash-cards/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>this would kill us life expectancy with this is only 9 months.Read more...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: bps.org.uk  
    Title: great myths brain we only use 10 cent  
-   Link: <a href="https://www.bps.org.uk/psychologist/great-myths-brain-we-only-use-10-cent" target="_blank" rel="noopener noreferrer nofollow">https://www.bps.org.uk/psychologist/great-myths-brain-we-only-use-10-cent</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Great myths of the brain: We only use 10 per cent1 Dec 2014  Other evidence that refutes the 10 percent myth comes from studies of brain...</p></details>
+   Link:<a href="https://www.bps.org.uk/psychologist/great-myths-brain-we-only-use-10-cent" target="_blank" rel="noopener noreferrer nofollow">https://www.bps.org.uk/psychologist/great-myths-brain-we-only-use-10-cent</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Great myths of the brain: We only use 10 per cent1 Dec 2014  Other evidence that refutes the 10 percent myth comes from studies of brain...</p></details>

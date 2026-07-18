@@ -501,7 +501,7 @@ image: /assets/images/Myths_and_misconcept_0d48d7_mental_models_myths_2fa808-ove
 
 ## Introduction
 
-Wrong ideas often feel coherent because they are not held as isolated facts. They sit inside a wider mental model: a working picture of how causes, people, systems or risks fit together. That model may be incomplete or mistaken, but it can still explain everyday experience, predict what “should” happen next, and make new information feel easy to sort. This is why simply replacing a myth with “false” rarely works. A [correction]({{ 'correction/' | relative_url }}) that removes one piece of a person’s model can leave a gap, and the mind may keep using the old explanation because it still makes the story feel complete. Research on misinformation calls this the continued influence effect: retracted information can keep shaping later reasoning even when people remember that it was corrected. <span class="citation-chip-wrap"><a class="citation-chip" href="https://skepticalscience.com/docs/Lewandowsky_2012_misinfo.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalscience.com">[Skeptical Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalscience.com</span><span class="citation-popover-snippet">Skeptical ScienceMisinformation and its Correction: Continued Influence and...May 5, 2012 — by S Lewandowsky · Cited by 4718 — Multiple...</span><span class="citation-popover-meta">Published: May 5, 2012</span></span></span>
+Wrong ideas often feel coherent because they are not held as isolated facts. They sit inside a wider mental model: a working picture of how causes, people, systems or risks fit together. That model may be incomplete or mistaken, but it can still explain everyday experience, predict what “should” happen next, and make new information feel easy to sort. This is why simply replacing a myth with “false” rarely works. A [correction]({{ 'correction/' | relative_url }}) that removes one piece of a person’s model can leave a gap, and the mind may keep using the old explanation because it still makes the story feel complete. Research on misinformation calls this the continued influence effect: retracted information can keep shaping later reasoning even when people remember that it was corrected.<span class="citation-chip-wrap"><a class="citation-chip" href="https://skepticalscience.com/docs/Lewandowsky_2012_misinfo.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalscience.com">[Skeptical Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalscience.com</span><span class="citation-popover-snippet">Skeptical ScienceMisinformation and its Correction: Continued Influence and...May 5, 2012 — by S Lewandowsky · Cited by 4718 — Multiple...</span><span class="citation-popover-meta">Published: May 5, 2012</span></span></span>
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_mental_models_myths_2fa808-overview.webp" | relative_url }}" alt="Overview image for Mental Models" loading="eager" decoding="sync" fetchpriority="high">
 The useful question, then, is not only “what fact is wrong?” but “what model made that fact feel right?” A myth becomes durable when it offers a causal story, fits prior assumptions, and gives people a practical way to interpret uncertainty. Repairing it means replacing the faulty model with a better one, not merely attacking a single claim.
@@ -512,20 +512,20 @@ A mental model is a simplified internal representation of how something works. P
 
 This matters because many myths are not random errors. They are answers produced by a larger pattern of reasoning. A person who believes a health myth, for example, may not just hold a false claim about one treatment. They may also rely on a broader model in which “natural” means safe, complicated medical language signals concealment, and personal testimony counts as stronger evidence than population-level data. Within that model, new [anecdotes]({{ 'anecdotes/' | relative_url }}) slide neatly into place while statistical evidence feels cold, distant or evasive.
 
-Research on science learning shows the same pattern. Michelene Chi’s work on conceptual change distinguishes between simple false beliefs and deeper flawed mental models, where the learner’s responses are internally patterned rather than merely scattered mistakes. A flawed model can be “coherent” because it is retrieved and used consistently to answer questions and make predictions, even when it conflicts with the expert model. <span class="citation-chip-wrap"><a class="citation-chip" href="https://education.asu.edu/sites/g/files/litvpz656/files/lcl/chi_concpetualchangechapter_0.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: education.asu.edu">[education.asu.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">education.asu.edu</span><span class="citation-popover-title">Three Types of Conceptual Change: Belief Revision, Mental</span><span class="citation-popover-snippet">Three Types of Conceptual Change: Belief Revision, Mental</span></span></span>
+Research on science learning shows the same pattern. Michelene Chi’s work on conceptual change distinguishes between simple false beliefs and deeper flawed mental models, where the learner’s responses are internally patterned rather than merely scattered mistakes. A flawed model can be “coherent” because it is retrieved and used consistently to answer questions and make predictions, even when it conflicts with the expert model.<span class="citation-chip-wrap"><a class="citation-chip" href="https://education.asu.edu/sites/g/files/litvpz656/files/lcl/chi_concpetualchangechapter_0.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: education.asu.edu">[education.asu.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">education.asu.edu</span><span class="citation-popover-title">Three Types of Conceptual Change: Belief Revision, Mental</span><span class="citation-popover-snippet">Three Types of Conceptual Change: Belief Revision, Mental</span></span></span>
 
-A classic example comes from children’s ideas about the Earth. In a study by Stella Vosniadou and William Brewer, children did not merely alternate between “flat” and “round” at random. Many formed intermediate models such as a disc Earth, a dual Earth, a hollow sphere, or a flattened sphere. These models helped them reconcile what they had been told — that the Earth is round — with everyday assumptions such as “the ground beneath us is flat” and “people need support underneath them”. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/001002859290018W" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+A classic example comes from children’s ideas about the Earth. In a study by Stella Vosniadou and William Brewer, children did not merely alternate between “flat” and “round” at random. Many formed intermediate models such as a disc Earth, a dual Earth, a hollow sphere, or a flattened sphere. These models helped them reconcile what they had been told — that the Earth is round — with everyday assumptions such as “the ground beneath us is flat” and “people need support underneath them”.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/001002859290018W" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 That example is powerful because the children’s ideas are wrong, but not foolish. They are attempts to preserve coherence while absorbing new information. Adults do something similar with public myths: they graft new facts onto old assumptions, sometimes producing hybrid explanations that feel more stable than either the myth or the correction alone.
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_mental_models_myths_2fa808-Illustration-1-dark.svg" | relative_url }}" alt="Mental Models illustration 1" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_mental_models_myths_2fa808-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_mental_models_myths_2fa808-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why a wrong model can feel better than a missing one
 
-A bare correction can create an explanatory hole. If someone hears that a warehouse fire was caused by carelessly stored flammable materials, that detail can become part of their causal model of the event. If the claim is later retracted, the model loses a key link: why did the fire spread so quickly? who was responsible? what made the event make sense? Reviews of the continued influence effect argue that people often continue to rely on discredited information because it filled a causal role in their understanding of the event. <span class="citation-chip-wrap"><a class="citation-chip" href="https://skepticalscience.com/docs/Lewandowsky_2012_misinfo.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalscience.com">[Skeptical Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalscience.com</span><span class="citation-popover-snippet">Skeptical ScienceMisinformation and its Correction: Continued Influence and...May 5, 2012 — by S Lewandowsky · Cited by 4718 — Multiple...</span><span class="citation-popover-meta">Published: May 5, 2012</span></span></span>
+A bare correction can create an explanatory hole. If someone hears that a warehouse fire was caused by carelessly stored flammable materials, that detail can become part of their causal model of the event. If the claim is later retracted, the model loses a key link: why did the fire spread so quickly? who was responsible? what made the event make sense? Reviews of the continued influence effect argue that people often continue to rely on discredited information because it filled a causal role in their understanding of the event.<span class="citation-chip-wrap"><a class="citation-chip" href="https://skepticalscience.com/docs/Lewandowsky_2012_misinfo.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalscience.com">[Skeptical Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalscience.com</span><span class="citation-popover-snippet">Skeptical ScienceMisinformation and its Correction: Continued Influence and...May 5, 2012 — by S Lewandowsky · Cited by 4718 — Multiple...</span><span class="citation-popover-meta">Published: May 5, 2012</span></span></span>
 
-This does not mean people are always stubborn or irrational. Sometimes the old explanation remains mentally available because the correction has not supplied a satisfying replacement. “That was not the cause” is weaker than “that was not the cause; here is what happened instead”. The [Debunking]({{ 'debunking/' | relative_url }}) Handbook 2020 makes this a central recommendation: effective debunking should lead with the fact, identify the myth only as needed, explain how it misleads, and provide an alternative causal explanation that fits the story. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.climatechangecommunication.org/wp-content/uploads/2023/09/DebunkingHandbook2020.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: climatechangecommunication.org">[Center for Climate Change Communication]</a><span class="citation-popover" role="note"><span class="citation-popover-source">climatechangecommunication.org</span><span class="citation-popover-title">Center for Climate Change Communication Debunking Handbook</span><span class="citation-popover-snippet">Center for Climate Change Communication Debunking Handbook</span></span></span>
+This does not mean people are always stubborn or irrational. Sometimes the old explanation remains mentally available because the correction has not supplied a satisfying replacement. “That was not the cause” is weaker than “that was not the cause; here is what happened instead”. The [Debunking]({{ 'debunking/' | relative_url }}) Handbook 2020 makes this a central recommendation: effective debunking should lead with the fact, identify the myth only as needed, explain how it misleads, and provide an alternative causal explanation that fits the story.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.climatechangecommunication.org/wp-content/uploads/2023/09/DebunkingHandbook2020.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: climatechangecommunication.org">[Center for Climate Change Communication]</a><span class="citation-popover" role="note"><span class="citation-popover-source">climatechangecommunication.org</span><span class="citation-popover-title">Center for Climate Change Communication Debunking Handbook</span><span class="citation-popover-snippet">Center for Climate Change Communication Debunking Handbook</span></span></span>
 
-The same mechanism helps explain why speculative myths thrive after disasters, crimes, disappearances or confusing public events. When reliable evidence is incomplete, people dislike being left with a blank space. A poor explanation can feel preferable to no explanation because it offers closure, assigns agency and turns uncertainty into a story. Narrative research on scientific misinformation makes a related point: stories can mislead, but they also provide meaning and causal structure, which is why corrective communication often needs to build a better story rather than merely remove a bad one. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.pnas.org/doi/10.1073/pnas.1914085117" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pnas.org">[PNAS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pnas.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The same mechanism helps explain why speculative myths thrive after disasters, crimes, disappearances or confusing public events. When reliable evidence is incomplete, people dislike being left with a blank space. A poor explanation can feel preferable to no explanation because it offers closure, assigns agency and turns uncertainty into a story. Narrative research on scientific misinformation makes a related point: stories can mislead, but they also provide meaning and causal structure, which is why corrective communication often needs to build a better story rather than merely remove a bad one.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.pnas.org/doi/10.1073/pnas.1914085117" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pnas.org">[PNAS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pnas.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 This is why myth correction often fails when it treats belief as a list of detachable statements. The myth may be serving several model-level functions at once:
 
@@ -541,9 +541,9 @@ A correction that only addresses the first function may leave the others untouch
 
 A myth can absorb contradictory evidence if the wider model has ways to explain that evidence away. This is one reason myths can feel stable even when they are patched together from weak facts. A person may reject official data because their model says institutions hide inconvenient truths. They may dismiss expert consensus because their model says consensus is produced by groupthink or financial pressure. They may treat failed predictions as proof that opponents interfered. The contradiction does not always break the model; sometimes it becomes evidence inside the model.
 
-Psychological reviews of misinformation identify several barriers to updating beliefs [after correction]({{ 'after-correction/' | relative_url }}), including familiarity, source credibility, identity, emotional investment and the continued influence of earlier information. These factors interact with mental models: [repetition]({{ 'repetition/' | relative_url }}) makes a model easier to retrieve, trusted sources make it safer to use, and identity can make abandoning it feel like betraying a group rather than revising a claim. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nature.com/articles/s44159-021-00006-y" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Psychological reviews of misinformation identify several barriers to updating beliefs [after correction]({{ 'after-correction/' | relative_url }}), including familiarity, source credibility, identity, emotional investment and the continued influence of earlier information. These factors interact with mental models: [repetition]({{ 'repetition/' | relative_url }}) makes a model easier to retrieve, trusted sources make it safer to use, and identity can make abandoning it feel like betraying a group rather than revising a claim.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nature.com/articles/s44159-021-00006-y" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-There is also an important education debate here. Some researchers argue that misconceptions often behave like coherent alternative theories; others, such as Andrea diSessa and colleagues in the “knowledge in pieces” tradition, argue that learners’ ideas may be more fragmented, context-sensitive and productive than the word “misconception” implies. The debate matters because it changes the teaching response: should educators replace a faulty model, reorganise useful fragments, or help learners notice when different intuitions [conflict]({{ 'conflict/' | relative_url }})? <span class="citation-link-wrap"><a class="citation-inline-link" href="https://link.springer.com/article/10.1186/s41235-021-00335-9" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">Exploring factors that mitigate the continued influence of...by IP Kan · 2021 · Cited by 27 — The term “continued influence effe...</span></span></span>
+There is also an important education debate here. Some researchers argue that misconceptions often behave like coherent alternative theories; others, such as Andrea diSessa and colleagues in the “knowledge in pieces” tradition, argue that learners’ ideas may be more fragmented, context-sensitive and productive than the word “misconception” implies. The debate matters because it changes the teaching response: should educators replace a faulty model, reorganise useful fragments, or help learners notice when different intuitions [conflict]({{ 'conflict/' | relative_url }})?<span class="citation-link-wrap"><a class="citation-inline-link" href="https://link.springer.com/article/10.1186/s41235-021-00335-9" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">Exploring factors that mitigate the continued influence of...by IP Kan · 2021 · Cited by 27 — The term “continued influence effe...</span></span></span>
 
 For myths and misconceptions in public life, the safest conclusion is not that every false belief is a perfectly coherent worldview. Many are messy. But even messy beliefs can gain local coherence when they answer the questions people care about. A myth does not need to explain everything; it only needs to explain enough, in a memorable way, to keep being used.
 
@@ -552,7 +552,7 @@ For myths and misconceptions in public life, the safest conclusion is not that e
 
 Misconceptions often return under pressure because old models are familiar, fast and emotionally available. A person may learn the correct explanation in calm conditions but fall back on the older one when tired, threatened, embarrassed, rushed or surrounded by people who still use it. This is common in education: students can reproduce the right answer on a test yet revert to intuitive reasoning when solving a new problem. It is also common in public misinformation: people may accept a correction in the moment but later reason from the original story when discussing blame, risk or policy.
 
-Research on the continued influence effect shows that corrections reduce misinformation’s impact but often do not eliminate it completely. A 2021 review notes that decades of work have identified factors that mitigate the effect, yet full elimination is rare. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://link.springer.com/chapter/10.1007/978-3-319-72170-5_5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-title">Modeling Types of Knowledge and Their Roles in Learning</span><span class="citation-popover-snippet">Modeling Types of Knowledge and Their Roles in Learning</span></span></span> A meta-analysis of science-relevant misinformation similarly reports that corrections can work, especially when they are detailed and explanatory, but that their effect depends on how the correction changes the audience’s prior model. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4041497/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCMisconceptions Yesterday, Today, and Tomorrow</span><span class="citation-popover-snippet">PMCMisconceptions Yesterday, Today, and Tomorrow</span></span></span>
+Research on the continued influence effect shows that corrections reduce misinformation’s impact but often do not eliminate it completely. A 2021 review notes that decades of work have identified factors that mitigate the effect, yet full elimination is rare.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://link.springer.com/chapter/10.1007/978-3-319-72170" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-title">Modeling Types of Knowledge and Their Roles in Learning</span><span class="citation-popover-snippet">Modeling Types of Knowledge and Their Roles in Learning</span></span></span> A meta-analysis of science-relevant misinformation similarly reports that corrections can work, especially when they are detailed and explanatory, but that their effect depends on how the correction changes the audience’s prior model.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4041497/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCMisconceptions Yesterday, Today, and Tomorrow</span><span class="citation-popover-snippet">PMCMisconceptions Yesterday, Today, and Tomorrow</span></span></span>
 
 Pressure matters because it changes which model is easiest to use. The old myth may be simpler, more vivid or more socially reinforced. It may also have emotional advantages: it can reduce anxiety by naming an enemy, provide pride by making the believer feel unusually perceptive, or offer control by turning complex systems into simple rules.
 
@@ -565,9 +565,9 @@ The same pattern appears in health and risk myths. People may know in general th
 
 The most effective response to coherent myths is model repair. This means identifying the structure that makes the misconception work, then helping the learner build a better structure that performs the same useful tasks more accurately. It is not enough to say “wrong”; the replacement must explain more, predict better and feel usable.
 
-In practice, model repair usually has three parts. First, make the current model visible. Ask what the person thinks is causing what, which evidence would matter, and what would count as a better explanation. Second, locate the load-bearing assumption. In the Earth example, the problem is not merely the word “round”; it is the assumption that people must stand on flat ground with support beneath them. Third, introduce the better model in a way that directly handles the old model’s strongest appeal. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/001002859290018W" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+In practice, model repair usually has three parts. First, make the current model visible. Ask what the person thinks is causing what, which evidence would matter, and what would count as a better explanation. Second, locate the load-bearing assumption. In the Earth example, the problem is not merely the word “round”; it is the assumption that people must stand on flat ground with support beneath them. Third, introduce the better model in a way that directly handles the old model’s strongest appeal.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/001002859290018W" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-This is why good correction often uses a fact–myth–fallacy–fact structure. Lead with the accurate claim, briefly name the myth so the reader knows what is being corrected, explain the mistaken reasoning, and return to the accurate model. The point is not to repeat the myth for drama, but to show the mechanism by which it misleads. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.climatechangecommunication.org/wp-content/uploads/2023/09/DebunkingHandbook2020.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: climatechangecommunication.org">[Center for Climate Change Communication]</a><span class="citation-popover" role="note"><span class="citation-popover-source">climatechangecommunication.org</span><span class="citation-popover-title">Center for Climate Change Communication Debunking Handbook</span><span class="citation-popover-snippet">Center for Climate Change Communication Debunking Handbook</span></span></span>
+This is why good correction often uses a fact–myth–fallacy–fact structure. Lead with the accurate claim, briefly name the myth so the reader knows what is being corrected, explain the mistaken reasoning, and return to the accurate model. The point is not to repeat the myth for drama, but to show the mechanism by which it misleads.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.climatechangecommunication.org/wp-content/uploads/2023/09/DebunkingHandbook2020.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: climatechangecommunication.org">[Center for Climate Change Communication]</a><span class="citation-popover" role="note"><span class="citation-popover-source">climatechangecommunication.org</span><span class="citation-popover-title">Center for Climate Change Communication Debunking Handbook</span><span class="citation-popover-snippet">Center for Climate Change Communication Debunking Handbook</span></span></span>
 
 For teachers, journalists, clinicians and public communicators, several model-repair principles follow:
 
@@ -581,7 +581,7 @@ For teachers, journalists, clinicians and public communicators, several model-re
 
 </div>
 
-The Annenberg Public Policy Center has recently tested “mental model” approaches for mRNA vaccine misconceptions, using visual, verbal and animated models to teach underlying scientific concepts rather than only rebutting individual claims. The significance is the same: when a misconception is generated by a faulty picture of how a system works, communication has to repair that picture. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.asc.upenn.edu/news-events/news/mental-model-approach-shows-promise-reducing-susceptibility-misconceptions-about-mrna-vaccination" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: asc.upenn.edu">[asc.upenn.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">asc.upenn.edu</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The Annenberg Public Policy Center has recently tested “mental model” approaches for mRNA vaccine misconceptions, using visual, verbal and animated models to teach underlying scientific concepts rather than only rebutting individual claims. The significance is the same: when a misconception is generated by a faulty picture of how a system works, communication has to repair that picture.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.asc.upenn.edu/news-events/news/mental-model-approach-shows-promise-reducing-susceptibility-misconceptions-about-mrna-vaccination" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: asc.upenn.edu">[asc.upenn.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">asc.upenn.edu</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/0mBXYZyWMG8" title="Fighting Misinformation with Psychological Science" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=0mBXYZyWMG8" target="_blank" rel="noopener noreferrer">Fighting Misinformation with Psychological Science</a></p><p class="youtube-embed-meta">Channel: American Psychological Association &middot; Views: 1.3K &middot; Uploaded: June 2022 &middot; Length: 1 hour 18 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=0mBXYZyWMG8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=0mBXYZyWMG8">Open on YouTube</a></p></div></div></div>
 
@@ -589,201 +589,201 @@ The Annenberg Public Policy Center has recently tested “mental model” approa
 
 Treating myths as coherent models changes the tone of correction. It discourages mockery, because the question becomes “what made this idea fit?” rather than “how could anyone believe that?” It also makes correction more demanding. A fact-check can show that a claim is false; model repair must show what a better explanation looks like and why it should replace the old one.
 
-This approach is especially useful for myths that survive across many individual claims. Someone can stop believing one rumour about vaccines, climate change, crime, nutrition or education while still retaining the model that produced the rumour. New myths then become easy to accept because they fit the same structure. Public-health reviews have found that strategies such as [communicating]({{ 'communicating/' | relative_url }}) scientific consensus, warning about misinformation, acknowledging uncertainty and avoiding scare tactics can matter because they shape how people interpret the whole risk model, not just one claim. <span class="citation-chip-wrap"><a class="citation-chip" href="https://evidence.nihr.ac.uk/alert/how-to-tackle-vaccine-misinformation-what-works-and-what-doesnt/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: evidence.nihr.ac.uk">[NIHR Evidence]</a><span class="citation-popover" role="note"><span class="citation-popover-source">evidence.nihr.ac.uk</span><span class="citation-popover-title">NIHR Evidence How to tackle vaccine misinformation: what works?</span><span class="citation-popover-snippet">NIHR Evidence How to tackle vaccine misinformation: what works?</span></span></span>
+This approach is especially useful for myths that survive across many individual claims. Someone can stop believing one rumour about vaccines, climate change, crime, nutrition or education while still retaining the model that produced the rumour. New myths then become easy to accept because they fit the same structure. Public-health reviews have found that strategies such as [communicating]({{ 'communicating/' | relative_url }}) scientific consensus, warning about misinformation, acknowledging uncertainty and avoiding scare tactics can matter because they shape how people interpret the whole risk model, not just one claim.<span class="citation-chip-wrap"><a class="citation-chip" href="https://evidence.nihr.ac.uk/alert/how-to-tackle-vaccine-misinformation-what-works-and-what-doesnt/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: evidence.nihr.ac.uk">[NIHR Evidence]</a><span class="citation-popover" role="note"><span class="citation-popover-source">evidence.nihr.ac.uk</span><span class="citation-popover-title">NIHR Evidence How to tackle vaccine misinformation: what works?</span><span class="citation-popover-snippet">NIHR Evidence How to tackle vaccine misinformation: what works?</span></span></span>
 
 The goal is not to pretend all myths are equally sophisticated. Some are lazy, opportunistic or deliberately manipulative. But even manipulative myths spread more easily when they plug into models people already have: distrust of elites, belief in hidden causes, preference for natural explanations, suspicion of complexity, or the feeling that official accounts leave something out.
 
 A corrected model does three things better than the myth. It explains the same facts without needing special pleading. It remains stable when new evidence appears. And it gives the learner a practical way to reason under uncertainty. That is why “mental models that make myths coherent” is a central mechanism in understanding misconceptions: myths persist not only because people repeat them, but because they can make the world feel organised.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Wrong Ideas Can Feel Coherent. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Wrong Ideas Can Feel Coherent. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Scout+Mindset&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Scout Mindset on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10690900-M.jpg" alt="Cover for The Scout Mindset" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Scout+Mindset&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Scout Mindset">The Scout Mindset</a>
-        </h4>
-        <p class="fr-book-author">By Unknown author</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Scout+Mindset&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Scout Mindset on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10690900-M.jpg" alt="Cover for The Scout Mindset" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Scout+Mindset&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Scout Mindset">The Scout Mindset</a>
+</h4>
+<p class="fr-book-author">By Unknown author</p>
         
-        <p class="fr-book-desc">Contrasts defensive belief protection with truth-seeking mental models.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Scout+Mindset&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Contrasts defensive belief protection with truth-seeking mental models.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Scout+Mindset&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YGPzXWanppcC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
-        </h4>
-        <p class="fr-book-author">By Daniel Kahneman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YGPzXWanppcC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
+</h4>
+<p class="fr-book-author">By Daniel Kahneman</p>
         
-        <p class="fr-book-desc">Explains cognitive shortcuts, coherence and confidence in mistaken judgments.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains cognitive shortcuts, coherence and confidence in mistaken judgments.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Made+to+Stick+by+Chip+Heath&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Made to Stick on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=kW9nrgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Made to Stick" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Made+to+Stick+by+Chip+Heath&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Made to Stick">Made to Stick</a>
-        </h4>
-        <p class="fr-book-author">By Chip Heath, Dan Heath</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Made+to+Stick+by+Chip+Heath&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Made to Stick on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=kW9nrgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Made to Stick" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Made+to+Stick+by+Chip+Heath&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Made to Stick">Made to Stick</a>
+</h4>
+<p class="fr-book-author">By Chip Heath, Dan Heath</p>
         
-        <p class="fr-book-desc">Explains why simple, causal, concrete stories become memorable and persuasive even when wrong.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Made+to+Stick+by+Chip+Heath&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains why simple, causal, concrete stories become memorable and persuasive even when wrong.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Made+to+Stick+by+Chip+Heath&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+knowledge+illusion&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The knowledge illusion on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+knowledge+illusion&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The knowledge illusion">The knowledge illusion</a>
-        </h4>
-        <p class="fr-book-author">By Unknown author</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+knowledge+illusion&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The knowledge illusion on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+knowledge+illusion&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The knowledge illusion">The knowledge illusion</a>
+</h4>
+<p class="fr-book-author">By Unknown author</p>
         
-        <p class="fr-book-desc">Explains why coherent-feeling explanations can persist despite shallow or faulty knowledge.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+knowledge+illusion&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains why coherent-feeling explanations can persist despite shallow or faulty knowledge.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+knowledge+illusion&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Scout+Mindset&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Scout Mindset</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Made+to+Stick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Made to Stick</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Scout+Mindset&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Scout Mindset</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Made+to+Stick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Made to Stick</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+desk+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mental-models-why-wrong-ideas-can-feel-coherent-myths-and-misconcept-teacher-desk-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher desk sign" data-ebay-reference="mental-models-why-wrong-ideas-can-feel-coherent-myths-and-misconcept-teacher-desk-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Personalised Name Plate, Name Sign Gift, Kids Bedroom Sign, Teacher Gift"><img src="{{ '/assets/images/marketplace-covers/a050f98c5bd0ebdebb11.jpg' | relative_url }}" alt="Listing image for Personalised Name Plate, Name Sign Gift, Kids Bedroom Sign, Teacher Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+desk+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mental-models-why-wrong-ideas-can-feel-coherent-myths-and-misconcept-teacher-desk-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher desk sign" data-ebay-reference="mental-models-why-wrong-ideas-can-feel-coherent-myths-and-misconcept-teacher-desk-sign" target="_blank" rel="sponsored noopener noreferrer">Personalised Name Plate, Name Sign Gift, Kids Bedroom Sign, Teacher Gift</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+desk+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mental-models-why-wrong-ideas-can-feel-coherent-myths-and-misconcept-teacher-desk-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher desk sign" data-ebay-reference="mental-models-why-wrong-ideas-can-feel-coherent-myths-and-misconcept-teacher-desk-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for teacher desk sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: teacher desk sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+desk+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mental-models-why-wrong-ideas-can-feel-coherent-myths-and-misconcept-teacher-desk-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher desk sign" data-ebay-reference="mental-models-why-wrong-ideas-can-feel-coherent-myths-and-misconcept-teacher-desk-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+desk+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mental-models-why-wrong-ideas-can-feel-coherent-myths-and-misconcept-teacher-desk-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher desk sign" data-ebay-reference="mental-models-why-wrong-ideas-can-feel-coherent-myths-and-misconcept-teacher-desk-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Personalised Name Plate, Name Sign Gift, Kids Bedroom Sign, Teacher Gift"><img src="{{ '/assets/images/marketplace-covers/a050f98c5bd0ebdebb11.jpg' | relative_url }}" alt="Listing image for Personalised Name Plate, Name Sign Gift, Kids Bedroom Sign, Teacher Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+desk+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mental-models-why-wrong-ideas-can-feel-coherent-myths-and-misconcept-teacher-desk-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher desk sign" data-ebay-reference="mental-models-why-wrong-ideas-can-feel-coherent-myths-and-misconcept-teacher-desk-sign" target="_blank" rel="sponsored noopener noreferrer">Personalised Name Plate, Name Sign Gift, Kids Bedroom Sign, Teacher Gift</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+desk+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mental-models-why-wrong-ideas-can-feel-coherent-myths-and-misconcept-teacher-desk-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher desk sign" data-ebay-reference="mental-models-why-wrong-ideas-can-feel-coherent-myths-and-misconcept-teacher-desk-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for teacher desk sign">Search<span data-ebay-domain-label>eBay.co.uk</span>: teacher desk sign</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+desk+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mental-models-why-wrong-ideas-can-feel-coherent-myths-and-misconcept-teacher-desk-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher desk sign" data-ebay-reference="mental-models-why-wrong-ideas-can-feel-coherent-myths-and-misconcept-teacher-desk-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+desk+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mental-models-why-wrong-ideas-can-feel-coherent-myths-and-misconcept-teacher-desk-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher desk sign" data-ebay-reference="mental-models-why-wrong-ideas-can-feel-coherent-myths-and-misconcept-teacher-desk-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Best Teacher Ever Acrylic Desk Sign, Gift, Decor"><img src="{{ '/assets/images/marketplace-covers/123c43b1e377681ac9f3.jpg' | relative_url }}" alt="Listing image for Best Teacher Ever Acrylic Desk Sign, Gift, Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+desk+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mental-models-why-wrong-ideas-can-feel-coherent-myths-and-misconcept-teacher-desk-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher desk sign" data-ebay-reference="mental-models-why-wrong-ideas-can-feel-coherent-myths-and-misconcept-teacher-desk-sign" target="_blank" rel="sponsored noopener noreferrer">Best Teacher Ever Acrylic Desk Sign, Gift, Decor</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+desk+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mental-models-why-wrong-ideas-can-feel-coherent-myths-and-misconcept-teacher-desk-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher desk sign" data-ebay-reference="mental-models-why-wrong-ideas-can-feel-coherent-myths-and-misconcept-teacher-desk-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for teacher desk sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: teacher desk sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+desk+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mental-models-why-wrong-ideas-can-feel-coherent-myths-and-misconcept-teacher-desk-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher desk sign" data-ebay-reference="mental-models-why-wrong-ideas-can-feel-coherent-myths-and-misconcept-teacher-desk-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+desk+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mental-models-why-wrong-ideas-can-feel-coherent-myths-and-misconcept-teacher-desk-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher desk sign" data-ebay-reference="mental-models-why-wrong-ideas-can-feel-coherent-myths-and-misconcept-teacher-desk-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Best Teacher Ever Acrylic Desk Sign, Gift, Decor"><img src="{{ '/assets/images/marketplace-covers/123c43b1e377681ac9f3.jpg' | relative_url }}" alt="Listing image for Best Teacher Ever Acrylic Desk Sign, Gift, Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+desk+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mental-models-why-wrong-ideas-can-feel-coherent-myths-and-misconcept-teacher-desk-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher desk sign" data-ebay-reference="mental-models-why-wrong-ideas-can-feel-coherent-myths-and-misconcept-teacher-desk-sign" target="_blank" rel="sponsored noopener noreferrer">Best Teacher Ever Acrylic Desk Sign, Gift, Decor</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+desk+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mental-models-why-wrong-ideas-can-feel-coherent-myths-and-misconcept-teacher-desk-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher desk sign" data-ebay-reference="mental-models-why-wrong-ideas-can-feel-coherent-myths-and-misconcept-teacher-desk-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for teacher desk sign">Search<span data-ebay-domain-label>eBay.co.uk</span>: teacher desk sign</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+desk+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mental-models-why-wrong-ideas-can-feel-coherent-myths-and-misconcept-teacher-desk-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher desk sign" data-ebay-reference="mental-models-why-wrong-ideas-can-feel-coherent-myths-and-misconcept-teacher-desk-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+desk+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mental-models-why-wrong-ideas-can-feel-coherent-myths-and-misconcept-teacher-desk-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher desk sign" data-ebay-reference="mental-models-why-wrong-ideas-can-feel-coherent-myths-and-misconcept-teacher-desk-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Personalized Acrylic Name Plate Desk Sign Plaque Gift for Teacher Co-workers"><img src="{{ '/assets/images/marketplace-covers/0edcd7d127864d5118da.jpg' | relative_url }}" alt="Listing image for Personalized Acrylic Name Plate Desk Sign Plaque Gift for Teacher Co-workers" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+desk+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mental-models-why-wrong-ideas-can-feel-coherent-myths-and-misconcept-teacher-desk-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher desk sign" data-ebay-reference="mental-models-why-wrong-ideas-can-feel-coherent-myths-and-misconcept-teacher-desk-sign" target="_blank" rel="sponsored noopener noreferrer">Personalized Acrylic Name Plate Desk Sign Plaque Gift for Teacher Co-workers</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+desk+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mental-models-why-wrong-ideas-can-feel-coherent-myths-and-misconcept-teacher-desk-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher desk sign" data-ebay-reference="mental-models-why-wrong-ideas-can-feel-coherent-myths-and-misconcept-teacher-desk-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for teacher desk sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: teacher desk sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+desk+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mental-models-why-wrong-ideas-can-feel-coherent-myths-and-misconcept-teacher-desk-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher desk sign" data-ebay-reference="mental-models-why-wrong-ideas-can-feel-coherent-myths-and-misconcept-teacher-desk-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+desk+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mental-models-why-wrong-ideas-can-feel-coherent-myths-and-misconcept-teacher-desk-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher desk sign" data-ebay-reference="mental-models-why-wrong-ideas-can-feel-coherent-myths-and-misconcept-teacher-desk-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Personalized Acrylic Name Plate Desk Sign Plaque Gift for Teacher Co-workers"><img src="{{ '/assets/images/marketplace-covers/0edcd7d127864d5118da.jpg' | relative_url }}" alt="Listing image for Personalized Acrylic Name Plate Desk Sign Plaque Gift for Teacher Co-workers" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+desk+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mental-models-why-wrong-ideas-can-feel-coherent-myths-and-misconcept-teacher-desk-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher desk sign" data-ebay-reference="mental-models-why-wrong-ideas-can-feel-coherent-myths-and-misconcept-teacher-desk-sign" target="_blank" rel="sponsored noopener noreferrer">Personalized Acrylic Name Plate Desk Sign Plaque Gift for Teacher Co-workers</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+desk+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mental-models-why-wrong-ideas-can-feel-coherent-myths-and-misconcept-teacher-desk-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher desk sign" data-ebay-reference="mental-models-why-wrong-ideas-can-feel-coherent-myths-and-misconcept-teacher-desk-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for teacher desk sign">Search<span data-ebay-domain-label>eBay.co.uk</span>: teacher desk sign</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+desk+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mental-models-why-wrong-ideas-can-feel-coherent-myths-and-misconcept-teacher-desk-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher desk sign" data-ebay-reference="mental-models-why-wrong-ideas-can-feel-coherent-myths-and-misconcept-teacher-desk-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+desk+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mental-models-why-wrong-ideas-can-feel-coherent-myths-and-misconcept-teacher-desk-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher desk sign" data-ebay-reference="mental-models-why-wrong-ideas-can-feel-coherent-myths-and-misconcept-teacher-desk-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disney Style Personalised Name Plate Stand Plaque Desk Office Desk Teacher Gift"><img src="{{ '/assets/images/marketplace-covers/0a0237889280511932e0.jpg' | relative_url }}" alt="Listing image for Disney Style Personalised Name Plate Stand Plaque Desk Office Desk Teacher Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+desk+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mental-models-why-wrong-ideas-can-feel-coherent-myths-and-misconcept-teacher-desk-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher desk sign" data-ebay-reference="mental-models-why-wrong-ideas-can-feel-coherent-myths-and-misconcept-teacher-desk-sign" target="_blank" rel="sponsored noopener noreferrer">Disney Style Personalised Name Plate Stand Plaque Desk Office Desk Teacher Gift</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+desk+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mental-models-why-wrong-ideas-can-feel-coherent-myths-and-misconcept-teacher-desk-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher desk sign" data-ebay-reference="mental-models-why-wrong-ideas-can-feel-coherent-myths-and-misconcept-teacher-desk-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for teacher desk sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: teacher desk sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+desk+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mental-models-why-wrong-ideas-can-feel-coherent-myths-and-misconcept-teacher-desk-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher desk sign" data-ebay-reference="mental-models-why-wrong-ideas-can-feel-coherent-myths-and-misconcept-teacher-desk-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+desk+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mental-models-why-wrong-ideas-can-feel-coherent-myths-and-misconcept-teacher-desk-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher desk sign" data-ebay-reference="mental-models-why-wrong-ideas-can-feel-coherent-myths-and-misconcept-teacher-desk-sign" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+desk+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mental-models-why-wrong-ideas-can-feel-coherent-myths-and-misconcept-teacher-desk-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher desk sign" data-ebay-reference="mental-models-why-wrong-ideas-can-feel-coherent-myths-and-misconcept-teacher-desk-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disney Style Personalised Name Plate Stand Plaque Desk Office Desk Teacher Gift"><img src="{{ '/assets/images/marketplace-covers/0a0237889280511932e0.jpg' | relative_url }}" alt="Listing image for Disney Style Personalised Name Plate Stand Plaque Desk Office Desk Teacher Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+desk+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mental-models-why-wrong-ideas-can-feel-coherent-myths-and-misconcept-teacher-desk-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher desk sign" data-ebay-reference="mental-models-why-wrong-ideas-can-feel-coherent-myths-and-misconcept-teacher-desk-sign" target="_blank" rel="sponsored noopener noreferrer">Disney Style Personalised Name Plate Stand Plaque Desk Office Desk Teacher Gift</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+desk+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mental-models-why-wrong-ideas-can-feel-coherent-myths-and-misconcept-teacher-desk-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher desk sign" data-ebay-reference="mental-models-why-wrong-ideas-can-feel-coherent-myths-and-misconcept-teacher-desk-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for teacher desk sign">Search<span data-ebay-domain-label>eBay.co.uk</span>: teacher desk sign</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+desk+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mental-models-why-wrong-ideas-can-feel-coherent-myths-and-misconcept-teacher-desk-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher desk sign" data-ebay-reference="mental-models-why-wrong-ideas-can-feel-coherent-myths-and-misconcept-teacher-desk-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+desk+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mental-models-why-wrong-ideas-can-feel-coherent-myths-and-misconcept-teacher-desk-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher desk sign" data-ebay-reference="mental-models-why-wrong-ideas-can-feel-coherent-myths-and-misconcept-teacher-desk-sign" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -799,7 +799,7 @@ A corrected model does three things better than the myth. It explains the same f
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -819,7 +819,7 @@ A corrected model does three things better than the myth. It explains the same f
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -851,7 +851,7 @@ A corrected model does three things better than the myth. It explains the same f
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -903,7 +903,7 @@ A corrected model does three things better than the myth. It explains the same f
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -948,7 +948,7 @@ A corrected model does three things better than the myth. It explains the same f
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -989,163 +989,163 @@ A corrected model does three things better than the myth. It explains the same f
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: link.springer.com  
-   Link: <a href="https://link.springer.com/article/10.1186/s41235-021-00335-9" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1186/s41235-021-00335-9</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Exploring factors that mitigate the continued influence of...by IP Kan · 2021 · Cited by 27 — The term “continued influence effe...</p></details>
+   Link:<a href="https://link.springer.com/article/10.1186/s41235-021-00335-9" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1186/s41235-021-00335-9</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Exploring factors that mitigate the continued influence of...by IP Kan · 2021 · Cited by 27 — The term “continued influence effe...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: education.asu.edu  
    Title: Three Types of Conceptual Change: Belief Revision, Mental  
-   Link: <a href="https://education.asu.edu/sites/g/files/litvpz656/files/lcl/chi_concpetualchangechapter_0.pdf" target="_blank" rel="noopener noreferrer nofollow">https://education.asu.edu/sites/g/files/litvpz656/files/lcl/chi_concpetualchangechapter_0.pdf</a>  
+   Link:<a href="https://education.asu.edu/sites/g/files/litvpz656/files/lcl/chi_concpetualchangechapter_0.pdf" target="_blank" rel="noopener noreferrer nofollow">https://education.asu.edu/sites/g/files/litvpz656/files/lcl/chi_concpetualchangechapter_0.pdf</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/pii/001002859290018W" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/001002859290018W</a>  
+   Link:<a href="https://www.sciencedirect.com/science/article/pii/001002859290018W" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/001002859290018W</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: pnas.org  
-   Link: <a href="https://www.pnas.org/doi/10.1073/pnas.1914085117" target="_blank" rel="noopener noreferrer nofollow">https://www.pnas.org/doi/10.1073/pnas.1914085117</a>  
+   Link:<a href="https://www.pnas.org/doi/10.1073/pnas.1914085117" target="_blank" rel="noopener noreferrer nofollow">https://www.pnas.org/doi/10.1073/pnas.1914085117</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: nature.com  
-   Link: <a href="https://www.nature.com/articles/s44159-021-00006-y" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s44159-021-00006-y</a>  
+   Link:<a href="https://www.nature.com/articles/s44159-021-00006-y" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s44159-021-00006-y</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: link.springer.com  
    Title: Modeling Types of Knowledge and Their Roles in Learning  
-   Link: <a href="https://link.springer.com/chapter/10.1007/978-3-319-72170-5_5" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/chapter/10.1007/978-3-319-72170-5_5</a>  
+   Link:<a href="https://link.springer.com/chapter/10.1007/978-3-319-72170" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/chapter/10.1007/978-3-319-72170</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCMisconceptions Yesterday, Today, and Tomorrow  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4041497/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4041497/</a>  
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4041497/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4041497/</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: asc.upenn.edu  
-   Link: <a href="https://www.asc.upenn.edu/news-events/news/mental-model-approach-shows-promise-reducing-susceptibility-misconceptions-about-mrna-vaccination" target="_blank" rel="noopener noreferrer nofollow">https://www.asc.upenn.edu/news-events/news/mental-model-approach-shows-promise-reducing-susceptibility-misconceptions-about-mrna-vaccination</a>  
+   Link:<a href="https://www.asc.upenn.edu/news-events/news/mental-model-approach-shows-promise-reducing-susceptibility-misconceptions-about-mrna-vaccination" target="_blank" rel="noopener noreferrer nofollow">https://www.asc.upenn.edu/news-events/news/mental-model-approach-shows-promise-reducing-susceptibility-misconceptions-about-mrna-vaccination</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0959475211000454" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0959475211000454</a>  
+   Link:<a href="https://www.sciencedirect.com/science/article/abs/pii/S0959475211000454" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0959475211000454</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0885201403000182" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0885201403000182</a>  
+   Link:<a href="https://www.sciencedirect.com/science/article/abs/pii/S0885201403000182" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0885201403000182</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/pii/S1364661321000516" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S1364661321000516</a>  
+   Link:<a href="https://www.sciencedirect.com/science/article/pii/S1364661321000516" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S1364661321000516</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0010027720302729" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0010027720302729</a>  
+   Link:<a href="https://www.sciencedirect.com/science/article/abs/pii/S0010027720302729" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0010027720302729</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0022096508001513" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0022096508001513</a>  
+   Link:<a href="https://www.sciencedirect.com/science/article/abs/pii/S0022096508001513" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0022096508001513</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/001002859290018W" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/001002859290018W</a>  
+   Link:<a href="https://www.sciencedirect.com/science/article/abs/pii/001002859290018W" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/001002859290018W</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: link.springer.com  
-   Link: <a href="https://link.springer.com/article/10.1007/s10389-022-01694-3" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1007/s10389-022-01694-3</a>  
+   Link:<a href="https://link.springer.com/article/10.1007/s10389-022-01694-3" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1007/s10389-022-01694-3</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: link.springer.com  
-   Link: <a href="https://link.springer.com/chapter/10.1007/0-306-47637-1_3" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/chapter/10.1007/0-306-47637-1_3</a>  
+   Link:<a href="https://link.springer.com/chapter/10.1007/0-306-47637" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/chapter/10.1007/0-306-47637</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: researchnow.flinders.edu.au  
    Title: mental models of the earth a study of conceptual change in childh  
-   Link: <a href="https://researchnow.flinders.edu.au/en/publications/mental-models-of-the-earth-a-study-of-conceptual-change-in-childh/" target="_blank" rel="noopener noreferrer nofollow">https://researchnow.flinders.edu.au/en/publications/mental-models-of-the-earth-a-study-of-conceptual-change-in-childh/</a>  
+   Link:<a href="https://researchnow.flinders.edu.au/en/publications/mental-models-of-the-earth-a-study-of-conceptual-change-in-childh/" target="_blank" rel="noopener noreferrer nofollow">https://researchnow.flinders.edu.au/en/publications/mental-models-of-the-earth-a-study-of-conceptual-change-in-childh/</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: iris.who.int  
-   Link: <a href="https://iris.who.int/items/603e41a4-75d5-4d6b-bfeb-5ba29e2dc6ca" target="_blank" rel="noopener noreferrer nofollow">https://iris.who.int/items/603e41a4-75d5-4d6b-bfeb-5ba29e2dc6ca</a>  
+   Link:<a href="https://iris.who.int/items/603e41a4-75d5-4d6b-bfeb-5ba29e2dc6ca" target="_blank" rel="noopener noreferrer nofollow">https://iris.who.int/items/603e41a4-75d5-4d6b-bfeb-5ba29e2dc6ca</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: skepticalscience.com  
-   Link: <a href="https://skepticalscience.com/docs/Lewandowsky_2012_misinfo.pdf" target="_blank" rel="noopener noreferrer nofollow">https://skepticalscience.com/docs/Lewandowsky_2012_misinfo.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Skeptical ScienceMisinformation and its Correction: Continued Influence and...May 5, 2012 — by S Lewandowsky · Cited by 4718 — Multiple...</p></details>
+   Link:<a href="https://skepticalscience.com/docs/Lewandowsky_2012_misinfo.pdf" target="_blank" rel="noopener noreferrer nofollow">https://skepticalscience.com/docs/Lewandowsky_2012_misinfo.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Skeptical ScienceMisinformation and its Correction: Continued Influence and...May 5, 2012 — by S Lewandowsky · Cited by 4718 — Multiple...</p></details>
    Published: May 5, 2012  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: climatechangecommunication.org  
    Title: Center for Climate Change Communication Debunking Handbook  
-   Link: <a href="https://www.climatechangecommunication.org/wp-content/uploads/2023/09/DebunkingHandbook2020.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.climatechangecommunication.org/wp-content/uploads/2023/09/DebunkingHandbook2020.pdf</a>  
+   Link:<a href="https://www.climatechangecommunication.org/wp-content/uploads/2023/09/DebunkingHandbook2020.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.climatechangecommunication.org/wp-content/uploads/2023/09/DebunkingHandbook2020.pdf</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: evidence.nihr.ac.uk  
    Title: NIHR Evidence How to tackle vaccine misinformation: what works?  
-   Link: <a href="https://evidence.nihr.ac.uk/alert/how-to-tackle-vaccine-misinformation-what-works-and-what-doesnt/" target="_blank" rel="noopener noreferrer nofollow">https://evidence.nihr.ac.uk/alert/how-to-tackle-vaccine-misinformation-what-works-and-what-doesnt/</a>  
+   Link:<a href="https://evidence.nihr.ac.uk/alert/how-to-tackle-vaccine-misinformation-what-works-and-what-doesnt/" target="_blank" rel="noopener noreferrer nofollow">https://evidence.nihr.ac.uk/alert/how-to-tackle-vaccine-misinformation-what-works-and-what-doesnt/</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: jstor.org  
-   Link: <a href="https://www.jstor.org/stable/1466679" target="_blank" rel="noopener noreferrer nofollow">https://www.jstor.org/stable/1466679</a>  
+   Link:<a href="https://www.jstor.org/stable/1466679" target="_blank" rel="noopener noreferrer nofollow">https://www.jstor.org/stable/1466679</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: digitalcommons.unl.edu  
-   Link: <a href="https://digitalcommons.unl.edu/context/scholcom/article/1247/viewcontent/DebunkingHandbook2020.pdf" target="_blank" rel="noopener noreferrer nofollow">https://digitalcommons.unl.edu/context/scholcom/article/1247/viewcontent/DebunkingHandbook2020.pdf</a>  
+   Link:<a href="https://digitalcommons.unl.edu/context/scholcom/article/1247/viewcontent/DebunkingHandbook2020.pdf" target="_blank" rel="noopener noreferrer nofollow">https://digitalcommons.unl.edu/context/scholcom/article/1247/viewcontent/DebunkingHandbook2020.pdf</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: skepticalscience.com  
    Title: Debunking Handbook Part 5 Filling gap with alternative explanation  
-   Link: <a href="https://skepticalscience.com/Debunking-Handbook-Part-5-Filling-gap-with-alternative-explanation.html" target="_blank" rel="noopener noreferrer nofollow">https://skepticalscience.com/Debunking-Handbook-Part-5-Filling-gap-with-alternative-explanation.html</a>  
+   Link:<a href="https://skepticalscience.com/Debunking-Handbook-Part-5-Filling-gap-with-alternative-explanation.html" target="_blank" rel="noopener noreferrer nofollow">https://skepticalscience.com/Debunking-Handbook-Part-5-Filling-gap-with-alternative-explanation.html</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: ltrr.arizona.edu  
    Title: Debunking Handbook  
-   Link: <a href="https://www.ltrr.arizona.edu/~katie/kt/natsgc/Debunking_Handbook.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ltrr.arizona.edu/~katie/kt/natsgc/Debunking_Handbook.pdf</a>  
+   Link:<a href="https://www.ltrr.arizona.edu/~katie/kt/natsgc/Debunking_Handbook.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ltrr.arizona.edu/~katie/kt/natsgc/Debunking_Handbook.pdf</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: frontiersin.org  
-   Link: <a href="https://www.frontiersin.org/journals/social-psychology/articles/10.3389/frsps.2025.1621794/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/social-psychology/articles/10.3389/frsps.2025.1621794/full</a>  
+   Link:<a href="https://www.frontiersin.org/journals/social-psychology/articles/10.3389/frsps.2025.1621794/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/social-psychology/articles/10.3389/frsps.2025.1621794/full</a>  
 
 ### Additional References
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: psychologicalscience.org  
-   Link: <a href="https://www.psychologicalscience.org/conventions/2026-aps-annual-convention/poster-search" target="_blank" rel="noopener noreferrer nofollow">https://www.psychologicalscience.org/conventions/2026-aps-annual-convention/poster-search</a>  
+   Link:<a href="https://www.psychologicalscience.org/conventions/2026-aps-annual-convention/poster-search" target="_blank" rel="noopener noreferrer nofollow">https://www.psychologicalscience.org/conventions/2026-aps-annual-convention/poster-search</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: youtube.com  
    Title: How to overcome confirmation bias and update your mental models  
-   Link: <a href="https://www.youtube.com/watch?v=7h7G_9P1S9M" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=7h7G_9P1S9M</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Psychology of Why Misinformation Persists...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=7h7G_9P1S9M" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=7h7G_9P1S9M</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Psychology of Why Misinformation Persists...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: youtube.com  
    Title: Changing Your Mental Models (Systems Thinking)  
-   Link: <a href="https://www.youtube.com/watch?v=FqS216_5_g4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=FqS216_5_g4</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How to overcome confirmation bias and update your mental models...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=FqS216_5_g4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=FqS216_5_g4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How to overcome confirmation bias and update your mental models...</p></details>
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/258180567_Misinformation_and_Its_Correction_Continued_Influence_and_Successful_Debiasing" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/258180567_Misinformation_and_Its_Correction_Continued_Influence_and_Successful_Debiasing</a>  
+   Link:<a href="https://www.researchgate.net/publication/258180567_Misinformation_and_Its_Correction_Continued_Influence_and_Successful_Debiasing" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/258180567_Misinformation_and_Its_Correction_Continued_Influence_and_Successful_Debiasing</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: unicef.org  
-   Link: <a href="https://www.unicef.org/parenting/health/busted-7-myths-about-mental-health" target="_blank" rel="noopener noreferrer nofollow">https://www.unicef.org/parenting/health/busted-7-myths-about-mental-health</a>  
+   Link:<a href="https://www.unicef.org/parenting/health/busted-7-myths-about-mental-health" target="_blank" rel="noopener noreferrer nofollow">https://www.unicef.org/parenting/health/busted-7-myths-about-mental-health</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: nationalacademies.org  
-   Link: <a href="https://www.nationalacademies.org/read/27894/chapter/8" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalacademies.org/read/27894/chapter/8</a>  
+   Link:<a href="https://www.nationalacademies.org/read/27894/chapter/8" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalacademies.org/read/27894/chapter/8</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: emc-lab.org  
-   Link: <a href="https://www.emc-lab.org/uploads/1/1/3/6/113627673/chapter_swireecker_revised.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.emc-lab.org/uploads/1/1/3/6/113627673/chapter_swireecker_revised.pdf</a>  
+   Link:<a href="https://www.emc-lab.org/uploads/1/1/3/6/113627673/chapter_swireecker_revised.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.emc-lab.org/uploads/1/1/3/6/113627673/chapter_swireecker_revised.pdf</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: learningdiscourses.com  
-   Link: <a href="https://learningdiscourses.com/discourse/knowledge-in-pieces/" target="_blank" rel="noopener noreferrer nofollow">https://learningdiscourses.com/discourse/knowledge-in-pieces/</a>  
+   Link:<a href="https://learningdiscourses.com/discourse/knowledge-in-pieces/" target="_blank" rel="noopener noreferrer nofollow">https://learningdiscourses.com/discourse/knowledge-in-pieces/</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/AmericanPsychologicalAssociation/posts/psychologists-are-working-to-understand-the-effects-of-misinformation-and-how-it/1080266017468402/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/AmericanPsychologicalAssociation/posts/psychologists-are-working-to-understand-the-effects-of-misinformation-and-how-it/1080266017468402/</a>  
+   Link:<a href="https://www.facebook.com/AmericanPsychologicalAssociation/posts/psychologists-are-working-to-understand-the-effects-of-misinformation-and-how-it/1080266017468402/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/AmericanPsychologicalAssociation/posts/psychologists-are-working-to-understand-the-effects-of-misinformation-and-how-it/1080266017468402/</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/278716843_Reframing_the_Classical_Approach_to_Conceptual_Change_Preconceptions_Misconceptions_and_Synthetic_Models" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/278716843_Reframing_the_Classical_Approach_to_Conceptual_Change_Preconceptions_Misconceptions_and_Synthetic_Models</a>
+   Link:<a href="https://www.researchgate.net/publication/278716843_Reframing_the_Classical_Approach_to_Conceptual_Change_Preconceptions_Misconceptions_and_Synthetic_Models" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/278716843_Reframing_the_Classical_Approach_to_Conceptual_Change_Preconceptions_Misconceptions_and_Synthetic_Models</a>

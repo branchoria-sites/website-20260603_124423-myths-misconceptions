@@ -274,25 +274,25 @@ image: /assets/images/Myths_and_misconcept_0d48d7_authority_shortcuts_4b05b1_par
 
 ## Introduction
 
-[Health myths]({{ 'health-myths/' | relative_url }}) often spread not because an influencer sounds scientific, but because they sound familiar. Many followers develop a sense of personal connection with creators they watch every day. When that creator discusses diet, supplements, hormones, mental health, [vaccines]({{ 'vaccines/' | relative_url }}), fertility, or chronic illness, the advice can feel less like information from a stranger and more like guidance from a trusted friend. This one-sided sense of closeness is known as a parasocial relationship. Research suggests that parasocial bonds can increase trust, engagement, and willingness to act on recommendations, making them a powerful pathway through which health misconceptions circulate online. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Parasocial_interaction" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Parasocial interaction</span><span class="citation-popover-snippet">Parasocial interaction</span></span></span>
+[Health myths]({{ 'health-myths/' | relative_url }}) often spread not because an influencer sounds scientific, but because they sound familiar. Many followers develop a sense of personal connection with creators they watch every day. When that creator discusses diet, supplements, hormones, mental health, [vaccines]({{ 'vaccines/' | relative_url }}), fertility, or chronic illness, the advice can feel less like information from a stranger and more like guidance from a trusted friend. This one-sided sense of closeness is known as a parasocial relationship. Research suggests that parasocial bonds can increase trust, engagement, and willingness to act on recommendations, making them a powerful pathway through which health misconceptions circulate online.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Parasocial_interaction" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Parasocial interaction</span><span class="citation-popover-snippet">Parasocial interaction</span></span></span>
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_authority_shortcuts_4b05b1_parasocial_health_tr_a721ef-Illustration-1-dark.svg" | relative_url }}" alt="Felt Trust illustration 1" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_authority_shortcuts_4b05b1_parasocial_health_tr_a721ef-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_authority_shortcuts_4b05b1_parasocial_health_tr_a721ef-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-Within the broader problem of myths and misconceptions, parasocial trust matters because it changes how people evaluate evidence. Instead of asking whether a claim is supported by medical research, followers may unconsciously ask whether they trust the person delivering it. That shift can make anecdotal stories feel more persuasive than expert consensus. <span class="citation-chip-wrap"><a class="citation-chip" href="https://publichealthpost.org/mental-behavioral-health/familiar-faces-risky-choices-parasocial-relationships-and-health/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: publichealthpost.org">[Public Health Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">publichealthpost.org</span><span class="citation-popover-title">familiar faces risky choices parasocial relationships and health</span><span class="citation-popover-snippet">Public Health PostFamiliar Faces, Risky Choices: Parasocial Relationships...Apr 3, 2026 — Polished aesthetics, repeated exposure, and la...</span></span></span>
+Within the broader problem of myths and misconceptions, parasocial trust matters because it changes how people evaluate evidence. Instead of asking whether a claim is supported by medical research, followers may unconsciously ask whether they trust the person delivering it. That shift can make anecdotal stories feel more persuasive than expert consensus.<span class="citation-chip-wrap"><a class="citation-chip" href="https://publichealthpost.org/mental-behavioral-health/familiar-faces-risky-choices-parasocial-relationships-and-health/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: publichealthpost.org">[Public Health Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">publichealthpost.org</span><span class="citation-popover-title">familiar faces risky choices parasocial relationships and health</span><span class="citation-popover-snippet">Public Health PostFamiliar Faces, Risky Choices: Parasocial Relationships...Apr 3, 2026 — Polished aesthetics, repeated exposure, and la...</span></span></span>
 
 ## How One-Sided Familiarity Builds Trust
 
-Parasocial relationships are not new, but social media has intensified them. Traditional celebrities appeared at a distance. Influencers, by contrast, often share daily routines, family moments, health struggles, emotional reflections, and behind-the-scenes content. Followers see these fragments repeatedly and can develop a feeling of intimacy despite having no reciprocal relationship. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Parasocial_interaction" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Parasocial interaction</span><span class="citation-popover-snippet">Parasocial interaction</span></span></span>
+Parasocial relationships are not new, but social media has intensified them. Traditional celebrities appeared at a distance. Influencers, by contrast, often share daily routines, family moments, health struggles, emotional reflections, and behind-the-scenes content. Followers see these fragments repeatedly and can develop a feeling of intimacy despite having no reciprocal relationship.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Parasocial_interaction" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Parasocial interaction</span><span class="citation-popover-snippet">Parasocial interaction</span></span></span>
 
 This familiarity creates several shortcuts that affect how health advice is received:
 
 * **Repeated exposure creates perceived reliability.** Seeing the same person regularly can make their statements feel more credible, even when evidence is weak.
 * **Personal disclosure signals authenticity.** Influencers who discuss their illnesses, recovery journeys, fertility experiences, or mental health challenges often appear honest and relatable.
 * **Emotional connection lowers scepticism.** People tend to scrutinise information less when it comes from someone they feel they know and trust.
-* **Community reinforces belief.** Comment sections and fan communities can create social proof, making [health claims]({{ 'health-claims/' | relative_url }}) appear widely accepted. <span class="citation-chip-wrap"><a class="citation-chip" href="https://publichealthpost.org/mental-behavioral-health/familiar-faces-risky-choices-parasocial-relationships-and-health/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: publichealthpost.org">[Public Health Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">publichealthpost.org</span><span class="citation-popover-title">familiar faces risky choices parasocial relationships and health</span><span class="citation-popover-snippet">Public Health PostFamiliar Faces, Risky Choices: Parasocial Relationships...Apr 3, 2026 — Polished aesthetics, repeated exposure, and la...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://phys.org/news/2026-03-social-media-toxicity-power-misinformation.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: phys.org">[Phys.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">phys.org</span><span class="citation-popover-title">2026 03 social media toxicity power misinformation</span><span class="citation-popover-snippet">Social media influencers increase the toxicity and power of...Mar 12, 2026 — Researchers identified two influencer-specific mechanisms t...</span></span></span>
+* **Community reinforces belief.** Comment sections and fan communities can create social proof, making [health claims]({{ 'health-claims/' | relative_url }}) appear widely accepted.<span class="citation-chip-wrap"><a class="citation-chip" href="https://publichealthpost.org/mental-behavioral-health/familiar-faces-risky-choices-parasocial-relationships-and-health/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: publichealthpost.org">[Public Health Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">publichealthpost.org</span><span class="citation-popover-title">familiar faces risky choices parasocial relationships and health</span><span class="citation-popover-snippet">Public Health PostFamiliar Faces, Risky Choices: Parasocial Relationships...Apr 3, 2026 — Polished aesthetics, repeated exposure, and la...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://phys.org/news/2026-03-social-media-toxicity-power-misinformation.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: phys.org">[Phys.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">phys.org</span><span class="citation-popover-title">2026 03 social media toxicity power misinformation</span><span class="citation-popover-snippet">Social media influencers increase the toxicity and power of...Mar 12, 2026 — Researchers identified two influencer-specific mechanisms t...</span></span></span>
 
 The result is that trust may be transferred from the influencer's personality to the health claim itself. A creator who has earned credibility through lifestyle content can suddenly be treated as a reliable guide on nutrition, medicine, or disease prevention without demonstrating expertise in those fields.
 
-A notable concern is that social media [platforms]({{ 'platforms/' | relative_url }}) reward engagement rather than accuracy. Research examining nutrition content on TikTok found that highly engaging content was not necessarily more accurate or evidence-based. This means that emotionally compelling health messages can outperform careful, scientifically grounded explanations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11657387/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCHelpful or harmful?</span><span class="citation-popover-snippet">Navigating the impact of social media...by J Kaňková · 2024 · Cited by 50 — The findings underscore the importance of expanding health c...</span></span></span>
+A notable concern is that social media [platforms]({{ 'platforms/' | relative_url }}) reward engagement rather than accuracy. Research examining nutrition content on TikTok found that highly engaging content was not necessarily more accurate or evidence-based. This means that emotionally compelling health messages can outperform careful, scientifically grounded explanations.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11657387/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCHelpful or harmful?</span><span class="citation-popover-snippet">Navigating the impact of social media...by J Kaňková · 2024 · Cited by 50 — The findings underscore the importance of expanding health c...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/haJQAtaqI8Q" title="Parasocial Relationships Are Out of Control…" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=haJQAtaqI8Q" target="_blank" rel="noopener noreferrer">Parasocial Relationships Are Out of Control…</a></p><p class="youtube-embed-meta">Channel: Susannah Friesen &middot; Views: 697.3K &middot; Uploaded: September 2025 &middot; Length: 28 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=haJQAtaqI8Q" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=haJQAtaqI8Q">Open on YouTube</a></p></div></div></div>
 
@@ -302,15 +302,15 @@ Personal experience can be valuable. Patients often learn practical coping strat
 
 An influencer may sincerely believe that a particular supplement, restrictive diet, detox programme, or alternative treatment improved their health. Yet an individual outcome does not establish that the same intervention is effective or safe for others. Medical expertise requires systematic evidence, understanding of risks, awareness of conflicting findings, and knowledge of how treatments affect different populations.
 
-Research on health content creators notes that social media health information frequently lacks the scrutiny applied in professional healthcare settings, increasing the risk that misleading or oversimplified claims will spread widely. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S0001691822002463" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Parasocial relations and social media influencers...by DC Balaban · 2022 · Cited by 152 — This study addresses consumers&#x27; complex psycho...</span></span></span>
+Research on health content creators notes that social media health information frequently lacks the scrutiny applied in professional healthcare settings, increasing the risk that misleading or oversimplified claims will spread widely.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S0001691822002463" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Parasocial relations and social media influencers...by DC Balaban · 2022 · Cited by 152 — This study addresses consumers&#x27; complex psycho...</span></span></span>
 
 Several recurring patterns illustrate where lived experience becomes problematic:
 
 **The anecdote-to-rule problem.** An influencer's story is presented as proof rather than as a personal experience with many possible explanations.
 
-**The certainty problem.** Scientific evidence often contains uncertainty, while influencer content frequently rewards confident conclusions and simple narratives. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.vox.com/good-medicine-newsletter/487970/health-and-wellness-social-media-influencers-pew-report" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vox.com">[Vox]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vox.com</span><span class="citation-popover-title">health and wellness social media influencers pew report</span><span class="citation-popover-snippet">The influencer landscape is a mix of evidence-based professionals and uncredentialed individuals offering advice based on anecdotal exper...</span></span></span>
+**The certainty problem.** Scientific evidence often contains uncertainty, while influencer content frequently rewards confident conclusions and simple narratives.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.vox.com/good-medicine-newsletter/487970/health-and-wellness-social-media-influencers-pew-report" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vox.com">[Vox]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vox.com</span><span class="citation-popover-title">health and wellness social media influencers pew report</span><span class="citation-popover-snippet">The influencer landscape is a mix of evidence-based professionals and uncredentialed individuals offering advice based on anecdotal exper...</span></span></span>
 
-**The commercial problem.** Financial incentives can encourage promotion of supplements, tests, treatments, or wellness products even when supporting evidence is limited. Researchers have repeatedly identified commercial interests as a risk factor in influencer health communication. ScienceDirect <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/society/2025/feb/27/social-media-influencers-are-fearmongering-to-promote-health-tests-with-limited-evidence-study-finds" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Researchers analyzed 982 posts from Instagram and TikTok about full-body MRI scans, cancer genetic testing, testosterone blood tests, the...</span></span></span>
+**The commercial problem.** Financial incentives can encourage promotion of supplements, tests, treatments, or wellness products even when supporting evidence is limited. Researchers have repeatedly identified commercial interests as a risk factor in influencer health communication. ScienceDirect<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/society/2025/feb/27/social-media-influencers-are-fearmongering-to-promote-health-tests-with-limited-evidence-study-finds" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Researchers analyzed 982 posts from Instagram and TikTok about full-body MRI scans, cancer genetic testing, testosterone blood tests, the...</span></span></span>
 
 **The expertise-transfer problem.** Success in fitness, beauty, parenting, or lifestyle content can lead audiences to assume competence in medicine and public health.
 
@@ -319,37 +319,37 @@ These dynamics help explain why myths can survive even when [corrections]({{ 'co
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_authority_shortcuts_4b05b1_parasocial_health_tr_a721ef-Illustration-2-dark.svg" | relative_url }}" alt="Felt Trust illustration 2" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_authority_shortcuts_4b05b1_parasocial_health_tr_a721ef-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_authority_shortcuts_4b05b1_parasocial_health_tr_a721ef-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Adolescents Face Special Risks
 
-Adolescents are especially vulnerable to parasocial influence because social media is deeply integrated into [identity]({{ 'identity/' | relative_url }}) formation, peer culture, and information seeking. Research reviews have found that influencers have become an important source of health information for young people, creating opportunities for both education and misinformation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S0001691822002463" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Parasocial relations and social media influencers...by DC Balaban · 2022 · Cited by 152 — This study addresses consumers&#x27; complex psycho...</span></span></span>
+Adolescents are especially vulnerable to parasocial influence because social media is deeply integrated into [identity]({{ 'identity/' | relative_url }}) formation, peer culture, and information seeking. Research reviews have found that influencers have become an important source of health information for young people, creating opportunities for both education and misinformation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S0001691822002463" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Parasocial relations and social media influencers...by DC Balaban · 2022 · Cited by 152 — This study addresses consumers&#x27; complex psycho...</span></span></span>
 
 Several factors increase the risk:
 
 ### Health Information and Identity Become Entangled
 
-Young people often use social media to explore questions about appearance, fitness, nutrition, mental health, sexuality, and wellbeing. Advice from influencers is frequently embedded within aspirational lifestyles. As a result, accepting a health claim may feel connected to belonging, self-improvement, or group identity rather than simply evaluating evidence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S0001691822002463" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Parasocial relations and social media influencers...by DC Balaban · 2022 · Cited by 152 — This study addresses consumers&#x27; complex psycho...</span></span></span>
+Young people often use social media to explore questions about appearance, fitness, nutrition, mental health, sexuality, and wellbeing. Advice from influencers is frequently embedded within aspirational lifestyles. As a result, accepting a health claim may feel connected to belonging, self-improvement, or group identity rather than simply evaluating evidence.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S0001691822002463" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Parasocial relations and social media influencers...by DC Balaban · 2022 · Cited by 152 — This study addresses consumers&#x27; complex psycho...</span></span></span>
 
 ### Stronger Parasocial Bonds Can Increase Trust
 
-Recent research examining young people and influencer health communication found that parasocial relationships help shape exposure to, trust in, and engagement with influencer health content. In practical terms, stronger feelings of connection can make followers more likely to accept recommendations and interact with health-related promotions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/38039770/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Social media influencers and adolescents&#x27; healthby E Engel · 2024 · Cited by 214 — To gain a better understanding of these challeng...</span></span></span>
+Recent research examining young people and influencer health communication found that parasocial relationships help shape exposure to, trust in, and engagement with influencer health content. In practical terms, stronger feelings of connection can make followers more likely to accept recommendations and interact with health-related promotions.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/38039770/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Social media influencers and adolescents&#x27; healthby E Engel · 2024 · Cited by 214 — To gain a better understanding of these challeng...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/EVfOQqB9hzI" title="Why people form parasocial relationships – Cambridge Dictionary Word of the Year 2025" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=EVfOQqB9hzI" target="_blank" rel="noopener noreferrer">Why people form parasocial relationships – Cambridge Dictionary Word of the Year 2025</a></p><p class="youtube-embed-meta">Channel: Cambridge Dictionary &middot; Views: 9.1K &middot; Uploaded: November 2025 &middot; Length: 2 minutes 56 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=EVfOQqB9hzI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=EVfOQqB9hzI">Open on YouTube</a></p></div></div></div>
 
 ### Appearance and Wellness Content Often Overlap
 
-Many health myths aimed at adolescents are packaged as lifestyle advice. Nutrition trends, body-transformation routines, supplement promotions, and wellness hacks are often presented as routes to [confidence]({{ 'confidence/' | relative_url }}), attractiveness, or success. Studies have raised concerns that inaccurate nutrition content and idealised health messaging can affect both health behaviours and wellbeing among young audiences. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11657387/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCHelpful or harmful?</span><span class="citation-popover-snippet">Navigating the impact of social media...by J Kaňková · 2024 · Cited by 50 — The findings underscore the importance of expanding health c...</span></span></span>
+Many health myths aimed at adolescents are packaged as lifestyle advice. Nutrition trends, body-transformation routines, supplement promotions, and wellness hacks are often presented as routes to [confidence]({{ 'confidence/' | relative_url }}), attractiveness, or success. Studies have raised concerns that inaccurate nutrition content and idealised health messaging can affect both health behaviours and wellbeing among young audiences.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11657387/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCHelpful or harmful?</span><span class="citation-popover-snippet">Navigating the impact of social media...by J Kaňková · 2024 · Cited by 50 — The findings underscore the importance of expanding health c...</span></span></span>
 
 ### Digital Health Literacy Is Uneven
 
-Many adolescents are skilled social media users but less experienced at evaluating scientific evidence, identifying conflicts of interest, or distinguishing professional expertise from popularity. This can make emotionally compelling stories particularly persuasive. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S0001691822002463" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Parasocial relations and social media influencers...by DC Balaban · 2022 · Cited by 152 — This study addresses consumers&#x27; complex psycho...</span></span></span>
+Many adolescents are skilled social media users but less experienced at evaluating scientific evidence, identifying conflicts of interest, or distinguishing professional expertise from popularity. This can make emotionally compelling stories particularly persuasive.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S0001691822002463" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Parasocial relations and social media influencers...by DC Balaban · 2022 · Cited by 152 — This study addresses consumers&#x27; complex psycho...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/44Yg5mwLouQ" title="How Health Influencers Spread Misinformation with Mallory DeMille" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=44Yg5mwLouQ" target="_blank" rel="noopener noreferrer">How Health Influencers Spread Misinformation with Mallory DeMille</a></p><p class="youtube-embed-meta">Channel: How To: Fitness Podcast &middot; Views: 99 &middot; Uploaded: March 2026 &middot; Length: 48 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=44Yg5mwLouQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=44Yg5mwLouQ">Open on YouTube</a></p></div></div></div>
 
 ## When Trust Helps and When It Harms
 
-Parasocial trust is not inherently harmful. The same psychological mechanism that allows misinformation to spread can also support beneficial health communication. During the COVID-19 pandemic, researchers observed that strong fan communities and parasocial engagement could help amplify public-health messages when trusted figures promoted evidence-based guidance. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2110.04149" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Parasocial diffusion: K-pop fandoms help drive COVID-19 public health messaging on social mediaOctober 7, 2021...</span><span class="citation-popover-meta">Published: October 7, 2021</span></span></span>
+Parasocial trust is not inherently harmful. The same psychological mechanism that allows misinformation to spread can also support beneficial health communication. During the COVID-19 pandemic, researchers observed that strong fan communities and parasocial engagement could help amplify public-health messages when trusted figures promoted evidence-based guidance.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2110.04149" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Parasocial diffusion: K-pop fandoms help drive COVID-19 public health messaging on social mediaOctober 7, 2021...</span><span class="citation-popover-meta">Published: October 7, 2021</span></span></span>
 
 The key distinction is not whether followers trust a creator, but whether that trust is attached to accurate information and appropriate expertise.
 
-Problems emerge when trust replaces verification. Influencers may encourage medical testing with limited evidence, promote unproven treatments, exaggerate risks, or frame complex health issues through emotionally powerful personal narratives. Studies examining influencer health content have highlighted concerns about fear-based messaging, omission of harms, and the promotion of interventions that lack strong supporting evidence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/society/2025/feb/27/social-media-influencers-are-fearmongering-to-promote-health-tests-with-limited-evidence-study-finds" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Researchers analyzed 982 posts from Instagram and TikTok about full-body MRI scans, cancer genetic testing, testosterone blood tests, the...</span></span></span>
+Problems emerge when trust replaces verification. Influencers may encourage medical testing with limited evidence, promote unproven treatments, exaggerate risks, or frame complex health issues through emotionally powerful personal narratives. Studies examining influencer health content have highlighted concerns about fear-based messaging, omission of harms, and the promotion of interventions that lack strong supporting evidence.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/society/2025/feb/27/social-media-influencers-are-fearmongering-to-promote-health-tests-with-limited-evidence-study-finds" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Researchers analyzed 982 posts from Instagram and TikTok about full-body MRI scans, cancer genetic testing, testosterone blood tests, the...</span></span></span>
 
 In these situations, parasocial trust acts as a credibility shortcut. The follower's confidence comes less from evaluating the claim and more from confidence in the person making it.
 
@@ -358,197 +358,197 @@ In these situations, parasocial trust acts as a credibility shortcut. The follow
 
 The central misconception is subtle but important: feeling that a creator cares about you is not evidence that their health advice is correct. Parasocial relationships can create genuine feelings of comfort, support, and community. They can also make misinformation seem personal, trustworthy, and difficult to question.
 
-As health information increasingly moves through influencer culture, the most important distinction is between relational trust and evidential trust. A creator may be authentic, compassionate, and well-intentioned while still being mistaken about a medical claim. Recognising that difference helps explain why health myths often spread through familiar faces rather than through formal authority alone. <span class="citation-chip-wrap"><a class="citation-chip" href="https://publichealthpost.org/mental-behavioral-health/familiar-faces-risky-choices-parasocial-relationships-and-health/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: publichealthpost.org">[Public Health Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">publichealthpost.org</span><span class="citation-popover-title">familiar faces risky choices parasocial relationships and health</span><span class="citation-popover-snippet">Public Health PostFamiliar Faces, Risky Choices: Parasocial Relationships...Apr 3, 2026 — Polished aesthetics, repeated exposure, and la...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/pii/S0001691822002463" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Parasocial relations and social media influencers...by DC Balaban · 2022 · Cited by 152 — This study addresses consumers&#x27; complex psycho...</span></span></span>
+As health information increasingly moves through influencer culture, the most important distinction is between relational trust and evidential trust. A creator may be authentic, compassionate, and well-intentioned while still being mistaken about a medical claim. Recognising that difference helps explain why health myths often spread through familiar faces rather than through formal authority alone.<span class="citation-chip-wrap"><a class="citation-chip" href="https://publichealthpost.org/mental-behavioral-health/familiar-faces-risky-choices-parasocial-relationships-and-health/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: publichealthpost.org">[Public Health Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">publichealthpost.org</span><span class="citation-popover-title">familiar faces risky choices parasocial relationships and health</span><span class="citation-popover-snippet">Public Health PostFamiliar Faces, Risky Choices: Parasocial Relationships...Apr 3, 2026 — Polished aesthetics, repeated exposure, and la...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/pii/S0001691822002463" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Parasocial relations and social media influencers...by DC Balaban · 2022 · Cited by 152 — This study addresses consumers&#x27; complex psycho...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Influencer Health Advice Feels Personal. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Influencer Health Advice Feels Personal. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Talk+to+a+Science+Denier+by+Lee+McIntyre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Talk to a Science Denier on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=txhgEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How to Talk to a Science Denier" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+to+Talk+to+a+Science+Denier+by+Lee+McIntyre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Talk to a Science Denier">How to Talk to a Science Denier</a>
-        </h4>
-        <p class="fr-book-author">By Lee McIntyre</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Talk+to+a+Science+Denier+by+Lee+McIntyre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Talk to a Science Denier on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=txhgEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How to Talk to a Science Denier" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=How+to+Talk+to+a+Science+Denier+by+Lee+McIntyre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Talk to a Science Denier">How to Talk to a Science Denier</a>
+</h4>
+<p class="fr-book-author">By Lee McIntyre</p>
         
-        <p class="fr-book-desc">Explains trust-driven belief formation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+to+Talk+to+a+Science+Denier+by+Lee+McIntyre&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains trust-driven belief formation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=How+to+Talk+to+a+Science+Denier+by+Lee+McIntyre&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Righteous+Mind+Jonathan+Haidt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Righteous Mind on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/7256782-M.jpg" alt="Cover for The Righteous Mind" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Righteous+Mind+Jonathan+Haidt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Righteous Mind">The Righteous Mind</a>
-        </h4>
-        <p class="fr-book-author">By Jonathan Haidt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Righteous+Mind+Jonathan+Haidt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Righteous Mind on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/7256782-M.jpg" alt="Cover for The Righteous Mind" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Righteous+Mind+Jonathan+Haidt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Righteous Mind">The Righteous Mind</a>
+</h4>
+<p class="fr-book-author">By Jonathan Haidt</p>
         
-        <p class="fr-book-desc">First published 2012. Subjects: Political psychology, Social psychology, Ethics, Religious Psychology, nyt:combined-print-and-e-book-nonf...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Righteous+Mind+Jonathan+Haidt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2012. Subjects: Political psychology, Social psychology, Ethics, Religious Psychology, nyt:combined-print-and-e-book-nonf...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Righteous+Mind+Jonathan+Haidt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Bad+Advice+Paul+A.+Offit&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Bad Advice on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/12020552-M.jpg" alt="Cover for Bad Advice" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Bad+Advice+Paul+A.+Offit&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Bad Advice">Bad Advice</a>
-        </h4>
-        <p class="fr-book-author">By Paul A. Offit</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Bad+Advice+Paul+A.+Offit&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Bad Advice on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/12020552-M.jpg" alt="Cover for Bad Advice" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Bad+Advice+Paul+A.+Offit&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Bad Advice">Bad Advice</a>
+</h4>
+<p class="fr-book-author">By Paul A. Offit</p>
         
-        <p class="fr-book-desc">First published 2021.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Bad+Advice+Paul+A.+Offit&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2021.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Bad+Advice+Paul+A.+Offit&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Influence+by+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Influence on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Influence+by+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Influence">Influence</a>
-        </h4>
-        <p class="fr-book-author">By Robert B. Cialdini</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Influence+by+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Influence on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Influence+by+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Influence">Influence</a>
+</h4>
+<p class="fr-book-author">By Robert B. Cialdini</p>
         
-        <p class="fr-book-desc">Relevant to parasocial trust and persuasion.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Influence+by+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Relevant to parasocial trust and persuasion.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Influence+by+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Talk+to+a+Science+Denier&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Talk to a Science Denier</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Righteous+Mind&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Righteous Mind</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Bad+Advice&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Bad Advice</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Talk+to+a+Science+Denier&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Talk to a Science Denier</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Righteous+Mind&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Righteous Mind</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Bad+Advice&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Bad Advice</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=public+health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=felt-trust-why-influencer-health-advice-feels-personal-myths-and-misconcept-public-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="public health poster" data-ebay-reference="felt-trust-why-influencer-health-advice-feels-personal-myths-and-misconcept-public-health-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage 1950s public health awareness advert poster"><img src="{{ '/assets/images/marketplace-covers/69cc58475db8cafc34b2.jpg' | relative_url }}" alt="Listing image for Vintage 1950s public health awareness advert poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=public+health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=felt-trust-why-influencer-health-advice-feels-personal-myths-and-misconcept-public-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="public health poster" data-ebay-reference="felt-trust-why-influencer-health-advice-feels-personal-myths-and-misconcept-public-health-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage 1950s public health awareness advert poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=public+health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=felt-trust-why-influencer-health-advice-feels-personal-myths-and-misconcept-public-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="public health poster" data-ebay-reference="felt-trust-why-influencer-health-advice-feels-personal-myths-and-misconcept-public-health-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for public health poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: public health poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=public+health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=felt-trust-why-influencer-health-advice-feels-personal-myths-and-misconcept-public-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="public health poster" data-ebay-reference="felt-trust-why-influencer-health-advice-feels-personal-myths-and-misconcept-public-health-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=public+health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=felt-trust-why-influencer-health-advice-feels-personal-myths-and-misconcept-public-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="public health poster" data-ebay-reference="felt-trust-why-influencer-health-advice-feels-personal-myths-and-misconcept-public-health-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage 1950s public health awareness advert poster"><img src="{{ '/assets/images/marketplace-covers/69cc58475db8cafc34b2.jpg' | relative_url }}" alt="Listing image for Vintage 1950s public health awareness advert poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=public+health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=felt-trust-why-influencer-health-advice-feels-personal-myths-and-misconcept-public-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="public health poster" data-ebay-reference="felt-trust-why-influencer-health-advice-feels-personal-myths-and-misconcept-public-health-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage 1950s public health awareness advert poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=public+health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=felt-trust-why-influencer-health-advice-feels-personal-myths-and-misconcept-public-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="public health poster" data-ebay-reference="felt-trust-why-influencer-health-advice-feels-personal-myths-and-misconcept-public-health-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for public health poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: public health poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=public+health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=felt-trust-why-influencer-health-advice-feels-personal-myths-and-misconcept-public-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="public health poster" data-ebay-reference="felt-trust-why-influencer-health-advice-feels-personal-myths-and-misconcept-public-health-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=public+health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=felt-trust-why-influencer-health-advice-feels-personal-myths-and-misconcept-public-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="public health poster" data-ebay-reference="felt-trust-why-influencer-health-advice-feels-personal-myths-and-misconcept-public-health-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage 1950s public health awareness advert poster"><img src="{{ '/assets/images/marketplace-covers/26b25d9d44b21db71d19.jpg' | relative_url }}" alt="Listing image for Vintage 1950s public health awareness advert poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=public+health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=felt-trust-why-influencer-health-advice-feels-personal-myths-and-misconcept-public-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="public health poster" data-ebay-reference="felt-trust-why-influencer-health-advice-feels-personal-myths-and-misconcept-public-health-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage 1950s public health awareness advert poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=public+health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=felt-trust-why-influencer-health-advice-feels-personal-myths-and-misconcept-public-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="public health poster" data-ebay-reference="felt-trust-why-influencer-health-advice-feels-personal-myths-and-misconcept-public-health-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for public health poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: public health poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=public+health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=felt-trust-why-influencer-health-advice-feels-personal-myths-and-misconcept-public-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="public health poster" data-ebay-reference="felt-trust-why-influencer-health-advice-feels-personal-myths-and-misconcept-public-health-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=public+health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=felt-trust-why-influencer-health-advice-feels-personal-myths-and-misconcept-public-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="public health poster" data-ebay-reference="felt-trust-why-influencer-health-advice-feels-personal-myths-and-misconcept-public-health-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage 1950s public health awareness advert poster"><img src="{{ '/assets/images/marketplace-covers/26b25d9d44b21db71d19.jpg' | relative_url }}" alt="Listing image for Vintage 1950s public health awareness advert poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=public+health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=felt-trust-why-influencer-health-advice-feels-personal-myths-and-misconcept-public-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="public health poster" data-ebay-reference="felt-trust-why-influencer-health-advice-feels-personal-myths-and-misconcept-public-health-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage 1950s public health awareness advert poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=public+health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=felt-trust-why-influencer-health-advice-feels-personal-myths-and-misconcept-public-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="public health poster" data-ebay-reference="felt-trust-why-influencer-health-advice-feels-personal-myths-and-misconcept-public-health-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for public health poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: public health poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=public+health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=felt-trust-why-influencer-health-advice-feels-personal-myths-and-misconcept-public-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="public health poster" data-ebay-reference="felt-trust-why-influencer-health-advice-feels-personal-myths-and-misconcept-public-health-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=public+health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=felt-trust-why-influencer-health-advice-feels-personal-myths-and-misconcept-public-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="public health poster" data-ebay-reference="felt-trust-why-influencer-health-advice-feels-personal-myths-and-misconcept-public-health-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage 1950s public health awareness advert poster"><img src="{{ '/assets/images/marketplace-covers/89316df3874ca53ba5a6.jpg' | relative_url }}" alt="Listing image for Vintage 1950s public health awareness advert poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=public+health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=felt-trust-why-influencer-health-advice-feels-personal-myths-and-misconcept-public-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="public health poster" data-ebay-reference="felt-trust-why-influencer-health-advice-feels-personal-myths-and-misconcept-public-health-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage 1950s public health awareness advert poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=public+health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=felt-trust-why-influencer-health-advice-feels-personal-myths-and-misconcept-public-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="public health poster" data-ebay-reference="felt-trust-why-influencer-health-advice-feels-personal-myths-and-misconcept-public-health-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for public health poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: public health poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=public+health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=felt-trust-why-influencer-health-advice-feels-personal-myths-and-misconcept-public-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="public health poster" data-ebay-reference="felt-trust-why-influencer-health-advice-feels-personal-myths-and-misconcept-public-health-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=public+health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=felt-trust-why-influencer-health-advice-feels-personal-myths-and-misconcept-public-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="public health poster" data-ebay-reference="felt-trust-why-influencer-health-advice-feels-personal-myths-and-misconcept-public-health-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage 1950s public health awareness advert poster"><img src="{{ '/assets/images/marketplace-covers/89316df3874ca53ba5a6.jpg' | relative_url }}" alt="Listing image for Vintage 1950s public health awareness advert poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=public+health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=felt-trust-why-influencer-health-advice-feels-personal-myths-and-misconcept-public-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="public health poster" data-ebay-reference="felt-trust-why-influencer-health-advice-feels-personal-myths-and-misconcept-public-health-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage 1950s public health awareness advert poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=public+health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=felt-trust-why-influencer-health-advice-feels-personal-myths-and-misconcept-public-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="public health poster" data-ebay-reference="felt-trust-why-influencer-health-advice-feels-personal-myths-and-misconcept-public-health-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for public health poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: public health poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=public+health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=felt-trust-why-influencer-health-advice-feels-personal-myths-and-misconcept-public-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="public health poster" data-ebay-reference="felt-trust-why-influencer-health-advice-feels-personal-myths-and-misconcept-public-health-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=public+health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=felt-trust-why-influencer-health-advice-feels-personal-myths-and-misconcept-public-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="public health poster" data-ebay-reference="felt-trust-why-influencer-health-advice-feels-personal-myths-and-misconcept-public-health-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Aihrgdesign A Hopeful Public Health Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/2533f13b6b0ba14fe5f5.jpg' | relative_url }}" alt="Listing image for Aihrgdesign A Hopeful Public Health Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=public+health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=felt-trust-why-influencer-health-advice-feels-personal-myths-and-misconcept-public-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="public health poster" data-ebay-reference="felt-trust-why-influencer-health-advice-feels-personal-myths-and-misconcept-public-health-poster" target="_blank" rel="sponsored noopener noreferrer">Aihrgdesign A Hopeful Public Health Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=public+health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=felt-trust-why-influencer-health-advice-feels-personal-myths-and-misconcept-public-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="public health poster" data-ebay-reference="felt-trust-why-influencer-health-advice-feels-personal-myths-and-misconcept-public-health-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for public health poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: public health poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=public+health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=felt-trust-why-influencer-health-advice-feels-personal-myths-and-misconcept-public-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="public health poster" data-ebay-reference="felt-trust-why-influencer-health-advice-feels-personal-myths-and-misconcept-public-health-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=public+health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=felt-trust-why-influencer-health-advice-feels-personal-myths-and-misconcept-public-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="public health poster" data-ebay-reference="felt-trust-why-influencer-health-advice-feels-personal-myths-and-misconcept-public-health-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=public+health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=felt-trust-why-influencer-health-advice-feels-personal-myths-and-misconcept-public-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="public health poster" data-ebay-reference="felt-trust-why-influencer-health-advice-feels-personal-myths-and-misconcept-public-health-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Aihrgdesign A Hopeful Public Health Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/2533f13b6b0ba14fe5f5.jpg' | relative_url }}" alt="Listing image for Aihrgdesign A Hopeful Public Health Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=public+health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=felt-trust-why-influencer-health-advice-feels-personal-myths-and-misconcept-public-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="public health poster" data-ebay-reference="felt-trust-why-influencer-health-advice-feels-personal-myths-and-misconcept-public-health-poster" target="_blank" rel="sponsored noopener noreferrer">Aihrgdesign A Hopeful Public Health Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=public+health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=felt-trust-why-influencer-health-advice-feels-personal-myths-and-misconcept-public-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="public health poster" data-ebay-reference="felt-trust-why-influencer-health-advice-feels-personal-myths-and-misconcept-public-health-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for public health poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: public health poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=public+health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=felt-trust-why-influencer-health-advice-feels-personal-myths-and-misconcept-public-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="public health poster" data-ebay-reference="felt-trust-why-influencer-health-advice-feels-personal-myths-and-misconcept-public-health-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=public+health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=felt-trust-why-influencer-health-advice-feels-personal-myths-and-misconcept-public-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="public health poster" data-ebay-reference="felt-trust-why-influencer-health-advice-feels-personal-myths-and-misconcept-public-health-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -564,7 +564,7 @@ As health information increasingly moves through influencer culture, the most im
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -584,7 +584,7 @@ As health information increasingly moves through influencer culture, the most im
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -616,7 +616,7 @@ As health information increasingly moves through influencer culture, the most im
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -668,7 +668,7 @@ As health information increasingly moves through influencer culture, the most im
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -713,7 +713,7 @@ As health information increasingly moves through influencer culture, the most im
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -754,144 +754,144 @@ As health information increasingly moves through influencer culture, the most im
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Parasocial interaction  
-   Link: <a href="https://en.wikipedia.org/wiki/Parasocial_interaction" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Parasocial_interaction</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Parasocial_interaction" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Parasocial_interaction</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0001691822002463" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0001691822002463</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Parasocial relations and social media influencers...by DC Balaban · 2022 · Cited by 152 — This study addresses consumers&#x27; complex psycho...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/pii/S0001691822002463" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0001691822002463</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Parasocial relations and social media influencers...by DC Balaban · 2022 · Cited by 152 — This study addresses consumers&#x27; complex psycho...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0195666324006160" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0195666324006160</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Processing and acceptance of health content creators...by M Lissens · 2025 · Cited by 9 — Nutrition misinformation on socia...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/pii/S0195666324006160" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0195666324006160</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Processing and acceptance of health content creators...by M Lissens · 2025 · Cited by 9 — Nutrition misinformation on socia...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: phys.org  
    Title: 2026 03 social media toxicity power misinformation  
-   Link: <a href="https://phys.org/news/2026-03-social-media-toxicity-power-misinformation.html" target="_blank" rel="noopener noreferrer nofollow">https://phys.org/news/2026-03-social-media-toxicity-power-misinformation.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Social media influencers increase the toxicity and power of...Mar 12, 2026 — Researchers identified two influencer-specific mechanisms t...</p></details>
+   Link:<a href="https://phys.org/news/2026-03-social-media-toxicity-power-misinformation.html" target="_blank" rel="noopener noreferrer nofollow">https://phys.org/news/2026-03-social-media-toxicity-power-misinformation.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Social media influencers increase the toxicity and power of...Mar 12, 2026 — Researchers identified two influencer-specific mechanisms t...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11901546/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11901546/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Quality, Accuracy, and Engagement of Nutrition Content...by M Zeng · 2025 · Cited by 36 — Future research should explore interven...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11901546/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11901546/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Quality, Accuracy, and Engagement of Nutrition Content...by M Zeng · 2025 · Cited by 36 — Future research should explore interven...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCHelpful or harmful?  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11657387/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11657387/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Navigating the impact of social media...by J Kaňková · 2024 · Cited by 50 — The findings underscore the importance of expanding health c...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11657387/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11657387/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Navigating the impact of social media...by J Kaňková · 2024 · Cited by 50 — The findings underscore the importance of expanding health c...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: vox.com  
    Title: health and wellness social media influencers pew report  
-   Link: <a href="https://www.vox.com/good-medicine-newsletter/487970/health-and-wellness-social-media-influencers-pew-report" target="_blank" rel="noopener noreferrer nofollow">https://www.vox.com/good-medicine-newsletter/487970/health-and-wellness-social-media-influencers-pew-report</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The influencer landscape is a mix of evidence-based professionals and uncredentialed individuals offering advice based on anecdotal exper...</p></details>
+   Link:<a href="https://www.vox.com/good-medicine-newsletter/487970/health-and-wellness-social-media-influencers-pew-report" target="_blank" rel="noopener noreferrer nofollow">https://www.vox.com/good-medicine-newsletter/487970/health-and-wellness-social-media-influencers-pew-report</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The influencer landscape is a mix of evidence-based professionals and uncredentialed individuals offering advice based on anecdotal exper...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/pii/S027795362300744X" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S027795362300744X</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Social media influencers and adolescents&#x27; healthby E Engel · 2024 · Cited by 214 — To gain a better understanding of these c...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/pii/S027795362300744X" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S027795362300744X</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Social media influencers and adolescents&#x27; healthby E Engel · 2024 · Cited by 214 — To gain a better understanding of these c...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2110.04149" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2110.04149</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Parasocial diffusion: K-pop fandoms help drive COVID-19 public health messaging on social mediaOctober 7, 2021...</p></details>
+   Link:<a href="https://arxiv.org/abs/2110.04149" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2110.04149</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Parasocial diffusion: K-pop fandoms help drive COVID-19 public health messaging on social mediaOctober 7, 2021...</p></details>
    Published: October 7, 2021  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0747563225003437" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0747563225003437</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Encouraging Critical Reflection as a Shield against Health...by J Kaňková · 2025 · Cited by 1 — First, it examined the effects of misinf...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/pii/S0747563225003437" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0747563225003437</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Encouraging Critical Reflection as a Shield against Health...by J Kaňková · 2025 · Cited by 1 — First, it examined the effects of misinf...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0277953623008298" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0277953623008298</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The impact of social media influencers on health outcomesby J Powell · 2024 · Cited by 179 — We also need to investigate the spread of he...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/pii/S0277953623008298" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0277953623008298</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The impact of social media influencers on health outcomesby J Powell · 2024 · Cited by 179 — We also need to investigate the spread of he...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/pii/S1054139X2500415X" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S1054139X2500415X</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Engagement With Influencers as Sources of Health...by E Engel · 2025 · Cited by 1 — This study examines influencers&#x27; role in shaping you...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/pii/S1054139X2500415X" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S1054139X2500415X</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Engagement With Influencers as Sources of Health...by E Engel · 2025 · Cited by 1 — This study examines influencers&#x27; role in shaping you...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: publichealthpost.org  
    Title: familiar faces risky choices parasocial relationships and health  
-   Link: <a href="https://publichealthpost.org/mental-behavioral-health/familiar-faces-risky-choices-parasocial-relationships-and-health/" target="_blank" rel="noopener noreferrer nofollow">https://publichealthpost.org/mental-behavioral-health/familiar-faces-risky-choices-parasocial-relationships-and-health/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Public Health PostFamiliar Faces, Risky Choices: Parasocial Relationships...Apr 3, 2026 — Polished aesthetics, repeated exposure, and la...</p></details>
+   Link:<a href="https://publichealthpost.org/mental-behavioral-health/familiar-faces-risky-choices-parasocial-relationships-and-health/" target="_blank" rel="noopener noreferrer nofollow">https://publichealthpost.org/mental-behavioral-health/familiar-faces-risky-choices-parasocial-relationships-and-health/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Public Health PostFamiliar Faces, Risky Choices: Parasocial Relationships...Apr 3, 2026 — Polished aesthetics, repeated exposure, and la...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/society/2025/feb/27/social-media-influencers-are-fearmongering-to-promote-health-tests-with-limited-evidence-study-finds" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/society/2025/feb/27/social-media-influencers-are-fearmongering-to-promote-health-tests-with-limited-evidence-study-finds</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Researchers analyzed 982 posts from Instagram and TikTok about full-body MRI scans, cancer genetic testing, testosterone blood tests, the...</p></details>
+   Link:<a href="https://www.theguardian.com/society/2025/feb/27/social-media-influencers-are-fearmongering-to-promote-health-tests-with-limited-evidence-study-finds" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/society/2025/feb/27/social-media-influencers-are-fearmongering-to-promote-health-tests-with-limited-evidence-study-finds</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Researchers analyzed 982 posts from Instagram and TikTok about full-body MRI scans, cancer genetic testing, testosterone blood tests, the...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/38039770/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/38039770/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Social media influencers and adolescents&#x27; healthby E Engel · 2024 · Cited by 214 — To gain a better understanding of these challeng...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/38039770/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/38039770/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Social media influencers and adolescents&#x27; healthby E Engel · 2024 · Cited by 214 — To gain a better understanding of these challeng...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/41171245/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/41171245/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>health literacy, and parasocial relationships influence exposure, trust, and engagement...Read more...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/41171245/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/41171245/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>health literacy, and parasocial relationships influence exposure, trust, and engagement...Read more...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: dictionary.cambridge.org  
-   Link: <a href="https://dictionary.cambridge.org/dictionary/english/parasocial" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/dictionary/english/parasocial</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>English meaning - Cambridge Dictionary4 days ago — PARASOCIAL definition: 1. involving or relating to a connection that someone feels b...</p></details>
+   Link:<a href="https://dictionary.cambridge.org/dictionary/english/parasocial" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/dictionary/english/parasocial</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>English meaning - Cambridge Dictionary4 days ago — PARASOCIAL definition: 1. involving or relating to a connection that someone feels b...</p></details>
 
 ### Additional References
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/375674494_Social_media_influencers_and_adolescents%27_health_A_scoping_review_of_the_research_field" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/375674494_Social_media_influencers_and_adolescents%27_health_A_scoping_review_of_the_research_field</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Social media influencers and adolescents&#x27; health1 Dec 2023 — Most studies focused on the negative roles of SMIs, such as the promot...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/375674494_Social_media_influencers_and_adolescents%27_health_A_scoping_review_of_the_research_field" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/375674494_Social_media_influencers_and_adolescents%27_health_A_scoping_review_of_the_research_field</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Social media influencers and adolescents&#x27; health1 Dec 2023 — Most studies focused on the negative roles of SMIs, such as the promot...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: vogue.com  
-   Link: <a href="https://www.vogue.com/article/what-is-a-parasocial-relationship" target="_blank" rel="noopener noreferrer nofollow">https://www.vogue.com/article/what-is-a-parasocial-relationship</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Une relation parasociale est une connexion émotionnelle unilatérale que les gens forment avec des célébrités, des personnages médiatiques...</p></details>
+   Link:<a href="https://www.vogue.com/article/what-is-a-parasocial-relationship" target="_blank" rel="noopener noreferrer nofollow">https://www.vogue.com/article/what-is-a-parasocial-relationship</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Une relation parasociale est une connexion émotionnelle unilatérale que les gens forment avec des célébrités, des personnages médiatiques...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: news-medical.net  
-   Link: <a href="https://www.news-medical.net/news/20231122/Navigating-the-influencer-landscape-The-positive-and-negative-effects-of-social-media-influencers-on-adolescents.aspx" target="_blank" rel="noopener noreferrer nofollow">https://www.news-medical.net/news/20231122/Navigating-the-influencer-landscape-The-positive-and-negative-effects-of-social-media-influencers-on-adolescents.aspx</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Navigating the influencer landscape: The positive and...Nov 22, 2023 — The study findings indicate that although SMIs can harm mental an...</p></details>
+   Link:<a href="https://www.news-medical.net/news/20231122/Navigating-the-influencer-landscape-The-positive-and-negative-effects-of-social-media-influencers-on-adolescents.aspx" target="_blank" rel="noopener noreferrer nofollow">https://www.news-medical.net/news/20231122/Navigating-the-influencer-landscape-The-positive-and-negative-effects-of-social-media-influencers-on-adolescents.aspx</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Navigating the influencer landscape: The positive and...Nov 22, 2023 — The study findings indicate that although SMIs can harm mental an...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: hifa.org  
-   Link: <a href="https://www.hifa.org/dgroups-rss/social-media-influencers-and-health-misinformation" target="_blank" rel="noopener noreferrer nofollow">https://www.hifa.org/dgroups-rss/social-media-influencers-and-health-misinformation</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Social media influencers and health misinformationSocial media influencers and health misinformation... Dear HIFA colleagues. This week...</p></details>
+   Link:<a href="https://www.hifa.org/dgroups-rss/social-media-influencers-and-health-misinformation" target="_blank" rel="noopener noreferrer nofollow">https://www.hifa.org/dgroups-rss/social-media-influencers-and-health-misinformation</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Social media influencers and health misinformationSocial media influencers and health misinformation... Dear HIFA colleagues. This week...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: ouci.dntb.gov.ua  
-   Link: <a href="https://ouci.dntb.gov.ua/en/works/lewxjxJ7/" target="_blank" rel="noopener noreferrer nofollow">https://ouci.dntb.gov.ua/en/works/lewxjxJ7/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>media influencers and adolescents&#x27; healthThis study analyzes Douyin using an integrated source–content–effect framework, identifies infot...</p></details>
+   Link:<a href="https://ouci.dntb.gov.ua/en/works/lewxjxJ7/" target="_blank" rel="noopener noreferrer nofollow">https://ouci.dntb.gov.ua/en/works/lewxjxJ7/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>media influencers and adolescents&#x27; healthThis study analyzes Douyin using an integrated source–content–effect framework, identifies infot...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: scilit.com  
-   Link: <a href="https://www.scilit.com/publications/d27ab4656618f83b4eb559a19fc1343f" target="_blank" rel="noopener noreferrer nofollow">https://www.scilit.com/publications/d27ab4656618f83b4eb559a19fc1343f</a>  
+   Link:<a href="https://www.scilit.com/publications/d27ab4656618f83b4eb559a19fc1343f" target="_blank" rel="noopener noreferrer nofollow">https://www.scilit.com/publications/d27ab4656618f83b4eb559a19fc1343f</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: thesun.co.uk  
-   Link: <a href="https://www.thesun.co.uk/health/37526858/kardashians-influencers-bad-medical-advice-health/" target="_blank" rel="noopener noreferrer nofollow">https://www.thesun.co.uk/health/37526858/kardashians-influencers-bad-medical-advice-health/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A study highlighted in the British Medical Journal noted that influencers often lack medical training, are swayed by industry deals, and...</p></details>
+   Link:<a href="https://www.thesun.co.uk/health/37526858/kardashians-influencers-bad-medical-advice-health/" target="_blank" rel="noopener noreferrer nofollow">https://www.thesun.co.uk/health/37526858/kardashians-influencers-bad-medical-advice-health/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A study highlighted in the British Medical Journal noted that influencers often lack medical training, are swayed by industry deals, and...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: research.usc.edu.au  
-   Link: <a href="https://research.usc.edu.au/esploro/outputs/journalArticle/Going-Viral-Sharing-of-Misinformation-by/991062952902621" target="_blank" rel="noopener noreferrer nofollow">https://research.usc.edu.au/esploro/outputs/journalArticle/Going-Viral-Sharing-of-Misinformation-by/991062952902621</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Viral: Sharing of Misinformation by Social Media...by R Mulcahy · Cited by 29 — It investigates the virality of misinformation posts by...</p></details>
+   Link:<a href="https://research.usc.edu.au/esploro/outputs/journalArticle/Going-Viral-Sharing-of-Misinformation-by/991062952902621" target="_blank" rel="noopener noreferrer nofollow">https://research.usc.edu.au/esploro/outputs/journalArticle/Going-Viral-Sharing-of-Misinformation-by/991062952902621</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Viral: Sharing of Misinformation by Social Media...by R Mulcahy · Cited by 29 — It investigates the virality of misinformation posts by...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: publizistik.univie.ac.at  
-   Link: <a href="https://publizistik.univie.ac.at/en/news/single-news/health-misinformation-by-social-media-influencers-encouraging-critical-reflection" target="_blank" rel="noopener noreferrer nofollow">https://publizistik.univie.ac.at/en/news/single-news/health-misinformation-by-social-media-influencers-encouraging-critical-reflection</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>misinformation by social media influencersMar 25, 2026 — The study tracked the following outcomes: belief inaccuracy, message credibility...</p></details>
+   Link:<a href="https://publizistik.univie.ac.at/en/news/single-news/health-misinformation-by-social-media-influencers-encouraging-critical-reflection" target="_blank" rel="noopener noreferrer nofollow">https://publizistik.univie.ac.at/en/news/single-news/health-misinformation-by-social-media-influencers-encouraging-critical-reflection</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>misinformation by social media influencersMar 25, 2026 — The study tracked the following outcomes: belief inaccuracy, message credibility...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: cancertherapyadvisor.com  
    Title: some social media influencers promote misinformation about pharmaceutical drugs  
-   Link: <a href="https://www.cancertherapyadvisor.com/news/some-social-media-influencers-promote-misinformation-about-pharmaceutical-drugs/" target="_blank" rel="noopener noreferrer nofollow">https://www.cancertherapyadvisor.com/news/some-social-media-influencers-promote-misinformation-about-pharmaceutical-drugs/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Some Social Media Influencers Promote Misinformation...Apr 1, 2026 — A review of 12 articles showed that social media influencers consis...</p></details>
+   Link:<a href="https://www.cancertherapyadvisor.com/news/some-social-media-influencers-promote-misinformation-about-pharmaceutical-drugs/" target="_blank" rel="noopener noreferrer nofollow">https://www.cancertherapyadvisor.com/news/some-social-media-influencers-promote-misinformation-about-pharmaceutical-drugs/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Some Social Media Influencers Promote Misinformation...Apr 1, 2026 — A review of 12 articles showed that social media influencers consis...</p></details>

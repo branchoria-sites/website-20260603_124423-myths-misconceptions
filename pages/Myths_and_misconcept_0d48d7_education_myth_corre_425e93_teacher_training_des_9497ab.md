@@ -268,7 +268,7 @@ image: /assets/images/Myths_and_misconcept_0d48d7_education_myth_corre_425e93_te
 
 ## Introduction
 
-Teacher training does not keep myths corrected simply by presenting better information. Educational myths survive because they become embedded in lesson plans, assessment templates, staff discussions, commercial resources and professional habits. Effective training therefore has to do more than debunk a claim once. It must change the decisions teachers make, provide credible alternatives, reinforce those alternatives over time, and remove the organisational structures that allow the myth to reappear. Research on [neuromyths]({{ 'neuromyths/' | relative_url }}), conceptual change and professional learning consistently shows that belief [correction]({{ 'correction/' | relative_url }}) is possible, but that gains are often weakened when training ends, materials remain unchanged, or teachers receive no follow-up support. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2021.719692/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-title">Are refutation-based interventions effective at dispelling</span><span class="citation-popover-snippet">terventions to Dispel Neuromyths in Educational Settings...by L Rousseau · 2021 · Cited by 74 — The following questions are e...</span></span></span> ScienceDirect The design challenge is therefore a governance challenge as much as a knowledge challenge: how schools <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/abs/pii/S2211368121000140" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[sciencedirect.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Correcting Neuromyths: A Comparison of Different Types...by MPG Lithander · 2021 · Cited by 40 — Results showed that all th...</span></span></span>, training providers and education systems can build correction into ongoing practice rather than treating it as a one-off workshop.
+Teacher training does not keep myths corrected simply by presenting better information. Educational myths survive because they become embedded in lesson plans, assessment templates, staff discussions, commercial resources and professional habits. Effective training therefore has to do more than debunk a claim once. It must change the decisions teachers make, provide credible alternatives, reinforce those alternatives over time, and remove the organisational structures that allow the myth to reappear. Research on [neuromyths]({{ 'neuromyths/' | relative_url }}), conceptual change and professional learning consistently shows that belief [correction]({{ 'correction/' | relative_url }}) is possible, but that gains are often weakened when training ends, materials remain unchanged, or teachers receive no follow-up support.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2021.719692/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-title">Are refutation-based interventions effective at dispelling</span><span class="citation-popover-snippet">terventions to Dispel Neuromyths in Educational Settings...by L Rousseau · 2021 · Cited by 74 — The following questions are e...</span></span></span> ScienceDirect The design challenge is therefore a governance challenge as much as a knowledge challenge: how schools<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/abs/pii/S2211368121000140" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[sciencedirect.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Correcting Neuromyths: A Comparison of Different Types...by MPG Lithander · 2021 · Cited by 40 — Results showed that all th...</span></span></span>, training providers and education systems can build correction into ongoing practice rather than treating it as a one-off workshop.
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_education_myth_corre_425e93_teacher_training_des_9497ab-Illustration-1-dark.svg" | relative_url }}" alt="Training design illustration 1" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_education_myth_corre_425e93_teacher_training_des_9497ab-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_education_myth_corre_425e93_teacher_training_des_9497ab-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Start With Real Teaching Decisions
@@ -288,7 +288,7 @@ For example, a session on learning styles should not stop at explaining that mat
 
 </div>
 
-This approach matters because reductions in myth endorsement do not automatically translate into changes in intended classroom practice. Researchers reviewing neuromyth interventions have repeatedly identified a gap between corrected beliefs and altered teaching behaviour. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2021.719692/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-title">Are refutation-based interventions effective at dispelling</span><span class="citation-popover-snippet">terventions to Dispel Neuromyths in Educational Settings...by L Rousseau · 2021 · Cited by 74 — The following questions are e...</span></span></span>
+This approach matters because reductions in myth endorsement do not automatically translate into changes in intended classroom practice. Researchers reviewing neuromyth interventions have repeatedly identified a gap between corrected beliefs and altered teaching behaviour.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2021.719692/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-title">Are refutation-based interventions effective at dispelling</span><span class="citation-popover-snippet">terventions to Dispel Neuromyths in Educational Settings...by L Rousseau · 2021 · Cited by 74 — The following questions are e...</span></span></span>
 
 ### Pre-check Existing Assumptions
 
@@ -296,13 +296,13 @@ Strong training begins by identifying which myths are already influencing decisi
 
 First, it reveals whether participants actually hold the misconception. Second, it surfaces the specific reasoning that supports it. Different teachers may endorse the same myth for different reasons.
 
-A teacher who believes in learning styles because pupils express preferences requires a different corrective explanation from a teacher who encountered the concept during initial teacher education. Studies suggest that myths often spread through teacher preparation programmes, instructional materials, peer networks and popular educational media rather than through direct engagement with research. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S2211368121000140" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Correcting Neuromyths: A Comparison of Different Types...by MPG Lithander · 2021 · Cited by 40 — Results showed that all th...</span></span></span>
+A teacher who believes in learning styles because pupils express preferences requires a different corrective explanation from a teacher who encountered the concept during initial teacher education. Studies suggest that myths often spread through teacher preparation programmes, instructional materials, peer networks and popular educational media rather than through direct engagement with research.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S2211368121000140" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Correcting Neuromyths: A Comparison of Different Types...by MPG Lithander · 2021 · Cited by 40 — Results showed that all th...</span></span></span>
 
 Diagnostic activities, short surveys and planning discussions therefore become part of the correction process rather than merely a way of measuring outcomes.
 
 ## Build Correction Into Planning and Coaching
 
-A recurring finding in misconception research is that correction is strongest when it combines explicit refutation with a replacement explanation. Simply saying that a belief is wrong leaves a gap that the original myth can easily reoccupy. Refutation-based approaches work best when they explain why the myth is appealing, identify the error and provide a more accurate model of learning. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2021.719692/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-title">Are refutation-based interventions effective at dispelling</span><span class="citation-popover-snippet">terventions to Dispel Neuromyths in Educational Settings...by L Rousseau · 2021 · Cited by 74 — The following questions are e...</span></span></span>
+A recurring finding in misconception research is that correction is strongest when it combines explicit refutation with a replacement explanation. Simply saying that a belief is wrong leaves a gap that the original myth can easily reoccupy. Refutation-based approaches work best when they explain why the myth is appealing, identify the error and provide a more accurate model of learning.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2021.719692/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-title">Are refutation-based interventions effective at dispelling</span><span class="citation-popover-snippet">terventions to Dispel Neuromyths in Educational Settings...by L Rousseau · 2021 · Cited by 74 — The following questions are e...</span></span></span>
 
 Teacher training should therefore follow a structured sequence:
 
@@ -317,13 +317,13 @@ Teacher training should therefore follow a structured sequence:
 
 </div>
 
-Research on [refutation texts]({{ 'refutation-texts/' | relative_url }}) and neuromyth correction shows that this structure can reduce false beliefs for weeks or months after training, although reinforcement remains important. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S2211368121000140" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Correcting Neuromyths: A Comparison of Different Types...by MPG Lithander · 2021 · Cited by 40 — Results showed that all th...</span></span></span>
+Research on [refutation texts]({{ 'refutation-texts/' | relative_url }}) and neuromyth correction shows that this structure can reduce false beliefs for weeks or months after training, although reinforcement remains important.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S2211368121000140" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Correcting Neuromyths: A Comparison of Different Types...by MPG Lithander · 2021 · Cited by 40 — Results showed that all th...</span></span></span>
 
 ### Move From Workshops to Coaching Cycles
 
 The most important design shift is to treat correction as an ongoing coaching issue rather than a single training event.
 
-After an initial session, coaches, mentors or instructional leaders can review lesson plans, observe classrooms and discuss whether old assumptions have reappeared. This matters because intuitive explanations are often resilient even after teachers can correctly answer survey questions. Studies have found that corrected misconceptions may continue to influence reasoning despite explicit feedback and improved factual knowledge. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11508907/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">by MPG Lithander · 2024 · Cited by 3 — The results demonstrate that feedback can be used to update beliefs in neuromyths, but these be...</span></span></span>
+After an initial session, coaches, mentors or instructional leaders can review lesson plans, observe classrooms and discuss whether old assumptions have reappeared. This matters because intuitive explanations are often resilient even after teachers can correctly answer survey questions. Studies have found that corrected misconceptions may continue to influence reasoning despite explicit feedback and improved factual knowledge.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11508907/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">by MPG Lithander · 2024 · Cited by 3 — The results demonstrate that feedback can be used to update beliefs in neuromyths, but these be...</span></span></span>
 
 Effective coaching questions include:
 
@@ -344,7 +344,7 @@ The goal is not surveillance but reinforcement. Repeated retrieval of the correc
 
 Belief correction should be revisited over time rather than concentrated into a single session.
 
-Research on educational misconceptions suggests that immediate improvements are common but can fade. Reviews of neuromyth interventions note that short-term gains often require continuing support if they are to remain stable. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2021.719692/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-title">Are refutation-based interventions effective at dispelling</span><span class="citation-popover-snippet">terventions to Dispel Neuromyths in Educational Settings...by L Rousseau · 2021 · Cited by 74 — The following questions are e...</span></span></span>
+Research on educational misconceptions suggests that immediate improvements are common but can fade. Reviews of neuromyth interventions note that short-term gains often require continuing support if they are to remain stable.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2021.719692/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-title">Are refutation-based interventions effective at dispelling</span><span class="citation-popover-snippet">terventions to Dispel Neuromyths in Educational Settings...by L Rousseau · 2021 · Cited by 74 — The following questions are e...</span></span></span>
 
 Practical reinforcement mechanisms include:
 
@@ -367,7 +367,7 @@ One of the strongest reasons myths persist is that organisations often continue 
 
 A school may train staff to abandon learning styles while simultaneously providing planning templates that ask teachers to identify visual, auditory and kinaesthetic learners. Teacher education programmes may discuss evidence-based instruction while assigning readings that repeat unsupported claims.
 
-Several studies have highlighted the continuing presence of myths in teacher preparation, training materials and educational discourse, helping explain why misconceptions remain widespread despite years of criticism. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.educationnext.org/stubborn-myth-learning-styles-state-teacher-license-prep-materials-debunked-theory/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: educationnext.org">[Education Next]</a><span class="citation-popover" role="note"><span class="citation-popover-source">educationnext.org</span><span class="citation-popover-snippet">Education NextThe Stubborn Myth of “Learning Styles”April 7, 2020 — 7 Apr 2020 — There is no evidence that designing lessons that appeal...</span><span class="citation-popover-meta">Published: April 7, 2020</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nature.com/articles/s41599-025-05470-y" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Educational myths among teachers: prevalence and...by Y Tunga · 2025 · Cited by 1 — Results indicated that educational myths are common...</span></span></span> A durable correction strategy therefore includes a systematic audit.
+Several studies have highlighted the continuing presence of myths in teacher preparation, training materials and educational discourse, helping explain why misconceptions remain widespread despite years of criticism.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.educationnext.org/stubborn-myth-learning-styles-state-teacher-license-prep-materials-debunked-theory/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: educationnext.org">[Education Next]</a><span class="citation-popover" role="note"><span class="citation-popover-source">educationnext.org</span><span class="citation-popover-snippet">Education NextThe Stubborn Myth of “Learning Styles”April 7, 2020 — 7 Apr 2020 — There is no evidence that designing lessons that appeal...</span><span class="citation-popover-meta">Published: April 7, 2020</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nature.com/articles/s41599-025-05470-y" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Educational myths among teachers: prevalence and...by Y Tunga · 2025 · Cited by 1 — Results indicated that educational myths are common...</span></span></span> A durable correction strategy therefore includes a systematic audit.
 
 ### Identify High-Risk Documents
 
@@ -376,7 +376,7 @@ Priority targets include:
 <div class="content-enhancement content-enhancement--caution" markdown="1">
 
 * Induction materials.
-* Professional development slides. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.facebook.com/groups/sharingbestpractice/posts/2567351220265040/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[facebook.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">ght as fact in teacher education and professional development and even...</span></span></span>
+* Professional development slides.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.facebook.com/groups/sharingbestpractice/posts/2567351220265040/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[facebook.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">ght as fact in teacher education and professional development and even...</span></span></span>
 * Intervention purchasing guides.
 * Lesson-planning templates.
 * Observation rubrics.
@@ -394,7 +394,7 @@ For example, if a school abandons learning styles, associated pupil categorisati
 
 Removing a myth without replacing the underlying tool can create confusion.
 
-Every retired practice should be paired with a preferred alternative. If a learning-styles inventory is withdrawn, teachers need guidance on evidence-informed approaches such as retrieval practice, dual coding where appropriate, explicit instruction, formative assessment or adaptive support based on demonstrated learning needs rather than presumed styles. <span class="citation-chip-wrap"><a class="citation-chip" href="https://educationendowmentfoundation.org.uk/education-evidence/teaching-learning-toolkit/learning-styles" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: educationendowmentfoundation.org.uk">[EEF]</a><span class="citation-popover" role="note"><span class="citation-popover-source">educationendowmentfoundation.org.uk</span><span class="citation-popover-snippet">the learning needs of young people. Instead...Read more...</span></span></span>
+Every retired practice should be paired with a preferred alternative. If a learning-styles inventory is withdrawn, teachers need guidance on evidence-informed approaches such as retrieval practice, dual coding where appropriate, explicit instruction, formative assessment or adaptive support based on demonstrated learning needs rather than presumed styles.<span class="citation-chip-wrap"><a class="citation-chip" href="https://educationendowmentfoundation.org.uk/education-evidence/teaching-learning-toolkit/learning-styles" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: educationendowmentfoundation.org.uk">[EEF]</a><span class="citation-popover" role="note"><span class="citation-popover-source">educationendowmentfoundation.org.uk</span><span class="citation-popover-snippet">the learning needs of young people. Instead...Read more...</span></span></span>
 
 Replacement resources make it easier for teachers to act on corrected knowledge and reduce pressure to revert to familiar habits.
 
@@ -404,7 +404,7 @@ The most resilient correction programmes do not focus solely on individual myths
 
 This is important because educational myths change over time. A school that successfully addresses learning styles may later encounter unsupported claims about brain training, commercial interventions or exaggerated interpretations of neuroscience.
 
-Research suggests that greater exposure to neuroscience, cognitive psychology and evidence-informed professional learning can reduce susceptibility to some misconceptions, although knowledge alone is not sufficient. PMC <span class="citation-chip-wrap"><a class="citation-chip" href="https://my.chartered.college/impact_article/teachers-understanding-of-neuromyths-a-role-for-educational-neuroscience-in-teacher-training/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: my.chartered.college">[My College]</a><span class="citation-popover" role="note"><span class="citation-popover-source">my.chartered.college</span><span class="citation-popover-snippet">chartered.collegeTeachers&#x27; understanding of neuromyths: A role for...20 Sept 2022 — Debunking neuromyths through training in educational...</span></span></span>
+Research suggests that greater exposure to neuroscience, cognitive psychology and evidence-informed professional learning can reduce susceptibility to some misconceptions, although knowledge alone is not sufficient. PMC<span class="citation-chip-wrap"><a class="citation-chip" href="https://my.chartered.college/impact_article/teachers-understanding-of-neuromyths-a-role-for-educational-neuroscience-in-teacher-training/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: my.chartered.college">[My College]</a><span class="citation-popover" role="note"><span class="citation-popover-source">my.chartered.college</span><span class="citation-popover-snippet">chartered.collegeTeachers&#x27; understanding of neuromyths: A role for...20 Sept 2022 — Debunking neuromyths through training in educational...</span></span></span>
 
 Training should therefore include routines such as:
 
@@ -414,7 +414,7 @@ Training should therefore include routines such as:
 * Looking for plausible mechanisms rather than persuasive [anecdotes]({{ 'anecdotes/' | relative_url }}).
 * Asking what evidence would change one's mind.
 
-Importantly, evidence evaluation should be linked to actual school decisions rather than taught as a generic critical-thinking exercise. Research examining neuromyth correction suggests that broad appeals to “think critically” are less effective than targeted engagement with specific claims and evidence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://niot.org.uk/insights/neuromyths-in-the-classroom-and-the-role-of-critical-thinking" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: niot.org.uk">[niot.org.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">niot.org.uk</span><span class="citation-popover-title">neuromyths in the classroom and the role of critical thinking</span><span class="citation-popover-snippet">Half the group received basic...</span></span></span>
+Importantly, evidence evaluation should be linked to actual school decisions rather than taught as a generic critical-thinking exercise. Research examining neuromyth correction suggests that broad appeals to “think critically” are less effective than targeted engagement with specific claims and evidence.<span class="citation-chip-wrap"><a class="citation-chip" href="https://niot.org.uk/insights/neuromyths-in-the-classroom-and-the-role-of-critical-thinking" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: niot.org.uk">[niot.org.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">niot.org.uk</span><span class="citation-popover-title">neuromyths in the classroom and the role of critical thinking</span><span class="citation-popover-snippet">Half the group received basic...</span></span></span>
 
 ## What Successful Training Looks Like
 
@@ -430,197 +430,197 @@ Teacher training that keeps myths gone is characterised by five linked features:
 
 </div>
 
-When these elements operate together, correction becomes part of institutional practice rather than a temporary change in opinion. That shift—from myth [debunking]({{ 'debunking/' | relative_url }}) to system redesign—is what gives educational [corrections]({{ 'corrections/' | relative_url }}) their best chance of lasting. <span class="citation-chip-wrap"><a class="citation-chip" href="https://dash.harvard.edu/bitstreams/7312037e-932b-6bd4-e053-0100007fdf3b/download" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dash.harvard.edu">[dash.harvard.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dash.harvard.edu</span><span class="citation-popover-snippet">Dispelling the Myth: Training in Education or Neuroscience...by K Macdonald · 2017 · Cited by 455 — The goal of this study was to provid...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2021.719692/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-title">Are refutation-based interventions effective at dispelling</span><span class="citation-popover-snippet">terventions to Dispel Neuromyths in Educational Settings...by L Rousseau · 2021 · Cited by 74 — The following questions are e...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/abs/pii/S2211368121000140" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Correcting Neuromyths: A Comparison of Different Types...by MPG Lithander · 2021 · Cited by 40 — Results showed that all th...</span></span></span>
+When these elements operate together, correction becomes part of institutional practice rather than a temporary change in opinion. That shift—from myth [debunking]({{ 'debunking/' | relative_url }}) to system redesign—is what gives educational [corrections]({{ 'corrections/' | relative_url }}) their best chance of lasting.<span class="citation-chip-wrap"><a class="citation-chip" href="https://dash.harvard.edu/bitstreams/7312037e-932b-6bd4-e053-0100007fdf3b/download" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dash.harvard.edu">[dash.harvard.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dash.harvard.edu</span><span class="citation-popover-snippet">Dispelling the Myth: Training in Education or Neuroscience...by K Macdonald · 2017 · Cited by 455 — The goal of this study was to provid...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2021.719692/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-title">Are refutation-based interventions effective at dispelling</span><span class="citation-popover-snippet">terventions to Dispel Neuromyths in Educational Settings...by L Rousseau · 2021 · Cited by 74 — The following questions are e...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/abs/pii/S2211368121000140" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Correcting Neuromyths: A Comparison of Different Types...by MPG Lithander · 2021 · Cited by 40 — Results showed that all th...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How Teacher Training Can Keep Myths Gone. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How Teacher Training Can Keep Myths Gone. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Why+Don%27t+Students+Like+School%3F+by+Daniel+T.+Willingham&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Why Don&#x27;t Students Like School? on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=kuEmEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Why Don&#x27;t Students Like School?" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Why+Don%27t+Students+Like+School%3F+by+Daniel+T.+Willingham&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Why Don&#x27;t Students Like School?">Why Don&#x27;t Students Like School?</a>
-        </h4>
-        <p class="fr-book-author">By Daniel T. Willingham</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Why+Don%27t+Students+Like+School%3F+by+Daniel+T.+Willingham&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Why Don&#x27;t Students Like School? on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=kuEmEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Why Don&#x27;t Students Like School?" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Why+Don%27t+Students+Like+School%3F+by+Daniel+T.+Willingham&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Why Don&#x27;t Students Like School?">Why Don&#x27;t Students Like School?</a>
+</h4>
+<p class="fr-book-author">By Daniel T. Willingham</p>
         
-        <p class="fr-book-desc">Useful foundation for myth-resistant teacher training.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Why+Don%27t+Students+Like+School%3F+by+Daniel+T.+Willingham&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful foundation for myth-resistant teacher training.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Why+Don%27t+Students+Like+School%3F+by+Daniel+T.+Willingham&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Powerful+Teaching+by+Pooja+K.+Agarwal&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Powerful Teaching on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=vcaXDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Powerful Teaching" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Powerful+Teaching+by+Pooja+K.+Agarwal&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Powerful Teaching">Powerful Teaching</a>
-        </h4>
-        <p class="fr-book-author">By Pooja K. Agarwal, Patrice M. Bain</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Powerful+Teaching+by+Pooja+K.+Agarwal&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Powerful Teaching on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=vcaXDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Powerful Teaching" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Powerful+Teaching+by+Pooja+K.+Agarwal&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Powerful Teaching">Powerful Teaching</a>
+</h4>
+<p class="fr-book-author">By Pooja K. Agarwal, Patrice M. Bain</p>
         
-        <p class="fr-book-desc">Helps sustain evidence-based practice after training.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Powerful+Teaching+by+Pooja+K.+Agarwal&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps sustain evidence-based practice after training.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Powerful+Teaching+by+Pooja+K.+Agarwal&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Embedded+Formative+Assessment+by+Dylan+Wiliam&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Embedded Formative Assessment on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=c3YXBwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Embedded Formative Assessment" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Embedded+Formative+Assessment+by+Dylan+Wiliam&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Embedded Formative Assessment">Embedded Formative Assessment</a>
-        </h4>
-        <p class="fr-book-author">By Dylan Wiliam</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Embedded+Formative+Assessment+by+Dylan+Wiliam&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Embedded Formative Assessment on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=c3YXBwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Embedded Formative Assessment" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Embedded+Formative+Assessment+by+Dylan+Wiliam&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Embedded Formative Assessment">Embedded Formative Assessment</a>
+</h4>
+<p class="fr-book-author">By Dylan Wiliam</p>
         
-        <p class="fr-book-desc">Focuses on durable changes in teacher decision-making.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Embedded+Formative+Assessment+by+Dylan+Wiliam&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on durable changes in teacher decision-making.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Embedded+Formative+Assessment+by+Dylan+Wiliam&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Teach+Like+a+Champion+3.0+by+Doug+Lemov&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Teach Like a Champion 3.0 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=7cU0EAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Teach Like a Champion 3.0" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Teach+Like+a+Champion+3.0+by+Doug+Lemov&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Teach Like a Champion 3.0">Teach Like a Champion 3.0</a>
-        </h4>
-        <p class="fr-book-author">By Doug Lemov</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Teach+Like+a+Champion+3.0+by+Doug+Lemov&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Teach Like a Champion 3.0 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=7cU0EAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Teach Like a Champion 3.0" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Teach+Like+a+Champion+3.0+by+Doug+Lemov&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Teach Like a Champion 3.0">Teach Like a Champion 3.0</a>
+</h4>
+<p class="fr-book-author">By Doug Lemov</p>
         
-        <p class="fr-book-desc">Demonstrates how training translates into classroom routines.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Teach+Like+a+Champion+3.0+by+Doug+Lemov&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Demonstrates how training translates into classroom routines.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Teach+Like+a+Champion+3.0+by+Doug+Lemov&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Why+Don%27t+Students+Like+School%3F&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Why Don&#x27;t Students Like School?</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Powerful+Teaching&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Powerful Teaching</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Embedded+Formative+Assessment&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Embedded Formative Assessment</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Why+Don%27t+Students+Like+School%3F&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Why Don&#x27;t Students Like School?</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Powerful+Teaching&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Powerful Teaching</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Embedded+Formative+Assessment&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Embedded Formative Assessment</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=education+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=training-design-how-teacher-training-can-keep-myths-gone-myths-and-misconcept-education-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="education wall art" data-ebay-reference="training-design-how-teacher-training-can-keep-myths-gone-myths-and-misconcept-education-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for NUMBERS square 1 to 100 A2 Laminated educational school math nursery wall poster"><img src="{{ '/assets/images/marketplace-covers/3f63cd296317fa735e26.jpg' | relative_url }}" alt="Listing image for NUMBERS square 1 to 100 A2 Laminated educational school math nursery wall poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=education+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=training-design-how-teacher-training-can-keep-myths-gone-myths-and-misconcept-education-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="education wall art" data-ebay-reference="training-design-how-teacher-training-can-keep-myths-gone-myths-and-misconcept-education-wall-art" target="_blank" rel="sponsored noopener noreferrer">NUMBERS square 1 to 100 A2 Laminated educational school math nursery wall poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=education+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=training-design-how-teacher-training-can-keep-myths-gone-myths-and-misconcept-education-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="education wall art" data-ebay-reference="training-design-how-teacher-training-can-keep-myths-gone-myths-and-misconcept-education-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for education wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: education wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=education+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=training-design-how-teacher-training-can-keep-myths-gone-myths-and-misconcept-education-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="education wall art" data-ebay-reference="training-design-how-teacher-training-can-keep-myths-gone-myths-and-misconcept-education-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=education+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=training-design-how-teacher-training-can-keep-myths-gone-myths-and-misconcept-education-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="education wall art" data-ebay-reference="training-design-how-teacher-training-can-keep-myths-gone-myths-and-misconcept-education-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for NUMBERS square 1 to 100 A2 Laminated educational school math nursery wall poster"><img src="{{ '/assets/images/marketplace-covers/3f63cd296317fa735e26.jpg' | relative_url }}" alt="Listing image for NUMBERS square 1 to 100 A2 Laminated educational school math nursery wall poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=education+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=training-design-how-teacher-training-can-keep-myths-gone-myths-and-misconcept-education-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="education wall art" data-ebay-reference="training-design-how-teacher-training-can-keep-myths-gone-myths-and-misconcept-education-wall-art" target="_blank" rel="sponsored noopener noreferrer">NUMBERS square 1 to 100 A2 Laminated educational school math nursery wall poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=education+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=training-design-how-teacher-training-can-keep-myths-gone-myths-and-misconcept-education-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="education wall art" data-ebay-reference="training-design-how-teacher-training-can-keep-myths-gone-myths-and-misconcept-education-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for education wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: education wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=education+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=training-design-how-teacher-training-can-keep-myths-gone-myths-and-misconcept-education-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="education wall art" data-ebay-reference="training-design-how-teacher-training-can-keep-myths-gone-myths-and-misconcept-education-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=education+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=training-design-how-teacher-training-can-keep-myths-gone-myths-and-misconcept-education-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="education wall art" data-ebay-reference="training-design-how-teacher-training-can-keep-myths-gone-myths-and-misconcept-education-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Phonetic Alphabet International Wall Art Informative Education Poster Art"><img src="{{ '/assets/images/marketplace-covers/7765ead2918ad7c39ba6.jpg' | relative_url }}" alt="Listing image for Phonetic Alphabet International Wall Art Informative Education Poster Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=education+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=training-design-how-teacher-training-can-keep-myths-gone-myths-and-misconcept-education-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="education wall art" data-ebay-reference="training-design-how-teacher-training-can-keep-myths-gone-myths-and-misconcept-education-wall-art" target="_blank" rel="sponsored noopener noreferrer">Phonetic Alphabet International Wall Art Informative Education Poster Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=education+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=training-design-how-teacher-training-can-keep-myths-gone-myths-and-misconcept-education-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="education wall art" data-ebay-reference="training-design-how-teacher-training-can-keep-myths-gone-myths-and-misconcept-education-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for education wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: education wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=education+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=training-design-how-teacher-training-can-keep-myths-gone-myths-and-misconcept-education-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="education wall art" data-ebay-reference="training-design-how-teacher-training-can-keep-myths-gone-myths-and-misconcept-education-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=education+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=training-design-how-teacher-training-can-keep-myths-gone-myths-and-misconcept-education-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="education wall art" data-ebay-reference="training-design-how-teacher-training-can-keep-myths-gone-myths-and-misconcept-education-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Phonetic Alphabet International Wall Art Informative Education Poster Art"><img src="{{ '/assets/images/marketplace-covers/7765ead2918ad7c39ba6.jpg' | relative_url }}" alt="Listing image for Phonetic Alphabet International Wall Art Informative Education Poster Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=education+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=training-design-how-teacher-training-can-keep-myths-gone-myths-and-misconcept-education-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="education wall art" data-ebay-reference="training-design-how-teacher-training-can-keep-myths-gone-myths-and-misconcept-education-wall-art" target="_blank" rel="sponsored noopener noreferrer">Phonetic Alphabet International Wall Art Informative Education Poster Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=education+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=training-design-how-teacher-training-can-keep-myths-gone-myths-and-misconcept-education-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="education wall art" data-ebay-reference="training-design-how-teacher-training-can-keep-myths-gone-myths-and-misconcept-education-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for education wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: education wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=education+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=training-design-how-teacher-training-can-keep-myths-gone-myths-and-misconcept-education-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="education wall art" data-ebay-reference="training-design-how-teacher-training-can-keep-myths-gone-myths-and-misconcept-education-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=education+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=training-design-how-teacher-training-can-keep-myths-gone-myths-and-misconcept-education-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="education wall art" data-ebay-reference="training-design-how-teacher-training-can-keep-myths-gone-myths-and-misconcept-education-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 15 Pack Educational Poster Laminated Wall Chart for Children Kids Learning Art"><img src="{{ '/assets/images/marketplace-covers/4ab7b16839228e8d5e64.jpg' | relative_url }}" alt="Listing image for 15 Pack Educational Poster Laminated Wall Chart for Children Kids Learning Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=education+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=training-design-how-teacher-training-can-keep-myths-gone-myths-and-misconcept-education-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="education wall art" data-ebay-reference="training-design-how-teacher-training-can-keep-myths-gone-myths-and-misconcept-education-wall-art" target="_blank" rel="sponsored noopener noreferrer">15 Pack Educational Poster Laminated Wall Chart for Children Kids Learning Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=education+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=training-design-how-teacher-training-can-keep-myths-gone-myths-and-misconcept-education-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="education wall art" data-ebay-reference="training-design-how-teacher-training-can-keep-myths-gone-myths-and-misconcept-education-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for education wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: education wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=education+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=training-design-how-teacher-training-can-keep-myths-gone-myths-and-misconcept-education-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="education wall art" data-ebay-reference="training-design-how-teacher-training-can-keep-myths-gone-myths-and-misconcept-education-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=education+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=training-design-how-teacher-training-can-keep-myths-gone-myths-and-misconcept-education-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="education wall art" data-ebay-reference="training-design-how-teacher-training-can-keep-myths-gone-myths-and-misconcept-education-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 15 Pack Educational Poster Laminated Wall Chart for Children Kids Learning Art"><img src="{{ '/assets/images/marketplace-covers/4ab7b16839228e8d5e64.jpg' | relative_url }}" alt="Listing image for 15 Pack Educational Poster Laminated Wall Chart for Children Kids Learning Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=education+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=training-design-how-teacher-training-can-keep-myths-gone-myths-and-misconcept-education-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="education wall art" data-ebay-reference="training-design-how-teacher-training-can-keep-myths-gone-myths-and-misconcept-education-wall-art" target="_blank" rel="sponsored noopener noreferrer">15 Pack Educational Poster Laminated Wall Chart for Children Kids Learning Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=education+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=training-design-how-teacher-training-can-keep-myths-gone-myths-and-misconcept-education-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="education wall art" data-ebay-reference="training-design-how-teacher-training-can-keep-myths-gone-myths-and-misconcept-education-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for education wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: education wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=education+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=training-design-how-teacher-training-can-keep-myths-gone-myths-and-misconcept-education-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="education wall art" data-ebay-reference="training-design-how-teacher-training-can-keep-myths-gone-myths-and-misconcept-education-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=education+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=training-design-how-teacher-training-can-keep-myths-gone-myths-and-misconcept-education-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="education wall art" data-ebay-reference="training-design-how-teacher-training-can-keep-myths-gone-myths-and-misconcept-education-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for educational NUMBER (1-20) square large A2 laminated maths wall nursery Poster"><img src="{{ '/assets/images/marketplace-covers/a7733c0fff66bdc76df2.jpg' | relative_url }}" alt="Listing image for educational NUMBER (1-20) square large A2 laminated maths wall nursery Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=education+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=training-design-how-teacher-training-can-keep-myths-gone-myths-and-misconcept-education-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="education wall art" data-ebay-reference="training-design-how-teacher-training-can-keep-myths-gone-myths-and-misconcept-education-wall-art" target="_blank" rel="sponsored noopener noreferrer">educational NUMBER (1-20) square large A2 laminated maths wall nursery Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=education+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=training-design-how-teacher-training-can-keep-myths-gone-myths-and-misconcept-education-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="education wall art" data-ebay-reference="training-design-how-teacher-training-can-keep-myths-gone-myths-and-misconcept-education-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for education wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: education wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=education+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=training-design-how-teacher-training-can-keep-myths-gone-myths-and-misconcept-education-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="education wall art" data-ebay-reference="training-design-how-teacher-training-can-keep-myths-gone-myths-and-misconcept-education-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=education+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=training-design-how-teacher-training-can-keep-myths-gone-myths-and-misconcept-education-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="education wall art" data-ebay-reference="training-design-how-teacher-training-can-keep-myths-gone-myths-and-misconcept-education-wall-art" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=education+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=training-design-how-teacher-training-can-keep-myths-gone-myths-and-misconcept-education-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="education wall art" data-ebay-reference="training-design-how-teacher-training-can-keep-myths-gone-myths-and-misconcept-education-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for educational NUMBER (1-20) square large A2 laminated maths wall nursery Poster"><img src="{{ '/assets/images/marketplace-covers/a7733c0fff66bdc76df2.jpg' | relative_url }}" alt="Listing image for educational NUMBER (1-20) square large A2 laminated maths wall nursery Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=education+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=training-design-how-teacher-training-can-keep-myths-gone-myths-and-misconcept-education-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="education wall art" data-ebay-reference="training-design-how-teacher-training-can-keep-myths-gone-myths-and-misconcept-education-wall-art" target="_blank" rel="sponsored noopener noreferrer">educational NUMBER (1-20) square large A2 laminated maths wall nursery Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=education+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=training-design-how-teacher-training-can-keep-myths-gone-myths-and-misconcept-education-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="education wall art" data-ebay-reference="training-design-how-teacher-training-can-keep-myths-gone-myths-and-misconcept-education-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for education wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: education wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=education+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=training-design-how-teacher-training-can-keep-myths-gone-myths-and-misconcept-education-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="education wall art" data-ebay-reference="training-design-how-teacher-training-can-keep-myths-gone-myths-and-misconcept-education-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=education+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=training-design-how-teacher-training-can-keep-myths-gone-myths-and-misconcept-education-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="education wall art" data-ebay-reference="training-design-how-teacher-training-can-keep-myths-gone-myths-and-misconcept-education-wall-art" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -636,7 +636,7 @@ When these elements operate together, correction becomes part of institutional p
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -656,7 +656,7 @@ When these elements operate together, correction becomes part of institutional p
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -688,7 +688,7 @@ When these elements operate together, correction becomes part of institutional p
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -740,7 +740,7 @@ When these elements operate together, correction becomes part of institutional p
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -785,7 +785,7 @@ When these elements operate together, correction becomes part of institutional p
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -826,128 +826,128 @@ When these elements operate together, correction becomes part of institutional p
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S2211368121000140" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S2211368121000140</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Correcting Neuromyths: A Comparison of Different Types...by MPG Lithander · 2021 · Cited by 40 — Results showed that all th...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/abs/pii/S2211368121000140" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S2211368121000140</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Correcting Neuromyths: A Comparison of Different Types...by MPG Lithander · 2021 · Cited by 40 — Results showed that all th...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11508907/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11508907/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>by MPG Lithander · 2024 · Cited by 3 — The results demonstrate that feedback can be used to update beliefs in neuromyths, but these be...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11508907/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11508907/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by MPG Lithander · 2024 · Cited by 3 — The results demonstrate that feedback can be used to update beliefs in neuromyths, but these be...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S2211949324000164" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S2211949324000164</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Where did pre-service teachers, teachers, and the general...by LSR Sazaka · 2024 · Cited by 12 — Participants showed over 5...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/abs/pii/S2211949324000164" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S2211949324000164</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Where did pre-service teachers, teachers, and the general...by LSR Sazaka · 2024 · Cited by 12 — Participants showed over 5...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: nature.com  
-   Link: <a href="https://www.nature.com/articles/s41599-025-05470-y" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41599-025-05470-y</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Educational myths among teachers: prevalence and...by Y Tunga · 2025 · Cited by 1 — Results indicated that educational myths are common...</p></details>
+   Link:<a href="https://www.nature.com/articles/s41599-025-05470-y" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41599-025-05470-y</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Educational myths among teachers: prevalence and...by Y Tunga · 2025 · Cited by 1 — Results indicated that educational myths are common...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: educationendowmentfoundation.org.uk  
-   Link: <a href="https://educationendowmentfoundation.org.uk/education-evidence/teaching-learning-toolkit/learning-styles" target="_blank" rel="noopener noreferrer nofollow">https://educationendowmentfoundation.org.uk/education-evidence/teaching-learning-toolkit/learning-styles</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>the learning needs of young people. Instead...Read more...</p></details>
+   Link:<a href="https://educationendowmentfoundation.org.uk/education-evidence/teaching-learning-toolkit/learning-styles" target="_blank" rel="noopener noreferrer nofollow">https://educationendowmentfoundation.org.uk/education-evidence/teaching-learning-toolkit/learning-styles</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>the learning needs of young people. Instead...Read more...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5366351/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC5366351/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>nih.govEvidence-Based Higher Education – Is the Learning Styles...by PM Newton · 2017 · Cited by 470 — The basic idea behind the use of...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5366351/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC5366351/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>nih.govEvidence-Based Higher Education – Is the Learning Styles...by PM Newton · 2017 · Cited by 470 — The basic idea behind the use of...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9312647/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9312647/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>by RA Ferreira · 2022 · Cited by 51 — Overall, these results suggest that the SoL course significantly improved overall neuroscience l...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9312647/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9312647/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by RA Ferreira · 2022 · Cited by 51 — Overall, these results suggest that the SoL course significantly improved overall neuroscience l...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: niot.org.uk  
    Title: neuromyths in the classroom and the role of critical thinking  
-   Link: <a href="https://niot.org.uk/insights/neuromyths-in-the-classroom-and-the-role-of-critical-thinking" target="_blank" rel="noopener noreferrer nofollow">https://niot.org.uk/insights/neuromyths-in-the-classroom-and-the-role-of-critical-thinking</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Half the group received basic...</p></details>
+   Link:<a href="https://niot.org.uk/insights/neuromyths-in-the-classroom-and-the-role-of-critical-thinking" target="_blank" rel="noopener noreferrer nofollow">https://niot.org.uk/insights/neuromyths-in-the-classroom-and-the-role-of-critical-thinking</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Half the group received basic...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S2211949325000183" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S2211949325000183</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Belief in neuromyths among primary school teachersby OC Adiguzel · 2025 · Cited by 2 — The persistence of neuromyths among teachers under...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/abs/pii/S2211949325000183" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S2211949325000183</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Belief in neuromyths among primary school teachersby OC Adiguzel · 2025 · Cited by 2 — The persistence of neuromyths among teachers under...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: dash.harvard.edu  
-   Link: <a href="https://dash.harvard.edu/bitstreams/7312037e-932b-6bd4-e053-0100007fdf3b/download" target="_blank" rel="noopener noreferrer nofollow">https://dash.harvard.edu/bitstreams/7312037e-932b-6bd4-e053-0100007fdf3b/download</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Dispelling the Myth: Training in Education or Neuroscience...by K Macdonald · 2017 · Cited by 455 — The goal of this study was to provid...</p></details>
+   Link:<a href="https://dash.harvard.edu/bitstreams/7312037e-932b-6bd4-e053-0100007fdf3b/download" target="_blank" rel="noopener noreferrer nofollow">https://dash.harvard.edu/bitstreams/7312037e-932b-6bd4-e053-0100007fdf3b/download</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Dispelling the Myth: Training in Education or Neuroscience...by K Macdonald · 2017 · Cited by 455 — The goal of this study was to provid...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: frontiersin.org  
    Title: Are refutation-based interventions effective at dispelling  
-   Link: <a href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2021.719692/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2021.719692/full</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>terventions to Dispel Neuromyths in Educational Settings...by L Rousseau · 2021 · Cited by 74 — The following questions are e...</p></details>
+   Link:<a href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2021.719692/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2021.719692/full</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>terventions to Dispel Neuromyths in Educational Settings...by L Rousseau · 2021 · Cited by 74 — The following questions are e...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: educationnext.org  
-   Link: <a href="https://www.educationnext.org/stubborn-myth-learning-styles-state-teacher-license-prep-materials-debunked-theory/" target="_blank" rel="noopener noreferrer nofollow">https://www.educationnext.org/stubborn-myth-learning-styles-state-teacher-license-prep-materials-debunked-theory/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Education NextThe Stubborn Myth of “Learning Styles”April 7, 2020 — 7 Apr 2020 — There is no evidence that designing lessons that appeal...</p></details>
+   Link:<a href="https://www.educationnext.org/stubborn-myth-learning-styles-state-teacher-license-prep-materials-debunked-theory/" target="_blank" rel="noopener noreferrer nofollow">https://www.educationnext.org/stubborn-myth-learning-styles-state-teacher-license-prep-materials-debunked-theory/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Education NextThe Stubborn Myth of “Learning Styles”April 7, 2020 — 7 Apr 2020 — There is no evidence that designing lessons that appeal...</p></details>
    Published: April 7, 2020  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: my.chartered.college  
-   Link: <a href="https://my.chartered.college/impact_article/teachers-understanding-of-neuromyths-a-role-for-educational-neuroscience-in-teacher-training/" target="_blank" rel="noopener noreferrer nofollow">https://my.chartered.college/impact_article/teachers-understanding-of-neuromyths-a-role-for-educational-neuroscience-in-teacher-training/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>chartered.collegeTeachers&#x27; understanding of neuromyths: A role for...20 Sept 2022 — Debunking neuromyths through training in educational...</p></details>
+   Link:<a href="https://my.chartered.college/impact_article/teachers-understanding-of-neuromyths-a-role-for-educational-neuroscience-in-teacher-training/" target="_blank" rel="noopener noreferrer nofollow">https://my.chartered.college/impact_article/teachers-understanding-of-neuromyths-a-role-for-educational-neuroscience-in-teacher-training/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>chartered.collegeTeachers&#x27; understanding of neuromyths: A role for...20 Sept 2022 — Debunking neuromyths through training in educational...</p></details>
 
 ### Additional References
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: scispace.com  
-   Link: <a href="https://scispace.com/pdf/educational-neuromyths-and-instructional-practices-the-case-12ess1im50.pdf" target="_blank" rel="noopener noreferrer nofollow">https://scispace.com/pdf/educational-neuromyths-and-instructional-practices-the-case-12ess1im50.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Educational Neuromyths and Instructional PracticesMany studies report that those educational neuromyths which are prevailing among teache...</p></details>
+   Link:<a href="https://scispace.com/pdf/educational-neuromyths-and-instructional-practices-the-case-12ess1im50.pdf" target="_blank" rel="noopener noreferrer nofollow">https://scispace.com/pdf/educational-neuromyths-and-instructional-practices-the-case-12ess1im50.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Educational Neuromyths and Instructional PracticesMany studies report that those educational neuromyths which are prevailing among teache...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: innerdrive.co.uk  
-   Link: <a href="https://www.innerdrive.co.uk/blog/combat-neuromyths/" target="_blank" rel="noopener noreferrer nofollow">https://www.innerdrive.co.uk/blog/combat-neuromyths/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Neuromyths and how to combat them: An educator&#x27;s guideNeuromyths are misconceptions about how the brain functions and learns. These myths...</p></details>
+   Link:<a href="https://www.innerdrive.co.uk/blog/combat-neuromyths/" target="_blank" rel="noopener noreferrer nofollow">https://www.innerdrive.co.uk/blog/combat-neuromyths/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Neuromyths and how to combat them: An educator&#x27;s guideNeuromyths are misconceptions about how the brain functions and learns. These myths...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: efsupit.ro  
-   Link: <a href="https://efsupit.ro/images/stories/july2024/Art%20190.pdf" target="_blank" rel="noopener noreferrer nofollow">https://efsupit.ro/images/stories/july2024/Art%20190.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Abstract: Neuromyths are misconceptions arising from misinterpreted or biased data, often lacking scientific evidence and.Read more...</p></details>
+   Link:<a href="https://efsupit.ro/images/stories/july2024/Art%20190.pdf" target="_blank" rel="noopener noreferrer nofollow">https://efsupit.ro/images/stories/july2024/Art%20190.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Abstract: Neuromyths are misconceptions arising from misinterpreted or biased data, often lacking scientific evidence and.Read more...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: facebook.com  
    Title: dispelling the myth training in education or neuroscience decreases but does not  
-   Link: <a href="https://www.facebook.com/SmartSpeechTherapyLlc/posts/dispelling-the-myth-training-in-education-or-neuroscience-decreases-but-does-not/10156401242212290/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/SmartSpeechTherapyLlc/posts/dispelling-the-myth-training-in-education-or-neuroscience-decreases-but-does-not/10156401242212290/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Dispelling the Myth: Training in Education or Neuroscience...27 May 2018 — Intervention results are variable: One research group found t...</p></details>
+   Link:<a href="https://www.facebook.com/SmartSpeechTherapyLlc/posts/dispelling-the-myth-training-in-education-or-neuroscience-decreases-but-does-not/10156401242212290/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/SmartSpeechTherapyLlc/posts/dispelling-the-myth-training-in-education-or-neuroscience-decreases-but-does-not/10156401242212290/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Dispelling the Myth: Training in Education or Neuroscience...27 May 2018 — Intervention results are variable: One research group found t...</p></details>
    Published: May 2018  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: lthechat.com  
    Title: 186 debunking neuromyths in education what psychology really tells us  
-   Link: <a href="https://lthechat.com/2020/10/11/lthechat186-debunking-neuromyths-in-education-what-psychology-really-tells-us/" target="_blank" rel="noopener noreferrer nofollow">https://lthechat.com/2020/10/11/lthechat186-debunking-neuromyths-in-education-what-psychology-really-tells-us/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>#LTHEchat185: Debunking Neuromyths in Education:...11 Oct 2020 — Recent research has suggested that among college-level staff, 97% and 7...</p></details>
+   Link:<a href="https://lthechat.com/2020/10/11/lthechat186-debunking-neuromyths-in-education-what-psychology-really-tells-us/" target="_blank" rel="noopener noreferrer nofollow">https://lthechat.com/2020/10/11/lthechat186-debunking-neuromyths-in-education-what-psychology-really-tells-us/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>#LTHEchat185: Debunking Neuromyths in Education:...11 Oct 2020 — Recent research has suggested that among college-level staff, 97% and 7...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: cis.org.au  
    Title: knowledge is power what do teachers believe about learning  
-   Link: <a href="https://www.cis.org.au/publication/knowledge-is-power-what-do-teachers-believe-about-learning/" target="_blank" rel="noopener noreferrer nofollow">https://www.cis.org.au/publication/knowledge-is-power-what-do-teachers-believe-about-learning/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Knowledge is power: What do teachers believe about...30 Oct 2025 — Specific studies on certain neuromyths such as learning styles and he...</p></details>
+   Link:<a href="https://www.cis.org.au/publication/knowledge-is-power-what-do-teachers-believe-about-learning/" target="_blank" rel="noopener noreferrer nofollow">https://www.cis.org.au/publication/knowledge-is-power-what-do-teachers-believe-about-learning/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Knowledge is power: What do teachers believe about...30 Oct 2025 — Specific studies on certain neuromyths such as learning styles and he...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: discovery.ucl.ac.uk  
    Title: Tolmie Issue paper Chartered College of Teaching  
-   Link: <a href="https://discovery.ucl.ac.uk/id/eprint/10156236/1/Tolmie_Issue%20paper-Chartered%20College%20of%20Teaching.pdf" target="_blank" rel="noopener noreferrer nofollow">https://discovery.ucl.ac.uk/id/eprint/10156236/1/Tolmie_Issue%20paper-Chartered%20College%20of%20Teaching.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ucl.ac.ukTeachers&#x27; understanding of neuromyths: A role for educational...by Y Arslan · 2022 · Cited by 9 — Debunking neuromyths through...</p></details>
+   Link:<a href="https://discovery.ucl.ac.uk/id/eprint/10156236/1/Tolmie_Issue%20paper-Chartered%20College%20of%20Teaching.pdf" target="_blank" rel="noopener noreferrer nofollow">https://discovery.ucl.ac.uk/id/eprint/10156236/1/Tolmie_Issue%20paper-Chartered%20College%20of%20Teaching.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ucl.ac.ukTeachers&#x27; understanding of neuromyths: A role for educational...by Y Arslan · 2022 · Cited by 9 — Debunking neuromyths through...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/sharingbestpractice/posts/2567351220265040/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/sharingbestpractice/posts/2567351220265040/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ght as fact in teacher education and professional development and even...</p></details>
+   Link:<a href="https://www.facebook.com/groups/sharingbestpractice/posts/2567351220265040/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/sharingbestpractice/posts/2567351220265040/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ght as fact in teacher education and professional development and even...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/edutopia/posts/-myth-busted-tailoring-instruction-to-students-preferred-learning-styles-has-no-/1040843741414906/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/edutopia/posts/-myth-busted-tailoring-instruction-to-students-preferred-learning-styles-has-no-/1040843741414906/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Watch to see what other learning myths it&#x27;s time to ditch.Read more...</p></details>
+   Link:<a href="https://www.facebook.com/edutopia/posts/-myth-busted-tailoring-instruction-to-students-preferred-learning-styles-has-no-/1040843741414906/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/edutopia/posts/-myth-busted-tailoring-instruction-to-students-preferred-learning-styles-has-no-/1040843741414906/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Watch to see what other learning myths it&#x27;s time to ditch.Read more...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: theeffortfuleducator.com  
    Title: fighting the good fight against neuromyths  
-   Link: <a href="https://theeffortfuleducator.com/2019/09/16/fighting-the-good-fight-against-neuromyths/" target="_blank" rel="noopener noreferrer nofollow">https://theeffortfuleducator.com/2019/09/16/fighting-the-good-fight-against-neuromyths/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Fighting the Good Fight...Against Neuromyths16 Sept 2019 — Specifically, the study investigated (1) “the neuromyths held by the trainees...</p></details>
+   Link:<a href="https://theeffortfuleducator.com/2019/09/16/fighting-the-good-fight-against-neuromyths/" target="_blank" rel="noopener noreferrer nofollow">https://theeffortfuleducator.com/2019/09/16/fighting-the-good-fight-against-neuromyths/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Fighting the Good Fight...Against Neuromyths16 Sept 2019 — Specifically, the study investigated (1) “the neuromyths held by the trainees...</p></details>

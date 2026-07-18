@@ -558,194 +558,194 @@ Finally, learners benefit from developing **analogy discrimination skills** — 
 Analogies are both a cognitive crutch and a cognitive trap. They can gently illuminate the unfamiliar, but unless accompanied by careful framing, explicit limits, and critical reflection, they can mislead — embedding misconceptions that are hard to unseat. For anyone engaging with analogical reasoning, the goal is not to avoid analogies but to **use them wisely and transparently**, signalling where they illuminate and where they blur the truth.[PMC]
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When Helpful Analogies Teach the Wrong Lesson. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When Helpful Analogies Teach the Wrong Lesson. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Metaphors+we+live+by&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Metaphors we live by on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/14614925-M.jpg" alt="Cover for Metaphors we live by" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Metaphors+we+live+by&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Metaphors we live by">Metaphors we live by</a>
-        </h4>
-        <p class="fr-book-author">By Unknown author</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Metaphors+we+live+by&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Metaphors we live by on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/14614925-M.jpg" alt="Cover for Metaphors we live by" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Metaphors+we+live+by&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Metaphors we live by">Metaphors we live by</a>
+</h4>
+<p class="fr-book-author">By Unknown author</p>
         
-        <p class="fr-book-desc">Directly explains how metaphors and analogies structure understanding and misunderstanding.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Metaphors+we+live+by&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly explains how metaphors and analogies structure understanding and misunderstanding.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Metaphors+we+live+by&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Made+to+Stick+by+Chip+Heath&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Made to Stick on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=kW9nrgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Made to Stick" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Made+to+Stick+by+Chip+Heath&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Made to Stick">Made to Stick</a>
-        </h4>
-        <p class="fr-book-author">By Chip Heath, Dan Heath</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Made+to+Stick+by+Chip+Heath&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Made to Stick on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=kW9nrgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Made to Stick" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Made+to+Stick+by+Chip+Heath&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Made to Stick">Made to Stick</a>
+</h4>
+<p class="fr-book-author">By Chip Heath, Dan Heath</p>
         
-        <p class="fr-book-desc">Shows how vivid comparisons make ideas memorable, and why clarity can also mislead.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Made+to+Stick+by+Chip+Heath&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows how vivid comparisons make ideas memorable, and why clarity can also mislead.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Made+to+Stick+by+Chip+Heath&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Surfaces+and+Essences+Douglas+Hofstadter+and+Emmanuel+Sander&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Surfaces and Essences on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/7837248-M.jpg" alt="Cover for Surfaces and Essences" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Surfaces+and+Essences+Douglas+Hofstadter+and+Emmanuel+Sander&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Surfaces and Essences">Surfaces and Essences</a>
-        </h4>
-        <p class="fr-book-author">By Douglas Hofstadter and Emmanuel Sander</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Surfaces+and+Essences+Douglas+Hofstadter+and+Emmanuel+Sander&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Surfaces and Essences on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/7837248-M.jpg" alt="Cover for Surfaces and Essences" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Surfaces+and+Essences+Douglas+Hofstadter+and+Emmanuel+Sander&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Surfaces and Essences">Surfaces and Essences</a>
+</h4>
+<p class="fr-book-author">By Douglas Hofstadter and Emmanuel Sander</p>
         
-        <p class="fr-book-desc">Argues that analogy is central to thought, making it relevant to both insight and misconception.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Surfaces+and+Essences+Douglas+Hofstadter+and+Emmanuel+Sander&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Argues that analogy is central to thought, making it relevant to both insight and misconception.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Surfaces+and+Essences+Douglas+Hofstadter+and+Emmanuel+Sander&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+stuff+of+thought&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The stuff of thought on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9856461-M.jpg" alt="Cover for The stuff of thought" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+stuff+of+thought&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The stuff of thought">The stuff of thought</a>
-        </h4>
-        <p class="fr-book-author">By Unknown author</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+stuff+of+thought&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The stuff of thought on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9856461-M.jpg" alt="Cover for The stuff of thought" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+stuff+of+thought&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The stuff of thought">The stuff of thought</a>
+</h4>
+<p class="fr-book-author">By Unknown author</p>
         
-        <p class="fr-book-desc">Explores how language, metaphor and conceptual framing shape thought.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+stuff+of+thought&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores how language, metaphor and conceptual framing shape thought.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+stuff+of+thought&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Metaphors+we+live+by&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Metaphors we live by</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Made+to+Stick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Made to Stick</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Surfaces+and+Essences&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Surfaces and Essences</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Metaphors+we+live+by&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Metaphors we live by</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Made+to+Stick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Made to Stick</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Surfaces+and+Essences&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Surfaces and Essences</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=analogies-when-helpful-analogies-teach-the-wrong-lesson-myths-and-misconcept-psychology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="psychology wall art" data-ebay-reference="analogies-when-helpful-analogies-teach-the-wrong-lesson-myths-and-misconcept-psychology-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 3pcs Neurology &amp; Psychology Wall Art Canvas Unframed/Framed"><img src="{{ '/assets/images/marketplace-covers/c0faa0441e457a78b4cb.jpg' | relative_url }}" alt="Listing image for 3pcs Neurology &amp; Psychology Wall Art Canvas Unframed/Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=analogies-when-helpful-analogies-teach-the-wrong-lesson-myths-and-misconcept-psychology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="psychology wall art" data-ebay-reference="analogies-when-helpful-analogies-teach-the-wrong-lesson-myths-and-misconcept-psychology-wall-art" target="_blank" rel="sponsored noopener noreferrer">3pcs Neurology &amp; Psychology Wall Art Canvas Unframed/Framed</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=analogies-when-helpful-analogies-teach-the-wrong-lesson-myths-and-misconcept-psychology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="psychology wall art" data-ebay-reference="analogies-when-helpful-analogies-teach-the-wrong-lesson-myths-and-misconcept-psychology-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for psychology wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: psychology wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=analogies-when-helpful-analogies-teach-the-wrong-lesson-myths-and-misconcept-psychology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="psychology wall art" data-ebay-reference="analogies-when-helpful-analogies-teach-the-wrong-lesson-myths-and-misconcept-psychology-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=analogies-when-helpful-analogies-teach-the-wrong-lesson-myths-and-misconcept-psychology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="psychology wall art" data-ebay-reference="analogies-when-helpful-analogies-teach-the-wrong-lesson-myths-and-misconcept-psychology-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 3pcs Neurology &amp; Psychology Wall Art Canvas Unframed/Framed"><img src="{{ '/assets/images/marketplace-covers/c0faa0441e457a78b4cb.jpg' | relative_url }}" alt="Listing image for 3pcs Neurology &amp; Psychology Wall Art Canvas Unframed/Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=analogies-when-helpful-analogies-teach-the-wrong-lesson-myths-and-misconcept-psychology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="psychology wall art" data-ebay-reference="analogies-when-helpful-analogies-teach-the-wrong-lesson-myths-and-misconcept-psychology-wall-art" target="_blank" rel="sponsored noopener noreferrer">3pcs Neurology &amp; Psychology Wall Art Canvas Unframed/Framed</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=analogies-when-helpful-analogies-teach-the-wrong-lesson-myths-and-misconcept-psychology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="psychology wall art" data-ebay-reference="analogies-when-helpful-analogies-teach-the-wrong-lesson-myths-and-misconcept-psychology-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for psychology wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: psychology wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=analogies-when-helpful-analogies-teach-the-wrong-lesson-myths-and-misconcept-psychology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="psychology wall art" data-ebay-reference="analogies-when-helpful-analogies-teach-the-wrong-lesson-myths-and-misconcept-psychology-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=analogies-when-helpful-analogies-teach-the-wrong-lesson-myths-and-misconcept-psychology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="psychology wall art" data-ebay-reference="analogies-when-helpful-analogies-teach-the-wrong-lesson-myths-and-misconcept-psychology-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Psychology Framed Art Print Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/917838c5c8dbbd984648.jpg' | relative_url }}" alt="Listing image for Psychology Framed Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=analogies-when-helpful-analogies-teach-the-wrong-lesson-myths-and-misconcept-psychology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="psychology wall art" data-ebay-reference="analogies-when-helpful-analogies-teach-the-wrong-lesson-myths-and-misconcept-psychology-wall-art" target="_blank" rel="sponsored noopener noreferrer">Psychology Framed Art Print Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=analogies-when-helpful-analogies-teach-the-wrong-lesson-myths-and-misconcept-psychology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="psychology wall art" data-ebay-reference="analogies-when-helpful-analogies-teach-the-wrong-lesson-myths-and-misconcept-psychology-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for psychology wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: psychology wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=analogies-when-helpful-analogies-teach-the-wrong-lesson-myths-and-misconcept-psychology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="psychology wall art" data-ebay-reference="analogies-when-helpful-analogies-teach-the-wrong-lesson-myths-and-misconcept-psychology-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=analogies-when-helpful-analogies-teach-the-wrong-lesson-myths-and-misconcept-psychology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="psychology wall art" data-ebay-reference="analogies-when-helpful-analogies-teach-the-wrong-lesson-myths-and-misconcept-psychology-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Psychology Framed Art Print Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/917838c5c8dbbd984648.jpg' | relative_url }}" alt="Listing image for Psychology Framed Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=analogies-when-helpful-analogies-teach-the-wrong-lesson-myths-and-misconcept-psychology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="psychology wall art" data-ebay-reference="analogies-when-helpful-analogies-teach-the-wrong-lesson-myths-and-misconcept-psychology-wall-art" target="_blank" rel="sponsored noopener noreferrer">Psychology Framed Art Print Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=analogies-when-helpful-analogies-teach-the-wrong-lesson-myths-and-misconcept-psychology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="psychology wall art" data-ebay-reference="analogies-when-helpful-analogies-teach-the-wrong-lesson-myths-and-misconcept-psychology-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for psychology wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: psychology wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=analogies-when-helpful-analogies-teach-the-wrong-lesson-myths-and-misconcept-psychology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="psychology wall art" data-ebay-reference="analogies-when-helpful-analogies-teach-the-wrong-lesson-myths-and-misconcept-psychology-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=analogies-when-helpful-analogies-teach-the-wrong-lesson-myths-and-misconcept-psychology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="psychology wall art" data-ebay-reference="analogies-when-helpful-analogies-teach-the-wrong-lesson-myths-and-misconcept-psychology-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Psychology symbol Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/ed441eae68b77d8d8b77.jpg' | relative_url }}" alt="Listing image for Psychology symbol Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=analogies-when-helpful-analogies-teach-the-wrong-lesson-myths-and-misconcept-psychology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="psychology wall art" data-ebay-reference="analogies-when-helpful-analogies-teach-the-wrong-lesson-myths-and-misconcept-psychology-wall-art" target="_blank" rel="sponsored noopener noreferrer">Psychology symbol Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=analogies-when-helpful-analogies-teach-the-wrong-lesson-myths-and-misconcept-psychology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="psychology wall art" data-ebay-reference="analogies-when-helpful-analogies-teach-the-wrong-lesson-myths-and-misconcept-psychology-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for psychology wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: psychology wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=analogies-when-helpful-analogies-teach-the-wrong-lesson-myths-and-misconcept-psychology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="psychology wall art" data-ebay-reference="analogies-when-helpful-analogies-teach-the-wrong-lesson-myths-and-misconcept-psychology-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=analogies-when-helpful-analogies-teach-the-wrong-lesson-myths-and-misconcept-psychology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="psychology wall art" data-ebay-reference="analogies-when-helpful-analogies-teach-the-wrong-lesson-myths-and-misconcept-psychology-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Psychology symbol Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/ed441eae68b77d8d8b77.jpg' | relative_url }}" alt="Listing image for Psychology symbol Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=analogies-when-helpful-analogies-teach-the-wrong-lesson-myths-and-misconcept-psychology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="psychology wall art" data-ebay-reference="analogies-when-helpful-analogies-teach-the-wrong-lesson-myths-and-misconcept-psychology-wall-art" target="_blank" rel="sponsored noopener noreferrer">Psychology symbol Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=analogies-when-helpful-analogies-teach-the-wrong-lesson-myths-and-misconcept-psychology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="psychology wall art" data-ebay-reference="analogies-when-helpful-analogies-teach-the-wrong-lesson-myths-and-misconcept-psychology-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for psychology wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: psychology wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=analogies-when-helpful-analogies-teach-the-wrong-lesson-myths-and-misconcept-psychology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="psychology wall art" data-ebay-reference="analogies-when-helpful-analogies-teach-the-wrong-lesson-myths-and-misconcept-psychology-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=analogies-when-helpful-analogies-teach-the-wrong-lesson-myths-and-misconcept-psychology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="psychology wall art" data-ebay-reference="analogies-when-helpful-analogies-teach-the-wrong-lesson-myths-and-misconcept-psychology-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Dark Psychology Framed Art Print Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/fb4ac1d4e4c980c9dc1c.jpg' | relative_url }}" alt="Listing image for Dark Psychology Framed Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=analogies-when-helpful-analogies-teach-the-wrong-lesson-myths-and-misconcept-psychology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="psychology wall art" data-ebay-reference="analogies-when-helpful-analogies-teach-the-wrong-lesson-myths-and-misconcept-psychology-wall-art" target="_blank" rel="sponsored noopener noreferrer">Dark Psychology Framed Art Print Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=analogies-when-helpful-analogies-teach-the-wrong-lesson-myths-and-misconcept-psychology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="psychology wall art" data-ebay-reference="analogies-when-helpful-analogies-teach-the-wrong-lesson-myths-and-misconcept-psychology-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for psychology wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: psychology wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=analogies-when-helpful-analogies-teach-the-wrong-lesson-myths-and-misconcept-psychology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="psychology wall art" data-ebay-reference="analogies-when-helpful-analogies-teach-the-wrong-lesson-myths-and-misconcept-psychology-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=analogies-when-helpful-analogies-teach-the-wrong-lesson-myths-and-misconcept-psychology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="psychology wall art" data-ebay-reference="analogies-when-helpful-analogies-teach-the-wrong-lesson-myths-and-misconcept-psychology-wall-art" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=analogies-when-helpful-analogies-teach-the-wrong-lesson-myths-and-misconcept-psychology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="psychology wall art" data-ebay-reference="analogies-when-helpful-analogies-teach-the-wrong-lesson-myths-and-misconcept-psychology-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Dark Psychology Framed Art Print Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/fb4ac1d4e4c980c9dc1c.jpg' | relative_url }}" alt="Listing image for Dark Psychology Framed Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=analogies-when-helpful-analogies-teach-the-wrong-lesson-myths-and-misconcept-psychology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="psychology wall art" data-ebay-reference="analogies-when-helpful-analogies-teach-the-wrong-lesson-myths-and-misconcept-psychology-wall-art" target="_blank" rel="sponsored noopener noreferrer">Dark Psychology Framed Art Print Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=analogies-when-helpful-analogies-teach-the-wrong-lesson-myths-and-misconcept-psychology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="psychology wall art" data-ebay-reference="analogies-when-helpful-analogies-teach-the-wrong-lesson-myths-and-misconcept-psychology-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for psychology wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: psychology wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=analogies-when-helpful-analogies-teach-the-wrong-lesson-myths-and-misconcept-psychology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="psychology wall art" data-ebay-reference="analogies-when-helpful-analogies-teach-the-wrong-lesson-myths-and-misconcept-psychology-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=analogies-when-helpful-analogies-teach-the-wrong-lesson-myths-and-misconcept-psychology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="psychology wall art" data-ebay-reference="analogies-when-helpful-analogies-teach-the-wrong-lesson-myths-and-misconcept-psychology-wall-art" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -761,7 +761,7 @@ Analogies are both a cognitive crutch and a cognitive trap. They can gently illu
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -781,7 +781,7 @@ Analogies are both a cognitive crutch and a cognitive trap. They can gently illu
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -813,7 +813,7 @@ Analogies are both a cognitive crutch and a cognitive trap. They can gently illu
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -865,7 +865,7 @@ Analogies are both a cognitive crutch and a cognitive trap. They can gently illu
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -910,7 +910,7 @@ Analogies are both a cognitive crutch and a cognitive trap. They can gently illu
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -951,135 +951,135 @@ Analogies are both a cognitive crutch and a cognitive trap. They can gently illu
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCRelational Reasoning and Educational Applications  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12938770/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12938770/</a>  
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12938770/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12938770/</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: sciencedirect.com  
    Title: ScienceDirect When analogies harm: The effects of analogies on metacomprehension  
-   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0959475217303067" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0959475217303067</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>When analogies harm: The effects of analogies on metacomprehension - ScienceDirectJune 1, 2018...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/abs/pii/S0959475217303067" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0959475217303067</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>When analogies harm: The effects of analogies on metacomprehension - ScienceDirectJune 1, 2018...</p></details>
    Published: June 1, 2018  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: link.springer.com  
-   Link: <a href="https://link.springer.com/article/10.1186/s41235-017-0054-7" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1186/s41235-017-0054-7</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Using analogy to learn about phenomena at scales outside human perception | Cognitive Research: Principles and Implications | Spr...</p></details>
+   Link:<a href="https://link.springer.com/article/10.1186/s41235" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1186/s41235</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Using analogy to learn about phenomena at scales outside human perception | Cognitive Research: Principles and Implications | Spr...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: direct.mit.edu  
-   Link: <a href="https://direct.mit.edu/posc/article/27/2/153/15419/Misled-by-Metaphor-The-Problem-of-Ingrained" target="_blank" rel="noopener noreferrer nofollow">https://direct.mit.edu/posc/article/27/2/153/15419/Misled-by-Metaphor-The-Problem-of-Ingrained</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>MIT Press DirectMisled by Metaphor: The Problem of Ingrained Analogy | Perspectives on Science | MIT PressApril 1, 2019...</p></details>
+   Link:<a href="https://direct.mit.edu/posc/article/27/2/153/15419/Misled-by-Metaphor-The-Problem-of-Ingrained" target="_blank" rel="noopener noreferrer nofollow">https://direct.mit.edu/posc/article/27/2/153/15419/Misled-by-Metaphor-The-Problem-of-Ingrained</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>MIT Press DirectMisled by Metaphor: The Problem of Ingrained Analogy | Perspectives on Science | MIT PressApril 1, 2019...</p></details>
    Published: April 1, 2019  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: link.springer.com  
    Title: Good Use of a ‘Bad’ Metaphor | Science & Education | Springer Nature Link  
-   Link: <a href="https://link.springer.com/article/10.1007/s11191-017-9892-4" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1007/s11191-017-9892-4</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Good Use of a ‘Bad’ Metaphor | Science &amp; Education | Springer Nature LinkApril 27, 2017...</p></details>
+   Link:<a href="https://link.springer.com/article/10.1007/s11191" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1007/s11191</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Good Use of a ‘Bad’ Metaphor | Science &amp; Education | Springer Nature LinkApril 27, 2017...</p></details>
    Published: April 27, 2017  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: researchonline.jcu.edu.au  
    Title: Analogies in science and science teaching  
-   Link: <a href="https://researchonline.jcu.edu.au/53036/" target="_blank" rel="noopener noreferrer nofollow">https://researchonline.jcu.edu.au/53036/</a>  
+   Link:<a href="https://researchonline.jcu.edu.au/53036/" target="_blank" rel="noopener noreferrer nofollow">https://researchonline.jcu.edu.au/53036/</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: sciencedirect.com  
    Title: ScienceDirect Learning by analogy: Discriminating between potential analogs  
-   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0361476X09000381" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0361476X09000381</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Learning by analogy: Discriminating between potential analogs - ScienceDirectJanuary 1, 2010...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/abs/pii/S0361476X09000381" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0361476X09000381</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Learning by analogy: Discriminating between potential analogs - ScienceDirectJanuary 1, 2010...</p></details>
    Published: January 1, 2010  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5969428/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC5969428/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>March 30, 2018...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5969428/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC5969428/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>March 30, 2018...</p></details>
    Published: March 30, 2018  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: sciencedirect.com  
    Title: Fostering conceptual change by analogies—between Scylla and Charybdis  
-   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0959475200000347" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0959475200000347</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>August 1, 2001 — LEARNING AND INSTRUCTION Volume 11, Issues 4–5, August–October 2001, Pages 283-303 FOSTERING CONCEPTUAL CHA...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/abs/pii/S0959475200000347" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0959475200000347</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>August 1, 2001 — LEARNING AND INSTRUCTION Volume 11, Issues 4–5, August–October 2001, Pages 283-303 FOSTERING CONCEPTUAL CHA...</p></details>
    Published: August 1, 2001  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0361476X23000267" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0361476X23000267</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>CONTEMPORARY EDUCATIONAL PSYCHOLOGY Volume 73, April 2023, 102172 LEARNING FROM [REFUTATION TEXTS](&amp;#123;&amp;#123; &#x27;refutation-texts/&#x27; | relative_url &amp;#125;&amp;#125;) ABOUT SCIENTIFIC TOPICS WIT...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/pii/S0361476X23000267" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0361476X23000267</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>CONTEMPORARY EDUCATIONAL PSYCHOLOGY Volume 73, April 2023, 102172 LEARNING FROM [REFUTATION TEXTS](&amp;#123;&amp;#123; &#x27;refutation-texts/&#x27; | relative_url &amp;#125;&amp;#125;) ABOUT SCIENTIFIC TOPICS WIT...</p></details>
    Published: April 2023  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
    Title: Pub Med Analogies in science and science teaching  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/21098382/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/21098382/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Analogies in science and science teaching - PubMed...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/21098382/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/21098382/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Analogies in science and science teaching - PubMed...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: tandfonline.com  
    Title: Taylor & Francis Online Full article: Analogy competence for science teachers  
-   Link: <a href="https://www.tandfonline.com/doi/full/10.1080/03057267.2024.2434797" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/full/10.1080/03057267.2024.2434797</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Taylor &amp; Francis OnlineFull article: Analogy competence for science teachersDecember 5, 2024...</p></details>
+   Link:<a href="https://www.tandfonline.com/doi/full/10.1080/03057267.2024.2434797" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/full/10.1080/03057267.2024.2434797</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Taylor &amp; Francis OnlineFull article: Analogy competence for science teachersDecember 5, 2024...</p></details>
    Published: December 5, 2024  
 
 ### Additional References
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: zgd-journal.de  
-   Link: <a href="https://www.zgd-journal.de/index.php/zgd/en/article/view/220" target="_blank" rel="noopener noreferrer nofollow">https://www.zgd-journal.de/index.php/zgd/en/article/view/220</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>December 31, 2007 — MISLEADING ANALOGIES THAT LEAD TO THE BELIEF THAT THE MANTLE OF THE EARTH IS LIQUID AUTHORS * José Sellés-Martínez DO...</p></details>
+   Link:<a href="https://www.zgd-journal.de/index.php/zgd/en/article/view/220" target="_blank" rel="noopener noreferrer nofollow">https://www.zgd-journal.de/index.php/zgd/en/article/view/220</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>December 31, 2007 — MISLEADING ANALOGIES THAT LEAD TO THE BELIEF THAT THE MANTLE OF THE EARTH IS LIQUID AUTHORS * José Sellés-Martínez DO...</p></details>
    Published: December 31, 2007  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: nzcer.org.nz  
-   Link: <a href="https://www.nzcer.org.nz/nzcerpress/curriculum-matters/articles/linguistic-threats-associated-metaphors-about-evolution" target="_blank" rel="noopener noreferrer nofollow">https://www.nzcer.org.nz/nzcerpress/curriculum-matters/articles/linguistic-threats-associated-metaphors-about-evolution</a>  
+   Link:<a href="https://www.nzcer.org.nz/nzcerpress/curriculum-matters/articles/linguistic-threats-associated-metaphors-about-evolution" target="_blank" rel="noopener noreferrer nofollow">https://www.nzcer.org.nz/nzcerpress/curriculum-matters/articles/linguistic-threats-associated-metaphors-about-evolution</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: portal.research.lu.se  
-   Link: <a href="https://portal.research.lu.se/en/publications/analogy-use-in-textbook-introductions-to-isostasy-presentations-p" target="_blank" rel="noopener noreferrer nofollow">https://portal.research.lu.se/en/publications/analogy-use-in-textbook-introductions-to-isostasy-presentations-p</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Dunnett, Thomas J. Barnes, A. Mattias Lundmark * National Resource Centre for Physics Education * Unive...</p></details>
+   Link:<a href="https://portal.research.lu.se/en/publications/analogy-use-in-textbook-introductions-to-isostasy-presentations-p" target="_blank" rel="noopener noreferrer nofollow">https://portal.research.lu.se/en/publications/analogy-use-in-textbook-introductions-to-isostasy-presentations-p</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Dunnett, Thomas J. Barnes, A. Mattias Lundmark * National Resource Centre for Physics Education * Unive...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: portal.research.lu.se  
-   Link: <a href="https://portal.research.lu.se/sv/publications/analogy-use-in-textbook-introductions-to-isostasy-presentations-p" target="_blank" rel="noopener noreferrer nofollow">https://portal.research.lu.se/sv/publications/analogy-use-in-textbook-introductions-to-isostasy-presentations-p</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Dunnett, Thomas J. Barnes, A. Mattias Lundmark SAMMANFATTNING In teaching, analogies can be used to su...</p></details>
+   Link:<a href="https://portal.research.lu.se/sv/publications/analogy-use-in-textbook-introductions-to-isostasy-presentations-p" target="_blank" rel="noopener noreferrer nofollow">https://portal.research.lu.se/sv/publications/analogy-use-in-textbook-introductions-to-isostasy-presentations-p</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Dunnett, Thomas J. Barnes, A. Mattias Lundmark SAMMANFATTNING In teaching, analogies can be used to su...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: lunduniversity.lu.se  
    Title: Dunnett * Thomas J. Barnes * A. Mattias Lundmark  
-   Link: <a href="https://www.lunduniversity.lu.se/lup/publication/855f0c42-d510-4a20-91f3-12befd4426ca" target="_blank" rel="noopener noreferrer nofollow">https://www.lunduniversity.lu.se/lup/publication/855f0c42-d510-4a20-91f3-12befd4426ca</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>use in textbook introductions to isostasy: Presentations, perceptions and physics | Lund UniversityANALOGY USE IN TEXTBOOK INTRODUCTIONS...</p></details>
+   Link:<a href="https://www.lunduniversity.lu.se/lup/publication/855f0c42-d510-4a20-91f3-12befd4426ca" target="_blank" rel="noopener noreferrer nofollow">https://www.lunduniversity.lu.se/lup/publication/855f0c42-d510-4a20-91f3-12befd4426ca</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>use in textbook introductions to isostasy: Presentations, perceptions and physics | Lund UniversityANALOGY USE IN TEXTBOOK INTRODUCTIONS...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: youtube.com  
    Title: Misconceptions and Education with David Butler  
-   Link: <a href="https://www.youtube.com/watch?v=JbVSDmERpxw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=JbVSDmERpxw</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>This selection of videos is relevant because it explores how cognitive shortcuts and metaphorical thinking can lead to flawed reasoning...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=JbVSDmERpxw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=JbVSDmERpxw</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>This selection of videos is relevant because it explores how cognitive shortcuts and metaphorical thinking can lead to flawed reasoning...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: research-portal.uea.ac.uk  
    Title: uea.ac.uk Mind the metaphor!  
-   Link: <a href="https://research-portal.uea.ac.uk/en/publications/mind-the-metaphor-a-systematic-fallacy-in-analogical-reasoning" target="_blank" rel="noopener noreferrer nofollow">https://research-portal.uea.ac.uk/en/publications/mind-the-metaphor-a-systematic-fallacy-in-analogical-reasoning</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A systematic fallacy in analogical reasoning - University of East AngliaJanuary 1, 2015 — MIND THE METAPHOR! A SYSTEMATIC FALLACY IN ANAL...</p></details>
+   Link:<a href="https://research-portal.uea.ac.uk/en/publications/mind-the-metaphor-a-systematic-fallacy-in-analogical-reasoning" target="_blank" rel="noopener noreferrer nofollow">https://research-portal.uea.ac.uk/en/publications/mind-the-metaphor-a-systematic-fallacy-in-analogical-reasoning</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A systematic fallacy in analogical reasoning - University of East AngliaJanuary 1, 2015 — MIND THE METAPHOR! A SYSTEMATIC FALLACY IN ANAL...</p></details>
    Published: January 1, 2015  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: ueaeprints.uea.ac.uk  
    Title: uea.ac.uk Mind the metaphor!  
-   Link: <a href="https://ueaeprints.uea.ac.uk/id/eprint/51714/" target="_blank" rel="noopener noreferrer nofollow">https://ueaeprints.uea.ac.uk/id/eprint/51714/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A systematic fallacy in analogical reasoning - UEA Digital RepositoryJanuary 9, 2015 — MIND THE METAPHOR! A SYSTEMATIC FALLACY IN ANALOGI...</p></details>
+   Link:<a href="https://ueaeprints.uea.ac.uk/id/eprint/51714/" target="_blank" rel="noopener noreferrer nofollow">https://ueaeprints.uea.ac.uk/id/eprint/51714/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A systematic fallacy in analogical reasoning - UEA Digital RepositoryJanuary 9, 2015 — MIND THE METAPHOR! A SYSTEMATIC FALLACY IN ANALOGI...</p></details>
    Published: January 9, 2015  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5357664/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC5357664/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Although novices are sometimes reasonably accurate at ranking phenomena in a correct sequence, they have diffic...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5357664/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC5357664/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Although novices are sometimes reasonably accurate at ranking phenomena in a correct sequence, they have diffic...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: tandfonline.com  
-   Link: <a href="https://www.tandfonline.com/doi/abs/10.1080/03057640220147577" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/abs/10.1080/03057640220147577</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Place of Analogies in Science Education: Cambridge Journal of Education: Vol 32, No 2July 1, 2010 — Cambridge Journal of Education Vo...</p></details>
+   Link:<a href="https://www.tandfonline.com/doi/abs/10.1080/03057640220147577" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/abs/10.1080/03057640220147577</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Place of Analogies in Science Education: Cambridge Journal of Education: Vol 32, No 2July 1, 2010 — Cambridge Journal of Education Vo...</p></details>
    Published: July 1, 2010

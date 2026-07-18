@@ -274,7 +274,7 @@ image: /assets/images/Myths_and_misconcept_0d48d7_backfire_effect_myth_0599c9_po
 
 ## Introduction
 
-Political misinformation is one of the areas where fears about the [backfire]({{ 'backfire/' | relative_url }}) effect became most influential. The concern was not just that [corrections]({{ 'corrections/' | relative_url }}) might fail. It was that fact-checks could make people believe false claims even more strongly. Yet much of the evidence accumulated over the past decade points to a different problem. Political corrections often improve factual accuracy, but they do not necessarily change broader political attitudes, partisan loyalties, trust in leaders or voting behaviour. PNAS <span class="citation-chip-wrap"><a class="citation-chip" href="https://files.osf.io/v1/resources/svbru_v1/providers/osfstorage/6536f8e013d27b0fcb94cf9b?action=download&amp;direct=&amp;version=1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.osf.io">[OSF Files]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.osf.io</span><span class="citation-popover-snippet">Factual corrections that target misinformation improve belief accuracy. They do so across a wide variety of countries, political...Read...</span></span></span>
+Political misinformation is one of the areas where fears about the [backfire]({{ 'backfire/' | relative_url }}) effect became most influential. The concern was not just that [corrections]({{ 'corrections/' | relative_url }}) might fail. It was that fact-checks could make people believe false claims even more strongly. Yet much of the evidence accumulated over the past decade points to a different problem. Political corrections often improve factual accuracy, but they do not necessarily change broader political attitudes, partisan loyalties, trust in leaders or voting behaviour. PNAS<span class="citation-chip-wrap"><a class="citation-chip" href="https://files.osf.io/v1/resources/svbru_v1/providers/osfstorage/6536f8e013d27b0fcb94cf9b?action=download&amp;direct=&amp;version=1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.osf.io">[OSF Files]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.osf.io</span><span class="citation-popover-snippet">Factual corrections that target misinformation improve belief accuracy. They do so across a wide variety of countries, political...Read...</span></span></span>
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_backfire_effect_myth_0599c9_political_correction_15d3aa-Illustration-1-dark.svg" | relative_url }}" alt="Political Corrections illustration 1" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_backfire_effect_myth_0599c9_political_correction_15d3aa-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_backfire_effect_myth_0599c9_political_correction_15d3aa-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 That distinction matters because a [correction]({{ 'correction/' | relative_url }}) that leaves someone's political [identity]({{ 'identity/' | relative_url }}) intact is not the same thing as a correction that backfires. Many apparent examples of “backfire” are better understood as cases where people accepted a factual correction while continuing to support the politician, party or worldview connected to the false claim. The correction worked in a narrow informational sense, but the larger political landscape barely moved.
@@ -294,9 +294,9 @@ Researchers increasingly distinguish that outcome from several other possibiliti
 
 </div>
 
-Only the first scenario is true backfire. The others involve limited effectiveness, persistence or motivated political behaviour rather than belief strengthening. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9283209/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">The backfire effect after correcting misinformation is strongly...by B Swire-Thompson · 2022 · Cited by 111 — The backfire effect is...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.pnas.org/doi/10.1073/pnas.1912440117" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pnas.org">[PNAS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pnas.org</span><span class="citation-popover-snippet">Brendan Nyhan... Reifler, When corrections fail: The persistence of...</span></span></span>
+Only the first scenario is true backfire. The others involve limited effectiveness, persistence or motivated political behaviour rather than belief strengthening.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9283209/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">The backfire effect after correcting misinformation is strongly...by B Swire-Thompson · 2022 · Cited by 111 — The backfire effect is...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.pnas.org/doi/10.1073/pnas.1912440117" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pnas.org">[PNAS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pnas.org</span><span class="citation-popover-snippet">Brendan Nyhan... Reifler, When corrections fail: The persistence of...</span></span></span>
 
-This distinction became clearer after large replication efforts struggled to find robust backfire effects. Thomas Wood and Ethan Porter tested dozens of politically contentious issues across more than 10,000 participants and reported no evidence that corrections systematically increased misperceptions. Instead, people generally moved toward greater factual accuracy even when the information challenged their political side. <span class="citation-chip-wrap"><a class="citation-chip" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2819073" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: papers.ssrn.com">[SSRN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">papers.ssrn.com</span><span class="citation-popover-snippet">Can citizens heed factual information, even when such information challenges their partisan and ideological attachments?Read more...</span></span></span>
+This distinction became clearer after large replication efforts struggled to find robust backfire effects. Thomas Wood and Ethan Porter tested dozens of politically contentious issues across more than 10,000 participants and reported no evidence that corrections systematically increased misperceptions. Instead, people generally moved toward greater factual accuracy even when the information challenged their political side.<span class="citation-chip-wrap"><a class="citation-chip" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2819073" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: papers.ssrn.com">[SSRN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">papers.ssrn.com</span><span class="citation-popover-snippet">Can citizens heed factual information, even when such information challenges their partisan and ideological attachments?Read more...</span></span></span>
 
 The practical implication is important: many political corrections fail to produce dramatic persuasion, but that is different from making misinformation stronger.
 
@@ -306,7 +306,7 @@ One reason correction research often looks disappointing is that factual beliefs
 
 People can update a specific belief while leaving broader loyalties untouched. A voter might accept that a politician made a false statement yet continue supporting that politician because of economic policy, cultural identity, party loyalty or dislike of the alternative. In that situation, factual correction succeeds but political preference remains stable.
 
-Research on political misinformation repeatedly finds evidence for this separation. Studies show that corrections can improve factual accuracy while producing little change in candidate evaluations, ideological attitudes or broader partisan commitments. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ore.exeter.ac.uk/articles/journal_contribution/Taking_Fact-Checks_Literally_But_Not_Seriously_The_Effects_of_Journalistic_Fact-Checking_on_Factual_Beliefs_and_Candidate_Favorability/29753936/1/files/56778089.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ore.exeter.ac.uk">[University of Exeter Research Repository]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ore.exeter.ac.uk</span><span class="citation-popover-snippet">The Effects...April 29, 2019 — by B Nyhan · 2019 · Cited by 576 — Nyhan and Reifler (2010) find that corrective information in mock news...</span><span class="citation-popover-meta">Published: April 29, 2019</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.annualreviews.org/content/journals/10.1146/annurev-polisci-050718-032814?crawler=true&amp;mimetype=application%2Fpdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: annualreviews.org">[Annual Reviews]</a><span class="citation-popover" role="note"><span class="citation-popover-source">annualreviews.org</span><span class="citation-popover-title">annurev polisci 050718 032814</span><span class="citation-popover-snippet">Annual ReviewsPolitical Misinformationby J Jerit · 2020 · Cited by 396 — Perhaps as a re- sult, there are instances in which false belief...</span></span></span>
+Research on political misinformation repeatedly finds evidence for this separation. Studies show that corrections can improve factual accuracy while producing little change in candidate evaluations, ideological attitudes or broader partisan commitments.<span class="citation-chip-wrap"><a class="citation-chip" href="https://ore.exeter.ac.uk/articles/journal_contribution/Taking_Fact-Checks_Literally_But_Not_Seriously_The_Effects_of_Journalistic_Fact-Checking_on_Factual_Beliefs_and_Candidate_Favorability/29753936/1/files/56778089.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ore.exeter.ac.uk">[University of Exeter Research Repository]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ore.exeter.ac.uk</span><span class="citation-popover-snippet">The Effects...April 29, 2019 — by B Nyhan · 2019 · Cited by 576 — Nyhan and Reifler (2010) find that corrective information in mock news...</span><span class="citation-popover-meta">Published: April 29, 2019</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.annualreviews.org/content/journals/10.1146/annurev-polisci-050718-032814?crawler=true&amp;mimetype=application%2Fpdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: annualreviews.org">[Annual Reviews]</a><span class="citation-popover" role="note"><span class="citation-popover-source">annualreviews.org</span><span class="citation-popover-title">annurev polisci 050718 032814</span><span class="citation-popover-snippet">Annual ReviewsPolitical Misinformationby J Jerit · 2020 · Cited by 396 — Perhaps as a re- sult, there are instances in which false belief...</span></span></span>
 
 This can look like resistance to facts when viewed from outside. A journalist may reveal that a claim was false, yet polling numbers barely move. Observers then conclude that fact-checking failed. But from a measurement perspective, two different outcomes are being combined:
 
@@ -321,14 +321,14 @@ Political identities are usually constructed from networks of values, group loya
 
 As a result, correcting one claim rarely dismantles the larger identity structure supporting a political position. Someone may concede that a rumour about immigration, climate policy or election administration was inaccurate while still viewing the opposing political camp as threatening or untrustworthy.
 
-This helps explain why political attitudes often appear remarkably stable even when factual beliefs shift. The correction modifies one piece of information but leaves the underlying identity framework largely intact. <span class="citation-chip-wrap"><a class="citation-chip" href="https://sites.dartmouth.edu/nyhan/files/2021/03/jep.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sites.dartmouth.edu">[Dartmouth Sites]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sites.dartmouth.edu</span><span class="citation-popover-snippet">Dartmouth SitesFacts and Myths about Misperceptions &#124; Brendan Nyhanby B Nyhan · Cited by 320 — Political misinformation often originates...</span></span></span>
+This helps explain why political attitudes often appear remarkably stable even when factual beliefs shift. The correction modifies one piece of information but leaves the underlying identity framework largely intact.<span class="citation-chip-wrap"><a class="citation-chip" href="https://sites.dartmouth.edu/nyhan/files/2021/03/jep.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sites.dartmouth.edu">[Dartmouth Sites]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sites.dartmouth.edu</span><span class="citation-popover-snippet">Dartmouth SitesFacts and Myths about Misperceptions &#124; Brendan Nyhanby B Nyhan · Cited by 320 — Political misinformation often originates...</span></span></span>
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_backfire_effect_myth_0599c9_political_correction_15d3aa-Illustration-2-dark.svg" | relative_url }}" alt="Political Corrections illustration 2" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_backfire_effect_myth_0599c9_political_correction_15d3aa-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_backfire_effect_myth_0599c9_political_correction_15d3aa-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How Politics Keeps Myths Alive After Correction
 
 Another reason corrections can appear ineffective is that political misinformation is often continuously reinforced.
 
-Brendan Nyhan has argued that the durability of political misperceptions is better explained by repeated elite cues, partisan media environments and ongoing exposure than by classic backfire effects. Even when a correction succeeds, later messages may reintroduce the myth or surround it with sympathetic framing. PNAS PubMed A voter might encounter: <span class="citation-chip-wrap"><a class="citation-chip" href="https://carnegieendowment.org/russia-eurasia/research/2024/01/countering-disinformation-effectively-an-evidence-based-policy-guide" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: carnegieendowment.org">[carnegieendowment.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">carnegieendowment.org</span><span class="citation-popover-title">countering disinformation effectively an evidence based policy guide</span><span class="citation-popover-snippet">Countering Disinformation Effectively: An Evidence-Based...31 Jan 2024 — A high-level, evidence-informed guide to some of the major prop...</span></span></span>
+Brendan Nyhan has argued that the durability of political misperceptions is better explained by repeated elite cues, partisan media environments and ongoing exposure than by classic backfire effects. Even when a correction succeeds, later messages may reintroduce the myth or surround it with sympathetic framing. PNAS PubMed A voter might encounter:<span class="citation-chip-wrap"><a class="citation-chip" href="https://carnegieendowment.org/russia-eurasia/research/2024/01/countering-disinformation-effectively-an-evidence-based-policy-guide" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: carnegieendowment.org">[carnegieendowment.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">carnegieendowment.org</span><span class="citation-popover-title">countering disinformation effectively an evidence based policy guide</span><span class="citation-popover-snippet">Countering Disinformation Effectively: An Evidence-Based...31 Jan 2024 — A high-level, evidence-informed guide to some of the major prop...</span></span></span>
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -341,7 +341,7 @@ Brendan Nyhan has argued that the durability of political misperceptions is bett
 
 Under those conditions, misinformation can remain influential without any need for a psychological backfire mechanism. The correction is simply outnumbered.
 
-Research reviews increasingly point toward this explanation. Political misinformation often originates with political elites and is sustained through repeated circulation by parties, activists and media outlets. The problem is not necessarily that corrections strengthen false beliefs; it is that corrections compete against a much larger information system. Dartmouth Sites <span class="citation-chip-wrap"><a class="citation-chip" href="https://carnegieendowment.org/russia-eurasia/research/2024/01/countering-disinformation-effectively-an-evidence-based-policy-guide" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: carnegieendowment.org">[Carnegie Endowment]</a><span class="citation-popover" role="note"><span class="citation-popover-source">carnegieendowment.org</span><span class="citation-popover-title">countering disinformation effectively an evidence based policy guide</span><span class="citation-popover-snippet">Countering Disinformation Effectively: An Evidence-Based...31 Jan 2024 — A high-level, evidence-informed guide to some of the major prop...</span></span></span>
+Research reviews increasingly point toward this explanation. Political misinformation often originates with political elites and is sustained through repeated circulation by parties, activists and media outlets. The problem is not necessarily that corrections strengthen false beliefs; it is that corrections compete against a much larger information system. Dartmouth Sites<span class="citation-chip-wrap"><a class="citation-chip" href="https://carnegieendowment.org/russia-eurasia/research/2024/01/countering-disinformation-effectively-an-evidence-based-policy-guide" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: carnegieendowment.org">[Carnegie Endowment]</a><span class="citation-popover" role="note"><span class="citation-popover-source">carnegieendowment.org</span><span class="citation-popover-title">countering disinformation effectively an evidence based policy guide</span><span class="citation-popover-snippet">Countering Disinformation Effectively: An Evidence-Based...31 Jan 2024 — A high-level, evidence-informed guide to some of the major prop...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/WyTVzZM2xPQ" title="The Backfire Effect: Why Facts Don’t Change People’s Minds" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=WyTVzZM2xPQ" target="_blank" rel="noopener noreferrer">The Backfire Effect: Why Facts Don’t Change People’s Minds</a></p><p class="youtube-embed-meta">Channel: Rafi Chowdhury &middot; Views: 60 &middot; Uploaded: October 2024 &middot; Length: 2 minutes 43 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=WyTVzZM2xPQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=WyTVzZM2xPQ">Open on YouTube</a></p></div></div></div>
 
@@ -351,7 +351,7 @@ Political communication also depends heavily on trust.
 
 A person may accept that a particular factual statement was inaccurate while still distrusting the institution delivering the correction. That creates a situation where factual accuracy improves but broader political attitudes remain unchanged.
 
-For example, some studies find that people respond differently depending on who issues a correction. Corrections from ideologically compatible or trusted sources can sometimes be more persuasive than identical information delivered by institutions viewed as hostile. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Fact-checking" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2505.08048" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[2arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+For example, some studies find that people respond differently depending on who issues a correction. Corrections from ideologically compatible or trusted sources can sometimes be more persuasive than identical information delivered by institutions viewed as hostile.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Fact-checking" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2505.08048" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[2arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 Again, this is not backfire in the strict sense. It is a question of source credibility and political trust.
 
@@ -365,9 +365,9 @@ False belief → correction → changed opinion → changed vote.
 
 In reality, each step can break apart.
 
-Research on fact-checking has repeatedly found cases where individuals become more accurate about political facts without substantially changing candidate favourability or political support. A voter may learn that a campaign advertisement was misleading and still prefer the same candidate because other considerations outweigh the factual issue. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ore.exeter.ac.uk/articles/journal_contribution/Taking_Fact-Checks_Literally_But_Not_Seriously_The_Effects_of_Journalistic_Fact-Checking_on_Factual_Beliefs_and_Candidate_Favorability/29753936/1/files/56778089.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ore.exeter.ac.uk">[University of Exeter Research Repository]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ore.exeter.ac.uk</span><span class="citation-popover-snippet">The Effects...April 29, 2019 — by B Nyhan · 2019 · Cited by 576 — Nyhan and Reifler (2010) find that corrective information in mock news...</span><span class="citation-popover-meta">Published: April 29, 2019</span></span></span>
+Research on fact-checking has repeatedly found cases where individuals become more accurate about political facts without substantially changing candidate favourability or political support. A voter may learn that a campaign advertisement was misleading and still prefer the same candidate because other considerations outweigh the factual issue.<span class="citation-chip-wrap"><a class="citation-chip" href="https://ore.exeter.ac.uk/articles/journal_contribution/Taking_Fact-Checks_Literally_But_Not_Seriously_The_Effects_of_Journalistic_Fact-Checking_on_Factual_Beliefs_and_Candidate_Favorability/29753936/1/files/56778089.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ore.exeter.ac.uk">[University of Exeter Research Repository]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ore.exeter.ac.uk</span><span class="citation-popover-snippet">The Effects...April 29, 2019 — by B Nyhan · 2019 · Cited by 576 — Nyhan and Reifler (2010) find that corrective information in mock news...</span><span class="citation-popover-meta">Published: April 29, 2019</span></span></span>
 
-A notable example comes from studies of election [campaigns]({{ 'campaigns/' | relative_url }}) and populist political messaging. Fact-checks frequently reduce belief in specific false claims, yet supporters often maintain their overall evaluations of the political figure involved. The factual correction succeeds, but the behavioural consequences are limited. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Fact-checking" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+A notable example comes from studies of election [campaigns]({{ 'campaigns/' | relative_url }}) and populist political messaging. Fact-checks frequently reduce belief in specific false claims, yet supporters often maintain their overall evaluations of the political figure involved. The factual correction succeeds, but the behavioural consequences are limited.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Fact-checking" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 This pattern can be frustrating for fact-checkers because public expectations are often unrealistic. Correcting a false claim is fundamentally an informational intervention. It is not necessarily a mechanism for changing identity, ideology or partisan allegiance.
 
@@ -378,201 +378,201 @@ The belief that political corrections do not work survives partly because people
 
 If the expectation is complete depolarisation, broad attitude change or dramatic electoral shifts, most corrections will appear disappointing. Political identities are too deeply rooted for a single fact-check to transform them.
 
-But if the standard is narrower—whether people become more accurate about a specific factual claim—the evidence is considerably more positive. Large-scale studies and reviews generally find that corrections move beliefs in the right direction, even among politically committed audiences. <span class="citation-chip-wrap"><a class="citation-chip" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2819073" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: papers.ssrn.com">[SSRN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">papers.ssrn.com</span><span class="citation-popover-snippet">Can citizens heed factual information, even when such information challenges their partisan and ideological attachments?Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://files.osf.io/v1/resources/svbru_v1/providers/osfstorage/6536f8e013d27b0fcb94cf9b?action=download&amp;direct=&amp;version=1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.osf.io">[OSF]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.osf.io</span><span class="citation-popover-snippet">Factual corrections that target misinformation improve belief accuracy. They do so across a wide variety of countries, political...Read...</span></span></span>
+But if the standard is narrower—whether people become more accurate about a specific factual claim—the evidence is considerably more positive. Large-scale studies and reviews generally find that corrections move beliefs in the right direction, even among politically committed audiences.<span class="citation-chip-wrap"><a class="citation-chip" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2819073" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: papers.ssrn.com">[SSRN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">papers.ssrn.com</span><span class="citation-popover-snippet">Can citizens heed factual information, even when such information challenges their partisan and ideological attachments?Read more...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://files.osf.io/v1/resources/svbru_v1/providers/osfstorage/6536f8e013d27b0fcb94cf9b?action=download&amp;direct=&amp;version=1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.osf.io">[OSF]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.osf.io</span><span class="citation-popover-snippet">Factual corrections that target misinformation improve belief accuracy. They do so across a wide variety of countries, political...Read...</span></span></span>
 
 The result is a persistent misunderstanding. Observers see unchanged political attitudes and conclude that the correction failed. Researchers measuring factual beliefs often see a different story: the correction worked, just not in the sweeping way people hoped.
 
-That gap between factual learning and political commitment helps explain why fears of widespread backfire have weakened while concerns about misinformation remain. The central challenge is often not that corrections make people believe myths more strongly. It is that [politics]({{ 'politics/' | relative_url }}) gives people many reasons to keep their identities, loyalties and preferences even after the facts become clearer. PNAS <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.annualreviews.org/content/journals/10.1146/annurev-polisci-050718-032814?crawler=true&amp;mimetype=application%2Fpdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: annualreviews.org">[Annual Reviews]</a><span class="citation-popover" role="note"><span class="citation-popover-source">annualreviews.org</span><span class="citation-popover-title">annurev polisci 050718 032814</span><span class="citation-popover-snippet">Annual ReviewsPolitical Misinformationby J Jerit · 2020 · Cited by 396 — Perhaps as a re- sult, there are instances in which false belief...</span></span></span>
+That gap between factual learning and political commitment helps explain why fears of widespread backfire have weakened while concerns about misinformation remain. The central challenge is often not that corrections make people believe myths more strongly. It is that [politics]({{ 'politics/' | relative_url }}) gives people many reasons to keep their identities, loyalties and preferences even after the facts become clearer. PNAS<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.annualreviews.org/content/journals/10.1146/annurev-polisci-050718-032814?crawler=true&amp;mimetype=application%2Fpdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: annualreviews.org">[Annual Reviews]</a><span class="citation-popover" role="note"><span class="citation-popover-source">annualreviews.org</span><span class="citation-popover-title">annurev polisci 050718 032814</span><span class="citation-popover-snippet">Annual ReviewsPolitical Misinformationby J Jerit · 2020 · Cited by 396 — Perhaps as a re- sult, there are instances in which false belief...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When Corrections Work But Minds Barely Move. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When Corrections Work But Minds Barely Move. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Righteous+Mind+Jonathan+Haidt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Righteous Mind on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/14630309-M.jpg" alt="Cover for The Righteous Mind" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Righteous+Mind+Jonathan+Haidt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Righteous Mind">The Righteous Mind</a>
-        </h4>
-        <p class="fr-book-author">By Jonathan Haidt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Righteous+Mind+Jonathan+Haidt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Righteous Mind on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/14630309-M.jpg" alt="Cover for The Righteous Mind" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Righteous+Mind+Jonathan+Haidt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Righteous Mind">The Righteous Mind</a>
+</h4>
+<p class="fr-book-author">By Jonathan Haidt</p>
         
-        <p class="fr-book-desc">Helps explain why political identities often remain stable despite factual corrections.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Righteous+Mind+Jonathan+Haidt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps explain why political identities often remain stable despite factual corrections.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Righteous+Mind+Jonathan+Haidt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Post-truth+Lee+C.+McIntyre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Post-truth on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8750473-M.jpg" alt="Cover for Post-truth" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Post-truth+Lee+C.+McIntyre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Post-truth">Post-truth</a>
-        </h4>
-        <p class="fr-book-author">By Lee C. McIntyre</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Post-truth+Lee+C.+McIntyre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Post-truth on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8750473-M.jpg" alt="Cover for Post-truth" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Post-truth+Lee+C.+McIntyre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Post-truth">Post-truth</a>
+</h4>
+<p class="fr-book-author">By Lee C. McIntyre</p>
         
-        <p class="fr-book-desc">First published 2018. Subjects: Politics and government, In mass media, Public opinion, Mass media, Truth.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Post-truth+Lee+C.+McIntyre&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2018. Subjects: Politics and government, In mass media, Public opinion, Mass media, Truth.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Post-truth+Lee+C.+McIntyre&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Breaking+the+Social+Media+Prism+Chris+Bail&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Breaking the Social Media Prism on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/11144451-M.jpg" alt="Cover for Breaking the Social Media Prism" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Breaking+the+Social+Media+Prism+Chris+Bail&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Breaking the Social Media Prism">Breaking the Social Media Prism</a>
-        </h4>
-        <p class="fr-book-author">By Chris Bail</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Breaking+the+Social+Media+Prism+Chris+Bail&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Breaking the Social Media Prism on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/11144451-M.jpg" alt="Cover for Breaking the Social Media Prism" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Breaking+the+Social+Media+Prism+Chris+Bail&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Breaking the Social Media Prism">Breaking the Social Media Prism</a>
+</h4>
+<p class="fr-book-author">By Chris Bail</p>
         
-        <p class="fr-book-desc">First published 2021. Subjects: Sociology.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Breaking+the+Social+Media+Prism+Chris+Bail&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2021. Subjects: Sociology.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Breaking+the+Social+Media+Prism+Chris+Bail&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Foolproof+Sander+Van+Der+Linden&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Foolproof on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/13300557-M.jpg" alt="Cover for Foolproof" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Foolproof+Sander+Van+Der+Linden&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Foolproof">Foolproof</a>
-        </h4>
-        <p class="fr-book-author">By Sander Van Der Linden</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Foolproof+Sander+Van+Der+Linden&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Foolproof on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/13300557-M.jpg" alt="Cover for Foolproof" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Foolproof+Sander+Van+Der+Linden&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Foolproof">Foolproof</a>
+</h4>
+<p class="fr-book-author">By Sander Van Der Linden</p>
         
-        <p class="fr-book-desc">First published 2023.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Foolproof+Sander+Van+Der+Linden&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2023.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Foolproof+Sander+Van+Der+Linden&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Righteous+Mind&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Righteous Mind</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Post+truth&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Post truth</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Breaking+the+Social+Media+Prism&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Breaking the Social Media Prism</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Righteous+Mind&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Righteous Mind</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Post+truth&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Post truth</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Breaking+the+Social+Media+Prism&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Breaking the Social Media Prism</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=neuroscience+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=political-corrections-when-corrections-work-but-minds-barely-move-myths-and-misconcept-neuroscience-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="neuroscience wall art" data-ebay-reference="political-corrections-when-corrections-work-but-minds-barely-move-myths-and-misconcept-neuroscience-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Human Head &amp; Brain Anatomy Print, Neuroscience Medical Diagram Vintage Wall Art"><img src="{{ '/assets/images/marketplace-covers/2722a327da8a25413378.jpg' | relative_url }}" alt="Listing image for Human Head &amp; Brain Anatomy Print, Neuroscience Medical Diagram Vintage Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=neuroscience+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=political-corrections-when-corrections-work-but-minds-barely-move-myths-and-misconcept-neuroscience-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="neuroscience wall art" data-ebay-reference="political-corrections-when-corrections-work-but-minds-barely-move-myths-and-misconcept-neuroscience-wall-art" target="_blank" rel="sponsored noopener noreferrer">Human Head &amp; Brain Anatomy Print, Neuroscience Medical Diagram Vintage Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=neuroscience+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=political-corrections-when-corrections-work-but-minds-barely-move-myths-and-misconcept-neuroscience-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="neuroscience wall art" data-ebay-reference="political-corrections-when-corrections-work-but-minds-barely-move-myths-and-misconcept-neuroscience-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for neuroscience wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: neuroscience wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=neuroscience+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=political-corrections-when-corrections-work-but-minds-barely-move-myths-and-misconcept-neuroscience-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="neuroscience wall art" data-ebay-reference="political-corrections-when-corrections-work-but-minds-barely-move-myths-and-misconcept-neuroscience-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=neuroscience+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=political-corrections-when-corrections-work-but-minds-barely-move-myths-and-misconcept-neuroscience-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="neuroscience wall art" data-ebay-reference="political-corrections-when-corrections-work-but-minds-barely-move-myths-and-misconcept-neuroscience-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Human Head &amp; Brain Anatomy Print, Neuroscience Medical Diagram Vintage Wall Art"><img src="{{ '/assets/images/marketplace-covers/2722a327da8a25413378.jpg' | relative_url }}" alt="Listing image for Human Head &amp; Brain Anatomy Print, Neuroscience Medical Diagram Vintage Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=neuroscience+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=political-corrections-when-corrections-work-but-minds-barely-move-myths-and-misconcept-neuroscience-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="neuroscience wall art" data-ebay-reference="political-corrections-when-corrections-work-but-minds-barely-move-myths-and-misconcept-neuroscience-wall-art" target="_blank" rel="sponsored noopener noreferrer">Human Head &amp; Brain Anatomy Print, Neuroscience Medical Diagram Vintage Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=neuroscience+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=political-corrections-when-corrections-work-but-minds-barely-move-myths-and-misconcept-neuroscience-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="neuroscience wall art" data-ebay-reference="political-corrections-when-corrections-work-but-minds-barely-move-myths-and-misconcept-neuroscience-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for neuroscience wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: neuroscience wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=neuroscience+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=political-corrections-when-corrections-work-but-minds-barely-move-myths-and-misconcept-neuroscience-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="neuroscience wall art" data-ebay-reference="political-corrections-when-corrections-work-but-minds-barely-move-myths-and-misconcept-neuroscience-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=neuroscience+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=political-corrections-when-corrections-work-but-minds-barely-move-myths-and-misconcept-neuroscience-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="neuroscience wall art" data-ebay-reference="political-corrections-when-corrections-work-but-minds-barely-move-myths-and-misconcept-neuroscience-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for i cant i have neuroscience school F Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/41d070aaf2887b2e55d8.jpg' | relative_url }}" alt="Listing image for i cant i have neuroscience school F Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=neuroscience+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=political-corrections-when-corrections-work-but-minds-barely-move-myths-and-misconcept-neuroscience-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="neuroscience wall art" data-ebay-reference="political-corrections-when-corrections-work-but-minds-barely-move-myths-and-misconcept-neuroscience-wall-art" target="_blank" rel="sponsored noopener noreferrer">i cant i have neuroscience school F Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=neuroscience+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=political-corrections-when-corrections-work-but-minds-barely-move-myths-and-misconcept-neuroscience-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="neuroscience wall art" data-ebay-reference="political-corrections-when-corrections-work-but-minds-barely-move-myths-and-misconcept-neuroscience-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for neuroscience wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: neuroscience wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=neuroscience+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=political-corrections-when-corrections-work-but-minds-barely-move-myths-and-misconcept-neuroscience-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="neuroscience wall art" data-ebay-reference="political-corrections-when-corrections-work-but-minds-barely-move-myths-and-misconcept-neuroscience-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=neuroscience+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=political-corrections-when-corrections-work-but-minds-barely-move-myths-and-misconcept-neuroscience-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="neuroscience wall art" data-ebay-reference="political-corrections-when-corrections-work-but-minds-barely-move-myths-and-misconcept-neuroscience-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for i cant i have neuroscience school F Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/41d070aaf2887b2e55d8.jpg' | relative_url }}" alt="Listing image for i cant i have neuroscience school F Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=neuroscience+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=political-corrections-when-corrections-work-but-minds-barely-move-myths-and-misconcept-neuroscience-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="neuroscience wall art" data-ebay-reference="political-corrections-when-corrections-work-but-minds-barely-move-myths-and-misconcept-neuroscience-wall-art" target="_blank" rel="sponsored noopener noreferrer">i cant i have neuroscience school F Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=neuroscience+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=political-corrections-when-corrections-work-but-minds-barely-move-myths-and-misconcept-neuroscience-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="neuroscience wall art" data-ebay-reference="political-corrections-when-corrections-work-but-minds-barely-move-myths-and-misconcept-neuroscience-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for neuroscience wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: neuroscience wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=neuroscience+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=political-corrections-when-corrections-work-but-minds-barely-move-myths-and-misconcept-neuroscience-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="neuroscience wall art" data-ebay-reference="political-corrections-when-corrections-work-but-minds-barely-move-myths-and-misconcept-neuroscience-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=neuroscience+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=political-corrections-when-corrections-work-but-minds-barely-move-myths-and-misconcept-neuroscience-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="neuroscience wall art" data-ebay-reference="political-corrections-when-corrections-work-but-minds-barely-move-myths-and-misconcept-neuroscience-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for SODIUM SMART, NEUROSCIENCE PUN GRAP Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/f67920c37351c768ae45.jpg' | relative_url }}" alt="Listing image for SODIUM SMART, NEUROSCIENCE PUN GRAP Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=neuroscience+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=political-corrections-when-corrections-work-but-minds-barely-move-myths-and-misconcept-neuroscience-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="neuroscience wall art" data-ebay-reference="political-corrections-when-corrections-work-but-minds-barely-move-myths-and-misconcept-neuroscience-wall-art" target="_blank" rel="sponsored noopener noreferrer">SODIUM SMART, NEUROSCIENCE PUN GRAP Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=neuroscience+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=political-corrections-when-corrections-work-but-minds-barely-move-myths-and-misconcept-neuroscience-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="neuroscience wall art" data-ebay-reference="political-corrections-when-corrections-work-but-minds-barely-move-myths-and-misconcept-neuroscience-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for neuroscience wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: neuroscience wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=neuroscience+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=political-corrections-when-corrections-work-but-minds-barely-move-myths-and-misconcept-neuroscience-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="neuroscience wall art" data-ebay-reference="political-corrections-when-corrections-work-but-minds-barely-move-myths-and-misconcept-neuroscience-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=neuroscience+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=political-corrections-when-corrections-work-but-minds-barely-move-myths-and-misconcept-neuroscience-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="neuroscience wall art" data-ebay-reference="political-corrections-when-corrections-work-but-minds-barely-move-myths-and-misconcept-neuroscience-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for SODIUM SMART, NEUROSCIENCE PUN GRAP Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/f67920c37351c768ae45.jpg' | relative_url }}" alt="Listing image for SODIUM SMART, NEUROSCIENCE PUN GRAP Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=neuroscience+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=political-corrections-when-corrections-work-but-minds-barely-move-myths-and-misconcept-neuroscience-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="neuroscience wall art" data-ebay-reference="political-corrections-when-corrections-work-but-minds-barely-move-myths-and-misconcept-neuroscience-wall-art" target="_blank" rel="sponsored noopener noreferrer">SODIUM SMART, NEUROSCIENCE PUN GRAP Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=neuroscience+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=political-corrections-when-corrections-work-but-minds-barely-move-myths-and-misconcept-neuroscience-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="neuroscience wall art" data-ebay-reference="political-corrections-when-corrections-work-but-minds-barely-move-myths-and-misconcept-neuroscience-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for neuroscience wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: neuroscience wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=neuroscience+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=political-corrections-when-corrections-work-but-minds-barely-move-myths-and-misconcept-neuroscience-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="neuroscience wall art" data-ebay-reference="political-corrections-when-corrections-work-but-minds-barely-move-myths-and-misconcept-neuroscience-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=neuroscience+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=political-corrections-when-corrections-work-but-minds-barely-move-myths-and-misconcept-neuroscience-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="neuroscience wall art" data-ebay-reference="political-corrections-when-corrections-work-but-minds-barely-move-myths-and-misconcept-neuroscience-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Neuroscience &amp; Coffee is happiness Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/4c352c23cc05d8544b10.jpg' | relative_url }}" alt="Listing image for Neuroscience &amp; Coffee is happiness Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=neuroscience+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=political-corrections-when-corrections-work-but-minds-barely-move-myths-and-misconcept-neuroscience-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="neuroscience wall art" data-ebay-reference="political-corrections-when-corrections-work-but-minds-barely-move-myths-and-misconcept-neuroscience-wall-art" target="_blank" rel="sponsored noopener noreferrer">Neuroscience &amp; Coffee is happiness Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=neuroscience+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=political-corrections-when-corrections-work-but-minds-barely-move-myths-and-misconcept-neuroscience-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="neuroscience wall art" data-ebay-reference="political-corrections-when-corrections-work-but-minds-barely-move-myths-and-misconcept-neuroscience-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for neuroscience wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: neuroscience wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=neuroscience+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=political-corrections-when-corrections-work-but-minds-barely-move-myths-and-misconcept-neuroscience-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="neuroscience wall art" data-ebay-reference="political-corrections-when-corrections-work-but-minds-barely-move-myths-and-misconcept-neuroscience-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=neuroscience+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=political-corrections-when-corrections-work-but-minds-barely-move-myths-and-misconcept-neuroscience-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="neuroscience wall art" data-ebay-reference="political-corrections-when-corrections-work-but-minds-barely-move-myths-and-misconcept-neuroscience-wall-art" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=neuroscience+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=political-corrections-when-corrections-work-but-minds-barely-move-myths-and-misconcept-neuroscience-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="neuroscience wall art" data-ebay-reference="political-corrections-when-corrections-work-but-minds-barely-move-myths-and-misconcept-neuroscience-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Neuroscience &amp; Coffee is happiness Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/4c352c23cc05d8544b10.jpg' | relative_url }}" alt="Listing image for Neuroscience &amp; Coffee is happiness Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=neuroscience+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=political-corrections-when-corrections-work-but-minds-barely-move-myths-and-misconcept-neuroscience-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="neuroscience wall art" data-ebay-reference="political-corrections-when-corrections-work-but-minds-barely-move-myths-and-misconcept-neuroscience-wall-art" target="_blank" rel="sponsored noopener noreferrer">Neuroscience &amp; Coffee is happiness Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=neuroscience+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=political-corrections-when-corrections-work-but-minds-barely-move-myths-and-misconcept-neuroscience-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="neuroscience wall art" data-ebay-reference="political-corrections-when-corrections-work-but-minds-barely-move-myths-and-misconcept-neuroscience-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for neuroscience wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: neuroscience wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=neuroscience+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=political-corrections-when-corrections-work-but-minds-barely-move-myths-and-misconcept-neuroscience-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="neuroscience wall art" data-ebay-reference="political-corrections-when-corrections-work-but-minds-barely-move-myths-and-misconcept-neuroscience-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=neuroscience+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=political-corrections-when-corrections-work-but-minds-barely-move-myths-and-misconcept-neuroscience-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="neuroscience wall art" data-ebay-reference="political-corrections-when-corrections-work-but-minds-barely-move-myths-and-misconcept-neuroscience-wall-art" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -588,7 +588,7 @@ That gap between factual learning and political commitment helps explain why fea
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -608,7 +608,7 @@ That gap between factual learning and political commitment helps explain why fea
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -640,7 +640,7 @@ That gap between factual learning and political commitment helps explain why fea
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -692,7 +692,7 @@ That gap between factual learning and political commitment helps explain why fea
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -737,7 +737,7 @@ That gap between factual learning and political commitment helps explain why fea
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -778,123 +778,123 @@ That gap between factual learning and political commitment helps explain why fea
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: pnas.org  
-   Link: <a href="https://www.pnas.org/doi/10.1073/pnas.1912440117" target="_blank" rel="noopener noreferrer nofollow">https://www.pnas.org/doi/10.1073/pnas.1912440117</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Brendan Nyhan... Reifler, When corrections fail: The persistence of...</p></details>
+   Link:<a href="https://www.pnas.org/doi/10.1073/pnas.1912440117" target="_blank" rel="noopener noreferrer nofollow">https://www.pnas.org/doi/10.1073/pnas.1912440117</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Brendan Nyhan... Reifler, When corrections fail: The persistence of...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: files.osf.io  
-   Link: <a href="https://files.osf.io/v1/resources/svbru_v1/providers/osfstorage/6536f8e013d27b0fcb94cf9b?action=download&amp;direct=&amp;version=1" target="_blank" rel="noopener noreferrer nofollow">https://files.osf.io/v1/resources/svbru_v1/providers/osfstorage/6536f8e013d27b0fcb94cf9b?action=download&amp;direct=&amp;version=1</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Factual corrections that target misinformation improve belief accuracy. They do so across a wide variety of countries, political...Read...</p></details>
+   Link:<a href="https://files.osf.io/v1/resources/svbru_v1/providers/osfstorage/6536f8e013d27b0fcb94cf9b?action=download&amp;direct=&amp;version=1" target="_blank" rel="noopener noreferrer nofollow">https://files.osf.io/v1/resources/svbru_v1/providers/osfstorage/6536f8e013d27b0fcb94cf9b?action=download&amp;direct=&amp;version=1</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Factual corrections that target misinformation improve belief accuracy. They do so across a wide variety of countries, political...Read...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: papers.ssrn.com  
-   Link: <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2819073" target="_blank" rel="noopener noreferrer nofollow">https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2819073</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Can citizens heed factual information, even when such information challenges their partisan and ideological attachments?Read more...</p></details>
+   Link:<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2819073" target="_blank" rel="noopener noreferrer nofollow">https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2819073</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Can citizens heed factual information, even when such information challenges their partisan and ideological attachments?Read more...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9283209/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9283209/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The backfire effect after correcting misinformation is strongly...by B Swire-Thompson · 2022 · Cited by 111 — The backfire effect is...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9283209/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9283209/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The backfire effect after correcting misinformation is strongly...by B Swire-Thompson · 2022 · Cited by 111 — The backfire effect is...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: sites.dartmouth.edu  
-   Link: <a href="https://sites.dartmouth.edu/nyhan/files/2021/03/jep.pdf" target="_blank" rel="noopener noreferrer nofollow">https://sites.dartmouth.edu/nyhan/files/2021/03/jep.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Dartmouth SitesFacts and Myths about Misperceptions | Brendan Nyhanby B Nyhan · Cited by 320 — Political misinformation often originates...</p></details>
+   Link:<a href="https://sites.dartmouth.edu/nyhan/files/2021/03/jep.pdf" target="_blank" rel="noopener noreferrer nofollow">https://sites.dartmouth.edu/nyhan/files/2021/03/jep.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Dartmouth SitesFacts and Myths about Misperceptions | Brendan Nyhanby B Nyhan · Cited by 320 — Political misinformation often originates...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Fact-checking" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Fact-checking</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Fact-checking" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Fact-checking</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2505.08048" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2505.08048</a>  
+   Link:<a href="https://arxiv.org/abs/2505.08048" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2505.08048</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: pnas.org  
-   Link: <a href="https://www.pnas.org/doi/10.1073/pnas.2122069119" target="_blank" rel="noopener noreferrer nofollow">https://www.pnas.org/doi/10.1073/pnas.2122069119</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Time and skeptical opinion content erode the effects of...by B Nyhan · 2022 · Cited by 57 — Our results indicate that science coverage o...</p></details>
+   Link:<a href="https://www.pnas.org/doi/10.1073/pnas.2122069119" target="_blank" rel="noopener noreferrer nofollow">https://www.pnas.org/doi/10.1073/pnas.2122069119</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Time and skeptical opinion content erode the effects of...by B Nyhan · 2022 · Cited by 57 — Our results indicate that science coverage o...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: ore.exeter.ac.uk  
-   Link: <a href="https://ore.exeter.ac.uk/articles/journal_contribution/Taking_Fact-Checks_Literally_But_Not_Seriously_The_Effects_of_Journalistic_Fact-Checking_on_Factual_Beliefs_and_Candidate_Favorability/29753936/1/files/56778089.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ore.exeter.ac.uk/articles/journal_contribution/Taking_Fact-Checks_Literally_But_Not_Seriously_The_Effects_of_Journalistic_Fact-Checking_on_Factual_Beliefs_and_Candidate_Favorability/29753936/1/files/56778089.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Effects...April 29, 2019 — by B Nyhan · 2019 · Cited by 576 — Nyhan and Reifler (2010) find that corrective information in mock news...</p></details>
+   Link:<a href="https://ore.exeter.ac.uk/articles/journal_contribution/Taking_Fact-Checks_Literally_But_Not_Seriously_The_Effects_of_Journalistic_Fact-Checking_on_Factual_Beliefs_and_Candidate_Favorability/29753936/1/files/56778089.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ore.exeter.ac.uk/articles/journal_contribution/Taking_Fact-Checks_Literally_But_Not_Seriously_The_Effects_of_Journalistic_Fact-Checking_on_Factual_Beliefs_and_Candidate_Favorability/29753936/1/files/56778089.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Effects...April 29, 2019 — by B Nyhan · 2019 · Cited by 576 — Nyhan and Reifler (2010) find that corrective information in mock news...</p></details>
    Published: April 29, 2019  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: annualreviews.org  
    Title: annurev polisci 050718 032814  
-   Link: <a href="https://www.annualreviews.org/content/journals/10.1146/annurev-polisci-050718-032814?crawler=true&amp;mimetype=application%2Fpdf" target="_blank" rel="noopener noreferrer nofollow">https://www.annualreviews.org/content/journals/10.1146/annurev-polisci-050718-032814?crawler=true&amp;mimetype=application%2Fpdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Annual ReviewsPolitical Misinformationby J Jerit · 2020 · Cited by 396 — Perhaps as a re- sult, there are instances in which false belief...</p></details>
+   Link:<a href="https://www.annualreviews.org/content/journals/10.1146/annurev-polisci-050718-032814?crawler=true&amp;mimetype=application%2Fpdf" target="_blank" rel="noopener noreferrer nofollow">https://www.annualreviews.org/content/journals/10.1146/annurev-polisci-050718-032814?crawler=true&amp;mimetype=application%2Fpdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Annual ReviewsPolitical Misinformationby J Jerit · 2020 · Cited by 396 — Perhaps as a re- sult, there are instances in which false belief...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/33837144/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/33837144/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Proc Natl Acad Sci U S A. 2021 Apr 13;118(15):e1912440117...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/33837144/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/33837144/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Proc Natl Acad Sci U S A. 2021 Apr 13;118(15):e1912440117...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: carnegieendowment.org  
    Title: countering disinformation effectively an evidence based policy guide  
-   Link: <a href="https://carnegieendowment.org/russia-eurasia/research/2024/01/countering-disinformation-effectively-an-evidence-based-policy-guide" target="_blank" rel="noopener noreferrer nofollow">https://carnegieendowment.org/russia-eurasia/research/2024/01/countering-disinformation-effectively-an-evidence-based-policy-guide</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Countering Disinformation Effectively: An Evidence-Based...31 Jan 2024 — A high-level, evidence-informed guide to some of the major prop...</p></details>
+   Link:<a href="https://carnegieendowment.org/russia-eurasia/research/2024/01/countering-disinformation-effectively-an-evidence-based-policy-guide" target="_blank" rel="noopener noreferrer nofollow">https://carnegieendowment.org/russia-eurasia/research/2024/01/countering-disinformation-effectively-an-evidence-based-policy-guide</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Countering Disinformation Effectively: An Evidence-Based...31 Jan 2024 — A high-level, evidence-informed guide to some of the major prop...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: scholar.google.com.py  
    Title: google.com.py Brendan Nyhan  
-   Link: <a href="https://scholar.google.com.py/citations?hl=es&amp;user=SbAA1v4AAAAJ" target="_blank" rel="noopener noreferrer nofollow">https://scholar.google.com.py/citations?hl=es&amp;user=SbAA1v4AAAAJ</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Nyhan - Google AcadémicoWhen corrections fail: The persistence of political misperceptions. B Nyhan... How do social media feed algorith...</p></details>
+   Link:<a href="https://scholar.google.com.py/citations?hl=es&amp;user=SbAA1v4AAAAJ" target="_blank" rel="noopener noreferrer nofollow">https://scholar.google.com.py/citations?hl=es&amp;user=SbAA1v4AAAAJ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Nyhan - Google AcadémicoWhen corrections fail: The persistence of political misperceptions. B Nyhan... How do social media feed algorith...</p></details>
 
 ### Additional References
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: semanticscholar.org  
-   Link: <a href="https://www.semanticscholar.org/paper/Why-the-backfire-effect-does-not-explain-the-of-Nyhan/ff9b7e09122bb1e9e2b340239405f5ace64de17d" target="_blank" rel="noopener noreferrer nofollow">https://www.semanticscholar.org/paper/Why-the-backfire-effect-does-not-explain-the-of-Nyhan/ff9b7e09122bb1e9e2b340239405f5ace64de17d</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Why the backfire effect does not explain the durability of...The research that is reviewed suggests that the accuracy-increasing effects...</p></details>
+   Link:<a href="https://www.semanticscholar.org/paper/Why-the-backfire-effect-does-not-explain-the-of-Nyhan/ff9b7e09122bb1e9e2b340239405f5ace64de17d" target="_blank" rel="noopener noreferrer nofollow">https://www.semanticscholar.org/paper/Why-the-backfire-effect-does-not-explain-the-of-Nyhan/ff9b7e09122bb1e9e2b340239405f5ace64de17d</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Why the backfire effect does not explain the durability of...The research that is reviewed suggests that the accuracy-increasing effects...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: emc-lab.org  
-   Link: <a href="https://www.emc-lab.org/uploads/1/1/3/6/113627673/swire.2019.polpsych.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.emc-lab.org/uploads/1/1/3/6/113627673/swire.2019.polpsych.pdf</a>  
+   Link:<a href="https://www.emc-lab.org/uploads/1/1/3/6/113627673/swire.2019.polpsych.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.emc-lab.org/uploads/1/1/3/6/113627673/swire.2019.polpsych.pdf</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7934973/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC7934973/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>of political misinformation: no evidence for an...by UKH Ecker · 2021 · Cited by 44 — Misinformation often has a continuing effect on pe...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7934973/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC7934973/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>of political misinformation: no evidence for an...by UKH Ecker · 2021 · Cited by 44 — Misinformation often has a continuing effect on pe...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: issuelab.org  
-   Link: <a href="https://www.issuelab.org/resources/15316/15316.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.issuelab.org/resources/15316/15316.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Misinformation and Fact-checking:by B Nyhan · 2012 · Cited by 14 — * Brendan Nyhan (nyhan@dartmouth.edu) is an Assistant Professor in the...</p></details>
+   Link:<a href="https://www.issuelab.org/resources/15316/15316.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.issuelab.org/resources/15316/15316.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Misinformation and Fact-checking:by B Nyhan · 2012 · Cited by 14 — * Brendan Nyhan (nyhan@dartmouth.edu) is an Assistant Professor in the...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: discovery.ucl.ac.uk  
    Title: UCL Discovery Belief updating in the face of misinformation  
-   Link: <a href="https://discovery.ucl.ac.uk/id/eprint/10206076/2/Sanna_1-s2.0-S0010027725000307-main.pdf" target="_blank" rel="noopener noreferrer nofollow">https://discovery.ucl.ac.uk/id/eprint/10206076/2/Sanna_1-s2.0-S0010027725000307-main.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UCL DiscoveryBelief updating in the face of misinformation - UCL Discoveryby GA Sanna · 2025 · Cited by 14 — This paper investigates the...</p></details>
+   Link:<a href="https://discovery.ucl.ac.uk/id/eprint/10206076/2/Sanna_1-s2.0-S0010027725000307-main.pdf" target="_blank" rel="noopener noreferrer nofollow">https://discovery.ucl.ac.uk/id/eprint/10206076/2/Sanna_1-s2.0-S0010027725000307-main.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UCL DiscoveryBelief updating in the face of misinformation - UCL Discoveryby GA Sanna · 2025 · Cited by 14 — This paper investigates the...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: gwern.net  
-   Link: <a href="https://gwern.net/doc/psychology/cognitive-bias/2018-wood.pdf" target="_blank" rel="noopener noreferrer nofollow">https://gwern.net/doc/psychology/cognitive-bias/2018-wood.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>rrected issues, we staged five separate studies comprised of 52 commonly.Read more...</p></details>
+   Link:<a href="https://gwern.net/doc/psychology/cognitive-bias/2018-wood.pdf" target="_blank" rel="noopener noreferrer nofollow">https://gwern.net/doc/psychology/cognitive-bias/2018-wood.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>rrected issues, we staged five separate studies comprised of 52 commonly.Read more...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: research-information.bris.ac.uk  
    Title: bris.ac.uk Lewandowsky, S., & Van Der Linden, S  
-   Link: <a href="https://research-information.bris.ac.uk/files/263813879/FINAL_Revision_ERSP_inoc_paper_4SvdL.pdf" target="_blank" rel="noopener noreferrer nofollow">https://research-information.bris.ac.uk/files/263813879/FINAL_Revision_ERSP_inoc_paper_4SvdL.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(2021). Counteringby S Lewandowsky · 2021 · Cited by 1108 — Taking fact-checks literally but not seriously? The effects of journalistic f...</p></details>
+   Link:<a href="https://research-information.bris.ac.uk/files/263813879/FINAL_Revision_ERSP_inoc_paper_4SvdL.pdf" target="_blank" rel="noopener noreferrer nofollow">https://research-information.bris.ac.uk/files/263813879/FINAL_Revision_ERSP_inoc_paper_4SvdL.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(2021). Counteringby S Lewandowsky · 2021 · Cited by 1108 — Taking fact-checks literally but not seriously? The effects of journalistic f...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: eprints.soton.ac.uk  
    Title: We also document several instances of a “  
-   Link: <a href="https://eprints.soton.ac.uk/500567/" target="_blank" rel="noopener noreferrer nofollow">https://eprints.soton.ac.uk/500567/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>corrections fail: the persistence of political misperceptionsby B Nyhan · 2010 · Cited by 4638 — Results indicate that corrections freque...</p></details>
+   Link:<a href="https://eprints.soton.ac.uk/500567/" target="_blank" rel="noopener noreferrer nofollow">https://eprints.soton.ac.uk/500567/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>corrections fail: the persistence of political misperceptionsby B Nyhan · 2010 · Cited by 4638 — Results indicate that corrections freque...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: openscholarship.wustl.edu  
-   Link: <a href="https://openscholarship.wustl.edu/context/art_sci_etds/article/4581/viewcontent/1110493.pdf" target="_blank" rel="noopener noreferrer nofollow">https://openscholarship.wustl.edu/context/art_sci_etds/article/4581/viewcontent/1110493.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Evaluations, Misinformation Corrections, and Racial...by D Lockett · 2024 · Cited by 2 — Hypothesis 1: Corrective comments will reduce m...</p></details>
+   Link:<a href="https://openscholarship.wustl.edu/context/art_sci_etds/article/4581/viewcontent/1110493.pdf" target="_blank" rel="noopener noreferrer nofollow">https://openscholarship.wustl.edu/context/art_sci_etds/article/4581/viewcontent/1110493.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Evaluations, Misinformation Corrections, and Racial...by D Lockett · 2024 · Cited by 2 — Hypothesis 1: Corrective comments will reduce m...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: tandfonline.com  
-   Link: <a href="https://www.tandfonline.com/doi/full/10.1080/10584609.2026.2623049" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/full/10.1080/10584609.2026.2623049</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Full article: Do Beliefs Echo? On the Persistent Effects of...by J Fenger · 2026 — ABSTRACT. Does misinformation continue to influence p...</p></details>
+   Link:<a href="https://www.tandfonline.com/doi/full/10.1080/10584609.2026.2623049" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/full/10.1080/10584609.2026.2623049</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Full article: Do Beliefs Echo? On the Persistent Effects of...by J Fenger · 2026 — ABSTRACT. Does misinformation continue to influence p...</p></details>

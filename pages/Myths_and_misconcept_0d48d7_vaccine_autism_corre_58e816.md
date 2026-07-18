@@ -495,40 +495,40 @@ image: /assets/images/Myths_and_misconcept_0d48d7_vaccine_autism_corre_58e816-ov
 
 ## Introduction
 
-The vaccine-autism claim is one of the clearest modern examples of why correcting a myth requires more than repeating that is false. The claim became influential because it offered a simple explanation for a frightening and emotionally loaded experience: parents often notice developmental differences or regression in the same broad toddler years when routine vaccines are given. But the claims origin was unusually weak and later discredited, while [large studies]({{ 'large-studies/' | relative_url }}) and reviews have not found a causal link between vaccines and autism. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.autismspeaks.org/do-vaccines-cause-autism" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: autismspeaks.org">[Autism Speaks]</a><span class="citation-popover" role="note"><span class="citation-popover-source">autismspeaks.org</span><span class="citation-popover-title">Autism Speaks Do vaccines cause autism?</span><span class="citation-popover-snippet">Autism Speaks Do vaccines cause autism?</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cdc.gov/autism/about/index.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdc.gov">[CDC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdc.gov</span><span class="citation-popover-snippet">Open source on cdc.gov.</span></span></span>
+The vaccine-autism claim is one of the clearest modern examples of why correcting a myth requires more than repeating that is false. The claim became influential because it offered a simple explanation for a frightening and emotionally loaded experience: parents often notice developmental differences or regression in the same broad toddler years when routine vaccines are given. But the claims origin was unusually weak and later discredited, while [large studies]({{ 'large-studies/' | relative_url }}) and reviews have not found a causal link between vaccines and autism.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.autismspeaks.org/do-vaccines-cause-autism" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: autismspeaks.org">[Autism Speaks]</a><span class="citation-popover" role="note"><span class="citation-popover-source">autismspeaks.org</span><span class="citation-popover-title">Autism Speaks Do vaccines cause autism?</span><span class="citation-popover-snippet">Autism Speaks Do vaccines cause autism?</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cdc.gov/autism/about/index.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdc.gov">[CDC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdc.gov</span><span class="citation-popover-snippet">Open source on cdc.gov.</span></span></span>
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_vaccine_autism_corre_58e816-overview.webp" | relative_url }}" alt="Overview image for Vaccines" loading="eager" decoding="sync" fetchpriority="high">
 As a [correction]({{ 'correction/' | relative_url }}) case study, the MMR-autism myth teaches three linked lessons. First, a correction should explain the original source and why it failed. Second, it should show what later, stronger evidence found. Third, it should replace the misleading story of after this, therefore because of this with a clearer explanation of [timing]({{ 'timing/' | relative_url }}), diagnosis and developmental observation. Without those pieces, the myth can survive as a personal story even after the headline claim has been debunked.
 
 ## The discredited origin
 
-The modern MMR-autism scare is usually traced to a 1998 paper in *The Lancet* by Andrew Wakefield and colleagues. The paper described 12 children and suggested a possible connection between the combined measles, mumps and rubella vaccine, bowel disease and developmental disorders. Even at the time, this was not strong evidence of causation: it was a small case series, not a controlled population study, and it relied heavily on clinical histories rather than a design capable of showing that MMR caused autism. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3136032/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Open source on nih.gov.</span></span></span>
+The modern MMR-autism scare is usually traced to a 1998 paper in *The Lancet* by Andrew Wakefield and colleagues. The paper described 12 children and suggested a possible connection between the combined measles, mumps and rubella vaccine, bowel disease and developmental disorders. Even at the time, this was not strong evidence of causation: it was a small case series, not a controlled population study, and it relied heavily on clinical histories rather than a design capable of showing that MMR caused autism.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3136032/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Open source on nih.gov.</span></span></span>
 
 The public impact came not only from the paper but from the way the claim was amplified. Wakefield publicly raised concern about the combined MMR vaccine and suggested separate vaccines, which made the claim easier to remember as a practical warning rather than as a narrow research hypothesis. The result was a health myth with a named villain, a simple mechanism and a parental action: avoid or delay MMR. That structure is exactly what makes a misconception durable.
 
-The paper later collapsed under scientific, ethical and investigative scrutiny. *The Lancet* fully retracted it in 2010 after the UK General Medical Council found serious misconduct connected with the research. Reporting and analysis in *The BMJ* then described how the appearance of a link had been manufactured, including problems with case histories and undisclosed conflicts of interest. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC2831678/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Open source on nih.gov.</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.bmj.com/content/342/bmj.c5347" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bmj.com">[BMJ]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bmj.com</span><span class="citation-popover-snippet">Open source on bmj.com.</span></span></span>
+The paper later collapsed under scientific, ethical and investigative scrutiny. *The Lancet* fully retracted it in 2010 after the UK General Medical Council found serious misconduct connected with the research. Reporting and analysis in *The BMJ* then described how the appearance of a link had been manufactured, including problems with case histories and undisclosed conflicts of interest.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC2831678/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Open source on nih.gov.</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.bmj.com/content/342/bmj.c5347" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bmj.com">[BMJ]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bmj.com</span><span class="citation-popover-snippet">Open source on bmj.com.</span></span></span>
 
 This matters for [debunking]({{ 'debunking/' | relative_url }}) because the study was retracted is too compressed to be satisfying. A careful correction explains the kind of evidence the original paper was, why that kind of evidence could not prove causation, and why later scrutiny made it unreliable as a foundation for public health decisions. The correction is not simply one bad paper was wrong; it is a weak, small and later discredited origin story was overtaken by much stronger evidence.
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_vaccine_autism_corre_58e816-Illustration-1-dark.svg" | relative_url }}" alt="Vaccines illustration 1" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_vaccine_autism_corre_58e816-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_vaccine_autism_corre_58e816-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Timing and mistaken causation
 
-The myths emotional power comes from timing. In the UK, children receive protection against measles, mumps and rubella in early childhood; current NHS and UK government information places the first routine dose at about 12 months, with a second dose later in early childhood depending on the schedule and cohort. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nhs.uk/vaccinations/mmr-vaccine/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nhs.uk">[nhs.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nhs.uk</span><span class="citation-popover-title">MM R (measles, mumps and rubella) vaccine</span><span class="citation-popover-snippet">MM R (measles, mumps and rubella) vaccine</span></span></span> Autism signs, meanwhile, often become clearer in the same early years. The CDC describes autism spectrum disorder as beginning before age three, with some children showing signs in the first 12 months and others showing symptoms later, including possible loss of skills around 18 to 24 months. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cdc.gov/autism/diagnosis/index.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdc.gov">[CDC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdc.gov</span><span class="citation-popover-snippet">Open source on cdc.gov.</span></span></span>
+The myths emotional power comes from timing. In the UK, children receive protection against measles, mumps and rubella in early childhood; current NHS and UK government information places the first routine dose at about 12 months, with a second dose later in early childhood depending on the schedule and cohort.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nhs.uk/vaccinations/mmr-vaccine/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nhs.uk">[nhs.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nhs.uk</span><span class="citation-popover-title">MM R (measles, mumps and rubella) vaccine</span><span class="citation-popover-snippet">MM R (measles, mumps and rubella) vaccine</span></span></span> Autism signs, meanwhile, often become clearer in the same early years. The CDC describes autism spectrum disorder as beginning before age three, with some children showing signs in the first 12 months and others showing symptoms later, including possible loss of skills around 18 to 24 months.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cdc.gov/autism/diagnosis/index.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdc.gov">[CDC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdc.gov</span><span class="citation-popover-snippet">Open source on cdc.gov.</span></span></span>
 
 That overlap creates a classic misconception trap. A parent may remember a child receiving a vaccine and later noticing changes in speech, eye contact, play or social response. The sequence is real in [memory]({{ 'memory/' | relative_url }}): vaccination happened, then concern sharpened. But a sequence is not the same as a cause. Many developmental differences become easier to see when children are expected to use more language, social attention and flexible behaviour. The timing can make a vaccine feel like the turning point even when autism was emerging along its own developmental path.
 
 This is why simply saying correlation is not causation is often ineffective. It can sound dismissive, especially to parents who are describing a sincere and frightening experience. A better correction acknowledges the observation first: yes, the timing can coincide; yes, regression or clearer signs can be noticed in toddlerhood; yes, parents are often the first people to notice something important. Then it separates observation from explanation: large studies can compare vaccinated and unvaccinated or differently timed groups to see whether autism is actually more common after vaccination. Those studies do not support the causal claim.
 
-Researchers have tested the timing hypothesis directly. A 2001 study using a self-controlled case-series design found no support for the idea that MMR or measles-containing vaccines caused autism at any time after vaccination. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S0264410X01000974" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> Later research into regression and autism also failed to find evidence that onset or regression was related to MMR vaccination. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.bu.edu/autism/files/2010/03/2006-Richler-et-al-MMR-Vaccine1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bu.edu">[Boston University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bu.edu</span><span class="citation-popover-title">Boston University Is There a &#x27;Regressive Phenotype&#x27; of Autism Spectrum</span><span class="citation-popover-snippet">Boston University Is There a &#x27;Regressive Phenotype&#x27; of Autism Spectrum</span></span></span> These studies are important for correction because they address the myth at its strongest point: not just do vaccinated children have more autism?, but does autism begin or regress in a suspicious window after MMR?
+Researchers have tested the timing hypothesis directly. A 2001 study using a self-controlled case-series design found no support for the idea that MMR or measles-containing vaccines caused autism at any time after vaccination.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S0264410X01000974" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> Later research into regression and autism also failed to find evidence that onset or regression was related to MMR vaccination.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.bu.edu/autism/files/2010/03/2006-Richler-et-al-MMR-Vaccine1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bu.edu">[Boston University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bu.edu</span><span class="citation-popover-title">Boston University Is There a &#x27;Regressive Phenotype&#x27; of Autism Spectrum</span><span class="citation-popover-snippet">Boston University Is There a &#x27;Regressive Phenotype&#x27; of Autism Spectrum</span></span></span> These studies are important for correction because they address the myth at its strongest point: not just do vaccinated children have more autism?, but does autism begin or regress in a suspicious window after MMR?
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_vaccine_autism_corre_58e816-Illustration-2-dark.svg" | relative_url }}" alt="Vaccines illustration 2" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_vaccine_autism_corre_58e816-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_vaccine_autism_corre_58e816-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Later evidence changed the scale of the question
 
-The evidence that followed the [Wakefield paper]({{ 'wakefield-paper/' | relative_url }}) was not a matter of one expert opinion replacing another. It changed the scale of the question from 12 selected children to hundreds of thousands and, across reviews, millions of children. A major Danish nationwide cohort study published in 2019 followed 657,461 children born between 1999 and 2010 and found that MMR vaccination did not increase autism risk, did not trigger autism in susceptible children and was not associated with clustering of autism cases after vaccination. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.acpjournals.org/doi/10.7326/M18-2101" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: acpjournals.org">[ACP Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">acpjournals.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The evidence that followed the [Wakefield paper]({{ 'wakefield-paper/' | relative_url }}) was not a matter of one expert opinion replacing another. It changed the scale of the question from 12 selected children to hundreds of thousands and, across reviews, millions of children. A major Danish nationwide cohort study published in 2019 followed 657,461 children born between 1999 and 2010 and found that MMR vaccination did not increase autism risk, did not trigger autism in susceptible children and was not associated with clustering of autism cases after vaccination.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.acpjournals.org/doi/10.7326/M18-2101" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: acpjournals.org">[ACP Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">acpjournals.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-A 2014 meta-analysis in *Vaccine* reviewed case-control and cohort studies and found that vaccinations were not associated with autism or autism spectrum disorder; it also found no association for MMR, thimerosal or mercury exposure. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/30831578/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> Cochranes review of measles, mumps, rubella and varicella vaccines likewise reported that MMR, MMRV and MMR plus varicella vaccines were not associated with increased autism risk. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cochrane.org/about-us/news/cochrane-review-confirms-effectiveness-mmr-vaccines" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cochrane.org">[Cochrane]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cochrane.org</span><span class="citation-popover-title">review confirms effectiveness mmr vaccines</span><span class="citation-popover-snippet">review confirms effectiveness mmr vaccines</span></span></span>
+A 2014 meta-analysis in *Vaccine* reviewed case-control and cohort studies and found that vaccinations were not associated with autism or autism spectrum disorder; it also found no association for MMR, thimerosal or mercury exposure.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/30831578/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> Cochranes review of measles, mumps, rubella and varicella vaccines likewise reported that MMR, MMRV and MMR plus varicella vaccines were not associated with increased autism risk.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cochrane.org/about-us/news/cochrane-review-confirms-effectiveness-mmr-vaccines" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cochrane.org">[Cochrane]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cochrane.org</span><span class="citation-popover-title">review confirms effectiveness mmr vaccines</span><span class="citation-popover-snippet">review confirms effectiveness mmr vaccines</span></span></span>
 
-The World Health Organizations Global Advisory Committee on Vaccine Safety reviewed newer evidence in 2025, including studies published from 2010 to August 2025, and reaffirmed that available evidence does not support a causal link between vaccines and autism spectrum disorder. The committee also addressed recurring claims about vaccine components, including thiomersal and aluminium adjuvants, and concluded that vaccines, including those with those components, do not cause autism. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.who.int/news/item/11-12-2025-who-expert-group-s-new-analysis-reaffirms-there-is-no-link-between-vaccines-and-autism" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: who.int">[World Health Organization]</a><span class="citation-popover" role="note"><span class="citation-popover-source">who.int</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The World Health Organizations Global Advisory Committee on Vaccine Safety reviewed newer evidence in 2025, including studies published from 2010 to August 2025, and reaffirmed that available evidence does not support a causal link between vaccines and autism spectrum disorder. The committee also addressed recurring claims about vaccine components, including thiomersal and aluminium adjuvants, and concluded that vaccines, including those with those components, do not cause autism.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.who.int/news/item/11-12-2025-who-expert-group-s-new-analysis-reaffirms-there-is-no-link-between-vaccines-and-autism" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: who.int">[World Health Organization]</a><span class="citation-popover" role="note"><span class="citation-popover-source">who.int</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 For debunkers, the key point is not to overwhelm readers with study names. It is to explain the direction and quality of the evidence. The original claim rested on a tiny, flawed and later retracted case series. The later evidence includes large population studies, systematic reviews and repeated expert safety reviews. That contrast helps readers understand why there are studies on both sides is not an accurate summary.
 
@@ -539,175 +539,175 @@ A good correction of the vaccine-autism myth has to do three things at once: pro
 
 This approach avoids two common failure modes. The first is the fact dump, where a correction lists studies but never explains why the original belief felt plausible. The second is the myth sandwich done badly, where the false claim is repeated so often that it becomes the memorable part. A stronger version names the myth briefly, explains the origin and timing confusion, and then spends most of the space on the better explanation.
 
-The [MMR case]({{ 'mmr-case/' | relative_url }}) also shows why [corrections]({{ 'corrections/' | relative_url }}) should be specific about what was tested. Many people shift from MMR causes autism to maybe thimerosal causes autism or maybe too many vaccines cause autism. But MMR vaccines did not contain thimerosal, and broader reviews have examined vaccines and vaccine components without finding a causal link to autism. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cdc.gov/vaccine-safety/about/thimerosal.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdc.gov">[CDC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdc.gov</span><span class="citation-popover-snippet">Open source on cdc.gov.</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/abs/pii/S0264410X01000974" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Open source on sciencedirect.com.</span></span></span> Addressing those shifts matters because a myth can survive by changing its wording while keeping the same emotional conclusion.
+The [MMR case]({{ 'mmr-case/' | relative_url }}) also shows why [corrections]({{ 'corrections/' | relative_url }}) should be specific about what was tested. Many people shift from MMR causes autism to maybe thimerosal causes autism or maybe too many vaccines cause autism. But MMR vaccines did not contain thimerosal, and broader reviews have examined vaccines and vaccine components without finding a causal link to autism.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cdc.gov/vaccine-safety/about/thimerosal.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdc.gov">[CDC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdc.gov</span><span class="citation-popover-snippet">Open source on cdc.gov.</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/abs/pii/S0264410X01000974" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Open source on sciencedirect.com.</span></span></span> Addressing those shifts matters because a myth can survive by changing its wording while keeping the same emotional conclusion.
 
-The most respectful correction also avoids using autistic people as proof of harm. False vaccine-autism claims can imply that autism is a catastrophe to be blamed on someone, rather than a developmental disability for which people and families deserve support, services and accurate information. The American Academy of Pediatrics has warned that misinformation about autistic children and false vaccine links can harm both public health and autistic people and their families. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.healthychildren.org/english/safety-prevention/immunizations/pages/vaccine-studies-examine-the-evidence.aspx" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: healthychildren.org">[HealthyChildren.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">healthychildren.org</span><span class="citation-popover-title">vaccine studies examine the evidence.aspx</span><span class="citation-popover-snippet">vaccine studies examine the evidence.aspx</span></span></span>
+The most respectful correction also avoids using autistic people as proof of harm. False vaccine-autism claims can imply that autism is a catastrophe to be blamed on someone, rather than a developmental disability for which people and families deserve support, services and accurate information. The American Academy of Pediatrics has warned that misinformation about autistic children and false vaccine links can harm both public health and autistic people and their families.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.healthychildren.org/english/safety-prevention/immunizations/pages/vaccine-studies-examine-the-evidence.aspx" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: healthychildren.org">[HealthyChildren.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">healthychildren.org</span><span class="citation-popover-title">vaccine studies examine the evidence.aspx</span><span class="citation-popover-snippet">vaccine studies examine the evidence.aspx</span></span></span>
 
 ## What this case teaches about myths and misconceptions
 
 The vaccine-autism claim endured because it joined three forces: a dramatic published origin, emotionally compelling parent narratives and a real developmental timing overlap. That combination made the myth feel more personal than an abstract scientific claim. A correction that ignores any one of those forces is weaker than it needs to be.
 
-The case also shows why retractions are necessary but not sufficient. *The Lancet* retraction and the GMC findings removed the original papers credibility, but they did not automatically erase the story from public memory. Once a myth becomes a social explanation, it can continue through anecdotes, campaign groups, celebrity endorsement, social media and mistrust of institutions. Research on the Wakefield papers public effects has linked its publication and subsequent media coverage with increased vaccine scepticism. <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0256395" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.plos.org">[PLOS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.plos.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The case also shows why retractions are necessary but not sufficient. *The Lancet* retraction and the GMC findings removed the original papers credibility, but they did not automatically erase the story from public memory. Once a myth becomes a social explanation, it can continue through anecdotes, campaign groups, celebrity endorsement, social media and mistrust of institutions. Research on the Wakefield papers public effects has linked its publication and subsequent media coverage with increased vaccine scepticism.<span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0256395" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.plos.org">[PLOS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.plos.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-The practical lesson for debunkers is to correct the whole causal story, not just the headline. In this case, that means saying: the original MMR-autism claim came from a small and discredited paper; later large studies and reviews do not support a link; the apparent timing is understandable because autism signs often become clearer in the same early years when vaccines are scheduled; and protecting children against measles, mumps and rubella remains a public health goal because those infections can cause serious harm. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.acpjournals.org/doi/10.7326/M18-2101" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: acpjournals.org">[ACP Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">acpjournals.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD004407.pub4/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cochranelibrary.com">[Cochrane Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cochranelibrary.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The practical lesson for debunkers is to correct the whole causal story, not just the headline. In this case, that means saying: the original MMR-autism claim came from a small and discredited paper; later large studies and reviews do not support a link; the apparent timing is understandable because autism signs often become clearer in the same early years when vaccines are scheduled; and protecting children against measles, mumps and rubella remains a public health goal because those infections can cause serious harm.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.acpjournals.org/doi/10.7326/M18-2101" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: acpjournals.org">[ACP Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">acpjournals.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD004407.pub4/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cochranelibrary.com">[Cochrane Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cochranelibrary.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What the Vaccine Autism Myth Teaches Debunkers. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What the Vaccine Autism Myth Teaches Debunkers. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Bad+Science+by+Ben+Goldacre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Bad Science on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=wICuv0ePMYoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Bad Science" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Bad+Science+by+Ben+Goldacre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Bad Science">Bad Science</a>
-        </h4>
-        <p class="fr-book-author">By Ben Goldacre</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Bad+Science+by+Ben+Goldacre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Bad Science on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=wICuv0ePMYoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Bad Science" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Bad+Science+by+Ben+Goldacre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Bad Science">Bad Science</a>
+</h4>
+<p class="fr-book-author">By Ben Goldacre</p>
         
-        <p class="fr-book-desc">Excellent framework for evaluating flawed health claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Bad+Science+by+Ben+Goldacre&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Excellent framework for evaluating flawed health claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Bad+Science+by+Ben+Goldacre&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Calling Bullshit on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Plu9DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Calling Bullshit" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Calling Bullshit">Calling Bullshit</a>
-        </h4>
-        <p class="fr-book-author">By Carl T. Bergstrom, Jevin D. West</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Calling Bullshit on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Plu9DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Calling Bullshit" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Calling Bullshit">Calling Bullshit</a>
+</h4>
+<p class="fr-book-author">By Carl T. Bergstrom, Jevin D. West</p>
         
-        <p class="fr-book-desc">Teaches how to assess evidence behind public claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Teaches how to assess evidence behind public claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Skeptics&#x27; Guide to the Universe on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CuVKDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Skeptics&#x27; Guide to the Universe" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Skeptics&#x27; Guide to the Universe">The Skeptics&#x27; Guide to the Universe</a>
-        </h4>
-        <p class="fr-book-author">By Dr. Steven Novella</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Skeptics&#x27; Guide to the Universe on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CuVKDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Skeptics&#x27; Guide to the Universe" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Skeptics&#x27; Guide to the Universe">The Skeptics&#x27; Guide to the Universe</a>
+</h4>
+<p class="fr-book-author">By Dr. Steven Novella</p>
         
-        <p class="fr-book-desc">Provides tools for evaluating health myths.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides tools for evaluating health myths.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+panic+virus+Seth+Mnookin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The panic virus on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9547196-M.jpg" alt="Cover for The panic virus" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+panic+virus+Seth+Mnookin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The panic virus">The panic virus</a>
-        </h4>
-        <p class="fr-book-author">By Seth Mnookin</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+panic+virus+Seth+Mnookin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The panic virus on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9547196-M.jpg" alt="Cover for The panic virus" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+panic+virus+Seth+Mnookin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The panic virus">The panic virus</a>
+</h4>
+<p class="fr-book-author">By Seth Mnookin</p>
         
-        <p class="fr-book-desc">First published 2011. Subjects: Vaccination, Mass media and culture, Health behavior, History, Psychological aspects.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+panic+virus+Seth+Mnookin&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2011. Subjects: Vaccination, Mass media and culture, Health behavior, History, Psychological aspects.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+panic+virus+Seth+Mnookin&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Bad+Science&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Bad Science</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Calling+Bullshit&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Calling Bullshit</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Skeptics%27+to+the+Universe+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Skeptics&#x27; to the Universe books</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Bad+Science&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Bad Science</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Calling+Bullshit&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Calling Bullshit</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Skeptics%27+to+the+Universe+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Skeptics&#x27; to the Universe books</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+communication+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vaccines-what-the-vaccine-autism-myth-teaches-debunkers-myths-and-misconcept-science-communication-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science communication poster" data-ebay-reference="vaccines-what-the-vaccine-autism-myth-teaches-debunkers-myths-and-misconcept-science-communication-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Military Phonetic Alphabet Poster – Tactical Survival Communication Chart"><img src="{{ '/assets/images/marketplace-covers/75e30d286484f400ab90.jpg' | relative_url }}" alt="Listing image for Military Phonetic Alphabet Poster – Tactical Survival Communication Chart" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+communication+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vaccines-what-the-vaccine-autism-myth-teaches-debunkers-myths-and-misconcept-science-communication-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science communication poster" data-ebay-reference="vaccines-what-the-vaccine-autism-myth-teaches-debunkers-myths-and-misconcept-science-communication-poster" target="_blank" rel="sponsored noopener noreferrer">Military Phonetic Alphabet Poster – Tactical Survival Communication Chart</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+communication+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vaccines-what-the-vaccine-autism-myth-teaches-debunkers-myths-and-misconcept-science-communication-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science communication poster" data-ebay-reference="vaccines-what-the-vaccine-autism-myth-teaches-debunkers-myths-and-misconcept-science-communication-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science communication poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: science communication poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+communication+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vaccines-what-the-vaccine-autism-myth-teaches-debunkers-myths-and-misconcept-science-communication-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science communication poster" data-ebay-reference="vaccines-what-the-vaccine-autism-myth-teaches-debunkers-myths-and-misconcept-science-communication-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+communication+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vaccines-what-the-vaccine-autism-myth-teaches-debunkers-myths-and-misconcept-science-communication-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science communication poster" data-ebay-reference="vaccines-what-the-vaccine-autism-myth-teaches-debunkers-myths-and-misconcept-science-communication-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Military Phonetic Alphabet Poster – Tactical Survival Communication Chart"><img src="{{ '/assets/images/marketplace-covers/75e30d286484f400ab90.jpg' | relative_url }}" alt="Listing image for Military Phonetic Alphabet Poster – Tactical Survival Communication Chart" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+communication+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vaccines-what-the-vaccine-autism-myth-teaches-debunkers-myths-and-misconcept-science-communication-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science communication poster" data-ebay-reference="vaccines-what-the-vaccine-autism-myth-teaches-debunkers-myths-and-misconcept-science-communication-poster" target="_blank" rel="sponsored noopener noreferrer">Military Phonetic Alphabet Poster – Tactical Survival Communication Chart</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+communication+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vaccines-what-the-vaccine-autism-myth-teaches-debunkers-myths-and-misconcept-science-communication-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science communication poster" data-ebay-reference="vaccines-what-the-vaccine-autism-myth-teaches-debunkers-myths-and-misconcept-science-communication-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science communication poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: science communication poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+communication+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vaccines-what-the-vaccine-autism-myth-teaches-debunkers-myths-and-misconcept-science-communication-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science communication poster" data-ebay-reference="vaccines-what-the-vaccine-autism-myth-teaches-debunkers-myths-and-misconcept-science-communication-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+communication+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vaccines-what-the-vaccine-autism-myth-teaches-debunkers-myths-and-misconcept-science-communication-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science communication poster" data-ebay-reference="vaccines-what-the-vaccine-autism-myth-teaches-debunkers-myths-and-misconcept-science-communication-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Poster: the Mode of Information (Paper) - Poster"><img src="{{ '/assets/images/marketplace-covers/0045afdd6e65e5d41f29.jpg' | relative_url }}" alt="Listing image for Poster: the Mode of Information (Paper) - Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+communication+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vaccines-what-the-vaccine-autism-myth-teaches-debunkers-myths-and-misconcept-science-communication-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science communication poster" data-ebay-reference="vaccines-what-the-vaccine-autism-myth-teaches-debunkers-myths-and-misconcept-science-communication-poster" target="_blank" rel="sponsored noopener noreferrer">Poster: the Mode of Information (Paper) - Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+communication+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vaccines-what-the-vaccine-autism-myth-teaches-debunkers-myths-and-misconcept-science-communication-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science communication poster" data-ebay-reference="vaccines-what-the-vaccine-autism-myth-teaches-debunkers-myths-and-misconcept-science-communication-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science communication poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: science communication poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+communication+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vaccines-what-the-vaccine-autism-myth-teaches-debunkers-myths-and-misconcept-science-communication-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science communication poster" data-ebay-reference="vaccines-what-the-vaccine-autism-myth-teaches-debunkers-myths-and-misconcept-science-communication-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+communication+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vaccines-what-the-vaccine-autism-myth-teaches-debunkers-myths-and-misconcept-science-communication-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science communication poster" data-ebay-reference="vaccines-what-the-vaccine-autism-myth-teaches-debunkers-myths-and-misconcept-science-communication-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+communication+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vaccines-what-the-vaccine-autism-myth-teaches-debunkers-myths-and-misconcept-science-communication-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science communication poster" data-ebay-reference="vaccines-what-the-vaccine-autism-myth-teaches-debunkers-myths-and-misconcept-science-communication-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Poster: the Mode of Information (Paper) - Poster"><img src="{{ '/assets/images/marketplace-covers/0045afdd6e65e5d41f29.jpg' | relative_url }}" alt="Listing image for Poster: the Mode of Information (Paper) - Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+communication+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vaccines-what-the-vaccine-autism-myth-teaches-debunkers-myths-and-misconcept-science-communication-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science communication poster" data-ebay-reference="vaccines-what-the-vaccine-autism-myth-teaches-debunkers-myths-and-misconcept-science-communication-poster" target="_blank" rel="sponsored noopener noreferrer">Poster: the Mode of Information (Paper) - Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+communication+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vaccines-what-the-vaccine-autism-myth-teaches-debunkers-myths-and-misconcept-science-communication-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science communication poster" data-ebay-reference="vaccines-what-the-vaccine-autism-myth-teaches-debunkers-myths-and-misconcept-science-communication-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science communication poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: science communication poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+communication+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vaccines-what-the-vaccine-autism-myth-teaches-debunkers-myths-and-misconcept-science-communication-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science communication poster" data-ebay-reference="vaccines-what-the-vaccine-autism-myth-teaches-debunkers-myths-and-misconcept-science-communication-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+communication+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vaccines-what-the-vaccine-autism-myth-teaches-debunkers-myths-and-misconcept-science-communication-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science communication poster" data-ebay-reference="vaccines-what-the-vaccine-autism-myth-teaches-debunkers-myths-and-misconcept-science-communication-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -723,7 +723,7 @@ The practical lesson for debunkers is to correct the whole causal story, not jus
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -743,7 +743,7 @@ The practical lesson for debunkers is to correct the whole causal story, not jus
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -775,7 +775,7 @@ The practical lesson for debunkers is to correct the whole causal story, not jus
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -827,7 +827,7 @@ The practical lesson for debunkers is to correct the whole causal story, not jus
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -872,7 +872,7 @@ The practical lesson for debunkers is to correct the whole causal story, not jus
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -913,213 +913,213 @@ The practical lesson for debunkers is to correct the whole causal story, not jus
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: cdc.gov  
-   Link: <a href="https://www.cdc.gov/autism/about/index.html" target="_blank" rel="noopener noreferrer nofollow">https://www.cdc.gov/autism/about/index.html</a>  
+   Link:<a href="https://www.cdc.gov/autism/about/index.html" target="_blank" rel="noopener noreferrer nofollow">https://www.cdc.gov/autism/about/index.html</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: who.int  
-   Link: <a href="https://www.who.int/news/item/11-12-2025-who-expert-group-s-new-analysis-reaffirms-there-is-no-link-between-vaccines-and-autism" target="_blank" rel="noopener noreferrer nofollow">https://www.who.int/news/item/11-12-2025-who-expert-group-s-new-analysis-reaffirms-there-is-no-link-between-vaccines-and-autism</a>  
+   Link:<a href="https://www.who.int/news/item/11-12-2025-who-expert-group-s-new-analysis-reaffirms-there-is-no-link-between-vaccines-and-autism" target="_blank" rel="noopener noreferrer nofollow">https://www.who.int/news/item/11-12-2025-who-expert-group-s-new-analysis-reaffirms-there-is-no-link-between-vaccines-and-autism</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3136032/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3136032/</a>  
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3136032/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3136032/</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC2831678/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC2831678/</a>  
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC2831678/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC2831678/</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: bmj.com  
-   Link: <a href="https://www.bmj.com/content/342/bmj.c5347" target="_blank" rel="noopener noreferrer nofollow">https://www.bmj.com/content/342/bmj.c5347</a>  
+   Link:<a href="https://www.bmj.com/content/342/bmj.c5347" target="_blank" rel="noopener noreferrer nofollow">https://www.bmj.com/content/342/bmj.c5347</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: nhs.uk  
    Title: MM R (measles, mumps and rubella) vaccine  
-   Link: <a href="https://www.nhs.uk/vaccinations/mmr-vaccine/" target="_blank" rel="noopener noreferrer nofollow">https://www.nhs.uk/vaccinations/mmr-vaccine/</a>  
+   Link:<a href="https://www.nhs.uk/vaccinations/mmr-vaccine/" target="_blank" rel="noopener noreferrer nofollow">https://www.nhs.uk/vaccinations/mmr-vaccine/</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: cdc.gov  
-   Link: <a href="https://www.cdc.gov/autism/diagnosis/index.html" target="_blank" rel="noopener noreferrer nofollow">https://www.cdc.gov/autism/diagnosis/index.html</a>  
+   Link:<a href="https://www.cdc.gov/autism/diagnosis/index.html" target="_blank" rel="noopener noreferrer nofollow">https://www.cdc.gov/autism/diagnosis/index.html</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0264410X01000974" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0264410X01000974</a>  
+   Link:<a href="https://www.sciencedirect.com/science/article/abs/pii/S0264410X01000974" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0264410X01000974</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0264410X14006367" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0264410X14006367</a>  
+   Link:<a href="https://www.sciencedirect.com/science/article/abs/pii/S0264410X14006367" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0264410X14006367</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: cochrane.org  
    Title: review confirms effectiveness mmr vaccines  
-   Link: <a href="https://www.cochrane.org/about-us/news/cochrane-review-confirms-effectiveness-mmr-vaccines" target="_blank" rel="noopener noreferrer nofollow">https://www.cochrane.org/about-us/news/cochrane-review-confirms-effectiveness-mmr-vaccines</a>  
+   Link:<a href="https://www.cochrane.org/about-us/news/cochrane-review-confirms-effectiveness-mmr-vaccines" target="_blank" rel="noopener noreferrer nofollow">https://www.cochrane.org/about-us/news/cochrane-review-confirms-effectiveness-mmr-vaccines</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: cdn.who.int  
-   Link: <a href="https://cdn.who.int/media/docs/default-source/medicines/pharmacovigilance/rev1_vaccines-autism-and-asd-evidence-review-2010-2025_12-dec7ab84d63-5110-4b2c-9882-19651446b8cd.pdf?download=true&amp;sfvrsn=daab5374_1" target="_blank" rel="noopener noreferrer nofollow">https://cdn.who.int/media/docs/default-source/medicines/pharmacovigilance/rev1_vaccines-autism-and-asd-evidence-review-2010-2025_12-dec7ab84d63-5110-4b2c-9882-19651446b8cd.pdf?download=true&amp;sfvrsn=daab5374_1</a>  
+   Link:<a href="https://cdn.who.int/media/docs/default-source/medicines/pharmacovigilance/rev1_vaccines-autism-and-asd-evidence-review-2010-2025_12-dec7ab84d63-5110-4b2c-9882-19651446b8cd.pdf?download=true&amp;sfvrsn=daab5374_1" target="_blank" rel="noopener noreferrer nofollow">https://cdn.who.int/media/docs/default-source/medicines/pharmacovigilance/rev1_vaccines-autism-and-asd-evidence-review-2010-2025_12-dec7ab84d63-5110-4b2c-9882-19651446b8cd.pdf?download=true&amp;sfvrsn=daab5374_1</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: cdc.gov  
-   Link: <a href="https://www.cdc.gov/vaccine-safety/about/thimerosal.html" target="_blank" rel="noopener noreferrer nofollow">https://www.cdc.gov/vaccine-safety/about/thimerosal.html</a>  
+   Link:<a href="https://www.cdc.gov/vaccine-safety/about/thimerosal.html" target="_blank" rel="noopener noreferrer nofollow">https://www.cdc.gov/vaccine-safety/about/thimerosal.html</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: healthychildren.org  
    Title: vaccine studies examine the evidence.aspx  
-   Link: <a href="https://www.healthychildren.org/english/safety-prevention/immunizations/pages/vaccine-studies-examine-the-evidence.aspx" target="_blank" rel="noopener noreferrer nofollow">https://www.healthychildren.org/english/safety-prevention/immunizations/pages/vaccine-studies-examine-the-evidence.aspx</a>  
+   Link:<a href="https://www.healthychildren.org/english/safety-prevention/immunizations/pages/vaccine-studies-examine-the-evidence.aspx" target="_blank" rel="noopener noreferrer nofollow">https://www.healthychildren.org/english/safety-prevention/immunizations/pages/vaccine-studies-examine-the-evidence.aspx</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: journals.plos.org  
-   Link: <a href="https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0256395" target="_blank" rel="noopener noreferrer nofollow">https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0256395</a>  
+   Link:<a href="https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0256395" target="_blank" rel="noopener noreferrer nofollow">https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0256395</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: bmj.com  
    Title: rapid responses  
-   Link: <a href="https://www.bmj.com/content/342/bmj.c7452/rapid-responses" target="_blank" rel="noopener noreferrer nofollow">https://www.bmj.com/content/342/bmj.c7452/rapid-responses</a>  
+   Link:<a href="https://www.bmj.com/content/342/bmj.c7452/rapid-responses" target="_blank" rel="noopener noreferrer nofollow">https://www.bmj.com/content/342/bmj.c7452/rapid-responses</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: bmj.com  
    Title: section pdf  
-   Link: <a href="https://www.bmj.com/bmj/section-pdf/186183?path=%2Fbmj%2F342%2F7788%2FFeature.full.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.bmj.com/bmj/section-pdf/186183?path=%2Fbmj%2F342%2F7788%2FFeature.full.pdf</a>  
+   Link:<a href="https://www.bmj.com/bmj/section-pdf/186183?path=%2Fbmj%2F342%2F7788%2FFeature.full.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.bmj.com/bmj/section-pdf/186183?path=%2Fbmj%2F342%2F7788%2FFeature.full.pdf</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: bmj.com  
-   Link: <a href="https://www.bmj.com/content/340/bmj.c2803" target="_blank" rel="noopener noreferrer nofollow">https://www.bmj.com/content/340/bmj.c2803</a>  
+   Link:<a href="https://www.bmj.com/content/340/bmj.c2803" target="_blank" rel="noopener noreferrer nofollow">https://www.bmj.com/content/340/bmj.c2803</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: bmj.com  
    Title: mmr and conflicts interest  
-   Link: <a href="https://www.bmj.com/rapid-response/2011/10/30/mmr-and-conflicts-interest" target="_blank" rel="noopener noreferrer nofollow">https://www.bmj.com/rapid-response/2011/10/30/mmr-and-conflicts-interest</a>  
+   Link:<a href="https://www.bmj.com/rapid-response/2011/10/30/mmr-and-conflicts-interest" target="_blank" rel="noopener noreferrer nofollow">https://www.bmj.com/rapid-response/2011/10/30/mmr-and-conflicts-interest</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: iris.who.int  
-   Link: <a href="https://iris.who.int/server/api/core/bitstreams/1d93815d-e311-43b7-9188-b996f0b079b3/content" target="_blank" rel="noopener noreferrer nofollow">https://iris.who.int/server/api/core/bitstreams/1d93815d-e311-43b7-9188-b996f0b079b3/content</a>  
+   Link:<a href="https://iris.who.int/server/api/core/bitstreams/1d93815d-e311-43b7-9188-b996f0b079b3/content" target="_blank" rel="noopener noreferrer nofollow">https://iris.who.int/server/api/core/bitstreams/1d93815d-e311-43b7-9188-b996f0b079b3/content</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: who.int  
    Title: Pharmacovigilance WHO  
-   Link: <a href="https://www.who.int/teams/regulation-prequalification/regulation-and-safety/pharmacovigilance" target="_blank" rel="noopener noreferrer nofollow">https://www.who.int/teams/regulation-prequalification/regulation-and-safety/pharmacovigilance</a>  
+   Link:<a href="https://www.who.int/teams/regulation-prequalification/regulation-and-safety/pharmacovigilance" target="_blank" rel="noopener noreferrer nofollow">https://www.who.int/teams/regulation-prequalification/regulation-and-safety/pharmacovigilance</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: cdn.who.int  
    Title: who rpq annualreport2025  
-   Link: <a href="https://cdn.who.int/media/docs/default-source/medicines/regulatory-updates/rpq/who_rpq_annualreport2025.pdf?download=true&amp;sfvrsn=afe3907_3" target="_blank" rel="noopener noreferrer nofollow">https://cdn.who.int/media/docs/default-source/medicines/regulatory-updates/rpq/who_rpq_annualreport2025.pdf?download=true&amp;sfvrsn=afe3907_3</a>  
+   Link:<a href="https://cdn.who.int/media/docs/default-source/medicines/regulatory-updates/rpq/who_rpq_annualreport2025.pdf?download=true&amp;sfvrsn=afe3907_3" target="_blank" rel="noopener noreferrer nofollow">https://cdn.who.int/media/docs/default-source/medicines/regulatory-updates/rpq/who_rpq_annualreport2025.pdf?download=true&amp;sfvrsn=afe3907_3</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: apps.who.int  
-   Link: <a href="https://apps.who.int/gb/ebwha/pdf_files/wha67-rec1/a67_2014_rec1-en.pdf" target="_blank" rel="noopener noreferrer nofollow">https://apps.who.int/gb/ebwha/pdf_files/wha67-rec1/a67_2014_rec1-en.pdf</a>  
+   Link:<a href="https://apps.who.int/gb/ebwha/pdf_files/wha67-rec1/a67_2014_rec1-en.pdf" target="_blank" rel="noopener noreferrer nofollow">https://apps.who.int/gb/ebwha/pdf_files/wha67-rec1/a67_2014_rec1-en.pdf</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0167629619302450" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0167629619302450</a>  
+   Link:<a href="https://www.sciencedirect.com/science/article/abs/pii/S0167629619302450" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0167629619302450</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: cc4c.imperial.nhs.uk  
-   Link: <a href="https://www.cc4c.imperial.nhs.uk/-/media/cc4c/documents/mmr-questions-answered.pdf?hash=C15AB62CDC69D6399C643FC8ED927F07&amp;rev=8e05618c739a4e749a09ec98bd3314fc" target="_blank" rel="noopener noreferrer nofollow">https://www.cc4c.imperial.nhs.uk/-/media/cc4c/documents/mmr-questions-answered.pdf?hash=C15AB62CDC69D6399C643FC8ED927F07&amp;rev=8e05618c739a4e749a09ec98bd3314fc</a>  
+   Link:<a href="https://www.cc4c.imperial.nhs.uk/-/media/cc4c/documents/mmr-questions-answered.pdf?hash=C15AB62CDC69D6399C643FC8ED927F07&amp;rev=8e05618c739a4e749a09ec98bd3314fc" target="_blank" rel="noopener noreferrer nofollow">https://www.cc4c.imperial.nhs.uk/-/media/cc4c/documents/mmr-questions-answered.pdf?hash=C15AB62CDC69D6399C643FC8ED927F07&amp;rev=8e05618c739a4e749a09ec98bd3314fc</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: archive.cdc.gov  
-   Link: <a href="https://archive.cdc.gov/www_cdc_gov/vaccinesafety/concerns/thimerosal/timeline.html" target="_blank" rel="noopener noreferrer nofollow">https://archive.cdc.gov/www_cdc_gov/vaccinesafety/concerns/thimerosal/timeline.html</a>  
+   Link:<a href="https://archive.cdc.gov/www_cdc_gov/vaccinesafety/concerns/thimerosal/timeline.html" target="_blank" rel="noopener noreferrer nofollow">https://archive.cdc.gov/www_cdc_gov/vaccinesafety/concerns/thimerosal/timeline.html</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: england.nhs.uk  
    Title: 20240201 MMR SW Eligibilty Schedule Guide for HCP v.1.0  
-   Link: <a href="https://www.england.nhs.uk/south/wp-content/uploads/sites/6/2024/02/20240201-MMR-SW-Eligibilty_Schedule-Guide-for-HCP-v.1.0.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.england.nhs.uk/south/wp-content/uploads/sites/6/2024/02/20240201-MMR-SW-Eligibilty_Schedule-Guide-for-HCP-v.1.0.pdf</a>  
+   Link:<a href="https://www.england.nhs.uk/south/wp-content/uploads/sites/6/2024/02/20240201-MMR-SW-Eligibilty_Schedule-Guide-for-HCP-v.1.0.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.england.nhs.uk/south/wp-content/uploads/sites/6/2024/02/20240201-MMR-SW-Eligibilty_Schedule-Guide-for-HCP-v.1.0.pdf</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: nhs.uk  
-   Link: <a href="https://www.nhs.uk/vaccinations/nhs-vaccinations-and-when-to-have-them/" target="_blank" rel="noopener noreferrer nofollow">https://www.nhs.uk/vaccinations/nhs-vaccinations-and-when-to-have-them/</a>  
+   Link:<a href="https://www.nhs.uk/vaccinations/nhs-vaccinations-and-when-to-have-them/" target="_blank" rel="noopener noreferrer nofollow">https://www.nhs.uk/vaccinations/nhs-vaccinations-and-when-to-have-them/</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: autismspeaks.org  
    Title: Autism Speaks Do vaccines cause autism?  
-   Link: <a href="https://www.autismspeaks.org/do-vaccines-cause-autism" target="_blank" rel="noopener noreferrer nofollow">https://www.autismspeaks.org/do-vaccines-cause-autism</a>  
+   Link:<a href="https://www.autismspeaks.org/do-vaccines-cause-autism" target="_blank" rel="noopener noreferrer nofollow">https://www.autismspeaks.org/do-vaccines-cause-autism</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: bu.edu  
    Title: Boston University Is There a 'Regressive Phenotype' of Autism Spectrum  
-   Link: <a href="https://www.bu.edu/autism/files/2010/03/2006-Richler-et-al-MMR-Vaccine1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.bu.edu/autism/files/2010/03/2006-Richler-et-al-MMR-Vaccine1.pdf</a>  
+   Link:<a href="https://www.bu.edu/autism/files/2010/03/2006-Richler-et-al-MMR-Vaccine1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.bu.edu/autism/files/2010/03/2006-Richler-et-al-MMR-Vaccine1.pdf</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: acpjournals.org  
-   Link: <a href="https://www.acpjournals.org/doi/10.7326/M18-2101" target="_blank" rel="noopener noreferrer nofollow">https://www.acpjournals.org/doi/10.7326/M18-2101</a>  
+   Link:<a href="https://www.acpjournals.org/doi/10.7326/M18-2101" target="_blank" rel="noopener noreferrer nofollow">https://www.acpjournals.org/doi/10.7326/M18-2101</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/30831578/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/30831578/</a>  
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/30831578/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/30831578/</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/24814559/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/24814559/</a>  
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/24814559/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/24814559/</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: cochranelibrary.com  
-   Link: <a href="https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD004407.pub4/full" target="_blank" rel="noopener noreferrer nofollow">https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD004407.pub4/full</a>  
+   Link:<a href="https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD004407.pub4/full" target="_blank" rel="noopener noreferrer nofollow">https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD004407.pub4/full</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: autismspeaks.org  
-   Link: <a href="https://www.autismspeaks.org/signs-autism" target="_blank" rel="noopener noreferrer nofollow">https://www.autismspeaks.org/signs-autism</a>  
+   Link:<a href="https://www.autismspeaks.org/signs-autism" target="_blank" rel="noopener noreferrer nofollow">https://www.autismspeaks.org/signs-autism</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: Wikipedia  
    Title: Andrew Wakefield  
-   Link: <a href="https://en.wikipedia.org/wiki/Andrew_Wakefield" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Andrew_Wakefield</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Andrew_Wakefield" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Andrew_Wakefield</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: cdphe.colorado.gov  
    Title: vaccines and autism  
-   Link: <a href="https://cdphe.colorado.gov/immunization/vaccines-and-autism" target="_blank" rel="noopener noreferrer nofollow">https://cdphe.colorado.gov/immunization/vaccines-and-autism</a>  
+   Link:<a href="https://cdphe.colorado.gov/immunization/vaccines-and-autism" target="_blank" rel="noopener noreferrer nofollow">https://cdphe.colorado.gov/immunization/vaccines-and-autism</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/cochranecollab/posts/cochrane-review-confirms-effectiveness-of-mmr-vaccines-new-evidence-published-in/10158232725604153/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/cochranecollab/posts/cochrane-review-confirms-effectiveness-of-mmr-vaccines-new-evidence-published-in/10158232725604153/</a>  
+   Link:<a href="https://www.facebook.com/cochranecollab/posts/cochrane-review-confirms-effectiveness-of-mmr-vaccines-new-evidence-published-in/10158232725604153/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/cochranecollab/posts/cochrane-review-confirms-effectiveness-of-mmr-vaccines-new-evidence-published-in/10158232725604153/</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: chop.edu  
-   Link: <a href="https://www.chop.edu/vaccine-education-center/vaccine-safety/vaccines-and-other-conditions/autism" target="_blank" rel="noopener noreferrer nofollow">https://www.chop.edu/vaccine-education-center/vaccine-safety/vaccines-and-other-conditions/autism</a>  
+   Link:<a href="https://www.chop.edu/vaccine-education-center/vaccine-safety/vaccines-and-other-conditions/autism" target="_blank" rel="noopener noreferrer nofollow">https://www.chop.edu/vaccine-education-center/vaccine-safety/vaccines-and-other-conditions/autism</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: restoredcdc.org  
-   Link: <a href="https://www.restoredcdc.org/www.cdc.gov/vaccine-safety/about/autism.html" target="_blank" rel="noopener noreferrer nofollow">https://www.restoredcdc.org/www.cdc.gov/vaccine-safety/about/autism.html</a>  
+   Link:<a href="https://www.restoredcdc.org/www.cdc.gov/vaccine-safety/about/autism.html" target="_blank" rel="noopener noreferrer nofollow">https://www.restoredcdc.org/www.cdc.gov/vaccine-safety/about/autism.html</a>  
 
 ### Additional References
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: asatonline.org  
-   Link: <a href="https://asatonline.org/for-parents/becoming-a-savvy-consumer/learn-the-signs-act-early/" target="_blank" rel="noopener noreferrer nofollow">https://asatonline.org/for-parents/becoming-a-savvy-consumer/learn-the-signs-act-early/</a>  
+   Link:<a href="https://asatonline.org/for-parents/becoming-a-savvy-consumer/learn-the-signs-act-early/" target="_blank" rel="noopener noreferrer nofollow">https://asatonline.org/for-parents/becoming-a-savvy-consumer/learn-the-signs-act-early/</a>  
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/262231006_Vaccines_are_not_associated_with_autism_An_evidence-based_meta-analysis_of_case-control_and_cohort_studies" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/262231006_Vaccines_are_not_associated_with_autism_An_evidence-based_meta-analysis_of_case-control_and_cohort_studies</a>  
+   Link:<a href="https://www.researchgate.net/publication/262231006_Vaccines_are_not_associated_with_autism_An_evidence-based_meta-analysis_of_case-control_and_cohort_studies" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/262231006_Vaccines_are_not_associated_with_autism_An_evidence-based_meta-analysis_of_case-control_and_cohort_studies</a>  
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: briandeer.com  
-   Link: <a href="https://briandeer.com/mmr/lancet-summary.htm" target="_blank" rel="noopener noreferrer nofollow">https://briandeer.com/mmr/lancet-summary.htm</a>  
+   Link:<a href="https://briandeer.com/mmr/lancet-summary.htm" target="_blank" rel="noopener noreferrer nofollow">https://briandeer.com/mmr/lancet-summary.htm</a>  
 
-43. <a id="endnote-43"></a>
+43.<a id="endnote-43"></a>
    Source: autismsciencefoundation.org  
-   Link: <a href="https://autismsciencefoundation.org/autism-and-vaccines-read-the-science/" target="_blank" rel="noopener noreferrer nofollow">https://autismsciencefoundation.org/autism-and-vaccines-read-the-science/</a>  
+   Link:<a href="https://autismsciencefoundation.org/autism-and-vaccines-read-the-science/" target="_blank" rel="noopener noreferrer nofollow">https://autismsciencefoundation.org/autism-and-vaccines-read-the-science/</a>  
 
-44. <a id="endnote-44"></a>
+44.<a id="endnote-44"></a>
    Source: harbornemedical.co.uk  
-   Link: <a href="https://harbornemedical.co.uk/health-and-wellbeing-at-harborne-medical/children-and-young-people/childhood-immunisations" target="_blank" rel="noopener noreferrer nofollow">https://harbornemedical.co.uk/health-and-wellbeing-at-harborne-medical/children-and-young-people/childhood-immunisations</a>  
+   Link:<a href="https://harbornemedical.co.uk/health-and-wellbeing-at-harborne-medical/children-and-young-people/childhood-immunisations" target="_blank" rel="noopener noreferrer nofollow">https://harbornemedical.co.uk/health-and-wellbeing-at-harborne-medical/children-and-young-people/childhood-immunisations</a>  
 
-45. <a id="endnote-45"></a>
+45.<a id="endnote-45"></a>
    Source: hcplive.com  
-   Link: <a href="https://www.hcplive.com/view/autism_doctor" target="_blank" rel="noopener noreferrer nofollow">https://www.hcplive.com/view/autism_doctor</a>  
+   Link:<a href="https://www.hcplive.com/view/autism_doctor" target="_blank" rel="noopener noreferrer nofollow">https://www.hcplive.com/view/autism_doctor</a>  
 
-46. <a id="endnote-46"></a>
+46.<a id="endnote-46"></a>
    Source: vaccinesafety.edu  
-   Link: <a href="https://www.vaccinesafety.edu/do-vaccines-cause-autism/" target="_blank" rel="noopener noreferrer nofollow">https://www.vaccinesafety.edu/do-vaccines-cause-autism/</a>  
+   Link:<a href="https://www.vaccinesafety.edu/do-vaccines-cause-autism/" target="_blank" rel="noopener noreferrer nofollow">https://www.vaccinesafety.edu/do-vaccines-cause-autism/</a>  
 
-47. <a id="endnote-47"></a>
+47.<a id="endnote-47"></a>
    Source: dr2kids.com  
-   Link: <a href="https://www.dr2kids.com/blog/does-an-early-diagnosis-of-autism-improve-symptoms" target="_blank" rel="noopener noreferrer nofollow">https://www.dr2kids.com/blog/does-an-early-diagnosis-of-autism-improve-symptoms</a>  
+   Link:<a href="https://www.dr2kids.com/blog/does-an-early-diagnosis-of-autism-improve-symptoms" target="_blank" rel="noopener noreferrer nofollow">https://www.dr2kids.com/blog/does-an-early-diagnosis-of-autism-improve-symptoms</a>  
 
-48. <a id="endnote-48"></a>
+48.<a id="endnote-48"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/49731521_How_the_case_against_the_MMR_vaccine_was_fixed" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/49731521_How_the_case_against_the_MMR_vaccine_was_fixed</a>  
+   Link:<a href="https://www.researchgate.net/publication/49731521_How_the_case_against_the_MMR_vaccine_was_fixed" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/49731521_How_the_case_against_the_MMR_vaccine_was_fixed</a>  
 
-49. <a id="endnote-49"></a>
+49.<a id="endnote-49"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/Nemours/posts/autismawarenessmonth-did-you-know-there-is-no-connection-between-vaccines-and-au/10159355126311092/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Nemours/posts/autismawarenessmonth-did-you-know-there-is-no-connection-between-vaccines-and-au/10159355126311092/</a>
+   Link:<a href="https://www.facebook.com/Nemours/posts/autismawarenessmonth-did-you-know-there-is-no-connection-between-vaccines-and-au/10159355126311092/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Nemours/posts/autismawarenessmonth-did-you-know-there-is-no-connection-between-vaccines-and-au/10159355126311092/</a>

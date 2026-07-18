@@ -274,22 +274,22 @@ image: /assets/images/Myths_and_misconcept_0d48d7_sciencey_language_94b7a1_quant
 
 ## Introduction
 
-The word *quantum* has a precise meaning in physics, but in parts of the wellness industry it is often used very differently. Products and services are marketed as “quantum healing”, “quantum frequency therapy”, “quantum resonance”, “quantum energy balancing”, or “quantum wellness”, creating an impression of scientific sophistication. The problem is not that quantum physics is unreal. It is one of the most successful scientific theories ever developed. The problem is that the term is frequently detached from its scientific context and used as a source of authority rather than as part of a testable explanation. When that happens, the language can make a weak claim sound deeper than it really is. <span class="citation-chip-wrap"><a class="citation-chip" href="https://skepticalinquirer.org/2020/11/sources-of-quantum-voodooism/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-snippet">Skeptical InquirerSources of Quantum VoodooismThe publication of Quantum Healing was a milestone in the rampant trivialization of quantum...</span></span></span>
+The word *quantum* has a precise meaning in physics, but in parts of the wellness industry it is often used very differently. Products and services are marketed as “quantum healing”, “quantum frequency therapy”, “quantum resonance”, “quantum energy balancing”, or “quantum wellness”, creating an impression of scientific sophistication. The problem is not that quantum physics is unreal. It is one of the most successful scientific theories ever developed. The problem is that the term is frequently detached from its scientific context and used as a source of authority rather than as part of a testable explanation. When that happens, the language can make a weak claim sound deeper than it really is.<span class="citation-chip-wrap"><a class="citation-chip" href="https://skepticalinquirer.org/2020/11/sources-of-quantum-voodooism/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-snippet">Skeptical InquirerSources of Quantum VoodooismThe publication of Quantum Healing was a milestone in the rampant trivialization of quantum...</span></span></span>
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_sciencey_language_94b7a1_quantum_wellness_lan_5e1823-Illustration-1-dark.svg" | relative_url }}" alt="Quantum Claims illustration 1" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_sciencey_language_94b7a1_quantum_wellness_lan_5e1823-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_sciencey_language_94b7a1_quantum_wellness_lan_5e1823-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-A useful way to understand these claims is to look at the missing step between a scientific-sounding mechanism and a measurable outcome. Real science must explain not only *what* supposedly happens but also *how*, under what conditions, and with what evidence. Quantum wellness claims often skip those steps while relying on technical vocabulary to create an impression of precision. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ftc.gov/business-guidance/advertising-marketing/health-claims" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ftc.gov">[Federal Trade Commission]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ftc.gov</span><span class="citation-popover-snippet">Through more than 50 examples, this guidance explains the how-tos...</span></span></span>
+A useful way to understand these claims is to look at the missing step between a scientific-sounding mechanism and a measurable outcome. Real science must explain not only *what* supposedly happens but also *how*, under what conditions, and with what evidence. Quantum wellness claims often skip those steps while relying on technical vocabulary to create an impression of precision.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ftc.gov/business-guidance/advertising-marketing/health-claims" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ftc.gov">[Federal Trade Commission]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ftc.gov</span><span class="citation-popover-snippet">Through more than 50 examples, this guidance explains the how-tos...</span></span></span>
 
 ## How Real Physics Terms Get Stretched
 
-Quantum physics studies the behaviour of matter and energy at extremely small scales. Concepts such as superposition, entanglement and wave functions describe specific mathematical and experimental phenomena. In legitimate scientific work, these terms are used carefully and within strict boundaries. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10342414/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCIt&#x27;s Time to Go Quantum in Medicine</span><span class="citation-popover-snippet">by J Bisiani · 2023 · Cited by 33 — Utilizing quantum theory in the field of medicine can help in understanding and applying treatment...</span></span></span>
+Quantum physics studies the behaviour of matter and energy at extremely small scales. Concepts such as superposition, entanglement and wave functions describe specific mathematical and experimental phenomena. In legitimate scientific work, these terms are used carefully and within strict boundaries.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10342414/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCIt&#x27;s Time to Go Quantum in Medicine</span><span class="citation-popover-snippet">by J Bisiani · 2023 · Cited by 33 — Utilizing quantum theory in the field of medicine can help in understanding and applying treatment...</span></span></span>
 
-In wellness marketing, however, the same words are often expanded far beyond their established meaning. A product may claim to “raise your quantum frequency”, “harmonise your quantum field”, or “use quantum resonance to restore balance”. These phrases sound technical, but they frequently lack clear definitions. If two practitioners use the same phrase but cannot describe the same measurable process, the terminology is functioning more as branding than as explanation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://skepticalinquirer.org/2020/11/sources-of-quantum-voodooism/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-snippet">Skeptical InquirerSources of Quantum VoodooismThe publication of Quantum Healing was a milestone in the rampant trivialization of quantum...</span></span></span>
+In wellness marketing, however, the same words are often expanded far beyond their established meaning. A product may claim to “raise your quantum frequency”, “harmonise your quantum field”, or “use quantum resonance to restore balance”. These phrases sound technical, but they frequently lack clear definitions. If two practitioners use the same phrase but cannot describe the same measurable process, the terminology is functioning more as branding than as explanation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://skepticalinquirer.org/2020/11/sources-of-quantum-voodooism/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-snippet">Skeptical InquirerSources of Quantum VoodooismThe publication of Quantum Healing was a milestone in the rampant trivialization of quantum...</span></span></span>
 
 Three terms appear especially often:
 
 * **Quantum** – used to imply cutting-edge science or hidden mechanisms without specifying which aspect of quantum physics is relevant.
 * **Frequency** – borrowed from physics, where it has a precise meaning, but often used vaguely as a metaphor for health, mood or consciousness.
-* **Resonance** – a real phenomenon in physics, engineering and chemistry, yet frequently invoked without identifying what is resonating, how it is measured, or why it would produce the claimed health effect. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/1901.07050" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Nonlocality Claims are Inconsistent with Hilbert Space Quantum Mechanics</span><span class="citation-popover-snippet">arXiv Nonlocality Claims are Inconsistent with Hilbert Space Quantum Mechanics</span></span></span>
+* **Resonance** – a real phenomenon in physics, engineering and chemistry, yet frequently invoked without identifying what is resonating, how it is measured, or why it would produce the claimed health effect.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/1901.07050" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Nonlocality Claims are Inconsistent with Hilbert Space Quantum Mechanics</span><span class="citation-popover-snippet">arXiv Nonlocality Claims are Inconsistent with Hilbert Space Quantum Mechanics</span></span></span>
 
 The result is a kind of false technical depth. The language sounds as though it explains something, but on closer inspection it often substitutes complexity for clarity.
 
@@ -310,7 +310,7 @@ A strong scientific claim requires a chain of reasoning:
 
 Many quantum wellness claims begin with step one and jump directly to step four's conclusion.
 
-For example, a product might claim that it emits a beneficial frequency, aligns the body's energy field, and therefore improves sleep, reduces stress, boosts immunity and increases vitality. Even if the first statement could be measured, the later conclusions would still require separate evidence. A mechanism is not proof of effectiveness. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ftc.gov/business-guidance/advertising-marketing/health-claims" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ftc.gov">[Federal Trade Commission]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ftc.gov</span><span class="citation-popover-snippet">Through more than 50 examples, this guidance explains the how-tos...</span></span></span>
+For example, a product might claim that it emits a beneficial frequency, aligns the body's energy field, and therefore improves sleep, reduces stress, boosts immunity and increases vitality. Even if the first statement could be measured, the later conclusions would still require separate evidence. A mechanism is not proof of effectiveness.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ftc.gov/business-guidance/advertising-marketing/health-claims" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ftc.gov">[Federal Trade Commission]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ftc.gov</span><span class="citation-popover-snippet">Through more than 50 examples, this guidance explains the how-tos...</span></span></span>
 
 This gap is often hidden by language that sounds explanatory but remains difficult to test. Terms such as “raising vibrational energy”, “optimising quantum coherence”, or “restoring energetic harmony” may create a feeling of understanding while leaving crucial questions unanswered:
 
@@ -332,7 +332,7 @@ Without answers, the claim remains insulated from meaningful testing.
 
 One reason quantum terminology is attractive in marketing is that most people know quantum physics is real while relatively few people are familiar with its details.
 
-This creates an asymmetry. Readers recognise the prestige of the field but may not have the specialised knowledge needed to evaluate whether the terminology is being used correctly. Researchers studying misconceptions about quantum mechanics have found that pseudoscientific beliefs can become attached to genuine scientific concepts when the underlying ideas are poorly understood. <span class="citation-chip-wrap"><a class="citation-chip" href="https://link.aps.org/doi/10.1103/PhysRevPhysEducRes.20.020145" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.aps.org">[APS Links]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.aps.org</span><span class="citation-popover-snippet">APS LinksAnalysis of pseudoscientific beliefs in quantum mechanics of...by W Sciarretta · 2024 · Cited by 8 — In this empirical study, w...</span></span></span>
+This creates an asymmetry. Readers recognise the prestige of the field but may not have the specialised knowledge needed to evaluate whether the terminology is being used correctly. Researchers studying misconceptions about quantum mechanics have found that pseudoscientific beliefs can become attached to genuine scientific concepts when the underlying ideas are poorly understood.<span class="citation-chip-wrap"><a class="citation-chip" href="https://link.aps.org/doi/10.1103/PhysRevPhysEducRes.20.020145" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.aps.org">[APS Links]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.aps.org</span><span class="citation-popover-snippet">APS LinksAnalysis of pseudoscientific beliefs in quantum mechanics of...by W Sciarretta · 2024 · Cited by 8 — In this empirical study, w...</span></span></span>
 
 The effect is similar to using medical jargon outside medicine. A sentence packed with technical vocabulary can feel more rigorous even when it contains little actual information. Compare these two claims:
 
@@ -358,13 +358,13 @@ Claims frequently include combinations of:
 * Bio-resonance scanning.
 * Quantum fields.
 * Energy alignment.
-* Consciousness-based quantum effects. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thestudio108.com/exploring-quantum-frequency-healing-amodern-approach-to-holistic-wellness/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thestudio108.com">[Studio 108]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thestudio108.com</span><span class="citation-popover-snippet">Studio 108Exploring Quantum Frequency Healing: A Modern Approach...Quantum frequency healing is a way to improve health by using energy...</span></span></span>
+* Consciousness-based quantum effects.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thestudio108.com/exploring-quantum-frequency-healing-amodern-approach-to-holistic-wellness/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thestudio108.com">[Studio 108]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thestudio108.com</span><span class="citation-popover-snippet">Studio 108Exploring Quantum Frequency Healing: A Modern Approach...Quantum frequency healing is a way to improve health by using energy...</span></span></span>
 
 </div>
 
-Regulators have repeatedly challenged health-related marketing that makes broad therapeutic claims without adequate scientific support. The US Federal Trade Commission has emphasised that [health claims]({{ 'health-claims/' | relative_url }}) require competent and reliable scientific evidence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ftc.gov/business-guidance/advertising-marketing/health-claims" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ftc.gov">[Federal Trade Commission]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ftc.gov</span><span class="citation-popover-snippet">Through more than 50 examples, this guidance explains the how-tos...</span></span></span>
+Regulators have repeatedly challenged health-related marketing that makes broad therapeutic claims without adequate scientific support. The US Federal Trade Commission has emphasised that [health claims]({{ 'health-claims/' | relative_url }}) require competent and reliable scientific evidence.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ftc.gov/business-guidance/advertising-marketing/health-claims" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ftc.gov">[Federal Trade Commission]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ftc.gov</span><span class="citation-popover-snippet">Through more than 50 examples, this guidance explains the how-tos...</span></span></span>
 
-A notable example involved Quantum Wellness Botanical Institute and its ReJuvenation supplement. According to FTC allegations, the company promoted the product as a virtual cure-all for ageing-related conditions and other serious health problems. The resulting settlements prohibited such claims unless supported by appropriate evidence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ftc.gov/business-guidance/advertising-marketing/health-claims" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ftc.gov">[Federal Trade Commission]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ftc.gov</span><span class="citation-popover-snippet">Through more than 50 examples, this guidance explains the how-tos...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ftc.gov/business-guidance/advertising-marketing/health-claims" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ftc.gov">[Federal Trade Commission]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ftc.gov</span><span class="citation-popover-snippet">Through more than 50 examples, this guidance explains the how-tos...</span></span></span>
+A notable example involved Quantum Wellness Botanical Institute and its ReJuvenation supplement. According to FTC allegations, the company promoted the product as a virtual cure-all for ageing-related conditions and other serious health problems. The resulting settlements prohibited such claims unless supported by appropriate evidence.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ftc.gov/business-guidance/advertising-marketing/health-claims" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ftc.gov">[Federal Trade Commission]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ftc.gov</span><span class="citation-popover-snippet">Through more than 50 examples, this guidance explains the how-tos...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ftc.gov/business-guidance/advertising-marketing/health-claims" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ftc.gov">[Federal Trade Commission]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ftc.gov</span><span class="citation-popover-snippet">Through more than 50 examples, this guidance explains the how-tos...</span></span></span>
 
 The significance of such cases is not the word *quantum* itself. It is the broader lesson that scientific-sounding mechanisms do not remove the need for evidence.
 
@@ -402,199 +402,199 @@ The second statement may sound profound, but it provides no practical method for
 
 The popularity of quantum wellness language does not show that quantum physics supports these products. It shows how scientific prestige can be borrowed by weak claims.
 
-Real quantum research is complex, mathematical and experimentally demanding. It has led to technologies such as semiconductors, lasers and quantum computing research. Those achievements arose from precise predictions, measurements and repeated testing. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10342414/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCIt&#x27;s Time to Go Quantum in Medicine</span><span class="citation-popover-snippet">by J Bisiani · 2023 · Cited by 33 — Utilizing quantum theory in the field of medicine can help in understanding and applying treatment...</span></span></span>
+Real quantum research is complex, mathematical and experimentally demanding. It has led to technologies such as semiconductors, lasers and quantum computing research. Those achievements arose from precise predictions, measurements and repeated testing.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10342414/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCIt&#x27;s Time to Go Quantum in Medicine</span><span class="citation-popover-snippet">by J Bisiani · 2023 · Cited by 33 — Utilizing quantum theory in the field of medicine can help in understanding and applying treatment...</span></span></span>
 
-When wellness marketing uses words such as *quantum*, *frequency* and *resonance* without providing a measurable mechanism or credible evidence, the terminology often serves a rhetorical purpose rather than a scientific one. The language creates an impression of depth while leaving the crucial connection between mechanism and outcome unproven. That missing connection is where the real evaluation should begin. <span class="citation-chip-wrap"><a class="citation-chip" href="https://skepticalinquirer.org/2020/11/sources-of-quantum-voodooism/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-snippet">Skeptical InquirerSources of Quantum VoodooismThe publication of Quantum Healing was a milestone in the rampant trivialization of quantum...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ftc.gov/business-guidance/advertising-marketing/health-claims" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ftc.gov">[Federal Trade Commission]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ftc.gov</span><span class="citation-popover-snippet">Through more than 50 examples, this guidance explains the how-tos...</span></span></span>
+When wellness marketing uses words such as *quantum*, *frequency* and *resonance* without providing a measurable mechanism or credible evidence, the terminology often serves a rhetorical purpose rather than a scientific one. The language creates an impression of depth while leaving the crucial connection between mechanism and outcome unproven. That missing connection is where the real evaluation should begin.<span class="citation-chip-wrap"><a class="citation-chip" href="https://skepticalinquirer.org/2020/11/sources-of-quantum-voodooism/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-snippet">Skeptical InquirerSources of Quantum VoodooismThe publication of Quantum Healing was a milestone in the rampant trivialization of quantum...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ftc.gov/business-guidance/advertising-marketing/health-claims" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ftc.gov">[Federal Trade Commission]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ftc.gov</span><span class="citation-popover-snippet">Through more than 50 examples, this guidance explains the how-tos...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why &#x27;Quantum&#x27; Makes Weak Claims Sound Deeper. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why &#x27;Quantum&#x27; Makes Weak Claims Sound Deeper. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Skeptics&#x27; Guide to the Universe on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CuVKDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Skeptics&#x27; Guide to the Universe" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Skeptics&#x27; Guide to the Universe">The Skeptics&#x27; Guide to the Universe</a>
-        </h4>
-        <p class="fr-book-author">By Dr. Steven Novella</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Skeptics&#x27; Guide to the Universe on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CuVKDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Skeptics&#x27; Guide to the Universe" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Skeptics&#x27; Guide to the Universe">The Skeptics&#x27; Guide to the Universe</a>
+</h4>
+<p class="fr-book-author">By Dr. Steven Novella</p>
         
-        <p class="fr-book-desc">Excellent for evaluating quantum-themed pseudoscience.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Excellent for evaluating quantum-themed pseudoscience.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Bad+Science+by+Ben+Goldacre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Bad Science on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=wICuv0ePMYoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Bad Science" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Bad+Science+by+Ben+Goldacre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Bad Science">Bad Science</a>
-        </h4>
-        <p class="fr-book-author">By Ben Goldacre</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Bad+Science+by+Ben+Goldacre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Bad Science on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=wICuv0ePMYoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Bad Science" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Bad+Science+by+Ben+Goldacre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Bad Science">Bad Science</a>
+</h4>
+<p class="fr-book-author">By Ben Goldacre</p>
         
-        <p class="fr-book-desc">Demonstrates how scientific terminology is misused.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Bad+Science+by+Ben+Goldacre&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Demonstrates how scientific terminology is misused.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Bad+Science+by+Ben+Goldacre&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Promotes scientific skepticism toward extraordinary claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Promotes scientific skepticism toward extraordinary claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Think+about+Weird+Things+by+Theodore+Schick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Think about Weird Things on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=mNXiAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for How to Think about Weird Things" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+to+Think+about+Weird+Things+by+Theodore+Schick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Think about Weird Things">How to Think about Weird Things</a>
-        </h4>
-        <p class="fr-book-author">By Theodore Schick, Lewis Vaughn</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Think+about+Weird+Things+by+Theodore+Schick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Think about Weird Things on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=mNXiAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for How to Think about Weird Things" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=How+to+Think+about+Weird+Things+by+Theodore+Schick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Think about Weird Things">How to Think about Weird Things</a>
+</h4>
+<p class="fr-book-author">By Theodore Schick, Lewis Vaughn</p>
         
-        <p class="fr-book-desc">Directly addresses paranormal and pseudoscientific claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+to+Think+about+Weird+Things+by+Theodore+Schick&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly addresses paranormal and pseudoscientific claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=How+to+Think+about+Weird+Things+by+Theodore+Schick&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Skeptics%27+to+the+Universe+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Skeptics&#x27; to the Universe books</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Bad+Science&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Bad Science</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Skeptics%27+to+the+Universe+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Skeptics&#x27; to the Universe books</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Bad+Science&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Bad Science</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=quantum-claims-why-quantum-makes-weak-claims-sound-deeper-myths-and-misconcept-educational-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational poster" data-ebay-reference="quantum-claims-why-quantum-makes-weak-claims-sound-deeper-myths-and-misconcept-educational-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for World Map Maps Educational Maxi Poster Print 61x91.5cm | 24x36 inches"><img src="{{ '/assets/images/marketplace-covers/841a3e8963cc1d168d2d.jpg' | relative_url }}" alt="Listing image for World Map Maps Educational Maxi Poster Print 61x91.5cm | 24x36 inches" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=quantum-claims-why-quantum-makes-weak-claims-sound-deeper-myths-and-misconcept-educational-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational poster" data-ebay-reference="quantum-claims-why-quantum-makes-weak-claims-sound-deeper-myths-and-misconcept-educational-poster" target="_blank" rel="sponsored noopener noreferrer">World Map Maps Educational Maxi Poster Print 61x91.5cm | 24x36 inches</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=quantum-claims-why-quantum-makes-weak-claims-sound-deeper-myths-and-misconcept-educational-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational poster" data-ebay-reference="quantum-claims-why-quantum-makes-weak-claims-sound-deeper-myths-and-misconcept-educational-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for educational poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: educational poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=quantum-claims-why-quantum-makes-weak-claims-sound-deeper-myths-and-misconcept-educational-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational poster" data-ebay-reference="quantum-claims-why-quantum-makes-weak-claims-sound-deeper-myths-and-misconcept-educational-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=quantum-claims-why-quantum-makes-weak-claims-sound-deeper-myths-and-misconcept-educational-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational poster" data-ebay-reference="quantum-claims-why-quantum-makes-weak-claims-sound-deeper-myths-and-misconcept-educational-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for World Map Maps Educational Maxi Poster Print 61x91.5cm | 24x36 inches"><img src="{{ '/assets/images/marketplace-covers/841a3e8963cc1d168d2d.jpg' | relative_url }}" alt="Listing image for World Map Maps Educational Maxi Poster Print 61x91.5cm | 24x36 inches" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=quantum-claims-why-quantum-makes-weak-claims-sound-deeper-myths-and-misconcept-educational-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational poster" data-ebay-reference="quantum-claims-why-quantum-makes-weak-claims-sound-deeper-myths-and-misconcept-educational-poster" target="_blank" rel="sponsored noopener noreferrer">World Map Maps Educational Maxi Poster Print 61x91.5cm | 24x36 inches</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=quantum-claims-why-quantum-makes-weak-claims-sound-deeper-myths-and-misconcept-educational-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational poster" data-ebay-reference="quantum-claims-why-quantum-makes-weak-claims-sound-deeper-myths-and-misconcept-educational-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for educational poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: educational poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=quantum-claims-why-quantum-makes-weak-claims-sound-deeper-myths-and-misconcept-educational-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational poster" data-ebay-reference="quantum-claims-why-quantum-makes-weak-claims-sound-deeper-myths-and-misconcept-educational-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=quantum-claims-why-quantum-makes-weak-claims-sound-deeper-myths-and-misconcept-educational-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational poster" data-ebay-reference="quantum-claims-why-quantum-makes-weak-claims-sound-deeper-myths-and-misconcept-educational-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Electronic ABC Learning Wall Chart Talking Alphabet 123 Educational Poster Large"><img src="{{ '/assets/images/marketplace-covers/8d54b8a1e09ac57a8c0b.jpg' | relative_url }}" alt="Listing image for Electronic ABC Learning Wall Chart Talking Alphabet 123 Educational Poster Large" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=quantum-claims-why-quantum-makes-weak-claims-sound-deeper-myths-and-misconcept-educational-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational poster" data-ebay-reference="quantum-claims-why-quantum-makes-weak-claims-sound-deeper-myths-and-misconcept-educational-poster" target="_blank" rel="sponsored noopener noreferrer">Electronic ABC Learning Wall Chart Talking Alphabet 123 Educational Poster Large</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=quantum-claims-why-quantum-makes-weak-claims-sound-deeper-myths-and-misconcept-educational-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational poster" data-ebay-reference="quantum-claims-why-quantum-makes-weak-claims-sound-deeper-myths-and-misconcept-educational-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for educational poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: educational poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=quantum-claims-why-quantum-makes-weak-claims-sound-deeper-myths-and-misconcept-educational-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational poster" data-ebay-reference="quantum-claims-why-quantum-makes-weak-claims-sound-deeper-myths-and-misconcept-educational-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=quantum-claims-why-quantum-makes-weak-claims-sound-deeper-myths-and-misconcept-educational-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational poster" data-ebay-reference="quantum-claims-why-quantum-makes-weak-claims-sound-deeper-myths-and-misconcept-educational-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Electronic ABC Learning Wall Chart Talking Alphabet 123 Educational Poster Large"><img src="{{ '/assets/images/marketplace-covers/8d54b8a1e09ac57a8c0b.jpg' | relative_url }}" alt="Listing image for Electronic ABC Learning Wall Chart Talking Alphabet 123 Educational Poster Large" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=quantum-claims-why-quantum-makes-weak-claims-sound-deeper-myths-and-misconcept-educational-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational poster" data-ebay-reference="quantum-claims-why-quantum-makes-weak-claims-sound-deeper-myths-and-misconcept-educational-poster" target="_blank" rel="sponsored noopener noreferrer">Electronic ABC Learning Wall Chart Talking Alphabet 123 Educational Poster Large</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=quantum-claims-why-quantum-makes-weak-claims-sound-deeper-myths-and-misconcept-educational-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational poster" data-ebay-reference="quantum-claims-why-quantum-makes-weak-claims-sound-deeper-myths-and-misconcept-educational-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for educational poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: educational poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=quantum-claims-why-quantum-makes-weak-claims-sound-deeper-myths-and-misconcept-educational-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational poster" data-ebay-reference="quantum-claims-why-quantum-makes-weak-claims-sound-deeper-myths-and-misconcept-educational-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=quantum-claims-why-quantum-makes-weak-claims-sound-deeper-myths-and-misconcept-educational-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational poster" data-ebay-reference="quantum-claims-why-quantum-makes-weak-claims-sound-deeper-myths-and-misconcept-educational-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Human Muscular System Body Educational Poster Skeletal Nervous Anatomy Chart"><img src="{{ '/assets/images/marketplace-covers/f3de2a2889d152054816.jpg' | relative_url }}" alt="Listing image for Human Muscular System Body Educational Poster Skeletal Nervous Anatomy Chart" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=quantum-claims-why-quantum-makes-weak-claims-sound-deeper-myths-and-misconcept-educational-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational poster" data-ebay-reference="quantum-claims-why-quantum-makes-weak-claims-sound-deeper-myths-and-misconcept-educational-poster" target="_blank" rel="sponsored noopener noreferrer">Human Muscular System Body Educational Poster Skeletal Nervous Anatomy Chart</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=quantum-claims-why-quantum-makes-weak-claims-sound-deeper-myths-and-misconcept-educational-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational poster" data-ebay-reference="quantum-claims-why-quantum-makes-weak-claims-sound-deeper-myths-and-misconcept-educational-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for educational poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: educational poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=quantum-claims-why-quantum-makes-weak-claims-sound-deeper-myths-and-misconcept-educational-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational poster" data-ebay-reference="quantum-claims-why-quantum-makes-weak-claims-sound-deeper-myths-and-misconcept-educational-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=quantum-claims-why-quantum-makes-weak-claims-sound-deeper-myths-and-misconcept-educational-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational poster" data-ebay-reference="quantum-claims-why-quantum-makes-weak-claims-sound-deeper-myths-and-misconcept-educational-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Human Muscular System Body Educational Poster Skeletal Nervous Anatomy Chart"><img src="{{ '/assets/images/marketplace-covers/f3de2a2889d152054816.jpg' | relative_url }}" alt="Listing image for Human Muscular System Body Educational Poster Skeletal Nervous Anatomy Chart" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=quantum-claims-why-quantum-makes-weak-claims-sound-deeper-myths-and-misconcept-educational-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational poster" data-ebay-reference="quantum-claims-why-quantum-makes-weak-claims-sound-deeper-myths-and-misconcept-educational-poster" target="_blank" rel="sponsored noopener noreferrer">Human Muscular System Body Educational Poster Skeletal Nervous Anatomy Chart</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=quantum-claims-why-quantum-makes-weak-claims-sound-deeper-myths-and-misconcept-educational-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational poster" data-ebay-reference="quantum-claims-why-quantum-makes-weak-claims-sound-deeper-myths-and-misconcept-educational-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for educational poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: educational poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=quantum-claims-why-quantum-makes-weak-claims-sound-deeper-myths-and-misconcept-educational-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational poster" data-ebay-reference="quantum-claims-why-quantum-makes-weak-claims-sound-deeper-myths-and-misconcept-educational-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=quantum-claims-why-quantum-makes-weak-claims-sound-deeper-myths-and-misconcept-educational-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational poster" data-ebay-reference="quantum-claims-why-quantum-makes-weak-claims-sound-deeper-myths-and-misconcept-educational-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PERIODIC TABLE Real Elements A3 Laminated Chemistry Science Educational Poster"><img src="{{ '/assets/images/marketplace-covers/fe6eac85e0cbd3115c4c.jpg' | relative_url }}" alt="Listing image for PERIODIC TABLE Real Elements A3 Laminated Chemistry Science Educational Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=quantum-claims-why-quantum-makes-weak-claims-sound-deeper-myths-and-misconcept-educational-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational poster" data-ebay-reference="quantum-claims-why-quantum-makes-weak-claims-sound-deeper-myths-and-misconcept-educational-poster" target="_blank" rel="sponsored noopener noreferrer">PERIODIC TABLE Real Elements A3 Laminated Chemistry Science Educational Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=quantum-claims-why-quantum-makes-weak-claims-sound-deeper-myths-and-misconcept-educational-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational poster" data-ebay-reference="quantum-claims-why-quantum-makes-weak-claims-sound-deeper-myths-and-misconcept-educational-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for educational poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: educational poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=quantum-claims-why-quantum-makes-weak-claims-sound-deeper-myths-and-misconcept-educational-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational poster" data-ebay-reference="quantum-claims-why-quantum-makes-weak-claims-sound-deeper-myths-and-misconcept-educational-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=quantum-claims-why-quantum-makes-weak-claims-sound-deeper-myths-and-misconcept-educational-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational poster" data-ebay-reference="quantum-claims-why-quantum-makes-weak-claims-sound-deeper-myths-and-misconcept-educational-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=quantum-claims-why-quantum-makes-weak-claims-sound-deeper-myths-and-misconcept-educational-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational poster" data-ebay-reference="quantum-claims-why-quantum-makes-weak-claims-sound-deeper-myths-and-misconcept-educational-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PERIODIC TABLE Real Elements A3 Laminated Chemistry Science Educational Poster"><img src="{{ '/assets/images/marketplace-covers/fe6eac85e0cbd3115c4c.jpg' | relative_url }}" alt="Listing image for PERIODIC TABLE Real Elements A3 Laminated Chemistry Science Educational Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=quantum-claims-why-quantum-makes-weak-claims-sound-deeper-myths-and-misconcept-educational-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational poster" data-ebay-reference="quantum-claims-why-quantum-makes-weak-claims-sound-deeper-myths-and-misconcept-educational-poster" target="_blank" rel="sponsored noopener noreferrer">PERIODIC TABLE Real Elements A3 Laminated Chemistry Science Educational Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=quantum-claims-why-quantum-makes-weak-claims-sound-deeper-myths-and-misconcept-educational-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational poster" data-ebay-reference="quantum-claims-why-quantum-makes-weak-claims-sound-deeper-myths-and-misconcept-educational-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for educational poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: educational poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=quantum-claims-why-quantum-makes-weak-claims-sound-deeper-myths-and-misconcept-educational-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational poster" data-ebay-reference="quantum-claims-why-quantum-makes-weak-claims-sound-deeper-myths-and-misconcept-educational-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=quantum-claims-why-quantum-makes-weak-claims-sound-deeper-myths-and-misconcept-educational-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational poster" data-ebay-reference="quantum-claims-why-quantum-makes-weak-claims-sound-deeper-myths-and-misconcept-educational-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -610,7 +610,7 @@ When wellness marketing uses words such as *quantum*, *frequency* and *resonance
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -630,7 +630,7 @@ When wellness marketing uses words such as *quantum*, *frequency* and *resonance
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -662,7 +662,7 @@ When wellness marketing uses words such as *quantum*, *frequency* and *resonance
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -714,7 +714,7 @@ When wellness marketing uses words such as *quantum*, *frequency* and *resonance
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -759,7 +759,7 @@ When wellness marketing uses words such as *quantum*, *frequency* and *resonance
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -800,136 +800,136 @@ When wellness marketing uses words such as *quantum*, *frequency* and *resonance
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: ftc.gov  
-   Link: <a href="https://www.ftc.gov/business-guidance/advertising-marketing/health-claims" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/business-guidance/advertising-marketing/health-claims</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Through more than 50 examples, this guidance explains the how-tos...</p></details>
+   Link:<a href="https://www.ftc.gov/business-guidance/advertising-marketing/health-claims" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/business-guidance/advertising-marketing/health-claims</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Through more than 50 examples, this guidance explains the how-tos...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: link.aps.org  
-   Link: <a href="https://link.aps.org/doi/10.1103/PhysRevPhysEducRes.20.020145" target="_blank" rel="noopener noreferrer nofollow">https://link.aps.org/doi/10.1103/PhysRevPhysEducRes.20.020145</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>APS LinksAnalysis of pseudoscientific beliefs in quantum mechanics of...by W Sciarretta · 2024 · Cited by 8 — In this empirical study, w...</p></details>
+   Link:<a href="https://link.aps.org/doi/10.1103/PhysRevPhysEducRes.20.020145" target="_blank" rel="noopener noreferrer nofollow">https://link.aps.org/doi/10.1103/PhysRevPhysEducRes.20.020145</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>APS LinksAnalysis of pseudoscientific beliefs in quantum mechanics of...by W Sciarretta · 2024 · Cited by 8 — In this empirical study, w...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCIt's Time to Go Quantum in Medicine  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10342414/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10342414/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>by J Bisiani · 2023 · Cited by 33 — Utilizing quantum theory in the field of medicine can help in understanding and applying treatment...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10342414/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10342414/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by J Bisiani · 2023 · Cited by 33 — Utilizing quantum theory in the field of medicine can help in understanding and applying treatment...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: arxiv.org  
    Title: arXiv Nonlocality Claims are Inconsistent with Hilbert Space Quantum Mechanics  
-   Link: <a href="https://arxiv.org/abs/1901.07050" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1901.07050</a>  
+   Link:<a href="https://arxiv.org/abs/1901.07050" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1901.07050</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: arxiv.org  
    Title: arXiv How Quantum is the Resonance Behavior in Vibrational Polariton Chemistry?  
-   Link: <a href="https://arxiv.org/abs/2305.07296" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2305.07296</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>How Quantum is the Resonance Behavior in Vibrational Polariton Chemistry?May 12, 2023...</p></details>
+   Link:<a href="https://arxiv.org/abs/2305.07296" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2305.07296</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How Quantum is the Resonance Behavior in Vibrational Polariton Chemistry?May 12, 2023...</p></details>
    Published: May 12, 2023  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: ftc.gov  
    Title: takes action stop anti aging cure all marketers making baseless health claims  
-   Link: <a href="https://www.ftc.gov/news-events/news/press-releases/2020/02/ftc-takes-action-stop-anti-aging-cure-all-marketers-making-baseless-health-claims" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/news-events/news/press-releases/2020/02/ftc-takes-action-stop-anti-aging-cure-all-marketers-making-baseless-health-claims</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Trade CommissionFTC Takes Action to Stop Anti-Aging “Cure-All” Marketers...Feb 5, 2020 — The sellers of a pill called ReJuvenati...</p></details>
+   Link:<a href="https://www.ftc.gov/news-events/news/press-releases/2020/02/ftc-takes-action-stop-anti-aging-cure-all-marketers-making-baseless-health-claims" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/news-events/news/press-releases/2020/02/ftc-takes-action-stop-anti-aging-cure-all-marketers-making-baseless-health-claims</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Trade CommissionFTC Takes Action to Stop Anti-Aging “Cure-All” Marketers...Feb 5, 2020 — The sellers of a pill called ReJuvenati...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: ftc.gov  
-   Link: <a href="https://www.ftc.gov/legal-library/browse/cases-proceedings/172-3131-quantum-wellness-botanical-institute-llc" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/legal-library/browse/cases-proceedings/172-3131-quantum-wellness-botanical-institute-llc</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Trade CommissionQuantum Wellness Botanical Institute, LLCThe sellers of a pill called ReJuvenation settled FTC charges that they...</p></details>
+   Link:<a href="https://www.ftc.gov/legal-library/browse/cases-proceedings/172-3131-quantum-wellness-botanical-institute-llc" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/legal-library/browse/cases-proceedings/172-3131-quantum-wellness-botanical-institute-llc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Trade CommissionQuantum Wellness Botanical Institute, LLCThe sellers of a pill called ReJuvenation settled FTC charges that they...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: ftc.gov  
    Title: press releases  
-   Link: <a href="https://www.ftc.gov/news-events/news/press-releases/2025/09" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/news-events/news/press-releases/2025/09</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>September 202530 Sept 2025 — FTC Denies Petition to Reopen EQT, Quantum Energy Order. Date. September 30, 2025. The Federal Trade Commiss...</p></details>
+   Link:<a href="https://www.ftc.gov/news-events/news/press-releases/2025/09" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/news-events/news/press-releases/2025/09</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>September 202530 Sept 2025 — FTC Denies Petition to Reopen EQT, Quantum Energy Order. Date. September 30, 2025. The Federal Trade Commiss...</p></details>
    Published: September 30, 2025  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: consumer.ftc.gov  
-   Link: <a href="https://consumer.ftc.gov/node/76443" target="_blank" rel="noopener noreferrer nofollow">https://consumer.ftc.gov/node/76443</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>reaches settlement with anti-aging pill sellerIn a proposed settlement announced today, the FTC says these claims were false or misleadin...</p></details>
+   Link:<a href="https://consumer.ftc.gov/node/76443" target="_blank" rel="noopener noreferrer nofollow">https://consumer.ftc.gov/node/76443</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>reaches settlement with anti-aging pill sellerIn a proposed settlement announced today, the FTC says these claims were false or misleadin...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: skepticalinquirer.org  
-   Link: <a href="https://skepticalinquirer.org/2020/11/sources-of-quantum-voodooism/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/2020/11/sources-of-quantum-voodooism/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Skeptical InquirerSources of Quantum VoodooismThe publication of Quantum Healing was a milestone in the rampant trivialization of quantum...</p></details>
+   Link:<a href="https://skepticalinquirer.org/2020/11/sources-of-quantum-voodooism/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/2020/11/sources-of-quantum-voodooism/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Skeptical InquirerSources of Quantum VoodooismThe publication of Quantum Healing was a milestone in the rampant trivialization of quantum...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: skepticalinquirer.org  
-   Link: <a href="https://skepticalinquirer.org/2025/06/calling-out-quantum-woo/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/2025/06/calling-out-quantum-woo/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Calling Out Quantum WooSadri Hassani, a fellow physicist annoyed with popular abuse of quantum physics and a fellow skeptic familiar to r...</p></details>
+   Link:<a href="https://skepticalinquirer.org/2025/06/calling-out-quantum-woo/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/2025/06/calling-out-quantum-woo/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Calling Out Quantum WooSadri Hassani, a fellow physicist annoyed with popular abuse of quantum physics and a fellow skeptic familiar to r...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: thestudio108.com  
-   Link: <a href="https://www.thestudio108.com/exploring-quantum-frequency-healing-amodern-approach-to-holistic-wellness/" target="_blank" rel="noopener noreferrer nofollow">https://www.thestudio108.com/exploring-quantum-frequency-healing-amodern-approach-to-holistic-wellness/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Studio 108Exploring Quantum Frequency Healing: A Modern Approach...Quantum frequency healing is a way to improve health by using energy...</p></details>
+   Link:<a href="https://www.thestudio108.com/exploring-quantum-frequency-healing-amodern-approach-to-holistic-wellness/" target="_blank" rel="noopener noreferrer nofollow">https://www.thestudio108.com/exploring-quantum-frequency-healing-amodern-approach-to-holistic-wellness/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Studio 108Exploring Quantum Frequency Healing: A Modern Approach...Quantum frequency healing is a way to improve health by using energy...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: ghamahealth.com.au  
    Title: quantum wellness  
-   Link: <a href="https://www.ghamahealth.com.au/blogs/wellness-blog/quantum-wellness?srsltid=AfmBOoq35cqNFN581aag9A_C5foNYnlBJ_xgLAiqNl-s4jNAXxUDj17Q" target="_blank" rel="noopener noreferrer nofollow">https://www.ghamahealth.com.au/blogs/wellness-blog/quantum-wellness?srsltid=AfmBOoq35cqNFN581aag9A_C5foNYnlBJ_xgLAiqNl-s4jNAXxUDj17Q</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Claims &amp; Supplement Marketing3 Jan 2025 — Learn how to assess quantum wellness claims, supplement buzzwords, evidence, safety, placebo ef...</p></details>
+   Link:<a href="https://www.ghamahealth.com.au/blogs/wellness-blog/quantum-wellness?srsltid=AfmBOoq35cqNFN581aag9A_C5foNYnlBJ_xgLAiqNl-s4jNAXxUDj17Q" target="_blank" rel="noopener noreferrer nofollow">https://www.ghamahealth.com.au/blogs/wellness-blog/quantum-wellness?srsltid=AfmBOoq35cqNFN581aag9A_C5foNYnlBJ_xgLAiqNl-s4jNAXxUDj17Q</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Claims &amp; Supplement Marketing3 Jan 2025 — Learn how to assess quantum wellness claims, supplement buzzwords, evidence, safety, placebo ef...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: play.google.com  
-   Link: <a href="https://play.google.com/store/apps/details?hl=en&amp;id=com.wellquantum" target="_blank" rel="noopener noreferrer nofollow">https://play.google.com/store/apps/details?hl=en&amp;id=com.wellquantum</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Frequency for Wellness - Apps on Google Play22 Apr 2026 — Track your daily wellness metrics, receive AI-powered insights, and experience...</p></details>
+   Link:<a href="https://play.google.com/store/apps/details?hl=en&amp;id=com.wellquantum" target="_blank" rel="noopener noreferrer nofollow">https://play.google.com/store/apps/details?hl=en&amp;id=com.wellquantum</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Frequency for Wellness - Apps on Google Play22 Apr 2026 — Track your daily wellness metrics, receive AI-powered insights, and experience...</p></details>
 
 ### Additional References
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: jonesday.com  
-   Link: <a href="https://www.jonesday.com/en/insights/2023/05/ftc-signals-[intent" target="_blank" rel="noopener noreferrer nofollow">https://www.jonesday.com/en/insights/2023/05/ftc-signals-[intent</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>FTC Targets Deceptive Health Claims AdvertisingFTC warns companies advertising health- and wellness-related products against making unsub...</p></details>
+   Link:<a href="https://www.jonesday.com/en/insights/2023/05/ftc-signals-[intent" target="_blank" rel="noopener noreferrer nofollow">https://www.jonesday.com/en/insights/2023/05/ftc-signals-[intent</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FTC Targets Deceptive Health Claims AdvertisingFTC warns companies advertising health- and wellness-related products against making unsub...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: topclassactions.com  
-   Link: <a href="https://topclassactions.com/lawsuit-settlements/closed-settlements/rejuvenation-anti-aging-pills-660k-ftc-settlement/" target="_blank" rel="noopener noreferrer nofollow">https://topclassactions.com/lawsuit-settlements/closed-settlements/rejuvenation-anti-aging-pills-660k-ftc-settlement/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ReJuvenation &#x27;Anti-Aging&#x27; Pills $660K FTC SettlementConsumers who purchased ReJuvenation “anti-aging” pills may be eligible for refund th...</p></details>
+   Link:<a href="https://topclassactions.com/lawsuit-settlements/closed-settlements/rejuvenation-anti-aging-pills-660k-ftc-settlement/" target="_blank" rel="noopener noreferrer nofollow">https://topclassactions.com/lawsuit-settlements/closed-settlements/rejuvenation-anti-aging-pills-660k-ftc-settlement/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ReJuvenation &#x27;Anti-Aging&#x27; Pills $660K FTC SettlementConsumers who purchased ReJuvenation “anti-aging” pills may be eligible for refund th...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/2787803246/posts/10161879392598247/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/2787803246/posts/10161879392598247/</a>  
+   Link:<a href="https://www.facebook.com/groups/2787803246/posts/10161879392598247/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/2787803246/posts/10161879392598247/</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: openmedscience.com  
-   Link: <a href="https://openmedscience.com/the-science-behind-leela-quantum-tech-bridging-physics-energy-and-human-well-being/" target="_blank" rel="noopener noreferrer nofollow">https://openmedscience.com/the-science-behind-leela-quantum-tech-bridging-physics-energy-and-human-well-being/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Science Behind Quantum Wellness Technology22 Oct 2025 — Explore quantum wellness technology and its impact on health, vitality, and E...</p></details>
+   Link:<a href="https://openmedscience.com/the-science-behind-leela-quantum-tech-bridging-physics-energy-and-human-well-being/" target="_blank" rel="noopener noreferrer nofollow">https://openmedscience.com/the-science-behind-leela-quantum-tech-bridging-physics-energy-and-human-well-being/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Science Behind Quantum Wellness Technology22 Oct 2025 — Explore quantum wellness technology and its impact on health, vitality, and E...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: bclplaw.com  
    Title: ftc deceptive advertising health claims settlement scientific proof required  
-   Link: <a href="https://www.bclplaw.com/en-US/events-insights-news/ftc-deceptive-advertising-health-claims-settlement-scientific-proof-required.html" target="_blank" rel="noopener noreferrer nofollow">https://www.bclplaw.com/en-US/events-insights-news/ftc-deceptive-advertising-health-claims-settlement-scientific-proof-required.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>FTC Deceptive Advertising Health Claims Settlement1 Jul 2020 — Then the smart device adjusts the photonic and thermal kinetic energies, s...</p></details>
+   Link:<a href="https://www.bclplaw.com/en-US/events-insights-news/ftc-deceptive-advertising-health-claims-settlement-scientific-proof-required.html" target="_blank" rel="noopener noreferrer nofollow">https://www.bclplaw.com/en-US/events-insights-news/ftc-deceptive-advertising-health-claims-settlement-scientific-proof-required.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FTC Deceptive Advertising Health Claims Settlement1 Jul 2020 — Then the smart device adjusts the photonic and thermal kinetic energies, s...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: mondaq.com  
    Title: marketers of rejuvenation pills agree to pay $660k to settle ftc charges  
-   Link: <a href="https://www.mondaq.com/unitedstates/advertising-marketing-branding/891162/marketers-of-rejuvenation-pills-agree-to-pay-%24660k-to-settle-ftc-charges" target="_blank" rel="noopener noreferrer nofollow">https://www.mondaq.com/unitedstates/advertising-marketing-branding/891162/marketers-of-rejuvenation-pills-agree-to-pay-%24660k-to-settle-ftc-charges</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Marketers Of ReJuvenation Pills Agree To Pay $660K to...Feb 7, 2020 — The FTC alleged that Quantum made numerous false claims about its...</p></details>
+   Link:<a href="https://www.mondaq.com/unitedstates/advertising-marketing-branding/891162/marketers-of-rejuvenation-pills-agree-to-pay-%24660k-to-settle-ftc-charges" target="_blank" rel="noopener noreferrer nofollow">https://www.mondaq.com/unitedstates/advertising-marketing-branding/891162/marketers-of-rejuvenation-pills-agree-to-pay-%24660k-to-settle-ftc-charges</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Marketers Of ReJuvenation Pills Agree To Pay $660K to...Feb 7, 2020 — The FTC alleged that Quantum made numerous false claims about its...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: advertisinglaw.fkks.com  
    Title: marketers of rejuvenation pills agree to pay 660k to settle ftc charges  
-   Link: <a href="https://advertisinglaw.fkks.com/post/102fy7h/marketers-of-rejuvenation-pills-agree-to-pay-660k-to-settle-ftc-charges" target="_blank" rel="noopener noreferrer nofollow">https://advertisinglaw.fkks.com/post/102fy7h/marketers-of-rejuvenation-pills-agree-to-pay-660k-to-settle-ftc-charges</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>of ReJuvenation Pills Agree to Pay $660K to Settle...Feb 5, 2020 — The FTC alleged that Quantum made numerous false claims about its pro...</p></details>
+   Link:<a href="https://advertisinglaw.fkks.com/post/102fy7h/marketers-of-rejuvenation-pills-agree-to-pay-660k-to-settle-ftc-charges" target="_blank" rel="noopener noreferrer nofollow">https://advertisinglaw.fkks.com/post/102fy7h/marketers-of-rejuvenation-pills-agree-to-pay-660k-to-settle-ftc-charges</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>of ReJuvenation Pills Agree to Pay $660K to Settle...Feb 5, 2020 — The FTC alleged that Quantum made numerous false claims about its pro...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: hunton.com  
    Title: ftc ends fountain of youth claims by sellers of rejuvenation pills  
-   Link: <a href="https://www.hunton.com/hunton-retail-law-resource/ftc-ends-fountain-of-youth-claims-by-sellers-of-rejuvenation-pills" target="_blank" rel="noopener noreferrer nofollow">https://www.hunton.com/hunton-retail-law-resource/ftc-ends-fountain-of-youth-claims-by-sellers-of-rejuvenation-pills</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Hunton Andrews KurthFTC Ends Fountain of Youth Claims by Sellers...6 Feb 2020 — On February 5, 2020, the FTC announced two settlements t...</p></details>
+   Link:<a href="https://www.hunton.com/hunton-retail-law-resource/ftc-ends-fountain-of-youth-claims-by-sellers-of-rejuvenation-pills" target="_blank" rel="noopener noreferrer nofollow">https://www.hunton.com/hunton-retail-law-resource/ftc-ends-fountain-of-youth-claims-by-sellers-of-rejuvenation-pills</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Hunton Andrews KurthFTC Ends Fountain of Youth Claims by Sellers...6 Feb 2020 — On February 5, 2020, the FTC announced two settlements t...</p></details>
    Published: February 5, 2020  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/illumination/a-brief-overview-of-quantum-quackery-bd7d22b6cc93" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/illumination/a-brief-overview-of-quantum-quackery-bd7d22b6cc93</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A Brief Overview Of Quantum Quackery | by Sunny LabhQuantum quackery is the use of quantum physics terminology and concepts to support or...</p></details>
+   Link:<a href="https://medium.com/illumination/a-brief-overview-of-quantum-quackery-bd7d22b6cc93" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/illumination/a-brief-overview-of-quantum-quackery-bd7d22b6cc93</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A Brief Overview Of Quantum Quackery | by Sunny LabhQuantum quackery is the use of quantum physics terminology and concepts to support or...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: eureka.patsnap.com  
    Title: report how to align quantum healing with personal health goals  
-   Link: <a href="https://eureka.patsnap.com/report-how-to-align-quantum-healing-with-personal-health-goals" target="_blank" rel="noopener noreferrer nofollow">https://eureka.patsnap.com/report-how-to-align-quantum-healing-with-personal-health-goals</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>to Align Quantum Healing with Personal Health Goals4 Sept 2025 — They often incorporate biofeedback mechanisms, energy field assessments...</p></details>
+   Link:<a href="https://eureka.patsnap.com/report-how-to-align-quantum-healing-with-personal-health-goals" target="_blank" rel="noopener noreferrer nofollow">https://eureka.patsnap.com/report-how-to-align-quantum-healing-with-personal-health-goals</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>to Align Quantum Healing with Personal Health Goals4 Sept 2025 — They often incorporate biofeedback mechanisms, energy field assessments...</p></details>

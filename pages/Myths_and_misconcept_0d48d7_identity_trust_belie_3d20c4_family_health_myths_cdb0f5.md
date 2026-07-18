@@ -277,7 +277,7 @@ image: /assets/images/Myths_and_misconcept_0d48d7_identity_trust_belie_3d20c4_fa
 [Health myths]({{ 'health-myths/' | relative_url }}) often survive not because the information is strong, but because the relationship behind it is strong. Advice from parents, grandparents, siblings and other relatives is usually learned early, repeated often and delivered by people who are closely associated with safety, care and survival. When a family member says that a cold must be “sweated out”, that a particular food cures illness, or that a vaccine is risky, the claim can feel different from the same statement coming from a stranger.
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_identity_trust_belie_3d20c4_family_health_myths_cdb0f5-Illustration-1-dark.svg" | relative_url }}" alt="Family Advice illustration 1" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_identity_trust_belie_3d20c4_family_health_myths_cdb0f5-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_identity_trust_belie_3d20c4_family_health_myths_cdb0f5-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-This helps explain why some health misconceptions remain surprisingly resistant to [correction]({{ 'correction/' | relative_url }}). The issue is not simply a lack of scientific evidence. Family advice often carries emotional authority, personal history and a sense of loyalty. Rejecting the advice can feel like questioning the judgement of people who provided comfort, protection and practical help throughout life. Research on health misinformation consistently finds that trust, familiarity and social relationships influence which [health claims]({{ 'health-claims/' | relative_url }}) people accept and how willing they are to revise them. <span class="citation-chip-wrap"><a class="citation-chip" href="https://nam.edu/perspectives/identifying-credible-sources-of-health-information-in-social-media-principles-and-attributes/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nam.edu">[NAM]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nam.edu</span><span class="citation-popover-snippet">Identifying Credible Sources of Health Information in Social...by RS Kington · Cited by 278 — People seek, share, and receive health...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ncbi.nlm.nih.gov/books/NBK572168/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ncbi.nlm.nih.gov">[NCBI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ncbi.nlm.nih.gov</span><span class="citation-popover-title">NCBIWE CAN TAKE ACTION</span><span class="citation-popover-snippet">Confronting Health MisinformationBecause it pollutes our information environment, misinformation is harmful to individual and public heal...</span></span></span>
+This helps explain why some health misconceptions remain surprisingly resistant to [correction]({{ 'correction/' | relative_url }}). The issue is not simply a lack of scientific evidence. Family advice often carries emotional authority, personal history and a sense of loyalty. Rejecting the advice can feel like questioning the judgement of people who provided comfort, protection and practical help throughout life. Research on health misinformation consistently finds that trust, familiarity and social relationships influence which [health claims]({{ 'health-claims/' | relative_url }}) people accept and how willing they are to revise them.<span class="citation-chip-wrap"><a class="citation-chip" href="https://nam.edu/perspectives/identifying-credible-sources-of-health-information-in-social-media-principles-and-attributes/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nam.edu">[NAM]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nam.edu</span><span class="citation-popover-snippet">Identifying Credible Sources of Health Information in Social...by RS Kington · Cited by 278 — People seek, share, and receive health...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ncbi.nlm.nih.gov/books/NBK572168/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ncbi.nlm.nih.gov">[NCBI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ncbi.nlm.nih.gov</span><span class="citation-popover-title">NCBIWE CAN TAKE ACTION</span><span class="citation-popover-snippet">Confronting Health MisinformationBecause it pollutes our information environment, misinformation is harmful to individual and public heal...</span></span></span>
 
 ## How affection becomes credibility
 
@@ -285,7 +285,7 @@ People learn their earliest health habits from family long before they learn how
 
 A child who repeatedly hears that antibiotics are needed for every cold, that “natural” remedies are always safer than medicine, or that certain foods prevent disease may not store these ideas as isolated facts. Instead, the ideas become woven into memories of care and protection. The advice is associated with someone who was trusted during vulnerable moments.
 
-Psychologists sometimes describe this as source-based credibility. People do not assess every claim independently. They rely on cues about who is speaking and whether that person has been dependable in the past. Family members score highly on perceived trustworthiness even when they have no special expertise in medicine. Research from the US National Academy of Medicine notes that people regularly obtain health information from family and friends alongside professional and institutional sources. <span class="citation-chip-wrap"><a class="citation-chip" href="https://nam.edu/perspectives/identifying-credible-sources-of-health-information-in-social-media-principles-and-attributes/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nam.edu">[NAM]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nam.edu</span><span class="citation-popover-snippet">Identifying Credible Sources of Health Information in Social...by RS Kington · Cited by 278 — People seek, share, and receive health...</span></span></span>
+Psychologists sometimes describe this as source-based credibility. People do not assess every claim independently. They rely on cues about who is speaking and whether that person has been dependable in the past. Family members score highly on perceived trustworthiness even when they have no special expertise in medicine. Research from the US National Academy of Medicine notes that people regularly obtain health information from family and friends alongside professional and institutional sources.<span class="citation-chip-wrap"><a class="citation-chip" href="https://nam.edu/perspectives/identifying-credible-sources-of-health-information-in-social-media-principles-and-attributes/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nam.edu">[NAM]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nam.edu</span><span class="citation-popover-snippet">Identifying Credible Sources of Health Information in Social...by RS Kington · Cited by 278 — People seek, share, and receive health...</span></span></span>
 
 This is one reason myths can feel emotionally true even after they have been factually challenged. The correction competes not only with the claim itself but also with years of accumulated trust.
 
@@ -299,7 +299,7 @@ Scientific evidence works differently. It relies on large groups, probabilities 
 
 This mismatch helps myths survive. A family story feels concrete. A clinical study feels distant. When the two [conflict]({{ 'conflict/' | relative_url }}), many people instinctively give more weight to the experience of someone they know personally.
 
-Health misinformation researchers have repeatedly found that anecdotal evidence and personal testimony can increase the perceived credibility of unsupported claims. Emotional narratives are easier to remember and share than nuanced explanations that include uncertainty or statistical reasoning. <span class="citation-chip-wrap"><a class="citation-chip" href="https://asm.org/articles/2022/september/how-to-spot-and-combat-health-misinformation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: asm.org">[ASM.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">asm.org</span><span class="citation-popover-title">This article offers tips for how to recognize and combat misinformation,</span><span class="citation-popover-snippet">How to Spot and Combat Health MisinformationSeptember 9, 2022 — 9 Sept 2022 — The spread of health misinformation has dangerous consequences...</span><span class="citation-popover-meta">Published: September 9, 2022</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.healthpolicypartnership.com/rebuilding-trust-in-public-health-the-battle-against-misinformation/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: healthpolicypartnership.com">[The Health Policy Partnership]</a><span class="citation-popover" role="note"><span class="citation-popover-source">healthpolicypartnership.com</span><span class="citation-popover-title">rebuilding trust in public health the battle against misinformation</span><span class="citation-popover-snippet">The Health Policy PartnershipRebuilding trust in public health: the battle against...27 Feb 2025 — Health misinformation is often develo...</span></span></span>
+Health misinformation researchers have repeatedly found that anecdotal evidence and personal testimony can increase the perceived credibility of unsupported claims. Emotional narratives are easier to remember and share than nuanced explanations that include uncertainty or statistical reasoning.<span class="citation-chip-wrap"><a class="citation-chip" href="https://asm.org/articles/2022/september/how-to-spot-and-combat-health-misinformation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: asm.org">[ASM.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">asm.org</span><span class="citation-popover-title">This article offers tips for how to recognize and combat misinformation,</span><span class="citation-popover-snippet">How to Spot and Combat Health MisinformationSeptember 9, 2022 — 9 Sept 2022 — The spread of health misinformation has dangerous consequences...</span><span class="citation-popover-meta">Published: September 9, 2022</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.healthpolicypartnership.com/rebuilding-trust-in-public-health-the-battle-against-misinformation/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: healthpolicypartnership.com">[The Health Policy Partnership]</a><span class="citation-popover" role="note"><span class="citation-popover-source">healthpolicypartnership.com</span><span class="citation-popover-title">rebuilding trust in public health the battle against misinformation</span><span class="citation-popover-snippet">The Health Policy PartnershipRebuilding trust in public health: the battle against...27 Feb 2025 — Health misinformation is often develo...</span></span></span>
 
 The result is that a single family experience can sometimes outweigh decades of accumulated medical evidence in a person's mind.
 
@@ -318,7 +318,7 @@ Over time, families build collections of these experiences:
 
 These experiences are often genuine. The problem is that individual experiences cannot easily reveal cause and effect. People rarely see all the cases where the remedy did not work, the disease would have improved naturally, or the feared outcome never occurred.
 
-Yet family knowledge often gains authority precisely because it appears to come from lived experience rather than institutions. Studies examining responses to health misinformation have found that cultural beliefs, trust in traditional treatments and social influences can shape how people judge competing health claims. <span class="citation-chip-wrap"><a class="citation-chip" href="https://infodemiology.jmir.org/2025/1/e67464" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: infodemiology.jmir.org">[infodemiology.jmir.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">infodemiology.jmir.org</span><span class="citation-popover-snippet">How the General Public Navigates Health Misinformation on...by S Sathianathan · 2025 · Cited by 13 — This study aims to explore the appr...</span></span></span>
+Yet family knowledge often gains authority precisely because it appears to come from lived experience rather than institutions. Studies examining responses to health misinformation have found that cultural beliefs, trust in traditional treatments and social influences can shape how people judge competing health claims.<span class="citation-chip-wrap"><a class="citation-chip" href="https://infodemiology.jmir.org/2025/1/e67464" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: infodemiology.jmir.org">[infodemiology.jmir.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">infodemiology.jmir.org</span><span class="citation-popover-snippet">How the General Public Navigates Health Misinformation on...by S Sathianathan · 2025 · Cited by 13 — This study aims to explore the appr...</span></span></span>
 
 In everyday life, "I've seen it myself" can feel more convincing than "research shows otherwise".
 
@@ -332,7 +332,7 @@ The disagreement becomes about more than health information. It touches identity
 
 This is particularly visible when health practices are linked to family traditions. Some remedies are remembered as symbols of care from older generations. Questioning the remedy can accidentally sound like questioning the people who passed it down.
 
-Research on misinformation correction suggests that people can resist updates when new information appears to threaten trusted relationships or social belonging. [Corrections]({{ 'corrections/' | relative_url }}) are often less successful when they are experienced as attacks rather than invitations to reconsider evidence. NCBI <span class="citation-chip-wrap"><a class="citation-chip" href="https://asm.org/articles/2022/september/how-to-spot-and-combat-health-misinformation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: asm.org">[ASM.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">asm.org</span><span class="citation-popover-title">This article offers tips for how to recognize and combat misinformation,</span><span class="citation-popover-snippet">How to Spot and Combat Health MisinformationSeptember 9, 2022 — 9 Sept 2022 — The spread of health misinformation has dangerous consequences...</span><span class="citation-popover-meta">Published: September 9, 2022</span></span></span>
+Research on misinformation correction suggests that people can resist updates when new information appears to threaten trusted relationships or social belonging. [Corrections]({{ 'corrections/' | relative_url }}) are often less successful when they are experienced as attacks rather than invitations to reconsider evidence. NCBI<span class="citation-chip-wrap"><a class="citation-chip" href="https://asm.org/articles/2022/september/how-to-spot-and-combat-health-misinformation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: asm.org">[ASM.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">asm.org</span><span class="citation-popover-title">This article offers tips for how to recognize and combat misinformation,</span><span class="citation-popover-snippet">How to Spot and Combat Health MisinformationSeptember 9, 2022 — 9 Sept 2022 — The spread of health misinformation has dangerous consequences...</span><span class="citation-popover-meta">Published: September 9, 2022</span></span></span>
 
 In families, this dynamic is amplified because the relationship usually matters more than winning an argument.
 
@@ -345,7 +345,7 @@ Family environments provide repeated exposure. The same claims may appear during
 
 Psychological research has long shown that familiar statements tend to feel more believable than unfamiliar ones. Repetition creates a sense of fluency: the claim becomes easier to process and therefore seems more likely to be true.
 
-Health misinformation researchers describe a similar process online, where repeated exposure strengthens belief. The same mechanism can operate within families, except that the repetition comes from trusted people rather than algorithms. <span class="citation-chip-wrap"><a class="citation-chip" href="https://asm.org/articles/2022/september/how-to-spot-and-combat-health-misinformation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: asm.org">[ASM.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">asm.org</span><span class="citation-popover-title">This article offers tips for how to recognize and combat misinformation,</span><span class="citation-popover-snippet">How to Spot and Combat Health MisinformationSeptember 9, 2022 — 9 Sept 2022 — The spread of health misinformation has dangerous consequences...</span><span class="citation-popover-meta">Published: September 9, 2022</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.apa.org/monitor/2024/07/ending-health-misinformation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apa.org">[APA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apa.org</span><span class="citation-popover-title">ending health misinformation</span><span class="citation-popover-snippet">How to reverse the alarming trend of health misinformation1 Jul 2024 — Experts are studying how false information spreads, who is most vu...</span></span></span>
+Health misinformation researchers describe a similar process online, where repeated exposure strengthens belief. The same mechanism can operate within families, except that the repetition comes from trusted people rather than algorithms.<span class="citation-chip-wrap"><a class="citation-chip" href="https://asm.org/articles/2022/september/how-to-spot-and-combat-health-misinformation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: asm.org">[ASM.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">asm.org</span><span class="citation-popover-title">This article offers tips for how to recognize and combat misinformation,</span><span class="citation-popover-snippet">How to Spot and Combat Health MisinformationSeptember 9, 2022 — 9 Sept 2022 — The spread of health misinformation has dangerous consequences...</span><span class="citation-popover-meta">Published: September 9, 2022</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.apa.org/monitor/2024/07/ending-health-misinformation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apa.org">[APA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apa.org</span><span class="citation-popover-title">ending health misinformation</span><span class="citation-popover-snippet">How to reverse the alarming trend of health misinformation1 Jul 2024 — Experts are studying how false information spreads, who is most vu...</span></span></span>
 
 A misconception repeated by several relatives can start to feel like common knowledge rather than a claim that needs verification.
 
@@ -355,7 +355,7 @@ People often assume that once someone encounters accurate information, the myth 
 
 A person may intellectually accept that a family health belief is unsupported while still feeling emotionally attached to it. They may continue following parts of the advice "just in case". Others may compartmentalise, trusting medical professionals for major decisions while preserving family remedies for minor illnesses.
 
-This helps explain why misinformation can remain influential even [after correction]({{ 'after-correction/' | relative_url }}). Researchers studying misinformation describe a "continued influence" effect, where previously learned claims continue shaping judgement after being disproved. <span class="citation-chip-wrap"><a class="citation-chip" href="https://asm.org/articles/2022/september/how-to-spot-and-combat-health-misinformation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: asm.org">[ASM.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">asm.org</span><span class="citation-popover-title">This article offers tips for how to recognize and combat misinformation,</span><span class="citation-popover-snippet">How to Spot and Combat Health MisinformationSeptember 9, 2022 — 9 Sept 2022 — The spread of health misinformation has dangerous consequences...</span><span class="citation-popover-meta">Published: September 9, 2022</span></span></span>
+This helps explain why misinformation can remain influential even [after correction]({{ 'after-correction/' | relative_url }}). Researchers studying misinformation describe a "continued influence" effect, where previously learned claims continue shaping judgement after being disproved.<span class="citation-chip-wrap"><a class="citation-chip" href="https://asm.org/articles/2022/september/how-to-spot-and-combat-health-misinformation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: asm.org">[ASM.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">asm.org</span><span class="citation-popover-title">This article offers tips for how to recognize and combat misinformation,</span><span class="citation-popover-snippet">How to Spot and Combat Health MisinformationSeptember 9, 2022 — 9 Sept 2022 — The spread of health misinformation has dangerous consequences...</span><span class="citation-popover-meta">Published: September 9, 2022</span></span></span>
 
 Family myths are especially vulnerable to this effect because they are embedded in routines, memories and relationships. The factual correction may succeed, but the emotional residue remains.
 
@@ -367,7 +367,7 @@ Because family health myths are relationship-based, purely factual corrections a
 
 People tend to respond better when the conversation protects dignity and shared values. Public embarrassment, ridicule and aggressive fact-checking can trigger defensiveness, especially when older relatives feel their experience is being dismissed.
 
-Health communication experts commonly recommend approaches built around empathy and collaboration rather than confrontation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://asm.org/articles/2022/september/how-to-spot-and-combat-health-misinformation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: asm.org">[ASM.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">asm.org</span><span class="citation-popover-title">This article offers tips for how to recognize and combat misinformation,</span><span class="citation-popover-snippet">How to Spot and Combat Health MisinformationSeptember 9, 2022 — 9 Sept 2022 — The spread of health misinformation has dangerous consequences...</span><span class="citation-popover-meta">Published: September 9, 2022</span></span></span>
+Health communication experts commonly recommend approaches built around empathy and collaboration rather than confrontation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://asm.org/articles/2022/september/how-to-spot-and-combat-health-misinformation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: asm.org">[ASM.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">asm.org</span><span class="citation-popover-title">This article offers tips for how to recognize and combat misinformation,</span><span class="citation-popover-snippet">How to Spot and Combat Health MisinformationSeptember 9, 2022 — 9 Sept 2022 — The spread of health misinformation has dangerous consequences...</span><span class="citation-popover-meta">Published: September 9, 2022</span></span></span>
 
 Several strategies are often more effective:
 
@@ -398,197 +398,197 @@ The goal is not merely to replace false information with correct information. It
 
 Many health myths survive because they are carried by the people who first taught individuals how to navigate illness, safety and risk. Family advice arrives wrapped in affection, familiarity and personal history. It is reinforced by stories, repetition and loyalty, then protected by the desire to maintain important relationships.
 
-That combination makes family-based misconceptions unusually durable. The myth is rarely standing alone. It is supported by memories of care, a trusted source and a sense of belonging. Understanding that emotional structure helps explain why correcting health misinformation is often as much a social challenge as an informational one. The strongest corrections do not merely present better evidence; they find ways to preserve trust while making room for new understanding. <span class="citation-chip-wrap"><a class="citation-chip" href="https://nam.edu/perspectives/identifying-credible-sources-of-health-information-in-social-media-principles-and-attributes/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nam.edu">[NAM]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nam.edu</span><span class="citation-popover-snippet">Identifying Credible Sources of Health Information in Social...by RS Kington · Cited by 278 — People seek, share, and receive health...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ncbi.nlm.nih.gov/books/NBK572168/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ncbi.nlm.nih.gov">[NCBI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ncbi.nlm.nih.gov</span><span class="citation-popover-title">NCBIWE CAN TAKE ACTION</span><span class="citation-popover-snippet">Confronting Health MisinformationBecause it pollutes our information environment, misinformation is harmful to individual and public heal...</span></span></span>
+That combination makes family-based misconceptions unusually durable. The myth is rarely standing alone. It is supported by memories of care, a trusted source and a sense of belonging. Understanding that emotional structure helps explain why correcting health misinformation is often as much a social challenge as an informational one. The strongest corrections do not merely present better evidence; they find ways to preserve trust while making room for new understanding.<span class="citation-chip-wrap"><a class="citation-chip" href="https://nam.edu/perspectives/identifying-credible-sources-of-health-information-in-social-media-principles-and-attributes/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nam.edu">[NAM]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nam.edu</span><span class="citation-popover-snippet">Identifying Credible Sources of Health Information in Social...by RS Kington · Cited by 278 — People seek, share, and receive health...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ncbi.nlm.nih.gov/books/NBK572168/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ncbi.nlm.nih.gov">[NCBI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ncbi.nlm.nih.gov</span><span class="citation-popover-title">NCBIWE CAN TAKE ACTION</span><span class="citation-popover-snippet">Confronting Health MisinformationBecause it pollutes our information environment, misinformation is harmful to individual and public heal...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why family health myths feel so convincing. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why family health myths feel so convincing. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Bad+Science+by+Ben+Goldacre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Bad Science on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=wICuv0ePMYoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Bad Science" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Bad+Science+by+Ben+Goldacre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Bad Science">Bad Science</a>
-        </h4>
-        <p class="fr-book-author">By Ben Goldacre</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Bad+Science+by+Ben+Goldacre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Bad Science on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=wICuv0ePMYoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Bad Science" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Bad+Science+by+Ben+Goldacre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Bad Science">Bad Science</a>
+</h4>
+<p class="fr-book-author">By Ben Goldacre</p>
         
-        <p class="fr-book-desc">Directly tackles misleading health claims and evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Bad+Science+by+Ben+Goldacre&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly tackles misleading health claims and evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Bad+Science+by+Ben+Goldacre&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Calling Bullshit on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Plu9DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Calling Bullshit" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Calling Bullshit">Calling Bullshit</a>
-        </h4>
-        <p class="fr-book-author">By Carl T. Bergstrom, Jevin D. West</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Calling Bullshit on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Plu9DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Calling Bullshit" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Calling Bullshit">Calling Bullshit</a>
+</h4>
+<p class="fr-book-author">By Carl T. Bergstrom, Jevin D. West</p>
         
-        <p class="fr-book-desc">Provides tools for assessing questionable health information.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides tools for assessing questionable health information.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Factfulness on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=rxg0tgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Factfulness" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Factfulness">Factfulness</a>
-        </h4>
-        <p class="fr-book-author">By Hans Rosling, Ola Rosling et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Factfulness on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=rxg0tgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Factfulness" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Factfulness">Factfulness</a>
+</h4>
+<p class="fr-book-author">By Hans Rosling, Ola Rosling et al.</p>
         
-        <p class="fr-book-desc">Promotes evidence-based understanding of health and risk.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Promotes evidence-based understanding of health and risk.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Influence+by+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Influence on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Influence+by+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Influence">Influence</a>
-        </h4>
-        <p class="fr-book-author">By Robert B. Cialdini</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Influence+by+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Influence on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Influence+by+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Influence">Influence</a>
+</h4>
+<p class="fr-book-author">By Robert B. Cialdini</p>
         
-        <p class="fr-book-desc">Explains why trusted family voices carry weight.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Influence+by+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains why trusted family voices carry weight.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Influence+by+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Bad+Science&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Bad Science</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Calling+Bullshit&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Calling Bullshit</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Factfulness&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Factfulness</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Bad+Science&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Bad Science</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Calling+Bullshit&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Calling Bullshit</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Factfulness&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Factfulness</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=health+education+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=family-advice-why-family-health-myths-feel-so-convincing-myths-and-misconcept-health-education-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="health education poster" data-ebay-reference="family-advice-why-family-health-myths-feel-so-convincing-myths-and-misconcept-health-education-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Health Promotion Posters X11 Job Lot Medical Health Education GASP Etc"><img src="{{ '/assets/images/marketplace-covers/9ba55ff5039ba39fb78d.jpg' | relative_url }}" alt="Listing image for Health Promotion Posters X11 Job Lot Medical Health Education GASP Etc" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=health+education+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=family-advice-why-family-health-myths-feel-so-convincing-myths-and-misconcept-health-education-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="health education poster" data-ebay-reference="family-advice-why-family-health-myths-feel-so-convincing-myths-and-misconcept-health-education-poster" target="_blank" rel="sponsored noopener noreferrer">Health Promotion Posters X11 Job Lot Medical Health Education GASP Etc</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=health+education+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=family-advice-why-family-health-myths-feel-so-convincing-myths-and-misconcept-health-education-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="health education poster" data-ebay-reference="family-advice-why-family-health-myths-feel-so-convincing-myths-and-misconcept-health-education-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for health education poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: health education poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=health+education+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=family-advice-why-family-health-myths-feel-so-convincing-myths-and-misconcept-health-education-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="health education poster" data-ebay-reference="family-advice-why-family-health-myths-feel-so-convincing-myths-and-misconcept-health-education-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=health+education+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=family-advice-why-family-health-myths-feel-so-convincing-myths-and-misconcept-health-education-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="health education poster" data-ebay-reference="family-advice-why-family-health-myths-feel-so-convincing-myths-and-misconcept-health-education-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Health Promotion Posters X11 Job Lot Medical Health Education GASP Etc"><img src="{{ '/assets/images/marketplace-covers/9ba55ff5039ba39fb78d.jpg' | relative_url }}" alt="Listing image for Health Promotion Posters X11 Job Lot Medical Health Education GASP Etc" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=health+education+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=family-advice-why-family-health-myths-feel-so-convincing-myths-and-misconcept-health-education-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="health education poster" data-ebay-reference="family-advice-why-family-health-myths-feel-so-convincing-myths-and-misconcept-health-education-poster" target="_blank" rel="sponsored noopener noreferrer">Health Promotion Posters X11 Job Lot Medical Health Education GASP Etc</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=health+education+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=family-advice-why-family-health-myths-feel-so-convincing-myths-and-misconcept-health-education-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="health education poster" data-ebay-reference="family-advice-why-family-health-myths-feel-so-convincing-myths-and-misconcept-health-education-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for health education poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: health education poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=health+education+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=family-advice-why-family-health-myths-feel-so-convincing-myths-and-misconcept-health-education-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="health education poster" data-ebay-reference="family-advice-why-family-health-myths-feel-so-convincing-myths-and-misconcept-health-education-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=health+education+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=family-advice-why-family-health-myths-feel-so-convincing-myths-and-misconcept-health-education-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="health education poster" data-ebay-reference="family-advice-why-family-health-myths-feel-so-convincing-myths-and-misconcept-health-education-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 15 Mental Health Posters for Classroom, 11X14In Educational, Matte-Laminated for"><img src="{{ '/assets/images/marketplace-covers/7a221d36e3a5e69374ca.jpg' | relative_url }}" alt="Listing image for 15 Mental Health Posters for Classroom, 11X14In Educational, Matte-Laminated for" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=health+education+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=family-advice-why-family-health-myths-feel-so-convincing-myths-and-misconcept-health-education-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="health education poster" data-ebay-reference="family-advice-why-family-health-myths-feel-so-convincing-myths-and-misconcept-health-education-poster" target="_blank" rel="sponsored noopener noreferrer">15 Mental Health Posters for Classroom, 11X14In Educational, Matte-Laminated for</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=health+education+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=family-advice-why-family-health-myths-feel-so-convincing-myths-and-misconcept-health-education-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="health education poster" data-ebay-reference="family-advice-why-family-health-myths-feel-so-convincing-myths-and-misconcept-health-education-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for health education poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: health education poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=health+education+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=family-advice-why-family-health-myths-feel-so-convincing-myths-and-misconcept-health-education-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="health education poster" data-ebay-reference="family-advice-why-family-health-myths-feel-so-convincing-myths-and-misconcept-health-education-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=health+education+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=family-advice-why-family-health-myths-feel-so-convincing-myths-and-misconcept-health-education-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="health education poster" data-ebay-reference="family-advice-why-family-health-myths-feel-so-convincing-myths-and-misconcept-health-education-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 15 Mental Health Posters for Classroom, 11X14In Educational, Matte-Laminated for"><img src="{{ '/assets/images/marketplace-covers/7a221d36e3a5e69374ca.jpg' | relative_url }}" alt="Listing image for 15 Mental Health Posters for Classroom, 11X14In Educational, Matte-Laminated for" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=health+education+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=family-advice-why-family-health-myths-feel-so-convincing-myths-and-misconcept-health-education-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="health education poster" data-ebay-reference="family-advice-why-family-health-myths-feel-so-convincing-myths-and-misconcept-health-education-poster" target="_blank" rel="sponsored noopener noreferrer">15 Mental Health Posters for Classroom, 11X14In Educational, Matte-Laminated for</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=health+education+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=family-advice-why-family-health-myths-feel-so-convincing-myths-and-misconcept-health-education-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="health education poster" data-ebay-reference="family-advice-why-family-health-myths-feel-so-convincing-myths-and-misconcept-health-education-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for health education poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: health education poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=health+education+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=family-advice-why-family-health-myths-feel-so-convincing-myths-and-misconcept-health-education-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="health education poster" data-ebay-reference="family-advice-why-family-health-myths-feel-so-convincing-myths-and-misconcept-health-education-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=health+education+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=family-advice-why-family-health-myths-feel-so-convincing-myths-and-misconcept-health-education-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="health education poster" data-ebay-reference="family-advice-why-family-health-myths-feel-so-convincing-myths-and-misconcept-health-education-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ultimate Fruit Guide Poster A3 - Nutrition &amp; Health Educational Wall Art"><img src="{{ '/assets/images/marketplace-covers/4990fdf1f5c00d5d14d5.jpg' | relative_url }}" alt="Listing image for Ultimate Fruit Guide Poster A3 - Nutrition &amp; Health Educational Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=health+education+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=family-advice-why-family-health-myths-feel-so-convincing-myths-and-misconcept-health-education-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="health education poster" data-ebay-reference="family-advice-why-family-health-myths-feel-so-convincing-myths-and-misconcept-health-education-poster" target="_blank" rel="sponsored noopener noreferrer">Ultimate Fruit Guide Poster A3 - Nutrition &amp; Health Educational Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=health+education+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=family-advice-why-family-health-myths-feel-so-convincing-myths-and-misconcept-health-education-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="health education poster" data-ebay-reference="family-advice-why-family-health-myths-feel-so-convincing-myths-and-misconcept-health-education-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for health education poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: health education poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=health+education+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=family-advice-why-family-health-myths-feel-so-convincing-myths-and-misconcept-health-education-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="health education poster" data-ebay-reference="family-advice-why-family-health-myths-feel-so-convincing-myths-and-misconcept-health-education-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=health+education+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=family-advice-why-family-health-myths-feel-so-convincing-myths-and-misconcept-health-education-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="health education poster" data-ebay-reference="family-advice-why-family-health-myths-feel-so-convincing-myths-and-misconcept-health-education-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ultimate Fruit Guide Poster A3 - Nutrition &amp; Health Educational Wall Art"><img src="{{ '/assets/images/marketplace-covers/4990fdf1f5c00d5d14d5.jpg' | relative_url }}" alt="Listing image for Ultimate Fruit Guide Poster A3 - Nutrition &amp; Health Educational Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=health+education+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=family-advice-why-family-health-myths-feel-so-convincing-myths-and-misconcept-health-education-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="health education poster" data-ebay-reference="family-advice-why-family-health-myths-feel-so-convincing-myths-and-misconcept-health-education-poster" target="_blank" rel="sponsored noopener noreferrer">Ultimate Fruit Guide Poster A3 - Nutrition &amp; Health Educational Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=health+education+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=family-advice-why-family-health-myths-feel-so-convincing-myths-and-misconcept-health-education-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="health education poster" data-ebay-reference="family-advice-why-family-health-myths-feel-so-convincing-myths-and-misconcept-health-education-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for health education poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: health education poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=health+education+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=family-advice-why-family-health-myths-feel-so-convincing-myths-and-misconcept-health-education-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="health education poster" data-ebay-reference="family-advice-why-family-health-myths-feel-so-convincing-myths-and-misconcept-health-education-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=health+education+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=family-advice-why-family-health-myths-feel-so-convincing-myths-and-misconcept-health-education-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="health education poster" data-ebay-reference="family-advice-why-family-health-myths-feel-so-convincing-myths-and-misconcept-health-education-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 15 Mental Health Posters for Classroom, 11X14In Educational, Matte-Laminated for"><img src="{{ '/assets/images/marketplace-covers/334183359d7fba8c2743.jpg' | relative_url }}" alt="Listing image for 15 Mental Health Posters for Classroom, 11X14In Educational, Matte-Laminated for" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=health+education+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=family-advice-why-family-health-myths-feel-so-convincing-myths-and-misconcept-health-education-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="health education poster" data-ebay-reference="family-advice-why-family-health-myths-feel-so-convincing-myths-and-misconcept-health-education-poster" target="_blank" rel="sponsored noopener noreferrer">15 Mental Health Posters for Classroom, 11X14In Educational, Matte-Laminated for</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=health+education+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=family-advice-why-family-health-myths-feel-so-convincing-myths-and-misconcept-health-education-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="health education poster" data-ebay-reference="family-advice-why-family-health-myths-feel-so-convincing-myths-and-misconcept-health-education-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for health education poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: health education poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=health+education+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=family-advice-why-family-health-myths-feel-so-convincing-myths-and-misconcept-health-education-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="health education poster" data-ebay-reference="family-advice-why-family-health-myths-feel-so-convincing-myths-and-misconcept-health-education-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=health+education+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=family-advice-why-family-health-myths-feel-so-convincing-myths-and-misconcept-health-education-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="health education poster" data-ebay-reference="family-advice-why-family-health-myths-feel-so-convincing-myths-and-misconcept-health-education-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=health+education+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=family-advice-why-family-health-myths-feel-so-convincing-myths-and-misconcept-health-education-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="health education poster" data-ebay-reference="family-advice-why-family-health-myths-feel-so-convincing-myths-and-misconcept-health-education-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 15 Mental Health Posters for Classroom, 11X14In Educational, Matte-Laminated for"><img src="{{ '/assets/images/marketplace-covers/334183359d7fba8c2743.jpg' | relative_url }}" alt="Listing image for 15 Mental Health Posters for Classroom, 11X14In Educational, Matte-Laminated for" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=health+education+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=family-advice-why-family-health-myths-feel-so-convincing-myths-and-misconcept-health-education-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="health education poster" data-ebay-reference="family-advice-why-family-health-myths-feel-so-convincing-myths-and-misconcept-health-education-poster" target="_blank" rel="sponsored noopener noreferrer">15 Mental Health Posters for Classroom, 11X14In Educational, Matte-Laminated for</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=health+education+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=family-advice-why-family-health-myths-feel-so-convincing-myths-and-misconcept-health-education-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="health education poster" data-ebay-reference="family-advice-why-family-health-myths-feel-so-convincing-myths-and-misconcept-health-education-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for health education poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: health education poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=health+education+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=family-advice-why-family-health-myths-feel-so-convincing-myths-and-misconcept-health-education-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="health education poster" data-ebay-reference="family-advice-why-family-health-myths-feel-so-convincing-myths-and-misconcept-health-education-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=health+education+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=family-advice-why-family-health-myths-feel-so-convincing-myths-and-misconcept-health-education-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="health education poster" data-ebay-reference="family-advice-why-family-health-myths-feel-so-convincing-myths-and-misconcept-health-education-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -604,7 +604,7 @@ That combination makes family-based misconceptions unusually durable. The myth i
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -624,7 +624,7 @@ That combination makes family-based misconceptions unusually durable. The myth i
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -656,7 +656,7 @@ That combination makes family-based misconceptions unusually durable. The myth i
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -708,7 +708,7 @@ That combination makes family-based misconceptions unusually durable. The myth i
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -753,7 +753,7 @@ That combination makes family-based misconceptions unusually durable. The myth i
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -794,102 +794,102 @@ That combination makes family-based misconceptions unusually durable. The myth i
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: nam.edu  
-   Link: <a href="https://nam.edu/perspectives/identifying-credible-sources-of-health-information-in-social-media-principles-and-attributes/" target="_blank" rel="noopener noreferrer nofollow">https://nam.edu/perspectives/identifying-credible-sources-of-health-information-in-social-media-principles-and-attributes/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Identifying Credible Sources of Health Information in Social...by RS Kington · Cited by 278 — People seek, share, and receive health...</p></details>
+   Link:<a href="https://nam.edu/perspectives/identifying-credible-sources-of-health-information-in-social-media-principles-and-attributes/" target="_blank" rel="noopener noreferrer nofollow">https://nam.edu/perspectives/identifying-credible-sources-of-health-information-in-social-media-principles-and-attributes/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Identifying Credible Sources of Health Information in Social...by RS Kington · Cited by 278 — People seek, share, and receive health...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: asm.org  
    Title: This article offers tips for how to recognize and combat misinformation,  
-   Link: <a href="https://asm.org/articles/2022/september/how-to-spot-and-combat-health-misinformation" target="_blank" rel="noopener noreferrer nofollow">https://asm.org/articles/2022/september/how-to-spot-and-combat-health-misinformation</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>How to Spot and Combat Health MisinformationSeptember 9, 2022 — 9 Sept 2022 — The spread of health misinformation has dangerous consequences...</p></details>
+   Link:<a href="https://asm.org/articles/2022/september/how-to-spot-and-combat-health-misinformation" target="_blank" rel="noopener noreferrer nofollow">https://asm.org/articles/2022/september/how-to-spot-and-combat-health-misinformation</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How to Spot and Combat Health MisinformationSeptember 9, 2022 — 9 Sept 2022 — The spread of health misinformation has dangerous consequences...</p></details>
    Published: September 9, 2022  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: infodemiology.jmir.org  
-   Link: <a href="https://infodemiology.jmir.org/2025/1/e67464" target="_blank" rel="noopener noreferrer nofollow">https://infodemiology.jmir.org/2025/1/e67464</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>How the General Public Navigates Health Misinformation on...by S Sathianathan · 2025 · Cited by 13 — This study aims to explore the appr...</p></details>
+   Link:<a href="https://infodemiology.jmir.org/2025/1/e67464" target="_blank" rel="noopener noreferrer nofollow">https://infodemiology.jmir.org/2025/1/e67464</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How the General Public Navigates Health Misinformation on...by S Sathianathan · 2025 · Cited by 13 — This study aims to explore the appr...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: apa.org  
    Title: ending health misinformation  
-   Link: <a href="https://www.apa.org/monitor/2024/07/ending-health-misinformation" target="_blank" rel="noopener noreferrer nofollow">https://www.apa.org/monitor/2024/07/ending-health-misinformation</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>How to reverse the alarming trend of health misinformation1 Jul 2024 — Experts are studying how false information spreads, who is most vu...</p></details>
+   Link:<a href="https://www.apa.org/monitor/2024/07/ending-health-misinformation" target="_blank" rel="noopener noreferrer nofollow">https://www.apa.org/monitor/2024/07/ending-health-misinformation</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How to reverse the alarming trend of health misinformation1 Jul 2024 — Experts are studying how false information spreads, who is most vu...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: apa.org  
    Title: hea hea0000978  
-   Link: <a href="https://www.apa.org/pubs/journals/releases/hea-hea0000978.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.apa.org/pubs/journals/releases/hea-hea0000978.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Who Is Susceptible to Online Health Misinformation?by LD Scherer · 2021 · Cited by 227 — Misinformation susceptibility across all three t...</p></details>
+   Link:<a href="https://www.apa.org/pubs/journals/releases/hea-hea0000978.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.apa.org/pubs/journals/releases/hea-hea0000978.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Who Is Susceptible to Online Health Misinformation?by LD Scherer · 2021 · Cited by 227 — Misinformation susceptibility across all three t...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: who.int  
-   Link: <a href="https://www.who.int/europe/news/item/01-09-2022-infodemics-and-misinformation-negatively-affect-people-s-health-behaviours--new-who-review-finds" target="_blank" rel="noopener noreferrer nofollow">https://www.who.int/europe/news/item/01-09-2022-infodemics-and-misinformation-negatively-affect-people-s-health-behaviours--new-who-review-finds</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Infodemics and misinformation negatively affect people&#x27;s...1 Sept 2022 — The systematic review found that people feel mental, social, po...</p></details>
+   Link:<a href="https://www.who.int/europe/news/item/01-09-2022-infodemics-and-misinformation-negatively-affect-people-s-health-behaviours--new-who-review-finds" target="_blank" rel="noopener noreferrer nofollow">https://www.who.int/europe/news/item/01-09-2022-infodemics-and-misinformation-negatively-affect-people-s-health-behaviours--new-who-review-finds</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Infodemics and misinformation negatively affect people&#x27;s...1 Sept 2022 — The systematic review found that people feel mental, social, po...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: healthpolicypartnership.com  
    Title: rebuilding trust in public health the battle against misinformation  
-   Link: <a href="https://www.healthpolicypartnership.com/rebuilding-trust-in-public-health-the-battle-against-misinformation/" target="_blank" rel="noopener noreferrer nofollow">https://www.healthpolicypartnership.com/rebuilding-trust-in-public-health-the-battle-against-misinformation/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Health Policy PartnershipRebuilding trust in public health: the battle against...27 Feb 2025 — Health misinformation is often develo...</p></details>
+   Link:<a href="https://www.healthpolicypartnership.com/rebuilding-trust-in-public-health-the-battle-against-misinformation/" target="_blank" rel="noopener noreferrer nofollow">https://www.healthpolicypartnership.com/rebuilding-trust-in-public-health-the-battle-against-misinformation/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Health Policy PartnershipRebuilding trust in public health: the battle against...27 Feb 2025 — Health misinformation is often develo...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: guides.library.ubc.ca  
-   Link: <a href="https://guides.library.ubc.ca/healthmisinformation/communication" target="_blank" rel="noopener noreferrer nofollow">https://guides.library.ubc.ca/healthmisinformation/communication</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UBC Library GuidesEvaluating Health Misinformation7 Mar 2025 — Below are some guidelines for the “Do&#x27;s” and “Don&#x27;ts” for addressing misin...</p></details>
+   Link:<a href="https://guides.library.ubc.ca/healthmisinformation/communication" target="_blank" rel="noopener noreferrer nofollow">https://guides.library.ubc.ca/healthmisinformation/communication</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UBC Library GuidesEvaluating Health Misinformation7 Mar 2025 — Below are some guidelines for the “Do&#x27;s” and “Don&#x27;ts” for addressing misin...</p></details>
 
 ### Additional References
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: rch.org.au  
-   Link: <a href="https://www.rch.org.au/kidsinfo/fact_sheets/How_to_find_health_information_you_can_trust/" target="_blank" rel="noopener noreferrer nofollow">https://www.rch.org.au/kidsinfo/fact_sheets/How_to_find_health_information_you_can_trust/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Disinformation is false information spread on purpose to harm or trick others. Mis and disinformation can stop you from...Read more...</p></details>
+   Link:<a href="https://www.rch.org.au/kidsinfo/fact_sheets/How_to_find_health_information_you_can_trust/" target="_blank" rel="noopener noreferrer nofollow">https://www.rch.org.au/kidsinfo/fact_sheets/How_to_find_health_information_you_can_trust/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Disinformation is false information spread on purpose to harm or trick others. Mis and disinformation can stop you from...Read more...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=KdXaUsNvntY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=KdXaUsNvntY</a>  
+   Link:<a href="https://www.youtube.com/watch?v=KdXaUsNvntY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=KdXaUsNvntY</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: europarl.europa.eu  
    Title: eu How to reduce the impact of disinformation on Europeans' health  
-   Link: <a href="https://www.europarl.europa.eu/RegData/etudes/STUD/2024/754205/IPOL_STU%282024%29754205_EN.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.europarl.europa.eu/RegData/etudes/STUD/2024/754205/IPOL_STU%282024%29754205_EN.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>This paper provides a broad overview of the emerging challenges connected with disinformation in the area of health, how it spreads and t...</p></details>
+   Link:<a href="https://www.europarl.europa.eu/RegData/etudes/STUD/2024/754205/IPOL_STU%282024%29754205_EN.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.europarl.europa.eu/RegData/etudes/STUD/2024/754205/IPOL_STU%282024%29754205_EN.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>This paper provides a broad overview of the emerging challenges connected with disinformation in the area of health, how it spreads and t...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: ballardbrief.byu.edu  
    Title: the effects of medical misinformation on the american public  
-   Link: <a href="https://ballardbrief.byu.edu/issue-briefs/the-effects-of-medical-misinformation-on-the-american-public" target="_blank" rel="noopener noreferrer nofollow">https://ballardbrief.byu.edu/issue-briefs/the-effects-of-medical-misinformation-on-the-american-public</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ballard BriefThe Effects of Medical Misinformation on the American Public15 Mar 2024 — Medical misinformation causes higher rates of deat...</p></details>
+   Link:<a href="https://ballardbrief.byu.edu/issue-briefs/the-effects-of-medical-misinformation-on-the-american-public" target="_blank" rel="noopener noreferrer nofollow">https://ballardbrief.byu.edu/issue-briefs/the-effects-of-medical-misinformation-on-the-american-public</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ballard BriefThe Effects of Medical Misinformation on the American Public15 Mar 2024 — Medical misinformation causes higher rates of deat...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: premierscience.com  
-   Link: <a href="https://premierscience.com/pjph-24-353/" target="_blank" rel="noopener noreferrer nofollow">https://premierscience.com/pjph-24-353/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>al health risks, especially in networks where peers have a lot of power.Read more...</p></details>
+   Link:<a href="https://premierscience.com/pjph-24-353/" target="_blank" rel="noopener noreferrer nofollow">https://premierscience.com/pjph-24-353/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>al health risks, especially in networks where peers have a lot of power.Read more...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: ncbi.nlm.nih.gov  
    Title: NCBIWE CAN TAKE ACTION  
-   Link: <a href="https://www.ncbi.nlm.nih.gov/books/NBK572168/" target="_blank" rel="noopener noreferrer nofollow">https://www.ncbi.nlm.nih.gov/books/NBK572168/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Confronting Health MisinformationBecause it pollutes our information environment, misinformation is harmful to individual and public heal...</p></details>
+   Link:<a href="https://www.ncbi.nlm.nih.gov/books/NBK572168/" target="_blank" rel="noopener noreferrer nofollow">https://www.ncbi.nlm.nih.gov/books/NBK572168/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Confronting Health MisinformationBecause it pollutes our information environment, misinformation is harmful to individual and public heal...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: rch.org.au  
-   Link: <a href="https://www.rch.org.au/kidsinfo/healthinfo/" target="_blank" rel="noopener noreferrer nofollow">https://www.rch.org.au/kidsinfo/healthinfo/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Kids Health Info: How to find health information you can trustMis and disinformation can stop you from making safe decisions about your...</p></details>
+   Link:<a href="https://www.rch.org.au/kidsinfo/healthinfo/" target="_blank" rel="noopener noreferrer nofollow">https://www.rch.org.au/kidsinfo/healthinfo/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Kids Health Info: How to find health information you can trustMis and disinformation can stop you from making safe decisions about your...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: gov.scot  
    Title: www.gov.scot Footnotes  
-   Link: <a href="https://www.gov.scot/publications/scottish-health-information-integrity-strategy/pages/19/" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.scot/publications/scottish-health-information-integrity-strategy/pages/19/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Scottish Health Information Integrity Strategy31 Oct 2025 — Sets out the framework for safe, coherent, evidence-based and ethical approac...</p></details>
+   Link:<a href="https://www.gov.scot/publications/scottish-health-information-integrity-strategy/pages/19/" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.scot/publications/scottish-health-information-integrity-strategy/pages/19/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Scottish Health Information Integrity Strategy31 Oct 2025 — Sets out the framework for safe, coherent, evidence-based and ethical approac...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11369541/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11369541/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>by D Kbaier · 2024 · Cited by 105 — This scoping review underscores the significance of addressing online health misinformation, parti...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11369541/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11369541/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by D Kbaier · 2024 · Cited by 105 — This scoping review underscores the significance of addressing online health misinformation, parti...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12412888/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12412888/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Health Misinformation on Social Media and Public...by JP Stimpson · 2025 · Cited by 13 — This study examines the role of healthcare visi...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12412888/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12412888/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Health Misinformation on Social Media and Public...by JP Stimpson · 2025 · Cited by 13 — This study examines the role of healthcare visi...</p></details>

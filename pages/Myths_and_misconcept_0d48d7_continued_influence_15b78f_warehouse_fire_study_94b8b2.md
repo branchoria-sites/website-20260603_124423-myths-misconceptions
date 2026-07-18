@@ -268,16 +268,16 @@ image: /assets/images/Myths_and_misconcept_0d48d7_continued_influence_15b78f_war
 
 ## Introduction
 
-The classic warehouse fire experiment became one of the most influential demonstrations of how misinformation can survive [correction]({{ 'correction/' | relative_url }}). In the study, participants read a series of reports about a warehouse fire. Early reports suggested that volatile materials such as paint and gas cylinders had been stored in a cupboard near the fire's origin. Later, that claim was explicitly withdrawn. Yet many participants continued to use the supposedly corrected information when explaining explosions, smoke, damage and emergency responses. The finding helped establish what researchers now call the continued influence effect: people can remember a correction and still rely on the original claim when reasoning about events. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/profile/Colleen_Seifert/publication/232501255_Sources_of_the_Continued_Influence_Effect_When_Misinformation_in_Memory_Affects_Later_Inferences/links/5485d4070cf268d28f0045c0/Sources-of-the-Continued-Influence-Effect-When-Misin" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">When Misinformation in Memory Affects Later InferencesApril 29, 2014 — The results also show a continued influence effect whe...</span><span class="citation-popover-meta">Published: April 29, 2014</span></span></span>
+The classic warehouse fire experiment became one of the most influential demonstrations of how misinformation can survive [correction]({{ 'correction/' | relative_url }}). In the study, participants read a series of reports about a warehouse fire. Early reports suggested that volatile materials such as paint and gas cylinders had been stored in a cupboard near the fire's origin. Later, that claim was explicitly withdrawn. Yet many participants continued to use the supposedly corrected information when explaining explosions, smoke, damage and emergency responses. The finding helped establish what researchers now call the continued influence effect: people can remember a correction and still rely on the original claim when reasoning about events.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/profile/Colleen_Seifert/publication/232501255_Sources_of_the_Continued_Influence_Effect_When_Misinformation_in_Memory_Affects_Later_Inferences/links/5485d4070cf268d28f0045c0/Sources-of-the-Continued-Influence-Effect-When-Misin" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">When Misinformation in Memory Affects Later InferencesApril 29, 2014 — The results also show a continued influence effect whe...</span><span class="citation-popover-meta">Published: April 29, 2014</span></span></span>
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_continued_influence_15b78f_warehouse_fire_study_94b8b2-Illustration-1-dark.svg" | relative_url }}" alt="Fire Study illustration 1" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_continued_influence_15b78f_warehouse_fire_study_94b8b2-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_continued_influence_15b78f_warehouse_fire_study_94b8b2-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-What made the experiment memorable was not simply that people believed something false. The corrected information had become part of a causal story. Once it helped explain the fire, removing it left unanswered questions. The study showed that misinformation often persists because it remains useful, not merely because it is remembered. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/profile/Colleen_Seifert/publication/232501255_Sources_of_the_Continued_Influence_Effect_When_Misinformation_in_Memory_Affects_Later_Inferences/links/5485d4070cf268d28f0045c0/Sources-of-the-Continued-Influence-Effect-When-Misin" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">When Misinformation in Memory Affects Later InferencesApril 29, 2014 — The results also show a continued influence effect whe...</span><span class="citation-popover-meta">Published: April 29, 2014</span></span></span>
+What made the experiment memorable was not simply that people believed something false. The corrected information had become part of a causal story. Once it helped explain the fire, removing it left unanswered questions. The study showed that misinformation often persists because it remains useful, not merely because it is remembered.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/profile/Colleen_Seifert/publication/232501255_Sources_of_the_Continued_Influence_Effect_When_Misinformation_in_Memory_Affects_Later_Inferences/links/5485d4070cf268d28f0045c0/Sources-of-the-Continued-Influence-Effect-When-Misin" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">When Misinformation in Memory Affects Later InferencesApril 29, 2014 — The results also show a continued influence effect whe...</span><span class="citation-popover-meta">Published: April 29, 2014</span></span></span>
 
 ## What the fire scenario tested
 
-The original work by Hollyn Johnson and Colleen Seifert presented participants with a fictional news-style sequence describing a warehouse fire and the subsequent investigation. One version of the story included reports that a storage cupboard contained volatile materials. Later messages stated that the cupboard had actually been empty and that the earlier information was incorrect. Researchers then asked participants questions requiring them to explain aspects of the event. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/profile/Colleen_Seifert/publication/232501255_Sources_of_the_Continued_Influence_Effect_When_Misinformation_in_Memory_Affects_Later_Inferences/links/5485d4070cf268d28f0045c0/Sources-of-the-Continued-Influence-Effect-When-Misin" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">When Misinformation in Memory Affects Later InferencesApril 29, 2014 — The results also show a continued influence effect whe...</span><span class="citation-popover-meta">Published: April 29, 2014</span></span></span>
+The original work by Hollyn Johnson and Colleen Seifert presented participants with a fictional news-style sequence describing a warehouse fire and the subsequent investigation. One version of the story included reports that a storage cupboard contained volatile materials. Later messages stated that the cupboard had actually been empty and that the earlier information was incorrect. Researchers then asked participants questions requiring them to explain aspects of the event.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/profile/Colleen_Seifert/publication/232501255_Sources_of_the_Continued_Influence_Effect_When_Misinformation_in_Memory_Affects_Later_Inferences/links/5485d4070cf268d28f0045c0/Sources-of-the-Continued-Influence-Effect-When-Misin" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">When Misinformation in Memory Affects Later InferencesApril 29, 2014 — The results also show a continued influence effect whe...</span><span class="citation-popover-meta">Published: April 29, 2014</span></span></span>
 
-The crucial finding was that many participants continued to refer to the volatile materials despite having encountered the correction. They used the retracted information when discussing why the fire became severe, why explosions occurred and why thick smoke was present. Importantly, this was not simply a [memory]({{ 'memory/' | relative_url }}) failure. Most participants could correctly recall that a retraction had occurred. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/profile/Colleen_Seifert/publication/232501255_Sources_of_the_Continued_Influence_Effect_When_Misinformation_in_Memory_Affects_Later_Inferences/links/5485d4070cf268d28f0045c0/Sources-of-the-Continued-Influence-Effect-When-Misin" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">When Misinformation in Memory Affects Later InferencesApril 29, 2014 — The results also show a continued influence effect whe...</span><span class="citation-popover-meta">Published: April 29, 2014</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/17470218211048986" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsSensitivity to misinformation retractions in the continued...Based on answers to the inference questions, Johnson and Seife...</span></span></span>
+The crucial finding was that many participants continued to refer to the volatile materials despite having encountered the correction. They used the retracted information when discussing why the fire became severe, why explosions occurred and why thick smoke was present. Importantly, this was not simply a [memory]({{ 'memory/' | relative_url }}) failure. Most participants could correctly recall that a retraction had occurred.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/profile/Colleen_Seifert/publication/232501255_Sources_of_the_Continued_Influence_Effect_When_Misinformation_in_Memory_Affects_Later_Inferences/links/5485d4070cf268d28f0045c0/Sources-of-the-Continued-Influence-Effect-When-Misin" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">When Misinformation in Memory Affects Later InferencesApril 29, 2014 — The results also show a continued influence effect whe...</span><span class="citation-popover-meta">Published: April 29, 2014</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/17470218211048986" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsSensitivity to misinformation retractions in the continued...Based on answers to the inference questions, Johnson and Seife...</span></span></span>
 
 The study therefore separated two ideas that are often treated as the same thing:
 
@@ -288,26 +288,26 @@ The study therefore separated two ideas that are often treated as the same thing
 
 </div>
 
-Participants frequently succeeded at the first task but failed at the second. The corrected claim continued to influence how they interpreted the rest of the story. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/profile/Colleen_Seifert/publication/232501255_Sources_of_the_Continued_Influence_Effect_When_Misinformation_in_Memory_Affects_Later_Inferences/links/5485d4070cf268d28f0045c0/Sources-of-the-Continued-Influence-Effect-When-Misin" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">When Misinformation in Memory Affects Later InferencesApril 29, 2014 — The results also show a continued influence effect whe...</span><span class="citation-popover-meta">Published: April 29, 2014</span></span></span>
+Participants frequently succeeded at the first task but failed at the second. The corrected claim continued to influence how they interpreted the rest of the story.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/profile/Colleen_Seifert/publication/232501255_Sources_of_the_Continued_Influence_Effect_When_Misinformation_in_Memory_Affects_Later_Inferences/links/5485d4070cf268d28f0045c0/Sources-of-the-Continued-Influence-Effect-When-Misin" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">When Misinformation in Memory Affects Later InferencesApril 29, 2014 — The results also show a continued influence effect whe...</span><span class="citation-popover-meta">Published: April 29, 2014</span></span></span>
 
 ## Why volatile materials stayed explanatory
 
-The volatile-materials detail occupied a powerful position in the narrative because it supplied a ready-made cause. Fires accompanied by explosions, toxic fumes and extensive damage naturally invite questions about what fuelled them. The mention of paint, chemicals or gas cylinders immediately provided an explanation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://anecdotal.app/bias/continued-influence-effect/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: anecdotal.app">[ANECDOTAL]</a><span class="citation-popover" role="note"><span class="citation-popover-source">anecdotal.app</span><span class="citation-popover-title">continued influence effect</span><span class="citation-popover-snippet">Continued influence effect &#124; ANECDOTALJohnson and Seifert (1994) showed why. When misinformation fills a causal role in a mental...</span></span></span>
+The volatile-materials detail occupied a powerful position in the narrative because it supplied a ready-made cause. Fires accompanied by explosions, toxic fumes and extensive damage naturally invite questions about what fuelled them. The mention of paint, chemicals or gas cylinders immediately provided an explanation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://anecdotal.app/bias/continued-influence-effect/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: anecdotal.app">[ANECDOTAL]</a><span class="citation-popover" role="note"><span class="citation-popover-source">anecdotal.app</span><span class="citation-popover-title">continued influence effect</span><span class="citation-popover-snippet">Continued influence effect &#124; ANECDOTALJohnson and Seifert (1994) showed why. When misinformation fills a causal role in a mental...</span></span></span>
 
-When the correction later stated that the cupboard was empty, it removed the explanation without replacing it. Participants still faced the same evidence within the story: a serious fire, emergency concern and unusual fire behaviour. The retracted information remained attractive because it continued to fit those observations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/profile/Colleen_Seifert/publication/232501255_Sources_of_the_Continued_Influence_Effect_When_Misinformation_in_Memory_Affects_Later_Inferences/links/5485d4070cf268d28f0045c0/Sources-of-the-Continued-Influence-Effect-When-Misin" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">When Misinformation in Memory Affects Later InferencesApril 29, 2014 — The results also show a continued influence effect whe...</span><span class="citation-popover-meta">Published: April 29, 2014</span></span></span>
+When the correction later stated that the cupboard was empty, it removed the explanation without replacing it. Participants still faced the same evidence within the story: a serious fire, emergency concern and unusual fire behaviour. The retracted information remained attractive because it continued to fit those observations.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/profile/Colleen_Seifert/publication/232501255_Sources_of_the_Continued_Influence_Effect_When_Misinformation_in_Memory_Affects_Later_Inferences/links/5485d4070cf268d28f0045c0/Sources-of-the-Continued-Influence-Effect-When-Misin" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">When Misinformation in Memory Affects Later InferencesApril 29, 2014 — The results also show a continued influence effect whe...</span><span class="citation-popover-meta">Published: April 29, 2014</span></span></span>
 
-Researchers increasingly describe this process in terms of [mental models]({{ 'mental-models/' | relative_url }}). As people read a sequence of events, they build an internal explanation linking causes and outcomes. The volatile materials became part of that model. A correction could mark the information as false, but the broader explanatory structure often remained intact. Unless a new explanation filled the gap, the original cause continued to be retrieved when participants answered later questions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://scholarworks.boisestate.edu/cgi/viewcontent.cgi?article=1058&amp;context=marketing_facpubs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scholarworks.boisestate.edu">[scholarworks.boisestate.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scholarworks.boisestate.edu</span><span class="citation-popover-snippet">How Stories in Memory Perpetuate the Continued Influence of...by A Hamby · 2020 · Cited by 65 — In a seminal study, Johnson and Seifert...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://sites.dartmouth.edu/nyhan/files/2021/03/nyhan-reifler-causal-corrections.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sites.dartmouth.edu">[2sites.dartmouth.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sites.dartmouth.edu</span><span class="citation-popover-snippet">Displacing misinformation about events:by B Nyhan · Cited by 219 — Misinformation can be very difficult to correct and may have lasting e...</span></span></span>
+Researchers increasingly describe this process in terms of [mental models]({{ 'mental-models/' | relative_url }}). As people read a sequence of events, they build an internal explanation linking causes and outcomes. The volatile materials became part of that model. A correction could mark the information as false, but the broader explanatory structure often remained intact. Unless a new explanation filled the gap, the original cause continued to be retrieved when participants answered later questions.<span class="citation-chip-wrap"><a class="citation-chip" href="https://scholarworks.boisestate.edu/cgi/viewcontent.cgi?article=1058&amp;context=marketing_facpubs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scholarworks.boisestate.edu">[scholarworks.boisestate.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scholarworks.boisestate.edu</span><span class="citation-popover-snippet">How Stories in Memory Perpetuate the Continued Influence of...by A Hamby · 2020 · Cited by 65 — In a seminal study, Johnson and Seifert...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://sites.dartmouth.edu/nyhan/files/2021/03/nyhan-reifler-causal-corrections.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sites.dartmouth.edu">[2sites.dartmouth.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sites.dartmouth.edu</span><span class="citation-popover-snippet">Displacing misinformation about events:by B Nyhan · Cited by 219 — Misinformation can be very difficult to correct and may have lasting e...</span></span></span>
 
-This explains why the warehouse fire became such a useful illustration. The misinformation was not an isolated fact like a mistaken date or misspelled name. It served as a causal mechanism. Removing it disrupted the coherence of the story. <span class="citation-chip-wrap"><a class="citation-chip" href="https://anecdotal.app/bias/continued-influence-effect/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: anecdotal.app">[ANECDOTAL]</a><span class="citation-popover" role="note"><span class="citation-popover-source">anecdotal.app</span><span class="citation-popover-title">continued influence effect</span><span class="citation-popover-snippet">Continued influence effect &#124; ANECDOTALJohnson and Seifert (1994) showed why. When misinformation fills a causal role in a mental...</span></span></span>
+This explains why the warehouse fire became such a useful illustration. The misinformation was not an isolated fact like a mistaken date or misspelled name. It served as a causal mechanism. Removing it disrupted the coherence of the story.<span class="citation-chip-wrap"><a class="citation-chip" href="https://anecdotal.app/bias/continued-influence-effect/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: anecdotal.app">[ANECDOTAL]</a><span class="citation-popover" role="note"><span class="citation-popover-source">anecdotal.app</span><span class="citation-popover-title">continued influence effect</span><span class="citation-popover-snippet">Continued influence effect &#124; ANECDOTALJohnson and Seifert (1994) showed why. When misinformation fills a causal role in a mental...</span></span></span>
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_continued_influence_15b78f_warehouse_fire_study_94b8b2-Illustration-2-dark.svg" | relative_url }}" alt="Fire Study illustration 2" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_continued_influence_15b78f_warehouse_fire_study_94b8b2-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_continued_influence_15b78f_warehouse_fire_study_94b8b2-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the findings mattered beyond a laboratory story
 
-The warehouse [fire scenario]({{ 'fire-scenario/' | relative_url }}) helped researchers move beyond the idea that misinformation persists only because people are inattentive or forgetful. The study suggested a more complicated problem: [corrections]({{ 'corrections/' | relative_url }}) can fail even when they are noticed and remembered. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/profile/Colleen_Seifert/publication/232501255_Sources_of_the_Continued_Influence_Effect_When_Misinformation_in_Memory_Affects_Later_Inferences/links/5485d4070cf268d28f0045c0/Sources-of-the-Continued-Influence-Effect-When-Misin" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">When Misinformation in Memory Affects Later InferencesApril 29, 2014 — The results also show a continued influence effect whe...</span><span class="citation-popover-meta">Published: April 29, 2014</span></span></span>
+The warehouse [fire scenario]({{ 'fire-scenario/' | relative_url }}) helped researchers move beyond the idea that misinformation persists only because people are inattentive or forgetful. The study suggested a more complicated problem: [corrections]({{ 'corrections/' | relative_url }}) can fail even when they are noticed and remembered.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/profile/Colleen_Seifert/publication/232501255_Sources_of_the_Continued_Influence_Effect_When_Misinformation_in_Memory_Affects_Later_Inferences/links/5485d4070cf268d28f0045c0/Sources-of-the-Continued-Influence-Effect-When-Misin" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">When Misinformation in Memory Affects Later InferencesApril 29, 2014 — The results also show a continued influence effect whe...</span><span class="citation-popover-meta">Published: April 29, 2014</span></span></span>
 
-Subsequent research repeatedly used variants of the warehouse-fire design to investigate why misinformation lingers and how corrections might be improved. Later studies found continued influence effects across different question formats, populations and experimental designs. Participants often continued using corrected information despite acknowledging that it was false. <span class="citation-chip-wrap"><a class="citation-chip" href="https://openaccess.city.ac.uk/id/eprint/19831/10/ConnorDesai-Reimers2018_Article_ComparingTheUseOfOpenAndClosed.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: openaccess.city.ac.uk">[openaccess.city.ac.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">openaccess.city.ac.uk</span><span class="citation-popover-snippet">Comparing the use of open and closed questions for Web...June 23, 2018 — by S Connor Desai · 2018 · Cited by 261 — Across all four studi...</span><span class="citation-popover-meta">Published: June 23, 2018</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://d-nb.info/116597374X/34" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: d-nb.info">[DNB]</a><span class="citation-popover" role="note"><span class="citation-popover-source">d-nb.info</span><span class="citation-popover-snippet">This occurred even though a...Read more...</span></span></span>
+Subsequent research repeatedly used variants of the warehouse-fire design to investigate why misinformation lingers and how corrections might be improved. Later studies found continued influence effects across different question formats, populations and experimental designs. Participants often continued using corrected information despite acknowledging that it was false.<span class="citation-chip-wrap"><a class="citation-chip" href="https://openaccess.city.ac.uk/id/eprint/19831/10/ConnorDesai-Reimers2018_Article_ComparingTheUseOfOpenAndClosed.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: openaccess.city.ac.uk">[openaccess.city.ac.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">openaccess.city.ac.uk</span><span class="citation-popover-snippet">Comparing the use of open and closed questions for Web...June 23, 2018 — by S Connor Desai · 2018 · Cited by 261 — Across all four studi...</span><span class="citation-popover-meta">Published: June 23, 2018</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://d-nb.info/116597374X/34" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: d-nb.info">[DNB]</a><span class="citation-popover" role="note"><span class="citation-popover-source">d-nb.info</span><span class="citation-popover-snippet">This occurred even though a...Read more...</span></span></span>
 
-Researchers also tested whether stronger warnings, clearer retractions or explanations about the source of misinformation could solve the problem. These interventions often reduced reliance on the false information but rarely eliminated it completely. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.emc-lab.org/uploads/1/1/3/6/113627673/ecker.2010.mc.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: emc-lab.org">[Ecker Memory &amp; Cognition Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">emc-lab.org</span><span class="citation-popover-snippet">Ecker Memory &amp; Cognition LabExplicit warnings reduce but do not eliminate the continued...August 27, 2017 — by UKH ECKER · 2010 · Cited...</span><span class="citation-popover-meta">Published: August 27, 2017</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8627545/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCExploring factors that mitigate the continued influence</span><span class="citation-popover-snippet">by IP Kan · 2021 · Cited by 27 — The term “continued influence effect” (CIE) refers to the phenomenon that discredited and obsolete in...</span></span></span>
+Researchers also tested whether stronger warnings, clearer retractions or explanations about the source of misinformation could solve the problem. These interventions often reduced reliance on the false information but rarely eliminated it completely.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.emc-lab.org/uploads/1/1/3/6/113627673/ecker.2010.mc.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: emc-lab.org">[Ecker Memory &amp; Cognition Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">emc-lab.org</span><span class="citation-popover-snippet">Ecker Memory &amp; Cognition LabExplicit warnings reduce but do not eliminate the continued...August 27, 2017 — by UKH ECKER · 2010 · Cited...</span><span class="citation-popover-meta">Published: August 27, 2017</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8627545/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCExploring factors that mitigate the continued influence</span><span class="citation-popover-snippet">by IP Kan · 2021 · Cited by 27 — The term “continued influence effect” (CIE) refers to the phenomenon that discredited and obsolete in...</span></span></span>
 
 The warehouse fire therefore became a foundational example because it captured a pattern that appears in many real-world settings:
 
@@ -316,211 +316,211 @@ The warehouse fire therefore became a foundational example because it captured a
 * Incorrect [health claims]({{ 'health-claims/' | relative_url }}).
 * False reports during crises.
 
-In each case, a claim that supplies a compelling explanation may continue shaping judgement [after correction]({{ 'after-correction/' | relative_url }}). <span class="citation-chip-wrap"><a class="citation-chip" href="https://sites.dartmouth.edu/nyhan/files/2021/03/nyhan-reifler-causal-corrections.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sites.dartmouth.edu">[sites.dartmouth.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sites.dartmouth.edu</span><span class="citation-popover-snippet">Displacing misinformation about events:by B Nyhan · Cited by 219 — Misinformation can be very difficult to correct and may have lasting e...</span></span></span>
+In each case, a claim that supplies a compelling explanation may continue shaping judgement [after correction]({{ 'after-correction/' | relative_url }}).<span class="citation-chip-wrap"><a class="citation-chip" href="https://sites.dartmouth.edu/nyhan/files/2021/03/nyhan-reifler-causal-corrections.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sites.dartmouth.edu">[sites.dartmouth.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sites.dartmouth.edu</span><span class="citation-popover-snippet">Displacing misinformation about events:by B Nyhan · Cited by 219 — Misinformation can be very difficult to correct and may have lasting e...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/EaEDkrYnKuI" title="What is Continued influence effect? [Definition and Example] - Understanding Cognitive Biases" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=EaEDkrYnKuI" target="_blank" rel="noopener noreferrer">What is Continued influence effect? [Definition and Example] - Understanding Cognitive Biases</a></p><p class="youtube-embed-meta">Channel: PsychOut &middot; Views: 646 &middot; Uploaded: September 2020 &middot; Length: 1 minute 2 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=EaEDkrYnKuI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=EaEDkrYnKuI">Open on YouTube</a></p></div></div></div>
 
 ## What the study reveals about correction design
 
-One of the most important lessons from the warehouse fire experiment is that effective corrections often need to do more than deny a falsehood. Simply saying "that information was wrong" may remove a fact while leaving the audience without an alternative explanation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://sites.dartmouth.edu/nyhan/files/2021/03/nyhan-reifler-causal-corrections.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sites.dartmouth.edu">[sites.dartmouth.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sites.dartmouth.edu</span><span class="citation-popover-snippet">Displacing misinformation about events:by B Nyhan · Cited by 219 — Misinformation can be very difficult to correct and may have lasting e...</span></span></span>
+One of the most important lessons from the warehouse fire experiment is that effective corrections often need to do more than deny a falsehood. Simply saying "that information was wrong" may remove a fact while leaving the audience without an alternative explanation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://sites.dartmouth.edu/nyhan/files/2021/03/nyhan-reifler-causal-corrections.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sites.dartmouth.edu">[sites.dartmouth.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sites.dartmouth.edu</span><span class="citation-popover-snippet">Displacing misinformation about events:by B Nyhan · Cited by 219 — Misinformation can be very difficult to correct and may have lasting e...</span></span></span>
 
-Research inspired by the fire study has consistently suggested that replacement explanations work better than bare retractions. If a correction can explain what really happened, people have a new causal story available when they later reason about the event. The correction becomes part of the mental model rather than merely an annotation attached to it. <span class="citation-chip-wrap"><a class="citation-chip" href="https://sites.dartmouth.edu/nyhan/files/2021/03/nyhan-reifler-causal-corrections.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sites.dartmouth.edu">[sites.dartmouth.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sites.dartmouth.edu</span><span class="citation-popover-snippet">Displacing misinformation about events:by B Nyhan · Cited by 219 — Misinformation can be very difficult to correct and may have lasting e...</span></span></span>
+Research inspired by the fire study has consistently suggested that replacement explanations work better than bare retractions. If a correction can explain what really happened, people have a new causal story available when they later reason about the event. The correction becomes part of the mental model rather than merely an annotation attached to it.<span class="citation-chip-wrap"><a class="citation-chip" href="https://sites.dartmouth.edu/nyhan/files/2021/03/nyhan-reifler-causal-corrections.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sites.dartmouth.edu">[sites.dartmouth.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sites.dartmouth.edu</span><span class="citation-popover-snippet">Displacing misinformation about events:by B Nyhan · Cited by 219 — Misinformation can be very difficult to correct and may have lasting e...</span></span></span>
 
-The warehouse fire example also highlights why some myths feel unusually persistent. The more explanatory work a claim performs, the harder it can be to remove. A correction that attacks the factual accuracy of the claim may still leave its narrative function untouched. People may reject the statement while continuing to use its logic. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/profile/Colleen_Seifert/publication/232501255_Sources_of_the_Continued_Influence_Effect_When_Misinformation_in_Memory_Affects_Later_Inferences/links/5485d4070cf268d28f0045c0/Sources-of-the-Continued-Influence-Effect-When-Misin" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">When Misinformation in Memory Affects Later InferencesApril 29, 2014 — The results also show a continued influence effect whe...</span><span class="citation-popover-meta">Published: April 29, 2014</span></span></span>
+The warehouse fire example also highlights why some myths feel unusually persistent. The more explanatory work a claim performs, the harder it can be to remove. A correction that attacks the factual accuracy of the claim may still leave its narrative function untouched. People may reject the statement while continuing to use its logic.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/profile/Colleen_Seifert/publication/232501255_Sources_of_the_Continued_Influence_Effect_When_Misinformation_in_Memory_Affects_Later_Inferences/links/5485d4070cf268d28f0045c0/Sources-of-the-Continued-Influence-Effect-When-Misin" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">When Misinformation in Memory Affects Later InferencesApril 29, 2014 — The results also show a continued influence effect whe...</span><span class="citation-popover-meta">Published: April 29, 2014</span></span></span>
 
-Recent replication work has continued to find evidence for the underlying effect, reinforcing the original insight that misinformation can influence reasoning after correction. Although researchers debate the strength of particular interventions, the central lesson of the warehouse fire study remains influential: correcting a myth is easier when people are given something equally coherent to think with afterwards. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S0001691823002706" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[sciencedirect.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">A replication study of Johnson and Seifert&#x27;s (1994)...by V Laurent · 2023 · Cited by 5 — The term “Continued Influence Effect” (CIE) (Jo...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/38000364/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">replication study of Johnson and Seifert&#x27;s (1994)...by V Laurent · 2023 · Cited by 5 — Researchers Johnson and Seifert (1994, Experiment...</span></span></span>
+Recent replication work has continued to find evidence for the underlying effect, reinforcing the original insight that misinformation can influence reasoning after correction. Although researchers debate the strength of particular interventions, the central lesson of the warehouse fire study remains influential: correcting a myth is easier when people are given something equally coherent to think with afterwards.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S0001691823002706" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[sciencedirect.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">A replication study of Johnson and Seifert&#x27;s (1994)...by V Laurent · 2023 · Cited by 5 — The term “Continued Influence Effect” (CIE) (Jo...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/38000364/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">replication study of Johnson and Seifert&#x27;s (1994)...by V Laurent · 2023 · Cited by 5 — Researchers Johnson and Seifert (1994, Experiment...</span></span></span>
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_continued_influence_15b78f_warehouse_fire_study_94b8b2-Illustration-3-dark.svg" | relative_url }}" alt="Fire Study illustration 3" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_continued_influence_15b78f_warehouse_fire_study_94b8b2-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_continued_influence_15b78f_warehouse_fire_study_94b8b2-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why the warehouse fire myth lingered. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why the warehouse fire myth lingered. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YGPzXWanppcC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
-        </h4>
-        <p class="fr-book-author">By Daniel Kahneman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YGPzXWanppcC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
+</h4>
+<p class="fr-book-author">By Daniel Kahneman</p>
         
-        <p class="fr-book-desc">Provides context for inference, judgment, and causal reasoning errors.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context for inference, judgment, and causal reasoning errors.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Calling Bullshit on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Plu9DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Calling Bullshit" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Calling Bullshit">Calling Bullshit</a>
-        </h4>
-        <p class="fr-book-author">By Carl T. Bergstrom, Jevin D. West</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Calling Bullshit on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Plu9DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Calling Bullshit" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Calling Bullshit">Calling Bullshit</a>
+</h4>
+<p class="fr-book-author">By Carl T. Bergstrom, Jevin D. West</p>
         
-        <p class="fr-book-desc">Encourages evaluating explanations rather than relying on familiar claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Encourages evaluating explanations rather than relying on familiar claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Made+to+Stick+by+Dan+Heath&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Made to Stick on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=OUgCHkxZTX4C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Made to Stick" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Made+to+Stick+by+Dan+Heath&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Made to Stick">Made to Stick</a>
-        </h4>
-        <p class="fr-book-author">By Dan Heath, Chip Heath</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Made+to+Stick+by+Dan+Heath&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Made to Stick on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=OUgCHkxZTX4C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Made to Stick" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Made+to+Stick+by+Dan+Heath&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Made to Stick">Made to Stick</a>
+</h4>
+<p class="fr-book-author">By Dan Heath, Chip Heath</p>
         
-        <p class="fr-book-desc">Helps explain why vivid causal stories remain memorable after correction.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Made+to+Stick+by+Dan+Heath&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps explain why vivid causal stories remain memorable after correction.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Made+to+Stick+by+Dan+Heath&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Foolproof+Sander+Van+Der+Linden&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Foolproof on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/13300557-M.jpg" alt="Cover for Foolproof" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Foolproof+Sander+Van+Der+Linden&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Foolproof">Foolproof</a>
-        </h4>
-        <p class="fr-book-author">By Sander Van Der Linden</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Foolproof+Sander+Van+Der+Linden&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Foolproof on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/13300557-M.jpg" alt="Cover for Foolproof" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Foolproof+Sander+Van+Der+Linden&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Foolproof">Foolproof</a>
+</h4>
+<p class="fr-book-author">By Sander Van Der Linden</p>
         
-        <p class="fr-book-desc">First published 2023.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Foolproof+Sander+Van+Der+Linden&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2023.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Foolproof+Sander+Van+Der+Linden&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Calling+Bullshit&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Calling Bullshit</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Made+to+Stick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Made to Stick</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Calling+Bullshit&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Calling Bullshit</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Made+to+Stick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Made to Stick</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fire-study-why-the-warehouse-fire-myth-lingered-myths-and-misconcept-psychology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="psychology poster" data-ebay-reference="fire-study-why-the-warehouse-fire-myth-lingered-myths-and-misconcept-psychology-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Carl Jung Psychology Tree Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/b6d996c3b7663d0ef672.jpg' | relative_url }}" alt="Listing image for Carl Jung Psychology Tree Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fire-study-why-the-warehouse-fire-myth-lingered-myths-and-misconcept-psychology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="psychology poster" data-ebay-reference="fire-study-why-the-warehouse-fire-myth-lingered-myths-and-misconcept-psychology-poster" target="_blank" rel="sponsored noopener noreferrer">Carl Jung Psychology Tree Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fire-study-why-the-warehouse-fire-myth-lingered-myths-and-misconcept-psychology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="psychology poster" data-ebay-reference="fire-study-why-the-warehouse-fire-myth-lingered-myths-and-misconcept-psychology-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for psychology poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: psychology poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fire-study-why-the-warehouse-fire-myth-lingered-myths-and-misconcept-psychology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="psychology poster" data-ebay-reference="fire-study-why-the-warehouse-fire-myth-lingered-myths-and-misconcept-psychology-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fire-study-why-the-warehouse-fire-myth-lingered-myths-and-misconcept-psychology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="psychology poster" data-ebay-reference="fire-study-why-the-warehouse-fire-myth-lingered-myths-and-misconcept-psychology-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Carl Jung Psychology Tree Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/b6d996c3b7663d0ef672.jpg' | relative_url }}" alt="Listing image for Carl Jung Psychology Tree Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fire-study-why-the-warehouse-fire-myth-lingered-myths-and-misconcept-psychology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="psychology poster" data-ebay-reference="fire-study-why-the-warehouse-fire-myth-lingered-myths-and-misconcept-psychology-poster" target="_blank" rel="sponsored noopener noreferrer">Carl Jung Psychology Tree Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fire-study-why-the-warehouse-fire-myth-lingered-myths-and-misconcept-psychology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="psychology poster" data-ebay-reference="fire-study-why-the-warehouse-fire-myth-lingered-myths-and-misconcept-psychology-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for psychology poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: psychology poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fire-study-why-the-warehouse-fire-myth-lingered-myths-and-misconcept-psychology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="psychology poster" data-ebay-reference="fire-study-why-the-warehouse-fire-myth-lingered-myths-and-misconcept-psychology-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fire-study-why-the-warehouse-fire-myth-lingered-myths-and-misconcept-psychology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="psychology poster" data-ebay-reference="fire-study-why-the-warehouse-fire-myth-lingered-myths-and-misconcept-psychology-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Psychology A4 Poster Print Lab Rat, Classical Conditioning Art for Psychologist"><img src="{{ '/assets/images/marketplace-covers/b9d6a80e381347dbe1b9.jpg' | relative_url }}" alt="Listing image for Psychology A4 Poster Print Lab Rat, Classical Conditioning Art for Psychologist" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fire-study-why-the-warehouse-fire-myth-lingered-myths-and-misconcept-psychology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="psychology poster" data-ebay-reference="fire-study-why-the-warehouse-fire-myth-lingered-myths-and-misconcept-psychology-poster" target="_blank" rel="sponsored noopener noreferrer">Psychology A4 Poster Print Lab Rat, Classical Conditioning Art for Psychologist</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fire-study-why-the-warehouse-fire-myth-lingered-myths-and-misconcept-psychology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="psychology poster" data-ebay-reference="fire-study-why-the-warehouse-fire-myth-lingered-myths-and-misconcept-psychology-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for psychology poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: psychology poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fire-study-why-the-warehouse-fire-myth-lingered-myths-and-misconcept-psychology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="psychology poster" data-ebay-reference="fire-study-why-the-warehouse-fire-myth-lingered-myths-and-misconcept-psychology-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fire-study-why-the-warehouse-fire-myth-lingered-myths-and-misconcept-psychology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="psychology poster" data-ebay-reference="fire-study-why-the-warehouse-fire-myth-lingered-myths-and-misconcept-psychology-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Psychology A4 Poster Print Lab Rat, Classical Conditioning Art for Psychologist"><img src="{{ '/assets/images/marketplace-covers/b9d6a80e381347dbe1b9.jpg' | relative_url }}" alt="Listing image for Psychology A4 Poster Print Lab Rat, Classical Conditioning Art for Psychologist" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fire-study-why-the-warehouse-fire-myth-lingered-myths-and-misconcept-psychology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="psychology poster" data-ebay-reference="fire-study-why-the-warehouse-fire-myth-lingered-myths-and-misconcept-psychology-poster" target="_blank" rel="sponsored noopener noreferrer">Psychology A4 Poster Print Lab Rat, Classical Conditioning Art for Psychologist</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fire-study-why-the-warehouse-fire-myth-lingered-myths-and-misconcept-psychology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="psychology poster" data-ebay-reference="fire-study-why-the-warehouse-fire-myth-lingered-myths-and-misconcept-psychology-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for psychology poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: psychology poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fire-study-why-the-warehouse-fire-myth-lingered-myths-and-misconcept-psychology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="psychology poster" data-ebay-reference="fire-study-why-the-warehouse-fire-myth-lingered-myths-and-misconcept-psychology-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fire-study-why-the-warehouse-fire-myth-lingered-myths-and-misconcept-psychology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="psychology poster" data-ebay-reference="fire-study-why-the-warehouse-fire-myth-lingered-myths-and-misconcept-psychology-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Parts Of Brain Psychology Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/9d55718535d3f8dac09e.jpg' | relative_url }}" alt="Listing image for Parts Of Brain Psychology Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fire-study-why-the-warehouse-fire-myth-lingered-myths-and-misconcept-psychology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="psychology poster" data-ebay-reference="fire-study-why-the-warehouse-fire-myth-lingered-myths-and-misconcept-psychology-poster" target="_blank" rel="sponsored noopener noreferrer">Parts Of Brain Psychology Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fire-study-why-the-warehouse-fire-myth-lingered-myths-and-misconcept-psychology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="psychology poster" data-ebay-reference="fire-study-why-the-warehouse-fire-myth-lingered-myths-and-misconcept-psychology-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for psychology poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: psychology poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fire-study-why-the-warehouse-fire-myth-lingered-myths-and-misconcept-psychology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="psychology poster" data-ebay-reference="fire-study-why-the-warehouse-fire-myth-lingered-myths-and-misconcept-psychology-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fire-study-why-the-warehouse-fire-myth-lingered-myths-and-misconcept-psychology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="psychology poster" data-ebay-reference="fire-study-why-the-warehouse-fire-myth-lingered-myths-and-misconcept-psychology-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Parts Of Brain Psychology Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/9d55718535d3f8dac09e.jpg' | relative_url }}" alt="Listing image for Parts Of Brain Psychology Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fire-study-why-the-warehouse-fire-myth-lingered-myths-and-misconcept-psychology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="psychology poster" data-ebay-reference="fire-study-why-the-warehouse-fire-myth-lingered-myths-and-misconcept-psychology-poster" target="_blank" rel="sponsored noopener noreferrer">Parts Of Brain Psychology Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fire-study-why-the-warehouse-fire-myth-lingered-myths-and-misconcept-psychology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="psychology poster" data-ebay-reference="fire-study-why-the-warehouse-fire-myth-lingered-myths-and-misconcept-psychology-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for psychology poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: psychology poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fire-study-why-the-warehouse-fire-myth-lingered-myths-and-misconcept-psychology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="psychology poster" data-ebay-reference="fire-study-why-the-warehouse-fire-myth-lingered-myths-and-misconcept-psychology-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fire-study-why-the-warehouse-fire-myth-lingered-myths-and-misconcept-psychology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="psychology poster" data-ebay-reference="fire-study-why-the-warehouse-fire-myth-lingered-myths-and-misconcept-psychology-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Carl Jung Psychology Tree Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/92f11548e2571b9c5bb7.jpg' | relative_url }}" alt="Listing image for Carl Jung Psychology Tree Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fire-study-why-the-warehouse-fire-myth-lingered-myths-and-misconcept-psychology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="psychology poster" data-ebay-reference="fire-study-why-the-warehouse-fire-myth-lingered-myths-and-misconcept-psychology-poster" target="_blank" rel="sponsored noopener noreferrer">Carl Jung Psychology Tree Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fire-study-why-the-warehouse-fire-myth-lingered-myths-and-misconcept-psychology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="psychology poster" data-ebay-reference="fire-study-why-the-warehouse-fire-myth-lingered-myths-and-misconcept-psychology-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for psychology poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: psychology poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fire-study-why-the-warehouse-fire-myth-lingered-myths-and-misconcept-psychology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="psychology poster" data-ebay-reference="fire-study-why-the-warehouse-fire-myth-lingered-myths-and-misconcept-psychology-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fire-study-why-the-warehouse-fire-myth-lingered-myths-and-misconcept-psychology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="psychology poster" data-ebay-reference="fire-study-why-the-warehouse-fire-myth-lingered-myths-and-misconcept-psychology-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fire-study-why-the-warehouse-fire-myth-lingered-myths-and-misconcept-psychology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="psychology poster" data-ebay-reference="fire-study-why-the-warehouse-fire-myth-lingered-myths-and-misconcept-psychology-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Carl Jung Psychology Tree Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/92f11548e2571b9c5bb7.jpg' | relative_url }}" alt="Listing image for Carl Jung Psychology Tree Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fire-study-why-the-warehouse-fire-myth-lingered-myths-and-misconcept-psychology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="psychology poster" data-ebay-reference="fire-study-why-the-warehouse-fire-myth-lingered-myths-and-misconcept-psychology-poster" target="_blank" rel="sponsored noopener noreferrer">Carl Jung Psychology Tree Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fire-study-why-the-warehouse-fire-myth-lingered-myths-and-misconcept-psychology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="psychology poster" data-ebay-reference="fire-study-why-the-warehouse-fire-myth-lingered-myths-and-misconcept-psychology-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for psychology poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: psychology poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fire-study-why-the-warehouse-fire-myth-lingered-myths-and-misconcept-psychology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="psychology poster" data-ebay-reference="fire-study-why-the-warehouse-fire-myth-lingered-myths-and-misconcept-psychology-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=psychology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fire-study-why-the-warehouse-fire-myth-lingered-myths-and-misconcept-psychology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="psychology poster" data-ebay-reference="fire-study-why-the-warehouse-fire-myth-lingered-myths-and-misconcept-psychology-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -536,7 +536,7 @@ Recent replication work has continued to find evidence for the underlying effect
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -556,7 +556,7 @@ Recent replication work has continued to find evidence for the underlying effect
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -588,7 +588,7 @@ Recent replication work has continued to find evidence for the underlying effect
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -640,7 +640,7 @@ Recent replication work has continued to find evidence for the underlying effect
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -685,7 +685,7 @@ Recent replication work has continued to find evidence for the underlying effect
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -726,141 +726,141 @@ Recent replication work has continued to find evidence for the underlying effect
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/profile/Colleen_Seifert/publication/232501255_Sources_of_the_Continued_Influence_Effect_When_Misinformation_in_Memory_Affects_Later_Inferences/links/5485d4070cf268d28f0045c0/Sources-of-the-Continued-Influence-Effect-When-Misin" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/profile/Colleen_Seifert/publication/232501255_Sources_of_the_Continued_Influence_Effect_When_Misinformation_in_Memory_Affects_Later_Inferences/links/5485d4070cf268d28f0045c0/Sources-of-the-Continued-Influence-Effect-When-Misin</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>When Misinformation in Memory Affects Later InferencesApril 29, 2014 — The results also show a continued influence effect whe...</p></details>
+   Link:<a href="https://www.researchgate.net/profile/Colleen_Seifert/publication/232501255_Sources_of_the_Continued_Influence_Effect_When_Misinformation_in_Memory_Affects_Later_Inferences/links/5485d4070cf268d28f0045c0/Sources-of-the-Continued-Influence-Effect-When-Misin" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/profile/Colleen_Seifert/publication/232501255_Sources_of_the_Continued_Influence_Effect_When_Misinformation_in_Memory_Affects_Later_Inferences/links/5485d4070cf268d28f0045c0/Sources-of-the-Continued-Influence-Effect-When-Misin</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>When Misinformation in Memory Affects Later InferencesApril 29, 2014 — The results also show a continued influence effect whe...</p></details>
    Published: April 29, 2014  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: anecdotal.app  
    Title: continued influence effect  
-   Link: <a href="https://anecdotal.app/bias/continued-influence-effect/" target="_blank" rel="noopener noreferrer nofollow">https://anecdotal.app/bias/continued-influence-effect/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Continued influence effect | ANECDOTALJohnson and Seifert (1994) showed why. When misinformation fills a causal role in a mental...</p></details>
+   Link:<a href="https://anecdotal.app/bias/continued-influence-effect/" target="_blank" rel="noopener noreferrer nofollow">https://anecdotal.app/bias/continued-influence-effect/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Continued influence effect | ANECDOTALJohnson and Seifert (1994) showed why. When misinformation fills a causal role in a mental...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCExploring factors that mitigate the continued influence  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8627545/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8627545/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>by IP Kan · 2021 · Cited by 27 — The term “continued influence effect” (CIE) refers to the phenomenon that discredited and obsolete in...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8627545/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8627545/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by IP Kan · 2021 · Cited by 27 — The term “continued influence effect” (CIE) refers to the phenomenon that discredited and obsolete in...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: scholarworks.boisestate.edu  
-   Link: <a href="https://scholarworks.boisestate.edu/cgi/viewcontent.cgi?article=1058&amp;context=marketing_facpubs" target="_blank" rel="noopener noreferrer nofollow">https://scholarworks.boisestate.edu/cgi/viewcontent.cgi?article=1058&amp;context=marketing_facpubs</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>How Stories in Memory Perpetuate the Continued Influence of...by A Hamby · 2020 · Cited by 65 — In a seminal study, Johnson and Seifert...</p></details>
+   Link:<a href="https://scholarworks.boisestate.edu/cgi/viewcontent.cgi?article=1058&amp;context=marketing_facpubs" target="_blank" rel="noopener noreferrer nofollow">https://scholarworks.boisestate.edu/cgi/viewcontent.cgi?article=1058&amp;context=marketing_facpubs</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How Stories in Memory Perpetuate the Continued Influence of...by A Hamby · 2020 · Cited by 65 — In a seminal study, Johnson and Seifert...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: sites.dartmouth.edu  
-   Link: <a href="https://sites.dartmouth.edu/nyhan/files/2021/03/nyhan-reifler-causal-corrections.pdf" target="_blank" rel="noopener noreferrer nofollow">https://sites.dartmouth.edu/nyhan/files/2021/03/nyhan-reifler-causal-corrections.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Displacing misinformation about events:by B Nyhan · Cited by 219 — Misinformation can be very difficult to correct and may have lasting e...</p></details>
+   Link:<a href="https://sites.dartmouth.edu/nyhan/files/2021/03/nyhan-reifler-causal-corrections.pdf" target="_blank" rel="noopener noreferrer nofollow">https://sites.dartmouth.edu/nyhan/files/2021/03/nyhan-reifler-causal-corrections.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Displacing misinformation about events:by B Nyhan · Cited by 219 — Misinformation can be very difficult to correct and may have lasting e...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: openaccess.city.ac.uk  
-   Link: <a href="https://openaccess.city.ac.uk/id/eprint/19831/10/ConnorDesai-Reimers2018_Article_ComparingTheUseOfOpenAndClosed.pdf" target="_blank" rel="noopener noreferrer nofollow">https://openaccess.city.ac.uk/id/eprint/19831/10/ConnorDesai-Reimers2018_Article_ComparingTheUseOfOpenAndClosed.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Comparing the use of open and closed questions for Web...June 23, 2018 — by S Connor Desai · 2018 · Cited by 261 — Across all four studi...</p></details>
+   Link:<a href="https://openaccess.city.ac.uk/id/eprint/19831/10/ConnorDesai-Reimers2018_Article_ComparingTheUseOfOpenAndClosed.pdf" target="_blank" rel="noopener noreferrer nofollow">https://openaccess.city.ac.uk/id/eprint/19831/10/ConnorDesai-Reimers2018_Article_ComparingTheUseOfOpenAndClosed.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Comparing the use of open and closed questions for Web...June 23, 2018 — by S Connor Desai · 2018 · Cited by 261 — Across all four studi...</p></details>
    Published: June 23, 2018  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCDoes explaining the origins of misinformation improve  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9487849/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9487849/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>by SC Desai · 2022 · Cited by 23 — The present study examined whether explaining that misinformation originated from a lie or an accid...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9487849/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9487849/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by SC Desai · 2022 · Cited by 23 — The present study examined whether explaining that misinformation originated from a lie or an accid...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0001691823002706" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0001691823002706</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>A replication study of Johnson and Seifert&#x27;s (1994)...by V Laurent · 2023 · Cited by 5 — The term “Continued Influence Effect” (CIE) (Jo...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/pii/S0001691823002706" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0001691823002706</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A replication study of Johnson and Seifert&#x27;s (1994)...by V Laurent · 2023 · Cited by 5 — The term “Continued Influence Effect” (CIE) (Jo...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/profile/Saoirse-Connor-Desai/publication/325106381_Some_misinformation_is_more_easily_countered_An_experiment_on_the_continued_influence_effect/links/5af70b254585157136ce117d/Some-misinformation-is-more-easily-countered-An-experiment-on-the-continued-influence-effect.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/profile/Saoirse-Connor-Desai/publication/325106381_Some_misinformation_is_more_easily_countered_An_experiment_on_the_continued_influence_effect/links/5af70b254585157136ce117d/Some-misinformation-is-more-easily-countered-An-experiment-on-the-continued-influence-effect.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>An experiment on the continued influence effectConversely, in the warehouse fire narrative implied misinformation was more resistant to c...</p></details>
+   Link:<a href="https://www.researchgate.net/profile/Saoirse-Connor-Desai/publication/325106381_Some_misinformation_is_more_easily_countered_An_experiment_on_the_continued_influence_effect/links/5af70b254585157136ce117d/Some-misinformation-is-more-easily-countered-An-experiment-on-the-continued-influence-effect.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/profile/Saoirse-Connor-Desai/publication/325106381_Some_misinformation_is_more_easily_countered_An_experiment_on_the_continued_influence_effect/links/5af70b254585157136ce117d/Some-misinformation-is-more-easily-countered-An-experiment-on-the-continued-influence-effect.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>An experiment on the continued influence effectConversely, in the warehouse fire narrative implied misinformation was more resistant to c...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/232501255_Sources_of_the_Continued_Influence_Effect_When_Misinformation_in_Memory_Affects_Later_Inferences" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/232501255_Sources_of_the_Continued_Influence_Effect_When_Misinformation_in_Memory_Affects_Later_Inferences</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>When Misinformation in Memory Affects Later InferencesDec 8, 2014 — Johnson and Seifert (1994) conducted an experiment in which participa...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/232501255_Sources_of_the_Continued_Influence_Effect_When_Misinformation_in_Memory_Affects_Later_Inferences" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/232501255_Sources_of_the_Continued_Influence_Effect_When_Misinformation_in_Memory_Affects_Later_Inferences</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>When Misinformation in Memory Affects Later InferencesDec 8, 2014 — Johnson and Seifert (1994) conducted an experiment in which participa...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: youtube.com  
    Title: The Continued Influence Effect  
-   Link: <a href="https://www.youtube.com/watch?v=eZ_hcf01EFw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=eZ_hcf01EFw</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Continued Influence of Misinformation — Ullrich Ecker (CHDH Seminar Series 2020)...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=eZ_hcf01EFw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=eZ_hcf01EFw</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Continued Influence of Misinformation — Ullrich Ecker (CHDH Seminar Series 2020)...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: journals.sagepub.com  
-   Link: <a href="https://journals.sagepub.com/doi/10.1177/17470218211048986" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/17470218211048986</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sage JournalsSensitivity to misinformation retractions in the continued...Based on answers to the inference questions, Johnson and Seife...</p></details>
+   Link:<a href="https://journals.sagepub.com/doi/10.1177/17470218211048986" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/17470218211048986</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sage JournalsSensitivity to misinformation retractions in the continued...Based on answers to the inference questions, Johnson and Seife...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/38000364/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/38000364/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>replication study of Johnson and Seifert&#x27;s (1994)...by V Laurent · 2023 · Cited by 5 — Researchers Johnson and Seifert (1994, Experiment...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/38000364/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/38000364/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>replication study of Johnson and Seifert&#x27;s (1994)...by V Laurent · 2023 · Cited by 5 — Researchers Johnson and Seifert (1994, Experiment...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: d-nb.info  
-   Link: <a href="https://d-nb.info/116597374X/34" target="_blank" rel="noopener noreferrer nofollow">https://d-nb.info/116597374X/34</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>This occurred even though a...Read more...</p></details>
+   Link:<a href="https://d-nb.info/116597374X/34" target="_blank" rel="noopener noreferrer nofollow">https://d-nb.info/116597374X/34</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>This occurred even though a...Read more...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: emc-lab.org  
-   Link: <a href="https://www.emc-lab.org/uploads/1/1/3/6/113627673/ecker.2010.mc.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.emc-lab.org/uploads/1/1/3/6/113627673/ecker.2010.mc.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ecker Memory &amp; Cognition LabExplicit warnings reduce but do not eliminate the continued...August 27, 2017 — by UKH ECKER · 2010 · Cited...</p></details>
+   Link:<a href="https://www.emc-lab.org/uploads/1/1/3/6/113627673/ecker.2010.mc.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.emc-lab.org/uploads/1/1/3/6/113627673/ecker.2010.mc.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ecker Memory &amp; Cognition LabExplicit warnings reduce but do not eliminate the continued...August 27, 2017 — by UKH ECKER · 2010 · Cited...</p></details>
    Published: August 27, 2017  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: journals.sagepub.com  
-   Link: <a href="https://journals.sagepub.com/doi/10.1177/17470218251336232" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/17470218251336232</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sage JournalsDo the protective effects last? The...9 Apr 2025 — The continued influence effect (CIE) refers to continued reliance on mis...</p></details>
+   Link:<a href="https://journals.sagepub.com/doi/10.1177/17470218251336232" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/17470218251336232</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sage JournalsDo the protective effects last? The...9 Apr 2025 — The continued influence effect (CIE) refers to continued reliance on mis...</p></details>
 
 ### Additional References
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: everydayconcepts.io  
-   Link: <a href="https://everydayconcepts.io/continued-influence-effect" target="_blank" rel="noopener noreferrer nofollow">https://everydayconcepts.io/continued-influence-effect</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Continued Influence EffectAmerican psychologists Hollyn Johnson and Colleen Seifert at the University of Michigan named and formalized th...</p></details>
+   Link:<a href="https://everydayconcepts.io/continued-influence-effect" target="_blank" rel="noopener noreferrer nofollow">https://everydayconcepts.io/continued-influence-effect</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Continued Influence EffectAmerican psychologists Hollyn Johnson and Colleen Seifert at the University of Michigan named and formalized th...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: johnsonsbaby.com  
-   Link: <a href="https://www.johnsonsbaby.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.johnsonsbaby.com/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Johnson&#x27;s BabyThe #1 Choice of Hospitals &amp; Parents, JOHNSON&#x27;S® products are designed for baby&#x27;s delicate skin. 125+ years of caring for b...</p></details>
+   Link:<a href="https://www.johnsonsbaby.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.johnsonsbaby.com/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Johnson&#x27;s BabyThe #1 Choice of Hospitals &amp; Parents, JOHNSON&#x27;S® products are designed for baby&#x27;s delicate skin. 125+ years of caring for b...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: unicri.org  
-   Link: <a href="https://unicri.org/sites/default/files/2023-01/Handbook%20to%20combat%20CBRN%20disinformation.pdf" target="_blank" rel="noopener noreferrer nofollow">https://unicri.org/sites/default/files/2023-01/Handbook%20to%20combat%20CBRN%20disinformation.pdf</a>  
+   Link:<a href="https://unicri.org/sites/default/files/2023-01/Handbook%20to%20combat%20CBRN%20disinformation.pdf" target="_blank" rel="noopener noreferrer nofollow">https://unicri.org/sites/default/files/2023-01/Handbook%20to%20combat%20CBRN%20disinformation.pdf</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: jnj.com  
-   Link: <a href="https://www.jnj.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.jnj.com/</a>  
+   Link:<a href="https://www.jnj.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.jnj.com/</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: bu.edu  
-   Link: <a href="https://www.bu.edu/ballab/pubs/swire-thompson2020.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.bu.edu/ballab/pubs/swire-thompson2020.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>e extent to which demand characteristics influence misinformation experiments in general.Read more...</p></details>
+   Link:<a href="https://www.bu.edu/ballab/pubs/swire-thompson2020.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.bu.edu/ballab/pubs/swire-thompson2020.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>e extent to which demand characteristics influence misinformation experiments in general.Read more...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: carlo-hamalainen.net  
-   Link: <a href="https://carlo-hamalainen.net/stuff/seifert2002.pdf" target="_blank" rel="noopener noreferrer nofollow">https://carlo-hamalainen.net/stuff/seifert2002.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>n called the “continued influence effect” (...Read more...</p></details>
+   Link:<a href="https://carlo-hamalainen.net/stuff/seifert2002.pdf" target="_blank" rel="noopener noreferrer nofollow">https://carlo-hamalainen.net/stuff/seifert2002.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>n called the “continued influence effect” (...Read more...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: jnjmedtech.com  
-   Link: <a href="https://www.jnjmedtech.com/en-EMEA/Skontaktuj-PL" target="_blank" rel="noopener noreferrer nofollow">https://www.jnjmedtech.com/en-EMEA/Skontaktuj-PL</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>spozycji, aby udzielić Ci potrzebnych informacji...</p></details>
+   Link:<a href="https://www.jnjmedtech.com/en-EMEA/Skontaktuj-PL" target="_blank" rel="noopener noreferrer nofollow">https://www.jnjmedtech.com/en-EMEA/Skontaktuj-PL</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>spozycji, aby udzielić Ci potrzebnych informacji...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: escholarship.org  
    Title: But where's the evidence?  
-   Link: <a href="https://escholarship.org/content/qt90q1k1r7/qt90q1k1r7_noSplash_89e39d5052c4fb3421a8456938be2e80.pdf?t=sgijj7" target="_blank" rel="noopener noreferrer nofollow">https://escholarship.org/content/qt90q1k1r7/qt90q1k1r7_noSplash_89e39d5052c4fb3421a8456938be2e80.pdf?t=sgijj7</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The effect of explanatory...The Continued Influence Effect: The Persistence of. Misinformation in Memory and Reasoning Following Correct...</p></details>
+   Link:<a href="https://escholarship.org/content/qt90q1k1r7/qt90q1k1r7_noSplash_89e39d5052c4fb3421a8456938be2e80.pdf?t=sgijj7" target="_blank" rel="noopener noreferrer nofollow">https://escholarship.org/content/qt90q1k1r7/qt90q1k1r7_noSplash_89e39d5052c4fb3421a8456938be2e80.pdf?t=sgijj7</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The effect of explanatory...The Continued Influence Effect: The Persistence of. Misinformation in Memory and Reasoning Following Correct...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=H_dHJVH5hPU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=H_dHJVH5hPU</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Why Misinformation Sticks in Your Brain Even After It&#x27;s Debunked...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=H_dHJVH5hPU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=H_dHJVH5hPU</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Why Misinformation Sticks in Your Brain Even After It&#x27;s Debunked...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: youtube.com  
    Title: What is Continued influence effect? [Definition and Example]  
-   Link: <a href="https://www.youtube.com/watch?v=EaEDkrYnKuI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=EaEDkrYnKuI</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The [Debunking](&amp;#123;&amp;#123; &#x27;debunking/&#x27; | relative_url &amp;#125;&amp;#125;) Handbook: How to counter misinformation...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=EaEDkrYnKuI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=EaEDkrYnKuI</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The [Debunking](&amp;#123;&amp;#123; &#x27;debunking/&#x27; | relative_url &amp;#125;&amp;#125;) Handbook: How to counter misinformation...</p></details>

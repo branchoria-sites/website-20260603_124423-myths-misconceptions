@@ -268,29 +268,29 @@ image: /assets/images/Myths_and_misconcept_0d48d7_slogans_vs_explanati_60c7b9_re
 
 ## Introduction
 
-Many myths survive not because the evidence for them is strong, but because the claims are familiar. A statement that is heard again and again can begin to feel true even when it is false and even when people have previously seen a [correction]({{ 'correction/' | relative_url }}). Psychologists call this the **illusory truth effect**: repetition increases the perceived truthfulness of a claim. Research has found that repeated statements are more likely to be judged as true than new statements, including misinformation, [fake news headlines]({{ 'headlines/' | relative_url }}) and even claims that contradict what people already know. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/38113667/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">The illusory truth effect: A review of how repetition...by J Udry · 2024 · Cited by 117 — Repetition increases belief in informati...</span></span></span> ScienceDirect This mechanism helps explain why memorable slogans often outperform accurate explanations. Repetition does not usually provide new evidence <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/abs/pii/S2352250X23001811" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[sciencedirect.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">The illusory truth effect: A review of how repetition...by J Udry · 2024 · Cited by 119 — Repetition increases belief in in...</span></span></span>, but it changes how a claim feels. The more familiar a statement becomes, the easier it is to process, recall and recognise. That feeling of ease can be mistaken for a sign of accuracy.
+Many myths survive not because the evidence for them is strong, but because the claims are familiar. A statement that is heard again and again can begin to feel true even when it is false and even when people have previously seen a [correction]({{ 'correction/' | relative_url }}). Psychologists call this the **illusory truth effect**: repetition increases the perceived truthfulness of a claim. Research has found that repeated statements are more likely to be judged as true than new statements, including misinformation, [fake news headlines]({{ 'headlines/' | relative_url }}) and even claims that contradict what people already know.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/38113667/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">The illusory truth effect: A review of how repetition...by J Udry · 2024 · Cited by 117 — Repetition increases belief in informati...</span></span></span> ScienceDirect This mechanism helps explain why memorable slogans often outperform accurate explanations. Repetition does not usually provide new evidence<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/abs/pii/S2352250X23001811" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[sciencedirect.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">The illusory truth effect: A review of how repetition...by J Udry · 2024 · Cited by 119 — Repetition increases belief in in...</span></span></span>, but it changes how a claim feels. The more familiar a statement becomes, the easier it is to process, recall and recognise. That feeling of ease can be mistaken for a sign of accuracy.
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_slogans_vs_explanati_60c7b9_repeated_false_claim_23db75-Illustration-1-dark.svg" | relative_url }}" alt="Repetition illustration 1" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_slogans_vs_explanati_60c7b9_repeated_false_claim_23db75-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_slogans_vs_explanati_60c7b9_repeated_false_claim_23db75-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## The illusory truth effect in plain language
 
-The basic finding is surprisingly simple: people tend to rate repeated information as more believable than information they encounter for the first time. This pattern was first identified decades ago and has been replicated many times across different kinds of statements and audiences. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/38113667/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">The illusory truth effect: A review of how repetition...by J Udry · 2024 · Cited by 117 — Repetition increases belief in informati...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://link.springer.com/article/10.1186/s41235-021-00301-5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer Link]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">Springer LinkThe effects of repetition frequency on the illusory truth effectby A Hassan · 2021 · Cited by 404 — This finding is known as...</span></span></span>
+The basic finding is surprisingly simple: people tend to rate repeated information as more believable than information they encounter for the first time. This pattern was first identified decades ago and has been replicated many times across different kinds of statements and audiences.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/38113667/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">The illusory truth effect: A review of how repetition...by J Udry · 2024 · Cited by 117 — Repetition increases belief in informati...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://link.springer.com/article/10.1186/s41235-021-00301-5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer Link]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">Springer LinkThe effects of repetition frequency on the illusory truth effectby A Hassan · 2021 · Cited by 404 — This finding is known as...</span></span></span>
 
 Imagine seeing the same claim in a headline, hearing it in a conversation and then encountering it again in a social media post. Even if none of those appearances provide evidence, the claim gradually becomes familiar. Later, when asked whether it is true, part of the mind recognises it and responds with a subtle sense of certainty.
 
-Importantly, repetition does not only affect obscure facts. Reviews of the research show that repeated exposure can increase belief in misinformation, conspiracy claims and implausible statements. In some studies, the effect appears even when people possess relevant knowledge that should help them reject the false claim. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/38113667/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">The illusory truth effect: A review of how repetition...by J Udry · 2024 · Cited by 117 — Repetition increases belief in informati...</span></span></span> ScienceDirect The result is a powerful advantage for myths. A false statement that circulates widely may gain credibility simply through repeated exposure <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/abs/pii/S2352250X23001811" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[sciencedirect.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">The illusory truth effect: A review of how repetition...by J Udry · 2024 · Cited by 119 — Repetition increases belief in in...</span></span></span>, regardless of its evidential quality.
+Importantly, repetition does not only affect obscure facts. Reviews of the research show that repeated exposure can increase belief in misinformation, conspiracy claims and implausible statements. In some studies, the effect appears even when people possess relevant knowledge that should help them reject the false claim.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/38113667/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">The illusory truth effect: A review of how repetition...by J Udry · 2024 · Cited by 117 — Repetition increases belief in informati...</span></span></span> ScienceDirect The result is a powerful advantage for myths. A false statement that circulates widely may gain credibility simply through repeated exposure<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/abs/pii/S2352250X23001811" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[sciencedirect.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">The illusory truth effect: A review of how repetition...by J Udry · 2024 · Cited by 119 — Repetition increases belief in in...</span></span></span>, regardless of its evidential quality.
 
 ## Why fluency can be mistaken for accuracy
 
-The leading explanation centres on **processing [fluency]({{ 'fluency/' | relative_url }})**. Repeated information is easier for the brain to handle because it has been encountered before. Researchers argue that people often use this feeling of ease as a mental shortcut when judging truth. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9283209/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Furthermore, we aimed to examine whether...Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://link.springer.com/article/10.1186/s41235-021-00301-5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer Link]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">Springer LinkThe effects of repetition frequency on the illusory truth effectby A Hassan · 2021 · Cited by 404 — This finding is known as...</span></span></span>
+The leading explanation centres on **processing [fluency]({{ 'fluency/' | relative_url }})**. Repeated information is easier for the brain to handle because it has been encountered before. Researchers argue that people often use this feeling of ease as a mental shortcut when judging truth.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9283209/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Furthermore, we aimed to examine whether...Read more...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://link.springer.com/article/10.1186/s41235-021-00301-5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer Link]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">Springer LinkThe effects of repetition frequency on the illusory truth effectby A Hassan · 2021 · Cited by 404 — This finding is known as...</span></span></span>
 
-In everyday life, fluency is often a useful signal. Familiar roads are easier to navigate. Frequently encountered facts are often true. Because familiarity and truth are commonly correlated, people learn to treat easy processing as a rough indicator of reliability. The problem arises when repetition creates fluency without providing evidence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://link.springer.com/article/10.1186/s41235-021-00301-5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer Link]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">Springer LinkThe effects of repetition frequency on the illusory truth effectby A Hassan · 2021 · Cited by 404 — This finding is known as...</span></span></span>
+In everyday life, fluency is often a useful signal. Familiar roads are easier to navigate. Frequently encountered facts are often true. Because familiarity and truth are commonly correlated, people learn to treat easy processing as a rough indicator of reliability. The problem arises when repetition creates fluency without providing evidence.<span class="citation-chip-wrap"><a class="citation-chip" href="https://link.springer.com/article/10.1186/s41235-021-00301-5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer Link]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">Springer LinkThe effects of repetition frequency on the illusory truth effectby A Hassan · 2021 · Cited by 404 — This finding is known as...</span></span></span>
 
 Several related processes reinforce the effect:
 
 * **Familiarity increases.** The claim feels recognised rather than novel.
 * **Source [memory]({{ 'memory/' | relative_url }}) fades.** People may remember the statement but forget where they heard it.
 * **Cognitive effort decreases.** Familiar claims require less mental work to understand.
-* **[Confidence]({{ 'confidence/' | relative_url }}) rises.** Repetition can increase not only perceived truth but also confidence in that judgement. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/38113667/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">The illusory truth effect: A review of how repetition...by J Udry · 2024 · Cited by 117 — Repetition increases belief in informati...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9283209/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Furthermore, we aimed to examine whether...Read more...</span></span></span>
+* **[Confidence]({{ 'confidence/' | relative_url }}) rises.** Repetition can increase not only perceived truth but also confidence in that judgement.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/38113667/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">The illusory truth effect: A review of how repetition...by J Udry · 2024 · Cited by 117 — Repetition increases belief in informati...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9283209/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Furthermore, we aimed to examine whether...Read more...</span></span></span>
 
 This helps explain why myths often become easier to recognise before they become easier to question. Recognition is fast. Verification is slower.
 
@@ -300,16 +300,16 @@ This helps explain why myths often become easier to recognise before they become
 
 Many people assume that false claims work only because audiences lack information. The evidence suggests a more complicated picture.
 
-Studies have found illusory truth effects among participants who already possessed relevant knowledge. Familiarity can sometimes compete with, and occasionally outweigh, factual knowledge during quick judgements. Researchers have repeatedly observed that warnings and awareness of repetition do not completely eliminate the effect. Vanderbilt University <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Illusory_truth_effect" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Illusory truth effect</span><span class="citation-popover-snippet">Illusory truth effect - WikipediaThe illusory truth effect (also known as the illusion of truth effect... Despite this warning, the p...</span></span></span> This does not mean knowledge is useless. People with stronger knowledge generally perform better overall. However, truth judgements are influenced by multiple signals at once. Familiarity is one of those signals, and it can still affect evaluation even when evidence points in another direction. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/38113667/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">The illusory truth effect: A review of how repetition...by J Udry · 2024 · Cited by 117 — Repetition increases belief in informati...</span></span></span>
+Studies have found illusory truth effects among participants who already possessed relevant knowledge. Familiarity can sometimes compete with, and occasionally outweigh, factual knowledge during quick judgements. Researchers have repeatedly observed that warnings and awareness of repetition do not completely eliminate the effect. Vanderbilt University<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Illusory_truth_effect" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Illusory truth effect</span><span class="citation-popover-snippet">Illusory truth effect - WikipediaThe illusory truth effect (also known as the illusion of truth effect... Despite this warning, the p...</span></span></span> This does not mean knowledge is useless. People with stronger knowledge generally perform better overall. However, truth judgements are influenced by multiple signals at once. Familiarity is one of those signals, and it can still affect evaluation even when evidence points in another direction.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/38113667/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">The illusory truth effect: A review of how repetition...by J Udry · 2024 · Cited by 117 — Repetition increases belief in informati...</span></span></span>
 
 That is why myths can persist after being debunked. Once a claim becomes familiar, the correction has to compete not only with the content of the myth but also with the mental advantage created by repetition.
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_slogans_vs_explanati_60c7b9_repeated_false_claim_23db75-Illustration-3-dark.svg" | relative_url }}" alt="Repetition illustration 3" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_slogans_vs_explanati_60c7b9_repeated_false_claim_23db75-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_slogans_vs_explanati_60c7b9_repeated_false_claim_23db75-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## A real-world example: repeated misinformation
 
-The effect is not confined to laboratory trivia questions. Research has shown that repetition can increase belief in misinformation and can also make people more willing to share it with others. Even a single additional exposure can have measurable effects. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9283209/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Furthermore, we aimed to examine whether...Read more...</span></span></span>
+The effect is not confined to laboratory trivia questions. Research has shown that repetition can increase belief in misinformation and can also make people more willing to share it with others. Even a single additional exposure can have measurable effects.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9283209/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Furthermore, we aimed to examine whether...Read more...</span></span></span>
 
-A recent study of climate-related claims found that repeated exposure increased perceived credibility for both accurate scientific statements and misleading climate-denial claims. The mechanism did not depend on the claim being true; repetition itself increased perceived plausibility. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/australia-news/article/2024/aug/08/repeating-climate-denial-claims-makes-them-seem-more-credible-australian-led-study-finds" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">The research, published in *Plos One*, was led by Mary Jiang from the Australian National University and highlighted the &quot;illusory truth...</span></span></span>
+A recent study of climate-related claims found that repeated exposure increased perceived credibility for both accurate scientific statements and misleading climate-denial claims. The mechanism did not depend on the claim being true; repetition itself increased perceived plausibility.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/australia-news/article/2024/aug/08/repeating-climate-denial-claims-makes-them-seem-more-credible-australian-led-study-finds" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">The research, published in *Plos One*, was led by Mary Jiang from the Australian National University and highlighted the &quot;illusory truth...</span></span></span>
 
 This creates a difficult communication environment. Accurate information benefits from repetition, but so do falsehoods. The contest is often not between evidence and no evidence. It is between two messages competing for attention, memory and familiarity.
 
@@ -318,7 +318,7 @@ This creates a difficult communication environment. Accurate information benefit
 
 The existence of the illusory truth effect has sometimes led to worries that correcting misinformation might [backfire]({{ 'backfire/' | relative_url }}) by repeating the false claim. The evidence does not support a simple rule of "never mention the myth".
 
-Research on debunking suggests that [corrections]({{ 'corrections/' | relative_url }}) are generally effective and that strong corrections usually outweigh any familiarity boost created by mentioning the falsehood. Large reviews have found little support for the idea that corrections routinely make misinformation stronger. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9283209/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Furthermore, we aimed to examine whether...Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.climatechangecommunication.org/wp-content/uploads/2023/09/DebunkingHandbook2020.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: climatechangecommunication.org">[Center for Climate Change Communication]</a><span class="citation-popover" role="note"><span class="citation-popover-source">climatechangecommunication.org</span><span class="citation-popover-snippet">Center for Climate Change CommunicationDebunking HandbookThus, while repeating misinformation generally increases familiarity and truth r...</span></span></span>
+Research on debunking suggests that [corrections]({{ 'corrections/' | relative_url }}) are generally effective and that strong corrections usually outweigh any familiarity boost created by mentioning the falsehood. Large reviews have found little support for the idea that corrections routinely make misinformation stronger.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9283209/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Furthermore, we aimed to examine whether...Read more...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.climatechangecommunication.org/wp-content/uploads/2023/09/DebunkingHandbook2020.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: climatechangecommunication.org">[Center for Climate Change Communication]</a><span class="citation-popover" role="note"><span class="citation-popover-source">climatechangecommunication.org</span><span class="citation-popover-snippet">Center for Climate Change CommunicationDebunking HandbookThus, while repeating misinformation generally increases familiarity and truth r...</span></span></span>
 
 What matters is how the correction is structured.
 
@@ -329,7 +329,7 @@ Effective corrections typically:
 * Lead with the accurate information rather than dwelling on the myth.
 * Provide a clear replacement explanation instead of leaving a gap.
 * Repeat the factual account enough that it becomes memorable.
-* Avoid turning the myth itself into the most prominent or memorable part of the message. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.climatechangecommunication.org/wp-content/uploads/2023/09/DebunkingHandbook2020.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: climatechangecommunication.org">[Center for Climate Change Communication]</a><span class="citation-popover" role="note"><span class="citation-popover-source">climatechangecommunication.org</span><span class="citation-popover-snippet">Center for Climate Change CommunicationDebunking HandbookThus, while repeating misinformation generally increases familiarity and truth r...</span></span></span>
+* Avoid turning the myth itself into the most prominent or memorable part of the message.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.climatechangecommunication.org/wp-content/uploads/2023/09/DebunkingHandbook2020.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: climatechangecommunication.org">[Center for Climate Change Communication]</a><span class="citation-popover" role="note"><span class="citation-popover-source">climatechangecommunication.org</span><span class="citation-popover-snippet">Center for Climate Change CommunicationDebunking HandbookThus, while repeating misinformation generally increases familiarity and truth r...</span></span></span>
 
 </div>
 
@@ -339,203 +339,203 @@ In practical terms, a correction works best when it gives people something true 
 
 ## Why repetition remains a challenge
 
-The illusory truth effect does not mean people are irrational or incapable of evaluating evidence. It reflects a shortcut that normally helps people navigate an information-rich world. Familiar information is often reliable, so the brain learns to treat familiarity as a useful clue. <span class="citation-chip-wrap"><a class="citation-chip" href="https://link.springer.com/article/10.1186/s41235-021-00301-5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer Link]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">Springer LinkThe effects of repetition frequency on the illusory truth effectby A Hassan · 2021 · Cited by 404 — This finding is known as...</span></span></span>
+The illusory truth effect does not mean people are irrational or incapable of evaluating evidence. It reflects a shortcut that normally helps people navigate an information-rich world. Familiar information is often reliable, so the brain learns to treat familiarity as a useful clue.<span class="citation-chip-wrap"><a class="citation-chip" href="https://link.springer.com/article/10.1186/s41235-021-00301-5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer Link]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">Springer LinkThe effects of repetition frequency on the illusory truth effectby A Hassan · 2021 · Cited by 404 — This finding is known as...</span></span></span>
 
-The difficulty arises when repetition becomes detached from accuracy. Modern media environments allow a claim to be encountered repeatedly across platforms, conversations and headlines regardless of whether it is true. Each exposure can increase familiarity, making the statement feel progressively more credible. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/38113667/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">The illusory truth effect: A review of how repetition...by J Udry · 2024 · Cited by 117 — Repetition increases belief in informati...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9283209/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Furthermore, we aimed to examine whether...Read more...</span></span></span>
+The difficulty arises when repetition becomes detached from accuracy. Modern media environments allow a claim to be encountered repeatedly across platforms, conversations and headlines regardless of whether it is true. Each exposure can increase familiarity, making the statement feel progressively more credible.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/38113667/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">The illusory truth effect: A review of how repetition...by J Udry · 2024 · Cited by 117 — Repetition increases belief in informati...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9283209/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Furthermore, we aimed to examine whether...Read more...</span></span></span>
 
 For myths and misconceptions, this mechanism is especially important. A memorable slogan gains strength every time it is repeated. An accurate explanation must not only be correct; it must also become familiar enough to compete. The challenge is therefore not merely to provide evidence, but to ensure that truthful explanations are encountered, remembered and repeated often enough to feel as recognisable as the myths they replace.
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ZHJi8BUVYgw" title="The Illusory Truth Effect: How Repetition Transforms Lies into &quot;Facts&quot;" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ZHJi8BUVYgw" target="_blank" rel="noopener noreferrer">The Illusory Truth Effect: How Repetition Transforms Lies into &quot;Facts&quot;</a></p><p class="youtube-embed-meta">Channel: Plants Health &middot; Views: 184 &middot; Uploaded: March 2025 &middot; Length: 3 minutes 39 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ZHJi8BUVYgw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ZHJi8BUVYgw">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why repetition makes myths feel true. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why repetition makes myths feel true. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Factfulness+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Factfulness on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=rxg0tgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Factfulness" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Factfulness+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Factfulness">Factfulness</a>
-        </h4>
-        <p class="fr-book-author">By Hans Rosling, Ola Rosling et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Factfulness+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Factfulness on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=rxg0tgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Factfulness" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Factfulness+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Factfulness">Factfulness</a>
+</h4>
+<p class="fr-book-author">By Hans Rosling, Ola Rosling et al.</p>
         
-        <p class="fr-book-desc">Shows how simple narratives distort understanding and how to think more accurately.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Factfulness+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows how simple narratives distort understanding and how to think more accurately.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Factfulness+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YGPzXWanppcC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
-        </h4>
-        <p class="fr-book-author">By Daniel Kahneman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YGPzXWanppcC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
+</h4>
+<p class="fr-book-author">By Daniel Kahneman</p>
         
-        <p class="fr-book-desc">Provides cognitive foundations for fluency and familiarity effects.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides cognitive foundations for fluency and familiarity effects.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=A+field+guide+to+lies+Daniel+J.+Levitin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open A field guide to lies on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10538773-M.jpg" alt="Cover for A field guide to lies" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=A+field+guide+to+lies+Daniel+J.+Levitin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A field guide to lies">A field guide to lies</a>
-        </h4>
-        <p class="fr-book-author">By Daniel J. Levitin</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=A+field+guide+to+lies+Daniel+J.+Levitin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open A field guide to lies on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10538773-M.jpg" alt="Cover for A field guide to lies" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=A+field+guide+to+lies+Daniel+J.+Levitin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A field guide to lies">A field guide to lies</a>
+</h4>
+<p class="fr-book-author">By Daniel J. Levitin</p>
         
-        <p class="fr-book-desc">First published 2016. Subjects: Critical thinking, Fallacies (Logic), Reasoning, Statistics, Social aspects.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=A+field+guide+to+lies+Daniel+J.+Levitin&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2016. Subjects: Critical thinking, Fallacies (Logic), Reasoning, Statistics, Social aspects.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=A+field+guide+to+lies+Daniel+J.+Levitin&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Foolproof+Sander+Van+Der+Linden&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Foolproof on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/13300557-M.jpg" alt="Cover for Foolproof" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Foolproof+Sander+Van+Der+Linden&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Foolproof">Foolproof</a>
-        </h4>
-        <p class="fr-book-author">By Sander Van Der Linden</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Foolproof+Sander+Van+Der+Linden&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Foolproof on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/13300557-M.jpg" alt="Cover for Foolproof" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Foolproof+Sander+Van+Der+Linden&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Foolproof">Foolproof</a>
+</h4>
+<p class="fr-book-author">By Sander Van Der Linden</p>
         
-        <p class="fr-book-desc">First published 2023.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Foolproof+Sander+Van+Der+Linden&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2023.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Foolproof+Sander+Van+Der+Linden&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Factfulness&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Factfulness</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=A+field+to+lies+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">A field to lies books</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Factfulness&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Factfulness</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=A+field+to+lies+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">A field to lies books</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=education+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=repetition-why-repetition-makes-myths-feel-true-myths-and-misconcept-education-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="education poster" data-ebay-reference="repetition-why-repetition-makes-myths-feel-true-myths-and-misconcept-education-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Roman Numerals A4 poster, Year 4, KS2, Numeracy, Teaching Resource, Educational"><img src="{{ '/assets/images/marketplace-covers/d68ce4bacc8af5c19b8a.jpg' | relative_url }}" alt="Listing image for Roman Numerals A4 poster, Year 4, KS2, Numeracy, Teaching Resource, Educational" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=education+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=repetition-why-repetition-makes-myths-feel-true-myths-and-misconcept-education-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="education poster" data-ebay-reference="repetition-why-repetition-makes-myths-feel-true-myths-and-misconcept-education-poster" target="_blank" rel="sponsored noopener noreferrer">Roman Numerals A4 poster, Year 4, KS2, Numeracy, Teaching Resource, Educational</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=education+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=repetition-why-repetition-makes-myths-feel-true-myths-and-misconcept-education-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="education poster" data-ebay-reference="repetition-why-repetition-makes-myths-feel-true-myths-and-misconcept-education-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for education poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: education poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=education+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=repetition-why-repetition-makes-myths-feel-true-myths-and-misconcept-education-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="education poster" data-ebay-reference="repetition-why-repetition-makes-myths-feel-true-myths-and-misconcept-education-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=education+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=repetition-why-repetition-makes-myths-feel-true-myths-and-misconcept-education-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="education poster" data-ebay-reference="repetition-why-repetition-makes-myths-feel-true-myths-and-misconcept-education-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Roman Numerals A4 poster, Year 4, KS2, Numeracy, Teaching Resource, Educational"><img src="{{ '/assets/images/marketplace-covers/d68ce4bacc8af5c19b8a.jpg' | relative_url }}" alt="Listing image for Roman Numerals A4 poster, Year 4, KS2, Numeracy, Teaching Resource, Educational" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=education+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=repetition-why-repetition-makes-myths-feel-true-myths-and-misconcept-education-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="education poster" data-ebay-reference="repetition-why-repetition-makes-myths-feel-true-myths-and-misconcept-education-poster" target="_blank" rel="sponsored noopener noreferrer">Roman Numerals A4 poster, Year 4, KS2, Numeracy, Teaching Resource, Educational</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=education+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=repetition-why-repetition-makes-myths-feel-true-myths-and-misconcept-education-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="education poster" data-ebay-reference="repetition-why-repetition-makes-myths-feel-true-myths-and-misconcept-education-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for education poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: education poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=education+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=repetition-why-repetition-makes-myths-feel-true-myths-and-misconcept-education-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="education poster" data-ebay-reference="repetition-why-repetition-makes-myths-feel-true-myths-and-misconcept-education-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=education+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=repetition-why-repetition-makes-myths-feel-true-myths-and-misconcept-education-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="education poster" data-ebay-reference="repetition-why-repetition-makes-myths-feel-true-myths-and-misconcept-education-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Educational Posters Laminated. Times Table, Phonics, Alphabet, High Quality 6/20"><img src="{{ '/assets/images/marketplace-covers/efaa5dc1a65eef3cbfd0.jpg' | relative_url }}" alt="Listing image for Educational Posters Laminated. Times Table, Phonics, Alphabet, High Quality 6/20" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=education+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=repetition-why-repetition-makes-myths-feel-true-myths-and-misconcept-education-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="education poster" data-ebay-reference="repetition-why-repetition-makes-myths-feel-true-myths-and-misconcept-education-poster" target="_blank" rel="sponsored noopener noreferrer">Educational Posters Laminated. Times Table, Phonics, Alphabet, High Quality 6/20</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=education+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=repetition-why-repetition-makes-myths-feel-true-myths-and-misconcept-education-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="education poster" data-ebay-reference="repetition-why-repetition-makes-myths-feel-true-myths-and-misconcept-education-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for education poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: education poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=education+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=repetition-why-repetition-makes-myths-feel-true-myths-and-misconcept-education-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="education poster" data-ebay-reference="repetition-why-repetition-makes-myths-feel-true-myths-and-misconcept-education-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=education+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=repetition-why-repetition-makes-myths-feel-true-myths-and-misconcept-education-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="education poster" data-ebay-reference="repetition-why-repetition-makes-myths-feel-true-myths-and-misconcept-education-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Educational Posters Laminated. Times Table, Phonics, Alphabet, High Quality 6/20"><img src="{{ '/assets/images/marketplace-covers/efaa5dc1a65eef3cbfd0.jpg' | relative_url }}" alt="Listing image for Educational Posters Laminated. Times Table, Phonics, Alphabet, High Quality 6/20" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=education+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=repetition-why-repetition-makes-myths-feel-true-myths-and-misconcept-education-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="education poster" data-ebay-reference="repetition-why-repetition-makes-myths-feel-true-myths-and-misconcept-education-poster" target="_blank" rel="sponsored noopener noreferrer">Educational Posters Laminated. Times Table, Phonics, Alphabet, High Quality 6/20</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=education+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=repetition-why-repetition-makes-myths-feel-true-myths-and-misconcept-education-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="education poster" data-ebay-reference="repetition-why-repetition-makes-myths-feel-true-myths-and-misconcept-education-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for education poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: education poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=education+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=repetition-why-repetition-makes-myths-feel-true-myths-and-misconcept-education-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="education poster" data-ebay-reference="repetition-why-repetition-makes-myths-feel-true-myths-and-misconcept-education-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=education+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=repetition-why-repetition-makes-myths-feel-true-myths-and-misconcept-education-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="education poster" data-ebay-reference="repetition-why-repetition-makes-myths-feel-true-myths-and-misconcept-education-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PERIODIC TABLE Real Elements A3 Laminated Chemistry Science Educational Poster"><img src="{{ '/assets/images/marketplace-covers/fe6eac85e0cbd3115c4c.jpg' | relative_url }}" alt="Listing image for PERIODIC TABLE Real Elements A3 Laminated Chemistry Science Educational Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=education+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=repetition-why-repetition-makes-myths-feel-true-myths-and-misconcept-education-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="education poster" data-ebay-reference="repetition-why-repetition-makes-myths-feel-true-myths-and-misconcept-education-poster" target="_blank" rel="sponsored noopener noreferrer">PERIODIC TABLE Real Elements A3 Laminated Chemistry Science Educational Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=education+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=repetition-why-repetition-makes-myths-feel-true-myths-and-misconcept-education-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="education poster" data-ebay-reference="repetition-why-repetition-makes-myths-feel-true-myths-and-misconcept-education-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for education poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: education poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=education+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=repetition-why-repetition-makes-myths-feel-true-myths-and-misconcept-education-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="education poster" data-ebay-reference="repetition-why-repetition-makes-myths-feel-true-myths-and-misconcept-education-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=education+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=repetition-why-repetition-makes-myths-feel-true-myths-and-misconcept-education-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="education poster" data-ebay-reference="repetition-why-repetition-makes-myths-feel-true-myths-and-misconcept-education-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PERIODIC TABLE Real Elements A3 Laminated Chemistry Science Educational Poster"><img src="{{ '/assets/images/marketplace-covers/fe6eac85e0cbd3115c4c.jpg' | relative_url }}" alt="Listing image for PERIODIC TABLE Real Elements A3 Laminated Chemistry Science Educational Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=education+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=repetition-why-repetition-makes-myths-feel-true-myths-and-misconcept-education-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="education poster" data-ebay-reference="repetition-why-repetition-makes-myths-feel-true-myths-and-misconcept-education-poster" target="_blank" rel="sponsored noopener noreferrer">PERIODIC TABLE Real Elements A3 Laminated Chemistry Science Educational Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=education+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=repetition-why-repetition-makes-myths-feel-true-myths-and-misconcept-education-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="education poster" data-ebay-reference="repetition-why-repetition-makes-myths-feel-true-myths-and-misconcept-education-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for education poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: education poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=education+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=repetition-why-repetition-makes-myths-feel-true-myths-and-misconcept-education-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="education poster" data-ebay-reference="repetition-why-repetition-makes-myths-feel-true-myths-and-misconcept-education-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=education+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=repetition-why-repetition-makes-myths-feel-true-myths-and-misconcept-education-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="education poster" data-ebay-reference="repetition-why-repetition-makes-myths-feel-true-myths-and-misconcept-education-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Human Muscular System Body Educational Poster Skeletal Nervous Anatomy Chart"><img src="{{ '/assets/images/marketplace-covers/f3de2a2889d152054816.jpg' | relative_url }}" alt="Listing image for Human Muscular System Body Educational Poster Skeletal Nervous Anatomy Chart" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=education+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=repetition-why-repetition-makes-myths-feel-true-myths-and-misconcept-education-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="education poster" data-ebay-reference="repetition-why-repetition-makes-myths-feel-true-myths-and-misconcept-education-poster" target="_blank" rel="sponsored noopener noreferrer">Human Muscular System Body Educational Poster Skeletal Nervous Anatomy Chart</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=education+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=repetition-why-repetition-makes-myths-feel-true-myths-and-misconcept-education-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="education poster" data-ebay-reference="repetition-why-repetition-makes-myths-feel-true-myths-and-misconcept-education-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for education poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: education poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=education+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=repetition-why-repetition-makes-myths-feel-true-myths-and-misconcept-education-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="education poster" data-ebay-reference="repetition-why-repetition-makes-myths-feel-true-myths-and-misconcept-education-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=education+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=repetition-why-repetition-makes-myths-feel-true-myths-and-misconcept-education-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="education poster" data-ebay-reference="repetition-why-repetition-makes-myths-feel-true-myths-and-misconcept-education-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=education+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=repetition-why-repetition-makes-myths-feel-true-myths-and-misconcept-education-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="education poster" data-ebay-reference="repetition-why-repetition-makes-myths-feel-true-myths-and-misconcept-education-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Human Muscular System Body Educational Poster Skeletal Nervous Anatomy Chart"><img src="{{ '/assets/images/marketplace-covers/f3de2a2889d152054816.jpg' | relative_url }}" alt="Listing image for Human Muscular System Body Educational Poster Skeletal Nervous Anatomy Chart" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=education+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=repetition-why-repetition-makes-myths-feel-true-myths-and-misconcept-education-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="education poster" data-ebay-reference="repetition-why-repetition-makes-myths-feel-true-myths-and-misconcept-education-poster" target="_blank" rel="sponsored noopener noreferrer">Human Muscular System Body Educational Poster Skeletal Nervous Anatomy Chart</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=education+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=repetition-why-repetition-makes-myths-feel-true-myths-and-misconcept-education-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="education poster" data-ebay-reference="repetition-why-repetition-makes-myths-feel-true-myths-and-misconcept-education-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for education poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: education poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=education+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=repetition-why-repetition-makes-myths-feel-true-myths-and-misconcept-education-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="education poster" data-ebay-reference="repetition-why-repetition-makes-myths-feel-true-myths-and-misconcept-education-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=education+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=repetition-why-repetition-makes-myths-feel-true-myths-and-misconcept-education-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="education poster" data-ebay-reference="repetition-why-repetition-makes-myths-feel-true-myths-and-misconcept-education-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -551,7 +551,7 @@ For myths and misconceptions, this mechanism is especially important. A memorabl
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -571,7 +571,7 @@ For myths and misconceptions, this mechanism is especially important. A memorabl
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -603,7 +603,7 @@ For myths and misconceptions, this mechanism is especially important. A memorabl
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -655,7 +655,7 @@ For myths and misconceptions, this mechanism is especially important. A memorabl
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -700,7 +700,7 @@ For myths and misconceptions, this mechanism is especially important. A memorabl
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -741,182 +741,182 @@ For myths and misconceptions, this mechanism is especially important. A memorabl
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S2352250X23001811" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S2352250X23001811</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The illusory truth effect: A review of how repetition...by J Udry · 2024 · Cited by 119 — Repetition increases belief in in...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/abs/pii/S2352250X23001811" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S2352250X23001811</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The illusory truth effect: A review of how repetition...by J Udry · 2024 · Cited by 119 — Repetition increases belief in in...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8116821/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8116821/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>This finding is known as the illusory truth effect.Read more...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8116821/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8116821/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>This finding is known as the illusory truth effect.Read more...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: link.springer.com  
-   Link: <a href="https://link.springer.com/article/10.1186/s41235-021-00301-5" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1186/s41235-021-00301-5</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Springer LinkThe effects of repetition frequency on the illusory truth effectby A Hassan · 2021 · Cited by 404 — This finding is known as...</p></details>
+   Link:<a href="https://link.springer.com/article/10.1186/s41235-021-00301-5" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1186/s41235-021-00301-5</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Springer LinkThe effects of repetition frequency on the illusory truth effectby A Hassan · 2021 · Cited by 404 — This finding is known as...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: Wikipedia  
    Title: Illusory truth effect  
-   Link: <a href="https://en.wikipedia.org/wiki/Illusory_truth_effect" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Illusory_truth_effect</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Illusory truth effect - WikipediaThe illusory truth effect (also known as the illusion of truth effect... Despite this warning, the p...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Illusory_truth_effect" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Illusory_truth_effect</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Illusory truth effect - WikipediaThe illusory truth effect (also known as the illusion of truth effect... Despite this warning, the p...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4816661/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4816661/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>On Known Unknowns: Fluency and the Neural Mechanisms of...by WC Wang · 2016 · Cited by 136 — Recent work suggests that this processin...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4816661/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4816661/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>On Known Unknowns: Fluency and the Neural Mechanisms of...by WC Wang · 2016 · Cited by 136 — Recent work suggests that this processin...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11143013/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11143013/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>People not only judge repeatedly perceived information as more likely being true (the so-called truth effect) they also tend to be more c...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11143013/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11143013/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>People not only judge repeatedly perceived information as more likely being true (the so-called truth effect) they also tend to be more c...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: news.vanderbilt.edu  
    Title: illusory-truth effect  
-   Link: <a href="https://news.vanderbilt.edu/2020/10/06/study-shows-that-repeated-statements-are-more-often-judged-to-be-true-regardless-of-a-persons-age-or-prior-knowledge/" target="_blank" rel="noopener noreferrer nofollow">https://news.vanderbilt.edu/2020/10/06/study-shows-that-repeated-statements-are-more-often-judged-to-be-true-regardless-of-a-persons-age-or-prior-knowledge/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Vanderbilt UniversityStudy shows that repeated statements are more often judged to be...October 6, 2020 — Study shows that repeated stat...</p></details>
+   Link:<a href="https://news.vanderbilt.edu/2020/10/06/study-shows-that-repeated-statements-are-more-often-judged-to-be-true-regardless-of-a-persons-age-or-prior-knowledge/" target="_blank" rel="noopener noreferrer nofollow">https://news.vanderbilt.edu/2020/10/06/study-shows-that-repeated-statements-are-more-often-judged-to-be-true-regardless-of-a-persons-age-or-prior-knowledge/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Vanderbilt UniversityStudy shows that repeated statements are more often judged to be...October 6, 2020 — Study shows that repeated stat...</p></details>
    Published: October 6, 2020  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10636596/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10636596/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The illusory truth effect leads to the spread of misinformationby V Vellani · 2023 · Cited by 121 — Here, we test whether and how a si...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10636596/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10636596/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The illusory truth effect leads to the spread of misinformationby V Vellani · 2023 · Cited by 121 — Here, we test whether and how a si...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9283209/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9283209/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Furthermore, we aimed to examine whether...Read more...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9283209/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9283209/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Furthermore, we aimed to examine whether...Read more...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCCorrection format has a limited role when debunking  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8715407/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8715407/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>by B Swire-Thompson · 2021 · Cited by 79 — The current paper investigated how altering the format of corrections influences people&#x27;s s...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8715407/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8715407/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by B Swire-Thompson · 2021 · Cited by 79 — The current paper investigated how altering the format of corrections influences people&#x27;s s...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S001002772300241X" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S001002772300241X</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The illusory truth effect requires semantic coherence...by J Udry · 2023 · Cited by 14 — Repeated exposure to information increases its&#x27;...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/abs/pii/S001002772300241X" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S001002772300241X</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The illusory truth effect requires semantic coherence...by J Udry · 2023 · Cited by 14 — Repeated exposure to information increases its&#x27;...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0010027721002389" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0010027721002389</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Truth feels easy: Knowing information is true enhances...by LS Nahon · 2021 · Cited by 13 — Discussion centers on the current explanatio...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/abs/pii/S0010027721002389" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0010027721002389</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Truth feels easy: Knowing information is true enhances...by LS Nahon · 2021 · Cited by 13 — Discussion centers on the current explanatio...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: sciencedirect.com  
    Title: Hearing a statement now and believing the opposite later  
-   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0022103114001516" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0022103114001516</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>illusion of truth effect is highly robust and frequently replicated... true compared to new statements, a phenomenon known as the illuso...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/abs/pii/S0022103114001516" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0022103114001516</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>illusion of truth effect is highly robust and frequently replicated... true compared to new statements, a phenomenon known as the illuso...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/am/pii/S2352250X23002282" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/am/pii/S2352250X23002282</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>On the role of memory in misinformation correctionsby PL Kemp · 2024 · Cited by 26 — These findings show that fact-checks that repeat mis...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/am/pii/S2352250X23002282" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/am/pii/S2352250X23002282</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>On the role of memory in misinformation correctionsby PL Kemp · 2024 · Cited by 26 — These findings show that fact-checks that repeat mis...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: link.springer.com  
-   Link: <a href="https://link.springer.com/article/10.3758/s13423-025-02836-w" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.3758/s13423-025-02836-w</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>repetition increase perceived truth equally for...by SM Bowes · 2026 — The illusory truth effect: A review of how repetition increases b...</p></details>
+   Link:<a href="https://link.springer.com/article/10.3758/s13423-025-02836-w" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.3758/s13423-025-02836-w</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>repetition increase perceived truth equally for...by SM Bowes · 2026 — The illusory truth effect: A review of how repetition increases b...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: link.springer.com  
-   Link: <a href="https://link.springer.com/article/10.3758/s13415-025-01266-4" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.3758/s13415-025-01266-4</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>face of illusory truth: Repetition of information elicits...by A Stump · 2025 · Cited by 3 — Our data demonstrate that repetition result...</p></details>
+   Link:<a href="https://link.springer.com/article/10.3758/s13415-025-01266-4" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.3758/s13415-025-01266-4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>face of illusory truth: Repetition of information elicits...by A Stump · 2025 · Cited by 3 — Our data demonstrate that repetition result...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/38113667/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/38113667/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The illusory truth effect: A review of how repetition...by J Udry · 2024 · Cited by 117 — Repetition increases belief in informati...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/38113667/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/38113667/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The illusory truth effect: A review of how repetition...by J Udry · 2024 · Cited by 117 — Repetition increases belief in informati...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/australia-news/article/2024/aug/08/repeating-climate-denial-claims-makes-them-seem-more-credible-australian-led-study-finds" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/australia-news/article/2024/aug/08/repeating-climate-denial-claims-makes-them-seem-more-credible-australian-led-study-finds</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The research, published in *Plos One*, was led by Mary Jiang from the Australian National University and highlighted the &quot;illusory truth...</p></details>
+   Link:<a href="https://www.theguardian.com/australia-news/article/2024/aug/08/repeating-climate-denial-claims-makes-them-seem-more-credible-australian-led-study-finds" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/australia-news/article/2024/aug/08/repeating-climate-denial-claims-makes-them-seem-more-credible-australian-led-study-finds</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The research, published in *Plos One*, was led by Mary Jiang from the Australian National University and highlighted the &quot;illusory truth...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: climatechangecommunication.org  
-   Link: <a href="https://www.climatechangecommunication.org/wp-content/uploads/2023/09/DebunkingHandbook2020.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.climatechangecommunication.org/wp-content/uploads/2023/09/DebunkingHandbook2020.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Center for Climate Change CommunicationDebunking HandbookThus, while repeating misinformation generally increases familiarity and truth r...</p></details>
+   Link:<a href="https://www.climatechangecommunication.org/wp-content/uploads/2023/09/DebunkingHandbook2020.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.climatechangecommunication.org/wp-content/uploads/2023/09/DebunkingHandbook2020.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Center for Climate Change CommunicationDebunking HandbookThus, while repeating misinformation generally increases familiarity and truth r...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: annieduke.substack.com  
    Title: the illusory truth effect  
-   Link: <a href="https://annieduke.substack.com/p/the-illusory-truth-effect" target="_blank" rel="noopener noreferrer nofollow">https://annieduke.substack.com/p/the-illusory-truth-effect</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Illusory Truth Effect - by Annie Duke - SubstackAugust 30, 2023 — The more something is repeated, the more true it feels...</p></details>
+   Link:<a href="https://annieduke.substack.com/p/the-illusory-truth-effect" target="_blank" rel="noopener noreferrer nofollow">https://annieduke.substack.com/p/the-illusory-truth-effect</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Illusory Truth Effect - by Annie Duke - SubstackAugust 30, 2023 — The more something is repeated, the more true it feels...</p></details>
    Published: August 30, 2023  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: thedecisionlab.com  
    Title: Illusory truth effect  
-   Link: <a href="https://thedecisionlab.com/biases/illusory-truth-effect" target="_blank" rel="noopener noreferrer nofollow">https://thedecisionlab.com/biases/illusory-truth-effect</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Decision LabThe illusory truth effect, also known as the illusion of truth, describes how when we hear the same false information rep...</p></details>
+   Link:<a href="https://thedecisionlab.com/biases/illusory-truth-effect" target="_blank" rel="noopener noreferrer nofollow">https://thedecisionlab.com/biases/illusory-truth-effect</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Decision LabThe illusory truth effect, also known as the illusion of truth, describes how when we hear the same false information rep...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: psychologytoday.com  
-   Link: <a href="https://www.psychologytoday.com/us/basics/illusory-truth-effect" target="_blank" rel="noopener noreferrer nofollow">https://www.psychologytoday.com/us/basics/illusory-truth-effect</a>  
+   Link:<a href="https://www.psychologytoday.com/us/basics/illusory-truth-effect" target="_blank" rel="noopener noreferrer nofollow">https://www.psychologytoday.com/us/basics/illusory-truth-effect</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: ebsco.com  
-   Link: <a href="https://www.ebsco.com/research-starters/psychology/illusory-truth-effect" target="_blank" rel="noopener noreferrer nofollow">https://www.ebsco.com/research-starters/psychology/illusory-truth-effect</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Illusory truth effect | Psychology | Research StartersThe illusory truth effect is a cognitive phenomenon where repeated exposure to fals...</p></details>
+   Link:<a href="https://www.ebsco.com/research-starters/psychology/illusory-truth-effect" target="_blank" rel="noopener noreferrer nofollow">https://www.ebsco.com/research-starters/psychology/illusory-truth-effect</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Illusory truth effect | Psychology | Research StartersThe illusory truth effect is a cognitive phenomenon where repeated exposure to fals...</p></details>
 
 ### Additional References
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: nature.com  
-   Link: <a href="https://www.nature.com/nature-index/topics/l4/cognitive-fluency-and-judgments-of-truth" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/nature-index/topics/l4/cognitive-fluency-and-judgments-of-truth</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Cognitive Fluency and Judgments of TruthThis phenomenon underpins the illusory truth effect, wherein mere repetition of a claim increases...</p></details>
+   Link:<a href="https://www.nature.com/nature-index/topics/l4/cognitive-fluency-and-judgments-of-truth" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/nature-index/topics/l4/cognitive-fluency-and-judgments-of-truth</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Cognitive Fluency and Judgments of TruthThis phenomenon underpins the illusory truth effect, wherein mere repetition of a claim increases...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: merriam-webster.com  
-   Link: <a href="https://www.merriam-webster.com/dictionary/illusory" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/illusory</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ILLUSORY Definition &amp; Meaningillusory implies a false impression based on deceptive resemblance or faulty observation, or influenced by e...</p></details>
+   Link:<a href="https://www.merriam-webster.com/dictionary/illusory" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/illusory</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ILLUSORY Definition &amp; Meaningillusory implies a false impression based on deceptive resemblance or faulty observation, or influenced by e...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: psychologytoday.com  
-   Link: <a href="https://www.psychologytoday.com/gb/basics/illusory-truth-effect" target="_blank" rel="noopener noreferrer nofollow">https://www.psychologytoday.com/gb/basics/illusory-truth-effect</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Illusory Truth EffectStudies show that repetition increases the perception of validity—even when people start out knowing that the inform...</p></details>
+   Link:<a href="https://www.psychologytoday.com/gb/basics/illusory-truth-effect" target="_blank" rel="noopener noreferrer nofollow">https://www.psychologytoday.com/gb/basics/illusory-truth-effect</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Illusory Truth EffectStudies show that repetition increases the perception of validity—even when people start out knowing that the inform...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/science/comments/1fryhzw/repeating_a_claim_can_make_it_seem_more/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/science/comments/1fryhzw/repeating_a_claim_can_make_it_seem_more/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Repeating a claim can make it seem more believable—an...When false claims are repeated, we start to believe they are true, suggest...</p></details>
+   Link:<a href="https://www.reddit.com/r/science/comments/1fryhzw/repeating_a_claim_can_make_it_seem_more/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/science/comments/1fryhzw/repeating_a_claim_can_make_it_seem_more/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Repeating a claim can make it seem more believable—an...When false claims are repeated, we start to believe they are true, suggest...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: arno.uvt.nl  
-   Link: <a href="https://arno.uvt.nl/show.cgi?fid=161900" target="_blank" rel="noopener noreferrer nofollow">https://arno.uvt.nl/show.cgi?fid=161900</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Is The Effect of the Illusory Truth Effect on Conspiracy...We found repetition to insignificantly increase truth judgments of conspiracy...</p></details>
+   Link:<a href="https://arno.uvt.nl/show.cgi?fid=161900" target="_blank" rel="noopener noreferrer nofollow">https://arno.uvt.nl/show.cgi?fid=161900</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Is The Effect of the Illusory Truth Effect on Conspiracy...We found repetition to insignificantly increase truth judgments of conspiracy...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: psychotricks.com  
    Title: The Psychology of Belief: Understanding the Illusory Truth Effect  
-   Link: <a href="https://psychotricks.com/illusory-truth-effect/" target="_blank" rel="noopener noreferrer nofollow">https://psychotricks.com/illusory-truth-effect/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>November 21, 2025 — The Illusory Truth Effect is a cognitive bias describing the human tendency to rate information as more valid or trut...</p></details>
+   Link:<a href="https://psychotricks.com/illusory-truth-effect/" target="_blank" rel="noopener noreferrer nofollow">https://psychotricks.com/illusory-truth-effect/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>November 21, 2025 — The Illusory Truth Effect is a cognitive bias describing the human tendency to rate information as more valid or trut...</p></details>
    Published: November 21, 2025  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: effectiviology.com  
-   Link: <a href="https://effectiviology.com/familiarity-backfire-effect/" target="_blank" rel="noopener noreferrer nofollow">https://effectiviology.com/familiarity-backfire-effect/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>member misinformation better, and to remember it as being true.Read more...</p></details>
+   Link:<a href="https://effectiviology.com/familiarity-backfire-effect/" target="_blank" rel="noopener noreferrer nofollow">https://effectiviology.com/familiarity-backfire-effect/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>member misinformation better, and to remember it as being true.Read more...</p></details>
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: normalcurves.com  
    Title: the backfire effect can fact checking make false beliefs stronger  
-   Link: <a href="https://www.normalcurves.com/the-backfire-effect-can-fact-checking-make-false-beliefs-stronger/" target="_blank" rel="noopener noreferrer nofollow">https://www.normalcurves.com/the-backfire-effect-can-fact-checking-make-false-beliefs-stronger/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The “backfire effect” claims that debunking myths can actually make false beliefs stronger.Read more...</p></details>
+   Link:<a href="https://www.normalcurves.com/the-backfire-effect-can-fact-checking-make-false-beliefs-stronger/" target="_blank" rel="noopener noreferrer nofollow">https://www.normalcurves.com/the-backfire-effect-can-fact-checking-make-false-beliefs-stronger/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The “backfire effect” claims that debunking myths can actually make false beliefs stronger.Read more...</p></details>
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: facebook.com  
    Title: American Psychological Association  
-   Link: <a href="https://www.facebook.com/AmericanPsychologicalAssociation/posts/you-keep-seeing-the-same-claim-made-over-and-over-onlineso-it-must-be-true-right/1290086699819665/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/AmericanPsychologicalAssociation/posts/you-keep-seeing-the-same-claim-made-over-and-over-onlineso-it-must-be-true-right/1290086699819665/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>January 13, 2026 — The illusory truth effect, also known as the illusion of truth, describes how when we hear the same [false info](&amp;#123;&amp;#123; &#x27;false-info/&#x27; | relative_url &amp;#125;&amp;#125;)...</p></details>
+   Link:<a href="https://www.facebook.com/AmericanPsychologicalAssociation/posts/you-keep-seeing-the-same-claim-made-over-and-over-onlineso-it-must-be-true-right/1290086699819665/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/AmericanPsychologicalAssociation/posts/you-keep-seeing-the-same-claim-made-over-and-over-onlineso-it-must-be-true-right/1290086699819665/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>January 13, 2026 — The illusory truth effect, also known as the illusion of truth, describes how when we hear the same [false info](&amp;#123;&amp;#123; &#x27;false-info/&#x27; | relative_url &amp;#125;&amp;#125;)...</p></details>
    Published: January 13, 2026  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: philosophytalk.org  
    Title: say it enough theyll believe it  
-   Link: <a href="https://philosophytalk.org/blog/say-it-enough-theyll-believe-it/" target="_blank" rel="noopener noreferrer nofollow">https://philosophytalk.org/blog/say-it-enough-theyll-believe-it/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Say it Enough, They&#x27;ll Believe ItNov 20, 2020 — Most psychologists think the illusory truth effect reflects “processing fluency.” In othe...</p></details>
+   Link:<a href="https://philosophytalk.org/blog/say-it-enough-theyll-believe-it/" target="_blank" rel="noopener noreferrer nofollow">https://philosophytalk.org/blog/say-it-enough-theyll-believe-it/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Say it Enough, They&#x27;ll Believe ItNov 20, 2020 — Most psychologists think the illusory truth effect reflects “processing fluency.” In othe...</p></details>

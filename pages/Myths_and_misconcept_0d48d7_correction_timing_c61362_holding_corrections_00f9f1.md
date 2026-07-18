@@ -274,10 +274,10 @@ image: /assets/images/Myths_and_misconcept_0d48d7_correction_timing_c61362_holdi
 
 ## Introduction
 
-In fast-moving misinformation events, waiting for complete certainty can sometimes do more harm than issuing a carefully limited [correction]({{ 'correction/' | relative_url }}). A holding correction is an early response that distinguishes between what is known, what is still being investigated, and what people should do in the meantime. Its purpose is not to settle every factual question but to prevent rumours from becoming the default explanation while evidence is still emerging. Risk-communication guidance from major public-health and emergency-management organisations consistently emphasises timely communication, transparency about uncertainty, and clear practical advice rather than silence until all facts are resolved. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.who.int/emergencies/risk-communications" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: who.int">[World Health Organization]</a><span class="citation-popover" role="note"><span class="citation-popover-source">who.int</span><span class="citation-popover-snippet">World Health OrganizationRisk communication and community engagementThe purpose of risk communication is to enable people at risk to make...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ncbi.nlm.nih.gov/books/NBK540733/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ncbi.nlm.nih.gov">[NCBI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Communicating risk in public health...To build trust, risk communication interventions should link to functioning and accessible service...</span></span></span>
+In fast-moving misinformation events, waiting for complete certainty can sometimes do more harm than issuing a carefully limited [correction]({{ 'correction/' | relative_url }}). A holding correction is an early response that distinguishes between what is known, what is still being investigated, and what people should do in the meantime. Its purpose is not to settle every factual question but to prevent rumours from becoming the default explanation while evidence is still emerging. Risk-communication guidance from major public-health and emergency-management organisations consistently emphasises timely communication, transparency about uncertainty, and clear practical advice rather than silence until all facts are resolved.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.who.int/emergencies/risk-communications" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: who.int">[World Health Organization]</a><span class="citation-popover" role="note"><span class="citation-popover-source">who.int</span><span class="citation-popover-snippet">World Health OrganizationRisk communication and community engagementThe purpose of risk communication is to enable people at risk to make...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ncbi.nlm.nih.gov/books/NBK540733/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ncbi.nlm.nih.gov">[NCBI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Communicating risk in public health...To build trust, risk communication interventions should link to functioning and accessible service...</span></span></span>
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_correction_timing_c61362_holding_corrections_00f9f1-Illustration-1-dark.svg" | relative_url }}" alt="Holding fixes illustration 1" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_correction_timing_c61362_holding_corrections_00f9f1-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_correction_timing_c61362_holding_corrections_00f9f1-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-The key implementation challenge is deciding when an incomplete but accurate message is preferable to waiting for a definitive debunk. In many cases, especially where health, safety, elections, disasters, or public behaviour are involved, a well-designed holding correction can reduce harm, preserve trust, and create space for later updates without pretending to know more than is currently established. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cdc.gov/cerc/media/pdfs/CERC_Introduction.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdc.gov">[CDC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdc.gov</span><span class="citation-popover-snippet">CERC: IntroductionApril 16, 2018 — be first, be right, be credible, express empathy, promote action, and show respect. We can have a r...</span><span class="citation-popover-meta">Published: April 16, 2018</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.asset-scienceinsociety.eu/sites/default/files/cdc_risk_communication_book.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: asset-scienceinsociety.eu">[ASSET]</a><span class="citation-popover" role="note"><span class="citation-popover-source">asset-scienceinsociety.eu</span><span class="citation-popover-snippet">ASSETCrisis and Emergency Risk Communication - ASSETTherefore, the first goal of risk communication is to establish trust and credibility...</span></span></span>
+The key implementation challenge is deciding when an incomplete but accurate message is preferable to waiting for a definitive debunk. In many cases, especially where health, safety, elections, disasters, or public behaviour are involved, a well-designed holding correction can reduce harm, preserve trust, and create space for later updates without pretending to know more than is currently established.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cdc.gov/cerc/media/pdfs/CERC_Introduction.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdc.gov">[CDC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdc.gov</span><span class="citation-popover-snippet">CERC: IntroductionApril 16, 2018 — be first, be right, be credible, express empathy, promote action, and show respect. We can have a r...</span><span class="citation-popover-meta">Published: April 16, 2018</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.asset-scienceinsociety.eu/sites/default/files/cdc_risk_communication_book.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: asset-scienceinsociety.eu">[ASSET]</a><span class="citation-popover" role="note"><span class="citation-popover-source">asset-scienceinsociety.eu</span><span class="citation-popover-snippet">ASSETCrisis and Emergency Risk Communication - ASSETTherefore, the first goal of risk communication is to establish trust and credibility...</span></span></span>
 
 ## What a holding correction can responsibly say
 
@@ -296,21 +296,21 @@ A responsible holding message typically includes four elements:
 
 For example, if a viral post claims that a contaminated product is causing illnesses, communicators may not yet know whether the claim is true. A holding correction can still say that investigations are underway, no confirmed causal link has been established, and consumers should follow official recall notices rather than social-media speculation. That approach gives people useful information immediately without overstating certainty.
 
-Emergency risk-communication frameworks repeatedly stress that organisations should communicate quickly, provide available facts, avoid speculation, and continue updating the public as evidence develops. The CDC's Crisis and Emergency Risk Communication model summarises this balance as "be first, be right, be credible", while guidance from WHO and regional public-health bodies emphasises [communicating]({{ 'communicating/' | relative_url }}) even amid uncertainty. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cdc.gov/cerc/media/pdfs/CERC_Introduction.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdc.gov">[CDC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdc.gov</span><span class="citation-popover-snippet">CERC: IntroductionApril 16, 2018 — be first, be right, be credible, express empathy, promote action, and show respect. We can have a r...</span><span class="citation-popover-meta">Published: April 16, 2018</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.asset-scienceinsociety.eu/sites/default/files/cdc_risk_communication_book.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: asset-scienceinsociety.eu">[ASSET]</a><span class="citation-popover" role="note"><span class="citation-popover-source">asset-scienceinsociety.eu</span><span class="citation-popover-snippet">ASSETCrisis and Emergency Risk Communication - ASSETTherefore, the first goal of risk communication is to establish trust and credibility...</span></span></span>
+Emergency risk-communication frameworks repeatedly stress that organisations should communicate quickly, provide available facts, avoid speculation, and continue updating the public as evidence develops. The CDC's Crisis and Emergency Risk Communication model summarises this balance as "be first, be right, be credible", while guidance from WHO and regional public-health bodies emphasises [communicating]({{ 'communicating/' | relative_url }}) even amid uncertainty.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cdc.gov/cerc/media/pdfs/CERC_Introduction.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdc.gov">[CDC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdc.gov</span><span class="citation-popover-snippet">CERC: IntroductionApril 16, 2018 — be first, be right, be credible, express empathy, promote action, and show respect. We can have a r...</span><span class="citation-popover-meta">Published: April 16, 2018</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.asset-scienceinsociety.eu/sites/default/files/cdc_risk_communication_book.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: asset-scienceinsociety.eu">[ASSET]</a><span class="citation-popover" role="note"><span class="citation-popover-source">asset-scienceinsociety.eu</span><span class="citation-popover-snippet">ASSETCrisis and Emergency Risk Communication - ASSETTherefore, the first goal of risk communication is to establish trust and credibility...</span></span></span>
 
 ## Why waiting can sometimes make correction harder
 
 The strongest argument for a holding correction is not merely speed. It is the way misinformation behaves once people have incorporated it into their understanding of events.
 
-Research on the "continued influence effect" shows that misinformation can continue shaping beliefs and reasoning even after it has been formally corrected. People often retain the original narrative because it helped explain an event, filled an information gap, or became familiar through [repetition]({{ 'repetition/' | relative_url }}). Later [corrections]({{ 'corrections/' | relative_url }}) can reduce the effect, but they frequently do not erase it completely. <span class="citation-chip-wrap"><a class="citation-chip" href="https://link.springer.com/article/10.3758/s13421-023-01402-w" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer Link]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">Springer LinkThe impact of misinformation corrections on source perceptionsby V Westbrook · 2023 · Cited by 26 — Research on the continue...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8627545/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCExploring factors that mitigate the continued influence</span><span class="citation-popover-snippet">by IP Kan · 2021 · Cited by 27 — The term “continued influence effect” (CIE) refers to the phenomenon that discredited and obsolete in...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/26173286/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Misinformation and Its Correction: Continued Influence and...by S Lewandowsky · 2012 · Cited by 4704 — We first examine the mechan...</span></span></span>
+Research on the "continued influence effect" shows that misinformation can continue shaping beliefs and reasoning even after it has been formally corrected. People often retain the original narrative because it helped explain an event, filled an information gap, or became familiar through [repetition]({{ 'repetition/' | relative_url }}). Later [corrections]({{ 'corrections/' | relative_url }}) can reduce the effect, but they frequently do not erase it completely.<span class="citation-chip-wrap"><a class="citation-chip" href="https://link.springer.com/article/10.3758/s13421-023-01402-w" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer Link]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">Springer LinkThe impact of misinformation corrections on source perceptionsby V Westbrook · 2023 · Cited by 26 — Research on the continue...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8627545/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCExploring factors that mitigate the continued influence</span><span class="citation-popover-snippet">by IP Kan · 2021 · Cited by 27 — The term “continued influence effect” (CIE) refers to the phenomenon that discredited and obsolete in...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/26173286/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Misinformation and Its Correction: Continued Influence and...by S Lewandowsky · 2012 · Cited by 4704 — We first examine the mechan...</span></span></span>
 
-This creates a practical [timing]({{ 'timing/' | relative_url }}) problem. If communicators remain silent until every fact is settled, audiences may fill the vacuum themselves. Rumours can become embedded in conversations, news coverage, and online communities before any official response appears. By the time a full debunk arrives, it is competing with a story that many people have already accepted or shared. PMC <span class="citation-chip-wrap"><a class="citation-chip" href="https://digitalcommons.chapman.edu/cgi/viewcontent.cgi?article=1061&amp;context=comm_articles" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: digitalcommons.chapman.edu">[Chapman University Digital Commons]</a><span class="citation-popover" role="note"><span class="citation-popover-source">digitalcommons.chapman.edu</span><span class="citation-popover-snippet">Chapman University Digital CommonsA Meta-Analytic Examination of the Continued Influence of...by N Walter · 2019 · Cited by 649 — A meta...</span></span></span>
+This creates a practical [timing]({{ 'timing/' | relative_url }}) problem. If communicators remain silent until every fact is settled, audiences may fill the vacuum themselves. Rumours can become embedded in conversations, news coverage, and online communities before any official response appears. By the time a full debunk arrives, it is competing with a story that many people have already accepted or shared. PMC<span class="citation-chip-wrap"><a class="citation-chip" href="https://digitalcommons.chapman.edu/cgi/viewcontent.cgi?article=1061&amp;context=comm_articles" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: digitalcommons.chapman.edu">[Chapman University Digital Commons]</a><span class="citation-popover" role="note"><span class="citation-popover-source">digitalcommons.chapman.edu</span><span class="citation-popover-snippet">Chapman University Digital CommonsA Meta-Analytic Examination of the Continued Influence of...by N Walter · 2019 · Cited by 649 — A meta...</span></span></span>
 
-A holding correction can interrupt that process by providing an alternative mental model early. Instead of leaving people with "the rumour must be true because nobody has denied it", the message becomes "the claim is being investigated, some facts are known, and further evidence is expected". That replacement explanation is often more valuable than silence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/26173286/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Misinformation and Its Correction: Continued Influence and...by S Lewandowsky · 2012 · Cited by 4704 — We first examine the mechan...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/17470218251336232" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsDo the protective effects last? The...9 Apr 2025 — The continued influence effect (CIE) refers to continued reliance on mis...</span></span></span>
+A holding correction can interrupt that process by providing an alternative mental model early. Instead of leaving people with "the rumour must be true because nobody has denied it", the message becomes "the claim is being investigated, some facts are known, and further evidence is expected". That replacement explanation is often more valuable than silence.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/26173286/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Misinformation and Its Correction: Continued Influence and...by S Lewandowsky · 2012 · Cited by 4704 — We first examine the mechan...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/17470218251336232" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsDo the protective effects last? The...9 Apr 2025 — The continued influence effect (CIE) refers to continued reliance on mis...</span></span></span>
 
 ## How to mark uncertainty without sounding evasive
 
-Many communicators fear that acknowledging uncertainty will undermine [confidence]({{ 'confidence/' | relative_url }}). Evidence from risk communication suggests the opposite is often true when uncertainty is explained clearly and honestly. Transparency about what is known and unknown is associated with credibility and trust, whereas apparent certainty that later proves wrong can damage both. PMC <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ncbi.nlm.nih.gov/books/NBK540733/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ncbi.nlm.nih.gov">[NCBI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Communicating risk in public health...To build trust, risk communication interventions should link to functioning and accessible service...</span></span></span> ScienceDirect The most effective holding corrections avoid vague phrases such as <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/abs/pii/S2212420924001389" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[sciencedirect.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Unveiling the influence of transparency in risk communicationby W Luo · 2024 · Cited by 15 — This study introduces a redefined concept of...</span></span></span>"we cannot comment" or "no conclusions can be drawn". Those statements may be technically correct but provide little guidance.
+Many communicators fear that acknowledging uncertainty will undermine [confidence]({{ 'confidence/' | relative_url }}). Evidence from risk communication suggests the opposite is often true when uncertainty is explained clearly and honestly. Transparency about what is known and unknown is associated with credibility and trust, whereas apparent certainty that later proves wrong can damage both. PMC<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ncbi.nlm.nih.gov/books/NBK540733/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ncbi.nlm.nih.gov">[NCBI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Communicating risk in public health...To build trust, risk communication interventions should link to functioning and accessible service...</span></span></span> ScienceDirect The most effective holding corrections avoid vague phrases such as<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/abs/pii/S2212420924001389" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[sciencedirect.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Unveiling the influence of transparency in risk communicationby W Luo · 2024 · Cited by 15 — This study introduces a redefined concept of...</span></span></span>"we cannot comment" or "no conclusions can be drawn". Those statements may be technically correct but provide little guidance.
 
 A better approach is structured uncertainty:
 
@@ -330,9 +330,9 @@ A better approach is structured uncertainty:
 
 "There is currently no evidence supporting the wider claim circulating online."
 
-This style avoids both overconfidence and paralysis. WHO guidance on emergency communication specifically recommends acknowledging uncertainty while remaining timely, understandable, and action-oriented. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ncbi.nlm.nih.gov/books/NBK540733/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ncbi.nlm.nih.gov">[NCBI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Communicating risk in public health...To build trust, risk communication interventions should link to functioning and accessible service...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.who.int/emergencies/risk-communications" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: who.int">[World Health Organization]</a><span class="citation-popover" role="note"><span class="citation-popover-source">who.int</span><span class="citation-popover-snippet">World Health OrganizationRisk communication and community engagementThe purpose of risk communication is to enable people at risk to make...</span></span></span>
+This style avoids both overconfidence and paralysis. WHO guidance on emergency communication specifically recommends acknowledging uncertainty while remaining timely, understandable, and action-oriented.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ncbi.nlm.nih.gov/books/NBK540733/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ncbi.nlm.nih.gov">[NCBI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Communicating risk in public health...To build trust, risk communication interventions should link to functioning and accessible service...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.who.int/emergencies/risk-communications" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: who.int">[World Health Organization]</a><span class="citation-popover" role="note"><span class="citation-popover-source">who.int</span><span class="citation-popover-snippet">World Health OrganizationRisk communication and community engagementThe purpose of risk communication is to enable people at risk to make...</span></span></span>
 
-Another useful practice is to make the update process visible. People are more tolerant of uncertainty when they understand why information is incomplete and when they can expect further clarification. Communicators who explain that evidence is evolving are less likely to appear inconsistent if later updates change the picture. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.who.int/emergencies/risk-communications" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: who.int">[World Health Organization]</a><span class="citation-popover" role="note"><span class="citation-popover-source">who.int</span><span class="citation-popover-snippet">World Health OrganizationRisk communication and community engagementThe purpose of risk communication is to enable people at risk to make...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.who.int/emergencies/risk-communications" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: who.int">[World Health Organization]</a><span class="citation-popover" role="note"><span class="citation-popover-source">who.int</span><span class="citation-popover-snippet">World Health OrganizationRisk communication and community engagementThe purpose of risk communication is to enable people at risk to make...</span></span></span>
+Another useful practice is to make the update process visible. People are more tolerant of uncertainty when they understand why information is incomplete and when they can expect further clarification. Communicators who explain that evidence is evolving are less likely to appear inconsistent if later updates change the picture.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.who.int/emergencies/risk-communications" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: who.int">[World Health Organization]</a><span class="citation-popover" role="note"><span class="citation-popover-source">who.int</span><span class="citation-popover-snippet">World Health OrganizationRisk communication and community engagementThe purpose of risk communication is to enable people at risk to make...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.who.int/emergencies/risk-communications" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: who.int">[World Health Organization]</a><span class="citation-popover" role="note"><span class="citation-popover-source">who.int</span><span class="citation-popover-snippet">World Health OrganizationRisk communication and community engagementThe purpose of risk communication is to enable people at risk to make...</span></span></span>
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_correction_timing_c61362_holding_corrections_00f9f1-Illustration-2-dark.svg" | relative_url }}" alt="Holding fixes illustration 2" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_correction_timing_c61362_holding_corrections_00f9f1-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_correction_timing_c61362_holding_corrections_00f9f1-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## When a holding correction is the better choice
@@ -341,19 +341,19 @@ Not every rumour requires a public response. Some obscure claims fade naturally 
 
 **Potential harm is high.**
 
-If misinformation could influence health decisions, public safety, emergency responses, financial behaviour, or electoral participation, the cost of waiting may exceed the cost of communicating uncertainty. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.who.int/emergencies/risk-communications" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: who.int">[World Health Organization]</a><span class="citation-popover" role="note"><span class="citation-popover-source">who.int</span><span class="citation-popover-snippet">World Health OrganizationRisk communication and community engagementThe purpose of risk communication is to enable people at risk to make...</span></span></span>
+If misinformation could influence health decisions, public safety, emergency responses, financial behaviour, or electoral participation, the cost of waiting may exceed the cost of communicating uncertainty.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.who.int/emergencies/risk-communications" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: who.int">[World Health Organization]</a><span class="citation-popover" role="note"><span class="citation-popover-source">who.int</span><span class="citation-popover-snippet">World Health OrganizationRisk communication and community engagementThe purpose of risk communication is to enable people at risk to make...</span></span></span>
 
 **The rumour is spreading faster than verification.**
 
-A rapidly circulating claim can establish itself before investigators have completed fact-finding. Early intervention may prevent the rumour from becoming the dominant explanation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cdc.gov/cerc/media/pdfs/CERC_Introduction.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdc.gov">[CDC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdc.gov</span><span class="citation-popover-snippet">CERC: IntroductionApril 16, 2018 — be first, be right, be credible, express empathy, promote action, and show respect. We can have a r...</span><span class="citation-popover-meta">Published: April 16, 2018</span></span></span>
+A rapidly circulating claim can establish itself before investigators have completed fact-finding. Early intervention may prevent the rumour from becoming the dominant explanation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cdc.gov/cerc/media/pdfs/CERC_Introduction.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdc.gov">[CDC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdc.gov</span><span class="citation-popover-snippet">CERC: IntroductionApril 16, 2018 — be first, be right, be credible, express empathy, promote action, and show respect. We can have a r...</span><span class="citation-popover-meta">Published: April 16, 2018</span></span></span>
 
 **People need immediate behavioural guidance.**
 
-Even when facts remain incomplete, audiences often need practical advice. Telling people what actions are currently recommended can reduce harm while evidence develops. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.paho.org/en/topics/risk-and-outbreak-communication" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: paho.org">[Pan American Health Organization]</a><span class="citation-popover" role="note"><span class="citation-popover-source">paho.org</span><span class="citation-popover-snippet">Pan American Health OrganizationRisk and Outbreak CommunicationPrinciples of Risk Communication; Communicate to the public quickly and f...</span></span></span>
+Even when facts remain incomplete, audiences often need practical advice. Telling people what actions are currently recommended can reduce harm while evidence develops.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.paho.org/en/topics/risk-and-outbreak-communication" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: paho.org">[Pan American Health Organization]</a><span class="citation-popover" role="note"><span class="citation-popover-source">paho.org</span><span class="citation-popover-snippet">Pan American Health OrganizationRisk and Outbreak CommunicationPrinciples of Risk Communication; Communicate to the public quickly and f...</span></span></span>
 
 **Silence would be interpreted as confirmation.**
 
-In some situations, the absence of any response can itself become part of the rumour narrative. A holding correction can demonstrate that the issue is being examined without endorsing or rejecting unverified claims prematurely. <span class="citation-chip-wrap"><a class="citation-chip" href="https://hsph.harvard.edu/exec-ed/news/developing-public-health-communication-strategies-and-combating-misinformation-during-covid-19/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hsph.harvard.edu">[Harvard Public Health]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hsph.harvard.edu</span><span class="citation-popover-snippet">Harvard Public HealthDeveloping Public Health Communication Strategies—And...3 Apr 2020 — According to Viswanath, “Public health communi...</span></span></span>
+In some situations, the absence of any response can itself become part of the rumour narrative. A holding correction can demonstrate that the issue is being examined without endorsing or rejecting unverified claims prematurely.<span class="citation-chip-wrap"><a class="citation-chip" href="https://hsph.harvard.edu/exec-ed/news/developing-public-health-communication-strategies-and-combating-misinformation-during-covid-19/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hsph.harvard.edu">[Harvard Public Health]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hsph.harvard.edu</span><span class="citation-popover-snippet">Harvard Public HealthDeveloping Public Health Communication Strategies—And...3 Apr 2020 — According to Viswanath, “Public health communi...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/tJIe6sT1ar8" title="CDC’s CERC: Introduction to Crisis &amp; Emergency Risk Communication (CERC)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=tJIe6sT1ar8" target="_blank" rel="noopener noreferrer">CDC’s CERC: Introduction to Crisis &amp; Emergency Risk Communication (CERC)</a></p><p class="youtube-embed-meta">Channel: Centers for Disease Control and Prevention (CDC) &middot; Views: 18.8K &middot; Uploaded: February 2019 &middot; Length: 53 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=tJIe6sT1ar8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=tJIe6sT1ar8">Open on YouTube</a></p></div></div></div>
 
@@ -374,7 +374,7 @@ A useful sequence is:
 
 </div>
 
-Research on misinformation correction suggests that [replacements]({{ 'replacements/' | relative_url }}) are often more effective than simple denials. People understand corrections better when they are given an alternative account of events rather than merely being told a claim is wrong. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/26173286/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Misinformation and Its Correction: Continued Influence and...by S Lewandowsky · 2012 · Cited by 4704 — We first examine the mechan...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/17470218251336232" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsDo the protective effects last? The...9 Apr 2025 — The continued influence effect (CIE) refers to continued reliance on mis...</span></span></span>
+Research on misinformation correction suggests that [replacements]({{ 'replacements/' | relative_url }}) are often more effective than simple denials. People understand corrections better when they are given an alternative account of events rather than merely being told a claim is wrong.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/26173286/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Misinformation and Its Correction: Continued Influence and...by S Lewandowsky · 2012 · Cited by 4704 — We first examine the mechan...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/17470218251336232" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsDo the protective effects last? The...9 Apr 2025 — The continued influence effect (CIE) refers to continued reliance on mis...</span></span></span>
 
 Importantly, a full debunk should explicitly connect back to earlier holding messages. Explaining what has changed, what evidence was obtained, and why confidence has increased helps audiences see a coherent investigative process rather than a contradiction.
 
@@ -383,197 +383,197 @@ Importantly, a full debunk should explicitly connect back to earlier holding mes
 
 The choice is not between certainty and uncertainty. It is between unmanaged uncertainty and managed uncertainty.
 
-A holding correction accepts that complete information may not yet exist, but it refuses to leave the information space empty. By clearly separating verified facts, unresolved questions, and sensible interim actions, communicators can slow the spread of myths without claiming knowledge they do not possess. In many high-stakes situations, that measured response is more responsible—and often more effective—than waiting for perfect certainty while a false narrative gains momentum. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.who.int/emergencies/risk-communications" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: who.int">[World Health Organization]</a><span class="citation-popover" role="note"><span class="citation-popover-source">who.int</span><span class="citation-popover-snippet">World Health OrganizationRisk communication and community engagementThe purpose of risk communication is to enable people at risk to make...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cdc.gov/cerc/media/pdfs/CERC_Introduction.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdc.gov">[CDC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdc.gov</span><span class="citation-popover-snippet">CERC: IntroductionApril 16, 2018 — be first, be right, be credible, express empathy, promote action, and show respect. We can have a r...</span><span class="citation-popover-meta">Published: April 16, 2018</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ncbi.nlm.nih.gov/books/NBK540733/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ncbi.nlm.nih.gov">[NCBI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Communicating risk in public health...To build trust, risk communication interventions should link to functioning and accessible service...</span></span></span>
+A holding correction accepts that complete information may not yet exist, but it refuses to leave the information space empty. By clearly separating verified facts, unresolved questions, and sensible interim actions, communicators can slow the spread of myths without claiming knowledge they do not possess. In many high-stakes situations, that measured response is more responsible—and often more effective—than waiting for perfect certainty while a false narrative gains momentum.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.who.int/emergencies/risk-communications" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: who.int">[World Health Organization]</a><span class="citation-popover" role="note"><span class="citation-popover-source">who.int</span><span class="citation-popover-snippet">World Health OrganizationRisk communication and community engagementThe purpose of risk communication is to enable people at risk to make...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cdc.gov/cerc/media/pdfs/CERC_Introduction.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdc.gov">[CDC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdc.gov</span><span class="citation-popover-snippet">CERC: IntroductionApril 16, 2018 — be first, be right, be credible, express empathy, promote action, and show respect. We can have a r...</span><span class="citation-popover-meta">Published: April 16, 2018</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ncbi.nlm.nih.gov/books/NBK540733/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ncbi.nlm.nih.gov">[NCBI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Communicating risk in public health...To build trust, risk communication interventions should link to functioning and accessible service...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When should you correct before certainty?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When should you correct before certainty?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Psychology+of+Fake+News+by+Rainer+Greifeneder&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Psychology of Fake News on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=-Q72DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Psychology of Fake News" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Psychology+of+Fake+News+by+Rainer+Greifeneder&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Psychology of Fake News">The Psychology of Fake News</a>
-        </h4>
-        <p class="fr-book-author">By Rainer Greifeneder, Mariela Jaffe et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Psychology+of+Fake+News+by+Rainer+Greifeneder&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Psychology of Fake News on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=-Q72DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Psychology of Fake News" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Psychology+of+Fake+News+by+Rainer+Greifeneder&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Psychology of Fake News">The Psychology of Fake News</a>
+</h4>
+<p class="fr-book-author">By Rainer Greifeneder, Mariela Jaffe et al.</p>
         
-        <p class="fr-book-desc">Provides context for why early communication can shape later beliefs.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Psychology+of+Fake+News+by+Rainer+Greifeneder&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context for why early communication can shape later beliefs.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Psychology+of+Fake+News+by+Rainer+Greifeneder&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Risk+Communication+by+Regina+E.+Lundgren&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Risk Communication on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=qXRgDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Risk Communication" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Risk+Communication+by+Regina+E.+Lundgren&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Risk Communication">Risk Communication</a>
-        </h4>
-        <p class="fr-book-author">By Regina E. Lundgren, Andrea H. McMakin</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Risk+Communication+by+Regina+E.+Lundgren&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Risk Communication on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=qXRgDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Risk Communication" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Risk+Communication+by+Regina+E.+Lundgren&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Risk Communication">Risk Communication</a>
+</h4>
+<p class="fr-book-author">By Regina E. Lundgren, Andrea H. McMakin</p>
         
-        <p class="fr-book-desc">Covers communicating clearly before complete certainty is available.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Risk+Communication+by+Regina+E.+Lundgren&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers communicating clearly before complete certainty is available.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Risk+Communication+by+Regina+E.+Lundgren&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Made+to+Stick+by+Chip+Heath&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Made to Stick on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=kW9nrgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Made to Stick" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Made+to+Stick+by+Chip+Heath&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Made to Stick">Made to Stick</a>
-        </h4>
-        <p class="fr-book-author">By Chip Heath, Dan Heath</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Made+to+Stick+by+Chip+Heath&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Made to Stick on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=kW9nrgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Made to Stick" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Made+to+Stick+by+Chip+Heath&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Made to Stick">Made to Stick</a>
+</h4>
+<p class="fr-book-author">By Chip Heath, Dan Heath</p>
         
-        <p class="fr-book-desc">Useful for crafting clear, memorable holding messages during uncertainty.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Made+to+Stick+by+Chip+Heath&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful for crafting clear, memorable holding messages during uncertainty.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Made+to+Stick+by+Chip+Heath&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Foolproof+Sander+Van+Der+Linden&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Foolproof on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/13300557-M.jpg" alt="Cover for Foolproof" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Foolproof+Sander+Van+Der+Linden&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Foolproof">Foolproof</a>
-        </h4>
-        <p class="fr-book-author">By Sander Van Der Linden</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Foolproof+Sander+Van+Der+Linden&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Foolproof on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/13300557-M.jpg" alt="Cover for Foolproof" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Foolproof+Sander+Van+Der+Linden&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Foolproof">Foolproof</a>
+</h4>
+<p class="fr-book-author">By Sander Van Der Linden</p>
         
-        <p class="fr-book-desc">First published 2023.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Foolproof+Sander+Van+Der+Linden&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2023.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Foolproof+Sander+Van+Der+Linden&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Psychology+of+Fake+News&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Psychology of Fake News</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Risk+Communication&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Risk Communication</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Made+to+Stick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Made to Stick</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Psychology+of+Fake+News&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Psychology of Fake News</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Risk+Communication&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Risk Communication</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Made+to+Stick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Made to Stick</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=holding-fixes-when-should-you-correct-before-certainty-myths-and-misconcept-science-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science wall art" data-ebay-reference="holding-fixes-when-should-you-correct-before-certainty-myths-and-misconcept-science-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Science - Science Boy - Science Gir Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/cacc5712f12b7f185696.jpg' | relative_url }}" alt="Listing image for Science - Science Boy - Science Gir Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=holding-fixes-when-should-you-correct-before-certainty-myths-and-misconcept-science-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science wall art" data-ebay-reference="holding-fixes-when-should-you-correct-before-certainty-myths-and-misconcept-science-wall-art" target="_blank" rel="sponsored noopener noreferrer">Science - Science Boy - Science Gir Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=holding-fixes-when-should-you-correct-before-certainty-myths-and-misconcept-science-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science wall art" data-ebay-reference="holding-fixes-when-should-you-correct-before-certainty-myths-and-misconcept-science-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: science wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=holding-fixes-when-should-you-correct-before-certainty-myths-and-misconcept-science-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science wall art" data-ebay-reference="holding-fixes-when-should-you-correct-before-certainty-myths-and-misconcept-science-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=holding-fixes-when-should-you-correct-before-certainty-myths-and-misconcept-science-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science wall art" data-ebay-reference="holding-fixes-when-should-you-correct-before-certainty-myths-and-misconcept-science-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Science - Science Boy - Science Gir Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/cacc5712f12b7f185696.jpg' | relative_url }}" alt="Listing image for Science - Science Boy - Science Gir Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=holding-fixes-when-should-you-correct-before-certainty-myths-and-misconcept-science-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science wall art" data-ebay-reference="holding-fixes-when-should-you-correct-before-certainty-myths-and-misconcept-science-wall-art" target="_blank" rel="sponsored noopener noreferrer">Science - Science Boy - Science Gir Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=holding-fixes-when-should-you-correct-before-certainty-myths-and-misconcept-science-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science wall art" data-ebay-reference="holding-fixes-when-should-you-correct-before-certainty-myths-and-misconcept-science-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: science wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=holding-fixes-when-should-you-correct-before-certainty-myths-and-misconcept-science-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science wall art" data-ebay-reference="holding-fixes-when-should-you-correct-before-certainty-myths-and-misconcept-science-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=holding-fixes-when-should-you-correct-before-certainty-myths-and-misconcept-science-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science wall art" data-ebay-reference="holding-fixes-when-should-you-correct-before-certainty-myths-and-misconcept-science-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Science science Framed Art Print Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/84e3114d732933008429.jpg' | relative_url }}" alt="Listing image for Science science Framed Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=holding-fixes-when-should-you-correct-before-certainty-myths-and-misconcept-science-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science wall art" data-ebay-reference="holding-fixes-when-should-you-correct-before-certainty-myths-and-misconcept-science-wall-art" target="_blank" rel="sponsored noopener noreferrer">Science science Framed Art Print Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=holding-fixes-when-should-you-correct-before-certainty-myths-and-misconcept-science-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science wall art" data-ebay-reference="holding-fixes-when-should-you-correct-before-certainty-myths-and-misconcept-science-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: science wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=holding-fixes-when-should-you-correct-before-certainty-myths-and-misconcept-science-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science wall art" data-ebay-reference="holding-fixes-when-should-you-correct-before-certainty-myths-and-misconcept-science-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=holding-fixes-when-should-you-correct-before-certainty-myths-and-misconcept-science-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science wall art" data-ebay-reference="holding-fixes-when-should-you-correct-before-certainty-myths-and-misconcept-science-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Science science Framed Art Print Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/84e3114d732933008429.jpg' | relative_url }}" alt="Listing image for Science science Framed Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=holding-fixes-when-should-you-correct-before-certainty-myths-and-misconcept-science-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science wall art" data-ebay-reference="holding-fixes-when-should-you-correct-before-certainty-myths-and-misconcept-science-wall-art" target="_blank" rel="sponsored noopener noreferrer">Science science Framed Art Print Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=holding-fixes-when-should-you-correct-before-certainty-myths-and-misconcept-science-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science wall art" data-ebay-reference="holding-fixes-when-should-you-correct-before-certainty-myths-and-misconcept-science-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: science wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=holding-fixes-when-should-you-correct-before-certainty-myths-and-misconcept-science-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science wall art" data-ebay-reference="holding-fixes-when-should-you-correct-before-certainty-myths-and-misconcept-science-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=holding-fixes-when-should-you-correct-before-certainty-myths-and-misconcept-science-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science wall art" data-ebay-reference="holding-fixes-when-should-you-correct-before-certainty-myths-and-misconcept-science-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Science Is Like Magic But Real Unic Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/3cdfff053ac0a1a8635b.jpg' | relative_url }}" alt="Listing image for Science Is Like Magic But Real Unic Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=holding-fixes-when-should-you-correct-before-certainty-myths-and-misconcept-science-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science wall art" data-ebay-reference="holding-fixes-when-should-you-correct-before-certainty-myths-and-misconcept-science-wall-art" target="_blank" rel="sponsored noopener noreferrer">Science Is Like Magic But Real Unic Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=holding-fixes-when-should-you-correct-before-certainty-myths-and-misconcept-science-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science wall art" data-ebay-reference="holding-fixes-when-should-you-correct-before-certainty-myths-and-misconcept-science-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: science wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=holding-fixes-when-should-you-correct-before-certainty-myths-and-misconcept-science-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science wall art" data-ebay-reference="holding-fixes-when-should-you-correct-before-certainty-myths-and-misconcept-science-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=holding-fixes-when-should-you-correct-before-certainty-myths-and-misconcept-science-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science wall art" data-ebay-reference="holding-fixes-when-should-you-correct-before-certainty-myths-and-misconcept-science-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Science Is Like Magic But Real Unic Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/3cdfff053ac0a1a8635b.jpg' | relative_url }}" alt="Listing image for Science Is Like Magic But Real Unic Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=holding-fixes-when-should-you-correct-before-certainty-myths-and-misconcept-science-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science wall art" data-ebay-reference="holding-fixes-when-should-you-correct-before-certainty-myths-and-misconcept-science-wall-art" target="_blank" rel="sponsored noopener noreferrer">Science Is Like Magic But Real Unic Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=holding-fixes-when-should-you-correct-before-certainty-myths-and-misconcept-science-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science wall art" data-ebay-reference="holding-fixes-when-should-you-correct-before-certainty-myths-and-misconcept-science-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: science wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=holding-fixes-when-should-you-correct-before-certainty-myths-and-misconcept-science-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science wall art" data-ebay-reference="holding-fixes-when-should-you-correct-before-certainty-myths-and-misconcept-science-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=holding-fixes-when-should-you-correct-before-certainty-myths-and-misconcept-science-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science wall art" data-ebay-reference="holding-fixes-when-should-you-correct-before-certainty-myths-and-misconcept-science-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Science Rules Cute Scientist Fun Sc Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/1ac60d56254d6b01364f.jpg' | relative_url }}" alt="Listing image for Science Rules Cute Scientist Fun Sc Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=holding-fixes-when-should-you-correct-before-certainty-myths-and-misconcept-science-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science wall art" data-ebay-reference="holding-fixes-when-should-you-correct-before-certainty-myths-and-misconcept-science-wall-art" target="_blank" rel="sponsored noopener noreferrer">Science Rules Cute Scientist Fun Sc Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=holding-fixes-when-should-you-correct-before-certainty-myths-and-misconcept-science-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science wall art" data-ebay-reference="holding-fixes-when-should-you-correct-before-certainty-myths-and-misconcept-science-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: science wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=holding-fixes-when-should-you-correct-before-certainty-myths-and-misconcept-science-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science wall art" data-ebay-reference="holding-fixes-when-should-you-correct-before-certainty-myths-and-misconcept-science-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=holding-fixes-when-should-you-correct-before-certainty-myths-and-misconcept-science-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science wall art" data-ebay-reference="holding-fixes-when-should-you-correct-before-certainty-myths-and-misconcept-science-wall-art" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=holding-fixes-when-should-you-correct-before-certainty-myths-and-misconcept-science-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science wall art" data-ebay-reference="holding-fixes-when-should-you-correct-before-certainty-myths-and-misconcept-science-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Science Rules Cute Scientist Fun Sc Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/1ac60d56254d6b01364f.jpg' | relative_url }}" alt="Listing image for Science Rules Cute Scientist Fun Sc Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=holding-fixes-when-should-you-correct-before-certainty-myths-and-misconcept-science-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science wall art" data-ebay-reference="holding-fixes-when-should-you-correct-before-certainty-myths-and-misconcept-science-wall-art" target="_blank" rel="sponsored noopener noreferrer">Science Rules Cute Scientist Fun Sc Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=holding-fixes-when-should-you-correct-before-certainty-myths-and-misconcept-science-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science wall art" data-ebay-reference="holding-fixes-when-should-you-correct-before-certainty-myths-and-misconcept-science-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: science wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=holding-fixes-when-should-you-correct-before-certainty-myths-and-misconcept-science-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science wall art" data-ebay-reference="holding-fixes-when-should-you-correct-before-certainty-myths-and-misconcept-science-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=holding-fixes-when-should-you-correct-before-certainty-myths-and-misconcept-science-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science wall art" data-ebay-reference="holding-fixes-when-should-you-correct-before-certainty-myths-and-misconcept-science-wall-art" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -589,7 +589,7 @@ A holding correction accepts that complete information may not yet exist, but it
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -609,7 +609,7 @@ A holding correction accepts that complete information may not yet exist, but it
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -641,7 +641,7 @@ A holding correction accepts that complete information may not yet exist, but it
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -693,7 +693,7 @@ A holding correction accepts that complete information may not yet exist, but it
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -738,7 +738,7 @@ A holding correction accepts that complete information may not yet exist, but it
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -779,188 +779,188 @@ A holding correction accepts that complete information may not yet exist, but it
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: who.int  
-   Link: <a href="https://www.who.int/emergencies/risk-communications" target="_blank" rel="noopener noreferrer nofollow">https://www.who.int/emergencies/risk-communications</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>World Health OrganizationRisk communication and community engagementThe purpose of risk communication is to enable people at risk to make...</p></details>
+   Link:<a href="https://www.who.int/emergencies/risk-communications" target="_blank" rel="noopener noreferrer nofollow">https://www.who.int/emergencies/risk-communications</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>World Health OrganizationRisk communication and community engagementThe purpose of risk communication is to enable people at risk to make...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: ncbi.nlm.nih.gov  
-   Link: <a href="https://www.ncbi.nlm.nih.gov/books/NBK540733/" target="_blank" rel="noopener noreferrer nofollow">https://www.ncbi.nlm.nih.gov/books/NBK540733/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Communicating risk in public health...To build trust, risk communication interventions should link to functioning and accessible service...</p></details>
+   Link:<a href="https://www.ncbi.nlm.nih.gov/books/NBK540733/" target="_blank" rel="noopener noreferrer nofollow">https://www.ncbi.nlm.nih.gov/books/NBK540733/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Communicating risk in public health...To build trust, risk communication interventions should link to functioning and accessible service...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: cdc.gov  
-   Link: <a href="https://www.cdc.gov/cerc/media/pdfs/CERC_Introduction.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cdc.gov/cerc/media/pdfs/CERC_Introduction.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>CERC: IntroductionApril 16, 2018 — be first, be right, be credible, express empathy, promote action, and show respect. We can have a r...</p></details>
+   Link:<a href="https://www.cdc.gov/cerc/media/pdfs/CERC_Introduction.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cdc.gov/cerc/media/pdfs/CERC_Introduction.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>CERC: IntroductionApril 16, 2018 — be first, be right, be credible, express empathy, promote action, and show respect. We can have a r...</p></details>
    Published: April 16, 2018  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: asset-scienceinsociety.eu  
-   Link: <a href="https://www.asset-scienceinsociety.eu/sites/default/files/cdc_risk_communication_book.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.asset-scienceinsociety.eu/sites/default/files/cdc_risk_communication_book.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ASSETCrisis and Emergency Risk Communication - ASSETTherefore, the first goal of risk communication is to establish trust and credibility...</p></details>
+   Link:<a href="https://www.asset-scienceinsociety.eu/sites/default/files/cdc_risk_communication_book.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.asset-scienceinsociety.eu/sites/default/files/cdc_risk_communication_book.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ASSETCrisis and Emergency Risk Communication - ASSETTherefore, the first goal of risk communication is to establish trust and credibility...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: who.int  
    Title: communicating uncertainty in health emergencies guidance and tips  
-   Link: <a href="https://www.who.int/europe/publications/m/item/communicating-uncertainty-in-health-emergencies-guidance-and-tips" target="_blank" rel="noopener noreferrer nofollow">https://www.who.int/europe/publications/m/item/communicating-uncertainty-in-health-emergencies-guidance-and-tips</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>World Health OrganizationCommunicating uncertainty in health emergencies27 Jun 2025 — The overriding goal for outbreak communication is t...</p></details>
+   Link:<a href="https://www.who.int/europe/publications/m/item/communicating-uncertainty-in-health-emergencies-guidance-and-tips" target="_blank" rel="noopener noreferrer nofollow">https://www.who.int/europe/publications/m/item/communicating-uncertainty-in-health-emergencies-guidance-and-tips</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>World Health OrganizationCommunicating uncertainty in health emergencies27 Jun 2025 — The overriding goal for outbreak communication is t...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCExploring factors that mitigate the continued influence  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8627545/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8627545/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>by IP Kan · 2021 · Cited by 27 — The term “continued influence effect” (CIE) refers to the phenomenon that discredited and obsolete in...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8627545/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8627545/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by IP Kan · 2021 · Cited by 27 — The term “continued influence effect” (CIE) refers to the phenomenon that discredited and obsolete in...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: link.springer.com  
-   Link: <a href="https://link.springer.com/article/10.3758/s13421-023-01402-w" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.3758/s13421-023-01402-w</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Springer LinkThe impact of misinformation corrections on source perceptionsby V Westbrook · 2023 · Cited by 26 — Research on the continue...</p></details>
+   Link:<a href="https://link.springer.com/article/10.3758/s13421-023-01402-w" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.3758/s13421-023-01402-w</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Springer LinkThe impact of misinformation corrections on source perceptionsby V Westbrook · 2023 · Cited by 26 — Research on the continue...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: link.springer.com  
-   Link: <a href="https://link.springer.com/article/10.1186/s41235-021-00335-9" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1186/s41235-021-00335-9</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Springer LinkExploring factors that mitigate the continued influence of...by IP Kan · 2021 · Cited by 27 — The term “continued influence...</p></details>
+   Link:<a href="https://link.springer.com/article/10.1186/s41235-021-00335-9" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1186/s41235-021-00335-9</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Springer LinkExploring factors that mitigate the continued influence of...by IP Kan · 2021 · Cited by 27 — The term “continued influence...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: digitalcommons.chapman.edu  
-   Link: <a href="https://digitalcommons.chapman.edu/cgi/viewcontent.cgi?article=1061&amp;context=comm_articles" target="_blank" rel="noopener noreferrer nofollow">https://digitalcommons.chapman.edu/cgi/viewcontent.cgi?article=1061&amp;context=comm_articles</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Chapman University Digital CommonsA Meta-Analytic Examination of the Continued Influence of...by N Walter · 2019 · Cited by 649 — A meta...</p></details>
+   Link:<a href="https://digitalcommons.chapman.edu/cgi/viewcontent.cgi?article=1061&amp;context=comm_articles" target="_blank" rel="noopener noreferrer nofollow">https://digitalcommons.chapman.edu/cgi/viewcontent.cgi?article=1061&amp;context=comm_articles</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Chapman University Digital CommonsA Meta-Analytic Examination of the Continued Influence of...by N Walter · 2019 · Cited by 649 — A meta...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S2212420924001389" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S2212420924001389</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Unveiling the influence of transparency in risk communicationby W Luo · 2024 · Cited by 15 — This study introduces a redefined concept of...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/abs/pii/S2212420924001389" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S2212420924001389</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Unveiling the influence of transparency in risk communicationby W Luo · 2024 · Cited by 15 — This study introduces a redefined concept of...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/pii/S2667193X22001910" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S2667193X22001910</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Uncertainty, scarcity and transparency: Public health ethics...by AE Lowe · 2022 · Cited by 36 — Transparency remains a bedrock value to...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/pii/S2667193X22001910" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S2667193X22001910</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Uncertainty, scarcity and transparency: Public health ethics...by AE Lowe · 2022 · Cited by 36 — Transparency remains a bedrock value to...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11445630/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11445630/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>and Emergency Risk Communication and Emotional...by SS Ho · 2024 · Cited by 18 — During health crises, transparent communication about u...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11445630/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11445630/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>and Emergency Risk Communication and Emotional...by SS Ho · 2024 · Cited by 18 — During health crises, transparent communication about u...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: who.int  
-   Link: <a href="https://www.who.int/activities/communicating-risk-in-public-health-emergencies" target="_blank" rel="noopener noreferrer nofollow">https://www.who.int/activities/communicating-risk-in-public-health-emergencies</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>World Health OrganizationCommunicating risk in public health emergenciesRisk communication is one of 8 core capacities in order to preven...</p></details>
+   Link:<a href="https://www.who.int/activities/communicating-risk-in-public-health-emergencies" target="_blank" rel="noopener noreferrer nofollow">https://www.who.int/activities/communicating-risk-in-public-health-emergencies</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>World Health OrganizationCommunicating risk in public health emergenciesRisk communication is one of 8 core capacities in order to preven...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10652548/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10652548/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Learning from COVID-19: government leaders&#x27; perspectives to...by E Savoia · 2023 · Cited by 13 — A WHO guideline for emergency risk c...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10652548/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10652548/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Learning from COVID-19: government leaders&#x27; perspectives to...by E Savoia · 2023 · Cited by 13 — A WHO guideline for emergency risk c...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: hsph.harvard.edu  
-   Link: <a href="https://hsph.harvard.edu/exec-ed/news/developing-public-health-communication-strategies-and-combating-misinformation-during-covid-19/" target="_blank" rel="noopener noreferrer nofollow">https://hsph.harvard.edu/exec-ed/news/developing-public-health-communication-strategies-and-combating-misinformation-during-covid-19/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Harvard Public HealthDeveloping Public Health Communication Strategies—And...3 Apr 2020 — According to Viswanath, “Public health communi...</p></details>
+   Link:<a href="https://hsph.harvard.edu/exec-ed/news/developing-public-health-communication-strategies-and-combating-misinformation-during-covid-19/" target="_blank" rel="noopener noreferrer nofollow">https://hsph.harvard.edu/exec-ed/news/developing-public-health-communication-strategies-and-combating-misinformation-during-covid-19/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Harvard Public HealthDeveloping Public Health Communication Strategies—And...3 Apr 2020 — According to Viswanath, “Public health communi...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: who.int  
-   Link: <a href="https://www.who.int/emergencies/risk-communications/guidance" target="_blank" rel="noopener noreferrer nofollow">https://www.who.int/emergencies/risk-communications/guidance</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Guidance on Risk CommunicationRisk communication is one of the eight core functions that WHO Member States must fulfill as signatories to...</p></details>
+   Link:<a href="https://www.who.int/emergencies/risk-communications/guidance" target="_blank" rel="noopener noreferrer nofollow">https://www.who.int/emergencies/risk-communications/guidance</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Guidance on Risk CommunicationRisk communication is one of the eight core functions that WHO Member States must fulfill as signatories to...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0010027720302729" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0010027720302729</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The rational continued influence of misinformationby SAC Desai · 2020 · Cited by 71 — Studies on the &#x27;Continued Influence Effect&#x27; (CIE) s...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/abs/pii/S0010027720302729" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0010027720302729</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The rational continued influence of misinformationby SAC Desai · 2020 · Cited by 71 — Studies on the &#x27;Continued Influence Effect&#x27; (CIE) s...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/chapter/bookseries/pii/S0079742102800093" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/chapter/bookseries/pii/S0079742102800093</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>In a dynamic world, information in [memory](&amp;#123;&amp;#123; &#x27;memory/&#x27; | relative_url &amp;#125;&amp;#125;) is frequently outdated, corrected, or replaced.Read mo...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/chapter/bookseries/pii/S0079742102800093" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/chapter/bookseries/pii/S0079742102800093</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>In a dynamic world, information in [memory](&amp;#123;&amp;#123; &#x27;memory/&#x27; | relative_url &amp;#125;&amp;#125;) is frequently outdated, corrected, or replaced.Read mo...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0010027725000307" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0010027725000307</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Belief updating in the face of misinformation: The role...by GA Sanna · 2025 · Cited by 14 — An investigation into the impact of retract...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/pii/S0010027725000307" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0010027725000307</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Belief updating in the face of misinformation: The role...by GA Sanna · 2025 · Cited by 14 — An investigation into the impact of retract...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: sciencedirect.com  
    Title: The CIE  
-   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0001691823002706" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0001691823002706</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A replication study of Johnson and Seifert&#x27;s (1994)...by V Laurent · 2023 · Cited by 5 — The term “Continued Influence Effect” (CIE) (Jo...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/pii/S0001691823002706" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0001691823002706</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A replication study of Johnson and Seifert&#x27;s (1994)...by V Laurent · 2023 · Cited by 5 — The term “Continued Influence Effect” (CIE) (Jo...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: paho.org  
-   Link: <a href="https://www.paho.org/en/topics/risk-and-outbreak-communication" target="_blank" rel="noopener noreferrer nofollow">https://www.paho.org/en/topics/risk-and-outbreak-communication</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Pan American Health OrganizationRisk and Outbreak CommunicationPrinciples of Risk Communication; Communicate to the public quickly and f...</p></details>
+   Link:<a href="https://www.paho.org/en/topics/risk-and-outbreak-communication" target="_blank" rel="noopener noreferrer nofollow">https://www.paho.org/en/topics/risk-and-outbreak-communication</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Pan American Health OrganizationRisk and Outbreak CommunicationPrinciples of Risk Communication; Communicate to the public quickly and f...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/26173286/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/26173286/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Misinformation and Its Correction: Continued Influence and...by S Lewandowsky · 2012 · Cited by 4704 — We first examine the mechan...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/26173286/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/26173286/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Misinformation and Its Correction: Continued Influence and...by S Lewandowsky · 2012 · Cited by 4704 — We first examine the mechan...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: journals.sagepub.com  
-   Link: <a href="https://journals.sagepub.com/doi/10.1177/17470218251336232" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/17470218251336232</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sage JournalsDo the protective effects last? The...9 Apr 2025 — The continued influence effect (CIE) refers to continued reliance on mis...</p></details>
+   Link:<a href="https://journals.sagepub.com/doi/10.1177/17470218251336232" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/17470218251336232</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sage JournalsDo the protective effects last? The...9 Apr 2025 — The continued influence effect (CIE) refers to continued reliance on mis...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/36988856/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/36988856/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>impact of misinformation corrections on source...by V Westbrook · 2023 · Cited by 26 — Research on the continued influence effect (CIE)...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/36988856/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/36988856/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>impact of misinformation corrections on source...by V Westbrook · 2023 · Cited by 26 — Research on the continued influence effect (CIE)...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: frontiersin.org  
-   Link: <a href="https://www.frontiersin.org/journals/public-health/articles/10.3389/fpubh.2025.1594833/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/public-health/articles/10.3389/fpubh.2025.1594833/full</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>enhancing rural risk communication for future health crises...by A Leslie · 2025 · Cited by 6 — Clear and effective risk communication i...</p></details>
+   Link:<a href="https://www.frontiersin.org/journals/public-health/articles/10.3389/fpubh.2025.1594833/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/public-health/articles/10.3389/fpubh.2025.1594833/full</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>enhancing rural risk communication for future health crises...by A Leslie · 2025 · Cited by 6 — Clear and effective risk communication i...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: frontiersin.org  
-   Link: <a href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2024.1487146/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2024.1487146/full</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The inhibitory impact of collaboration on the continued...by G Chen · 2024 · Cited by 2 — The continued influence effect (CIE) of misinf...</p></details>
+   Link:<a href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2024.1487146/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2024.1487146/full</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The inhibitory impact of collaboration on the continued...by G Chen · 2024 · Cited by 2 — The continued influence effect (CIE) of misinf...</p></details>
 
 ### Additional References
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/391015007_To_be_continued_misinformation%27s_bizarre_adventure_beyond_memory_failures_-_exploring_non-memory-based_mechanisms_driving_the_continued_influence_effect_CIE" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/391015007_To_be_continued_misinformation%27s_bizarre_adventure_beyond_memory_failures_-_exploring_non-memory-based_mechanisms_driving_the_continued_influence_effect_CIE</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) To be continued: misinformation&#x27;s bizarre adventure...18 Nov 2025 — The Continued Influence Effect (CIE) refers to the persistent...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/391015007_To_be_continued_misinformation%27s_bizarre_adventure_beyond_memory_failures_-_exploring_non-memory-based_mechanisms_driving_the_continued_influence_effect_CIE" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/391015007_To_be_continued_misinformation%27s_bizarre_adventure_beyond_memory_failures_-_exploring_non-memory-based_mechanisms_driving_the_continued_influence_effect_CIE</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) To be continued: misinformation&#x27;s bizarre adventure...18 Nov 2025 — The Continued Influence Effect (CIE) refers to the persistent...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: scispace.com  
-   Link: <a href="https://scispace.com/pdf/the-continued-influence-of-misinformation-in-memory-what-4tijzg1jh2.pdf" target="_blank" rel="noopener noreferrer nofollow">https://scispace.com/pdf/the-continued-influence-of-misinformation-in-memory-what-4tijzg1jh2.pdf</a>  
+   Link:<a href="https://scispace.com/pdf/the-continued-influence-of-misinformation-in-memory-what-4tijzg1jh2.pdf" target="_blank" rel="noopener noreferrer nofollow">https://scispace.com/pdf/the-continued-influence-of-misinformation-in-memory-what-4tijzg1jh2.pdf</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: brod.ntcenter.bg  
-   Link: <a href="https://brod.ntcenter.bg/en/continued-influence-effect/" target="_blank" rel="noopener noreferrer nofollow">https://brod.ntcenter.bg/en/continued-influence-effect/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Influence EffectThe &quot;Continued Influence Effect&quot; refers to the phenomenon where misinformation continues to affect people&#x27;s thinking and...</p></details>
+   Link:<a href="https://brod.ntcenter.bg/en/continued-influence-effect/" target="_blank" rel="noopener noreferrer nofollow">https://brod.ntcenter.bg/en/continued-influence-effect/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Influence EffectThe &quot;Continued Influence Effect&quot; refers to the phenomenon where misinformation continues to affect people&#x27;s thinking and...</p></details>
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: asprtracie.hhs.gov  
-   Link: <a href="https://asprtracie.hhs.gov/technical-resources/79/risk-communications-emncy-public-information-and-warning/77" target="_blank" rel="noopener noreferrer nofollow">https://asprtracie.hhs.gov/technical-resources/79/risk-communications-emncy-public-information-and-warning/77</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>d after an incident can help residents feel informed and empowered.Read more...</p></details>
+   Link:<a href="https://asprtracie.hhs.gov/technical-resources/79/risk-communications-emncy-public-information-and-warning/77" target="_blank" rel="noopener noreferrer nofollow">https://asprtracie.hhs.gov/technical-resources/79/risk-communications-emncy-public-information-and-warning/77</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>d after an incident can help residents feel informed and empowered.Read more...</p></details>
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: ebolacommunicationnetwork.org  
-   Link: <a href="https://ebolacommunicationnetwork.org/wp-content/uploads/2014/09/CrisisEmregencyRiskCommunication.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ebolacommunicationnetwork.org/wp-content/uploads/2014/09/CrisisEmregencyRiskCommunication.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Tell the media when and where to get updates from your agency. Give facts. Don&#x27;t speculate...Read more...</p></details>
+   Link:<a href="https://ebolacommunicationnetwork.org/wp-content/uploads/2014/09/CrisisEmregencyRiskCommunication.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ebolacommunicationnetwork.org/wp-content/uploads/2014/09/CrisisEmregencyRiskCommunication.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Tell the media when and where to get updates from your agency. Give facts. Don&#x27;t speculate...Read more...</p></details>
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: journals.sagepub.com  
-   Link: <a href="https://journals.sagepub.com/doi/abs/10.1177/1529100612451018" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/abs/10.1177/1529100612451018</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>and Its Correction: Continued Influence and...by S Lewandowsky · 2012 · Cited by 4698 — Sources of the continued influence effect: When...</p></details>
+   Link:<a href="https://journals.sagepub.com/doi/abs/10.1177/1529100612451018" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/abs/10.1177/1529100612451018</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>and Its Correction: Continued Influence and...by S Lewandowsky · 2012 · Cited by 4698 — Sources of the continued influence effect: When...</p></details>
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: publichealthontario.ca  
-   Link: <a href="https://www.publichealthontario.ca/-/media/Documents/nCoV/main/2023/risk-communication-trust-public-health-covid-19-pandemic.pdf?rev=015f717e6a474c98a46022722879fb98%E2%89%BB_lang%3Den" target="_blank" rel="noopener noreferrer nofollow">https://www.publichealthontario.ca/-/media/Documents/nCoV/main/2023/risk-communication-trust-public-health-covid-19-pandemic.pdf?rev=015f717e6a474c98a46022722879fb98%E2%89%BB_lang%3Den</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The COVID-19 pandemic presented challenges for risk communication, such as the spread of misinformation and disinformation and growing di...</p></details>
+   Link:<a href="https://www.publichealthontario.ca/-/media/Documents/nCoV/main/2023/risk-communication-trust-public-health-covid-19-pandemic.pdf?rev=015f717e6a474c98a46022722879fb98%E2%89%BB_lang%3Den" target="_blank" rel="noopener noreferrer nofollow">https://www.publichealthontario.ca/-/media/Documents/nCoV/main/2023/risk-communication-trust-public-health-covid-19-pandemic.pdf?rev=015f717e6a474c98a46022722879fb98%E2%89%BB_lang%3Den</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The COVID-19 pandemic presented challenges for risk communication, such as the spread of misinformation and disinformation and growing di...</p></details>
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: journals.lww.com  
    Title: strengthening risk communication systems for.3.aspx  
-   Link: <a href="https://journals.lww.com/wsep/fulltext/2020/09010/strengthening_risk_communication_systems_for.3.aspx" target="_blank" rel="noopener noreferrer nofollow">https://journals.lww.com/wsep/fulltext/2020/09010/strengthening_risk_communication_systems_for.3.aspx</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>South-East Asia Journal of Public Healthby RH Ofrin · 2020 · Cited by 6 — The World Health Organization (WHO) defines risk communication...</p></details>
+   Link:<a href="https://journals.lww.com/wsep/fulltext/2020/09010/strengthening_risk_communication_systems_for.3.aspx" target="_blank" rel="noopener noreferrer nofollow">https://journals.lww.com/wsep/fulltext/2020/09010/strengthening_risk_communication_systems_for.3.aspx</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>South-East Asia Journal of Public Healthby RH Ofrin · 2020 · Cited by 6 — The World Health Organization (WHO) defines risk communication...</p></details>
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: nature.com  
-   Link: <a href="https://www.nature.com/articles/s44159-021-00006-y" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s44159-021-00006-y</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The psychological drivers of misinformation belief and its...by UKH Ecker · 2022 · Cited by 1847 — Electrophysiological correlates...</p></details>
+   Link:<a href="https://www.nature.com/articles/s44159-021-00006-y" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s44159-021-00006-y</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The psychological drivers of misinformation belief and its...by UKH Ecker · 2022 · Cited by 1847 — Electrophysiological correlates...</p></details>
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: michsafetyconference.org  
-   Link: <a href="https://michsafetyconference.org/wp-content/uploads/2022/04/WEd-1015-am-Emerg-Mgt-Crisis-and-Emergency-Risk-Communication.pdf" target="_blank" rel="noopener noreferrer nofollow">https://michsafetyconference.org/wp-content/uploads/2022/04/WEd-1015-am-Emerg-Mgt-Crisis-and-Emergency-Risk-Communication.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Crisis &amp; Emergency Risk CommunicationBe first, right, credible, express empathy, promote action, show respect in messaging...</p></details>
+   Link:<a href="https://michsafetyconference.org/wp-content/uploads/2022/04/WEd-1015-am-Emerg-Mgt-Crisis-and-Emergency-Risk-Communication.pdf" target="_blank" rel="noopener noreferrer nofollow">https://michsafetyconference.org/wp-content/uploads/2022/04/WEd-1015-am-Emerg-Mgt-Crisis-and-Emergency-Risk-Communication.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Crisis &amp; Emergency Risk CommunicationBe first, right, credible, express empathy, promote action, show respect in messaging...</p></details>

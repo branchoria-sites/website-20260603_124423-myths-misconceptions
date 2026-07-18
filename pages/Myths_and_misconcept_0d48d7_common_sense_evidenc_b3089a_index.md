@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /myths-and-misconcept-0d48d7-common/
 description: Focused pages that expand on Common Sense.
-date: '2026-06-11'
+date: '2026'
 layout: default
 parent_basename: Myths_and_misconcept_0d48d7_common_sense_evidenc_b3089a
 parent_title: Common Sense
@@ -16,7 +16,7 @@ parent_permalink: /common-sense/
 
 # Explore Topics in Common Sense
 
-The following pages expand on the main **[Common Sense]({{ '/common-sense/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[Common Sense]({{ '/common-sense/' | relative_url }})** page and cover its key branches in.
 
 - [Accuracy prompts]({{ '/accuracy-prompts/' | relative_url }})
 - [Full moons]({{ '/full-moons/' | relative_url }})

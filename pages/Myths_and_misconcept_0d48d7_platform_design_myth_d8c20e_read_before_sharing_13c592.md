@@ -277,32 +277,32 @@ image: /assets/images/Myths_and_misconcept_0d48d7_platform_design_myth_d8c20e_re
 A surprisingly small design change can interrupt the spread of myths and misconceptions: asking people to pause before they repost. Read-before-sharing prompts are one of the simplest forms of platform friction. Instead of blocking content or judging whether a claim is true, they insert a brief moment of reflection between seeing a post and amplifying it.
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_platform_design_myth_d8c20e_read_before_sharing_13c592-Illustration-1-dark.svg" | relative_url }}" alt="Sharing Prompts illustration 1" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_platform_design_myth_d8c20e_read_before_sharing_13c592-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_platform_design_myth_d8c20e_read_before_sharing_13c592-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-The idea is based on a practical observation. Many false or misleading claims travel because sharing is nearly effortless. Users often repost [headlines]({{ 'headlines/' | relative_url }}), screenshots or snippets without reading the underlying material, checking the source, or considering accuracy. By slowing that process at the exact moment a claim could reach a larger audience, [platforms]({{ 'platforms/' | relative_url }}) can reduce impulsive reposting and improve the quality of information that circulates. Research and platform experiments suggest that even lightweight prompts can meaningfully change behaviour without removing users ability to share. <span class="citation-chip-wrap"><a class="citation-chip" href="https://techcrunch.com/2020/09/24/twitter-read-before-retweet/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: techcrunch.com">[TechCrunch]</a><span class="citation-popover" role="note"><span class="citation-popover-source">techcrunch.com</span><span class="citation-popover-snippet">Twitter plans to bring prompts to &#x27;read before you retweet...September 24, 2020  24 Sept 2020  Twitter says the prompts work...</span><span class="citation-popover-meta">Published: September 24, 2020</span></span></span>
+The idea is based on a practical observation. Many false or misleading claims travel because sharing is nearly effortless. Users often repost [headlines]({{ 'headlines/' | relative_url }}), screenshots or snippets without reading the underlying material, checking the source, or considering accuracy. By slowing that process at the exact moment a claim could reach a larger audience, [platforms]({{ 'platforms/' | relative_url }}) can reduce impulsive reposting and improve the quality of information that circulates. Research and platform experiments suggest that even lightweight prompts can meaningfully change behaviour without removing users ability to share.<span class="citation-chip-wrap"><a class="citation-chip" href="https://techcrunch.com/2020/09/24/twitter-read-before-retweet/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: techcrunch.com">[TechCrunch]</a><span class="citation-popover" role="note"><span class="citation-popover-source">techcrunch.com</span><span class="citation-popover-snippet">Twitter plans to bring prompts to &#x27;read before you retweet...September 24, 2020  24 Sept 2020  Twitter says the prompts work...</span><span class="citation-popover-meta">Published: September 24, 2020</span></span></span>
 
 ## Why myths benefit from one-click sharing
 
 False claims often spread through speed rather than persuasion. A dramatic headline, emotional reaction or [identity]({{ 'identity/' | relative_url }})-affirming message can be shared in seconds. The user does not need to investigate the claim for it to travel.
 
-Research into online misinformation repeatedly finds a gap between what people believe and what they share. Many users are not deliberately spreading falsehoods. Instead, social media environments encourage attention to humour, outrage, social approval and group identity, leaving accuracy in the background. When sharing becomes frictionless, that attention gap can help myths move faster than careful [corrections]({{ 'corrections/' | relative_url }}). <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S1364661321000516" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Review The Psychology of Fake Newsby G Pennycook  2021  Cited by 1962  Concern about fake news was redoubled in 2020 in t...</span></span></span>
+Research into online misinformation repeatedly finds a gap between what people believe and what they share. Many users are not deliberately spreading falsehoods. Instead, social media environments encourage attention to humour, outrage, social approval and group identity, leaving accuracy in the background. When sharing becomes frictionless, that attention gap can help myths move faster than careful [corrections]({{ 'corrections/' | relative_url }}).<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S1364661321000516" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Review The Psychology of Fake Newsby G Pennycook  2021  Cited by 1962  Concern about fake news was redoubled in 2020 in t...</span></span></span>
 
-Evidence suggests this is not a rare behaviour. A large study of news links shared on Facebook found that more than three-quarters of shared links were circulated without users clicking through to read the content first. In such conditions, headlines and social cues can matter more than the underlying article. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.psu.edu/news/research/story/social-media-users-probably-wont-read-beyond-headline-researchers-say" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: psu.edu">[Penn State]</a><span class="citation-popover" role="note"><span class="citation-popover-source">psu.edu</span><span class="citation-popover-title">social media users probably wont read beyond headline researchers say</span><span class="citation-popover-snippet">Penn StateSocial media users probably won&#x27;t read beyond this...Nov 19, 2024  A study led by Penn State researchers revealed that more t...</span></span></span>
+Evidence suggests this is not a rare behaviour. A large study of news links shared on Facebook found that more than three-quarters of shared links were circulated without users clicking through to read the content first. In such conditions, headlines and social cues can matter more than the underlying article.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.psu.edu/news/research/story/social-media-users-probably-wont-read-beyond-headline-researchers-say" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: psu.edu">[Penn State]</a><span class="citation-popover" role="note"><span class="citation-popover-source">psu.edu</span><span class="citation-popover-title">social media users probably wont read beyond headline researchers say</span><span class="citation-popover-snippet">Penn StateSocial media users probably won&#x27;t read beyond this...Nov 19, 2024  A study led by Penn State researchers revealed that more t...</span></span></span>
 
 This is why the sharing moment attracts so much interest from researchers and platform designers. Once a claim has already spread widely, corrections face an uphill battle. A pause before reposting targets the earlier stage when amplification is still optional.
 
 ## What read-before-sharing prompts change
 
-The most widely known example came from Twitter's read before you retweet experiment. Users attempting to repost an article they had not opened received a prompt asking whether they wanted to read it first. After testing the feature, Twitter reported that users opened articles 40% more often after seeing the prompt, and article-opening before retweeting increased by 33%. Some users chose not to repost after reading, which was considered a desirable outcome rather than a failure. TechCrunch <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.niemanlab.org/2020/09/following-successful-experiments-twitter-will-prompt-all-users-to-read-the-articles-theyre-about-to-retweet/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: niemanlab.org">[Nieman Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">niemanlab.org</span><span class="citation-popover-snippet">Nieman LabFollowing successful experiments, Twitter will prompt all...25 Sept 2020  According to Twitter Communications, people opened...</span></span></span>
+The most widely known example came from Twitter's read before you retweet experiment. Users attempting to repost an article they had not opened received a prompt asking whether they wanted to read it first. After testing the feature, Twitter reported that users opened articles 40% more often after seeing the prompt, and article-opening before retweeting increased by 33%. Some users chose not to repost after reading, which was considered a desirable outcome rather than a failure. TechCrunch<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.niemanlab.org/2020/09/following-successful-experiments-twitter-will-prompt-all-users-to-read-the-articles-theyre-about-to-retweet/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: niemanlab.org">[Nieman Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">niemanlab.org</span><span class="citation-popover-snippet">Nieman LabFollowing successful experiments, Twitter will prompt all...25 Sept 2020  According to Twitter Communications, people opened...</span></span></span>
 
 The significance of this intervention is not that it determined truth. The prompt did not label content as misinformation or remove posts. Instead, it altered the sequence of actions. Reading became slightly easier to choose than immediate amplification.
 
-Researchers often describe this approach as a form of friction: a deliberate interruption of automatic behaviour. Studies examining misinformation sharing have found that asking people to pause and consider accuracy, explain why a headline might be true or false, or reflect briefly before sharing can reduce willingness to share false content while leaving sharing of accurate information largely unchanged. Misinformation Review <span class="citation-chip-wrap"><a class="citation-chip" href="https://doaj.org/article/c0637e7db45844599250ba7feabc88d1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: doaj.org">[DOAJ]</a><span class="citation-popover" role="note"><span class="citation-popover-source">doaj.org</span><span class="citation-popover-snippet">true or false indicated that they were less likely to share false information...</span></span></span>
+Researchers often describe this approach as a form of friction: a deliberate interruption of automatic behaviour. Studies examining misinformation sharing have found that asking people to pause and consider accuracy, explain why a headline might be true or false, or reflect briefly before sharing can reduce willingness to share false content while leaving sharing of accurate information largely unchanged. Misinformation Review<span class="citation-chip-wrap"><a class="citation-chip" href="https://doaj.org/article/c0637e7db45844599250ba7feabc88d1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: doaj.org">[DOAJ]</a><span class="citation-popover" role="note"><span class="citation-popover-source">doaj.org</span><span class="citation-popover-snippet">true or false indicated that they were less likely to share false information...</span></span></span>
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_platform_design_myth_d8c20e_read_before_sharing_13c592-Illustration-2-dark.svg" | relative_url }}" alt="Sharing Prompts illustration 2" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_platform_design_myth_d8c20e_read_before_sharing_13c592-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_platform_design_myth_d8c20e_read_before_sharing_13c592-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Attention rather than censorship
 
 One common misconception is that these prompts work because they force users to accept a platform's judgement. In reality, many successful interventions operate by redirecting attention rather than imposing a verdict.
 
-A series of studies led by Gordon Pennycook and colleagues found that simple [accuracy nudges]({{ 'accuracy-nudges/' | relative_url }}) improved the quality of information people said they would share. Even asking users to evaluate the accuracy of a single, unrelated headline could increase attention to accuracy in later sharing decisions. The proposed mechanism is straightforward: people often care about truthfulness but are distracted by other motivations when using social media. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41586-021-03344-2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Shifting attention to accuracy can reduce misinformation...by G Pennycook  2021  Cited by 1492  The sharing of misinformation o...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s44260-025-00051-1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">A perspective on friction interventions to curb the spread of...by L Jahn  2025  Cited by 1  Adding as little friction as havin...</span></span></span>
+A series of studies led by Gordon Pennycook and colleagues found that simple [accuracy nudges]({{ 'accuracy-nudges/' | relative_url }}) improved the quality of information people said they would share. Even asking users to evaluate the accuracy of a single, unrelated headline could increase attention to accuracy in later sharing decisions. The proposed mechanism is straightforward: people often care about truthfulness but are distracted by other motivations when using social media.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41586-021-03344-2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Shifting attention to accuracy can reduce misinformation...by G Pennycook  2021  Cited by 1492  The sharing of misinformation o...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s44260-025-00051-1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">A perspective on friction interventions to curb the spread of...by L Jahn  2025  Cited by 1  Adding as little friction as havin...</span></span></span>
 
 From an implementation perspective, this matters because attention-based prompts can be deployed without requiring platforms to identify every false claim in advance. The intervention targets behaviour rather than content classification.
 
@@ -310,216 +310,216 @@ From an implementation perspective, this matters because attention-based prompts
 
 The effectiveness of these prompts depends heavily on timing. A warning shown after a post has already gone viral may do little to prevent further spread. A prompt delivered at the exact moment of sharing influences a decision that has not yet been made.
 
-Researchers studying online misinformation increasingly describe engagement as a sequence of choices: what to view, what to trust and what to share. Read-before-sharing prompts intervene at the final stage, where a user is deciding whether to amplify information to others. By targeting this decision point, platforms can affect diffusion without substantially altering what users are allowed to see. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S1364661321000516" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Review The Psychology of Fake Newsby G Pennycook  2021  Cited by 1962  Concern about fake news was redoubled in 2020 in t...</span></span></span>
+Researchers studying online misinformation increasingly describe engagement as a sequence of choices: what to view, what to trust and what to share. Read-before-sharing prompts intervene at the final stage, where a user is deciding whether to amplify information to others. By targeting this decision point, platforms can affect diffusion without substantially altering what users are allowed to see.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S1364661321000516" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Review The Psychology of Fake Newsby G Pennycook  2021  Cited by 1962  Concern about fake news was redoubled in 2020 in t...</span></span></span>
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_platform_design_myth_d8c20e_read_before_sharing_13c592-Illustration-3-dark.svg" | relative_url }}" alt="Sharing Prompts illustration 3" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_platform_design_myth_d8c20e_read_before_sharing_13c592-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_platform_design_myth_d8c20e_read_before_sharing_13c592-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Where protective friction becomes overreach
 
 Although read-before-sharing prompts are generally considered one of the less intrusive interventions, they are not free of trade-offs.
 
-A first concern is user fatigue. If prompts appear too frequently, people may learn to dismiss them automatically. The intervention then becomes background noise rather than a meaningful pause. Behavioural research on digital friction consistently suggests that effectiveness depends on careful targeting rather than constant interruption. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41467-022-30073-5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">misinformation on social media: Experimental evidence for a scalable accuracy nudge intervention.... fake news sharing on Twitter. Am...</span></span></span>
+A first concern is user fatigue. If prompts appear too frequently, people may learn to dismiss them automatically. The intervention then becomes background noise rather than a meaningful pause. Behavioural research on digital friction consistently suggests that effectiveness depends on careful targeting rather than constant interruption.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41467-022-30073-5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">misinformation on social media: Experimental evidence for a scalable accuracy nudge intervention.... fake news sharing on Twitter. Am...</span></span></span>
 
 A second concern is unequal burden. If prompts are applied selectively, users may perceive them as politically biased or ideologically motivated. Trust can erode if people believe the platform is steering behaviour in opaque ways rather than applying rules consistently.
 
-There is also a practical limit to what friction alone can achieve. Some studies and modelling work suggest that simply making sharing harder may reduce overall posting activity without necessarily improving information quality. More promising results emerge when friction is combined with cues that help users recognise quality or accuracy. In other words, a pause works best when it encourages reflection rather than merely creating inconvenience. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/pdf/2307.11498" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Friction Interventions to Curb the Spread of Misinformation...by L Jahn  2023  Cited by 12  Adding as little friction as having users...</span></span></span>
+There is also a practical limit to what friction alone can achieve. Some studies and modelling work suggest that simply making sharing harder may reduce overall posting activity without necessarily improving information quality. More promising results emerge when friction is combined with cues that help users recognise quality or accuracy. In other words, a pause works best when it encourages reflection rather than merely creating inconvenience.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/pdf/2307.11498" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Friction Interventions to Curb the Spread of Misinformation...by L Jahn  2023  Cited by 12  Adding as little friction as having users...</span></span></span>
 
 ## Can a pause stop a false claim?
 
 A pause cannot eliminate myths and misconceptions, and read-before-sharing prompts are not a substitute for [media literacy]({{ 'media-literacy/' | relative_url }}), fact-checking or broader platform governance. Determined users can still repost misleading content, and some false claims spread through channels where prompts are absent.
 
-However, the evidence suggests that many instances of misinformation sharing are surprisingly sensitive to small design changes. When platforms insert a brief moment for reading, reflection or accuracy consideration, users often behave differently. They open articles more frequently, pay greater attention to accuracy and become less likely to share questionable information impulsively. Nature 3TechCrunch <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.niemanlab.org/2020/09/following-successful-experiments-twitter-will-prompt-all-users-to-read-the-articles-theyre-about-to-retweet/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: niemanlab.org">[Nieman Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">niemanlab.org</span><span class="citation-popover-snippet">Nieman LabFollowing successful experiments, Twitter will prompt all...25 Sept 2020  According to Twitter Communications, people opened...</span></span></span>
+However, the evidence suggests that many instances of misinformation sharing are surprisingly sensitive to small design changes. When platforms insert a brief moment for reading, reflection or accuracy consideration, users often behave differently. They open articles more frequently, pay greater attention to accuracy and become less likely to share questionable information impulsively. Nature 3TechCrunch<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.niemanlab.org/2020/09/following-successful-experiments-twitter-will-prompt-all-users-to-read-the-articles-theyre-about-to-retweet/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: niemanlab.org">[Nieman Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">niemanlab.org</span><span class="citation-popover-snippet">Nieman LabFollowing successful experiments, Twitter will prompt all...25 Sept 2020  According to Twitter Communications, people opened...</span></span></span>
 
-For platform designers seeking to reduce the spread of false beliefs, this is the key lesson: myths often benefit from speed. A well-placed pause does not decide what people must think, but it can change how quickly a doubtful claim travels. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41562-025-02205-6" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Following news on social media boosts knowledge, belief...by S Altay  2025  Cited by 15  These trends may exacerbate polarization, ra...</span></span></span>
+For platform designers seeking to reduce the spread of false beliefs, this is the key lesson: myths often benefit from speed. A well-placed pause does not decide what people must think, but it can change how quickly a doubtful claim travels.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41562-025-02205-6" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Following news on social media boosts knowledge, belief...by S Altay  2025  Cited by 15  These trends may exacerbate polarization, ra...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Can a Pause Stop a False Claim?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Can a Pause Stop a False Claim?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Psychology+of+Fake+News+by+Rainer+Greifeneder&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Psychology of Fake News on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=-Q72DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Psychology of Fake News" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Psychology+of+Fake+News+by+Rainer+Greifeneder&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Psychology of Fake News">The Psychology of Fake News</a>
-        </h4>
-        <p class="fr-book-author">By Rainer Greifeneder, Mariela Jaffe et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Psychology+of+Fake+News+by+Rainer+Greifeneder&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Psychology of Fake News on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=-Q72DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Psychology of Fake News" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Psychology+of+Fake+News+by+Rainer+Greifeneder&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Psychology of Fake News">The Psychology of Fake News</a>
+</h4>
+<p class="fr-book-author">By Rainer Greifeneder, Mariela Jaffe et al.</p>
         
-        <p class="fr-book-desc">Directly connects to why people share content without careful evaluation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Psychology+of+Fake+News+by+Rainer+Greifeneder&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly connects to why people share content without careful evaluation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Psychology+of+Fake+News+by+Rainer+Greifeneder&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YGPzXWanppcC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
-        </h4>
-        <p class="fr-book-author">By Daniel Kahneman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YGPzXWanppcC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
+</h4>
+<p class="fr-book-author">By Daniel Kahneman</p>
         
-        <p class="fr-book-desc">Explains impulsive versus reflective decision-making.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains impulsive versus reflective decision-making.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Digital+Minimalism+by+Cal+Newport&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Digital Minimalism on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=S4NbDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Digital Minimalism" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Digital+Minimalism+by+Cal+Newport&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Digital Minimalism">Digital Minimalism</a>
-        </h4>
-        <p class="fr-book-author">By Cal Newport</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Digital+Minimalism+by+Cal+Newport&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Digital Minimalism on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=S4NbDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Digital Minimalism" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Digital+Minimalism+by+Cal+Newport&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Digital Minimalism">Digital Minimalism</a>
+</h4>
+<p class="fr-book-author">By Cal Newport</p>
         
-        <p class="fr-book-desc">Addresses deliberate attention and healthier digital habits.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Digital+Minimalism+by+Cal+Newport&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Addresses deliberate attention and healthier digital habits.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Digital+Minimalism+by+Cal+Newport&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Calling Bullshit on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Plu9DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Calling Bullshit" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Calling Bullshit">Calling Bullshit</a>
-        </h4>
-        <p class="fr-book-author">By Carl T. Bergstrom, Jevin D. West</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Calling Bullshit on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Plu9DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Calling Bullshit" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Calling Bullshit">Calling Bullshit</a>
+</h4>
+<p class="fr-book-author">By Carl T. Bergstrom, Jevin D. West</p>
         
-        <p class="fr-book-desc">Promotes scrutiny before passing information onward.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Promotes scrutiny before passing information onward.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Psychology+of+Fake+News&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Psychology of Fake News</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Digital+Minimalism&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Digital Minimalism</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Psychology+of+Fake+News&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Psychology of Fake News</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Digital+Minimalism&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Digital Minimalism</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=technology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sharing-prompts-can-a-pause-stop-a-false-claim-myths-and-misconcept-technology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="technology wall art" data-ebay-reference="sharing-prompts-can-a-pause-stop-a-false-claim-myths-and-misconcept-technology-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for RETRO TECHNOLOGY Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/52587c8494bbf9efb04f.jpg' | relative_url }}" alt="Listing image for RETRO TECHNOLOGY Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=technology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sharing-prompts-can-a-pause-stop-a-false-claim-myths-and-misconcept-technology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="technology wall art" data-ebay-reference="sharing-prompts-can-a-pause-stop-a-false-claim-myths-and-misconcept-technology-wall-art" target="_blank" rel="sponsored noopener noreferrer">RETRO TECHNOLOGY Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=technology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sharing-prompts-can-a-pause-stop-a-false-claim-myths-and-misconcept-technology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="technology wall art" data-ebay-reference="sharing-prompts-can-a-pause-stop-a-false-claim-myths-and-misconcept-technology-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for technology wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: technology wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=technology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sharing-prompts-can-a-pause-stop-a-false-claim-myths-and-misconcept-technology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="technology wall art" data-ebay-reference="sharing-prompts-can-a-pause-stop-a-false-claim-myths-and-misconcept-technology-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=technology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sharing-prompts-can-a-pause-stop-a-false-claim-myths-and-misconcept-technology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="technology wall art" data-ebay-reference="sharing-prompts-can-a-pause-stop-a-false-claim-myths-and-misconcept-technology-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for RETRO TECHNOLOGY Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/52587c8494bbf9efb04f.jpg' | relative_url }}" alt="Listing image for RETRO TECHNOLOGY Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=technology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sharing-prompts-can-a-pause-stop-a-false-claim-myths-and-misconcept-technology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="technology wall art" data-ebay-reference="sharing-prompts-can-a-pause-stop-a-false-claim-myths-and-misconcept-technology-wall-art" target="_blank" rel="sponsored noopener noreferrer">RETRO TECHNOLOGY Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=technology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sharing-prompts-can-a-pause-stop-a-false-claim-myths-and-misconcept-technology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="technology wall art" data-ebay-reference="sharing-prompts-can-a-pause-stop-a-false-claim-myths-and-misconcept-technology-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for technology wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: technology wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=technology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sharing-prompts-can-a-pause-stop-a-false-claim-myths-and-misconcept-technology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="technology wall art" data-ebay-reference="sharing-prompts-can-a-pause-stop-a-false-claim-myths-and-misconcept-technology-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=technology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sharing-prompts-can-a-pause-stop-a-false-claim-myths-and-misconcept-technology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="technology wall art" data-ebay-reference="sharing-prompts-can-a-pause-stop-a-false-claim-myths-and-misconcept-technology-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for yellow technology tree Framed Art P Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/6e1f60225a82588553d0.jpg' | relative_url }}" alt="Listing image for yellow technology tree Framed Art P Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=technology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sharing-prompts-can-a-pause-stop-a-false-claim-myths-and-misconcept-technology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="technology wall art" data-ebay-reference="sharing-prompts-can-a-pause-stop-a-false-claim-myths-and-misconcept-technology-wall-art" target="_blank" rel="sponsored noopener noreferrer">yellow technology tree Framed Art P Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=technology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sharing-prompts-can-a-pause-stop-a-false-claim-myths-and-misconcept-technology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="technology wall art" data-ebay-reference="sharing-prompts-can-a-pause-stop-a-false-claim-myths-and-misconcept-technology-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for technology wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: technology wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=technology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sharing-prompts-can-a-pause-stop-a-false-claim-myths-and-misconcept-technology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="technology wall art" data-ebay-reference="sharing-prompts-can-a-pause-stop-a-false-claim-myths-and-misconcept-technology-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=technology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sharing-prompts-can-a-pause-stop-a-false-claim-myths-and-misconcept-technology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="technology wall art" data-ebay-reference="sharing-prompts-can-a-pause-stop-a-false-claim-myths-and-misconcept-technology-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for yellow technology tree Framed Art P Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/6e1f60225a82588553d0.jpg' | relative_url }}" alt="Listing image for yellow technology tree Framed Art P Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=technology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sharing-prompts-can-a-pause-stop-a-false-claim-myths-and-misconcept-technology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="technology wall art" data-ebay-reference="sharing-prompts-can-a-pause-stop-a-false-claim-myths-and-misconcept-technology-wall-art" target="_blank" rel="sponsored noopener noreferrer">yellow technology tree Framed Art P Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=technology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sharing-prompts-can-a-pause-stop-a-false-claim-myths-and-misconcept-technology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="technology wall art" data-ebay-reference="sharing-prompts-can-a-pause-stop-a-false-claim-myths-and-misconcept-technology-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for technology wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: technology wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=technology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sharing-prompts-can-a-pause-stop-a-false-claim-myths-and-misconcept-technology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="technology wall art" data-ebay-reference="sharing-prompts-can-a-pause-stop-a-false-claim-myths-and-misconcept-technology-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=technology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sharing-prompts-can-a-pause-stop-a-false-claim-myths-and-misconcept-technology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="technology wall art" data-ebay-reference="sharing-prompts-can-a-pause-stop-a-false-claim-myths-and-misconcept-technology-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Framed iPhone 7 Wall Art – Deconstructed Tech Frame | Unique Gift | UK Made"><img src="{{ '/assets/images/marketplace-covers/5bc2986344f968932a31.jpg' | relative_url }}" alt="Listing image for Framed iPhone 7 Wall Art – Deconstructed Tech Frame | Unique Gift | UK Made" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=technology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sharing-prompts-can-a-pause-stop-a-false-claim-myths-and-misconcept-technology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="technology wall art" data-ebay-reference="sharing-prompts-can-a-pause-stop-a-false-claim-myths-and-misconcept-technology-wall-art" target="_blank" rel="sponsored noopener noreferrer">Framed iPhone 7 Wall Art – Deconstructed Tech Frame | Unique Gift | UK Made</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=technology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sharing-prompts-can-a-pause-stop-a-false-claim-myths-and-misconcept-technology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="technology wall art" data-ebay-reference="sharing-prompts-can-a-pause-stop-a-false-claim-myths-and-misconcept-technology-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for technology wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: technology wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=technology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sharing-prompts-can-a-pause-stop-a-false-claim-myths-and-misconcept-technology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="technology wall art" data-ebay-reference="sharing-prompts-can-a-pause-stop-a-false-claim-myths-and-misconcept-technology-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=technology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sharing-prompts-can-a-pause-stop-a-false-claim-myths-and-misconcept-technology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="technology wall art" data-ebay-reference="sharing-prompts-can-a-pause-stop-a-false-claim-myths-and-misconcept-technology-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Framed iPhone 7 Wall Art – Deconstructed Tech Frame | Unique Gift | UK Made"><img src="{{ '/assets/images/marketplace-covers/5bc2986344f968932a31.jpg' | relative_url }}" alt="Listing image for Framed iPhone 7 Wall Art – Deconstructed Tech Frame | Unique Gift | UK Made" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=technology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sharing-prompts-can-a-pause-stop-a-false-claim-myths-and-misconcept-technology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="technology wall art" data-ebay-reference="sharing-prompts-can-a-pause-stop-a-false-claim-myths-and-misconcept-technology-wall-art" target="_blank" rel="sponsored noopener noreferrer">Framed iPhone 7 Wall Art – Deconstructed Tech Frame | Unique Gift | UK Made</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=technology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sharing-prompts-can-a-pause-stop-a-false-claim-myths-and-misconcept-technology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="technology wall art" data-ebay-reference="sharing-prompts-can-a-pause-stop-a-false-claim-myths-and-misconcept-technology-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for technology wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: technology wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=technology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sharing-prompts-can-a-pause-stop-a-false-claim-myths-and-misconcept-technology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="technology wall art" data-ebay-reference="sharing-prompts-can-a-pause-stop-a-false-claim-myths-and-misconcept-technology-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=technology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sharing-prompts-can-a-pause-stop-a-false-claim-myths-and-misconcept-technology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="technology wall art" data-ebay-reference="sharing-prompts-can-a-pause-stop-a-false-claim-myths-and-misconcept-technology-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Technology Definition Meaning 1 Art Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/9d141a9d1f8146ef1ea9.jpg' | relative_url }}" alt="Listing image for Technology Definition Meaning 1 Art Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=technology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sharing-prompts-can-a-pause-stop-a-false-claim-myths-and-misconcept-technology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="technology wall art" data-ebay-reference="sharing-prompts-can-a-pause-stop-a-false-claim-myths-and-misconcept-technology-wall-art" target="_blank" rel="sponsored noopener noreferrer">Technology Definition Meaning 1 Art Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=technology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sharing-prompts-can-a-pause-stop-a-false-claim-myths-and-misconcept-technology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="technology wall art" data-ebay-reference="sharing-prompts-can-a-pause-stop-a-false-claim-myths-and-misconcept-technology-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for technology wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: technology wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=technology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sharing-prompts-can-a-pause-stop-a-false-claim-myths-and-misconcept-technology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="technology wall art" data-ebay-reference="sharing-prompts-can-a-pause-stop-a-false-claim-myths-and-misconcept-technology-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=technology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sharing-prompts-can-a-pause-stop-a-false-claim-myths-and-misconcept-technology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="technology wall art" data-ebay-reference="sharing-prompts-can-a-pause-stop-a-false-claim-myths-and-misconcept-technology-wall-art" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=technology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sharing-prompts-can-a-pause-stop-a-false-claim-myths-and-misconcept-technology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="technology wall art" data-ebay-reference="sharing-prompts-can-a-pause-stop-a-false-claim-myths-and-misconcept-technology-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Technology Definition Meaning 1 Art Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/9d141a9d1f8146ef1ea9.jpg' | relative_url }}" alt="Listing image for Technology Definition Meaning 1 Art Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=technology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sharing-prompts-can-a-pause-stop-a-false-claim-myths-and-misconcept-technology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="technology wall art" data-ebay-reference="sharing-prompts-can-a-pause-stop-a-false-claim-myths-and-misconcept-technology-wall-art" target="_blank" rel="sponsored noopener noreferrer">Technology Definition Meaning 1 Art Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=technology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sharing-prompts-can-a-pause-stop-a-false-claim-myths-and-misconcept-technology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="technology wall art" data-ebay-reference="sharing-prompts-can-a-pause-stop-a-false-claim-myths-and-misconcept-technology-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for technology wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: technology wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=technology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sharing-prompts-can-a-pause-stop-a-false-claim-myths-and-misconcept-technology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="technology wall art" data-ebay-reference="sharing-prompts-can-a-pause-stop-a-false-claim-myths-and-misconcept-technology-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=technology+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sharing-prompts-can-a-pause-stop-a-false-claim-myths-and-misconcept-technology-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="technology wall art" data-ebay-reference="sharing-prompts-can-a-pause-stop-a-false-claim-myths-and-misconcept-technology-wall-art" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -535,7 +535,7 @@ For platform designers seeking to reduce the spread of false beliefs, this is th
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -555,7 +555,7 @@ For platform designers seeking to reduce the spread of false beliefs, this is th
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -587,7 +587,7 @@ For platform designers seeking to reduce the spread of false beliefs, this is th
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -639,7 +639,7 @@ For platform designers seeking to reduce the spread of false beliefs, this is th
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -684,7 +684,7 @@ For platform designers seeking to reduce the spread of false beliefs, this is th
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -725,153 +725,153 @@ For platform designers seeking to reduce the spread of false beliefs, this is th
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: techcrunch.com  
-   Link: <a href="https://techcrunch.com/2020/09/24/twitter-read-before-retweet/" target="_blank" rel="noopener noreferrer nofollow">https://techcrunch.com/2020/09/24/twitter-read-before-retweet/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Twitter plans to bring prompts to &#x27;read before you retweet...September 24, 2020  24 Sept 2020  Twitter says the prompts work...</p></details>
+   Link:<a href="https://techcrunch.com/2020/09/24/twitter-read-before-retweet/" target="_blank" rel="noopener noreferrer nofollow">https://techcrunch.com/2020/09/24/twitter-read-before-retweet/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Twitter plans to bring prompts to &#x27;read before you retweet...September 24, 2020  24 Sept 2020  Twitter says the prompts work...</p></details>
    Published: September 24, 2020  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: nature.com  
-   Link: <a href="https://www.nature.com/articles/s41586-021-03344-2" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41586-021-03344-2</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Shifting attention to accuracy can reduce misinformation...by G Pennycook  2021  Cited by 1492  The sharing of misinformation o...</p></details>
+   Link:<a href="https://www.nature.com/articles/s41586-021-03344-2" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41586-021-03344-2</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Shifting attention to accuracy can reduce misinformation...by G Pennycook  2021  Cited by 1492  The sharing of misinformation o...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/pii/S1364661321000516" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S1364661321000516</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Review The Psychology of Fake Newsby G Pennycook  2021  Cited by 1962  Concern about [fake news](&amp;#123;&amp;#123; &#x27;fake-news/&#x27; | relative_url &amp;#125;&amp;#125;) was redoubled in 2020 in t...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/pii/S1364661321000516" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S1364661321000516</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Review The Psychology of Fake Newsby G Pennycook  2021  Cited by 1962  Concern about [fake news](&amp;#123;&amp;#123; &#x27;fake-news/&#x27; | relative_url &amp;#125;&amp;#125;) was redoubled in 2020 in t...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: doaj.org  
-   Link: <a href="https://doaj.org/article/c0637e7db45844599250ba7feabc88d1" target="_blank" rel="noopener noreferrer nofollow">https://doaj.org/article/c0637e7db45844599250ba7feabc88d1</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>true or false indicated that they were less likely to share false information...</p></details>
+   Link:<a href="https://doaj.org/article/c0637e7db45844599250ba7feabc88d1" target="_blank" rel="noopener noreferrer nofollow">https://doaj.org/article/c0637e7db45844599250ba7feabc88d1</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>true or false indicated that they were less likely to share false information...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: nature.com  
-   Link: <a href="https://www.nature.com/articles/s44260-025-00051-1" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s44260-025-00051-1</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>A perspective on friction interventions to curb the spread of...by L Jahn  2025  Cited by 1  Adding as little friction as havin...</p></details>
+   Link:<a href="https://www.nature.com/articles/s44260-025-00051-1" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s44260-025-00051-1</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A perspective on friction interventions to curb the spread of...by L Jahn  2025  Cited by 1  Adding as little friction as havin...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: nature.com  
-   Link: <a href="https://www.nature.com/articles/s41467-022-30073-5" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41467-022-30073-5</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>misinformation on social media: Experimental evidence for a scalable accuracy nudge intervention.... fake news sharing on Twitter. Am...</p></details>
+   Link:<a href="https://www.nature.com/articles/s41467-022-30073-5" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41467-022-30073-5</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>misinformation on social media: Experimental evidence for a scalable accuracy nudge intervention.... fake news sharing on Twitter. Am...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/pii/S2352250X23001847" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S2352250X23001847</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Online Misinformation Engagement Frameworkby M Geers  2024  Cited by 40  Similarly, introducing friction (e.g., askin...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/pii/S2352250X23001847" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S2352250X23001847</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Online Misinformation Engagement Frameworkby M Geers  2024  Cited by 40  Similarly, introducing friction (e.g., askin...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/pdf/2307.11498" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/pdf/2307.11498</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Friction Interventions to Curb the Spread of Misinformation...by L Jahn  2023  Cited by 12  Adding as little friction as having users...</p></details>
+   Link:<a href="https://arxiv.org/pdf/2307.11498" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/pdf/2307.11498</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Friction Interventions to Curb the Spread of Misinformation...by L Jahn  2023  Cited by 12  Adding as little friction as having users...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2307.11498" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2307.11498</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Friction Interventions to Curb the Spread of Misinformation on Social MediaJuly 21, 2023...</p></details>
+   Link:<a href="https://arxiv.org/abs/2307.11498" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2307.11498</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Friction Interventions to Curb the Spread of Misinformation on Social MediaJuly 21, 2023...</p></details>
    Published: July 21, 2023  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: nature.com  
-   Link: <a href="https://www.nature.com/articles/s41562-025-02205-6" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41562-025-02205-6</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Following news on social media boosts knowledge, belief...by S Altay  2025  Cited by 15  These trends may exacerbate polarization, ra...</p></details>
+   Link:<a href="https://www.nature.com/articles/s41562-025-02205-6" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41562-025-02205-6</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Following news on social media boosts knowledge, belief...by S Altay  2025  Cited by 15  These trends may exacerbate polarization, ra...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/SearchEngineJournal/posts/twitter-is-testing-a-prompt-to-encourage-you-to-read-an-article-before-sharing-t/10157636757543721/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/SearchEngineJournal/posts/twitter-is-testing-a-prompt-to-encourage-you-to-read-an-article-before-sharing-t/10157636757543721/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ead the article before sharing it, one report shows. Now a...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/SearchEngineJournal/posts/twitter-is-testing-a-prompt-to-encourage-you-to-read-an-article-before-sharing-t/10157636757543721/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/SearchEngineJournal/posts/twitter-is-testing-a-prompt-to-encourage-you-to-read-an-article-before-sharing-t/10157636757543721/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ead the article before sharing it, one report shows. Now a...Read more...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: techcrunch.com  
    Title: twitter retweet prompt android  
-   Link: <a href="https://techcrunch.com/2020/06/10/twitter-retweet-prompt-android/" target="_blank" rel="noopener noreferrer nofollow">https://techcrunch.com/2020/06/10/twitter-retweet-prompt-android/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The company describes the...</p></details>
+   Link:<a href="https://techcrunch.com/2020/06/10/twitter-retweet-prompt-android/" target="_blank" rel="noopener noreferrer nofollow">https://techcrunch.com/2020/06/10/twitter-retweet-prompt-android/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The company describes the...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: techcrunch.com  
-   Link: <a href="https://techcrunch.com/2021/07/01/twitter-considers-new-features-for-tweeting-only-to-friends-under-different-personas-and-more/" target="_blank" rel="noopener noreferrer nofollow">https://techcrunch.com/2021/07/01/twitter-considers-new-features-for-tweeting-only-to-friends-under-different-personas-and-more/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>retweet, it found that users opened articles before sharing them 40% more often. But in the case of someone determined to troll, it may n...</p></details>
+   Link:<a href="https://techcrunch.com/2021/07/01/twitter-considers-new-features-for-tweeting-only-to-friends-under-different-personas-and-more/" target="_blank" rel="noopener noreferrer nofollow">https://techcrunch.com/2021/07/01/twitter-considers-new-features-for-tweeting-only-to-friends-under-different-personas-and-more/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>retweet, it found that users opened articles before sharing them 40% more often. But in the case of someone determined to troll, it may n...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: techcrunch.com  
    Title: twitter relaunches test that asks users to revise harmful replies  
-   Link: <a href="https://techcrunch.com/2021/02/23/twitter-relaunches-test-that-asks-users-to-revise-harmful-replies/" target="_blank" rel="noopener noreferrer nofollow">https://techcrunch.com/2021/02/23/twitter-relaunches-test-that-asks-users-to-revise-harmful-replies/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>tweet before retweeting it, the company found that users would open the articles 40% more often than without the nudge. Twitter has also...</p></details>
+   Link:<a href="https://techcrunch.com/2021/02/23/twitter-relaunches-test-that-asks-users-to-revise-harmful-replies/" target="_blank" rel="noopener noreferrer nofollow">https://techcrunch.com/2021/02/23/twitter-relaunches-test-that-asks-users-to-revise-harmful-replies/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>tweet before retweeting it, the company found that users would open the articles 40% more often than without the nudge. Twitter has also...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: psu.edu  
    Title: social media users probably wont read beyond headline researchers say  
-   Link: <a href="https://www.psu.edu/news/research/story/social-media-users-probably-wont-read-beyond-headline-researchers-say" target="_blank" rel="noopener noreferrer nofollow">https://www.psu.edu/news/research/story/social-media-users-probably-wont-read-beyond-headline-researchers-say</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Penn StateSocial media users probably won&#x27;t read beyond this...Nov 19, 2024  A study led by Penn State researchers revealed that more t...</p></details>
+   Link:<a href="https://www.psu.edu/news/research/story/social-media-users-probably-wont-read-beyond-headline-researchers-say" target="_blank" rel="noopener noreferrer nofollow">https://www.psu.edu/news/research/story/social-media-users-probably-wont-read-beyond-headline-researchers-say</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Penn StateSocial media users probably won&#x27;t read beyond this...Nov 19, 2024  A study led by Penn State researchers revealed that more t...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: niemanlab.org  
-   Link: <a href="https://www.niemanlab.org/2020/09/following-successful-experiments-twitter-will-prompt-all-users-to-read-the-articles-theyre-about-to-retweet/" target="_blank" rel="noopener noreferrer nofollow">https://www.niemanlab.org/2020/09/following-successful-experiments-twitter-will-prompt-all-users-to-read-the-articles-theyre-about-to-retweet/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Nieman LabFollowing successful experiments, Twitter will prompt all...25 Sept 2020  According to Twitter Communications, people opened...</p></details>
+   Link:<a href="https://www.niemanlab.org/2020/09/following-successful-experiments-twitter-will-prompt-all-users-to-read-the-articles-theyre-about-to-retweet/" target="_blank" rel="noopener noreferrer nofollow">https://www.niemanlab.org/2020/09/following-successful-experiments-twitter-will-prompt-all-users-to-read-the-articles-theyre-about-to-retweet/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Nieman LabFollowing successful experiments, Twitter will prompt all...25 Sept 2020  According to Twitter Communications, people opened...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: science.org  
-   Link: <a href="https://www.science.org/doi/10.1126/sciadv.abo6169" target="_blank" rel="noopener noreferrer nofollow">https://www.science.org/doi/10.1126/sciadv.abo6169</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>more...</p></details>
+   Link:<a href="https://www.science.org/doi/10.1126/sciadv.abo6169" target="_blank" rel="noopener noreferrer nofollow">https://www.science.org/doi/10.1126/sciadv.abo6169</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>more...</p></details>
 
 ### Additional References
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/372547505_Friction_Interventions_to_Curb_the_Spread_of_Misinformation_on_Social_Media" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/372547505_Friction_Interventions_to_Curb_the_Spread_of_Misinformation_on_Social_Media</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Friction Interventions to Curb the Spread of Misinformation...Jul 21, 2023  We propose a friction intervention with a learning componen...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/372547505_Friction_Interventions_to_Curb_the_Spread_of_Misinformation_on_Social_Media" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/372547505_Friction_Interventions_to_Curb_the_Spread_of_Misinformation_on_Social_Media</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Friction Interventions to Curb the Spread of Misinformation...Jul 21, 2023  We propose a friction intervention with a learning componen...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: misinforeview.hks.harvard.edu  
    Title: developing an accuracy prompt toolkit to reduce covid 19 misinformation online  
-   Link: <a href="https://misinforeview.hks.harvard.edu/article/developing-an-accuracy-prompt-toolkit-to-reduce-covid-19-misinformation-online/" target="_blank" rel="noopener noreferrer nofollow">https://misinforeview.hks.harvard.edu/article/developing-an-accuracy-prompt-toolkit-to-reduce-covid-19-misinformation-online/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>an accuracy-prompt toolkit to reduce COVID...by Z Epstein  2021  Cited by 133  We focused on COVID-19 misinformation, and began by re...</p></details>
+   Link:<a href="https://misinforeview.hks.harvard.edu/article/developing-an-accuracy-prompt-toolkit-to-reduce-covid-19-misinformation-online/" target="_blank" rel="noopener noreferrer nofollow">https://misinforeview.hks.harvard.edu/article/developing-an-accuracy-prompt-toolkit-to-reduce-covid-19-misinformation-online/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>an accuracy-prompt toolkit to reduce COVID...by Z Epstein  2021  Cited by 133  We focused on COVID-19 misinformation, and began by re...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: socialmediatoday.com  
    Title: twitter shares insights into the effectiveness of its new prompts to get us  
-   Link: <a href="https://www.socialmediatoday.com/news/twitter-shares-insights-into-the-effectiveness-of-its-new-prompts-to-get-us/585860/" target="_blank" rel="noopener noreferrer nofollow">https://www.socialmediatoday.com/news/twitter-shares-insights-into-the-effectiveness-of-its-new-prompts-to-get-us/585860/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Twitter Shares Insights Into the Effectiveness of its New...24 Sept 2020  According to Twitter: People open articles 40% more often aft...</p></details>
+   Link:<a href="https://www.socialmediatoday.com/news/twitter-shares-insights-into-the-effectiveness-of-its-new-prompts-to-get-us/585860/" target="_blank" rel="noopener noreferrer nofollow">https://www.socialmediatoday.com/news/twitter-shares-insights-into-the-effectiveness-of-its-new-prompts-to-get-us/585860/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Twitter Shares Insights Into the Effectiveness of its New...24 Sept 2020  According to Twitter: People open articles 40% more often aft...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCThe case against efficiency: friction in social media  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12827046/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12827046/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>case against efficiency: friction in social media - PMCby J Garland  2026  Cited by 2  One notable example of cognitive friction is th...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12827046/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12827046/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>case against efficiency: friction in social media - PMCby J Garland  2026  Cited by 2  One notable example of cognitive friction is th...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: chicagopolicyreview.org  
    Title: try [accuracy prompts](&#123;&#123; 'accuracy-prompts/' | relative_url &#125;&#125;) to reduce the spread of misinformation online  
-   Link: <a href="https://chicagopolicyreview.org/2022/01/04/try-accuracy-prompts-to-reduce-the-spread-of-misinformation-online/" target="_blank" rel="noopener noreferrer nofollow">https://chicagopolicyreview.org/2022/01/04/try-accuracy-prompts-to-reduce-the-spread-of-misinformation-online/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Try Accuracy Prompts to Reduce the Spread of...Jan 4, 2022  These accuracy prompts were modest interventions that encouraged participan...</p></details>
+   Link:<a href="https://chicagopolicyreview.org/2022/01/04/try-accuracy-prompts-to-reduce-the-spread-of-misinformation-online/" target="_blank" rel="noopener noreferrer nofollow">https://chicagopolicyreview.org/2022/01/04/try-accuracy-prompts-to-reduce-the-spread-of-misinformation-online/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Try Accuracy Prompts to Reduce the Spread of...Jan 4, 2022  These accuracy prompts were modest interventions that encouraged participan...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: news.ku.dk  
    Title: small digital frictions can slow the spread of misinformation  
-   Link: <a href="https://news.ku.dk/all_news/2025/11/small-digital-frictions-can-slow-the-spread-of-misinformation/" target="_blank" rel="noopener noreferrer nofollow">https://news.ku.dk/all_news/2025/11/small-digital-frictions-can-slow-the-spread-of-misinformation/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>digital frictions can slow the spread of misinformationNov 11, 2025  Our idea is to introduce a small pause in the sharing process to m...</p></details>
+   Link:<a href="https://news.ku.dk/all_news/2025/11/small-digital-frictions-can-slow-the-spread-of-misinformation/" target="_blank" rel="noopener noreferrer nofollow">https://news.ku.dk/all_news/2025/11/small-digital-frictions-can-slow-the-spread-of-misinformation/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>digital frictions can slow the spread of misinformationNov 11, 2025  Our idea is to introduce a small pause in the sharing process to m...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: news.cornell.edu  
    Title: accuracy nudges decrease misinformation sharing left right  
-   Link: <a href="https://news.cornell.edu/stories/2024/04/accuracy-nudges-decrease-misinformation-sharing-left-right" target="_blank" rel="noopener noreferrer nofollow">https://news.cornell.edu/stories/2024/04/accuracy-nudges-decrease-misinformation-sharing-left-right</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;nudges&#x27; decrease misinformation-sharing on left, right4 Apr 2024  They found that nudges regarding the importance of accuracy reduced...</p></details>
+   Link:<a href="https://news.cornell.edu/stories/2024/04/accuracy-nudges-decrease-misinformation-sharing-left-right" target="_blank" rel="noopener noreferrer nofollow">https://news.cornell.edu/stories/2024/04/accuracy-nudges-decrease-misinformation-sharing-left-right</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;nudges&#x27; decrease misinformation-sharing on left, right4 Apr 2024  They found that nudges regarding the importance of accuracy reduced...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: adweek.com  
    Title: twitter says its read before you retweet prompt is working  
-   Link: <a href="https://www.adweek.com/programmatic/twitter-says-its-read-before-you-retweet-prompt-is-working/" target="_blank" rel="noopener noreferrer nofollow">https://www.adweek.com/programmatic/twitter-says-its-read-before-you-retweet-prompt-is-working/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Twitter Says Its &#x27;Read Before You Retweet&#x27; Prompt Is Working24 Sept 2020  Twitter said Thursday that people opened articles 40% more oft...</p></details>
+   Link:<a href="https://www.adweek.com/programmatic/twitter-says-its-read-before-you-retweet-prompt-is-working/" target="_blank" rel="noopener noreferrer nofollow">https://www.adweek.com/programmatic/twitter-says-its-read-before-you-retweet-prompt-is-working/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Twitter Says Its &#x27;Read Before You Retweet&#x27; Prompt Is Working24 Sept 2020  Twitter said Thursday that people opened articles 40% more oft...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCNudging Social Media toward Accuracy  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9082967/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9082967/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>fake news sharing on Twitter).... Fighting COVID-19 misinformation on social media: Experimental evidence for a scalable accuracy nudge...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9082967/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9082967/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>fake news sharing on Twitter).... Fighting COVID-19 misinformation on social media: Experimental evidence for a scalable accuracy nudge...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: crestresearch.ac.uk  
    Title: psychological interventions to combat misinformation  
-   Link: <a href="https://crestresearch.ac.uk/comment/psychological-interventions-to-combat-misinformation/" target="_blank" rel="noopener noreferrer nofollow">https://crestresearch.ac.uk/comment/psychological-interventions-to-combat-misinformation/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Oct 10, 2023  Behaviour nudges include accuracy prompts that remind the consumer to consider information veracity, the introduction of f...</p></details>
+   Link:<a href="https://crestresearch.ac.uk/comment/psychological-interventions-to-combat-misinformation/" target="_blank" rel="noopener noreferrer nofollow">https://crestresearch.ac.uk/comment/psychological-interventions-to-combat-misinformation/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Oct 10, 2023  Behaviour nudges include accuracy prompts that remind the consumer to consider information veracity, the introduction of f...</p></details>

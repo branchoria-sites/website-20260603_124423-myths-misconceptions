@@ -277,19 +277,19 @@ image: /assets/images/Myths_and_misconcept_0d48d7_identity_trust_belie_3d20c4_in
 Influencers often sound credible not because audiences have verified their expertise, but because audiences feel they know them. Repeated exposure, personal storytelling, daily updates and apparent openness can create a sense of familiarity that resembles trust. As creators increasingly discuss health, [politics]({{ 'politics/' | relative_url }}), science, finance and social issues, that familiarity can become a shortcut for judging whether information is reliable.
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_identity_trust_belie_3d20c4_influencer_source_cr_0dc5b4-Illustration-1-dark.svg" | relative_url }}" alt="Influencers illustration 1" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_identity_trust_belie_3d20c4_influencer_source_cr_0dc5b4-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_identity_trust_belie_3d20c4_influencer_source_cr_0dc5b4-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-This matters because people rarely evaluate every claim from scratch. They use signals such as consistency, [confidence]({{ 'confidence/' | relative_url }}), popularity and perceived authenticity. Online creators are unusually effective at generating those signals. Research on parasocial relationships, source credibility and digital influence suggests that followers often interpret repeated contact and emotional connection as evidence of trustworthiness, even when the creator's fact-checking practices are weak, invisible or unrelated to the topic being discussed. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/communication/articles/10.3389/fcomm.2026.1723759/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-snippet">FrontiersParasocial relationship as a social-cognitive pathway in...by AH Muhmin — This study examined how influencer source credibility...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://papers.ssrn.com/sol3/Delivery.cfm/2c2980fa-8c92-4057-b251-925ce937aa2b-MECA.pdf?abstractid=5857898&amp;mirid=1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: papers.ssrn.com">[SSRN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">papers.ssrn.com</span><span class="citation-popover-snippet">Relationships and Source CredibilityThrough repeated exposure, interaction, and engagement, followers often perceive influencers as trust...</span></span></span>
+This matters because people rarely evaluate every claim from scratch. They use signals such as consistency, [confidence]({{ 'confidence/' | relative_url }}), popularity and perceived authenticity. Online creators are unusually effective at generating those signals. Research on parasocial relationships, source credibility and digital influence suggests that followers often interpret repeated contact and emotional connection as evidence of trustworthiness, even when the creator's fact-checking practices are weak, invisible or unrelated to the topic being discussed.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/communication/articles/10.3389/fcomm.2026.1723759/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-snippet">FrontiersParasocial relationship as a social-cognitive pathway in...by AH Muhmin — This study examined how influencer source credibility...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://papers.ssrn.com/sol3/Delivery.cfm/2c2980fa-8c92-4057-b251-925ce937aa2b-MECA.pdf?abstractid=5857898&amp;mirid=1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: papers.ssrn.com">[SSRN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">papers.ssrn.com</span><span class="citation-popover-snippet">Relationships and Source CredibilityThrough repeated exposure, interaction, and engagement, followers often perceive influencers as trust...</span></span></span>
 
 ## Parasocial trust and repeated exposure
 
-A central reason influencers gain credibility is the development of parasocial relationships: one-sided social bonds in which followers feel connected to a media figure who does not know them personally. The concept originated in television research, but social media intensifies it because creators appear in followers' lives every day through videos, livestreams, stories, comments and personal updates. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.tandfonline.com/doi/full/10.1080/15213269.2025.2558029" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tandfonline.com">[Taylor &amp; Francis Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tandfonline.com</span><span class="citation-popover-snippet">Taylor &amp; Francis OnlineFull article: Making and Breaking Parasocial Relationships...by PL Breves · 2025 · Cited by 1 — This study invest...</span></span></span>
+A central reason influencers gain credibility is the development of parasocial relationships: one-sided social bonds in which followers feel connected to a media figure who does not know them personally. The concept originated in television research, but social media intensifies it because creators appear in followers' lives every day through videos, livestreams, stories, comments and personal updates.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.tandfonline.com/doi/full/10.1080/15213269.2025.2558029" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tandfonline.com">[Taylor &amp; Francis Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tandfonline.com</span><span class="citation-popover-snippet">Taylor &amp; Francis OnlineFull article: Making and Breaking Parasocial Relationships...by PL Breves · 2025 · Cited by 1 — This study invest...</span></span></span>
 
-Unlike a traditional news presenter or expert, an influencer often shares ordinary moments: meals, relationships, frustrations, routines and vulnerabilities. This kind of self-disclosure creates the impression of access to a person's "real" character. Research has found that intimate self-disclosure can increase perceptions of source credibility and strengthen parasocial relationships, which in turn affect trust and persuasion. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.tandfonline.com/doi/full/10.1080/15213269.2025.2558029" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tandfonline.com">[Taylor &amp; Francis Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tandfonline.com</span><span class="citation-popover-snippet">Taylor &amp; Francis OnlineFull article: Making and Breaking Parasocial Relationships...by PL Breves · 2025 · Cited by 1 — This study invest...</span></span></span>
+Unlike a traditional news presenter or expert, an influencer often shares ordinary moments: meals, relationships, frustrations, routines and vulnerabilities. This kind of self-disclosure creates the impression of access to a person's "real" character. Research has found that intimate self-disclosure can increase perceptions of source credibility and strengthen parasocial relationships, which in turn affect trust and persuasion.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.tandfonline.com/doi/full/10.1080/15213269.2025.2558029" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tandfonline.com">[Taylor &amp; Francis Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tandfonline.com</span><span class="citation-popover-snippet">Taylor &amp; Francis OnlineFull article: Making and Breaking Parasocial Relationships...by PL Breves · 2025 · Cited by 1 — This study invest...</span></span></span>
 
 The resulting trust can spill across subjects. A creator who has earned confidence through lifestyle content may later discuss nutrition, mental health, politics or science. Followers may transfer trust developed in one area into another area where the creator has little expertise. This is one of the most important differences between familiarity and genuine authority. Expertise is topic-specific; familiarity often is not.
 
 Repeated exposure also matters independently of emotional attachment. Psychological research has long shown that [repetition]({{ 'repetition/' | relative_url }}) tends to increase feelings of familiarity. Online [platforms]({{ 'platforms/' | relative_url }}) amplify this effect by placing creators in front of audiences multiple times each day. When a source becomes a routine part of someone's media environment, their claims can begin to feel more plausible simply because they come from a familiar voice rather than an unfamiliar one.
 
-A recurring finding across influencer studies is that trustworthiness and perceived expertise are major drivers of parasocial bonds. Yet these perceptions are themselves shaped by presentation style, storytelling and audience relationships rather than direct verification of credentials. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/communication/articles/10.3389/fcomm.2026.1723759/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-snippet">FrontiersParasocial relationship as a social-cognitive pathway in...by AH Muhmin — This study examined how influencer source credibility...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.diva-portal.org/smash/get/diva2%3A1934697/FULLTEXT01.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: diva-portal.org">[DIVA Portal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">diva-portal.org</span><span class="citation-popover-snippet">Parasocial Relationships &amp; its Influence on Followersby P Ohlin · 2025 · Cited by 1 — Source credibility, which emphasizes the importance...</span></span></span>
+A recurring finding across influencer studies is that trustworthiness and perceived expertise are major drivers of parasocial bonds. Yet these perceptions are themselves shaped by presentation style, storytelling and audience relationships rather than direct verification of credentials.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/communication/articles/10.3389/fcomm.2026.1723759/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-snippet">FrontiersParasocial relationship as a social-cognitive pathway in...by AH Muhmin — This study examined how influencer source credibility...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.diva-portal.org/smash/get/diva2%3A1934697/FULLTEXT01.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: diva-portal.org">[DIVA Portal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">diva-portal.org</span><span class="citation-popover-snippet">Parasocial Relationships &amp; its Influence on Followersby P Ohlin · 2025 · Cited by 1 — Source credibility, which emphasizes the importance...</span></span></span>
 
 ## Why authenticity often feels like expertise
 
@@ -297,7 +297,7 @@ Many influencers succeed by presenting themselves as authentic rather than autho
 
 This can be valuable. Personal testimony often helps audiences understand complicated issues through relatable examples. The problem arises when audiences treat authenticity as evidence that a claim is accurate.
 
-Researchers studying influencer culture have repeatedly identified authenticity as a key factor in persuasion. Followers often interpret candid communication, behind-the-scenes access and visible personal investment as signs of honesty. These signals can increase credibility even when they provide little information about whether the creator actually understands the topic. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nature.com/articles/s41599-023-02512-1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">The persuasive power of social media influencers in brand...by X Liu · 2024 · Cited by 223 — This study explores the persuasive po...</span></span></span>
+Researchers studying influencer culture have repeatedly identified authenticity as a key factor in persuasion. Followers often interpret candid communication, behind-the-scenes access and visible personal investment as signs of honesty. These signals can increase credibility even when they provide little information about whether the creator actually understands the topic.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nature.com/articles/s41599-023-02512-1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">The persuasive power of social media influencers in brand...by X Liu · 2024 · Cited by 223 — This study explores the persuasive po...</span></span></span>
 
 Several mechanisms help explain this:
 
@@ -322,7 +322,7 @@ This process is partly practical. Most users cannot independently investigate ev
 
 The problem is that popularity measures attention rather than accuracy.
 
-UNESCO's research into digital content creators found that creators frequently use engagement metrics and audience responses when judging information, while rigorous verification practices are often absent. The same survey found that a large majority of creators did not systematically fact-check information before sharing it. UNESCO <span class="citation-chip-wrap"><a class="citation-chip" href="https://unesdoc.unesco.org/ark%3A/48223/pf0000392006" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unesdoc.unesco.org">[UNESCO Documentation]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unesdoc.unesco.org</span><span class="citation-popover-title">; Person as author.Read more</span><span class="citation-popover-snippet">UNESCO DocumentationBehind the screens: insights from digital content creatorsBehind the screens: insights from digital content creators...</span></span></span>
+UNESCO's research into digital content creators found that creators frequently use engagement metrics and audience responses when judging information, while rigorous verification practices are often absent. The same survey found that a large majority of creators did not systematically fact-check information before sharing it. UNESCO<span class="citation-chip-wrap"><a class="citation-chip" href="https://unesdoc.unesco.org/ark%3A/48223/pf0000392006" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unesdoc.unesco.org">[UNESCO Documentation]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unesdoc.unesco.org</span><span class="citation-popover-title">; Person as author.Read more</span><span class="citation-popover-snippet">UNESCO DocumentationBehind the screens: insights from digital content creatorsBehind the screens: insights from digital content creators...</span></span></span>
 
 [Platform design]({{ 'platform-design/' | relative_url }}) can strengthen this credibility shortcut. Recommendation systems reward content that generates engagement, not necessarily content that has undergone careful verification. A creator who produces emotionally compelling explanations may therefore appear repeatedly in feeds, making both the creator and their claims seem increasingly authoritative.
 
@@ -335,7 +335,7 @@ The effect can become self-reinforcing:
 1. A creator gains visibility.
 2. Visibility attracts followers.
 3. Follower counts signal credibility.
-4. Credibility attracts more engagement. <span class="citation-chip-wrap"><a class="citation-chip" href="https://papers.ssrn.com/sol3/Delivery.cfm/2c2980fa-8c92-4057-b251-925ce937aa2b-MECA.pdf?abstractid=5857898&amp;mirid=1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: papers.ssrn.com">[papers.ssrn.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">papers.ssrn.com</span><span class="citation-popover-snippet">Relationships and Source CredibilityThrough repeated exposure, interaction, and engagement, followers often perceive influencers as trust...</span></span></span>
+4. Credibility attracts more engagement.<span class="citation-chip-wrap"><a class="citation-chip" href="https://papers.ssrn.com/sol3/Delivery.cfm/2c2980fa-8c92-4057-b251-925ce937aa2b-MECA.pdf?abstractid=5857898&amp;mirid=1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: papers.ssrn.com">[papers.ssrn.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">papers.ssrn.com</span><span class="citation-popover-snippet">Relationships and Source CredibilityThrough repeated exposure, interaction, and engagement, followers often perceive influencers as trust...</span></span></span>
 5. Platforms reward engagement with further visibility.
 
 </div>
@@ -346,13 +346,13 @@ By the end of this cycle, audiences may encounter the creator's popularity befor
 
 The rise of influencers as information sources has not been matched by a comparable rise in professional verification standards.
 
-UNESCO's 2024 survey of creators across dozens of countries found that around 62% did not conduct rigorous and systematic fact-checking before sharing information, despite many serving as important information sources for their audiences. At the same time, many creators expressed interest in receiving training on verification practices. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.unesco.org/en/articles/2/3-digital-content-creators-do-not-check-their-facts-sharing-want-learn-how-do-so-unesco-survey" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unesco.org">[UNESCO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unesco.org</span><span class="citation-popover-snippet">2/3 of digital content creators do not check their facts before27 Nov 2024 — A UNESCO survey published today reveals that 62% do no...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://unesdoc.unesco.org/ark%3A/48223/pf0000392006" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unesdoc.unesco.org">[UNESCO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unesdoc.unesco.org</span><span class="citation-popover-title">; Person as author.Read more</span><span class="citation-popover-snippet">UNESCO DocumentationBehind the screens: insights from digital content creatorsBehind the screens: insights from digital content creators...</span></span></span>
+UNESCO's 2024 survey of creators across dozens of countries found that around 62% did not conduct rigorous and systematic fact-checking before sharing information, despite many serving as important information sources for their audiences. At the same time, many creators expressed interest in receiving training on verification practices.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.unesco.org/en/articles/2/3-digital-content-creators-do-not-check-their-facts-sharing-want-learn-how-do-so-unesco-survey" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unesco.org">[UNESCO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unesco.org</span><span class="citation-popover-snippet">2/3 of digital content creators do not check their facts before27 Nov 2024 — A UNESCO survey published today reveals that 62% do no...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://unesdoc.unesco.org/ark%3A/48223/pf0000392006" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unesdoc.unesco.org">[UNESCO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unesdoc.unesco.org</span><span class="citation-popover-title">; Person as author.Read more</span><span class="citation-popover-snippet">UNESCO DocumentationBehind the screens: insights from digital content creatorsBehind the screens: insights from digital content creators...</span></span></span>
 
 The gap matters because audiences often cannot see how information was produced. A journalist working in a professional newsroom may be subject to editors, [corrections]({{ 'corrections/' | relative_url }}) policies, sourcing requirements and institutional accountability. An influencer may work alone, with no visible review process.
 
 This does not automatically make influencer information inaccurate. Many creators research carefully and consult experts. The issue is that audiences frequently cannot distinguish between creators who follow strong verification practices and those who rely mainly on personal experience, informal online research or audience feedback.
 
-Financial content offers a particularly clear example. A recent study discussed by the *Financial Times* found that a large majority of financial influencer posts contained more negative than positive quality indicators, including weak disclosure of expertise, limited discussion of risks and inadequate sourcing. Yet social media remains a major source of financial advice for many users. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ft.com/content/9bf354d6-3d5f-4edf-9a5e-220f92bb009a" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ft.com">[Financial Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ft.com</span><span class="citation-popover-snippet">These quality features include proper disclosure of expertise, credibility, consideration of downsides, and inclusion of source links. De...</span></span></span>
+Financial content offers a particularly clear example. A recent study discussed by the *Financial Times* found that a large majority of financial influencer posts contained more negative than positive quality indicators, including weak disclosure of expertise, limited discussion of risks and inadequate sourcing. Yet social media remains a major source of financial advice for many users.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ft.com/content/9bf354d6-3d5f-4edf-9a5e-220f92bb009a" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ft.com">[Financial Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ft.com</span><span class="citation-popover-snippet">These quality features include proper disclosure of expertise, credibility, consideration of downsides, and inclusion of source links. De...</span></span></span>
 
 The same pattern appears in health, wellness and science communication. Audiences often judge a creator's reliability through presentation style, confidence and familiarity, while the underlying evidence remains difficult to evaluate.
 
@@ -361,7 +361,7 @@ The same pattern appears in health, wellness and science communication. Audience
 
 One of the most striking findings in credibility research is that evidence quality does not always dominate people's evaluations.
 
-Research examining how adults judged health-related social media posts found that source expertise and consistency with prior beliefs had stronger effects on perceived credibility than the quality of evidence attached to a claim. In other words, who appears to be speaking can matter more than what evidence they provide. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2307.00005" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Research examining how adults judged health-related social media posts found that source expertise and consistency with prior beliefs had stronger effects on perceived credibility than the quality of evidence attached to a claim. In other words, who appears to be speaking can matter more than what evidence they provide.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2307.00005" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 Influencer culture can intensify this tendency because creators often become intertwined with followers' identities and routines. Followers may watch someone for months or years, learning details about their life, values and personality. By comparison, a [correction]({{ 'correction/' | relative_url }}) from an unfamiliar expert may feel distant and impersonal.
 
@@ -384,194 +384,194 @@ For readers trying to evaluate online claims, a useful question is not simply wh
 Familiarity can be a powerful foundation for trust. But when familiarity becomes the main reason a source is believed, it can transform confidence into credibility without providing the evidence that credibility is supposed to represent.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why familiar influencers can sound reliable. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why familiar influencers can sound reliable. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Trust+Me+I%27m+Lying+by+Ryan+Holiday&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Trust Me I&#x27;m Lying on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nHU7DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Trust Me I&#x27;m Lying" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Trust+Me+I%27m+Lying+by+Ryan+Holiday&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Trust Me I&#x27;m Lying">Trust Me I&#x27;m Lying</a>
-        </h4>
-        <p class="fr-book-author">By Ryan Holiday</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Trust+Me+I%27m+Lying+by+Ryan+Holiday&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Trust Me I&#x27;m Lying on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nHU7DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Trust Me I&#x27;m Lying" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Trust+Me+I%27m+Lying+by+Ryan+Holiday&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Trust Me I&#x27;m Lying">Trust Me I&#x27;m Lying</a>
+</h4>
+<p class="fr-book-author">By Ryan Holiday</p>
         
-        <p class="fr-book-desc">Shows how online influence and attention systems can distort credibility.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Trust+Me+I%27m+Lying+by+Ryan+Holiday&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows how online influence and attention systems can distort credibility.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Trust+Me+I%27m+Lying+by+Ryan+Holiday&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Chaos+Machine+by+Max+Fisher&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Chaos Machine on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Fz5JEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Chaos Machine" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Chaos+Machine+by+Max+Fisher&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Chaos Machine">The Chaos Machine</a>
-        </h4>
-        <p class="fr-book-author">By Max Fisher</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Chaos+Machine+by+Max+Fisher&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Chaos Machine on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Fz5JEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Chaos Machine" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Chaos+Machine+by+Max+Fisher&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Chaos Machine">The Chaos Machine</a>
+</h4>
+<p class="fr-book-author">By Max Fisher</p>
         
-        <p class="fr-book-desc">Examines how platforms amplify persuasive personalities and beliefs.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Chaos+Machine+by+Max+Fisher&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines how platforms amplify persuasive personalities and beliefs.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Chaos+Machine+by+Max+Fisher&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YGPzXWanppcC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
-        </h4>
-        <p class="fr-book-author">By Daniel Kahneman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YGPzXWanppcC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
+</h4>
+<p class="fr-book-author">By Daniel Kahneman</p>
         
-        <p class="fr-book-desc">Explains cognitive shortcuts behind credibility judgments.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains cognitive shortcuts behind credibility judgments.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Influence+by+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Influence on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Influence+by+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Influence">Influence</a>
-        </h4>
-        <p class="fr-book-author">By Robert B. Cialdini</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Influence+by+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Influence on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Influence+by+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Influence">Influence</a>
+</h4>
+<p class="fr-book-author">By Robert B. Cialdini</p>
         
-        <p class="fr-book-desc">Explains why familiarity, authority signals and popularity affect trust.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Influence+by+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains why familiarity, authority signals and popularity affect trust.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Influence+by+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Trust+Me+I%27m+Lying&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Trust Me I&#x27;m Lying</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Chaos+Machine&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Chaos Machine</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Trust+Me+I%27m+Lying&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Trust Me I&#x27;m Lying</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Chaos+Machine&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Chaos Machine</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+classroom+decor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=influencers-5b6d7d-why-familiar-influencers-can-sound-reliable-myths-and-misconcept-science-classroom-decor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science classroom decor" data-ebay-reference="influencers-5b6d7d-why-familiar-influencers-can-sound-reliable-myths-and-misconcept-science-classroom-decor" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Chemistry Classroom Decor, Science Decor, Science Classroom Desk Sign, Periodic"><img src="{{ '/assets/images/marketplace-covers/aac1457065e182d5403d.jpg' | relative_url }}" alt="Listing image for Chemistry Classroom Decor, Science Decor, Science Classroom Desk Sign, Periodic" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+classroom+decor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=influencers-5b6d7d-why-familiar-influencers-can-sound-reliable-myths-and-misconcept-science-classroom-decor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science classroom decor" data-ebay-reference="influencers-5b6d7d-why-familiar-influencers-can-sound-reliable-myths-and-misconcept-science-classroom-decor" target="_blank" rel="sponsored noopener noreferrer">Chemistry Classroom Decor, Science Decor, Science Classroom Desk Sign, Periodic</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+classroom+decor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=influencers-5b6d7d-why-familiar-influencers-can-sound-reliable-myths-and-misconcept-science-classroom-decor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science classroom decor" data-ebay-reference="influencers-5b6d7d-why-familiar-influencers-can-sound-reliable-myths-and-misconcept-science-classroom-decor" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science classroom decor">Search <span data-ebay-domain-label>eBay.co.uk</span>: science classroom decor</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+classroom+decor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=influencers-5b6d7d-why-familiar-influencers-can-sound-reliable-myths-and-misconcept-science-classroom-decor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science classroom decor" data-ebay-reference="influencers-5b6d7d-why-familiar-influencers-can-sound-reliable-myths-and-misconcept-science-classroom-decor" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+classroom+decor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=influencers-5b6d7d-why-familiar-influencers-can-sound-reliable-myths-and-misconcept-science-classroom-decor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science classroom decor" data-ebay-reference="influencers-5b6d7d-why-familiar-influencers-can-sound-reliable-myths-and-misconcept-science-classroom-decor" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Chemistry Classroom Decor, Science Decor, Science Classroom Desk Sign, Periodic"><img src="{{ '/assets/images/marketplace-covers/aac1457065e182d5403d.jpg' | relative_url }}" alt="Listing image for Chemistry Classroom Decor, Science Decor, Science Classroom Desk Sign, Periodic" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+classroom+decor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=influencers-5b6d7d-why-familiar-influencers-can-sound-reliable-myths-and-misconcept-science-classroom-decor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science classroom decor" data-ebay-reference="influencers-5b6d7d-why-familiar-influencers-can-sound-reliable-myths-and-misconcept-science-classroom-decor" target="_blank" rel="sponsored noopener noreferrer">Chemistry Classroom Decor, Science Decor, Science Classroom Desk Sign, Periodic</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+classroom+decor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=influencers-5b6d7d-why-familiar-influencers-can-sound-reliable-myths-and-misconcept-science-classroom-decor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science classroom decor" data-ebay-reference="influencers-5b6d7d-why-familiar-influencers-can-sound-reliable-myths-and-misconcept-science-classroom-decor" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science classroom decor">Search<span data-ebay-domain-label>eBay.co.uk</span>: science classroom decor</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+classroom+decor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=influencers-5b6d7d-why-familiar-influencers-can-sound-reliable-myths-and-misconcept-science-classroom-decor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science classroom decor" data-ebay-reference="influencers-5b6d7d-why-familiar-influencers-can-sound-reliable-myths-and-misconcept-science-classroom-decor" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+classroom+decor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=influencers-5b6d7d-why-familiar-influencers-can-sound-reliable-myths-and-misconcept-science-classroom-decor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science classroom decor" data-ebay-reference="influencers-5b6d7d-why-familiar-influencers-can-sound-reliable-myths-and-misconcept-science-classroom-decor" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage Science Poster Scientific Illustration Print Classroom &amp; Home Gift 1850"><img src="{{ '/assets/images/marketplace-covers/d286626a7fcf40be5dae.jpg' | relative_url }}" alt="Listing image for Vintage Science Poster Scientific Illustration Print Classroom &amp; Home Gift 1850" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+classroom+decor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=influencers-5b6d7d-why-familiar-influencers-can-sound-reliable-myths-and-misconcept-science-classroom-decor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science classroom decor" data-ebay-reference="influencers-5b6d7d-why-familiar-influencers-can-sound-reliable-myths-and-misconcept-science-classroom-decor" target="_blank" rel="sponsored noopener noreferrer">Vintage Science Poster Scientific Illustration Print Classroom &amp; Home Gift 1850</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+classroom+decor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=influencers-5b6d7d-why-familiar-influencers-can-sound-reliable-myths-and-misconcept-science-classroom-decor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science classroom decor" data-ebay-reference="influencers-5b6d7d-why-familiar-influencers-can-sound-reliable-myths-and-misconcept-science-classroom-decor" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science classroom decor">Search <span data-ebay-domain-label>eBay.co.uk</span>: science classroom decor</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+classroom+decor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=influencers-5b6d7d-why-familiar-influencers-can-sound-reliable-myths-and-misconcept-science-classroom-decor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science classroom decor" data-ebay-reference="influencers-5b6d7d-why-familiar-influencers-can-sound-reliable-myths-and-misconcept-science-classroom-decor" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+classroom+decor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=influencers-5b6d7d-why-familiar-influencers-can-sound-reliable-myths-and-misconcept-science-classroom-decor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science classroom decor" data-ebay-reference="influencers-5b6d7d-why-familiar-influencers-can-sound-reliable-myths-and-misconcept-science-classroom-decor" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage Science Poster Scientific Illustration Print Classroom &amp; Home Gift 1850"><img src="{{ '/assets/images/marketplace-covers/d286626a7fcf40be5dae.jpg' | relative_url }}" alt="Listing image for Vintage Science Poster Scientific Illustration Print Classroom &amp; Home Gift 1850" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+classroom+decor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=influencers-5b6d7d-why-familiar-influencers-can-sound-reliable-myths-and-misconcept-science-classroom-decor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science classroom decor" data-ebay-reference="influencers-5b6d7d-why-familiar-influencers-can-sound-reliable-myths-and-misconcept-science-classroom-decor" target="_blank" rel="sponsored noopener noreferrer">Vintage Science Poster Scientific Illustration Print Classroom &amp; Home Gift 1850</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+classroom+decor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=influencers-5b6d7d-why-familiar-influencers-can-sound-reliable-myths-and-misconcept-science-classroom-decor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science classroom decor" data-ebay-reference="influencers-5b6d7d-why-familiar-influencers-can-sound-reliable-myths-and-misconcept-science-classroom-decor" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science classroom decor">Search<span data-ebay-domain-label>eBay.co.uk</span>: science classroom decor</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+classroom+decor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=influencers-5b6d7d-why-familiar-influencers-can-sound-reliable-myths-and-misconcept-science-classroom-decor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science classroom decor" data-ebay-reference="influencers-5b6d7d-why-familiar-influencers-can-sound-reliable-myths-and-misconcept-science-classroom-decor" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+classroom+decor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=influencers-5b6d7d-why-familiar-influencers-can-sound-reliable-myths-and-misconcept-science-classroom-decor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science classroom decor" data-ebay-reference="influencers-5b6d7d-why-familiar-influencers-can-sound-reliable-myths-and-misconcept-science-classroom-decor" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Water Cycle Poster 12x18 Science Classroom Decor Elementary Middle High"><img src="{{ '/assets/images/marketplace-covers/13c172d97ae9d50d6041.jpg' | relative_url }}" alt="Listing image for Water Cycle Poster 12x18 Science Classroom Decor Elementary Middle High" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+classroom+decor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=influencers-5b6d7d-why-familiar-influencers-can-sound-reliable-myths-and-misconcept-science-classroom-decor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science classroom decor" data-ebay-reference="influencers-5b6d7d-why-familiar-influencers-can-sound-reliable-myths-and-misconcept-science-classroom-decor" target="_blank" rel="sponsored noopener noreferrer">Water Cycle Poster 12x18 Science Classroom Decor Elementary Middle High</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+classroom+decor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=influencers-5b6d7d-why-familiar-influencers-can-sound-reliable-myths-and-misconcept-science-classroom-decor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science classroom decor" data-ebay-reference="influencers-5b6d7d-why-familiar-influencers-can-sound-reliable-myths-and-misconcept-science-classroom-decor" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science classroom decor">Search <span data-ebay-domain-label>eBay.co.uk</span>: science classroom decor</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+classroom+decor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=influencers-5b6d7d-why-familiar-influencers-can-sound-reliable-myths-and-misconcept-science-classroom-decor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science classroom decor" data-ebay-reference="influencers-5b6d7d-why-familiar-influencers-can-sound-reliable-myths-and-misconcept-science-classroom-decor" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+classroom+decor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=influencers-5b6d7d-why-familiar-influencers-can-sound-reliable-myths-and-misconcept-science-classroom-decor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science classroom decor" data-ebay-reference="influencers-5b6d7d-why-familiar-influencers-can-sound-reliable-myths-and-misconcept-science-classroom-decor" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Water Cycle Poster 12x18 Science Classroom Decor Elementary Middle High"><img src="{{ '/assets/images/marketplace-covers/13c172d97ae9d50d6041.jpg' | relative_url }}" alt="Listing image for Water Cycle Poster 12x18 Science Classroom Decor Elementary Middle High" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+classroom+decor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=influencers-5b6d7d-why-familiar-influencers-can-sound-reliable-myths-and-misconcept-science-classroom-decor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science classroom decor" data-ebay-reference="influencers-5b6d7d-why-familiar-influencers-can-sound-reliable-myths-and-misconcept-science-classroom-decor" target="_blank" rel="sponsored noopener noreferrer">Water Cycle Poster 12x18 Science Classroom Decor Elementary Middle High</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+classroom+decor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=influencers-5b6d7d-why-familiar-influencers-can-sound-reliable-myths-and-misconcept-science-classroom-decor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science classroom decor" data-ebay-reference="influencers-5b6d7d-why-familiar-influencers-can-sound-reliable-myths-and-misconcept-science-classroom-decor" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science classroom decor">Search<span data-ebay-domain-label>eBay.co.uk</span>: science classroom decor</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+classroom+decor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=influencers-5b6d7d-why-familiar-influencers-can-sound-reliable-myths-and-misconcept-science-classroom-decor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science classroom decor" data-ebay-reference="influencers-5b6d7d-why-familiar-influencers-can-sound-reliable-myths-and-misconcept-science-classroom-decor" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+classroom+decor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=influencers-5b6d7d-why-familiar-influencers-can-sound-reliable-myths-and-misconcept-science-classroom-decor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science classroom decor" data-ebay-reference="influencers-5b6d7d-why-familiar-influencers-can-sound-reliable-myths-and-misconcept-science-classroom-decor" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Science Classroom Hologram Acrylic Window Hanging | Chemistry Decor"><img src="{{ '/assets/images/marketplace-covers/796397a15ba86fa8e233.jpg' | relative_url }}" alt="Listing image for Science Classroom Hologram Acrylic Window Hanging | Chemistry Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+classroom+decor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=influencers-5b6d7d-why-familiar-influencers-can-sound-reliable-myths-and-misconcept-science-classroom-decor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science classroom decor" data-ebay-reference="influencers-5b6d7d-why-familiar-influencers-can-sound-reliable-myths-and-misconcept-science-classroom-decor" target="_blank" rel="sponsored noopener noreferrer">Science Classroom Hologram Acrylic Window Hanging | Chemistry Decor</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+classroom+decor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=influencers-5b6d7d-why-familiar-influencers-can-sound-reliable-myths-and-misconcept-science-classroom-decor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science classroom decor" data-ebay-reference="influencers-5b6d7d-why-familiar-influencers-can-sound-reliable-myths-and-misconcept-science-classroom-decor" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science classroom decor">Search <span data-ebay-domain-label>eBay.co.uk</span>: science classroom decor</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+classroom+decor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=influencers-5b6d7d-why-familiar-influencers-can-sound-reliable-myths-and-misconcept-science-classroom-decor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science classroom decor" data-ebay-reference="influencers-5b6d7d-why-familiar-influencers-can-sound-reliable-myths-and-misconcept-science-classroom-decor" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+classroom+decor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=influencers-5b6d7d-why-familiar-influencers-can-sound-reliable-myths-and-misconcept-science-classroom-decor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science classroom decor" data-ebay-reference="influencers-5b6d7d-why-familiar-influencers-can-sound-reliable-myths-and-misconcept-science-classroom-decor" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+classroom+decor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=influencers-5b6d7d-why-familiar-influencers-can-sound-reliable-myths-and-misconcept-science-classroom-decor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science classroom decor" data-ebay-reference="influencers-5b6d7d-why-familiar-influencers-can-sound-reliable-myths-and-misconcept-science-classroom-decor" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Science Classroom Hologram Acrylic Window Hanging | Chemistry Decor"><img src="{{ '/assets/images/marketplace-covers/796397a15ba86fa8e233.jpg' | relative_url }}" alt="Listing image for Science Classroom Hologram Acrylic Window Hanging | Chemistry Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+classroom+decor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=influencers-5b6d7d-why-familiar-influencers-can-sound-reliable-myths-and-misconcept-science-classroom-decor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science classroom decor" data-ebay-reference="influencers-5b6d7d-why-familiar-influencers-can-sound-reliable-myths-and-misconcept-science-classroom-decor" target="_blank" rel="sponsored noopener noreferrer">Science Classroom Hologram Acrylic Window Hanging | Chemistry Decor</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+classroom+decor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=influencers-5b6d7d-why-familiar-influencers-can-sound-reliable-myths-and-misconcept-science-classroom-decor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science classroom decor" data-ebay-reference="influencers-5b6d7d-why-familiar-influencers-can-sound-reliable-myths-and-misconcept-science-classroom-decor" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science classroom decor">Search<span data-ebay-domain-label>eBay.co.uk</span>: science classroom decor</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+classroom+decor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=influencers-5b6d7d-why-familiar-influencers-can-sound-reliable-myths-and-misconcept-science-classroom-decor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science classroom decor" data-ebay-reference="influencers-5b6d7d-why-familiar-influencers-can-sound-reliable-myths-and-misconcept-science-classroom-decor" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+classroom+decor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=influencers-5b6d7d-why-familiar-influencers-can-sound-reliable-myths-and-misconcept-science-classroom-decor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science classroom decor" data-ebay-reference="influencers-5b6d7d-why-familiar-influencers-can-sound-reliable-myths-and-misconcept-science-classroom-decor" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -587,7 +587,7 @@ Familiarity can be a powerful foundation for trust. But when familiarity becomes
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -607,7 +607,7 @@ Familiarity can be a powerful foundation for trust. But when familiarity becomes
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -639,7 +639,7 @@ Familiarity can be a powerful foundation for trust. But when familiarity becomes
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -691,7 +691,7 @@ Familiarity can be a powerful foundation for trust. But when familiarity becomes
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -736,7 +736,7 @@ Familiarity can be a powerful foundation for trust. But when familiarity becomes
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -777,157 +777,157 @@ Familiarity can be a powerful foundation for trust. But when familiarity becomes
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: papers.ssrn.com  
-   Link: <a href="https://papers.ssrn.com/sol3/Delivery.cfm/2c2980fa-8c92-4057-b251-925ce937aa2b-MECA.pdf?abstractid=5857898&amp;mirid=1" target="_blank" rel="noopener noreferrer nofollow">https://papers.ssrn.com/sol3/Delivery.cfm/2c2980fa-8c92-4057-b251-925ce937aa2b-MECA.pdf?abstractid=5857898&amp;mirid=1</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Relationships and Source CredibilityThrough repeated exposure, interaction, and engagement, followers often perceive influencers as trust...</p></details>
+   Link:<a href="https://papers.ssrn.com/sol3/Delivery.cfm/2c2980fa-8c92-4057-b251-925ce937aa2b-MECA.pdf?abstractid=5857898&amp;mirid=1" target="_blank" rel="noopener noreferrer nofollow">https://papers.ssrn.com/sol3/Delivery.cfm/2c2980fa-8c92-4057-b251-925ce937aa2b-MECA.pdf?abstractid=5857898&amp;mirid=1</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Relationships and Source CredibilityThrough repeated exposure, interaction, and engagement, followers often perceive influencers as trust...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: nature.com  
-   Link: <a href="https://www.nature.com/articles/s41599-023-02512-1" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41599-023-02512-1</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The persuasive power of social media influencers in brand...by X Liu · 2024 · Cited by 223 — This study explores the persuasive po...</p></details>
+   Link:<a href="https://www.nature.com/articles/s41599-023-02512-1" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41599-023-02512-1</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The persuasive power of social media influencers in brand...by X Liu · 2024 · Cited by 223 — This study explores the persuasive po...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: diva-portal.org  
-   Link: <a href="https://www.diva-portal.org/smash/get/diva2%3A1934697/FULLTEXT01.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.diva-portal.org/smash/get/diva2%3A1934697/FULLTEXT01.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Parasocial Relationships &amp; its Influence on Followersby P Ohlin · 2025 · Cited by 1 — Source credibility, which emphasizes the importance...</p></details>
+   Link:<a href="https://www.diva-portal.org/smash/get/diva2%3A1934697/FULLTEXT01.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.diva-portal.org/smash/get/diva2%3A1934697/FULLTEXT01.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Parasocial Relationships &amp; its Influence on Followersby P Ohlin · 2025 · Cited by 1 — Source credibility, which emphasizes the importance...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2307.00005" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2307.00005</a>  
+   Link:<a href="https://arxiv.org/abs/2307.00005" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2307.00005</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: unesco.org  
-   Link: <a href="https://www.unesco.org/en/articles/2/3-digital-content-creators-do-not-check-their-facts-sharing-want-learn-how-do-so-unesco-survey" target="_blank" rel="noopener noreferrer nofollow">https://www.unesco.org/en/articles/2/3-digital-content-creators-do-not-check-their-facts-sharing-want-learn-how-do-so-unesco-survey</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>2/3 of digital content creators do not check their facts before27 Nov 2024 — A UNESCO survey published today reveals that 62% do no...</p></details>
+   Link:<a href="https://www.unesco.org/en/articles/2/3-digital-content-creators-do-not-check-their-facts-sharing-want-learn-how-do-so-unesco-survey" target="_blank" rel="noopener noreferrer nofollow">https://www.unesco.org/en/articles/2/3-digital-content-creators-do-not-check-their-facts-sharing-want-learn-how-do-so-unesco-survey</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>2/3 of digital content creators do not check their facts before27 Nov 2024 — A UNESCO survey published today reveals that 62% do no...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: unesdoc.unesco.org  
    Title: ; Person as author.Read more  
-   Link: <a href="https://unesdoc.unesco.org/ark%3A/48223/pf0000392006" target="_blank" rel="noopener noreferrer nofollow">https://unesdoc.unesco.org/ark%3A/48223/pf0000392006</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UNESCO DocumentationBehind the screens: insights from digital content creatorsBehind the screens: insights from digital content creators...</p></details>
+   Link:<a href="https://unesdoc.unesco.org/ark%3A/48223/pf0000392006" target="_blank" rel="noopener noreferrer nofollow">https://unesdoc.unesco.org/ark%3A/48223/pf0000392006</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UNESCO DocumentationBehind the screens: insights from digital content creatorsBehind the screens: insights from digital content creators...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: unesco.org  
-   Link: <a href="https://www.unesco.org/en/articles/unesco-trains-digital-content-creators-become-trusted-voices-online" target="_blank" rel="noopener noreferrer nofollow">https://www.unesco.org/en/articles/unesco-trains-digital-content-creators-become-trusted-voices-online</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UNESCO trains digital content creators to become trusted...However, according to a UNESCO survey, 62% of digital content creators...</p></details>
+   Link:<a href="https://www.unesco.org/en/articles/unesco-trains-digital-content-creators-become-trusted-voices-online" target="_blank" rel="noopener noreferrer nofollow">https://www.unesco.org/en/articles/unesco-trains-digital-content-creators-become-trusted-voices-online</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UNESCO trains digital content creators to become trusted...However, according to a UNESCO survey, 62% of digital content creators...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2303.09656" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2303.09656</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Revealing complexities when adult readers engage in the credibility evaluation of social media postsMarch 16, 2023...</p></details>
+   Link:<a href="https://arxiv.org/abs/2303.09656" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2303.09656</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Revealing complexities when adult readers engage in the credibility evaluation of social media postsMarch 16, 2023...</p></details>
    Published: March 16, 2023  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: unesco.org  
-   Link: <a href="https://www.unesco.org/en/digital-content-creators" target="_blank" rel="noopener noreferrer nofollow">https://www.unesco.org/en/digital-content-creators</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>tion Literacy competencies to act as trusted information relays...</p></details>
+   Link:<a href="https://www.unesco.org/en/digital-content-creators" target="_blank" rel="noopener noreferrer nofollow">https://www.unesco.org/en/digital-content-creators</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>tion Literacy competencies to act as trusted information relays...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: diva-portal.org  
-   Link: <a href="https://www.diva-portal.org/smash/get/diva2%3A1631690/FULLTEXT01.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.diva-portal.org/smash/get/diva2%3A1631690/FULLTEXT01.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Examining the impact of social media influencer&#x27;s...by ANA HUSSAIN · 2022 · Cited by 22 — Purpose: The study aims to explore the effects...</p></details>
+   Link:<a href="https://www.diva-portal.org/smash/get/diva2%3A1631690/FULLTEXT01.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.diva-portal.org/smash/get/diva2%3A1631690/FULLTEXT01.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Examining the impact of social media influencer&#x27;s...by ANA HUSSAIN · 2022 · Cited by 22 — Purpose: The study aims to explore the effects...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: frontiersin.org  
-   Link: <a href="https://www.frontiersin.org/journals/communication/articles/10.3389/fcomm.2026.1723759/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/communication/articles/10.3389/fcomm.2026.1723759/full</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>FrontiersParasocial relationship as a social-cognitive pathway in...by AH Muhmin — This study examined how influencer source credibility...</p></details>
+   Link:<a href="https://www.frontiersin.org/journals/communication/articles/10.3389/fcomm.2026.1723759/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/communication/articles/10.3389/fcomm.2026.1723759/full</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FrontiersParasocial relationship as a social-cognitive pathway in...by AH Muhmin — This study examined how influencer source credibility...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: tandfonline.com  
-   Link: <a href="https://www.tandfonline.com/doi/full/10.1080/15213269.2025.2558029" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/full/10.1080/15213269.2025.2558029</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Taylor &amp; Francis OnlineFull article: Making and Breaking Parasocial Relationships...by PL Breves · 2025 · Cited by 1 — This study invest...</p></details>
+   Link:<a href="https://www.tandfonline.com/doi/full/10.1080/15213269.2025.2558029" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/full/10.1080/15213269.2025.2558029</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Taylor &amp; Francis OnlineFull article: Making and Breaking Parasocial Relationships...by PL Breves · 2025 · Cited by 1 — This study invest...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: tandfonline.com  
-   Link: <a href="https://www.tandfonline.com/doi/abs/10.1080/10696679.2021.1935275" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/abs/10.1080/10696679.2021.1935275</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Taylor &amp; Francis OnlineThe effects of social media influencers&#x27; self-disclosure on...by FP Leite · 2022 · Cited by 407 — We investigate...</p></details>
+   Link:<a href="https://www.tandfonline.com/doi/abs/10.1080/10696679.2021.1935275" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/abs/10.1080/10696679.2021.1935275</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Taylor &amp; Francis OnlineThe effects of social media influencers&#x27; self-disclosure on...by FP Leite · 2022 · Cited by 407 — We investigate...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: ft.com  
-   Link: <a href="https://www.ft.com/content/9bf354d6-3d5f-4edf-9a5e-220f92bb009a" target="_blank" rel="noopener noreferrer nofollow">https://www.ft.com/content/9bf354d6-3d5f-4edf-9a5e-220f92bb009a</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>These quality features include proper disclosure of expertise, credibility, consideration of downsides, and inclusion of source links. De...</p></details>
+   Link:<a href="https://www.ft.com/content/9bf354d6-3d5f-4edf-9a5e-220f92bb009a" target="_blank" rel="noopener noreferrer nofollow">https://www.ft.com/content/9bf354d6-3d5f-4edf-9a5e-220f92bb009a</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>These quality features include proper disclosure of expertise, credibility, consideration of downsides, and inclusion of source links. De...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: business-humanrights.org  
-   Link: <a href="https://www.business-humanrights.org/fr/derni%C3%A8res-actualit%C3%A9s/unesco-warns-that-online-influencers-urgently-need-fact-checking-training/" target="_blank" rel="noopener noreferrer nofollow">https://www.business-humanrights.org/fr/derni%C3%A8res-actualit%C3%A9s/unesco-warns-that-online-influencers-urgently-need-fact-checking-training/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UNESCO warns that online influencers urgently need fact...According to a report by the UN&#x27;s educational, scientific and cultural organis...</p></details>
+   Link:<a href="https://www.business-humanrights.org/fr/derni%C3%A8res-actualit%C3%A9s/unesco-warns-that-online-influencers-urgently-need-fact-checking-training/" target="_blank" rel="noopener noreferrer nofollow">https://www.business-humanrights.org/fr/derni%C3%A8res-actualit%C3%A9s/unesco-warns-that-online-influencers-urgently-need-fact-checking-training/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UNESCO warns that online influencers urgently need fact...According to a report by the UN&#x27;s educational, scientific and cultural organis...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: business-humanrights.org  
    Title: unesco warns that online influencers urgently need fact checking training  
-   Link: <a href="https://www.business-humanrights.org/zh-hant/%E6%9C%80%E6%96%B0%E6%B6%88%E6%81%AF/unesco-warns-that-online-influencers-urgently-need-fact-checking-training/" target="_blank" rel="noopener noreferrer nofollow">https://www.business-humanrights.org/zh-hant/%E6%9C%80%E6%96%B0%E6%B6%88%E6%81%AF/unesco-warns-that-online-influencers-urgently-need-fact-checking-training/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UNESCO warns that online influencers urgently need fact...26 Nov 2024 — Six out of 10 creators said they had not verified the accuracy o...</p></details>
+   Link:<a href="https://www.business-humanrights.org/zh-hant/%E6%9C%80%E6%96%B0%E6%B6%88%E6%81%AF/unesco-warns-that-online-influencers-urgently-need-fact-checking-training/" target="_blank" rel="noopener noreferrer nofollow">https://www.business-humanrights.org/zh-hant/%E6%9C%80%E6%96%B0%E6%B6%88%E6%81%AF/unesco-warns-that-online-influencers-urgently-need-fact-checking-training/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UNESCO warns that online influencers urgently need fact...26 Nov 2024 — Six out of 10 creators said they had not verified the accuracy o...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: business-humanrights.org  
-   Link: <a href="https://www.business-humanrights.org/pt/%C3%BAltimas-not%C3%ADcias/unesco-warns-that-online-influencers-urgently-need-fact-checking-training/" target="_blank" rel="noopener noreferrer nofollow">https://www.business-humanrights.org/pt/%C3%BAltimas-not%C3%ADcias/unesco-warns-that-online-influencers-urgently-need-fact-checking-training/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UNESCO warns that online influencers urgently need fact...Six out of 10 creators said they had not verified the accuracy of their inform...</p></details>
+   Link:<a href="https://www.business-humanrights.org/pt/%C3%BAltimas-not%C3%ADcias/unesco-warns-that-online-influencers-urgently-need-fact-checking-training/" target="_blank" rel="noopener noreferrer nofollow">https://www.business-humanrights.org/pt/%C3%BAltimas-not%C3%ADcias/unesco-warns-that-online-influencers-urgently-need-fact-checking-training/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UNESCO warns that online influencers urgently need fact...Six out of 10 creators said they had not verified the accuracy of their inform...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: business-humanrights.org  
-   Link: <a href="https://www.business-humanrights.org/es/%C3%BAltimas-noticias/unesco-warns-that-online-influencers-urgently-need-fact-checking-training/" target="_blank" rel="noopener noreferrer nofollow">https://www.business-humanrights.org/es/%C3%BAltimas-noticias/unesco-warns-that-online-influencers-urgently-need-fact-checking-training/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UNESCO warns that online influencers urgently need fact...Unesco said its findings, which come from a survey of influencers, underlined...</p></details>
+   Link:<a href="https://www.business-humanrights.org/es/%C3%BAltimas-noticias/unesco-warns-that-online-influencers-urgently-need-fact-checking-training/" target="_blank" rel="noopener noreferrer nofollow">https://www.business-humanrights.org/es/%C3%BAltimas-noticias/unesco-warns-that-online-influencers-urgently-need-fact-checking-training/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UNESCO warns that online influencers urgently need fact...Unesco said its findings, which come from a survey of influencers, underlined...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: asianews.network  
-   Link: <a href="https://asianews.network/unesco-two-thirds-of-content-creators-fail-to-verify-facts/" target="_blank" rel="noopener noreferrer nofollow">https://asianews.network/unesco-two-thirds-of-content-creators-fail-to-verify-facts/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UNESCO: Two-thirds of content creators fail to verify facts3 Dec 2024 — The findings show that they struggle to evaluate the credibility...</p></details>
+   Link:<a href="https://asianews.network/unesco-two-thirds-of-content-creators-fail-to-verify-facts/" target="_blank" rel="noopener noreferrer nofollow">https://asianews.network/unesco-two-thirds-of-content-creators-fail-to-verify-facts/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UNESCO: Two-thirds of content creators fail to verify facts3 Dec 2024 — The findings show that they struggle to evaluate the credibility...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: europeanjournalists.org  
-   Link: <a href="https://europeanjournalists.org/blog/2024/12/06/unesco-report-highlights-urgent-need-for-media-literacy-training-for-digital-content-creators-who-report-the-news/" target="_blank" rel="noopener noreferrer nofollow">https://europeanjournalists.org/blog/2024/12/06/unesco-report-highlights-urgent-need-for-media-literacy-training-for-digital-content-creators-who-report-the-news/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UNESCO report highlights urgent need for [media literacy](&amp;#123;&amp;#123; &#x27;media-literacy/&#x27; | relative_url &amp;#125;&amp;#125;)...6 Dec 2024 — According to the study, digital content creators consider the inf...</p></details>
+   Link:<a href="https://europeanjournalists.org/blog/2024/12/06/unesco-report-highlights-urgent-need-for-media-literacy-training-for-digital-content-creators-who-report-the-news/" target="_blank" rel="noopener noreferrer nofollow">https://europeanjournalists.org/blog/2024/12/06/unesco-report-highlights-urgent-need-for-media-literacy-training-for-digital-content-creators-who-report-the-news/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UNESCO report highlights urgent need for [media literacy](&amp;#123;&amp;#123; &#x27;media-literacy/&#x27; | relative_url &amp;#125;&amp;#125;)...6 Dec 2024 — According to the study, digital content creators consider the inf...</p></details>
 
 ### Additional References
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/media/2024/nov/26/online-influencers-need-urgent-fact-checking-training-warns-unesco" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/media/2024/nov/26/online-influencers-need-urgent-fact-checking-training-warns-unesco</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>According to a survey by Unesco, two-thirds of content creators do not verify the accuracy of their information before sharing, leaving b...</p></details>
+   Link:<a href="https://www.theguardian.com/media/2024/nov/26/online-influencers-need-urgent-fact-checking-training-warns-unesco" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/media/2024/nov/26/online-influencers-need-urgent-fact-checking-training-warns-unesco</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>According to a survey by Unesco, two-thirds of content creators do not verify the accuracy of their information before sharing, leaving b...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: workplaceinsight.net  
-   Link: <a href="https://workplaceinsight.net/majority-of-digital-content-creators-dont-check-facts-but-use-likes-on-social-media-to-gauge-reliability-of-information/" target="_blank" rel="noopener noreferrer nofollow">https://workplaceinsight.net/majority-of-digital-content-creators-dont-check-facts-but-use-likes-on-social-media-to-gauge-reliability-of-information/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Majority of &#x27;digital content creators&#x27; don&#x27;t check facts but use...Nov 27, 2024 — A UNESCO survey suggests that 62 percent of digital co...</p></details>
+   Link:<a href="https://workplaceinsight.net/majority-of-digital-content-creators-dont-check-facts-but-use-likes-on-social-media-to-gauge-reliability-of-information/" target="_blank" rel="noopener noreferrer nofollow">https://workplaceinsight.net/majority-of-digital-content-creators-dont-check-facts-but-use-likes-on-social-media-to-gauge-reliability-of-information/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Majority of &#x27;digital content creators&#x27; don&#x27;t check facts but use...Nov 27, 2024 — A UNESCO survey suggests that 62 percent of digital co...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: pure.uva.nl  
-   Link: <a href="https://pure.uva.nl/ws/files/118138707/Greenfluencing_The_Impact_of_Parasocial_Relationships_with_Social_Media_Influencers_on_Advertising_Effectiveness_and_Followers_Pro_environmental.pdf" target="_blank" rel="noopener noreferrer nofollow">https://pure.uva.nl/ws/files/118138707/Greenfluencing_The_Impact_of_Parasocial_Relationships_with_Social_Media_Influencers_on_Advertising_Effectiveness_and_Followers_Pro_environmental.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>impact of parasocial relationships with social media...Recent experimental studies on influencer marketing validated that long-term foll...</p></details>
+   Link:<a href="https://pure.uva.nl/ws/files/118138707/Greenfluencing_The_Impact_of_Parasocial_Relationships_with_Social_Media_Influencers_on_Advertising_Effectiveness_and_Followers_Pro_environmental.pdf" target="_blank" rel="noopener noreferrer nofollow">https://pure.uva.nl/ws/files/118138707/Greenfluencing_The_Impact_of_Parasocial_Relationships_with_Social_Media_Influencers_on_Advertising_Effectiveness_and_Followers_Pro_environmental.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>impact of parasocial relationships with social media...Recent experimental studies on influencer marketing validated that long-term foll...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/397371489_Influence_of_Source_Credibility_Dimensions_of_Social_Media_Influencers_on_Purchase_Intention_Mediating_Role_of_Parasocial_Relationship" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/397371489_Influence_of_Source_Credibility_Dimensions_of_Social_Media_Influencers_on_Purchase_Intention_Mediating_Role_of_Parasocial_Relationship</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Influence of Source Credibility Dimensions of Social Media...8 Nov 2025 — This study aimed to analyze how source credibility dimensions...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/397371489_Influence_of_Source_Credibility_Dimensions_of_Social_Media_Influencers_on_Purchase_Intention_Mediating_Role_of_Parasocial_Relationship" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/397371489_Influence_of_Source_Credibility_Dimensions_of_Social_Media_Influencers_on_Purchase_Intention_Mediating_Role_of_Parasocial_Relationship</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Influence of Source Credibility Dimensions of Social Media...8 Nov 2025 — This study aimed to analyze how source credibility dimensions...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: africanmarketingconfederation.org  
-   Link: <a href="https://africanmarketingconfederation.org/un-concerned-that-most-influencers-dont-verify-their-information/" target="_blank" rel="noopener noreferrer nofollow">https://africanmarketingconfederation.org/un-concerned-that-most-influencers-dont-verify-their-information/</a>  
+   Link:<a href="https://africanmarketingconfederation.org/un-concerned-that-most-influencers-dont-verify-their-information/" target="_blank" rel="noopener noreferrer nofollow">https://africanmarketingconfederation.org/un-concerned-that-most-influencers-dont-verify-their-information/</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: euronews.com  
-   Link: <a href="https://www.euronews.com/next/2024/11/27/pressing-need-for-social-media-influencers-to-receive-fact-checking-training-unesco-says" target="_blank" rel="noopener noreferrer nofollow">https://www.euronews.com/next/2024/11/27/pressing-need-for-social-media-influencers-to-receive-fact-checking-training-unesco-says</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;Pressing need&#x27; for social media influencers to receive fact-...27 Nov 2024 — A new UNESCO survey found that 62 per cent of online influ...</p></details>
+   Link:<a href="https://www.euronews.com/next/2024/11/27/pressing-need-for-social-media-influencers-to-receive-fact-checking-training-unesco-says" target="_blank" rel="noopener noreferrer nofollow">https://www.euronews.com/next/2024/11/27/pressing-need-for-social-media-influencers-to-receive-fact-checking-training-unesco-says</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;Pressing need&#x27; for social media influencers to receive fact-...27 Nov 2024 — A new UNESCO survey found that 62 per cent of online influ...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: ewn.co.za  
-   Link: <a href="https://www.ewn.co.za/2024/11/28/62-of-surveyed-creators-don-t-vet-content-before-sharing-with-followers-unesco-study" target="_blank" rel="noopener noreferrer nofollow">https://www.ewn.co.za/2024/11/28/62-of-surveyed-creators-don-t-vet-content-before-sharing-with-followers-unesco-study</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>62% of &#x27;influencers&#x27; don&#x27;t vet content before sharing with...28 Nov 2024 — According to the UNESCO study, 62% of surveyed creators said...</p></details>
+   Link:<a href="https://www.ewn.co.za/2024/11/28/62-of-surveyed-creators-don-t-vet-content-before-sharing-with-followers-unesco-study" target="_blank" rel="noopener noreferrer nofollow">https://www.ewn.co.za/2024/11/28/62-of-surveyed-creators-don-t-vet-content-before-sharing-with-followers-unesco-study</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>62% of &#x27;influencers&#x27; don&#x27;t vet content before sharing with...28 Nov 2024 — According to the UNESCO study, 62% of surveyed creators said...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: marketingcourse.org  
-   Link: <a href="https://marketingcourse.org/building-authentic-influence-deconstructing-source-credibility-in-the-digital-age/" target="_blank" rel="noopener noreferrer nofollow">https://marketingcourse.org/building-authentic-influence-deconstructing-source-credibility-in-the-digital-age/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Building Authentic Influence: Deconstructing Source...27 Apr 2025 — Research suggests that perceived authenticity is a key driver of inf...</p></details>
+   Link:<a href="https://marketingcourse.org/building-authentic-influence-deconstructing-source-credibility-in-the-digital-age/" target="_blank" rel="noopener noreferrer nofollow">https://marketingcourse.org/building-authentic-influence-deconstructing-source-credibility-in-the-digital-age/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Building Authentic Influence: Deconstructing Source...27 Apr 2025 — Research suggests that perceived authenticity is a key driver of inf...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: c3.unu.edu  
    Title: behind the screens the credibility challenge of digital content creators  
-   Link: <a href="https://c3.unu.edu/blog/behind-the-screens-the-credibility-challenge-of-digital-content-creators" target="_blank" rel="noopener noreferrer nofollow">https://c3.unu.edu/blog/behind-the-screens-the-credibility-challenge-of-digital-content-creators</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Credibility Challenge of Digital Content Creators10 Dec 2024 — Perhaps most alarming is the finding that 62% of surveyed content creators...</p></details>
+   Link:<a href="https://c3.unu.edu/blog/behind-the-screens-the-credibility-challenge-of-digital-content-creators" target="_blank" rel="noopener noreferrer nofollow">https://c3.unu.edu/blog/behind-the-screens-the-credibility-challenge-of-digital-content-creators</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Credibility Challenge of Digital Content Creators10 Dec 2024 — Perhaps most alarming is the finding that 62% of surveyed content creators...</p></details>
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: experts.illinois.edu  
    Title: effects of parasocial interaction with an instafamous influencer  
-   Link: <a href="https://experts.illinois.edu/en/publications/effects-of-parasocial-interaction-with-an-instafamous-influencer-/" target="_blank" rel="noopener noreferrer nofollow">https://experts.illinois.edu/en/publications/effects-of-parasocial-interaction-with-an-instafamous-influencer-/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>of Parasocial Interaction with an Instafamous...by CA Lin · 2021 · Cited by 200 — This study tested a model that assesses the effectiven...</p></details>
+   Link:<a href="https://experts.illinois.edu/en/publications/effects-of-parasocial-interaction-with-an-instafamous-influencer-/" target="_blank" rel="noopener noreferrer nofollow">https://experts.illinois.edu/en/publications/effects-of-parasocial-interaction-with-an-instafamous-influencer-/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>of Parasocial Interaction with an Instafamous...by CA Lin · 2021 · Cited by 200 — This study tested a model that assesses the effectiven...</p></details>

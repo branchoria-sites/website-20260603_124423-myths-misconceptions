@@ -277,13 +277,13 @@ image: /assets/images/Myths_and_misconcept_0d48d7_fact_checking_limits_22dd32_pl
 Fact-checking can correct individual false claims, but it often struggles when the design of a platform rewards the very conditions that allow myths to spread. Ranking systems, recommendation algorithms, advertising models and content-sharing features determine what people see, what gains visibility and which voices attract attention. When those systems prioritise engagement, novelty or emotional reaction over reliability, fact-checks can arrive too late or reach too few people to counter the original claim effectively.
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_fact_checking_limits_22dd32_platform_design_fact_d363de-Illustration-1-dark.svg" | relative_url }}" alt="Platforms illustration 1" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_fact_checking_limits_22dd32_platform_design_fact_d363de-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_fact_checking_limits_22dd32_platform_design_fact_d363de-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-This is why myths and misconceptions are not only a problem of inaccurate information. They are also a governance problem. The effectiveness of fact-checking depends heavily on whether platforms make reliable context easy to find, slow the spread of dubious content and provide meaningful signals about where information came from. When platform incentives point in the opposite direction, [corrections]({{ 'corrections/' | relative_url }}) become one tool operating against a much larger system. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.tandfonline.com/doi/full/10.1080/1461670X.2024.2357316" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tandfonline.com">[Taylor &amp; Francis Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tandfonline.com</span><span class="citation-popover-title">Taylor &amp; Francis Online What Is the Problem with Misinformation?</span><span class="citation-popover-snippet">Fact-checking as...by O Westlund · 2024 · Cited by 45 — KEYWORDS: Fact-checking · misinformation · disinformation‌ · sociotechnical · pl...</span></span></span>
+This is why myths and misconceptions are not only a problem of inaccurate information. They are also a governance problem. The effectiveness of fact-checking depends heavily on whether platforms make reliable context easy to find, slow the spread of dubious content and provide meaningful signals about where information came from. When platform incentives point in the opposite direction, [corrections]({{ 'corrections/' | relative_url }}) become one tool operating against a much larger system.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.tandfonline.com/doi/full/10.1080/1461670X.2024.2357316" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tandfonline.com">[Taylor &amp; Francis Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tandfonline.com</span><span class="citation-popover-title">Taylor &amp; Francis Online What Is the Problem with Misinformation?</span><span class="citation-popover-snippet">Fact-checking as...by O Westlund · 2024 · Cited by 45 — KEYWORDS: Fact-checking · misinformation · disinformation‌ · sociotechnical · pl...</span></span></span>
 
 ## How Engagement Systems Amplify Falsehoods
 
 Modern social platforms rarely show content in simple chronological order. Instead, recommendation systems predict which posts are most likely to generate clicks, comments, shares or watch time. This creates a structural challenge for fact-checking because emotionally charged, surprising or [identity]({{ 'identity/' | relative_url }})-affirming claims often outperform cautious explanations.
 
-Research on misinformation exposure suggests that interventions can reduce harmful content, but their effectiveness declines rapidly if action is delayed until after misinformation has already begun spreading widely. By the time a fact-check appears, many users may already have encountered, shared or remembered the original claim. <span class="citation-chip-wrap"><a class="citation-chip" href="https://academic.oup.com/pnasnexus/article/3/10/pgae396/7754768" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academic.oup.com">[OUP Academic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academic.oup.com</span><span class="citation-popover-snippet">OUP AcademicMeasuring receptivity to misinformation at scale on a social...by CK Tokita · 2024 · Cited by 19 — Our paper provides a more...</span></span></span>
+Research on misinformation exposure suggests that interventions can reduce harmful content, but their effectiveness declines rapidly if action is delayed until after misinformation has already begun spreading widely. By the time a fact-check appears, many users may already have encountered, shared or remembered the original claim.<span class="citation-chip-wrap"><a class="citation-chip" href="https://academic.oup.com/pnasnexus/article/3/10/pgae396/7754768" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academic.oup.com">[OUP Academic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academic.oup.com</span><span class="citation-popover-snippet">OUP AcademicMeasuring receptivity to misinformation at scale on a social...by CK Tokita · 2024 · Cited by 19 — Our paper provides a more...</span></span></span>
 
 Several design features can weaken corrective efforts:
 
@@ -296,13 +296,13 @@ Several design features can weaken corrective efforts:
 
 </div>
 
-The problem is not necessarily that platforms intend to promote misinformation. Rather, systems optimised for engagement can inadvertently reward content characteristics that myths often possess: simplicity, emotional appeal and certainty. Researchers and regulators increasingly describe misinformation as a systemic [platform risk]({{ 'platform-risk/' | relative_url }}) rather than merely a collection of false posts. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2302.04556" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Auditing Recommender Systems -- Putting the DSA into practice with a risk-scenario-based approachFebruary 9, 2023...</span><span class="citation-popover-meta">Published: February 9, 2023</span></span></span>
+The problem is not necessarily that platforms intend to promote misinformation. Rather, systems optimised for engagement can inadvertently reward content characteristics that myths often possess: simplicity, emotional appeal and certainty. Researchers and regulators increasingly describe misinformation as a systemic [platform risk]({{ 'platform-risk/' | relative_url }}) rather than merely a collection of false posts.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2302.04556" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Auditing Recommender Systems -- Putting the DSA into practice with a risk-scenario-based approachFebruary 9, 2023...</span><span class="citation-popover-meta">Published: February 9, 2023</span></span></span>
 
 ### Why Labels Alone Often Struggle
 
 Fact-check labels can help, but their impact depends on how they are integrated into [platform design]({{ 'platform-design/' | relative_url }}).
 
-Past platform experiments found that highly visible warning symbols sometimes produced unintended effects, including reinforcing attention to disputed material. Some companies shifted towards providing additional context and related information instead of relying solely on [warning labels]({{ 'warning-labels/' | relative_url }}). <span class="citation-chip-wrap"><a class="citation-chip" href="https://time.com/5077002/facebook-fake-news-articles/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: time.com">[Time]</a><span class="citation-popover" role="note"><span class="citation-popover-source">time.com</span><span class="citation-popover-snippet">The red warning icon, intended to combat misinformation, occasionally reinforced readers&#x27; beliefs and led to more sharing of disputed con...</span></span></span>
+Past platform experiments found that highly visible warning symbols sometimes produced unintended effects, including reinforcing attention to disputed material. Some companies shifted towards providing additional context and related information instead of relying solely on [warning labels]({{ 'warning-labels/' | relative_url }}).<span class="citation-chip-wrap"><a class="citation-chip" href="https://time.com/5077002/facebook-fake-news-articles/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: time.com">[Time]</a><span class="citation-popover" role="note"><span class="citation-popover-source">time.com</span><span class="citation-popover-snippet">The red warning icon, intended to combat misinformation, occasionally reinforced readers&#x27; beliefs and led to more sharing of disputed con...</span></span></span>
 
 This highlights a broader lesson: fact-checking is not simply about attaching a warning to a post. Its effectiveness depends on whether ranking systems also reduce [amplification]({{ 'amplification/' | relative_url }}), whether users encounter corrective information before sharing, and whether trustworthy sources receive greater visibility.
 
@@ -314,14 +314,14 @@ A major weakness of many online environments is that users often see content det
 
 One response is the development of **provenance signals**—indicators that help users understand where content came from and whether it has been altered. These include source information, publication history, authenticity metadata and labels for AI-generated media.
 
-Industry initiatives such as the Coalition for Content Provenance and Authenticity (C2PA) seek to create verifiable records attached to digital content. Major platforms have begun experimenting with content credentials and AI-generated content labels. <span class="citation-chip-wrap"><a class="citation-chip" href="https://spec.c2pa.org/post/meta_pr/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: spec.c2pa.org">[spec.c2pa.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">spec.c2pa.org</span><span class="citation-popover-snippet">Meta Joins C2PA Steering CommitteeMeta has leveraged C2PA&#x27;s Content Credentials to inform the labeling of AI images across Facebook, Inst...</span></span></span>
+Industry initiatives such as the Coalition for Content Provenance and Authenticity (C2PA) seek to create verifiable records attached to digital content. Major platforms have begun experimenting with content credentials and AI-generated content labels.<span class="citation-chip-wrap"><a class="citation-chip" href="https://spec.c2pa.org/post/meta_pr/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: spec.c2pa.org">[spec.c2pa.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">spec.c2pa.org</span><span class="citation-popover-snippet">Meta Joins C2PA Steering CommitteeMeta has leveraged C2PA&#x27;s Content Credentials to inform the labeling of AI images across Facebook, Inst...</span></span></span>
 
 However, provenance systems are not a complete solution. Critics note several limitations:
 
 * Metadata may be stripped when content is copied or reposted.
 * Users may not notice or understand authenticity indicators.
 * Labelling systems can be applied inconsistently.
-* Provenance records help establish origin but do not automatically determine whether a claim is true. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theverge.com/ai-artificial-intelligence/882956/ai-deepfake-detection-labels-c2pa-instagram-youtube" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theverge.com">[The Verge]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theverge.com</span><span class="citation-popover-title">The Verge Does Big Tech actually care about fighting AI slop?</span><span class="citation-popover-snippet">Instagram head Adam Mosseri recently raised concerns about AI eroding authenticity and suggested labeling real media. While C2PA — backed...</span></span></span>
+* Provenance records help establish origin but do not automatically determine whether a claim is true.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theverge.com/ai-artificial-intelligence/882956/ai-deepfake-detection-labels-c2pa-instagram-youtube" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theverge.com">[The Verge]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theverge.com</span><span class="citation-popover-title">The Verge Does Big Tech actually care about fighting AI slop?</span><span class="citation-popover-snippet">Instagram head Adam Mosseri recently raised concerns about AI eroding authenticity and suggested labeling real media. While C2PA — backed...</span></span></span>
 
 Even with these limitations, provenance signals can strengthen fact-checking by reducing ambiguity. When users can quickly identify a source, see whether media has been altered and access contextual information, myths have less opportunity to exploit uncertainty.
 
@@ -346,7 +346,7 @@ These changes do not require platforms to decide every disputed issue themselves
 
 A growing policy debate asks whether platform governance should focus less on individual pieces of content and more on the systems that distribute them.
 
-The European Union's Digital Services Act (DSA) reflects this shift. Rather than treating misinformation solely as a moderation problem, the DSA requires very large platforms to assess and mitigate systemic risks associated with their services, including risks connected to information integrity, recommender systems and public discourse. It also introduces transparency requirements around recommendation systems and risk-management processes. <span class="citation-chip-wrap"><a class="citation-chip" href="https://digital-strategy.ec.europa.eu/en/policies/digital-services-act" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: digital-strategy.ec.europa.eu">[Digital Strategy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">digital-strategy.ec.europa.eu</span><span class="citation-popover-snippet">Digital StrategyThe Digital Services Act &#124; Shaping Europe&#x27;s digital futureThe Digital Services Act helps to make the online environment s...</span></span></span>
+The European Union's Digital Services Act (DSA) reflects this shift. Rather than treating misinformation solely as a moderation problem, the DSA requires very large platforms to assess and mitigate systemic risks associated with their services, including risks connected to information integrity, recommender systems and public discourse. It also introduces transparency requirements around recommendation systems and risk-management processes.<span class="citation-chip-wrap"><a class="citation-chip" href="https://digital-strategy.ec.europa.eu/en/policies/digital-services-act" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: digital-strategy.ec.europa.eu">[Digital Strategy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">digital-strategy.ec.europa.eu</span><span class="citation-popover-snippet">Digital StrategyThe Digital Services Act &#124; Shaping Europe&#x27;s digital futureThe Digital Services Act helps to make the online environment s...</span></span></span>
 
 This approach recognises a key limitation of fact-checking. If a platform continually promotes misleading material because its ranking system rewards engagement above all else, correcting individual posts may have limited impact. Governance efforts therefore increasingly examine questions such as:
 
@@ -360,172 +360,172 @@ This approach recognises a key limitation of fact-checking. If a platform contin
 
 </div>
 
-The focus shifts from removing every false statement to understanding whether platform architecture systematically increases the visibility of misleading information. <span class="citation-chip-wrap"><a class="citation-chip" href="https://kgi.georgetown.edu/research-and-commentary/systemic-risk-assessment-under-the-digital-services-act/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kgi.georgetown.edu">[Knight-Georgetown Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kgi.georgetown.edu</span><span class="citation-popover-snippet">Knight-Georgetown InstituteSystemic Risk Assessment under the Digital Services ActMay 15, 2025 — This brief provides an overview of emerg...</span><span class="citation-popover-meta">Published: May 15, 2025</span></span></span>
+The focus shifts from removing every false statement to understanding whether platform architecture systematically increases the visibility of misleading information.<span class="citation-chip-wrap"><a class="citation-chip" href="https://kgi.georgetown.edu/research-and-commentary/systemic-risk-assessment-under-the-digital-services-act/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kgi.georgetown.edu">[Knight-Georgetown Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kgi.georgetown.edu</span><span class="citation-popover-snippet">Knight-Georgetown InstituteSystemic Risk Assessment under the Digital Services ActMay 15, 2025 — This brief provides an overview of emerg...</span><span class="citation-popover-meta">Published: May 15, 2025</span></span></span>
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_fact_checking_limits_22dd32_platform_design_fact_d363de-Illustration-3-dark.svg" | relative_url }}" alt="Platforms illustration 3" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_fact_checking_limits_22dd32_platform_design_fact_d363de-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_fact_checking_limits_22dd32_platform_design_fact_d363de-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Fact-Checking Works Better When Platforms Change the Incentives
 
 The central lesson is that fact-checking is most effective when supported by platform design rather than expected to compensate for it. A [correction]({{ 'correction/' | relative_url }}) can address a specific falsehood, but it cannot easily overcome recommendation systems that repeatedly reward sensational content, sharing mechanisms that favour speed over reflection or interfaces that obscure the origins of information.
 
-When platforms provide stronger context, clearer provenance, more transparent recommendation systems and meaningful safeguards against systemic risks, fact-checking becomes part of a broader information ecosystem rather than a reactive clean-up operation. In that environment, myths face more obstacles before they spread, and reliable information has a better chance of reaching people first. <span class="citation-chip-wrap"><a class="citation-chip" href="https://efcsn.com/policy/platforms-recognize-that-disinformation-is-a-big-systemic-risk-now-they-should-act-accordingly/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: efcsn.com">[efcsn.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">efcsn.com</span><span class="citation-popover-snippet">Platforms recognize that disinformation is a big systemic...12 Apr 2025 — The law is clear in the EU: disinformation is a systemic risk...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://digital-strategy.ec.europa.eu/en/policies/digital-services-act" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: digital-strategy.ec.europa.eu">[Digital Strategy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">digital-strategy.ec.europa.eu</span><span class="citation-popover-snippet">Digital StrategyThe Digital Services Act &#124; Shaping Europe&#x27;s digital futureThe Digital Services Act helps to make the online environment s...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://cmpf.eui.eu/risk-in-the-digital-services-act-and-ai-act/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cmpf.eui.eu">[3cmpf.eui.eu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cmpf.eui.eu</span><span class="citation-popover-snippet">Risk in the Digital Services Act and AI Act: implications for...by E Blog — The DSA places media freedom, pluralism, and disinformation...</span></span></span>
+When platforms provide stronger context, clearer provenance, more transparent recommendation systems and meaningful safeguards against systemic risks, fact-checking becomes part of a broader information ecosystem rather than a reactive clean-up operation. In that environment, myths face more obstacles before they spread, and reliable information has a better chance of reaching people first.<span class="citation-chip-wrap"><a class="citation-chip" href="https://efcsn.com/policy/platforms-recognize-that-disinformation-is-a-big-systemic-risk-now-they-should-act-accordingly/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: efcsn.com">[efcsn.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">efcsn.com</span><span class="citation-popover-snippet">Platforms recognize that disinformation is a big systemic...12 Apr 2025 — The law is clear in the EU: disinformation is a systemic risk...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://digital-strategy.ec.europa.eu/en/policies/digital-services-act" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: digital-strategy.ec.europa.eu">[Digital Strategy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">digital-strategy.ec.europa.eu</span><span class="citation-popover-snippet">Digital StrategyThe Digital Services Act &#124; Shaping Europe&#x27;s digital futureThe Digital Services Act helps to make the online environment s...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://cmpf.eui.eu/risk-in-the-digital-services-act-and-ai-act/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cmpf.eui.eu">[3cmpf.eui.eu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cmpf.eui.eu</span><span class="citation-popover-snippet">Risk in the Digital Services Act and AI Act: implications for...by E Blog — The DSA places media freedom, pluralism, and disinformation...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When Platforms Reward Myths Over Accuracy. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When Platforms Reward Myths Over Accuracy. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Chaos+Machine+by+Max+Fisher&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Chaos Machine on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Fz5JEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Chaos Machine" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Chaos+Machine+by+Max+Fisher&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Chaos Machine">The Chaos Machine</a>
-        </h4>
-        <p class="fr-book-author">By Max Fisher</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Chaos+Machine+by+Max+Fisher&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Chaos Machine on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Fz5JEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Chaos Machine" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Chaos+Machine+by+Max+Fisher&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Chaos Machine">The Chaos Machine</a>
+</h4>
+<p class="fr-book-author">By Max Fisher</p>
         
-        <p class="fr-book-desc">Directly examines how social media systems amplify misinformation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Chaos+Machine+by+Max+Fisher&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly examines how social media systems amplify misinformation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Chaos+Machine+by+Max+Fisher&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Likewar+by+Peter+Warren+Singer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Likewar on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=URFxDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Likewar" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Likewar+by+Peter+Warren+Singer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Likewar">Likewar</a>
-        </h4>
-        <p class="fr-book-author">By Peter Warren Singer, Emerson T. Brooking</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Likewar+by+Peter+Warren+Singer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Likewar on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=URFxDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Likewar" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Likewar+by+Peter+Warren+Singer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Likewar">Likewar</a>
+</h4>
+<p class="fr-book-author">By Peter Warren Singer, Emerson T. Brooking</p>
         
-        <p class="fr-book-desc">Explains engagement-driven spread of narratives.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Likewar+by+Peter+Warren+Singer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains engagement-driven spread of narratives.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Likewar+by+Peter+Warren+Singer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Constitution+of+Knowledge+by+Jonathan+Rauch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Constitution of Knowledge on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=W4J_EQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Constitution of Knowledge" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Constitution+of+Knowledge+by+Jonathan+Rauch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Constitution of Knowledge">The Constitution of Knowledge</a>
-        </h4>
-        <p class="fr-book-author">By Jonathan Rauch</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Constitution+of+Knowledge+by+Jonathan+Rauch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Constitution of Knowledge on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=W4J_EQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Constitution of Knowledge" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Constitution+of+Knowledge+by+Jonathan+Rauch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Constitution of Knowledge">The Constitution of Knowledge</a>
+</h4>
+<p class="fr-book-author">By Jonathan Rauch</p>
         
-        <p class="fr-book-desc">Links knowledge systems with institutional design.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Constitution+of+Knowledge+by+Jonathan+Rauch&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Links knowledge systems with institutional design.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Constitution+of+Knowledge+by+Jonathan+Rauch&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Calling Bullshit on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Plu9DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Calling Bullshit" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Calling Bullshit">Calling Bullshit</a>
-        </h4>
-        <p class="fr-book-author">By Carl T. Bergstrom, Jevin D. West</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Calling Bullshit on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Plu9DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Calling Bullshit" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Calling Bullshit">Calling Bullshit</a>
+</h4>
+<p class="fr-book-author">By Carl T. Bergstrom, Jevin D. West</p>
         
-        <p class="fr-book-desc">Addresses digital misinformation ecosystems.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Addresses digital misinformation ecosystems.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Chaos+Machine&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Chaos Machine</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Likewar&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Likewar</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Constitution+of+Knowledge&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Constitution of Knowledge</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Chaos+Machine&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Chaos Machine</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Likewar&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Likewar</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Constitution+of+Knowledge&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Constitution of Knowledge</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=media+literacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-platforms-reward-myths-over-accuracy-media-literacy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="media literacy poster" data-ebay-reference="when-platforms-reward-myths-over-accuracy-media-literacy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for TITIKEI by IshiKei Paperback Self Help Business"><img src="https://i.ebayimg.com/images/g/X5YAAeSw~F1qEbNR/s-l225.jpg" alt="Listing image for TITIKEI by IshiKei Paperback Self Help Business" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=media+literacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-platforms-reward-myths-over-accuracy-media-literacy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="media literacy poster" data-ebay-reference="when-platforms-reward-myths-over-accuracy-media-literacy-poster" target="_blank" rel="sponsored noopener noreferrer">TITIKEI by IshiKei Paperback Self Help Business</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=media+literacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-platforms-reward-myths-over-accuracy-media-literacy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="media literacy poster" data-ebay-reference="when-platforms-reward-myths-over-accuracy-media-literacy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for media literacy poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: media literacy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=media+literacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-platforms-reward-myths-over-accuracy-media-literacy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="media literacy poster" data-ebay-reference="when-platforms-reward-myths-over-accuracy-media-literacy-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=media+literacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-platforms-reward-myths-over-accuracy-media-literacy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="media literacy poster" data-ebay-reference="when-platforms-reward-myths-over-accuracy-media-literacy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for TITIKEI by IshiKei Paperback Self Help Business"><img src="https://i.ebayimg.com/images/g/X5YAAeSw~F1qEbNR/s-l225.jpg" alt="Listing image for TITIKEI by IshiKei Paperback Self Help Business" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=media+literacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-platforms-reward-myths-over-accuracy-media-literacy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="media literacy poster" data-ebay-reference="when-platforms-reward-myths-over-accuracy-media-literacy-poster" target="_blank" rel="sponsored noopener noreferrer">TITIKEI by IshiKei Paperback Self Help Business</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=media+literacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-platforms-reward-myths-over-accuracy-media-literacy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="media literacy poster" data-ebay-reference="when-platforms-reward-myths-over-accuracy-media-literacy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for media literacy poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: media literacy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=media+literacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-platforms-reward-myths-over-accuracy-media-literacy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="media literacy poster" data-ebay-reference="when-platforms-reward-myths-over-accuracy-media-literacy-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=media+literacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-platforms-reward-myths-over-accuracy-media-literacy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="media literacy poster" data-ebay-reference="when-platforms-reward-myths-over-accuracy-media-literacy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for MEET THE AUTHORS Complete Set 1-7 Big Books Creative Teaching 70 Posters K-6"><img src="https://i.ebayimg.com/images/g/vkgAAeSwna5oZGvr/s-l225.jpg" alt="Listing image for MEET THE AUTHORS Complete Set 1-7 Big Books Creative Teaching 70 Posters K-6" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=media+literacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-platforms-reward-myths-over-accuracy-media-literacy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="media literacy poster" data-ebay-reference="when-platforms-reward-myths-over-accuracy-media-literacy-poster" target="_blank" rel="sponsored noopener noreferrer">MEET THE AUTHORS Complete Set 1-7 Big Books Creative Teaching 70 Posters K-6</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=media+literacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-platforms-reward-myths-over-accuracy-media-literacy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="media literacy poster" data-ebay-reference="when-platforms-reward-myths-over-accuracy-media-literacy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for media literacy poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: media literacy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=media+literacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-platforms-reward-myths-over-accuracy-media-literacy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="media literacy poster" data-ebay-reference="when-platforms-reward-myths-over-accuracy-media-literacy-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=media+literacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-platforms-reward-myths-over-accuracy-media-literacy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="media literacy poster" data-ebay-reference="when-platforms-reward-myths-over-accuracy-media-literacy-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=media+literacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-platforms-reward-myths-over-accuracy-media-literacy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="media literacy poster" data-ebay-reference="when-platforms-reward-myths-over-accuracy-media-literacy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for MEET THE AUTHORS Complete Set 1-7 Big Books Creative Teaching 70 Posters K-6"><img src="https://i.ebayimg.com/images/g/vkgAAeSwna5oZGvr/s-l225.jpg" alt="Listing image for MEET THE AUTHORS Complete Set 1-7 Big Books Creative Teaching 70 Posters K-6" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=media+literacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-platforms-reward-myths-over-accuracy-media-literacy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="media literacy poster" data-ebay-reference="when-platforms-reward-myths-over-accuracy-media-literacy-poster" target="_blank" rel="sponsored noopener noreferrer">MEET THE AUTHORS Complete Set 1-7 Big Books Creative Teaching 70 Posters K-6</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=media+literacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-platforms-reward-myths-over-accuracy-media-literacy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="media literacy poster" data-ebay-reference="when-platforms-reward-myths-over-accuracy-media-literacy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for media literacy poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: media literacy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=media+literacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-platforms-reward-myths-over-accuracy-media-literacy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="media literacy poster" data-ebay-reference="when-platforms-reward-myths-over-accuracy-media-literacy-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=media+literacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-platforms-reward-myths-over-accuracy-media-literacy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="media literacy poster" data-ebay-reference="when-platforms-reward-myths-over-accuracy-media-literacy-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -541,7 +541,7 @@ When platforms provide stronger context, clearer provenance, more transparent re
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -561,7 +561,7 @@ When platforms provide stronger context, clearer provenance, more transparent re
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -593,7 +593,7 @@ When platforms provide stronger context, clearer provenance, more transparent re
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -645,7 +645,7 @@ When platforms provide stronger context, clearer provenance, more transparent re
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -690,7 +690,7 @@ When platforms provide stronger context, clearer provenance, more transparent re
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -731,167 +731,167 @@ When platforms provide stronger context, clearer provenance, more transparent re
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: academic.oup.com  
-   Link: <a href="https://academic.oup.com/pnasnexus/article/3/10/pgae396/7754768" target="_blank" rel="noopener noreferrer nofollow">https://academic.oup.com/pnasnexus/article/3/10/pgae396/7754768</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>OUP AcademicMeasuring receptivity to misinformation at scale on a social...by CK Tokita · 2024 · Cited by 19 — Our paper provides a more...</p></details>
+   Link:<a href="https://academic.oup.com/pnasnexus/article/3/10/pgae396/7754768" target="_blank" rel="noopener noreferrer nofollow">https://academic.oup.com/pnasnexus/article/3/10/pgae396/7754768</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>OUP AcademicMeasuring receptivity to misinformation at scale on a social...by CK Tokita · 2024 · Cited by 19 — Our paper provides a more...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2302.04556" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2302.04556</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Auditing Recommender Systems -- Putting the DSA into practice with a risk-scenario-based approachFebruary 9, 2023...</p></details>
+   Link:<a href="https://arxiv.org/abs/2302.04556" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2302.04556</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Auditing Recommender Systems -- Putting the DSA into practice with a risk-scenario-based approachFebruary 9, 2023...</p></details>
    Published: February 9, 2023  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: cmpf.eui.eu  
-   Link: <a href="https://cmpf.eui.eu/risk-in-the-digital-services-act-and-ai-act/" target="_blank" rel="noopener noreferrer nofollow">https://cmpf.eui.eu/risk-in-the-digital-services-act-and-ai-act/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Risk in the Digital Services Act and AI Act: implications for...by E Blog — The DSA places media freedom, pluralism, and disinformation...</p></details>
+   Link:<a href="https://cmpf.eui.eu/risk-in-the-digital-services-act-and-ai-act/" target="_blank" rel="noopener noreferrer nofollow">https://cmpf.eui.eu/risk-in-the-digital-services-act-and-ai-act/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Risk in the Digital Services Act and AI Act: implications for...by E Blog — The DSA places media freedom, pluralism, and disinformation...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: time.com  
-   Link: <a href="https://time.com/5077002/facebook-fake-news-articles/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/5077002/facebook-fake-news-articles/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The red warning icon, intended to combat misinformation, occasionally reinforced readers&#x27; beliefs and led to more sharing of disputed con...</p></details>
+   Link:<a href="https://time.com/5077002/facebook-fake-news-articles/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/5077002/facebook-fake-news-articles/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The red warning icon, intended to combat misinformation, occasionally reinforced readers&#x27; beliefs and led to more sharing of disputed con...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: spec.c2pa.org  
-   Link: <a href="https://spec.c2pa.org/post/meta_pr/" target="_blank" rel="noopener noreferrer nofollow">https://spec.c2pa.org/post/meta_pr/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Meta Joins C2PA Steering CommitteeMeta has leveraged C2PA&#x27;s Content Credentials to inform the labeling of AI images across Facebook, Inst...</p></details>
+   Link:<a href="https://spec.c2pa.org/post/meta_pr/" target="_blank" rel="noopener noreferrer nofollow">https://spec.c2pa.org/post/meta_pr/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Meta Joins C2PA Steering CommitteeMeta has leveraged C2PA&#x27;s Content Credentials to inform the labeling of AI images across Facebook, Inst...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2604.24890" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2604.24890</a>  
+   Link:<a href="https://arxiv.org/abs/2604.24890" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2604.24890</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: kgi.georgetown.edu  
-   Link: <a href="https://kgi.georgetown.edu/research-and-commentary/systemic-risk-assessment-under-the-digital-services-act/" target="_blank" rel="noopener noreferrer nofollow">https://kgi.georgetown.edu/research-and-commentary/systemic-risk-assessment-under-the-digital-services-act/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Knight-Georgetown InstituteSystemic Risk Assessment under the Digital Services ActMay 15, 2025 — This brief provides an overview of emerg...</p></details>
+   Link:<a href="https://kgi.georgetown.edu/research-and-commentary/systemic-risk-assessment-under-the-digital-services-act/" target="_blank" rel="noopener noreferrer nofollow">https://kgi.georgetown.edu/research-and-commentary/systemic-risk-assessment-under-the-digital-services-act/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Knight-Georgetown InstituteSystemic Risk Assessment under the Digital Services ActMay 15, 2025 — This brief provides an overview of emerg...</p></details>
    Published: May 15, 2025  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2505.01122" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2505.01122</a>  
+   Link:<a href="https://arxiv.org/abs/2505.01122" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2505.01122</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: efcsn.com  
-   Link: <a href="https://efcsn.com/policy/platforms-recognize-that-disinformation-is-a-big-systemic-risk-now-they-should-act-accordingly/" target="_blank" rel="noopener noreferrer nofollow">https://efcsn.com/policy/platforms-recognize-that-disinformation-is-a-big-systemic-risk-now-they-should-act-accordingly/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Platforms recognize that disinformation is a big systemic...12 Apr 2025 — The law is clear in the EU: disinformation is a systemic risk...</p></details>
+   Link:<a href="https://efcsn.com/policy/platforms-recognize-that-disinformation-is-a-big-systemic-risk-now-they-should-act-accordingly/" target="_blank" rel="noopener noreferrer nofollow">https://efcsn.com/policy/platforms-recognize-that-disinformation-is-a-big-systemic-risk-now-they-should-act-accordingly/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Platforms recognize that disinformation is a big systemic...12 Apr 2025 — The law is clear in the EU: disinformation is a systemic risk...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: eu-digital-services-act.com  
-   Link: <a href="https://www.eu-digital-services-act.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.eu-digital-services-act.com/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Efforts to counter disinformation were originally justified as protecting democratic processes and public safety. Over time...Read more...</p></details>
+   Link:<a href="https://www.eu-digital-services-act.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.eu-digital-services-act.com/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Efforts to counter disinformation were originally justified as protecting democratic processes and public safety. Over time...Read more...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: tandfonline.com  
    Title: Taylor & Francis Online What Is the Problem with Misinformation?  
-   Link: <a href="https://www.tandfonline.com/doi/full/10.1080/1461670X.2024.2357316" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/full/10.1080/1461670X.2024.2357316</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Fact-checking as...by O Westlund · 2024 · Cited by 45 — KEYWORDS: Fact-checking · misinformation · disinformation‌ · sociotechnical · pl...</p></details>
+   Link:<a href="https://www.tandfonline.com/doi/full/10.1080/1461670X.2024.2357316" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/full/10.1080/1461670X.2024.2357316</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Fact-checking as...by O Westlund · 2024 · Cited by 45 — KEYWORDS: Fact-checking · misinformation · disinformation‌ · sociotechnical · pl...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: theverge.com  
    Title: The Verge Does Big Tech actually care about fighting AI slop?  
-   Link: <a href="https://www.theverge.com/ai-artificial-intelligence/882956/ai-deepfake-detection-labels-c2pa-instagram-youtube" target="_blank" rel="noopener noreferrer nofollow">https://www.theverge.com/ai-artificial-intelligence/882956/ai-deepfake-detection-labels-c2pa-instagram-youtube</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Instagram head Adam Mosseri recently raised concerns about AI eroding authenticity and suggested labeling real media. While C2PA — backed...</p></details>
+   Link:<a href="https://www.theverge.com/ai-artificial-intelligence/882956/ai-deepfake-detection-labels-c2pa-instagram-youtube" target="_blank" rel="noopener noreferrer nofollow">https://www.theverge.com/ai-artificial-intelligence/882956/ai-deepfake-detection-labels-c2pa-instagram-youtube</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Instagram head Adam Mosseri recently raised concerns about AI eroding authenticity and suggested labeling real media. While C2PA — backed...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: theverge.com  
-   Link: <a href="https://www.theverge.com/tech/891933/meta-oversight-board-ai-labels-deepfake-c2pa-facebook-instagram" target="_blank" rel="noopener noreferrer nofollow">https://www.theverge.com/tech/891933/meta-oversight-board-ai-labels-deepfake-c2pa-facebook-instagram</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>This criticism follows an investigation into a fake AI-generated video depicting alleged damage in Israel that circulated on Meta&#x27;s platf...</p></details>
+   Link:<a href="https://www.theverge.com/tech/891933/meta-oversight-board-ai-labels-deepfake-c2pa-facebook-instagram" target="_blank" rel="noopener noreferrer nofollow">https://www.theverge.com/tech/891933/meta-oversight-board-ai-labels-deepfake-c2pa-facebook-instagram</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>This criticism follows an investigation into a fake AI-generated video depicting alleged damage in Israel that circulated on Meta&#x27;s platf...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: digital-strategy.ec.europa.eu  
-   Link: <a href="https://digital-strategy.ec.europa.eu/en/policies/digital-services-act" target="_blank" rel="noopener noreferrer nofollow">https://digital-strategy.ec.europa.eu/en/policies/digital-services-act</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Digital StrategyThe Digital Services Act | Shaping Europe&#x27;s digital futureThe Digital Services Act helps to make the online environment s...</p></details>
+   Link:<a href="https://digital-strategy.ec.europa.eu/en/policies/digital-services-act" target="_blank" rel="noopener noreferrer nofollow">https://digital-strategy.ec.europa.eu/en/policies/digital-services-act</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Digital StrategyThe Digital Services Act | Shaping Europe&#x27;s digital futureThe Digital Services Act helps to make the online environment s...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: digital-strategy.ec.europa.eu  
    Title: dsa vlops  
-   Link: <a href="https://digital-strategy.ec.europa.eu/en/policies/dsa-vlops" target="_blank" rel="noopener noreferrer nofollow">https://digital-strategy.ec.europa.eu/en/policies/dsa-vlops</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Digital StrategyDSA: Very large online platforms and search engines10 Mar 2026 — The DSA classifies platforms or search engines that have...</p></details>
+   Link:<a href="https://digital-strategy.ec.europa.eu/en/policies/dsa-vlops" target="_blank" rel="noopener noreferrer nofollow">https://digital-strategy.ec.europa.eu/en/policies/dsa-vlops</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Digital StrategyDSA: Very large online platforms and search engines10 Mar 2026 — The DSA classifies platforms or search engines that have...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/openai/posts/ok-the-first-slide-isnt-real-but-the-second-one-is-weve-added-a-new-tool-to-help/1518870093367929/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/openai/posts/ok-the-first-slide-isnt-real-but-the-second-one-is-weve-added-a-new-tool-to-help/1518870093367929/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>OpenAIC2PA, short for Coalition for Content Provenance and Authenticity... Fact-Checking: Encourage fact-checking by referring to reliable...</p></details>
+   Link:<a href="https://www.facebook.com/openai/posts/ok-the-first-slide-isnt-real-but-the-second-one-is-weve-added-a-new-tool-to-help/1518870093367929/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/openai/posts/ok-the-first-slide-isnt-real-but-the-second-one-is-weve-added-a-new-tool-to-help/1518870093367929/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>OpenAIC2PA, short for Coalition for Content Provenance and Authenticity... Fact-Checking: Encourage fact-checking by referring to reliable...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/globalgoalsUN/posts/combat-global-disinformation-misinformation-and-the-misuse-of-ai-generated-conte/1301886201985777/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/globalgoalsUN/posts/combat-global-disinformation-misinformation-and-the-misuse-of-ai-generated-conte/1301886201985777/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>c opinion, influence elections, or even create fraudulent...</p></details>
+   Link:<a href="https://www.facebook.com/globalgoalsUN/posts/combat-global-disinformation-misinformation-and-the-misuse-of-ai-generated-conte/1301886201985777/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/globalgoalsUN/posts/combat-global-disinformation-misinformation-and-the-misuse-of-ai-generated-conte/1301886201985777/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>c opinion, influence elections, or even create fraudulent...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/WITNESS/posts/the-c2pa-is-developing-a-standard-to-trace-the-authenticity-and-provenance-of-im/10162072761500329/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/WITNESS/posts/the-c2pa-is-developing-a-standard-to-trace-the-authenticity-and-provenance-of-im/10162072761500329/</a>  
+   Link:<a href="https://www.facebook.com/WITNESS/posts/the-c2pa-is-developing-a-standard-to-trace-the-authenticity-and-provenance-of-im/10162072761500329/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/WITNESS/posts/the-c2pa-is-developing-a-standard-to-trace-the-authenticity-and-provenance-of-im/10162072761500329/</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: digital-strategy.ec.europa.eu  
    Title: dsa codes conduct  
-   Link: <a href="https://digital-strategy.ec.europa.eu/en/policies/dsa-codes-conduct" target="_blank" rel="noopener noreferrer nofollow">https://digital-strategy.ec.europa.eu/en/policies/dsa-codes-conduct</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>of conduct under the Digital Services Act10 Mar 2026 — Under the Digital Services Act (DSA), voluntary codes of conduct can address onlin...</p></details>
+   Link:<a href="https://digital-strategy.ec.europa.eu/en/policies/dsa-codes-conduct" target="_blank" rel="noopener noreferrer nofollow">https://digital-strategy.ec.europa.eu/en/policies/dsa-codes-conduct</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>of conduct under the Digital Services Act10 Mar 2026 — Under the Digital Services Act (DSA), voluntary codes of conduct can address onlin...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: Wikipedia  
    Title: European Union  
-   Link: <a href="https://en.wikipedia.org/wiki/European_Union" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/European_Union</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>European UnionThe European Union (EU) is a political and economic union of 27 member states that are located primarily in Europe. The...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/European_Union" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/European_Union</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>European UnionThe European Union (EU) is a political and economic union of 27 member states that are located primarily in Europe. The...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: reutersinstitute.[politics](&#123;&#123; 'politics/' | relative_url &#125;&#125;). ox.ac.uk  
-   Link: <a href="https://reutersinstitute.politics.ox.ac.uk/journalism-media-and-technology-trends-and-predictions-2026" target="_blank" rel="noopener noreferrer nofollow">https://reutersinstitute.politics.ox.ac.uk/journalism-media-and-technology-trends-and-predictions-2026</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ox.ac.ukJournalism, media, and technology trends and predictions...12 Jan 2026 — See also associated terms such as watermarking, attesta...</p></details>
+   Link:<a href="https://reutersinstitute.politics.ox.ac.uk/journalism-media-and-technology-trends-and-predictions-2026" target="_blank" rel="noopener noreferrer nofollow">https://reutersinstitute.politics.ox.ac.uk/journalism-media-and-technology-trends-and-predictions-2026</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ox.ac.ukJournalism, media, and technology trends and predictions...12 Jan 2026 — See also associated terms such as watermarking, attesta...</p></details>
 
 ### Additional References
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: nature.com  
-   Link: <a href="https://www.nature.com/nature-index/topics/l4/fact-checking-practices-in-digital-media" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/nature-index/topics/l4/fact-checking-practices-in-digital-media</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Fact-Checking Practices in Digital MediaMisinformation: Inaccurate or misleading information spread without malicious intent. Disinformat...</p></details>
+   Link:<a href="https://www.nature.com/nature-index/topics/l4/fact-checking-practices-in-digital-media" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/nature-index/topics/l4/fact-checking-practices-in-digital-media</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Fact-Checking Practices in Digital MediaMisinformation: Inaccurate or misleading information spread without malicious intent. Disinformat...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: publications.parliament.uk  
-   Link: <a href="https://publications.parliament.uk/pa/cm5901/cmselect/cmsctech/441/report.html" target="_blank" rel="noopener noreferrer nofollow">https://publications.parliament.uk/pa/cm5901/cmselect/cmsctech/441/report.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Parliament UKSocial media, misinformation and harmful algorithmsIn this report, we consider disinformation to be a sub-category of misinf...</p></details>
+   Link:<a href="https://publications.parliament.uk/pa/cm5901/cmselect/cmsctech/441/report.html" target="_blank" rel="noopener noreferrer nofollow">https://publications.parliament.uk/pa/cm5901/cmselect/cmsctech/441/report.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Parliament UKSocial media, misinformation and harmful algorithmsIn this report, we consider disinformation to be a sub-category of misinf...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: wired.com  
-   Link: <a href="https://www.wired.com/story/why-is-facebook-so-afraid-of-checking-facts" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/why-is-facebook-so-afraid-of-checking-facts</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Facebook has taken some measures to limit its reach, including applying fact-checks with notable hesitation. This hesitation stems partly...</p></details>
+   Link:<a href="https://www.wired.com/story/why-is-facebook-so-afraid-of-checking-facts" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/why-is-facebook-so-afraid-of-checking-facts</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Facebook has taken some measures to limit its reach, including applying fact-checks with notable hesitation. This hesitation stems partly...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: GOV.UK  
-   Link: <a href="https://www.gov.uk/eu-eea" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/eu-eea</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>in the EU and EEAThe European Union (EU) is an economic and political union of 27 countries. It operates an internal (or single) market...</p></details>
+   Link:<a href="https://www.gov.uk/eu-eea" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/eu-eea</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>in the EU and EEAThe European Union (EU) is an economic and political union of 27 countries. It operates an internal (or single) market...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: european-union.europa.eu  
-   Link: <a href="https://european-union.europa.eu/index_en" target="_blank" rel="noopener noreferrer nofollow">https://european-union.europa.eu/index_en</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Union: Your gateway to the EU, News, HighlightsDiscover how the EU functions, its principles, priorities; find out about its history and...</p></details>
+   Link:<a href="https://european-union.europa.eu/index_en" target="_blank" rel="noopener noreferrer nofollow">https://european-union.europa.eu/index_en</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Union: Your gateway to the EU, News, HighlightsDiscover how the EU functions, its principles, priorities; find out about its history and...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/user/eutube" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/user/eutube</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>European CommissionDive deeper into the innerworkings of the EU with this new YouTube series. · Is Europe the Same as the EU? Most People...</p></details>
+   Link:<a href="https://www.youtube.com/user/eutube" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/user/eutube</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>European CommissionDive deeper into the innerworkings of the EU with this new YouTube series. · Is Europe the Same as the EU? Most People...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: cambridge.org  
    Title: Platform Responsibility in the European Union (Chapter 3)Disinformation  
-   Link: <a href="https://www.cambridge.org/core/books/defeating-disinformation/platform-responsibility-in-the-european-union/AA3D55C57B0F6A7C18F5CAEF25146557" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/books/defeating-disinformation/platform-responsibility-in-the-european-union/AA3D55C57B0F6A7C18F5CAEF25146557</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Another subject area, where the EU has promoted platform self-regulation, is the fight against disinformation. In September 2018, the Eur...</p></details>
+   Link:<a href="https://www.cambridge.org/core/books/defeating-disinformation/platform-responsibility-in-the-european-union/AA3D55C57B0F6A7C18F5CAEF25146557" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/books/defeating-disinformation/platform-responsibility-in-the-european-union/AA3D55C57B0F6A7C18F5CAEF25146557</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Another subject area, where the EU has promoted platform self-regulation, is the fight against disinformation. In September 2018, the Eur...</p></details>
    Published: September 2018  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: carnegieendowment.org  
    Title: countering disinformation effectively an evidence based policy guide  
-   Link: <a href="https://carnegieendowment.org/russia-eurasia/research/2024/01/countering-disinformation-effectively-an-evidence-based-policy-guide" target="_blank" rel="noopener noreferrer nofollow">https://carnegieendowment.org/russia-eurasia/research/2024/01/countering-disinformation-effectively-an-evidence-based-policy-guide</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Countering Disinformation Effectively: An Evidence-Based...31 Jan 2024 — For these and other reasons, a growing number of experts reject...</p></details>
+   Link:<a href="https://carnegieendowment.org/russia-eurasia/research/2024/01/countering-disinformation-effectively-an-evidence-based-policy-guide" target="_blank" rel="noopener noreferrer nofollow">https://carnegieendowment.org/russia-eurasia/research/2024/01/countering-disinformation-effectively-an-evidence-based-policy-guide</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Countering Disinformation Effectively: An Evidence-Based...31 Jan 2024 — For these and other reasons, a growing number of experts reject...</p></details>
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: misinforeview.hks.harvard.edu  
    Title: fact checking fact checkers a data driven approach  
-   Link: <a href="https://misinforeview.hks.harvard.edu/article/fact-checking-fact-checkers-a-data-driven-approach/" target="_blank" rel="noopener noreferrer nofollow">https://misinforeview.hks.harvard.edu/article/fact-checking-fact-checkers-a-data-driven-approach/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>harvard.edu“Fact-checking” fact checkers: A data-driven approachby S Lee · 2023 · Cited by 62 — In response, automated fact-checking tech...</p></details>
+   Link:<a href="https://misinforeview.hks.harvard.edu/article/fact-checking-fact-checkers-a-data-driven-approach/" target="_blank" rel="noopener noreferrer nofollow">https://misinforeview.hks.harvard.edu/article/fact-checking-fact-checkers-a-data-driven-approach/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>harvard.edu“Fact-checking” fact checkers: A data-driven approachby S Lee · 2023 · Cited by 62 — In response, automated fact-checking tech...</p></details>
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: britannica.com  
-   Link: <a href="https://www.britannica.com/topic/European-Union" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/European-Union</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>omic, social, and security policies common to its 27 member countries...</p></details>
+   Link:<a href="https://www.britannica.com/topic/European-Union" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/European-Union</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>omic, social, and security policies common to its 27 member countries...</p></details>

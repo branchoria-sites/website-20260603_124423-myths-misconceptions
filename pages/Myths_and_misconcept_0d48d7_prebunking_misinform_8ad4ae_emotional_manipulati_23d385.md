@@ -274,18 +274,18 @@ image: /assets/images/Myths_and_misconcept_0d48d7_prebunking_misinform_8ad4ae_em
 
 ## Introduction
 
-Emotional-manipulation prebunks are designed to interrupt one of the fastest routes by which misinformation spreads: strong feelings that trigger sharing before careful checking. Rather than warning people about a specific myth, these prebunks teach a simple pattern to recognise in advance: if a post seems engineered to provoke outrage, fear, disgust, panic or moral shock, that emotional reaction itself is a reason to pause and investigate. Research on psychological inoculation suggests that brief warnings about manipulative techniques can improve people's ability to recognise misleading content and increase resistance to persuasion tactics commonly used in misinformation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.science.org/doi/10.1126/sciadv.abo6254" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.org">[Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.org</span><span class="citation-popover-snippet">inoculation videos covering five manipulation techniques commonly encountered in online misinformation.... research on fake news and...</span></span></span>
+Emotional-manipulation prebunks are designed to interrupt one of the fastest routes by which misinformation spreads: strong feelings that trigger sharing before careful checking. Rather than warning people about a specific myth, these prebunks teach a simple pattern to recognise in advance: if a post seems engineered to provoke outrage, fear, disgust, panic or moral shock, that emotional reaction itself is a reason to pause and investigate. Research on psychological inoculation suggests that brief warnings about manipulative techniques can improve people's ability to recognise misleading content and increase resistance to persuasion tactics commonly used in misinformation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.science.org/doi/10.1126/sciadv.abo6254" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.org">[Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.org</span><span class="citation-popover-snippet">inoculation videos covering five manipulation techniques commonly encountered in online misinformation.... research on fake news and...</span></span></span>
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_prebunking_misinform_8ad4ae_emotional_manipulati_23d385-Illustration-1-dark.svg" | relative_url }}" alt="Emotion cues illustration 1" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_prebunking_misinform_8ad4ae_emotional_manipulati_23d385-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_prebunking_misinform_8ad4ae_emotional_manipulati_23d385-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 The goal is not to suppress [emotion]({{ 'emotion/' | relative_url }}) or make people indifferent. It is to create a short delay between feeling and sharing. That delay—the “sharing pause”—is the mechanism that gives fact-checking, source evaluation and reflection a chance to occur before a misleading claim spreads further.
 
 ## Can a warning slow outrage-sharing?
 
-Many misleading posts succeed because they are processed quickly. A dramatic headline, an alarming image or an inflammatory accusation can generate an immediate emotional response. When people react in that moment, they may share content because it feels important, urgent or morally significant, not because they have verified it. UNESCO has warned that disinformation often spreads through emotion-targeted content and encourages users to think about the source before reacting or sharing. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.unesco.org/en/articles/unesco-calls-countering-misinformation-about-covid-19" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unesco.org">[UNESCO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unesco.org</span><span class="citation-popover-title">calls countering misinformation about covid 19</span><span class="citation-popover-snippet">Before sharing or reacting to such content, try to think of where...Read more...</span></span></span>
+Many misleading posts succeed because they are processed quickly. A dramatic headline, an alarming image or an inflammatory accusation can generate an immediate emotional response. When people react in that moment, they may share content because it feels important, urgent or morally significant, not because they have verified it. UNESCO has warned that disinformation often spreads through emotion-targeted content and encourages users to think about the source before reacting or sharing.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.unesco.org/en/articles/unesco-calls-countering-misinformation-about-covid-19" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unesco.org">[UNESCO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unesco.org</span><span class="citation-popover-title">calls countering misinformation about covid 19</span><span class="citation-popover-snippet">Before sharing or reacting to such content, try to think of where...Read more...</span></span></span>
 
 An emotional-manipulation prebunk works by changing how the reader interprets that feeling. Instead of experiencing anger or fear as evidence that the claim must be true, the reader learns to treat the emotion as a signal that persuasion may be occurring. The emotional reaction becomes a cue for caution rather than a cue for immediate action.
 
-Researchers behind large-scale prebunking experiments developed short interventions that specifically targeted emotionally manipulative language alongside other common misinformation techniques. Across multiple studies and real-world platform tests, participants became better at recognising the manipulation techniques they later encountered online. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.science.org/doi/10.1126/sciadv.abo6254" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.org">[Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.org</span><span class="citation-popover-snippet">inoculation videos covering five manipulation techniques commonly encountered in online misinformation.... research on fake news and...</span></span></span>
+Researchers behind large-scale prebunking experiments developed short interventions that specifically targeted emotionally manipulative language alongside other common misinformation techniques. Across multiple studies and real-world platform tests, participants became better at recognising the manipulation techniques they later encountered online.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.science.org/doi/10.1126/sciadv.abo6254" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.org">[Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.org</span><span class="citation-popover-snippet">inoculation videos covering five manipulation techniques commonly encountered in online misinformation.... research on fake news and...</span></span></span>
 
 This creates a small but important cognitive shift:
 
@@ -306,7 +306,7 @@ The value of the pause is not its length. Even a few extra seconds can move a pe
 
 Strong emotions are not inherently bad. Fear can warn about real dangers. Anger can highlight genuine injustice. The problem arises when emotional intensity becomes a substitute for evidence.
 
-Research on online misinformation repeatedly finds that emotionally framed content attracts engagement. Studies examining false and true claims on social media have found that negative emotional framing—especially anger, fear and sadness—can drive greater interaction and sharing. False claims often exploit these emotions because they encourage rapid responses and social [amplification]({{ 'amplification/' | relative_url }}). <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2303.16733" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Emotional Framing in the Spreading of False and True Claims</span><span class="citation-popover-snippet">Emotional Framing in the Spreading of False and True ClaimsMarch 29, 2023...</span><span class="citation-popover-meta">Published: March 29, 2023</span></span></span>
+Research on online misinformation repeatedly finds that emotionally framed content attracts engagement. Studies examining false and true claims on social media have found that negative emotional framing—especially anger, fear and sadness—can drive greater interaction and sharing. False claims often exploit these emotions because they encourage rapid responses and social [amplification]({{ 'amplification/' | relative_url }}).<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2303.16733" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Emotional Framing in the Spreading of False and True Claims</span><span class="citation-popover-snippet">Emotional Framing in the Spreading of False and True ClaimsMarch 29, 2023...</span><span class="citation-popover-meta">Published: March 29, 2023</span></span></span>
 
 Emotionally manipulative messages frequently contain features such as:
 
@@ -353,9 +353,9 @@ Outrage, fear and disgust can increase the urge to react or share quickly.
 
 When a post produces an unusually strong emotional response, pause and verify before passing it on.
 
-This structure mirrors the broader logic of psychological inoculation theory: expose people to a weakened example of a manipulation technique, explain how it works, and make future encounters easier to recognise. Reviews and meta-analyses of inoculation research indicate that such interventions generally improve people's ability to assess misinformation and recognise misleading techniques. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9401631/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCPsychological inoculation improves resilience against</span><span class="citation-popover-snippet">by J Roozenbeek · 2022 · Cited by 624 — We show that psychological inoculation campaigns on social media are effective at improving mi...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10498317/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Psychological Inoculation for Credibility Assessment, Sharing...by C Lu · 2023 · Cited by 123 — Based on 42 independent studies with...</span></span></span>
+This structure mirrors the broader logic of psychological inoculation theory: expose people to a weakened example of a manipulation technique, explain how it works, and make future encounters easier to recognise. Reviews and meta-analyses of inoculation research indicate that such interventions generally improve people's ability to assess misinformation and recognise misleading techniques.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9401631/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCPsychological inoculation improves resilience against</span><span class="citation-popover-snippet">by J Roozenbeek · 2022 · Cited by 624 — We show that psychological inoculation campaigns on social media are effective at improving mi...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10498317/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Psychological Inoculation for Credibility Assessment, Sharing...by C Lu · 2023 · Cited by 123 — Based on 42 independent studies with...</span></span></span>
 
-One reason this approach travels well across topics is that emotional manipulation appears in many forms of misinformation. The same emotional triggers can be used in health scares, political rumours, conspiracy narratives, fabricated crime stories and misleading crisis reporting. A tactic-focused warning remains relevant even when the subject changes. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cam.ac.uk/stories/inoculateexperiment" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cam.ac.uk">[University of Cambridge]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cam.ac.uk</span><span class="citation-popover-snippet">University of CambridgeHow to &#x27;inoculate&#x27; millions against misinformation on social...This “prebunking” strategy pre-emptively exposes p...</span></span></span>
+One reason this approach travels well across topics is that emotional manipulation appears in many forms of misinformation. The same emotional triggers can be used in health scares, political rumours, conspiracy narratives, fabricated crime stories and misleading crisis reporting. A tactic-focused warning remains relevant even when the subject changes.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cam.ac.uk/stories/inoculateexperiment" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cam.ac.uk">[University of Cambridge]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cam.ac.uk</span><span class="citation-popover-snippet">University of CambridgeHow to &#x27;inoculate&#x27; millions against misinformation on social...This “prebunking” strategy pre-emptively exposes p...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ieMrNynj8bk" title="Prebunking and inoculating against disinformation? | Sander van der Linden" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ieMrNynj8bk" target="_blank" rel="noopener noreferrer">Prebunking and inoculating against disinformation? | Sander van der Linden</a></p><p class="youtube-embed-meta">Channel: Global Minds for Ukraine &middot; Views: 875 &middot; Uploaded: March 2022 &middot; Length: 1 hour 10 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ieMrNynj8bk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ieMrNynj8bk">Open on YouTube</a></p></div></div></div>
 
@@ -363,7 +363,7 @@ One reason this approach travels well across topics is that emotional manipulati
 
 The most important outcome of an emotional prebunk is not necessarily that a person instantly identifies a claim as false. It is that they hesitate.
 
-That hesitation matters because misinformation often benefits from speed. The faster a message moves through networks, the less opportunity there is for verification, [correction]({{ 'correction/' | relative_url }}) or context. Several researchers have argued that interventions which increase cognitive effort and deliberation before sharing can reduce the likelihood of misinformation spreading. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2303.16733" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Emotional Framing in the Spreading of False and True Claims</span><span class="citation-popover-snippet">Emotional Framing in the Spreading of False and True ClaimsMarch 29, 2023...</span><span class="citation-popover-meta">Published: March 29, 2023</span></span></span>
+That hesitation matters because misinformation often benefits from speed. The faster a message moves through networks, the less opportunity there is for verification, [correction]({{ 'correction/' | relative_url }}) or context. Several researchers have argued that interventions which increase cognitive effort and deliberation before sharing can reduce the likelihood of misinformation spreading.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2303.16733" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Emotional Framing in the Spreading of False and True Claims</span><span class="citation-popover-snippet">Emotional Framing in the Spreading of False and True ClaimsMarch 29, 2023...</span><span class="citation-popover-meta">Published: March 29, 2023</span></span></span>
 
 Seen this way, the sharing pause is a practical mechanism rather than a moral lesson. It changes the sequence of behaviour:
 
@@ -387,169 +387,169 @@ Some events genuinely deserve strong emotional responses. Natural disasters, vio
 
 For that reason, a good emotional-manipulation prebunk focuses on the relationship between emotion and evidence. The warning is not “ignore emotional claims”. The warning is “do not treat emotion itself as proof”.
 
-There are also limits to what prebunks can achieve. Meta-analyses and subsequent studies generally find positive effects on recognising misinformation techniques, but the size of the effects varies across contexts, audiences and outcomes. Some research suggests stronger effects on recognising manipulation than on directly reducing sharing behaviour, indicating that prebunking is helpful but not sufficient on its own. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9363981/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">by TD Pilditch · 2022 · Cited by 45 — Inoculation theory works through a process known as &#x27;prebunking&#x27; (i.e. refuting false informatio...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12134459/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">effectiveness of psychological inoculation against...by SYN Wang · 2025 · Cited by 7 — The researchers tested five different inoculation...</span></span></span>
+There are also limits to what prebunks can achieve. Meta-analyses and subsequent studies generally find positive effects on recognising misinformation techniques, but the size of the effects varies across contexts, audiences and outcomes. Some research suggests stronger effects on recognising manipulation than on directly reducing sharing behaviour, indicating that prebunking is helpful but not sufficient on its own.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9363981/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">by TD Pilditch · 2022 · Cited by 45 — Inoculation theory works through a process known as &#x27;prebunking&#x27; (i.e. refuting false informatio...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12134459/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">effectiveness of psychological inoculation against...by SYN Wang · 2025 · Cited by 7 — The researchers tested five different inoculation...</span></span></span>
 
 In practice, emotional-manipulation prebunks work best as an early warning system. They help people recognise when their feelings may be being used as a persuasion tool. The resulting sharing pause creates a brief window in which evidence, context and verification can compete with the emotional momentum of a misleading post.
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ER64qa_qnWg" title="Prebunking Manipulation Techniques: Emotional Language (v2)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ER64qa_qnWg" target="_blank" rel="noopener noreferrer">Prebunking Manipulation Techniques: Emotional Language (v2)</a></p><p class="youtube-embed-meta">Channel: Info Interventions &middot; Views: 82.6K &middot; Uploaded: May 2021 &middot; Length: 1 minute 48 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ER64qa_qnWg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ER64qa_qnWg">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Can a warning slow outrage sharing?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Can a warning slow outrage sharing?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Psychology+of+Fake+News+by+Rainer+Greifeneder&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Psychology of Fake News on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=-Q72DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Psychology of Fake News" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Psychology+of+Fake+News+by+Rainer+Greifeneder&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Psychology of Fake News">The Psychology of Fake News</a>
-        </h4>
-        <p class="fr-book-author">By Rainer Greifeneder, Mariela Jaffe et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Psychology+of+Fake+News+by+Rainer+Greifeneder&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Psychology of Fake News on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=-Q72DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Psychology of Fake News" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Psychology+of+Fake+News+by+Rainer+Greifeneder&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Psychology of Fake News">The Psychology of Fake News</a>
+</h4>
+<p class="fr-book-author">By Rainer Greifeneder, Mariela Jaffe et al.</p>
         
-        <p class="fr-book-desc">Links emotional responses to misinformation susceptibility.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Psychology+of+Fake+News+by+Rainer+Greifeneder&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Links emotional responses to misinformation susceptibility.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Psychology+of+Fake+News+by+Rainer+Greifeneder&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YGPzXWanppcC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
-        </h4>
-        <p class="fr-book-author">By Daniel Kahneman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YGPzXWanppcC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
+</h4>
+<p class="fr-book-author">By Daniel Kahneman</p>
         
-        <p class="fr-book-desc">Clarifies how emotion and intuition influence decisions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Clarifies how emotion and intuition influence decisions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Factfulness on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=rxg0tgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Factfulness" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Factfulness">Factfulness</a>
-        </h4>
-        <p class="fr-book-author">By Hans Rosling, Ola Rosling et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Factfulness on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=rxg0tgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Factfulness" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Factfulness">Factfulness</a>
+</h4>
+<p class="fr-book-author">By Hans Rosling, Ola Rosling et al.</p>
         
-        <p class="fr-book-desc">Encourages evidence-based thinking over emotionally driven reactions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Encourages evidence-based thinking over emotionally driven reactions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Influence+by+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Influence on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Influence+by+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Influence">Influence</a>
-        </h4>
-        <p class="fr-book-author">By Robert B. Cialdini</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Influence+by+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Influence on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Influence+by+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Influence">Influence</a>
+</h4>
+<p class="fr-book-author">By Robert B. Cialdini</p>
         
-        <p class="fr-book-desc">Explains psychological triggers often exploited in outrage-sharing.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Influence+by+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains psychological triggers often exploited in outrage-sharing.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Influence+by+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Psychology+of+Fake+News&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Psychology of Fake News</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Factfulness&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Factfulness</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Psychology+of+Fake+News&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Psychology of Fake News</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Factfulness&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Factfulness</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=emotion-cues-can-a-warning-slow-outrage-sharing-myths-and-misconcept-teacher-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher t shirt" data-ebay-reference="emotion-cues-can-a-warning-slow-outrage-sharing-myths-and-misconcept-teacher-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for FCK.. YOU T-shirt QR Code Custom Printed T-Shirt scan the QR code"><img src="{{ '/assets/images/marketplace-covers/a13dafbf4b269d28e630.jpg' | relative_url }}" alt="Listing image for FCK.. YOU T-shirt QR Code Custom Printed T-Shirt scan the QR code" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=emotion-cues-can-a-warning-slow-outrage-sharing-myths-and-misconcept-teacher-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher t shirt" data-ebay-reference="emotion-cues-can-a-warning-slow-outrage-sharing-myths-and-misconcept-teacher-t-shirt" target="_blank" rel="sponsored noopener noreferrer">FCK.. YOU T-shirt QR Code Custom Printed T-Shirt scan the QR code</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=emotion-cues-can-a-warning-slow-outrage-sharing-myths-and-misconcept-teacher-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher t shirt" data-ebay-reference="emotion-cues-can-a-warning-slow-outrage-sharing-myths-and-misconcept-teacher-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for teacher t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: teacher t shirt</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=emotion-cues-can-a-warning-slow-outrage-sharing-myths-and-misconcept-teacher-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher t shirt" data-ebay-reference="emotion-cues-can-a-warning-slow-outrage-sharing-myths-and-misconcept-teacher-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=emotion-cues-can-a-warning-slow-outrage-sharing-myths-and-misconcept-teacher-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher t shirt" data-ebay-reference="emotion-cues-can-a-warning-slow-outrage-sharing-myths-and-misconcept-teacher-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for FCK.. YOU T-shirt QR Code Custom Printed T-Shirt scan the QR code"><img src="{{ '/assets/images/marketplace-covers/a13dafbf4b269d28e630.jpg' | relative_url }}" alt="Listing image for FCK.. YOU T-shirt QR Code Custom Printed T-Shirt scan the QR code" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=emotion-cues-can-a-warning-slow-outrage-sharing-myths-and-misconcept-teacher-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher t shirt" data-ebay-reference="emotion-cues-can-a-warning-slow-outrage-sharing-myths-and-misconcept-teacher-t-shirt" target="_blank" rel="sponsored noopener noreferrer">FCK.. YOU T-shirt QR Code Custom Printed T-Shirt scan the QR code</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=emotion-cues-can-a-warning-slow-outrage-sharing-myths-and-misconcept-teacher-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher t shirt" data-ebay-reference="emotion-cues-can-a-warning-slow-outrage-sharing-myths-and-misconcept-teacher-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for teacher t shirt">Search<span data-ebay-domain-label>eBay.co.uk</span>: teacher t shirt</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=emotion-cues-can-a-warning-slow-outrage-sharing-myths-and-misconcept-teacher-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher t shirt" data-ebay-reference="emotion-cues-can-a-warning-slow-outrage-sharing-myths-and-misconcept-teacher-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=emotion-cues-can-a-warning-slow-outrage-sharing-myths-and-misconcept-teacher-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher t shirt" data-ebay-reference="emotion-cues-can-a-warning-slow-outrage-sharing-myths-and-misconcept-teacher-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Custom Seagulls Teacher T-Shirt, Funny Gift Shirt, Teacher Appreciation Gift"><img src="{{ '/assets/images/marketplace-covers/f95e234aa6f6408aec06.jpg' | relative_url }}" alt="Listing image for Custom Seagulls Teacher T-Shirt, Funny Gift Shirt, Teacher Appreciation Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=emotion-cues-can-a-warning-slow-outrage-sharing-myths-and-misconcept-teacher-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher t shirt" data-ebay-reference="emotion-cues-can-a-warning-slow-outrage-sharing-myths-and-misconcept-teacher-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Custom Seagulls Teacher T-Shirt, Funny Gift Shirt, Teacher Appreciation Gift</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=emotion-cues-can-a-warning-slow-outrage-sharing-myths-and-misconcept-teacher-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher t shirt" data-ebay-reference="emotion-cues-can-a-warning-slow-outrage-sharing-myths-and-misconcept-teacher-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for teacher t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: teacher t shirt</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=emotion-cues-can-a-warning-slow-outrage-sharing-myths-and-misconcept-teacher-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher t shirt" data-ebay-reference="emotion-cues-can-a-warning-slow-outrage-sharing-myths-and-misconcept-teacher-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=emotion-cues-can-a-warning-slow-outrage-sharing-myths-and-misconcept-teacher-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher t shirt" data-ebay-reference="emotion-cues-can-a-warning-slow-outrage-sharing-myths-and-misconcept-teacher-t-shirt" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=emotion-cues-can-a-warning-slow-outrage-sharing-myths-and-misconcept-teacher-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher t shirt" data-ebay-reference="emotion-cues-can-a-warning-slow-outrage-sharing-myths-and-misconcept-teacher-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Custom Seagulls Teacher T-Shirt, Funny Gift Shirt, Teacher Appreciation Gift"><img src="{{ '/assets/images/marketplace-covers/f95e234aa6f6408aec06.jpg' | relative_url }}" alt="Listing image for Custom Seagulls Teacher T-Shirt, Funny Gift Shirt, Teacher Appreciation Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=emotion-cues-can-a-warning-slow-outrage-sharing-myths-and-misconcept-teacher-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher t shirt" data-ebay-reference="emotion-cues-can-a-warning-slow-outrage-sharing-myths-and-misconcept-teacher-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Custom Seagulls Teacher T-Shirt, Funny Gift Shirt, Teacher Appreciation Gift</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=emotion-cues-can-a-warning-slow-outrage-sharing-myths-and-misconcept-teacher-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher t shirt" data-ebay-reference="emotion-cues-can-a-warning-slow-outrage-sharing-myths-and-misconcept-teacher-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for teacher t shirt">Search<span data-ebay-domain-label>eBay.co.uk</span>: teacher t shirt</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=emotion-cues-can-a-warning-slow-outrage-sharing-myths-and-misconcept-teacher-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher t shirt" data-ebay-reference="emotion-cues-can-a-warning-slow-outrage-sharing-myths-and-misconcept-teacher-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=emotion-cues-can-a-warning-slow-outrage-sharing-myths-and-misconcept-teacher-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher t shirt" data-ebay-reference="emotion-cues-can-a-warning-slow-outrage-sharing-myths-and-misconcept-teacher-t-shirt" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -565,7 +565,7 @@ In practice, emotional-manipulation prebunks work best as an early warning syste
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -585,7 +585,7 @@ In practice, emotional-manipulation prebunks work best as an early warning syste
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -617,7 +617,7 @@ In practice, emotional-manipulation prebunks work best as an early warning syste
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -669,7 +669,7 @@ In practice, emotional-manipulation prebunks work best as an early warning syste
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -714,7 +714,7 @@ In practice, emotional-manipulation prebunks work best as an early warning syste
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -755,214 +755,214 @@ In practice, emotional-manipulation prebunks work best as an early warning syste
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCPsychological inoculation improves resilience against  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9401631/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9401631/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>by J Roozenbeek · 2022 · Cited by 624 — We show that psychological inoculation [campaigns](&amp;#123;&amp;#123; &#x27;campaigns/&#x27; | relative_url &amp;#125;&amp;#125;) on social media are effective at improving mi...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9401631/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9401631/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by J Roozenbeek · 2022 · Cited by 624 — We show that psychological inoculation [campaigns](&amp;#123;&amp;#123; &#x27;campaigns/&#x27; | relative_url &amp;#125;&amp;#125;) on social media are effective at improving mi...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: unesco.org  
    Title: calls countering misinformation about covid 19  
-   Link: <a href="https://www.unesco.org/en/articles/unesco-calls-countering-misinformation-about-covid-19" target="_blank" rel="noopener noreferrer nofollow">https://www.unesco.org/en/articles/unesco-calls-countering-misinformation-about-covid-19</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Before sharing or reacting to such content, try to think of where...Read more...</p></details>
+   Link:<a href="https://www.unesco.org/en/articles/unesco-calls-countering-misinformation-about-covid-19" target="_blank" rel="noopener noreferrer nofollow">https://www.unesco.org/en/articles/unesco-calls-countering-misinformation-about-covid-19</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Before sharing or reacting to such content, try to think of where...Read more...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: arxiv.org  
    Title: arXiv Emotional Framing in the Spreading of False and True Claims  
-   Link: <a href="https://arxiv.org/abs/2303.16733" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2303.16733</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Emotional Framing in the Spreading of False and True ClaimsMarch 29, 2023...</p></details>
+   Link:<a href="https://arxiv.org/abs/2303.16733" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2303.16733</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Emotional Framing in the Spreading of False and True ClaimsMarch 29, 2023...</p></details>
    Published: March 29, 2023  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10498317/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10498317/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Psychological Inoculation for Credibility Assessment, Sharing...by C Lu · 2023 · Cited by 123 — Based on 42 independent studies with...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10498317/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10498317/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Psychological Inoculation for Credibility Assessment, Sharing...by C Lu · 2023 · Cited by 123 — Based on 42 independent studies with...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9363981/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9363981/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>by TD Pilditch · 2022 · Cited by 45 — Inoculation theory works through a process known as &#x27;prebunking&#x27; (i.e. refuting false informatio...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9363981/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9363981/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by TD Pilditch · 2022 · Cited by 45 — Inoculation theory works through a process known as &#x27;prebunking&#x27; (i.e. refuting false informatio...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: arxiv.org  
    Title: arXiv Three prophylactic interventions to counter [fake news](&#123;&#123; 'fake-news/' | relative_url &#125;&#125;) on social media  
-   Link: <a href="https://arxiv.org/abs/2105.08929" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2105.08929</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Three prophylactic interventions to counter fake news on social mediaMay 19, 2021...</p></details>
+   Link:<a href="https://arxiv.org/abs/2105.08929" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2105.08929</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Three prophylactic interventions to counter fake news on social mediaMay 19, 2021...</p></details>
    Published: May 19, 2021  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12134459/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12134459/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>effectiveness of psychological inoculation against...by SYN Wang · 2025 · Cited by 7 — The researchers tested five different inoculation...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12134459/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12134459/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>effectiveness of psychological inoculation against...by SYN Wang · 2025 · Cited by 7 — The researchers tested five different inoculation...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: dictionary.cambridge.org  
-   Link: <a href="https://dictionary.cambridge.org/dictionary/english/psychological" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/dictionary/english/psychological</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>He claims that the constant aircraft noise has a bad psychological effect on the residents.Read more...</p></details>
+   Link:<a href="https://dictionary.cambridge.org/dictionary/english/psychological" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/dictionary/english/psychological</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>He claims that the constant aircraft noise has a bad psychological effect on the residents.Read more...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: articles.unesco.org  
    Title: Guide on MIL Pherton Casimir  
-   Link: <a href="https://articles.unesco.org/sites/default/files/medias/fichiers/2025/04/Guide%20on%20MIL_Pherton%20Casimir.pdf" target="_blank" rel="noopener noreferrer nofollow">https://articles.unesco.org/sites/default/files/medias/fichiers/2025/04/Guide%20on%20MIL_Pherton%20Casimir.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>of Information10 Apr 2025 — As activists and young leaders, you have the power to protect the truth and minimize the risks of misinformat...</p></details>
+   Link:<a href="https://articles.unesco.org/sites/default/files/medias/fichiers/2025/04/Guide%20on%20MIL_Pherton%20Casimir.pdf" target="_blank" rel="noopener noreferrer nofollow">https://articles.unesco.org/sites/default/files/medias/fichiers/2025/04/Guide%20on%20MIL_Pherton%20Casimir.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>of Information10 Apr 2025 — As activists and young leaders, you have the power to protect the truth and minimize the risks of misinformat...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: unesco.org  
-   Link: <a href="https://www.unesco.org/en/articles/shared-frontlines-unesco-bridges-gap-between-journalists-and-content-creators-age-doubt" target="_blank" rel="noopener noreferrer nofollow">https://www.unesco.org/en/articles/shared-frontlines-unesco-bridges-gap-between-journalists-and-content-creators-age-doubt</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;I know misinformation appeals to...Read more...</p></details>
+   Link:<a href="https://www.unesco.org/en/articles/shared-frontlines-unesco-bridges-gap-between-journalists-and-content-creators-age-doubt" target="_blank" rel="noopener noreferrer nofollow">https://www.unesco.org/en/articles/shared-frontlines-unesco-bridges-gap-between-journalists-and-content-creators-age-doubt</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;I know misinformation appeals to...Read more...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: unesdoc.unesco.org  
    Title: ; Person as author. Ireton, Cherilyn [editor]  
-   Link: <a href="https://unesdoc.unesco.org/ark%3A/48223/pf0000265552" target="_blank" rel="noopener noreferrer nofollow">https://unesdoc.unesco.org/ark%3A/48223/pf0000265552</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>unesco.orgJournalism, fake news &amp; disinformation: handbook for...Journalism, fake news &amp; disinformation: handbook for journalism educati...</p></details>
+   Link:<a href="https://unesdoc.unesco.org/ark%3A/48223/pf0000265552" target="_blank" rel="noopener noreferrer nofollow">https://unesdoc.unesco.org/ark%3A/48223/pf0000265552</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>unesco.orgJournalism, fake news &amp; disinformation: handbook for...Journalism, fake news &amp; disinformation: handbook for journalism educati...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: unesco.org  
    Title: deepfakes and crisis knowing  
-   Link: <a href="https://www.unesco.org/en/articles/deepfakes-and-crisis-knowing" target="_blank" rel="noopener noreferrer nofollow">https://www.unesco.org/en/articles/deepfakes-and-crisis-knowing</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Deepfakes and the crisis of knowing27 Oct 2025 — The rise of AI-augmented disinformation and misinformation demands a fundamental shift i...</p></details>
+   Link:<a href="https://www.unesco.org/en/articles/deepfakes-and-crisis-knowing" target="_blank" rel="noopener noreferrer nofollow">https://www.unesco.org/en/articles/deepfakes-and-crisis-knowing</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Deepfakes and the crisis of knowing27 Oct 2025 — The rise of AI-augmented disinformation and misinformation demands a fundamental shift i...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: unesco.org  
    Title: fact checking quiet skill holding communities together  
-   Link: <a href="https://www.unesco.org/en/articles/fact-checking-quiet-skill-holding-communities-together" target="_blank" rel="noopener noreferrer nofollow">https://www.unesco.org/en/articles/fact-checking-quiet-skill-holding-communities-together</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>disinformation, misinformation, while safeguarding freedom of expression and access to information.Read more...</p></details>
+   Link:<a href="https://www.unesco.org/en/articles/fact-checking-quiet-skill-holding-communities-together" target="_blank" rel="noopener noreferrer nofollow">https://www.unesco.org/en/articles/fact-checking-quiet-skill-holding-communities-together</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>disinformation, misinformation, while safeguarding freedom of expression and access to information.Read more...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: unesco.org  
-   Link: <a href="https://www.unesco.org/en/social-media4peace" target="_blank" rel="noopener noreferrer nofollow">https://www.unesco.org/en/social-media4peace</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Social Media 4 PeaceSocial Media 4 Peace (SM4P) is a global initiative implemented by UNESCO to build societies&#x27; resilience to online har...</p></details>
+   Link:<a href="https://www.unesco.org/en/social-media4peace" target="_blank" rel="noopener noreferrer nofollow">https://www.unesco.org/en/social-media4peace</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Social Media 4 PeaceSocial Media 4 Peace (SM4P) is a global initiative implemented by UNESCO to build societies&#x27; resilience to online har...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: unesco.org  
-   Link: <a href="https://www.unesco.org/en/articles/unesco-highlights-importance-addressing-disinformation-and-hate-speech-peacebuidling-yntymak-week" target="_blank" rel="noopener noreferrer nofollow">https://www.unesco.org/en/articles/unesco-highlights-importance-addressing-disinformation-and-hate-speech-peacebuidling-yntymak-week</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UNESCO Highlights the Importance of Addressing...28 Nov 2025 — It is a global initiative implemented by UNESCO to build societies&#x27; resil...</p></details>
+   Link:<a href="https://www.unesco.org/en/articles/unesco-highlights-importance-addressing-disinformation-and-hate-speech-peacebuidling-yntymak-week" target="_blank" rel="noopener noreferrer nofollow">https://www.unesco.org/en/articles/unesco-highlights-importance-addressing-disinformation-and-hate-speech-peacebuidling-yntymak-week</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UNESCO Highlights the Importance of Addressing...28 Nov 2025 — It is a global initiative implemented by UNESCO to build societies&#x27; resil...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: unesco.org  
    Title: chilling effect psychosocial effects online violence journalists  
-   Link: <a href="https://www.unesco.org/en/articles/chilling-effect-psychosocial-effects-online-violence-journalists" target="_blank" rel="noopener noreferrer nofollow">https://www.unesco.org/en/articles/chilling-effect-psychosocial-effects-online-violence-journalists</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>disinformation are allowed to proliferate on social media. The session will show the harmful impact on lives of women and other marginali...</p></details>
+   Link:<a href="https://www.unesco.org/en/articles/chilling-effect-psychosocial-effects-online-violence-journalists" target="_blank" rel="noopener noreferrer nofollow">https://www.unesco.org/en/articles/chilling-effect-psychosocial-effects-online-violence-journalists</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>disinformation are allowed to proliferate on social media. The session will show the harmful impact on lives of women and other marginali...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: unesco.org  
-   Link: <a href="https://www.unesco.org/sites/default/files/medias/fichiers/2023/11/unesco_ipsos_survey.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.unesco.org/sites/default/files/medias/fichiers/2023/11/unesco_ipsos_survey.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Survey on the impact of online disinformation and hate...25 Sept 2023 — This report was reviewed by Mathieu Gallard, Client Director, Ip...</p></details>
+   Link:<a href="https://www.unesco.org/sites/default/files/medias/fichiers/2023/11/unesco_ipsos_survey.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.unesco.org/sites/default/files/medias/fichiers/2023/11/unesco_ipsos_survey.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Survey on the impact of online disinformation and hate...25 Sept 2023 — This report was reviewed by Mathieu Gallard, Client Director, Ip...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: unesco.org  
-   Link: <a href="https://www.unesco.org/mil4teachers/en/module4/unit2" target="_blank" rel="noopener noreferrer nofollow">https://www.unesco.org/mil4teachers/en/module4/unit2</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Unit 2: The Misinformation and Disinformation Ecosystem11 Apr 2024 — Distinguish the different types of false and misleading content, i.e...</p></details>
+   Link:<a href="https://www.unesco.org/mil4teachers/en/module4/unit2" target="_blank" rel="noopener noreferrer nofollow">https://www.unesco.org/mil4teachers/en/module4/unit2</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Unit 2: The Misinformation and Disinformation Ecosystem11 Apr 2024 — Distinguish the different types of false and misleading content, i.e...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: unesco.org  
-   Link: <a href="https://www.unesco.org/en/articles/2/3-digital-content-creators-do-not-check-their-facts-sharing-want-learn-how-do-so-unesco-survey" target="_blank" rel="noopener noreferrer nofollow">https://www.unesco.org/en/articles/2/3-digital-content-creators-do-not-check-their-facts-sharing-want-learn-how-do-so-unesco-survey</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>2/3 of digital content creators do not check their facts before27 Nov 2024 — be transparent about the sources which inspire their content...</p></details>
+   Link:<a href="https://www.unesco.org/en/articles/2/3-digital-content-creators-do-not-check-their-facts-sharing-want-learn-how-do-so-unesco-survey" target="_blank" rel="noopener noreferrer nofollow">https://www.unesco.org/en/articles/2/3-digital-content-creators-do-not-check-their-facts-sharing-want-learn-how-do-so-unesco-survey</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>2/3 of digital content creators do not check their facts before27 Nov 2024 — be transparent about the sources which inspire their content...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: unesco.org  
-   Link: <a href="https://www.unesco.org/en/publication/action-plan-combatting-disinformation-and-misinformation-through-media-and-information-literacy-mil" target="_blank" rel="noopener noreferrer nofollow">https://www.unesco.org/en/publication/action-plan-combatting-disinformation-and-misinformation-through-media-and-information-literacy-mil</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Stop fake news. Canva. Action Plan on Combatting Disinformation and Misinformation through Media and Information...Read more...</p></details>
+   Link:<a href="https://www.unesco.org/en/publication/action-plan-combatting-disinformation-and-misinformation-through-media-and-information-literacy-mil" target="_blank" rel="noopener noreferrer nofollow">https://www.unesco.org/en/publication/action-plan-combatting-disinformation-and-misinformation-through-media-and-information-literacy-mil</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Stop fake news. Canva. Action Plan on Combatting Disinformation and Misinformation through Media and Information...Read more...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: inoculation.science  
-   Link: <a href="https://inoculation.science/a-practical-guide-to-prebunking-misinformation/" target="_blank" rel="noopener noreferrer nofollow">https://inoculation.science/a-practical-guide-to-prebunking-misinformation/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Author: University... inoculation theory, designed to build people&#x27;s resilience to mis- and disinformation.Read more...</p></details>
+   Link:<a href="https://inoculation.science/a-practical-guide-to-prebunking-misinformation/" target="_blank" rel="noopener noreferrer nofollow">https://inoculation.science/a-practical-guide-to-prebunking-misinformation/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Author: University... inoculation theory, designed to build people&#x27;s resilience to mis- and disinformation.Read more...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: inoculation.science  
-   Link: <a href="https://inoculation.science/wp-content/uploads/2021/06/inoc.pdf" target="_blank" rel="noopener noreferrer nofollow">https://inoculation.science/wp-content/uploads/2021/06/inoc.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ons; namely (1) to be able to isolate the specific disinformation techniques and (2) to...</p></details>
+   Link:<a href="https://inoculation.science/wp-content/uploads/2021/06/inoc.pdf" target="_blank" rel="noopener noreferrer nofollow">https://inoculation.science/wp-content/uploads/2021/06/inoc.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ons; namely (1) to be able to isolate the specific disinformation techniques and (2) to...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: science.org  
-   Link: <a href="https://www.science.org/doi/10.1126/sciadv.abo6254" target="_blank" rel="noopener noreferrer nofollow">https://www.science.org/doi/10.1126/sciadv.abo6254</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>inoculation videos covering five manipulation techniques commonly encountered in online misinformation.... research on fake news and...</p></details>
+   Link:<a href="https://www.science.org/doi/10.1126/sciadv.abo6254" target="_blank" rel="noopener noreferrer nofollow">https://www.science.org/doi/10.1126/sciadv.abo6254</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>inoculation videos covering five manipulation techniques commonly encountered in online misinformation.... research on fake news and...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: cam.ac.uk  
-   Link: <a href="https://www.cam.ac.uk/stories/inoculateexperiment" target="_blank" rel="noopener noreferrer nofollow">https://www.cam.ac.uk/stories/inoculateexperiment</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>University of CambridgeHow to &#x27;inoculate&#x27; millions against misinformation on social...This “prebunking” strategy pre-emptively exposes p...</p></details>
+   Link:<a href="https://www.cam.ac.uk/stories/inoculateexperiment" target="_blank" rel="noopener noreferrer nofollow">https://www.cam.ac.uk/stories/inoculateexperiment</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>University of CambridgeHow to &#x27;inoculate&#x27; millions against misinformation on social...This “prebunking” strategy pre-emptively exposes p...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: ohchr.org  
-   Link: <a href="https://www.ohchr.org/sites/default/files/Documents/Issues/Expression/disinformation/5-Others/UNESCO.docx" target="_blank" rel="noopener noreferrer nofollow">https://www.ohchr.org/sites/default/files/Documents/Issues/Expression/disinformation/5-Others/UNESCO.docx</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>unescoIt is also recognised that like the term “fake news”, the term “disinformation” can be instrumentalised to designate a vast range o...</p></details>
+   Link:<a href="https://www.ohchr.org/sites/default/files/Documents/Issues/Expression/disinformation/5-Others/UNESCO.docx" target="_blank" rel="noopener noreferrer nofollow">https://www.ohchr.org/sites/default/files/Documents/Issues/Expression/disinformation/5-Others/UNESCO.docx</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>unescoIt is also recognised that like the term “fake news”, the term “disinformation” can be instrumentalised to designate a vast range o...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: sciencelearn.org.nz  
    Title: manipulation tactics create an inoculation campaign  
-   Link: <a href="https://www.sciencelearn.org.nz/resources/manipulation-tactics-create-an-inoculation-campaign" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencelearn.org.nz/resources/manipulation-tactics-create-an-inoculation-campaign</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Manipulation tactics – create an inoculation campaign30 June 2025 — Online algorithms, biases and incorrect information · Recognising fal...</p></details>
+   Link:<a href="https://www.sciencelearn.org.nz/resources/manipulation-tactics-create-an-inoculation-campaign" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencelearn.org.nz/resources/manipulation-tactics-create-an-inoculation-campaign</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Manipulation tactics – create an inoculation campaign30 June 2025 — Online algorithms, biases and incorrect information · Recognising fal...</p></details>
    Published: June 2025  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: nature.com  
-   Link: <a href="https://www.nature.com/articles/s41598-025-09462-5" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41598-025-09462-5</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Science Advances 8 (2022). Eagly, A. H. &amp; Chaiken, S...Read more...</p></details>
+   Link:<a href="https://www.nature.com/articles/s41598-025-09462-5" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41598-025-09462-5</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Science Advances 8 (2022). Eagly, A. H. &amp; Chaiken, S...Read more...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: unesco.org.uk  
-   Link: <a href="https://unesco.org.uk/site/assets/files/2261/media_and_information_literacy_in_journalism-_a_handbook_for_journalists_and_journalism_educators_2019.pdf" target="_blank" rel="noopener noreferrer nofollow">https://unesco.org.uk/site/assets/files/2261/media_and_information_literacy_in_journalism-_a_handbook_for_journalists_and_journalism_educators_2019.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>MEDIA AND INFORMATION LITERACY IN JOURNALISMThis guide, although it touches upon misinformation and disinformation and disinformation, fo...</p></details>
+   Link:<a href="https://unesco.org.uk/site/assets/files/2261/media_and_information_literacy_in_journalism-_a_handbook_for_journalists_and_journalism_educators_2019.pdf" target="_blank" rel="noopener noreferrer nofollow">https://unesco.org.uk/site/assets/files/2261/media_and_information_literacy_in_journalism-_a_handbook_for_journalists_and_journalism_educators_2019.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>MEDIA AND INFORMATION LITERACY IN JOURNALISMThis guide, although it touches upon misinformation and disinformation and disinformation, fo...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: undp.org  
-   Link: <a href="https://www.undp.org/turkiye/press-releases/unesco-and-undp-support-radio-stations-cope-disinformation-about-coronavirus-epidemic" target="_blank" rel="noopener noreferrer nofollow">https://www.undp.org/turkiye/press-releases/unesco-and-undp-support-radio-stations-cope-disinformation-about-coronavirus-epidemic</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Before sharing or reacting to such content, try to think of where...Read more...</p></details>
+   Link:<a href="https://www.undp.org/turkiye/press-releases/unesco-and-undp-support-radio-stations-cope-disinformation-about-coronavirus-epidemic" target="_blank" rel="noopener noreferrer nofollow">https://www.undp.org/turkiye/press-releases/unesco-and-undp-support-radio-stations-cope-disinformation-about-coronavirus-epidemic</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Before sharing or reacting to such content, try to think of where...Read more...</p></details>
 
 ### Additional References
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/392172950_Limited_effectiveness_of_psychological_inoculation_against_misinformation_in_a_social_media_feed" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/392172950_Limited_effectiveness_of_psychological_inoculation_against_misinformation_in_a_social_media_feed</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Limited effectiveness of psychological inoculation against...28 Mar 2026 — The goal of inoculation is to teach people to recognize manip...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/392172950_Limited_effectiveness_of_psychological_inoculation_against_misinformation_in_a_social_media_feed" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/392172950_Limited_effectiveness_of_psychological_inoculation_against_misinformation_in_a_social_media_feed</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Limited effectiveness of psychological inoculation against...28 Mar 2026 — The goal of inoculation is to teach people to recognize manip...</p></details>
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: stratcomcoe.org  
-   Link: <a href="https://stratcomcoe.org/publications/download/Inoculation-theory-and-Misinformation-FINAL-digital-ISBN-ebbe8.pdf" target="_blank" rel="noopener noreferrer nofollow">https://stratcomcoe.org/publications/download/Inoculation-theory-and-Misinformation-FINAL-digital-ISBN-ebbe8.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>INOCULATION THEORY AND MISINFORMATIONTo do so, we first discuss how to define “misinformation”, and how it relates to various other commo...</p></details>
+   Link:<a href="https://stratcomcoe.org/publications/download/Inoculation-theory-and-Misinformation-FINAL-digital-ISBN-ebbe8.pdf" target="_blank" rel="noopener noreferrer nofollow">https://stratcomcoe.org/publications/download/Inoculation-theory-and-Misinformation-FINAL-digital-ISBN-ebbe8.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>INOCULATION THEORY AND MISINFORMATIONTo do so, we first discuss how to define “misinformation”, and how it relates to various other commo...</p></details>
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/posts/sander-van-der-linden-156a08203_prebunking-inoculation-badnews-activity-7461018385804591104-p4Lt" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/sander-van-der-linden-156a08203_prebunking-inoculation-badnews-activity-7461018385804591104-p4Lt</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Testing #prebunking in UK schools to combat misinformationWe are testing #prebunking and psychological #inoculation against misinformatio...</p></details>
+   Link:<a href="https://www.linkedin.com/posts/sander-van-der-linden-156a08203_prebunking-inoculation-badnews-activity-7461018385804591104-p4Lt" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/sander-van-der-linden-156a08203_prebunking-inoculation-badnews-activity-7461018385804591104-p4Lt</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Testing #prebunking in UK schools to combat misinformationWe are testing #prebunking and psychological #inoculation against misinformatio...</p></details>
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: misinforeview.hks.harvard.edu  
-   Link: <a href="https://misinforeview.hks.harvard.edu/article/prebunking-misinformation-techniques-in-social-media-feeds-results-from-an-instagram-field-study/" target="_blank" rel="noopener noreferrer nofollow">https://misinforeview.hks.harvard.edu/article/prebunking-misinformation-techniques-in-social-media-feeds-results-from-an-instagram-field-study/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>misinformation techniques in social media feedsby S van der Linden · 2026 — A vast amount of research has emerged exploring the efficacy...</p></details>
+   Link:<a href="https://misinforeview.hks.harvard.edu/article/prebunking-misinformation-techniques-in-social-media-feeds-results-from-an-instagram-field-study/" target="_blank" rel="noopener noreferrer nofollow">https://misinforeview.hks.harvard.edu/article/prebunking-misinformation-techniques-in-social-media-feeds-results-from-an-instagram-field-study/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>misinformation techniques in social media feedsby S van der Linden · 2026 — A vast amount of research has emerged exploring the efficacy...</p></details>
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/posts/kdv-management-advising_disinformation-digitalliteracy-ai-activity-7446004585690845185-ejuR" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/kdv-management-advising_disinformation-digitalliteracy-ai-activity-7446004585690845185-ejuR</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Fake news doesn&#x27;t look fake. It looks real. It feels real. That&#x27;s why it works. In a...Read more...</p></details>
+   Link:<a href="https://www.linkedin.com/posts/kdv-management-advising_disinformation-digitalliteracy-ai-activity-7446004585690845185-ejuR" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/kdv-management-advising_disinformation-digitalliteracy-ai-activity-7446004585690845185-ejuR</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Fake news doesn&#x27;t look fake. It looks real. It feels real. That&#x27;s why it works. In a...Read more...</p></details>
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: youtube.com  
    Title: Psychological Inoculation Against Misinformation  
-   Link: <a href="https://www.youtube.com/watch?v=jbgK8Ei-Rp0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=jbgK8Ei-Rp0</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>These videos explain how prebunking and inoculation theory work to help individuals recognize manipulative tactics, such as emotional lan...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=jbgK8Ei-Rp0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=jbgK8Ei-Rp0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>These videos explain how prebunking and inoculation theory work to help individuals recognize manipulative tactics, such as emotional lan...</p></details>
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: royalsocietypublishing.org  
    Title: Technique based inoculation against real world  
-   Link: <a href="https://royalsocietypublishing.org/rsos/article/9/5/211719/96738/Technique-based-inoculation-against-real-world" target="_blank" rel="noopener noreferrer nofollow">https://royalsocietypublishing.org/rsos/article/9/5/211719/96738/Technique-based-inoculation-against-real-world</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Technique-based inoculation against real-world misinformationby J Roozenbeek · 2022 · Cited by 124 — We find that playing a 15 min game c...</p></details>
+   Link:<a href="https://royalsocietypublishing.org/rsos/article/9/5/211719/96738/Technique-based-inoculation-against-real-world" target="_blank" rel="noopener noreferrer nofollow">https://royalsocietypublishing.org/rsos/article/9/5/211719/96738/Technique-based-inoculation-against-real-world</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Technique-based inoculation against real-world misinformationby J Roozenbeek · 2022 · Cited by 124 — We find that playing a 15 min game c...</p></details>
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/36001675/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/36001675/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>inoculation improves resilience against...by J Roozenbeek · 2022 · Cited by 632 — We developed five short videos that inoculate people a...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/36001675/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/36001675/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>inoculation improves resilience against...by J Roozenbeek · 2022 · Cited by 632 — We developed five short videos that inoculate people a...</p></details>
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/realkm-magazine/new-unesco-handbook-addresses-fake-news-and-disinformation-in-journalism-44275c0aba97" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/realkm-magazine/new-unesco-handbook-addresses-fake-news-and-disinformation-in-journalism-44275c0aba97</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>lism Education and Training tackles the issue head-on by...</p></details>
+   Link:<a href="https://medium.com/realkm-magazine/new-unesco-handbook-addresses-fake-news-and-disinformation-in-journalism-44275c0aba97" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/realkm-magazine/new-unesco-handbook-addresses-fake-news-and-disinformation-in-journalism-44275c0aba97</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>lism Education and Training tackles the issue head-on by...</p></details>
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: prebunking.withgoogle.com  
-   Link: <a href="https://prebunking.withgoogle.com/resources/" target="_blank" rel="noopener noreferrer nofollow">https://prebunking.withgoogle.com/resources/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Resources &amp; Case StudiesThe campaign aimed to limit the effectiveness of three misinformation tactics – emotional manipulation, decontext...</p></details>
+   Link:<a href="https://prebunking.withgoogle.com/resources/" target="_blank" rel="noopener noreferrer nofollow">https://prebunking.withgoogle.com/resources/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Resources &amp; Case StudiesThe campaign aimed to limit the effectiveness of three misinformation tactics – emotional manipulation, decontext...</p></details>

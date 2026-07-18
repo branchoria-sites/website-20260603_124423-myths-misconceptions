@@ -277,35 +277,35 @@ image: /assets/images/Myths_and_misconcept_0d48d7_vaccine_autism_corre_58e816_mm
 One reason the MMR-autism myth became so persuasive is that it appears to fit a real sequence of events. Children usually receive their first MMR vaccination at around one year of age, and many parents begin noticing developmental differences during the same broad toddler period. When a child changes in ways that are worrying or unexpected, it is natural to look back and ask what happened just beforehand. The [timing]({{ 'timing/' | relative_url }}) can feel so precise and emotionally vivid that it seems to provide its own explanation.
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_vaccine_autism_corre_58e816_mmr_toddler_timing_9893a7-Illustration-1-dark.svg" | relative_url }}" alt="Timing trap illustration 1" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_vaccine_autism_corre_58e816_mmr_toddler_timing_9893a7-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_vaccine_autism_corre_58e816_mmr_toddler_timing_9893a7-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-The difficulty is that human beings are especially vulnerable to mistaking sequence for cause when two important events occur close together. In the case of MMR and autism, the overlap between the vaccination schedule and the age when autism traits often become more visible creates a powerful illusion of causation even when no causal link is present. [Large studies]({{ 'large-studies/' | relative_url }}) have not found evidence that MMR causes autism, but understanding why the timing feels convincing is essential to understanding why the myth persisted. CDC <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gavi.org/vaccineswork/can-mmr-vaccines-cause-autism" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gavi.org">[Gavi]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gavi.org</span><span class="citation-popover-title">can mmr vaccines cause autism</span><span class="citation-popover-snippet">?10 Sept 2025  This 2019 study of more than 650,000 children found no increased autism risk in those who received the MMR-vaccine  incl...</span></span></span>
+The difficulty is that human beings are especially vulnerable to mistaking sequence for cause when two important events occur close together. In the case of MMR and autism, the overlap between the vaccination schedule and the age when autism traits often become more visible creates a powerful illusion of causation even when no causal link is present. [Large studies]({{ 'large-studies/' | relative_url }}) have not found evidence that MMR causes autism, but understanding why the timing feels convincing is essential to understanding why the myth persisted. CDC<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gavi.org/vaccineswork/can-mmr-vaccines-cause-autism" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gavi.org">[Gavi]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gavi.org</span><span class="citation-popover-title">can mmr vaccines cause autism</span><span class="citation-popover-snippet">?10 Sept 2025  This 2019 study of more than 650,000 children found no increased autism risk in those who received the MMR-vaccine  incl...</span></span></span>
 
 ## When Routine MMR Doses Happen
 
-The first routine MMR dose is typically given at about 12 months of age, with a second dose later in early childhood. In the UK, the first dose is normally offered shortly after a child's first birthday, placing it directly in the middle of a period of rapid developmental change. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nhs.uk/vaccinations/mmr-vaccine/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nhs.uk">[nhs.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nhs.uk</span><span class="citation-popover-snippet">MMR (measles, mumps and rubella) vaccineThe MMR vaccine is not linked to autism. Research has shown there is no link between the MMR vacc...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/mmr-for-all-general-leaflet/mmr-for-all-general-guide" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">mmr for all general guide</span><span class="citation-popover-snippet">for all guide23 Dec 2025  The first dose is given at the age of 12 months and the second dose is given at 18 months or around 3 years an...</span></span></span>
+The first routine MMR dose is typically given at about 12 months of age, with a second dose later in early childhood. In the UK, the first dose is normally offered shortly after a child's first birthday, placing it directly in the middle of a period of rapid developmental change.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nhs.uk/vaccinations/mmr-vaccine/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nhs.uk">[nhs.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nhs.uk</span><span class="citation-popover-snippet">MMR (measles, mumps and rubella) vaccineThe MMR vaccine is not linked to autism. Research has shown there is no link between the MMR vacc...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/mmr-for-all-general-leaflet/mmr-for-all-general-guide" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">mmr for all general guide</span><span class="citation-popover-snippet">for all guide23 Dec 2025  The first dose is given at the age of 12 months and the second dose is given at 18 months or around 3 years an...</span></span></span>
 
-This timing is not arbitrary. The vaccine schedule is designed around when children's immune systems can respond effectively and when protection against measles, mumps and rubella becomes especially important. The schedule was not created around autism diagnosis patterns. Yet because vaccination is a memorable event  involving appointments, injections and often anxious anticipation  it becomes an easy point in time for parents to recall later. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.hey.nhs.uk/patient-leaflet/mmr-leaflets/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hey.nhs.uk">[nhs.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hey.nhs.uk</span><span class="citation-popover-snippet">MMR (measles, mumps and rubella) vaccine leaflets &#124; Hull...18 Mar 2024  Children should have their first MMR vaccine at 1 year o...</span></span></span>
+This timing is not arbitrary. The vaccine schedule is designed around when children's immune systems can respond effectively and when protection against measles, mumps and rubella becomes especially important. The schedule was not created around autism diagnosis patterns. Yet because vaccination is a memorable event  involving appointments, injections and often anxious anticipation  it becomes an easy point in time for parents to recall later.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.hey.nhs.uk/patient-leaflet/mmr-leaflets/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hey.nhs.uk">[nhs.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hey.nhs.uk</span><span class="citation-popover-snippet">MMR (measles, mumps and rubella) vaccine leaflets &#124; Hull...18 Mar 2024  Children should have their first MMR vaccine at 1 year o...</span></span></span>
 
 [Memory]({{ 'memory/' | relative_url }}) tends to organise life as a series of significant moments. A routine vaccination is far easier to remember than dozens of ordinary days of gradual developmental change. As a result, when concerns emerge later, the vaccine appointment can become a psychological marker that seems more important than it actually is.
 
 ## When Autism Signs Often Become Clearer
 
-Autism begins early in development, but the signs do not always become obvious at birth. Some children show noticeable differences during infancy, while others appear to meet many early milestones before developmental differences become more apparent in the second year of life. The CDC notes that some children show signs within the first year, while others may not show clearer symptoms until around 24 months or later. Some children also stop gaining certain skills or appear to lose previously acquired skills between roughly 18 and 24 months. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cdc.gov/vaccine-safety/[vaccines" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdc.gov">[CDC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdc.gov</span><span class="citation-popover-snippet">Measles, Mumps, Rubella (MMR) Vaccine Safety31 Jul 2024  Many carefully performed scientific studies have found no link between MMR v...</span></span></span>
+Autism begins early in development, but the signs do not always become obvious at birth. Some children show noticeable differences during infancy, while others appear to meet many early milestones before developmental differences become more apparent in the second year of life. The CDC notes that some children show signs within the first year, while others may not show clearer symptoms until around 24 months or later. Some children also stop gaining certain skills or appear to lose previously acquired skills between roughly 18 and 24 months.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cdc.gov/vaccine-safety/[vaccines" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdc.gov">[CDC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdc.gov</span><span class="citation-popover-snippet">Measles, Mumps, Rubella (MMR) Vaccine Safety31 Jul 2024  Many carefully performed scientific studies have found no link between MMR v...</span></span></span>
 
 The toddler years are also when social and communication expectations suddenly increase. Parents begin expecting their child to:
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
-* Respond consistently to their name. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.autismspecialtygroup.com/blog/autism-milestones-tracking-development-of-children-with-asd" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: autismspecialtygroup.com">[autismspecialtygroup.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">autismspecialtygroup.com</span><span class="citation-popover-title">autism milestones tracking development of children with asd</span><span class="citation-popover-snippet">Tracking Development of Children with ASD16 Sept 2025  Early Signs and Simple Milestones for Autism  Child does not respond to their na...</span></span></span>
+* Respond consistently to their name.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.autismspecialtygroup.com/blog/autism-milestones-tracking-development-of-children-with-asd" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: autismspecialtygroup.com">[autismspecialtygroup.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">autismspecialtygroup.com</span><span class="citation-popover-title">autism milestones tracking development of children with asd</span><span class="citation-popover-snippet">Tracking Development of Children with ASD16 Sept 2025  Early Signs and Simple Milestones for Autism  Child does not respond to their na...</span></span></span>
 * Use gestures and shared attention.
 * Develop spoken language.
 * Engage in pretend play.
-* Show growing social interaction with other people. <span class="citation-chip-wrap"><a class="citation-chip" href="https://autismcaretherapy.com/en/library/blogs/early-signs-of-autism-in-toddlers" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: autismcaretherapy.com">[autismcaretherapy.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">autismcaretherapy.com</span><span class="citation-popover-title">early signs of autism in toddlers</span><span class="citation-popover-snippet">Reduced Social Interaction. Many toddlers naturally begin to show interest in people through smiles, gestures, imitation, and social game...</span></span></span>
+* Show growing social interaction with other people.<span class="citation-chip-wrap"><a class="citation-chip" href="https://autismcaretherapy.com/en/library/blogs/early-signs-of-autism-in-toddlers" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: autismcaretherapy.com">[autismcaretherapy.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">autismcaretherapy.com</span><span class="citation-popover-title">early signs of autism in toddlers</span><span class="citation-popover-snippet">Reduced Social Interaction. Many toddlers naturally begin to show interest in people through smiles, gestures, imitation, and social game...</span></span></span>
 
 </div>
 
-Differences in these areas often become easier to notice precisely because developmental demands are increasing. A child who seemed simply quiet at nine months may appear markedly different from peers by eighteen months. A child who had a few words may stop progressing in the expected way. Behaviours that were previously subtle can become difficult to ignore. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cdc.gov/autism/about/index.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdc.gov">[CDC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdc.gov</span><span class="citation-popover-snippet">About Autism Spectrum Disorder3 days ago  Some children show ASD symptoms within the first 12 months of life. In others, symptoms may...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nhs.uk/conditions/autism/signs/children/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nhs.uk">[nhs.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nhs.uk</span><span class="citation-popover-snippet">of autism in childrenAutism in young children. Signs of autism in young children include: not responding to their name; avoiding eye cont...</span></span></span>
+Differences in these areas often become easier to notice precisely because developmental demands are increasing. A child who seemed simply quiet at nine months may appear markedly different from peers by eighteen months. A child who had a few words may stop progressing in the expected way. Behaviours that were previously subtle can become difficult to ignore.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cdc.gov/autism/about/index.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdc.gov">[CDC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdc.gov</span><span class="citation-popover-snippet">About Autism Spectrum Disorder3 days ago  Some children show ASD symptoms within the first 12 months of life. In others, symptoms may...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nhs.uk/conditions/autism/signs/children/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nhs.uk">[nhs.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nhs.uk</span><span class="citation-popover-snippet">of autism in childrenAutism in young children. Signs of autism in young children include: not responding to their name; avoiding eye cont...</span></span></span>
 
-Research on early development suggests that many autistic children already show measurable differences before the age at which parents commonly identify a problem. One study found observable differences in social communication by around nine months in infants later diagnosed with autism. In other words, developmental changes may already be unfolding before the MMR appointment takes place, even if they are not yet obvious to family members. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6768751/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCThe MMR Vaccine and Autism</span><span class="citation-popover-snippet">Combination MMR vaccines are live...Read more...</span></span></span>
+Research on early development suggests that many autistic children already show measurable differences before the age at which parents commonly identify a problem. One study found observable differences in social communication by around nine months in infants later diagnosed with autism. In other words, developmental changes may already be unfolding before the MMR appointment takes place, even if they are not yet obvious to family members.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6768751/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCThe MMR Vaccine and Autism</span><span class="citation-popover-snippet">Combination MMR vaccines are live...Read more...</span></span></span>
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_vaccine_autism_corre_58e816_mmr_toddler_timing_9893a7-Illustration-2-dark.svg" | relative_url }}" alt="Timing trap illustration 2" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_vaccine_autism_corre_58e816_mmr_toddler_timing_9893a7-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_vaccine_autism_corre_58e816_mmr_toddler_timing_9893a7-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How Sequence Becomes Mistaken Causation
@@ -316,19 +316,19 @@ This reasoning is often useful in everyday life. If someone eats spoiled food an
 
 Millions of children receive MMR during the same period in which autism traits commonly become more visible. Even if there were no relationship at all, many families would still experience the sequence of:
 
-1. MMR vaccination. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.england.nhs.uk/south/wp-content/uploads/sites/6/2024/03/SW-MMR-FAQs-v.4_07.03.24-FINAL.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: england.nhs.uk">[england.nhs.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">england.nhs.uk</span><span class="citation-popover-title">SW MMR FAQs v.4 07.03.24 FINAL</span><span class="citation-popover-snippet">MMR Vaccination FAQs1 Mar 2024   How do we know that the MMR vaccine doesn&#x27;t cause autism?...  Is aged less than 1 year (please note...</span></span></span>
+1. MMR vaccination.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.england.nhs.uk/south/wp-content/uploads/sites/6/2024/03/SW-MMR-FAQs-v.4_07.03.24-FINAL.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: england.nhs.uk">[england.nhs.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">england.nhs.uk</span><span class="citation-popover-title">SW MMR FAQs v.4 07.03.24 FINAL</span><span class="citation-popover-snippet">MMR Vaccination FAQs1 Mar 2024   How do we know that the MMR vaccine doesn&#x27;t cause autism?...  Is aged less than 1 year (please note...</span></span></span>
 2. Growing developmental concerns.
 3. Autism assessment or diagnosis.
 
-Because the sequence is real, it feels meaningful. What is misleading is the leap from "after" to "because of". Epidemiologists and statisticians have long recognised that apparent patterns emerge naturally whenever two common events occur in the same population at similar ages. One review discussing the controversy noted that the apparent onset of autism close to vaccination may represent a coincidental temporal association rather than evidence of causation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/11700148/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">The clinical evidence in support of an...Read more...</span></span></span>
+Because the sequence is real, it feels meaningful. What is misleading is the leap from "after" to "because of". Epidemiologists and statisticians have long recognised that apparent patterns emerge naturally whenever two common events occur in the same population at similar ages. One review discussing the controversy noted that the apparent onset of autism close to vaccination may represent a coincidental temporal association rather than evidence of causation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/11700148/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">The clinical evidence in support of an...Read more...</span></span></span>
 
-The emotional weight of the experience makes the effect stronger. Parents are not usually conducting formal scientific comparisons. They are trying to understand something important happening to their child. The mind naturally searches for turning points, triggers and explanations. A remembered vaccination appointment can seem like a clear dividing line between a "before" and an "after" even when developmental changes were already emerging gradually. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/11700148/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">The clinical evidence in support of an...Read more...</span></span></span>
+The emotional weight of the experience makes the effect stronger. Parents are not usually conducting formal scientific comparisons. They are trying to understand something important happening to their child. The mind naturally searches for turning points, triggers and explanations. A remembered vaccination appointment can seem like a clear dividing line between a "before" and an "after" even when developmental changes were already emerging gradually.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/11700148/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">The clinical evidence in support of an...Read more...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/uKEmuyBBieU" title="The Truth About RFK Jr.s &quot;Secret&quot; Vaccine Meeting (Simpsonwood 2000)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=uKEmuyBBieU" target="_blank" rel="noopener noreferrer">The Truth About RFK Jr.s &quot;Secret&quot; Vaccine Meeting (Simpsonwood 2000)</a></p><p class="youtube-embed-meta">Channel: PedsDocTalk &middot; Views: 2.0K &middot; Uploaded: August 2025 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=uKEmuyBBieU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=uKEmuyBBieU">Open on YouTube</a></p></div></div></div>
 
 ## Why Personal Experience Can Feel Stronger Than Population Evidence
 
-Population studies compare hundreds of thousands or even millions of children to determine whether autism occurs more often in vaccinated groups than in unvaccinated groups. These studies consistently fail to find an increased autism risk from MMR vaccination. CDC <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gavi.org/vaccineswork/can-mmr-vaccines-cause-autism" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gavi.org">[Gavi]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gavi.org</span><span class="citation-popover-title">can mmr vaccines cause autism</span><span class="citation-popover-snippet">?10 Sept 2025  This 2019 study of more than 650,000 children found no increased autism risk in those who received the MMR-vaccine  incl...</span></span></span>
+Population studies compare hundreds of thousands or even millions of children to determine whether autism occurs more often in vaccinated groups than in unvaccinated groups. These studies consistently fail to find an increased autism risk from MMR vaccination. CDC<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gavi.org/vaccineswork/can-mmr-vaccines-cause-autism" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gavi.org">[Gavi]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gavi.org</span><span class="citation-popover-title">can mmr vaccines cause autism</span><span class="citation-popover-snippet">?10 Sept 2025  This 2019 study of more than 650,000 children found no increased autism risk in those who received the MMR-vaccine  incl...</span></span></span>
 
 Yet personal experience operates differently from statistical evidence. A parent does not experience a population. They experience one child.
 
@@ -339,199 +339,199 @@ This is why the timing trap is so powerful. It does not depend on fabricated eve
 * The age when children routinely receive MMR.
 * The age when autism often becomes easier to recognise.
 
-When those timelines intersect, the resulting story can feel self-evident even when broader evidence shows that the apparent connection is misleading. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cdc.gov/autism/signs-symptoms/index.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdc.gov">[CDC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdc.gov</span><span class="citation-popover-snippet">Signs and Symptoms of Autism Spectrum Disorder16 May 2024  Avoids or does not keep eye contact  Does not respond to name by 9 months...</span><span class="citation-popover-meta">Published: May 2024</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.england.nhs.uk/south/wp-content/uploads/sites/6/2024/03/SW-MMR-FAQs-v.4_07.03.24-FINAL.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: england.nhs.uk">[nhs.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">england.nhs.uk</span><span class="citation-popover-title">SW MMR FAQs v.4 07.03.24 FINAL</span><span class="citation-popover-snippet">MMR Vaccination FAQs1 Mar 2024   How do we know that the MMR vaccine doesn&#x27;t cause autism?...  Is aged less than 1 year (please note...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cdc.gov/act-early/milestones/index.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdc.gov">[CDC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdc.gov</span><span class="citation-popover-title">s Developmental Milestones &#124; Learn the Signs</span><span class="citation-popover-snippet">Act...16 Feb 2026  Skills such as taking a first step, smiling for the first time, and waving bye bye are called developmental milest...</span></span></span>
+When those timelines intersect, the resulting story can feel self-evident even when broader evidence shows that the apparent connection is misleading.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cdc.gov/autism/signs-symptoms/index.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdc.gov">[CDC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdc.gov</span><span class="citation-popover-snippet">Signs and Symptoms of Autism Spectrum Disorder16 May 2024  Avoids or does not keep eye contact  Does not respond to name by 9 months...</span><span class="citation-popover-meta">Published: May 2024</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.england.nhs.uk/south/wp-content/uploads/sites/6/2024/03/SW-MMR-FAQs-v.4_07.03.24-FINAL.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: england.nhs.uk">[nhs.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">england.nhs.uk</span><span class="citation-popover-title">SW MMR FAQs v.4 07.03.24 FINAL</span><span class="citation-popover-snippet">MMR Vaccination FAQs1 Mar 2024   How do we know that the MMR vaccine doesn&#x27;t cause autism?...  Is aged less than 1 year (please note...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cdc.gov/act-early/milestones/index.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdc.gov">[CDC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdc.gov</span><span class="citation-popover-title">s Developmental Milestones &#124; Learn the Signs</span><span class="citation-popover-snippet">Act...16 Feb 2026  Skills such as taking a first step, smiling for the first time, and waving bye bye are called developmental milest...</span></span></span>
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_vaccine_autism_corre_58e816_mmr_toddler_timing_9893a7-Illustration-3-dark.svg" | relative_url }}" alt="Timing trap illustration 3" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_vaccine_autism_corre_58e816_mmr_toddler_timing_9893a7-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_vaccine_autism_corre_58e816_mmr_toddler_timing_9893a7-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why The Timing Can Feel So Convincing. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why The Timing Can Feel So Convincing. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Autism%27s+false+prophets&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Autism&#x27;s false prophets on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/7141684-M.jpg" alt="Cover for Autism&#x27;s false prophets" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Autism%27s+false+prophets&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Autism&#x27;s false prophets">Autism&#x27;s false prophets</a>
-        </h4>
-        <p class="fr-book-author">By Unknown author</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Autism%27s+false+prophets&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Autism&#x27;s false prophets on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/7141684-M.jpg" alt="Cover for Autism&#x27;s false prophets" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Autism%27s+false+prophets&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Autism&#x27;s false prophets">Autism&#x27;s false prophets</a>
+</h4>
+<p class="fr-book-author">By Unknown author</p>
         
-        <p class="fr-book-desc">Directly explains the MMR-autism controversy and why timing-based assumptions became persuasive.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Autism%27s+false+prophets&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly explains the MMR-autism controversy and why timing-based assumptions became persuasive.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Autism%27s+false+prophets&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Neurotribes+Steve+Silberman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Neurotribes on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10738693-M.jpg" alt="Cover for Neurotribes" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Neurotribes+Steve+Silberman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Neurotribes">Neurotribes</a>
-        </h4>
-        <p class="fr-book-author">By Steve Silberman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Neurotribes+Steve+Silberman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Neurotribes on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10738693-M.jpg" alt="Cover for Neurotribes" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Neurotribes+Steve+Silberman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Neurotribes">Neurotribes</a>
+</h4>
+<p class="fr-book-author">By Steve Silberman</p>
         
-        <p class="fr-book-desc">Provides broader context on autism recognition and diagnosis.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Neurotribes+Steve+Silberman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides broader context on autism recognition and diagnosis.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Neurotribes+Steve+Silberman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+panic+virus+Seth+Mnookin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The panic virus on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9547196-M.jpg" alt="Cover for The panic virus" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+panic+virus+Seth+Mnookin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The panic virus">The panic virus</a>
-        </h4>
-        <p class="fr-book-author">By Seth Mnookin</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+panic+virus+Seth+Mnookin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The panic virus on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9547196-M.jpg" alt="Cover for The panic virus" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+panic+virus+Seth+Mnookin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The panic virus">The panic virus</a>
+</h4>
+<p class="fr-book-author">By Seth Mnookin</p>
         
-        <p class="fr-book-desc">First published 2011. Subjects: Vaccination, Mass media and culture, Health behavior, History, Psychological aspects.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+panic+virus+Seth+Mnookin&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2011. Subjects: Vaccination, Mass media and culture, Health behavior, History, Psychological aspects.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+panic+virus+Seth+Mnookin&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Vaccines+and+Your+Family+-+Separating+Fact+from+Fiction+Paul+Offit&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Vaccines and Your Family - Separating Fact from Fiction on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Vaccines+and+Your+Family+-+Separating+Fact+from+Fiction+Paul+Offit&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Vaccines and Your Family - Separating Fact from Fiction">Vaccines and Your Family - Separating Fact from Fiction</a>
-        </h4>
-        <p class="fr-book-author">By Paul Offit, Charlotte Moser</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Vaccines+and+Your+Family+-+Separating+Fact+from+Fiction+Paul+Offit&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Vaccines and Your Family - Separating Fact from Fiction on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Vaccines+and+Your+Family+-+Separating+Fact+from+Fiction+Paul+Offit&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Vaccines and Your Family - Separating Fact from Fiction">Vaccines and Your Family - Separating Fact from Fiction</a>
+</h4>
+<p class="fr-book-author">By Paul Offit, Charlotte Moser</p>
         
-        <p class="fr-book-desc">First published 2024. Subjects: Public health.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Vaccines+and+Your+Family+-+Separating+Fact+from+Fiction+Paul+Offit&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2024. Subjects: Public health.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Vaccines+and+Your+Family+-+Separating+Fact+from+Fiction+Paul+Offit&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Autism%27s+false+prophets&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Autism&#x27;s false prophets</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Neurotribes&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Neurotribes</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+panic+virus&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The panic virus</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Autism%27s+false+prophets&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Autism&#x27;s false prophets</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Neurotribes&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Neurotribes</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+panic+virus&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The panic virus</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timing-trap-49e224-why-the-timing-can-feel-so-convincing-myths-and-misconcept-educational-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational wall art" data-ebay-reference="timing-trap-49e224-why-the-timing-can-feel-so-convincing-myths-and-misconcept-educational-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UK Map of England, Wales, Political Educational Poster,Canvas or Framed Wall Art"><img src="{{ '/assets/images/marketplace-covers/de97247c6eab2280989b.jpg' | relative_url }}" alt="Listing image for UK Map of England, Wales, Political Educational Poster,Canvas or Framed Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timing-trap-49e224-why-the-timing-can-feel-so-convincing-myths-and-misconcept-educational-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational wall art" data-ebay-reference="timing-trap-49e224-why-the-timing-can-feel-so-convincing-myths-and-misconcept-educational-wall-art" target="_blank" rel="sponsored noopener noreferrer">UK Map of England, Wales, Political Educational Poster,Canvas or Framed Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timing-trap-49e224-why-the-timing-can-feel-so-convincing-myths-and-misconcept-educational-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational wall art" data-ebay-reference="timing-trap-49e224-why-the-timing-can-feel-so-convincing-myths-and-misconcept-educational-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for educational wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: educational wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timing-trap-49e224-why-the-timing-can-feel-so-convincing-myths-and-misconcept-educational-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational wall art" data-ebay-reference="timing-trap-49e224-why-the-timing-can-feel-so-convincing-myths-and-misconcept-educational-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timing-trap-49e224-why-the-timing-can-feel-so-convincing-myths-and-misconcept-educational-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational wall art" data-ebay-reference="timing-trap-49e224-why-the-timing-can-feel-so-convincing-myths-and-misconcept-educational-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UK Map of England, Wales, Political Educational Poster,Canvas or Framed Wall Art"><img src="{{ '/assets/images/marketplace-covers/de97247c6eab2280989b.jpg' | relative_url }}" alt="Listing image for UK Map of England, Wales, Political Educational Poster,Canvas or Framed Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timing-trap-49e224-why-the-timing-can-feel-so-convincing-myths-and-misconcept-educational-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational wall art" data-ebay-reference="timing-trap-49e224-why-the-timing-can-feel-so-convincing-myths-and-misconcept-educational-wall-art" target="_blank" rel="sponsored noopener noreferrer">UK Map of England, Wales, Political Educational Poster,Canvas or Framed Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timing-trap-49e224-why-the-timing-can-feel-so-convincing-myths-and-misconcept-educational-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational wall art" data-ebay-reference="timing-trap-49e224-why-the-timing-can-feel-so-convincing-myths-and-misconcept-educational-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for educational wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: educational wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timing-trap-49e224-why-the-timing-can-feel-so-convincing-myths-and-misconcept-educational-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational wall art" data-ebay-reference="timing-trap-49e224-why-the-timing-can-feel-so-convincing-myths-and-misconcept-educational-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timing-trap-49e224-why-the-timing-can-feel-so-convincing-myths-and-misconcept-educational-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational wall art" data-ebay-reference="timing-trap-49e224-why-the-timing-can-feel-so-convincing-myths-and-misconcept-educational-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Phonetic Alphabet International Educational Wall Art Informative Poster Art"><img src="{{ '/assets/images/marketplace-covers/12b10553b466e800245e.jpg' | relative_url }}" alt="Listing image for Phonetic Alphabet International Educational Wall Art Informative Poster Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timing-trap-49e224-why-the-timing-can-feel-so-convincing-myths-and-misconcept-educational-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational wall art" data-ebay-reference="timing-trap-49e224-why-the-timing-can-feel-so-convincing-myths-and-misconcept-educational-wall-art" target="_blank" rel="sponsored noopener noreferrer">Phonetic Alphabet International Educational Wall Art Informative Poster Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timing-trap-49e224-why-the-timing-can-feel-so-convincing-myths-and-misconcept-educational-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational wall art" data-ebay-reference="timing-trap-49e224-why-the-timing-can-feel-so-convincing-myths-and-misconcept-educational-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for educational wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: educational wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timing-trap-49e224-why-the-timing-can-feel-so-convincing-myths-and-misconcept-educational-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational wall art" data-ebay-reference="timing-trap-49e224-why-the-timing-can-feel-so-convincing-myths-and-misconcept-educational-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timing-trap-49e224-why-the-timing-can-feel-so-convincing-myths-and-misconcept-educational-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational wall art" data-ebay-reference="timing-trap-49e224-why-the-timing-can-feel-so-convincing-myths-and-misconcept-educational-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Phonetic Alphabet International Educational Wall Art Informative Poster Art"><img src="{{ '/assets/images/marketplace-covers/12b10553b466e800245e.jpg' | relative_url }}" alt="Listing image for Phonetic Alphabet International Educational Wall Art Informative Poster Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timing-trap-49e224-why-the-timing-can-feel-so-convincing-myths-and-misconcept-educational-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational wall art" data-ebay-reference="timing-trap-49e224-why-the-timing-can-feel-so-convincing-myths-and-misconcept-educational-wall-art" target="_blank" rel="sponsored noopener noreferrer">Phonetic Alphabet International Educational Wall Art Informative Poster Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timing-trap-49e224-why-the-timing-can-feel-so-convincing-myths-and-misconcept-educational-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational wall art" data-ebay-reference="timing-trap-49e224-why-the-timing-can-feel-so-convincing-myths-and-misconcept-educational-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for educational wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: educational wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timing-trap-49e224-why-the-timing-can-feel-so-convincing-myths-and-misconcept-educational-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational wall art" data-ebay-reference="timing-trap-49e224-why-the-timing-can-feel-so-convincing-myths-and-misconcept-educational-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timing-trap-49e224-why-the-timing-can-feel-so-convincing-myths-and-misconcept-educational-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational wall art" data-ebay-reference="timing-trap-49e224-why-the-timing-can-feel-so-convincing-myths-and-misconcept-educational-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UK Map Posters – England &amp; Wales, Educational Wall Art, Framed, Canvas, Print"><img src="{{ '/assets/images/marketplace-covers/d35735397948982a1832.jpg' | relative_url }}" alt="Listing image for UK Map Posters – England &amp; Wales, Educational Wall Art, Framed, Canvas, Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timing-trap-49e224-why-the-timing-can-feel-so-convincing-myths-and-misconcept-educational-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational wall art" data-ebay-reference="timing-trap-49e224-why-the-timing-can-feel-so-convincing-myths-and-misconcept-educational-wall-art" target="_blank" rel="sponsored noopener noreferrer">UK Map Posters – England &amp; Wales, Educational Wall Art, Framed, Canvas, Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timing-trap-49e224-why-the-timing-can-feel-so-convincing-myths-and-misconcept-educational-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational wall art" data-ebay-reference="timing-trap-49e224-why-the-timing-can-feel-so-convincing-myths-and-misconcept-educational-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for educational wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: educational wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timing-trap-49e224-why-the-timing-can-feel-so-convincing-myths-and-misconcept-educational-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational wall art" data-ebay-reference="timing-trap-49e224-why-the-timing-can-feel-so-convincing-myths-and-misconcept-educational-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timing-trap-49e224-why-the-timing-can-feel-so-convincing-myths-and-misconcept-educational-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational wall art" data-ebay-reference="timing-trap-49e224-why-the-timing-can-feel-so-convincing-myths-and-misconcept-educational-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UK Map Posters – England &amp; Wales, Educational Wall Art, Framed, Canvas, Print"><img src="{{ '/assets/images/marketplace-covers/d35735397948982a1832.jpg' | relative_url }}" alt="Listing image for UK Map Posters – England &amp; Wales, Educational Wall Art, Framed, Canvas, Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timing-trap-49e224-why-the-timing-can-feel-so-convincing-myths-and-misconcept-educational-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational wall art" data-ebay-reference="timing-trap-49e224-why-the-timing-can-feel-so-convincing-myths-and-misconcept-educational-wall-art" target="_blank" rel="sponsored noopener noreferrer">UK Map Posters – England &amp; Wales, Educational Wall Art, Framed, Canvas, Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timing-trap-49e224-why-the-timing-can-feel-so-convincing-myths-and-misconcept-educational-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational wall art" data-ebay-reference="timing-trap-49e224-why-the-timing-can-feel-so-convincing-myths-and-misconcept-educational-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for educational wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: educational wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timing-trap-49e224-why-the-timing-can-feel-so-convincing-myths-and-misconcept-educational-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational wall art" data-ebay-reference="timing-trap-49e224-why-the-timing-can-feel-so-convincing-myths-and-misconcept-educational-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timing-trap-49e224-why-the-timing-can-feel-so-convincing-myths-and-misconcept-educational-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational wall art" data-ebay-reference="timing-trap-49e224-why-the-timing-can-feel-so-convincing-myths-and-misconcept-educational-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Dinosaur Educational Poster For Kids Classroom Wall Art Learning Chart T-Rex"><img src="{{ '/assets/images/marketplace-covers/13ed7e0dd3f20d3f15b1.jpg' | relative_url }}" alt="Listing image for Dinosaur Educational Poster For Kids Classroom Wall Art Learning Chart T-Rex" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timing-trap-49e224-why-the-timing-can-feel-so-convincing-myths-and-misconcept-educational-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational wall art" data-ebay-reference="timing-trap-49e224-why-the-timing-can-feel-so-convincing-myths-and-misconcept-educational-wall-art" target="_blank" rel="sponsored noopener noreferrer">Dinosaur Educational Poster For Kids Classroom Wall Art Learning Chart T-Rex</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timing-trap-49e224-why-the-timing-can-feel-so-convincing-myths-and-misconcept-educational-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational wall art" data-ebay-reference="timing-trap-49e224-why-the-timing-can-feel-so-convincing-myths-and-misconcept-educational-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for educational wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: educational wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timing-trap-49e224-why-the-timing-can-feel-so-convincing-myths-and-misconcept-educational-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational wall art" data-ebay-reference="timing-trap-49e224-why-the-timing-can-feel-so-convincing-myths-and-misconcept-educational-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timing-trap-49e224-why-the-timing-can-feel-so-convincing-myths-and-misconcept-educational-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational wall art" data-ebay-reference="timing-trap-49e224-why-the-timing-can-feel-so-convincing-myths-and-misconcept-educational-wall-art" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timing-trap-49e224-why-the-timing-can-feel-so-convincing-myths-and-misconcept-educational-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational wall art" data-ebay-reference="timing-trap-49e224-why-the-timing-can-feel-so-convincing-myths-and-misconcept-educational-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Dinosaur Educational Poster For Kids Classroom Wall Art Learning Chart T-Rex"><img src="{{ '/assets/images/marketplace-covers/13ed7e0dd3f20d3f15b1.jpg' | relative_url }}" alt="Listing image for Dinosaur Educational Poster For Kids Classroom Wall Art Learning Chart T-Rex" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timing-trap-49e224-why-the-timing-can-feel-so-convincing-myths-and-misconcept-educational-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational wall art" data-ebay-reference="timing-trap-49e224-why-the-timing-can-feel-so-convincing-myths-and-misconcept-educational-wall-art" target="_blank" rel="sponsored noopener noreferrer">Dinosaur Educational Poster For Kids Classroom Wall Art Learning Chart T-Rex</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timing-trap-49e224-why-the-timing-can-feel-so-convincing-myths-and-misconcept-educational-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational wall art" data-ebay-reference="timing-trap-49e224-why-the-timing-can-feel-so-convincing-myths-and-misconcept-educational-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for educational wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: educational wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timing-trap-49e224-why-the-timing-can-feel-so-convincing-myths-and-misconcept-educational-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational wall art" data-ebay-reference="timing-trap-49e224-why-the-timing-can-feel-so-convincing-myths-and-misconcept-educational-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timing-trap-49e224-why-the-timing-can-feel-so-convincing-myths-and-misconcept-educational-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational wall art" data-ebay-reference="timing-trap-49e224-why-the-timing-can-feel-so-convincing-myths-and-misconcept-educational-wall-art" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -547,7 +547,7 @@ When those timelines intersect, the resulting story can feel self-evident even w
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -567,7 +567,7 @@ When those timelines intersect, the resulting story can feel self-evident even w
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -599,7 +599,7 @@ When those timelines intersect, the resulting story can feel self-evident even w
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -651,7 +651,7 @@ When those timelines intersect, the resulting story can feel self-evident even w
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -696,7 +696,7 @@ When those timelines intersect, the resulting story can feel self-evident even w
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -737,226 +737,226 @@ When those timelines intersect, the resulting story can feel self-evident even w
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: cdc.gov  
-   Link: <a href="https://www.cdc.gov/vaccine-safety/[vaccines" target="_blank" rel="noopener noreferrer nofollow">https://www.cdc.gov/vaccine-safety/[vaccines</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Measles, Mumps, Rubella (MMR) Vaccine Safety31 Jul 2024  Many carefully performed scientific studies have found no link between MMR v...</p></details>
+   Link:<a href="https://www.cdc.gov/vaccine-safety/[vaccines" target="_blank" rel="noopener noreferrer nofollow">https://www.cdc.gov/vaccine-safety/[vaccines</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Measles, Mumps, Rubella (MMR) Vaccine Safety31 Jul 2024  Many carefully performed scientific studies have found no link between MMR v...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: gavi.org  
    Title: can mmr vaccines cause autism  
-   Link: <a href="https://www.gavi.org/vaccineswork/can-mmr-vaccines-cause-autism" target="_blank" rel="noopener noreferrer nofollow">https://www.gavi.org/vaccineswork/can-mmr-vaccines-cause-autism</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>?10 Sept 2025  This 2019 study of more than 650,000 children found no increased autism risk in those who received the MMR-vaccine  incl...</p></details>
+   Link:<a href="https://www.gavi.org/vaccineswork/can-mmr-vaccines-cause-autism" target="_blank" rel="noopener noreferrer nofollow">https://www.gavi.org/vaccineswork/can-mmr-vaccines-cause-autism</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>?10 Sept 2025  This 2019 study of more than 650,000 children found no increased autism risk in those who received the MMR-vaccine  incl...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: nhs.uk  
-   Link: <a href="https://www.nhs.uk/vaccinations/mmr-vaccine/" target="_blank" rel="noopener noreferrer nofollow">https://www.nhs.uk/vaccinations/mmr-vaccine/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>MMR (measles, mumps and rubella) vaccineThe MMR vaccine is not linked to autism. Research has shown there is no link between the MMR vacc...</p></details>
+   Link:<a href="https://www.nhs.uk/vaccinations/mmr-vaccine/" target="_blank" rel="noopener noreferrer nofollow">https://www.nhs.uk/vaccinations/mmr-vaccine/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>MMR (measles, mumps and rubella) vaccineThe MMR vaccine is not linked to autism. Research has shown there is no link between the MMR vacc...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: GOV.UK  
    Title: mmr for all general guide  
-   Link: <a href="https://www.gov.uk/government/publications/mmr-for-all-general-leaflet/mmr-for-all-general-guide" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/mmr-for-all-general-leaflet/mmr-for-all-general-guide</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>for all guide23 Dec 2025  The first dose is given at the age of 12 months and the second dose is given at 18 months or around 3 years an...</p></details>
+   Link:<a href="https://www.gov.uk/government/publications/mmr-for-all-general-leaflet/mmr-for-all-general-guide" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/mmr-for-all-general-leaflet/mmr-for-all-general-guide</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>for all guide23 Dec 2025  The first dose is given at the age of 12 months and the second dose is given at 18 months or around 3 years an...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: hey.nhs.uk  
-   Link: <a href="https://www.hey.nhs.uk/patient-leaflet/mmr-leaflets/" target="_blank" rel="noopener noreferrer nofollow">https://www.hey.nhs.uk/patient-leaflet/mmr-leaflets/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>MMR (measles, mumps and rubella) vaccine leaflets | Hull...18 Mar 2024  Children should have their first MMR vaccine at 1 year o...</p></details>
+   Link:<a href="https://www.hey.nhs.uk/patient-leaflet/mmr-leaflets/" target="_blank" rel="noopener noreferrer nofollow">https://www.hey.nhs.uk/patient-leaflet/mmr-leaflets/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>MMR (measles, mumps and rubella) vaccine leaflets | Hull...18 Mar 2024  Children should have their first MMR vaccine at 1 year o...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCThe MMR Vaccine and Autism  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6768751/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC6768751/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Combination MMR vaccines are live...Read more...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6768751/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC6768751/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Combination MMR vaccines are live...Read more...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: cdc.gov  
-   Link: <a href="https://www.cdc.gov/autism/about/index.html" target="_blank" rel="noopener noreferrer nofollow">https://www.cdc.gov/autism/about/index.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>About Autism Spectrum Disorder3 days ago  Some children show ASD symptoms within the first 12 months of life. In others, symptoms may...</p></details>
+   Link:<a href="https://www.cdc.gov/autism/about/index.html" target="_blank" rel="noopener noreferrer nofollow">https://www.cdc.gov/autism/about/index.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>About Autism Spectrum Disorder3 days ago  Some children show ASD symptoms within the first 12 months of life. In others, symptoms may...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: cdc.gov  
-   Link: <a href="https://www.cdc.gov/autism/signs-symptoms/index.html" target="_blank" rel="noopener noreferrer nofollow">https://www.cdc.gov/autism/signs-symptoms/index.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Signs and Symptoms of Autism Spectrum Disorder16 May 2024  Avoids or does not keep eye contact  Does not respond to name by 9 months...</p></details>
+   Link:<a href="https://www.cdc.gov/autism/signs-symptoms/index.html" target="_blank" rel="noopener noreferrer nofollow">https://www.cdc.gov/autism/signs-symptoms/index.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Signs and Symptoms of Autism Spectrum Disorder16 May 2024  Avoids or does not keep eye contact  Does not respond to name by 9 months...</p></details>
    Published: May 2024  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: nhs.uk  
-   Link: <a href="https://www.nhs.uk/conditions/autism/signs/children/" target="_blank" rel="noopener noreferrer nofollow">https://www.nhs.uk/conditions/autism/signs/children/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>of autism in childrenAutism in young children. Signs of autism in young children include: not responding to their name; avoiding eye cont...</p></details>
+   Link:<a href="https://www.nhs.uk/conditions/autism/signs/children/" target="_blank" rel="noopener noreferrer nofollow">https://www.nhs.uk/conditions/autism/signs/children/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>of autism in childrenAutism in young children. Signs of autism in young children include: not responding to their name; avoiding eye cont...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: cdc.gov  
    Title: 's Developmental Milestones | Learn the Signs  
-   Link: <a href="https://www.cdc.gov/act-early/milestones/index.html" target="_blank" rel="noopener noreferrer nofollow">https://www.cdc.gov/act-early/milestones/index.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Act...16 Feb 2026  Skills such as taking a first step, smiling for the first time, and waving bye bye are called developmental milest...</p></details>
+   Link:<a href="https://www.cdc.gov/act-early/milestones/index.html" target="_blank" rel="noopener noreferrer nofollow">https://www.cdc.gov/act-early/milestones/index.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Act...16 Feb 2026  Skills such as taking a first step, smiling for the first time, and waving bye bye are called developmental milest...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8935345/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8935345/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Early Social Communication Development in Infants with...by J Bradshaw  2021  Cited by 77  Results demonstrate that infants later...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8935345/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8935345/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Early Social Communication Development in Infants with...by J Bradshaw  2021  Cited by 77  Results demonstrate that infants later...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: cdc.gov  
-   Link: <a href="https://www.cdc.gov/ncbddd/actearly/autism/curriculum/documents/early-warning-signs-autism_508.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cdc.gov/ncbddd/actearly/autism/curriculum/documents/early-warning-signs-autism_508.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>1.2 It is evident that Elizabeth is concerned about Mark&#x27;s shy manner. What are...Read more...</p></details>
+   Link:<a href="https://www.cdc.gov/ncbddd/actearly/autism/curriculum/documents/early-warning-signs-autism_508.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cdc.gov/ncbddd/actearly/autism/curriculum/documents/early-warning-signs-autism_508.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>1.2 It is evident that Elizabeth is concerned about Mark&#x27;s shy manner. What are...Read more...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: cdc.gov  
-   Link: <a href="https://www.cdc.gov/index.html" target="_blank" rel="noopener noreferrer nofollow">https://www.cdc.gov/index.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Centers for Disease Control and PreventionCDC is the nation&#x27;s leading science-based, data-driven, service organization that protects...</p></details>
+   Link:<a href="https://www.cdc.gov/index.html" target="_blank" rel="noopener noreferrer nofollow">https://www.cdc.gov/index.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Centers for Disease Control and PreventionCDC is the nation&#x27;s leading science-based, data-driven, service organization that protects...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: cdc.gov  
    Title: Andes Virus Outbreak on a Cruise Ship: Current Situation | Hantavirus  
-   Link: <a href="https://www.cdc.gov/hantavirus/situation-summary/index.html" target="_blank" rel="noopener noreferrer nofollow">https://www.cdc.gov/hantavirus/situation-summary/index.html</a>  
+   Link:<a href="https://www.cdc.gov/hantavirus/situation-summary/index.html" target="_blank" rel="noopener noreferrer nofollow">https://www.cdc.gov/hantavirus/situation-summary/index.html</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: cdc.gov  
-   Link: <a href="https://www.cdc.gov/vaccine-safety/about/autism.html" target="_blank" rel="noopener noreferrer nofollow">https://www.cdc.gov/vaccine-safety/about/autism.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>and Vaccines19 Nov 2025  Scientific studies have not ruled out the possibility that infant vaccines contribute to the development of aut...</p></details>
+   Link:<a href="https://www.cdc.gov/vaccine-safety/about/autism.html" target="_blank" rel="noopener noreferrer nofollow">https://www.cdc.gov/vaccine-safety/about/autism.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>and Vaccines19 Nov 2025  Scientific studies have not ruled out the possibility that infant vaccines contribute to the development of aut...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: england.nhs.uk  
    Title: SW MMR FAQs v.4 07.03.24 FINAL  
-   Link: <a href="https://www.england.nhs.uk/south/wp-content/uploads/sites/6/2024/03/SW-MMR-FAQs-v.4_07.03.24-FINAL.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.england.nhs.uk/south/wp-content/uploads/sites/6/2024/03/SW-MMR-FAQs-v.4_07.03.24-FINAL.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>MMR Vaccination FAQs1 Mar 2024   How do we know that the MMR vaccine doesn&#x27;t cause autism?...  Is aged less than 1 year (please note...</p></details>
+   Link:<a href="https://www.england.nhs.uk/south/wp-content/uploads/sites/6/2024/03/SW-MMR-FAQs-v.4_07.03.24-FINAL.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.england.nhs.uk/south/wp-content/uploads/sites/6/2024/03/SW-MMR-FAQs-v.4_07.03.24-FINAL.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>MMR Vaccination FAQs1 Mar 2024   How do we know that the MMR vaccine doesn&#x27;t cause autism?...  Is aged less than 1 year (please note...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: GOV.UK  
-   Link: <a href="https://www.gov.uk/government/publications/a-guide-to-immunisations-for-babies-up-to-13-months-of-age/a-guide-to-immunisation-for-babies-up-to-13-months-of-age-for-children-born-on-or-after-1-july-2024" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/a-guide-to-immunisations-for-babies-up-to-13-months-of-age/a-guide-to-immunisation-for-babies-up-to-13-months-of-age-for-children-born-on-or-after-1-july-2024</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>guide to immunisation for babies up to 13 months of ageJan 23, 2026  Your child should be vaccinated with their first dose of MMRV vacci...</p></details>
+   Link:<a href="https://www.gov.uk/government/publications/a-guide-to-immunisations-for-babies-up-to-13-months-of-age/a-guide-to-immunisation-for-babies-up-to-13-months-of-age-for-children-born-on-or-after-1-july-2024" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/a-guide-to-immunisations-for-babies-up-to-13-months-of-age/a-guide-to-immunisation-for-babies-up-to-13-months-of-age-for-children-born-on-or-after-1-july-2024</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>guide to immunisation for babies up to 13 months of ageJan 23, 2026  Your child should be vaccinated with their first dose of MMRV vacci...</p></details>
    Published: july 2024  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: GOV.UK  
    Title: immunisations between 12 and 13 months of age  
-   Link: <a href="https://www.gov.uk/government/publications/immunisations-between-12-and-13-months-of-age" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/immunisations-between-12-and-13-months-of-age</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>at one year of ageThis leaflet features the immunisation schedule from January 2026. You can view, download, or order printed copies of t...</p></details>
+   Link:<a href="https://www.gov.uk/government/publications/immunisations-between-12-and-13-months-of-age" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/immunisations-between-12-and-13-months-of-age</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>at one year of ageThis leaflet features the immunisation schedule from January 2026. You can view, download, or order printed copies of t...</p></details>
    Published: January 2026  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: ukhsa.blog.gov.uk  
    Title: what is the mmrv vaccine and is my child eligible  
-   Link: <a href="https://ukhsa.blog.gov.uk/2025/12/17/what-is-the-mmrv-vaccine-and-is-my-child-eligible/" target="_blank" rel="noopener noreferrer nofollow">https://ukhsa.blog.gov.uk/2025/12/17/what-is-the-mmrv-vaccine-and-is-my-child-eligible/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Most children in this age group will...Read more...</p></details>
+   Link:<a href="https://ukhsa.blog.gov.uk/2025/12/17/what-is-the-mmrv-vaccine-and-is-my-child-eligible/" target="_blank" rel="noopener noreferrer nofollow">https://ukhsa.blog.gov.uk/2025/12/17/what-is-the-mmrv-vaccine-and-is-my-child-eligible/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Most children in this age group will...Read more...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: ukhsa.blog.gov.uk  
    Title: changes to the childhood vaccination schedule from january 2026  
-   Link: <a href="https://ukhsa.blog.gov.uk/2025/12/30/changes-to-the-childhood-vaccination-schedule-from-january-2026/" target="_blank" rel="noopener noreferrer nofollow">https://ukhsa.blog.gov.uk/2025/12/30/changes-to-the-childhood-vaccination-schedule-from-january-2026/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A single MMRV...Read more...</p></details>
+   Link:<a href="https://ukhsa.blog.gov.uk/2025/12/30/changes-to-the-childhood-vaccination-schedule-from-january-2026/" target="_blank" rel="noopener noreferrer nofollow">https://ukhsa.blog.gov.uk/2025/12/30/changes-to-the-childhood-vaccination-schedule-from-january-2026/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A single MMRV...Read more...</p></details>
    Published: january 2026  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: nhs.uk  
-   Link: <a href="https://www.nhs.uk/vaccinations/4-in-1-preschool-booster-vaccine/" target="_blank" rel="noopener noreferrer nofollow">https://www.nhs.uk/vaccinations/4-in-1-preschool-booster-vaccine/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>www.nhs.uk4-in-1 pre-school booster vaccineThe 4-in-1 pre-school booster helps protect against serious illnesses such as polio and tetanu...</p></details>
+   Link:<a href="https://www.nhs.uk/vaccinations/4-in-1-preschool-booster-vaccine/" target="_blank" rel="noopener noreferrer nofollow">https://www.nhs.uk/vaccinations/4-in-1-preschool-booster-vaccine/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>www.nhs.uk4-in-1 pre-school booster vaccineThe 4-in-1 pre-school booster helps protect against serious illnesses such as polio and tetanu...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: nhs.uk  
-   Link: <a href="https://www.nhs.uk/vaccinations/why-vaccination-is-important-and-the-safest-way-to-protect-yourself/" target="_blank" rel="noopener noreferrer nofollow">https://www.nhs.uk/vaccinations/why-vaccination-is-important-and-the-safest-way-to-protect-yourself/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>vaccination is important and the safest way to protect...If 95% of children receive the MMR vaccine, this would stop measles spreading c...</p></details>
+   Link:<a href="https://www.nhs.uk/vaccinations/why-vaccination-is-important-and-the-safest-way-to-protect-yourself/" target="_blank" rel="noopener noreferrer nofollow">https://www.nhs.uk/vaccinations/why-vaccination-is-important-and-the-safest-way-to-protect-yourself/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>vaccination is important and the safest way to protect...If 95% of children receive the MMR vaccine, this would stop measles spreading c...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: nhs.uk  
-   Link: <a href="https://www.nhs.uk/vaccinations/nhs-vaccinations-and-when-to-have-them/" target="_blank" rel="noopener noreferrer nofollow">https://www.nhs.uk/vaccinations/nhs-vaccinations-and-when-to-have-them/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>vaccinations and when to have themNHS vaccination schedule; 1 year. MMRV vaccine (1st dose for children born on or after 1 January 2025)...</p></details>
+   Link:<a href="https://www.nhs.uk/vaccinations/nhs-vaccinations-and-when-to-have-them/" target="_blank" rel="noopener noreferrer nofollow">https://www.nhs.uk/vaccinations/nhs-vaccinations-and-when-to-have-them/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>vaccinations and when to have themNHS vaccination schedule; 1 year. MMRV vaccine (1st dose for children born on or after 1 January 2025)...</p></details>
    Published: January 2025  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: cc4c.imperial.nhs.uk  
-   Link: <a href="https://www.cc4c.imperial.nhs.uk/-/media/cc4c/documents/mmr-questions-answered.pdf?hash=C15AB62CDC69D6399C643FC8ED927F07&amp;rev=8e05618c739a4e749a09ec98bd3314fc" target="_blank" rel="noopener noreferrer nofollow">https://www.cc4c.imperial.nhs.uk/-/media/cc4c/documents/mmr-questions-answered.pdf?hash=C15AB62CDC69D6399C643FC8ED927F07&amp;rev=8e05618c739a4e749a09ec98bd3314fc</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>No, there is no link between MMR and autism. MMR does not cause or increase the risk of your child.Read more...</p></details>
+   Link:<a href="https://www.cc4c.imperial.nhs.uk/-/media/cc4c/documents/mmr-questions-answered.pdf?hash=C15AB62CDC69D6399C643FC8ED927F07&amp;rev=8e05618c739a4e749a09ec98bd3314fc" target="_blank" rel="noopener noreferrer nofollow">https://www.cc4c.imperial.nhs.uk/-/media/cc4c/documents/mmr-questions-answered.pdf?hash=C15AB62CDC69D6399C643FC8ED927F07&amp;rev=8e05618c739a4e749a09ec98bd3314fc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>No, there is no link between MMR and autism. MMR does not cause or increase the risk of your child.Read more...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: bedslutonchildrenshealth.nhs.uk  
-   Link: <a href="https://bedslutonchildrenshealth.nhs.uk/services/bedfordshire-and-luton-0-to-19-health-visiting-and-school-nursing-service/keeping-warm-and-well/immunisations/" target="_blank" rel="noopener noreferrer nofollow">https://bedslutonchildrenshealth.nhs.uk/services/bedfordshire-and-luton-0-to-19-health-visiting-and-school-nursing-service/keeping-warm-and-well/immunisations/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>From 1 January 2026, children due their 1st or 2nd MMR vaccine, should be offered a combined MMRV vaccination instead of MMR. MMRV includ...</p></details>
+   Link:<a href="https://bedslutonchildrenshealth.nhs.uk/services/bedfordshire-and-luton-0-to-19-health-visiting-and-school-nursing-service/keeping-warm-and-well/immunisations/" target="_blank" rel="noopener noreferrer nofollow">https://bedslutonchildrenshealth.nhs.uk/services/bedfordshire-and-luton-0-to-19-health-visiting-and-school-nursing-service/keeping-warm-and-well/immunisations/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>From 1 January 2026, children due their 1st or 2nd MMR vaccine, should be offered a combined MMRV vaccination instead of MMR. MMRV includ...</p></details>
    Published: January 2026  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: notts.icb.nhs.uk  
-   Link: <a href="https://notts.icb.nhs.uk/mmr/" target="_blank" rel="noopener noreferrer nofollow">https://notts.icb.nhs.uk/mmr/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>icb.nhs.ukMeasles, Mumps, Rubella (MMR) Vaccination12 months for a first dose; 3 years four months for a second dose. Partially or unvacc...</p></details>
+   Link:<a href="https://notts.icb.nhs.uk/mmr/" target="_blank" rel="noopener noreferrer nofollow">https://notts.icb.nhs.uk/mmr/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>icb.nhs.ukMeasles, Mumps, Rubella (MMR) Vaccination12 months for a first dose; 3 years four months for a second dose. Partially or unvacc...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: tregenna.nhs.uk  
-   Link: <a href="https://tregenna.nhs.uk/news/measles-outbreak/" target="_blank" rel="noopener noreferrer nofollow">https://tregenna.nhs.uk/news/measles-outbreak/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Measles OutbreakWhen Should Children have the MMR Vaccine?; MMR vaccine schedule; Child&#x27;s age, Vaccine; 1 year, MMR (1st dose); 3 yea...</p></details>
+   Link:<a href="https://tregenna.nhs.uk/news/measles-outbreak/" target="_blank" rel="noopener noreferrer nofollow">https://tregenna.nhs.uk/news/measles-outbreak/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Measles OutbreakWhen Should Children have the MMR Vaccine?; MMR vaccine schedule; Child&#x27;s age, Vaccine; 1 year, MMR (1st dose); 3 yea...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/11700148/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/11700148/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The clinical evidence in support of an...Read more...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/11700148/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/11700148/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The clinical evidence in support of an...Read more...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: rijksvaccinatieprogramma.nl  
-   Link: <a href="https://rijksvaccinatieprogramma.nl/en/vaccinations/mmr" target="_blank" rel="noopener noreferrer nofollow">https://rijksvaccinatieprogramma.nl/en/vaccinations/mmr</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Children receive the MMR vaccination at 14 months, and a repeat vaccination around 3 years.Read more...</p></details>
+   Link:<a href="https://rijksvaccinatieprogramma.nl/en/vaccinations/mmr" target="_blank" rel="noopener noreferrer nofollow">https://rijksvaccinatieprogramma.nl/en/vaccinations/mmr</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Children receive the MMR vaccination at 14 months, and a repeat vaccination around 3 years.Read more...</p></details>
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: neurosciences.ucsd.edu  
-   Link: <a href="https://neurosciences.ucsd.edu/centers-programs/autism/early/signs.html" target="_blank" rel="noopener noreferrer nofollow">https://neurosciences.ucsd.edu/centers-programs/autism/early/signs.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>of AutismBelow are early warning signs describing what children at risk for an ASD between 1224 months generally don&#x27;t do, as well as a...</p></details>
+   Link:<a href="https://neurosciences.ucsd.edu/centers-programs/autism/early/signs.html" target="_blank" rel="noopener noreferrer nofollow">https://neurosciences.ucsd.edu/centers-programs/autism/early/signs.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>of AutismBelow are early warning signs describing what children at risk for an ASD between 1224 months generally don&#x27;t do, as well as a...</p></details>
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: autismcaretherapy.com  
    Title: early signs of autism in toddlers  
-   Link: <a href="https://autismcaretherapy.com/en/library/blogs/early-signs-of-autism-in-toddlers" target="_blank" rel="noopener noreferrer nofollow">https://autismcaretherapy.com/en/library/blogs/early-signs-of-autism-in-toddlers</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Reduced Social Interaction. Many toddlers naturally begin to show interest in people through smiles, gestures, imitation, and social game...</p></details>
+   Link:<a href="https://autismcaretherapy.com/en/library/blogs/early-signs-of-autism-in-toddlers" target="_blank" rel="noopener noreferrer nofollow">https://autismcaretherapy.com/en/library/blogs/early-signs-of-autism-in-toddlers</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Reduced Social Interaction. Many toddlers naturally begin to show interest in people through smiles, gestures, imitation, and social game...</p></details>
 
 ### Additional References
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: autismsciencefoundation.org  
-   Link: <a href="https://autismsciencefoundation.org/autism-and-vaccines/" target="_blank" rel="noopener noreferrer nofollow">https://autismsciencefoundation.org/autism-and-vaccines/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Autism and VaccinesThere is no correlation between autism and vaccines. This has been confirmed through dozens of scientific studies exam...</p></details>
+   Link:<a href="https://autismsciencefoundation.org/autism-and-vaccines/" target="_blank" rel="noopener noreferrer nofollow">https://autismsciencefoundation.org/autism-and-vaccines/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Autism and VaccinesThere is no correlation between autism and vaccines. This has been confirmed through dozens of scientific studies exam...</p></details>
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: medicalnewstoday.com  
-   Link: <a href="https://www.medicalnewstoday.com/articles/autism-in-babies" target="_blank" rel="noopener noreferrer nofollow">https://www.medicalnewstoday.com/articles/autism-in-babies</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Autism in babies: Signs, diagnosis, and next stepsA baby can begin to display signs of autism spectrum disorder (ASD) as early as 2 month...</p></details>
+   Link:<a href="https://www.medicalnewstoday.com/articles/autism-in-babies" target="_blank" rel="noopener noreferrer nofollow">https://www.medicalnewstoday.com/articles/autism-in-babies</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Autism in babies: Signs, diagnosis, and next stepsA baby can begin to display signs of autism spectrum disorder (ASD) as early as 2 month...</p></details>
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: harbornemedical.co.uk  
-   Link: <a href="https://harbornemedical.co.uk/health-and-wellbeing-at-harborne-medical/children-and-young-people/childhood-immunisations" target="_blank" rel="noopener noreferrer nofollow">https://harbornemedical.co.uk/health-and-wellbeing-at-harborne-medical/children-and-young-people/childhood-immunisations</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Childhood VaccinationsFact: There is no link between the MMR vaccine and autism. This myth stems from a discredited study that has been t...</p></details>
+   Link:<a href="https://harbornemedical.co.uk/health-and-wellbeing-at-harborne-medical/children-and-young-people/childhood-immunisations" target="_blank" rel="noopener noreferrer nofollow">https://harbornemedical.co.uk/health-and-wellbeing-at-harborne-medical/children-and-young-people/childhood-immunisations</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Childhood VaccinationsFact: There is no link between the MMR vaccine and autism. This myth stems from a discredited study that has been t...</p></details>
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: marcus.org  
-   Link: <a href="https://www.marcus.org/autism-resources/autism-tips-and-resources/early-signs-of-autism" target="_blank" rel="noopener noreferrer nofollow">https://www.marcus.org/autism-resources/autism-tips-and-resources/early-signs-of-autism</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Early Signs of AutismSmiles and laughs while looking at you and playing games, like peek-a-boo  Vocalizes, often with babbles  Looks fo...</p></details>
+   Link:<a href="https://www.marcus.org/autism-resources/autism-tips-and-resources/early-signs-of-autism" target="_blank" rel="noopener noreferrer nofollow">https://www.marcus.org/autism-resources/autism-tips-and-resources/early-signs-of-autism</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Early Signs of AutismSmiles and laughs while looking at you and playing games, like peek-a-boo  Vocalizes, often with babbles  Looks fo...</p></details>
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: autismsa.org.au  
-   Link: <a href="https://autismsa.org.au/autism-diagnosis/autism-symptoms/signs-of-autism-in-babies/" target="_blank" rel="noopener noreferrer nofollow">https://autismsa.org.au/autism-diagnosis/autism-symptoms/signs-of-autism-in-babies/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Signs of Autism in Babies and ToddlersEarly signs of autism in young children up to 36 months may include:  Limited speech  Difficultie...</p></details>
+   Link:<a href="https://autismsa.org.au/autism-diagnosis/autism-symptoms/signs-of-autism-in-babies/" target="_blank" rel="noopener noreferrer nofollow">https://autismsa.org.au/autism-diagnosis/autism-symptoms/signs-of-autism-in-babies/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Signs of Autism in Babies and ToddlersEarly signs of autism in young children up to 36 months may include:  Limited speech  Difficultie...</p></details>
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: autismspeaks.org  
-   Link: <a href="https://www.autismspeaks.org/signs-autism" target="_blank" rel="noopener noreferrer nofollow">https://www.autismspeaks.org/signs-autism</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Signs of autismSigns of autism at any age  Loss of previously acquired speech, babbling or social skills  Avoidance of eye contact  Pe...</p></details>
+   Link:<a href="https://www.autismspeaks.org/signs-autism" target="_blank" rel="noopener noreferrer nofollow">https://www.autismspeaks.org/signs-autism</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Signs of autismSigns of autism at any age  Loss of previously acquired speech, babbling or social skills  Avoidance of eye contact  Pe...</p></details>
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: nidcd.nih.gov  
    Title: autism spectrum disorder communication problems children  
-   Link: <a href="https://www.nidcd.nih.gov/health/autism-spectrum-disorder-communication-problems-children" target="_blank" rel="noopener noreferrer nofollow">https://www.nidcd.nih.gov/health/autism-spectrum-disorder-communication-problems-children</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Apr 13, 2020  Children with ASD may have difficulty developing language skills and understanding what others say to them. They also...</p></details>
+   Link:<a href="https://www.nidcd.nih.gov/health/autism-spectrum-disorder-communication-problems-children" target="_blank" rel="noopener noreferrer nofollow">https://www.nidcd.nih.gov/health/autism-spectrum-disorder-communication-problems-children</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Apr 13, 2020  Children with ASD may have difficulty developing language skills and understanding what others say to them. They also...</p></details>
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: asatonline.org  
-   Link: <a href="https://asatonline.org/for-parents/becoming-a-savvy-consumer/learn-the-signs-act-early/" target="_blank" rel="noopener noreferrer nofollow">https://asatonline.org/for-parents/becoming-a-savvy-consumer/learn-the-signs-act-early/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ASD signs may be present by the first birthday, but clinical diagnoses are not typically made until age 4...</p></details>
+   Link:<a href="https://asatonline.org/for-parents/becoming-a-savvy-consumer/learn-the-signs-act-early/" target="_blank" rel="noopener noreferrer nofollow">https://asatonline.org/for-parents/becoming-a-savvy-consumer/learn-the-signs-act-early/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ASD signs may be present by the first birthday, but clinical diagnoses are not typically made until age 4...</p></details>
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: littlechampsaba.com  
-   Link: <a href="https://littlechampsaba.com/blog/how-to-identify-the-signs-of-autism-in-children-for-early-intervention/" target="_blank" rel="noopener noreferrer nofollow">https://littlechampsaba.com/blog/how-to-identify-the-signs-of-autism-in-children-for-early-intervention/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p> Difficulty understanding or expressing emotions.  Challenges with back-and-forth...Read more...</p></details>
+   Link:<a href="https://littlechampsaba.com/blog/how-to-identify-the-signs-of-autism-in-children-for-early-intervention/" target="_blank" rel="noopener noreferrer nofollow">https://littlechampsaba.com/blog/how-to-identify-the-signs-of-autism-in-children-for-early-intervention/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p> Difficulty understanding or expressing emotions.  Challenges with back-and-forth...Read more...</p></details>
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: autismspecialtygroup.com  
    Title: autism milestones tracking development of children with asd  
-   Link: <a href="https://www.autismspecialtygroup.com/blog/autism-milestones-tracking-development-of-children-with-asd" target="_blank" rel="noopener noreferrer nofollow">https://www.autismspecialtygroup.com/blog/autism-milestones-tracking-development-of-children-with-asd</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Tracking Development of Children with ASD16 Sept 2025  Early Signs and Simple Milestones for Autism  Child does not respond to their na...</p></details>
+   Link:<a href="https://www.autismspecialtygroup.com/blog/autism-milestones-tracking-development-of-children-with-asd" target="_blank" rel="noopener noreferrer nofollow">https://www.autismspecialtygroup.com/blog/autism-milestones-tracking-development-of-children-with-asd</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Tracking Development of Children with ASD16 Sept 2025  Early Signs and Simple Milestones for Autism  Child does not respond to their na...</p></details>

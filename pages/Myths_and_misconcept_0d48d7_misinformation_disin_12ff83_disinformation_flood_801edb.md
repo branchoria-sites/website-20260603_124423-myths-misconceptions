@@ -274,7 +274,7 @@ image: /assets/images/Myths_and_misconcept_0d48d7_misinformation_disin_12ff83_di
 
 ## Introduction
 
-Disinformation [campaigns]({{ 'campaigns/' | relative_url }}) do not always succeed by convincing people of one big lie. Often, their goal is to make it harder to know what is true at all. Instead of promoting a single false story, organisers may flood public discussion with many competing claims, rumours, edited images, fake experts, misleading statistics and coordinated social media activity. The result is confusion, exhaustion and distrust. People may stop believing reliable information not because they accepted a specific falsehood, but because the information environment itself starts to feel unreliable. Researchers have described this approach as a “firehose of falsehood” model: high-volume, repetitive messaging that overwhelms normal fact-checking and verification processes. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.rand.org/pubs/perspectives/PE198.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rand.org">[RAND]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rand.org</span><span class="citation-popover-snippet">11] Disinformation, “Weekly Disinformation Review,”...Read more...</span></span></span>
+Disinformation [campaigns]({{ 'campaigns/' | relative_url }}) do not always succeed by convincing people of one big lie. Often, their goal is to make it harder to know what is true at all. Instead of promoting a single false story, organisers may flood public discussion with many competing claims, rumours, edited images, fake experts, misleading statistics and coordinated social media activity. The result is confusion, exhaustion and distrust. People may stop believing reliable information not because they accepted a specific falsehood, but because the information environment itself starts to feel unreliable. Researchers have described this approach as a “firehose of falsehood” model: high-volume, repetitive messaging that overwhelms normal fact-checking and verification processes.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.rand.org/pubs/perspectives/PE198.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rand.org">[RAND]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rand.org</span><span class="citation-popover-snippet">11] Disinformation, “Weekly Disinformation Review,”...Read more...</span></span></span>
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_misinformation_disin_12ff83_disinformation_flood_801edb-Illustration-1-dark.svg" | relative_url }}" alt="Flood tactics illustration 1" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_misinformation_disin_12ff83_disinformation_flood_801edb-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_misinformation_disin_12ff83_disinformation_flood_801edb-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 This tactic matters because it changes how deception works. Instead of asking “Did people believe the lie?”, a better question becomes “Did people become uncertain, distracted or cynical enough to disengage?” In many campaigns, confusion is not a side effect. It is part of the strategy.
@@ -283,11 +283,11 @@ This tactic matters because it changes how deception works. Instead of asking �
 
 A common misconception is that disinformation only succeeds when people fully accept false claims as true. In reality, some campaigns aim for a lower and often easier target: making audiences doubt whether anyone knows the truth.
 
-Researchers at RAND argued that modern propaganda can operate through large volumes of messages distributed rapidly across many channels, often without concern for consistency. A campaign may spread several contradictory explanations for the same event. The purpose is not necessarily to make every version believable. Instead, the constant stream of claims can make verification difficult and create the impression that objective facts are impossible to establish. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.rand.org/content/dam/rand/pubs/perspectives/PE100/PE198/RAND_PE198.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rand.org">[RAND]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rand.org</span><span class="citation-popover-snippet">e when the disinformation is consistent with narratives or preconceptions held by various audiences.Read more...</span></span></span>
+Researchers at RAND argued that modern propaganda can operate through large volumes of messages distributed rapidly across many channels, often without concern for consistency. A campaign may spread several contradictory explanations for the same event. The purpose is not necessarily to make every version believable. Instead, the constant stream of claims can make verification difficult and create the impression that objective facts are impossible to establish.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.rand.org/content/dam/rand/pubs/perspectives/PE100/PE198/RAND_PE198.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rand.org">[RAND]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rand.org</span><span class="citation-popover-snippet">e when the disinformation is consistent with narratives or preconceptions held by various audiences.Read more...</span></span></span>
 
 This is one reason why disinformation frequently appears chaotic. Traditional propaganda often tried to present a single, coherent narrative. Modern online campaigns can benefit from the opposite approach. If audiences encounter endless arguments, accusations, counter-accusations and “alternative explanations”, some people conclude that every source is biased and that certainty is unattainable.
 
-The phrase “flood the zone” became widely discussed because it captures this mechanism. Rather than winning an argument point by point, the strategy overwhelms the public sphere with so many claims, controversies and distractions that meaningful scrutiny becomes harder. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.vox.com/policy-and-politics/2020/1/16/20991816/impeachment-trial-trump-bannon-misinformation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vox.com">[Vox]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vox.com</span><span class="citation-popover-snippet">Vox“Flood the zone with shit”: How misinformation overwhelmed...January 16, 2020 — 16 Jan 2020 — “Flood the zone with shit”: How misinfo...</span><span class="citation-popover-meta">Published: January 16, 2020</span></span></span>
+The phrase “flood the zone” became widely discussed because it captures this mechanism. Rather than winning an argument point by point, the strategy overwhelms the public sphere with so many claims, controversies and distractions that meaningful scrutiny becomes harder.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.vox.com/policy-and-politics/2020/1/16/20991816/impeachment-trial-trump-bannon-misinformation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vox.com">[Vox]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vox.com</span><span class="citation-popover-snippet">Vox“Flood the zone with shit”: How misinformation overwhelmed...January 16, 2020 — 16 Jan 2020 — “Flood the zone with shit”: How misinfo...</span><span class="citation-popover-meta">Published: January 16, 2020</span></span></span>
 
 The effect can be especially powerful during fast-moving crises. Elections, wars, natural disasters and public health emergencies create high demand for information. At the same time, facts are still emerging. Disinformation campaigns can exploit that uncertainty by injecting large amounts of misleading content before reliable reporting catches up.
 
@@ -297,7 +297,7 @@ The effect can be especially powerful during fast-moving crises. Elections, wars
 
 Flooding the information space usually requires more than a few people posting rumours. Many campaigns rely on coordination designed to make messages appear more popular, widespread or authentic than they really are.
 
-Social media [platforms]({{ 'platforms/' | relative_url }}) and researchers often describe this behaviour as coordinated inauthentic behaviour. Meta defines it as coordinated efforts to manipulate public debate for a strategic goal where fake accounts play a central role. These operations can involve networks of accounts that share, like, repost and comment on content in a synchronised way to create an illusion of genuine public engagement. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://disinfocode.eu/reports/facebook/8?chapterId=73&amp;commitmentId=357" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: disinfocode.eu">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">disinfocode.eu</span><span class="citation-popover-snippet">Report March 2026 - Transparency CentreSuch behaviours and practices include: The creation and use of fake accounts, account takeovers an...</span><span class="citation-popover-meta">Published: March 2026</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://disinfocode.eu/reports/facebook/5?chapterId=43&amp;commitmentId=214" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: disinfocode.eu">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">disinfocode.eu</span><span class="citation-popover-snippet">Report March 2025 - Transparency CentreSuch behaviours and practices include: The creation and use of fake accounts, account takeovers an...</span><span class="citation-popover-meta">Published: March 2025</span></span></span>
+Social media [platforms]({{ 'platforms/' | relative_url }}) and researchers often describe this behaviour as coordinated inauthentic behaviour. Meta defines it as coordinated efforts to manipulate public debate for a strategic goal where fake accounts play a central role. These operations can involve networks of accounts that share, like, repost and comment on content in a synchronised way to create an illusion of genuine public engagement.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://disinfocode.eu/reports/facebook/8?chapterId=73&amp;commitmentId=357" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: disinfocode.eu">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">disinfocode.eu</span><span class="citation-popover-snippet">Report March 2026 - Transparency CentreSuch behaviours and practices include: The creation and use of fake accounts, account takeovers an...</span><span class="citation-popover-meta">Published: March 2026</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://disinfocode.eu/reports/facebook/5?chapterId=43&amp;commitmentId=214" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: disinfocode.eu">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">disinfocode.eu</span><span class="citation-popover-snippet">Report March 2025 - Transparency CentreSuch behaviours and practices include: The creation and use of fake accounts, account takeovers an...</span><span class="citation-popover-meta">Published: March 2025</span></span></span>
 
 Several recurring tactics appear across documented campaigns:
 
@@ -305,9 +305,9 @@ Several recurring tactics appear across documented campaigns:
 * **Bot-assisted [amplification]({{ 'amplification/' | relative_url }}):** Automated or semi-automated accounts rapidly spread content across platforms.
 * **Purchased engagement:** Likes, shares and comments are bought or artificially generated to boost visibility.
 * **Cross-platform coordination:** The same narratives appear simultaneously on multiple networks, websites and messaging services.
-* **Impersonation and fabricated communities:** Campaigns create fake groups or pages that mimic authentic organisations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://disinfocode.eu/reports/facebook/8?chapterId=73&amp;commitmentId=357" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: disinfocode.eu">[disinfocode.eu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">disinfocode.eu</span><span class="citation-popover-snippet">Report March 2026 - Transparency CentreSuch behaviours and practices include: The creation and use of fake accounts, account takeovers an...</span><span class="citation-popover-meta">Published: March 2026</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://disinfocode.eu/reports/facebook/8/text" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: disinfocode.eu">[disinfocode.eu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">disinfocode.eu</span><span class="citation-popover-title">inauthentic behaviour by fake accounts at scale.Read more</span><span class="citation-popover-snippet">Report March 2026 - Transparency CenterInauthentic behaviour: We continue to investigate and take down coordinated adversarial networks o...</span><span class="citation-popover-meta">Published: March 2026</span></span></span>
+* **Impersonation and fabricated communities:** Campaigns create fake groups or pages that mimic authentic organisations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://disinfocode.eu/reports/facebook/8?chapterId=73&amp;commitmentId=357" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: disinfocode.eu">[disinfocode.eu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">disinfocode.eu</span><span class="citation-popover-snippet">Report March 2026 - Transparency CentreSuch behaviours and practices include: The creation and use of fake accounts, account takeovers an...</span><span class="citation-popover-meta">Published: March 2026</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://disinfocode.eu/reports/facebook/8/text" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: disinfocode.eu">[disinfocode.eu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">disinfocode.eu</span><span class="citation-popover-title">inauthentic behaviour by fake accounts at scale.Read more</span><span class="citation-popover-snippet">Report March 2026 - Transparency CenterInauthentic behaviour: We continue to investigate and take down coordinated adversarial networks o...</span><span class="citation-popover-meta">Published: March 2026</span></span></span>
 
-Researchers studying coordinated activity on social media have found that coordinated accounts often occupy influential positions in information cascades, spread messages more quickly and help push narratives into wider circulation. Their role is not always to persuade directly. Sometimes they help create the appearance that a claim is already widely accepted, encouraging real users and recommendation algorithms to amplify it further. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2503.15720" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Coordinated Inauthentic Behavior and Information Spreading on Twitter</span><span class="citation-popover-snippet">Coordinated Inauthentic Behavior and Information Spreading on TwitterMarch 19, 2025...</span><span class="citation-popover-meta">Published: March 19, 2025</span></span></span>
+Researchers studying coordinated activity on social media have found that coordinated accounts often occupy influential positions in information cascades, spread messages more quickly and help push narratives into wider circulation. Their role is not always to persuade directly. Sometimes they help create the appearance that a claim is already widely accepted, encouraging real users and recommendation algorithms to amplify it further.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2503.15720" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Coordinated Inauthentic Behavior and Information Spreading on Twitter</span><span class="citation-popover-snippet">Coordinated Inauthentic Behavior and Information Spreading on TwitterMarch 19, 2025...</span><span class="citation-popover-meta">Published: March 19, 2025</span></span></span>
 
 The illusion of popularity matters because people often use social cues when deciding what deserves attention. A claim that appears to have thousands of supporters may seem more credible or important than the same claim posted by a single anonymous account.
 
@@ -316,11 +316,11 @@ The illusion of popularity matters because people often use social cues when dec
 
 A notable feature of many modern campaigns is that sheer quantity becomes part of the strategy.
 
-RAND's analysis of the “firehose of falsehood” model highlighted several characteristics: high-volume output, rapid and continuous [repetition]({{ 'repetition/' | relative_url }}), use of multiple channels and weak commitment to factual consistency. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.rand.org/pubs/articles/2016/beyond-the-headlines-rands-christopher-paul-discusses.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rand.org">[RAND]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rand.org</span><span class="citation-popover-title">beyond the headlines rands christopher paul discusses</span><span class="citation-popover-snippet">Firehose of Falsehood” propaganda model on Dec. 7 at the research... propaganda by getting good information out in advance of disinforma...</span></span></span>
+RAND's analysis of the “firehose of falsehood” model highlighted several characteristics: high-volume output, rapid and continuous [repetition]({{ 'repetition/' | relative_url }}), use of multiple channels and weak commitment to factual consistency.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.rand.org/pubs/articles/2016/beyond-the-headlines-rands-christopher-paul-discusses.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rand.org">[RAND]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rand.org</span><span class="citation-popover-title">beyond the headlines rands christopher paul discusses</span><span class="citation-popover-snippet">Firehose of Falsehood” propaganda model on Dec. 7 at the research... propaganda by getting good information out in advance of disinforma...</span></span></span>
 
 This approach exploits practical limits on human attention. Fact-checkers, journalists and researchers usually need time to verify claims. Creating a false claim is often much faster than disproving it. If dozens of new allegations appear every day, [corrections]({{ 'corrections/' | relative_url }}) may never fully catch up.
 
-The imbalance resembles what debaters call a “Gish gallop”: overwhelming opponents with so many questionable claims that responding to each one becomes impossible. In large-scale disinformation campaigns, the same principle can operate across entire media ecosystems rather than individual debates. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Flood_the_zone" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Flood the zone</span><span class="citation-popover-snippet">Flood the zoneFirehose of falsehood – Propaganda technique; Gish gallop, a person in a... &quot;&quot;Flood the zone with shit&quot;: How misinforma...</span></span></span>
+The imbalance resembles what debaters call a “Gish gallop”: overwhelming opponents with so many questionable claims that responding to each one becomes impossible. In large-scale disinformation campaigns, the same principle can operate across entire media ecosystems rather than individual debates.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Flood_the_zone" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Flood the zone</span><span class="citation-popover-snippet">Flood the zoneFirehose of falsehood – Propaganda technique; Gish gallop, a person in a... &quot;&quot;Flood the zone with shit&quot;: How misinforma...</span></span></span>
 
 ## Why debunking one claim may not be enough
 
@@ -334,11 +334,11 @@ Researchers and platform investigations increasingly focus on networks and behav
 * Are supposedly independent sources linked behind the scenes?
 * Is engagement authentic or artificially generated?
 * Is the same narrative appearing simultaneously across multiple platforms?
-* Are fake identities being used to conceal the organisers? <span class="citation-link-wrap"><a class="citation-inline-link" href="https://disinfocode.eu/reports/facebook/5?chapterId=43&amp;commitmentId=214" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: disinfocode.eu">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">disinfocode.eu</span><span class="citation-popover-snippet">Report March 2025 - Transparency CentreSuch behaviours and practices include: The creation and use of fake accounts, account takeovers an...</span><span class="citation-popover-meta">Published: March 2025</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://disinfocode.eu/reports/facebook/5?chapterId=43&amp;commitmentId=214" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: disinfocode.eu">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">disinfocode.eu</span><span class="citation-popover-snippet">Report March 2025 - Transparency CentreSuch behaviours and practices include: The creation and use of fake accounts, account takeovers an...</span><span class="citation-popover-meta">Published: March 2025</span></span></span>
+* Are fake identities being used to conceal the organisers?<span class="citation-link-wrap"><a class="citation-inline-link" href="https://disinfocode.eu/reports/facebook/5?chapterId=43&amp;commitmentId=214" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: disinfocode.eu">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">disinfocode.eu</span><span class="citation-popover-snippet">Report March 2025 - Transparency CentreSuch behaviours and practices include: The creation and use of fake accounts, account takeovers an...</span><span class="citation-popover-meta">Published: March 2025</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://disinfocode.eu/reports/facebook/5?chapterId=43&amp;commitmentId=214" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: disinfocode.eu">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">disinfocode.eu</span><span class="citation-popover-snippet">Report March 2025 - Transparency CentreSuch behaviours and practices include: The creation and use of fake accounts, account takeovers an...</span><span class="citation-popover-meta">Published: March 2025</span></span></span>
 
 This shift reflects a broader understanding of how modern disinformation works. The key mechanism is often not a single viral lie but an engineered information environment in which truth competes against an overwhelming volume of misleading material.
 
-Recent investigations have documented campaigns using networks of fake accounts, AI-generated content and coordinated advertising to inject narratives into public debate while concealing their origins. Some operations achieved large reach despite limited genuine audience engagement, showing that visibility alone can shape discussion even when persuasion is incomplete. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wsj.com/tech/meta-takes-down-inauthentic-accounts-on-facebook-instagram-linked-to-israeli-firm-cb03821f" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wsj.com">[Wall Street Journal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wsj.com</span><span class="citation-popover-snippet">These accounts masqueraded as U.S. and Canadian locals, including Jewish students and African-Americans. The comments were mainly in Engl...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/world/article/2024/may/18/disappearing-ink-fake-polls-and-voter-eu-fears-as-russian-propaganda-ads-target-euro-elections" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Los anuncios, que no estaban etiquetados como publicidad política, violan las normas de Meta y posiblemente la legislación de la UE. Esta...</span></span></span>
+Recent investigations have documented campaigns using networks of fake accounts, AI-generated content and coordinated advertising to inject narratives into public debate while concealing their origins. Some operations achieved large reach despite limited genuine audience engagement, showing that visibility alone can shape discussion even when persuasion is incomplete.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wsj.com/tech/meta-takes-down-inauthentic-accounts-on-facebook-instagram-linked-to-israeli-firm-cb03821f" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wsj.com">[Wall Street Journal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wsj.com</span><span class="citation-popover-snippet">These accounts masqueraded as U.S. and Canadian locals, including Jewish students and African-Americans. The comments were mainly in Engl...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/world/article/2024/may/18/disappearing-ink-fake-polls-and-voter-eu-fears-as-russian-propaganda-ads-target-euro-elections" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Los anuncios, que no estaban etiquetados como publicidad política, violan las normas de Meta y posiblemente la legislación de la UE. Esta...</span></span></span>
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_misinformation_disin_12ff83_disinformation_flood_801edb-Illustration-3-dark.svg" | relative_url }}" alt="Flood tactics illustration 3" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_misinformation_disin_12ff83_disinformation_flood_801edb-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_misinformation_disin_12ff83_disinformation_flood_801edb-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### The long-term target: trust itself
@@ -347,201 +347,201 @@ The most damaging outcome of flooding tactics may be erosion of trust.
 
 If people repeatedly encounter conflicting stories, fabricated evidence and accusations that every source is lying, they may become less willing to trust journalists, researchers, public institutions or even eyewitness evidence. In that environment, the distinction between accurate reporting and deliberate deception becomes harder for ordinary audiences to maintain.
 
-This is why analysts often describe modern disinformation campaigns as attacks on the information environment rather than merely on individual facts. The objective may not be universal belief in a particular story. It may be a more durable form of confusion in which reliable information struggles to stand out from the noise. RAND <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.russiamatters.org/analysis/russian-firehose-falsehood-propaganda-model" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: russiamatters.org">[Russia Matters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">russiamatters.org</span><span class="citation-popover-snippet">July 11... Forewarn audiences of misinformation, or merely reach them first with the truth, rather...</span></span></span>
+This is why analysts often describe modern disinformation campaigns as attacks on the information environment rather than merely on individual facts. The objective may not be universal belief in a particular story. It may be a more durable form of confusion in which reliable information struggles to stand out from the noise. RAND<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.russiamatters.org/analysis/russian-firehose-falsehood-propaganda-model" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: russiamatters.org">[Russia Matters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">russiamatters.org</span><span class="citation-popover-snippet">July 11... Forewarn audiences of misinformation, or merely reach them first with the truth, rather...</span></span></span>
 
 Understanding this mechanism helps explain why organised deception can remain effective even after specific falsehoods are exposed. When campaigns flood the truth with competing narratives, the central battle is often over attention, trust and clarity rather than any single claim.
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/pufwwViV2a4" title="Professor Jagolinzer discusses how some disinformation campaigns intend to confuse or fatigue" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=pufwwViV2a4" target="_blank" rel="noopener noreferrer">Professor Jagolinzer discusses how some disinformation campaigns intend to confuse or fatigue</a></p><p class="youtube-embed-meta">Channel: Cambridge Disinformation Summit &middot; Views: 39 &middot; Uploaded: April 2026 &middot; Length: 1 minute 29 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=pufwwViV2a4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=pufwwViV2a4">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How deception campaigns flood the truth. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How deception campaigns flood the truth. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Constitution+of+Knowledge+by+Jonathan+Rauch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Constitution of Knowledge on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=W4J_EQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Constitution of Knowledge" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Constitution+of+Knowledge+by+Jonathan+Rauch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Constitution of Knowledge">The Constitution of Knowledge</a>
-        </h4>
-        <p class="fr-book-author">By Jonathan Rauch</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Constitution+of+Knowledge+by+Jonathan+Rauch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Constitution of Knowledge on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=W4J_EQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Constitution of Knowledge" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Constitution+of+Knowledge+by+Jonathan+Rauch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Constitution of Knowledge">The Constitution of Knowledge</a>
+</h4>
+<p class="fr-book-author">By Jonathan Rauch</p>
         
-        <p class="fr-book-desc">Focuses on systems that resist manipulation and falsehood.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Constitution+of+Knowledge+by+Jonathan+Rauch&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on systems that resist manipulation and falsehood.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Constitution+of+Knowledge+by+Jonathan+Rauch&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Likewar+by+Peter+Warren+Singer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Likewar on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=URFxDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Likewar" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Likewar+by+Peter+Warren+Singer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Likewar">Likewar</a>
-        </h4>
-        <p class="fr-book-author">By Peter Warren Singer, Emerson T. Brooking</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Likewar+by+Peter+Warren+Singer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Likewar on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=URFxDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Likewar" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Likewar+by+Peter+Warren+Singer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Likewar">Likewar</a>
+</h4>
+<p class="fr-book-author">By Peter Warren Singer, Emerson T. Brooking</p>
         
-        <p class="fr-book-desc">Explores coordinated digital persuasion campaigns.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Likewar+by+Peter+Warren+Singer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores coordinated digital persuasion campaigns.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Likewar+by+Peter+Warren+Singer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Calling Bullshit on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Plu9DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Calling Bullshit" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Calling Bullshit">Calling Bullshit</a>
-        </h4>
-        <p class="fr-book-author">By Carl T. Bergstrom, Jevin D. West</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Calling Bullshit on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Plu9DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Calling Bullshit" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Calling Bullshit">Calling Bullshit</a>
+</h4>
+<p class="fr-book-author">By Carl T. Bergstrom, Jevin D. West</p>
         
-        <p class="fr-book-desc">Helps readers navigate noisy information environments.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps readers navigate noisy information environments.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Network+Propaganda+Yochai+Benkler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Network Propaganda on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9238306-M.jpg" alt="Cover for Network Propaganda" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Network+Propaganda+Yochai+Benkler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Network Propaganda">Network Propaganda</a>
-        </h4>
-        <p class="fr-book-author">By Yochai Benkler, Robert Faris et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Network+Propaganda+Yochai+Benkler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Network Propaganda on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9238306-M.jpg" alt="Cover for Network Propaganda" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Network+Propaganda+Yochai+Benkler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Network Propaganda">Network Propaganda</a>
+</h4>
+<p class="fr-book-author">By Yochai Benkler, Robert Faris et al.</p>
         
-        <p class="fr-book-desc">First published 2018. Subjects: Politics &amp; government, Presidents, united states, election, 2016, Communication in politics, Political ca...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Network+Propaganda+Yochai+Benkler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2018. Subjects: Politics &amp; government, Presidents, united states, election, 2016, Communication in politics, Political ca...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Network+Propaganda+Yochai+Benkler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Constitution+of+Knowledge&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Constitution of Knowledge</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Likewar&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Likewar</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Calling+Bullshit&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Calling Bullshit</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Constitution+of+Knowledge&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Constitution of Knowledge</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Likewar&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Likewar</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Calling+Bullshit&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Calling Bullshit</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flood-tactics-how-deception-campaigns-flood-the-truth-myths-and-misconcept-science-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science art print" data-ebay-reference="flood-tactics-how-deception-campaigns-flood-the-truth-myths-and-misconcept-science-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Science Lover Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/c14f5b37d36f323b014a.jpg' | relative_url }}" alt="Listing image for Science Lover Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flood-tactics-how-deception-campaigns-flood-the-truth-myths-and-misconcept-science-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science art print" data-ebay-reference="flood-tactics-how-deception-campaigns-flood-the-truth-myths-and-misconcept-science-art-print" target="_blank" rel="sponsored noopener noreferrer">Science Lover Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flood-tactics-how-deception-campaigns-flood-the-truth-myths-and-misconcept-science-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science art print" data-ebay-reference="flood-tactics-how-deception-campaigns-flood-the-truth-myths-and-misconcept-science-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: science art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flood-tactics-how-deception-campaigns-flood-the-truth-myths-and-misconcept-science-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science art print" data-ebay-reference="flood-tactics-how-deception-campaigns-flood-the-truth-myths-and-misconcept-science-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flood-tactics-how-deception-campaigns-flood-the-truth-myths-and-misconcept-science-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science art print" data-ebay-reference="flood-tactics-how-deception-campaigns-flood-the-truth-myths-and-misconcept-science-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Science Lover Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/c14f5b37d36f323b014a.jpg' | relative_url }}" alt="Listing image for Science Lover Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flood-tactics-how-deception-campaigns-flood-the-truth-myths-and-misconcept-science-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science art print" data-ebay-reference="flood-tactics-how-deception-campaigns-flood-the-truth-myths-and-misconcept-science-art-print" target="_blank" rel="sponsored noopener noreferrer">Science Lover Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flood-tactics-how-deception-campaigns-flood-the-truth-myths-and-misconcept-science-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science art print" data-ebay-reference="flood-tactics-how-deception-campaigns-flood-the-truth-myths-and-misconcept-science-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: science art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flood-tactics-how-deception-campaigns-flood-the-truth-myths-and-misconcept-science-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science art print" data-ebay-reference="flood-tactics-how-deception-campaigns-flood-the-truth-myths-and-misconcept-science-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flood-tactics-how-deception-campaigns-flood-the-truth-myths-and-misconcept-science-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science art print" data-ebay-reference="flood-tactics-how-deception-campaigns-flood-the-truth-myths-and-misconcept-science-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Science Framed Art Print Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/76f2382783f3bed69e2a.jpg' | relative_url }}" alt="Listing image for Science Framed Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flood-tactics-how-deception-campaigns-flood-the-truth-myths-and-misconcept-science-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science art print" data-ebay-reference="flood-tactics-how-deception-campaigns-flood-the-truth-myths-and-misconcept-science-art-print" target="_blank" rel="sponsored noopener noreferrer">Science Framed Art Print Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flood-tactics-how-deception-campaigns-flood-the-truth-myths-and-misconcept-science-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science art print" data-ebay-reference="flood-tactics-how-deception-campaigns-flood-the-truth-myths-and-misconcept-science-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: science art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flood-tactics-how-deception-campaigns-flood-the-truth-myths-and-misconcept-science-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science art print" data-ebay-reference="flood-tactics-how-deception-campaigns-flood-the-truth-myths-and-misconcept-science-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flood-tactics-how-deception-campaigns-flood-the-truth-myths-and-misconcept-science-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science art print" data-ebay-reference="flood-tactics-how-deception-campaigns-flood-the-truth-myths-and-misconcept-science-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Science Framed Art Print Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/76f2382783f3bed69e2a.jpg' | relative_url }}" alt="Listing image for Science Framed Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flood-tactics-how-deception-campaigns-flood-the-truth-myths-and-misconcept-science-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science art print" data-ebay-reference="flood-tactics-how-deception-campaigns-flood-the-truth-myths-and-misconcept-science-art-print" target="_blank" rel="sponsored noopener noreferrer">Science Framed Art Print Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flood-tactics-how-deception-campaigns-flood-the-truth-myths-and-misconcept-science-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science art print" data-ebay-reference="flood-tactics-how-deception-campaigns-flood-the-truth-myths-and-misconcept-science-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: science art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flood-tactics-how-deception-campaigns-flood-the-truth-myths-and-misconcept-science-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science art print" data-ebay-reference="flood-tactics-how-deception-campaigns-flood-the-truth-myths-and-misconcept-science-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flood-tactics-how-deception-campaigns-flood-the-truth-myths-and-misconcept-science-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science art print" data-ebay-reference="flood-tactics-how-deception-campaigns-flood-the-truth-myths-and-misconcept-science-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Science science Framed Art Print Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/f2929b3429341624ae55.jpg' | relative_url }}" alt="Listing image for Science science Framed Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flood-tactics-how-deception-campaigns-flood-the-truth-myths-and-misconcept-science-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science art print" data-ebay-reference="flood-tactics-how-deception-campaigns-flood-the-truth-myths-and-misconcept-science-art-print" target="_blank" rel="sponsored noopener noreferrer">Science science Framed Art Print Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flood-tactics-how-deception-campaigns-flood-the-truth-myths-and-misconcept-science-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science art print" data-ebay-reference="flood-tactics-how-deception-campaigns-flood-the-truth-myths-and-misconcept-science-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: science art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flood-tactics-how-deception-campaigns-flood-the-truth-myths-and-misconcept-science-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science art print" data-ebay-reference="flood-tactics-how-deception-campaigns-flood-the-truth-myths-and-misconcept-science-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flood-tactics-how-deception-campaigns-flood-the-truth-myths-and-misconcept-science-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science art print" data-ebay-reference="flood-tactics-how-deception-campaigns-flood-the-truth-myths-and-misconcept-science-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Science science Framed Art Print Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/f2929b3429341624ae55.jpg' | relative_url }}" alt="Listing image for Science science Framed Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flood-tactics-how-deception-campaigns-flood-the-truth-myths-and-misconcept-science-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science art print" data-ebay-reference="flood-tactics-how-deception-campaigns-flood-the-truth-myths-and-misconcept-science-art-print" target="_blank" rel="sponsored noopener noreferrer">Science science Framed Art Print Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flood-tactics-how-deception-campaigns-flood-the-truth-myths-and-misconcept-science-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science art print" data-ebay-reference="flood-tactics-how-deception-campaigns-flood-the-truth-myths-and-misconcept-science-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: science art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flood-tactics-how-deception-campaigns-flood-the-truth-myths-and-misconcept-science-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science art print" data-ebay-reference="flood-tactics-how-deception-campaigns-flood-the-truth-myths-and-misconcept-science-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flood-tactics-how-deception-campaigns-flood-the-truth-myths-and-misconcept-science-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science art print" data-ebay-reference="flood-tactics-how-deception-campaigns-flood-the-truth-myths-and-misconcept-science-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Educational vintage A3 A4 Mushroom Chart Biology Science Fungi art print poster"><img src="{{ '/assets/images/marketplace-covers/17e2f79b1a99ca589e72.jpg' | relative_url }}" alt="Listing image for Educational vintage A3 A4 Mushroom Chart Biology Science Fungi art print poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flood-tactics-how-deception-campaigns-flood-the-truth-myths-and-misconcept-science-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science art print" data-ebay-reference="flood-tactics-how-deception-campaigns-flood-the-truth-myths-and-misconcept-science-art-print" target="_blank" rel="sponsored noopener noreferrer">Educational vintage A3 A4 Mushroom Chart Biology Science Fungi art print poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flood-tactics-how-deception-campaigns-flood-the-truth-myths-and-misconcept-science-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science art print" data-ebay-reference="flood-tactics-how-deception-campaigns-flood-the-truth-myths-and-misconcept-science-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: science art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flood-tactics-how-deception-campaigns-flood-the-truth-myths-and-misconcept-science-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science art print" data-ebay-reference="flood-tactics-how-deception-campaigns-flood-the-truth-myths-and-misconcept-science-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flood-tactics-how-deception-campaigns-flood-the-truth-myths-and-misconcept-science-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science art print" data-ebay-reference="flood-tactics-how-deception-campaigns-flood-the-truth-myths-and-misconcept-science-art-print" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flood-tactics-how-deception-campaigns-flood-the-truth-myths-and-misconcept-science-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science art print" data-ebay-reference="flood-tactics-how-deception-campaigns-flood-the-truth-myths-and-misconcept-science-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Educational vintage A3 A4 Mushroom Chart Biology Science Fungi art print poster"><img src="{{ '/assets/images/marketplace-covers/17e2f79b1a99ca589e72.jpg' | relative_url }}" alt="Listing image for Educational vintage A3 A4 Mushroom Chart Biology Science Fungi art print poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flood-tactics-how-deception-campaigns-flood-the-truth-myths-and-misconcept-science-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science art print" data-ebay-reference="flood-tactics-how-deception-campaigns-flood-the-truth-myths-and-misconcept-science-art-print" target="_blank" rel="sponsored noopener noreferrer">Educational vintage A3 A4 Mushroom Chart Biology Science Fungi art print poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flood-tactics-how-deception-campaigns-flood-the-truth-myths-and-misconcept-science-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science art print" data-ebay-reference="flood-tactics-how-deception-campaigns-flood-the-truth-myths-and-misconcept-science-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: science art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flood-tactics-how-deception-campaigns-flood-the-truth-myths-and-misconcept-science-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science art print" data-ebay-reference="flood-tactics-how-deception-campaigns-flood-the-truth-myths-and-misconcept-science-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flood-tactics-how-deception-campaigns-flood-the-truth-myths-and-misconcept-science-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science art print" data-ebay-reference="flood-tactics-how-deception-campaigns-flood-the-truth-myths-and-misconcept-science-art-print" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -557,7 +557,7 @@ Understanding this mechanism helps explain why organised deception can remain ef
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -577,7 +577,7 @@ Understanding this mechanism helps explain why organised deception can remain ef
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -609,7 +609,7 @@ Understanding this mechanism helps explain why organised deception can remain ef
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -661,7 +661,7 @@ Understanding this mechanism helps explain why organised deception can remain ef
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -706,7 +706,7 @@ Understanding this mechanism helps explain why organised deception can remain ef
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -747,203 +747,203 @@ Understanding this mechanism helps explain why organised deception can remain ef
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: rand.org  
-   Link: <a href="https://www.rand.org/pubs/perspectives/PE198.html" target="_blank" rel="noopener noreferrer nofollow">https://www.rand.org/pubs/perspectives/PE198.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>[11] Disinformation, “Weekly Disinformation Review,”...Read more...</p></details>
+   Link:<a href="https://www.rand.org/pubs/perspectives/PE198.html" target="_blank" rel="noopener noreferrer nofollow">https://www.rand.org/pubs/perspectives/PE198.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>[11] Disinformation, “Weekly Disinformation Review,”...Read more...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: rand.org  
-   Link: <a href="https://www.rand.org/content/dam/rand/pubs/perspectives/PE100/PE198/RAND_PE198.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.rand.org/content/dam/rand/pubs/perspectives/PE100/PE198/RAND_PE198.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>e when the disinformation is consistent with narratives or preconceptions held by various audiences.Read more...</p></details>
+   Link:<a href="https://www.rand.org/content/dam/rand/pubs/perspectives/PE100/PE198/RAND_PE198.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.rand.org/content/dam/rand/pubs/perspectives/PE100/PE198/RAND_PE198.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>e when the disinformation is consistent with narratives or preconceptions held by various audiences.Read more...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: rand.org  
    Title: beyond the [headlines](&#123;&#123; 'headlines/' | relative_url &#125;&#125;) rands christopher paul discusses  
-   Link: <a href="https://www.rand.org/pubs/articles/2016/beyond-the-headlines-rands-christopher-paul-discusses.html" target="_blank" rel="noopener noreferrer nofollow">https://www.rand.org/pubs/articles/2016/beyond-the-headlines-rands-christopher-paul-discusses.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Firehose of Falsehood” propaganda model on Dec. 7 at the research... propaganda by getting good information out in advance of disinforma...</p></details>
+   Link:<a href="https://www.rand.org/pubs/articles/2016/beyond-the-headlines-rands-christopher-paul-discusses.html" target="_blank" rel="noopener noreferrer nofollow">https://www.rand.org/pubs/articles/2016/beyond-the-headlines-rands-christopher-paul-discusses.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Firehose of Falsehood” propaganda model on Dec. 7 at the research... propaganda by getting good information out in advance of disinforma...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: vox.com  
-   Link: <a href="https://www.vox.com/policy-and-politics/2020/1/16/20991816/impeachment-trial-trump-bannon-misinformation" target="_blank" rel="noopener noreferrer nofollow">https://www.vox.com/policy-and-politics/2020/1/16/20991816/impeachment-trial-trump-bannon-misinformation</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Vox“Flood the zone with shit”: How misinformation overwhelmed...January 16, 2020 — 16 Jan 2020 — “Flood the zone with shit”: How misinfo...</p></details>
+   Link:<a href="https://www.vox.com/policy-and-politics/2020/1/16/20991816/impeachment-trial-trump-bannon-misinformation" target="_blank" rel="noopener noreferrer nofollow">https://www.vox.com/policy-and-politics/2020/1/16/20991816/impeachment-trial-trump-bannon-misinformation</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Vox“Flood the zone with shit”: How misinformation overwhelmed...January 16, 2020 — 16 Jan 2020 — “Flood the zone with shit”: How misinfo...</p></details>
    Published: January 16, 2020  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: Wikipedia  
    Title: Flood the zone  
-   Link: <a href="https://en.wikipedia.org/wiki/Flood_the_zone" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Flood_the_zone</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Flood the zoneFirehose of falsehood – Propaganda technique; Gish gallop, a person in a... &quot;&quot;Flood the zone with shit&quot;: How misinforma...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Flood_the_zone" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Flood_the_zone</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Flood the zoneFirehose of falsehood – Propaganda technique; Gish gallop, a person in a... &quot;&quot;Flood the zone with shit&quot;: How misinforma...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: disinfocode.eu  
-   Link: <a href="https://disinfocode.eu/reports/facebook/8?chapterId=73&amp;commitmentId=357" target="_blank" rel="noopener noreferrer nofollow">https://disinfocode.eu/reports/facebook/8?chapterId=73&amp;commitmentId=357</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Report March 2026 - Transparency CentreSuch behaviours and practices include: The creation and use of fake accounts, account takeovers an...</p></details>
+   Link:<a href="https://disinfocode.eu/reports/facebook/8?chapterId=73&amp;commitmentId=357" target="_blank" rel="noopener noreferrer nofollow">https://disinfocode.eu/reports/facebook/8?chapterId=73&amp;commitmentId=357</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Report March 2026 - Transparency CentreSuch behaviours and practices include: The creation and use of fake accounts, account takeovers an...</p></details>
    Published: March 2026  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: disinfocode.eu  
    Title: inauthentic behaviour by fake accounts at scale.Read more  
-   Link: <a href="https://disinfocode.eu/reports/facebook/8/text" target="_blank" rel="noopener noreferrer nofollow">https://disinfocode.eu/reports/facebook/8/text</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Report March 2026 - Transparency CenterInauthentic behaviour: We continue to investigate and take down coordinated adversarial networks o...</p></details>
+   Link:<a href="https://disinfocode.eu/reports/facebook/8/text" target="_blank" rel="noopener noreferrer nofollow">https://disinfocode.eu/reports/facebook/8/text</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Report March 2026 - Transparency CenterInauthentic behaviour: We continue to investigate and take down coordinated adversarial networks o...</p></details>
    Published: March 2026  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: arxiv.org  
    Title: arXiv Coordinated Inauthentic Behavior and Information Spreading on Twitter  
-   Link: <a href="https://arxiv.org/abs/2503.15720" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2503.15720</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Coordinated Inauthentic Behavior and Information Spreading on TwitterMarch 19, 2025...</p></details>
+   Link:<a href="https://arxiv.org/abs/2503.15720" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2503.15720</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Coordinated Inauthentic Behavior and Information Spreading on TwitterMarch 19, 2025...</p></details>
    Published: March 19, 2025  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2305.07350" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2305.07350</a>  
+   Link:<a href="https://arxiv.org/abs/2305.07350" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2305.07350</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: Wikipedia  
    Title: Firehose of falsehood  
-   Link: <a href="https://en.wikipedia.org/wiki/Firehose_of_falsehood" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Firehose_of_falsehood</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Firehose_of_falsehood" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Firehose_of_falsehood</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2410.22716" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2410.22716</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Exposing Cross-Platform Coordinated Inauthentic Activity in the Run-Up to the 2024 U.S. Election...</p></details>
+   Link:<a href="https://arxiv.org/abs/2410.22716" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2410.22716</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Exposing Cross-Platform Coordinated Inauthentic Activity in the Run-Up to the 2024 U.S. Election...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: disinfocode.eu  
-   Link: <a href="https://disinfocode.eu/reports/meta/8?chapterId=80&amp;commitmentId=389" target="_blank" rel="noopener noreferrer nofollow">https://disinfocode.eu/reports/meta/8?chapterId=80&amp;commitmentId=389</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Report March 2026 - Transparency CentreThe aim of this report is to provide an update on how Meta approached misinformation and disinform...</p></details>
+   Link:<a href="https://disinfocode.eu/reports/meta/8?chapterId=80&amp;commitmentId=389" target="_blank" rel="noopener noreferrer nofollow">https://disinfocode.eu/reports/meta/8?chapterId=80&amp;commitmentId=389</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Report March 2026 - Transparency CentreThe aim of this report is to provide an update on how Meta approached misinformation and disinform...</p></details>
    Published: March 2026  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: disinfocode.eu  
-   Link: <a href="https://disinfocode.eu/reports/facebook/5?chapterId=43&amp;commitmentId=214" target="_blank" rel="noopener noreferrer nofollow">https://disinfocode.eu/reports/facebook/5?chapterId=43&amp;commitmentId=214</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Report March 2025 - Transparency CentreSuch behaviours and practices include: The creation and use of fake accounts, account takeovers an...</p></details>
+   Link:<a href="https://disinfocode.eu/reports/facebook/5?chapterId=43&amp;commitmentId=214" target="_blank" rel="noopener noreferrer nofollow">https://disinfocode.eu/reports/facebook/5?chapterId=43&amp;commitmentId=214</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Report March 2025 - Transparency CentreSuch behaviours and practices include: The creation and use of fake accounts, account takeovers an...</p></details>
    Published: March 2025  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: disinfocode.eu  
-   Link: <a href="https://disinfocode.eu/reports/meta/8" target="_blank" rel="noopener noreferrer nofollow">https://disinfocode.eu/reports/meta/8</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Report March 2026 - Transparency CentreThe aim of this report is to provide an update on how Meta approached misinformation and disinform...</p></details>
+   Link:<a href="https://disinfocode.eu/reports/meta/8" target="_blank" rel="noopener noreferrer nofollow">https://disinfocode.eu/reports/meta/8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Report March 2026 - Transparency CentreThe aim of this report is to provide an update on how Meta approached misinformation and disinform...</p></details>
    Published: March 2026  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: transparency.meta.com  
    Title: integrity reports h1 2026  
-   Link: <a href="https://transparency.meta.com/reports/integrity-reports-h1-2026/" target="_blank" rel="noopener noreferrer nofollow">https://transparency.meta.com/reports/integrity-reports-h1-2026/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Reports, H1 2026 - Transparency Center19 Mar 2026 — We published our H1 2026 Adversarial Threat Report on March 11, where we detailed res...</p></details>
+   Link:<a href="https://transparency.meta.com/reports/integrity-reports-h1-2026/" target="_blank" rel="noopener noreferrer nofollow">https://transparency.meta.com/reports/integrity-reports-h1-2026/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Reports, H1 2026 - Transparency Center19 Mar 2026 — We published our H1 2026 Adversarial Threat Report on March 11, where we detailed res...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: transparency.meta.com  
    Title: inauthentic behavior  
-   Link: <a href="https://transparency.meta.com/en-gb/policies/community-standards/inauthentic-behavior/" target="_blank" rel="noopener noreferrer nofollow">https://transparency.meta.com/en-gb/policies/community-standards/inauthentic-behavior/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Behaviour | Transparency CentreInauthentic Behaviour refers to a variety of complex forms of deception, performed by a network of inauthe...</p></details>
+   Link:<a href="https://transparency.meta.com/en-gb/policies/community-standards/inauthentic-behavior/" target="_blank" rel="noopener noreferrer nofollow">https://transparency.meta.com/en-gb/policies/community-standards/inauthentic-behavior/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Behaviour | Transparency CentreInauthentic Behaviour refers to a variety of complex forms of deception, performed by a network of inauthe...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: time.com  
    Title: domestic disinformation growing menace america  
-   Link: <a href="https://time.com/5860215/domestic-disinformation-growing-menace-america/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/5860215/domestic-disinformation-growing-menace-america/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>misinformation and outright lies. Yes, disinformation comes from... As Steve Bannon so eloquently put it, “Flood the zone with shit...R...</p></details>
+   Link:<a href="https://time.com/5860215/domestic-disinformation-growing-menace-america/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/5860215/domestic-disinformation-growing-menace-america/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>misinformation and outright lies. Yes, disinformation comes from... As Steve Bannon so eloquently put it, “Flood the zone with shit...R...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: about.fb.com  
    Title: march 2021 coordinated inauthentic behavior report  
-   Link: <a href="https://about.fb.com/news/2021/04/march-2021-coordinated-inauthentic-behavior-report/" target="_blank" rel="noopener noreferrer nofollow">https://about.fb.com/news/2021/04/march-2021-coordinated-inauthentic-behavior-report/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>troll... We view CIB as coordinated efforts to manipulate public debate for a strategic goal where fake accounts are central to the oper...</p></details>
+   Link:<a href="https://about.fb.com/news/2021/04/march-2021-coordinated-inauthentic-behavior-report/" target="_blank" rel="noopener noreferrer nofollow">https://about.fb.com/news/2021/04/march-2021-coordinated-inauthentic-behavior-report/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>troll... We view CIB as coordinated efforts to manipulate public debate for a strategic goal where fake accounts are central to the oper...</p></details>
    Published: march 2021  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: about.fb.com  
    Title: july 2021 coordinated inauthentic behavior report  
-   Link: <a href="https://about.fb.com/news/2021/08/july-2021-coordinated-inauthentic-behavior-report/" target="_blank" rel="noopener noreferrer nofollow">https://about.fb.com/news/2021/08/july-2021-coordinated-inauthentic-behavior-report/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>FacebookJuly 2021 Coordinated Inauthentic Behavior Report10 Aug 2021 — We view CIB as coordinated efforts to manipulate public debate for...</p></details>
+   Link:<a href="https://about.fb.com/news/2021/08/july-2021-coordinated-inauthentic-behavior-report/" target="_blank" rel="noopener noreferrer nofollow">https://about.fb.com/news/2021/08/july-2021-coordinated-inauthentic-behavior-report/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FacebookJuly 2021 Coordinated Inauthentic Behavior Report10 Aug 2021 — We view CIB as coordinated efforts to manipulate public debate for...</p></details>
    Published: july 2021  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: about.fb.com  
-   Link: <a href="https://about.fb.com/news/2021/11/october-2021-coordinated-inauthentic-behavior-report/" target="_blank" rel="noopener noreferrer nofollow">https://about.fb.com/news/2021/11/october-2021-coordinated-inauthentic-behavior-report/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>FacebookOctober 2021 Coordinated Inauthentic Behavior ReportNov 1, 2021 — We view CIB as coordinated efforts to manipulate public debate...</p></details>
+   Link:<a href="https://about.fb.com/news/2021/11/october-2021-coordinated-inauthentic-behavior-report/" target="_blank" rel="noopener noreferrer nofollow">https://about.fb.com/news/2021/11/october-2021-coordinated-inauthentic-behavior-report/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FacebookOctober 2021 Coordinated Inauthentic Behavior ReportNov 1, 2021 — We view CIB as coordinated efforts to manipulate public debate...</p></details>
    Published: October 2021  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: about.fb.com  
    Title: Facebook Removing Coordinated Inauthentic Behavior  
-   Link: <a href="https://about.fb.com/news/2020/07/removing-political-coordinated-inauthentic-behavior/" target="_blank" rel="noopener noreferrer nofollow">https://about.fb.com/news/2020/07/removing-political-coordinated-inauthentic-behavior/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>FacebookRemoving Coordinated Inauthentic Behavior - About MetaJul 8, 2020 — Today, we removed four separate networks for violating our po...</p></details>
+   Link:<a href="https://about.fb.com/news/2020/07/removing-political-coordinated-inauthentic-behavior/" target="_blank" rel="noopener noreferrer nofollow">https://about.fb.com/news/2020/07/removing-political-coordinated-inauthentic-behavior/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FacebookRemoving Coordinated Inauthentic Behavior - About MetaJul 8, 2020 — Today, we removed four separate networks for violating our po...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: wsj.com  
-   Link: <a href="https://www.wsj.com/tech/meta-takes-down-inauthentic-accounts-on-facebook-instagram-linked-to-israeli-firm-cb03821f" target="_blank" rel="noopener noreferrer nofollow">https://www.wsj.com/tech/meta-takes-down-inauthentic-accounts-on-facebook-instagram-linked-to-israeli-firm-cb03821f</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>These accounts masqueraded as U.S. and Canadian locals, including Jewish students and African-Americans. The comments were mainly in Engl...</p></details>
+   Link:<a href="https://www.wsj.com/tech/meta-takes-down-inauthentic-accounts-on-facebook-instagram-linked-to-israeli-firm-cb03821f" target="_blank" rel="noopener noreferrer nofollow">https://www.wsj.com/tech/meta-takes-down-inauthentic-accounts-on-facebook-instagram-linked-to-israeli-firm-cb03821f</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>These accounts masqueraded as U.S. and Canadian locals, including Jewish students and African-Americans. The comments were mainly in Engl...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/world/article/2024/may/18/disappearing-ink-fake-polls-and-voter-eu-fears-as-russian-propaganda-ads-target-euro-elections" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/article/2024/may/18/disappearing-ink-fake-polls-and-voter-eu-fears-as-russian-propaganda-ads-target-euro-elections</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Los anuncios, que no estaban etiquetados como publicidad política, violan las normas de Meta y posiblemente la legislación de la UE. Esta...</p></details>
+   Link:<a href="https://www.theguardian.com/world/article/2024/may/18/disappearing-ink-fake-polls-and-voter-eu-fears-as-russian-propaganda-ads-target-euro-elections" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/article/2024/may/18/disappearing-ink-fake-polls-and-voter-eu-fears-as-russian-propaganda-ads-target-euro-elections</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Los anuncios, que no estaban etiquetados como publicidad política, violan las normas de Meta y posiblemente la legislación de la UE. Esta...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: russiamatters.org  
-   Link: <a href="https://www.russiamatters.org/analysis/russian-firehose-falsehood-propaganda-model" target="_blank" rel="noopener noreferrer nofollow">https://www.russiamatters.org/analysis/russian-firehose-falsehood-propaganda-model</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>July 11... Forewarn audiences of misinformation, or merely reach them first with the truth, rather...</p></details>
+   Link:<a href="https://www.russiamatters.org/analysis/russian-firehose-falsehood-propaganda-model" target="_blank" rel="noopener noreferrer nofollow">https://www.russiamatters.org/analysis/russian-firehose-falsehood-propaganda-model</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>July 11... Forewarn audiences of misinformation, or merely reach them first with the truth, rather...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: disinfo.eu  
    Title: disinfo update 15 07 2025  
-   Link: <a href="https://www.disinfo.eu/disinfo-update-15-07-2025/" target="_blank" rel="noopener noreferrer nofollow">https://www.disinfo.eu/disinfo-update-15-07-2025/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Disinfo update: new reports, bots, and tensions15 Jul 2025 — The HEAT report also exposes Coordinated Inauthentic Behaviour on major plat...</p></details>
+   Link:<a href="https://www.disinfo.eu/disinfo-update-15-07-2025/" target="_blank" rel="noopener noreferrer nofollow">https://www.disinfo.eu/disinfo-update-15-07-2025/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Disinfo update: new reports, bots, and tensions15 Jul 2025 — The HEAT report also exposes Coordinated Inauthentic Behaviour on major plat...</p></details>
 
 ### Additional References
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: businessinsider.com  
-   Link: <a href="https://www.businessinsider.com/meta-russia-misinformation-ai-generated-news-stories-us-election-2024-8" target="_blank" rel="noopener noreferrer nofollow">https://www.businessinsider.com/meta-russia-misinformation-ai-generated-news-stories-us-election-2024-8</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Utilizing AI, Russia creates fake personas and publishes distorted news on fictitious sites. This campaign aims to sway US public opinion...</p></details>
+   Link:<a href="https://www.businessinsider.com/meta-russia-misinformation-ai-generated-news-stories-us-election" target="_blank" rel="noopener noreferrer nofollow">https://www.businessinsider.com/meta-russia-misinformation-ai-generated-news-stories-us-election</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Utilizing AI, Russia creates fake personas and publishes distorted news on fictitious sites. This campaign aims to sway US public opinion...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/posts/miriam-matthews_the-firehose-of-falsehood-propaganda-model-activity-7463303382519283712-qeRF" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/miriam-matthews_the-firehose-of-falsehood-propaganda-model-activity-7463303382519283712-qeRF</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Miriam Matthews&#x27; PostRecently spoke on RAND&#x27;s &quot;Firehose of Falsehood&quot; propaganda model, including what it revealed about Russian disinfor...</p></details>
+   Link:<a href="https://www.linkedin.com/posts/miriam-matthews_the-firehose-of-falsehood-propaganda-model-activity-7463303382519283712-qeRF" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/miriam-matthews_the-firehose-of-falsehood-propaganda-model-activity-7463303382519283712-qeRF</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Miriam Matthews&#x27; PostRecently spoke on RAND&#x27;s &quot;Firehose of Falsehood&quot; propaganda model, including what it revealed about Russian disinfor...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: scienceopen.com  
-   Link: <a href="https://www.scienceopen.com/book?vid=86a3c9af-13a7-4701-827f-0d1abcc3de8d" target="_blank" rel="noopener noreferrer nofollow">https://www.scienceopen.com/book?vid=86a3c9af-13a7-4701-827f-0d1abcc3de8d</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Russian &quot;Firehose of Falsehood&quot; Propaganda ModelThe Russian &quot;Firehose of Falsehood&quot; Propaganda Model: Why It Might Work and Options t...</p></details>
+   Link:<a href="https://www.scienceopen.com/book?vid=86a3c9af-13a7-4701-827f-0d1abcc3de8d" target="_blank" rel="noopener noreferrer nofollow">https://www.scienceopen.com/book?vid=86a3c9af-13a7-4701-827f-0d1abcc3de8d</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Russian &quot;Firehose of Falsehood&quot; Propaganda ModelThe Russian &quot;Firehose of Falsehood&quot; Propaganda Model: Why It Might Work and Options t...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: wgcu.org  
    Title: the firehose of falsehood propaganda model that overwhelms facts with fiction  
-   Link: <a href="https://www.wgcu.org/podcast/gulf-coast-life/2026-02-17/the-firehose-of-falsehood-propaganda-model-that-overwhelms-facts-with-fiction" target="_blank" rel="noopener noreferrer nofollow">https://www.wgcu.org/podcast/gulf-coast-life/2026-02-17/the-firehose-of-falsehood-propaganda-model-that-overwhelms-facts-with-fiction</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The &#x27;Firehose of Falsehood Propaganda Model&#x27; that...17 Feb 2026 — In 2016 the nonpartisan global policy think tank RAND Corporation publ...</p></details>
+   Link:<a href="https://www.wgcu.org/podcast/gulf-coast-life/2026-02-17/the-firehose-of-falsehood-propaganda-model-that-overwhelms-facts-with-fiction" target="_blank" rel="noopener noreferrer nofollow">https://www.wgcu.org/podcast/gulf-coast-life/2026-02-17/the-firehose-of-falsehood-propaganda-model-that-overwhelms-facts-with-fiction</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The &#x27;Firehose of Falsehood Propaganda Model&#x27; that...17 Feb 2026 — In 2016 the nonpartisan global policy think tank RAND Corporation publ...</p></details>
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: ofcom.org.uk  
    Title: investigation into metas compliance with statutory requests for information  
-   Link: <a href="https://www.ofcom.org.uk/phones-and-broadband/telecoms-infrastructure/investigation-into-metas-compliance-with-statutory-requests-for-information" target="_blank" rel="noopener noreferrer nofollow">https://www.ofcom.org.uk/phones-and-broadband/telecoms-infrastructure/investigation-into-metas-compliance-with-statutory-requests-for-information</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Investigation into Meta&#x27;s compliance with statutory requests...23 Jan 2026 — We are investigating whether Meta has failed to comply with...</p></details>
+   Link:<a href="https://www.ofcom.org.uk/phones-and-broadband/telecoms-infrastructure/investigation-into-metas-compliance-with-statutory-requests-for-information" target="_blank" rel="noopener noreferrer nofollow">https://www.ofcom.org.uk/phones-and-broadband/telecoms-infrastructure/investigation-into-metas-compliance-with-statutory-requests-for-information</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Investigation into Meta&#x27;s compliance with statutory requests...23 Jan 2026 — We are investigating whether Meta has failed to comply with...</p></details>
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: about.fb.com  
    Title: fighting scammers protecting people with new technology and partnerships  
-   Link: <a href="https://about.fb.com/news/2026/03/fighting-scammers-protecting-people-with-new-technology-and-partnerships/" target="_blank" rel="noopener noreferrer nofollow">https://about.fb.com/news/2026/03/fighting-scammers-protecting-people-with-new-technology-and-partnerships/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Scammers and Protecting People With New...11 Mar 2026 — In 2025, we removed over 159 million scam ads for violating our policies, and we...</p></details>
+   Link:<a href="https://about.fb.com/news/2026/03/fighting-scammers-protecting-people-with-new-technology-and-partnerships/" target="_blank" rel="noopener noreferrer nofollow">https://about.fb.com/news/2026/03/fighting-scammers-protecting-people-with-new-technology-and-partnerships/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Scammers and Protecting People With New...11 Mar 2026 — In 2025, we removed over 159 million scam ads for violating our policies, and we...</p></details>
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S2468696422000271" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S2468696422000271</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>From fake account trafficking to coordinated inauthentic...by M Mazza · 2022 · Cited by 50 — Ready-to-(ab)use: From fake account traffic...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/abs/pii/S2468696422000271" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S2468696422000271</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>From fake account trafficking to coordinated inauthentic...by M Mazza · 2022 · Cited by 50 — Ready-to-(ab)use: From fake account traffic...</p></details>
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7079108/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC7079108/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>and [communicating](&amp;#123;&amp;#123; &#x27;communicating/&#x27; | relative_url &amp;#125;&amp;#125;) “soft facts” after terrorismby M Innes · 2020 · Cited by 62 — Network propaganda: Manipulation, disinformation, and rad...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7079108/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC7079108/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>and [communicating](&amp;#123;&amp;#123; &#x27;communicating/&#x27; | relative_url &amp;#125;&amp;#125;) “soft facts” after terrorismby M Innes · 2020 · Cited by 62 — Network propaganda: Manipulation, disinformation, and rad...</p></details>
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: smallwarsjournal.com  
    Title: rand report the russian firehose of falsehood propaganda model  
-   Link: <a href="https://smallwarsjournal.com/2016/07/15/rand-report-the-russian-firehose-of-falsehood-propaganda-model/" target="_blank" rel="noopener noreferrer nofollow">https://smallwarsjournal.com/2016/07/15/rand-report-the-russian-firehose-of-falsehood-propaganda-model/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Russian &quot;Firehose of Falsehood&quot; Propaganda Model15 Jul 2016 — Forewarn audiences of misinformation, or merely reach them first with t...</p></details>
+   Link:<a href="https://smallwarsjournal.com/2016/07/15/rand-report-the-russian-firehose-of-falsehood-propaganda-model/" target="_blank" rel="noopener noreferrer nofollow">https://smallwarsjournal.com/2016/07/15/rand-report-the-russian-firehose-of-falsehood-propaganda-model/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Russian &quot;Firehose of Falsehood&quot; Propaganda Model15 Jul 2016 — Forewarn audiences of misinformation, or merely reach them first with t...</p></details>
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: atlantic-forum.com  
-   Link: <a href="https://www.atlantic-forum.com/our-views/the-hidden-matryoshka-the-strategic-weaponization-of-russian-disinformation-campaigns-through-rts-nested-layers-of-influence-and-the-perils-of-the-firehose-of-falsehood-model-of-propaganda" target="_blank" rel="noopener noreferrer nofollow">https://www.atlantic-forum.com/our-views/the-hidden-matryoshka-the-strategic-weaponization-of-russian-disinformation-campaigns-through-rts-nested-layers-of-influence-and-the-perils-of-the-firehose-of-falsehood-model-of-propaganda</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>paigns Through RT&#x27;s Nested Layers of Influence and the Perils of the &#x27;Firehose...Read more...</p></details>
+   Link:<a href="https://www.atlantic-forum.com/our-views/the-hidden-matryoshka-the-strategic-weaponization-of-russian-disinformation-campaigns-through-rts-nested-layers-of-influence-and-the-perils-of-the-firehose-of-falsehood-model-of-propaganda" target="_blank" rel="noopener noreferrer nofollow">https://www.atlantic-forum.com/our-views/the-hidden-matryoshka-the-strategic-weaponization-of-russian-disinformation-campaigns-through-rts-nested-layers-of-influence-and-the-perils-of-the-firehose-of-falsehood-model-of-propaganda</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>paigns Through RT&#x27;s Nested Layers of Influence and the Perils of the &#x27;Firehose...Read more...</p></details>

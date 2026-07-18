@@ -498,7 +498,7 @@ image: /assets/images/Myths_and_misconcept_0d48d7_ten_percent_brain_my_db46b9-ov
 The idea that humans use only 10 per cent of their brains is one of the most successful modern myths. It survives because it combines two powerful messages: that science has uncovered a hidden truth about the mind, and that almost everyone possesses vast unrealised abilities waiting to be unlocked. The claim appears in self-help culture, advertising, motivational speeches and popular films, often accompanied by the promise that extraordinary intelligence, creativity or mental powers lie dormant inside ordinary people.
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_ten_percent_brain_my_db46b9-overview.webp" | relative_url }}" alt="Overview image for 10 Brain" loading="eager" decoding="sync" fetchpriority="high">
-The problem is that the slogan is not supported by neuroscience. Modern brain research shows that the brain is active across many interconnected regions throughout the day, even during sleep. The myth persists not because the evidence is strong, but because the story is emotionally attractive. It turns the complexity of human development into a simple narrative of hidden potential. MIT McGovern Institute <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scientificamerican.com/article/do-people-only-use-10-percent-of-their-brains/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scientificamerican.com">[Scientific American]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scientificamerican.com</span><span class="citation-popover-title">do people only use 10 percent of their brains</span><span class="citation-popover-snippet">?7 Feb 2008  The &quot;10 percent myth&quot; is so wrong it is almost laughable, says neurologist Barry Gordon at Johns Hopkins School of Medicine...</span></span></span>
+The problem is that the slogan is not supported by neuroscience. Modern brain research shows that the brain is active across many interconnected regions throughout the day, even during sleep. The myth persists not because the evidence is strong, but because the story is emotionally attractive. It turns the complexity of human development into a simple narrative of hidden potential. MIT McGovern Institute<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scientificamerican.com/article/do-people-only-use-10-percent-of-their-brains/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scientificamerican.com">[Scientific American]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scientificamerican.com</span><span class="citation-popover-title">do people only use 10 percent of their brains</span><span class="citation-popover-snippet">?7 Feb 2008  The &quot;10 percent myth&quot; is so wrong it is almost laughable, says neurologist Barry Gordon at Johns Hopkins School of Medicine...</span></span></span>
 
 ## The appeal of hidden potential
 
@@ -508,7 +508,7 @@ Most people have experienced moments when they performed better than expected, l
 
 This idea is especially appealing because it avoids uncomfortable limits. If the brain is already operating near its functional capacity, improvement usually requires effort, time and favourable conditions. If 90 per cent of the brain is supposedly inactive, however, improvement appears almost limitless. The promise becomes transformational rather than incremental.
 
-Psychologists and science communicators have noted that the myth is often linked to broader claims about self-optimisation and untapped human potential. It has been used to support programmes that promise accelerated learning, enhanced [memory]({{ 'memory/' | relative_url }}), psychic abilities or dramatic intellectual breakthroughs. The attraction is not simply that people want to become better; it is that they want to believe there is a hidden reserve waiting to be released. Association for Psychological Science <span class="citation-chip-wrap"><a class="citation-chip" href="https://educationalneuroscience.org.uk/wordpress/resources/neuromyth-or-neurofact/we-only-use-10-of-our-brains/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: educationalneuroscience.org.uk">[Educational Neuroscience]</a><span class="citation-popover" role="note"><span class="citation-popover-source">educationalneuroscience.org.uk</span><span class="citation-popover-snippet">Educational NeuroscienceWe only use 10% of our brainsIt seems that the 10% myth persists for two primary reasons: firstly, its intuitive...</span></span></span>
+Psychologists and science communicators have noted that the myth is often linked to broader claims about self-optimisation and untapped human potential. It has been used to support programmes that promise accelerated learning, enhanced [memory]({{ 'memory/' | relative_url }}), psychic abilities or dramatic intellectual breakthroughs. The attraction is not simply that people want to become better; it is that they want to believe there is a hidden reserve waiting to be released. Association for Psychological Science<span class="citation-chip-wrap"><a class="citation-chip" href="https://educationalneuroscience.org.uk/wordpress/resources/neuromyth-or-neurofact/we-only-use-10-of-our-brains/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: educationalneuroscience.org.uk">[Educational Neuroscience]</a><span class="citation-popover" role="note"><span class="citation-popover-source">educationalneuroscience.org.uk</span><span class="citation-popover-snippet">Educational NeuroscienceWe only use 10% of our brainsIt seems that the 10% myth persists for two primary reasons: firstly, its intuitive...</span></span></span>
 
 The myth also flatters its audience. It implies that current performance is not a reflection of present abilities but merely evidence that most of the mind remains inaccessible. That message is far easier to sell than the more ordinary reality that human improvement usually comes through education, training, health, environment and sustained practice.
 
@@ -517,9 +517,9 @@ The myth also flatters its audience. It implies that current performance is not 
 
 One reason the myth has survived is that it does not appear to have a single origin. Instead, several ideas gradually merged into a memorable slogan.
 
-A commonly cited source is the psychologist [William James]({{ 'william-james/' | relative_url }}). In the late nineteenth and early twentieth centuries, James argued that people often fail to reach their full mental and physical potential. He was discussing human capability and motivation, not unused brain tissue. Over time, however, comments about unrealised potential were transformed into a numerical claim about brain usage. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Ten-percent-of-the-brain_myth" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Ten-percent-of-the-brain myth</span><span class="citation-popover-snippet">Ten-percent-of-the-brain myth</span></span></span> PMC The myth gained further momentum through popular culture and self-improvement literature. A frequently repeated story claims that Albert Eins <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7835631/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[pmc.ncbi.nlm.nih.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">It has survived more than a century. In 1907, Williams James...Read more...</span></span></span> tein endorsed the idea, although there is no reliable evidence that he did. Motivational writers, advertisers and speakers found the claim useful because it sounded scientific while remaining easy to understand. By the mid-twentieth century, the number itself had become more important than its origin. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Ten-percent-of-the-brain_myth" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Ten-percent-of-the-brain myth</span><span class="citation-popover-snippet">Ten-percent-of-the-brain myth</span></span></span>
+A commonly cited source is the psychologist [William James]({{ 'william-james/' | relative_url }}). In the late nineteenth and early twentieth centuries, James argued that people often fail to reach their full mental and physical potential. He was discussing human capability and motivation, not unused brain tissue. Over time, however, comments about unrealised potential were transformed into a numerical claim about brain usage.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Ten-percent-of-the-brain_myth" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Ten-percent-of-the-brain myth</span><span class="citation-popover-snippet">Ten-percent-of-the-brain myth</span></span></span> PMC The myth gained further momentum through popular culture and self-improvement literature. A frequently repeated story claims that Albert Eins<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7835631/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[pmc.ncbi.nlm.nih.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">It has survived more than a century. In 1907, Williams James...Read more...</span></span></span> tein endorsed the idea, although there is no reliable evidence that he did. Motivational writers, advertisers and speakers found the claim useful because it sounded scientific while remaining easy to understand. By the mid-twentieth century, the number itself had become more important than its origin.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Ten-percent-of-the-brain_myth" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Ten-percent-of-the-brain myth</span><span class="citation-popover-snippet">Ten-percent-of-the-brain myth</span></span></span>
 
-Science fiction also helped keep the concept alive. Stories about hidden mental powers, enhanced intelligence and extraordinary cognitive abilities often used the idea that most of the brain was inactive. More recently, films such as *Lucy* and *Limitless* introduced the myth to new audiences by treating increased brain use as a route to superhuman abilities. Even when presented as fiction, such stories reinforce the basic assumption that the brain contains vast dormant regions waiting to be activated. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.brainfacts.org/brain-anatomy-and-function/anatomy/2014/lucy-and-the-10-percent-brain-myth" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: brainfacts.org">[BrainFacts]</a><span class="citation-popover" role="note"><span class="citation-popover-source">brainfacts.org</span><span class="citation-popover-title">lucy and the 10 percent brain myth</span><span class="citation-popover-snippet">The crazy thing about this belief is that despite being totally false, it is so well-known,...Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://mcgovern.mit.edu/2024/01/26/do-we-use-only-10-percent-of-our-brain/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mcgovern.mit.edu">[MIT McGovern Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mcgovern.mit.edu</span><span class="citation-popover-title">do we use only 10 percent of our brain</span><span class="citation-popover-snippet">MIT McGovern InstituteDo we only use 10 percent of our brain?Jan 26, 2024  The idea that we use 10 percent of our brain is 100 percent a...</span></span></span>
+Science fiction also helped keep the concept alive. Stories about hidden mental powers, enhanced intelligence and extraordinary cognitive abilities often used the idea that most of the brain was inactive. More recently, films such as *Lucy* and *Limitless* introduced the myth to new audiences by treating increased brain use as a route to superhuman abilities. Even when presented as fiction, such stories reinforce the basic assumption that the brain contains vast dormant regions waiting to be activated.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.brainfacts.org/brain-anatomy-and-function/anatomy/2014/lucy-and-the-10-percent-brain-myth" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: brainfacts.org">[BrainFacts]</a><span class="citation-popover" role="note"><span class="citation-popover-source">brainfacts.org</span><span class="citation-popover-title">lucy and the 10 percent brain myth</span><span class="citation-popover-snippet">The crazy thing about this belief is that despite being totally false, it is so well-known,...Read more...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://mcgovern.mit.edu/2024/01/26/do-we-use-only-10-percent-of-our-brain/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mcgovern.mit.edu">[MIT McGovern Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mcgovern.mit.edu</span><span class="citation-popover-title">do we use only 10 percent of our brain</span><span class="citation-popover-snippet">MIT McGovern InstituteDo we only use 10 percent of our brain?Jan 26, 2024  The idea that we use 10 percent of our brain is 100 percent a...</span></span></span>
 
 ## What brain activity actually shows
 
@@ -529,16 +529,16 @@ Modern neuroscience provides several independent reasons for rejecting the 10 pe
 
 Technologies such as functional magnetic resonance imaging (fMRI) and positron emission tomography (PET) allow researchers to observe patterns of activity across the living brain. Different tasks activate different networks, but the evidence does not show huge silent areas waiting for future use.
 
-A common misunderstanding comes from looking at colourful brain-scan images. In many images, only selected regions appear highlighted. This can create the impression that the rest of the brain is inactive. In reality, those highlighted areas simply show greater activity relative to a comparison condition. Much of the rest of the brain is still functioning. <span class="citation-chip-wrap"><a class="citation-chip" href="https://educationalneuroscience.org.uk/wordpress/resources/neuromyth-or-neurofact/we-only-use-10-of-our-brains/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: educationalneuroscience.org.uk">[Educational Neuroscience]</a><span class="citation-popover" role="note"><span class="citation-popover-source">educationalneuroscience.org.uk</span><span class="citation-popover-snippet">Educational NeuroscienceWe only use 10% of our brainsIt seems that the 10% myth persists for two primary reasons: firstly, its intuitive...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.britannica.com/story/do-we-really-use-only-10-percent-of-our-brain" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-snippet">Encyclopedia BritannicaDo We Really Use Only 10 Percent of Our Brain?The data clearly shows that large areas of the brainfar more than 1...</span></span></span>
+A common misunderstanding comes from looking at colourful brain-scan images. In many images, only selected regions appear highlighted. This can create the impression that the rest of the brain is inactive. In reality, those highlighted areas simply show greater activity relative to a comparison condition. Much of the rest of the brain is still functioning.<span class="citation-chip-wrap"><a class="citation-chip" href="https://educationalneuroscience.org.uk/wordpress/resources/neuromyth-or-neurofact/we-only-use-10-of-our-brains/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: educationalneuroscience.org.uk">[Educational Neuroscience]</a><span class="citation-popover" role="note"><span class="citation-popover-source">educationalneuroscience.org.uk</span><span class="citation-popover-snippet">Educational NeuroscienceWe only use 10% of our brainsIt seems that the 10% myth persists for two primary reasons: firstly, its intuitive...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.britannica.com/story/do-we-really-use-only-10-percent-of-our-brain" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-snippet">Encyclopedia BritannicaDo We Really Use Only 10 Percent of Our Brain?The data clearly shows that large areas of the brainfar more than 1...</span></span></span>
 
-Even during sleep, extensive neural activity continues. The brain remains engaged in processes related to memory, regulation, sensory monitoring and internal communication. Neuroscientists therefore describe the brain as continuously active rather than partly switched off. MIT McGovern Institute <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scientificamerican.com/article/do-people-only-use-10-percent-of-their-brains/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scientificamerican.com">[Scientific American]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scientificamerican.com</span><span class="citation-popover-title">do people only use 10 percent of their brains</span><span class="citation-popover-snippet">?7 Feb 2008  The &quot;10 percent myth&quot; is so wrong it is almost laughable, says neurologist Barry Gordon at Johns Hopkins School of Medicine...</span></span></span>
+Even during sleep, extensive neural activity continues. The brain remains engaged in processes related to memory, regulation, sensory monitoring and internal communication. Neuroscientists therefore describe the brain as continuously active rather than partly switched off. MIT McGovern Institute<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scientificamerican.com/article/do-people-only-use-10-percent-of-their-brains/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scientificamerican.com">[Scientific American]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scientificamerican.com</span><span class="citation-popover-title">do people only use 10 percent of their brains</span><span class="citation-popover-snippet">?7 Feb 2008  The &quot;10 percent myth&quot; is so wrong it is almost laughable, says neurologist Barry Gordon at Johns Hopkins School of Medicine...</span></span></span>
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_ten_percent_brain_my_db46b9-Illustration-2-dark.svg" | relative_url }}" alt="10 Brain illustration 2" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_ten_percent_brain_my_db46b9-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_ten_percent_brain_my_db46b9-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Brain damage tells a different story
 
 Evidence from injury and disease also contradicts the myth.
 
-If 90 per cent of the brain were genuinely unnecessary, damage to large areas would often have little effect. Instead, neurological injuries can produce highly specific losses involving language, memory, movement, perception, [emotion]({{ 'emotion/' | relative_url }}) or decision-making. Even relatively small areas can play important roles. Decades of clinical neurology have repeatedly shown that brain regions contribute to behaviour in ways that become visible when those regions are damaged. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Ten-percent-of-the-brain_myth" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Ten-percent-of-the-brain myth</span><span class="citation-popover-snippet">Ten-percent-of-the-brain myth</span></span></span>
+If 90 per cent of the brain were genuinely unnecessary, damage to large areas would often have little effect. Instead, neurological injuries can produce highly specific losses involving language, memory, movement, perception, [emotion]({{ 'emotion/' | relative_url }}) or decision-making. Even relatively small areas can play important roles. Decades of clinical neurology have repeatedly shown that brain regions contribute to behaviour in ways that become visible when those regions are damaged.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Ten-percent-of-the-brain_myth" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Ten-percent-of-the-brain myth</span><span class="citation-popover-snippet">Ten-percent-of-the-brain myth</span></span></span>
 
 Researchers still debate many details of how brain systems interact, but uncertainty about precise mechanisms is not evidence that most of the brain is unused. There is a major difference between saying "scientists do not fully understand everything the brain does" and saying "most of the brain does nothing".
 
@@ -546,7 +546,7 @@ Researchers still debate many details of how brain systems interact, but uncerta
 
 Another argument comes from evolution and metabolism.
 
-The human brain accounts for roughly 2 per cent of body weight but consumes about 20 per cent of the body's energy. Maintaining neural tissue is metabolically costly. From an evolutionary perspective, it would make little sense for natural selection to preserve a massive organ if most of it served no purpose. MIT McGovern Institute <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scientificamerican.com/article/do-people-only-use-10-percent-of-their-brains/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scientificamerican.com">[Scientific American]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scientificamerican.com</span><span class="citation-popover-title">do people only use 10 percent of their brains</span><span class="citation-popover-snippet">?7 Feb 2008  The &quot;10 percent myth&quot; is so wrong it is almost laughable, says neurologist Barry Gordon at Johns Hopkins School of Medicine...</span></span></span>
+The human brain accounts for roughly 2 per cent of body weight but consumes about 20 per cent of the body's energy. Maintaining neural tissue is metabolically costly. From an evolutionary perspective, it would make little sense for natural selection to preserve a massive organ if most of it served no purpose. MIT McGovern Institute<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scientificamerican.com/article/do-people-only-use-10-percent-of-their-brains/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scientificamerican.com">[Scientific American]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scientificamerican.com</span><span class="citation-popover-title">do people only use 10 percent of their brains</span><span class="citation-popover-snippet">?7 Feb 2008  The &quot;10 percent myth&quot; is so wrong it is almost laughable, says neurologist Barry Gordon at Johns Hopkins School of Medicine...</span></span></span>
 
 The existence of a large, energy-demanding brain is itself evidence that its structures contribute to survival and function. The precise role of every neuron may not be known, but the idea that 90 per cent of the organ remains idle is difficult to reconcile with what is known about biology.
 
@@ -556,13 +556,13 @@ The existence of a large, energy-demanding brain is itself evidence that its str
 
 The 10 per cent myth survives partly because it contains a grain of truth wrapped inside a false conclusion.
 
-People genuinely differ in how effectively they use their abilities. Skills can improve. Learning changes the brain. Experience can reshape neural connections. Recovery after injury is sometimes possible. [Neuroplasticity]({{ 'neuroplasticity/' | relative_url }})the brain's capacity to adapt and reorganisehas become one of the most important findings in modern neuroscience. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Ten-percent-of-the-brain_myth" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Ten-percent-of-the-brain myth</span><span class="citation-popover-snippet">Ten-percent-of-the-brain myth</span></span></span>
+People genuinely differ in how effectively they use their abilities. Skills can improve. Learning changes the brain. Experience can reshape neural connections. Recovery after injury is sometimes possible. [Neuroplasticity]({{ 'neuroplasticity/' | relative_url }})the brain's capacity to adapt and reorganisehas become one of the most important findings in modern neuroscience.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Ten-percent-of-the-brain_myth" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Ten-percent-of-the-brain myth</span><span class="citation-popover-snippet">Ten-percent-of-the-brain myth</span></span></span>
 
 The myth takes these real observations and converts them into a much stronger claim. Instead of saying that brains can change through experience, it says that most of the brain is dormant. Instead of saying that people can develop abilities, it implies that extraordinary powers are waiting behind a biological lock.
 
-This distinction matters because the real story is actually more interesting. Human development is not driven by activating unused brain sectors. It emerges from changes in networks that are already active. Learning a language, mastering an instrument or improving memory does not involve switching on hidden brain regions. It involves modifying patterns of activity and connectivity across systems that are already functioning. <span class="citation-chip-wrap"><a class="citation-chip" href="https://educationalneuroscience.org.uk/wordpress/resources/neuromyth-or-neurofact/we-only-use-10-of-our-brains/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: educationalneuroscience.org.uk">[Educational Neuroscience]</a><span class="citation-popover" role="note"><span class="citation-popover-source">educationalneuroscience.org.uk</span><span class="citation-popover-snippet">Educational NeuroscienceWe only use 10% of our brainsIt seems that the 10% myth persists for two primary reasons: firstly, its intuitive...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.medicalnewstoday.com/articles/321060" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: medicalnewstoday.com">[Medical News Today]</a><span class="citation-popover" role="note"><span class="citation-popover-source">medicalnewstoday.com</span><span class="citation-popover-snippet">fMRI scans show that even simple activities require almost all of the brain to be active...Read more...</span></span></span>
+This distinction matters because the real story is actually more interesting. Human development is not driven by activating unused brain sectors. It emerges from changes in networks that are already active. Learning a language, mastering an instrument or improving memory does not involve switching on hidden brain regions. It involves modifying patterns of activity and connectivity across systems that are already functioning.<span class="citation-chip-wrap"><a class="citation-chip" href="https://educationalneuroscience.org.uk/wordpress/resources/neuromyth-or-neurofact/we-only-use-10-of-our-brains/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: educationalneuroscience.org.uk">[Educational Neuroscience]</a><span class="citation-popover" role="note"><span class="citation-popover-source">educationalneuroscience.org.uk</span><span class="citation-popover-snippet">Educational NeuroscienceWe only use 10% of our brainsIt seems that the 10% myth persists for two primary reasons: firstly, its intuitive...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.medicalnewstoday.com/articles/321060" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: medicalnewstoday.com">[Medical News Today]</a><span class="citation-popover" role="note"><span class="citation-popover-source">medicalnewstoday.com</span><span class="citation-popover-snippet">fMRI scans show that even simple activities require almost all of the brain to be active...Read more...</span></span></span>
 
-The slogan also benefits from [repetition]({{ 'repetition/' | relative_url }}). Surveys have found that belief in the myth remains surprisingly widespread, including among some educators and trainee teachers. Once a claim becomes culturally familiar, people often remember the statement while forgetting where it came from or whether it was ever supported by evidence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://educationalneuroscience.org.uk/wordpress/resources/neuromyth-or-neurofact/we-only-use-10-of-our-brains/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: educationalneuroscience.org.uk">[Educational Neuroscience]</a><span class="citation-popover" role="note"><span class="citation-popover-source">educationalneuroscience.org.uk</span><span class="citation-popover-snippet">Educational NeuroscienceWe only use 10% of our brainsIt seems that the 10% myth persists for two primary reasons: firstly, its intuitive...</span></span></span>
+The slogan also benefits from [repetition]({{ 'repetition/' | relative_url }}). Surveys have found that belief in the myth remains surprisingly widespread, including among some educators and trainee teachers. Once a claim becomes culturally familiar, people often remember the statement while forgetting where it came from or whether it was ever supported by evidence.<span class="citation-chip-wrap"><a class="citation-chip" href="https://educationalneuroscience.org.uk/wordpress/resources/neuromyth-or-neurofact/we-only-use-10-of-our-brains/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: educationalneuroscience.org.uk">[Educational Neuroscience]</a><span class="citation-popover" role="note"><span class="citation-popover-source">educationalneuroscience.org.uk</span><span class="citation-popover-snippet">Educational NeuroscienceWe only use 10% of our brainsIt seems that the 10% myth persists for two primary reasons: firstly, its intuitive...</span></span></span>
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_ten_percent_brain_my_db46b9-Illustration-3-dark.svg" | relative_url }}" alt="10 Brain illustration 3" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_ten_percent_brain_my_db46b9-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_ten_percent_brain_my_db46b9-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The real lesson about human potential
@@ -571,199 +571,199 @@ The popularity of the 10 per cent myth reveals something important about how peo
 
 The mistake lies in assuming that hope requires a false biological claim.
 
-Modern neuroscience does not support the idea of vast unused brain regions waiting to be awakened. What it does support is a picture of a brain that remains adaptable throughout life. People can acquire new skills, recover functions, strengthen knowledge and change behaviour without discovering hidden neurological reserves. The evidence points toward development through plasticity, learning and experience rather than through unlocking a mysterious 90 per cent of the mind. MIT McGovern Institute <span class="citation-chip-wrap"><a class="citation-chip" href="https://centerforbrainhealth.org/article/only-10-of-our-brains" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: centerforbrainhealth.org">[Center for BrainHealth]</a><span class="citation-popover" role="note"><span class="citation-popover-source">centerforbrainhealth.org</span><span class="citation-popover-title">only 10 of our brains</span><span class="citation-popover-snippet">Reflecting on that age-old myth, this article explores present-day understanding of the brain&#x27;s interconnectedness...Read more...</span></span></span>
+Modern neuroscience does not support the idea of vast unused brain regions waiting to be awakened. What it does support is a picture of a brain that remains adaptable throughout life. People can acquire new skills, recover functions, strengthen knowledge and change behaviour without discovering hidden neurological reserves. The evidence points toward development through plasticity, learning and experience rather than through unlocking a mysterious 90 per cent of the mind. MIT McGovern Institute<span class="citation-chip-wrap"><a class="citation-chip" href="https://centerforbrainhealth.org/article/only-10-of-our-brains" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: centerforbrainhealth.org">[Center for BrainHealth]</a><span class="citation-popover" role="note"><span class="citation-popover-source">centerforbrainhealth.org</span><span class="citation-popover-title">only 10 of our brains</span><span class="citation-popover-snippet">Reflecting on that age-old myth, this article explores present-day understanding of the brain&#x27;s interconnectedness...Read more...</span></span></span>
 
 That reality may be less dramatic than the myth, but it is also more empowering. Human potential does not depend on accessing an unused brain. It depends on what people do with the brain they already use every day.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why the 10 Percent Brain Myth Endures. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why the 10 Percent Brain Myth Endures. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Tell-Tale+Brain+V.+S.+Ramachandran&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Tell-Tale Brain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/6681442-M.jpg" alt="Cover for The Tell-Tale Brain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Tell-Tale+Brain+V.+S.+Ramachandran&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Tell-Tale Brain">The Tell-Tale Brain</a>
-        </h4>
-        <p class="fr-book-author">By V. S. Ramachandran</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Tell-Tale+Brain+V.+S.+Ramachandran&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Tell-Tale Brain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/6681442-M.jpg" alt="Cover for The Tell-Tale Brain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Tell-Tale+Brain+V.+S.+Ramachandran&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Tell-Tale Brain">The Tell-Tale Brain</a>
+</h4>
+<p class="fr-book-author">By V. S. Ramachandran</p>
         
-        <p class="fr-book-desc">Counters simplistic myths about how the brain works.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Tell-Tale+Brain+V.+S.+Ramachandran&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Counters simplistic myths about how the brain works.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Tell-Tale+Brain+V.+S.+Ramachandran&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Brain+That+Changes+Itself+by+Norman+Doidge&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Brain That Changes Itself on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=lbgAsJi1plwC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Brain That Changes Itself" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Brain+That+Changes+Itself+by+Norman+Doidge&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Brain That Changes Itself">The Brain That Changes Itself</a>
-        </h4>
-        <p class="fr-book-author">By Norman Doidge</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Brain+That+Changes+Itself+by+Norman+Doidge&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Brain That Changes Itself on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=lbgAsJi1plwC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Brain That Changes Itself" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Brain+That+Changes+Itself+by+Norman+Doidge&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Brain That Changes Itself">The Brain That Changes Itself</a>
+</h4>
+<p class="fr-book-author">By Norman Doidge</p>
         
-        <p class="fr-book-desc">Explains adaptation without invoking unused brain regions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Brain+That+Changes+Itself+by+Norman+Doidge&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains adaptation without invoking unused brain regions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Brain+That+Changes+Itself+by+Norman+Doidge&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Phantoms+in+the+brain+%3A+probing+the+mysteries+of+the+human+mind+V.+S.+Ramachandran+%28neurology%29&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Phantoms in the brain : probing the mysteries of the human mind on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/432813-M.jpg" alt="Cover for Phantoms in the brain : probing the mysteries of the human mind" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Phantoms+in+the+brain+%3A+probing+the+mysteries+of+the+human+mind+V.+S.+Ramachandran+%28neurology%29&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Phantoms in the brain : probing the mysteries of the human mind">Phantoms in the brain : probing the mysteries of the human mind</a>
-        </h4>
-        <p class="fr-book-author">By V. S. Ramachandran (neurology), Sandra Blakeslee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Phantoms+in+the+brain+%3A+probing+the+mysteries+of+the+human+mind+V.+S.+Ramachandran+%28neurology%29&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Phantoms in the brain : probing the mysteries of the human mind on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/432813-M.jpg" alt="Cover for Phantoms in the brain : probing the mysteries of the human mind" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Phantoms+in+the+brain+%3A+probing+the+mysteries+of+the+human+mind+V.+S.+Ramachandran+%28neurology%29&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Phantoms in the brain : probing the mysteries of the human mind">Phantoms in the brain : probing the mysteries of the human mind</a>
+</h4>
+<p class="fr-book-author">By V. S. Ramachandran (neurology), Sandra Blakeslee</p>
         
-        <p class="fr-book-desc">First published 1999. Subjects: Neurosciences, Brain, Neurology, Popular works, Mind and body.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Phantoms+in+the+brain+%3A+probing+the+mysteries+of+the+human+mind+V.+S.+Ramachandran+%28neurology%29&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1999. Subjects: Neurosciences, Brain, Neurology, Popular works, Mind and body.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Phantoms+in+the+brain+%3A+probing+the+mysteries+of+the+human+mind+V.+S.+Ramachandran+%28neurology%29&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Livewired+David+Eagleman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Livewired on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10201407-M.jpg" alt="Cover for Livewired" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Livewired+David+Eagleman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Livewired">Livewired</a>
-        </h4>
-        <p class="fr-book-author">By David Eagleman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Livewired+David+Eagleman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Livewired on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10201407-M.jpg" alt="Cover for Livewired" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Livewired+David+Eagleman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Livewired">Livewired</a>
+</h4>
+<p class="fr-book-author">By David Eagleman</p>
         
-        <p class="fr-book-desc">First published 2020. Subjects: Physiology, Internal medicine, Brain, Neuroplasticity, Learning.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Livewired+David+Eagleman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2020. Subjects: Physiology, Internal medicine, Brain, Neuroplasticity, Learning.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Livewired+David+Eagleman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Tell+Tale+Brain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Tell Tale Brain</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Brain+That+Changes+Itself&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Brain That Changes Itself</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Phantoms+in+the+brain+%3A+probing+the+mysteries+of+the+human+mind&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Phantoms in the brain : probing the mysteries of the human mind</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Tell+Tale+Brain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Tell Tale Brain</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Brain+That+Changes+Itself&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Brain That Changes Itself</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Phantoms+in+the+brain+%3A+probing+the+mysteries+of+the+human+mind&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Phantoms in the brain : probing the mysteries of the human mind</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=brain+anatomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=10-brain-why-the-10-percent-brain-myth-endures-myths-and-misconcept-brain-anatomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="brain anatomy poster" data-ebay-reference="10-brain-why-the-10-percent-brain-myth-endures-myths-and-misconcept-brain-anatomy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Human Anatomy Posters – Skeleton, Muscles, Organs – Framed or Unframed"><img src="{{ '/assets/images/marketplace-covers/9772fd9d8d1f64190d32.jpg' | relative_url }}" alt="Listing image for Human Anatomy Posters – Skeleton, Muscles, Organs – Framed or Unframed" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=brain+anatomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=10-brain-why-the-10-percent-brain-myth-endures-myths-and-misconcept-brain-anatomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="brain anatomy poster" data-ebay-reference="10-brain-why-the-10-percent-brain-myth-endures-myths-and-misconcept-brain-anatomy-poster" target="_blank" rel="sponsored noopener noreferrer">Human Anatomy Posters – Skeleton, Muscles, Organs – Framed or Unframed</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=brain+anatomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=10-brain-why-the-10-percent-brain-myth-endures-myths-and-misconcept-brain-anatomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="brain anatomy poster" data-ebay-reference="10-brain-why-the-10-percent-brain-myth-endures-myths-and-misconcept-brain-anatomy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for brain anatomy poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: brain anatomy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=brain+anatomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=10-brain-why-the-10-percent-brain-myth-endures-myths-and-misconcept-brain-anatomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="brain anatomy poster" data-ebay-reference="10-brain-why-the-10-percent-brain-myth-endures-myths-and-misconcept-brain-anatomy-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=brain+anatomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=10-brain-why-the-10-percent-brain-myth-endures-myths-and-misconcept-brain-anatomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="brain anatomy poster" data-ebay-reference="10-brain-why-the-10-percent-brain-myth-endures-myths-and-misconcept-brain-anatomy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Human Anatomy Posters – Skeleton, Muscles, Organs – Framed or Unframed"><img src="{{ '/assets/images/marketplace-covers/9772fd9d8d1f64190d32.jpg' | relative_url }}" alt="Listing image for Human Anatomy Posters – Skeleton, Muscles, Organs – Framed or Unframed" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=brain+anatomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=10-brain-why-the-10-percent-brain-myth-endures-myths-and-misconcept-brain-anatomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="brain anatomy poster" data-ebay-reference="10-brain-why-the-10-percent-brain-myth-endures-myths-and-misconcept-brain-anatomy-poster" target="_blank" rel="sponsored noopener noreferrer">Human Anatomy Posters – Skeleton, Muscles, Organs – Framed or Unframed</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=brain+anatomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=10-brain-why-the-10-percent-brain-myth-endures-myths-and-misconcept-brain-anatomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="brain anatomy poster" data-ebay-reference="10-brain-why-the-10-percent-brain-myth-endures-myths-and-misconcept-brain-anatomy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for brain anatomy poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: brain anatomy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=brain+anatomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=10-brain-why-the-10-percent-brain-myth-endures-myths-and-misconcept-brain-anatomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="brain anatomy poster" data-ebay-reference="10-brain-why-the-10-percent-brain-myth-endures-myths-and-misconcept-brain-anatomy-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=brain+anatomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=10-brain-why-the-10-percent-brain-myth-endures-myths-and-misconcept-brain-anatomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="brain anatomy poster" data-ebay-reference="10-brain-why-the-10-percent-brain-myth-endures-myths-and-misconcept-brain-anatomy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Human Brain Anatomy With Inspiratio Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/8c32e586d37fa28e39d6.jpg' | relative_url }}" alt="Listing image for Human Brain Anatomy With Inspiratio Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=brain+anatomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=10-brain-why-the-10-percent-brain-myth-endures-myths-and-misconcept-brain-anatomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="brain anatomy poster" data-ebay-reference="10-brain-why-the-10-percent-brain-myth-endures-myths-and-misconcept-brain-anatomy-poster" target="_blank" rel="sponsored noopener noreferrer">Human Brain Anatomy With Inspiratio Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=brain+anatomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=10-brain-why-the-10-percent-brain-myth-endures-myths-and-misconcept-brain-anatomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="brain anatomy poster" data-ebay-reference="10-brain-why-the-10-percent-brain-myth-endures-myths-and-misconcept-brain-anatomy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for brain anatomy poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: brain anatomy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=brain+anatomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=10-brain-why-the-10-percent-brain-myth-endures-myths-and-misconcept-brain-anatomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="brain anatomy poster" data-ebay-reference="10-brain-why-the-10-percent-brain-myth-endures-myths-and-misconcept-brain-anatomy-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=brain+anatomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=10-brain-why-the-10-percent-brain-myth-endures-myths-and-misconcept-brain-anatomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="brain anatomy poster" data-ebay-reference="10-brain-why-the-10-percent-brain-myth-endures-myths-and-misconcept-brain-anatomy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Human Brain Anatomy With Inspiratio Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/8c32e586d37fa28e39d6.jpg' | relative_url }}" alt="Listing image for Human Brain Anatomy With Inspiratio Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=brain+anatomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=10-brain-why-the-10-percent-brain-myth-endures-myths-and-misconcept-brain-anatomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="brain anatomy poster" data-ebay-reference="10-brain-why-the-10-percent-brain-myth-endures-myths-and-misconcept-brain-anatomy-poster" target="_blank" rel="sponsored noopener noreferrer">Human Brain Anatomy With Inspiratio Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=brain+anatomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=10-brain-why-the-10-percent-brain-myth-endures-myths-and-misconcept-brain-anatomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="brain anatomy poster" data-ebay-reference="10-brain-why-the-10-percent-brain-myth-endures-myths-and-misconcept-brain-anatomy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for brain anatomy poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: brain anatomy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=brain+anatomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=10-brain-why-the-10-percent-brain-myth-endures-myths-and-misconcept-brain-anatomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="brain anatomy poster" data-ebay-reference="10-brain-why-the-10-percent-brain-myth-endures-myths-and-misconcept-brain-anatomy-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=brain+anatomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=10-brain-why-the-10-percent-brain-myth-endures-myths-and-misconcept-brain-anatomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="brain anatomy poster" data-ebay-reference="10-brain-why-the-10-percent-brain-myth-endures-myths-and-misconcept-brain-anatomy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Human Brain Anatomy Poster Medical Doctor Anatomical Educational Poster A5-A1"><img src="{{ '/assets/images/marketplace-covers/d252c9d704756e344b96.jpg' | relative_url }}" alt="Listing image for Human Brain Anatomy Poster Medical Doctor Anatomical Educational Poster A5-A1" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=brain+anatomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=10-brain-why-the-10-percent-brain-myth-endures-myths-and-misconcept-brain-anatomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="brain anatomy poster" data-ebay-reference="10-brain-why-the-10-percent-brain-myth-endures-myths-and-misconcept-brain-anatomy-poster" target="_blank" rel="sponsored noopener noreferrer">Human Brain Anatomy Poster Medical Doctor Anatomical Educational Poster A5-A1</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=brain+anatomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=10-brain-why-the-10-percent-brain-myth-endures-myths-and-misconcept-brain-anatomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="brain anatomy poster" data-ebay-reference="10-brain-why-the-10-percent-brain-myth-endures-myths-and-misconcept-brain-anatomy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for brain anatomy poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: brain anatomy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=brain+anatomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=10-brain-why-the-10-percent-brain-myth-endures-myths-and-misconcept-brain-anatomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="brain anatomy poster" data-ebay-reference="10-brain-why-the-10-percent-brain-myth-endures-myths-and-misconcept-brain-anatomy-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=brain+anatomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=10-brain-why-the-10-percent-brain-myth-endures-myths-and-misconcept-brain-anatomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="brain anatomy poster" data-ebay-reference="10-brain-why-the-10-percent-brain-myth-endures-myths-and-misconcept-brain-anatomy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Human Brain Anatomy Poster Medical Doctor Anatomical Educational Poster A5-A1"><img src="{{ '/assets/images/marketplace-covers/d252c9d704756e344b96.jpg' | relative_url }}" alt="Listing image for Human Brain Anatomy Poster Medical Doctor Anatomical Educational Poster A5-A1" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=brain+anatomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=10-brain-why-the-10-percent-brain-myth-endures-myths-and-misconcept-brain-anatomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="brain anatomy poster" data-ebay-reference="10-brain-why-the-10-percent-brain-myth-endures-myths-and-misconcept-brain-anatomy-poster" target="_blank" rel="sponsored noopener noreferrer">Human Brain Anatomy Poster Medical Doctor Anatomical Educational Poster A5-A1</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=brain+anatomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=10-brain-why-the-10-percent-brain-myth-endures-myths-and-misconcept-brain-anatomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="brain anatomy poster" data-ebay-reference="10-brain-why-the-10-percent-brain-myth-endures-myths-and-misconcept-brain-anatomy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for brain anatomy poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: brain anatomy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=brain+anatomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=10-brain-why-the-10-percent-brain-myth-endures-myths-and-misconcept-brain-anatomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="brain anatomy poster" data-ebay-reference="10-brain-why-the-10-percent-brain-myth-endures-myths-and-misconcept-brain-anatomy-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=brain+anatomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=10-brain-why-the-10-percent-brain-myth-endures-myths-and-misconcept-brain-anatomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="brain anatomy poster" data-ebay-reference="10-brain-why-the-10-percent-brain-myth-endures-myths-and-misconcept-brain-anatomy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Great Canvas Poster &#x27;Anatomy and Functions of the Brain&#x27;s. (12 to 18 Inch) UK s4"><img src="{{ '/assets/images/marketplace-covers/969115a6cc2ca0c58361.jpg' | relative_url }}" alt="Listing image for Great Canvas Poster &#x27;Anatomy and Functions of the Brain&#x27;s. (12 to 18 Inch) UK s4" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=brain+anatomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=10-brain-why-the-10-percent-brain-myth-endures-myths-and-misconcept-brain-anatomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="brain anatomy poster" data-ebay-reference="10-brain-why-the-10-percent-brain-myth-endures-myths-and-misconcept-brain-anatomy-poster" target="_blank" rel="sponsored noopener noreferrer">Great Canvas Poster &#x27;Anatomy and Functions of the Brain&#x27;s. (12 to 18 Inch) UK s4</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=brain+anatomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=10-brain-why-the-10-percent-brain-myth-endures-myths-and-misconcept-brain-anatomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="brain anatomy poster" data-ebay-reference="10-brain-why-the-10-percent-brain-myth-endures-myths-and-misconcept-brain-anatomy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for brain anatomy poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: brain anatomy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=brain+anatomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=10-brain-why-the-10-percent-brain-myth-endures-myths-and-misconcept-brain-anatomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="brain anatomy poster" data-ebay-reference="10-brain-why-the-10-percent-brain-myth-endures-myths-and-misconcept-brain-anatomy-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=brain+anatomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=10-brain-why-the-10-percent-brain-myth-endures-myths-and-misconcept-brain-anatomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="brain anatomy poster" data-ebay-reference="10-brain-why-the-10-percent-brain-myth-endures-myths-and-misconcept-brain-anatomy-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=brain+anatomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=10-brain-why-the-10-percent-brain-myth-endures-myths-and-misconcept-brain-anatomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="brain anatomy poster" data-ebay-reference="10-brain-why-the-10-percent-brain-myth-endures-myths-and-misconcept-brain-anatomy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Great Canvas Poster &#x27;Anatomy and Functions of the Brain&#x27;s. (12 to 18 Inch) UK s4"><img src="{{ '/assets/images/marketplace-covers/969115a6cc2ca0c58361.jpg' | relative_url }}" alt="Listing image for Great Canvas Poster &#x27;Anatomy and Functions of the Brain&#x27;s. (12 to 18 Inch) UK s4" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=brain+anatomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=10-brain-why-the-10-percent-brain-myth-endures-myths-and-misconcept-brain-anatomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="brain anatomy poster" data-ebay-reference="10-brain-why-the-10-percent-brain-myth-endures-myths-and-misconcept-brain-anatomy-poster" target="_blank" rel="sponsored noopener noreferrer">Great Canvas Poster &#x27;Anatomy and Functions of the Brain&#x27;s. (12 to 18 Inch) UK s4</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=brain+anatomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=10-brain-why-the-10-percent-brain-myth-endures-myths-and-misconcept-brain-anatomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="brain anatomy poster" data-ebay-reference="10-brain-why-the-10-percent-brain-myth-endures-myths-and-misconcept-brain-anatomy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for brain anatomy poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: brain anatomy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=brain+anatomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=10-brain-why-the-10-percent-brain-myth-endures-myths-and-misconcept-brain-anatomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="brain anatomy poster" data-ebay-reference="10-brain-why-the-10-percent-brain-myth-endures-myths-and-misconcept-brain-anatomy-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=brain+anatomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=10-brain-why-the-10-percent-brain-myth-endures-myths-and-misconcept-brain-anatomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="brain anatomy poster" data-ebay-reference="10-brain-why-the-10-percent-brain-myth-endures-myths-and-misconcept-brain-anatomy-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -779,7 +779,7 @@ That reality may be less dramatic than the myth, but it is also more empowering.
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -799,7 +799,7 @@ That reality may be less dramatic than the myth, but it is also more empowering.
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -831,7 +831,7 @@ That reality may be less dramatic than the myth, but it is also more empowering.
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -883,7 +883,7 @@ That reality may be less dramatic than the myth, but it is also more empowering.
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -928,7 +928,7 @@ That reality may be less dramatic than the myth, but it is also more empowering.
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -969,125 +969,125 @@ That reality may be less dramatic than the myth, but it is also more empowering.
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: mcgovern.mit.edu  
    Title: do we use only 10 percent of our brain  
-   Link: <a href="https://mcgovern.mit.edu/2024/01/26/do-we-use-only-10-percent-of-our-brain/" target="_blank" rel="noopener noreferrer nofollow">https://mcgovern.mit.edu/2024/01/26/do-we-use-only-10-percent-of-our-brain/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>MIT McGovern InstituteDo we only use 10 percent of our brain?Jan 26, 2024  The idea that we use 10 percent of our brain is 100 percent a...</p></details>
+   Link:<a href="https://mcgovern.mit.edu/2024/01/26/do-we-use-only-10-percent-of-our-brain/" target="_blank" rel="noopener noreferrer nofollow">https://mcgovern.mit.edu/2024/01/26/do-we-use-only-10-percent-of-our-brain/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>MIT McGovern InstituteDo we only use 10 percent of our brain?Jan 26, 2024  The idea that we use 10 percent of our brain is 100 percent a...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: britannica.com  
-   Link: <a href="https://www.britannica.com/story/do-we-really-use-only-10-percent-of-our-brain" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/story/do-we-really-use-only-10-percent-of-our-brain</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Encyclopedia BritannicaDo We Really Use Only 10 Percent of Our Brain?The data clearly shows that large areas of the brainfar more than 1...</p></details>
+   Link:<a href="https://www.britannica.com/story/do-we-really-use-only-10-percent-of-our-brain" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/story/do-we-really-use-only-10-percent-of-our-brain</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Encyclopedia BritannicaDo We Really Use Only 10 Percent of Our Brain?The data clearly shows that large areas of the brainfar more than 1...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: Wikipedia  
    Title: Ten-percent-of-the-brain myth  
-   Link: <a href="https://en.wikipedia.org/wiki/Ten-percent-of-the-brain_myth" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Ten-percent-of-the-brain_myth</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Ten-percent-of-the-brain_myth" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Ten-percent-of-the-brain_myth</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7835631/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC7835631/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>It has survived more than a century. In 1907, Williams James...Read more...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7835631/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC7835631/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>It has survived more than a century. In 1907, Williams James...Read more...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: brainfacts.org  
    Title: lucy and the 10 percent brain myth  
-   Link: <a href="https://www.brainfacts.org/brain-anatomy-and-function/anatomy/2014/lucy-and-the-10-percent-brain-myth" target="_blank" rel="noopener noreferrer nofollow">https://www.brainfacts.org/brain-anatomy-and-function/anatomy/2014/lucy-and-the-10-percent-brain-myth</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The crazy thing about this belief is that despite being totally false, it is so well-known,...Read more...</p></details>
+   Link:<a href="https://www.brainfacts.org/brain-anatomy-and-function/anatomy/2014/lucy-and-the-10-percent-brain-myth" target="_blank" rel="noopener noreferrer nofollow">https://www.brainfacts.org/brain-anatomy-and-function/anatomy/2014/lucy-and-the-10-percent-brain-myth</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The crazy thing about this belief is that despite being totally false, it is so well-known,...Read more...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: brainfacts.org  
    Title: debunked the 10 percent brain myth 061719  
-   Link: <a href="https://www.brainfacts.org/thinking-sensing-and-behaving/thinking-and-awareness/2019/debunked-the-10-percent-brain-myth-061719" target="_blank" rel="noopener noreferrer nofollow">https://www.brainfacts.org/thinking-sensing-and-behaving/thinking-and-awareness/2019/debunked-the-10-percent-brain-myth-061719</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Debunked: The 10 Percent Brain MythJun 19, 2019  Don&#x27;t let the movies fool you. Neuroscientist Nick Spitzer debunks the myth that people...</p></details>
+   Link:<a href="https://www.brainfacts.org/thinking-sensing-and-behaving/thinking-and-awareness/2019/debunked-the-10-percent-brain-myth-061719" target="_blank" rel="noopener noreferrer nofollow">https://www.brainfacts.org/thinking-sensing-and-behaving/thinking-and-awareness/2019/debunked-the-10-percent-brain-myth-061719</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Debunked: The 10 Percent Brain MythJun 19, 2019  Don&#x27;t let the movies fool you. Neuroscientist Nick Spitzer debunks the myth that people...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: scientificamerican.com  
    Title: do people only use 10 percent of their brains  
-   Link: <a href="https://www.scientificamerican.com/article/do-people-only-use-10-percent-of-their-brains/" target="_blank" rel="noopener noreferrer nofollow">https://www.scientificamerican.com/article/do-people-only-use-10-percent-of-their-brains/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>?7 Feb 2008  The &quot;10 percent myth&quot; is so wrong it is almost laughable, says neurologist Barry Gordon at Johns Hopkins School of Medicine...</p></details>
+   Link:<a href="https://www.scientificamerican.com/article/do-people-only-use-10-percent-of-their-brains/" target="_blank" rel="noopener noreferrer nofollow">https://www.scientificamerican.com/article/do-people-only-use-10-percent-of-their-brains/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>?7 Feb 2008  The &quot;10 percent myth&quot; is so wrong it is almost laughable, says neurologist Barry Gordon at Johns Hopkins School of Medicine...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: educationalneuroscience.org.uk  
-   Link: <a href="https://educationalneuroscience.org.uk/wordpress/resources/neuromyth-or-neurofact/we-only-use-10-of-our-brains/" target="_blank" rel="noopener noreferrer nofollow">https://educationalneuroscience.org.uk/wordpress/resources/neuromyth-or-neurofact/we-only-use-10-of-our-brains/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Educational NeuroscienceWe only use 10% of our brainsIt seems that the 10% myth persists for two primary reasons: firstly, its intuitive...</p></details>
+   Link:<a href="https://educationalneuroscience.org.uk/wordpress/resources/neuromyth-or-neurofact/we-only-use-10-of-our-brains/" target="_blank" rel="noopener noreferrer nofollow">https://educationalneuroscience.org.uk/wordpress/resources/neuromyth-or-neurofact/we-only-use-10-of-our-brains/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Educational NeuroscienceWe only use 10% of our brainsIt seems that the 10% myth persists for two primary reasons: firstly, its intuitive...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: educationalneuroscience.org.uk  
-   Link: <a href="https://www.educationalneuroscience.org.uk/resources/neuromyth-or-neurofact/we-only-use-10-of-our-brains/" target="_blank" rel="noopener noreferrer nofollow">https://www.educationalneuroscience.org.uk/resources/neuromyth-or-neurofact/we-only-use-10-of-our-brains/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The advent of functional magnetic...Read more...</p></details>
+   Link:<a href="https://www.educationalneuroscience.org.uk/resources/neuromyth-or-neurofact/we-only-use-10-of-our-brains/" target="_blank" rel="noopener noreferrer nofollow">https://www.educationalneuroscience.org.uk/resources/neuromyth-or-neurofact/we-only-use-10-of-our-brains/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The advent of functional magnetic...Read more...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: medicalnewstoday.com  
-   Link: <a href="https://www.medicalnewstoday.com/articles/321060" target="_blank" rel="noopener noreferrer nofollow">https://www.medicalnewstoday.com/articles/321060</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>fMRI scans show that even simple activities require almost all of the brain to be active...Read more...</p></details>
+   Link:<a href="https://www.medicalnewstoday.com/articles/321060" target="_blank" rel="noopener noreferrer nofollow">https://www.medicalnewstoday.com/articles/321060</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>fMRI scans show that even simple activities require almost all of the brain to be active...Read more...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: centerforbrainhealth.org  
    Title: only 10 of our brains  
-   Link: <a href="https://centerforbrainhealth.org/article/only-10-of-our-brains" target="_blank" rel="noopener noreferrer nofollow">https://centerforbrainhealth.org/article/only-10-of-our-brains</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Reflecting on that age-old myth, this article explores present-day understanding of the brain&#x27;s interconnectedness...Read more...</p></details>
+   Link:<a href="https://centerforbrainhealth.org/article/only-10-of-our-brains" target="_blank" rel="noopener noreferrer nofollow">https://centerforbrainhealth.org/article/only-10-of-our-brains</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Reflecting on that age-old myth, this article explores present-day understanding of the brain&#x27;s interconnectedness...Read more...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5834348/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC5834348/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>This includes claims of how many cells compose the human brain.Read more...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5834348/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC5834348/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>This includes claims of how many cells compose the human brain.Read more...</p></details>
 
 ### Additional References
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: wired.com  
    Title: everything you need to know about the 10 brain myth explained in 60 seconds  
-   Link: <a href="https://www.wired.com/2014/07/everything-you-need-to-know-about-the-10-brain-myth-explained-in-60-seconds/" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/2014/07/everything-you-need-to-know-about-the-10-brain-myth-explained-in-60-seconds/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>All You Need To Know About the 10 Percent Brain Myth, in...24 Jul 2014  It&#x27;s based on the premise that we use only 10 percent of our br...</p></details>
+   Link:<a href="https://www.wired.com/2014/07/everything-you-need-to-know-about-the-10-brain-myth-explained-in-60-seconds/" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/2014/07/everything-you-need-to-know-about-the-10-brain-myth-explained-in-60-seconds/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>All You Need To Know About the 10 Percent Brain Myth, in...24 Jul 2014  It&#x27;s based on the premise that we use only 10 percent of our br...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: sociostudies.org  
-   Link: <a href="https://www.sociostudies.org/journal/articles/3776772/" target="_blank" rel="noopener noreferrer nofollow">https://www.sociostudies.org/journal/articles/3776772/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ted to 10 % of brain&#x27;s capacity; initially James stated that it was the use of 10 % of our gray matter for those...</p></details>
+   Link:<a href="https://www.sociostudies.org/journal/articles/3776772/" target="_blank" rel="noopener noreferrer nofollow">https://www.sociostudies.org/journal/articles/3776772/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ted to 10 % of brain&#x27;s capacity; initially James stated that it was the use of 10 % of our gray matter for those...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: psychologicalscience.org  
    Title: myth we only use 10 of our brains  
-   Link: <a href="https://www.psychologicalscience.org/uncategorized/myth-we-only-use-10-of-our-brains.html" target="_blank" rel="noopener noreferrer nofollow">https://www.psychologicalscience.org/uncategorized/myth-we-only-use-10-of-our-brains.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Association for Psychological ScienceMyth: We Only Use 10% of Our BrainsAug 29, 2018  It was the basis of the movie Lucy (2014), which d...</p></details>
+   Link:<a href="https://www.psychologicalscience.org/uncategorized/myth-we-only-use-10-of-our-brains.html" target="_blank" rel="noopener noreferrer nofollow">https://www.psychologicalscience.org/uncategorized/myth-we-only-use-10-of-our-brains.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Association for Psychological ScienceMyth: We Only Use 10% of Our BrainsAug 29, 2018  It was the basis of the movie Lucy (2014), which d...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: medium.com  
    Title: history rewinded origins of the 10 myth 23202a97866b  
-   Link: <a href="https://medium.com/%40neuro_nuggets/history-rewinded-origins-of-the-10-myth-23202a97866b" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40neuro_nuggets/history-rewinded-origins-of-the-10-myth-23202a97866b</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>History Rewinded: Origins of the 10% Myth[Debunking](&amp;#123;&amp;#123; &#x27;debunking/&#x27; | relative_url &amp;#125;&amp;#125;) the 10% Brain Myth. YouTube, 2013,([https://www.youtube.com/watch?v=4VqbzWGiW-k](https://www.youtube.com/watch?v=4VqbzWGiW-k))...</p></details>
+   Link:<a href="https://medium.com/%40neuro_nuggets/history-rewinded-origins-of-the-10-myth-23202a97866b" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40neuro_nuggets/history-rewinded-origins-of-the-10-myth-23202a97866b</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>History Rewinded: Origins of the 10% Myth[Debunking](&amp;#123;&amp;#123; &#x27;debunking/&#x27; | relative_url &amp;#125;&amp;#125;) the 10% Brain Myth. YouTube, 2013,([https://www.youtube.com/watch?v=4VqbzWGiW-k](https://www.youtube.com/watch?v=4VqbzWGiW-k))...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: bakadesuyo.com  
-   Link: <a href="https://bakadesuyo.com/2012/06/is-it-true-you-only-use-10-of-your-brainpower/" target="_blank" rel="noopener noreferrer nofollow">https://bakadesuyo.com/2012/06/is-it-true-you-only-use-10-of-your-brainpower/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>as laughably false, adding, we use virtually every part of the brain.Read more...</p></details>
+   Link:<a href="https://bakadesuyo.com/2012/06/is-it-true-you-only-use-10-of-your-brainpower/" target="_blank" rel="noopener noreferrer nofollow">https://bakadesuyo.com/2012/06/is-it-true-you-only-use-10-of-your-brainpower/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>as laughably false, adding, we use virtually every part of the brain.Read more...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: bps.org.uk  
    Title: great myths brain we only use 10 cent  
-   Link: <a href="https://www.bps.org.uk/psychologist/great-myths-brain-we-only-use-10-cent" target="_blank" rel="noopener noreferrer nofollow">https://www.bps.org.uk/psychologist/great-myths-brain-we-only-use-10-cent</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Great myths of the brain: We only use 10 per cent1 Dec 2014  He supposedly explained to a reporter that the secret to his genius was tha...</p></details>
+   Link:<a href="https://www.bps.org.uk/psychologist/great-myths-brain-we-only-use-10-cent" target="_blank" rel="noopener noreferrer nofollow">https://www.bps.org.uk/psychologist/great-myths-brain-we-only-use-10-cent</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Great myths of the brain: We only use 10 per cent1 Dec 2014  He supposedly explained to a reporter that the secret to his genius was tha...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: communicatingpsychologicalscience.com  
    Title: In reality, the human brain is a highly complex organ.Read more  
-   Link: <a href="https://www.communicatingpsychologicalscience.com/blog/misconceptions-the-truth-about-brain-usage-debunking-the-10-myth" target="_blank" rel="noopener noreferrer nofollow">https://www.communicatingpsychologicalscience.com/blog/misconceptions-the-truth-about-brain-usage-debunking-the-10-myth</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>[Communicating](&amp;#123;&amp;#123; &#x27;communicating/&#x27; | relative_url &amp;#125;&amp;#125;) Psychological ScienceMisconceptions: The Truth About Brain Usage: Debunking...Nov 7, 2023  The belief that you use only 1...</p></details>
+   Link:<a href="https://www.communicatingpsychologicalscience.com/blog/misconceptions-the-truth-about-brain-usage-debunking-the-10-myth" target="_blank" rel="noopener noreferrer nofollow">https://www.communicatingpsychologicalscience.com/blog/misconceptions-the-truth-about-brain-usage-debunking-the-10-myth</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>[Communicating](&amp;#123;&amp;#123; &#x27;communicating/&#x27; | relative_url &amp;#125;&amp;#125;) Psychological ScienceMisconceptions: The Truth About Brain Usage: Debunking...Nov 7, 2023  The belief that you use only 1...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: schoolofeducation.blogs.bristol.ac.uk  
    Title: no we dont use only 10 of our brains  
-   Link: <a href="https://schoolofeducation.blogs.bristol.ac.uk/2020/09/17/no-we-dont-use-only-10-of-our-brains/" target="_blank" rel="noopener noreferrer nofollow">https://schoolofeducation.blogs.bristol.ac.uk/2020/09/17/no-we-dont-use-only-10-of-our-brains/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>bristol.ac.ukNo, we don&#x27;t use only 10% of our brains!17 Sept 2020  No, we do not use just 10 or 15% of our brain capacities. In fact, we...</p></details>
+   Link:<a href="https://schoolofeducation.blogs.bristol.ac.uk/2020/09/17/no-we-dont-use-only-10-of-our-brains/" target="_blank" rel="noopener noreferrer nofollow">https://schoolofeducation.blogs.bristol.ac.uk/2020/09/17/no-we-dont-use-only-10-of-our-brains/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>bristol.ac.ukNo, we don&#x27;t use only 10% of our brains!17 Sept 2020  No, we do not use just 10 or 15% of our brain capacities. In fact, we...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: uamshealth.com  
-   Link: <a href="https://uamshealth.com/medical-myths/do-people-only-use-10-percent-of-our-brains/" target="_blank" rel="noopener noreferrer nofollow">https://uamshealth.com/medical-myths/do-people-only-use-10-percent-of-our-brains/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UAMS HealthDo People Only Use 10 Percent of our Brains?Mar 8, 2019  Unfortunately, the idea that people only use 10% of our brains and c...</p></details>
+   Link:<a href="https://uamshealth.com/medical-myths/do-people-only-use-10-percent-of-our-brains/" target="_blank" rel="noopener noreferrer nofollow">https://uamshealth.com/medical-myths/do-people-only-use-10-percent-of-our-brains/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UAMS HealthDo People Only Use 10 Percent of our Brains?Mar 8, 2019  Unfortunately, the idea that people only use 10% of our brains and c...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/apollo-medical-myths-debunked/do-we-really-use-only-10-of-our-brains-ad9a59fba0ec" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/apollo-medical-myths-debunked/do-we-really-use-only-10-of-our-brains-ad9a59fba0ec</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>parts of our brain, and each area has an...Read more...</p></details>
+   Link:<a href="https://medium.com/apollo-medical-myths-debunked/do-we-really-use-only-10-of-our-brains-ad9a59fba0ec" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/apollo-medical-myths-debunked/do-we-really-use-only-10-of-our-brains-ad9a59fba0ec</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>parts of our brain, and each area has an...Read more...</p></details>

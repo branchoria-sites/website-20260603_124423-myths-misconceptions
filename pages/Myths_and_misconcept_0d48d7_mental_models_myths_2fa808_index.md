@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /myths-and-misconcept-0d48d7-mental/
 description: Focused pages that expand on Mental Models.
-date: '2026-06-11'
+date: '2026'
 layout: default
 parent_basename: Myths_and_misconcept_0d48d7_mental_models_myths_2fa808
 parent_title: Mental Models
@@ -16,7 +16,7 @@ parent_permalink: /mental-models/
 
 # Explore Topics in Mental Models
 
-The following pages expand on the main **[Mental Models]({{ '/mental-models/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[Mental Models]({{ '/mental-models/' | relative_url }})** page and cover its key branches in.
 
 - [Better Story]({{ '/better-story/' | relative_url }})
 - [Earth Models]({{ '/earth-models/' | relative_url }})

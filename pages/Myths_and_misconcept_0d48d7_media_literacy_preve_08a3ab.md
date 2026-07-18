@@ -504,7 +504,7 @@ image: /assets/images/Myths_and_misconcept_0d48d7_media_literacy_preve_08a3ab-ov
 Media literacy is one of the most effective ways to prevent myths from taking hold in the first place. Rather than waiting for a false claim to spread and then attempting to correct it, media literacy teaches people how to evaluate information before they accept, remember, or share it. This matters because once a claim becomes familiar and emotionally meaningful, [correction]({{ 'correction/' | relative_url }}) becomes much harder. Prevention often succeeds where correction struggles.
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_media_literacy_preve_08a3ab-overview.webp" | relative_url }}" alt="Overview image for Media Literacy" loading="eager" decoding="sync" fetchpriority="high">
-Modern media literacy goes beyond teaching people how news works. It focuses on practical habits: checking who created a claim, understanding why content was published, recognising manipulation techniques, and slowing down before sharing. UNESCO describes media and information literacy as a key defence against disinformation because it helps people distinguish reliable information from misleading content and navigate digital environments more critically. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.unesco.org/en/articles/media-and-information-literacy-first-line-defence-against-disinformation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unesco.org">[UNESCO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unesco.org</span><span class="citation-popover-snippet">Media and information literacy is first line of defence againstSince its publication in late 2018, Journalism, Fake News and Disinf...</span></span></span>
+Modern media literacy goes beyond teaching people how news works. It focuses on practical habits: checking who created a claim, understanding why content was published, recognising manipulation techniques, and slowing down before sharing. UNESCO describes media and information literacy as a key defence against disinformation because it helps people distinguish reliable information from misleading content and navigate digital environments more critically.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.unesco.org/en/articles/media-and-information-literacy-first-line-defence-against-disinformation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unesco.org">[UNESCO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unesco.org</span><span class="citation-popover-snippet">Media and information literacy is first line of defence againstSince its publication in late 2018, Journalism, Fake News and Disinf...</span></span></span>
 
 Within the broader challenge of myths and misconceptions, media literacy is valuable because it acts upstream. It aims to reduce susceptibility before falsehoods become familiar, socially reinforced, or emotionally anchored.
 
@@ -512,11 +512,11 @@ Within the broader challenge of myths and misconceptions, media literacy is valu
 
 Many myths succeed because they arrive before scrutiny does. A dramatic claim can be shared thousands of times within hours, while careful verification often takes longer. By the time a correction appears, people may already have incorporated the claim into their understanding of an issue.
 
-Research on prebunking and inoculation theory suggests that forewarning people about common manipulation techniques can make them more resistant to misleading information later. Instead of teaching every possible myth individually, these approaches teach recognition of recurring tactics such as emotional manipulation, scapegoating, false experts, conspiracy framing, and misleading use of evidence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://inoculation.science/a-practical-guide-to-prebunking-misinformation/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: inoculation.science">[Inoculation Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">inoculation.science</span><span class="citation-popover-snippet">Author: University... inoculation theory, designed to build people&#x27;s resilience to mis- and disinformation.Read more...</span></span></span> UNESCO Media literacy works through a similar mechanism. It encourages readers to ask questions before accepting a claim: <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.unesco.org/en/articles/media-and-information-literacy-first-line-defence-against-disinformation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unesco.org">[unesco.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unesco.org</span><span class="citation-popover-snippet">Media and information literacy is first line of defence againstSince its publication in late 2018, Journalism, Fake News and Disinf...</span></span></span>
+Research on prebunking and inoculation theory suggests that forewarning people about common manipulation techniques can make them more resistant to misleading information later. Instead of teaching every possible myth individually, these approaches teach recognition of recurring tactics such as emotional manipulation, scapegoating, false experts, conspiracy framing, and misleading use of evidence.<span class="citation-chip-wrap"><a class="citation-chip" href="https://inoculation.science/a-practical-guide-to-prebunking-misinformation/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: inoculation.science">[Inoculation Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">inoculation.science</span><span class="citation-popover-snippet">Author: University... inoculation theory, designed to build people&#x27;s resilience to mis- and disinformation.Read more...</span></span></span> UNESCO Media literacy works through a similar mechanism. It encourages readers to ask questions before accepting a claim:<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.unesco.org/en/articles/media-and-information-literacy-first-line-defence-against-disinformation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unesco.org">[unesco.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unesco.org</span><span class="citation-popover-snippet">Media and information literacy is first line of defence againstSince its publication in late 2018, Journalism, Fake News and Disinf...</span></span></span>
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
-* Who created this information? <span class="citation-chip-wrap"><a class="citation-chip" href="https://libguides.mnsu.edu/sourcecredibility/lateralreading" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: libguides.mnsu.edu">[libguides.mnsu.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">libguides.mnsu.edu</span><span class="citation-popover-snippet">Source Evaluation: Using Lateral Reading &amp; SIFTMar 26, 2026 — This guide provides information to help you use lateral reading and the SIF...</span></span></span>
+* Who created this information?<span class="citation-chip-wrap"><a class="citation-chip" href="https://libguides.mnsu.edu/sourcecredibility/lateralreading" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: libguides.mnsu.edu">[libguides.mnsu.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">libguides.mnsu.edu</span><span class="citation-popover-snippet">Source Evaluation: Using Lateral Reading &amp; SIFTMar 26, 2026 — This guide provides information to help you use lateral reading and the SIF...</span></span></span>
 * What evidence supports it?
 * What might the creator gain if it spreads?
 * Has it been independently verified?
@@ -531,7 +531,7 @@ These questions create a brief pause between exposure and acceptance. That pause
 
 One of the most practical media literacy skills is source evaluation. Many myths survive because people focus on the content of a claim while paying little attention to where it came from.
 
-Professional fact-checkers often use a technique known as [lateral reading]({{ 'lateral-reading/' | relative_url }}). Instead of staying on a website and evaluating its appearance, they immediately leave the page to investigate the source elsewhere. Research led by Stanford scholars found that professional fact-checkers consistently outperformed students and academics by opening new tabs, searching for independent information, and checking reputation before evaluating content. <span class="citation-chip-wrap"><a class="citation-chip" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3048994" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: papers.ssrn.com">[SSRN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">papers.ssrn.com</span><span class="citation-popover-snippet">Reading Less and Learning More When Evaluating Digital...by S Wineburg · 2019 · Cited by 79 — Fact checkers read laterally, leaving...</span></span></span>
+Professional fact-checkers often use a technique known as [lateral reading]({{ 'lateral-reading/' | relative_url }}). Instead of staying on a website and evaluating its appearance, they immediately leave the page to investigate the source elsewhere. Research led by Stanford scholars found that professional fact-checkers consistently outperformed students and academics by opening new tabs, searching for independent information, and checking reputation before evaluating content.<span class="citation-chip-wrap"><a class="citation-chip" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3048994" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: papers.ssrn.com">[SSRN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">papers.ssrn.com</span><span class="citation-popover-snippet">Reading Less and Learning More When Evaluating Digital...by S Wineburg · 2019 · Cited by 79 — Fact checkers read laterally, leaving...</span></span></span>
 
 This approach matters because misleading websites frequently imitate signs of credibility:
 
@@ -552,10 +552,10 @@ A related framework known as SIFT encourages readers to:
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/0LCzu8pEN4M" title="How to spot misinformation online" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=0LCzu8pEN4M" target="_blank" rel="noopener noreferrer">How to spot misinformation online</a></p><p class="youtube-embed-meta">Channel: CNN Business &middot; Views: 9.8K &middot; Uploaded: October 2020 &middot; Length: 1 minute 44 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=0LCzu8pEN4M" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=0LCzu8pEN4M">Open on YouTube</a></p></div></div></div>
 
-1. Stop before reacting. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.facebook.com/unesco/posts/-stop-the-spread-of-disinformation-verify-the-information-before-you-share-toget/794851252690425/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[facebook.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">line community...</span></span></span>
+1. Stop before reacting.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.facebook.com/unesco/posts/-stop-the-spread-of-disinformation-verify-the-information-before-you-share-toget/794851252690425/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[facebook.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">line community...</span></span></span>
 2. Investigate the source.
 3. Find better coverage elsewhere.
-4. Trace claims back to their original context. <span class="citation-chip-wrap"><a class="citation-chip" href="https://guides.lib.uchicago.edu/c.php?g=1241077&amp;p=9082322" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: guides.lib.uchicago.edu">[guides.lib.uchicago.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">guides.lib.uchicago.edu</span><span class="citation-popover-snippet">Home · The SIFT Method · CRAAP Test · The SMART Check... Literacy for Student Fact-Checkers. eBook by...Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://libguides.mnsu.edu/sourcecredibility/lateralreading" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: libguides.mnsu.edu">[2libguides.mnsu.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">libguides.mnsu.edu</span><span class="citation-popover-snippet">Source Evaluation: Using Lateral Reading &amp; SIFTMar 26, 2026 — This guide provides information to help you use lateral reading and the SIF...</span></span></span>
+4. Trace claims back to their original context.<span class="citation-chip-wrap"><a class="citation-chip" href="https://guides.lib.uchicago.edu/c.php?g=1241077&amp;p=9082322" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: guides.lib.uchicago.edu">[guides.lib.uchicago.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">guides.lib.uchicago.edu</span><span class="citation-popover-snippet">Home · The SIFT Method · CRAAP Test · The SMART Check... Literacy for Student Fact-Checkers. eBook by...Read more...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://libguides.mnsu.edu/sourcecredibility/lateralreading" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: libguides.mnsu.edu">[2libguides.mnsu.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">libguides.mnsu.edu</span><span class="citation-popover-snippet">Source Evaluation: Using Lateral Reading &amp; SIFTMar 26, 2026 — This guide provides information to help you use lateral reading and the SIF...</span></span></span>
 
 These habits are simple, but they directly target the conditions that allow myths to spread.
 
@@ -575,7 +575,7 @@ Useful questions include:
 * Does the content identify a simple villain for a complex problem?
 * Would I be sharing this if it supported the opposite side of an issue?
 
-These questions are valuable because manipulation often relies on emotional shortcuts. Prebunking research specifically identifies emotional language and divisive framing as recurring techniques used in misinformation [campaigns]({{ 'campaigns/' | relative_url }}). <span class="citation-chip-wrap"><a class="citation-chip" href="https://inoculation.science/a-practical-guide-to-prebunking-misinformation/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: inoculation.science">[Inoculation Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">inoculation.science</span><span class="citation-popover-snippet">Author: University... inoculation theory, designed to build people&#x27;s resilience to mis- and disinformation.Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://prebunking.withgoogle.com/docs/A_Practical_Guide_to_Prebunking_Misinformation.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: prebunking.withgoogle.com">[2prebunking.withgoogle.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">prebunking.withgoogle.com</span><span class="citation-popover-snippet">s guide was developed for.Read more...</span></span></span>
+These questions are valuable because manipulation often relies on emotional shortcuts. Prebunking research specifically identifies emotional language and divisive framing as recurring techniques used in misinformation [campaigns]({{ 'campaigns/' | relative_url }}).<span class="citation-chip-wrap"><a class="citation-chip" href="https://inoculation.science/a-practical-guide-to-prebunking-misinformation/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: inoculation.science">[Inoculation Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">inoculation.science</span><span class="citation-popover-snippet">Author: University... inoculation theory, designed to build people&#x27;s resilience to mis- and disinformation.Read more...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://prebunking.withgoogle.com/docs/A_Practical_Guide_to_Prebunking_Misinformation.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: prebunking.withgoogle.com">[2prebunking.withgoogle.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">prebunking.withgoogle.com</span><span class="citation-popover-snippet">s guide was developed for.Read more...</span></span></span>
 
 Recognising those patterns does not guarantee perfect judgement, but it reduces the likelihood that emotional responses alone determine what people believe.
 
@@ -596,16 +596,16 @@ Media literacy therefore focuses not only on evaluating information but also on 
 
 Effective habits include:
 
-* Reading beyond headlines. <span class="citation-chip-wrap"><a class="citation-chip" href="https://guides.skylinecollege.edu/fakenews/readinglaterally" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: guides.skylinecollege.edu">[guides.skylinecollege.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">guides.skylinecollege.edu</span><span class="citation-popover-snippet">Laterally - Evaluating news: Fake News &amp; BeyondJan 28, 2025 — SIFT &amp; PICK · Reading Laterally · 33 Problems with Media · More on News and...</span></span></span>
+* Reading beyond headlines.<span class="citation-chip-wrap"><a class="citation-chip" href="https://guides.skylinecollege.edu/fakenews/readinglaterally" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: guides.skylinecollege.edu">[guides.skylinecollege.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">guides.skylinecollege.edu</span><span class="citation-popover-snippet">Laterally - Evaluating news: Fake News &amp; BeyondJan 28, 2025 — SIFT &amp; PICK · Reading Laterally · 33 Problems with Media · More on News and...</span></span></span>
 * Checking publication dates.
 * Looking for original sources.
 * Comparing coverage across multiple outlets.
 * Waiting before reposting surprising claims.
 * Distinguishing evidence from opinion.
 
-UNESCO's media literacy initiatives frequently emphasise the importance of verifying information before sharing and treating information consumption as an active rather than passive process. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.unesco.org/en/articles/media-and-information-literacy-and-digital-competencies" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unesco.org">[UNESCO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unesco.org</span><span class="citation-popover-title">media and information literacy and digital competencies</span><span class="citation-popover-snippet">Media and Information Literacy and Digital Competencies12 Apr 2025 — Media and Information Literacy (MIL) empowers individuals to d...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.unesco.org/mil4teachers/en/node/163" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unesco.org">[UNESCO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unesco.org</span><span class="citation-popover-snippet">Case studies: New MIL skills for audiencesPrebunking is when you pre-emptively warn people that they are about to be exposed to disinform...</span></span></span>
+UNESCO's media literacy initiatives frequently emphasise the importance of verifying information before sharing and treating information consumption as an active rather than passive process.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.unesco.org/en/articles/media-and-information-literacy-and-digital-competencies" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unesco.org">[UNESCO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unesco.org</span><span class="citation-popover-title">media and information literacy and digital competencies</span><span class="citation-popover-snippet">Media and Information Literacy and Digital Competencies12 Apr 2025 — Media and Information Literacy (MIL) empowers individuals to d...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.unesco.org/mil4teachers/en/node/163" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unesco.org">[UNESCO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unesco.org</span><span class="citation-popover-snippet">Case studies: New MIL skills for audiencesPrebunking is when you pre-emptively warn people that they are about to be exposed to disinform...</span></span></span>
 
-These habits may seem small, but misinformation researchers often describe them as forms of information hygiene. Just as handwashing reduces the spread of disease without eliminating it entirely, careful sharing habits reduce the spread of myths without requiring perfect knowledge. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pressbooks.pub/introtocollegeresearch/chapter/why-fact-checking/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pressbooks.pub">[pressbooks.pub]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pressbooks.pub</span><span class="citation-popover-title">Why Fact-Checking?</span><span class="citation-popover-snippet">Introduction to College ResearchFact-checking is a form of information hygiene—it can minimize your own susceptibility to misinformatio...</span></span></span>
+These habits may seem small, but misinformation researchers often describe them as forms of information hygiene. Just as handwashing reduces the spread of disease without eliminating it entirely, careful sharing habits reduce the spread of myths without requiring perfect knowledge.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pressbooks.pub/introtocollegeresearch/chapter/why-fact-checking/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pressbooks.pub">[pressbooks.pub]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pressbooks.pub</span><span class="citation-popover-title">Why Fact-Checking?</span><span class="citation-popover-snippet">Introduction to College ResearchFact-checking is a form of information hygiene—it can minimize your own susceptibility to misinformatio...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/SHNprb2hgzU" title="Sort Fact from Fiction Online with Lateral Reading" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=SHNprb2hgzU" target="_blank" rel="noopener noreferrer">Sort Fact from Fiction Online with Lateral Reading</a></p><p class="youtube-embed-meta">Channel: Digital Inquiry Group &middot; Views: 294.9K &middot; Uploaded: January 2020 &middot; Length: 3 minutes 48 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=SHNprb2hgzU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=SHNprb2hgzU">Open on YouTube</a></p></div></div></div>
 
@@ -613,13 +613,13 @@ These habits may seem small, but misinformation researchers often describe them 
 
 The strongest argument for media literacy is that it appears to be teachable.
 
-Research from the Stanford History Education Group found that relatively short periods of instruction helped students become substantially better at identifying unreliable online sources. The findings challenged the assumption that digital natives automatically possess strong information-evaluation skills simply because they grew up online. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ed.stanford.edu/news/it-doesn-t-take-long-learn-how-spot-misinformation-online-stanford-study-finds" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ed.stanford.edu">[ed.stanford.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ed.stanford.edu</span><span class="citation-popover-title">it doesn t take long learn how spot misinformation online stanford study finds</span><span class="citation-popover-snippet">It doesn&#x27;t take long to learn how to spot misinformation online...Apr 19, 2022 — There may be new hope for helping young people – and an...</span></span></span>
+Research from the Stanford History Education Group found that relatively short periods of instruction helped students become substantially better at identifying unreliable online sources. The findings challenged the assumption that digital natives automatically possess strong information-evaluation skills simply because they grew up online.<span class="citation-chip-wrap"><a class="citation-chip" href="https://ed.stanford.edu/news/it-doesn-t-take-long-learn-how-spot-misinformation-online-stanford-study-finds" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ed.stanford.edu">[ed.stanford.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ed.stanford.edu</span><span class="citation-popover-title">it doesn t take long learn how spot misinformation online stanford study finds</span><span class="citation-popover-snippet">It doesn&#x27;t take long to learn how to spot misinformation online...Apr 19, 2022 — There may be new hope for helping young people – and an...</span></span></span>
 
-More recent reviews and meta-analyses have also found that media literacy interventions can improve people's ability to assess the credibility of information and identify misleading content, although effectiveness varies depending on programme design and duration. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nature.com/articles/s41599-025-06143-6" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">misinformation: experimental evidence for media literacy... (2024) Can media literacy intervention improve fake news credibility assessm...</span></span></span>
+More recent reviews and meta-analyses have also found that media literacy interventions can improve people's ability to assess the credibility of information and identify misleading content, although effectiveness varies depending on programme design and duration.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nature.com/articles/s41599-025-06143-6" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">misinformation: experimental evidence for media literacy... (2024) Can media literacy intervention improve fake news credibility assessm...</span></span></span>
 
 Importantly, successful programmes usually focus on practical skills rather than memorising lists of myths. Myths change constantly. Evaluation skills remain useful across topics.
 
-This is why many educators and policy organisations increasingly frame media literacy as a long-term resilience strategy rather than a series of isolated lessons about individual false claims. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.unesco.org/mil4teachers/en/module4/unit5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unesco.org">[UNESCO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unesco.org</span><span class="citation-popover-snippet">Unit 5: Media and Information Literacy and Misinformation11 Apr 2024 — Learning Objectives · Illustrate how to conduct fact-checkin...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.unesco.org/en/articles/unesco-strengthens-media-and-information-literacy-across-ukraine" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unesco.org">[UNESCO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unesco.org</span><span class="citation-popover-title">strengthens Media and Information Literacy</span><span class="citation-popover-snippet">resilience and reinforcing critical thinking in the face of disinformation, misinformation, and hate speech. Media and Information Litera...</span></span></span>
+This is why many educators and policy organisations increasingly frame media literacy as a long-term resilience strategy rather than a series of isolated lessons about individual false claims.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.unesco.org/mil4teachers/en/module4/unit5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unesco.org">[UNESCO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unesco.org</span><span class="citation-popover-snippet">Unit 5: Media and Information Literacy and Misinformation11 Apr 2024 — Learning Objectives · Illustrate how to conduct fact-checkin...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.unesco.org/en/articles/unesco-strengthens-media-and-information-literacy-across-ukraine" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unesco.org">[UNESCO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unesco.org</span><span class="citation-popover-title">strengthens Media and Information Literacy</span><span class="citation-popover-snippet">resilience and reinforcing critical thinking in the face of disinformation, misinformation, and hate speech. Media and Information Litera...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/97JbluMfNng" title="How to Spot Misinformation Without Losing Your Mind" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=97JbluMfNng" target="_blank" rel="noopener noreferrer">How to Spot Misinformation Without Losing Your Mind</a></p><p class="youtube-embed-meta">Channel: Dr. Whitney Kosters &middot; Views: 491 &middot; Uploaded: January 2026 &middot; Length: 10 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=97JbluMfNng" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=97JbluMfNng">Open on YouTube</a></p></div></div></div>
 
@@ -629,7 +629,7 @@ Media literacy is valuable, but it is not a complete solution.
 
 People may possess strong evaluation skills yet still accept false information that aligns with their identities, political loyalties, or social groups. Time pressure, information overload, and emotional stress can also reduce careful reasoning.
 
-Another challenge is scale. Teaching media literacy across entire populations requires educational resources, trained instructors, and sustained reinforcement. One-off lessons may help, but long-term habits generally require repeated practice. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2505.07486" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Shots and Boosters: Exploring the Use of Combined Prebunking Interventions to Raise Critical Thinking and Create Long-Term Protectio...</span></span></span>
+Another challenge is scale. Teaching media literacy across entire populations requires educational resources, trained instructors, and sustained reinforcement. One-off lessons may help, but long-term habits generally require repeated practice.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2505.07486" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Shots and Boosters: Exploring the Use of Combined Prebunking Interventions to Raise Critical Thinking and Create Long-Term Protectio...</span></span></span>
 
 The changing information environment also creates new difficulties. Synthetic media, sophisticated impersonation, and rapidly evolving online [platforms]({{ 'platforms/' | relative_url }}) mean that media literacy skills must continually adapt.
 
@@ -645,194 +645,194 @@ Its value lies in changing default behaviour. Instead of immediately accepting, 
 Because myths often gain power through [repetition]({{ 'repetition/' | relative_url }}) rather than proof, the ability to ask better questions before sharing can prevent false beliefs from becoming established at all. In that sense, media literacy is less about correcting mistakes and more about reducing the chances that those mistakes become myths in the first place.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How Media Literacy Prevents Myths. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How Media Literacy Prevents Myths. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Skeptics&#x27; Guide to the Universe on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CuVKDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Skeptics&#x27; Guide to the Universe" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Skeptics&#x27; Guide to the Universe">The Skeptics&#x27; Guide to the Universe</a>
-        </h4>
-        <p class="fr-book-author">By Dr. Steven Novella</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Skeptics&#x27; Guide to the Universe on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CuVKDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Skeptics&#x27; Guide to the Universe" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Skeptics&#x27; Guide to the Universe">The Skeptics&#x27; Guide to the Universe</a>
+</h4>
+<p class="fr-book-author">By Dr. Steven Novella</p>
         
-        <p class="fr-book-desc">Explains cognitive biases, misinformation, and evidence-based reasoning.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains cognitive biases, misinformation, and evidence-based reasoning.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Calling Bullshit on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Plu9DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Calling Bullshit" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Calling Bullshit">Calling Bullshit</a>
-        </h4>
-        <p class="fr-book-author">By Carl T. Bergstrom, Jevin D. West</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Calling Bullshit on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Plu9DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Calling Bullshit" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Calling Bullshit">Calling Bullshit</a>
+</h4>
+<p class="fr-book-author">By Carl T. Bergstrom, Jevin D. West</p>
         
-        <p class="fr-book-desc">Teaches practical evaluation of claims, evidence, sources, and misinformation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Teaches practical evaluation of claims, evidence, sources, and misinformation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Factfulness on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=rxg0tgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Factfulness" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Factfulness">Factfulness</a>
-        </h4>
-        <p class="fr-book-author">By Hans Rosling, Ola Rosling et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Factfulness on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=rxg0tgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Factfulness" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Factfulness">Factfulness</a>
+</h4>
+<p class="fr-book-author">By Hans Rosling, Ola Rosling et al.</p>
         
-        <p class="fr-book-desc">Shows how misconceptions arise and how to assess information more accurately.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows how misconceptions arise and how to assess information more accurately.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=A+field+guide+to+lies+Daniel+J.+Levitin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open A field guide to lies on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10538773-M.jpg" alt="Cover for A field guide to lies" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=A+field+guide+to+lies+Daniel+J.+Levitin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A field guide to lies">A field guide to lies</a>
-        </h4>
-        <p class="fr-book-author">By Daniel J. Levitin</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=A+field+guide+to+lies+Daniel+J.+Levitin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open A field guide to lies on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10538773-M.jpg" alt="Cover for A field guide to lies" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=A+field+guide+to+lies+Daniel+J.+Levitin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A field guide to lies">A field guide to lies</a>
+</h4>
+<p class="fr-book-author">By Daniel J. Levitin</p>
         
-        <p class="fr-book-desc">First published 2016. Subjects: Critical thinking, Fallacies (Logic), Reasoning, Statistics, Social aspects.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=A+field+guide+to+lies+Daniel+J.+Levitin&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2016. Subjects: Critical thinking, Fallacies (Logic), Reasoning, Statistics, Social aspects.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=A+field+guide+to+lies+Daniel+J.+Levitin&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Skeptics%27+to+the+Universe+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Skeptics&#x27; to the Universe books</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Calling+Bullshit&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Calling Bullshit</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Factfulness&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Factfulness</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Skeptics%27+to+the+Universe+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Skeptics&#x27; to the Universe books</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Calling+Bullshit&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Calling Bullshit</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Factfulness&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Factfulness</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-literacy-how-media-literacy-prevents-myths-myths-and-misconcept-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="media-literacy-how-media-literacy-prevents-myths-myths-and-misconcept-critical-thinking-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Manic Street Preachers Signed Photo Framed &amp; COA Auto Critical Thinking Poster"><img src="{{ '/assets/images/marketplace-covers/f53b5ef9808c94d6a4f1.jpg' | relative_url }}" alt="Listing image for Manic Street Preachers Signed Photo Framed &amp; COA Auto Critical Thinking Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-literacy-how-media-literacy-prevents-myths-myths-and-misconcept-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="media-literacy-how-media-literacy-prevents-myths-myths-and-misconcept-critical-thinking-poster" target="_blank" rel="sponsored noopener noreferrer">Manic Street Preachers Signed Photo Framed &amp; COA Auto Critical Thinking Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-literacy-how-media-literacy-prevents-myths-myths-and-misconcept-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="media-literacy-how-media-literacy-prevents-myths-myths-and-misconcept-critical-thinking-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-literacy-how-media-literacy-prevents-myths-myths-and-misconcept-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="media-literacy-how-media-literacy-prevents-myths-myths-and-misconcept-critical-thinking-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-literacy-how-media-literacy-prevents-myths-myths-and-misconcept-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="media-literacy-how-media-literacy-prevents-myths-myths-and-misconcept-critical-thinking-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Manic Street Preachers Signed Photo Framed &amp; COA Auto Critical Thinking Poster"><img src="{{ '/assets/images/marketplace-covers/f53b5ef9808c94d6a4f1.jpg' | relative_url }}" alt="Listing image for Manic Street Preachers Signed Photo Framed &amp; COA Auto Critical Thinking Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-literacy-how-media-literacy-prevents-myths-myths-and-misconcept-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="media-literacy-how-media-literacy-prevents-myths-myths-and-misconcept-critical-thinking-poster" target="_blank" rel="sponsored noopener noreferrer">Manic Street Preachers Signed Photo Framed &amp; COA Auto Critical Thinking Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-literacy-how-media-literacy-prevents-myths-myths-and-misconcept-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="media-literacy-how-media-literacy-prevents-myths-myths-and-misconcept-critical-thinking-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-literacy-how-media-literacy-prevents-myths-myths-and-misconcept-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="media-literacy-how-media-literacy-prevents-myths-myths-and-misconcept-critical-thinking-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-literacy-how-media-literacy-prevents-myths-myths-and-misconcept-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="media-literacy-how-media-literacy-prevents-myths-myths-and-misconcept-critical-thinking-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking 2020 2 Movie Poster Art Print Display Famous Artwork StudioDec"><img src="{{ '/assets/images/marketplace-covers/2d0303c0f2d17049521c.jpg' | relative_url }}" alt="Listing image for Critical Thinking 2020 2 Movie Poster Art Print Display Famous Artwork StudioDec" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-literacy-how-media-literacy-prevents-myths-myths-and-misconcept-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="media-literacy-how-media-literacy-prevents-myths-myths-and-misconcept-critical-thinking-poster" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking 2020 2 Movie Poster Art Print Display Famous Artwork StudioDec</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-literacy-how-media-literacy-prevents-myths-myths-and-misconcept-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="media-literacy-how-media-literacy-prevents-myths-myths-and-misconcept-critical-thinking-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-literacy-how-media-literacy-prevents-myths-myths-and-misconcept-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="media-literacy-how-media-literacy-prevents-myths-myths-and-misconcept-critical-thinking-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-literacy-how-media-literacy-prevents-myths-myths-and-misconcept-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="media-literacy-how-media-literacy-prevents-myths-myths-and-misconcept-critical-thinking-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking 2020 2 Movie Poster Art Print Display Famous Artwork StudioDec"><img src="{{ '/assets/images/marketplace-covers/2d0303c0f2d17049521c.jpg' | relative_url }}" alt="Listing image for Critical Thinking 2020 2 Movie Poster Art Print Display Famous Artwork StudioDec" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-literacy-how-media-literacy-prevents-myths-myths-and-misconcept-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="media-literacy-how-media-literacy-prevents-myths-myths-and-misconcept-critical-thinking-poster" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking 2020 2 Movie Poster Art Print Display Famous Artwork StudioDec</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-literacy-how-media-literacy-prevents-myths-myths-and-misconcept-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="media-literacy-how-media-literacy-prevents-myths-myths-and-misconcept-critical-thinking-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-literacy-how-media-literacy-prevents-myths-myths-and-misconcept-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="media-literacy-how-media-literacy-prevents-myths-myths-and-misconcept-critical-thinking-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-literacy-how-media-literacy-prevents-myths-myths-and-misconcept-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="media-literacy-how-media-literacy-prevents-myths-myths-and-misconcept-critical-thinking-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Manic Street Preachers Signed Photo &amp; CD Framed &amp; COA Critical Thinking Poster"><img src="{{ '/assets/images/marketplace-covers/de840e360b6897338238.jpg' | relative_url }}" alt="Listing image for Manic Street Preachers Signed Photo &amp; CD Framed &amp; COA Critical Thinking Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-literacy-how-media-literacy-prevents-myths-myths-and-misconcept-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="media-literacy-how-media-literacy-prevents-myths-myths-and-misconcept-critical-thinking-poster" target="_blank" rel="sponsored noopener noreferrer">Manic Street Preachers Signed Photo &amp; CD Framed &amp; COA Critical Thinking Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-literacy-how-media-literacy-prevents-myths-myths-and-misconcept-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="media-literacy-how-media-literacy-prevents-myths-myths-and-misconcept-critical-thinking-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-literacy-how-media-literacy-prevents-myths-myths-and-misconcept-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="media-literacy-how-media-literacy-prevents-myths-myths-and-misconcept-critical-thinking-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-literacy-how-media-literacy-prevents-myths-myths-and-misconcept-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="media-literacy-how-media-literacy-prevents-myths-myths-and-misconcept-critical-thinking-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Manic Street Preachers Signed Photo &amp; CD Framed &amp; COA Critical Thinking Poster"><img src="{{ '/assets/images/marketplace-covers/de840e360b6897338238.jpg' | relative_url }}" alt="Listing image for Manic Street Preachers Signed Photo &amp; CD Framed &amp; COA Critical Thinking Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-literacy-how-media-literacy-prevents-myths-myths-and-misconcept-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="media-literacy-how-media-literacy-prevents-myths-myths-and-misconcept-critical-thinking-poster" target="_blank" rel="sponsored noopener noreferrer">Manic Street Preachers Signed Photo &amp; CD Framed &amp; COA Critical Thinking Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-literacy-how-media-literacy-prevents-myths-myths-and-misconcept-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="media-literacy-how-media-literacy-prevents-myths-myths-and-misconcept-critical-thinking-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-literacy-how-media-literacy-prevents-myths-myths-and-misconcept-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="media-literacy-how-media-literacy-prevents-myths-myths-and-misconcept-critical-thinking-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-literacy-how-media-literacy-prevents-myths-myths-and-misconcept-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="media-literacy-how-media-literacy-prevents-myths-myths-and-misconcept-critical-thinking-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking 2020 3 Movie Poster Art Print Fan PopCulture Nostalgic PopCult"><img src="{{ '/assets/images/marketplace-covers/0734f05b6a1eeec32948.jpg' | relative_url }}" alt="Listing image for Critical Thinking 2020 3 Movie Poster Art Print Fan PopCulture Nostalgic PopCult" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-literacy-how-media-literacy-prevents-myths-myths-and-misconcept-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="media-literacy-how-media-literacy-prevents-myths-myths-and-misconcept-critical-thinking-poster" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking 2020 3 Movie Poster Art Print Fan PopCulture Nostalgic PopCult</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-literacy-how-media-literacy-prevents-myths-myths-and-misconcept-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="media-literacy-how-media-literacy-prevents-myths-myths-and-misconcept-critical-thinking-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-literacy-how-media-literacy-prevents-myths-myths-and-misconcept-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="media-literacy-how-media-literacy-prevents-myths-myths-and-misconcept-critical-thinking-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-literacy-how-media-literacy-prevents-myths-myths-and-misconcept-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="media-literacy-how-media-literacy-prevents-myths-myths-and-misconcept-critical-thinking-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-literacy-how-media-literacy-prevents-myths-myths-and-misconcept-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="media-literacy-how-media-literacy-prevents-myths-myths-and-misconcept-critical-thinking-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking 2020 3 Movie Poster Art Print Fan PopCulture Nostalgic PopCult"><img src="{{ '/assets/images/marketplace-covers/0734f05b6a1eeec32948.jpg' | relative_url }}" alt="Listing image for Critical Thinking 2020 3 Movie Poster Art Print Fan PopCulture Nostalgic PopCult" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-literacy-how-media-literacy-prevents-myths-myths-and-misconcept-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="media-literacy-how-media-literacy-prevents-myths-myths-and-misconcept-critical-thinking-poster" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking 2020 3 Movie Poster Art Print Fan PopCulture Nostalgic PopCult</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-literacy-how-media-literacy-prevents-myths-myths-and-misconcept-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="media-literacy-how-media-literacy-prevents-myths-myths-and-misconcept-critical-thinking-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: critical thinking poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-literacy-how-media-literacy-prevents-myths-myths-and-misconcept-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="media-literacy-how-media-literacy-prevents-myths-myths-and-misconcept-critical-thinking-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-literacy-how-media-literacy-prevents-myths-myths-and-misconcept-critical-thinking-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking poster" data-ebay-reference="media-literacy-how-media-literacy-prevents-myths-myths-and-misconcept-critical-thinking-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -848,7 +848,7 @@ Because myths often gain power through [repetition]({{ 'repetition/' | relative_
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -868,7 +868,7 @@ Because myths often gain power through [repetition]({{ 'repetition/' | relative_
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -900,7 +900,7 @@ Because myths often gain power through [repetition]({{ 'repetition/' | relative_
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -952,7 +952,7 @@ Because myths often gain power through [repetition]({{ 'repetition/' | relative_
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -997,7 +997,7 @@ Because myths often gain power through [repetition]({{ 'repetition/' | relative_
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -1038,249 +1038,249 @@ Because myths often gain power through [repetition]({{ 'repetition/' | relative_
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: unesco.org  
-   Link: <a href="https://www.unesco.org/en/articles/media-and-information-literacy-first-line-defence-against-disinformation" target="_blank" rel="noopener noreferrer nofollow">https://www.unesco.org/en/articles/media-and-information-literacy-first-line-defence-against-disinformation</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Media and information literacy is first line of defence againstSince its publication in late 2018, Journalism, Fake News and Disinf...</p></details>
+   Link:<a href="https://www.unesco.org/en/articles/media-and-information-literacy-first-line-defence-against-disinformation" target="_blank" rel="noopener noreferrer nofollow">https://www.unesco.org/en/articles/media-and-information-literacy-first-line-defence-against-disinformation</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Media and information literacy is first line of defence againstSince its publication in late 2018, Journalism, Fake News and Disinf...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: unesco.org  
    Title: media and information literacy and digital competencies  
-   Link: <a href="https://www.unesco.org/en/articles/media-and-information-literacy-and-digital-competencies" target="_blank" rel="noopener noreferrer nofollow">https://www.unesco.org/en/articles/media-and-information-literacy-and-digital-competencies</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Media and Information Literacy and Digital Competencies12 Apr 2025 — Media and Information Literacy (MIL) empowers individuals to d...</p></details>
+   Link:<a href="https://www.unesco.org/en/articles/media-and-information-literacy-and-digital-competencies" target="_blank" rel="noopener noreferrer nofollow">https://www.unesco.org/en/articles/media-and-information-literacy-and-digital-competencies</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Media and Information Literacy and Digital Competencies12 Apr 2025 — Media and Information Literacy (MIL) empowers individuals to d...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: inoculation.science  
-   Link: <a href="https://inoculation.science/a-practical-guide-to-prebunking-misinformation/" target="_blank" rel="noopener noreferrer nofollow">https://inoculation.science/a-practical-guide-to-prebunking-misinformation/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Author: University... inoculation theory, designed to build people&#x27;s resilience to mis- and disinformation.Read more...</p></details>
+   Link:<a href="https://inoculation.science/a-practical-guide-to-prebunking-misinformation/" target="_blank" rel="noopener noreferrer nofollow">https://inoculation.science/a-practical-guide-to-prebunking-misinformation/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Author: University... inoculation theory, designed to build people&#x27;s resilience to mis- and disinformation.Read more...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: unesco.org  
-   Link: <a href="https://www.unesco.org/mil4teachers/en/node/163" target="_blank" rel="noopener noreferrer nofollow">https://www.unesco.org/mil4teachers/en/node/163</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Case studies: New MIL skills for audiencesPrebunking is when you pre-emptively warn people that they are about to be exposed to disinform...</p></details>
+   Link:<a href="https://www.unesco.org/mil4teachers/en/node/163" target="_blank" rel="noopener noreferrer nofollow">https://www.unesco.org/mil4teachers/en/node/163</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Case studies: New MIL skills for audiencesPrebunking is when you pre-emptively warn people that they are about to be exposed to disinform...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: papers.ssrn.com  
-   Link: <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3048994" target="_blank" rel="noopener noreferrer nofollow">https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3048994</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Reading Less and Learning More When Evaluating Digital...by S Wineburg · 2019 · Cited by 79 — Fact checkers read laterally, leaving...</p></details>
+   Link:<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3048994" target="_blank" rel="noopener noreferrer nofollow">https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3048994</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Reading Less and Learning More When Evaluating Digital...by S Wineburg · 2019 · Cited by 79 — Fact checkers read laterally, leaving...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: ed.stanford.edu  
    Title: it doesn t take long learn how spot misinformation online stanford study finds  
-   Link: <a href="https://ed.stanford.edu/news/it-doesn-t-take-long-learn-how-spot-misinformation-online-stanford-study-finds" target="_blank" rel="noopener noreferrer nofollow">https://ed.stanford.edu/news/it-doesn-t-take-long-learn-how-spot-misinformation-online-stanford-study-finds</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>It doesn&#x27;t take long to learn how to spot misinformation online...Apr 19, 2022 — There may be new hope for helping young people – and an...</p></details>
+   Link:<a href="https://ed.stanford.edu/news/it-doesn-t-take-long-learn-how-spot-misinformation-online-stanford-study-finds" target="_blank" rel="noopener noreferrer nofollow">https://ed.stanford.edu/news/it-doesn-t-take-long-learn-how-spot-misinformation-online-stanford-study-finds</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>It doesn&#x27;t take long to learn how to spot misinformation online...Apr 19, 2022 — There may be new hope for helping young people – and an...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: guides.lib.uchicago.edu  
-   Link: <a href="https://guides.lib.uchicago.edu/c.php?g=1241077&amp;p=9082322" target="_blank" rel="noopener noreferrer nofollow">https://guides.lib.uchicago.edu/c.php?g=1241077&amp;p=9082322</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Home · The [SIFT Method](&amp;#123;&amp;#123; &#x27;sift-method/&#x27; | relative_url &amp;#125;&amp;#125;) · CRAAP Test · The SMART Check... Literacy for Student Fact-Checkers. eBook by...Read more...</p></details>
+   Link:<a href="https://guides.lib.uchicago.edu/c.php?g=1241077&amp;p=9082322" target="_blank" rel="noopener noreferrer nofollow">https://guides.lib.uchicago.edu/c.php?g=1241077&amp;p=9082322</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Home · The [SIFT Method](&amp;#123;&amp;#123; &#x27;sift-method/&#x27; | relative_url &amp;#125;&amp;#125;) · CRAAP Test · The SMART Check... Literacy for Student Fact-Checkers. eBook by...Read more...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: libguides.mnsu.edu  
-   Link: <a href="https://libguides.mnsu.edu/sourcecredibility/lateralreading" target="_blank" rel="noopener noreferrer nofollow">https://libguides.mnsu.edu/sourcecredibility/lateralreading</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Source Evaluation: Using Lateral Reading &amp; SIFTMar 26, 2026 — This guide provides information to help you use lateral reading and the SIF...</p></details>
+   Link:<a href="https://libguides.mnsu.edu/sourcecredibility/lateralreading" target="_blank" rel="noopener noreferrer nofollow">https://libguides.mnsu.edu/sourcecredibility/lateralreading</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Source Evaluation: Using Lateral Reading &amp; SIFTMar 26, 2026 — This guide provides information to help you use lateral reading and the SIF...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: centralmethodist.libguides.com  
    Title: Lateral Reading and the SIFT Method  
-   Link: <a href="https://centralmethodist.libguides.com/fake_news/lateral_reading_and_sift" target="_blank" rel="noopener noreferrer nofollow">https://centralmethodist.libguides.com/fake_news/lateral_reading_and_sift</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Fake News &amp; Digital...deepfakes · digital media literacy · disinformation · evaluating sources · fake news · lateral reading · misinform...</p></details>
+   Link:<a href="https://centralmethodist.libguides.com/fake_news/lateral_reading_and_sift" target="_blank" rel="noopener noreferrer nofollow">https://centralmethodist.libguides.com/fake_news/lateral_reading_and_sift</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Fake News &amp; Digital...deepfakes · digital media literacy · disinformation · evaluating sources · fake news · lateral reading · misinform...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: prebunking.withgoogle.com  
-   Link: <a href="https://prebunking.withgoogle.com/docs/A_Practical_Guide_to_Prebunking_Misinformation.pdf" target="_blank" rel="noopener noreferrer nofollow">https://prebunking.withgoogle.com/docs/A_Practical_Guide_to_Prebunking_Misinformation.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>s guide was developed for.Read more...</p></details>
+   Link:<a href="https://prebunking.withgoogle.com/docs/A_Practical_Guide_to_Prebunking_Misinformation.pdf" target="_blank" rel="noopener noreferrer nofollow">https://prebunking.withgoogle.com/docs/A_Practical_Guide_to_Prebunking_Misinformation.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>s guide was developed for.Read more...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: unesco.org  
-   Link: <a href="https://www.unesco.org/mil4teachers/en/module4/unit5" target="_blank" rel="noopener noreferrer nofollow">https://www.unesco.org/mil4teachers/en/module4/unit5</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Unit 5: Media and Information Literacy and Misinformation11 Apr 2024 — Learning Objectives · Illustrate how to conduct fact-checkin...</p></details>
+   Link:<a href="https://www.unesco.org/mil4teachers/en/module4/unit5" target="_blank" rel="noopener noreferrer nofollow">https://www.unesco.org/mil4teachers/en/module4/unit5</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Unit 5: Media and Information Literacy and Misinformation11 Apr 2024 — Learning Objectives · Illustrate how to conduct fact-checkin...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: pressbooks.pub  
    Title: Why Fact-Checking?  
-   Link: <a href="https://pressbooks.pub/introtocollegeresearch/chapter/why-fact-checking/" target="_blank" rel="noopener noreferrer nofollow">https://pressbooks.pub/introtocollegeresearch/chapter/why-fact-checking/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Introduction to College ResearchFact-checking is a form of information hygiene—it can minimize your own susceptibility to misinformatio...</p></details>
+   Link:<a href="https://pressbooks.pub/introtocollegeresearch/chapter/why-fact-checking/" target="_blank" rel="noopener noreferrer nofollow">https://pressbooks.pub/introtocollegeresearch/chapter/why-fact-checking/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Introduction to College ResearchFact-checking is a form of information hygiene—it can minimize your own susceptibility to misinformatio...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: nature.com  
-   Link: <a href="https://www.nature.com/articles/s41599-025-06143-6" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41599-025-06143-6</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>misinformation: experimental evidence for media literacy... (2024) Can media literacy intervention improve fake news credibility assessm...</p></details>
+   Link:<a href="https://www.nature.com/articles/s41599-025-06143-6" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41599-025-06143-6</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>misinformation: experimental evidence for media literacy... (2024) Can media literacy intervention improve fake news credibility assessm...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: unesco.org  
    Title: strengthens Media and Information Literacy  
-   Link: <a href="https://www.unesco.org/en/articles/unesco-strengthens-media-and-information-literacy-across-ukraine" target="_blank" rel="noopener noreferrer nofollow">https://www.unesco.org/en/articles/unesco-strengthens-media-and-information-literacy-across-ukraine</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>resilience and reinforcing critical thinking in the face of disinformation, misinformation, and hate speech. Media and Information Litera...</p></details>
+   Link:<a href="https://www.unesco.org/en/articles/unesco-strengthens-media-and-information-literacy-across-ukraine" target="_blank" rel="noopener noreferrer nofollow">https://www.unesco.org/en/articles/unesco-strengthens-media-and-information-literacy-across-ukraine</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>resilience and reinforcing critical thinking in the face of disinformation, misinformation, and hate speech. Media and Information Litera...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2505.07486" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2505.07486</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Shots and Boosters: Exploring the Use of Combined Prebunking Interventions to Raise Critical Thinking and Create Long-Term Protectio...</p></details>
+   Link:<a href="https://arxiv.org/abs/2505.07486" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2505.07486</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Shots and Boosters: Exploring the Use of Combined Prebunking Interventions to Raise Critical Thinking and Create Long-Term Protectio...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2605.17676" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2605.17676</a>  
+   Link:<a href="https://arxiv.org/abs/2605.17676" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2605.17676</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: unesco.org  
    Title: Media and Information Literacy (MIL)  
-   Link: <a href="https://www.unesco.org/en/media-information-literacy" target="_blank" rel="noopener noreferrer nofollow">https://www.unesco.org/en/media-information-literacy</a>  
+   Link:<a href="https://www.unesco.org/en/media-information-literacy" target="_blank" rel="noopener noreferrer nofollow">https://www.unesco.org/en/media-information-literacy</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: unesco.org  
    Title: document 6838  
-   Link: <a href="https://www.unesco.org/archives/multimedia/document-6838" target="_blank" rel="noopener noreferrer nofollow">https://www.unesco.org/archives/multimedia/document-6838</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Countering Conspiracy Theories with MILNov 30, 2023 — Our aim is to provide clarity on the distinctions between conspiracy theories and d...</p></details>
+   Link:<a href="https://www.unesco.org/archives/multimedia/document-6838" target="_blank" rel="noopener noreferrer nofollow">https://www.unesco.org/archives/multimedia/document-6838</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Countering Conspiracy Theories with MILNov 30, 2023 — Our aim is to provide clarity on the distinctions between conspiracy theories and d...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: unesco.org  
-   Link: <a href="https://www.unesco.org/en/articles/unesco-launches-free-online-course-tackle-climate-disinformation-through-media-and-information" target="_blank" rel="noopener noreferrer nofollow">https://www.unesco.org/en/articles/unesco-launches-free-online-course-tackle-climate-disinformation-through-media-and-information</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>literacy skills to counter climate misinformation. Free Online Course to Tackle Climate Disinformation through Media and Information Lite...</p></details>
+   Link:<a href="https://www.unesco.org/en/articles/unesco-launches-free-online-course-tackle-climate-disinformation-through-media-and-information" target="_blank" rel="noopener noreferrer nofollow">https://www.unesco.org/en/articles/unesco-launches-free-online-course-tackle-climate-disinformation-through-media-and-information</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>literacy skills to counter climate misinformation. Free Online Course to Tackle Climate Disinformation through Media and Information Lite...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: unesco.org  
-   Link: <a href="https://www.unesco.org/mil4teachers/en/module4" target="_blank" rel="noopener noreferrer nofollow">https://www.unesco.org/mil4teachers/en/module4</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Module 4: Media and Information Literacy Competencies to...Module 4: Media and Information Literacy Competencies to Tackle Misinformatio...</p></details>
+   Link:<a href="https://www.unesco.org/mil4teachers/en/module4" target="_blank" rel="noopener noreferrer nofollow">https://www.unesco.org/mil4teachers/en/module4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Module 4: Media and Information Literacy Competencies to...Module 4: Media and Information Literacy Competencies to Tackle Misinformatio...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: unesco.org  
-   Link: <a href="https://www.unesco.org/en/articles/joint-initiative-ministry-information-and-unesco-strengthen-fact-checking-and-combat-misinformation" target="_blank" rel="noopener noreferrer nofollow">https://www.unesco.org/en/articles/joint-initiative-ministry-information-and-unesco-strengthen-fact-checking-and-combat-misinformation</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Joint Initiative by the Ministry of Information and UNESCO to11 Mar 2026 — The initiative contributes to strengthening institutional capa...</p></details>
+   Link:<a href="https://www.unesco.org/en/articles/joint-initiative-ministry-information-and-unesco-strengthen-fact-checking-and-combat-misinformation" target="_blank" rel="noopener noreferrer nofollow">https://www.unesco.org/en/articles/joint-initiative-ministry-information-and-unesco-strengthen-fact-checking-and-combat-misinformation</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Joint Initiative by the Ministry of Information and UNESCO to11 Mar 2026 — The initiative contributes to strengthening institutional capa...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: unesco.org  
-   Link: <a href="https://www.unesco.org/mil4teachers/en/module4/unit3" target="_blank" rel="noopener noreferrer nofollow">https://www.unesco.org/mil4teachers/en/module4/unit3</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Unit 3: Media and MisinformationApr 11, 2024 — Module 4: Media and Information Literacy Competencies to Tackle Misinformation, Disinforma...</p></details>
+   Link:<a href="https://www.unesco.org/mil4teachers/en/module4/unit3" target="_blank" rel="noopener noreferrer nofollow">https://www.unesco.org/mil4teachers/en/module4/unit3</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Unit 3: Media and MisinformationApr 11, 2024 — Module 4: Media and Information Literacy Competencies to Tackle Misinformation, Disinforma...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: centralmethodist.libguides.com  
    Title: prebunking misinformation  
-   Link: <a href="https://centralmethodist.libguides.com/fake_news/prebunking_misinformation" target="_blank" rel="noopener noreferrer nofollow">https://centralmethodist.libguides.com/fake_news/prebunking_misinformation</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>News &amp; Digital Media Literacy: Prebunking Misinformationdeepfakes · digital media literacy · disinformation · evaluating sources · fake n...</p></details>
+   Link:<a href="https://centralmethodist.libguides.com/fake_news/prebunking_misinformation" target="_blank" rel="noopener noreferrer nofollow">https://centralmethodist.libguides.com/fake_news/prebunking_misinformation</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>News &amp; Digital Media Literacy: Prebunking Misinformationdeepfakes · digital media literacy · disinformation · evaluating sources · fake n...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: youtube.com  
    Title: How to Spot Misinformation Without Losing Your Mind  
-   Link: <a href="https://www.youtube.com/watch?v=97JbluMfNng" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=97JbluMfNng</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How to spot misinformation online...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=97JbluMfNng" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=97JbluMfNng</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How to spot misinformation online...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: youtube.com  
    Title: How to spot misinformation online  
-   Link: <a href="https://www.youtube.com/watch?v=0LCzu8pEN4M" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=0LCzu8pEN4M</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Nigeria Launches Media Literacy Institute to Combat Fake News...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=0LCzu8pEN4M" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=0LCzu8pEN4M</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Nigeria Launches Media Literacy Institute to Combat Fake News...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/unesco/posts/-stop-the-spread-of-disinformation-verify-the-information-before-you-share-toget/794851252690425/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/unesco/posts/-stop-the-spread-of-disinformation-verify-the-information-before-you-share-toget/794851252690425/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>line community...</p></details>
+   Link:<a href="https://www.facebook.com/unesco/posts/-stop-the-spread-of-disinformation-verify-the-information-before-you-share-toget/794851252690425/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/unesco/posts/-stop-the-spread-of-disinformation-verify-the-information-before-you-share-toget/794851252690425/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>line community...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: sift.co.uk  
-   Link: <a href="https://www.sift.co.uk/" target="_blank" rel="noopener noreferrer nofollow">https://www.sift.co.uk/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ney and drive competitive advantage via our best-of-breed content, events...Read more...</p></details>
+   Link:<a href="https://www.sift.co.uk/" target="_blank" rel="noopener noreferrer nofollow">https://www.sift.co.uk/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ney and drive competitive advantage via our best-of-breed content, events...Read more...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/unesco/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/unesco/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>unescoUNESCO supports effective literacy practices and promotes dynamic literate societies worldwide. Through its International Literacy...</p></details>
+   Link:<a href="https://www.facebook.com/unesco/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/unesco/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>unescoUNESCO supports effective literacy practices and promotes dynamic literate societies worldwide. Through its International Literacy...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/unescokathmandu/posts/weve-put-together-the-tools-resources-you-need-to-develop-media-literacy-skills-/4497713753635744/?locale=af_ZA" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/unescokathmandu/posts/weve-put-together-the-tools-resources-you-need-to-develop-media-literacy-skills-/4497713753635744/?locale=af_ZA</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UNESCO Office in KathmanduThis toolkit provides links to and a few key excerpts from useful resources to help you identify “fake news”—mi...</p></details>
+   Link:<a href="https://www.facebook.com/unescokathmandu/posts/weve-put-together-the-tools-resources-you-need-to-develop-media-literacy-skills-/4497713753635744/?locale=af_ZA" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/unescokathmandu/posts/weve-put-together-the-tools-resources-you-need-to-develop-media-literacy-skills-/4497713753635744/?locale=af_ZA</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UNESCO Office in KathmanduThis toolkit provides links to and a few key excerpts from useful resources to help you identify “fake news”—mi...</p></details>
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: guides.skylinecollege.edu  
-   Link: <a href="https://guides.skylinecollege.edu/fakenews/readinglaterally" target="_blank" rel="noopener noreferrer nofollow">https://guides.skylinecollege.edu/fakenews/readinglaterally</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Laterally - Evaluating news: Fake News &amp; BeyondJan 28, 2025 — SIFT &amp; PICK · Reading Laterally · 33 Problems with Media · More on News and...</p></details>
+   Link:<a href="https://guides.skylinecollege.edu/fakenews/readinglaterally" target="_blank" rel="noopener noreferrer nofollow">https://guides.skylinecollege.edu/fakenews/readinglaterally</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Laterally - Evaluating news: Fake News &amp; BeyondJan 28, 2025 — SIFT &amp; PICK · Reading Laterally · 33 Problems with Media · More on News and...</p></details>
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: dictionary.cambridge.org  
-   Link: <a href="https://dictionary.cambridge.org/dictionary/english/sift" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/dictionary/english/sift</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>to make a close examination of something: [ T ] The police are carefully sifting the evidence. [ I ] I had to sift through...Read more...</p></details>
+   Link:<a href="https://dictionary.cambridge.org/dictionary/english/sift" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/dictionary/english/sift</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>to make a close examination of something: [ T ] The police are carefully sifting the evidence. [ I ] I had to sift through...Read more...</p></details>
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: cyberpeace.org  
-   Link: <a href="https://www.cyberpeace.org/resources/blogs/unescos-course-on-media-and-information-literacy-combating-misinformation-through-education" target="_blank" rel="noopener noreferrer nofollow">https://www.cyberpeace.org/resources/blogs/unescos-course-on-media-and-information-literacy-combating-misinformation-through-education</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UNESCO&#x27;s Course on Media and Information Literacy6 Jan 2025 — Self-paced, a total of 10 hours, this course covers basics such as concepts...</p></details>
+   Link:<a href="https://www.cyberpeace.org/resources/blogs/unescos-course-on-media-and-information-literacy-combating-misinformation-through-education" target="_blank" rel="noopener noreferrer nofollow">https://www.cyberpeace.org/resources/blogs/unescos-course-on-media-and-information-literacy-combating-misinformation-through-education</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UNESCO&#x27;s Course on Media and Information Literacy6 Jan 2025 — Self-paced, a total of 10 hours, this course covers basics such as concepts...</p></details>
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: europeanjournalists.org  
-   Link: <a href="https://europeanjournalists.org/blog/2024/12/06/unesco-report-highlights-urgent-need-for-media-literacy-training-for-digital-content-creators-who-report-the-news/" target="_blank" rel="noopener noreferrer nofollow">https://europeanjournalists.org/blog/2024/12/06/unesco-report-highlights-urgent-need-for-media-literacy-training-for-digital-content-creators-who-report-the-news/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UNESCO report highlights urgent need for media literacy...6 Dec 2024 — This lack of rigour “can be particularly problematic in times of...</p></details>
+   Link:<a href="https://europeanjournalists.org/blog/2024/12/06/unesco-report-highlights-urgent-need-for-media-literacy-training-for-digital-content-creators-who-report-the-news/" target="_blank" rel="noopener noreferrer nofollow">https://europeanjournalists.org/blog/2024/12/06/unesco-report-highlights-urgent-need-for-media-literacy-training-for-digital-content-creators-who-report-the-news/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UNESCO report highlights urgent need for media literacy...6 Dec 2024 — This lack of rigour “can be particularly problematic in times of...</p></details>
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/playlist?list=PLWuYED1WVJIOKXxgn99Zxwcw18IDKAeVY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/playlist?list=PLWuYED1WVJIOKXxgn99Zxwcw18IDKAeVY</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UNESCO Media and Information LiteracyTackling misinformation and disinformation through Media and Information Literacy competencies... M...</p></details>
+   Link:<a href="https://www.youtube.com/playlist?list=PLWuYED1WVJIOKXxgn99Zxwcw18IDKAeVY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/playlist?list=PLWuYED1WVJIOKXxgn99Zxwcw18IDKAeVY</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UNESCO Media and Information LiteracyTackling misinformation and disinformation through Media and Information Literacy competencies... M...</p></details>
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: projects.uni-foundation.eu  
    Title: unesco handbook for journalism education and training  
-   Link: <a href="https://projects.uni-foundation.eu/erum/unesco-handbook-for-journalism-education-and-training/" target="_blank" rel="noopener noreferrer nofollow">https://projects.uni-foundation.eu/erum/unesco-handbook-for-journalism-education-and-training/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Handbook for Journalism Education and Training26 Oct 2020 — The rise of many mis- and disinformation (more commonly known as “fake news”)...</p></details>
+   Link:<a href="https://projects.uni-foundation.eu/erum/unesco-handbook-for-journalism-education-and-training/" target="_blank" rel="noopener noreferrer nofollow">https://projects.uni-foundation.eu/erum/unesco-handbook-for-journalism-education-and-training/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Handbook for Journalism Education and Training26 Oct 2020 — The rise of many mis- and disinformation (more commonly known as “fake news”)...</p></details>
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: unesco-cdsj.com  
    Title: inoculations against racist misinformation  
-   Link: <a href="https://www.unesco-cdsj.com/publications/resources/inoculations-against-racist-misinformation/" target="_blank" rel="noopener noreferrer nofollow">https://www.unesco-cdsj.com/publications/resources/inoculations-against-racist-misinformation/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The study drew on online misinformation...Read more...</p></details>
+   Link:<a href="https://www.unesco-cdsj.com/publications/resources/inoculations-against-racist-misinformation/" target="_blank" rel="noopener noreferrer nofollow">https://www.unesco-cdsj.com/publications/resources/inoculations-against-racist-misinformation/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The study drew on online misinformation...Read more...</p></details>
 
 ### Additional References
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: stratcomcoe.org  
-   Link: <a href="https://stratcomcoe.org/publications/download/Inoculation-theory-and-Misinformation-FINAL-digital-ISBN-ebbe8.pdf" target="_blank" rel="noopener noreferrer nofollow">https://stratcomcoe.org/publications/download/Inoculation-theory-and-Misinformation-FINAL-digital-ISBN-ebbe8.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>INOCULATION THEORY AND MISINFORMATIONTo do so, we first discuss how to define “misinformation”, and how it relates to various other commo...</p></details>
+   Link:<a href="https://stratcomcoe.org/publications/download/Inoculation-theory-and-Misinformation-FINAL-digital-ISBN-ebbe8.pdf" target="_blank" rel="noopener noreferrer nofollow">https://stratcomcoe.org/publications/download/Inoculation-theory-and-Misinformation-FINAL-digital-ISBN-ebbe8.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>INOCULATION THEORY AND MISINFORMATIONTo do so, we first discuss how to define “misinformation”, and how it relates to various other commo...</p></details>
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: alda-europe.eu  
-   Link: <a href="https://www.alda-europe.eu/resources/media-literacy-in-the-age-of-digital-disinformation-challenges-good-practices-and-recommendations/" target="_blank" rel="noopener noreferrer nofollow">https://www.alda-europe.eu/resources/media-literacy-in-the-age-of-digital-disinformation-challenges-good-practices-and-recommendations/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Media Literacy in the age of digital disinformationThis case study provides insights into combating disinformation through education, res...</p></details>
+   Link:<a href="https://www.alda-europe.eu/resources/media-literacy-in-the-age-of-digital-disinformation-challenges-good-practices-and-recommendations/" target="_blank" rel="noopener noreferrer nofollow">https://www.alda-europe.eu/resources/media-literacy-in-the-age-of-digital-disinformation-challenges-good-practices-and-recommendations/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Media Literacy in the age of digital disinformationThis case study provides insights into combating disinformation through education, res...</p></details>
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/guardian-foundation/2024/dec/02/the-guardian-foundation-call-on-the-government-to-embed-news-and-media-literacy-into-the-curriculum" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/guardian-foundation/2024/dec/02/the-guardian-foundation-call-on-the-government-to-embed-news-and-media-literacy-into-the-curriculum</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Foundation&#x27;s executive director, Kelly Walls, emphasizes the necessity of these skills to combat misinformation and bolster democracy...</p></details>
+   Link:<a href="https://www.theguardian.com/guardian-foundation/2024/dec/02/the-guardian-foundation-call-on-the-government-to-embed-news-and-media-literacy-into-the-curriculum" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/guardian-foundation/2024/dec/02/the-guardian-foundation-call-on-the-government-to-embed-news-and-media-literacy-into-the-curriculum</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Foundation&#x27;s executive director, Kelly Walls, emphasizes the necessity of these skills to combat misinformation and bolster democracy...</p></details>
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: cam.ac.uk  
-   Link: <a href="https://www.cam.ac.uk/research/news/pre-bunk-tactics-reduce-public-susceptibility-to-covid-19-conspiracies-and-falsehoods-study-finds" target="_blank" rel="noopener noreferrer nofollow">https://www.cam.ac.uk/research/news/pre-bunk-tactics-reduce-public-susceptibility-to-covid-19-conspiracies-and-falsehoods-study-finds</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;Pre-bunk&#x27; tactics reduce public susceptibility to COVID-19...12 May 2021 — “By exposing people to the methods used to produce fake news...</p></details>
+   Link:<a href="https://www.cam.ac.uk/research/news/pre-bunk-tactics-reduce-public-susceptibility-to-covid-19-conspiracies-and-falsehoods-study-finds" target="_blank" rel="noopener noreferrer nofollow">https://www.cam.ac.uk/research/news/pre-bunk-tactics-reduce-public-susceptibility-to-covid-19-conspiracies-and-falsehoods-study-finds</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;Pre-bunk&#x27; tactics reduce public susceptibility to COVID-19...12 May 2021 — “By exposing people to the methods used to produce fake news...</p></details>
    Published: May 2021  
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: podcast.ausha.co  
-   Link: <a href="https://podcast.ausha.co/unesco-media-and-information-literacy/tackling-misinformation-and-disinformation-through-media-and-information-literacy-competencies" target="_blank" rel="noopener noreferrer nofollow">https://podcast.ausha.co/unesco-media-and-information-literacy/tackling-misinformation-and-disinformation-through-media-and-information-literacy-competencies</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Media and Information Literacy26 Mar 2024 — Tackling misinformation and disinformation through Media and Information Literacy competencie...</p></details>
+   Link:<a href="https://podcast.ausha.co/unesco-media-and-information-literacy/tackling-misinformation-and-disinformation-through-media-and-information-literacy-competencies" target="_blank" rel="noopener noreferrer nofollow">https://podcast.ausha.co/unesco-media-and-information-literacy/tackling-misinformation-and-disinformation-through-media-and-information-literacy-competencies</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Media and Information Literacy26 Mar 2024 — Tackling misinformation and disinformation through Media and Information Literacy competencie...</p></details>
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: poynter.org  
    Title: lateral reading the best media literacy tip to vet credible sources  
-   Link: <a href="https://www.poynter.org/fact-checking/media-literacy/2023/lateral-reading-the-best-media-literacy-tip-to-vet-credible-sources/" target="_blank" rel="noopener noreferrer nofollow">https://www.poynter.org/fact-checking/media-literacy/2023/lateral-reading-the-best-media-literacy-tip-to-vet-credible-sources/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Lateral reading: The best media literacy tip to vet credible...Jul 20, 2023 — We teach people digital media literacy and fact-checking s...</p></details>
+   Link:<a href="https://www.poynter.org/fact-checking/media-literacy/2023/lateral-reading-the-best-media-literacy-tip-to-vet-credible-sources/" target="_blank" rel="noopener noreferrer nofollow">https://www.poynter.org/fact-checking/media-literacy/2023/lateral-reading-the-best-media-literacy-tip-to-vet-credible-sources/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Lateral reading: The best media literacy tip to vet credible...Jul 20, 2023 — We teach people digital media literacy and fact-checking s...</p></details>
 
-43. <a id="endnote-43"></a>
+43.<a id="endnote-43"></a>
    Source: neuroviaxacademy.com  
-   Link: <a href="https://neuroviaxacademy.com/lateral-reading-fact-checkers-guide/" target="_blank" rel="noopener noreferrer nofollow">https://neuroviaxacademy.com/lateral-reading-fact-checkers-guide/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Stanford History Education Group (SHEG) provides free materials for civic online reasoning.Read more...</p></details>
+   Link:<a href="https://neuroviaxacademy.com/lateral-reading-fact-checkers-guide/" target="_blank" rel="noopener noreferrer nofollow">https://neuroviaxacademy.com/lateral-reading-fact-checkers-guide/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Stanford History Education Group (SHEG) provides free materials for civic online reasoning.Read more...</p></details>
 
-44. <a id="endnote-44"></a>
+44.<a id="endnote-44"></a>
    Source: en.ccunesco.ca  
    Title: ca Media and Information Literacy:by C Wilson · Cited by 847 —  
-   Link: <a href="https://en.ccunesco.ca/-/media/Files/Unesco/Resources/2019/11/MediaAndInformationLiteracy.pdf" target="_blank" rel="noopener noreferrer nofollow">https://en.ccunesco.ca/-/media/Files/Unesco/Resources/2019/11/MediaAndInformationLiteracy.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Fake News&quot;: How Youth Are Navigating Modern Misinformation and Propaganda Online... fake news” has become part of everyday vocabulary wh...</p></details>
+   Link:<a href="https://en.ccunesco.ca/-/media/Files/Unesco/Resources/2019/11/MediaAndInformationLiteracy.pdf" target="_blank" rel="noopener noreferrer nofollow">https://en.ccunesco.ca/-/media/Files/Unesco/Resources/2019/11/MediaAndInformationLiteracy.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Fake News&quot;: How Youth Are Navigating Modern Misinformation and Propaganda Online... fake news” has become part of everyday vocabulary wh...</p></details>
 
-45. <a id="endnote-45"></a>
+45.<a id="endnote-45"></a>
    Source: barbarafister.net  
    Title: lateral reading and information systems in the age of distrust  
-   Link: <a href="https://barbarafister.net/libraries/lateral-reading-and-information-systems-in-the-age-of-distrust/" target="_blank" rel="noopener noreferrer nofollow">https://barbarafister.net/libraries/lateral-reading-and-information-systems-in-the-age-of-distrust/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Lateral Reading and Information Systems in the Age of...Sep 22, 2021 — This form of disinformation is a particularly difficult one to co...</p></details>
+   Link:<a href="https://barbarafister.net/libraries/lateral-reading-and-information-systems-in-the-age-of-distrust/" target="_blank" rel="noopener noreferrer nofollow">https://barbarafister.net/libraries/lateral-reading-and-information-systems-in-the-age-of-distrust/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Lateral Reading and Information Systems in the Age of...Sep 22, 2021 — This form of disinformation is a particularly difficult one to co...</p></details>
 
-46. <a id="endnote-46"></a>
+46.<a id="endnote-46"></a>
    Source: facebook.com  
    Title: Media and information literacy is a critical skill for ALL  
-   Link: <a href="https://www.facebook.com/unesco/videos/free-course-by-unesco-and-the-knight-center-for-journalism-in-the-americas/8370362856405991/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/unesco/videos/free-course-by-unesco-and-the-knight-center-for-journalism-in-the-americas/8370362856405991/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>So how...Media and information literacy is a critical skill for ALL. So how can Content Creators protect their communities from mis- and...</p></details>
+   Link:<a href="https://www.facebook.com/unesco/videos/free-course-by-unesco-and-the-knight-center-for-journalism-in-the-americas/8370362856405991/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/unesco/videos/free-course-by-unesco-and-the-knight-center-for-journalism-in-the-americas/8370362856405991/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>So how...Media and information literacy is a critical skill for ALL. So how can Content Creators protect their communities from mis- and...</p></details>

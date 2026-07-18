@@ -274,44 +274,44 @@ image: /assets/images/Myths_and_misconcept_0d48d7_mental_models_myths_2fa808_chi
 
 ## Introduction
 
-Children’s ideas about the shape of the Earth provide one of the clearest demonstrations that misconceptions are often logical attempts to make sense of conflicting information. In a landmark series of studies, researchers found that many children did not simply choose between “the Earth is flat” and “the Earth is round”. Instead, they built imaginative intermediate models that combined classroom teaching with everyday experience. These models were wrong from a scientific standpoint, but they were internally coherent and often remarkably consistent. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/001002859290018W" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Mental models of the earth: A study of conceptual change...by S Vosniadou · 1992 · Cited by 3047 — Five alternative mental...</span></span></span>
+Children’s ideas about the shape of the Earth provide one of the clearest demonstrations that misconceptions are often logical attempts to make sense of conflicting information. In a landmark series of studies, researchers found that many children did not simply choose between “the Earth is flat” and “the Earth is round”. Instead, they built imaginative intermediate models that combined classroom teaching with everyday experience. These models were wrong from a scientific standpoint, but they were internally coherent and often remarkably consistent.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/001002859290018W" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Mental models of the earth: A study of conceptual change...by S Vosniadou · 1992 · Cited by 3047 — Five alternative mental...</span></span></span>
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_mental_models_myths_2fa808_childrens_earth_mode_97d9b9-Illustration-1-dark.svg" | relative_url }}" alt="Earth Models illustration 1" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_mental_models_myths_2fa808_childrens_earth_mode_97d9b9-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_mental_models_myths_2fa808_childrens_earth_mode_97d9b9-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-The case matters because it reveals how myths and misconceptions can persist. People rarely abandon an existing mental model all at once. When new information clashes with what seems obvious from experience, they often create hybrid explanations that preserve as much coherence as possible. Children’s Earth models show this process in a particularly visible form. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/001002859290018W" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Mental models of the earth: A study of conceptual change...by S Vosniadou · 1992 · Cited by 3047 — Five alternative mental...</span></span></span>
+The case matters because it reveals how myths and misconceptions can persist. People rarely abandon an existing mental model all at once. When new information clashes with what seems obvious from experience, they often create hybrid explanations that preserve as much coherence as possible. Children’s Earth models show this process in a particularly visible form.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/001002859290018W" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Mental models of the earth: A study of conceptual change...by S Vosniadou · 1992 · Cited by 3047 — Five alternative mental...</span></span></span>
 
 ## Why Flat Ground Conflicts with a Round Earth
 
-For a young child, the idea that the Earth is a sphere creates an immediate problem. Everything in everyday experience appears to support the opposite conclusion. The ground looks flat. Buildings stand upright. People do not appear to be hanging upside down. Nothing suggests that the surface curves dramatically beneath one’s feet. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/001002859290018W" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Mental models of the earth: A study of conceptual change...by S Vosniadou · 1992 · Cited by 3047 — Five alternative mental...</span></span></span>
+For a young child, the idea that the Earth is a sphere creates an immediate problem. Everything in everyday experience appears to support the opposite conclusion. The ground looks flat. Buildings stand upright. People do not appear to be hanging upside down. Nothing suggests that the surface curves dramatically beneath one’s feet.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/001002859290018W" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Mental models of the earth: A study of conceptual change...by S Vosniadou · 1992 · Cited by 3047 — Five alternative mental...</span></span></span>
 
 Stella Vosniadou and William Brewer argued that children begin with certain deeply rooted assumptions derived from ordinary observation. Two are especially important:
 
-* The ground people live on is flat. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www2.pd.infn.it/~lacaprar/ProgettoScuola/Biblio/Vosniadou%20-%20Mental%20Models%20of%20the%20Earth%20Conceptual%20Change.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: www2.pd.infn.it">[www2.pd.infn.it]</a><span class="citation-popover" role="note"><span class="citation-popover-source">www2.pd.infn.it</span><span class="citation-popover-snippet">Mental Models of the Earth Conceptual Changeby S VOSNIADOU · 1992 · Cited by 3046 — This paper presents the results of an experiment whic...</span></span></span>
+* The ground people live on is flat.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www2.pd.infn.it/~lacaprar/ProgettoScuola/Biblio/Vosniadou%20-%20Mental%20Models%20of%20the%20Earth%20Conceptual%20Change.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: www2.pd.infn.it">[www2.pd.infn.it]</a><span class="citation-popover" role="note"><span class="citation-popover-source">www2.pd.infn.it</span><span class="citation-popover-snippet">Mental Models of the Earth Conceptual Changeby S VOSNIADOU · 1992 · Cited by 3046 — This paper presents the results of an experiment whic...</span></span></span>
 * Objects need support underneath them and cannot simply remain suspended in space.
 
-These assumptions work well in everyday life, so children treat them as reliable facts about the world. The challenge arises when adults tell them that the Earth is round. Instead of immediately replacing their existing assumptions, many children try to integrate the new information into their old framework. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/001002859290018W" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Mental models of the earth: A study of conceptual change...by S Vosniadou · 1992 · Cited by 3047 — Five alternative mental...</span></span></span>
+These assumptions work well in everyday life, so children treat them as reliable facts about the world. The challenge arises when adults tell them that the Earth is round. Instead of immediately replacing their existing assumptions, many children try to integrate the new information into their old framework.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/001002859290018W" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Mental models of the earth: A study of conceptual change...by S Vosniadou · 1992 · Cited by 3047 — Five alternative mental...</span></span></span>
 
-This helps explain why misconceptions can be so stable. The problem is not ignorance. The child is actively reasoning. The misconception emerges because two seemingly trustworthy sources of information—direct experience and cultural instruction—point in different directions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/001002859290018W" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Mental models of the earth: A study of conceptual change...by S Vosniadou · 1992 · Cited by 3047 — Five alternative mental...</span></span></span>
+This helps explain why misconceptions can be so stable. The problem is not ignorance. The child is actively reasoning. The misconception emerges because two seemingly trustworthy sources of information—direct experience and cultural instruction—point in different directions.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/001002859290018W" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Mental models of the earth: A study of conceptual change...by S Vosniadou · 1992 · Cited by 3047 — Five alternative mental...</span></span></span>
 
 ## Disc, Hollow, and Flattened Sphere Models
 
-The most influential evidence comes from a 1992 study in which children were interviewed about the Earth’s shape, where people live, where the sky is located, and what would happen at the Earth's edge. Rather than producing random answers, many children gave patterns of responses that fit identifiable [mental models]({{ 'mental-models/' | relative_url }}). <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/001002859290018W" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Mental models of the earth: A study of conceptual change...by S Vosniadou · 1992 · Cited by 3047 — Five alternative mental...</span></span></span>
+The most influential evidence comes from a 1992 study in which children were interviewed about the Earth’s shape, where people live, where the sky is located, and what would happen at the Earth's edge. Rather than producing random answers, many children gave patterns of responses that fit identifiable [mental models]({{ 'mental-models/' | relative_url }}).<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/001002859290018W" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Mental models of the earth: A study of conceptual change...by S Vosniadou · 1992 · Cited by 3047 — Five alternative mental...</span></span></span>
 
 ### The Disc Earth
 
-Some children imagined the Earth as a large flat disc. This model preserved the appearance of flat ground while acknowledging that the Earth might be round in the sense of being circular. In this view, one could potentially reach an edge and fall off. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/001002859290018W" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Mental models of the earth: A study of conceptual change...by S Vosniadou · 1992 · Cited by 3047 — Five alternative mental...</span></span></span>
+Some children imagined the Earth as a large flat disc. This model preserved the appearance of flat ground while acknowledging that the Earth might be round in the sense of being circular. In this view, one could potentially reach an edge and fall off.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/001002859290018W" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Mental models of the earth: A study of conceptual change...by S Vosniadou · 1992 · Cited by 3047 — Five alternative mental...</span></span></span>
 
-The model demonstrates a subtle point: the child is not rejecting the word “round”. Instead, “round” is interpreted as a flat circle rather than a globe. The misconception arises from a difference in meaning rather than a simple factual error. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/001002859290018W" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Mental models of the earth: A study of conceptual change...by S Vosniadou · 1992 · Cited by 3047 — Five alternative mental...</span></span></span>
+The model demonstrates a subtle point: the child is not rejecting the word “round”. Instead, “round” is interpreted as a flat circle rather than a globe. The misconception arises from a difference in meaning rather than a simple factual error.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/001002859290018W" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Mental models of the earth: A study of conceptual change...by S Vosniadou · 1992 · Cited by 3047 — Five alternative mental...</span></span></span>
 
 ### The Dual Earth
 
-One of the most striking findings was the “dual Earth” model. Children using this model effectively maintained two Earths at once. There was a round Earth discussed by adults and shown in books, but there was also the flat ground where people actually lived. The scientific Earth and the experienced Earth coexisted without being fully integrated. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/001002859290018W" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Mental models of the earth: A study of conceptual change...by S Vosniadou · 1992 · Cited by 3047 — Five alternative mental...</span></span></span>
+One of the most striking findings was the “dual Earth” model. Children using this model effectively maintained two Earths at once. There was a round Earth discussed by adults and shown in books, but there was also the flat ground where people actually lived. The scientific Earth and the experienced Earth coexisted without being fully integrated.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/001002859290018W" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Mental models of the earth: A study of conceptual change...by S Vosniadou · 1992 · Cited by 3047 — Five alternative mental...</span></span></span>
 
-This is a powerful example of how new information can be stored without fundamentally restructuring an older worldview. The child accepts the taught fact while preserving the original explanatory framework. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/001002859290018W" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Mental models of the earth: A study of conceptual change...by S Vosniadou · 1992 · Cited by 3047 — Five alternative mental...</span></span></span>
+This is a powerful example of how new information can be stored without fundamentally restructuring an older worldview. The child accepts the taught fact while preserving the original explanatory framework.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/001002859290018W" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Mental models of the earth: A study of conceptual change...by S Vosniadou · 1992 · Cited by 3047 — Five alternative mental...</span></span></span>
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_mental_models_myths_2fa808_childrens_earth_mode_97d9b9-Illustration-2-dark.svg" | relative_url }}" alt="Earth Models illustration 2" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_mental_models_myths_2fa808_childrens_earth_mode_97d9b9-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_mental_models_myths_2fa808_childrens_earth_mode_97d9b9-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### The Hollow Sphere
 
-Some children accepted that the Earth was spherical yet still believed people must stand on a flat surface. Their solution was to place people inside the sphere. In the hollow-sphere model, humans lived on a flat interior region, while the Earth itself remained round when viewed from outside. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/001002859290018W" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Mental models of the earth: A study of conceptual change...by S Vosniadou · 1992 · Cited by 3047 — Five alternative mental...</span></span></span>
+Some children accepted that the Earth was spherical yet still believed people must stand on a flat surface. Their solution was to place people inside the sphere. In the hollow-sphere model, humans lived on a flat interior region, while the Earth itself remained round when viewed from outside.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/001002859290018W" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Mental models of the earth: A study of conceptual change...by S Vosniadou · 1992 · Cited by 3047 — Five alternative mental...</span></span></span>
 
 From an adult perspective this seems bizarre. From the child’s perspective it solves multiple problems simultaneously:
 
@@ -319,233 +319,233 @@ From an adult perspective this seems bizarre. From the child’s perspective it 
 
 * The Earth can be spherical.
 * People remain upright.
-* Flat ground is preserved. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www2.pd.infn.it/~lacaprar/ProgettoScuola/Biblio/Vosniadou%20-%20Mental%20Models%20of%20the%20Earth%20Conceptual%20Change.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: www2.pd.infn.it">[www2.pd.infn.it]</a><span class="citation-popover" role="note"><span class="citation-popover-source">www2.pd.infn.it</span><span class="citation-popover-snippet">Mental Models of the Earth Conceptual Changeby S VOSNIADOU · 1992 · Cited by 3046 — This paper presents the results of an experiment whic...</span></span></span>
+* Flat ground is preserved.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www2.pd.infn.it/~lacaprar/ProgettoScuola/Biblio/Vosniadou%20-%20Mental%20Models%20of%20the%20Earth%20Conceptual%20Change.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: www2.pd.infn.it">[www2.pd.infn.it]</a><span class="citation-popover" role="note"><span class="citation-popover-source">www2.pd.infn.it</span><span class="citation-popover-snippet">Mental Models of the Earth Conceptual Changeby S VOSNIADOU · 1992 · Cited by 3046 — This paper presents the results of an experiment whic...</span></span></span>
 * No one falls off the planet.
 
 </div>
 
-The model is creative because it reconciles conflicting constraints rather than choosing one side and ignoring the other. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/001002859290018W" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Mental models of the earth: A study of conceptual change...by S Vosniadou · 1992 · Cited by 3047 — Five alternative mental...</span></span></span>
+The model is creative because it reconciles conflicting constraints rather than choosing one side and ignoring the other.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/001002859290018W" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Mental models of the earth: A study of conceptual change...by S Vosniadou · 1992 · Cited by 3047 — Five alternative mental...</span></span></span>
 
 ### The Flattened Sphere
 
-Another group imagined a thick, pancake-like Earth. It was rounded around the sides but flattened on the top and bottom where people lived. This model preserved the idea that the Earth is generally spherical while retaining a flat region suitable for human habitation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/001002859290018W" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Mental models of the earth: A study of conceptual change...by S Vosniadou · 1992 · Cited by 3047 — Five alternative mental...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.spring.org.uk/2008/04/how-children-learn-earth-isnt-flat.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: spring.org.uk">[PsyBlog]</a><span class="citation-popover" role="note"><span class="citation-popover-source">spring.org.uk</span><span class="citation-popover-title">how children learn earth isnt flat</span><span class="citation-popover-snippet">PsyBlogHow Children Learn the Earth Isn&#x27;t Flat30 Apr 2008 — Hollow sphere: thought we live inside the Earth on a flat area (12/60). Flatt...</span></span></span>
+Another group imagined a thick, pancake-like Earth. It was rounded around the sides but flattened on the top and bottom where people lived. This model preserved the idea that the Earth is generally spherical while retaining a flat region suitable for human habitation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/001002859290018W" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Mental models of the earth: A study of conceptual change...by S Vosniadou · 1992 · Cited by 3047 — Five alternative mental...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.spring.org.uk/2008/04/how-children-learn-earth-isnt-flat.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: spring.org.uk">[PsyBlog]</a><span class="citation-popover" role="note"><span class="citation-popover-source">spring.org.uk</span><span class="citation-popover-title">how children learn earth isnt flat</span><span class="citation-popover-snippet">PsyBlogHow Children Learn the Earth Isn&#x27;t Flat30 Apr 2008 — Hollow sphere: thought we live inside the Earth on a flat area (12/60). Flatt...</span></span></span>
 
-Again, the misconception is not random. It reflects an effort to minimise [conflict]({{ 'conflict/' | relative_url }}) between observation and instruction. The child modifies the scientific claim just enough to fit prior assumptions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/001002859290018W" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Mental models of the earth: A study of conceptual change...by S Vosniadou · 1992 · Cited by 3047 — Five alternative mental...</span></span></span>
+Again, the misconception is not random. It reflects an effort to minimise [conflict]({{ 'conflict/' | relative_url }}) between observation and instruction. The child modifies the scientific claim just enough to fit prior assumptions.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/001002859290018W" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Mental models of the earth: A study of conceptual change...by S Vosniadou · 1992 · Cited by 3047 — Five alternative mental...</span></span></span>
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_mental_models_myths_2fa808_childrens_earth_mode_97d9b9-Illustration-3-dark.svg" | relative_url }}" alt="Earth Models illustration 3" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_mental_models_myths_2fa808_childrens_earth_mode_97d9b9-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_mental_models_myths_2fa808_childrens_earth_mode_97d9b9-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What These Models Reveal About Conceptual Change
 
-The Earth studies became influential because they shifted attention away from isolated wrong answers and toward underlying mental models. Researchers argued that conceptual change often involves restructuring a network of assumptions rather than replacing a single belief. ScienceDirect <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.academia.edu/48524586/Conceptual_Change_and_Education" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-title">Conceptual Change and Education</span><span class="citation-popover-snippet">Academia(PDF) Conceptual Change and EducationReview of Educational Research, 57, 51–67. Vosniadou, S., &amp; Brewer, W.F. (1992). Mental mode...</span></span></span> A child cannot fully understand a spherical Earth simply by memorising the sentence“the Earth is round”. To make sense of the scientific model, the child must also revise ideas about gravity, up and down, support, space, and perspective. Until those related concepts change, hybrid models remain attractive. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/001002859290018W" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Mental models of the earth: A study of conceptual change...by S Vosniadou · 1992 · Cited by 3047 — Five alternative mental...</span></span></span>
+The Earth studies became influential because they shifted attention away from isolated wrong answers and toward underlying mental models. Researchers argued that conceptual change often involves restructuring a network of assumptions rather than replacing a single belief. ScienceDirect<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.academia.edu/48524586/Conceptual_Change_and_Education" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-title">Conceptual Change and Education</span><span class="citation-popover-snippet">Academia(PDF) Conceptual Change and EducationReview of Educational Research, 57, 51–67. Vosniadou, S., &amp; Brewer, W.F. (1992). Mental mode...</span></span></span> A child cannot fully understand a spherical Earth simply by memorising the sentence“the Earth is round”. To make sense of the scientific model, the child must also revise ideas about gravity, up and down, support, space, and perspective. Until those related concepts change, hybrid models remain attractive.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/001002859290018W" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Mental models of the earth: A study of conceptual change...by S Vosniadou · 1992 · Cited by 3047 — Five alternative mental...</span></span></span>
 
-This insight helped shape broader theories of conceptual change in science education. Learning was increasingly seen as a process of reorganising existing knowledge structures rather than filling an empty container with facts. ERIC <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.academia.edu/48524586/Conceptual_Change_and_Education" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia At the same time]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-title">Conceptual Change and Education</span><span class="citation-popover-snippet">Academia(PDF) Conceptual Change and EducationReview of Educational Research, 57, 51–67. Vosniadou, S., &amp; Brewer, W.F. (1992). Mental mode...</span></span></span>, later researchers questioned whether all of the identified Earth models were as coherent and widespread as originally proposed. Some studies suggested that interview methods and drawing tasks may have exaggerated the appearance of stable mental models. Children can misunderstand questions, switch between perspectives, or produce inconsistent answers. Nevertheless, even critics generally agree that children often struggle to integrate intuitive beliefs with scientific explanations and that hybrid understandings are common during learning. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/19100995/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Mental models and other misconceptions in children&#x27;s...by G Panagiotaki · 2009 · Cited by 122 — This study investigated the claim...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/278716843_Reframing_the_Classical_Approach_to_Conceptual_Change_Preconceptions_Misconceptions_and_Synthetic_Models" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Reframing the Classical Approach to Conceptual ChangeFrom a theoretical perspective, these difficulties can be explained through Vosniado...</span></span></span>
+This insight helped shape broader theories of conceptual change in science education. Learning was increasingly seen as a process of reorganising existing knowledge structures rather than filling an empty container with facts. ERIC<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.academia.edu/48524586/Conceptual_Change_and_Education" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia At the same time]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-title">Conceptual Change and Education</span><span class="citation-popover-snippet">Academia(PDF) Conceptual Change and EducationReview of Educational Research, 57, 51–67. Vosniadou, S., &amp; Brewer, W.F. (1992). Mental mode...</span></span></span>, later researchers questioned whether all of the identified Earth models were as coherent and widespread as originally proposed. Some studies suggested that interview methods and drawing tasks may have exaggerated the appearance of stable mental models. Children can misunderstand questions, switch between perspectives, or produce inconsistent answers. Nevertheless, even critics generally agree that children often struggle to integrate intuitive beliefs with scientific explanations and that hybrid understandings are common during learning.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/19100995/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Mental models and other misconceptions in children&#x27;s...by G Panagiotaki · 2009 · Cited by 122 — This study investigated the claim...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/278716843_Reframing_the_Classical_Approach_to_Conceptual_Change_Preconceptions_Misconceptions_and_Synthetic_Models" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Reframing the Classical Approach to Conceptual ChangeFrom a theoretical perspective, these difficulties can be explained through Vosniado...</span></span></span>
 
 ## What Public Myth Correction Can Learn from Classrooms
 
 The Earth-model case has implications far beyond childhood astronomy. It illustrates why simply presenting a correct fact does not always eliminate a misconception.
 
-When children hear that the Earth is spherical, they do not automatically discard beliefs that flat ground supports people. Instead, they create intermediary explanations that preserve both ideas. Adults often behave similarly when confronting [corrections]({{ 'corrections/' | relative_url }}) to political, health, economic, or scientific myths. New information is frequently grafted onto older assumptions rather than replacing them. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/001002859290018W" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Mental models of the earth: A study of conceptual change...by S Vosniadou · 1992 · Cited by 3047 — Five alternative mental...</span></span></span>
+When children hear that the Earth is spherical, they do not automatically discard beliefs that flat ground supports people. Instead, they create intermediary explanations that preserve both ideas. Adults often behave similarly when confronting [corrections]({{ 'corrections/' | relative_url }}) to political, health, economic, or scientific myths. New information is frequently grafted onto older assumptions rather than replacing them.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/001002859290018W" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Mental models of the earth: A study of conceptual change...by S Vosniadou · 1992 · Cited by 3047 — Five alternative mental...</span></span></span>
 
 Three lessons emerge:
 
 <div class="content-enhancement content-enhancement--comparison" markdown="1">
 
-* **Misconceptions can be coherent.** A wrong belief may fit into a larger explanatory system rather than existing as a standalone error. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/001002859290018W" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Mental models of the earth: A study of conceptual change...by S Vosniadou · 1992 · Cited by 3047 — Five alternative mental...</span></span></span>
-* **Facts alone may not be enough.** People often need a replacement explanation, not merely a contradiction. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.academia.edu/48524586/Conceptual_Change_and_Education" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-title">Conceptual Change and Education</span><span class="citation-popover-snippet">Academia(PDF) Conceptual Change and EducationReview of Educational Research, 57, 51–67. Vosniadou, S., &amp; Brewer, W.F. (1992). Mental mode...</span></span></span>
-* **Hybrid models are normal.** Transitional understandings are often signs of learning in progress rather than evidence of irrationality. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/001002859290018W" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Mental models of the earth: A study of conceptual change...by S Vosniadou · 1992 · Cited by 3047 — Five alternative mental...</span></span></span>
+* **Misconceptions can be coherent.** A wrong belief may fit into a larger explanatory system rather than existing as a standalone error.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/001002859290018W" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Mental models of the earth: A study of conceptual change...by S Vosniadou · 1992 · Cited by 3047 — Five alternative mental...</span></span></span>
+* **Facts alone may not be enough.** People often need a replacement explanation, not merely a contradiction.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.academia.edu/48524586/Conceptual_Change_and_Education" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-title">Conceptual Change and Education</span><span class="citation-popover-snippet">Academia(PDF) Conceptual Change and EducationReview of Educational Research, 57, 51–67. Vosniadou, S., &amp; Brewer, W.F. (1992). Mental mode...</span></span></span>
+* **Hybrid models are normal.** Transitional understandings are often signs of learning in progress rather than evidence of irrationality.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/001002859290018W" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Mental models of the earth: A study of conceptual change...by S Vosniadou · 1992 · Cited by 3047 — Five alternative mental...</span></span></span>
 
 </div>
 
-Children’s Earth models remain a classic example because they expose a process that is usually hidden. They show the mind trying to preserve coherence while adapting to new evidence. The resulting models may be scientifically wrong, but they reveal an important truth about myths and misconceptions: people are often not failing to think. They are thinking with the best model they currently have. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/001002859290018W" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Mental models of the earth: A study of conceptual change...by S Vosniadou · 1992 · Cited by 3047 — Five alternative mental...</span></span></span>
+Children’s Earth models remain a classic example because they expose a process that is usually hidden. They show the mind trying to preserve coherence while adapting to new evidence. The resulting models may be scientifically wrong, but they reveal an important truth about myths and misconceptions: people are often not failing to think. They are thinking with the best model they currently have.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/001002859290018W" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Mental models of the earth: A study of conceptual change...by S Vosniadou · 1992 · Cited by 3047 — Five alternative mental...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When Wrong Earth Models Make Sense. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When Wrong Earth Models Make Sense. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YGPzXWanppcC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
-        </h4>
-        <p class="fr-book-author">By Daniel Kahneman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YGPzXWanppcC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
+</h4>
+<p class="fr-book-author">By Daniel Kahneman</p>
         
-        <p class="fr-book-desc">Helps explain why intuitive observations can conflict with scientific models.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps explain why intuitive observations can conflict with scientific models.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=A+short+history+of+nearly+everything+Bill+Bryson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open A short history of nearly everything on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/12725620-M.jpg" alt="Cover for A short history of nearly everything" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=A+short+history+of+nearly+everything+Bill+Bryson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A short history of nearly everything">A short history of nearly everything</a>
-        </h4>
-        <p class="fr-book-author">By Bill Bryson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=A+short+history+of+nearly+everything+Bill+Bryson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open A short history of nearly everything on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/12725620-M.jpg" alt="Cover for A short history of nearly everything" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=A+short+history+of+nearly+everything+Bill+Bryson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A short history of nearly everything">A short history of nearly everything</a>
+</h4>
+<p class="fr-book-author">By Bill Bryson</p>
         
-        <p class="fr-book-desc">First published 2003. Subjects: Science, Popular works, Ciencia, Obras populares, Science, popular works.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=A+short+history+of+nearly+everything+Bill+Bryson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2003. Subjects: Science, Popular works, Ciencia, Obras populares, Science, popular works.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=A+short+history+of+nearly+everything+Bill+Bryson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Magic+of+Reality+Richard+Dawkins&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Magic of Reality on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/6954864-M.jpg" alt="Cover for The Magic of Reality" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Magic+of+Reality+Richard+Dawkins&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Magic of Reality">The Magic of Reality</a>
-        </h4>
-        <p class="fr-book-author">By Richard Dawkins, Dave McKean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Magic+of+Reality+Richard+Dawkins&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Magic of Reality on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/6954864-M.jpg" alt="Cover for The Magic of Reality" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Magic+of+Reality+Richard+Dawkins&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Magic of Reality">The Magic of Reality</a>
+</h4>
+<p class="fr-book-author">By Richard Dawkins, Dave McKean</p>
         
-        <p class="fr-book-desc">First published 2001. Subjects: Miscellanea, Science, Philosophy, Reality, Nature.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Magic+of+Reality+Richard+Dawkins&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2001. Subjects: Miscellanea, Science, Philosophy, Reality, Nature.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Magic+of+Reality+Richard+Dawkins&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Knowledge+Illusion+Steven+Sloman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Knowledge Illusion on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8826867-M.jpg" alt="Cover for The Knowledge Illusion" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Knowledge+Illusion+Steven+Sloman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Knowledge Illusion">The Knowledge Illusion</a>
-        </h4>
-        <p class="fr-book-author">By Steven Sloman, Philip Fernbach</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Knowledge+Illusion+Steven+Sloman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Knowledge Illusion on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8826867-M.jpg" alt="Cover for The Knowledge Illusion" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Knowledge+Illusion+Steven+Sloman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Knowledge Illusion">The Knowledge Illusion</a>
+</h4>
+<p class="fr-book-author">By Steven Sloman, Philip Fernbach</p>
         
-        <p class="fr-book-desc">First published 2017. Subjects: Cognitive psychology, Knowledge, theory of, Knowledge, sociology of, Thought and thinking, Intellect.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Knowledge+Illusion+Steven+Sloman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2017. Subjects: Cognitive psychology, Knowledge, theory of, Knowledge, sociology of, Thought and thinking, Intellect.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Knowledge+Illusion+Steven+Sloman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=A+short+history+of+nearly+everything&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">A short history of nearly everything</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Magic+of+Reality&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Magic of Reality</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=A+short+history+of+nearly+everything&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">A short history of nearly everything</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Magic+of+Reality&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Magic of Reality</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=earth-models-when-wrong-earth-models-make-sense-myths-and-misconcept-teacher-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher mug" data-ebay-reference="earth-models-when-wrong-earth-models-make-sense-myths-and-misconcept-teacher-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Personalized Teacher Mug: Custom Name Gift, End of Year Appreciation"><img src="{{ '/assets/images/marketplace-covers/31a23af4629cbeb95306.jpg' | relative_url }}" alt="Listing image for Personalized Teacher Mug: Custom Name Gift, End of Year Appreciation" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=earth-models-when-wrong-earth-models-make-sense-myths-and-misconcept-teacher-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher mug" data-ebay-reference="earth-models-when-wrong-earth-models-make-sense-myths-and-misconcept-teacher-mug" target="_blank" rel="sponsored noopener noreferrer">Personalized Teacher Mug: Custom Name Gift, End of Year Appreciation</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=earth-models-when-wrong-earth-models-make-sense-myths-and-misconcept-teacher-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher mug" data-ebay-reference="earth-models-when-wrong-earth-models-make-sense-myths-and-misconcept-teacher-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for teacher mug">Search <span data-ebay-domain-label>eBay.co.uk</span>: teacher mug</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=earth-models-when-wrong-earth-models-make-sense-myths-and-misconcept-teacher-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher mug" data-ebay-reference="earth-models-when-wrong-earth-models-make-sense-myths-and-misconcept-teacher-mug" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=earth-models-when-wrong-earth-models-make-sense-myths-and-misconcept-teacher-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher mug" data-ebay-reference="earth-models-when-wrong-earth-models-make-sense-myths-and-misconcept-teacher-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Personalized Teacher Mug: Custom Name Gift, End of Year Appreciation"><img src="{{ '/assets/images/marketplace-covers/31a23af4629cbeb95306.jpg' | relative_url }}" alt="Listing image for Personalized Teacher Mug: Custom Name Gift, End of Year Appreciation" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=earth-models-when-wrong-earth-models-make-sense-myths-and-misconcept-teacher-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher mug" data-ebay-reference="earth-models-when-wrong-earth-models-make-sense-myths-and-misconcept-teacher-mug" target="_blank" rel="sponsored noopener noreferrer">Personalized Teacher Mug: Custom Name Gift, End of Year Appreciation</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=earth-models-when-wrong-earth-models-make-sense-myths-and-misconcept-teacher-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher mug" data-ebay-reference="earth-models-when-wrong-earth-models-make-sense-myths-and-misconcept-teacher-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for teacher mug">Search<span data-ebay-domain-label>eBay.co.uk</span>: teacher mug</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=earth-models-when-wrong-earth-models-make-sense-myths-and-misconcept-teacher-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher mug" data-ebay-reference="earth-models-when-wrong-earth-models-make-sense-myths-and-misconcept-teacher-mug" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=earth-models-when-wrong-earth-models-make-sense-myths-and-misconcept-teacher-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher mug" data-ebay-reference="earth-models-when-wrong-earth-models-make-sense-myths-and-misconcept-teacher-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Personalised Teacher Mug Name Gift Mug Personalised End Of School Gift Teachers"><img src="{{ '/assets/images/marketplace-covers/ccc5c18dd5d86ebdfee6.jpg' | relative_url }}" alt="Listing image for Personalised Teacher Mug Name Gift Mug Personalised End Of School Gift Teachers" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=earth-models-when-wrong-earth-models-make-sense-myths-and-misconcept-teacher-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher mug" data-ebay-reference="earth-models-when-wrong-earth-models-make-sense-myths-and-misconcept-teacher-mug" target="_blank" rel="sponsored noopener noreferrer">Personalised Teacher Mug Name Gift Mug Personalised End Of School Gift Teachers</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=earth-models-when-wrong-earth-models-make-sense-myths-and-misconcept-teacher-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher mug" data-ebay-reference="earth-models-when-wrong-earth-models-make-sense-myths-and-misconcept-teacher-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for teacher mug">Search <span data-ebay-domain-label>eBay.co.uk</span>: teacher mug</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=earth-models-when-wrong-earth-models-make-sense-myths-and-misconcept-teacher-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher mug" data-ebay-reference="earth-models-when-wrong-earth-models-make-sense-myths-and-misconcept-teacher-mug" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=earth-models-when-wrong-earth-models-make-sense-myths-and-misconcept-teacher-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher mug" data-ebay-reference="earth-models-when-wrong-earth-models-make-sense-myths-and-misconcept-teacher-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Personalised Teacher Mug Name Gift Mug Personalised End Of School Gift Teachers"><img src="{{ '/assets/images/marketplace-covers/ccc5c18dd5d86ebdfee6.jpg' | relative_url }}" alt="Listing image for Personalised Teacher Mug Name Gift Mug Personalised End Of School Gift Teachers" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=earth-models-when-wrong-earth-models-make-sense-myths-and-misconcept-teacher-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher mug" data-ebay-reference="earth-models-when-wrong-earth-models-make-sense-myths-and-misconcept-teacher-mug" target="_blank" rel="sponsored noopener noreferrer">Personalised Teacher Mug Name Gift Mug Personalised End Of School Gift Teachers</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=earth-models-when-wrong-earth-models-make-sense-myths-and-misconcept-teacher-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher mug" data-ebay-reference="earth-models-when-wrong-earth-models-make-sense-myths-and-misconcept-teacher-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for teacher mug">Search<span data-ebay-domain-label>eBay.co.uk</span>: teacher mug</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=earth-models-when-wrong-earth-models-make-sense-myths-and-misconcept-teacher-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher mug" data-ebay-reference="earth-models-when-wrong-earth-models-make-sense-myths-and-misconcept-teacher-mug" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=earth-models-when-wrong-earth-models-make-sense-myths-and-misconcept-teacher-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher mug" data-ebay-reference="earth-models-when-wrong-earth-models-make-sense-myths-and-misconcept-teacher-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for personalised Thank you Teacher mugs 7 choices Name Tea Coffee Mug White 11Oz"><img src="{{ '/assets/images/marketplace-covers/2e5a973ba1e8e323ef2b.jpg' | relative_url }}" alt="Listing image for personalised Thank you Teacher mugs 7 choices Name Tea Coffee Mug White 11Oz" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=earth-models-when-wrong-earth-models-make-sense-myths-and-misconcept-teacher-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher mug" data-ebay-reference="earth-models-when-wrong-earth-models-make-sense-myths-and-misconcept-teacher-mug" target="_blank" rel="sponsored noopener noreferrer">personalised Thank you Teacher mugs 7 choices Name Tea Coffee Mug White 11Oz</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=earth-models-when-wrong-earth-models-make-sense-myths-and-misconcept-teacher-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher mug" data-ebay-reference="earth-models-when-wrong-earth-models-make-sense-myths-and-misconcept-teacher-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for teacher mug">Search <span data-ebay-domain-label>eBay.co.uk</span>: teacher mug</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=earth-models-when-wrong-earth-models-make-sense-myths-and-misconcept-teacher-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher mug" data-ebay-reference="earth-models-when-wrong-earth-models-make-sense-myths-and-misconcept-teacher-mug" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=earth-models-when-wrong-earth-models-make-sense-myths-and-misconcept-teacher-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher mug" data-ebay-reference="earth-models-when-wrong-earth-models-make-sense-myths-and-misconcept-teacher-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for personalised Thank you Teacher mugs 7 choices Name Tea Coffee Mug White 11Oz"><img src="{{ '/assets/images/marketplace-covers/2e5a973ba1e8e323ef2b.jpg' | relative_url }}" alt="Listing image for personalised Thank you Teacher mugs 7 choices Name Tea Coffee Mug White 11Oz" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=earth-models-when-wrong-earth-models-make-sense-myths-and-misconcept-teacher-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher mug" data-ebay-reference="earth-models-when-wrong-earth-models-make-sense-myths-and-misconcept-teacher-mug" target="_blank" rel="sponsored noopener noreferrer">personalised Thank you Teacher mugs 7 choices Name Tea Coffee Mug White 11Oz</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=earth-models-when-wrong-earth-models-make-sense-myths-and-misconcept-teacher-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher mug" data-ebay-reference="earth-models-when-wrong-earth-models-make-sense-myths-and-misconcept-teacher-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for teacher mug">Search<span data-ebay-domain-label>eBay.co.uk</span>: teacher mug</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=earth-models-when-wrong-earth-models-make-sense-myths-and-misconcept-teacher-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher mug" data-ebay-reference="earth-models-when-wrong-earth-models-make-sense-myths-and-misconcept-teacher-mug" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=earth-models-when-wrong-earth-models-make-sense-myths-and-misconcept-teacher-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher mug" data-ebay-reference="earth-models-when-wrong-earth-models-make-sense-myths-and-misconcept-teacher-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Custom Teacher Name Tumbler | Personalised Coffee Cup for Teachers | Gift Mug"><img src="{{ '/assets/images/marketplace-covers/59aaf08c5f528d2799f3.jpg' | relative_url }}" alt="Listing image for Custom Teacher Name Tumbler | Personalised Coffee Cup for Teachers | Gift Mug" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=earth-models-when-wrong-earth-models-make-sense-myths-and-misconcept-teacher-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher mug" data-ebay-reference="earth-models-when-wrong-earth-models-make-sense-myths-and-misconcept-teacher-mug" target="_blank" rel="sponsored noopener noreferrer">Custom Teacher Name Tumbler | Personalised Coffee Cup for Teachers | Gift Mug</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=earth-models-when-wrong-earth-models-make-sense-myths-and-misconcept-teacher-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher mug" data-ebay-reference="earth-models-when-wrong-earth-models-make-sense-myths-and-misconcept-teacher-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for teacher mug">Search <span data-ebay-domain-label>eBay.co.uk</span>: teacher mug</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=earth-models-when-wrong-earth-models-make-sense-myths-and-misconcept-teacher-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher mug" data-ebay-reference="earth-models-when-wrong-earth-models-make-sense-myths-and-misconcept-teacher-mug" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=earth-models-when-wrong-earth-models-make-sense-myths-and-misconcept-teacher-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher mug" data-ebay-reference="earth-models-when-wrong-earth-models-make-sense-myths-and-misconcept-teacher-mug" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=earth-models-when-wrong-earth-models-make-sense-myths-and-misconcept-teacher-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher mug" data-ebay-reference="earth-models-when-wrong-earth-models-make-sense-myths-and-misconcept-teacher-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Custom Teacher Name Tumbler | Personalised Coffee Cup for Teachers | Gift Mug"><img src="{{ '/assets/images/marketplace-covers/59aaf08c5f528d2799f3.jpg' | relative_url }}" alt="Listing image for Custom Teacher Name Tumbler | Personalised Coffee Cup for Teachers | Gift Mug" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=earth-models-when-wrong-earth-models-make-sense-myths-and-misconcept-teacher-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher mug" data-ebay-reference="earth-models-when-wrong-earth-models-make-sense-myths-and-misconcept-teacher-mug" target="_blank" rel="sponsored noopener noreferrer">Custom Teacher Name Tumbler | Personalised Coffee Cup for Teachers | Gift Mug</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=earth-models-when-wrong-earth-models-make-sense-myths-and-misconcept-teacher-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher mug" data-ebay-reference="earth-models-when-wrong-earth-models-make-sense-myths-and-misconcept-teacher-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for teacher mug">Search<span data-ebay-domain-label>eBay.co.uk</span>: teacher mug</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=earth-models-when-wrong-earth-models-make-sense-myths-and-misconcept-teacher-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher mug" data-ebay-reference="earth-models-when-wrong-earth-models-make-sense-myths-and-misconcept-teacher-mug" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=earth-models-when-wrong-earth-models-make-sense-myths-and-misconcept-teacher-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher mug" data-ebay-reference="earth-models-when-wrong-earth-models-make-sense-myths-and-misconcept-teacher-mug" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -561,7 +561,7 @@ Children’s Earth models remain a classic example because they expose a process
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -581,7 +581,7 @@ Children’s Earth models remain a classic example because they expose a process
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -613,7 +613,7 @@ Children’s Earth models remain a classic example because they expose a process
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -665,7 +665,7 @@ Children’s Earth models remain a classic example because they expose a process
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -710,7 +710,7 @@ Children’s Earth models remain a classic example because they expose a process
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -751,105 +751,105 @@ Children’s Earth models remain a classic example because they expose a process
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/pii/001002859290018W" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/001002859290018W</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Mental models of the earth: A study of conceptual change...by S Vosniadou · 1992 · Cited by 3047 — Five alternative mental...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/pii/001002859290018W" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/001002859290018W</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Mental models of the earth: A study of conceptual change...by S Vosniadou · 1992 · Cited by 3047 — Five alternative mental...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0022096508001513" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0022096508001513</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Mental models and other misconceptions in children&#x27;s...by G Panagiotaki · 2009 · Cited by 122 — Before any exposure to inst...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/abs/pii/S0022096508001513" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0022096508001513</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Mental models and other misconceptions in children&#x27;s...by G Panagiotaki · 2009 · Cited by 122 — Before any exposure to inst...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: academia.edu  
    Title: Conceptual Change and Education  
-   Link: <a href="https://www.academia.edu/48524586/Conceptual_Change_and_Education" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/48524586/Conceptual_Change_and_Education</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Academia(PDF) Conceptual Change and EducationReview of Educational Research, 57, 51–67. Vosniadou, S., &amp; Brewer, W.F. (1992). Mental mode...</p></details>
+   Link:<a href="https://www.academia.edu/48524586/Conceptual_Change_and_Education" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/48524586/Conceptual_Change_and_Education</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Academia(PDF) Conceptual Change and EducationReview of Educational Research, 57, 51–67. Vosniadou, S., &amp; Brewer, W.F. (1992). Mental mode...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/278716843_Reframing_the_Classical_Approach_to_Conceptual_Change_Preconceptions_Misconceptions_and_Synthetic_Models" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/278716843_Reframing_the_Classical_Approach_to_Conceptual_Change_Preconceptions_Misconceptions_and_Synthetic_Models</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Reframing the Classical Approach to Conceptual ChangeFrom a theoretical perspective, these difficulties can be explained through Vosniado...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/278716843_Reframing_the_Classical_Approach_to_Conceptual_Change_Preconceptions_Misconceptions_and_Synthetic_Models" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/278716843_Reframing_the_Classical_Approach_to_Conceptual_Change_Preconceptions_Misconceptions_and_Synthetic_Models</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Reframing the Classical Approach to Conceptual ChangeFrom a theoretical perspective, these difficulties can be explained through Vosniado...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/23682515_Mental_models_and_other_misconceptions_in_children%27s_understanding_of_the_earth" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/23682515_Mental_models_and_other_misconceptions_in_children%27s_understanding_of_the_earth</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>children have naïve, but coherent, mental models of the earth, such as the flat earth and the hollow sphere. Recent studies have challeng...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/23682515_Mental_models_and_other_misconceptions_in_children%27s_understanding_of_the_earth" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/23682515_Mental_models_and_other_misconceptions_in_children%27s_understanding_of_the_earth</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>children have naïve, but coherent, mental models of the earth, such as the flat earth and the hollow sphere. Recent studies have challeng...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: www2.pd.infn.it  
-   Link: <a href="https://www2.pd.infn.it/~lacaprar/ProgettoScuola/Biblio/Vosniadou%20-%20Mental%20Models%20of%20the%20Earth%20Conceptual%20Change.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www2.pd.infn.it/~lacaprar/ProgettoScuola/Biblio/Vosniadou%20-%20Mental%20Models%20of%20the%20Earth%20Conceptual%20Change.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Mental Models of the Earth Conceptual Changeby S VOSNIADOU · 1992 · Cited by 3046 — This paper presents the results of an experiment whic...</p></details>
+   Link:<a href="https://www2.pd.infn.it/~lacaprar/ProgettoScuola/Biblio/Vosniadou%20-%20Mental%20Models%20of%20the%20Earth%20Conceptual%20Change.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www2.pd.infn.it/~lacaprar/ProgettoScuola/Biblio/Vosniadou%20-%20Mental%20Models%20of%20the%20Earth%20Conceptual%20Change.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Mental Models of the Earth Conceptual Changeby S VOSNIADOU · 1992 · Cited by 3046 — This paper presents the results of an experiment whic...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: spring.org.uk  
    Title: how children learn earth isnt flat  
-   Link: <a href="https://www.spring.org.uk/2008/04/how-children-learn-earth-isnt-flat.php" target="_blank" rel="noopener noreferrer nofollow">https://www.spring.org.uk/2008/04/how-children-learn-earth-isnt-flat.php</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PsyBlogHow Children Learn the Earth Isn&#x27;t Flat30 Apr 2008 — Hollow sphere: thought we live inside the Earth on a flat area (12/60). Flatt...</p></details>
+   Link:<a href="https://www.spring.org.uk/2008/04/how-children-learn-earth-isnt-flat.php" target="_blank" rel="noopener noreferrer nofollow">https://www.spring.org.uk/2008/04/how-children-learn-earth-isnt-flat.php</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>PsyBlogHow Children Learn the Earth Isn&#x27;t Flat30 Apr 2008 — Hollow sphere: thought we live inside the Earth on a flat area (12/60). Flatt...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/19100995/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/19100995/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Mental models and other misconceptions in children&#x27;s...by G Panagiotaki · 2009 · Cited by 122 — This study investigated the claim...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/19100995/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/19100995/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Mental models and other misconceptions in children&#x27;s...by G Panagiotaki · 2009 · Cited by 122 — This study investigated the claim...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: gral.ip.rm.cnr.it  
-   Link: <a href="https://gral.ip.rm.cnr.it/borghi/vosniadou.pdf" target="_blank" rel="noopener noreferrer nofollow">https://gral.ip.rm.cnr.it/borghi/vosniadou.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Mental models of the earth: A study of conceptual change in childhood. Cognitive Psychology, 24, pp. 535-85. Vosniadou, S...Read more...</p></details>
+   Link:<a href="https://gral.ip.rm.cnr.it/borghi/vosniadou.pdf" target="_blank" rel="noopener noreferrer nofollow">https://gral.ip.rm.cnr.it/borghi/vosniadou.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Mental models of the earth: A study of conceptual change in childhood. Cognitive Psychology, 24, pp. 535-85. Vosniadou, S...Read more...</p></details>
 
 ### Additional References
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: link.springer.com  
-   Link: <a href="https://link.springer.com/content/pdf/10.1007/978-3-642-77228-3_7" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/content/pdf/10.1007/978-3-642-77228-3_7</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Fostering Conceptual Change: The Role of ComputerChildren with a hollow sphere model also interpret the rotation of the earth to...</p></details>
+   Link:<a href="https://link.springer.com/content/pdf/10.1007/978-3-642-77228" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/content/pdf/10.1007/978-3-642-77228</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Fostering Conceptual Change: The Role of ComputerChildren with a hollow sphere model also interpret the rotation of the earth to...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: carlhendrick.substack.com  
    Title: The Learning Dispatch“Well-Organised Misunderstanding": The Fine Art of Being  
-   Link: <a href="https://carlhendrick.substack.com/p/well-organised-misunderstanding-the" target="_blank" rel="noopener noreferrer nofollow">https://carlhendrick.substack.com/p/well-organised-misunderstanding-the</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>children don&#x27;t picture the Earth as a sphere, but as a flattened disc or a hollow sphere. Their model is wrong but internally consistent...</p></details>
+   Link:<a href="https://carlhendrick.substack.com/p/well-organised-misunderstanding-the" target="_blank" rel="noopener noreferrer nofollow">https://carlhendrick.substack.com/p/well-organised-misunderstanding-the</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>children don&#x27;t picture the Earth as a sphere, but as a flattened disc or a hollow sphere. Their model is wrong but internally consistent...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: scispace.com  
-   Link: <a href="https://scispace.com/pdf/the-concept-of-the-earth-s-shape-a-study-of-conceptual-129cu3mjf0.pdf" target="_blank" rel="noopener noreferrer nofollow">https://scispace.com/pdf/the-concept-of-the-earth-s-shape-a-study-of-conceptual-129cu3mjf0.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>school children&#x27;s concept of the earth&#x27;s shape and the related concept of...Read more...</p></details>
+   Link:<a href="https://scispace.com/pdf/the-concept-of-the-earth-s-shape-a-study-of-conceptual-129cu3mjf0.pdf" target="_blank" rel="noopener noreferrer nofollow">https://scispace.com/pdf/the-concept-of-the-earth-s-shape-a-study-of-conceptual-129cu3mjf0.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>school children&#x27;s concept of the earth&#x27;s shape and the related concept of...Read more...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: files.eric.ed.gov  
    Title: ERICDOCUMENT RESUME Vosniadou, Stella Designing Curricula  
-   Link: <a href="https://files.eric.ed.gov/fulltext/ED404098.pdf" target="_blank" rel="noopener noreferrer nofollow">https://files.eric.ed.gov/fulltext/ED404098.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Cognitive Psychology. Vosniadou, S., &amp; Brewer, W. F. (in preparation). Elementary school...Read more...</p></details>
+   Link:<a href="https://files.eric.ed.gov/fulltext/ED404098.pdf" target="_blank" rel="noopener noreferrer nofollow">https://files.eric.ed.gov/fulltext/ED404098.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Cognitive Psychology. Vosniadou, S., &amp; Brewer, W. F. (in preparation). Elementary school...Read more...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: nsuworks.nova.edu  
-   Link: <a href="https://nsuworks.nova.edu/cgi/viewcontent.cgi?article=1128&amp;context=edp" target="_blank" rel="noopener noreferrer nofollow">https://nsuworks.nova.edu/cgi/viewcontent.cgi?article=1128&amp;context=edp</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Models: How Children Learn the Earth Isnâ•Žt Flat25 Apr 2025 — The fourth category was the hollow sphere, which children thought humans l...</p></details>
+   Link:<a href="https://nsuworks.nova.edu/cgi/viewcontent.cgi?article=1128&amp;context=edp" target="_blank" rel="noopener noreferrer nofollow">https://nsuworks.nova.edu/cgi/viewcontent.cgi?article=1128&amp;context=edp</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Models: How Children Learn the Earth Isnâ•Žt Flat25 Apr 2025 — The fourth category was the hollow sphere, which children thought humans l...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: education.asu.edu  
    Title: chi concpetualchangechapter 0  
-   Link: <a href="https://education.asu.edu/sites/g/files/litvpz656/files/lcl/chi_concpetualchangechapter_0.pdf" target="_blank" rel="noopener noreferrer nofollow">https://education.asu.edu/sites/g/files/litvpz656/files/lcl/chi_concpetualchangechapter_0.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Three Types of Conceptual Change: Belief Revision, Mental...by MTH Chi · Cited by 1387 — Likewise, Vosniadou and Brewer (1992) have show...</p></details>
+   Link:<a href="https://education.asu.edu/sites/g/files/litvpz656/files/lcl/chi_concpetualchangechapter_0.pdf" target="_blank" rel="noopener noreferrer nofollow">https://education.asu.edu/sites/g/files/litvpz656/files/lcl/chi_concpetualchangechapter_0.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Three Types of Conceptual Change: Belief Revision, Mental...by MTH Chi · Cited by 1387 — Likewise, Vosniadou and Brewer (1992) have show...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: youtube.com  
    Title: Mental Models and Scientific Understanding  
-   Link: <a href="https://www.youtube.com/watch?v=0h9Vq1p8yYQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=0h9Vq1p8yYQ</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>These videos explore the cognitive processes involved in how learners, particularly children, construct mental models of scientific pheno...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=0h9Vq1p8yYQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=0h9Vq1p8yYQ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>These videos explore the cognitive processes involved in how learners, particularly children, construct mental models of scientific pheno...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6713729/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC6713729/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>by DP de la Hera · 2019 · Cited by 16 — Children&#x27;s conceptual knowledge about the earth was quantified by mapping their verbal, drawn...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6713729/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC6713729/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by DP de la Hera · 2019 · Cited by 16 — Children&#x27;s conceptual knowledge about the earth was quantified by mapping their verbal, drawn...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: bpspsychub.onlinelibrary.wiley.com  
-   Link: <a href="https://bpspsychub.onlinelibrary.wiley.com/doi/10.1348/026151005X39116" target="_blank" rel="noopener noreferrer nofollow">https://bpspsychub.onlinelibrary.wiley.com/doi/10.1348/026151005X39116</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>BPS Psych HubChildren&#x27;s representations of the earth: A methodological...23 Dec 2010 — Hollow and dual mental models are &#x27;synthetic&#x27; bec...</p></details>
+   Link:<a href="https://bpspsychub.onlinelibrary.wiley.com/doi/10.1348/026151005X39116" target="_blank" rel="noopener noreferrer nofollow">https://bpspsychub.onlinelibrary.wiley.com/doi/10.1348/026151005X39116</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>BPS Psych HubChildren&#x27;s representations of the earth: A methodological...23 Dec 2010 — Hollow and dual mental models are &#x27;synthetic&#x27; bec...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: link.springer.com  
-   Link: <a href="https://link.springer.com/article/10.1023/A%3A1008697908361" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1023/A%3A1008697908361</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>&amp; Brewer, W.F.: 1992, &#x27;Mental Models of the Earth: A Study of Conceptual Change in Childhood&#x27;, Cognitive Psychology 24, 535-585. Google...</p></details>
+   Link:<a href="https://link.springer.com/article/10.1023/A%3A1008697908361" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1023/A%3A1008697908361</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&amp; Brewer, W.F.: 1992, &#x27;Mental Models of the Earth: A Study of Conceptual Change in Childhood&#x27;, Cognitive Psychology 24, 535-585. Google...</p></details>

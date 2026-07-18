@@ -277,15 +277,15 @@ image: /assets/images/Myths_and_misconcept_0d48d7_prebunking_misinform_8ad4ae_fa
 When misinformation is predictable, communicators face a practical choice: should they warn people about a specific myth that is likely to appear, or should they teach the manipulation technique that the myth is likely to use? This is the distinction between fact-based and tactic-based prebunking. Both approaches aim to build resistance before exposure, but they work in different ways and are suited to different situations.
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_prebunking_misinform_8ad4ae_fact_vs_tactic_prebu_0fea6e-Illustration-1-dark.svg" | relative_url }}" alt="Fact vs tactic illustration 1" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_prebunking_misinform_8ad4ae_fact_vs_tactic_prebu_0fea6e-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_prebunking_misinform_8ad4ae_fact_vs_tactic_prebu_0fea6e-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-Fact-based prebunking focuses on an anticipated false claim and provides advance [correction]({{ 'correction/' | relative_url }}). Tactic-based prebunking focuses on the persuasive method behind misleading content—such as scapegoating, false dilemmas, emotional manipulation, or decontextualised images—so that people can recognise similar patterns across many topics. Research on psychological inoculation suggests that both approaches can reduce susceptibility to misinformation, but technique-focused interventions often offer broader protection because they are not tied to a single rumour. <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/abs/10.1177/00027162221087936" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsPsychological Inoculation against Misinformationby CS Traberg · 2022 · Cited by 322 — We review a series of randomized lab a...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ncbi.nlm.nih.gov/books/NBK609022/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ncbi.nlm.nih.gov">[NCBI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Prebunking Against Misinformation in the Modern Digital Ageby CS Traberg · 2023 · Cited by 38 — These games are known as technique-ba...</span></span></span>
+Fact-based prebunking focuses on an anticipated false claim and provides advance [correction]({{ 'correction/' | relative_url }}). Tactic-based prebunking focuses on the persuasive method behind misleading content—such as scapegoating, false dilemmas, emotional manipulation, or decontextualised images—so that people can recognise similar patterns across many topics. Research on psychological inoculation suggests that both approaches can reduce susceptibility to misinformation, but technique-focused interventions often offer broader protection because they are not tied to a single rumour.<span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/abs/10.1177/00027162221087936" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsPsychological Inoculation against Misinformationby CS Traberg · 2022 · Cited by 322 — We review a series of randomized lab a...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ncbi.nlm.nih.gov/books/NBK609022/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ncbi.nlm.nih.gov">[NCBI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Prebunking Against Misinformation in the Modern Digital Ageby CS Traberg · 2023 · Cited by 38 — These games are known as technique-ba...</span></span></span>
 
 ## Should a prebunk name the myth or the trick?
 
 The answer depends on how predictable the misinformation environment is.
 
-A fact-based prebunk attempts to get ahead of a known or highly likely falsehood. The message usually identifies the claim directly, explains why it is wrong, and points people towards reliable information. For example, election officials may warn that false posts about polling dates, vote-counting procedures, or polling-place closures routinely appear before elections. Public-health agencies may warn that fabricated screenshots of official guidance often circulate during disease outbreaks. The goal is to neutralise a specific rumour before it gains traction. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.unesco.org/mil4teachers/en/node/163" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unesco.org">[UNESCO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unesco.org</span><span class="citation-popover-snippet">Case studies: New MIL skills for audiencesPrebunking is when you pre-emptively warn people that they are about to be exposed to dis...</span></span></span>
+A fact-based prebunk attempts to get ahead of a known or highly likely falsehood. The message usually identifies the claim directly, explains why it is wrong, and points people towards reliable information. For example, election officials may warn that false posts about polling dates, vote-counting procedures, or polling-place closures routinely appear before elections. Public-health agencies may warn that fabricated screenshots of official guidance often circulate during disease outbreaks. The goal is to neutralise a specific rumour before it gains traction.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.unesco.org/mil4teachers/en/node/163" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unesco.org">[UNESCO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unesco.org</span><span class="citation-popover-snippet">Case studies: New MIL skills for audiencesPrebunking is when you pre-emptively warn people that they are about to be exposed to dis...</span></span></span>
 
-A tactic-based prebunk takes a different approach. Rather than predicting the exact claim, it teaches people how manipulation works. Someone may learn to recognise scapegoating, emotionally charged language, conspiracy framing, or misleading use of images without being told what the next rumour will be. This reflects a central idea in inoculation theory: exposing people to weakened examples of deceptive techniques can help them recognise those techniques later in unfamiliar contexts. <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/abs/10.1177/00027162221087936" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsPsychological Inoculation against Misinformationby CS Traberg · 2022 · Cited by 322 — We review a series of randomized lab a...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ncbi.nlm.nih.gov/books/NBK609022/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ncbi.nlm.nih.gov">[NCBI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Prebunking Against Misinformation in the Modern Digital Ageby CS Traberg · 2023 · Cited by 38 — These games are known as technique-ba...</span></span></span>
+A tactic-based prebunk takes a different approach. Rather than predicting the exact claim, it teaches people how manipulation works. Someone may learn to recognise scapegoating, emotionally charged language, conspiracy framing, or misleading use of images without being told what the next rumour will be. This reflects a central idea in inoculation theory: exposing people to weakened examples of deceptive techniques can help them recognise those techniques later in unfamiliar contexts.<span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/abs/10.1177/00027162221087936" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsPsychological Inoculation against Misinformationby CS Traberg · 2022 · Cited by 322 — We review a series of randomized lab a...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ncbi.nlm.nih.gov/books/NBK609022/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ncbi.nlm.nih.gov">[NCBI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Prebunking Against Misinformation in the Modern Digital Ageby CS Traberg · 2023 · Cited by 38 — These games are known as technique-ba...</span></span></span>
 
 The distinction resembles the difference between preparing for a specific storm and learning how to read weather warnings generally. One prepares for a known threat; the other develops a transferable skill.
 
@@ -293,7 +293,7 @@ The distinction resembles the difference between preparing for a specific storm 
 
 Fact-based prebunking is strongest when misinformation follows recurring patterns that can be anticipated with reasonable [confidence]({{ 'confidence/' | relative_url }}).
 
-Elections provide a clear example. Certain rumours appear repeatedly across jurisdictions: claims that voting dates have changed, that ballots are invalid for procedural reasons, or that counting delays prove fraud. Because these narratives are familiar and predictable, election authorities can address them before they emerge widely. Recent research on election-related prebunking found that targeted interventions can reduce belief in specific election myths and increase confidence in electoral processes. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2410.19202" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Prebunking Elections Rumors: Artificial Intelligence Assisted Interventions Increase Confidence in American ElectionsOctober 25, 2024...</span><span class="citation-popover-meta">Published: October 25, 2024</span></span></span>
+Elections provide a clear example. Certain rumours appear repeatedly across jurisdictions: claims that voting dates have changed, that ballots are invalid for procedural reasons, or that counting delays prove fraud. Because these narratives are familiar and predictable, election authorities can address them before they emerge widely. Recent research on election-related prebunking found that targeted interventions can reduce belief in specific election myths and increase confidence in electoral processes.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2410.19202" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Prebunking Elections Rumors: Artificial Intelligence Assisted Interventions Increase Confidence in American ElectionsOctober 25, 2024...</span><span class="citation-popover-meta">Published: October 25, 2024</span></span></span>
 
 The same logic applies to seasonal health misinformation. If officials know that miracle-cure claims or fabricated health advisories tend to appear during outbreaks, a targeted warning can prepare audiences to reject those particular stories.
 
@@ -307,7 +307,7 @@ Fact-based prebunks offer several implementation advantages:
 
 </div>
 
-However, fact-based approaches have limits. They require accurate prediction of which claims will emerge. They also tend to have narrow reach: a warning about one rumour may do little against a different rumour that uses the same persuasive technique. When misinformation changes rapidly, keeping pace can be difficult. <span class="citation-chip-wrap"><a class="citation-chip" href="https://content.govdelivery.com/accounts/USAIDHQ/bulletins/345e121" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: content.govdelivery.com">[GovDelivery]</a><span class="citation-popover" role="note"><span class="citation-popover-source">content.govdelivery.com</span><span class="citation-popover-snippet">An Ounce of Prebunking is Worth a Pound of Debunking?Jigsaw has complemented their misinformation identification approach with...</span></span></span>
+However, fact-based approaches have limits. They require accurate prediction of which claims will emerge. They also tend to have narrow reach: a warning about one rumour may do little against a different rumour that uses the same persuasive technique. When misinformation changes rapidly, keeping pace can be difficult.<span class="citation-chip-wrap"><a class="citation-chip" href="https://content.govdelivery.com/accounts/USAIDHQ/bulletins/345e121" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: content.govdelivery.com">[GovDelivery]</a><span class="citation-popover" role="note"><span class="citation-popover-source">content.govdelivery.com</span><span class="citation-popover-snippet">An Ounce of Prebunking is Worth a Pound of Debunking?Jigsaw has complemented their misinformation identification approach with...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/wVXYf3Gr_BE" title="Are Psychological Inoculations Against Misinformation Likely to be Effective at Scale?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=wVXYf3Gr_BE" target="_blank" rel="noopener noreferrer">Are Psychological Inoculations Against Misinformation Likely to be Effective at Scale?</a></p><p class="youtube-embed-meta">Channel: Shorenstein Center &middot; Views: 1.0K &middot; Uploaded: December 2023 &middot; Length: 1 hour 28 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=wVXYf3Gr_BE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=wVXYf3Gr_BE">Open on YouTube</a></p></div></div></div>
 
@@ -315,22 +315,22 @@ However, fact-based approaches have limits. They require accurate prediction of 
 
 Technique-focused prebunking was developed partly to solve the problem of unpredictability.
 
-Research associated with inoculation games such as *Bad News* and related interventions shows that teaching manipulation methods can improve recognition of misleading content across different topics and cultures. Instead of memorising [corrections]({{ 'corrections/' | relative_url }}), participants learn how deceptive communication is constructed. <span class="citation-chip-wrap"><a class="citation-chip" href="https://misinforeview.hks.harvard.edu/article/global-vaccination-badnews/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: misinforeview.hks.harvard.edu">[Misinformation Review]</a><span class="citation-popover" role="note"><span class="citation-popover-source">misinforeview.hks.harvard.edu</span><span class="citation-popover-title">global vaccination badnews</span><span class="citation-popover-snippet">Misinformation ReviewPrebunking interventions based on “inoculation” theory can...by J Roozenbeek · 2020 · Cited by 399 — This study fin...</span></span></span>
+Research associated with inoculation games such as *Bad News* and related interventions shows that teaching manipulation methods can improve recognition of misleading content across different topics and cultures. Instead of memorising [corrections]({{ 'corrections/' | relative_url }}), participants learn how deceptive communication is constructed.<span class="citation-chip-wrap"><a class="citation-chip" href="https://misinforeview.hks.harvard.edu/article/global-vaccination-badnews/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: misinforeview.hks.harvard.edu">[Misinformation Review]</a><span class="citation-popover" role="note"><span class="citation-popover-source">misinforeview.hks.harvard.edu</span><span class="citation-popover-title">global vaccination badnews</span><span class="citation-popover-snippet">Misinformation ReviewPrebunking interventions based on “inoculation” theory can...by J Roozenbeek · 2020 · Cited by 399 — This study fin...</span></span></span>
 
-This portability is the main attraction of tactic-based prebunking. A person who learns to identify a false dilemma can apply that knowledge to debates about immigration, health, climate, elections, or any other issue. The protection is not tied to a single factual dispute. Technique-based interventions therefore function as what researchers sometimes describe as a broader-spectrum defence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ncbi.nlm.nih.gov/books/NBK609022/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ncbi.nlm.nih.gov">[NCBI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Prebunking Against Misinformation in the Modern Digital Ageby CS Traberg · 2023 · Cited by 38 — These games are known as technique-ba...</span></span></span>
+This portability is the main attraction of tactic-based prebunking. A person who learns to identify a false dilemma can apply that knowledge to debates about immigration, health, climate, elections, or any other issue. The protection is not tied to a single factual dispute. Technique-based interventions therefore function as what researchers sometimes describe as a broader-spectrum defence.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ncbi.nlm.nih.gov/books/NBK609022/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ncbi.nlm.nih.gov">[NCBI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Prebunking Against Misinformation in the Modern Digital Ageby CS Traberg · 2023 · Cited by 38 — These games are known as technique-ba...</span></span></span>
 
-Large-scale field programmes have increasingly adopted this model. Research collaborations involving universities and Google's Jigsaw unit have tested short videos that explain techniques such as scapegoating, deliberate incoherence, emotional manipulation, and decontextualisation. The rationale is that users can recognise these tactics regardless of the subject matter in which they appear. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cam.ac.uk/stories/inoculateexperiment" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cam.ac.uk">[University of Cambridge]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cam.ac.uk</span><span class="citation-popover-snippet">University of CambridgeHow to &#x27;inoculate&#x27; millions against misinformation on social...This “prebunking” strategy pre-emptively exposes p...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12134459/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">effectiveness of psychological inoculation against...by SYN Wang · 2025 · Cited by 7 — The researchers tested five different inoculation...</span></span></span>
+Large-scale field programmes have increasingly adopted this model. Research collaborations involving universities and Google's Jigsaw unit have tested short videos that explain techniques such as scapegoating, deliberate incoherence, emotional manipulation, and decontextualisation. The rationale is that users can recognise these tactics regardless of the subject matter in which they appear.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cam.ac.uk/stories/inoculateexperiment" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cam.ac.uk">[University of Cambridge]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cam.ac.uk</span><span class="citation-popover-snippet">University of CambridgeHow to &#x27;inoculate&#x27; millions against misinformation on social...This “prebunking” strategy pre-emptively exposes p...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12134459/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">effectiveness of psychological inoculation against...by SYN Wang · 2025 · Cited by 7 — The researchers tested five different inoculation...</span></span></span>
 
 Another advantage is scalability. A single lesson on manipulated imagery can be relevant to thousands of future claims, whereas a fact-based warning usually expires once a specific rumour disappears.
 
-Evidence reviews and meta-analyses generally find that inoculation-based interventions improve people's ability to distinguish more reliable from less reliable information. Importantly, recent analyses suggest that these interventions improve discernment rather than merely making people sceptical of everything. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12134459/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">effectiveness of psychological inoculation against...by SYN Wang · 2025 · Cited by 7 — The researchers tested five different inoculation...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S2352250X25002076" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">•. Past meta-analyses have not disentangled discrimination...Read more...</span></span></span>
+Evidence reviews and meta-analyses generally find that inoculation-based interventions improve people's ability to distinguish more reliable from less reliable information. Importantly, recent analyses suggest that these interventions improve discernment rather than merely making people sceptical of everything.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12134459/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">effectiveness of psychological inoculation against...by SYN Wang · 2025 · Cited by 7 — The researchers tested five different inoculation...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S2352250X25002076" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">•. Past meta-analyses have not disentangled discrimination...Read more...</span></span></span>
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_prebunking_misinform_8ad4ae_fact_vs_tactic_prebu_0fea6e-Illustration-2-dark.svg" | relative_url }}" alt="Fact vs tactic illustration 2" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_prebunking_misinform_8ad4ae_fact_vs_tactic_prebu_0fea6e-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_prebunking_misinform_8ad4ae_fact_vs_tactic_prebu_0fea6e-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The trade-offs policymakers face
 
 The choice is not simply between two competing models. Each approach solves a different implementation problem.
 
-Fact-based prebunking excels when: <span class="citation-chip-wrap"><a class="citation-chip" href="https://content.govdelivery.com/accounts/USAIDHQ/bulletins/345e121" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: content.govdelivery.com">[content.govdelivery.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">content.govdelivery.com</span><span class="citation-popover-snippet">An Ounce of Prebunking is Worth a Pound of Debunking?Jigsaw has complemented their misinformation identification approach with...</span></span></span>
+Fact-based prebunking excels when:<span class="citation-chip-wrap"><a class="citation-chip" href="https://content.govdelivery.com/accounts/USAIDHQ/bulletins/345e121" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: content.govdelivery.com">[content.govdelivery.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">content.govdelivery.com</span><span class="citation-popover-snippet">An Ounce of Prebunking is Worth a Pound of Debunking?Jigsaw has complemented their misinformation identification approach with...</span></span></span>
 
 <div class="content-enhancement content-enhancement--comparison" markdown="1">
 
@@ -349,7 +349,7 @@ Tactic-based prebunking excels when:
 
 The trade-off is often between precision and generality. Fact-based messages can be highly relevant but narrow. Technique-based messages can be widely applicable but may feel less immediately connected to a current controversy.
 
-Researchers have also noted that inoculation effects are helpful but not unlimited. They can fade over time, may require reinforcement, and do not eliminate susceptibility to every form of misinformation. Prebunking remains one tool among many, alongside fact-checking, trusted communication, [media literacy]({{ 'media-literacy/' | relative_url }}) efforts, and platform interventions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://research-information.bris.ac.uk/files/263813879/FINAL_Revision_ERSP_inoc_paper_4SvdL.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: research-information.bris.ac.uk">[University of Bristol]</a><span class="citation-popover" role="note"><span class="citation-popover-source">research-information.bris.ac.uk</span><span class="citation-popover-title">University of Bristol Lewandowsky, S., &amp; Van Der Linden, S</span><span class="citation-popover-snippet">2021). Counteringby S Lewandowsky · 2021 · Cited by 1108 — We show that based on the available evidence, inoculation appears to be a pro...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12134459/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">effectiveness of psychological inoculation against...by SYN Wang · 2025 · Cited by 7 — The researchers tested five different inoculation...</span></span></span>
+Researchers have also noted that inoculation effects are helpful but not unlimited. They can fade over time, may require reinforcement, and do not eliminate susceptibility to every form of misinformation. Prebunking remains one tool among many, alongside fact-checking, trusted communication, [media literacy]({{ 'media-literacy/' | relative_url }}) efforts, and platform interventions.<span class="citation-chip-wrap"><a class="citation-chip" href="https://research-information.bris.ac.uk/files/263813879/FINAL_Revision_ERSP_inoc_paper_4SvdL.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: research-information.bris.ac.uk">[University of Bristol]</a><span class="citation-popover" role="note"><span class="citation-popover-source">research-information.bris.ac.uk</span><span class="citation-popover-title">University of Bristol Lewandowsky, S., &amp; Van Der Linden, S</span><span class="citation-popover-snippet">2021). Counteringby S Lewandowsky · 2021 · Cited by 1108 — We show that based on the available evidence, inoculation appears to be a pro...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12134459/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">effectiveness of psychological inoculation against...by SYN Wang · 2025 · Cited by 7 — The researchers tested five different inoculation...</span></span></span>
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_prebunking_misinform_8ad4ae_fact_vs_tactic_prebu_0fea6e-Illustration-3-dark.svg" | relative_url }}" alt="Fact vs tactic illustration 3" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_prebunking_misinform_8ad4ae_fact_vs_tactic_prebu_0fea6e-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_prebunking_misinform_8ad4ae_fact_vs_tactic_prebu_0fea6e-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How campaigns can combine both approaches
@@ -358,171 +358,171 @@ In practice, many of the most promising campaigns blend fact-based and tactic-ba
 
 A layered strategy might begin with a general warning about manipulation techniques. Audiences learn to recognise emotionally manipulative language, scapegoating, or misleading visual evidence. As a predictable event approaches—such as an election, referendum, or public-health campaign—communicators then add targeted warnings about specific myths that are likely to circulate.
 
-This combination offers two levels of protection. The technique-based component provides broad pattern recognition, while the fact-based component addresses the highest-risk rumours in the immediate environment. Guidance developed for practitioners increasingly reflects this hybrid model, pairing general manipulation awareness with issue-specific warnings where appropriate. <span class="citation-chip-wrap"><a class="citation-chip" href="https://prebunking.withgoogle.com/docs/A_Practical_Guide_to_Prebunking_Misinformation.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: prebunking.withgoogle.com">[Prebunking]</a><span class="citation-popover" role="note"><span class="citation-popover-source">prebunking.withgoogle.com</span><span class="citation-popover-snippet">Misinformationby AP Guide — Prebunking is a technique gaining prominence as a means to build preemptive resilience to misinform...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.unhcr.org/handbooks/informationintegrity/practical-tools/prebunking" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unhcr.org">[UNHCR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unhcr.org</span><span class="citation-popover-snippet">UNHCR Information Integrity ToolkitMar 10, 2025 — A Practical Guide to Prebunking Misinformation. Developed by Jigsaw (Google) and BBC Me...</span></span></span> Recent field studies suggest that scalable prebunking campaigns can improve recognition of manipulation techniques for months after exposure, while targeted interventions remain useful for rapidly emerging rumours. Together, they address both the known threats and the unknown ones. <span class="citation-chip-wrap"><a class="citation-chip" href="https://research.vu.nl/en/publications/prebunking-misinformation-techniques-in-social-media-feeds-result/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: research.vu.nl">[Vrije Universiteit Amsterdam]</a><span class="citation-popover" role="note"><span class="citation-popover-source">research.vu.nl</span><span class="citation-popover-title">prebunking misinformation techniques in social media feeds result</span><span class="citation-popover-snippet">AB - Boosting psychological defences against misleading content online is...Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://misinforeview.hks.harvard.edu/article/global-vaccination-badnews/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: misinforeview.hks.harvard.edu">[Misinformation Review]</a><span class="citation-popover" role="note"><span class="citation-popover-source">misinforeview.hks.harvard.edu</span><span class="citation-popover-title">global vaccination badnews</span><span class="citation-popover-snippet">Misinformation ReviewPrebunking interventions based on “inoculation” theory can...by J Roozenbeek · 2020 · Cited by 399 — This study fin...</span></span></span>
+This combination offers two levels of protection. The technique-based component provides broad pattern recognition, while the fact-based component addresses the highest-risk rumours in the immediate environment. Guidance developed for practitioners increasingly reflects this hybrid model, pairing general manipulation awareness with issue-specific warnings where appropriate.<span class="citation-chip-wrap"><a class="citation-chip" href="https://prebunking.withgoogle.com/docs/A_Practical_Guide_to_Prebunking_Misinformation.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: prebunking.withgoogle.com">[Prebunking]</a><span class="citation-popover" role="note"><span class="citation-popover-source">prebunking.withgoogle.com</span><span class="citation-popover-snippet">Misinformationby AP Guide — Prebunking is a technique gaining prominence as a means to build preemptive resilience to misinform...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.unhcr.org/handbooks/informationintegrity/practical-tools/prebunking" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unhcr.org">[UNHCR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unhcr.org</span><span class="citation-popover-snippet">UNHCR Information Integrity ToolkitMar 10, 2025 — A Practical Guide to Prebunking Misinformation. Developed by Jigsaw (Google) and BBC Me...</span></span></span> Recent field studies suggest that scalable prebunking campaigns can improve recognition of manipulation techniques for months after exposure, while targeted interventions remain useful for rapidly emerging rumours. Together, they address both the known threats and the unknown ones.<span class="citation-chip-wrap"><a class="citation-chip" href="https://research.vu.nl/en/publications/prebunking-misinformation-techniques-in-social-media-feeds-result/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: research.vu.nl">[Vrije Universiteit Amsterdam]</a><span class="citation-popover" role="note"><span class="citation-popover-source">research.vu.nl</span><span class="citation-popover-title">prebunking misinformation techniques in social media feeds result</span><span class="citation-popover-snippet">AB - Boosting psychological defences against misleading content online is...Read more...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://misinforeview.hks.harvard.edu/article/global-vaccination-badnews/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: misinforeview.hks.harvard.edu">[Misinformation Review]</a><span class="citation-popover" role="note"><span class="citation-popover-source">misinforeview.hks.harvard.edu</span><span class="citation-popover-title">global vaccination badnews</span><span class="citation-popover-snippet">Misinformation ReviewPrebunking interventions based on “inoculation” theory can...by J Roozenbeek · 2020 · Cited by 399 — This study fin...</span></span></span>
 
 ## The practical takeaway
 
 For predictable myths, fact-based prebunking answers the question, “What false claim are people likely to hear?” Tactic-based prebunking answers a broader question: “How is misinformation likely to try to persuade them?”
 
-When a specific rumour can be anticipated, direct warnings can be highly effective. When future rumours are uncertain, teaching the underlying tricks offers broader and more durable protection. The strongest prebunking programmes increasingly combine both approaches, using specific facts where prediction is possible and transferable technique awareness where it is not. <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/abs/10.1177/00027162221087936" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsPsychological Inoculation against Misinformationby CS Traberg · 2022 · Cited by 322 — We review a series of randomized lab a...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ncbi.nlm.nih.gov/books/NBK609022/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ncbi.nlm.nih.gov">[NCBI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Prebunking Against Misinformation in the Modern Digital Ageby CS Traberg · 2023 · Cited by 38 — These games are known as technique-ba...</span></span></span>
+When a specific rumour can be anticipated, direct warnings can be highly effective. When future rumours are uncertain, teaching the underlying tricks offers broader and more durable protection. The strongest prebunking programmes increasingly combine both approaches, using specific facts where prediction is possible and transferable technique awareness where it is not.<span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/abs/10.1177/00027162221087936" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsPsychological Inoculation against Misinformationby CS Traberg · 2022 · Cited by 322 — We review a series of randomized lab a...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ncbi.nlm.nih.gov/books/NBK609022/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ncbi.nlm.nih.gov">[NCBI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Prebunking Against Misinformation in the Modern Digital Ageby CS Traberg · 2023 · Cited by 38 — These games are known as technique-ba...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Should a prebunk name the myth or the trick?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Should a prebunk name the myth or the trick?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Psychology+of+Fake+News+by+Rainer+Greifeneder&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Psychology of Fake News on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=-Q72DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Psychology of Fake News" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Psychology+of+Fake+News+by+Rainer+Greifeneder&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Psychology of Fake News">The Psychology of Fake News</a>
-        </h4>
-        <p class="fr-book-author">By Rainer Greifeneder, Mariela Jaffe et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Psychology+of+Fake+News+by+Rainer+Greifeneder&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Psychology of Fake News on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=-Q72DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Psychology of Fake News" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Psychology+of+Fake+News+by+Rainer+Greifeneder&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Psychology of Fake News">The Psychology of Fake News</a>
+</h4>
+<p class="fr-book-author">By Rainer Greifeneder, Mariela Jaffe et al.</p>
         
-        <p class="fr-book-desc">Explains why tactic-focused interventions can generalise across topics.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Psychology+of+Fake+News+by+Rainer+Greifeneder&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains why tactic-focused interventions can generalise across topics.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Psychology+of+Fake+News+by+Rainer+Greifeneder&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Calling Bullshit on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Plu9DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Calling Bullshit" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Calling Bullshit">Calling Bullshit</a>
-        </h4>
-        <p class="fr-book-author">By Carl T. Bergstrom, Jevin D. West</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Calling Bullshit on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Plu9DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Calling Bullshit" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Calling Bullshit">Calling Bullshit</a>
+</h4>
+<p class="fr-book-author">By Carl T. Bergstrom, Jevin D. West</p>
         
-        <p class="fr-book-desc">Helps readers identify misleading methods rather than isolated claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps readers identify misleading methods rather than isolated claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Foolproof+Sander+Van+Der+Linden&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Foolproof on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/13300557-M.jpg" alt="Cover for Foolproof" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Foolproof+Sander+Van+Der+Linden&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Foolproof">Foolproof</a>
-        </h4>
-        <p class="fr-book-author">By Sander Van Der Linden</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Foolproof+Sander+Van+Der+Linden&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Foolproof on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/13300557-M.jpg" alt="Cover for Foolproof" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Foolproof+Sander+Van+Der+Linden&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Foolproof">Foolproof</a>
+</h4>
+<p class="fr-book-author">By Sander Van Der Linden</p>
         
-        <p class="fr-book-desc">First published 2023.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Foolproof+Sander+Van+Der+Linden&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2023.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Foolproof+Sander+Van+Der+Linden&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Influence+by+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Influence on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Influence+by+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Influence">Influence</a>
-        </h4>
-        <p class="fr-book-author">By Robert B. Cialdini</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Influence+by+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Influence on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Influence+by+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Influence">Influence</a>
+</h4>
+<p class="fr-book-author">By Robert B. Cialdini</p>
         
-        <p class="fr-book-desc">Catalogues persuasive techniques that tactic-based prebunks target.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Influence+by+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Catalogues persuasive techniques that tactic-based prebunks target.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Influence+by+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Psychology+of+Fake+News&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Psychology of Fake News</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Calling+Bullshit&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Calling Bullshit</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Foolproof&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Foolproof</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Psychology+of+Fake+News&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Psychology of Fake News</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Calling+Bullshit&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Calling Bullshit</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Foolproof&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Foolproof</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=media+literacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=should-a-prebunk-name-the-myth-or-the-trick-media-literacy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="media literacy poster" data-ebay-reference="should-a-prebunk-name-the-myth-or-the-trick-media-literacy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for TITIKEI by IshiKei Paperback Self Help Business"><img src="https://i.ebayimg.com/images/g/X5YAAeSw~F1qEbNR/s-l225.jpg" alt="Listing image for TITIKEI by IshiKei Paperback Self Help Business" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=media+literacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=should-a-prebunk-name-the-myth-or-the-trick-media-literacy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="media literacy poster" data-ebay-reference="should-a-prebunk-name-the-myth-or-the-trick-media-literacy-poster" target="_blank" rel="sponsored noopener noreferrer">TITIKEI by IshiKei Paperback Self Help Business</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=media+literacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=should-a-prebunk-name-the-myth-or-the-trick-media-literacy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="media literacy poster" data-ebay-reference="should-a-prebunk-name-the-myth-or-the-trick-media-literacy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for media literacy poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: media literacy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=media+literacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=should-a-prebunk-name-the-myth-or-the-trick-media-literacy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="media literacy poster" data-ebay-reference="should-a-prebunk-name-the-myth-or-the-trick-media-literacy-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=media+literacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=should-a-prebunk-name-the-myth-or-the-trick-media-literacy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="media literacy poster" data-ebay-reference="should-a-prebunk-name-the-myth-or-the-trick-media-literacy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for TITIKEI by IshiKei Paperback Self Help Business"><img src="https://i.ebayimg.com/images/g/X5YAAeSw~F1qEbNR/s-l225.jpg" alt="Listing image for TITIKEI by IshiKei Paperback Self Help Business" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=media+literacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=should-a-prebunk-name-the-myth-or-the-trick-media-literacy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="media literacy poster" data-ebay-reference="should-a-prebunk-name-the-myth-or-the-trick-media-literacy-poster" target="_blank" rel="sponsored noopener noreferrer">TITIKEI by IshiKei Paperback Self Help Business</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=media+literacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=should-a-prebunk-name-the-myth-or-the-trick-media-literacy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="media literacy poster" data-ebay-reference="should-a-prebunk-name-the-myth-or-the-trick-media-literacy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for media literacy poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: media literacy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=media+literacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=should-a-prebunk-name-the-myth-or-the-trick-media-literacy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="media literacy poster" data-ebay-reference="should-a-prebunk-name-the-myth-or-the-trick-media-literacy-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=media+literacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=should-a-prebunk-name-the-myth-or-the-trick-media-literacy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="media literacy poster" data-ebay-reference="should-a-prebunk-name-the-myth-or-the-trick-media-literacy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for MEET THE AUTHORS Complete Set 1-7 Big Books Creative Teaching 70 Posters K-6"><img src="https://i.ebayimg.com/images/g/vkgAAeSwna5oZGvr/s-l225.jpg" alt="Listing image for MEET THE AUTHORS Complete Set 1-7 Big Books Creative Teaching 70 Posters K-6" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=media+literacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=should-a-prebunk-name-the-myth-or-the-trick-media-literacy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="media literacy poster" data-ebay-reference="should-a-prebunk-name-the-myth-or-the-trick-media-literacy-poster" target="_blank" rel="sponsored noopener noreferrer">MEET THE AUTHORS Complete Set 1-7 Big Books Creative Teaching 70 Posters K-6</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=media+literacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=should-a-prebunk-name-the-myth-or-the-trick-media-literacy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="media literacy poster" data-ebay-reference="should-a-prebunk-name-the-myth-or-the-trick-media-literacy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for media literacy poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: media literacy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=media+literacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=should-a-prebunk-name-the-myth-or-the-trick-media-literacy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="media literacy poster" data-ebay-reference="should-a-prebunk-name-the-myth-or-the-trick-media-literacy-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=media+literacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=should-a-prebunk-name-the-myth-or-the-trick-media-literacy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="media literacy poster" data-ebay-reference="should-a-prebunk-name-the-myth-or-the-trick-media-literacy-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=media+literacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=should-a-prebunk-name-the-myth-or-the-trick-media-literacy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="media literacy poster" data-ebay-reference="should-a-prebunk-name-the-myth-or-the-trick-media-literacy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for MEET THE AUTHORS Complete Set 1-7 Big Books Creative Teaching 70 Posters K-6"><img src="https://i.ebayimg.com/images/g/vkgAAeSwna5oZGvr/s-l225.jpg" alt="Listing image for MEET THE AUTHORS Complete Set 1-7 Big Books Creative Teaching 70 Posters K-6" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=media+literacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=should-a-prebunk-name-the-myth-or-the-trick-media-literacy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="media literacy poster" data-ebay-reference="should-a-prebunk-name-the-myth-or-the-trick-media-literacy-poster" target="_blank" rel="sponsored noopener noreferrer">MEET THE AUTHORS Complete Set 1-7 Big Books Creative Teaching 70 Posters K-6</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=media+literacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=should-a-prebunk-name-the-myth-or-the-trick-media-literacy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="media literacy poster" data-ebay-reference="should-a-prebunk-name-the-myth-or-the-trick-media-literacy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for media literacy poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: media literacy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=media+literacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=should-a-prebunk-name-the-myth-or-the-trick-media-literacy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="media literacy poster" data-ebay-reference="should-a-prebunk-name-the-myth-or-the-trick-media-literacy-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=media+literacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=should-a-prebunk-name-the-myth-or-the-trick-media-literacy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="media literacy poster" data-ebay-reference="should-a-prebunk-name-the-myth-or-the-trick-media-literacy-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -538,7 +538,7 @@ When a specific rumour can be anticipated, direct warnings can be highly effecti
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -558,7 +558,7 @@ When a specific rumour can be anticipated, direct warnings can be highly effecti
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -590,7 +590,7 @@ When a specific rumour can be anticipated, direct warnings can be highly effecti
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -642,7 +642,7 @@ When a specific rumour can be anticipated, direct warnings can be highly effecti
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -687,7 +687,7 @@ When a specific rumour can be anticipated, direct warnings can be highly effecti
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -728,164 +728,164 @@ When a specific rumour can be anticipated, direct warnings can be highly effecti
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: ncbi.nlm.nih.gov  
-   Link: <a href="https://www.ncbi.nlm.nih.gov/books/NBK609022/" target="_blank" rel="noopener noreferrer nofollow">https://www.ncbi.nlm.nih.gov/books/NBK609022/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Prebunking Against Misinformation in the Modern Digital Ageby CS Traberg · 2023 · Cited by 38 — These games are known as technique-ba...</p></details>
+   Link:<a href="https://www.ncbi.nlm.nih.gov/books/NBK609022/" target="_blank" rel="noopener noreferrer nofollow">https://www.ncbi.nlm.nih.gov/books/NBK609022/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Prebunking Against Misinformation in the Modern Digital Ageby CS Traberg · 2023 · Cited by 38 — These games are known as technique-ba...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: unesco.org  
-   Link: <a href="https://www.unesco.org/mil4teachers/en/node/163" target="_blank" rel="noopener noreferrer nofollow">https://www.unesco.org/mil4teachers/en/node/163</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Case studies: New MIL skills for audiencesPrebunking is when you pre-emptively warn people that they are about to be exposed to dis...</p></details>
+   Link:<a href="https://www.unesco.org/mil4teachers/en/node/163" target="_blank" rel="noopener noreferrer nofollow">https://www.unesco.org/mil4teachers/en/node/163</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Case studies: New MIL skills for audiencesPrebunking is when you pre-emptively warn people that they are about to be exposed to dis...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: unhcr.org  
-   Link: <a href="https://www.unhcr.org/handbooks/informationintegrity/practical-tools/prebunking" target="_blank" rel="noopener noreferrer nofollow">https://www.unhcr.org/handbooks/informationintegrity/practical-tools/prebunking</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UNHCR Information Integrity ToolkitMar 10, 2025 — A Practical Guide to Prebunking Misinformation. Developed by Jigsaw (Google) and BBC Me...</p></details>
+   Link:<a href="https://www.unhcr.org/handbooks/informationintegrity/practical-tools/prebunking" target="_blank" rel="noopener noreferrer nofollow">https://www.unhcr.org/handbooks/informationintegrity/practical-tools/prebunking</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UNHCR Information Integrity ToolkitMar 10, 2025 — A Practical Guide to Prebunking Misinformation. Developed by Jigsaw (Google) and BBC Me...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2410.19202" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2410.19202</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Prebunking Elections Rumors: Artificial Intelligence Assisted Interventions Increase Confidence in American ElectionsOctober 25, 2024...</p></details>
+   Link:<a href="https://arxiv.org/abs/2410.19202" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2410.19202</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Prebunking Elections Rumors: Artificial Intelligence Assisted Interventions Increase Confidence in American ElectionsOctober 25, 2024...</p></details>
    Published: October 25, 2024  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: content.govdelivery.com  
-   Link: <a href="https://content.govdelivery.com/accounts/USAIDHQ/bulletins/345e121" target="_blank" rel="noopener noreferrer nofollow">https://content.govdelivery.com/accounts/USAIDHQ/bulletins/345e121</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>An Ounce of Prebunking is Worth a Pound of [Debunking](&amp;#123;&amp;#123; &#x27;debunking/&#x27; | relative_url &amp;#125;&amp;#125;)? Jigsaw has complemented their misinformation identification approach with...</p></details>
+   Link:<a href="https://content.govdelivery.com/accounts/USAIDHQ/bulletins/345e121" target="_blank" rel="noopener noreferrer nofollow">https://content.govdelivery.com/accounts/USAIDHQ/bulletins/345e121</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>An Ounce of Prebunking is Worth a Pound of [Debunking](&amp;#123;&amp;#123; &#x27;debunking/&#x27; | relative_url &amp;#125;&amp;#125;)? Jigsaw has complemented their misinformation identification approach with...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12134459/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12134459/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>effectiveness of psychological inoculation against...by SYN Wang · 2025 · Cited by 7 — The researchers tested five different inoculation...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12134459/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12134459/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>effectiveness of psychological inoculation against...by SYN Wang · 2025 · Cited by 7 — The researchers tested five different inoculation...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: time.com  
    Title: Inside Google's Plans to Combat Misinformation Ahead of the E.U  
-   Link: <a href="https://time.com/6970488/google-jigsaw-eu-elections-misinformation-prebunking/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/6970488/google-jigsaw-eu-elections-misinformation-prebunking/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ElectionsGoogle is launching a new initiative to combat misinformation ahead of the European Union&#x27;s parliamentary elections in June. Thi...</p></details>
+   Link:<a href="https://time.com/6970488/google-jigsaw-eu-elections-misinformation-prebunking/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/6970488/google-jigsaw-eu-elections-misinformation-prebunking/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ElectionsGoogle is launching a new initiative to combat misinformation ahead of the European Union&#x27;s parliamentary elections in June. Thi...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10498317/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10498317/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Psychological Inoculation for Credibility Assessment, Sharing...by C Lu · 2023 · Cited by 123 — In this study, we conducted a meta-an...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10498317/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10498317/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Psychological Inoculation for Credibility Assessment, Sharing...by C Lu · 2023 · Cited by 123 — In this study, we conducted a meta-an...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/pii/S2352250X25002076" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S2352250X25002076</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>•. Past meta-analyses have not disentangled discrimination...Read more...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/pii/S2352250X25002076" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S2352250X25002076</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>•. Past meta-analyses have not disentangled discrimination...Read more...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9363981/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9363981/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>by TD Pilditch · 2022 · Cited by 45 — Recent empirical work has focused on interventions aimed at inoculating people against misinform...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9363981/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9363981/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by TD Pilditch · 2022 · Cited by 45 — Recent empirical work has focused on interventions aimed at inoculating people against misinform...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: dictionary.cambridge.org  
-   Link: <a href="https://dictionary.cambridge.org/dictionary/english/psychological" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/dictionary/english/psychological</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>He claims that the constant aircraft noise has a bad psychological effect on the residents.Read more...</p></details>
+   Link:<a href="https://dictionary.cambridge.org/dictionary/english/psychological" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/dictionary/english/psychological</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>He claims that the constant aircraft noise has a bad psychological effect on the residents.Read more...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: journals.sagepub.com  
-   Link: <a href="https://journals.sagepub.com/doi/abs/10.1177/00027162221087936" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/abs/10.1177/00027162221087936</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sage JournalsPsychological Inoculation against Misinformationby CS Traberg · 2022 · Cited by 322 — We review a series of randomized lab a...</p></details>
+   Link:<a href="https://journals.sagepub.com/doi/abs/10.1177/00027162221087936" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/abs/10.1177/00027162221087936</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sage JournalsPsychological Inoculation against Misinformationby CS Traberg · 2022 · Cited by 322 — We review a series of randomized lab a...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: science.org  
-   Link: <a href="https://www.science.org/doi/10.1126/sciadv.abo6254" target="_blank" rel="noopener noreferrer nofollow">https://www.science.org/doi/10.1126/sciadv.abo6254</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>van der Linden, [Fake news](&amp;#123;&amp;#123; &#x27;fake-news/&#x27; | relative_url &amp;#125;&amp;#125;) game confers psychological resistance against online misinformation. Humanit. Soc. Sci. Commun. 5, 1–10...Read...</p></details>
+   Link:<a href="https://www.science.org/doi/10.1126/sciadv.abo6254" target="_blank" rel="noopener noreferrer nofollow">https://www.science.org/doi/10.1126/sciadv.abo6254</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>van der Linden, [Fake news](&amp;#123;&amp;#123; &#x27;fake-news/&#x27; | relative_url &amp;#125;&amp;#125;) game confers psychological resistance against online misinformation. Humanit. Soc. Sci. Commun. 5, 1–10...Read...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: research-information.bris.ac.uk  
    Title: University of Bristol Lewandowsky, S., & Van Der Linden, S  
-   Link: <a href="https://research-information.bris.ac.uk/files/263813879/FINAL_Revision_ERSP_inoc_paper_4SvdL.pdf" target="_blank" rel="noopener noreferrer nofollow">https://research-information.bris.ac.uk/files/263813879/FINAL_Revision_ERSP_inoc_paper_4SvdL.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(2021). Counteringby S Lewandowsky · 2021 · Cited by 1108 — We show that based on the available evidence, inoculation appears to be a pro...</p></details>
+   Link:<a href="https://research-information.bris.ac.uk/files/263813879/FINAL_Revision_ERSP_inoc_paper_4SvdL.pdf" target="_blank" rel="noopener noreferrer nofollow">https://research-information.bris.ac.uk/files/263813879/FINAL_Revision_ERSP_inoc_paper_4SvdL.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(2021). Counteringby S Lewandowsky · 2021 · Cited by 1108 — We show that based on the available evidence, inoculation appears to be a pro...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: misinforeview.hks.harvard.edu  
    Title: global vaccination badnews  
-   Link: <a href="https://misinforeview.hks.harvard.edu/article/global-vaccination-badnews/" target="_blank" rel="noopener noreferrer nofollow">https://misinforeview.hks.harvard.edu/article/global-vaccination-badnews/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Misinformation ReviewPrebunking interventions based on “inoculation” theory can...by J Roozenbeek · 2020 · Cited by 399 — This study fin...</p></details>
+   Link:<a href="https://misinforeview.hks.harvard.edu/article/global-vaccination-badnews/" target="_blank" rel="noopener noreferrer nofollow">https://misinforeview.hks.harvard.edu/article/global-vaccination-badnews/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Misinformation ReviewPrebunking interventions based on “inoculation” theory can...by J Roozenbeek · 2020 · Cited by 399 — This study fin...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: cam.ac.uk  
-   Link: <a href="https://www.cam.ac.uk/stories/inoculateexperiment" target="_blank" rel="noopener noreferrer nofollow">https://www.cam.ac.uk/stories/inoculateexperiment</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>University of CambridgeHow to &#x27;inoculate&#x27; millions against misinformation on social...This “prebunking” strategy pre-emptively exposes p...</p></details>
+   Link:<a href="https://www.cam.ac.uk/stories/inoculateexperiment" target="_blank" rel="noopener noreferrer nofollow">https://www.cam.ac.uk/stories/inoculateexperiment</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>University of CambridgeHow to &#x27;inoculate&#x27; millions against misinformation on social...This “prebunking” strategy pre-emptively exposes p...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: misinforeview.hks.harvard.edu  
-   Link: <a href="https://misinforeview.hks.harvard.edu/article/prebunking-misinformation-techniques-in-social-media-feeds-results-from-an-instagram-field-study/" target="_blank" rel="noopener noreferrer nofollow">https://misinforeview.hks.harvard.edu/article/prebunking-misinformation-techniques-in-social-media-feeds-results-from-an-instagram-field-study/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Misinformation ReviewPrebunking misinformation techniques in social media feedsby S van der Linden · 2026 · Cited by 2 — Encouragingly, r...</p></details>
+   Link:<a href="https://misinforeview.hks.harvard.edu/article/prebunking-misinformation-techniques-in-social-media-feeds-results-from-an-instagram-field-study/" target="_blank" rel="noopener noreferrer nofollow">https://misinforeview.hks.harvard.edu/article/prebunking-misinformation-techniques-in-social-media-feeds-results-from-an-instagram-field-study/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Misinformation ReviewPrebunking misinformation techniques in social media feedsby S van der Linden · 2026 · Cited by 2 — Encouragingly, r...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: prebunking.withgoogle.com  
-   Link: <a href="https://prebunking.withgoogle.com/docs/A_Practical_Guide_to_Prebunking_Misinformation.pdf" target="_blank" rel="noopener noreferrer nofollow">https://prebunking.withgoogle.com/docs/A_Practical_Guide_to_Prebunking_Misinformation.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Misinformationby AP Guide — Prebunking is a technique gaining prominence as a means to build preemptive resilience to misinform...</p></details>
+   Link:<a href="https://prebunking.withgoogle.com/docs/A_Practical_Guide_to_Prebunking_Misinformation.pdf" target="_blank" rel="noopener noreferrer nofollow">https://prebunking.withgoogle.com/docs/A_Practical_Guide_to_Prebunking_Misinformation.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Misinformationby AP Guide — Prebunking is a technique gaining prominence as a means to build preemptive resilience to misinform...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: research.vu.nl  
    Title: prebunking misinformation techniques in social media feeds result  
-   Link: <a href="https://research.vu.nl/en/publications/prebunking-misinformation-techniques-in-social-media-feeds-result/" target="_blank" rel="noopener noreferrer nofollow">https://research.vu.nl/en/publications/prebunking-misinformation-techniques-in-social-media-feeds-result/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AB - Boosting psychological defences against misleading content online is...Read more...</p></details>
+   Link:<a href="https://research.vu.nl/en/publications/prebunking-misinformation-techniques-in-social-media-feeds-result/" target="_blank" rel="noopener noreferrer nofollow">https://research.vu.nl/en/publications/prebunking-misinformation-techniques-in-social-media-feeds-result/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AB - Boosting psychological defences against misleading content online is...Read more...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: efcsn.com  
-   Link: <a href="https://efcsn.com/prebunking/" target="_blank" rel="noopener noreferrer nofollow">https://efcsn.com/prebunking/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Prebunking at ScalePrebunking is a proactive, evidence-based communication strategy that prepares individuals to resist manipulation befo...</p></details>
+   Link:<a href="https://efcsn.com/prebunking/" target="_blank" rel="noopener noreferrer nofollow">https://efcsn.com/prebunking/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Prebunking at ScalePrebunking is a proactive, evidence-based communication strategy that prepares individuals to resist manipulation befo...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: prebunking.withgoogle.com  
-   Link: <a href="https://prebunking.withgoogle.com/" target="_blank" rel="noopener noreferrer nofollow">https://prebunking.withgoogle.com/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Prebunking with GooglePrebunking is a technique to preempt manipulation online. Disinformation travels faster online than it can be dispr...</p></details>
+   Link:<a href="https://prebunking.withgoogle.com/" target="_blank" rel="noopener noreferrer nofollow">https://prebunking.withgoogle.com/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Prebunking with GooglePrebunking is a technique to preempt manipulation online. Disinformation travels faster online than it can be dispr...</p></details>
 
 ### Additional References
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: joint-research-centre.ec.europa.eu  
-   Link: <a href="https://joint-research-centre.ec.europa.eu/jrc-news-and-updates/misinformation-and-disinformation-both-prebunking-and-debunking-work-fighting-it-2024-10-25_en" target="_blank" rel="noopener noreferrer nofollow">https://joint-research-centre.ec.europa.eu/jrc-news-and-updates/misinformation-and-disinformation-both-prebunking-and-debunking-work-fighting-it-2024-10-25_en</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>and disinformation: both prebunking and...Oct 25, 2024 — A JRC-led study recently published in Nature now confirmed that both prebunking...</p></details>
+   Link:<a href="https://joint-research-centre.ec.europa.eu/jrc-news-and-updates/misinformation-and-disinformation-both-prebunking-and-debunking-work-fighting-it-2024-10-25_en" target="_blank" rel="noopener noreferrer nofollow">https://joint-research-centre.ec.europa.eu/jrc-news-and-updates/misinformation-and-disinformation-both-prebunking-and-debunking-work-fighting-it-2024-10-25_en</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>and disinformation: both prebunking and...Oct 25, 2024 — A JRC-led study recently published in Nature now confirmed that both prebunking...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/posts/sander-van-der-linden-156a08203_prebunking-inoculation-badnews-activity-7461018385804591104-p4Lt" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/sander-van-der-linden-156a08203_prebunking-inoculation-badnews-activity-7461018385804591104-p4Lt</a>  
+   Link:<a href="https://www.linkedin.com/posts/sander-van-der-linden-156a08203_prebunking-inoculation-badnews-activity-7461018385804591104-p4Lt" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/sander-van-der-linden-156a08203_prebunking-inoculation-badnews-activity-7461018385804591104-p4Lt</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: diplomacy.edu  
-   Link: <a href="https://www.diplomacy.edu/wp-content/uploads/DD-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.diplomacy.edu/wp-content/uploads/DD-report.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Decoding Disinformation: Lessons from case studiesBy promoting agency, media literacy fosters prebunking and debunking practices...</p></details>
+   Link:<a href="https://www.diplomacy.edu/wp-content/uploads/DD-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.diplomacy.edu/wp-content/uploads/DD-report.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Decoding Disinformation: Lessons from case studiesBy promoting agency, media literacy fosters prebunking and debunking practices...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/Upworthy/posts/the-rise-of-misinformation-on-social-media-has-been-a-monumental-stress-test-for/1444321794395474/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Upworthy/posts/the-rise-of-misinformation-on-social-media-has-been-a-monumental-stress-test-for/1444321794395474/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>idea known as inoculation theory that suggests exposing people...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/Upworthy/posts/the-rise-of-misinformation-on-social-media-has-been-a-monumental-stress-test-for/1444321794395474/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Upworthy/posts/the-rise-of-misinformation-on-social-media-has-been-a-monumental-stress-test-for/1444321794395474/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>idea known as inoculation theory that suggests exposing people...Read more...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: observatory.informationdemocracy.org  
    Title: rapport forum information democracy 2025 1  
-   Link: <a href="https://observatory.informationdemocracy.org/wp-content/uploads/2025/06/rapport_forum_information_democracy_2025-1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://observatory.informationdemocracy.org/wp-content/uploads/2025/06/rapport_forum_information_democracy_2025-1.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ECOSYSTEMS AND TROUBLED...Our research illuminates how political economic structures, sociotechnical systems, and editorial practices ar...</p></details>
+   Link:<a href="https://observatory.informationdemocracy.org/wp-content/uploads/2025/06/rapport_forum_information_democracy_2025-1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://observatory.informationdemocracy.org/wp-content/uploads/2025/06/rapport_forum_information_democracy_2025-1.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ECOSYSTEMS AND TROUBLED...Our research illuminates how political economic structures, sociotechnical systems, and editorial practices ar...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/EUinLesotho/posts/disinformation-does-not-take-time-offthe-eu-is-strengthening-its-response-to-for/740897818568808/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/EUinLesotho/posts/disinformation-does-not-take-time-offthe-eu-is-strengthening-its-response-to-for/740897818568808/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>n information manipulation and interference from early...</p></details>
+   Link:<a href="https://www.facebook.com/EUinLesotho/posts/disinformation-does-not-take-time-offthe-eu-is-strengthening-its-response-to-for/740897818568808/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/EUinLesotho/posts/disinformation-does-not-take-time-offthe-eu-is-strengthening-its-response-to-for/740897818568808/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>n information manipulation and interference from early...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: nature.com  
-   Link: <a href="https://www.nature.com/articles/s41598-025-09462-5" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41598-025-09462-5</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Psychological inoculation improves resilience to and...by RE Appel · 2025 · Cited by 16 — Our findings suggest that a short, low-cost, g...</p></details>
+   Link:<a href="https://www.nature.com/articles/s41598-025-09462-5" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41598-025-09462-5</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Psychological inoculation improves resilience to and...by RE Appel · 2025 · Cited by 16 — Our findings suggest that a short, low-cost, g...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: doaj.org  
-   Link: <a href="https://doaj.org/article/4dfdc9e880d342e098921d3460a95502" target="_blank" rel="noopener noreferrer nofollow">https://doaj.org/article/4dfdc9e880d342e098921d3460a95502</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Jon Roozenbeek; Sander Van Der Linden...Read more...</p></details>
+   Link:<a href="https://doaj.org/article/4dfdc9e880d342e098921d3460a95502" target="_blank" rel="noopener noreferrer nofollow">https://doaj.org/article/4dfdc9e880d342e098921d3460a95502</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Jon Roozenbeek; Sander Van Der Linden...Read more...</p></details>
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: research.vu.nl  
-   Link: <a href="https://research.vu.nl/en/publications/psychological-inoculation-against-misinformation-current-evidence/" target="_blank" rel="noopener noreferrer nofollow">https://research.vu.nl/en/publications/psychological-inoculation-against-misinformation-current-evidence/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Inoculation against Misinformation: Current...by CS Traberg · 2022 · Cited by 313 — Psychological Inoculation against Misinformation: Cu...</p></details>
+   Link:<a href="https://research.vu.nl/en/publications/psychological-inoculation-against-misinformation-current-evidence/" target="_blank" rel="noopener noreferrer nofollow">https://research.vu.nl/en/publications/psychological-inoculation-against-misinformation-current-evidence/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Inoculation against Misinformation: Current...by CS Traberg · 2022 · Cited by 313 — Psychological Inoculation against Misinformation: Cu...</p></details>
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: epc.eu  
-   Link: <a href="https://www.epc.eu/publication/From-debunking-to-prebunking-How-to-get-ahead-of-disinformation-on-mi-446f88/" target="_blank" rel="noopener noreferrer nofollow">https://www.epc.eu/publication/From-debunking-to-prebunking-How-to-get-ahead-of-disinformation-on-mi-446f88/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>action before it begins to circulate.Read more...</p></details>
+   Link:<a href="https://www.epc.eu/publication/From-debunking-to-prebunking-How-to-get-ahead-of-disinformation-on-mi-446f88/" target="_blank" rel="noopener noreferrer nofollow">https://www.epc.eu/publication/From-debunking-to-prebunking-How-to-get-ahead-of-disinformation-on-mi-446f88/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>action before it begins to circulate.Read more...</p></details>

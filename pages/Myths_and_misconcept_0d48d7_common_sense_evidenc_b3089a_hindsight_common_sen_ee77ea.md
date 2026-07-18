@@ -277,15 +277,15 @@ image: /assets/images/Myths_and_misconcept_0d48d7_common_sense_evidenc_b3089a_hi
 Hindsight bias makes weak explanations feel stronger than they really are. Once an outcome is known, people often reconstruct the past so that the result appears predictable, sensible and even inevitable. A business failure suddenly looks like the obvious consequence of poor leadership. A political upset becomes easy to explain through one decisive factor. A medical treatment seems clearly effective because recovery followed it.
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_common_sense_evidenc_b3089a_hindsight_common_sen_ee77ea-Illustration-1-dark.svg" | relative_url }}" alt="Hindsight illustration 1" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_common_sense_evidenc_b3089a_hindsight_common_sen_ee77ea-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_common_sense_evidenc_b3089a_hindsight_common_sen_ee77ea-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-This matters because many myths and misconceptions survive through backwards explanation rather than successful prediction. After an event happens, people can usually build a convincing story about why it happened. The danger is that a story that fits the known ending can feel like evidence, even when the same reasoning could have been used to explain a different ending. Psychologists call this hindsight bias, or the knew-it-all-along effect. Research beginning with Baruch Fischhoff's work in the 1970s showed that people consistently remember events as having been more predictable after learning the outcome. <span class="citation-chip-wrap"><a class="citation-chip" href="https://thedecisionlab.com/biases/hindsight-bias" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thedecisionlab.com">[The Decision Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thedecisionlab.com</span><span class="citation-popover-snippet">The Decision LabHindsight BiasHindsight bias, or the knew-it-all-along, is the tendency to claim currents events were to happen even thou...</span></span></span>
+This matters because many myths and misconceptions survive through backwards explanation rather than successful prediction. After an event happens, people can usually build a convincing story about why it happened. The danger is that a story that fits the known ending can feel like evidence, even when the same reasoning could have been used to explain a different ending. Psychologists call this hindsight bias, or the knew-it-all-along effect. Research beginning with Baruch Fischhoff's work in the 1970s showed that people consistently remember events as having been more predictable after learning the outcome.<span class="citation-chip-wrap"><a class="citation-chip" href="https://thedecisionlab.com/biases/hindsight-bias" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thedecisionlab.com">[The Decision Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thedecisionlab.com</span><span class="citation-popover-snippet">The Decision LabHindsight BiasHindsight bias, or the knew-it-all-along, is the tendency to claim currents events were to happen even thou...</span></span></span>
 
 ## How backwards stories gain false authority
 
 The power of hindsight comes from a simple psychological shift. Before an event, many outcomes are possible. After the event, only one outcome is visible. The alternatives fade into the background.
 
-Once the ending is known, people begin connecting facts that support it. Information that once seemed ambiguous becomes evidence that the result was bound to happen. Contradictory clues receive less attention or are forgotten entirely. Researchers describe this as a tendency to reconstruct previous beliefs in light of new knowledge, creating the feeling that the outcome was foreseeable all along. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Hindsight_bias" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Hindsight bias</span><span class="citation-popover-snippet">Hindsight bias</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://publikationen.uni-tuebingen.de/xmlui/bitstream/handle/10900/83951/Doktorarbeit_Druckexemplar.pdf?sequence=1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: publikationen.uni-tuebingen.de">[2Universitt Tbingen Publikationsserver]</a><span class="citation-popover" role="note"><span class="citation-popover-source">publikationen.uni-tuebingen.de</span><span class="citation-popover-title">Universitt Tbingen Publikationsserver I knew it all along</span><span class="citation-popover-snippet">Universitt Tbingen PublikationsserverI knew it all along - Hindsight bias before and after the fact.The author concluded that knowledge...</span></span></span>
+Once the ending is known, people begin connecting facts that support it. Information that once seemed ambiguous becomes evidence that the result was bound to happen. Contradictory clues receive less attention or are forgotten entirely. Researchers describe this as a tendency to reconstruct previous beliefs in light of new knowledge, creating the feeling that the outcome was foreseeable all along.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Hindsight_bias" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Hindsight bias</span><span class="citation-popover-snippet">Hindsight bias</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://publikationen.uni-tuebingen.de/xmlui/bitstream/handle/10900/83951/Doktorarbeit_Druckexemplar.pdf?sequence=1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: publikationen.uni-tuebingen.de">[2Universitt Tbingen Publikationsserver]</a><span class="citation-popover" role="note"><span class="citation-popover-source">publikationen.uni-tuebingen.de</span><span class="citation-popover-title">Universitt Tbingen Publikationsserver I knew it all along</span><span class="citation-popover-snippet">Universitt Tbingen PublikationsserverI knew it all along - Hindsight bias before and after the fact.The author concluded that knowledge...</span></span></span>
 
-A classic example came from Fischhoff and Ruth Beyth's studies of political events. Participants estimated the likelihood of several possible outcomes before a major diplomatic trip by US President Richard Nixon. After the trip, people remembered the actual outcome as having seemed more likely than they had originally judged it to be. Knowledge of the ending changed their [memory]({{ 'memory/' | relative_url }}) of what they thought beforehand. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Hindsight_bias" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Hindsight bias</span><span class="citation-popover-snippet">Hindsight bias</span></span></span> ScienceDirect This creates a misleading impression of understanding. If an explanation fits the result neatly <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/pii/S0749597801929760" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[sciencedirect.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Certainty and Uncertainty: The Two Faces of the Hindsight...by L Werth  2002  Cited by 50  Hindsight Bias is a person&#x27;s tendency, a...</span></span></span>, it feels informative. Yet the explanation may only appear powerful because the outcome is already known.
+A classic example came from Fischhoff and Ruth Beyth's studies of political events. Participants estimated the likelihood of several possible outcomes before a major diplomatic trip by US President Richard Nixon. After the trip, people remembered the actual outcome as having seemed more likely than they had originally judged it to be. Knowledge of the ending changed their [memory]({{ 'memory/' | relative_url }}) of what they thought beforehand.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Hindsight_bias" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Hindsight bias</span><span class="citation-popover-snippet">Hindsight bias</span></span></span> ScienceDirect This creates a misleading impression of understanding. If an explanation fits the result neatly<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/pii/S0749597801929760" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[sciencedirect.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Certainty and Uncertainty: The Two Faces of the Hindsight...by L Werth  2002  Cited by 50  Hindsight Bias is a person&#x27;s tendency, a...</span></span></span>, it feels informative. Yet the explanation may only appear powerful because the outcome is already known.
 
 Consider how sports commentary often works. After a team wins, analysts emphasise discipline, leadership and tactical intelligence. If the same team loses, the discussion may focus on complacency, poor decisions or lack of creativity. Many of the underlying facts remain unchanged. What changes is which facts are selected and arranged into a narrative.
 
@@ -319,7 +319,7 @@ After failure, equally plausible stories appear:
 
 The explanations often sound persuasive because they connect real characteristics to a known result. Yet their persuasive force depends heavily on already knowing which result occurred.
 
-Duncan Watts has argued that many explanations of social behaviour confuse understandability with causality. Once people know what happened, they can usually generate a reasonable-sounding account of why it happened. The existence of such an account does not prove that the identified causes genuinely predicted the outcome. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/25811066/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Common sense and sociological explanationsby DJ Watts  2014  Cited by 232  Sociologists have long advocated a sociological appro...</span></span></span>
+Duncan Watts has argued that many explanations of social behaviour confuse understandability with causality. Once people know what happened, they can usually generate a reasonable-sounding account of why it happened. The existence of such an account does not prove that the identified causes genuinely predicted the outcome.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/25811066/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Common sense and sociological explanationsby DJ Watts  2014  Cited by 232  Sociologists have long advocated a sociological appro...</span></span></span>
 
 This distinction is easy to miss because human beings are natural storytellers. Understanding a sequence of events feels very similar to having predicted it. Psychologically, the two experiences can become blurred.
 
@@ -351,7 +351,7 @@ If the answer is yes, then the explanation may have little predictive value.
 
 This does not mean the explanation is necessarily false. Risk-taking may genuinely matter. The problem is that the explanation has not demonstrated why one outcome was more likely than another before the fact.
 
-Psychologists studying hindsight bias have found that considering alternative outcomes can reduce the feeling that what happened was inevitable. When people actively imagine realistic alternatives, the actual outcome appears less uniquely determined and less obviously predictable. <span class="citation-chip-wrap"><a class="citation-chip" href="https://carlsonschool.umn.edu/sites/carlsonschool.umn.edu/files/2026-01/vohs-et-al-2012-hindsight-bias.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: carlsonschool.umn.edu">[Carlson School of Management]</a><span class="citation-popover" role="note"><span class="citation-popover-source">carlsonschool.umn.edu</span><span class="citation-popover-title">vohs et al 2012 hindsight bias</span><span class="citation-popover-snippet">Carlson School of ManagementScience Perspectives on Psychologicalby NJ Roese  2012  Cited by 920  This inverse relation between counte...</span></span></span>
+Psychologists studying hindsight bias have found that considering alternative outcomes can reduce the feeling that what happened was inevitable. When people actively imagine realistic alternatives, the actual outcome appears less uniquely determined and less obviously predictable.<span class="citation-chip-wrap"><a class="citation-chip" href="https://carlsonschool.umn.edu/sites/carlsonschool.umn.edu/files/2026-01/vohs-et-al-2012-hindsight-bias.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: carlsonschool.umn.edu">[Carlson School of Management]</a><span class="citation-popover" role="note"><span class="citation-popover-source">carlsonschool.umn.edu</span><span class="citation-popover-title">vohs et al 2012 hindsight bias</span><span class="citation-popover-snippet">Carlson School of ManagementScience Perspectives on Psychologicalby NJ Roese  2012  Cited by 920  This inverse relation between counte...</span></span></span>
 
 That is why good evidence usually requires prospective testing rather than retrospective storytelling. The crucial question is not whether a story can explain the result now. The question is whether it would have distinguished among possible outcomes before they occurred.
 
@@ -376,7 +376,7 @@ This creates a recurring pattern in public discussion:
 
 The result is a feeling of certainty that did not exist beforehand.
 
-Watts has repeatedly argued that social outcomes often look more predictable in retrospect than they really are. His work on complex social systems suggests that even with extensive information, important outcomes can remain difficult to forecast because small differences and random variation can have large effects. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/1602.01013" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Exploring limits to prediction in complex social systems</span><span class="citation-popover-snippet">Exploring limits to prediction in complex social systemsFebruary 2, 2016...</span><span class="citation-popover-meta">Published: February 2, 2016</span></span></span>
+Watts has repeatedly argued that social outcomes often look more predictable in retrospect than they really are. His work on complex social systems suggests that even with extensive information, important outcomes can remain difficult to forecast because small differences and random variation can have large effects.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/1602.01013" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Exploring limits to prediction in complex social systems</span><span class="citation-popover-snippet">Exploring limits to prediction in complex social systemsFebruary 2, 2016...</span><span class="citation-popover-meta">Published: February 2, 2016</span></span></span>
 
 This helps explain why myths about social behaviour persist. People remember explanations that fit visible outcomes. They rarely compare those explanations against all the other plausible stories that could have been told had events unfolded differently.
 
@@ -419,194 +419,194 @@ These questions force a shift from storytelling to testing.
 The central lesson is not that explanations are worthless. Explanations are essential. The problem arises when explanation is judged only after the ending is known. Once outcomes are visible, almost any event can be made to look like [common sense]({{ 'common-sense/' | relative_url }}). That appearance of obviousness is precisely why hindsight bias is such a powerful engine of myths and misconceptions. It transforms uncertainty into apparent inevitability and turns weak explanations into stories that feel self-evidently true.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why outcomes seem obvious after they happen. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why outcomes seem obvious after they happen. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YGPzXWanppcC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
-        </h4>
-        <p class="fr-book-author">By Daniel Kahneman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YGPzXWanppcC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
+</h4>
+<p class="fr-book-author">By Daniel Kahneman</p>
         
-        <p class="fr-book-desc">Contains influential discussion of hindsight and judgment errors.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Contains influential discussion of hindsight and judgment errors.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mistakes Were Made (but Not by Me) Third Edition on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jmmVxgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Mistakes Were Made (but Not by Me) Third Edition" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mistakes Were Made (but Not by Me) Third Edition">Mistakes Were Made (but Not by Me) Third Edition</a>
-        </h4>
-        <p class="fr-book-author">By Carol Tavris, Elliot Aronson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mistakes Were Made (but Not by Me) Third Edition on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jmmVxgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Mistakes Were Made (but Not by Me) Third Edition" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mistakes Were Made (but Not by Me) Third Edition">Mistakes Were Made (but Not by Me) Third Edition</a>
+</h4>
+<p class="fr-book-author">By Carol Tavris, Elliot Aronson</p>
         
-        <p class="fr-book-desc">Explains post-hoc rationalisation and self-justification.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains post-hoc rationalisation and self-justification.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Skeptics&#x27; Guide to the Universe on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CuVKDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Skeptics&#x27; Guide to the Universe" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Skeptics&#x27; Guide to the Universe">The Skeptics&#x27; Guide to the Universe</a>
-        </h4>
-        <p class="fr-book-author">By Dr. Steven Novella</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Skeptics&#x27; Guide to the Universe on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CuVKDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Skeptics&#x27; Guide to the Universe" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Skeptics&#x27; Guide to the Universe">The Skeptics&#x27; Guide to the Universe</a>
+</h4>
+<p class="fr-book-author">By Dr. Steven Novella</p>
         
-        <p class="fr-book-desc">Provides practical methods for challenging intuitive explanations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides practical methods for challenging intuitive explanations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+art+of+thinking+clearly+Rolf+Dobelli&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The art of thinking clearly on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8270423-M.jpg" alt="Cover for The art of thinking clearly" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+art+of+thinking+clearly+Rolf+Dobelli&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The art of thinking clearly">The art of thinking clearly</a>
-        </h4>
-        <p class="fr-book-author">By Rolf Dobelli, Rolf Dobelli</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+art+of+thinking+clearly+Rolf+Dobelli&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The art of thinking clearly on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8270423-M.jpg" alt="Cover for The art of thinking clearly" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+art+of+thinking+clearly+Rolf+Dobelli&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The art of thinking clearly">The art of thinking clearly</a>
+</h4>
+<p class="fr-book-author">By Rolf Dobelli, Rolf Dobelli</p>
         
-        <p class="fr-book-desc">First published 2013. Subjects: nonfiction, psychology, Errors, Développement d&#x27;aptitudes, Prise de décision (Relations humaines).</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+art+of+thinking+clearly+Rolf+Dobelli&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2013. Subjects: nonfiction, psychology, Errors, Développement d&#x27;aptitudes, Prise de décision (Relations humaines).</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+art+of+thinking+clearly+Rolf+Dobelli&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mistakes Were Made (but Not by Me) Third Edition</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Skeptics%27+to+the+Universe+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Skeptics&#x27; to the Universe books</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mistakes Were Made (but Not by Me) Third Edition</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Skeptics%27+to+the+Universe+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Skeptics&#x27; to the Universe books</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hindsight-why-outcomes-seem-obvious-after-they-happen-myths-and-misconcept-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster" data-ebay-reference="hindsight-why-outcomes-seem-obvious-after-they-happen-myths-and-misconcept-science-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Funny Science Poster Can I Lick It Periodic Table Print Chemistry Wall Art Nerd"><img src="{{ '/assets/images/marketplace-covers/7b9530e3e70391be5ab3.jpg' | relative_url }}" alt="Listing image for Funny Science Poster Can I Lick It Periodic Table Print Chemistry Wall Art Nerd" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hindsight-why-outcomes-seem-obvious-after-they-happen-myths-and-misconcept-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster" data-ebay-reference="hindsight-why-outcomes-seem-obvious-after-they-happen-myths-and-misconcept-science-poster" target="_blank" rel="sponsored noopener noreferrer">Funny Science Poster Can I Lick It Periodic Table Print Chemistry Wall Art Nerd</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hindsight-why-outcomes-seem-obvious-after-they-happen-myths-and-misconcept-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster" data-ebay-reference="hindsight-why-outcomes-seem-obvious-after-they-happen-myths-and-misconcept-science-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: science poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hindsight-why-outcomes-seem-obvious-after-they-happen-myths-and-misconcept-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster" data-ebay-reference="hindsight-why-outcomes-seem-obvious-after-they-happen-myths-and-misconcept-science-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hindsight-why-outcomes-seem-obvious-after-they-happen-myths-and-misconcept-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster" data-ebay-reference="hindsight-why-outcomes-seem-obvious-after-they-happen-myths-and-misconcept-science-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Funny Science Poster Can I Lick It Periodic Table Print Chemistry Wall Art Nerd"><img src="{{ '/assets/images/marketplace-covers/7b9530e3e70391be5ab3.jpg' | relative_url }}" alt="Listing image for Funny Science Poster Can I Lick It Periodic Table Print Chemistry Wall Art Nerd" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hindsight-why-outcomes-seem-obvious-after-they-happen-myths-and-misconcept-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster" data-ebay-reference="hindsight-why-outcomes-seem-obvious-after-they-happen-myths-and-misconcept-science-poster" target="_blank" rel="sponsored noopener noreferrer">Funny Science Poster Can I Lick It Periodic Table Print Chemistry Wall Art Nerd</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hindsight-why-outcomes-seem-obvious-after-they-happen-myths-and-misconcept-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster" data-ebay-reference="hindsight-why-outcomes-seem-obvious-after-they-happen-myths-and-misconcept-science-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: science poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hindsight-why-outcomes-seem-obvious-after-they-happen-myths-and-misconcept-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster" data-ebay-reference="hindsight-why-outcomes-seem-obvious-after-they-happen-myths-and-misconcept-science-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hindsight-why-outcomes-seem-obvious-after-they-happen-myths-and-misconcept-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster" data-ebay-reference="hindsight-why-outcomes-seem-obvious-after-they-happen-myths-and-misconcept-science-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Snellen Eye Chart Optician Glasses Test Science Poster | A5-A1 | Wall Poster"><img src="{{ '/assets/images/marketplace-covers/44585abe482a25573224.jpg' | relative_url }}" alt="Listing image for Snellen Eye Chart Optician Glasses Test Science Poster | A5-A1 | Wall Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hindsight-why-outcomes-seem-obvious-after-they-happen-myths-and-misconcept-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster" data-ebay-reference="hindsight-why-outcomes-seem-obvious-after-they-happen-myths-and-misconcept-science-poster" target="_blank" rel="sponsored noopener noreferrer">Snellen Eye Chart Optician Glasses Test Science Poster | A5-A1 | Wall Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hindsight-why-outcomes-seem-obvious-after-they-happen-myths-and-misconcept-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster" data-ebay-reference="hindsight-why-outcomes-seem-obvious-after-they-happen-myths-and-misconcept-science-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: science poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hindsight-why-outcomes-seem-obvious-after-they-happen-myths-and-misconcept-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster" data-ebay-reference="hindsight-why-outcomes-seem-obvious-after-they-happen-myths-and-misconcept-science-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hindsight-why-outcomes-seem-obvious-after-they-happen-myths-and-misconcept-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster" data-ebay-reference="hindsight-why-outcomes-seem-obvious-after-they-happen-myths-and-misconcept-science-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Snellen Eye Chart Optician Glasses Test Science Poster | A5-A1 | Wall Poster"><img src="{{ '/assets/images/marketplace-covers/44585abe482a25573224.jpg' | relative_url }}" alt="Listing image for Snellen Eye Chart Optician Glasses Test Science Poster | A5-A1 | Wall Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hindsight-why-outcomes-seem-obvious-after-they-happen-myths-and-misconcept-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster" data-ebay-reference="hindsight-why-outcomes-seem-obvious-after-they-happen-myths-and-misconcept-science-poster" target="_blank" rel="sponsored noopener noreferrer">Snellen Eye Chart Optician Glasses Test Science Poster | A5-A1 | Wall Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hindsight-why-outcomes-seem-obvious-after-they-happen-myths-and-misconcept-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster" data-ebay-reference="hindsight-why-outcomes-seem-obvious-after-they-happen-myths-and-misconcept-science-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: science poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hindsight-why-outcomes-seem-obvious-after-they-happen-myths-and-misconcept-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster" data-ebay-reference="hindsight-why-outcomes-seem-obvious-after-they-happen-myths-and-misconcept-science-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hindsight-why-outcomes-seem-obvious-after-they-happen-myths-and-misconcept-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster" data-ebay-reference="hindsight-why-outcomes-seem-obvious-after-they-happen-myths-and-misconcept-science-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Periodic Table of Elements Poster For Kids, LAMINATED, Science &amp; Chemistry Chart"><img src="{{ '/assets/images/marketplace-covers/2d540458477f76b2be20.jpg' | relative_url }}" alt="Listing image for Periodic Table of Elements Poster For Kids, LAMINATED, Science &amp; Chemistry Chart" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hindsight-why-outcomes-seem-obvious-after-they-happen-myths-and-misconcept-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster" data-ebay-reference="hindsight-why-outcomes-seem-obvious-after-they-happen-myths-and-misconcept-science-poster" target="_blank" rel="sponsored noopener noreferrer">Periodic Table of Elements Poster For Kids, LAMINATED, Science &amp; Chemistry Chart</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hindsight-why-outcomes-seem-obvious-after-they-happen-myths-and-misconcept-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster" data-ebay-reference="hindsight-why-outcomes-seem-obvious-after-they-happen-myths-and-misconcept-science-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: science poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hindsight-why-outcomes-seem-obvious-after-they-happen-myths-and-misconcept-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster" data-ebay-reference="hindsight-why-outcomes-seem-obvious-after-they-happen-myths-and-misconcept-science-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hindsight-why-outcomes-seem-obvious-after-they-happen-myths-and-misconcept-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster" data-ebay-reference="hindsight-why-outcomes-seem-obvious-after-they-happen-myths-and-misconcept-science-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Periodic Table of Elements Poster For Kids, LAMINATED, Science &amp; Chemistry Chart"><img src="{{ '/assets/images/marketplace-covers/2d540458477f76b2be20.jpg' | relative_url }}" alt="Listing image for Periodic Table of Elements Poster For Kids, LAMINATED, Science &amp; Chemistry Chart" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hindsight-why-outcomes-seem-obvious-after-they-happen-myths-and-misconcept-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster" data-ebay-reference="hindsight-why-outcomes-seem-obvious-after-they-happen-myths-and-misconcept-science-poster" target="_blank" rel="sponsored noopener noreferrer">Periodic Table of Elements Poster For Kids, LAMINATED, Science &amp; Chemistry Chart</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hindsight-why-outcomes-seem-obvious-after-they-happen-myths-and-misconcept-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster" data-ebay-reference="hindsight-why-outcomes-seem-obvious-after-they-happen-myths-and-misconcept-science-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: science poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hindsight-why-outcomes-seem-obvious-after-they-happen-myths-and-misconcept-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster" data-ebay-reference="hindsight-why-outcomes-seem-obvious-after-they-happen-myths-and-misconcept-science-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hindsight-why-outcomes-seem-obvious-after-they-happen-myths-and-misconcept-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster" data-ebay-reference="hindsight-why-outcomes-seem-obvious-after-they-happen-myths-and-misconcept-science-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Periodic table with elements poster Science Wall Chart UPDATED Education Poster"><img src="{{ '/assets/images/marketplace-covers/4353dda57fefeae45a72.jpg' | relative_url }}" alt="Listing image for Periodic table with elements poster Science Wall Chart UPDATED Education Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hindsight-why-outcomes-seem-obvious-after-they-happen-myths-and-misconcept-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster" data-ebay-reference="hindsight-why-outcomes-seem-obvious-after-they-happen-myths-and-misconcept-science-poster" target="_blank" rel="sponsored noopener noreferrer">Periodic table with elements poster Science Wall Chart UPDATED Education Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hindsight-why-outcomes-seem-obvious-after-they-happen-myths-and-misconcept-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster" data-ebay-reference="hindsight-why-outcomes-seem-obvious-after-they-happen-myths-and-misconcept-science-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: science poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hindsight-why-outcomes-seem-obvious-after-they-happen-myths-and-misconcept-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster" data-ebay-reference="hindsight-why-outcomes-seem-obvious-after-they-happen-myths-and-misconcept-science-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hindsight-why-outcomes-seem-obvious-after-they-happen-myths-and-misconcept-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster" data-ebay-reference="hindsight-why-outcomes-seem-obvious-after-they-happen-myths-and-misconcept-science-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hindsight-why-outcomes-seem-obvious-after-they-happen-myths-and-misconcept-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster" data-ebay-reference="hindsight-why-outcomes-seem-obvious-after-they-happen-myths-and-misconcept-science-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Periodic table with elements poster Science Wall Chart UPDATED Education Poster"><img src="{{ '/assets/images/marketplace-covers/4353dda57fefeae45a72.jpg' | relative_url }}" alt="Listing image for Periodic table with elements poster Science Wall Chart UPDATED Education Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hindsight-why-outcomes-seem-obvious-after-they-happen-myths-and-misconcept-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster" data-ebay-reference="hindsight-why-outcomes-seem-obvious-after-they-happen-myths-and-misconcept-science-poster" target="_blank" rel="sponsored noopener noreferrer">Periodic table with elements poster Science Wall Chart UPDATED Education Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hindsight-why-outcomes-seem-obvious-after-they-happen-myths-and-misconcept-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster" data-ebay-reference="hindsight-why-outcomes-seem-obvious-after-they-happen-myths-and-misconcept-science-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: science poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hindsight-why-outcomes-seem-obvious-after-they-happen-myths-and-misconcept-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster" data-ebay-reference="hindsight-why-outcomes-seem-obvious-after-they-happen-myths-and-misconcept-science-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hindsight-why-outcomes-seem-obvious-after-they-happen-myths-and-misconcept-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster" data-ebay-reference="hindsight-why-outcomes-seem-obvious-after-they-happen-myths-and-misconcept-science-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -622,7 +622,7 @@ The central lesson is not that explanations are worthless. Explanations are esse
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -642,7 +642,7 @@ The central lesson is not that explanations are worthless. Explanations are esse
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -674,7 +674,7 @@ The central lesson is not that explanations are worthless. Explanations are esse
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -726,7 +726,7 @@ The central lesson is not that explanations are worthless. Explanations are esse
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -771,7 +771,7 @@ The central lesson is not that explanations are worthless. Explanations are esse
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -812,125 +812,125 @@ The central lesson is not that explanations are worthless. Explanations are esse
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Hindsight bias  
-   Link: <a href="https://en.wikipedia.org/wiki/Hindsight_bias" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Hindsight_bias</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Hindsight_bias" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Hindsight_bias</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0749597801929760" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0749597801929760</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Certainty and Uncertainty: The Two Faces of the Hindsight...by L Werth  2002  Cited by 50  Hindsight Bias is a person&#x27;s tendency, a...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/pii/S0749597801929760" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0749597801929760</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Certainty and Uncertainty: The Two Faces of the Hindsight...by L Werth  2002  Cited by 50  Hindsight Bias is a person&#x27;s tendency, a...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: sciencedirect.com  
    Title: ScienceDirect Hindsight Bias  
-   Link: <a href="https://www.sciencedirect.com/topics/biochemistry-genetics-and-molecular-biology/hindsight-bias" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/topics/biochemistry-genetics-and-molecular-biology/hindsight-bias</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Hindsight Bias - an overviewIn the 1970s, Baruch Fischoff was concerned with professionals such as clinicians&#x27; or politicians exaggerated...</p></details>
+   Link:<a href="https://www.sciencedirect.com/topics/biochemistry-genetics-and-molecular-biology/hindsight-bias" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/topics/biochemistry-genetics-and-molecular-biology/hindsight-bias</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Hindsight Bias - an overviewIn the 1970s, Baruch Fischoff was concerned with professionals such as clinicians&#x27; or politicians exaggerated...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: arxiv.org  
    Title: arXiv Exploring limits to prediction in complex social systems  
-   Link: <a href="https://arxiv.org/abs/1602.01013" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1602.01013</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Exploring limits to prediction in complex social systemsFebruary 2, 2016...</p></details>
+   Link:<a href="https://arxiv.org/abs/1602.01013" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1602.01013</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Exploring limits to prediction in complex social systemsFebruary 2, 2016...</p></details>
    Published: February 2, 2016  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/pii/074959789090020A" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/074959789090020A</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The...Re...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/pii/074959789090020A" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/074959789090020A</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The...Re...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0022103121000573" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0022103121000573</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Retrospective and prospective hindsight bias: Replications...by J Chen  2021  Cited by 23  In this study, we asked participants to pr...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/abs/pii/S0022103121000573" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0022103121000573</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Retrospective and prospective hindsight bias: Replications...by J Chen  2021  Cited by 23  In this study, we asked participants to pr...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: thedecisionlab.com  
-   Link: <a href="https://thedecisionlab.com/biases/hindsight-bias" target="_blank" rel="noopener noreferrer nofollow">https://thedecisionlab.com/biases/hindsight-bias</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Decision LabHindsight BiasHindsight bias, or the knew-it-all-along, is the tendency to claim currents events were to happen even thou...</p></details>
+   Link:<a href="https://thedecisionlab.com/biases/hindsight-bias" target="_blank" rel="noopener noreferrer nofollow">https://thedecisionlab.com/biases/hindsight-bias</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Decision LabHindsight BiasHindsight bias, or the knew-it-all-along, is the tendency to claim currents events were to happen even thou...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: publikationen.uni-tuebingen.de  
    Title: Universitt Tbingen Publikationsserver I knew it all along  
-   Link: <a href="https://publikationen.uni-tuebingen.de/xmlui/bitstream/handle/10900/83951/Doktorarbeit_Druckexemplar.pdf?sequence=1" target="_blank" rel="noopener noreferrer nofollow">https://publikationen.uni-tuebingen.de/xmlui/bitstream/handle/10900/83951/Doktorarbeit_Druckexemplar.pdf?sequence=1</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Universitt Tbingen PublikationsserverI knew it all along - Hindsight bias before and after the fact.The author concluded that knowledge...</p></details>
+   Link:<a href="https://publikationen.uni-tuebingen.de/xmlui/bitstream/handle/10900/83951/Doktorarbeit_Druckexemplar.pdf?sequence=1" target="_blank" rel="noopener noreferrer nofollow">https://publikationen.uni-tuebingen.de/xmlui/bitstream/handle/10900/83951/Doktorarbeit_Druckexemplar.pdf?sequence=1</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Universitt Tbingen PublikationsserverI knew it all along - Hindsight bias before and after the fact.The author concluded that knowledge...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: lesswrong.com  
    Title: hindsight bias  
-   Link: <a href="https://www.lesswrong.com/lw/il/hindsight_bias" target="_blank" rel="noopener noreferrer nofollow">https://www.lesswrong.com/lw/il/hindsight_bias</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>16 Aug 2007  Hindsight bias is sometimes called the I-knew-it-all-along effect. Fischhoff and Beyth (1975) presented students with histo...</p></details>
+   Link:<a href="https://www.lesswrong.com/lw/il/hindsight_bias" target="_blank" rel="noopener noreferrer nofollow">https://www.lesswrong.com/lw/il/hindsight_bias</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>16 Aug 2007  Hindsight bias is sometimes called the I-knew-it-all-along effect. Fischhoff and Beyth (1975) presented students with histo...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/25811066/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/25811066/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Common sense and sociological explanationsby DJ Watts  2014  Cited by 232  Sociologists have long advocated a sociological appro...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/25811066/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/25811066/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Common sense and sociological explanationsby DJ Watts  2014  Cited by 232  Sociologists have long advocated a sociological appro...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: carlsonschool.umn.edu  
    Title: vohs et al 2012 hindsight bias  
-   Link: <a href="https://carlsonschool.umn.edu/sites/carlsonschool.umn.edu/files/2026-01/vohs-et-al-2012-hindsight-bias.pdf" target="_blank" rel="noopener noreferrer nofollow">https://carlsonschool.umn.edu/sites/carlsonschool.umn.edu/files/2026-01/vohs-et-al-2012-hindsight-bias.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Carlson School of ManagementScience Perspectives on Psychologicalby NJ Roese  2012  Cited by 920  This inverse relation between counte...</p></details>
+   Link:<a href="https://carlsonschool.umn.edu/sites/carlsonschool.umn.edu/files/2026-01/vohs-et-al-2012-hindsight-bias.pdf" target="_blank" rel="noopener noreferrer nofollow">https://carlsonschool.umn.edu/sites/carlsonschool.umn.edu/files/2026-01/vohs-et-al-2012-hindsight-bias.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Carlson School of ManagementScience Perspectives on Psychologicalby NJ Roese  2012  Cited by 920  This inverse relation between counte...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/Bookcafe04/posts/you-think-you-understand-why-things-happen-you-do-not-and-neither-does-anyone-el/122322355982329240/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Bookcafe04/posts/you-think-you-understand-why-things-happen-you-do-not-and-neither-does-anyone-el/122322355982329240/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Everything is Obvious (Once You Know...3 May 2026  &quot;Everything is Obvious (Once You Know the Answer)&quot; is a book about why common sense...</p></details>
+   Link:<a href="https://www.facebook.com/Bookcafe04/posts/you-think-you-understand-why-things-happen-you-do-not-and-neither-does-anyone-el/122322355982329240/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Bookcafe04/posts/you-think-you-understand-why-things-happen-you-do-not-and-neither-does-anyone-el/122322355982329240/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Everything is Obvious (Once You Know...3 May 2026  &quot;Everything is Obvious (Once You Know the Answer)&quot; is a book about why common sense...</p></details>
    Published: May 2026  
 
 ### Additional References
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/explainlikeimfive/comments/b5txsf/eli5_what_is_the_difference_between_outcome_bias/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/explainlikeimfive/comments/b5txsf/eli5_what_is_the_difference_between_outcome_bias/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ELI5: What is the difference between Outcome Bias and...Hindsight bias makes people think that the event should have been predicted/pred...</p></details>
+   Link:<a href="https://www.reddit.com/r/explainlikeimfive/comments/b5txsf/eli5_what_is_the_difference_between_outcome_bias/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/explainlikeimfive/comments/b5txsf/eli5_what_is_the_difference_between_outcome_bias/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ELI5: What is the difference between Outcome Bias and...Hindsight bias makes people think that the event should have been predicted/pred...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/232494530_The_knew-it-all-along_effect" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/232494530_The_knew-it-all-along_effect</a>  
+   Link:<a href="https://www.researchgate.net/publication/232494530_The_knew-it-all-along_effect" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/232494530_The_knew-it-all-along_effect</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: fs.blog  
-   Link: <a href="https://fs.blog/is-everything-obvious-once-you-know-the-answer/" target="_blank" rel="noopener noreferrer nofollow">https://fs.blog/is-everything-obvious-once-you-know-the-answer/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>In this way, Watts says, we deceive ourselves into believing that we can make predictions that are impossible. By providing...Read...</p></details>
+   Link:<a href="https://fs.blog/is-everything-obvious-once-you-know-the-answer/" target="_blank" rel="noopener noreferrer nofollow">https://fs.blog/is-everything-obvious-once-you-know-the-answer/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>In this way, Watts says, we deceive ourselves into believing that we can make predictions that are impossible. By providing...Read...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: researchportal.port.ac.uk  
    Title: controllability and hindsight components understanding opposite h  
-   Link: <a href="https://researchportal.port.ac.uk/en/publications/controllability-and-hindsight-components-understanding-opposite-h" target="_blank" rel="noopener noreferrer nofollow">https://researchportal.port.ac.uk/en/publications/controllability-and-hindsight-components-understanding-opposite-h</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>opposite hindsight biases for self-relevant...by H Blank  2010  Cited by 34  The first points to an influence of perceived control ov...</p></details>
+   Link:<a href="https://researchportal.port.ac.uk/en/publications/controllability-and-hindsight-components-understanding-opposite-h" target="_blank" rel="noopener noreferrer nofollow">https://researchportal.port.ac.uk/en/publications/controllability-and-hindsight-components-understanding-opposite-h</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>opposite hindsight biases for self-relevant...by H Blank  2010  Cited by 34  The first points to an influence of perceived control ov...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3084020/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3084020/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Bias from 3 to 95 Years of Age - PMCby DM Bernstein  2011  Cited by 183  Upon learning the outcome to a problem, people tend to believ...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3084020/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3084020/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Bias from 3 to 95 Years of Age - PMCby DM Bernstein  2011  Cited by 183  Upon learning the outcome to a problem, people tend to believ...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/1030279464977625/posts/1459905702014997/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/1030279464977625/posts/1459905702014997/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>e can easily predict or explain social phenomena with simple...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/groups/1030279464977625/posts/1459905702014997/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/1030279464977625/posts/1459905702014997/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>e can easily predict or explain social phenomena with simple...Read more...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: profrjstarr.com  
    Title: hindsight bias why we always knew it all along  
-   Link: <a href="https://profrjstarr.com/cognitive-biases/hindsight-bias-why-we-always-knew-it-all-along" target="_blank" rel="noopener noreferrer nofollow">https://profrjstarr.com/cognitive-biases/hindsight-bias-why-we-always-knew-it-all-along</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Hindsight Bias: Why We Always Knew It All AlongJan 27, 2025  After something happens, it always seems obviousbecause your mind rewrote...</p></details>
+   Link:<a href="https://profrjstarr.com/cognitive-biases/hindsight-bias-why-we-always-knew-it-all-along" target="_blank" rel="noopener noreferrer nofollow">https://profrjstarr.com/cognitive-biases/hindsight-bias-why-we-always-knew-it-all-along</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Hindsight Bias: Why We Always Knew It All AlongJan 27, 2025  After something happens, it always seems obviousbecause your mind rewrote...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: penntoday.upenn.edu  
    Title: penn duncan watts commonalities common sense  
-   Link: <a href="https://penntoday.upenn.edu/news/penn-duncan-watts-commonalities-common-sense" target="_blank" rel="noopener noreferrer nofollow">https://penntoday.upenn.edu/news/penn-duncan-watts-commonalities-common-sense</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>commonalities of common sense | Penn Today23 Jan 2024  Researchers from Penn develop a framework for quantifying common sense, findings...</p></details>
+   Link:<a href="https://penntoday.upenn.edu/news/penn-duncan-watts-commonalities-common-sense" target="_blank" rel="noopener noreferrer nofollow">https://penntoday.upenn.edu/news/penn-duncan-watts-commonalities-common-sense</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>commonalities of common sense | Penn Today23 Jan 2024  Researchers from Penn develop a framework for quantifying common sense, findings...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: duncanjwatts.com  
    Title: Explaining Explanation  Syllabus | DJW  
-   Link: <a href="https://duncanjwatts.com/teaching/explaining-explanation-syllabus/" target="_blank" rel="noopener noreferrer nofollow">https://duncanjwatts.com/teaching/explaining-explanation-syllabus/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Duncan WattsIn the social sciences we often use the word explanation as if (a) we know what we mean by it, and (b) we mean the same thi...</p></details>
+   Link:<a href="https://duncanjwatts.com/teaching/explaining-explanation-syllabus/" target="_blank" rel="noopener noreferrer nofollow">https://duncanjwatts.com/teaching/explaining-explanation-syllabus/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Duncan WattsIn the social sciences we often use the word explanation as if (a) we know what we mean by it, and (b) we mean the same thi...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: youtube.com  
    Title: Prediction and Explanation in Social Science  Duncan Watts"  
-   Link: <a href="https://www.youtube.com/watch?v=0O6COXI0cx8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=0O6COXI0cx8</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Abstract: Historically, social scientists have sought out explanations... Prediction and Explanation in Social Science  Duncan Watts...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=0O6COXI0cx8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=0O6COXI0cx8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Abstract: Historically, social scientists have sought out explanations... Prediction and Explanation in Social Science  Duncan Watts...</p></details>

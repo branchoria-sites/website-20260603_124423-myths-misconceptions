@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /myths-and-misconcept-0d48d7-slogans-vs/
 description: Focused pages that expand on Slogans.
-date: '2026-06-11'
+date: '2026'
 layout: default
 parent_basename: Myths_and_misconcept_0d48d7_slogans_vs_explanati_60c7b9
 parent_title: Slogans
@@ -16,7 +16,7 @@ parent_permalink: /slogans/
 
 # Explore Topics in Slogans
 
-The following pages expand on the main **[Slogans]({{ '/slogans/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[Slogans]({{ '/slogans/' | relative_url }})** page and cover its key branches in.
 
 - [Emotion]({{ '/emotion/' | relative_url }})
 - [Health Slogans]({{ '/health-slogans/' | relative_url }})

@@ -504,13 +504,13 @@ image: /assets/images/Myths_and_misconcept_0d48d7_sciencey_language_94b7a1-overv
 Science-sounding language can make a weak claim feel stronger than it is. A myth gains borrowed authority when it uses technical words, named mechanisms, laboratory imagery, references to “studies”, or phrases such as “[clinically proven]({{ 'clinically-proven/' | relative_url }})” without showing the quality of the evidence behind them. The danger is not jargon itself: specialists need precise terms. The problem is jargon used as a costume, where impressive wording substitutes for testable claims, clear methods, measured outcomes and fair comparison with better evidence.
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_sciencey_language_94b7a1-overview.webp" | relative_url }}" alt="Overview image for Sciencey Words" loading="eager" decoding="sync" fetchpriority="high">
-This matters because many myths and misconceptions do not announce themselves as anti-science. They often imitate science. A wellness advert may mention “cellular detoxification”, a productivity guru may cite “dopamine pathways”, or a conspiracy claim may attach a scientific reference that does not support the conclusion. Research on misinformation suggests that these cues can exploit people’s respect for science unless readers pause to ask what evidence is actually being offered. In experiments, false claims with scientific references were more believable and shareable among people who trusted science, while reminders to critically evaluate the evidence reduced belief in those claims. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S0022103121000871" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+This matters because many myths and misconceptions do not announce themselves as anti-science. They often imitate science. A wellness advert may mention “cellular detoxification”, a productivity guru may cite “dopamine pathways”, or a conspiracy claim may attach a scientific reference that does not support the conclusion. Research on misinformation suggests that these cues can exploit people’s respect for science unless readers pause to ask what evidence is actually being offered. In experiments, false claims with scientific references were more believable and shareable among people who trusted science, while reminders to critically evaluate the evidence reduced belief in those claims.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S0022103121000871" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 ## Borrowed authority
 
 Science has earned public authority because its stronger claims are expected to be testable, revisable and exposed to criticism. Science-sounding myths borrow that authority while avoiding the discipline that gives it value. They may use technical language, graphs, lab coats, complex acronyms or impressive institutional references, but the core claim remains weak: vague, overextended, cherry-picked, untested or unsupported by the cited source.
 
-A useful phrase for this pattern is “borrowed authority”. The claim does not stand on the strength of its own evidence; it leans on the prestige of science as a social signal. That is why the presence of a citation is not enough. A reference can be irrelevant, low-quality, preliminary, misquoted or about a different question. The O’Brien, Palmer and Albarracín experiments are especially relevant here because they did not simply show that people trust science. They showed a more specific risk: scientific references can make false claims look credible, and critical evaluation performs better than a generic “trust science” cue. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.asc.upenn.edu/news-events/news/misplaced-trust-when-trust-science-fosters-pseudoscience" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: asc.upenn.edu">[Annenberg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">asc.upenn.edu</span><span class="citation-popover-title">misplaced trust when trust science fosters pseudoscience</span><span class="citation-popover-snippet">misplaced trust when trust science fosters pseudoscience</span></span></span>
+A useful phrase for this pattern is “borrowed authority”. The claim does not stand on the strength of its own evidence; it leans on the prestige of science as a social signal. That is why the presence of a citation is not enough. A reference can be irrelevant, low-quality, preliminary, misquoted or about a different question. The O’Brien, Palmer and Albarracín experiments are especially relevant here because they did not simply show that people trust science. They showed a more specific risk: scientific references can make false claims look credible, and critical evaluation performs better than a generic “trust science” cue.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.asc.upenn.edu/news-events/news/misplaced-trust-when-trust-science-fosters-pseudoscience" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: asc.upenn.edu">[Annenberg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">asc.upenn.edu</span><span class="citation-popover-title">misplaced trust when trust science fosters pseudoscience</span><span class="citation-popover-snippet">misplaced trust when trust science fosters pseudoscience</span></span></span>
 
 This is not an argument against trusting scientific institutions, peer review or expertise. It is an argument against treating the surface features of science as if they were the same as evidence. Real scientific authority is earned through methods: well-designed studies, transparent data, plausible mechanisms, appropriate statistics, expert scrutiny, replication and limits on what the findings can support. Weak claims often display the symbols of this process while skipping the process itself.
 
@@ -521,9 +521,9 @@ One reason this works is that scientific topics often place readers in an unequa
 
 Jargon becomes suspicious when it makes a claim less clear while making it feel more authoritative. In legitimate science, technical terms compress precise shared meanings. In weak claims, technical terms often do the opposite: they blur the claim, hide missing evidence, or create an impression that a simple question has already been answered.
 
-Studies of science communication show that jargon can obstruct understanding. In an experiment with 650 participants, exposure to jargon in information about emerging technologies impaired people’s ability to process the information; that difficulty was linked to greater resistance to persuasion, higher risk perceptions and lower support for technology adoption. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/31354058/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> That finding cuts two ways. Jargon can alienate readers from good science, but it can also create a fog in which weak science-sounding claims become harder to interrogate.
+Studies of science communication show that jargon can obstruct understanding. In an experiment with 650 participants, exposure to jargon in information about emerging technologies impaired people’s ability to process the information; that difficulty was linked to greater resistance to persuasion, higher risk perceptions and lower support for technology adoption.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/31354058/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> That finding cuts two ways. Jargon can alienate readers from good science, but it can also create a fog in which weak science-sounding claims become harder to interrogate.
 
-A related body of work shows how irrelevant technical detail can make an explanation feel more satisfying. The well-known “seductive allure of neuroscience” research found that non-expert groups judged explanations as more satisfying when they included logically irrelevant neuroscience information. Later work described this as an effect where extra scientific detail can act as a marker of explanation quality even when it does not actually improve the reasoning. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC2778755/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCThe Seductive Allure of Neuroscience Explanations</span><span class="citation-popover-snippet">PMCThe Seductive Allure of Neuroscience Explanations</span></span></span>
+A related body of work shows how irrelevant technical detail can make an explanation feel more satisfying. The well-known “seductive allure of neuroscience” research found that non-expert groups judged explanations as more satisfying when they included logically irrelevant neuroscience information. Later work described this as an effect where extra scientific detail can act as a marker of explanation quality even when it does not actually improve the reasoning.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC2778755/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCThe Seductive Allure of Neuroscience Explanations</span><span class="citation-popover-snippet">PMCThe Seductive Allure of Neuroscience Explanations</span></span></span>
 
 The same mechanism appears in everyday myths. A claim that “stress is bad for health” is broad but plausible. A claim that a bracelet “restores cellular frequency through quantum resonance to neutralise stress pathways” sounds more sophisticated, but the extra words have not provided a testable effect, a measured outcome, a comparison group or a reason to believe the bracelet works. The language has moved from explanation to decoration.
 
@@ -541,20 +541,20 @@ Three features are especially common:
 
 Weak science-sounding claims often protect themselves from failure. They may say the product works only if the user is “ready”, that negative findings prove the method is too advanced for conventional testing, or that critics lack the right framework to understand it. This matters because testability is not a decorative feature of science; it is central to whether a claim can be checked.
 
-A tutorial on science and pseudoscience in communication disorders describes pseudoscience as claims that appear to be based on the scientific method but are not, and lists untestability as a key warning sign: if no direct observation could test or disprove the claimed benefit, credibility rests on the developer’s assertions rather than on scientific acceptance. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.speech-language-therapy.com/pdf/finn-bothe-bramlett-2005.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: speech-language-therapy.com">[Speech Language Therapy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">speech-language-therapy.com</span><span class="citation-popover-snippet">Speech Language Therapy</span></span></span>
+A tutorial on science and pseudoscience in communication disorders describes pseudoscience as claims that appear to be based on the scientific method but are not, and lists untestability as a key warning sign: if no direct observation could test or disprove the claimed benefit, credibility rests on the developer’s assertions rather than on scientific acceptance.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.speech-language-therapy.com/pdf/finn-bothe-bramlett-2005.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: speech-language-therapy.com">[Speech Language Therapy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">speech-language-therapy.com</span><span class="citation-popover-snippet">Speech Language Therapy</span></span></span>
 
 This is where many myths become resilient. A weak claim may be phrased in a way that has no clear failure condition. For example, “this method helps your body remember its natural healing intelligence” can absorb almost any outcome. If the person improves, the method gets credit. If the person does not improve, the explanation can shift to dosage, mindset, hidden toxins, emotional blockage or individual variation. The claim keeps moving just beyond the reach of evidence.
 
-Real scientific claims also have uncertainty, exceptions and boundary conditions. The difference is that good evidence narrows the claim rather than expanding it without limit. It asks: for whom, compared with what, measured how, over what period, and with what harms or trade-offs? Pseudoscientific language often removes those boundaries. McGill University’s Office for Science and Society describes this as a hallmark of pseudoscience: where real science sees complexity and uncertainty, pseudoscience often offers unnatural simplicity and overconfident certainty. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.mcgill.ca/oss/article/critical-thinking-pseudoscience/hallmarks-pseudoscience" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mcgill.ca">[McGill University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mcgill.ca</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Real scientific claims also have uncertainty, exceptions and boundary conditions. The difference is that good evidence narrows the claim rather than expanding it without limit. It asks: for whom, compared with what, measured how, over what period, and with what harms or trade-offs? Pseudoscientific language often removes those boundaries. McGill University’s Office for Science and Society describes this as a hallmark of pseudoscience: where real science sees complexity and uncertainty, pseudoscience often offers unnatural simplicity and overconfident certainty.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.mcgill.ca/oss/article/critical-thinking-pseudoscience/hallmarks-pseudoscience" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mcgill.ca">[McGill University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mcgill.ca</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_sciencey_language_94b7a1-Illustration-2-dark.svg" | relative_url }}" alt="Sciencey Words illustration 2" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_sciencey_language_94b7a1-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_sciencey_language_94b7a1-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The advert test: what evidence would have to exist?
 
-Health and wellness claims provide a clear example because they often use scientific language in commercial settings. Regulators do not treat impressive wording as proof. The US Federal Trade Commission’s health-products guidance says advertising must be truthful, not misleading, and adequately substantiated before it is disseminated; for health benefits and safety claims, that usually means “competent and reliable scientific evidence”, often including randomised controlled human clinical testing depending on the claim. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ftc.gov/business-guidance/resources/health-products-compliance-guidance" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ftc.gov">[Federal Trade Commission]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ftc.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Health and wellness claims provide a clear example because they often use scientific language in commercial settings. Regulators do not treat impressive wording as proof. The US Federal Trade Commission’s health-products guidance says advertising must be truthful, not misleading, and adequately substantiated before it is disseminated; for health benefits and safety claims, that usually means “competent and reliable scientific evidence”, often including randomised controlled human clinical testing depending on the claim.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ftc.gov/business-guidance/resources/health-products-compliance-guidance" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ftc.gov">[Federal Trade Commission]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ftc.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 This standard exposes the gap between science-sounding language and evidence. A supplement advert might say an ingredient “activates mitochondrial pathways associated with vitality”. Even if that phrase refers to a real biological pathway, it does not establish that taking the product improves fatigue, mood, lifespan, disease risk or any other meaningful outcome in humans. The relevant question is not “Can the seller name a mechanism?” but “Has the claimed outcome been tested well enough to support what consumers are likely to believe?”
 
-The FDA’s consumer warnings about fraudulent products make the same point from the safety side. It warns against products marketed as alternatives to approved drugs or claiming drug-like effects, and flags unproven claims sold through dubious channels, rapid-effect promises and products that may pose serious health risks. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.fda.gov/drugs/medication-health-fraud/fraudulent-products" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fda.gov">[U.S. Food and Drug Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fda.gov</span><span class="citation-popover-title">U.S. Food and Drug Administration Fraudulent Products &#124; FDA</span><span class="citation-popover-snippet">U.S. Food and Drug Administration Fraudulent Products &#124; FDA</span></span></span> Science-sounding language can therefore cause two kinds of harm: it can waste money, and it can steer people towards unsafe or ineffective choices.
+The FDA’s consumer warnings about fraudulent products make the same point from the safety side. It warns against products marketed as alternatives to approved drugs or claiming drug-like effects, and flags unproven claims sold through dubious channels, rapid-effect promises and products that may pose serious health risks.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.fda.gov/drugs/medication-health-fraud/fraudulent-products" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fda.gov">[U.S. Food and Drug Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fda.gov</span><span class="citation-popover-title">U.S. Food and Drug Administration Fraudulent Products &#124; FDA</span><span class="citation-popover-snippet">U.S. Food and Drug Administration Fraudulent Products &#124; FDA</span></span></span> Science-sounding language can therefore cause two kinds of harm: it can waste money, and it can steer people towards unsafe or ineffective choices.
 
 For a reader, the practical advert test is simple: translate the claim into a plain sentence. “Clinically formulated to support immune resilience” becomes “This product reduces my chance of getting ill, or reduces severity or duration when I do.” Once translated, the evidence burden becomes clearer. If the seller cannot define the outcome, identify the study population, show relevant human evidence and explain the size of the effect, the scientific language has done more persuasive work than evidential work.
 
@@ -592,194 +592,194 @@ The clearest warning sign is a mismatch between verbal sophistication and eviden
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/XrClYP6zEmU" title="How to Recognize Pseudoscience" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=XrClYP6zEmU" target="_blank" rel="noopener noreferrer">How to Recognize Pseudoscience</a></p><p class="youtube-embed-meta">Channel: Thinking Is Power with Melanie Trecek-King &middot; Views: 1.8K &middot; Uploaded: August 2024 &middot; Length: 13 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=XrClYP6zEmU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=XrClYP6zEmU">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Sciencey Language Makes Myths Persuasive. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Sciencey Language Makes Myths Persuasive. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Bad+Science+by+Ben+Goldacre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Bad Science on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=wICuv0ePMYoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Bad Science" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Bad+Science+by+Ben+Goldacre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Bad Science">Bad Science</a>
-        </h4>
-        <p class="fr-book-author">By Ben Goldacre</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Bad+Science+by+Ben+Goldacre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Bad Science on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=wICuv0ePMYoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Bad Science" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Bad+Science+by+Ben+Goldacre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Bad Science">Bad Science</a>
+</h4>
+<p class="fr-book-author">By Ben Goldacre</p>
         
-        <p class="fr-book-desc">Shows how scientific language and claims are misused.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Bad+Science+by+Ben+Goldacre&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows how scientific language and claims are misused.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Bad+Science+by+Ben+Goldacre&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Calling Bullshit on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Plu9DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Calling Bullshit" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Calling Bullshit">Calling Bullshit</a>
-        </h4>
-        <p class="fr-book-author">By Carl T. Bergstrom, Jevin D. West</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Calling Bullshit on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Plu9DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Calling Bullshit" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Calling Bullshit">Calling Bullshit</a>
+</h4>
+<p class="fr-book-author">By Carl T. Bergstrom, Jevin D. West</p>
         
-        <p class="fr-book-desc">Teaches readers to spot misleading scientific framing.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Teaches readers to spot misleading scientific framing.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Promotes scientific skepticism and evidence-based thinking.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Promotes scientific skepticism and evidence-based thinking.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Skeptics&#x27; Guide to the Universe on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CuVKDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Skeptics&#x27; Guide to the Universe" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Skeptics&#x27; Guide to the Universe">The Skeptics&#x27; Guide to the Universe</a>
-        </h4>
-        <p class="fr-book-author">By Dr. Steven Novella</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Skeptics&#x27; Guide to the Universe on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CuVKDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Skeptics&#x27; Guide to the Universe" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Skeptics&#x27; Guide to the Universe">The Skeptics&#x27; Guide to the Universe</a>
+</h4>
+<p class="fr-book-author">By Dr. Steven Novella</p>
         
-        <p class="fr-book-desc">Explains pseudoscience and misuse of scientific authority.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains pseudoscience and misuse of scientific authority.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Bad+Science&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Bad Science</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Calling+Bullshit&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Calling Bullshit</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Bad+Science&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Bad Science</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Calling+Bullshit&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Calling Bullshit</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=classroom+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sciencey-words-why-sciencey-language-makes-myths-persuasive-myths-and-misconcept-classroom-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classroom wall art" data-ebay-reference="sciencey-words-why-sciencey-language-makes-myths-persuasive-myths-and-misconcept-classroom-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Respect Circle Motivational Wall Art Poster for Home or Classroom"><img src="{{ '/assets/images/marketplace-covers/3a71f29aa38e8d4d7984.jpg' | relative_url }}" alt="Listing image for Respect Circle Motivational Wall Art Poster for Home or Classroom" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=classroom+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sciencey-words-why-sciencey-language-makes-myths-persuasive-myths-and-misconcept-classroom-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classroom wall art" data-ebay-reference="sciencey-words-why-sciencey-language-makes-myths-persuasive-myths-and-misconcept-classroom-wall-art" target="_blank" rel="sponsored noopener noreferrer">Respect Circle Motivational Wall Art Poster for Home or Classroom</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=classroom+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sciencey-words-why-sciencey-language-makes-myths-persuasive-myths-and-misconcept-classroom-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classroom wall art" data-ebay-reference="sciencey-words-why-sciencey-language-makes-myths-persuasive-myths-and-misconcept-classroom-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for classroom wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: classroom wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=classroom+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sciencey-words-why-sciencey-language-makes-myths-persuasive-myths-and-misconcept-classroom-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classroom wall art" data-ebay-reference="sciencey-words-why-sciencey-language-makes-myths-persuasive-myths-and-misconcept-classroom-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=classroom+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sciencey-words-why-sciencey-language-makes-myths-persuasive-myths-and-misconcept-classroom-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classroom wall art" data-ebay-reference="sciencey-words-why-sciencey-language-makes-myths-persuasive-myths-and-misconcept-classroom-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Respect Circle Motivational Wall Art Poster for Home or Classroom"><img src="{{ '/assets/images/marketplace-covers/3a71f29aa38e8d4d7984.jpg' | relative_url }}" alt="Listing image for Respect Circle Motivational Wall Art Poster for Home or Classroom" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=classroom+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sciencey-words-why-sciencey-language-makes-myths-persuasive-myths-and-misconcept-classroom-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classroom wall art" data-ebay-reference="sciencey-words-why-sciencey-language-makes-myths-persuasive-myths-and-misconcept-classroom-wall-art" target="_blank" rel="sponsored noopener noreferrer">Respect Circle Motivational Wall Art Poster for Home or Classroom</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=classroom+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sciencey-words-why-sciencey-language-makes-myths-persuasive-myths-and-misconcept-classroom-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classroom wall art" data-ebay-reference="sciencey-words-why-sciencey-language-makes-myths-persuasive-myths-and-misconcept-classroom-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for classroom wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: classroom wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=classroom+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sciencey-words-why-sciencey-language-makes-myths-persuasive-myths-and-misconcept-classroom-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classroom wall art" data-ebay-reference="sciencey-words-why-sciencey-language-makes-myths-persuasive-myths-and-misconcept-classroom-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=classroom+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sciencey-words-why-sciencey-language-makes-myths-persuasive-myths-and-misconcept-classroom-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classroom wall art" data-ebay-reference="sciencey-words-why-sciencey-language-makes-myths-persuasive-myths-and-misconcept-classroom-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Animals Of The World Educational Poster Kids Classroom Learning Chart Wall Art"><img src="{{ '/assets/images/marketplace-covers/6e682dd582a21573957f.jpg' | relative_url }}" alt="Listing image for Animals Of The World Educational Poster Kids Classroom Learning Chart Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=classroom+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sciencey-words-why-sciencey-language-makes-myths-persuasive-myths-and-misconcept-classroom-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classroom wall art" data-ebay-reference="sciencey-words-why-sciencey-language-makes-myths-persuasive-myths-and-misconcept-classroom-wall-art" target="_blank" rel="sponsored noopener noreferrer">Animals Of The World Educational Poster Kids Classroom Learning Chart Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=classroom+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sciencey-words-why-sciencey-language-makes-myths-persuasive-myths-and-misconcept-classroom-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classroom wall art" data-ebay-reference="sciencey-words-why-sciencey-language-makes-myths-persuasive-myths-and-misconcept-classroom-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for classroom wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: classroom wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=classroom+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sciencey-words-why-sciencey-language-makes-myths-persuasive-myths-and-misconcept-classroom-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classroom wall art" data-ebay-reference="sciencey-words-why-sciencey-language-makes-myths-persuasive-myths-and-misconcept-classroom-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=classroom+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sciencey-words-why-sciencey-language-makes-myths-persuasive-myths-and-misconcept-classroom-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classroom wall art" data-ebay-reference="sciencey-words-why-sciencey-language-makes-myths-persuasive-myths-and-misconcept-classroom-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Animals Of The World Educational Poster Kids Classroom Learning Chart Wall Art"><img src="{{ '/assets/images/marketplace-covers/6e682dd582a21573957f.jpg' | relative_url }}" alt="Listing image for Animals Of The World Educational Poster Kids Classroom Learning Chart Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=classroom+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sciencey-words-why-sciencey-language-makes-myths-persuasive-myths-and-misconcept-classroom-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classroom wall art" data-ebay-reference="sciencey-words-why-sciencey-language-makes-myths-persuasive-myths-and-misconcept-classroom-wall-art" target="_blank" rel="sponsored noopener noreferrer">Animals Of The World Educational Poster Kids Classroom Learning Chart Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=classroom+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sciencey-words-why-sciencey-language-makes-myths-persuasive-myths-and-misconcept-classroom-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classroom wall art" data-ebay-reference="sciencey-words-why-sciencey-language-makes-myths-persuasive-myths-and-misconcept-classroom-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for classroom wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: classroom wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=classroom+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sciencey-words-why-sciencey-language-makes-myths-persuasive-myths-and-misconcept-classroom-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classroom wall art" data-ebay-reference="sciencey-words-why-sciencey-language-makes-myths-persuasive-myths-and-misconcept-classroom-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=classroom+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sciencey-words-why-sciencey-language-makes-myths-persuasive-myths-and-misconcept-classroom-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classroom wall art" data-ebay-reference="sciencey-words-why-sciencey-language-makes-myths-persuasive-myths-and-misconcept-classroom-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Dinosaur Educational Poster For Kids Classroom Wall Art Learning Chart T-Rex"><img src="{{ '/assets/images/marketplace-covers/13ed7e0dd3f20d3f15b1.jpg' | relative_url }}" alt="Listing image for Dinosaur Educational Poster For Kids Classroom Wall Art Learning Chart T-Rex" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=classroom+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sciencey-words-why-sciencey-language-makes-myths-persuasive-myths-and-misconcept-classroom-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classroom wall art" data-ebay-reference="sciencey-words-why-sciencey-language-makes-myths-persuasive-myths-and-misconcept-classroom-wall-art" target="_blank" rel="sponsored noopener noreferrer">Dinosaur Educational Poster For Kids Classroom Wall Art Learning Chart T-Rex</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=classroom+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sciencey-words-why-sciencey-language-makes-myths-persuasive-myths-and-misconcept-classroom-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classroom wall art" data-ebay-reference="sciencey-words-why-sciencey-language-makes-myths-persuasive-myths-and-misconcept-classroom-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for classroom wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: classroom wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=classroom+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sciencey-words-why-sciencey-language-makes-myths-persuasive-myths-and-misconcept-classroom-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classroom wall art" data-ebay-reference="sciencey-words-why-sciencey-language-makes-myths-persuasive-myths-and-misconcept-classroom-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=classroom+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sciencey-words-why-sciencey-language-makes-myths-persuasive-myths-and-misconcept-classroom-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classroom wall art" data-ebay-reference="sciencey-words-why-sciencey-language-makes-myths-persuasive-myths-and-misconcept-classroom-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Dinosaur Educational Poster For Kids Classroom Wall Art Learning Chart T-Rex"><img src="{{ '/assets/images/marketplace-covers/13ed7e0dd3f20d3f15b1.jpg' | relative_url }}" alt="Listing image for Dinosaur Educational Poster For Kids Classroom Wall Art Learning Chart T-Rex" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=classroom+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sciencey-words-why-sciencey-language-makes-myths-persuasive-myths-and-misconcept-classroom-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classroom wall art" data-ebay-reference="sciencey-words-why-sciencey-language-makes-myths-persuasive-myths-and-misconcept-classroom-wall-art" target="_blank" rel="sponsored noopener noreferrer">Dinosaur Educational Poster For Kids Classroom Wall Art Learning Chart T-Rex</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=classroom+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sciencey-words-why-sciencey-language-makes-myths-persuasive-myths-and-misconcept-classroom-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classroom wall art" data-ebay-reference="sciencey-words-why-sciencey-language-makes-myths-persuasive-myths-and-misconcept-classroom-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for classroom wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: classroom wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=classroom+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sciencey-words-why-sciencey-language-makes-myths-persuasive-myths-and-misconcept-classroom-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classroom wall art" data-ebay-reference="sciencey-words-why-sciencey-language-makes-myths-persuasive-myths-and-misconcept-classroom-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=classroom+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sciencey-words-why-sciencey-language-makes-myths-persuasive-myths-and-misconcept-classroom-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classroom wall art" data-ebay-reference="sciencey-words-why-sciencey-language-makes-myths-persuasive-myths-and-misconcept-classroom-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Inspirational quote wall art, &quot;No one can stop you&quot; classroom wall stickers"><img src="{{ '/assets/images/marketplace-covers/445fdeffd97b5d9825ac.jpg' | relative_url }}" alt="Listing image for Inspirational quote wall art, &quot;No one can stop you&quot; classroom wall stickers" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=classroom+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sciencey-words-why-sciencey-language-makes-myths-persuasive-myths-and-misconcept-classroom-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classroom wall art" data-ebay-reference="sciencey-words-why-sciencey-language-makes-myths-persuasive-myths-and-misconcept-classroom-wall-art" target="_blank" rel="sponsored noopener noreferrer">Inspirational quote wall art, &quot;No one can stop you&quot; classroom wall stickers</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=classroom+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sciencey-words-why-sciencey-language-makes-myths-persuasive-myths-and-misconcept-classroom-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classroom wall art" data-ebay-reference="sciencey-words-why-sciencey-language-makes-myths-persuasive-myths-and-misconcept-classroom-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for classroom wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: classroom wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=classroom+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sciencey-words-why-sciencey-language-makes-myths-persuasive-myths-and-misconcept-classroom-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classroom wall art" data-ebay-reference="sciencey-words-why-sciencey-language-makes-myths-persuasive-myths-and-misconcept-classroom-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=classroom+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sciencey-words-why-sciencey-language-makes-myths-persuasive-myths-and-misconcept-classroom-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classroom wall art" data-ebay-reference="sciencey-words-why-sciencey-language-makes-myths-persuasive-myths-and-misconcept-classroom-wall-art" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=classroom+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sciencey-words-why-sciencey-language-makes-myths-persuasive-myths-and-misconcept-classroom-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classroom wall art" data-ebay-reference="sciencey-words-why-sciencey-language-makes-myths-persuasive-myths-and-misconcept-classroom-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Inspirational quote wall art, &quot;No one can stop you&quot; classroom wall stickers"><img src="{{ '/assets/images/marketplace-covers/445fdeffd97b5d9825ac.jpg' | relative_url }}" alt="Listing image for Inspirational quote wall art, &quot;No one can stop you&quot; classroom wall stickers" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=classroom+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sciencey-words-why-sciencey-language-makes-myths-persuasive-myths-and-misconcept-classroom-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classroom wall art" data-ebay-reference="sciencey-words-why-sciencey-language-makes-myths-persuasive-myths-and-misconcept-classroom-wall-art" target="_blank" rel="sponsored noopener noreferrer">Inspirational quote wall art, &quot;No one can stop you&quot; classroom wall stickers</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=classroom+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sciencey-words-why-sciencey-language-makes-myths-persuasive-myths-and-misconcept-classroom-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classroom wall art" data-ebay-reference="sciencey-words-why-sciencey-language-makes-myths-persuasive-myths-and-misconcept-classroom-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for classroom wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: classroom wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=classroom+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sciencey-words-why-sciencey-language-makes-myths-persuasive-myths-and-misconcept-classroom-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classroom wall art" data-ebay-reference="sciencey-words-why-sciencey-language-makes-myths-persuasive-myths-and-misconcept-classroom-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=classroom+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sciencey-words-why-sciencey-language-makes-myths-persuasive-myths-and-misconcept-classroom-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classroom wall art" data-ebay-reference="sciencey-words-why-sciencey-language-makes-myths-persuasive-myths-and-misconcept-classroom-wall-art" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -795,7 +795,7 @@ The clearest warning sign is a mismatch between verbal sophistication and eviden
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -815,7 +815,7 @@ The clearest warning sign is a mismatch between verbal sophistication and eviden
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -847,7 +847,7 @@ The clearest warning sign is a mismatch between verbal sophistication and eviden
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -899,7 +899,7 @@ The clearest warning sign is a mismatch between verbal sophistication and eviden
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -944,7 +944,7 @@ The clearest warning sign is a mismatch between verbal sophistication and eviden
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -985,118 +985,118 @@ The clearest warning sign is a mismatch between verbal sophistication and eviden
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0022103121000871" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0022103121000871</a>  
+   Link:<a href="https://www.sciencedirect.com/science/article/abs/pii/S0022103121000871" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0022103121000871</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCThe Seductive Allure of Neuroscience Explanations  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC2778755/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC2778755/</a>  
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC2778755/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC2778755/</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: speech-language-therapy.com  
    Title: Speech Language Therapy  
-   Link: <a href="https://www.speech-language-therapy.com/pdf/finn-bothe-bramlett-2005.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.speech-language-therapy.com/pdf/finn-bothe-bramlett-2005.pdf</a>  
+   Link:<a href="https://www.speech-language-therapy.com/pdf/finn-bothe-bramlett-2005.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.speech-language-therapy.com/pdf/finn-bothe-bramlett-2005.pdf</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: mcgill.ca  
-   Link: <a href="https://www.mcgill.ca/oss/article/critical-thinking-pseudoscience/hallmarks-pseudoscience" target="_blank" rel="noopener noreferrer nofollow">https://www.mcgill.ca/oss/article/critical-thinking-pseudoscience/hallmarks-pseudoscience</a>  
+   Link:<a href="https://www.mcgill.ca/oss/article/critical-thinking-pseudoscience/hallmarks-pseudoscience" target="_blank" rel="noopener noreferrer nofollow">https://www.mcgill.ca/oss/article/critical-thinking-pseudoscience/hallmarks-pseudoscience</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: fda.gov  
    Title: U.S. Food and Drug Administration Fraudulent Products | FDA  
-   Link: <a href="https://www.fda.gov/drugs/medication-health-fraud/fraudulent-products" target="_blank" rel="noopener noreferrer nofollow">https://www.fda.gov/drugs/medication-health-fraud/fraudulent-products</a>  
+   Link:<a href="https://www.fda.gov/drugs/medication-health-fraud/fraudulent-products" target="_blank" rel="noopener noreferrer nofollow">https://www.fda.gov/drugs/medication-health-fraud/fraudulent-products</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/pii/S2352550922000938" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S2352550922000938</a>  
+   Link:<a href="https://www.sciencedirect.com/science/article/pii/S2352550922000938" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S2352550922000938</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0010027716301585" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0010027716301585</a>  
+   Link:<a href="https://www.sciencedirect.com/science/article/abs/pii/S0010027716301585" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0010027716301585</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0277953619305465" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0277953619305465</a>  
+   Link:<a href="https://www.sciencedirect.com/science/article/pii/S0277953619305465" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0277953619305465</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: fda.gov  
-   Link: <a href="https://www.fda.gov/consumers/health-fraud-scams/health-fraud-product-database" target="_blank" rel="noopener noreferrer nofollow">https://www.fda.gov/consumers/health-fraud-scams/health-fraud-product-database</a>  
+   Link:<a href="https://www.fda.gov/consumers/health-fraud-scams/health-fraud-product-database" target="_blank" rel="noopener noreferrer nofollow">https://www.fda.gov/consumers/health-fraud-scams/health-fraud-product-database</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: fda.gov  
-   Link: <a href="https://www.fda.gov/consumers/health-fraud-scams" target="_blank" rel="noopener noreferrer nofollow">https://www.fda.gov/consumers/health-fraud-scams</a>  
+   Link:<a href="https://www.fda.gov/consumers/health-fraud-scams" target="_blank" rel="noopener noreferrer nofollow">https://www.fda.gov/consumers/health-fraud-scams</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: who.int  
-   Link: <a href="https://www.who.int/europe/news/item/01-09-2022-infodemics-and-misinformation-negatively-affect-people-s-health-behaviours--new-who-review-finds" target="_blank" rel="noopener noreferrer nofollow">https://www.who.int/europe/news/item/01-09-2022-infodemics-and-misinformation-negatively-affect-people-s-health-behaviours--new-who-review-finds</a>  
+   Link:<a href="https://www.who.int/europe/news/item/01-09-2022-infodemics-and-misinformation-negatively-affect-people-s-health-behaviours--new-who-review-finds" target="_blank" rel="noopener noreferrer nofollow">https://www.who.int/europe/news/item/01-09-2022-infodemics-and-misinformation-negatively-affect-people-s-health-behaviours--new-who-review-finds</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: asc.upenn.edu  
    Title: misplaced trust when trust science fosters pseudoscience  
-   Link: <a href="https://www.asc.upenn.edu/news-events/news/misplaced-trust-when-trust-science-fosters-pseudoscience" target="_blank" rel="noopener noreferrer nofollow">https://www.asc.upenn.edu/news-events/news/misplaced-trust-when-trust-science-fosters-pseudoscience</a>  
+   Link:<a href="https://www.asc.upenn.edu/news-events/news/misplaced-trust-when-trust-science-fosters-pseudoscience" target="_blank" rel="noopener noreferrer nofollow">https://www.asc.upenn.edu/news-events/news/misplaced-trust-when-trust-science-fosters-pseudoscience</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/31354058/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/31354058/</a>  
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/31354058/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/31354058/</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: ftc.gov  
-   Link: <a href="https://www.ftc.gov/business-guidance/resources/health-products-compliance-guidance" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/business-guidance/resources/health-products-compliance-guidance</a>  
+   Link:<a href="https://www.ftc.gov/business-guidance/resources/health-products-compliance-guidance" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/business-guidance/resources/health-products-compliance-guidance</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/39260088/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/39260088/</a>  
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/39260088/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/39260088/</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/41867879/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/41867879/</a>  
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/41867879/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/41867879/</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Pseudoscience" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Pseudoscience</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Pseudoscience" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Pseudoscience</a>  
 
 ### Additional References
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: youtube.com  
    Title: Science vs Pseudoscience: Critical Thinking  
-   Link: <a href="https://www.youtube.com/watch?v=Yp6S3Z453rA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Yp6S3Z453rA</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>These videos explain how jargon and scientific-sounding language are used to provide &quot;borrowed authority&quot; to weak or pseudoscientific claims...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Yp6S3Z453rA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Yp6S3Z453rA</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>These videos explain how jargon and scientific-sounding language are used to provide &quot;borrowed authority&quot; to weak or pseudoscientific claims...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/psychology/comments/os471a/misplaced_trust_when_trust_in_science_fosters/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/psychology/comments/os471a/misplaced_trust_when_trust_in_science_fosters/</a>  
+   Link:<a href="https://www.reddit.com/r/psychology/comments/os471a/misplaced_trust_when_trust_in_science_fosters/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/psychology/comments/os471a/misplaced_trust_when_trust_in_science_fosters/</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/283269131_Deconstructing_the_Seductive_Allure_of_Neuroscience_Explanations" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/283269131_Deconstructing_the_Seductive_Allure_of_Neuroscience_Explanations</a>  
+   Link:<a href="https://www.researchgate.net/publication/283269131_Deconstructing_the_Seductive_Allure_of_Neuroscience_Explanations" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/283269131_Deconstructing_the_Seductive_Allure_of_Neuroscience_Explanations</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/24357198_Making_Sense_of_scientific_claims_in_advertising_A_study_of_scientifically_aware_consumers" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/24357198_Making_Sense_of_scientific_claims_in_advertising_A_study_of_scientifically_aware_consumers</a>  
+   Link:<a href="https://www.researchgate.net/publication/24357198_Making_Sense_of_scientific_claims_in_advertising_A_study_of_scientifically_aware_consumers" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/24357198_Making_Sense_of_scientific_claims_in_advertising_A_study_of_scientifically_aware_consumers</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/393895923_Scientific_jargon_can_be_%27satisfying%27_-_but_misleading" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/393895923_Scientific_jargon_can_be_%27satisfying%27_-_but_misleading</a>  
+   Link:<a href="https://www.researchgate.net/publication/393895923_Scientific_jargon_can_be_%27satisfying%27_-_but_misleading" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/393895923_Scientific_jargon_can_be_%27satisfying%27_-_but_misleading</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/397534513_The_Power_of_Technical_Language_Does_Jargon_Use_Influence_the_Credibility_of_Misinformation" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/397534513_The_Power_of_Technical_Language_Does_Jargon_Use_Influence_the_Credibility_of_Misinformation</a>  
+   Link:<a href="https://www.researchgate.net/publication/397534513_The_Power_of_Technical_Language_Does_Jargon_Use_Influence_the_Credibility_of_Misinformation" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/397534513_The_Power_of_Technical_Language_Does_Jargon_Use_Influence_the_Credibility_of_Misinformation</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: cohenhealthcarelaw.com  
-   Link: <a href="https://cohenhealthcarelaw.com/fda-ftc-law/advertising-and-marketing-claims/" target="_blank" rel="noopener noreferrer nofollow">https://cohenhealthcarelaw.com/fda-ftc-law/advertising-and-marketing-claims/</a>  
+   Link:<a href="https://cohenhealthcarelaw.com/fda-ftc-law/advertising-and-marketing-claims/" target="_blank" rel="noopener noreferrer nofollow">https://cohenhealthcarelaw.com/fda-ftc-law/advertising-and-marketing-claims/</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: trinomics.eu  
-   Link: <a href="https://trinomics.eu/wp-content/uploads/2018/10/CHAFEA2018-Behavioural-study-on-consumer-engagement-in-the-circular-economy.pdf" target="_blank" rel="noopener noreferrer nofollow">https://trinomics.eu/wp-content/uploads/2018/10/CHAFEA2018-Behavioural-study-on-consumer-engagement-in-the-circular-economy.pdf</a>  
+   Link:<a href="https://trinomics.eu/wp-content/uploads/2018/10/CHAFEA2018-Behavioural-study-on-consumer-engagement-in-the-circular-economy.pdf" target="_blank" rel="noopener noreferrer nofollow">https://trinomics.eu/wp-content/uploads/2018/10/CHAFEA2018-Behavioural-study-on-consumer-engagement-in-the-circular-economy.pdf</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: nationalacademies.org  
-   Link: <a href="https://www.nationalacademies.org/read/27894/chapter/8" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalacademies.org/read/27894/chapter/8</a>  
+   Link:<a href="https://www.nationalacademies.org/read/27894/chapter/8" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalacademies.org/read/27894/chapter/8</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/FDA/posts/dont-be-fooled-by-health-fraud-here-are-some-tell-tale-signs-that-a-product-clai/595233712633991/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/FDA/posts/dont-be-fooled-by-health-fraud-here-are-some-tell-tale-signs-that-a-product-clai/595233712633991/</a>
+   Link:<a href="https://www.facebook.com/FDA/posts/dont-be-fooled-by-health-fraud-here-are-some-tell-tale-signs-that-a-product-clai/595233712633991/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/FDA/posts/dont-be-fooled-by-health-fraud-here-are-some-tell-tale-signs-that-a-product-clai/595233712633991/</a>

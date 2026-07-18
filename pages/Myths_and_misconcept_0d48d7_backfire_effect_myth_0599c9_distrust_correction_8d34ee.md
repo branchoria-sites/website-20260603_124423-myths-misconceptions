@@ -277,13 +277,13 @@ image: /assets/images/Myths_and_misconcept_0d48d7_backfire_effect_myth_0599c9_di
 People often imagine misinformation [correction]({{ 'correction/' | relative_url }}) as a simple contest between truth and falsehood. In practice, another question frequently comes first: *who is doing the correcting, and why should they be trusted?* Research on misinformation increasingly suggests that many apparent “[backfire]({{ 'backfire/' | relative_url }})” reactions are not cases where facts themselves make beliefs stronger. Instead, resistance often emerges when the correction is perceived as manipulative, hostile, partisan or self-interested.
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_backfire_effect_myth_0599c9_distrust_correction_8d34ee-Illustration-1-dark.svg" | relative_url }}" alt="Distrust Risk illustration 1" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_backfire_effect_myth_0599c9_distrust_correction_8d34ee-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_backfire_effect_myth_0599c9_distrust_correction_8d34ee-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-This distinction matters because it changes how correction failures are interpreted. A rejected correction does not necessarily show that people prefer falsehoods. It may show that they doubt the motives, competence or fairness of the messenger. In those situations, the correction becomes part of the [conflict]({{ 'conflict/' | relative_url }}) rather than a resolution of it. Studies of source credibility, political communication and misinformation correction consistently find that trust shapes whether corrective information is considered legitimate evidence or treated as another attempt at persuasion. Nature <span class="citation-chip-wrap"><a class="citation-chip" href="https://advances.in/psychology/10.56296/aip00028/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: advances.in">[Advances.in]</a><span class="citation-popover" role="note"><span class="citation-popover-source">advances.in</span><span class="citation-popover-snippet">Source credibility effects in misinformation research: A review...by V Mang · 2024 · Cited by 15 — Source credibility isn&#x27;t a simple fix...</span></span></span>
+This distinction matters because it changes how correction failures are interpreted. A rejected correction does not necessarily show that people prefer falsehoods. It may show that they doubt the motives, competence or fairness of the messenger. In those situations, the correction becomes part of the [conflict]({{ 'conflict/' | relative_url }}) rather than a resolution of it. Studies of source credibility, political communication and misinformation correction consistently find that trust shapes whether corrective information is considered legitimate evidence or treated as another attempt at persuasion. Nature<span class="citation-chip-wrap"><a class="citation-chip" href="https://advances.in/psychology/10.56296/aip00028/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: advances.in">[Advances.in]</a><span class="citation-popover" role="note"><span class="citation-popover-source">advances.in</span><span class="citation-popover-snippet">Source credibility effects in misinformation research: A review...by V Mang · 2024 · Cited by 15 — Source credibility isn&#x27;t a simple fix...</span></span></span>
 
 ## Why Scepticism Changes How Corrections Land
 
-The popular version of the backfire effect assumes that hearing a correction somehow strengthens attachment to a myth. Modern research paints a more complicated picture. Large reviews and replication studies have found that true backfire effects are rare, but they also show that [corrections]({{ 'corrections/' | relative_url }}) do not operate in a social vacuum. People evaluate not only the content of a correction but also the source delivering it. PMC PubMed Trust functions as a shortcut for judging information. Most people cannot personally verify every scientific claim <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/35130012/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[pubmed.ncbi.nlm.nih.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Furthermore, we aimed to...Read more...</span></span></span>, policy statistic or breaking-news report. Instead, they rely on cues about expertise, honesty and [intent]({{ 'intent/' | relative_url }}). When a correction comes from a source viewed as credible, it is more likely to be processed as useful information. When it comes from a source viewed as hostile or deceptive, the same correction may be interpreted as evidence of manipulation.
+The popular version of the backfire effect assumes that hearing a correction somehow strengthens attachment to a myth. Modern research paints a more complicated picture. Large reviews and replication studies have found that true backfire effects are rare, but they also show that [corrections]({{ 'corrections/' | relative_url }}) do not operate in a social vacuum. People evaluate not only the content of a correction but also the source delivering it. PMC PubMed Trust functions as a shortcut for judging information. Most people cannot personally verify every scientific claim<span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/35130012/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[pubmed.ncbi.nlm.nih.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Furthermore, we aimed to...Read more...</span></span></span>, policy statistic or breaking-news report. Instead, they rely on cues about expertise, honesty and [intent]({{ 'intent/' | relative_url }}). When a correction comes from a source viewed as credible, it is more likely to be processed as useful information. When it comes from a source viewed as hostile or deceptive, the same correction may be interpreted as evidence of manipulation.
 
-This is particularly important in highly polarised environments. A correction from a political opponent, a distrusted institution or a platform already seen as biased may trigger questions about motives before the factual content is even considered. Researchers studying misinformation describe these reactions as barriers to knowledge revision rather than evidence that corrections inherently strengthen myths. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s44159-021-00006-y" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">The psychological drivers of misinformation belief and its...by UKH Ecker · 2022 · Cited by 1916 — In this Review, we describe the...</span></span></span>
+This is particularly important in highly polarised environments. A correction from a political opponent, a distrusted institution or a platform already seen as biased may trigger questions about motives before the factual content is even considered. Researchers studying misinformation describe these reactions as barriers to knowledge revision rather than evidence that corrections inherently strengthen myths.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s44159-021-00006-y" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">The psychological drivers of misinformation belief and its...by UKH Ecker · 2022 · Cited by 1916 — In this Review, we describe the...</span></span></span>
 
 The result can look like a backfire effect from the outside. A person rejects the correction and retains the original belief. Yet the mechanism is different. The problem is not that the correction made the myth more convincing. The problem is that the correction itself failed a trust test.
 
@@ -303,7 +303,7 @@ Several signals tend to make corrective information look suspicious:
 
 </div>
 
-Research examining social-media corrections has found that audience reactions depend not only on factual accuracy but also on how corrections are delivered and interpreted socially. Users often evaluate whether the corrector seems fair, respectful and trustworthy before deciding whether the information deserves consideration. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.tandfonline.com/doi/full/10.1080/1461670X.2024.2340591" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tandfonline.com">[Taylor &amp; Francis Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tandfonline.com</span><span class="citation-popover-snippet">Taylor &amp; Francis OnlineWhy Do Social Media Users Accept, Doubt or Resist...by M Hameleers · 2024 · Cited by 10 — This paper relies on an...</span></span></span>
+Research examining social-media corrections has found that audience reactions depend not only on factual accuracy but also on how corrections are delivered and interpreted socially. Users often evaluate whether the corrector seems fair, respectful and trustworthy before deciding whether the information deserves consideration.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.tandfonline.com/doi/full/10.1080/1461670X.2024.2340591" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tandfonline.com">[Taylor &amp; Francis Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tandfonline.com</span><span class="citation-popover-snippet">Taylor &amp; Francis OnlineWhy Do Social Media Users Accept, Doubt or Resist...by M Hameleers · 2024 · Cited by 10 — This paper relies on an...</span></span></span>
 
 This helps explain why two corrections containing nearly identical facts can produce different outcomes. One may be viewed as a sincere attempt to inform, while the other is seen as an attempt to shame, control or score political points.
 
@@ -313,7 +313,7 @@ Distrust creates a particularly difficult problem when the correction itself is 
 
 Conspiracy narratives often contain built-in explanations for why authorities, journalists, scientists or fact-checkers would deny the claim. Under those conditions, a correction may not simply be ignored. It can be reinterpreted as confirmation that powerful actors are trying to suppress the truth.
 
-Psychologists sometimes describe this as a self-sealing structure. Contrary evidence does not automatically weaken the belief because the belief already contains a story about why contrary evidence will appear. The correction therefore becomes another data point supporting distrust rather than challenging it. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41598-024-71599-6" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Investigating the role of source and...by H Bruns · 2024 · Cited by 35 — The findings show that both interventions change four variables...</span></span></span>
+Psychologists sometimes describe this as a self-sealing structure. Contrary evidence does not automatically weaken the belief because the belief already contains a story about why contrary evidence will appear. The correction therefore becomes another data point supporting distrust rather than challenging it.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41598-024-71599-6" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Investigating the role of source and...by H Bruns · 2024 · Cited by 35 — The findings show that both interventions change four variables...</span></span></span>
 
 This mechanism differs from the classic image of factual backfire. The correction is not strengthening belief because [repetition]({{ 'repetition/' | relative_url }}) made the myth more familiar. Instead, the correction is being processed through a framework that assumes deception by the correcting source.
 
@@ -322,13 +322,13 @@ That distinction is important because it points toward different solutions. Repe
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_backfire_effect_myth_0599c9_distrust_correction_8d34ee-Illustration-2-dark.svg" | relative_url }}" alt="Distrust Risk illustration 2" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_backfire_effect_myth_0599c9_distrust_correction_8d34ee-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_backfire_effect_myth_0599c9_distrust_correction_8d34ee-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The Difference Between Expertise and Trustworthiness
 
-Research on source credibility repeatedly finds that credibility is not a single trait. People often distinguish between expertise and trustworthiness. A source can be seen as knowledgeable but dishonest, or honest but uninformed. <span class="citation-chip-wrap"><a class="citation-chip" href="https://advances.in/psychology/10.56296/aip00028/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: advances.in">[Advances.in]</a><span class="citation-popover" role="note"><span class="citation-popover-source">advances.in</span><span class="citation-popover-snippet">Source credibility effects in misinformation research: A review...by V Mang · 2024 · Cited by 15 — Source credibility isn&#x27;t a simple fix...</span></span></span>
+Research on source credibility repeatedly finds that credibility is not a single trait. People often distinguish between expertise and trustworthiness. A source can be seen as knowledgeable but dishonest, or honest but uninformed.<span class="citation-chip-wrap"><a class="citation-chip" href="https://advances.in/psychology/10.56296/aip00028/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: advances.in">[Advances.in]</a><span class="citation-popover" role="note"><span class="citation-popover-source">advances.in</span><span class="citation-popover-snippet">Source credibility effects in misinformation research: A review...by V Mang · 2024 · Cited by 15 — Source credibility isn&#x27;t a simple fix...</span></span></span>
 
 This distinction helps explain some puzzling correction failures.
 
 A government agency may possess extensive expertise yet still face scepticism from groups that believe it has political motives. A celebrity may lack specialised knowledge but still persuade followers because they are perceived as authentic and sincere. Neither factor alone guarantees acceptance.
 
-Reviews of source-credibility research show that trust effects are often inconsistent because audiences evaluate multiple dimensions simultaneously. Expertise matters, but perceptions of bias, fairness and intent also influence whether corrective information is accepted. <span class="citation-chip-wrap"><a class="citation-chip" href="https://advances.in/psychology/10.56296/aip00028/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: advances.in">[Advances.in]</a><span class="citation-popover" role="note"><span class="citation-popover-source">advances.in</span><span class="citation-popover-snippet">Source credibility effects in misinformation research: A review...by V Mang · 2024 · Cited by 15 — Source credibility isn&#x27;t a simple fix...</span></span></span>
+Reviews of source-credibility research show that trust effects are often inconsistent because audiences evaluate multiple dimensions simultaneously. Expertise matters, but perceptions of bias, fairness and intent also influence whether corrective information is accepted.<span class="citation-chip-wrap"><a class="citation-chip" href="https://advances.in/psychology/10.56296/aip00028/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: advances.in">[Advances.in]</a><span class="citation-popover" role="note"><span class="citation-popover-source">advances.in</span><span class="citation-popover-snippet">Source credibility effects in misinformation research: A review...by V Mang · 2024 · Cited by 15 — Source credibility isn&#x27;t a simple fix...</span></span></span>
 
 In other words, people do not merely ask, “Is this source qualified?” They also ask, “Whose side are they on?” and “What do they want from me?”
 
@@ -336,7 +336,7 @@ In other words, people do not merely ask, “Is this source qualified?” They a
 
 Evidence from misinformation research increasingly suggests that messenger choice can matter as much as message design.
 
-Trusted messengers work because they reduce the suspicion that the correction is an attack. A local community leader, respected doctor, religious figure or politically aligned source may be able to deliver information that would be rejected if it came from a distrusted institution. Studies examining correction and prebunking strategies have found that source trust can shape how audiences receive interventions, even when the factual content remains unchanged. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9283209/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Furthermore, we aimed to examine whether...Read more...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s44159-021-00006-y" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">The psychological drivers of misinformation belief and its...by UKH Ecker · 2022 · Cited by 1916 — In this Review, we describe the...</span></span></span>
+Trusted messengers work because they reduce the suspicion that the correction is an attack. A local community leader, respected doctor, religious figure or politically aligned source may be able to deliver information that would be rejected if it came from a distrusted institution. Studies examining correction and prebunking strategies have found that source trust can shape how audiences receive interventions, even when the factual content remains unchanged.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9283209/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Furthermore, we aimed to examine whether...Read more...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s44159-021-00006-y" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">The psychological drivers of misinformation belief and its...by UKH Ecker · 2022 · Cited by 1916 — In this Review, we describe the...</span></span></span>
 
 Several features make trusted messengers effective:
 
@@ -350,7 +350,7 @@ Several features make trusted messengers effective:
 
 </div>
 
-Importantly, this does not mean people only accept information from allies. Large correction studies still find that factual corrections often improve accuracy across ideological groups. But trust can determine how much attention people give a correction in the first place and whether they interpret it as information or persuasion. PMC <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/35130012/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Furthermore, we aimed to...Read more...</span></span></span>
+Importantly, this does not mean people only accept information from allies. Large correction studies still find that factual corrections often improve accuracy across ideological groups. But trust can determine how much attention people give a correction in the first place and whether they interpret it as information or persuasion. PMC<span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/35130012/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Furthermore, we aimed to...Read more...</span></span></span>
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_backfire_effect_myth_0599c9_distrust_correction_8d34ee-Illustration-3-dark.svg" | relative_url }}" alt="Distrust Risk illustration 3" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_backfire_effect_myth_0599c9_distrust_correction_8d34ee-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_backfire_effect_myth_0599c9_distrust_correction_8d34ee-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What This Means for the Backfire Debate
@@ -359,197 +359,197 @@ The modern evidence on misinformation correction suggests that fears about routi
 
 When audiences suspect manipulation, corrections can appear threatening, partisan or self-serving. Under those conditions, resistance is often directed at the messenger rather than the factual claim itself. The correction becomes another object of suspicion.
 
-This helps explain why debates about misinformation frequently become debates about institutions, media credibility and social trust. The central obstacle is often not an inability to understand evidence. It is uncertainty about whether the source presenting that evidence deserves belief. Nature <span class="citation-chip-wrap"><a class="citation-chip" href="https://advances.in/psychology/10.56296/aip00028/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: advances.in">[Advances.in]</a><span class="citation-popover" role="note"><span class="citation-popover-source">advances.in</span><span class="citation-popover-snippet">Source credibility effects in misinformation research: A review...by V Mang · 2024 · Cited by 15 — Source credibility isn&#x27;t a simple fix...</span></span></span>
+This helps explain why debates about misinformation frequently become debates about institutions, media credibility and social trust. The central obstacle is often not an inability to understand evidence. It is uncertainty about whether the source presenting that evidence deserves belief. Nature<span class="citation-chip-wrap"><a class="citation-chip" href="https://advances.in/psychology/10.56296/aip00028/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: advances.in">[Advances.in]</a><span class="citation-popover" role="note"><span class="citation-popover-source">advances.in</span><span class="citation-popover-snippet">Source credibility effects in misinformation research: A review...by V Mang · 2024 · Cited by 15 — Source credibility isn&#x27;t a simple fix...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When the Correction Becomes the Problem. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When the Correction Becomes the Problem. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Talk+to+a+Science+Denier+Lee+McIntyre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Talk to a Science Denier on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=txhgEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How to Talk to a Science Denier" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+to+Talk+to+a+Science+Denier+Lee+McIntyre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Talk to a Science Denier">How to Talk to a Science Denier</a>
-        </h4>
-        <p class="fr-book-author">By Lee McIntyre</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Talk+to+a+Science+Denier+Lee+McIntyre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Talk to a Science Denier on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=txhgEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How to Talk to a Science Denier" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=How+to+Talk+to+a+Science+Denier+Lee+McIntyre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Talk to a Science Denier">How to Talk to a Science Denier</a>
+</h4>
+<p class="fr-book-author">By Lee McIntyre</p>
         
-        <p class="fr-book-desc">Explains effective correction strategies.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+to+Talk+to+a+Science+Denier+Lee+McIntyre&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains effective correction strategies.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=How+to+Talk+to+a+Science+Denier+Lee+McIntyre&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Factfulness on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=rxg0tgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Factfulness" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Factfulness">Factfulness</a>
-        </h4>
-        <p class="fr-book-author">By Hans Rosling, Ola Rosling et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Factfulness on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=rxg0tgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Factfulness" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Factfulness">Factfulness</a>
+</h4>
+<p class="fr-book-author">By Hans Rosling, Ola Rosling et al.</p>
         
-        <p class="fr-book-desc">Shows how reliable evidence can overcome common misconceptions and biases.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows how reliable evidence can overcome common misconceptions and biases.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Post-truth+Lee+C.+McIntyre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Post-truth on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8750473-M.jpg" alt="Cover for Post-truth" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Post-truth+Lee+C.+McIntyre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Post-truth">Post-truth</a>
-        </h4>
-        <p class="fr-book-author">By Lee C. McIntyre</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Post-truth+Lee+C.+McIntyre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Post-truth on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8750473-M.jpg" alt="Cover for Post-truth" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Post-truth+Lee+C.+McIntyre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Post-truth">Post-truth</a>
+</h4>
+<p class="fr-book-author">By Lee C. McIntyre</p>
         
-        <p class="fr-book-desc">First published 2018. Subjects: Politics and government, In mass media, Public opinion, Mass media, Truth.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Post-truth+Lee+C.+McIntyre&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2018. Subjects: Politics and government, In mass media, Public opinion, Mass media, Truth.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Post-truth+Lee+C.+McIntyre&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Foolproof+Sander+Van+Der+Linden&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Foolproof on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/13300557-M.jpg" alt="Cover for Foolproof" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Foolproof+Sander+Van+Der+Linden&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Foolproof">Foolproof</a>
-        </h4>
-        <p class="fr-book-author">By Sander Van Der Linden</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Foolproof+Sander+Van+Der+Linden&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Foolproof on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/13300557-M.jpg" alt="Cover for Foolproof" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Foolproof+Sander+Van+Der+Linden&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Foolproof">Foolproof</a>
+</h4>
+<p class="fr-book-author">By Sander Van Der Linden</p>
         
-        <p class="fr-book-desc">First published 2023.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Foolproof+Sander+Van+Der+Linden&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2023.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Foolproof+Sander+Van+Der+Linden&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Talk+to+a+Science+Denier&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Talk to a Science Denier</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Factfulness&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Factfulness</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Post+truth&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Post truth</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Talk+to+a+Science+Denier&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Talk to a Science Denier</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Factfulness&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Factfulness</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Post+truth&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Post truth</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=distrust-risk-when-the-correction-becomes-the-problem-myths-and-misconcept-medical-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical wall art" data-ebay-reference="distrust-risk-when-the-correction-becomes-the-problem-myths-and-misconcept-medical-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Medic! Framed Art Print Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/d62c5c942e2d9f310296.jpg' | relative_url }}" alt="Listing image for Medic! Framed Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=distrust-risk-when-the-correction-becomes-the-problem-myths-and-misconcept-medical-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical wall art" data-ebay-reference="distrust-risk-when-the-correction-becomes-the-problem-myths-and-misconcept-medical-wall-art" target="_blank" rel="sponsored noopener noreferrer">Medic! Framed Art Print Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=distrust-risk-when-the-correction-becomes-the-problem-myths-and-misconcept-medical-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical wall art" data-ebay-reference="distrust-risk-when-the-correction-becomes-the-problem-myths-and-misconcept-medical-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for medical wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: medical wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=distrust-risk-when-the-correction-becomes-the-problem-myths-and-misconcept-medical-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical wall art" data-ebay-reference="distrust-risk-when-the-correction-becomes-the-problem-myths-and-misconcept-medical-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=distrust-risk-when-the-correction-becomes-the-problem-myths-and-misconcept-medical-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical wall art" data-ebay-reference="distrust-risk-when-the-correction-becomes-the-problem-myths-and-misconcept-medical-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Medic! Framed Art Print Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/d62c5c942e2d9f310296.jpg' | relative_url }}" alt="Listing image for Medic! Framed Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=distrust-risk-when-the-correction-becomes-the-problem-myths-and-misconcept-medical-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical wall art" data-ebay-reference="distrust-risk-when-the-correction-becomes-the-problem-myths-and-misconcept-medical-wall-art" target="_blank" rel="sponsored noopener noreferrer">Medic! Framed Art Print Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=distrust-risk-when-the-correction-becomes-the-problem-myths-and-misconcept-medical-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical wall art" data-ebay-reference="distrust-risk-when-the-correction-becomes-the-problem-myths-and-misconcept-medical-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for medical wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: medical wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=distrust-risk-when-the-correction-becomes-the-problem-myths-and-misconcept-medical-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical wall art" data-ebay-reference="distrust-risk-when-the-correction-becomes-the-problem-myths-and-misconcept-medical-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=distrust-risk-when-the-correction-becomes-the-problem-myths-and-misconcept-medical-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical wall art" data-ebay-reference="distrust-risk-when-the-correction-becomes-the-problem-myths-and-misconcept-medical-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Medical Human Skeleton Anatomy Biology Learning Canvas Wall Art Picture Print"><img src="{{ '/assets/images/marketplace-covers/087aa6c2440625ed4209.jpg' | relative_url }}" alt="Listing image for Medical Human Skeleton Anatomy Biology Learning Canvas Wall Art Picture Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=distrust-risk-when-the-correction-becomes-the-problem-myths-and-misconcept-medical-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical wall art" data-ebay-reference="distrust-risk-when-the-correction-becomes-the-problem-myths-and-misconcept-medical-wall-art" target="_blank" rel="sponsored noopener noreferrer">Medical Human Skeleton Anatomy Biology Learning Canvas Wall Art Picture Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=distrust-risk-when-the-correction-becomes-the-problem-myths-and-misconcept-medical-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical wall art" data-ebay-reference="distrust-risk-when-the-correction-becomes-the-problem-myths-and-misconcept-medical-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for medical wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: medical wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=distrust-risk-when-the-correction-becomes-the-problem-myths-and-misconcept-medical-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical wall art" data-ebay-reference="distrust-risk-when-the-correction-becomes-the-problem-myths-and-misconcept-medical-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=distrust-risk-when-the-correction-becomes-the-problem-myths-and-misconcept-medical-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical wall art" data-ebay-reference="distrust-risk-when-the-correction-becomes-the-problem-myths-and-misconcept-medical-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Medical Human Skeleton Anatomy Biology Learning Canvas Wall Art Picture Print"><img src="{{ '/assets/images/marketplace-covers/087aa6c2440625ed4209.jpg' | relative_url }}" alt="Listing image for Medical Human Skeleton Anatomy Biology Learning Canvas Wall Art Picture Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=distrust-risk-when-the-correction-becomes-the-problem-myths-and-misconcept-medical-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical wall art" data-ebay-reference="distrust-risk-when-the-correction-becomes-the-problem-myths-and-misconcept-medical-wall-art" target="_blank" rel="sponsored noopener noreferrer">Medical Human Skeleton Anatomy Biology Learning Canvas Wall Art Picture Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=distrust-risk-when-the-correction-becomes-the-problem-myths-and-misconcept-medical-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical wall art" data-ebay-reference="distrust-risk-when-the-correction-becomes-the-problem-myths-and-misconcept-medical-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for medical wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: medical wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=distrust-risk-when-the-correction-becomes-the-problem-myths-and-misconcept-medical-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical wall art" data-ebay-reference="distrust-risk-when-the-correction-becomes-the-problem-myths-and-misconcept-medical-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=distrust-risk-when-the-correction-becomes-the-problem-myths-and-misconcept-medical-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical wall art" data-ebay-reference="distrust-risk-when-the-correction-becomes-the-problem-myths-and-misconcept-medical-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Medic Framed Art Print Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/10be4db0fa58cebf027a.jpg' | relative_url }}" alt="Listing image for Medic Framed Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=distrust-risk-when-the-correction-becomes-the-problem-myths-and-misconcept-medical-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical wall art" data-ebay-reference="distrust-risk-when-the-correction-becomes-the-problem-myths-and-misconcept-medical-wall-art" target="_blank" rel="sponsored noopener noreferrer">Medic Framed Art Print Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=distrust-risk-when-the-correction-becomes-the-problem-myths-and-misconcept-medical-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical wall art" data-ebay-reference="distrust-risk-when-the-correction-becomes-the-problem-myths-and-misconcept-medical-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for medical wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: medical wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=distrust-risk-when-the-correction-becomes-the-problem-myths-and-misconcept-medical-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical wall art" data-ebay-reference="distrust-risk-when-the-correction-becomes-the-problem-myths-and-misconcept-medical-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=distrust-risk-when-the-correction-becomes-the-problem-myths-and-misconcept-medical-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical wall art" data-ebay-reference="distrust-risk-when-the-correction-becomes-the-problem-myths-and-misconcept-medical-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Medic Framed Art Print Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/10be4db0fa58cebf027a.jpg' | relative_url }}" alt="Listing image for Medic Framed Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=distrust-risk-when-the-correction-becomes-the-problem-myths-and-misconcept-medical-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical wall art" data-ebay-reference="distrust-risk-when-the-correction-becomes-the-problem-myths-and-misconcept-medical-wall-art" target="_blank" rel="sponsored noopener noreferrer">Medic Framed Art Print Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=distrust-risk-when-the-correction-becomes-the-problem-myths-and-misconcept-medical-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical wall art" data-ebay-reference="distrust-risk-when-the-correction-becomes-the-problem-myths-and-misconcept-medical-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for medical wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: medical wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=distrust-risk-when-the-correction-becomes-the-problem-myths-and-misconcept-medical-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical wall art" data-ebay-reference="distrust-risk-when-the-correction-becomes-the-problem-myths-and-misconcept-medical-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=distrust-risk-when-the-correction-becomes-the-problem-myths-and-misconcept-medical-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical wall art" data-ebay-reference="distrust-risk-when-the-correction-becomes-the-problem-myths-and-misconcept-medical-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bristol Stool Chart Medical Diagram Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/debd529c6420c95645da.jpg' | relative_url }}" alt="Listing image for Bristol Stool Chart Medical Diagram Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=distrust-risk-when-the-correction-becomes-the-problem-myths-and-misconcept-medical-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical wall art" data-ebay-reference="distrust-risk-when-the-correction-becomes-the-problem-myths-and-misconcept-medical-wall-art" target="_blank" rel="sponsored noopener noreferrer">Bristol Stool Chart Medical Diagram Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=distrust-risk-when-the-correction-becomes-the-problem-myths-and-misconcept-medical-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical wall art" data-ebay-reference="distrust-risk-when-the-correction-becomes-the-problem-myths-and-misconcept-medical-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for medical wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: medical wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=distrust-risk-when-the-correction-becomes-the-problem-myths-and-misconcept-medical-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical wall art" data-ebay-reference="distrust-risk-when-the-correction-becomes-the-problem-myths-and-misconcept-medical-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=distrust-risk-when-the-correction-becomes-the-problem-myths-and-misconcept-medical-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical wall art" data-ebay-reference="distrust-risk-when-the-correction-becomes-the-problem-myths-and-misconcept-medical-wall-art" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=distrust-risk-when-the-correction-becomes-the-problem-myths-and-misconcept-medical-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical wall art" data-ebay-reference="distrust-risk-when-the-correction-becomes-the-problem-myths-and-misconcept-medical-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bristol Stool Chart Medical Diagram Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/debd529c6420c95645da.jpg' | relative_url }}" alt="Listing image for Bristol Stool Chart Medical Diagram Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=distrust-risk-when-the-correction-becomes-the-problem-myths-and-misconcept-medical-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical wall art" data-ebay-reference="distrust-risk-when-the-correction-becomes-the-problem-myths-and-misconcept-medical-wall-art" target="_blank" rel="sponsored noopener noreferrer">Bristol Stool Chart Medical Diagram Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=distrust-risk-when-the-correction-becomes-the-problem-myths-and-misconcept-medical-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical wall art" data-ebay-reference="distrust-risk-when-the-correction-becomes-the-problem-myths-and-misconcept-medical-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for medical wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: medical wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=distrust-risk-when-the-correction-becomes-the-problem-myths-and-misconcept-medical-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical wall art" data-ebay-reference="distrust-risk-when-the-correction-becomes-the-problem-myths-and-misconcept-medical-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=distrust-risk-when-the-correction-becomes-the-problem-myths-and-misconcept-medical-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical wall art" data-ebay-reference="distrust-risk-when-the-correction-becomes-the-problem-myths-and-misconcept-medical-wall-art" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -565,7 +565,7 @@ This helps explain why debates about misinformation frequently become debates ab
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -585,7 +585,7 @@ This helps explain why debates about misinformation frequently become debates ab
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -617,7 +617,7 @@ This helps explain why debates about misinformation frequently become debates ab
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -669,7 +669,7 @@ This helps explain why debates about misinformation frequently become debates ab
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -714,7 +714,7 @@ This helps explain why debates about misinformation frequently become debates ab
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -755,100 +755,100 @@ This helps explain why debates about misinformation frequently become debates ab
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: nature.com  
-   Link: <a href="https://www.nature.com/articles/s44159-021-00006-y" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s44159-021-00006-y</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The psychological drivers of misinformation belief and its...by UKH Ecker · 2022 · Cited by 1916 — In this Review, we describe the...</p></details>
+   Link:<a href="https://www.nature.com/articles/s44159-021-00006-y" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s44159-021-00006-y</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The psychological drivers of misinformation belief and its...by UKH Ecker · 2022 · Cited by 1916 — In this Review, we describe the...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: advances.in  
-   Link: <a href="https://advances.in/psychology/10.56296/aip00028/" target="_blank" rel="noopener noreferrer nofollow">https://advances.in/psychology/10.56296/aip00028/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Source credibility effects in misinformation research: A review...by V Mang · 2024 · Cited by 15 — Source credibility isn&#x27;t a simple fix...</p></details>
+   Link:<a href="https://advances.in/psychology/10.56296/aip00028/" target="_blank" rel="noopener noreferrer nofollow">https://advances.in/psychology/10.56296/aip00028/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Source credibility effects in misinformation research: A review...by V Mang · 2024 · Cited by 15 — Source credibility isn&#x27;t a simple fix...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9283209/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9283209/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Furthermore, we aimed to examine whether...Read more...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9283209/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9283209/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Furthermore, we aimed to examine whether...Read more...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11377563/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11377563/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Investigating the role of source and source trust in prebunks...by H Bruns · 2024 · Cited by 35 — First, our results demonstrate that...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11377563/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11377563/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Investigating the role of source and source trust in prebunks...by H Bruns · 2024 · Cited by 35 — First, our results demonstrate that...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: nature.com  
-   Link: <a href="https://www.nature.com/articles/s41598-024-71599-6" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41598-024-71599-6</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Investigating the role of source and...by H Bruns · 2024 · Cited by 35 — The findings show that both interventions change four variables...</p></details>
+   Link:<a href="https://www.nature.com/articles/s41598-024-71599-6" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41598-024-71599-6</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Investigating the role of source and...by H Bruns · 2024 · Cited by 35 — The findings show that both interventions change four variables...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/35130012/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/35130012/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Furthermore, we aimed to...Read more...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/35130012/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/35130012/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Furthermore, we aimed to...Read more...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: tandfonline.com  
-   Link: <a href="https://www.tandfonline.com/doi/full/10.1080/1461670X.2024.2340591" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/full/10.1080/1461670X.2024.2340591</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Taylor &amp; Francis OnlineWhy Do Social Media Users Accept, Doubt or Resist...by M Hameleers · 2024 · Cited by 10 — This paper relies on an...</p></details>
+   Link:<a href="https://www.tandfonline.com/doi/full/10.1080/1461670X.2024.2340591" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/full/10.1080/1461670X.2024.2340591</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Taylor &amp; Francis OnlineWhy Do Social Media Users Accept, Doubt or Resist...by M Hameleers · 2024 · Cited by 10 — This paper relies on an...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: cssh.northeastern.edu  
    Title: backfire effects  
-   Link: <a href="https://cssh.northeastern.edu/nulab/backfire-effects/" target="_blank" rel="noopener noreferrer nofollow">https://cssh.northeastern.edu/nulab/backfire-effects/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>In other words, instead of belief...Read more...</p></details>
+   Link:<a href="https://cssh.northeastern.edu/nulab/backfire-effects/" target="_blank" rel="noopener noreferrer nofollow">https://cssh.northeastern.edu/nulab/backfire-effects/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>In other words, instead of belief...Read more...</p></details>
 
 ### Additional References
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: research-information.bris.ac.uk  
-   Link: <a href="https://research-information.bris.ac.uk/files/298563464/Ecker_v4_TSshorten_UE_clean.pdf" target="_blank" rel="noopener noreferrer nofollow">https://research-information.bris.ac.uk/files/298563464/Ecker_v4_TSshorten_UE_clean.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>bris.ac.ukEcker, UKH, Lewandowsky, S., Cook, J., Schmid, P., Fazio...Third, even though credibility matters less for correction sources...</p></details>
+   Link:<a href="https://research-information.bris.ac.uk/files/298563464/Ecker_v4_TSshorten_UE_clean.pdf" target="_blank" rel="noopener noreferrer nofollow">https://research-information.bris.ac.uk/files/298563464/Ecker_v4_TSshorten_UE_clean.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>bris.ac.ukEcker, UKH, Lewandowsky, S., Cook, J., Schmid, P., Fazio...Third, even though credibility matters less for correction sources...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: networkscienceinstitute.org  
-   Link: <a href="https://www.networkscienceinstitute.org/publications/the-differential-consequences-of-correcting-misinformation-for-high-and-low-credibility-sources" target="_blank" rel="noopener noreferrer nofollow">https://www.networkscienceinstitute.org/publications/the-differential-consequences-of-correcting-misinformation-for-high-and-low-credibility-sources</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The differential consequences of correcting misinformation...3 Apr 2026 — In Experiment 1, correcting inaccuracies reduced doctors&#x27; cred...</p></details>
+   Link:<a href="https://www.networkscienceinstitute.org/publications/the-differential-consequences-of-correcting-misinformation-for-high-and-low-credibility-sources" target="_blank" rel="noopener noreferrer nofollow">https://www.networkscienceinstitute.org/publications/the-differential-consequences-of-correcting-misinformation-for-high-and-low-credibility-sources</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The differential consequences of correcting misinformation...3 Apr 2026 — In Experiment 1, correcting inaccuracies reduced doctors&#x27; cred...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: asc.upenn.edu  
-   Link: <a href="https://www.asc.upenn.edu/news-events/news/research-identifies-factors-make-correcting-misinformation-about-science-more-successful" target="_blank" rel="noopener noreferrer nofollow">https://www.asc.upenn.edu/news-events/news/research-identifies-factors-make-correcting-misinformation-about-science-more-successful</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Identifies Factors That Make Correcting...20 Jun 2023 — A new study from PIK Professor Dolores Albarracín and Research Associate Man-pui...</p></details>
+   Link:<a href="https://www.asc.upenn.edu/news-events/news/research-identifies-factors-make-correcting-misinformation-about-science-more-successful" target="_blank" rel="noopener noreferrer nofollow">https://www.asc.upenn.edu/news-events/news/research-identifies-factors-make-correcting-misinformation-about-science-more-successful</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Identifies Factors That Make Correcting...20 Jun 2023 — A new study from PIK Professor Dolores Albarracín and Research Associate Man-pui...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: carnegieendowment.org  
    Title: countering disinformation effectively an evidence based policy guide  
-   Link: <a href="https://carnegieendowment.org/russia-eurasia/research/2024/01/countering-disinformation-effectively-an-evidence-based-policy-guide" target="_blank" rel="noopener noreferrer nofollow">https://carnegieendowment.org/russia-eurasia/research/2024/01/countering-disinformation-effectively-an-evidence-based-policy-guide</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Countering Disinformation Effectively: An Evidence-Based...31 Jan 2024 — A high-level, evidence-informed guide to some of the major prop...</p></details>
+   Link:<a href="https://carnegieendowment.org/russia-eurasia/research/2024/01/countering-disinformation-effectively-an-evidence-based-policy-guide" target="_blank" rel="noopener noreferrer nofollow">https://carnegieendowment.org/russia-eurasia/research/2024/01/countering-disinformation-effectively-an-evidence-based-policy-guide</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Countering Disinformation Effectively: An Evidence-Based...31 Jan 2024 — A high-level, evidence-informed guide to some of the major prop...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: climatechangecommunication.org  
-   Link: <a href="https://www.climatechangecommunication.org/wp-content/uploads/2023/09/DebunkingHandbook2020.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.climatechangecommunication.org/wp-content/uploads/2023/09/DebunkingHandbook2020.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>[Fake news](&amp;#123;&amp;#123; &#x27;fake-news/&#x27; | relative_url &amp;#125;&amp;#125;): False information, often of a sensational nature, that mimics news media...Read more...</p></details>
+   Link:<a href="https://www.climatechangecommunication.org/wp-content/uploads/2023/09/DebunkingHandbook2020.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.climatechangecommunication.org/wp-content/uploads/2023/09/DebunkingHandbook2020.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>[Fake news](&amp;#123;&amp;#123; &#x27;fake-news/&#x27; | relative_url &amp;#125;&amp;#125;): False information, often of a sensational nature, that mimics news media...Read more...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: rkellygarrett.com  
    Title: Garrett and Weeks Promise and peril of real time corrections  
-   Link: <a href="https://rkellygarrett.com/wp-content/uploads/2014/05/Garrett-and-Weeks-Promise-and-peril-of-real-time-corrections.pdf" target="_blank" rel="noopener noreferrer nofollow">https://rkellygarrett.com/wp-content/uploads/2014/05/Garrett-and-Weeks-Promise-and-peril-of-real-time-corrections.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Promise and Peril of Real-Time Corrections to Politicalby RK Garrett · 2013 · Cited by 230 — When misinformation is corrected immedia...</p></details>
+   Link:<a href="https://rkellygarrett.com/wp-content/uploads/2014/05/Garrett-and-Weeks-Promise-and-peril-of-real-time-corrections.pdf" target="_blank" rel="noopener noreferrer nofollow">https://rkellygarrett.com/wp-content/uploads/2014/05/Garrett-and-Weeks-Promise-and-peril-of-real-time-corrections.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Promise and Peril of Real-Time Corrections to Politicalby RK Garrett · 2013 · Cited by 230 — When misinformation is corrected immedia...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: discovery.ucl.ac.uk  
    Title: UCL Discovery Belief updating in the face of misinformation  
-   Link: <a href="https://discovery.ucl.ac.uk/id/eprint/10206076/2/Sanna_1-s2.0-S0010027725000307-main.pdf" target="_blank" rel="noopener noreferrer nofollow">https://discovery.ucl.ac.uk/id/eprint/10206076/2/Sanna_1-s2.0-S0010027725000307-main.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UCL DiscoveryBelief updating in the face of misinformation - UCL Discoveryby GA Sanna · 2025 · Cited by 14 — This paper investigates the...</p></details>
+   Link:<a href="https://discovery.ucl.ac.uk/id/eprint/10206076/2/Sanna_1-s2.0-S0010027725000307-main.pdf" target="_blank" rel="noopener noreferrer nofollow">https://discovery.ucl.ac.uk/id/eprint/10206076/2/Sanna_1-s2.0-S0010027725000307-main.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UCL DiscoveryBelief updating in the face of misinformation - UCL Discoveryby GA Sanna · 2025 · Cited by 14 — This paper investigates the...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: Tech Policy Press  
    Title: why people believe misinformation and resist correction  
-   Link: <a href="https://techpolicy.press/why-people-believe-misinformation-and-resist-correction" target="_blank" rel="noopener noreferrer nofollow">https://techpolicy.press/why-people-believe-misinformation-and-resist-correction</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>14 Jan 2022 — A Nature review of the available empirical research yields best practices for confronting misinformation and suggestions fo...</p></details>
+   Link:<a href="https://techpolicy.press/why-people-believe-misinformation-and-resist-correction" target="_blank" rel="noopener noreferrer nofollow">https://techpolicy.press/why-people-believe-misinformation-and-resist-correction</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>14 Jan 2022 — A Nature review of the available empirical research yields best practices for confronting misinformation and suggestions fo...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: voxdev.org  
    Title: interventions counter political polarisation  
-   Link: <a href="https://voxdev.org/voxdevlit/political-polarisation/interventions-counter-political-polarisation" target="_blank" rel="noopener noreferrer nofollow">https://voxdev.org/voxdevlit/political-polarisation/interventions-counter-political-polarisation</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Interventions to counter political polarisationOct 27, 2025 — These studies suggest that social media interventions may require a dual ap...</p></details>
+   Link:<a href="https://voxdev.org/voxdevlit/political-polarisation/interventions-counter-political-polarisation" target="_blank" rel="noopener noreferrer nofollow">https://voxdev.org/voxdevlit/political-polarisation/interventions-counter-political-polarisation</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Interventions to counter political polarisationOct 27, 2025 — These studies suggest that social media interventions may require a dual ap...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/uni.lu/posts/have-you-ever-tried-to-correct-someone-who-shared-fake-news-online-it-rarely-goe/1447453670755961/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/uni.lu/posts/have-you-ever-tried-to-correct-someone-who-shared-fake-news-online-it-rarely-goe/1447453670755961/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Have you ever tried to correct someone who shared fake...However, the study noted that corrections did not change people&#x27;s voting patterns...</p></details>
+   Link:<a href="https://www.facebook.com/uni.lu/posts/have-you-ever-tried-to-correct-someone-who-shared-fake-news-online-it-rarely-goe/1447453670755961/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/uni.lu/posts/have-you-ever-tried-to-correct-someone-who-shared-fake-news-online-it-rarely-goe/1447453670755961/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Have you ever tried to correct someone who shared fake...However, the study noted that corrections did not change people&#x27;s voting patterns...</p></details>

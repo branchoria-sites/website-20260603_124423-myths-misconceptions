@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /myths-and-misconcept-0d48d7-platform/
 description: Focused pages that expand on Platform Design.
-date: '2026-06-11'
+date: '2026'
 layout: default
 parent_basename: Myths_and_misconcept_0d48d7_platform_design_myth_d8c20e
 parent_title: Platform Design
@@ -16,7 +16,7 @@ parent_permalink: /platform-design/
 
 # Explore Topics in Platform Design
 
-The following pages expand on the main **[Platform Design]({{ '/platform-design/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[Platform Design]({{ '/platform-design/' | relative_url }})** page and cover its key branches in.
 
 - [Accuracy Nudges]({{ '/accuracy-nudges/' | relative_url }})
 - [Community Notes]({{ '/community-notes/' | relative_url }})

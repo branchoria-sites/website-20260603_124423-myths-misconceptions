@@ -271,7 +271,7 @@ image: /assets/images/Myths_and_misconcept_0d48d7_social_media_myths_2c6e1b_mone
 Online myths do not spread only because people believe them. They also spread because, on many [platforms]({{ 'platforms/' | relative_url }}), attention can be converted into followers, advertising revenue, sponsorship deals, subscriptions, affiliate sales and political influence. When creators discover that sensational claims reliably attract views, they may begin producing them repeatedly, turning myth-making from an occasional activity into a predictable content strategy.
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_social_media_myths_2c6e1b_monetisation_myth_cr_ab42cf-Illustration-1-dark.svg" | relative_url }}" alt="Creator Rewards illustration 1" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_social_media_myths_2c6e1b_monetisation_myth_cr_ab42cf-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_social_media_myths_2c6e1b_monetisation_myth_cr_ab42cf-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-This does not mean every creator who discusses controversial topics is acting in bad faith. However, research on misinformation, influencer marketing and platform incentives shows that a relatively small number of highly active accounts often account for a disproportionate share of misleading content, while financial and status rewards can encourage continued production. The result is a feedback loop: myths generate engagement, engagement increases visibility, and visibility can create income and influence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://insights.som.yale.edu/insights/how-social-media-rewards-misinformation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: insights.som.yale.edu">[Yale Insights]</a><span class="citation-popover" role="note"><span class="citation-popover-source">insights.som.yale.edu</span><span class="citation-popover-title">how social media rewards misinformation</span><span class="citation-popover-snippet">A majority of false stories are spread by a small number of frequent users, suggests a new study co-...Read more...</span></span></span>
+This does not mean every creator who discusses controversial topics is acting in bad faith. However, research on misinformation, influencer marketing and platform incentives shows that a relatively small number of highly active accounts often account for a disproportionate share of misleading content, while financial and status rewards can encourage continued production. The result is a feedback loop: myths generate engagement, engagement increases visibility, and visibility can create income and influence.<span class="citation-chip-wrap"><a class="citation-chip" href="https://insights.som.yale.edu/insights/how-social-media-rewards-misinformation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: insights.som.yale.edu">[Yale Insights]</a><span class="citation-popover" role="note"><span class="citation-popover-source">insights.som.yale.edu</span><span class="citation-popover-title">how social media rewards misinformation</span><span class="citation-popover-snippet">A majority of false stories are spread by a small number of frequent users, suggests a new study co-...Read more...</span></span></span>
 
 ## How Visibility Converts into Money and Status
 
@@ -288,11 +288,11 @@ The creator economy rewards attention. On platforms such as YouTube, TikTok, Fac
 
 </div>
 
-A creator does not necessarily need a myth to be true for it to be profitable. What matters commercially is whether the claim attracts audiences. Sensational stories, conspiracy narratives and dramatic “hidden truth” content often encourage longer viewing, repeated sharing and stronger emotional reactions than cautious explanations. Those audience responses can increase algorithmic visibility and therefore monetisation opportunities. <span class="citation-chip-wrap"><a class="citation-chip" href="#endnote-2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Sz">[SIEPR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Sz</span><span class="citation-popover-snippet">ned via advertising,examine how financing misinformation affects the advertisers...Read more</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.darden.virginia.edu/sites/default/files/inline-files/2415%20Eesley%2C%20Chuck.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: darden.virginia.edu">[UVA Darden School of Business]</a><span class="citation-popover" role="note"><span class="citation-popover-source">darden.virginia.edu</span><span class="citation-popover-snippet">UVA Darden School of BusinessThe Role of Advertisers and Platforms in Monetizing...by W Ahmad · Cited by 22 — The financial motivation t...</span></span></span>
+A creator does not necessarily need a myth to be true for it to be profitable. What matters commercially is whether the claim attracts audiences. Sensational stories, conspiracy narratives and dramatic “hidden truth” content often encourage longer viewing, repeated sharing and stronger emotional reactions than cautious explanations. Those audience responses can increase algorithmic visibility and therefore monetisation opportunities.<span class="citation-chip-wrap"><a class="citation-chip" href="#endnote-2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Sz">[SIEPR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Sz</span><span class="citation-popover-snippet">ned via advertising,examine how financing misinformation affects the advertisers...Read more</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.darden.virginia.edu/sites/default/files/inline-files/2415%20Eesley%2C%20Chuck.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: darden.virginia.edu">[UVA Darden School of Business]</a><span class="citation-popover" role="note"><span class="citation-popover-source">darden.virginia.edu</span><span class="citation-popover-snippet">UVA Darden School of BusinessThe Role of Advertisers and Platforms in Monetizing...by W Ahmad · Cited by 22 — The financial motivation t...</span></span></span>
 
-Research on the broader “disinformation economy” has found that misinformation is frequently supported by advertising systems that automatically place commercial adverts alongside content. Studies examining misinformation websites and digital advertising have shown that programmatic advertising can unintentionally channel revenue towards unreliable publishers because ad placement is often driven by traffic and engagement rather than content quality. <span class="citation-chip-wrap"><a class="citation-chip" href="#endnote-2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Sz">[SIEPR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Sz</span><span class="citation-popover-snippet">ned via advertising,examine how financing misinformation affects the advertisers...Read more</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.heinz.cmu.edu/media/2024/June/firms-desire-for-ad-revenue-tied-to-inadvertently-financing-online-misinformation-outlets" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: heinz.cmu.edu">[Heinz College]</a><span class="citation-popover" role="note"><span class="citation-popover-source">heinz.cmu.edu</span><span class="citation-popover-snippet">Heinz CollegeFirms&#x27; Desire for Ad Revenue Tied to Inadvertently...The study found that advertising on misinformation websites is pervasi...</span></span></span>
+Research on the broader “disinformation economy” has found that misinformation is frequently supported by advertising systems that automatically place commercial adverts alongside content. Studies examining misinformation websites and digital advertising have shown that programmatic advertising can unintentionally channel revenue towards unreliable publishers because ad placement is often driven by traffic and engagement rather than content quality.<span class="citation-chip-wrap"><a class="citation-chip" href="#endnote-2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Sz">[SIEPR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Sz</span><span class="citation-popover-snippet">ned via advertising,examine how financing misinformation affects the advertisers...Read more</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.heinz.cmu.edu/media/2024/June/firms-desire-for-ad-revenue-tied-to-inadvertently-financing-online-misinformation-outlets" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: heinz.cmu.edu">[Heinz College]</a><span class="citation-popover" role="note"><span class="citation-popover-source">heinz.cmu.edu</span><span class="citation-popover-snippet">Heinz CollegeFirms&#x27; Desire for Ad Revenue Tied to Inadvertently...The study found that advertising on misinformation websites is pervasi...</span></span></span>
 
-Status can be as important as money. Large audiences create social authority. A creator who becomes known as the person exposing alleged secrets, cover-ups or forbidden knowledge may gain influence even when factual accuracy is weak. Influence itself can later become a source of revenue through speaking engagements, partnerships or new commercial ventures. <span class="citation-chip-wrap"><a class="citation-chip" href="https://blogs.hanken.fi/research/2025/06/04/the-disinformation-economy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blogs.hanken.fi">[blogs.hanken.fi]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blogs.hanken.fi</span><span class="citation-popover-title">the disinformation economy</span><span class="citation-popover-snippet">4 Jun 2025 — My research on the overlap between digital advertising and fake news suggests that the financial incentives of the disinform...</span></span></span>
+Status can be as important as money. Large audiences create social authority. A creator who becomes known as the person exposing alleged secrets, cover-ups or forbidden knowledge may gain influence even when factual accuracy is weak. Influence itself can later become a source of revenue through speaking engagements, partnerships or new commercial ventures.<span class="citation-chip-wrap"><a class="citation-chip" href="https://blogs.hanken.fi/research/2025/06/04/the-disinformation-economy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blogs.hanken.fi">[blogs.hanken.fi]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blogs.hanken.fi</span><span class="citation-popover-title">the disinformation economy</span><span class="citation-popover-snippet">4 Jun 2025 — My research on the overlap between digital advertising and fake news suggests that the financial incentives of the disinform...</span></span></span>
 
 ## Why Repeatable Myth Templates Perform Well
 
@@ -312,17 +312,17 @@ Typical templates include:
 
 These formats have commercial advantages. They are easy to produce, emotionally engaging and adaptable to new events. Once an audience accepts the creator's basic worldview, every new story can be framed as further evidence of the same narrative.
 
-Research into influencer-driven misinformation has identified creators who combine myth-like claims with product marketing, particularly in health and wellness spaces. In some cases, misleading claims about [vaccines]({{ 'vaccines/' | relative_url }}), illnesses or treatments were linked to sales of alternative remedies, supplements or lifestyle products. The myth creates attention and trust among followers; the commercial offer captures value from that trust. International Journal of Communication <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.opb.org/article/2024/03/18/think-out-loud-uw-study-social-media-influencers-misinformation/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: opb.org">[2opb]</a><span class="citation-popover" role="note"><span class="citation-popover-source">opb.org</span><span class="citation-popover-title">think out loud uw study social media influencers misinformation</span><span class="citation-popover-snippet">UW study reveals how social media influencers profit from...Mar 18, 2024 — The study looked at three Instagram influencers who spread va...</span></span></span>
+Research into influencer-driven misinformation has identified creators who combine myth-like claims with product marketing, particularly in health and wellness spaces. In some cases, misleading claims about [vaccines]({{ 'vaccines/' | relative_url }}), illnesses or treatments were linked to sales of alternative remedies, supplements or lifestyle products. The myth creates attention and trust among followers; the commercial offer captures value from that trust. International Journal of Communication<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.opb.org/article/2024/03/18/think-out-loud-uw-study-social-media-influencers-misinformation/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: opb.org">[2opb]</a><span class="citation-popover" role="note"><span class="citation-popover-source">opb.org</span><span class="citation-popover-title">think out loud uw study social media influencers misinformation</span><span class="citation-popover-snippet">UW study reveals how social media influencers profit from...Mar 18, 2024 — The study looked at three Instagram influencers who spread va...</span></span></span>
 
-The economics of content production also matter. Producing careful investigative reporting is expensive and time-consuming. Producing speculation, conspiratorial interpretation or recycled viral claims is often cheaper. When platforms reward engagement at scale, creators may find that high-volume myth production generates a better financial return than slower, evidence-based work. <span class="citation-chip-wrap"><a class="citation-chip" href="https://blogs.hanken.fi/research/2025/06/04/the-disinformation-economy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blogs.hanken.fi">[blogs.hanken.fi]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blogs.hanken.fi</span><span class="citation-popover-title">the disinformation economy</span><span class="citation-popover-snippet">4 Jun 2025 — My research on the overlap between digital advertising and fake news suggests that the financial incentives of the disinform...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://edmo.eu/blog/what-is-the-disinformation-economy-and-how-to-counter-it/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: edmo.eu">[EDMO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">edmo.eu</span><span class="citation-popover-title">What is the Disinformation Economy?</span><span class="citation-popover-snippet">And how to counter it)13 Jun 2025 — The financial incentives of the disinformation economy are staggering; fake news websites rake in re...</span></span></span>
+The economics of content production also matter. Producing careful investigative reporting is expensive and time-consuming. Producing speculation, conspiratorial interpretation or recycled viral claims is often cheaper. When platforms reward engagement at scale, creators may find that high-volume myth production generates a better financial return than slower, evidence-based work.<span class="citation-chip-wrap"><a class="citation-chip" href="https://blogs.hanken.fi/research/2025/06/04/the-disinformation-economy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blogs.hanken.fi">[blogs.hanken.fi]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blogs.hanken.fi</span><span class="citation-popover-title">the disinformation economy</span><span class="citation-popover-snippet">4 Jun 2025 — My research on the overlap between digital advertising and fake news suggests that the financial incentives of the disinform...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://edmo.eu/blog/what-is-the-disinformation-economy-and-how-to-counter-it/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: edmo.eu">[EDMO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">edmo.eu</span><span class="citation-popover-title">What is the Disinformation Economy?</span><span class="citation-popover-snippet">And how to counter it)13 Jun 2025 — The financial incentives of the disinformation economy are staggering; fake news websites rake in re...</span></span></span>
 
 ### AI and the Expansion of Myth Production
 
 Generative artificial intelligence has lowered the cost of creating large amounts of content. Images, voiceovers, scripts and videos can now be produced rapidly, making it easier to generate endless variations of sensational narratives.
 
-Recent reporting and research have raised concerns that creator reward programmes may unintentionally encourage AI-generated misinformation because payment systems are frequently tied to view counts and engagement. Critics argue that when revenue is linked to attention, creators have incentives to produce emotionally compelling content at scale, even when accuracy is uncertain. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.axios.com/2024/03/26/tik-tok-creator-program-ai-misinformation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: axios.com">[Axios]</a><span class="citation-popover" role="note"><span class="citation-popover-source">axios.com</span><span class="citation-popover-title">With Tik Tok creator program, AI-sped misinformation pays</span><span class="citation-popover-snippet">The program pays creators based on &quot;qualified views&quot; and RPM (revenue per thousand views), incentivizing high engagement — something ofte...</span></span></span>
+Recent reporting and research have raised concerns that creator reward programmes may unintentionally encourage AI-generated misinformation because payment systems are frequently tied to view counts and engagement. Critics argue that when revenue is linked to attention, creators have incentives to produce emotionally compelling content at scale, even when accuracy is uncertain.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.axios.com/2024/03/26/tik-tok-creator-program-ai-misinformation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: axios.com">[Axios]</a><span class="citation-popover" role="note"><span class="citation-popover-source">axios.com</span><span class="citation-popover-title">With Tik Tok creator program, AI-sped misinformation pays</span><span class="citation-popover-snippet">The program pays creators based on &quot;qualified views&quot; and RPM (revenue per thousand views), incentivizing high engagement — something ofte...</span></span></span>
 
-The concern is not merely theoretical. Investigations have identified networks of channels producing large volumes of misleading or fabricated content while attracting substantial audiences and, in some cases, monetisation opportunities. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/technology/2025/dec/13/fake-anti-labour-video-billion-views-youtube-2025" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">fake anti labour video billion views youtube 2025</span><span class="citation-popover-snippet">A study by nonprofit Reset Tech revealed these channels collectively amassed 5.3 million subscribers and produced 56,000 videos, with Sta...</span></span></span>
+The concern is not merely theoretical. Investigations have identified networks of channels producing large volumes of misleading or fabricated content while attracting substantial audiences and, in some cases, monetisation opportunities.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/technology/2025/dec/13/fake-anti-labour-video-billion-views-youtube-2025" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">fake anti labour video billion views youtube 2025</span><span class="citation-popover-snippet">A study by nonprofit Reset Tech revealed these channels collectively amassed 5.3 million subscribers and produced 56,000 videos, with Sta...</span></span></span>
 
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_social_media_myths_2c6e1b_monetisation_myth_cr_ab42cf-Illustration-2-dark.svg" | relative_url }}" alt="Creator Rewards illustration 2" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_social_media_myths_2c6e1b_monetisation_myth_cr_ab42cf-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_social_media_myths_2c6e1b_monetisation_myth_cr_ab42cf-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Audiences Reward Myth-Making
@@ -342,7 +342,7 @@ Myths often provide features that are valuable in competitive attention markets:
 
 </div>
 
-Research on misinformation sharing suggests that repeated engagement can become habitual. Once audiences routinely reward certain types of content with clicks, comments and shares, creators receive continuous signals that the format is working. The economic reward is therefore built on behavioural reward. <span class="citation-chip-wrap"><a class="citation-chip" href="https://today.usc.edu/usc-study-reveals-the-key-reason-why-fake-news-spreads-on-social-media/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: today.usc.edu">[USC Today]</a><span class="citation-popover" role="note"><span class="citation-popover-source">today.usc.edu</span><span class="citation-popover-snippet">USC TodayStudy reveals key reason why fake news spreads on social...Jan 17, 2023 — Experimenting with different scenarios to see why fak...</span></span></span>
+Research on misinformation sharing suggests that repeated engagement can become habitual. Once audiences routinely reward certain types of content with clicks, comments and shares, creators receive continuous signals that the format is working. The economic reward is therefore built on behavioural reward.<span class="citation-chip-wrap"><a class="citation-chip" href="https://today.usc.edu/usc-study-reveals-the-key-reason-why-fake-news-spreads-on-social-media/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: today.usc.edu">[USC Today]</a><span class="citation-popover" role="note"><span class="citation-popover-source">today.usc.edu</span><span class="citation-popover-snippet">USC TodayStudy reveals key reason why fake news spreads on social...Jan 17, 2023 — Experimenting with different scenarios to see why fak...</span></span></span>
 
 For creators, this can produce a gradual shift in incentives. Even individuals who begin with genuine curiosity may discover that dramatic claims outperform nuanced explanations. Over time, content strategies can evolve towards what attracts attention rather than what best reflects available evidence.
 
@@ -353,13 +353,13 @@ The monetisation of myth-making creates a governance challenge because responsib
 <img src="{{ "/assets/images/Myths_and_misconcept_0d48d7_social_media_myths_2c6e1b_monetisation_myth_cr_ab42cf-Illustration-3-dark.svg" | relative_url }}" alt="Creator Rewards illustration 3" data-theme-src-dark="{{ "/assets/images/Myths_and_misconcept_0d48d7_social_media_myths_2c6e1b_monetisation_myth_cr_ab42cf-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myths_and_misconcept_0d48d7_social_media_myths_2c6e1b_monetisation_myth_cr_ab42cf-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Platforms
 
-Platforms typically argue that they do not wish to reward harmful misinformation. Many have introduced policies that remove, reduce or demonetise certain categories of false content. YouTube, for example, maintains misinformation policies covering areas such as elections, public health and other topics associated with significant harm. <span class="citation-chip-wrap"><a class="citation-chip" href="https://support.google.com/youtube/answer/10834785?hl=en" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: support.google.com">[Google Help]</a><span class="citation-popover" role="note"><span class="citation-popover-source">support.google.com</span><span class="citation-popover-title">Help Misinformation policies</span><span class="citation-popover-snippet">Google HelpMisinformation policies - YouTube HelpCertain types of misleading or deceptive content with serious risk of egregious harm are...</span></span></span>
+Platforms typically argue that they do not wish to reward harmful misinformation. Many have introduced policies that remove, reduce or demonetise certain categories of false content. YouTube, for example, maintains misinformation policies covering areas such as elections, public health and other topics associated with significant harm.<span class="citation-chip-wrap"><a class="citation-chip" href="https://support.google.com/youtube/answer/10834785?hl=en" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: support.google.com">[Google Help]</a><span class="citation-popover" role="note"><span class="citation-popover-source">support.google.com</span><span class="citation-popover-title">Help Misinformation policies</span><span class="citation-popover-snippet">Google HelpMisinformation policies - YouTube HelpCertain types of misleading or deceptive content with serious risk of egregious harm are...</span></span></span>
 
-However, enforcement remains difficult. Researchers and regulators have repeatedly questioned whether automated moderation systems can consistently identify misleading material, especially when creators adapt their language or avoid direct factual claims. Studies and audits suggest that harmful or misleading content can continue circulating even after policy changes. <span class="citation-chip-wrap"><a class="citation-chip" href="https://digitallyright.org/wp-content/uploads/2025/09/Misinformation-on-YouTube-High-Profits-Low-Moderation.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: digitallyright.org">[Digitally Right]</a><span class="citation-popover" role="note"><span class="citation-popover-source">digitallyright.org</span><span class="citation-popover-title">Other platforms, such as.Read more</span><span class="citation-popover-snippet">Digitally RightMisinformation on YouTube: High Profits, Low ModerationIt is not always necessary to remove all misinformation; however, u...</span></span></span>
+However, enforcement remains difficult. Researchers and regulators have repeatedly questioned whether automated moderation systems can consistently identify misleading material, especially when creators adapt their language or avoid direct factual claims. Studies and audits suggest that harmful or misleading content can continue circulating even after policy changes.<span class="citation-chip-wrap"><a class="citation-chip" href="https://digitallyright.org/wp-content/uploads/2025/09/Misinformation-on-YouTube-High-Profits-Low-Moderation.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: digitallyright.org">[Digitally Right]</a><span class="citation-popover" role="note"><span class="citation-popover-source">digitallyright.org</span><span class="citation-popover-title">Other platforms, such as.Read more</span><span class="citation-popover-snippet">Digitally RightMisinformation on YouTube: High Profits, Low ModerationIt is not always necessary to remove all misinformation; however, u...</span></span></span>
 
 ### Advertisers
 
-Many advertisers do not intentionally support misinformation. Yet programmatic advertising systems often buy placements automatically across vast networks of sites and channels. Research has shown that advertising frequently appears on misinformation outlets because the underlying systems prioritise audience reach and efficiency rather than detailed editorial review. <span class="citation-chip-wrap"><a class="citation-chip" href="#endnote-2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Sz">[SIEPR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Sz</span><span class="citation-popover-snippet">ned via advertising,examine how financing misinformation affects the advertisers...Read more</span></span></span>
+Many advertisers do not intentionally support misinformation. Yet programmatic advertising systems often buy placements automatically across vast networks of sites and channels. Research has shown that advertising frequently appears on misinformation outlets because the underlying systems prioritise audience reach and efficiency rather than detailed editorial review.<span class="citation-chip-wrap"><a class="citation-chip" href="#endnote-2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Sz">[SIEPR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Sz</span><span class="citation-popover-snippet">ned via advertising,examine how financing misinformation affects the advertisers...Read more</span></span></span>
 
 This creates a market failure: brands may unknowingly finance content they would not publicly endorse.
 
@@ -386,197 +386,197 @@ Several approaches have been proposed:
 
 </div>
 
-Supporters argue these measures would weaken the business incentives behind myth-making. Critics worry about errors, bias and excessive concentration of power in platform moderation systems. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cmpf.eui.eu/demonetisation-of-disinformation/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cmpf.eui.eu">[cmpf.eui.eu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cmpf.eui.eu</span><span class="citation-popover-title">demonetisation of disinformation</span><span class="citation-popover-snippet">De)monetisation of Disinformation: Can the actions of large...26 Mar 2024 — This blog explores the business of disinformation and expos...</span></span></span> ScienceDirect What is increasingly clear is that myths thrive not only because they are believed <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/abs/pii/S0305048325001537" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[sciencedirect.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">creators would incorporate controversial content to strategically generate engagement [1], [2]. As underlined by the case of disinformati...</span></span></span>, but because they can be profitable. In modern social media environments, the economic architecture surrounding attention often determines which stories are repeated, refined and amplified. As long as visibility can be converted into money and status, myth-making will remain attractive to at least some creators, making monetisation policy a central part of any effort to reduce online misconceptions. Yale Insights <span class="citation-chip-wrap"><a class="citation-chip" href="#endnote-2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Sz">[SIEPR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Sz</span><span class="citation-popover-snippet">ned via advertising,examine how financing misinformation affects the advertisers...Read more</span></span></span>
+Supporters argue these measures would weaken the business incentives behind myth-making. Critics worry about errors, bias and excessive concentration of power in platform moderation systems.<span class="citation-chip-wrap"><a class="citation-chip" href="https://cmpf.eui.eu/demonetisation-of-disinformation/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cmpf.eui.eu">[cmpf.eui.eu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cmpf.eui.eu</span><span class="citation-popover-title">demonetisation of disinformation</span><span class="citation-popover-snippet">De)monetisation of Disinformation: Can the actions of large...26 Mar 2024 — This blog explores the business of disinformation and expos...</span></span></span> ScienceDirect What is increasingly clear is that myths thrive not only because they are believed<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/abs/pii/S0305048325001537" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[sciencedirect.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">creators would incorporate controversial content to strategically generate engagement [1], [2]. As underlined by the case of disinformati...</span></span></span>, but because they can be profitable. In modern social media environments, the economic architecture surrounding attention often determines which stories are repeated, refined and amplified. As long as visibility can be converted into money and status, myth-making will remain attractive to at least some creators, making monetisation policy a central part of any effort to reduce online misconceptions. Yale Insights<span class="citation-chip-wrap"><a class="citation-chip" href="#endnote-2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Sz">[SIEPR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Sz</span><span class="citation-popover-snippet">ned via advertising,examine how financing misinformation affects the advertisers...Read more</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When Myths Become a Business Model. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When Myths Become a Business Model. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Chaos+Machine+by+Max+Fisher&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Chaos Machine on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Fz5JEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Chaos Machine" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Chaos+Machine+by+Max+Fisher&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Chaos Machine">The Chaos Machine</a>
-        </h4>
-        <p class="fr-book-author">By Max Fisher</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Chaos+Machine+by+Max+Fisher&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Chaos Machine on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Fz5JEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Chaos Machine" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Chaos+Machine+by+Max+Fisher&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Chaos Machine">The Chaos Machine</a>
+</h4>
+<p class="fr-book-author">By Max Fisher</p>
         
-        <p class="fr-book-desc">Explains how attention and incentives drive harmful content.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Chaos+Machine+by+Max+Fisher&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains how attention and incentives drive harmful content.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Chaos+Machine+by+Max+Fisher&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hype+Machine+by+Sinan+Aral&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hype Machine on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=wuY9EAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Hype Machine" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Hype+Machine+by+Sinan+Aral&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hype Machine">The Hype Machine</a>
-        </h4>
-        <p class="fr-book-author">By Sinan Aral</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hype+Machine+by+Sinan+Aral&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hype Machine on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=wuY9EAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Hype Machine" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Hype+Machine+by+Sinan+Aral&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hype Machine">The Hype Machine</a>
+</h4>
+<p class="fr-book-author">By Sinan Aral</p>
         
-        <p class="fr-book-desc">Covers monetisation, influence and platform economics.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Hype+Machine+by+Sinan+Aral&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers monetisation, influence and platform economics.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Hype+Machine+by+Sinan+Aral&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Trust+Me+I%27m+Lying+by+Ryan+Holiday&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Trust Me I&#x27;m Lying on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nHU7DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Trust Me I&#x27;m Lying" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Trust+Me+I%27m+Lying+by+Ryan+Holiday&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Trust Me I&#x27;m Lying">Trust Me I&#x27;m Lying</a>
-        </h4>
-        <p class="fr-book-author">By Ryan Holiday</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Trust+Me+I%27m+Lying+by+Ryan+Holiday&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Trust Me I&#x27;m Lying on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nHU7DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Trust Me I&#x27;m Lying" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Trust+Me+I%27m+Lying+by+Ryan+Holiday&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Trust Me I&#x27;m Lying">Trust Me I&#x27;m Lying</a>
+</h4>
+<p class="fr-book-author">By Ryan Holiday</p>
         
-        <p class="fr-book-desc">Shows how attention incentives can reward misleading content.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Trust+Me+I%27m+Lying+by+Ryan+Holiday&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows how attention incentives can reward misleading content.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Trust+Me+I%27m+Lying+by+Ryan+Holiday&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Influence+by+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Influence on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Influence+by+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Influence">Influence</a>
-        </h4>
-        <p class="fr-book-author">By Robert B. Cialdini</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Influence+by+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Influence on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Influence+by+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Influence">Influence</a>
+</h4>
+<p class="fr-book-author">By Robert B. Cialdini</p>
         
-        <p class="fr-book-desc">Provides foundations for understanding persuasive content strategies.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Influence+by+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides foundations for understanding persuasive content strategies.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Influence+by+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Chaos+Machine&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Chaos Machine</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hype+Machine&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hype Machine</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Trust+Me+I%27m+Lying&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Trust Me I&#x27;m Lying</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Chaos+Machine&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Chaos Machine</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hype+Machine&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hype Machine</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Trust+Me+I%27m+Lying&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Trust Me I&#x27;m Lying</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=neuroscience+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=creator-rewards-when-myths-become-a-business-model-myths-and-misconcept-neuroscience-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="neuroscience wall art" data-ebay-reference="creator-rewards-when-myths-become-a-business-model-myths-and-misconcept-neuroscience-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Human Head &amp; Brain Anatomy Print, Neuroscience Medical Diagram Vintage Wall Art"><img src="{{ '/assets/images/marketplace-covers/2722a327da8a25413378.jpg' | relative_url }}" alt="Listing image for Human Head &amp; Brain Anatomy Print, Neuroscience Medical Diagram Vintage Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=neuroscience+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=creator-rewards-when-myths-become-a-business-model-myths-and-misconcept-neuroscience-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="neuroscience wall art" data-ebay-reference="creator-rewards-when-myths-become-a-business-model-myths-and-misconcept-neuroscience-wall-art" target="_blank" rel="sponsored noopener noreferrer">Human Head &amp; Brain Anatomy Print, Neuroscience Medical Diagram Vintage Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=neuroscience+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=creator-rewards-when-myths-become-a-business-model-myths-and-misconcept-neuroscience-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="neuroscience wall art" data-ebay-reference="creator-rewards-when-myths-become-a-business-model-myths-and-misconcept-neuroscience-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for neuroscience wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: neuroscience wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=neuroscience+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=creator-rewards-when-myths-become-a-business-model-myths-and-misconcept-neuroscience-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="neuroscience wall art" data-ebay-reference="creator-rewards-when-myths-become-a-business-model-myths-and-misconcept-neuroscience-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=neuroscience+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=creator-rewards-when-myths-become-a-business-model-myths-and-misconcept-neuroscience-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="neuroscience wall art" data-ebay-reference="creator-rewards-when-myths-become-a-business-model-myths-and-misconcept-neuroscience-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Human Head &amp; Brain Anatomy Print, Neuroscience Medical Diagram Vintage Wall Art"><img src="{{ '/assets/images/marketplace-covers/2722a327da8a25413378.jpg' | relative_url }}" alt="Listing image for Human Head &amp; Brain Anatomy Print, Neuroscience Medical Diagram Vintage Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=neuroscience+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=creator-rewards-when-myths-become-a-business-model-myths-and-misconcept-neuroscience-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="neuroscience wall art" data-ebay-reference="creator-rewards-when-myths-become-a-business-model-myths-and-misconcept-neuroscience-wall-art" target="_blank" rel="sponsored noopener noreferrer">Human Head &amp; Brain Anatomy Print, Neuroscience Medical Diagram Vintage Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=neuroscience+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=creator-rewards-when-myths-become-a-business-model-myths-and-misconcept-neuroscience-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="neuroscience wall art" data-ebay-reference="creator-rewards-when-myths-become-a-business-model-myths-and-misconcept-neuroscience-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for neuroscience wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: neuroscience wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=neuroscience+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=creator-rewards-when-myths-become-a-business-model-myths-and-misconcept-neuroscience-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="neuroscience wall art" data-ebay-reference="creator-rewards-when-myths-become-a-business-model-myths-and-misconcept-neuroscience-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=neuroscience+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=creator-rewards-when-myths-become-a-business-model-myths-and-misconcept-neuroscience-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="neuroscience wall art" data-ebay-reference="creator-rewards-when-myths-become-a-business-model-myths-and-misconcept-neuroscience-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Neuroscience &amp; Coffee is happiness Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/4c352c23cc05d8544b10.jpg' | relative_url }}" alt="Listing image for Neuroscience &amp; Coffee is happiness Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=neuroscience+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=creator-rewards-when-myths-become-a-business-model-myths-and-misconcept-neuroscience-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="neuroscience wall art" data-ebay-reference="creator-rewards-when-myths-become-a-business-model-myths-and-misconcept-neuroscience-wall-art" target="_blank" rel="sponsored noopener noreferrer">Neuroscience &amp; Coffee is happiness Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=neuroscience+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=creator-rewards-when-myths-become-a-business-model-myths-and-misconcept-neuroscience-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="neuroscience wall art" data-ebay-reference="creator-rewards-when-myths-become-a-business-model-myths-and-misconcept-neuroscience-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for neuroscience wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: neuroscience wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=neuroscience+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=creator-rewards-when-myths-become-a-business-model-myths-and-misconcept-neuroscience-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="neuroscience wall art" data-ebay-reference="creator-rewards-when-myths-become-a-business-model-myths-and-misconcept-neuroscience-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=neuroscience+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=creator-rewards-when-myths-become-a-business-model-myths-and-misconcept-neuroscience-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="neuroscience wall art" data-ebay-reference="creator-rewards-when-myths-become-a-business-model-myths-and-misconcept-neuroscience-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Neuroscience &amp; Coffee is happiness Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/4c352c23cc05d8544b10.jpg' | relative_url }}" alt="Listing image for Neuroscience &amp; Coffee is happiness Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=neuroscience+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=creator-rewards-when-myths-become-a-business-model-myths-and-misconcept-neuroscience-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="neuroscience wall art" data-ebay-reference="creator-rewards-when-myths-become-a-business-model-myths-and-misconcept-neuroscience-wall-art" target="_blank" rel="sponsored noopener noreferrer">Neuroscience &amp; Coffee is happiness Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=neuroscience+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=creator-rewards-when-myths-become-a-business-model-myths-and-misconcept-neuroscience-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="neuroscience wall art" data-ebay-reference="creator-rewards-when-myths-become-a-business-model-myths-and-misconcept-neuroscience-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for neuroscience wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: neuroscience wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=neuroscience+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=creator-rewards-when-myths-become-a-business-model-myths-and-misconcept-neuroscience-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="neuroscience wall art" data-ebay-reference="creator-rewards-when-myths-become-a-business-model-myths-and-misconcept-neuroscience-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=neuroscience+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=creator-rewards-when-myths-become-a-business-model-myths-and-misconcept-neuroscience-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="neuroscience wall art" data-ebay-reference="creator-rewards-when-myths-become-a-business-model-myths-and-misconcept-neuroscience-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for i cant i have neuroscience school F Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/41d070aaf2887b2e55d8.jpg' | relative_url }}" alt="Listing image for i cant i have neuroscience school F Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=neuroscience+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=creator-rewards-when-myths-become-a-business-model-myths-and-misconcept-neuroscience-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="neuroscience wall art" data-ebay-reference="creator-rewards-when-myths-become-a-business-model-myths-and-misconcept-neuroscience-wall-art" target="_blank" rel="sponsored noopener noreferrer">i cant i have neuroscience school F Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=neuroscience+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=creator-rewards-when-myths-become-a-business-model-myths-and-misconcept-neuroscience-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="neuroscience wall art" data-ebay-reference="creator-rewards-when-myths-become-a-business-model-myths-and-misconcept-neuroscience-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for neuroscience wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: neuroscience wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=neuroscience+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=creator-rewards-when-myths-become-a-business-model-myths-and-misconcept-neuroscience-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="neuroscience wall art" data-ebay-reference="creator-rewards-when-myths-become-a-business-model-myths-and-misconcept-neuroscience-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=neuroscience+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=creator-rewards-when-myths-become-a-business-model-myths-and-misconcept-neuroscience-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="neuroscience wall art" data-ebay-reference="creator-rewards-when-myths-become-a-business-model-myths-and-misconcept-neuroscience-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for i cant i have neuroscience school F Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/41d070aaf2887b2e55d8.jpg' | relative_url }}" alt="Listing image for i cant i have neuroscience school F Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=neuroscience+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=creator-rewards-when-myths-become-a-business-model-myths-and-misconcept-neuroscience-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="neuroscience wall art" data-ebay-reference="creator-rewards-when-myths-become-a-business-model-myths-and-misconcept-neuroscience-wall-art" target="_blank" rel="sponsored noopener noreferrer">i cant i have neuroscience school F Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=neuroscience+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=creator-rewards-when-myths-become-a-business-model-myths-and-misconcept-neuroscience-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="neuroscience wall art" data-ebay-reference="creator-rewards-when-myths-become-a-business-model-myths-and-misconcept-neuroscience-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for neuroscience wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: neuroscience wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=neuroscience+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=creator-rewards-when-myths-become-a-business-model-myths-and-misconcept-neuroscience-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="neuroscience wall art" data-ebay-reference="creator-rewards-when-myths-become-a-business-model-myths-and-misconcept-neuroscience-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=neuroscience+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=creator-rewards-when-myths-become-a-business-model-myths-and-misconcept-neuroscience-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="neuroscience wall art" data-ebay-reference="creator-rewards-when-myths-become-a-business-model-myths-and-misconcept-neuroscience-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for SODIUM SMART, NEUROSCIENCE PUN GRAP Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/f67920c37351c768ae45.jpg' | relative_url }}" alt="Listing image for SODIUM SMART, NEUROSCIENCE PUN GRAP Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=neuroscience+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=creator-rewards-when-myths-become-a-business-model-myths-and-misconcept-neuroscience-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="neuroscience wall art" data-ebay-reference="creator-rewards-when-myths-become-a-business-model-myths-and-misconcept-neuroscience-wall-art" target="_blank" rel="sponsored noopener noreferrer">SODIUM SMART, NEUROSCIENCE PUN GRAP Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=neuroscience+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=creator-rewards-when-myths-become-a-business-model-myths-and-misconcept-neuroscience-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="neuroscience wall art" data-ebay-reference="creator-rewards-when-myths-become-a-business-model-myths-and-misconcept-neuroscience-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for neuroscience wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: neuroscience wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=neuroscience+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=creator-rewards-when-myths-become-a-business-model-myths-and-misconcept-neuroscience-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="neuroscience wall art" data-ebay-reference="creator-rewards-when-myths-become-a-business-model-myths-and-misconcept-neuroscience-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=neuroscience+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=creator-rewards-when-myths-become-a-business-model-myths-and-misconcept-neuroscience-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="neuroscience wall art" data-ebay-reference="creator-rewards-when-myths-become-a-business-model-myths-and-misconcept-neuroscience-wall-art" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=neuroscience+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=creator-rewards-when-myths-become-a-business-model-myths-and-misconcept-neuroscience-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="neuroscience wall art" data-ebay-reference="creator-rewards-when-myths-become-a-business-model-myths-and-misconcept-neuroscience-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for SODIUM SMART, NEUROSCIENCE PUN GRAP Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/f67920c37351c768ae45.jpg' | relative_url }}" alt="Listing image for SODIUM SMART, NEUROSCIENCE PUN GRAP Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=neuroscience+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=creator-rewards-when-myths-become-a-business-model-myths-and-misconcept-neuroscience-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="neuroscience wall art" data-ebay-reference="creator-rewards-when-myths-become-a-business-model-myths-and-misconcept-neuroscience-wall-art" target="_blank" rel="sponsored noopener noreferrer">SODIUM SMART, NEUROSCIENCE PUN GRAP Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=neuroscience+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=creator-rewards-when-myths-become-a-business-model-myths-and-misconcept-neuroscience-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="neuroscience wall art" data-ebay-reference="creator-rewards-when-myths-become-a-business-model-myths-and-misconcept-neuroscience-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for neuroscience wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: neuroscience wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=neuroscience+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=creator-rewards-when-myths-become-a-business-model-myths-and-misconcept-neuroscience-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="neuroscience wall art" data-ebay-reference="creator-rewards-when-myths-become-a-business-model-myths-and-misconcept-neuroscience-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=neuroscience+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=creator-rewards-when-myths-become-a-business-model-myths-and-misconcept-neuroscience-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="neuroscience wall art" data-ebay-reference="creator-rewards-when-myths-become-a-business-model-myths-and-misconcept-neuroscience-wall-art" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -592,7 +592,7 @@ Supporters argue these measures would weaken the business incentives behind myth
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -612,7 +612,7 @@ Supporters argue these measures would weaken the business incentives behind myth
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -644,7 +644,7 @@ Supporters argue these measures would weaken the business incentives behind myth
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -696,7 +696,7 @@ Supporters argue these measures would weaken the business incentives behind myth
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -741,7 +741,7 @@ Supporters argue these measures would weaken the business incentives behind myth
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -782,190 +782,190 @@ Supporters argue these measures would weaken the business incentives behind myth
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: insights.som.yale.edu  
    Title: how social media rewards misinformation  
-   Link: <a href="https://insights.som.yale.edu/insights/how-social-media-rewards-misinformation" target="_blank" rel="noopener noreferrer nofollow">https://insights.som.yale.edu/insights/how-social-media-rewards-misinformation</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>A majority of false stories are spread by a small number of frequent users, suggests a new study co-...Read more...</p></details>
+   Link:<a href="https://insights.som.yale.edu/insights/how-social-media-rewards-misinformation" target="_blank" rel="noopener noreferrer nofollow">https://insights.som.yale.edu/insights/how-social-media-rewards-misinformation</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A majority of false stories are spread by a small number of frequent users, suggests a new study co-...Read more...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: siepr.stanford.edu  
-   Link: <a href="https://siepr.stanford.edu/publications/working-paper/role-advertisers-and-platforms-monetizing-misinformation-descriptive-and" target="_blank" rel="noopener noreferrer nofollow">https://siepr.stanford.edu/publications/working-paper/role-advertisers-and-platforms-monetizing-misinformation-descriptive-and</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ned via advertising,examine how financing misinformation affects the advertisers...Read more...</p></details>
+   Link:<a href="https://siepr.stanford.edu/publications/working-paper/role-advertisers-and-platforms-monetizing-misinformation-descriptive-and" target="_blank" rel="noopener noreferrer nofollow">https://siepr.stanford.edu/publications/working-paper/role-advertisers-and-platforms-monetizing-misinformation-descriptive-and</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ned via advertising,examine how financing misinformation affects the advertisers...Read more...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: edmo.eu  
    Title: What is the Disinformation Economy?  
-   Link: <a href="https://edmo.eu/blog/what-is-the-disinformation-economy-and-how-to-counter-it/" target="_blank" rel="noopener noreferrer nofollow">https://edmo.eu/blog/what-is-the-disinformation-economy-and-how-to-counter-it/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>(And how to counter it)13 Jun 2025 — The financial incentives of the disinformation economy are staggering; [fake news](&amp;#123;&amp;#123; &#x27;fake-news/&#x27; | relative_url &amp;#125;&amp;#125;) websites rake in re...</p></details>
+   Link:<a href="https://edmo.eu/blog/what-is-the-disinformation-economy-and-how-to-counter-it/" target="_blank" rel="noopener noreferrer nofollow">https://edmo.eu/blog/what-is-the-disinformation-economy-and-how-to-counter-it/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(And how to counter it)13 Jun 2025 — The financial incentives of the disinformation economy are staggering; [fake news](&amp;#123;&amp;#123; &#x27;fake-news/&#x27; | relative_url &amp;#125;&amp;#125;) websites rake in re...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: blogs.hanken.fi  
    Title: the disinformation economy  
-   Link: <a href="https://blogs.hanken.fi/research/2025/06/04/the-disinformation-economy/" target="_blank" rel="noopener noreferrer nofollow">https://blogs.hanken.fi/research/2025/06/04/the-disinformation-economy/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>4 Jun 2025 — My research on the overlap between digital advertising and fake news suggests that the financial incentives of the disinform...</p></details>
+   Link:<a href="https://blogs.hanken.fi/research/2025/06/04/the-disinformation-economy/" target="_blank" rel="noopener noreferrer nofollow">https://blogs.hanken.fi/research/2025/06/04/the-disinformation-economy/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>4 Jun 2025 — My research on the overlap between digital advertising and fake news suggests that the financial incentives of the disinform...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: cmpf.eui.eu  
    Title: demonetisation of disinformation  
-   Link: <a href="https://cmpf.eui.eu/demonetisation-of-disinformation/" target="_blank" rel="noopener noreferrer nofollow">https://cmpf.eui.eu/demonetisation-of-disinformation/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>(De)monetisation of Disinformation: Can the actions of large...26 Mar 2024 — This blog explores the business of disinformation and expos...</p></details>
+   Link:<a href="https://cmpf.eui.eu/demonetisation-of-disinformation/" target="_blank" rel="noopener noreferrer nofollow">https://cmpf.eui.eu/demonetisation-of-disinformation/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(De)monetisation of Disinformation: Can the actions of large...26 Mar 2024 — This blog explores the business of disinformation and expos...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: opb.org  
    Title: think out loud uw study social media influencers misinformation  
-   Link: <a href="https://www.opb.org/article/2024/03/18/think-out-loud-uw-study-social-media-influencers-misinformation/" target="_blank" rel="noopener noreferrer nofollow">https://www.opb.org/article/2024/03/18/think-out-loud-uw-study-social-media-influencers-misinformation/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UW study reveals how social media influencers profit from...Mar 18, 2024 — The study looked at three Instagram influencers who spread va...</p></details>
+   Link:<a href="https://www.opb.org/article/2024/03/18/think-out-loud-uw-study-social-media-influencers-misinformation/" target="_blank" rel="noopener noreferrer nofollow">https://www.opb.org/article/2024/03/18/think-out-loud-uw-study-social-media-influencers-misinformation/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UW study reveals how social media influencers profit from...Mar 18, 2024 — The study looked at three Instagram influencers who spread va...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0305048325001537" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0305048325001537</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>creators would incorporate controversial content to strategically generate engagement [1], [2]. As underlined by the case of disinformati...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/abs/pii/S0305048325001537" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0305048325001537</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>creators would incorporate controversial content to strategically generate engagement [1], [2]. As underlined by the case of disinformati...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: axios.com  
    Title: With Tik Tok creator program, AI-sped misinformation pays  
-   Link: <a href="https://www.axios.com/2024/03/26/tik-tok-creator-program-ai-misinformation" target="_blank" rel="noopener noreferrer nofollow">https://www.axios.com/2024/03/26/tik-tok-creator-program-ai-misinformation</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The program pays creators based on &quot;qualified views&quot; and RPM (revenue per thousand views), incentivizing high engagement — something ofte...</p></details>
+   Link:<a href="https://www.axios.com/2024/03/26/tik-tok-creator-program-ai-misinformation" target="_blank" rel="noopener noreferrer nofollow">https://www.axios.com/2024/03/26/tik-tok-creator-program-ai-misinformation</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The program pays creators based on &quot;qualified views&quot; and RPM (revenue per thousand views), incentivizing high engagement — something ofte...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: today.usc.edu  
-   Link: <a href="https://today.usc.edu/usc-study-reveals-the-key-reason-why-fake-news-spreads-on-social-media/" target="_blank" rel="noopener noreferrer nofollow">https://today.usc.edu/usc-study-reveals-the-key-reason-why-fake-news-spreads-on-social-media/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>USC TodayStudy reveals key reason why fake news spreads on social...Jan 17, 2023 — Experimenting with different scenarios to see why fak...</p></details>
+   Link:<a href="https://today.usc.edu/usc-study-reveals-the-key-reason-why-fake-news-spreads-on-social-media/" target="_blank" rel="noopener noreferrer nofollow">https://today.usc.edu/usc-study-reveals-the-key-reason-why-fake-news-spreads-on-social-media/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>USC TodayStudy reveals key reason why fake news spreads on social...Jan 17, 2023 — Experimenting with different scenarios to see why fak...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: support.google.com  
    Title: Help Misinformation policies  
-   Link: <a href="https://support.google.com/youtube/answer/10834785?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://support.google.com/youtube/answer/10834785?hl=en</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Google HelpMisinformation policies - YouTube HelpCertain types of misleading or deceptive content with serious risk of egregious harm are...</p></details>
+   Link:<a href="https://support.google.com/youtube/answer/10834785?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://support.google.com/youtube/answer/10834785?hl=en</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Google HelpMisinformation policies - YouTube HelpCertain types of misleading or deceptive content with serious risk of egregious harm are...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0267364922000814" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0267364922000814</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The curious case of regulating false news on Googleby C Tan · 2022 · Cited by 19 — In this article, I highlight key features of selected...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/pii/S0267364922000814" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0267364922000814</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The curious case of regulating false news on Googleby C Tan · 2022 · Cited by 19 — In this article, I highlight key features of selected...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: sciencedirect.com  
    Title: Do you believe it?  
-   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0040162524007480" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0040162524007480</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Examining user engagement with fake...by N Chaudhuri · 2025 · Cited by 13 — However, not all users engage with fake news similarly; thos...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/abs/pii/S0040162524007480" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0040162524007480</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Examining user engagement with fake...by N Chaudhuri · 2025 · Cited by 13 — However, not all users engage with fake news similarly; thos...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: youtube.com  
    Title: The Business of Misinformation: How Falsehoods Become Profitable  
-   Link: <a href="https://www.youtube.com/watch?v=0hKqC5D4-7A" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=0hKqC5D4-7A</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Why Rage-Bait and Misinformation Are So Profitable for Creators...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=0hKqC5D4-7A" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=0hKqC5D4-7A</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Why Rage-Bait and Misinformation Are So Profitable for Creators...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: youtube.com  
    Title: Why Rage-Bait and Misinformation Are So Profitable for Creators  
-   Link: <a href="https://www.youtube.com/watch?v=2x34m-i722o" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=2x34m-i722o</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How the Creator Economy Incentivizes Sensationalism...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=2x34m-i722o" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=2x34m-i722o</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How the Creator Economy Incentivizes Sensationalism...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: youtube.com  
    Title: How the Creator Economy Incentivizes Sensationalism  
-   Link: <a href="https://www.youtube.com/watch?v=l4gH14J121k" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=l4gH14J121k</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Economics of Conspiracy Theories on Social Media...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=l4gH14J121k" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=l4gH14J121k</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Economics of Conspiracy Theories on Social Media...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: youtube.com  
    Title: The Economics of Conspiracy Theories on Social Media  
-   Link: <a href="https://www.youtube.com/watch?v=O15e6x8W8pE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=O15e6x8W8pE</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Why Platforms Struggle to Stop Profitable Misinformation...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=O15e6x8W8pE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=O15e6x8W8pE</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Why Platforms Struggle to Stop Profitable Misinformation...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: youtube.com  
    Title: Why Platforms Struggle to Stop Profitable Misinformation  
-   Link: <a href="https://www.youtube.com/watch?v=Xh0Yp_X5D8k" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Xh0Yp_X5D8k</a>  
+   Link:<a href="https://www.youtube.com/watch?v=Xh0Yp_X5D8k" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Xh0Yp_X5D8k</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: darden.virginia.edu  
-   Link: <a href="https://www.darden.virginia.edu/sites/default/files/inline-files/2415%20Eesley%2C%20Chuck.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.darden.virginia.edu/sites/default/files/inline-files/2415%20Eesley%2C%20Chuck.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UVA Darden School of BusinessThe Role of Advertisers and Platforms in Monetizing...by W Ahmad · Cited by 22 — The financial motivation t...</p></details>
+   Link:<a href="https://www.darden.virginia.edu/sites/default/files/inline-files/2415%20Eesley%2C%20Chuck.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.darden.virginia.edu/sites/default/files/inline-files/2415%20Eesley%2C%20Chuck.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UVA Darden School of BusinessThe Role of Advertisers and Platforms in Monetizing...by W Ahmad · Cited by 22 — The financial motivation t...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: heinz.cmu.edu  
-   Link: <a href="https://www.heinz.cmu.edu/media/2024/June/firms-desire-for-ad-revenue-tied-to-inadvertently-financing-online-misinformation-outlets" target="_blank" rel="noopener noreferrer nofollow">https://www.heinz.cmu.edu/media/2024/June/firms-desire-for-ad-revenue-tied-to-inadvertently-financing-online-misinformation-outlets</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Heinz CollegeFirms&#x27; Desire for Ad Revenue Tied to Inadvertently...The study found that advertising on misinformation websites is pervasi...</p></details>
+   Link:<a href="https://www.heinz.cmu.edu/media/2024/June/firms-desire-for-ad-revenue-tied-to-inadvertently-financing-online-misinformation-outlets" target="_blank" rel="noopener noreferrer nofollow">https://www.heinz.cmu.edu/media/2024/June/firms-desire-for-ad-revenue-tied-to-inadvertently-financing-online-misinformation-outlets</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Heinz CollegeFirms&#x27; Desire for Ad Revenue Tied to Inadvertently...The study found that advertising on misinformation websites is pervasi...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: ijoc.org  
-   Link: <a href="https://ijoc.org/index.php/ijoc/article/view/21128/4494" target="_blank" rel="noopener noreferrer nofollow">https://ijoc.org/index.php/ijoc/article/view/21128/4494</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>International Journal of CommunicationView of Vaccine Misinformation for Profitby RE Moran · 2024 · Cited by 31 — Vaccine Misinformation...</p></details>
+   Link:<a href="https://ijoc.org/index.php/ijoc/article/view/21128/4494" target="_blank" rel="noopener noreferrer nofollow">https://ijoc.org/index.php/ijoc/article/view/21128/4494</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>International Journal of CommunicationView of Vaccine Misinformation for Profitby RE Moran · 2024 · Cited by 31 — Vaccine Misinformation...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: theguardian.com  
    Title: fake anti labour video billion views youtube 2025  
-   Link: <a href="https://www.theguardian.com/technology/2025/dec/13/fake-anti-labour-video-billion-views-youtube-2025" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/technology/2025/dec/13/fake-anti-labour-video-billion-views-youtube-2025</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A study by nonprofit Reset Tech revealed these channels collectively amassed 5.3 million subscribers and produced 56,000 videos, with Sta...</p></details>
+   Link:<a href="https://www.theguardian.com/technology/2025/dec/13/fake-anti-labour-video-billion-views-youtube-2025" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/technology/2025/dec/13/fake-anti-labour-video-billion-views-youtube-2025</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A study by nonprofit Reset Tech revealed these channels collectively amassed 5.3 million subscribers and produced 56,000 videos, with Sta...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: digitallyright.org  
    Title: Other platforms, such as.Read more  
-   Link: <a href="https://digitallyright.org/wp-content/uploads/2025/09/Misinformation-on-YouTube-High-Profits-Low-Moderation.pdf" target="_blank" rel="noopener noreferrer nofollow">https://digitallyright.org/wp-content/uploads/2025/09/Misinformation-on-YouTube-High-Profits-Low-Moderation.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Digitally RightMisinformation on YouTube: High Profits, Low ModerationIt is not always necessary to remove all misinformation; however, u...</p></details>
+   Link:<a href="https://digitallyright.org/wp-content/uploads/2025/09/Misinformation-on-YouTube-High-Profits-Low-Moderation.pdf" target="_blank" rel="noopener noreferrer nofollow">https://digitallyright.org/wp-content/uploads/2025/09/Misinformation-on-YouTube-High-Profits-Low-Moderation.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Digitally RightMisinformation on YouTube: High Profits, Low ModerationIt is not always necessary to remove all misinformation; however, u...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: transparency.meta.com  
-   Link: <a href="https://transparency.meta.com/en-gb/policies/community-standards/misinformation/" target="_blank" rel="noopener noreferrer nofollow">https://transparency.meta.com/en-gb/policies/community-standards/misinformation/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Transparency CentreMeta regularly publishes reports to give our community visibility into Community Standards enforcement, government r...</p></details>
+   Link:<a href="https://transparency.meta.com/en-gb/policies/community-standards/misinformation/" target="_blank" rel="noopener noreferrer nofollow">https://transparency.meta.com/en-gb/policies/community-standards/misinformation/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Transparency CentreMeta regularly publishes reports to give our community visibility into Community Standards enforcement, government r...</p></details>
 
 ### Additional References
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: thecjid.org  
-   Link: <a href="https://thecjid.org/wp-content/uploads/2024/12/Impact-of-Financial-Incentives.DAIDAC.pdf" target="_blank" rel="noopener noreferrer nofollow">https://thecjid.org/wp-content/uploads/2024/12/Impact-of-Financial-Incentives.DAIDAC.pdf</a>  
+   Link:<a href="https://thecjid.org/wp-content/uploads/2024/12/Impact-of-Financial-Incentives.DAIDAC.pdf" target="_blank" rel="noopener noreferrer nofollow">https://thecjid.org/wp-content/uploads/2024/12/Impact-of-Financial-Incentives.DAIDAC.pdf</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: sydney.edu.au  
    Title: influencers promoting overwhelmingly misleading information  
-   Link: <a href="https://www.sydney.edu.au/news-opinion/news/2025/02/27/--influencers-promoting--overwhelmingly--misleading-information-.html" target="_blank" rel="noopener noreferrer nofollow">https://www.sydney.edu.au/news-opinion/news/2025/02/27/--influencers-promoting--overwhelmingly--misleading-information-.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>social media is an open sewer of medical misinformation. “This is a public health crisis that exacerbates overdiagnosis and threatens the...</p></details>
+   Link:<a href="https://www.sydney.edu.au/news-opinion/news/2025/02/27/--influencers-promoting--overwhelmingly--misleading-information-.html" target="_blank" rel="noopener noreferrer nofollow">https://www.sydney.edu.au/news-opinion/news/2025/02/27/--influencers-promoting--overwhelmingly--misleading-information-.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>social media is an open sewer of medical misinformation. “This is a public health crisis that exacerbates overdiagnosis and threatens the...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: publications.parliament.uk  
    Title: UK Parliament Disinformation and 'fake news': Final Report  
-   Link: <a href="https://publications.parliament.uk/pa/cm201719/cmselect/cmcumeds/1791/1791.pdf" target="_blank" rel="noopener noreferrer nofollow">https://publications.parliament.uk/pa/cm201719/cmselect/cmcumeds/1791/1791.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UK ParliamentDisinformation and &#x27;fake news&#x27;: Final Report - Parliament UK18 Feb 2019 — This is the Final Report in an inquiry on disinfor...</p></details>
+   Link:<a href="https://publications.parliament.uk/pa/cm201719/cmselect/cmcumeds/1791/1791.pdf" target="_blank" rel="noopener noreferrer nofollow">https://publications.parliament.uk/pa/cm201719/cmselect/cmcumeds/1791/1791.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UK ParliamentDisinformation and &#x27;fake news&#x27;: Final Report - Parliament UK18 Feb 2019 — This is the Final Report in an inquiry on disinfor...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: en.dismislab.com  
    Title: misinformation on youtube high profits low moderation  
-   Link: <a href="https://en.dismislab.com/misinformation-on-youtube-high-profits-low-moderation/" target="_blank" rel="noopener noreferrer nofollow">https://en.dismislab.com/misinformation-on-youtube-high-profits-low-moderation/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>on YouTube: High profits, low moderation10 Jul 2024 — This research further investigates how YouTube allows the monetization of misinform...</p></details>
+   Link:<a href="https://en.dismislab.com/misinformation-on-youtube-high-profits-low-moderation/" target="_blank" rel="noopener noreferrer nofollow">https://en.dismislab.com/misinformation-on-youtube-high-profits-low-moderation/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>on YouTube: High profits, low moderation10 Jul 2024 — This research further investigates how YouTube allows the monetization of misinform...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: carlosdiazruiz.com  
    Title: how do digital platforms profit from disinformation  
-   Link: <a href="https://www.carlosdiazruiz.com/blog/how-do-digital-platforms-profit-from-disinformation" target="_blank" rel="noopener noreferrer nofollow">https://www.carlosdiazruiz.com/blog/how-do-digital-platforms-profit-from-disinformation</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>7 Dec 2025 — A research paper published in the journal New Media &amp; Society shows the digital market for online advertising produces the f...</p></details>
+   Link:<a href="https://www.carlosdiazruiz.com/blog/how-do-digital-platforms-profit-from-disinformation" target="_blank" rel="noopener noreferrer nofollow">https://www.carlosdiazruiz.com/blog/how-do-digital-platforms-profit-from-disinformation</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>7 Dec 2025 — A research paper published in the journal New Media &amp; Society shows the digital market for online advertising produces the f...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: mdpi.com  
-   Link: <a href="https://www.mdpi.com/2227-7390/13/23/3815" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/2227-7390/13/23/3815</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Content Value Dynamics in Digital Platforms: Strategic...by B Bian · 2025 — A high advertising intensity will reduce user experience and...</p></details>
+   Link:<a href="https://www.mdpi.com/2227-7390/13/23/3815" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/2227-7390/13/23/3815</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Content Value Dynamics in Digital Platforms: Strategic...by B Bian · 2025 — A high advertising intensity will reduce user experience and...</p></details>
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCSocial media and the spread of misinformation  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11955583/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11955583/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Keywords: misinformation, social media, disinformation...Read more...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11955583/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11955583/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Keywords: misinformation, social media, disinformation...Read more...</p></details>
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: rmit.edu.au  
    Title: tiktok information  
-   Link: <a href="https://www.rmit.edu.au/news/media-releases-and-expert-comments/2023/october/tiktok-information" target="_blank" rel="noopener noreferrer nofollow">https://www.rmit.edu.au/news/media-releases-and-expert-comments/2023/october/tiktok-information</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>People increasingly turn to influencers for information, and...16 Oct 2023 — “There have been reports of disinformation and fake news be...</p></details>
+   Link:<a href="https://www.rmit.edu.au/news/media-releases-and-expert-comments/2023/october/tiktok-information" target="_blank" rel="noopener noreferrer nofollow">https://www.rmit.edu.au/news/media-releases-and-expert-comments/2023/october/tiktok-information</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>People increasingly turn to influencers for information, and...16 Oct 2023 — “There have been reports of disinformation and fake news be...</p></details>
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: academic.oup.com  
-   Link: <a href="https://academic.oup.com/heapro/article/40/2/daaf023/8100645" target="_blank" rel="noopener noreferrer nofollow">https://academic.oup.com/heapro/article/40/2/daaf023/8100645</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>media and the spread of misinformationby E Denniss · 2025 · Cited by 114 — Third, internet robots or &#x27;bots&#x27; are known to automate the pub...</p></details>
+   Link:<a href="https://academic.oup.com/heapro/article/40/2/daaf023/8100645" target="_blank" rel="noopener noreferrer nofollow">https://academic.oup.com/heapro/article/40/2/daaf023/8100645</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>media and the spread of misinformationby E Denniss · 2025 · Cited by 114 — Third, internet robots or &#x27;bots&#x27; are known to automate the pub...</p></details>
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10520039/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10520039/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>by DA Broniatowski · 2023 · Cited by 7 — [https://www.bbc.com/future/article/20190528-i-was-a-macedonian-fake-news-writer](https://www.bbc.com/future/article/20190528-i-was-a-macedonian-fake-news-writer) (2019)...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10520039/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10520039/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by DA Broniatowski · 2023 · Cited by 7 — [https://www.bbc.com/future/article/20190528-i-was-a-macedonian-fake-news-writer](https://www.bbc.com/future/article/20190528-i-was-a-macedonian-fake-news-writer) (2019)...</p></details>
 
 2. Sz
